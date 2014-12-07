@@ -1,0 +1,15 @@
+{
+  "lockView": true,
+  "usrDir": "usr",
+  "debugLevel": 0,
+  "filters": [
+    {
+      "file": "src/searchFilter.js",
+      "name": "Search chemicals"
+    }
+  ],
+  "modules": {
+    "folders": ["modules/types"]
+  },
+  "header": false
+}
