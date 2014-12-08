@@ -1,0 +1,12 @@
+{
+  "visualizer": {
+    "version": "59fe0640733a6da23a638127cfa9b3e1107f829a",
+    "del": [
+      "components/jsNMR",
+      "components/x2js"
+    ]
+  },
+  "actelion": {
+    "version": "2.0.0"
+  }
+}

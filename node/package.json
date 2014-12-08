@@ -1,0 +1,11 @@
+{
+  "name": "wikipedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.1.0",
+    "tarball-extract": "0.0.3"
+  }
+}
