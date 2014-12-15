@@ -1,5 +1,9 @@
 #!/usr/bin/env node
 
+if (process.env === 'win32') {
+    throw new Error('This script is not compatible with Windows platform');
+}
+
 var fs = require('fs'),
     join = require('path').join,
     request = require('superagent'),
@@ -80,7 +84,9 @@ function updateVisualizer(visualizer) {
     }
 
     if (lastVisu.version !== visualizer.version) {
-        lastVisu = {}; // Need to redo everything if the version changes
+        lastVisu = {
+            version: visualizer.version
+        }; // Need to redo everything if the version changes
     }
 
     saveLastVisu();

@@ -6,6 +6,7 @@
   "private": true,
   "devDependencies": {
     "del": "^1.1.0",
-    "tarball-extract": "0.0.3"
+    "tarball-extract": "0.0.3",
+    "superagent": "^0.21.0"
   }
 }
