@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
-if (process.env === 'win32') {
-    throw new Error('This script is not compatible with Windows platform');
+if (process.platform === 'win32') {
+    console.log('This script is not compatible with Windows platform');
+    process.exit(1);
 }
 
 var fs = require('fs'),
