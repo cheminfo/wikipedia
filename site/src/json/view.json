@@ -1,5 +1,5 @@
 {
-  "version": "2.9.6",
+  "version": "2.9.8",
   "grid": {
     "xWidth": 10,
     "yHeight": 10,
@@ -53,8 +53,8 @@
             "top": 0
           },
           "size": {
-            "width": 50,
-            "height": 41
+            "width": 50.01818182468414,
+            "height": 41.01818182468414
           },
           "bgColor": [
             255,
@@ -203,8 +203,8 @@
             "top": 0
           },
           "size": {
-            "width": 118,
-            "height": 104
+            "width": 118.01818182468415,
+            "height": 104.01818182468415
           },
           "bgColor": [
             255,
@@ -338,8 +338,8 @@
             "top": 46
           },
           "size": {
-            "width": 50,
-            "height": 46
+            "width": 50.01818182468414,
+            "height": 46.01818182468414
           },
           "zIndex": 0,
           "display": true,
@@ -410,8 +410,8 @@
             "top": 0
           },
           "size": {
-            "width": 96,
-            "height": 27
+            "width": 96.01818182468415,
+            "height": 27.01818182468414
           },
           "zIndex": 0,
           "display": true,
@@ -609,8 +609,8 @@
             "top": 28
           },
           "size": {
-            "width": 96,
-            "height": 64
+            "width": 96.01818182468415,
+            "height": 64.01818182468415
           },
           "zIndex": 0,
           "display": true,
@@ -643,18 +643,21 @@
     {
       "varname": "molecules",
       "jpath": [
+        "database",
         "molecules"
       ]
     },
     {
       "varname": "queryOptions",
       "jpath": [
+        "database",
         "queryOptions"
       ]
     },
     {
       "varname": "query",
       "jpath": [
+        "database",
         "query"
       ]
     }
