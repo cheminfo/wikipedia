@@ -5,11 +5,10 @@ define(['src/util/api', '../../actelion/actelion'], function (API, ACT) {
             resolve(value);
 
             var molfile, options;
-
             if(value.__name === 'query') {
                 molfile = value;
                 options = API.getData('queryOptions');
-            } else if(value.__name === 'options') {
+            } else if(value.__name === 'queryOptions') {
                 options = value;
                 molfile = API.getData('query');
             }
@@ -65,17 +64,25 @@ define(['src/util/api', '../../actelion/actelion'], function (API, ACT) {
                 {
                     var index = queryMol.getIndex();
                     var targetMW = queryMol.getMolecularFormula().getRelativeWeight();
+                    var targetID = queryMol.getIDCode();
                     var intermediate = [];
+                    var similarity;
                     for (var i = 0, ii = molecules.length; i < ii; i++) {
-                        var similarity = ACT.SSSearchWithIndex.getTanimotoSimilarity(index, molecules[i].act_idx) * 100000 - Math.abs(targetMW - molecules[i].mw) / 1000;
+                        if (String(molecules[i].actID.value) === targetID) {
+                            similarity=1e10;
+                        } else {
+                            similarity = ACT.SSSearchWithIndex.getTanimotoSimilarity(index, molecules[i].act_idx) * 100000 - Math.abs(targetMW - molecules[i].mw) / 1000;
+                        }
                         intermediate.push([molecules[i], similarity]);
                     }
                     intermediate.sort(function (a, b) {
                         return b[1] - a[1];
                     });
+
                     for (var i = 0, ii = intermediate.length; i < ii; i++) {
                         result.push(intermediate[i][0]);
                     }
+
                     break;
                 }
             }
