@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0.00000000"
+   y="0.00000000"
+   width="500.00000"
+   height="500.00000"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6453">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000"
+         offset="0.00000000"
+         id="stop6455" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1.0000000"
+         offset="1.0000000"
+         id="stop6457" />
+    </linearGradient>
+    <radialGradient
+       cx="171.20810"
+       cy="196.85463"
+       r="200.00000"
+       fx="171.20810"
+       fy="196.85463"
+       id="radialGradient6459"
+       xlink:href="#linearGradient6453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.040418,0.796229,-0.814518,1.064316,153.4218,-150.4353)" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       d="M 450.00000 255.00000 A 200.00000 205.00000 0 1 1  50.000000,255.00000 A 200.00000 205.00000 0 1 1  450.00000 255.00000 z"
+       style="opacity:1.0000000;fill:url(#radialGradient6459);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:8.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.00000000;stroke-opacity:1.0000000"
+       id="path5725" />
+  </g>
+</svg>

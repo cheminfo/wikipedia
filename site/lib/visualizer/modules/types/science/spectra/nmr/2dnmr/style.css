@@ -1,0 +1,19 @@
+
+table.nmr-wrapper {
+	height: 100%;
+	width: 100%;
+	table-layout: fixed;
+}
+
+table.nmr-wrapper td {
+	border: none;
+}
+
+
+td.nmr-main {
+	width: 80%;
+}
+
+tr.nmr-main {
+	height: 80%;
+}

@@ -1,0 +1,12 @@
+#mod_panzoom .buttons {
+  height: 25px;
+}
+
+
+.parent {
+  position: absolute;
+}
+
+.transparent {
+  opacity: 0.4;
+}

@@ -1,0 +1,12 @@
+.ci-module-webservice_search label {
+	width: 150px;
+	font-weight: bold;
+	float: left;
+	padding-top: 4px;
+}
+
+.ci-module-webservice_search .Search > div {
+	padding-left: 5px;
+	margin-top: 8px;
+	
+}

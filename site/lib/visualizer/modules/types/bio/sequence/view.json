@@ -1,0 +1,125 @@
+{
+	"grid": {
+		"layers": {
+			"Default layer": {
+				"name": "Default layer"
+			}
+		},
+		"xWidth": 10,
+		"yHeight": 10
+	},
+	"version": "2.4.0b1",
+	"modules": [
+		{
+			"url": "modules/types/bio/sequence/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 1,
+						"top": 0
+					},
+					"size": {
+						"width": 59,
+						"height": 35
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgcolor": [
+						[
+							255,
+							255,
+							255,
+							0
+						]
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 1,
+			"vars_in": [
+				{}
+			],
+			"actions_in": {},
+			"title": "Untitled",
+			"vars_out": [
+				{
+					"event": "onSequenceSelectionChanged",
+					"rel": "sequence",
+					"jpath": [
+						""
+					],
+					"name": "aa"
+				}
+			],
+			"actions_out": {}
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<p>Start: {{aa.start}}</p>\n<p>End: {{aa.end}}</p>"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 61,
+						"top": 0
+					},
+					"size": {
+						"width": 22,
+						"height": 28
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgcolor": [
+						[
+							255,
+							255,
+							255,
+							0
+						]
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 2,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "aa"
+				}
+			],
+			"actions_in": {},
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": {}
+		}
+	],
+	"variables": [],
+	"pouchvariables": [],
+	"configuration": {
+		"title": "No title"
+	}
+}

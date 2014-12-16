@@ -1,0 +1,20 @@
+{
+    "name": "sdf-parser",
+    "version": "1.0.0",
+    "main": [
+        "dist/sdf-parser.js"
+    ],
+    "description": "SDF Parser",
+    "moduleType": [
+        "amd",
+        "globals",
+        "node"
+    ],
+    "keywords": [
+    ],
+    "license": "MIT",
+    "ignore": [
+        "src/*",
+        "test/*"
+    ]
+}

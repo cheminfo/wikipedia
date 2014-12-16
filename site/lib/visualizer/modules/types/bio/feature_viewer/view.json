@@ -1,0 +1,123 @@
+{
+	"grid": {
+		"layers": {
+			"Default layer": {
+				"name": "Default layer"
+			}
+		},
+		"xWidth": 10,
+		"yHeight": 10
+	},
+	"version": "2.4.0b1",
+	"modules": [
+		{
+			"url": "modules/types/bio/feature_viewer/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 3,
+						"top": 1
+					},
+					"size": {
+						"width": 77,
+						"height": 46
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgcolor": [
+						[
+							255,
+							255,
+							255,
+							0
+						]
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 1,
+			"vars_in": [],
+			"actions_in": {},
+			"title": "Untitled",
+			"vars_out": [
+				{
+					"event": "onFeatureMouseOver",
+					"rel": "feature",
+					"jpath": [
+						""
+					],
+					"name": "feature"
+				}
+			],
+			"actions_out": {}
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<p> Label: {{feature.featureLabel}}</p>\n<p> Start: {{feature.featureStart}}</p>\n<p> End: {{feature.featureEnd}}</p>"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 91,
+						"top": 13
+					},
+					"size": {
+						"width": 23,
+						"height": 26
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgcolor": [
+						[
+							255,
+							255,
+							255,
+							0
+						]
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 2,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "feature"
+				}
+			],
+			"actions_in": {},
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": {}
+		}
+	],
+	"variables": [],
+	"pouchvariables": [],
+	"configuration": {
+		"title": "No title"
+	}
+}

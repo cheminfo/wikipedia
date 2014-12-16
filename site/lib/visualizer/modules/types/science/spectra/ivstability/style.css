@@ -1,0 +1,19 @@
+
+
+.ivstab .iv {
+	float: right;
+	width: 500px;
+	height: 200px;
+}
+
+.ivstab h2 {
+	padding-left: 10px;
+	background-color: #f0f0f0;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.ivstab .stab {
+	width: 700px;
+	float: left;
+}

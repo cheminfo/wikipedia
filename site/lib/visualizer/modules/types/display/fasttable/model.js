@@ -1,0 +1,1 @@
+define(["modules/types/display/jqgrid/model"],function(a){return a});

@@ -1,0 +1,9 @@
+
+.ci-module-object_editor .bi-form-section-header {
+	display: none;
+}
+
+.ci-module-object_editor .bi-form-section-content {
+	padding: 5px;
+	border: none !important;
+}

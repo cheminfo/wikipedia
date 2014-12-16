@@ -1,0 +1,22 @@
+
+.ci-module-dragdrop .ci-module-content {
+    display: table;
+}
+
+.dragdropzone {
+    width: 100%;
+    height: 100%;
+
+    vertical-align: middle;
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.5);
+    border: 10px dashed rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.dragdrop-over {
+    background-color: rgba(231, 242, 196, 0.2);
+}

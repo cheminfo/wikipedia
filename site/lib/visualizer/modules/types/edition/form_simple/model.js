@@ -1,0 +1,1 @@
+define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return c.prototype=$.extend(!0,{},a,{getjPath:function(a){var c=[];switch(a){case"formValue":b.getJPathsFromElement(this.module.view.formValue,c)}return c}}),c});

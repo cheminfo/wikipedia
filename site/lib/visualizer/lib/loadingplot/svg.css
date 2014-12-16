@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+svg, html {
+	padding: 0px;
+	margin: 0px;
+}
+
+text {
+	font-family: Arial;
+	
+
+}
+
+.highlight {
+	-webkit-transition-duration: 400ms;
+	-webkit-transform-origin: 50% 50%;
+	-webkit-transform: scale(2, 2);
+}
+
+.nothighlight {
+	transform: none;
+	box-shadow: 10px 10px 10px black;
+	-webkit-transform: none;
+}

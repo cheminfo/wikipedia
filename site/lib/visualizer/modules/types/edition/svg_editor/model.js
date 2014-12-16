@@ -1,0 +1,1 @@
+define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return c.prototype=$.extend(!0,{},a,{getValue:function(){return this.dataValue},getjPath:function(a){switch(a){case"info":return this.module._data?b.getJPathsFromElement(this.module._data):[];default:return[]}}}),c});

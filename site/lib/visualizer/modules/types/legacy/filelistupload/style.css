@@ -1,0 +1,52 @@
+.ci-fileupload {
+	height: 100%;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.ci-fileupload li {
+	margin: 0px;
+	padding: 0px;
+	text-indent: 0px;
+	
+	padding-left: 5px;
+	padding-top: 4px;
+	
+	padding-bottom: 4px;
+	
+	border-bottom: 1px solid #888888;
+
+}
+
+
+.ci-fileupload a:nth-child(2n) li {
+	background-color: #c0c0c0;
+}
+
+
+.ci-fileupload a:nth-child(2n+1) li {
+	background-color: #f0f0f0;
+}
+
+.ci-fileupload a {
+	text-decoration: none;
+	color: black;
+}
+
+.ci-fileupload .file-filename {
+	font-size: 1.3em;
+	margin-bottom: 3px;
+}
+
+.ci-fileupload .file-size {
+	font-size: 0.9em;
+	color: #333333;
+}
+
+.ci-fileupload .file-type {
+	float: right;
+	color: #333333;
+	padding-right: 5px;
+}

@@ -1,0 +1,1 @@
+define(["../../fieldlistelement","./element"],function(a,b){var c=function(){};return c.prototype=new a,c.prototype=$.extend(c.prototype,b.prototype,{_makeDom:function(){return this.__makeDom(),this.options.multiple&&this.dom.append(this.makeDuplicator()),this.checkValue(),this.dom}}),c});

@@ -1,0 +1,7 @@
+.ci-module-fancytree table:focus {
+    outline: none;
+}
+
+.ci-module-fancytree span.fancytree-node {
+    width: auto;
+}

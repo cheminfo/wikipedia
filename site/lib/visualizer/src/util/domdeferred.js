@@ -1,0 +1,1 @@
+define(function(){var a=$.Deferred();return{notify:function(b){a.notify(b)},progress:a.progress}});
