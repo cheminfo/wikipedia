@@ -13,7 +13,8 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
         var molecules = API.getData('molecules');
         if (molecules && molecules.length) {
             var l = molecules.length,
-                db = new Array(l);
+                db = new Array(l),
+                result = new Array(l);
             API.cache('db', db);
             var timer = Debug.timer();
             var i = 0, ii, molecule;
@@ -32,6 +33,7 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                     newEntry.molecule = ACT.Molecule.fromIDCode(molecule.actID.value, false);
                     newEntry.index = i;
                     db[i] = newEntry;
+                    result[i] = molecule;
                 }
 
                 return ii !== l
@@ -41,6 +43,7 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                 });
             }, function () {
                 Debug.debug(timer.time('ms'));
+                API.createData('searchResult', result);
                 API.stopLoading('mol');
             });
 
