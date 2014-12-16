@@ -1,7 +1,7 @@
 {
   "lockView": false,
   "usrDir": "usr",
-  "debugLevel": 0,
+  "debugLevel": 5,
   "filters": [
     {
       "file": "src/searchFilter.js",
