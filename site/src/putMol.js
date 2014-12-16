@@ -1,5 +1,4 @@
-define(['src/util/api', '../lib/actelion/actelion'], function (API, ACT) {
-
+define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
     return function putMol() {
         var hover = API.getData('hover');
         var act;

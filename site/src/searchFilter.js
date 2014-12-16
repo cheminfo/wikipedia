@@ -1,4 +1,4 @@
-define(['src/util/api', '../../actelion/actelion'], function (API, ACT) {
+define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
     return {
         filter: function (value, resolve, reject) {
 
