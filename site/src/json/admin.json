@@ -1,0 +1,31 @@
+{
+  "lockView": false,
+  "usrDir": "usr",
+  "debugLevel": 0,
+  "filters": [
+    {
+      "file": "src/searchFilter.js",
+      "name": "Search chemicals"
+    }
+  ],
+  "modules": {
+    "folders": ["modules/types"]
+  },
+  "header": {
+    "height": "30px",
+    "elements": [
+      {
+        "type": "copyview",
+        "label": "Copy view"
+      },
+      {
+        "type": "pasteview",
+        "label": "Paste view"
+      },
+      {
+        "type": "feedback",
+        "label": "Feedback"
+      }
+    ]
+  }
+}
