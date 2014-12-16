@@ -1,9 +1,10 @@
 {
   "visualizer": {
-    "version": "v2.9.8",
+    "version": "c2c7b0cade5c939fde25958230128ace36ab9829",
     "del": [
       "components/jsNMR",
-      "lib/biojs-1.0"
+      "lib/biojs-1.0",
+      "modules/types/science/chemistry/jsmol"
     ]
   },
   "actelion": {
