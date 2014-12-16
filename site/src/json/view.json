@@ -53,8 +53,8 @@
             "top": 0
           },
           "size": {
-            "width": 50.01818182468414,
-            "height": 41.01818182468414
+            "width": 50,
+            "height": 41
           },
           "bgColor": [
             255,
@@ -167,75 +167,6 @@
       "zindex": 3
     },
     {
-      "url": "modules/types/edition/filter_editor/",
-      "id": 3,
-      "title": "Untitled",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "script": [
-                "var molfile = API.getData('query');\nvar options = API.getData('queryOptions');\nvar molecules = API.getData('molecules');\n\nvar result = [];\n\nif (!molfile || !molfile.get() || !options || !molecules) {\n    for(var i = 0, ii = molecules.length; i < ii; i++) {\n        result.push(molecules[i]);\n    }\n    return API.createData('searchResult', result);\n}\n\nvar queryMol = ACT.Molecule.fromMolfile(molfile.get());\nvar mode = String(options.get('searchMode'));\n\nswitch(mode) {\n    case 'Exact structure': {\n        var idcode = queryMol.getIDCode();\n        for (var i = 0, ii = molecules.length; i < ii; i++) {\n            if(String(molecules[i].actID.value) === idcode) {\n                result = [molecules[i]];\n                break;\n            }\n        }\n        break;\n    }\n    case 'Substructure': {\n        queryMol.setFragment(true);\n        var queryIndex = queryMol.index;\n        var searcher = new ACT.SSSearchWithIndex();\n        searcher.setFragment(queryMol, queryIndex);\n        var db = API.cache('db');\n        for(var i = 0, ii = db.length; i < ii; i++) {\n            var actmol = db[i].molecule,\n                mol = molecules[db[i].index];\n            searcher.setMolecule(actmol, mol.act_idx);\n            if(searcher.isFragmentInMolecule()) {\n                result.push(mol);\n            }\n        }\n        result.sort(function(a,b) {return a.mw-b.mw;})\n        \n        break;\n    }\n    case 'Similarity': {\n        var index = queryMol.getIndex();\n        var targetMW=queryMol.getMolecularFormula().getRelativeWeight();\n        var intermediate = [];\n        for (var i = 0, ii = molecules.length; i < ii; i++) {\n            var similarity=ACT.SSSearchWithIndex.getTanimotoSimilarity(index, molecules[i].act_idx)*100000-Math.abs(targetMW-molecules[i].mw)/1000;\n            intermediate.push([molecules[i],similarity]);\n        }\n        intermediate.sort(function(a,b) {\n            return b[1] - a[1];\n        });\n        for (var i = 0, ii = intermediate.length; i < ii; i++) {\n            result.push(intermediate[i][0]);\n        }\n        break;\n    }\n}\n\n// if there is some result we get the wikipedia article if the first article changed !\n\nif (result.length>0) {\n    var oldLink=\"\";\n    if (API.getData(\"link\")) {\n        var oldLink=API.getData('link')+\"\";\n    }\n    var newLink=result[0].link+\"\";\n    if (oldLink!=newLink) {\n        API.createData('link', result[0].link);\n    }\n}\n\n\n\nAPI.createData('searchResult', result);\nAPI.setVar('hover', ['searchResult', 0]);"
-              ]
-            }
-          ],
-          "libs": [
-            [
-              {
-                "lib": "http://www.lactame.com/lib/actelion/2.0.0/actelion.js",
-                "alias": "ACT"
-              }
-            ]
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "zIndex": 0,
-          "display": false,
-          "title": "Untitled",
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer",
-          "position": {
-            "left": 58,
-            "top": 0
-          },
-          "size": {
-            "width": 118.01818182468415,
-            "height": 104.01818182468415
-          },
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ]
-        }
-      },
-      "vars_in": [
-        {
-          "rel": "dataobject",
-          "name": "query"
-        },
-        {
-          "rel": "dataobject",
-          "name": "queryOptions"
-        }
-      ],
-      "actions_in": [
-        {}
-      ],
-      "vars_out": [
-        {
-          "jpath": []
-        }
-      ],
-      "actions_out": {},
-      "zindex": 3
-    },
-    {
       "url": "modules/types/edition/slick_grid/",
       "configuration": {
         "sections": {},
@@ -338,8 +269,8 @@
             "top": 46
           },
           "size": {
-            "width": 50.01818182468414,
-            "height": 46.01818182468414
+            "width": 50,
+            "height": 46
           },
           "zIndex": 0,
           "display": true,
@@ -355,7 +286,7 @@
           "name": "Default layer"
         }
       },
-      "id": 4,
+      "id": 3,
       "vars_in": [
         {
           "rel": "list",
@@ -410,8 +341,8 @@
             "top": 0
           },
           "size": {
-            "width": 96.01818182468415,
-            "height": 27.01818182468414
+            "width": 96,
+            "height": 27
           },
           "zIndex": 0,
           "display": true,
@@ -427,7 +358,7 @@
           "name": "Default layer"
         }
       },
-      "id": 5,
+      "id": 4,
       "vars_in": [
         {
           "rel": "value",
@@ -492,7 +423,7 @@
           "name": "Default layer"
         }
       },
-      "id": 6,
+      "id": 5,
       "vars_in": [],
       "actions_in": [
         {}
@@ -559,7 +490,7 @@
           "name": "Default layer"
         }
       },
-      "id": 7,
+      "id": 6,
       "vars_in": [],
       "actions_in": [
         {}
@@ -609,8 +540,8 @@
             "top": 28
           },
           "size": {
-            "width": 96.01818182468415,
-            "height": 64.01818182468415
+            "width": 96,
+            "height": 64
           },
           "zIndex": 0,
           "display": true,
@@ -626,7 +557,7 @@
           "name": "Default layer"
         }
       },
-      "id": 8,
+      "id": 7,
       "vars_in": [
         {
           "rel": "url",
@@ -710,7 +641,7 @@
         "general": [
           {
             "script": [
-              "require(['../../src/init']);"
+              "require(['../../src/init'], function(init) {\n    init();\n});"
             ]
           }
         ]
