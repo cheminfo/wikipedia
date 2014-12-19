@@ -3,9 +3,13 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>Wikipedia structure search</title>
-    <script data-main="lib/visualizer/init" src="lib/visualizer/components/requirejs/require.js"></script>
+    <script data-main="src/main" src="lib/visualizer/components/requirejs/require.js"></script>
 </head>
 <body>
+<div style="height: 30px; font-size: x-large;">
+    <a href="#" onclick="showMain()">Main</a>
+    <a href="#" onclick="showAbout()">About</a>
+</div>
 <div id="ci-visualizer" config="src/json/config.json" viewURL="src/json/view.json" dataURL="src/json/data.json"></div>
 <script>
     if(document.location.search.indexOf('admin') > -1) {
