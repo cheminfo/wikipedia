@@ -101,6 +101,7 @@ function updateVisualizer(visualizer) {
     } else if (lastVisu.tar) {
         buildVisualizer(lastVisu.tar, visualizer);
     } else {
+        del.sync('visualizer*', {cwd: dir});
         console.log('downloading visualizer tarball from github');
         var tarballUrl = 'https://codeload.github.com/NPellet/visualizer/tar.gz/'+ visualizer.version;
         tarball.extractTarballDownload(tarballUrl , join(dir, 'visualizer.tar.gz'), join(dir, 'visualizer'), {}, function(err, result) {
@@ -128,6 +129,7 @@ function buildVisualizer(dir, options) {
     console.log('installing npm dependencies');
     child_process.exec('npm install', execOptions, function (err) {
         if (err) {
+            console.log(err);
             throw 'Could not install required npm dependencies';
         }
         child_process.exec('./node_modules/.bin/grunt build --clean-images', execOptions, function (err) {

@@ -1,1 +1,1 @@
-define(["jquery","src/header/components/default"],function(a,b){var c=function(){};return a.extend(c.prototype,b,{initImpl:function(){},_onClick:function(){this.options.url&&(this.options.blank?window.open(this.options.url):window.location.assign(this.options.url))}}),c});
+define(["src/header/components/default","src/util/util"],function(a,b){function c(){}return b.inherits(c,a,{_onClick:function(){this.options.url&&(this.options.blank?window.open(this.options.url):window.location.assign(this.options.url))}}),c});

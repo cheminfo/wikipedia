@@ -5,6 +5,7 @@ components/jquery/jquery.min.js
 components/loglevel/dist/loglevel.min.js
 src/util/debug.js
 src/util/color.js
+components/lodash/dist/lodash.min.js
 src/util/util.js
 src/main/datas.js
 src/util/localdb.js
@@ -44,7 +45,6 @@ components/uri.js/src/SecondLevelDomains.js
 components/uri.js/src/URI.js
 src/util/pouchtovar.js
 components/bowser/bowser.min.js
-components/lodash/dist/lodash.min.js
 components/modernizr/modernizr.js
 components/jquery-cookie/jquery.cookie.js
 src/util/browser.js

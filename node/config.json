@@ -1,6 +1,6 @@
 {
   "visualizer": {
-    "version": "c2c7b0cade5c939fde25958230128ace36ab9829",
+    "version": "38f6aee1335d92f8d61366fb5f85eb6bff54886c",
     "del": [
       "components/jsNMR",
       "lib/biojs-1.0",
@@ -8,6 +8,6 @@
     ]
   },
   "actelion": {
-    "version": "2.0.0"
+    "version": "2.0.1"
   }
 }

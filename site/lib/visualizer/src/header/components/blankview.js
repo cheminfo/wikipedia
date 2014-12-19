@@ -1,1 +1,1 @@
-define(["jquery","src/header/components/default","src/util/versioning"],function(a,b,c){var d=function(){};return a.extend(d.prototype,b,{initImpl:function(){this.viewHandler=c.getViewHandler()},_onClick:function(){this._open&&c.blankView()}}),d});
+define(["jquery","src/header/components/default","src/util/versioning","src/util/util"],function(a,b,c,d){function e(){}return d.inherits(e,b,{_onClick:function(){c.blankView()}}),e});
