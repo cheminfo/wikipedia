@@ -6,9 +6,6 @@ body, h1, h2, h3, h4, h5, h6, p {
 body {
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 	font-size: 11px;
-        background-image: linear-gradient(rgba(200,200,200,0.08),rgba(200,200,200,0.08));
-        background-size: 1920px 1080px;
-        background-repeat: no-repeat;
 	color: black;
 }
 
