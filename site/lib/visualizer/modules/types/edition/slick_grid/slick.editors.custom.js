@@ -4,7 +4,7 @@
  * @namespace Slick
  */
 
-define(['src/util/util', 'components/spectrum/spectrum', 'jquery'], function(Util) {
+define(['src/util/util', 'lodash', 'components/spectrum/spectrum', 'jquery'], function(Util, _) {
     Util.loadCss("./components/spectrum/spectrum.css");
 
     function setItemId(newItem, grid) {
@@ -332,7 +332,7 @@ define(['src/util/util', 'components/spectrum/spectrum', 'jquery'], function(Uti
 
     function numberApplyValue(item, state) {
         state = +state;
-        return defaultApplyValue.call(this, item, state);
+        return defaultApplyValue.call(this, item, _.isNaN(state) ? 'NaN' : state);
     }
 
     // =========== DATA BOOLEAN ==============

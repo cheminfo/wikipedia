@@ -29,6 +29,7 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                     molecule.link = 'http://en.wikipedia.org/w/index.php?printable=yes&title=' + molecule.code;
                     molecule.wiki = 'http://en.wikipedia.org/w/index.php?title=' + molecule.code;
                     molecule.name = getName(molecule.code);
+                    molecule.lowName = molecule.name.toLowerCase();
                     var newEntry = {};
                     newEntry.molecule = ACT.Molecule.fromIDCode(molecule.actID.value, false);
                     newEntry.molecule.ensureHelperArrays(3);

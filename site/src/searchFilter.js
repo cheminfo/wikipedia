@@ -5,23 +5,24 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
             resolve(value);
 
             var molfile, options;
-            if(value.__name === 'query') {
+            if (value.__name === 'query') {
                 molfile = value;
                 options = API.getData('queryOptions');
-            } else if(value.__name === 'queryOptions') {
+            } else if (value.__name === 'queryOptions') {
                 options = value;
                 molfile = API.getData('query');
             }
 
             var molecules = API.getData('molecules');
 
-            var result = [];
+            var result = [],
+                i, ii;
 
-            if (!molfile || !molfile.get() || !options || !molecules) {
-                for (var i = 0, ii = molecules.length; i < ii; i++) {
+            if (!molfile || !molfile.get() || !options) {
+                for (i = 0, ii = molecules.length; i < ii; i++) {
                     result.push(molecules[i]);
                 }
-                return API.createData('searchResult', result);
+                return API.createData('searchResult', filterByName(result));
             }
 
             var queryMol = ACT.Molecule.fromMolfile(molfile.get());
@@ -31,7 +32,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 case 'Exact structure':
                 {
                     var idcode = queryMol.getIDCode();
-                    for (var i = 0, ii = molecules.length; i < ii; i++) {
+                    for (i = 0, ii = molecules.length; i < ii; i++) {
                         if (String(molecules[i].actID.value) === idcode) {
                             result = [molecules[i]];
                             break;
@@ -46,7 +47,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                     var searcher = new ACT.SSSearchWithIndex();
                     searcher.setFragment(queryMol, queryIndex);
                     var db = API.cache('db');
-                    for (var i = 0, ii = db.length; i < ii; i++) {
+                    for (i = 0, ii = db.length; i < ii; i++) {
                         var actmol = db[i].molecule,
                             mol = molecules[db[i].index];
                         searcher.setMolecule(actmol, mol.act_idx);
@@ -56,7 +57,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                     }
                     result.sort(function (a, b) {
                         return a.mw - b.mw;
-                    })
+                    });
 
                     break;
                 }
@@ -67,9 +68,9 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                     var targetID = queryMol.getIDCode();
                     var intermediate = [];
                     var similarity;
-                    for (var i = 0, ii = molecules.length; i < ii; i++) {
+                    for (i = 0, ii = molecules.length; i < ii; i++) {
                         if (String(molecules[i].actID.value) === targetID) {
-                            similarity=1e10;
+                            similarity = 1e10;
                         } else {
                             similarity = ACT.SSSearchWithIndex.getTanimotoSimilarity(index, molecules[i].act_idx) * 100000 - Math.abs(targetMW - molecules[i].mw) / 1000;
                         }
@@ -79,7 +80,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                         return b[1] - a[1];
                     });
 
-                    for (var i = 0, ii = intermediate.length; i < ii; i++) {
+                    for (i = 0, ii = intermediate.length; i < ii; i++) {
                         result.push(intermediate[i][0]);
                     }
 
@@ -101,8 +102,24 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
             }
 
 
-            API.createData('searchResult', result);
+            API.createData('searchResult', filterByName(result));
             API.setVar('hover', ['searchResult', 0]);
+
+            function filterByName(result) {
+                var name = String(options.get('name')).toLowerCase();
+                if (name != 'undefined') { // filter by name
+                    console.log('filter by name');
+                    var oldResult = result;
+                    result = [];
+                    for (i = 0, ii = oldResult.length; i < ii; i++) {
+                        if (oldResult[i].lowName.indexOf(name) > -1) {
+                            result.push(oldResult[i]);
+                        }
+                    }
+                }
+                return result;
+            }
+
         }
     };
 });

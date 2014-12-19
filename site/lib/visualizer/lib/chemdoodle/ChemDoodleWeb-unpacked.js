@@ -6528,7 +6528,7 @@ ChemDoodle.RESIDUE = (function() {
 				var b = new structures.Bond(molecule.atoms[parseInt(line.substring(0, 3)) - 1], molecule.atoms[parseInt(line.substring(3, 6)) - 1], bondOrder);
 				switch (stereo) {
 				case 3:
-					b.stereo = structures.Bond.STEREO_AMBIGUOUS;
+					b.stereo = structures.Bond.STEREO_NONE;
 					break;
 				case 1:
 					b.stereo = structures.Bond.STEREO_PROTRUDING;

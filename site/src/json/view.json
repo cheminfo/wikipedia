@@ -1,5 +1,5 @@
 {
-  "version": "2.9.8",
+  "version": "2.9.9",
   "grid": {
     "xWidth": 10,
     "yHeight": 10,
@@ -113,7 +113,7 @@
                 "config"
               ],
               "schema": [
-                "{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        }\n    }\n}"
+                "{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
               ]
             }
           ]
@@ -132,8 +132,8 @@
             "top": 42
           },
           "size": {
-            "width": 35,
-            "height": 6
+            "width": 48,
+            "height": 9
           },
           "bgColor": [
             255,
@@ -266,7 +266,7 @@
         "Default layer": {
           "position": {
             "left": 0,
-            "top": 46
+            "top": 48
           },
           "size": {
             "width": 50,
@@ -541,7 +541,7 @@
           },
           "size": {
             "width": 96,
-            "height": 64
+            "height": 66
           },
           "zIndex": 0,
           "display": true,
