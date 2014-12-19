@@ -22,7 +22,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 for (i = 0, ii = molecules.length; i < ii; i++) {
                     result.push(molecules[i]);
                 }
-                return API.createData('searchResult', filterByName(result));
+                sendResult(result);
             }
 
             var queryMol = ACT.Molecule.fromMolfile(molfile.get());
@@ -88,27 +88,13 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 }
             }
 
-            // if there is some result we get the wikipedia article if the first article changed !
+            sendResult(result);
 
-            if (result.length > 0) {
-                var oldLink = '';
-                if (API.getData('link')) {
-                    oldLink = API.getData('link') + '';
-                }
-                var newLink = result[0].link + '';
-                if (oldLink != newLink) {
-                    API.createData('link', result[0].link);
-                }
-            }
-
-
-            API.createData('searchResult', filterByName(result));
             API.setVar('hover', ['searchResult', 0]);
 
-            function filterByName(result) {
+            function sendResult(result) {
                 var name = String(options.get('name')).toLowerCase();
                 if (name != 'undefined') { // filter by name
-                    console.log('filter by name');
                     var oldResult = result;
                     result = [];
                     for (i = 0, ii = oldResult.length; i < ii; i++) {
@@ -117,7 +103,21 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                         }
                     }
                 }
-                return result;
+
+                // if there is some result we get the wikipedia article if the first article changed !
+
+                if (result.length > 0) {
+                    var oldLink = '';
+                    if (API.getData('link')) {
+                        oldLink = API.getData('link') + '';
+                    }
+                    var newLink = result[0].link + '';
+                    if (oldLink != newLink) {
+                        API.createData('link', result[0].link);
+                    }
+                }
+
+                API.createData('searchResult', result);
             }
 
         }
