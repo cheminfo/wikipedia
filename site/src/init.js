@@ -31,6 +31,7 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                     molecule.name = getName(molecule.code);
                     var newEntry = {};
                     newEntry.molecule = ACT.Molecule.fromIDCode(molecule.actID.value, false);
+                    newEntry.molecule.ensureHelperArrays(3);
                     newEntry.index = i;
                     db[i] = newEntry;
                     result[i] = molecule;
