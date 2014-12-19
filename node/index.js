@@ -42,7 +42,7 @@ function updateActelion(actelion) {
     if (compareLast(actelion.version, dir)) {
         console.log('actelion library already up-to-date');
     } else {
-        request.get('http://www.lactame.com/lib/actelion/' + actelion.version + '/actelion.js').buffer().end(function (err, res) {
+        request.get('http://direct.lactame.com/lib/actelion/' + actelion.version + '/actelion.js').buffer().end(function (err, res) {
 
             console.log('downloading actelion library from lactame.com');
 
