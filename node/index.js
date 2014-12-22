@@ -1,10 +1,5 @@
 #!/usr/bin/env node
 
-if (process.platform === 'win32') {
-    console.log('This script is not compatible with Windows platform');
-    process.exit(1);
-}
-
 var fs = require('fs'),
     join = require('path').join,
     request = require('superagent'),
@@ -70,6 +65,11 @@ function copyActelion (dir) {
 function updateVisualizer(visualizer) {
 
     console.log('updating the visualizer');
+    
+    if (process.platform === 'win32') {
+        console.log('This script is not compatible with Windows platform');
+        return;
+    }
 
     if (!visualizer.version) {
         throw 'No visualizer version defined in config.json';
