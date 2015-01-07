@@ -1,9 +1,14 @@
-function showMain() {
-    require('src/main/grid').switchToLayer('Default layer');
-}
-
 function showAbout() {
-    require('src/main/grid').switchToLayer('About');
+    require(['jquery-ui'], function () {
+        $('#aboutDialog').dialog({
+            modal: true,
+            buttons: {
+                Ok: function () {
+                    $(this).dialog('close');
+                }
+            }
+        });
+    });
 }
 
 requirejs.config({

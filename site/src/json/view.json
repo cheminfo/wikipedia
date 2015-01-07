@@ -6,9 +6,6 @@
     "layers": {
       "Default layer": {
         "name": "Default layer"
-      },
-      "About": {
-        "name": "About"
       }
     }
   },
@@ -47,28 +44,6 @@
         "Default layer": {
           "zIndex": 0,
           "display": true,
-          "title": "Draw a structure",
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer",
-          "position": {
-            "left": 0,
-            "top": 0
-          },
-          "size": {
-            "width": 50,
-            "height": 41
-          },
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ]
-        },
-        "About": {
-          "zIndex": 0,
-          "display": false,
           "title": "Draw a structure",
           "wrapper": true,
           "created": true,
@@ -148,28 +123,6 @@
         "Default layer": {
           "zIndex": 0,
           "display": true,
-          "title": "Untitled",
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer",
-          "position": {
-            "left": 2,
-            "top": 42
-          },
-          "size": {
-            "width": 48,
-            "height": 9
-          },
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ]
-        },
-        "About": {
-          "zIndex": 0,
-          "display": false,
           "title": "Untitled",
           "wrapper": false,
           "created": true,
@@ -331,28 +284,6 @@
           "wrapper": true,
           "created": true,
           "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 0,
-            "top": 48
-          },
-          "size": {
-            "width": 50,
-            "height": 46
-          },
-          "zIndex": 0,
-          "display": false,
-          "title": "Click on a line to see wikipedia article",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
         }
       },
       "id": 3,
@@ -425,28 +356,6 @@
           "wrapper": true,
           "created": true,
           "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 51,
-            "top": 0
-          },
-          "size": {
-            "width": 96,
-            "height": 27
-          },
-          "zIndex": 0,
-          "display": false,
-          "title": "Information",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
         }
       },
       "id": 4,
@@ -502,28 +411,6 @@
           },
           "zIndex": 0,
           "display": true,
-          "title": "Untitled",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 92,
-            "top": 21
-          },
-          "size": {
-            "width": 23,
-            "height": 9
-          },
-          "zIndex": 0,
-          "display": false,
           "title": "Untitled",
           "bgColor": [
             255,
@@ -601,28 +488,6 @@
           "wrapper": false,
           "created": true,
           "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 77,
-            "top": 21
-          },
-          "size": {
-            "width": 29,
-            "height": 12
-          },
-          "zIndex": 0,
-          "display": false,
-          "title": "Untitled",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer"
         }
       },
       "id": 6,
@@ -690,28 +555,6 @@
           "wrapper": true,
           "created": true,
           "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 51,
-            "top": 28
-          },
-          "size": {
-            "width": 96,
-            "height": 66
-          },
-          "zIndex": 0,
-          "display": false,
-          "title": "Wikipedia article",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
         }
       },
       "id": 7,
@@ -725,77 +568,6 @@
         {}
       ],
       "title": "Wikipedia article",
-      "vars_out": {},
-      "actions_out": {}
-    },
-    {
-      "url": "modules/types/display/template-twig/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "template": [
-                "ABOUT"
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 0,
-            "top": 0
-          },
-          "size": {
-            "width": 20,
-            "height": 20
-          },
-          "zIndex": 0,
-          "display": false,
-          "title": "",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer"
-        },
-        "About": {
-          "position": {
-            "left": 0,
-            "top": 0
-          },
-          "size": {
-            "width": 148,
-            "height": 101
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Untitled",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "About"
-        }
-      },
-      "id": 8,
-      "vars_in": [
-        {}
-      ],
-      "actions_in": [
-        {}
-      ],
-      "title": "Untitled",
       "vars_out": {},
       "actions_out": {}
     }
