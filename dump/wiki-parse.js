@@ -10,17 +10,20 @@ program
     .option('-p, --publish', 'Publish the final data file')
     .parse(process.argv);
 
-var reg = /\| *smiles[12]? *= *([^}\n \|]*)/i;
+var reg = /\| *smiles\d* *= *([^}\n \|]*)/gi;
 function getSmiles(content) {
-    var res = reg.exec(content);
-    if (res) {
-        return res[1];
+    var res = [];
+    var smiles;
+    while(smiles = reg.exec(content)) {
+        res.push(smiles[1]);
     }
+    return res;
 }
 
 var pageList = require('./data/update.json');
 var results = [],
     errors = [],
+    nogood = [],
     notfound = [],
     length = pageList.length;
 
@@ -44,28 +47,36 @@ for (var i = 0; i < length; i++) {
     var result = {};
     result.code = page.title;
 
+    var allError = true;
+
     var smiles = getSmiles(page.content);
-    if (smiles) {
-        try {
-            var molecule = ACT.Molecule.fromSmiles(smiles);
-            var mf = molecule.getMolecularFormula().getFormula();
-            result.mf = {type: 'mf', value: mf};
-            var chemcalc = Chemcalc.analyseMF(mf);
-            result.mw = chemcalc.mw;
-            result.em = chemcalc.em;
-            result.act_idx = molecule.getIndex();
-            result.actID = {
-                type: 'actelionID',
-                value: molecule.getIDCode(),
-                coordinates: molecule.getIDCoordinates()
-            };
-            results.push(result);
-        } catch (e) {
-            errors.push({
-                id: id,
-                smiles: smiles,
-                error: e.f
-            });
+    if (smiles.length) {
+        for(var j = 0; j < smiles.length; j++) {
+            try {
+                var molecule = ACT.Molecule.fromSmiles(smiles[j]);
+                allError = false; // At least one SMILES is good for this file
+                var mf = molecule.getMolecularFormula().getFormula();
+                result.mf = {type: 'mf', value: mf};
+                var chemcalc = Chemcalc.analyseMF(mf);
+                result.mw = chemcalc.mw;
+                result.em = chemcalc.em;
+                result.act_idx = molecule.getIndex();
+                result.actID = {
+                    type: 'actelionID',
+                    value: molecule.getIDCode(),
+                    coordinates: molecule.getIDCoordinates()
+                };
+                results.push(result);
+            } catch (e) {
+                errors.push({
+                    id: id,
+                    smiles: smiles[j],
+                    error: e.f
+                });
+            }
+        }
+        if (allError) {
+            nogood.push(id);
         }
     } else {
         notfound.push(id);
@@ -77,19 +88,22 @@ var theResult = {};
 theResult.count = {
     molecules: results.length,
     errors: errors.length,
+    nogood: nogood.length,
     notfound: notfound.length
 };
 theResult.data = {
     molecules: results,
     errors: errors,
+    nogood: nogood,
     notfound: notfound
 };
 theResult.query = {type: 'mol2d', value: ''};
 theResult.queryOptions = {searchMode: 'Substructure'};
 
-console.log('Successfully extracted ' + results.length + ' molecules');
-console.log(errors.length + ' errors');
-console.log(notfound.length + ' not found');
+console.log('Successfully parsed ' + results.length + ' SMILES');
+console.log(errors.length + ' parsing errors');
+console.log(nogood.length + ' pages with only bad SMILES');
+console.log(notfound.length + ' SMILES not found');
 
 fs.writeFileSync('./data/data.json', JSON.stringify(theResult, null, 2));
 if (program.publish) {
