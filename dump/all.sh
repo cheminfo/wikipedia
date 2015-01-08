@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 node wiki.js ids
 node wiki.js rev

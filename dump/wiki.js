@@ -12,3 +12,7 @@ program
     .command('update', 'Download new pages')
     .command('parse', 'Extract SMILES from downloaded pages')
     .parse(process.argv);
+
+if (program.runningCommand) {
+    program.runningCommand.on('close', process.exit.bind(process));
+}
