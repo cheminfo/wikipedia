@@ -10,14 +10,63 @@ program
     .option('-p, --publish', 'Publish the final data file')
     .parse(process.argv);
 
-var reg = /\| *smiles\d* *= *([^}\n \|]*)/gi;
+var regChembox = /{{ *chembox/i,
+    regDrugbox = /{{ *drugbox/i,
+    regInfoboxDrug = /{{ *infobox drug/i,
+    regSmiles = /\| *smiles\d* *= *([^}\n \|]*)/gi;
+
 function getSmiles(content) {
+
     var res = [];
-    var smiles;
-    while(smiles = reg.exec(content)) {
-        res.push(smiles[1]);
+
+    var idx = content.search(regChembox);
+    if (idx > -1) {
+        parse(content, idx, res);
     }
+
+    idx = content.search(regDrugbox);
+    if (idx > -1) {
+        parse(content, idx, res);
+    }
+
+    idx = content.search(regInfoboxDrug);
+    if (idx > -1) {
+        parse(content, idx, res);
+    }
+
     return res;
+
+}
+
+function parse(content, idx, res) {
+
+    var boxEndIdx = idx+2;
+    var counter = 1;
+    while(counter) {
+        if(content[boxEndIdx] === '{') {
+            if(content[boxEndIdx+1] === '{') {
+                counter++;
+                boxEndIdx += 2;
+                continue;
+            }
+        } else if(content[boxEndIdx] === '}') {
+            if (content[boxEndIdx+1] === '}') {
+                counter--;
+                boxEndIdx += 2;
+                continue;
+            }
+        }
+        boxEndIdx++;
+    }
+
+    var boxContent = content.substring(idx, boxEndIdx);
+
+    var match, foundOne = false;
+    while (match = regSmiles.exec(boxContent)) {
+        foundOne = true;
+        res.push(match[1]);
+    }
+
 }
 
 var pageList = require('./data/update.json');
@@ -100,7 +149,7 @@ theResult.count = {
     errors: errors.length,
     nogood: nogood.length,
     notfound: notfound.length,
-    dup: dup
+    dup: dup.length
 };
 theResult.data = {
     molecules: results,
@@ -112,7 +161,7 @@ theResult.data = {
 theResult.query = {type: 'mol2d', value: ''};
 theResult.queryOptions = {searchMode: 'Substructure'};
 
-console.log('Successfully parsed ' + results.length + ' SMILES');
+console.log(results.length + ' parsed molecules');
 console.log(errors.length + ' parsing errors');
 console.log(nogood.length + ' pages with only bad SMILES');
 console.log(notfound.length + ' SMILES not found');
