@@ -576,21 +576,19 @@
     {
       "varname": "molecules",
       "jpath": [
-        "database",
+        "data",
         "molecules"
       ]
     },
     {
       "varname": "queryOptions",
       "jpath": [
-        "database",
         "queryOptions"
       ]
     },
     {
       "varname": "query",
       "jpath": [
-        "database",
         "query"
       ]
     }
