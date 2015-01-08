@@ -25,6 +25,7 @@ var results = [],
     errors = [],
     nogood = [],
     notfound = [],
+    dup = [],
     length = pageList.length;
 
 if(program.limit) {
@@ -38,6 +39,8 @@ var bar = new ProgressBar('  [:bar] :current treated', {
     incomplete: ' ',
     total: length
 });
+
+var uniq = {}; // Keep a hashmap of pageID + actelionID to prevent duplicates
 
 for (var i = 0; i < length; i++) {
     var id = pageList[i].id;
@@ -55,6 +58,12 @@ for (var i = 0; i < length; i++) {
             try {
                 var molecule = ACT.Molecule.fromSmiles(smiles[j]);
                 allError = false; // At least one SMILES is good for this file
+                var idcode = molecule.getIDCode();
+                var uniqid = id + '_' + idcode;
+                if(uniq[uniqid]) {
+                    dup.push(id);
+                    continue; // If exact same molecule is already present for this page, skip
+                }
                 var mf = molecule.getMolecularFormula().getFormula();
                 result.mf = {type: 'mf', value: mf};
                 var chemcalc = Chemcalc.analyseMF(mf);
@@ -63,10 +72,11 @@ for (var i = 0; i < length; i++) {
                 result.act_idx = molecule.getIndex();
                 result.actID = {
                     type: 'actelionID',
-                    value: molecule.getIDCode(),
+                    value: idcode,
                     coordinates: molecule.getIDCoordinates()
                 };
                 results.push(result);
+                uniq[uniqid] = true;
             } catch (e) {
                 errors.push({
                     id: id,
@@ -89,13 +99,15 @@ theResult.count = {
     molecules: results.length,
     errors: errors.length,
     nogood: nogood.length,
-    notfound: notfound.length
+    notfound: notfound.length,
+    dup: dup
 };
 theResult.data = {
     molecules: results,
     errors: errors,
     nogood: nogood,
-    notfound: notfound
+    notfound: notfound,
+    dup: dup
 };
 theResult.query = {type: 'mol2d', value: ''};
 theResult.queryOptions = {searchMode: 'Substructure'};
@@ -104,6 +116,7 @@ console.log('Successfully parsed ' + results.length + ' SMILES');
 console.log(errors.length + ' parsing errors');
 console.log(nogood.length + ' pages with only bad SMILES');
 console.log(notfound.length + ' SMILES not found');
+console.log(dup.length + ' dropped duplicates');
 
 fs.writeFileSync('./data/data.json', JSON.stringify(theResult, null, 2));
 if (program.publish) {
