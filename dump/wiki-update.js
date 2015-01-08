@@ -59,7 +59,25 @@ function getNextPages() {
 }
 
 function saveInfo() {
-    fs.writeFileSync('./data/update.json', JSON.stringify(pageInfo));
+    // Remove pages that no longer exist
+    var removed = 0;
+    var final = [];
+    loop1: for (var i = 0; i < pageInfo.length; i++) {
+        var page = pageInfo[i];
+        for (var j = 0; j < allRevs.length; j++) {
+            if (allRevs[j].id === page.id) {
+                final.push(page);
+                continue loop1;
+            }
+        }
+        // did not find id in allRevs, removing page
+        try {
+            removed++;
+            fs.unlinkSync(util.getPagePath(page.id));
+        } catch(e) {}
+    }
+    console.log('Removes' + removed + ' old page(s)');
+    fs.writeFileSync('./data/update.json', JSON.stringify(final));
 }
 
 function markUpdated(page) {
