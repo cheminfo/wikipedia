@@ -77,7 +77,8 @@ theResult.data = {
 theResult.query = {type: 'mol2d', value: ''};
 theResult.queryOptions = {searchMode: 'Substructure'};
 
-fs.writeFileSync('../site/src/json/data.json', JSON.stringify(theResult, null, 2));
+fs.writeFileSync('./data.json', JSON.stringify(theResult, null, 2));
+fs.writeFileSync('../site/src/json/data.json', JSON.stringify(theResult));
 
 console.log('Successfully extracted ' + results.length + ' molecules');
 console.log(errors.length + ' errors');
