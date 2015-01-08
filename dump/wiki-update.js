@@ -1,0 +1,123 @@
+var util = require('./util'),
+    fs = require('fs'),
+    ProgressBar = require('progress');
+
+var allRevs = require('./data/rev.json');
+var pageInfo;
+try {
+    pageInfo = require('./data/update.json');
+} catch (e) {
+    pageInfo = [];
+}
+
+if (!fs.existsSync('./data/pages')) {
+    fs.mkdirSync('./data/pages');
+}
+
+var total = 0,
+    start = 0,
+    length = allRevs.length;
+
+var bar = new ProgressBar('  [:bar] :current treated', {
+    width: 30,
+    incomplete: ' ',
+    total: length
+});
+
+getNextPages().then(function () {
+    console.log('Downloaded ' + total + ' new pages');
+    saveInfo();
+}).catch(function (err) {
+    console.error(err);
+    saveInfo();
+});
+
+function getNextPages() {
+    var pagesToGet = [];
+    var oldStart = start;
+    while (pagesToGet.length < 50 && start < length) {
+        var page = allRevs[start++];
+        var idx = indexOfPage(page);
+        if (idx === -1 || pageInfo[idx].rev !== page.rev) {
+            pagesToGet.push(page);
+        }
+    }
+
+    var tick = start - oldStart;
+
+    if (pagesToGet.length) {
+        return getPages(pagesToGet).then(function () {
+            bar.tick(tick);
+            if (start < length) {
+                return getNextPages();
+            }
+        });
+    } else {
+        bar.tick(tick);
+        return Promise.resolve();
+    }
+}
+
+function saveInfo() {
+    fs.writeFileSync('./data/update.json', JSON.stringify(pageInfo));
+}
+
+function markUpdated(page) {
+    var idx = indexOfPage(page);
+    if (idx > -1) {
+        pageInfo[idx] = page;
+    }
+    pageInfo.push(page);
+    total++;
+}
+
+function indexOfPage(page) {
+    for (var i = 0; i < pageInfo.length; i++) {
+        if (pageInfo[i].id === page.id) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+function savePage(id, content) {
+    var path = util.getPagePath(id);
+    if (!fs.existsSync(path.prefix)) {
+        fs.mkdirSync(path.prefix);
+    }
+    fs.writeFileSync(path.full, content);
+}
+
+// http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
+// Max 50 page ids at the same time
+function getPages(pages) {
+    var param = {
+        action: 'query',
+        prop: 'revisions',
+        rvprop: 'content',
+        'continue': '',
+        pageids: pages.map(function (page) {
+            return page.id
+        }).join(['|'])
+    };
+    return util.request(param).then(function (result) {
+        var resPages = result.query.pages;
+        for (var i in resPages) {
+            if (i === '0') {
+                continue;
+            }
+            var page = resPages[i];
+            var pageJSON = JSON.stringify({
+                id: page.pageid,
+                title: page.title,
+                content: page.revisions[0]['*']
+            }, null, 2);
+            savePage(page.pageid, pageJSON);
+            for (var j = 0; j < pages.length; j++) {
+                if (pages[j].id === page.pageid) {
+                    markUpdated(pages[j]);
+                }
+            }
+        }
+    });
+}

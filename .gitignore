@@ -1,3 +1,5 @@
-/.idea/
-/node/node_modules/
-/tmp/
+.idea
+node/node_modules
+tmp
+dump/data
+dump/node_modules
