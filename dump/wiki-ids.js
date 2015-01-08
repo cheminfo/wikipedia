@@ -3,6 +3,8 @@ var util = require('./util'),
 
 var total = [];
 
+console.log('Getting page ids');
+
 getForTemplate('Infobox_drug').then(function () {
     return getForTemplate('Chembox');
 }).then(function () {
