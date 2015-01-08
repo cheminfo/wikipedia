@@ -8,7 +8,7 @@ var start = 0,
     revisions = [],
     missing = [];
 
-console.log(ids.length + ' total ids');
+console.log(ids.length + ' ids');
 
 var bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
     width: 30,
@@ -17,7 +17,7 @@ var bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
 });
 
 getNextEntries().then(function () {
-    console.log('Found ' + revisions.length + ' revisions');
+    console.log(revisions.length + ' revisions');
     fs.writeFileSync('./data/rev.json', JSON.stringify(revisions));
     console.log(missing.length + ' missing');
     fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
