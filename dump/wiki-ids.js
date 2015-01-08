@@ -5,10 +5,20 @@ var total = [];
 
 console.log('Getting page ids');
 
+var diff = 0;
+
 getForTemplate('Infobox_drug').then(function () {
+    console.log(total.length + ' Drugbox');
+    diff = total.length;
     return getForTemplate('Chembox');
 }).then(function () {
-    console.log('Found ' + total.length + ' pages');
+    console.log((total.length - diff) + ' Chembox');
+    var oldIds = [];
+    try {
+        oldIds = require('./data/ids.json');
+    } catch (e) {}
+    console.log(total.length + ' Total');
+    console.log('Before : ' + oldIds.length);
     fs.writeFileSync('./data/ids.json', JSON.stringify(total));
 }).catch(function (err) {
     console.error(err);
