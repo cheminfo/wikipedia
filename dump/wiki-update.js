@@ -14,7 +14,8 @@ if (!fs.existsSync('./data/pages')) {
     fs.mkdirSync('./data/pages');
 }
 
-var total = 0,
+var updated = 0,
+    added = 0,
     start = 0,
     length = allRevs.length;
 
@@ -25,11 +26,11 @@ var bar = new ProgressBar('  [:bar] :current treated', {
 });
 
 getNextPages().then(function () {
-    console.log('Downloaded ' + total + ' new pages');
     saveInfo();
 }).catch(function (err) {
     console.error(err);
     saveInfo();
+    process.exit(1);
 });
 
 function getNextPages() {
@@ -76,7 +77,10 @@ function saveInfo() {
             fs.unlinkSync(util.getPagePath(page.id));
         } catch(e) {}
     }
-    console.log('Removes' + removed + ' old page(s)');
+
+    console.log(added + ' new');
+    console.log(updated + ' updated');
+    console.log(removed + ' removed');
     fs.writeFileSync('./data/update.json', JSON.stringify(final));
 }
 
@@ -84,9 +88,11 @@ function markUpdated(page) {
     var idx = indexOfPage(page);
     if (idx > -1) {
         pageInfo[idx] = page;
+        updated++;
+    } else {
+        pageInfo.push(page);
+        added++;
     }
-    pageInfo.push(page);
-    total++;
 }
 
 function indexOfPage(page) {
