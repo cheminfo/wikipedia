@@ -22,6 +22,7 @@ getForTemplate('Infobox_drug').then(function () {
     fs.writeFileSync('./data/ids.json', JSON.stringify(total));
 }).catch(function (err) {
     console.error(err);
+    process.exit(1);
 });
 
 function getForTemplate(templateName) {

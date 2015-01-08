@@ -23,6 +23,7 @@ getNextEntries().then(function () {
     fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
 }).catch(function (err) {
     console.error(err);
+    process.exit(1);
 });
 
 function getNextEntries() {
