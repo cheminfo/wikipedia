@@ -27,6 +27,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
 
             var queryMol = ACT.Molecule.fromMolfile(molfile.get());
             var mode = String(options.get('searchMode'));
+            var targetMW;
 
             switch (mode) {
                 case 'Exact structure':
@@ -42,6 +43,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 }
                 case 'Substructure':
                 {
+                    targetMW = queryMol.getMolecularFormula().getRelativeWeight();
                     queryMol.setFragment(true);
                     var queryIndex = queryMol.index;
                     var searcher = new ACT.SSSearchWithIndex();
@@ -56,7 +58,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                         }
                     }
                     result.sort(function (a, b) {
-                        return a.mw - b.mw;
+                        return Math.abs(targetMW - a.mw) - Math.abs(targetMW - b.mw);
                     });
 
                     break;
@@ -64,7 +66,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 case 'Similarity':
                 {
                     var index = queryMol.getIndex();
-                    var targetMW = queryMol.getMolecularFormula().getRelativeWeight();
+                    targetMW = queryMol.getMolecularFormula().getRelativeWeight();
                     var targetID = queryMol.getIDCode();
                     var intermediate = [];
                     var similarity;
