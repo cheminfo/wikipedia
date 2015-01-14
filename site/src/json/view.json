@@ -1,701 +1,701 @@
 {
-  "version": "2.9.9",
-  "grid": {
-    "xWidth": 10,
-    "yHeight": 10,
-    "layers": {
-      "Default layer": {
-        "name": "Default layer"
-      }
-    }
-  },
-  "modules": [
-    {
-      "url": "modules/types/science/chemistry/jsme/",
-      "id": 1,
-      "title": "Draw a structure",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "prefs": [
-                [
-                  "oldlook"
-                ]
-              ],
-              "labelsize": [
-                14
-              ],
-              "bondwidth": [
-                1
-              ],
-              "highlightColor": [
-                "3"
-              ],
-              "outputResult": [
-                []
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "zIndex": 0,
-          "display": true,
-          "title": "Draw a structure",
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer",
-          "position": {
-            "left": 0,
-            "top": 0
-          },
-          "size": {
-            "width": 50,
-            "height": 41
-          },
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ]
-        }
-      },
-      "vars_in": [
-        {
-          "rel": "mol",
-          "name": "selectedMol"
-        }
-      ],
-      "actions_in": [
-        {}
-      ],
-      "vars_out": [
-        {
-          "event": "onStructureChange",
-          "rel": "mol",
-          "jpath": [],
-          "filter": "src/searchFilter.js",
-          "name": "query"
-        }
-      ],
-      "actions_out": {},
-      "zindex": 3
-    },
-    {
-      "url": "modules/types/edition/onde/",
-      "id": 2,
-      "title": "Untitled",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "hasButton": [
-                []
-              ],
-              "button_text": [
-                "Export"
-              ],
-              "debouncing": [
-                0
-              ],
-              "output": [
-                "new"
-              ],
-              "mode": [
-                "schema"
-              ],
-              "schemaSource": [
-                "config"
-              ],
-              "schema": [
-                "{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "zIndex": 0,
-          "display": true,
-          "title": "Untitled",
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer",
-          "position": {
-            "left": 2,
-            "top": 42
-          },
-          "size": {
-            "width": 48,
-            "height": 9
-          },
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ]
-        }
-      },
-      "vars_in": [
-        {
-          "rel": "inputValue",
-          "name": "customQueryOpts"
-        }
-      ],
-      "actions_in": {},
-      "vars_out": [
-        {
-          "event": "onFormSubmit",
-          "rel": "outputValue",
-          "jpath": [],
-          "filter": "src/searchFilter.js",
-          "name": "queryOptions"
-        }
-      ],
-      "actions_out": [
-        {
-          "jpath": []
-        }
-      ],
-      "zindex": 3
-    },
-    {
-      "url": "modules/types/edition/slick_grid/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "toggle": [
-                null
-              ],
-              "colorjpath": [
-                []
-              ],
-              "slickCheck": [
-                [
-                  "rowNumbering",
-                  "forceFitColumns"
-                ]
-              ],
-              "slick.defaultColumnWidth": [
-                null
-              ],
-              "slick.rowHeight": [
-                "150"
-              ],
-              "slick.selectionModel": [
-                [
-                  "cell"
-                ]
-              ],
-              "filterRow": [
-                null
-              ]
-            }
-          ],
-          "cols": [
-            [
-              {
-                "name": "Structure",
-                "jpath": [
-                  "actID"
-                ],
-                "editor": "none",
-                "formatter": "typerenderer",
-                "width": 250,
-                "minWidth": "250",
-                "maxWidth": "250",
-                "selectable": [
-                  "yes"
-                ],
-                "resizable": [
-                  "yes"
-                ],
-                "sortable": [
-                  "yes"
-                ],
-                "focusable": [
-                  "yes"
-                ],
-                "defaultSortAsc": [
-                  "yes"
-                ]
-              },
-              {
-                "name": "Name",
-                "jpath": [
-                  "name"
-                ],
-                "editor": "none",
-                "formatter": "typerenderer",
-                "width": 80,
-                "selectable": [
-                  "yes"
-                ],
-                "resizable": [
-                  "yes"
-                ],
-                "sortable": [
-                  "yes"
-                ],
-                "focusable": [
-                  "yes"
-                ],
-                "defaultSortAsc": [
-                  "yes"
-                ]
-              }
-            ]
-          ],
-          "groupings": [
-            [
-              {}
-            ]
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 0,
-            "top": 48
-          },
-          "size": {
-            "width": 50,
-            "height": 46
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Click on a line to see wikipedia article",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
-        }
-      },
-      "id": 3,
-      "vars_in": [
-        {
-          "rel": "list",
-          "name": "searchResult"
-        }
-      ],
-      "actions_in": [
-        {}
-      ],
-      "title": "Click on a line to see wikipedia article",
-      "vars_out": [
-        {
-          "event": "onHover",
-          "rel": "row",
-          "jpath": [],
-          "name": "hover"
-        },
-        {
-          "event": "onSelect",
-          "rel": "row",
-          "jpath": [
-            "link"
-          ],
-          "name": "link"
-        }
-      ],
-      "actions_out": [
-        {
-          "jpath": []
-        }
-      ],
-      "zindex": 3
-    },
-    {
-      "url": "modules/types/display/template-twig/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "template": [
-                "<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>mw</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 51,
-            "top": 0
-          },
-          "size": {
-            "width": 96,
-            "height": 27
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Information",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
-        }
-      },
-      "id": 4,
-      "vars_in": [
-        {
-          "rel": "value",
-          "name": "hover"
-        }
-      ],
-      "actions_in": [
-        {}
-      ],
-      "title": "Information",
-      "vars_out": {},
-      "actions_out": {},
-      "zindex": 1
-    },
-    {
-      "url": "modules/types/client_interaction/button_action/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "label": [
-                "Search similar molecules"
-              ],
-              "text": [
-                null
-              ],
-              "toggle": [
-                "click"
-              ],
-              "askConfirm": [
-                []
-              ],
-              "confirmText": [
-                "Are you sure?"
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 92,
-            "top": 21
-          },
-          "size": {
-            "width": 23,
-            "height": 9
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Untitled",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer"
-        }
-      },
-      "id": 5,
-      "vars_in": [],
-      "actions_in": [
-        {}
-      ],
-      "title": "Untitled",
-      "vars_out": {},
-      "actions_out": [
-        {
-          "event": "onClick",
-          "rel": "actionText",
-          "jpath": [],
-          "name": "putMol"
-        }
-      ],
-      "zindex": 3
-    },
-    {
-      "url": "modules/types/client_interaction/button_action/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "label": [
-                "View in wikipedia"
-              ],
-              "text": [
-                null
-              ],
-              "toggle": [
-                "click"
-              ],
-              "askConfirm": [
-                []
-              ],
-              "confirmText": [
-                "Are you sure?"
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 77,
-            "top": 21
-          },
-          "size": {
-            "width": 29,
-            "height": 12
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Untitled",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": false,
-          "created": true,
-          "name": "Default layer"
-        }
-      },
-      "id": 6,
-      "vars_in": [],
-      "actions_in": [
-        {}
-      ],
-      "title": "Untitled",
-      "vars_out": {},
-      "actions_out": [
-        {
-          "event": "onClick",
-          "rel": "actionText",
-          "jpath": [],
-          "name": "viewDrug"
-        }
-      ],
-      "zindex": 2
-    },
-    {
-      "url": "modules/types/display/iframe/",
-      "configuration": {
-        "sections": {},
-        "groups": {
-          "group": [
-            {
-              "colnumber": [
-                5
-              ],
-              "valjPath": [
-                null
-              ],
-              "colorjPath": [
-                null
-              ],
-              "width": [
-                null
-              ],
-              "height": [
-                null
-              ]
-            }
-          ]
-        }
-      },
-      "layers": {
-        "Default layer": {
-          "position": {
-            "left": 51,
-            "top": 28
-          },
-          "size": {
-            "width": 96,
-            "height": 66
-          },
-          "zIndex": 0,
-          "display": true,
-          "title": "Wikipedia article",
-          "bgColor": [
-            255,
-            255,
-            255,
-            0
-          ],
-          "wrapper": true,
-          "created": true,
-          "name": "Default layer"
-        }
-      },
-      "id": 7,
-      "vars_in": [
-        {
-          "rel": "url",
-          "name": "link"
-        }
-      ],
-      "actions_in": [
-        {}
-      ],
-      "title": "Wikipedia article",
-      "vars_out": {},
-      "actions_out": {}
-    }
-  ],
-  "variables": [
-    {
-      "varname": "molecules",
-      "jpath": [
-        "data",
-        "molecules"
-      ]
-    },
-    {
-      "varname": "queryOptions",
-      "jpath": [
-        "queryOptions"
-      ]
-    },
-    {
-      "varname": "query",
-      "jpath": [
-        "query"
-      ]
-    }
-  ],
-  "pouchvariables": [
-    {}
-  ],
-  "configuration": {
-    "title": "Search wikipedia by substructure and similarity"
-  },
-  "actionscripts": [
-    {
-      "sections": {},
-      "groups": {
-        "action": [
-          {
-            "name": [
-              null
-            ],
-            "script": [
-              null
-            ]
-          }
-        ]
-      }
-    }
-  ],
-  "crons": [
-    {}
-  ],
-  "couch_replication": [
-    {
-      "sections": {},
-      "groups": {
-        "couch": [
-          [
-            {
-              "direction": "both",
-              "continuous": []
-            }
-          ]
-        ]
-      }
-    }
-  ],
-  "init_script": [
-    {
-      "sections": {},
-      "groups": {
-        "general": [
-          {
-            "script": [
-              "require(['src/init.js'], function(init) {\n    init();\n});"
-            ]
-          }
-        ]
-      }
-    }
-  ],
-  "custom_filters": [
-    {
-      "sections": {
-        "filters": [
-          {
-            "sections": {},
-            "groups": {
-              "filter": [
-                {
-                  "name": [
-                    null
-                  ],
-                  "script": [
-                    null
-                  ]
-                }
-              ],
-              "libs": [
-                [
-                  {}
-                ]
-              ]
-            }
-          }
-        ]
-      },
-      "groups": {}
-    }
-  ],
-  "actionfiles": [
-    {
-      "sections": {},
-      "groups": {
-        "action": [
-          [
-            {
-              "name": "putMol",
-              "file": "src/putMol.js",
-              "mode": "amd"
-            },
-            {
-              "name": "viewDrug",
-              "file": "src/viewDrug.js",
-              "mode": "amd"
-            }
-          ]
-        ]
-      }
-    }
-  ]
+	"version": "2.9.9",
+	"grid": {
+		"xWidth": 10,
+		"yHeight": 10,
+		"layers": {
+			"Default layer": {
+				"name": "Default layer"
+			}
+		}
+	},
+	"modules": [
+		{
+			"url": "modules/types/science/chemistry/jsme/",
+			"id": 1,
+			"title": "Draw a structure",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"prefs": [
+								[
+									"oldlook"
+								]
+							],
+							"labelsize": [
+								14
+							],
+							"bondwidth": [
+								1
+							],
+							"highlightColor": [
+								"3"
+							],
+							"outputResult": [
+								[]
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Draw a structure",
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 50,
+						"height": 41
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				}
+			},
+			"vars_in": [
+				{
+					"rel": "mol",
+					"name": "selectedMol"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"vars_out": [
+				{
+					"event": "onStructureChange",
+					"rel": "mol",
+					"jpath": [],
+					"filter": "src/searchFilter.js",
+					"name": "query"
+				}
+			],
+			"actions_out": {},
+			"zindex": 3
+		},
+		{
+			"url": "modules/types/edition/onde/",
+			"id": 2,
+			"title": "Untitled",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"hasButton": [
+								[]
+							],
+							"button_text": [
+								"Export"
+							],
+							"debouncing": [
+								0
+							],
+							"output": [
+								"new"
+							],
+							"mode": [
+								"schema"
+							],
+							"schemaSource": [
+								"config"
+							],
+							"schema": [
+								"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 2,
+						"top": 42
+					},
+					"size": {
+						"width": 48,
+						"height": 9
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				}
+			},
+			"vars_in": [
+				{
+					"rel": "inputValue",
+					"name": "customQueryOpts"
+				}
+			],
+			"actions_in": {},
+			"vars_out": [
+				{
+					"event": "onFormSubmit",
+					"rel": "outputValue",
+					"jpath": [],
+					"filter": "src/searchFilter.js",
+					"name": "queryOptions"
+				}
+			],
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
+			"zindex": 3
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"toggle": [
+								null
+							],
+							"colorjpath": [
+								[]
+							],
+							"slickCheck": [
+								[
+									"rowNumbering",
+									"forceFitColumns"
+								]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								"150"
+							],
+							"slick.selectionModel": [
+								[
+									"cell"
+								]
+							],
+							"filterRow": [
+								null
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "Structure",
+								"jpath": [
+									"actID"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 250,
+								"minWidth": "250",
+								"maxWidth": "250",
+								"selectable": [
+									"yes"
+								],
+								"resizable": [
+									"yes"
+								],
+								"sortable": [
+									"yes"
+								],
+								"focusable": [
+									"yes"
+								],
+								"defaultSortAsc": [
+									"yes"
+								]
+							},
+							{
+								"name": "Name",
+								"jpath": [
+									"name"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 80,
+								"selectable": [
+									"yes"
+								],
+								"resizable": [
+									"yes"
+								],
+								"sortable": [
+									"yes"
+								],
+								"focusable": [
+									"yes"
+								],
+								"defaultSortAsc": [
+									"yes"
+								]
+							}
+						]
+					],
+					"groupings": [
+						[
+							{}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 48
+					},
+					"size": {
+						"width": 50,
+						"height": 46
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Click on a line to see wikipedia article",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 3,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "searchResult"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Click on a line to see wikipedia article",
+			"vars_out": [
+				{
+					"event": "onHover",
+					"rel": "row",
+					"jpath": [],
+					"name": "hover"
+				},
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"link"
+					],
+					"name": "link"
+				}
+			],
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
+			"zindex": 3
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>MW</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 51,
+						"top": 0
+					},
+					"size": {
+						"width": 96,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Information",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 4,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "hover"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Information",
+			"vars_out": {},
+			"actions_out": {},
+			"zindex": 1
+		},
+		{
+			"url": "modules/types/client_interaction/button_action/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"label": [
+								"Search similar molecules"
+							],
+							"text": [
+								null
+							],
+							"toggle": [
+								"click"
+							],
+							"askConfirm": [
+								[]
+							],
+							"confirmText": [
+								"Are you sure?"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 92,
+						"top": 21
+					},
+					"size": {
+						"width": 23,
+						"height": 9
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 5,
+			"vars_in": [],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": [
+				{
+					"event": "onClick",
+					"rel": "actionText",
+					"jpath": [],
+					"name": "putMol"
+				}
+			],
+			"zindex": 3
+		},
+		{
+			"url": "modules/types/client_interaction/button_action/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"label": [
+								"View in wikipedia"
+							],
+							"text": [
+								null
+							],
+							"toggle": [
+								"click"
+							],
+							"askConfirm": [
+								[]
+							],
+							"confirmText": [
+								"Are you sure?"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 77,
+						"top": 21
+					},
+					"size": {
+						"width": 29,
+						"height": 12
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 6,
+			"vars_in": [],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": [
+				{
+					"event": "onClick",
+					"rel": "actionText",
+					"jpath": [],
+					"name": "viewDrug"
+				}
+			],
+			"zindex": 2
+		},
+		{
+			"url": "modules/types/display/iframe/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"colnumber": [
+								5
+							],
+							"valjPath": [
+								null
+							],
+							"colorjPath": [
+								null
+							],
+							"width": [
+								null
+							],
+							"height": [
+								null
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 51,
+						"top": 28
+					},
+					"size": {
+						"width": 96,
+						"height": 66
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Wikipedia article",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 7,
+			"vars_in": [
+				{
+					"rel": "url",
+					"name": "link"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Wikipedia article",
+			"vars_out": {},
+			"actions_out": {}
+		}
+	],
+	"variables": [
+		{
+			"varname": "molecules",
+			"jpath": [
+				"data",
+				"molecules"
+			]
+		},
+		{
+			"varname": "queryOptions",
+			"jpath": [
+				"queryOptions"
+			]
+		},
+		{
+			"varname": "query",
+			"jpath": [
+				"query"
+			]
+		}
+	],
+	"pouchvariables": [
+		{}
+	],
+	"configuration": {
+		"title": "Search wikipedia by substructure and similarity"
+	},
+	"actionscripts": [
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					{
+						"name": [
+							null
+						],
+						"script": [
+							null
+						]
+					}
+				]
+			}
+		}
+	],
+	"crons": [
+		{}
+	],
+	"couch_replication": [
+		{
+			"sections": {},
+			"groups": {
+				"couch": [
+					[
+						{
+							"direction": "both",
+							"continuous": []
+						}
+					]
+				]
+			}
+		}
+	],
+	"init_script": [
+		{
+			"sections": {},
+			"groups": {
+				"general": [
+					{
+						"script": [
+							"require(['src/init.js'], function(init) {\n    init();\n});"
+						]
+					}
+				]
+			}
+		}
+	],
+	"custom_filters": [
+		{
+			"sections": {
+				"filters": [
+					{
+						"sections": {},
+						"groups": {
+							"filter": [
+								{
+									"name": [
+										null
+									],
+									"script": [
+										null
+									]
+								}
+							],
+							"libs": [
+								[
+									{}
+								]
+							]
+						}
+					}
+				]
+			},
+			"groups": {}
+		}
+	],
+	"actionfiles": [
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					[
+						{
+							"name": "putMol",
+							"file": "src/putMol.js",
+							"mode": "amd"
+						},
+						{
+							"name": "viewDrug",
+							"file": "src/viewDrug.js",
+							"mode": "amd"
+						}
+					]
+				]
+			}
+		}
+	]
 }
