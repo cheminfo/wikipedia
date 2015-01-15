@@ -58,7 +58,9 @@ function copyActelion (dir) {
     console.log('copying actelion library');
     var actLibDir = join(libDir, 'actelion');
     mkdir(actLibDir);
-    fs.writeFileSync(join(actLibDir, 'actelion.js'), fs.readFileSync(dir));
+    var ACTStr = fs.readFileSync(dir);
+    fs.writeFileSync(join(actLibDir, 'actelion.js'), ACTStr);
+    fs.writeFileSync(join(__dirname, '../dump/actelion.js'), ACTStr);
     console.log('actelion library up-to-date');
 }
 
