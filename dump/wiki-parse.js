@@ -97,7 +97,6 @@ for (var i = 0; i < length; i++) {
     var file = path.full;
     var page = JSON.parse(fs.readFileSync(file));
     var result = {};
-    result.code = page.title;
 
     var allError = true;
 
@@ -113,6 +112,9 @@ for (var i = 0; i < length; i++) {
                     dup.push(id);
                     continue; // If exact same molecule is already present for this page, skip
                 }
+                result.id = page.id;
+                result.code = page.title;
+                result.smiles = smiles[j];
                 var mf = molecule.getMolecularFormula().getFormula();
                 result.mf = {type: 'mf', value: mf};
                 var chemcalc = Chemcalc.analyseMF(mf);
@@ -167,11 +169,21 @@ console.log(nogood.length + ' pages with only bad SMILES');
 console.log(notfound.length + ' SMILES not found');
 console.log(dup.length + ' dropped duplicates');
 
-fs.writeFileSync('./data/data.json', JSON.stringify(theResult, null, 2));
+var pubStr = JSON.stringify(theResult);
+pubStr = pubStr
+    .replace('"data":{"molecules":[','\n"data":{"molecules":[\n')
+    .replace(/},\{/g, '},\n{')
+    .replace('],"errors":[','\n],"errors":[\n')
+    .replace('"nogood":[','\n"nogood":[')
+    .replace('"notfound":[','\n"notfound":[')
+    .replace('"dup":[', '\n"dup":[')
+    .replace('"query":{', '\n"query":{');
+
+fs.writeFileSync('./data/data.json', pubStr);
 if (program.publish) {
     if (program.limit) {
         console.error('Cannot publish partial data');
     } else {
-        fs.writeFileSync('../site/src/json/data.json', JSON.stringify(theResult));
+        fs.writeFileSync('../site/src/json/data.json', pubStr);
     }
 }
