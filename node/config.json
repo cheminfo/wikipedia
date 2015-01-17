@@ -1,5 +1,6 @@
 {
   "visualizer": {
+    "cdn": "v2.9.9",
     "version": "38f6aee1335d92f8d61366fb5f85eb6bff54886c",
     "del": [
       "components/jsNMR",
