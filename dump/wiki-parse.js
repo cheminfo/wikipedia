@@ -75,6 +75,7 @@ var results = [],
     nogood = [],
     notfound = [],
     dup = [],
+    smilesList = [],
     length = pageList.length;
 
 if(program.limit) {
@@ -114,6 +115,7 @@ for (var i = 0; i < length; i++) {
                 }
                 result.id = page.id;
                 result.code = page.title;
+                smilesList.push(page.title+'\t'+smiles[j]);
                 result.smiles = smiles[j];
                 var mf = molecule.getMolecularFormula().getFormula();
                 result.mf = {type: 'mf', value: mf};
@@ -169,6 +171,8 @@ console.log(nogood.length + ' pages with only bad SMILES');
 console.log(notfound.length + ' SMILES not found');
 console.log(dup.length + ' dropped duplicates');
 
+smilesList = smilesList.join('\n')+'\n';
+
 var pubStr = JSON.stringify(theResult);
 pubStr = pubStr
     .replace('"data":{"molecules":[','\n"data":{"molecules":[\n')
@@ -180,10 +184,12 @@ pubStr = pubStr
     .replace('"query":{', '\n"query":{');
 
 fs.writeFileSync('./data/data.json', pubStr);
+fs.writeFileSync('./data/smiles.txt', smilesList);
 if (program.publish) {
     if (program.limit) {
         console.error('Cannot publish partial data');
     } else {
         fs.writeFileSync('../site/src/json/data.json', pubStr);
+        fs.writeFileSync('../site/smiles.txt', smilesList);
     }
 }
