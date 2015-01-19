@@ -34,7 +34,7 @@
 .onde-panel .field .value input[type=text].value-input,
 .onde-panel .field .value textarea.value-input {
 /*    box-sizing: border-box; */
-    width: 24em;
+//    width: 24em;
     border: none;
     margin: 0;
     padding: 2px 5px;
@@ -43,7 +43,7 @@
 /*    font-size: 1.17em; */
 }
 .onde-panel .field .value textarea.value-input {
-    height: 2.5em;
+//    height: 2.5em;
     vertical-align: top;
 }
 .onde-panel .field.number .value input[type=text].value-input,
@@ -163,7 +163,7 @@
 }
 .onde-panel small.description {
     vertical-align: top;
-    width: 320px;
+ //   width: 320px;
     margin-left: 30px;
     margin-right: 10px;
     color: #aaa;

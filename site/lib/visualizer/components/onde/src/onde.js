@@ -446,7 +446,10 @@ onde.Onde.prototype.renderFieldValue = function (fieldName, fieldInfo, parentNod
         } else {
             //TODO: Format
             if (fieldInfo.format == 'multiline') {
-                fieldValueNode = $('<textarea></textarea>');
+                var options="";
+                if (fieldInfo.cols) options+=" cols="+fieldInfo.cols;
+                if (fieldInfo.rows) options+=" rows="+fieldInfo.rows;
+                fieldValueNode = $('<textarea'+options+'></textarea>');
             } else {
                 fieldValueNode = $('<input type="text" />');
             }
@@ -463,7 +466,9 @@ onde.Onde.prototype.renderFieldValue = function (fieldName, fieldInfo, parentNod
             if (fieldInfo['default']) {
                 //TODO: Check the type
                 fieldValueNode.attr('placeholder', fieldInfo['default']);
-                fieldValueNode.val(fieldInfo['default']);
+                if(valueData === undefined) {
+                    fieldValueNode.val(fieldInfo['default']);
+                }
             }
             /*if (fieldInfo.format) {
                 fieldValueNode.addClass(fieldInfo.format);
@@ -510,7 +515,9 @@ onde.Onde.prototype.renderFieldValue = function (fieldName, fieldInfo, parentNod
             if (fieldInfo['default']) {
                 //TODO: Check the type
                 fieldValueNode.attr('placeholder', fieldInfo['default']);
-                fieldValueNode.val(fieldInfo['default']);
+                if(valueData === undefined) {
+                    fieldValueNode.val(fieldInfo['default']);
+                }
             }
         }
         fieldValueNode.attr('data-type', fieldInfo.type);
@@ -618,6 +625,10 @@ onde.Onde.prototype.renderFieldValue = function (fieldName, fieldInfo, parentNod
             append(this.tr("InternalError: Unsupported property type: ")).
             append($('<tt></tt>').text(fieldInfo.type));
         parentNode.append(valueContainer);
+    }
+    if(fieldValueNode && fieldInfo && fieldInfo.readonly) {
+        fieldValueNode.attr('disabled', true);
+        fieldValueNode.css('background-color', 'lightgray');
     }
 };
 

@@ -174,6 +174,22 @@
             refresh();
         }
 
+        function sortBy(comparer, ascending) {
+            sortAsc = ascending;
+            sortComparer = comparer;
+            fastSortField = null;
+            if (ascending === false) {
+                items.reverse();
+            }
+            items = _.sortBy(items, comparer);
+            if (ascending === false) {
+                items.reverse();
+            }
+            idxById = {};
+            updateIdxById();
+            refresh();
+        }
+
         /***
          * Provides a workaround for the extremely slow sorting in IE.
          * Does a [lexicographic] sort on a give column by temporarily overriding Object.prototype.toString
@@ -926,6 +942,7 @@
             "setItems": setItems,
             "setFilter": setFilter,
             "sort": sort,
+            "sortBy": sortBy,
             "fastSort": fastSort,
             "reSort": reSort,
             "setGrouping": setGrouping,

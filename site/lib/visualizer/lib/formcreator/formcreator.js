@@ -106,7 +106,8 @@ define(['forms/form'], function( Form ) {
 									{ title: 'Combo', key: 'combo' },
 									{ title: 'Slider', key: 'slider' },
 									{ title: 'Range', key: 'slider_range' },
-									{ title: 'Checkbox', key: 'checkbox' }
+									{ title: 'Checkbox', key: 'checkbox' },
+									{ title: 'Color',  key: 'spectrum'}
 								],
 
 								displaySource:  {
@@ -125,7 +126,7 @@ define(['forms/form'], function( Form ) {
 
 						options: {
 							type: 'list',
-							displayTarget: [ 'text', 'slider', 'combo', 'checkbox' ]
+							displayTarget: [ 'text', 'float', 'slider', 'combo', 'checkbox' ]
 						},
 
 						fields: {

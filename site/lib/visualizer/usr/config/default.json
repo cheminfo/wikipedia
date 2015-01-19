@@ -153,6 +153,10 @@
 						"url": "modules/types/client_interaction/code_editor/"
 					},
 					{
+						"moduleName": "Code executor",
+						"url": "modules/types/client_interaction/code_executor/"
+					},
+					{
 						"moduleName": "Drag and drop",
 						"url": "modules/types/client_interaction/dragdrop/"
 					},
