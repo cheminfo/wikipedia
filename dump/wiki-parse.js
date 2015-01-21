@@ -70,6 +70,9 @@ function parse(content, idx, res) {
 }
 
 var pageList = require('./data/update.json');
+pageList.sort(function (a, b){
+   return a.id - b.id; 
+});
 var results = [],
     errors = [],
     nogood = [],
