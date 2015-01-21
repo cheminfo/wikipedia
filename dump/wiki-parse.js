@@ -125,8 +125,7 @@ for (var i = 0; i < length; i++) {
                 result.act_idx = molecule.getIndex();
                 result.actID = {
                     type: 'actelionID',
-                    value: idcode,
-                    coordinates: molecule.getIDCoordinates()
+                    value: idcode
                 };
                 results.push(result);
                 uniq[uniqid] = true;
