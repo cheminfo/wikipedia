@@ -13,7 +13,7 @@ program
 var regChembox = /{{ *chembox/i,
     regDrugbox = /{{ *drugbox/i,
     regInfoboxDrug = /{{ *infobox drug/i,
-    regSmiles = /\| *smiles\d* *= *([^}\n\|]*)/gi;
+    regSmiles = /\| *smiles\d* *= *([^}\n\|]+)/gi;
 
 function getSmiles(content) {
 
@@ -61,9 +61,8 @@ function parse(content, idx, res) {
 
     var boxContent = content.substring(idx, boxEndIdx);
 
-    var match, foundOne = false;
+    var match;
     while (match = regSmiles.exec(boxContent)) {
-        foundOne = true;
         res.push(match[1].trim());
     }
 
