@@ -13,6 +13,6 @@ node wiki.js parse -p
 # pull again to avoid conflicts, then commit the new data
 echo "Publishing data"
 git pull
-git add ../site/src/json/data.json
+git add ../site/src/json/data.json ../site/smiles.txt
 git commit -m "update data"
 git push
