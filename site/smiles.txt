@@ -5349,7 +5349,7 @@ Formamide	O=CN
 Vinyl alcohol	OC=C
 Primuline	[Na+].[O-]S(=O)(=O)c1c(ccc2nc(sc12)c4ccc3nc(sc3c4)c5ccc(N)cc5)C
 Sedoheptulose	O=C([C@@H](O)[C@H](O)[C@H](O)[C@H](O)CO)CO
-Chloralose	OCC(O)C1OC2OC(OC2C1O)C(Cl)(Cl)Cl
+Chloralose	C([C@H]([C@@H]1[C@@H]([C@@H]2[C@H](O1)O[C@@H](O2)C(Cl)(Cl)Cl)O)O)O
 Paraldehyde	CC1OC(C)OC(C)O1
 Tin(IV) chloride	Cl[Sn](Cl)(Cl)Cl
 T-2 mycotoxin	O=C(O[C@@H]4C(=C/[C@H]3O[C@H]2[C@]1(OC1)[C@]([C@H](OC(=O)C)[C@H]2O)([C@@]3(COC(=O)C)C4)C)\C)CC(C)C
@@ -8027,7 +8027,7 @@ Prostaglandin D2	CCCCC[C@@H](/C=C/[C@@H]1[C@H]([C@H](CC1=O)O)C/C=C\CCCC(=O)O)O
 Acibenzolar-S-methyl	CSC(=O)c1cccc2nnsc12
 DiOC6	[I-].o1c4ccccc4[n+](c1C=CC=C3Oc2ccccc2N3CCCCCC)CCCCCC
 Fluoroamine	FN
-N-Cyclohexyl-2-aminoethanesulfonic acid	O=S(=O)(O)CCNC1CCCCC1
+CHES (buffer)	O=S(=O)(O)CCNC1CCCCC1
 Cystamine	S(SCCN)CCN
 Tetrahydrofolic acid	O=C(O)[C@@H](NC(=O)c1ccc(cc1)NCC3N/C2=C(/N/C(=N\C2=O)N)NC3)CCC(=O)O
 Dihydrofolic acid	O=C(O)[C@@H](NC(=O)c1ccc(cc1)NCC/2=N/C=3C(=O)\N=C(/NC=3NC\2)N)CCC(=O)O
@@ -9781,7 +9781,7 @@ Norbormide	OC(C1=CC2C3C(C1\C2=C(/C1=CC=CC=C1)C1=CC=CC=N1)C(=O)NC3=O)(C1=CC=CC=C1
 Alpha-Naphthylthiourea	S=C(N)Nc2cccc1ccccc12
 Pyrinuron	[O-][N+](=O)c1ccc(cc1)NC(=O)NCc2cccnc2
 Phosacetim	C/C(=N\P(=S)(OC1=CC=C(C=C1)Cl)OC2=CC=C(C=C2)Cl)N
-Scilliroside	CC(=O)O[C@@H]1C[C@@]2([C@H](CC[C@]3([C@@]2(CC[C@@H]3C4=COC(=O)C=C4)O)C)[C@@]5(C1=C[C@H](CC5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)O
+Scilliroside	CC(=O)O[C@@H]1C[C@@]2([C@H](CC[C@]3([C@@]2(CC[C@@H]3c4ccc(=O)oc4)O)C)[C@@]5(C1=C[C@H](CC5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)O
 Bensulide	CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1
 Chlorethoxyfos	ClC(OP(=S)(OCC)OCC)C(Cl)(Cl)Cl
 Disulfoton	S=P(OCC)(SCCSCC)OCC
@@ -13245,7 +13245,7 @@ Thiomuscimol	C1=C(SN=C1O)CN
 1-Nitropropane	CC(C)[N+](=O)[O-]
 Polybutylene succinate	
 Poly(ethylene succinate)	
-SL 75102	C1=CC(=CC=C1C(=C2C=C(C=CC2=O)F)NCCCC(=O)O)Cl
+SL-75102	C1=CC(=CC=C1C(=C2C=C(C=CC2=O)F)NCCCC(=O)O)Cl
 Arofylline	CCCN1C(=O)C2=C(N=CN2)N(C1=O)C3=CC=C(C=C3)Cl
 Cilostamide	CN(C1CCCCC1)C(=O)CCCOC2=CC3=C(C=C2)NC(=O)C=C3
 KMUP-1	CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CCN3CCN(CC3)C4=CC=CC=C4Cl
@@ -13286,7 +13286,7 @@ Diacetylnalorphine	CC(=O)O[C@H]1C=C[C@H]2[C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)OC(=
 Difenamizole	CC(C(=O)NC1=CC(=NN1C2=CC=CC=C2)C3=CC=CC=C3)N(C)C
 Dihydroisocodeine	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@@H](CC4)O
 Thevinone	CC(=O)[C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)OC)O4)C)OC
-LY-255,582	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CC[C@@H](C3CCCCC3)O
+LY-255582	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CC[C@@H](C3CCCCC3)O
 Cytochrophin-4	C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CC3=CC=C(C=C3)O)N)O
 Aceturic acid	CC(=O)NCC(=O)O
 Obovatol	C=CCC1=CC=C(C=C1)OC2=CC(=CC(=C2O)O)CC=C
@@ -13762,3 +13762,16 @@ Cresidinesulfonic acid	Cc1cc(c(cc1S(=O)(=O)O)OC)N
 1,3-Dehydroadamantane	C1C2CC34CC1CC3(C2)C4
 Bacillibactin	C[C@@H]1[C@@H](C(=O)O[C@@H]([C@@H](C(=O)O[C@@H]([C@@H](C(=O)O1)NC(=O)CNC(=O)c2cccc(c2O)O)C)NC(=O)CNC(=O)c3cccc(c3O)O)C)NC(=O)CNC(=O)c4cccc(c4O)O
 Circumdatin H	COc1ccc2c(c1)c(=O)n-3c(n2)[C@@H]4CCCN4C(=O)c5c3cccc5
+Suxethonium chloride	CC[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)CC.[Cl-].[Cl-]
+Clonazolam	ClC1=C(C=CC=C1)C1=NCC=2N(C3=C1C=C(C=C3)[N+](=O)[O-])C(=NN2)C
+NBD-TMA	C[N+](C)(C)CCNc1ccc(c2c1non2)[N+](=O)[O-]
+Victoria blue BO	[Cl-].CCNc1ccc(c2ccccc12)C(c3ccc(cc3)N(CC)CC)=C4C=CC(C=C4)=[N+](CC)CC
+Brilliant cresyl blue	
+Alcian yellow	Cc1cc2c(cc1CSC(=[N+](C)C)N(C)C)nc(s2)c3ccc(cc3)/N=N/c4ccc(cc4)c5nc6cc(c(cc6s5)C)CSC(=[N+](C)C)N(C)C
+Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
+Victoria blue R	
+PBT2	CN(C)CC1=NC2=C(C=C1)C(=CC(=C2O)Cl)Cl
+Panicudine	CC(=O)O[C@H]1C[C@]2(CN([C@@H]3[C@H]4C(=O)[C@H]5C[C@H]6[C@]3(C1)[C@@H]2C(=O)C[C@]64CC5=C)C)C
+Nitrogen monofluoride	FN
+Pentaborane(11)	
+Monofluorophosphate	[O-]P(=O)([O-])F
