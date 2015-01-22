@@ -1,5 +1,5 @@
 {
-	"version": "2.10.0",
+	"version": "2.11.0",
 	"grid": {
 		"xWidth": 10,
 		"yHeight": 10,
@@ -306,7 +306,7 @@
 					"name": "hover"
 				},
 				{
-					"event": "onSelect",
+					"event": "onHover",
 					"rel": "row",
 					"jpath": [
 						"link"
