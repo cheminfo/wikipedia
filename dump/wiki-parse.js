@@ -13,7 +13,7 @@ program
 var regChembox = /{{ *chembox/i,
     regDrugbox = /{{ *drugbox/i,
     regInfoboxDrug = /{{ *infobox drug/i,
-    regSmiles = /\| *smiles\d* *= *([^}\n\|]+)/gi;
+    regSmiles = /\| *smiles\d* *= *([^ ][^}\n\|]*)/gi;
 
 function getSmiles(content) {
 
