@@ -1,4 +1,6 @@
-Copyright (c) 2015
+Copyright (c) 2015, Peter Ertl, Luc Patiny, Thomas Sander, Christian Rufener and Michaël Zasso
+
+Please check individuel licenses of the components compiled in the project for further information.
 
 All rights reserved.
 
