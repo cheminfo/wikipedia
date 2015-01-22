@@ -142,70 +142,33 @@
 
 						handleMouseLeave: function() {
 
-							if( self.msSerieMouseTrack ) {
-								self.msSerieMouseTrack.kill();
-								self.msSerieMouseTrack = false;
-							}
+//							if( self.msSerieMouseTrack ) {
+//								self.msSerieMouseTrack.kill();
+//								self.msSerieMouseTrack = false;
+//							}
 						},
+
 
 						onMouseMoveData: function( e, val ) {
 
+							if( self.lockTrackingLine ) {
+								return;
+							}
 
-							for(var i in val) { // Get the first value
+							for( var i in val ) { // Get the first value
 								break;
 							}
 
-							if( val[i] == undefined || ! self.msData ) {
+							if( val[ i ] == undefined || ! self.msData ) {
 								return;
 							}
 
-							var x = val[i].xBeforeIndex;
-							var ms = self.msData[x];
+							var x = val[ i ].xBeforeIndex;
 
-							if( ! self.msSerieMouseTrack ) {
-								
-								self.msSerieMouseTrack = self
-								.msGraph
-								.newSerie("", 
-									{ 
-										lineToZero: ! this.options.msIsContinuous,
-										lineColor: 'rgba( 100, 100, 100, 0.5 )'
-									}
-								)
-								.autoAxis();
-
-
+							if( x ) {
+								self.recalculateMSMove( x );
 							}
-
-							if( ! ms ) {
-								return;
-							}
-
-							self.msSerieMouseTrack.setData( ms );
-
-
-							if( self.firstMsSerie ) {
-								self.msGraph.getBottomAxis().setMinMaxToFitSeries();
-								self.firstMsSerie = false;
-							}
-
-							self.msGraph._updateAxes();
-
-
-							if( !isNaN( self.msGraph.getBottomAxis().getActualMin() ) ) {
-
-								self.msGraph.getLeftAxis().scaleToFitAxis( self.msGraph.getBottomAxis(), self.msSerieMouseTrack );
-//								self.msGraph.getLeftAxis().setMinMaxToFitSeries();
-
-							} else {
-
-								self.msGraph.autoscaleAxes();
-							}
-							// Autoscale y ?
-							
-							self.msGraph.redraw();
-							self.msSerieMouseTrack.draw();
-						}
+						},
 					},
 
 					axisGc = {
@@ -403,6 +366,36 @@
 				this.gcGraph.redraw();
 				this.msGraph.redraw();
 
+				this.gcGraph.on('click', function( e ) {
+					
+					if( e.target.nodeName == 'path' || e.target.nodeName == 'text' ) {
+						return;
+					}
+
+					self.lockTrackingLine = ! self.lockTrackingLine;
+				});
+
+				this.gcGraph.newShape({
+					pos: { 
+						x: 100,
+						y: 'min'
+					},
+
+					pos2: {
+						x: 100,
+						y: 'max'
+					},
+
+					type: 'line',
+					strokeColor: 'rgba(0, 0, 0, 1)',
+					strokeWidth: 2	}).then( function( shape ) {
+
+						self.trackingLineGC = shape;
+						shape.draw();
+						shape.lock();
+						shape.redraw();
+					})
+
 				this.gcGraph.getTopAxis().linkToAxis( this.gcGraph.getBottomAxis(), function( val ) { return val * 3; }, 1 );
 
 				this.msGraph.on("shapeSelect", function( shape ) {
@@ -487,7 +480,9 @@
 				this.gcGraph.shapeHandlers.onSelected.push( function( shape ) {
 					self.doMsFromAUC( shape.data, shape );
 				} );
-*/
+*/	
+				
+				this.lockTrackingLine = false;
 
 			},
 
@@ -775,6 +770,7 @@
 					var to = axis.getActualMax();
 					
 					this.trigger("onZoomGC", [ from, to ] );
+
 						
 
 					this.gcData = gc[ i ];
@@ -928,6 +924,71 @@
 				});
 
 				this.updateIngredientPeaks();
+			},
+
+
+			setMSIndexData: function( x ) {
+
+				this.recalculateMSMove( x );
+			},
+
+			recalculateMSMove: function( x ) {
+				var self = this;
+				var ms = self.msData[x];
+
+				self.trigger('MSChangeIndex', [ x ] );
+
+				if( ! self.msSerieMouseTrack ) {
+					
+					self.msSerieMouseTrack = self
+					.msGraph
+					.newSerie("", 
+						{ 
+							lineToZero: ! self.options.msIsContinuous,
+							lineColor: 'rgba( 100, 100, 100, 0.5 )'
+						}
+					)
+					.autoAxis();
+				}
+
+
+
+					var xVal = self.gcData[ x * 2 ];
+					
+					self.trackingLineGC.data.pos.x = xVal;
+					self.trackingLineGC.data.pos2.x = xVal;
+
+					self.trackingLineGC.redraw();
+
+					if( ! ms ) {
+						return;
+					}
+				
+				
+				self.msSerieMouseTrack.setData( ms );
+
+
+				if( self.firstMsSerie ) {
+					self.msGraph.getBottomAxis().setMinMaxToFitSeries();
+					self.firstMsSerie = false;
+				}
+
+				self.msGraph._updateAxes();
+
+
+				if( !isNaN( self.msGraph.getBottomAxis().getActualMin() ) ) {
+
+					self.msGraph.getLeftAxis().scaleToFitAxis( self.msGraph.getBottomAxis(), self.msSerieMouseTrack );
+//								self.msGraph.getLeftAxis().setMinMaxToFitSeries();
+
+				} else {
+
+					self.msGraph.autoscaleAxes();
+				}
+				// Autoscale y ?
+				
+				self.msGraph.redraw();
+				self.msSerieMouseTrack.draw();
 			},
 
 			updateIngredientPeaks: function() {

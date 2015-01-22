@@ -53,12 +53,26 @@
 			"Array search": {
 				"modules": [
 					{
-						"moduleName": "Configured search",
+						"moduleName": "Configured array search",
 						"url": "modules/types/array_search/configured_search/"
 					}
 				],
 				"folders": {},
 				"name": "Array search"
+			},
+			"Bio": {
+				"modules": [
+					{
+						"moduleName": "Protein Feature Viewer",
+						"url": "modules/types/bio/feature_viewer/"
+					},
+					{
+						"moduleName": "Sequence displayer",
+						"url": "modules/types/bio/sequence/"
+					}
+				],
+				"folders": {},
+				"name": "Bio"
 			},
 			"Chart": {
 				"modules": [],
@@ -70,7 +84,7 @@
 								"url": "modules/types/chart/advanced/canvas_matrix/"
 							},
 							{
-								"moduleName": "Function plotter",
+								"moduleName": "3D function plotter",
 								"url": "modules/types/chart/advanced/plot_function/"
 							},
 							{
@@ -92,16 +106,16 @@
 								"url": "modules/types/chart/basic/pie_chart_jit/"
 							},
 							{
-								"moduleName": "Stack chart",
-								"url": "modules/types/chart/basic/stack_chart/"
-							},
-							{
 								"moduleName": "Radar chart",
 								"url": "modules/types/chart/basic/radar_chart/"
 							},
 							{
-								"moduleName": "Scatter 3D",
+								"moduleName": "3D scatter plot",
 								"url": "modules/types/chart/basic/scatter3D/"
+							},
+							{
+								"moduleName": "Stack chart",
+								"url": "modules/types/chart/basic/stack_chart/"
 							}
 						],
 						"folders": {},
@@ -110,7 +124,7 @@
 					"Maps": {
 						"modules": [
 							{
-								"moduleName": "Map",
+								"moduleName": "Leaflet map",
 								"url": "modules/types/chart/maps/leaflet/"
 							}
 						],
@@ -120,11 +134,11 @@
 					"Statistics": {
 						"modules": [
 							{
-								"moduleName": "Display dendrogram",
+								"moduleName": "Circular dendrogram",
 								"url": "modules/types/chart/statistics/dendrogram/"
 							},
 							{
-								"moduleName": "Loading plot",
+								"moduleName": "Score plot",
 								"url": "modules/types/chart/statistics/loading_plot/"
 							},
 							{
@@ -132,7 +146,7 @@
 								"url": "modules/types/chart/statistics/parallel_coordinates/"
 							},
 							{
-								"moduleName": "D3 Phylogram",
+								"moduleName": "Phylogram",
 								"url": "modules/types/chart/statistics/phylogram/"
 							}
 						],
@@ -145,7 +159,7 @@
 			"Client interaction": {
 				"modules": [
 					{
-						"moduleName": "Button action",
+						"moduleName": "Button",
 						"url": "modules/types/client_interaction/button_action/"
 					},
 					{
@@ -165,7 +179,11 @@
 						"url": "modules/types/client_interaction/paste_text/"
 					},
 					{
-						"moduleName": "XYZ Zoom navigator",
+						"moduleName": "X Nav",
+						"url": "modules/types/client_interaction/xnavigator/"
+					},
+					{
+						"moduleName": "X-Y-Z Zoom",
 						"url": "modules/types/client_interaction/xyzoomnavigator/"
 					}
 				],
@@ -179,24 +197,28 @@
 						"url": "modules/types/display/2d_list/"
 					},
 					{
-						"moduleName": "Fast two dimensional list",
+						"moduleName": "Two dimensional list (fast)",
 						"url": "modules/types/display/2d_list_fast/"
 					},
 					{
-						"moduleName": "Fast table",
-						"url": "modules/types/display/fasttable/"
+						"moduleName": "Hierarchical structure",
+						"url": "modules/types/display/fancytree/"
 					},
 					{
-						"moduleName": "Hashmap display",
-						"url": "modules/types/display/hashmap/"
+						"moduleName": "Table (fast)",
+						"url": "modules/types/display/fasttable/"
 					},
 					{
 						"moduleName": "Iframe",
 						"url": "modules/types/display/iframe/"
 					},
 					{
-						"moduleName": "Complex grid",
+						"moduleName": "Table",
 						"url": "modules/types/display/jqgrid/"
+					},
+					{
+						"moduleName": "Panzoom",
+						"url": "modules/types/display/panzoom/"
 					},
 					{
 						"moduleName": "Sticky note",
@@ -210,14 +232,6 @@
 					{
 						"moduleName": "Twig template",
 						"url": "modules/types/display/template-twig/"
-					},
-					{
-						"moduleName": "Hierarchical structure",
-						"url": "modules/types/display/fancytree/"
-					},
-					{
-						"moduleName": "Panzoom",
-						"url": "modules/types/display/panzoom/"
 					}
 				],
 				"folders": {},
@@ -226,11 +240,19 @@
 			"Edition": {
 				"modules": [
 					{
+						"moduleName": "Alpaca form",
+						"url": "modules/types/edition/alpaca/"
+					},
+					{
+						"moduleName": "Edit/Display",
+						"url": "modules/types/edition/dualview/"
+					},
+					{
 						"moduleName": "Filter editor",
 						"url": "modules/types/edition/filter_editor/"
 					},
 					{
-						"moduleName": "Form",
+						"moduleName": "Templated form",
 						"url": "modules/types/edition/form/"
 					},
 					{
@@ -242,28 +264,20 @@
 						"url": "modules/types/edition/object_editor/"
 					},
 					{
-						"moduleName": "Onde",
+						"moduleName": "Onde form",
 						"url": "modules/types/edition/onde/"
-					},
-					{
-						"moduleName": "Alpaca",
-						"url": "modules/types/edition/alpaca/"
-					},
-					{
-						"moduleName": "Edit/Display",
-						"url": "modules/types/edition/dualview/"
 					},
 					{
 						"moduleName": "Rich text editor",
 						"url": "modules/types/edition/rich_text/"
 					},
 					{
-						"moduleName": "SVG Editor",
-						"url": "modules/types/edition/svg_editor/"
+						"moduleName": "Slick Grid",
+						"url": "modules/types/edition/slick_grid/"
 					},
 					{
-						"moduleName": "Table Editor",
-						"url": "modules/types/edition/slick_grid/"
+						"moduleName": "SVG Editor",
+						"url": "modules/types/edition/svg_editor/"
 					}
 				],
 				"folders": {},
@@ -272,28 +286,32 @@
 			"Legacy": {
 				"modules": [
 					{
+						"moduleName": "Button url",
+						"url": "modules/types/legacy/button_url/"
+					},
+					{
 						"moduleName": "Two dimensional list",
 						"url": "modules/types/legacy/filelistupload/"
+					},
+					{
+						"moduleName": "Filter",
+						"url": "modules/types/legacy/filter/"
 					},
 					{
 						"moduleName": "Selector",
 						"url": "modules/types/legacy/grid_selector/"
 					},
 					{
-						"moduleName": "Webservice Crontab",
-						"url": "modules/types/legacy/webservice_cron/"
-					},
-					{
-						"moduleName": "Navigator",
-						"url": "modules/types/legacy/xyzoomnavigator/"
-					},
-					{
-						"moduleName": "Filter",
-						"url": "modules/types/edition/filter/"
+						"moduleName": "Hashmap display",
+						"url": "modules/types/legacy/hashmap/"
 					},
 					{
 						"moduleName": "Var Editor",
-						"url": "modules/types/edition/var_editor/"
+						"url": "modules/types/legacy/var_editor/"
+					},
+					{
+						"moduleName": "Webservice Crontab",
+						"url": "modules/types/legacy/webservice_cron/"
 					}
 				],
 				"folders": {},
@@ -309,12 +327,8 @@
 								"url": "modules/types/science/chemistry/jsme/"
 							},
 							{
-								"moduleName": "JSMol module",
+								"moduleName": "JSMol",
 								"url": "modules/types/science/chemistry/jsmol/"
-							},
-							{
-								"moduleName": "CWC molfile displayer",
-								"url": "modules/types/science/chemistry/mol2d/"
 							}
 						],
 						"folders": {},
@@ -331,7 +345,7 @@
 								"url": "modules/types/science/spectra/ivstability/"
 							},
 							{
-								"moduleName": "Plotter",
+								"moduleName": "Spectra displayer",
 								"url": "modules/types/science/spectra/spectra_displayer/"
 							}
 						],
@@ -363,10 +377,6 @@
 			"Server interaction": {
 				"modules": [
 					{
-						"moduleName": "Two dimensional list",
-						"url": "modules/types/server_interaction/button_url/"
-					},
-					{
 						"moduleName": "Webservice Cron",
 						"url": "modules/types/server_interaction/webservice_cron/"
 					},
@@ -377,20 +387,6 @@
 				],
 				"folders": {},
 				"name": "Server interaction"
-			},
-			"Bio": {
-				"modules": [
-					{
-						"moduleName": "Sequence displayer",
-						"url": "modules/types/bio/sequence/"
-					},
-					{
-						"moduleName": "Protein Annotation Viewer",
-						"url": "modules/types/bio/feature_viewer/"
-					}
-				],
-				"folders": {},
-				"name": "Bio"
 			}
 		},
 		"modules": [],

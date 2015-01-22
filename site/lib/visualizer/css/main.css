@@ -214,7 +214,9 @@ div.ci-module-wrapper .ci-module {
 }
 
 
-#modules-grid > div.ci-module-wrapper.ci-module-displaywrapper .ci-module-header {	display: block;
+#modules-grid > div.ci-module-wrapper.ci-module-displaywrapper .ci-module-header {
+	display: flex;
+	justify-content: space-between;
 	height: 23px;
 	font-size: 1.2em;
 	
@@ -266,28 +268,36 @@ div.ci-module-wrapper .ci-module-header .ci-module-header-title {
 	line-height: 23px;
 	margin-left: 10px;
 	float: left;
+	max-height: 100%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	max-width: 89%;
+	white-space: nowrap;
 }
 
 div.ci-module-header-toolbar {
-	float: right;
-	height: 100%;
+	max-height: 100%;
+	overflow:hidden;
 }
 div.ci-module-header-toolbar ul {
-	margin: 0;
-	height: 100%;
-	margin-right: 10px;
-  padding: 0;
+	margin: 0 10px 0 0;
+	max-height: 100%;
+  	padding: 0;
+	white-space: nowrap;
 }
 
 div.ci-module-header-toolbar ul li {
-	margin: 0;
+	margin: 0 0 0 10px;
 	list-style-type: none;
-	margin-left: 10px;
 	cursor: pointer;
 	color: #666666;
-	line-height: 100%;
+	/*line-height: 100%;*/
 	float: left;
 	padding-top: 3px;
+}
+
+div.ci-module-header-toolbar ul li img {
+	width: 15px; height: 15px;
 }
 
 div.ci-module-wrapper .ci-module-content {
@@ -387,6 +397,10 @@ div.ci-module-wrapper.ci-module-jqgrid .ci-module-content .ui-jqgrid tr.ui-state
 	text-align: center;
 	margin-bottom: 3px;
 	cursor: pointer;
+}
+
+.ci-highlight {
+	background-color: #FFFF99;
 }
 
 .ci-plot {

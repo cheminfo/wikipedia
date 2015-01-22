@@ -1,11 +1,11 @@
 /*!
- * jsGraph JavaScript Graphing Library v1.10.4-13
+ * jsGraph JavaScript Graphing Library v1.10.4-30
  * http://github.com/NPellet/jsGraph
  *
  * Copyright 2014 Norman Pellet
  * Released under the MIT license
  *
- * Date: 2015-01-11T00:28Z
+ * Date: 2015-01-20T10:05Z
  */
 
 (function( global, factory ) {
@@ -56,8 +56,6 @@ build['./dependencies/eventEmitter/EventEmitter'] = ( function( ) { /*!
 
   // Shortcuts to improve speed and size
   var proto = EventEmitter.prototype;
-  var exports = this;
-  var originalGlobalValue = exports.EventEmitter;
 
   /**
    * Finds the index of the listener for the event in its storage array.
@@ -479,32 +477,8 @@ build['./dependencies/eventEmitter/EventEmitter'] = ( function( ) { /*!
     return this._events || ( this._events = {} );
   };
 
-  /**
-   * Reverts the global {@link EventEmitter} to its previous value and returns a reference to this version.
-   *
-   * @return {Function} Non conflicting EventEmitter class.
-   */
-  EventEmitter.noConflict = function noConflict() {
-    exports.EventEmitter = originalGlobalValue;
-    return EventEmitter;
-  };
-  /*
-  // Expose the class either via AMD, CommonJS or the global object
-  if ( typeof define === 'function' && define.amd ) {
-    define( function() {
-      return EventEmitter;
-    } );
-  } else if ( typeof module === 'object' && module.exports ) {
-    module.exports = EventEmitter;
-  } else {
-    
-  }*/
-
-  exports.EventEmitter = EventEmitter;
-
   return EventEmitter;
-
- } ) ( build["./dependencies/eventEmitter/jquery"] );
+ } ) (  );
 
 
 // Build: End source file (dependencies/eventEmitter/EventEmitter) 
@@ -749,6 +723,10 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
     },
     getMathMaxPx: function() {
       return this.maxPx;
+    },
+
+    getMathMinPx: function() {
+      return this.minPx;
     },
 
     // Returns the true minimum of the axis. Either forced in options or the one from the data
@@ -1374,6 +1352,7 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
     },
 
     getRelPx: function( value ) {
+
       return ( value / this._getActualInterval() ) * ( this.getMaxPx() - this.getMinPx() );
     },
 
@@ -1683,6 +1662,7 @@ build['./graph.axis.x'] = ( function( $, GraphAxis ) {
 
     drawTick: function( value, label, scaling, options, forcedPos ) {
       var group = this.groupTicks;
+      var val;
       var tick = document.createElementNS( this.graph.ns, 'line' );
 
       if ( forcedPos !== undefined ) {
@@ -1855,6 +1835,8 @@ build['./graph.axis.y'] = ( function( GraphAxis ) {
     },
 
     drawTick: function( value, label, scaling, options, forcedPos ) {
+      var pos;
+
       var group = this.groupTicks,
         tickLabel,
         labelWidth = 0;
@@ -5005,6 +4987,16 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
       return false;
     },
 
+    getDeltaPx: function( value, axis ) {
+      var v;
+      if ( ( v = _parsePx( value ) ) !== false ) {
+        return ( v ) + "px";
+      } else {
+
+        return ( axis.getRelPx( value ) ) + "px";
+      }
+    },
+
     deltaPosition: function( ref, delta, axis ) {
 
       var refPx, deltaPx;
@@ -5346,6 +5338,7 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
 
       var coords = self._getXY( e );
       self.cancelClick = true;
+
       _handleDblClick( self, coords.x, coords.y, e );
     } );
 
@@ -5364,8 +5357,15 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
 
       // Only execute the action after 100ms
       self.clickTimeout = window.setTimeout( function() {
+
+        if ( self.cancelClick ) {
+          self.cancelClick = false;
+          return;
+        }
+
         _handleClick( self, coords.x, coords.y, e );
-      }, 100 );
+
+      }, 200 );
     } );
 
     graph.dom.addEventListener( 'mousewheel', function( e ) {
@@ -5390,7 +5390,6 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
   function _handleMouseDown( graph, x, y, e ) {
 
     var self = graph,
-      $target = $( e.target ),
       shift = e.shiftKey,
       ctrl = e.ctrlKey,
       keyComb = graph.options.pluginAction,
@@ -5486,7 +5485,8 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
 
   function _handleClick( graph, x, y, e ) {
 
-    if ( !e.shiftKey ) {
+    graph.emit( 'click', e );
+    if ( e.target == graph.rectEvent && !e.shiftKey ) {
       graph.unselectShapes();
     }
 
@@ -5977,6 +5977,7 @@ build['./graph._serie'] = ( function( EventEmitter ) {
     /* AXIS */
 
     autoAxis: function() {
+
       this.setXAxis( !this.isFlipped() ? this.graph.getXAxis() : this.graph.getYAxis() );
       this.setYAxis( !this.isFlipped() ? this.graph.getYAxis() : this.graph.getXAxis() );
 
@@ -6115,6 +6116,11 @@ build['./graph._serie'] = ( function( EventEmitter ) {
       return this.xmonotoneous ||  false;
     },
 
+    XMonotoneousDirection: function() {
+
+      return ( this.data[ 0 ][ 2 ] - this.data[ 0 ][ 0 ] ) > 0;
+    },
+
     getLayer: function() {
       return this.options.layer ||  1;
     },
@@ -6186,392 +6192,6 @@ build['./plugins/graph.plugin.drag'] = ( function( ) {
 
 
 // Build: End source file (plugins/graph.plugin.drag) 
-
-
-
-;
-/* 
- * Build: new source file 
- * File name : plugins/graph.plugin.linking
- * File path : /Users/normanpellet/Documents/Web/graph/src/plugins/graph.plugin.linking.js
- */
-
-build['./plugins/graph.plugin.linking'] = ( function( ) { 
-
-  var plugin = function() {};
-
-  plugin.prototype = {
-
-    init: function( graph, options, plugin ) {
-
-      throw "Plugin deprecated. Use wrapper code instead (see jsNMR)";
-
-      this.options = options;
-      var self = this;
-      this.graph = graph;
-      this.plugin = plugin;
-
-      var funcs = {
-
-        /* Linking shapes */
-
-        linkA: function( shapeA, line ) {
-          this.linking.current.a = shapeA;
-          this.linking.current.line = line;
-        },
-
-        linkB: function( shapeB ) {
-          this.linking.current.b = shapeB;
-        },
-
-        getLinkingA: function() {
-          return this.linking.current.a;
-        },
-
-        getLinkingB: function() {
-          return this.linking.current.b;
-        },
-
-        isLinking: function( set ) {
-          return !!this.linking.current.a;
-        },
-
-        newLinkingLine: function() {
-          var line = document.createElementNS( this.ns, 'line' );
-          line.setAttribute( 'class', 'graph-linkingline' );
-          this.shapeZone.insertBefore( line, this.shapeZone.firstChild );
-          return line;
-        },
-
-        getLinkingLine: function( add ) {
-          return this.linking.current.line;
-        },
-
-        endLinking: function() {
-
-          if ( ( this.linking.current.a == this.linking.current.b && this.linking.current.a ) || ( !this.linking.current.b && this.linking.current.a ) ) {
-
-            this.shapeZone.removeChild( this.linking.current.line );
-            this.linking.current = {};
-
-            return;
-          }
-
-          if ( this.linking.current.line ) {
-
-            this.linking.current.line.style.display = "none";
-            this.linking.links.push( this.linking.current );
-            this.linking.current = {};
-          }
-
-          return this.linking.links[ this.linking.links.length - 1 ];
-        },
-
-        linkingReveal: function() {
-
-          for ( var i = 0, l = this.linking.links.length; i < l; i++ ) {
-
-            this.linking.links[ i ].line.style.display = "block";
-          }
-        },
-
-        linkingHide: function() {
-
-          for ( var i = 0, l = this.linking.links.length; i < l; i++ ) {
-
-            this.linking.links[ i ].line.style.display = "none";
-          }
-        }
-
-      };
-
-      for ( var i in funcs ) {
-        graph[ i ] = funcs[ i ];
-      }
-
-      function linkingStart( shape, e, clicked ) {
-
-        self.islinking = true;
-        var linking = shape.graph.isLinking();
-
-        if ( linking ) {
-          return;
-        }
-
-        var line = shape.graph.newLinkingLine();
-        var coords = shape.getLinkingCoords();
-
-        line.setAttribute( 'x1', coords.x );
-        line.setAttribute( 'y1', coords.y );
-        line.setAttribute( 'x2', coords.x );
-        line.setAttribute( 'y2', coords.y );
-
-        shape.graph.linkA( shape, line );
-      }
-
-      function linkingMove( shape, e ) {
-
-        var linking = shape.graph.isLinking();
-
-        if ( !linking ) {
-          return;
-        }
-
-        if ( shape.graph.getLinkingB() ) { // Hover something else
-          return;
-        }
-
-        var line = shape.graph.getLinkingLine();
-        var coords = shape.graph._getXY( e );
-
-        line.setAttribute( 'x2', coords.x - shape.graph.getPaddingLeft() );
-        line.setAttribute( 'y2', coords.y - shape.graph.getPaddingTop() );
-      }
-
-      function linkingOn( shape, e ) {
-
-        var linking = shape.graph.isLinking();
-        if ( !linking ) {
-          return;
-        }
-
-        var linkingA = shape.graph.getLinkingA();
-
-        if ( linkingA == this ) {
-          return;
-        }
-
-        shape.graph.linkB( shape ); // Update B element
-
-        var coords = shape.getLinkingCoords();
-
-        var line = shape.graph.getLinkingLine();
-        line.setAttribute( 'x2', coords.x );
-        line.setAttribute( 'y2', coords.y );
-      }
-
-      function linkingOut( shape, e ) {
-
-        var linking = shape.graph.isLinking();
-        if ( !linking ) {
-          return;
-        }
-        shape.graph.linkB( undefined ); // Remove B element
-      }
-
-      function linkingFinalize( shape ) {
-
-        return shape.graph.endLinking();
-      }
-
-      graph.linking = {
-        current: {},
-        links: []
-      };
-      /*
-			graph._dom.addEventListener('keydown', function( e ) {
-
-				e.preventDefault();
-				e.stopPropagation();
-
-				if( ( e.keyCode == 16 && e.ctrlKey ) || ( e.keyCode == 17 && e.shiftKey )) {
-					graph.linkingReveal();
-				}
-			});*/
-
-      /*			graph._dom.addEventListener( 'keyup', function( e ) {
-
-				e.preventDefault();
-				e.stopPropagation();
-				graph.linkingHide();
-			});
-*/
-      graph.shapeHandlers.mouseDown.push( function( e ) {
-
-        if ( self.graph.isPluginAllowed( e, self.plugin ) ) {
-
-          this.moving = false;
-          this.handleSelected = false;
-
-          linkingStart( this, e, true );
-        }
-      } );
-
-      graph.shapeHandlers.mouseUp.push( function( e ) {
-
-        var link;
-        if ( ( link = linkingFinalize( this ) ) ) {
-
-          link.a.linking = link.a.linking ||  0;
-          link.a.linking++;
-
-          link.b.linking = link.b.linking ||  0;
-          link.b.linking++;
-
-          link.a.addClass( 'linking' );
-          link.b.addClass( 'linking' );
-
-          link.a.addClass( 'linking' + link.a.linking );
-          link.a.removeClass( 'linking' + ( link.a.linking - 1 ) );
-
-          link.b.addClass( 'linking' + link.a.linking );
-          link.b.removeClass( 'linking' + ( link.a.linking - 1 ) );
-
-          if ( self.options.onLinkCreate ) {
-            self.options.onLinkCreate( link.a, link.b );
-          }
-        }
-      } );
-
-      graph.shapeHandlers.mouseMove.push( function( e ) {
-
-        linkingMove( this, e, true );
-      } );
-
-      graph.shapeHandlers.mouseOver.push( function( e ) {
-
-        linkingOn( this, e, true );
-      } );
-
-      graph.shapeHandlers.mouseOut.push( function( e ) {
-
-        linkingOut( this, e, true );
-      } );
-    }
-  };
-
-  return plugin;
- } ) (  );
-
-
-// Build: End source file (plugins/graph.plugin.linking) 
-
-
-
-;
-/* 
- * Build: new source file 
- * File name : plugins/graph.plugin.nmrpeakpicking
- * File path : /Users/normanpellet/Documents/Web/graph/src/plugins/graph.plugin.nmrpeakpicking.js
- */
-
-build['./plugins/graph.plugin.nmrpeakpicking'] = ( function( ) { 
-
-  var plugin = function() {};
-
-  plugin.prototype = {
-
-    init: function( graph ) {
-      this.graph = graph;
-    },
-
-    process: function() {
-
-      //		console.log( arguments );
-
-      var series = arguments;
-      //		console.log( series[ 0 ].data );
-      //		console.log( series[ 0 ].getAdditionalData() );
-
-      this.graph.newShape( {
-
-        type: 'rect',
-        pos: {
-          x: 0,
-          y: 1000
-        },
-
-        pos2: {
-          x: 10,
-          y: 100000000
-        },
-
-        fillColor: [ 100, 100, 100, 0.3 ],
-        strokeColor: [ 100, 100, 100, 0.9 ],
-        strokeWidth: 1
-
-      } ).then( function( shape ) {
-
-        shape.draw();
-        shape.redraw();
-      } )
-
-    }
-  }
-
-  return plugin;
- } ) (  );
-
-
-// Build: End source file (plugins/graph.plugin.nmrpeakpicking) 
-
-
-
-;
-/* 
- * Build: new source file 
- * File name : plugins/graph.plugin.range
- * File path : /Users/normanpellet/Documents/Web/graph/src/plugins/graph.plugin.range.js
- */
-
-build['./plugins/graph.plugin.range'] = ( function( ) { 
-
-  var plugin = function() {};
-
-  plugin.prototype = {
-
-    init: function() {},
-
-    onMouseDown: function( graph, x, y, e, target ) {
-      var self = graph;
-      this.count = this.count || 0;
-      if ( this.count == graph.options.rangeLimitX )
-        return;
-      x -= graph.getPaddingLeft(), xVal = graph.getXAxis().getVal( x );
-
-      var shape = graph.newShape( {
-        type: 'rangeX',
-        pos: {
-          x: xVal,
-          y: 0
-        },
-        pos2: {
-          x: xVal,
-          y: 0
-        }
-      }, {
-        onChange: function( newData ) {
-          self.triggerEvent( 'onAnnotationChange', newData );
-        }
-      }, true );
-
-      if ( require ) {
-        require( [ 'src/util/context' ], function( Context ) {
-          Context.listen( shape._dom, [
-            [ '<li><a><span class="ui-icon ui-icon-cross"></span> Remove range zone</a></li>',
-              function( e ) {
-                shape.kill();
-              }
-            ]
-          ] );
-        } );
-      }
-
-      var color = Util.getNextColorRGB( this.count, graph.options.rangeLimitX );
-
-      shape.set( 'fillColor', 'rgba(' + color + ', 0.3)' );
-      shape.set( 'strokeColor', 'rgba(' + color + ', 0.9)' );
-      this.count++;
-      shape.handleMouseDown( e, true );
-      shape.draw();
-    }
-  }
-
-  return plugin;
- } ) (  );
-
-
-// Build: End source file (plugins/graph.plugin.range) 
 
 
 
@@ -6708,6 +6328,592 @@ build['./plugins/graph.plugin.shape'] = ( function( ) {
 ;
 /* 
  * Build: new source file 
+ * File name : dependencies/eventEmitter/eventEmitter
+ * File path : /Users/normanpellet/Documents/Web/graph/src/dependencies/eventEmitter/eventEmitter.js
+ */
+
+build['./dependencies/eventEmitter/eventEmitter'] = ( function( ) { /*!
+ * EventEmitter v4.2.9 - git.io/ee
+ * Oliver Caldwell
+ * MIT license
+ * @preserve
+ */
+
+
+  
+
+  /**
+   * Class for managing events.
+   * Can be extended to provide event functionality in other classes.
+   *
+   * @class EventEmitter Manages event registering and emitting.
+   */
+  function EventEmitter() {}
+
+  // Shortcuts to improve speed and size
+  var proto = EventEmitter.prototype;
+
+  /**
+   * Finds the index of the listener for the event in its storage array.
+   *
+   * @param {Function[]} listeners Array of listeners to search through.
+   * @param {Function} listener Method to look for.
+   * @return {Number} Index of the specified listener, -1 if not found
+   * @api private
+   */
+  function indexOfListener( listeners, listener ) {
+    var i = listeners.length;
+    while ( i-- ) {
+      if ( listeners[ i ].listener === listener ) {
+        return i;
+      }
+    }
+
+    return -1;
+  }
+
+  /**
+   * Alias a method while keeping the context correct, to allow for overwriting of target method.
+   *
+   * @param {String} name The name of the target method.
+   * @return {Function} The aliased method
+   * @api private
+   */
+  function alias( name ) {
+    return function aliasClosure() {
+      return this[ name ].apply( this, arguments );
+    };
+  }
+
+  /**
+   * Returns the listener array for the specified event.
+   * Will initialise the event object and listener arrays if required.
+   * Will return an object if you use a regex search. The object contains keys for each matched event. So /ba[rz]/ might return an object containing bar and baz. But only if you have either defined them with defineEvent or added some listeners to them.
+   * Each property in the object response is an array of listener functions.
+   *
+   * @param {String|RegExp} evt Name of the event to return the listeners from.
+   * @return {Function[]|Object} All listener functions for the event.
+   */
+  proto.getListeners = function getListeners( evt ) {
+    var events = this._getEvents();
+    var response;
+    var key;
+
+    // Return a concatenated array of all matching events if
+    // the selector is a regular expression.
+    if ( evt instanceof RegExp ) {
+      response = {};
+      for ( key in events ) {
+        if ( events.hasOwnProperty( key ) && evt.test( key ) ) {
+          response[ key ] = events[ key ];
+        }
+      }
+    } else {
+      response = events[ evt ] || ( events[ evt ] = [] );
+    }
+
+    return response;
+  };
+
+  /**
+   * Takes a list of listener objects and flattens it into a list of listener functions.
+   *
+   * @param {Object[]} listeners Raw listener objects.
+   * @return {Function[]} Just the listener functions.
+   */
+  proto.flattenListeners = function flattenListeners( listeners ) {
+    var flatListeners = [];
+    var i;
+
+    for ( i = 0; i < listeners.length; i += 1 ) {
+      flatListeners.push( listeners[ i ].listener );
+    }
+
+    return flatListeners;
+  };
+
+  /**
+   * Fetches the requested listeners via getListeners but will always return the results inside an object. This is mainly for internal use but others may find it useful.
+   *
+   * @param {String|RegExp} evt Name of the event to return the listeners from.
+   * @return {Object} All listener functions for an event in an object.
+   */
+  proto.getListenersAsObject = function getListenersAsObject( evt ) {
+    var listeners = this.getListeners( evt );
+    var response;
+
+    if ( listeners instanceof Array ) {
+      response = {};
+      response[ evt ] = listeners;
+    }
+
+    return response || listeners;
+  };
+
+  /**
+   * Adds a listener function to the specified event.
+   * The listener will not be added if it is a duplicate.
+   * If the listener returns true then it will be removed after it is called.
+   * If you pass a regular expression as the event name then the listener will be added to all events that match it.
+   *
+   * @param {String|RegExp} evt Name of the event to attach the listener to.
+   * @param {Function} listener Method to be called when the event is emitted. If the function returns true then it will be removed after calling.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.addListener = function addListener( evt, listener ) {
+    var listeners = this.getListenersAsObject( evt );
+    var listenerIsWrapped = typeof listener === 'object';
+    var key;
+
+    for ( key in listeners ) {
+      if ( listeners.hasOwnProperty( key ) && indexOfListener( listeners[ key ], listener ) === -1 ) {
+        listeners[ key ].push( listenerIsWrapped ? listener : {
+          listener: listener,
+          once: false
+        } );
+      }
+    }
+
+    return this;
+  };
+
+  /**
+   * Alias of addListener
+   */
+  proto.on = alias( 'addListener' );
+
+  /**
+   * Semi-alias of addListener. It will add a listener that will be
+   * automatically removed after its first execution.
+   *
+   * @param {String|RegExp} evt Name of the event to attach the listener to.
+   * @param {Function} listener Method to be called when the event is emitted. If the function returns true then it will be removed after calling.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.addOnceListener = function addOnceListener( evt, listener ) {
+    return this.addListener( evt, {
+      listener: listener,
+      once: true
+    } );
+  };
+
+  /**
+   * Alias of addOnceListener.
+   */
+  proto.once = alias( 'addOnceListener' );
+
+  /**
+   * Defines an event name. This is required if you want to use a regex to add a listener to multiple events at once. If you don't do this then how do you expect it to know what event to add to? Should it just add to every possible match for a regex? No. That is scary and bad.
+   * You need to tell it what event names should be matched by a regex.
+   *
+   * @param {String} evt Name of the event to create.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.defineEvent = function defineEvent( evt ) {
+    this.getListeners( evt );
+    return this;
+  };
+
+  /**
+   * Uses defineEvent to define multiple events.
+   *
+   * @param {String[]} evts An array of event names to define.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.defineEvents = function defineEvents( evts ) {
+    for ( var i = 0; i < evts.length; i += 1 ) {
+      this.defineEvent( evts[ i ] );
+    }
+    return this;
+  };
+
+  /**
+   * Removes a listener function from the specified event.
+   * When passed a regular expression as the event name, it will remove the listener from all events that match it.
+   *
+   * @param {String|RegExp} evt Name of the event to remove the listener from.
+   * @param {Function} listener Method to remove from the event.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.removeListener = function removeListener( evt, listener ) {
+    var listeners = this.getListenersAsObject( evt );
+    var index;
+    var key;
+
+    for ( key in listeners ) {
+      if ( listeners.hasOwnProperty( key ) ) {
+        index = indexOfListener( listeners[ key ], listener );
+
+        if ( index !== -1 ) {
+          listeners[ key ].splice( index, 1 );
+        }
+      }
+    }
+
+    return this;
+  };
+
+  /**
+   * Alias of removeListener
+   */
+  proto.off = alias( 'removeListener' );
+
+  /**
+   * Adds listeners in bulk using the manipulateListeners method.
+   * If you pass an object as the second argument you can add to multiple events at once. The object should contain key value pairs of events and listeners or listener arrays. You can also pass it an event name and an array of listeners to be added.
+   * You can also pass it a regular expression to add the array of listeners to all events that match it.
+   * Yeah, this function does quite a bit. That's probably a bad thing.
+   *
+   * @param {String|Object|RegExp} evt An event name if you will pass an array of listeners next. An object if you wish to add to multiple events at once.
+   * @param {Function[]} [listeners] An optional array of listener functions to add.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.addListeners = function addListeners( evt, listeners ) {
+    // Pass through to manipulateListeners
+    return this.manipulateListeners( false, evt, listeners );
+  };
+
+  /**
+   * Removes listeners in bulk using the manipulateListeners method.
+   * If you pass an object as the second argument you can remove from multiple events at once. The object should contain key value pairs of events and listeners or listener arrays.
+   * You can also pass it an event name and an array of listeners to be removed.
+   * You can also pass it a regular expression to remove the listeners from all events that match it.
+   *
+   * @param {String|Object|RegExp} evt An event name if you will pass an array of listeners next. An object if you wish to remove from multiple events at once.
+   * @param {Function[]} [listeners] An optional array of listener functions to remove.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.removeListeners = function removeListeners( evt, listeners ) {
+    // Pass through to manipulateListeners
+    return this.manipulateListeners( true, evt, listeners );
+  };
+
+  /**
+   * Edits listeners in bulk. The addListeners and removeListeners methods both use this to do their job. You should really use those instead, this is a little lower level.
+   * The first argument will determine if the listeners are removed (true) or added (false).
+   * If you pass an object as the second argument you can add/remove from multiple events at once. The object should contain key value pairs of events and listeners or listener arrays.
+   * You can also pass it an event name and an array of listeners to be added/removed.
+   * You can also pass it a regular expression to manipulate the listeners of all events that match it.
+   *
+   * @param {Boolean} remove True if you want to remove listeners, false if you want to add.
+   * @param {String|Object|RegExp} evt An event name if you will pass an array of listeners next. An object if you wish to add/remove from multiple events at once.
+   * @param {Function[]} [listeners] An optional array of listener functions to add/remove.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.manipulateListeners = function manipulateListeners( remove, evt, listeners ) {
+    var i;
+    var value;
+    var single = remove ? this.removeListener : this.addListener;
+    var multiple = remove ? this.removeListeners : this.addListeners;
+
+    // If evt is an object then pass each of its properties to this method
+    if ( typeof evt === 'object' && !( evt instanceof RegExp ) ) {
+      for ( i in evt ) {
+        if ( evt.hasOwnProperty( i ) && ( value = evt[ i ] ) ) {
+          // Pass the single listener straight through to the singular method
+          if ( typeof value === 'function' ) {
+            single.call( this, i, value );
+          } else {
+            // Otherwise pass back to the multiple function
+            multiple.call( this, i, value );
+          }
+        }
+      }
+    } else {
+      // So evt must be a string
+      // And listeners must be an array of listeners
+      // Loop over it and pass each one to the multiple method
+      i = listeners.length;
+      while ( i-- ) {
+        single.call( this, evt, listeners[ i ] );
+      }
+    }
+
+    return this;
+  };
+
+  /**
+   * Removes all listeners from a specified event.
+   * If you do not specify an event then all listeners will be removed.
+   * That means every event will be emptied.
+   * You can also pass a regex to remove all events that match it.
+   *
+   * @param {String|RegExp} [evt] Optional name of the event to remove all listeners for. Will remove from every event if not passed.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.removeEvent = function removeEvent( evt ) {
+    var type = typeof evt;
+    var events = this._getEvents();
+    var key;
+
+    // Remove different things depending on the state of evt
+    if ( type === 'string' ) {
+      // Remove all listeners for the specified event
+      delete events[ evt ];
+    } else if ( evt instanceof RegExp ) {
+      // Remove all events matching the regex.
+      for ( key in events ) {
+        if ( events.hasOwnProperty( key ) && evt.test( key ) ) {
+          delete events[ key ];
+        }
+      }
+    } else {
+      // Remove all listeners in all events
+      delete this._events;
+    }
+
+    return this;
+  };
+
+  /**
+   * Alias of removeEvent.
+   *
+   * Added to mirror the node API.
+   */
+  proto.removeAllListeners = alias( 'removeEvent' );
+
+  /**
+   * Emits an event of your choice.
+   * When emitted, every listener attached to that event will be executed.
+   * If you pass the optional argument array then those arguments will be passed to every listener upon execution.
+   * Because it uses `apply`, your array of arguments will be passed as if you wrote them out separately.
+   * So they will not arrive within the array on the other side, they will be separate.
+   * You can also pass a regular expression to emit to all events that match it.
+   *
+   * @param {String|RegExp} evt Name of the event to emit and execute listeners for.
+   * @param {Array} [args] Optional array of arguments to be passed to each listener.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.emitEvent = function emitEvent( evt, args ) {
+    var listeners = this.getListenersAsObject( evt );
+    var listener;
+    var i;
+    var key;
+    var response;
+
+    for ( key in listeners ) {
+      if ( listeners.hasOwnProperty( key ) ) {
+        i = listeners[ key ].length;
+
+        while ( i-- ) {
+          // If the listener returns true then it shall be removed from the event
+          // The function is executed either with a basic call or an apply if there is an args array
+          listener = listeners[ key ][ i ];
+
+          if ( listener.once === true ) {
+            this.removeListener( evt, listener.listener );
+          }
+
+          response = listener.listener.apply( this, args || [] );
+
+          if ( response === this._getOnceReturnValue() ) {
+            this.removeListener( evt, listener.listener );
+          }
+        }
+      }
+    }
+
+    return this;
+  };
+
+  /**
+   * Alias of emitEvent
+   */
+  proto.trigger = alias( 'emitEvent' );
+
+  /**
+   * Subtly different from emitEvent in that it will pass its arguments on to the listeners, as opposed to taking a single array of arguments to pass on.
+   * As with emitEvent, you can pass a regex in place of the event name to emit to all events that match it.
+   *
+   * @param {String|RegExp} evt Name of the event to emit and execute listeners for.
+   * @param {...*} Optional additional arguments to be passed to each listener.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.emit = function emit( evt ) {
+    var args = Array.prototype.slice.call( arguments, 1 );
+    return this.emitEvent( evt, args );
+  };
+
+  /**
+   * Sets the current value to check against when executing listeners. If a
+   * listeners return value matches the one set here then it will be removed
+   * after execution. This value defaults to true.
+   *
+   * @param {*} value The new value to check for when executing listeners.
+   * @return {Object} Current instance of EventEmitter for chaining.
+   */
+  proto.setOnceReturnValue = function setOnceReturnValue( value ) {
+    this._onceReturnValue = value;
+    return this;
+  };
+
+  /**
+   * Fetches the current value to check against when executing listeners. If
+   * the listeners return value matches this one then it should be removed
+   * automatically. It will return true by default.
+   *
+   * @return {*|Boolean} The current value to check for or the default, true.
+   * @api private
+   */
+  proto._getOnceReturnValue = function _getOnceReturnValue() {
+    if ( this.hasOwnProperty( '_onceReturnValue' ) ) {
+      return this._onceReturnValue;
+    } else {
+      return true;
+    }
+  };
+
+  /**
+   * Fetches the events object and creates one if required.
+   *
+   * @return {Object} The events storage object.
+   * @api private
+   */
+  proto._getEvents = function _getEvents() {
+    return this._events || ( this._events = {} );
+  };
+
+  return EventEmitter;
+ } ) (  );
+
+
+// Build: End source file (dependencies/eventEmitter/eventEmitter) 
+
+
+
+;
+/* 
+ * Build: new source file 
+ * File name : plugins/graph.plugin.selectScatter
+ * File path : /Users/normanpellet/Documents/Web/graph/src/plugins/graph.plugin.selectScatter.js
+ */
+
+build['./plugins/graph.plugin.selectScatter'] = ( function( EventEmitter ) { 
+
+  var plugin = function() {};
+
+  plugin.prototype = $.extend( plugin.prototype, EventEmitter.prototype, {
+
+    init: function( graph, options ) {
+
+      this._path = document.createElementNS( graph.ns, 'path' );
+
+      graph.setAttributeTo( this._path, {
+        'display': 'none',
+        'fill': 'rgba(0,0,0,0.1)',
+        'stroke': 'rgba(0,0,0,1)',
+        'shape-rendering': 'crispEdges',
+        'x': 0,
+        'y': 0,
+        'height': 0,
+        'width': 0,
+        'd': ''
+      } );
+
+      this.options = options;
+      this.graph = graph;
+
+      graph.dom.appendChild( this._path );
+
+    },
+
+    setSerie: function( serie ) {
+      this.serie = serie;
+    },
+
+    onMouseDown: function( graph, x, y, e, mute ) {
+
+      if ( !this.serie ) {
+        return;
+      }
+
+      this.path = 'M ' + x + ' ' + y + ' ';
+      this.currentX = x;
+      this.currentY = y;
+
+      this.xs = [ this.serie.getXAxis().getVal( x - graph.getPaddingLeft() ) ];
+      this.ys = [ this.serie.getYAxis().getVal( y - graph.getPaddingTop() ) ];
+      this._path.setAttribute( 'd', '' );
+      this._path.setAttribute( 'display', 'block' );
+
+    },
+
+    onMouseMove: function( graph, x, y, e, mute ) {
+
+      if ( Math.pow( ( x - this.currentX ), 2 ) + Math.pow( ( y - this.currentY ), 2 ) > 25 ) {
+
+        this.path += " L " + x + " " + y + " ";
+        this.currentX = x;
+        this.currentY = y;
+
+        this.xs.push( this.serie.getXAxis().getVal( x - graph.getPaddingLeft() ) );
+        this.ys.push( this.serie.getYAxis().getVal( y - graph.getPaddingTop() ) );
+
+        this._path.setAttribute( 'd', this.path + " z" );
+
+        this.findPoints();
+      }
+    },
+
+    findPoints: function() {
+
+      var data = this.serie.data;
+      var selected = [];
+      var counter = 0,
+        j2;
+      for ( var i = 0, l = data.length; i < l; i += 2 ) {
+
+        counter = 0;
+        for ( var j = 0, k = this.xs.length; j < k; j += 1 ) {
+
+          if ( j == k - 1 ) {
+            j2 = 0;
+          } else {
+            j2 = j + 1;
+          }
+
+          if ( ( ( this.ys[ j ] < data[ i + 1 ] && this.ys[ j2 ] > data[ i + 1 ] ) || ( this.ys[ j ] > data[ i + 1 ] && this.ys[ j2 ] < data[ i + 1 ] ) ) ) {
+
+            if ( data[ i ] > ( ( data[ i + 1 ] - this.ys[ j ] ) / ( this.ys[ j2 ] - this.ys[ j ] ) ) * ( this.xs[ j2 ] - this.xs[ j ] ) + this.xs[ j ] ) {
+              counter++;
+            }
+          }
+        }
+
+        if ( counter % 2 == 1 ) {
+          selected.push( i / 2 );
+          this.serie.selectPoint( i / 2, true, "selected" );
+        } else {
+          this.serie.unselectPoint( i / 2 );
+        }
+
+      }
+
+      this.selected = selected;
+      this.emit( "selectionProcess", selected );
+    },
+
+    onMouseUp: function( graph, x, y, e, mute ) {
+      this._path.setAttribute( 'display', 'none' );
+      this.emit( "selectionEnd", this.selected );
+    },
+
+    removeZone: function() {
+
+    }
+  } );
+
+  return plugin;
+ } ) ( build["./dependencies/eventEmitter/eventEmitter"] );
+
+
+// Build: End source file (plugins/graph.plugin.selectScatter) 
+
+
+
+;
+/* 
+ * Build: new source file 
  * File name : plugins/graph.plugin.zoom
  * File path : /Users/normanpellet/Documents/Web/graph/src/plugins/graph.plugin.zoom.js
  */
@@ -6836,6 +7042,8 @@ build['./plugins/graph.plugin.zoom'] = ( function( ) {
       if ( ( x - this._zoomingXStart == 0 && this._zoomingMode != 'y' ) || ( y - this._zoomingYStart == 0 && this._zoomingMode != 'x' ) ) {
         return;
       }
+
+      graph.cancelClick = true;
 
       switch ( this._zoomingMode ) {
         case 'x':
@@ -7121,7 +7329,9 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       autoPeakPickingFormat: false,
       autoPeakPickingAllowAllY: false,
 
-      selectableOnClick: true
+      selectableOnClick: true,
+
+      markersIndependant: false
     },
 
     init: function( graph, name, options ) {
@@ -7199,7 +7409,7 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       this.groupMain.appendChild( this.markerLabelSquare );
       this.groupMain.appendChild( this.markerLabel );
 
-      this.currentAction = false;
+      this.independantMarkers = [];
 
       if ( this.initExtended1 )
         this.initExtended1();
@@ -7323,29 +7533,36 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
       index = index.join();
 
-      var _on = !hover ? !this.domMarkerSelect[ index ] : !this.domMarkerHover[ index ];
+      var _on;
+      if ( typeof force === 'undefined' ) {
+        _on = !hover ? !this.domMarkerSelect[ index ] : !this.domMarkerHover[ index ];
+      }
       var el = this[ 'domMarker' + ( hover ? 'Hover' : 'Select' ) ];
 
-      if ( _on || ( force === true && force !== false ) ) {
+      if ( _on || force === true ) {
 
         if ( !el[ index ] ) {
 
           var dom = document.createElementNS( this.graph.ns, 'path' );
-          this.setMarkerStyleTo( dom, true );
 
-          var x = this.getX( this.data[ k ][ i * 2 ] );
-          var y = this.getY( this.data[ k ][ i * 2 + 1 ] );
-
-          dom.setAttribute( 'd', "M " + x + " " + y + " " + this.getMarkerPath( this.markerFamilies[ this.selectionType ][ this.getMarkerCurrentFamily( i ) ], 1 ) );
-
+          this.setMarkerStyleTo( dom, this.markerFamilies[ this.selectionType ][ this.getMarkerCurrentFamily( i ) ] );
           this[ 'domMarker' + ( hover ? 'Hover' : 'Select' ) ][ index ] = dom;
           this.groupMarkerSelected.appendChild( dom );
 
-          if ( hover )
-            this.markerHovered++;
+        } else {
+          dom = el[ index ];
         }
 
-      } else if ( force === false ||  !_on ) {
+        var x = this.getX( this.data[ k ][ i * 2 ] );
+        var y = this.getY( this.data[ k ][ i * 2 + 1 ] );
+
+        dom.setAttribute( 'd', "M " + x + " " + y + " " + this.getMarkerPath( this.markerFamilies[ this.selectionType ][ this.getMarkerCurrentFamily( i ) ], 1 ) );
+
+        if ( hover ) {
+          this.markerHovered++;
+        }
+
+      } else if ( !_on || force === false ) {
 
         if ( ( hover && this.domMarkerHover[ index ] && !this.domMarkerSelect[ index ] ) || this.domMarkerSelect[ index ] ) {
 
@@ -7377,14 +7594,17 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
       var toggledOn = this.toggleMarker( index );
 
-      if ( toggledOn && this.options.onSelectMarker )
+      if ( toggledOn && this.options.onSelectMarker ) {
         this.options.onSelectMarker( index, this.infos ? ( this.infos[ index[ 0 ] ] ||  false ) : false );
+      }
 
-      if ( !toggledOn && this.options.onUnselectMarker )
+      if ( !toggledOn && this.options.onUnselectMarker ) {
         this.options.onUnselectMarker( index, this.infos ? ( this.infos[ index[ 0 ] ] ||  false ) : false );
+      }
 
-      if ( this.options.onToggleMarker )
+      if ( this.options.onToggleMarker ) {
         this.options.onToggleMarker( index, this.infos ? ( this.infos[ index[ 0 ] ] ||  false ) : false, toggledOn );
+      }
     },
 
     _getMarkerIndexFromEvent: function( e ) {
@@ -7485,9 +7705,13 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
         this._xDataToUse = this.xData;
       }
 
-      this._optimizeMonotoneous = this.isXMonotoneous(),
-      this._optimizeMaxPxX = this.getXAxis().getMathMaxPx(),
-      this._optimizeBreak,
+      this._optimizeMonotoneous = this.isXMonotoneous();
+      this._optimizeMaxPxX = this.XMonotoneousDirection() ? this.getXAxis().getMaxPx() : this.getXAxis().getMinPx();
+      this._optimizeMinPxX = this.XMonotoneousDirection() ? this.getXAxis().getMinPx() : this.getXAxis().getMaxPx();
+
+      this.optimizeMonotoneousDirection = ( this.XMonotoneousDirection() && !this.getXAxis().isFlipped() ) ||  ( !this.XMonotoneousDirection() && this.getXAxis().isFlipped() );
+
+      this._optimizeBreak;
       this._optimizeBuffer;
 
       // Slots
@@ -7618,6 +7842,15 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       this.insertMarkers();
       this.insertLinesGroup();
 
+      for ( var i in this.domMarkerHover ) {
+        this.toggleMarker( i.split( ',' ), true, true );
+      }
+
+      for ( var i in this.domMarkerSelect ) {
+
+        this.toggleMarker( i.split( ',' ), true, false );
+      }
+
       this.applyLineStyle( this.getSymbolForLegend() );
     },
 
@@ -7651,11 +7884,14 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       for ( ; i < l; i++ ) {
 
         toBreak = false;
+        this.counter1 = i;
 
         this.currentLine = "";
         j = 0, k = 0, m = data[ i ].length;
 
         for ( ; j < m; j += 2 ) {
+
+          this.counter2 = j / 2;
 
           if ( this.markersShown() ) {
 
@@ -7767,7 +8003,11 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
         currentLine = "M ";
         j = 0, k = 0, m = data[ i ].length;
 
+        this.counter1 = i;
+
         for ( ; j < m; j += 1 ) {
+
+          this.counter2 = j;
 
           if ( this.markersShown() ) {
 
@@ -7818,7 +8058,9 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
         return true;
       }
 
-      if ( xpx < 0 ) {
+      if ( ( this.optimizeMonotoneousDirection && xpx < this.getXAxis().getMathMinPx() ) || ( !this.optimizeMonotoneousDirection && xpx > this.getXAxis().getMathMaxPx() ) ) {
+
+        //      if ( xpx < this._optimizeMinPxX ) {
 
         this._optimizeBuffer = [ xpx, ypx ];
         return false;
@@ -7836,7 +8078,11 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
     _optimize_after: function( xpx, ypx ) {
 
-      if ( this._optimizeMonotoneous && xpx > this._optimizeMaxPxX ) {
+      if ( !this._optimizeMonotoneous ) {
+        return true;
+      }
+
+      if ( ( this.optimizeMonotoneousDirection && xpx > this.getXAxis().getMathMaxPx() ) || ( !this.optimizeMonotoneousDirection && xpx < this.getXAxis().getMathMinPx() ) ) {
 
         return false;
       }
@@ -7997,16 +8243,18 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
       }
 
-      this.counter++;
-
       if ( !this.markerPoints ) {
+        this.counter++;
+
         return;
       }
 
       if ( this.markersShown() && !( xpx > this.getXAxis().getMaxPx() ||  xpx < this.getXAxis().getMinPx() ) ) {
 
-        drawMarkerXY( this.markerFamilies[ this.selectionType ][ this.markerCurrentFamily ], xpx, ypx );
+        drawMarkerXY( this, this.markerFamilies[ this.selectionType ][ this.markerCurrentFamily ], xpx, ypx );
       }
+
+      this.counter++;
 
     },
 
@@ -8139,6 +8387,39 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       }
 
       return family.dom;
+    },
+
+    // In case markers are not grouped in families but independant
+    getMarkerDomIndependant: function( index1, index2, family ) {
+
+      var self = this;
+      var index = index1 + "," + index2;
+
+      if ( !this.independantMarkers[ index ] ) {
+
+        var dom = document.createElementNS( this.graph.ns, 'path' );
+        this.setMarkerStyleTo( dom, family );
+
+        dom.addEventListener( 'mouseover', function( e ) {
+
+          self.onMouseOverMarker( e, [ index, 0 ] );
+        } );
+
+        dom.addEventListener( 'mouseout', function( e ) {
+
+          self.onMouseOutMarker( e, [ index, 0 ] );
+        } );
+
+        dom.addEventListener( 'click', function( e ) {
+          self.onClickOnMarker( e, [ index, 0 ] );
+        } );
+
+        this.independantMarkers[ index ] = dom;
+      }
+
+      this.groupMain.appendChild( this.independantMarkers[ index ] );
+
+      return this.independantMarkers[ index ];
     },
 
     searchIndexByPxXY: function( x, y ) {
@@ -8440,18 +8721,18 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
     },
 
     getStyle: function( selectionType ) {
-
-      var s = this.styles[ selectionType || this.selectionType || "unselected" ];
-
-      if ( s ) {
-        return $.extend( {}, this.styles.unselected, s );
-      } else {
-        console.warn( "Style " + ( selectionType || this.selectionType || "unselected" ) + " does not exist. Returning unselected style" );
-      }
-
-      return this.styles.unselected;
+      return this.styles[ selectionType || this.selectionType || "unselected" ];
     },
 
+    extendStyles: function() {
+      for ( var i in this.styles ) {
+
+        var s = this.styles[ i ];
+        if ( s ) {
+          this.styles[ i ] = $.extend( {}, this.styles.unselected, s );
+        }
+      }
+    },
     /*  */
 
     setLineWidth: function( width, selectionType ) {
@@ -8590,36 +8871,13 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
         return ( a[ 0 ] - b[ 0 ] ) ||  ( a[ 2 ] == null ? -1 : 1 );
       } );
 
-      // OK now let's handle clashes
-
-      /*			for( var i = 0, l = markerPoints.length ; i < l ; i ++ ) {
-
-				// No clash
-				if( markerPoints[ i ][ 1 ] < markerPoints[ i + 1 ][ 1 ] ) {
-					continue;
-				}
-
-				var restartAt = markerPoints[ i + 1 ][ 1 ] + 1;
-				markerPoints[ i ][ 1 ] = markerPoints[ i + 1 ][ 0 ];
-
-				var j = i;
-
-				while( markerPoints[ j ][ 1 ] < restartAt ) {
-					j++;
-				}
-
-				markerPoints.splice( j, 0, [ restartAt, ])
-
-
-			}
-*/
       this.markerPoints = this.markerPoints ||  {};
       this.markerPoints[ selectionType || "unselected" ] = markerPoints;
     },
 
     insertMarkers: function() {
 
-      if ( !this.markerFamilies || !this.markerFamilies[ this.selectionType ] ) {
+      if ( !this.markerFamilies || !this.markerFamilies[ this.selectionType ] || this.options.markersIndependant ) {
         return;
       }
 
@@ -8651,11 +8909,21 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
     eraseMarkers: function() {
 
-      if ( this.currentMarkersSelectionType ) {
+      var self = this;
 
-        for ( var i in this.markerFamilies[ this.currentMarkersSelectionType ] ) {
-          this.groupMain.removeChild( this.markerFamilies[ this.currentMarkersSelectionType ][ i ].dom );
-        }
+      if ( this.options.markersIndependant ) {
+
+        this.independantMarkers.map( function( el ) {
+          self.groupMain.removeChild( el );
+        } );
+
+      } else if ( this.currentMarkersSelectionType ) {
+
+        this.markerFamilies[ this.currentMarkersSelectionType ].map( function( el ) {
+          self.groupMain.removeChild( el.dom );
+          el.path = "";
+        } );
+
         this.currentMarkersSelectionType = false;
       }
 
@@ -8769,15 +9037,22 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
 
   } );
 
-  function drawMarkerXY( family, x, y ) {
+  function drawMarkerXY( graph, family, x, y ) {
 
     if ( !family ) {
       return;
     }
 
+    if ( graph.options.markersIndependant ) {
+      var dom = graph.getMarkerDomIndependant( graph.counter1, graph.counter2, family );
+      var p = 'M ' + x + ' ' + y + ' ';
+      p += family.markerPath + ' ';
+
+      dom.setAttribute( 'd', p );
+    }
+
     family.path = family.path ||  "";
     family.path += 'M ' + x + ' ' + y + ' ';
-
     family.path += family.markerPath + ' ';
   }
 
@@ -10122,9 +10397,10 @@ build['./series/graph.serie.scatter'] = ( function( GraphSerieNonInstanciable ) 
 
     applyStyle: function( selection, index ) {
 
+      var i, j;
       var styles = this.getStyle( selection, index );
 
-      for ( var i in styles ) {
+      for ( i in styles ) {
 
         for ( j in styles[ i ] ) {
 
@@ -10248,6 +10524,10 @@ build['./series/graph.serie.scatter'] = ( function( GraphSerieNonInstanciable ) 
 
     selectPoint: function( index, setOn, selectionType ) {
 
+      if ( this.shapesDetails[ index ][ 2 ] && this.shapesDetails[ index ][ 2 ] == selectionType ) {
+        return;
+      }
+
       if ( typeof setOn == "string" ) {
         selectionType = setOn;
         setOn = undefined;
@@ -10276,6 +10556,7 @@ build['./series/graph.serie.scatter'] = ( function( GraphSerieNonInstanciable ) 
 
           selectionType = selectionType ||  "selected";
           this.shapesDetails[ index ][ 2 ] = selectionType;
+
           this.applyStyle( selectionType, index );
 
         }
@@ -10773,6 +11054,7 @@ build['./shapes/graph.shape'] = ( function( ) {
       this.setEvents();
 
       this.classes = [];
+      this.transforms = [];
 
       this._movable = true;
       this._selectable = false;
@@ -10814,7 +11096,7 @@ build['./shapes/graph.shape'] = ( function( ) {
         } );
 
         this.group.addEventListener( 'mousedown', function( e ) {
-          console.log( 'down' );
+
           self.graph.focus();
 
           //  e.preventDefault();
@@ -10967,6 +11249,7 @@ build['./shapes/graph.shape'] = ( function( ) {
       this.setStrokeColor();
       this.setStrokeWidth();
       this.setDashArray();
+      this.setTransform();
 
       this.everyLabel( function( i ) {
 
@@ -10992,6 +11275,7 @@ build['./shapes/graph.shape'] = ( function( ) {
       //	this.kill();
       var variable;
       this.position = this.setPosition();
+      this.setTransform();
 
       this.redrawImpl();
 
@@ -11089,6 +11373,46 @@ build['./shapes/graph.shape'] = ( function( ) {
     },
     setDashArray: function() {
       if ( this.get( 'strokeDashArray' ) ) this.setDom( 'stroke-dasharray', this.get( 'strokeDashArray' ) );
+    },
+
+    setTransform: function() {
+
+      var transformString = "";
+      var transforms = this.get( 'transform' );
+
+      for ( var i = 0; i < this.transforms.length; i++ ) {
+
+        transformString += this.transforms[ i ].type + "(";
+
+        switch ( this.transforms[ i ].type ) {
+
+          case 'translate':
+
+            transformString += this.graph.getDeltaPx( this.transforms[ i ].arguments[ 0 ], this.getXAxis() ).replace( 'px', '' );
+            transformString += ", ";
+            transformString += this.graph.getDeltaPx( this.transforms[ i ].arguments[ 1 ], this.getYAxis() ).replace( 'px', '' );
+            break;
+
+          case 'rotate':
+            transformString += this.transforms[ i ].arguments[ 0 ];
+            transformString += ", ";
+
+            if ( this.transforms[ i ].arguments.length == 1 ) {
+              var p = this._getPosition( this.getFromData( 'pos' ) );
+              transformString += p.x + ", " + p.y;
+
+            } else {
+              transformString += this.graph.getDeltaPx( this.transforms[ i ].arguments[ 1 ], this.getXAxis() ).replace( 'px', '' );
+              transformString += ", ";
+              transformString += this.graph.getDeltaPx( this.transforms[ i ].arguments[ 2 ], this.getYAxis() ).replace( 'px', '' );
+            }
+            break;
+        }
+
+        transformString += ") ";
+      }
+
+      this.group.setAttribute( 'transform', transformString );
     },
 
     setLabelText: function( index ) {
@@ -11223,7 +11547,10 @@ build['./shapes/graph.shape'] = ( function( ) {
 
         if ( !pos ) {
 
-          var pos = this._getPosition( this.get( 'labelPosition', labelIndex ), currPos );
+          var pos = this._getPosition( this.get( 'labelPosition', labelIndex ) || {
+            dx: 0,
+            dy: 0
+          }, currPos );
         } else {
           pos = this._getPosition( pos );
         }
@@ -11346,6 +11673,7 @@ build['./shapes/graph.shape'] = ( function( ) {
       this.setStrokeColor();
       this.setDashArray();
       this.setFillColor();
+      this.setTransform();
 
       if ( this.handlesInDom && !this._staticHandles ) {
         this.handlesInDom = false;
@@ -11489,7 +11817,7 @@ build['./shapes/graph.shape'] = ( function( ) {
 
           var self = this;
           //	e.stopPropagation();
-          e.preventDefault();
+          // e.preventDefault();
 
           if ( !this.isLocked() ) {
             this.graph.elementMoving( this );
@@ -11509,8 +11837,8 @@ build['./shapes/graph.shape'] = ( function( ) {
 
         function( e ) {
 
-          e.stopPropagation();
-          e.preventDefault();
+          //  e.stopPropagation();
+          //          e.preventDefault();
 
           if ( !e.shiftKey ) {
             this.graph.unselectShapes();
@@ -11898,7 +12226,19 @@ build['./shapes/graph.shape'] = ( function( ) {
 
     unselectStyle: function() {
 
+    },
+
+    resetTransforms: function() {
+      this.transforms = [];
+    },
+
+    addTransform: function( type, args ) {
+      this.transforms.push( {
+        type: type,
+        arguments: Array.isArray( args ) ? args : [ args ]
+      } );
     }
+
   }
 
   return GraphShape;
@@ -12434,6 +12774,120 @@ build['./shapes/graph.shape.arrow'] = ( function( GraphLine ) {
 
 
 // Build: End source file (shapes/graph.shape.arrow) 
+
+
+
+;
+/* 
+ * Build: new source file 
+ * File name : shapes/graph.shape.ellipse
+ * File path : /Users/normanpellet/Documents/Web/graph/src/shapes/graph.shape.ellipse.js
+ */
+
+build['./shapes/graph.shape.ellipse'] = ( function( GraphShape ) { 
+
+  var GraphRect = function( graph, options ) {
+
+    this.options = options;
+    this.init( graph );
+
+    this.graph = graph;
+
+  }
+
+  $.extend( GraphRect.prototype, GraphShape.prototype, {
+
+    createDom: function() {
+      this._dom = document.createElementNS( this.graph.ns, 'ellipse' );
+    },
+
+    setPosition: function() {
+
+      var pos = this._getPosition( this.getFromData( 'pos' ) ),
+        x = pos.x,
+        y = pos.y;
+
+      if ( !isNaN( x ) && !isNaN( y ) && x !== false && y !== false ) {
+
+        this.setDom( 'cx', x );
+        this.setDom( 'cy', y );
+
+        this.setDom( 'rx', this.rx || 0 );
+        this.setDom( 'ry', this.ry || 0 );
+
+        return true;
+      }
+
+      return false;
+    },
+
+    setRX: function( rx ) {
+      this.rx = rx;
+    },
+
+    setRY: function( ry ) {
+      this.ry = ry;
+    },
+
+    setR: function( rx, ry ) {
+      this.rx = rx;
+      this.ry = ry;
+    },
+
+    getLinkingCoords: function() {
+
+      return {
+        x: this.currentX + this.currentW / 2,
+        y: this.currentY + this.currentH / 2
+      };
+    },
+
+    redrawImpl: function() {
+
+    },
+
+    handleCreateImpl: function() {
+      this.resize = true;
+    },
+
+    handleMouseDownImpl: function( e ) {
+
+    },
+
+    handleMouseUpImpl: function() {
+
+      /*	if( pos2.y < pos.y ) {
+				var y = pos.y;
+				pos.y = pos2.y;
+				pos2.y = y;
+			}
+		*/
+      this.triggerChange();
+    },
+
+    handleMouseMoveImpl: function( e, deltaX, deltaY, deltaXPx, deltaYPx ) {
+      return;
+
+    },
+
+    setHandles: function() {
+
+    },
+
+    selectStyle: function() {
+      this.setDom( 'stroke', 'red' );
+      this.setDom( 'stroke-width', '2' );
+      this.setDom( 'fill', 'rgba(255, 0, 0, 0.1)' );
+    }
+
+  } );
+
+  return GraphRect;
+
+ } ) ( build["./shapes/graph.shape"] );
+
+
+// Build: End source file (shapes/graph.shape.ellipse) 
 
 
 

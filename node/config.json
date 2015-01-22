@@ -1,7 +1,7 @@
 {
   "visualizer": {
-    "cdn": "v2.10.0",
-    "version": "c474feda02af7e10ed1a69fcda260dfeab0a1ed2",
+    "cdn": "v2.11.0",
+    "version": "21ac821875a363c967bba0b195aa52d4bd7c8d41",
     "del": [
       "components/jsNMR",
       "lib/biojs-1.0",

@@ -12,7 +12,7 @@
     cursor: default;
 }
 
-.ci-module-slickgrid li {
+.ci-module-slickgrid .ci-module-content li {
     background: url("../../../../components/slickgrid/images/arrow_right_spearmint.png") no-repeat center left;
     padding: 0 0 0 14px;
 
@@ -234,7 +234,7 @@
 }
 
 .highlighted-cell {
-    background-color: rgb(240,176,36) !important;
+    background-color: rgb(255,255,153) !important;
 }
 
 .slick-cell a.recycle-bin {

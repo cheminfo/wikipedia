@@ -83,6 +83,7 @@ onde.Onde = function (formElement, schema, documentInst, opts) {
                 $(this).prev('li.field').addClass('last');
             }
             $(this).remove();
+            _inst.trigger('field:delete', this);
         });
     });
     // Type selector
@@ -1192,6 +1193,77 @@ onde.Onde.prototype.tr = function (text) {
     // Translations go here
     return text;
 };
+
+    onde.Onde.prototype.on = function(eventName, handler) {
+        if (!this.__eventListeners) {
+            this.__eventListeners = { };
+        }
+        // one object with key/value pairs was passed
+        if (arguments.length === 1) {
+            for (var prop in eventName) {
+                this.on(prop, eventName[prop]);
+            }
+        }
+        else {
+            if (!this.__eventListeners[eventName]) {
+                this.__eventListeners[eventName] = [ ];
+            }
+            this.__eventListeners[eventName].push(handler);
+        }
+        return this;
+    };
+
+    onde.Onde.prototype.off = function(eventName, handler) {
+        if (!this.__eventListeners) return;
+
+        // remove all key/value pairs (event name -> event handler)
+        if (arguments.length === 0) {
+            this.__eventListeners = { };
+        }
+        // one object with key/value pairs was passed
+        else if (arguments.length === 1 && typeof arguments[0] === 'object') {
+            for (var prop in eventName) {
+                _removeEventListener.call(this, prop, eventName[prop]);
+            }
+        }
+        else {
+            _removeEventListener.call(this, eventName, handler);
+        }
+        return this;
+    };
+
+    onde.Onde.prototype.trigger = function(eventName, options) {
+        if (!this.__eventListeners) return;
+
+        var listenersForEvent = this.__eventListeners[eventName];
+        if (!listenersForEvent) return;
+        for (var i = 0, len = listenersForEvent.length; i < len; i++) {
+            // avoiding try/catch for perf. reasons
+            listenersForEvent[i].call(this, options || { });
+        }
+        return this;
+    };
+
+
+    function removeFromArray(array, value) {
+        var idx = array.indexOf(value);
+        if (idx !== -1) {
+            array.splice(idx, 1);
+        }
+        return array;
+    }
+
+    function _removeEventListener(eventName, handler) {
+        if (!this.__eventListeners[eventName]) return;
+
+        if (handler) {
+            removeFromArray(this.__eventListeners[eventName], handler);
+        }
+        else {
+            this.__eventListeners[eventName].length = 0;
+        }
+    }
+
 
 return onde;
 

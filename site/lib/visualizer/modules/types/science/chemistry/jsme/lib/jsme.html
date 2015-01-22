@@ -64,14 +64,11 @@
     }
 
     var changeCallback=function(result) {
-        // action is currently null + reset when we add a molecule from outside ... this could change in the future !!!!
-        if (result.action!=null && result.action!='reset') {
-            var mol = window.jsmeApplet.molFile();
-            var jme = window.jsmeApplet.jmeFile();
-            var smiles = window.jsmeApplet.smiles();
-            window.doPostMessage("onChange", {mol: mol, smiles: smiles, jme: jme});
-        }
-    }
+        var mol = window.jsmeApplet.molFile();
+        var jme = window.jsmeApplet.jmeFile();
+        var smiles = window.jsmeApplet.smiles();
+        window.doPostMessage("onChange", {mol: mol, smiles: smiles, jme: jme, action: result.action});
+    };
 
     function jsmeOnLoad() {
         var w = window.innerWidth;
