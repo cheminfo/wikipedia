@@ -1,5 +1,6 @@
 define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'components/async/lib/async'], function (API, Debug, ACT, async) {
     return function () {
+
         if (API.cache('db')) {
             return;
         }
@@ -9,6 +10,38 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
             value = decodeURIComponent(value);
             return value;
         }
+
+        function toObj(val) {
+            return {id: val};
+        }
+
+        var errors = API.getData('errors');
+
+        var fullA = API.getData('fullA');
+        var full = fullA.map(toObj);
+
+        var el = errors.length;
+        var hid = 0;
+
+        for (var k = 0; k < el; k++) {
+            var id = errors[k].id;
+            var idx = fullA.indexOf(id);
+            if (idx > -1) {
+                var error = full[idx];
+                if (!error._highlight) {
+                    error._highlight = [++hid];
+                } else {
+                    error._highlight.push(++hid);
+                }
+                errors[k]._highlight = [hid];
+            } else {
+                errors[k]._highlight = [];
+            }
+        }
+
+        API.createData('full', full);
+        API.createData('dup', API.getData('dupA').map(toObj));
+        API.createData('notfound', API.getData('notfoundA').map(toObj));
 
         var molecules = API.getData('molecules');
         if (molecules && molecules.length) {

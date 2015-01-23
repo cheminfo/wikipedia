@@ -13,6 +13,20 @@ function showAbout() {
     });
 }
 
+function switchLayer() {
+    var switchLink = $('#wikipediaLayerSwitch');
+    var grid = require('src/main/grid');
+    if (switchLink.attr('data-current-page') === 'main') {
+        grid.switchToLayer('BrowseErrors');
+        switchLink.attr('data-current-page', 'errors');
+        switchLink.text('Explore structures');
+    } else {
+        grid.switchToLayer('Default layer');
+        switchLink.attr('data-current-page', 'main');
+        switchLink.text('Browse errors');
+    }
+}
+
 requirejs.config({
     baseUrl: 'lib/visualizer'
 });
