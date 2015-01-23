@@ -5688,7 +5688,7 @@ Etybenzatropine	CCN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
 Tropatepine	S3c1ccccc1/C(c2c(cccc2)C3)=C5/CC4N(C)C(CC4)C5
 Bornaprine	O=C(OCCCN(CC)CC)C2(c1ccccc1)CC3CCC2C3
 Phenglutarimide	CCN(CC)CC[C@]1(CCC(=O)NC1=O)c1ccccc1
-Tropine	CN1C2CCC1CC(C2)O
+Tropine	CN1[C@@H]2CC[C@H]1C[C@H](C2)O
 Lofentanil	O=C(OC)[C@]3(N(c1ccccc1)C(=O)CC)CCN(CCc2ccccc2)C[C@H]3C
 Minaxolone	CCO[C@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2[C@@H](C[C@]4([C@H]3CC[C@@H]4C(=O)C)C)N(C)C)C[C@@H]1O)C
 Esketamine	CN[C@](C1=C(Cl)C=CC=C1)(CCCC2)C2=O
@@ -11622,7 +11622,7 @@ Triacetic acid lactone	C/C1=CC(\O)=C/C(=O)O1
 LY-235,959	[H][C@]12[C@](CC[C@H](CP(O)(O)=O)C2)([H])CN[C@H](C(O)=O)C1
 GelRed	NC1=CC2=C(C(C=CC(N)=C3)=C3C(C4=CC=CC=C4)=[N+]2CCCCCC(NCCCOCCOCCOCCCNC(CCCCC[N+]5=C(C6=CC=CC=C6)C7=C(C=CC(N)=C7)C8=C5C=C(N)C=C8)=O)=O)C=C1.[I-].[I-]
 GelGreen	O=C(NCCCOCCOCCOCCCNC(CCCCC[N+]1=C2C(C=CC(N(C)C)=C2)=CC3=C1C=C(N(C)C)C=C3)=O)CCCCC[N+]4=C5C(C=CC(N(C)C)=C5)=CC6=C4C=C(N(C)C)C=C6.[I-].[I-]
-2,6-diacetylpyridine	CC(=O)c1cccc(n1)C(=O)C
+2,6-Diacetylpyridine	CC(=O)c1cccc(n1)C(=O)C
 Phlorofucofuroeckol A	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=CC(=C5C(=C43)OC6=C(O5)C(=C(C=C6O)O)OC7=CC(=CC(=C7)O)O)O)O)O)O
 Dieckol	Oc4cc(O)c6Oc(cc(O)cc3O)c3Oc6c4Oc(cc2O)cc(O)c2Oc(cc1Oc5c(O)cc7O)cc(O)c1Oc5c7Oc(c8)cc(O)cc8O
 Tetraphlorethol C	c4c(O)cc(O)cc4Oc1c(O)cc(cc1O)Oc3c(O)cc(cc3O)Oc2c(O)cc(O)cc2O
@@ -12923,3 +12923,5 @@ Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C(=C32)C#N)N4C[C@H]5[C@H](C4)OCCN5)F)C(=O)O
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
 Clonazolam	ClC1=C(C=CC=C1)C1=NCC=2N(C3=C1C=C(C=C3)[N+](=O)[O-])C(=NN2)C
+7,8-Dihydroxyflavone	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
+HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
