@@ -99,7 +99,7 @@ for (var i = 0; i < length; i++) {
     var path = util.getPagePath(id);
     var file = path.full;
     var page = JSON.parse(fs.readFileSync(file));
-    var result = {};
+    var result;
 
     var allError = true;
 
@@ -115,6 +115,7 @@ for (var i = 0; i < length; i++) {
                     dup.push(id);
                     continue; // If exact same molecule is already present for this page, skip
                 }
+                result = {};
                 result.id = page.id;
                 result.code = page.title;
                 smilesList.push(page.title+'\t'+smiles[j]);
