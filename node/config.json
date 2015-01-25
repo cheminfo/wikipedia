@@ -4,7 +4,19 @@
     "version": "c3a5cb35e3ebdbca2190c6591fe9028cf66fb55c",
     "del": [
       "components/jsNMR",
+      "components/alpaca",
+      "components/jit",
+      "components/jsbarcode",
+      "components/leaflet",
+      "components/threejs",
       "lib/biojs-1.0",
+      "lib/BarcodeReader",
+      "lib/datamining",
+      "lib/flot",
+      "lib/loadingplot",
+      "lib/pixastic",
+      "lib/plot",
+      "lib/svg-edit-2.7",
       "modules/types/science/chemistry/jsmol"
     ]
   },
