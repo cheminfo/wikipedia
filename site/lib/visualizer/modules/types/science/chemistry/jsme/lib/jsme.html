@@ -65,9 +65,10 @@
 
     var changeCallback=function(result) {
         var mol = window.jsmeApplet.molFile();
+        var molV3 = window.jsmeApplet.molFile(true);
         var jme = window.jsmeApplet.jmeFile();
         var smiles = window.jsmeApplet.smiles();
-        window.doPostMessage("onChange", {mol: mol, smiles: smiles, jme: jme, action: result.action});
+        window.doPostMessage("onChange", {mol: mol, molV3: molV3, smiles: smiles, jme: jme, action: result.action});
     };
 
     function jsmeOnLoad() {

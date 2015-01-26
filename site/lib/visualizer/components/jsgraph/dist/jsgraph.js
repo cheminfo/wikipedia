@@ -5,7 +5,7 @@
  * Copyright 2014 Norman Pellet
  * Released under the MIT license
  *
- * Date: 2015-01-20T10:05Z
+ * Date: 2015-01-23T14:40Z
  */
 
 (function( global, factory ) {
@@ -4485,7 +4485,7 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
         if ( shapeData.selectOnMouseDown ) {
           shape._selectOnMouseDown = shapeData.selectOnMouseDown;
         }
-
+        
         if ( shapeData.selectable ) {
           shape.selectable();
         }
@@ -4788,23 +4788,24 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
     },
 
     selectShape: function( shape, mute ) {
-
+      
       // Already selected. Returns false
       if ( this.selectedShapes.indexOf( shape ) > -1 ) {
         return false;
       }
+      
 
       if ( !shape.isSelectable() ) {
         return false;
       }
-
+      
       this.emit( "beforeShapeSelect", shape );
 
       if ( this.cancelSelectShape ) {
         this.cancelSelectShape = false;
         return;
       }
-
+      
       this.cancelSelectShape = false;
 
       if ( this.selectedShapes.length > 0 && this.options.shapeSelection == "unique" )  { // Only one selected shape at the time
@@ -4815,7 +4816,7 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
           this.unselectShape( this.selectedShapes[ 0 ] )
         }
       }
-
+      
       shape._select();
       this.selectedShapes.push( shape );
       this.emit( "shapeSelect", shape );

@@ -396,8 +396,6 @@
 						shape.redraw();
 					})
 
-				this.gcGraph.getTopAxis().linkToAxis( this.gcGraph.getBottomAxis(), function( val ) { return val * 3; }, 1 );
-
 				this.msGraph.on("shapeSelect", function( shape ) {
 					self.msShapesSelectChange();
 				});
@@ -410,6 +408,11 @@
 					
 					if( shape.data.ingredient ) {
 						self.trigger("ingredientSelected", shape.data.ingredient );
+					}
+
+
+					if( shape.data.type == 'areaundercurve' ) {
+						self.trigger('AUCSelected', shape.data );
 					}
 				});
 
@@ -510,6 +513,24 @@
 			},
 
 
+			setRIComponents: function( components ) {
+
+
+				this.gcGraph.getTopAxis().linkToAxis( this.gcGraph.getBottomAxis(), function( val ) { 
+
+					var result = 0;
+					var i;
+					for( i = 0; i < components.length; i ++ ) {
+						result += components[ i ] * Math.pow( val, components.length - i - 1 );
+					}
+					return result;
+
+				}, 1 );
+
+				this.gcGraph.redraw();
+				this.gcGraph.drawSeries();
+			},
+
 			doMsFromAUC: function( annot, shape ) { // Creating an averaged MS on the fly
 
 				var self = this,
@@ -607,9 +628,6 @@
 
 			addAUC: function( from, to, options ) {
 
-
-				
-
 				var self = this,
 					obj = {
 					pos: { 
@@ -624,7 +642,8 @@
 					color: [ 0, 100, 100 ],
 					fillColor: 'rgba(0,100,100,0.3)',
 					strokeColor: 'rgba(0,100,100,1)',
-					strokeWidth: 2				
+					strokeWidth: 2,
+					selectable: true	
 				};
 
 				if( options.color ) {
@@ -797,6 +816,7 @@
 			},
 
 			setExternalGC: function( gc ) {
+
 				if( this.extGC ) {
 					this.extGC.kill( true );
 				}
@@ -936,7 +956,7 @@
 				var self = this;
 				var ms = self.msData[x];
 
-				self.trigger('MSChangeIndex', [ x ] );
+				self.trigger('MSChangeIndex', [ x, ms ] );
 
 				if( ! self.msSerieMouseTrack ) {
 					
@@ -953,18 +973,18 @@
 
 
 
-					var xVal = self.gcData[ x * 2 ];
-					
-					self.trackingLineGC.data.pos.x = xVal;
-					self.trackingLineGC.data.pos2.x = xVal;
-
-					self.trackingLineGC.redraw();
-
-					if( ! ms ) {
-						return;
-					}
+				var xVal = self.gcData[ x * 2 ];
 				
-				
+				self.trackingLineGC.data.pos.x = xVal;
+				self.trackingLineGC.data.pos2.x = xVal;
+
+				self.trackingLineGC.redraw();
+
+				if( ! ms ) {
+					return;
+				}
+			
+			
 				self.msSerieMouseTrack.setData( ms );
 
 
@@ -1014,10 +1034,6 @@
 
 				
 				var i = 0;
-				
-
-				
-
 				var limit = 20,
 					xs = [];
 
