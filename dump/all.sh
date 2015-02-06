@@ -2,6 +2,7 @@
 
 echo "Updating project files"
 git pull
+npm update
 
 echo "Fetching data from Wikipedia"
 # get everything and generate data.json
