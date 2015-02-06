@@ -151,6 +151,7 @@ for (var i = 0; i < length; i++) {
 
 var theResult = {};
 theResult.count = {
+    date: Date.now(),
     molecules: results.length,
     errors: errors.length,
     nogood: nogood.length,
