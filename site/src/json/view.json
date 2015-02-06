@@ -1,5 +1,5 @@
 {
-	"version": "2.11.0",
+	"version": "2.12.0",
 	"grid": {
 		"xWidth": 10,
 		"yHeight": 10,
@@ -943,7 +943,7 @@
 					},
 					"zIndex": 0,
 					"display": true,
-					"title": "Smiles with errors",
+					"title": "SMILES with errors",
 					"bgColor": [
 						255,
 						255,
@@ -965,7 +965,7 @@
 			"actions_in": [
 				{}
 			],
-			"title": "Smiles with errors",
+			"title": "SMILES with errors",
 			"vars_out": [
 				{
 					"event": "onHover",
@@ -1087,12 +1087,12 @@
 						"top": 65
 					},
 					"size": {
-						"width": 19,
+						"width": 22,
 						"height": 26
 					},
 					"zIndex": 0,
 					"display": true,
-					"title": "Full of errors",
+					"title": "Pages without correct SMILES",
 					"bgColor": [
 						255,
 						255,
@@ -1114,7 +1114,7 @@
 			"actions_in": [
 				{}
 			],
-			"title": "Full of errors",
+			"title": "Pages without correct SMILES",
 			"vars_out": [
 				{
 					"jpath": []
@@ -1227,11 +1227,11 @@
 				},
 				"BrowseErrors": {
 					"position": {
-						"left": 32,
+						"left": 27,
 						"top": 65
 					},
 					"size": {
-						"width": 19,
+						"width": 13,
 						"height": 26
 					},
 					"zIndex": 0,
@@ -1371,11 +1371,11 @@
 				},
 				"BrowseErrors": {
 					"position": {
-						"left": 63,
+						"left": 44,
 						"top": 65
 					},
 					"size": {
-						"width": 19,
+						"width": 13,
 						"height": 26
 					},
 					"zIndex": 0,
@@ -1421,100 +1421,6 @@
 			"zindex": 0
 		},
 		{
-			"url": "modules/types/edition/rich_text/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"editable": [
-								[]
-							],
-							"modifyInVariable": [
-								[]
-							],
-							"autoHeight": [
-								[]
-							],
-							"bgColor": [
-								[
-									255,
-									255,
-									255,
-									1
-								]
-							],
-							"postit": [
-								[]
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 84,
-						"top": 21
-					},
-					"size": {
-						"width": 74,
-						"height": 60
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 12,
-			"vars_in": [
-				{}
-			],
-			"actions_in": [
-				{}
-			],
-			"richtext": "<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Smiles with errors</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Full of errors</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n",
-			"vars_out": [
-				{
-					"jpath": []
-				}
-			],
-			"title": "Untitled",
-			"actions_out": {},
-			"zindex": 0
-		},
-		{
 			"url": "modules/types/display/single_value/",
 			"configuration": {
 				"sections": {},
@@ -1545,7 +1451,7 @@
 								null
 							],
 							"sprintf": [
-								"Hovered SMILES : %s"
+								"Hovered SMILES: %s"
 							],
 							"sprintfOrder": [
 								""
@@ -1612,7 +1518,7 @@
 					"name": "BrowseErrors"
 				}
 			},
-			"id": 13,
+			"id": 12,
 			"vars_in": [
 				{
 					"rel": "value",
@@ -1626,6 +1532,80 @@
 			"vars_out": {},
 			"actions_out": {},
 			"zindex": 13
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 85,
+						"top": 12
+					},
+					"size": {
+						"width": 91,
+						"height": 42
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "BrowseErrors"
+				}
+			},
+			"id": 13,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "count"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": {}
 		}
 	],
 	"variables": [
