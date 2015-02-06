@@ -42,7 +42,7 @@ function parse(content, idx, res) {
 
     var boxEndIdx = idx+2;
     var counter = 1;
-    while(counter) {
+    while(counter && boxEndIdx <= content.length) {
         if(content[boxEndIdx] === '{') {
             if(content[boxEndIdx+1] === '{') {
                 counter++;
