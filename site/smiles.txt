@@ -2407,7 +2407,6 @@ Sodium bisulfate	[Na+].[O-]S(=O)(=O)O
 Potassium bisulfate	OS(=O)(=O)[O-].[K+]
 Orellanine	[O-][n+]1ccc(O)c(O)c1c2[n+]([O-])ccc(O)c2O
 N-Acetylglucosamine	O=C(N[C@@H]1[C@@H](O)[C@H](O)[C@H](O[C@H]1O)CO)C
-Oxymetholone	O=C4/C(=C\O)C[C@]1([C@@H](CC[C@@H]2[C@@H]1CC[C@]3([C@H]2CC[C@@]3(O)C)C)C4)C
 Tizanidine	Clc1ccc3nsnc3c1NC/2=N/CCN\2
 Xanthone	O=C1c3c(Oc2c1cccc2)cccc3
 Dobutamine	Oc1ccc(cc1O)CCNC(C)CCc2ccc(O)cc2
@@ -5794,6 +5793,7 @@ N-Methylphenethylamine	N(CCc1ccccc1)C
 2-C-Methylerythritol 4-phosphate	CC(CO)(C(COP(=O)(O)O)O)O
 1-Deoxy-D-xylulose 5-phosphate	O=P(O)(O)OC[C@@H](O)[C@H](O)C(=O)C
 Iditol	O[C@@H]([C@H](O)CO)[C@@H](O)[C@H](O)CO
+Ranirestat	c1cc2n(c1)[C@@]3(CC(=O)NC3=O)C(=O)N(C2=O)Cc4ccc(cc4F)Br
 Epalrestat	O=C(O)CN1C(=O)C(\SC1=S)=C/C(=C/c2ccccc2)C
 Pyrantel pamoate	O=C(O)c2cc1c(cccc1)c(c2O)Cc3c4c(cc(C(=O)O)c3O)cccc4.N\2=C(/C=C/c1sccc1)N(C)CCC/2
 Alatrofloxacin	C[C@@H](C(=O)N[C@@H](C)C(=O)N[C@H]1[C@H]2[C@@H]1CN(C2)C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F)N
@@ -6222,6 +6222,7 @@ Dirhenium decacarbonyl	[Re].[Re].[C-]#[O+].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C
 4-Chloroaniline	C1=CC(=CC=C1N)Cl
 SN-38	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(c(c3C4)CC)cc(O)cc5
 Norpethidine	O=C(OCC)C2(c1ccccc1)CCNCC2
+Cobalt(III) oxide	O=[Co]O[Co]=O
 Immepip	C1CNCCC1CC2=CN=CN2
 Clobenpropit	C1=CC(=CC=C1CN=C(N)SCCCC2=CN=CN2)Cl
 Pethidinic acid	CN1CCC(CC1)(C2=CC=CC=C2)C(=O)O
@@ -13021,7 +13022,6 @@ Dasolampanel	c1cc(c(c(c1)Cl)c2[nH]nnn2)O[C@H]3CC[C@H]4CN[C@@H](C[C@H]4C3)C(=O)O
 Thioacetone	CC(=S)C
 Selepressin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCCC(=O)N
 Barusiban	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCSCCC(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)C(=O)N(C)[C@@H](CCCN)CO)CC(=O)N)[C@H](C)CC
-Nifoxipam	[O-][N+](C1=CC2=C(C=C1)N(C)C(O)(CN=C2C3=CC=CC=C3F)=O)=O
 Homoquinolinic acid	c1cc(c(nc1)C(=O)O)CC(=O)O
 EVT-201	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
