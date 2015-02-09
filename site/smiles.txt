@@ -5107,7 +5107,6 @@ Phenescaline	COc2cc(cc(OC)c2OCCc1ccccc1)CCN
 Metaescaline	COc1c(cc(cc1OCC)CCN)OC
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
-Fluorosulfonate	[O-]S(F)(=O)=O
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
 Heme A	C/C(C)=C\CCC(\C)=C\CCC(\C)=C\CCC(O)c1c2/C=C\3C(\C)=C(\C=C)/C=4/C=C8/C(/C)=C(/CCC(O)=O)\C7=C\C5C(\CCC(O)=O)=C(\C=O)/C6=C/c(c1C)n2[Fe-2]([N+]/3=4)(N56)N78
 TOMSO	COc1cc(C)c(cc1CC(C)N)S(C)=O
@@ -13141,3 +13140,4 @@ Dasabuvir	CC(C)(C)c1cc(cc(c1OC)c2ccc3cc(ccc3c2)NS(=O)(=O)C)n4ccc(=O)[nH]c4=O
 Tipiracil	C1CC(=N)N(C1)Cc2c(c(=O)[nH]c(=O)[nH]2)Cl
 Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
+Benzhydrocodone	C[N@@]1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
