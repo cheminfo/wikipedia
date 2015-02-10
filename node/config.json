@@ -1,7 +1,7 @@
 {
   "visualizer": {
-    "cdn": "v2.12.0",
-    "version": "0fb644306046e758d42bcbd5329b9446e1e0808d",
+    "cdn": "v2.12.1",
+    "version": "bd61e57c90c5ce26afbc24d34da864d014ef3820",
     "del": [
       "components/jsNMR",
       "components/alpaca",
