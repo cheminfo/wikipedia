@@ -2358,6 +2358,7 @@ Thallium(I) sulfate	[Tl+].[Tl+].[O-]S([O-])(=O)=O
 Selenium dioxide	O=[SeH2]=O
 Copper chromite	O=[Cr]O[Cr]=O.O=[Cu].O=[Cu]
 Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
+Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
@@ -2427,6 +2428,7 @@ Sodium bisulfate	[Na+].[O-]S(=O)(=O)O
 Potassium bisulfate	OS(=O)(=O)[O-].[K+]
 Orellanine	[O-][n+]1ccc(O)c(O)c1c2[n+]([O-])ccc(O)c2O
 N-Acetylglucosamine	O=C(N[C@@H]1[C@@H](O)[C@H](O)[C@H](O[C@H]1O)CO)C
+Oxymetholone	O=C4/C(=C\O)C[C@]1([C@@H](CC[C@@H]2[C@@H]1CC[C@]3([C@H]2CC[C@@]3(O)C)C)C4)C
 Tizanidine	Clc1ccc3nsnc3c1NC/2=N/CCN\2
 Xanthone	O=C1c3c(Oc2c1cccc2)cccc3
 Dobutamine	Oc1ccc(cc1O)CCNC(C)CCc2ccc(O)cc2
@@ -2832,7 +2834,7 @@ Elemicin	C=CCC1=CC(OC)=C(OC)C(OC)=C1
 Lophophine	O1c2cc(cc(OC)c2OC1)CCN
 Muscone	C[C@@H]1CCCCCCCCCCCCC(=O)C1
 Antimony pentafluoride	[F-].[F-].[F-].[F-].[F-].[SbH3+3]
-Dicalcium phosphate	[Ca+2].[Ca+2].[O-]P([O-])([O-])=O
+Dicalcium phosphate	O.O.OP(=O)([O-])[O-].[Ca+2]
 Isoproscaline	CC(C)Oc1c(cc(cc1OC)CCN)OC
 Roxatidine	O=C(OCC(=O)NCCCOc1cc(ccc1)CN2CCCCC2)C
 2,5-Dimethoxy-4-nitroamphetamine	[O-][N+](=O)c1cc(OC)c(cc1OC)CC(N)C
@@ -9132,6 +9134,7 @@ Hirsutidin	COC1=CC2=[O+]C(=C(C=C2C(=C1)O)O)C3=CC(=C(C(=C3)OC)O)OC
 Tricetinidin	C1=CC(=[O+]C2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O.[Cl-]
 Solamargine	O([C@H]8[C@H](O[C@@H]5C/C4=C/C[C@H]3[C@@H]6C[C@@H]2O[C@@]1(NC[C@H](C)CC1)[C@@H](C)[C@@H]2[C@@]6(C)CC[C@@H]3[C@@]4(C)CC5)O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@@H]8O)[C@@H]9O[C@H]([C@H](O)[C@@H](O)[C@H]9O)C
 Chaconine	O([C@H]8[C@H](O[C@@H]4C/C3=C/C[C@H]2[C@@H]5C[C@@H]1N6[C@@H]([C@@H](C)[C@@H]1[C@@]5(C)CC[C@@H]2[C@@]3(C)CC4)CC[C@H](C)C6)O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@@H]8O)[C@@H]9O[C@H]([C@H](O)[C@@H](O)[C@H]9O)C
+Thelephoric acid	c1c2c(cc(c1O)O)oc3c2C(=O)c4c(c5cc(c(cc5o4)O)O)C3=O
 L-Glucose	O[C@@H]1[C@@H](O)[C@@H](OC(O)[C@H]1O)CO
 Leucoanthocyanidin	C1=CC=C(C=C1)C2C(C(C3=CC=CC=C3O2)O)O
 Leucocyanidin	C1=CC(=C(C=C1C2C(C(C3=C(C=C(C=C3O2)O)O)O)O)O)O
@@ -13141,3 +13144,4 @@ Tipiracil	C1CC(=N)N(C1)Cc2c(c(=O)[nH]c(=O)[nH]2)Cl
 Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	C[N@@]1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
+Helium dimer	[He][He]
