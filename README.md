@@ -4,9 +4,13 @@
 
 ## Install locally
 
-If you want to serve the website on your own server, you just need to make the "site" folder public.
+There are two ways for having the website on a local server.
 
-You can dowload the latest version directly on [Github](https://github.com/cheminfo/wikipedia/archive/master.zip).
+### Zip archive
+
+You can dowload the latest version directly on [GitHub](https://github.com/cheminfo/wikipedia/archive/master.zip).
+
+### Easy updates with git
 
 If you plan on updating regularly, you can use git :
 ```bash
@@ -17,6 +21,14 @@ Then to update :
 cd wikipedia
 git pull
 ```
+
+## Serve the website
+
+All the required files for the website are located in the `site` directory. Just make this directory public on your server and it should work.  
+
+## About `dump` and `node` directories
+
+These directories contain Node.js maintenance scripts. They are NOT needed for the website to work and can be ignored.
 
 ## License
 
