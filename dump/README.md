@@ -22,7 +22,7 @@ The pages are stored in the `pages` directory and the current versions in `updat
 
 #### `node wiki.js parse`
 
-Parse all pages to extract the SMILES and generate `data.json` and `smiles.txt`.  
+Parse all pages to extract the SMILES and generate `data.json`, `smiles.txt` and `idcode.txt`.
 This command can be run with arguments :
 * `-l, --limit <n>` Limit the parsing to the `n` first pages. Useful for debugging.
 * `-p, --publish` publish the data files the the `site` directory.

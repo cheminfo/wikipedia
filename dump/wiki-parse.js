@@ -40,17 +40,17 @@ function getSmiles(content) {
 
 function parse(content, idx, res) {
 
-    var boxEndIdx = idx+2;
+    var boxEndIdx = idx + 2;
     var counter = 1;
-    while(counter && boxEndIdx <= content.length) {
-        if(content[boxEndIdx] === '{') {
-            if(content[boxEndIdx+1] === '{') {
+    while (counter && boxEndIdx <= content.length) {
+        if (content[boxEndIdx] === '{') {
+            if (content[boxEndIdx + 1] === '{') {
                 counter++;
                 boxEndIdx += 2;
                 continue;
             }
-        } else if(content[boxEndIdx] === '}') {
-            if (content[boxEndIdx+1] === '}') {
+        } else if (content[boxEndIdx] === '}') {
+            if (content[boxEndIdx + 1] === '}') {
                 counter--;
                 boxEndIdx += 2;
                 continue;
@@ -69,8 +69,8 @@ function parse(content, idx, res) {
 }
 
 var pageList = require('./data/update.json');
-pageList.sort(function (a, b){
-   return a.id - b.id; 
+pageList.sort(function (a, b) {
+    return a.id - b.id;
 });
 var results = [],
     errors = [],
@@ -78,9 +78,10 @@ var results = [],
     notfound = [],
     dup = [],
     smilesList = [],
+    idcodeList = [],
     length = pageList.length;
 
-if(program.limit) {
+if (program.limit) {
     length = Math.min(program.limit, length);
 }
 
@@ -105,20 +106,21 @@ for (var i = 0; i < length; i++) {
 
     var smiles = getSmiles(page.content);
     if (smiles.length) {
-        for(var j = 0; j < smiles.length; j++) {
+        for (var j = 0; j < smiles.length; j++) {
             try {
                 var molecule = ACT.Molecule.fromSmiles(smiles[j]);
                 allError = false; // At least one SMILES is good for this file
                 var idcode = molecule.getIDCode();
                 var uniqid = id + '_' + idcode;
-                if(uniq[uniqid]) {
+                if (uniq[uniqid]) {
                     dup.push(id);
                     continue; // If exact same molecule is already present for this page, skip
                 }
                 result = {};
                 result.id = page.id;
                 result.code = page.title;
-                smilesList.push(page.title+'\t'+smiles[j]);
+                smilesList.push(page.title + '\t' + smiles[j]);
+                idcodeList.push(idcode + '\t' + page.title);
                 result.smiles = smiles[j];
                 var mf = molecule.getMolecularFormula().getFormula();
                 result.mf = {type: 'mf', value: mf};
@@ -174,25 +176,28 @@ console.log(nogood.length + ' pages with only bad SMILES');
 console.log(notfound.length + ' SMILES not found');
 console.log(dup.length + ' dropped duplicates');
 
-smilesList = smilesList.join('\n')+'\n';
+smilesList = smilesList.join('\n') + '\n';
+idcodeList = idcodeList.join('\n') + '\n';
 
-var pubStr = JSON.stringify(theResult);
-pubStr = pubStr
-    .replace('"data":{"molecules":[','\n"data":{"molecules":[\n')
+var pubStr = JSON.stringify(theResult)
+    .replace('"data":{"molecules":[', '\n"data":{"molecules":[\n')
     .replace(/},\{/g, '},\n{')
-    .replace('],"errors":[','\n],"errors":[\n')
-    .replace('"nogood":[','\n"nogood":[')
-    .replace('"notfound":[','\n"notfound":[')
+    .replace('],"errors":[', '\n],"errors":[\n')
+    .replace('"nogood":[', '\n"nogood":[')
+    .replace('"notfound":[', '\n"notfound":[')
     .replace('"dup":[', '\n"dup":[')
     .replace('"query":{', '\n"query":{');
 
 fs.writeFileSync('./data/data.json', pubStr);
 fs.writeFileSync('./data/smiles.txt', smilesList);
+fs.writeFileSync('./data/idcode.txt', idcodeList);
+
 if (program.publish) {
     if (program.limit) {
         console.error('Cannot publish partial data');
     } else {
         fs.writeFileSync('../site/src/json/data.json', pubStr);
         fs.writeFileSync('../site/smiles.txt', smilesList);
+        fs.writeFileSync('../site/idcode.txt', idcodeList);
     }
 }
