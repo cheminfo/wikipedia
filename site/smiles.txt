@@ -2641,7 +2641,6 @@ Adiponitrile	N#CCCCCC#N
 Fludeoxyglucose (18F)	OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
 Glycolaldehyde	O=CCO
 Trovafloxacin	O=C(O)C2=CN(c1nc(c(F)cc1C2=O)N3C[C@H]4[C@H](N)[C@H]4C3)c5ccc(F)cc5F
-9,10-Diphenylanthracene	c1ccc(cc1)c2c3ccccc3c(c4c2cccc4)c5ccccc5
 Diethyl sulfoxide	O=S(CC)CC
 Isothiazole	n1sccc1
 3-Phosphoglyceric acid	C([C@H](C(=O)O)O)OP(=O)(O)O
@@ -12566,6 +12565,7 @@ LY-255582	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CC[C@@H](C3CCCCC3)O
 Cytochrophin-4	C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CC3=CC=C(C=C3)O)N)O
 Aceturic acid	CC(=O)NCC(=O)O
 Obovatol	C=CCC1=CC=C(C=C1)OC2=CC(=CC(=C2O)O)CC=C
+Sovaprevir	CC(C)(C)[C@H](CC(=O)N1CCCCC1)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C[C@H]3C=C)C(=O)NS(=O)(=O)C4CC4)Oc5cc(nc6c5ccc(c6)OC)c7ccccc7
 Nitrosyl-O-hydroxide	[N-]=[O+]O
 Inaperisone	CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCC2
 Lanperisone	C[C@H](CN1CCCC1)C(=O)C2=CC=C(C=C2)C(F)(F)F
