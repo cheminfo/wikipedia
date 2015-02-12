@@ -24,6 +24,7 @@ Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
 Cholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Ciprofloxacin	c1c2c(cc(c1F)N3CCNCC3)n(cc(c2=O)C(=O)O)C4CC4
+Caffeine	CN1C=NC2=C1C(=O)N(C(=O)N2C)C
 Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
