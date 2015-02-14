@@ -10479,7 +10479,7 @@ Carfenazine	CCC(=O)c1ccc2Sc3ccccc3N(CCCN4CCN(CCO)CC4)c2c1
 Perfosfamide	C1COP(=O)(NC1OO)N(CCCl)CCCl
 Cycrimine	OC(CCN1CCCCC1)(C2CCCC2)c3ccccc3
 Desacetylmetipranolol	O(c1c(c(c(O)c(c1)C)C)C)CC(O)CNC(C)C
-N-Desalkylflurazepam	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F
+N-Desalkylflurazepam	Fc1ccccc1C2=NCC(=O)Nc3ccc(Cl)cc23
 Nooglutyl	O=C(c1cncc(O)c1)N[C@H](C(=O)O)CCC(=O)O
 Iofetamine (123I)	CC(C)NC(C)Cc1ccc(cc1)I
 Dibenz(a,h)anthracene	c1ccc2c(c1)ccc3c2cc4ccc5ccccc5c4c3
@@ -13148,3 +13148,4 @@ Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	C[N@@]1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
+Strictosidine	COC(=O)C1=CO[C@H]([C@@H]([C@@H]1C[C@H]2C3=C(CCN2)C4=CC=CC=C4N3)C=C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
