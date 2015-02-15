@@ -9059,6 +9059,7 @@ Isovitexin	C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C=C3O2)O)C4C(C(C(C(O4)CO)O)O)O)O)O
 Apiin	O=C\4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@@H]1OC[C@](O)(CO)[C@H]1O)cc5O/C(c3ccc(O)cc3)=C/4
 Apigetrin	O=C\3c4c(O)cc(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)cc4O/C(c2ccc(O)cc2)=C/3
 Scutellarin	O=C3\C=C(/Oc2cc(O[C@@H]1O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]1O)c(O)c(O)c23)c4ccc(O)cc4
+Oxycholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]4[C@]5([C@@]3(CC[C@@H](C5)O)C)O4)C
 Syntin	CC1(C2CC2)C(C3CC3)C1
 6-Hydroxyflavone	O=C\1c3c(O/C(=C/1)c2ccccc2)ccc(O)c3
 Fisetin	O=C1c3c(O/C(=C1/O)c2ccc(O)c(O)c2)cc(O)cc3
@@ -13149,3 +13150,13 @@ Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	C[N@@]1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
 Strictosidine	COC(=O)C1=CO[C@H]([C@@H]([C@@H]1C[C@H]2C3=C(CCN2)C4=CC=CC=C4N3)C=C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
+Tabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccccc5N3)C(=O)OC
+16-Hydroxytabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)O)C(=O)OC
+3-Hydroxy-16-methoxy-2,3-dihydrotabersonine	CC[C@]12C[C@@]([C@H]3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)OC)(C(=O)OC)O
+Desacetoxyvindoline	CC[C@]12C[C@@]([C@H]3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3C)OC)(C(=O)OC)O
+16-Methoxytabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)OC)C(=O)OC
+Deacetylvindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4[C@]([C@@H]2O)(C(=O)OC)O)C)OC
+4,21-Dehydrogeissoschizine	[H][C@@]12C[C@H](\C(=C\O)C(=O)OC)\C(=C/C)C=[N+]1CCC1=C2NC2=CC=CC=C12
+Preakuammicine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1[C@](C3=Nc5c4cccc5)(CO)C(=O)OC
+Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
+Dehydrosecodine	CCC1=CN(CC=C1)CCc2c3ccccc3[nH]c2C(=C)C(=O)OC
