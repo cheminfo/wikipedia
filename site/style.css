@@ -1,0 +1,32 @@
+#wp-header {
+    padding: 5px;
+    height: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#wp-header-right {
+    position: absolute;
+    top: 5px;
+    right: 150px;
+    border: 0;
+    z-index: 9999;
+    font-size: 0.9em;
+}
+
+#wp-header-right a {
+    color: black;
+    text-decoration: none;
+}
+
+#wp-header-right a:hover {
+    text-decoration: underline;
+}
+
+#wp-gh-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 9999;
+}
