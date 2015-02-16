@@ -3,21 +3,24 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>Wikipedia structure search</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
     <script data-main="src/mainCDN" src="http://www.lactame.com/visualizer/v2.12.1/components/requirejs/require.js"></script>
 </head>
 <body>
-<a href="https://github.com/cheminfo/wikipedia" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 9999" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
 
-<div style="padding: 5px; height: 30px; font-size: large; font-weight: bold">
+<div id="wp-header">
     Wikipedia chemical structure explorer&nbsp;
     <a href="http://www.novartis.com" target="_blank"><img src="logo/novartis.svg" height=30"></a>&nbsp;
     <a href="http://www.epfl.ch" target="_blank"><img src="logo/epfl.svg" height=30"></a>
     <a href="http://www.actelion.com" target="_blank"><img src="logo/actelion.jpg" height=30"></a>&nbsp;
-
-    <span style="position: absolute; top: 0; right: 150px; border: 0; z-index: 9999">
+    <span id="wp-header-right">
         <a href="#" id="wikipediaLayerSwitch" data-current-page="main" onclick="switchLayer()">Browse errors</a>&nbsp;&nbsp;&nbsp;
+        <a href="smiles.txt" target="_blank">Download SMILES</a>&nbsp;&nbsp;&nbsp;
         <a href="#" onclick="showAbout()">About</a>
     </span>
+    <a href="https://github.com/cheminfo/wikipedia" target="_blank">
+        <img id="wp-gh-link" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png">
+    </a>
 </div>
 
 
