@@ -13,7 +13,6 @@ Amyl nitrite	O=NOCCCCC
 Amygdalin	N#C[C@H](O[C@@H]2O[C@H](CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)[C@@H](O)[C@H](O)[C@H]2O)c3ccccc3
 Amygdalin	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3OC[C@H]2O[C@@H](OC(C#N)c1ccccc1)[C@H](O)[C@@H](O)[C@@H]2O
 Boron nitride	B#N
-Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
 Β-Lactam	C1CNC1=O
 Carbon dioxide	O=C=O
@@ -219,7 +218,6 @@ Acetyl	C[C]=O
 Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
-Chloroform	ClC(Cl)Cl
 Paracetamol	CC(NC1=CC=C(O)C=C1)=O
 Sulfate	[O-]S(=O)(=O)[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
@@ -2642,6 +2640,7 @@ Adiponitrile	N#CCCCCC#N
 Fludeoxyglucose (18F)	OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
 Glycolaldehyde	O=CCO
 Trovafloxacin	O=C(O)C2=CN(c1nc(c(F)cc1C2=O)N3C[C@H]4[C@H](N)[C@H]4C3)c5ccc(F)cc5F
+9,10-Diphenylanthracene	c1ccc(cc1)c2c3ccccc3c(c4c2cccc4)c5ccccc5
 Diethyl sulfoxide	O=S(CC)CC
 Isothiazole	n1sccc1
 3-Phosphoglyceric acid	C([C@H](C(=O)O)O)OP(=O)(O)O
@@ -5810,7 +5809,6 @@ Didecyldimethylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCC)C)CCCC
 Benzoxonium chloride	[Cl-].OCC[N+](CCO)(Cc1ccccc1)CCCCCCCCCCCC
 Chlorquinaldol	Clc1c(O)c2nc(ccc2c(Cl)c1)C
 Dequalinium	c12ccccc1c(cc([n+]2CCCCCCCCCC[n+]4c3ccccc3c(N)cc4C)C)N
-Policresulen	O=S(=O)(O)c1cc(c(cc1O)C)Cc2cc(c(O)c(c2C)Cc3cc(c(O)cc3C)S(=O)(=O)O)S(=O)(=O)O
 Hexamidine	O(c1ccc(cc1)C(=[N@H])N)CCCCCCOc2ccc(C(=[N@H])N)cc2
 Propamidine	O(c1ccc(cc1)C(=[N@H])N)CCCOc2ccc(C(=[N@H])N)cc2
 Dibrompropamidine	Brc2cc(ccc2OCCCOc1ccc(C(=[N@H])N)cc1Br)C(=[N@H])N
@@ -12687,7 +12685,6 @@ Lysergene	CN1CC(=C)C=C2[C@H]1CC3=CNC4=CC=CC2=C34
 Alafosfalin	C[C@@H](C(=O)N[C@@H](C)P(=O)(O)O)N
 Alentemol	CCCN(CCC)C1CC2=CC=CC3=CC(=CC(=C23)C1)O
 Alexidine	CCCCC(C/N=C(/N=C(\NCCCCCCN/C(=N\C(=N\CC(CCCC)CC)\N)/N)/N)\N)CC
-Aliconazole	C1=CC(=CC=C1/C(=C/C2=C(C=C(C=C2)Cl)Cl)/CN3C=CN=C3)Cl
 Alifedrine	C[C@@H]([C@@H](C1=CC=CC=C1)O)NCCC(=O)C2CCCCC2
 Alisertib	COC1=C(C(=CC=C1)F)C2=NCC3=CN=C(N=C3C4=C2C=C(C=C4)Cl)NC5=CC(=C(C=C5)C(=O)O)OC
 Albifylline	CC(C)(CCCCN1C(=O)C2=C(N=CN2)N(C1=O)C)O
@@ -12876,6 +12873,7 @@ Acetylpyrazine	CC(=O)C1=NC=CN=C1
 10-Hydroxydecanoic acid	C(CCCCC(=O)O)CCCCO
 Urolithin B	C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O
 6-Hydroxykynurenic acid	C1=CC2=C(C=C1O)C(=CC(=N2)C(=O)O)O
+Methyl-α-D-galactose	CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O
 Isofraxidin-7-glucoside	O=C/2Oc3c(OC)c(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)c(OC)cc3\C=C\2
 Fluoroacetaldehyde	C(C=O)F
 5'-Deoxy-5'-fluoroadenosine	C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CF)O)O)N
@@ -13159,3 +13157,4 @@ Deacetylvindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4[C@]([C@@H]2
 Preakuammicine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1[C@](C3=Nc5c4cccc5)(CO)C(=O)OC
 Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
 Dehydrosecodine	CCC1=CN(CC=C1)CCc2c3ccccc3[nH]c2C(=C)C(=O)OC
+2C-T-16	COc1cc(SCC=C)c(OC)cc1CCN
