@@ -13,6 +13,7 @@ Amyl nitrite	O=NOCCCCC
 Amygdalin	N#C[C@H](O[C@@H]2O[C@H](CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)[C@@H](O)[C@H](O)[C@H]2O)c3ccccc3
 Amygdalin	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3OC[C@H]2O[C@@H](OC(C#N)c1ccccc1)[C@H](O)[C@@H](O)[C@@H]2O
 Boron nitride	B#N
+Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
 Β-Lactam	C1CNC1=O
 Carbon dioxide	O=C=O
@@ -171,7 +172,6 @@ Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
 Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
-Monosodium glutamate	[Na+].O=C([O-])[C@@H](N)CCC(=O)O
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)O)N)[C@@H]1/N=C\C[C@H]1C
 Aqua regia	[N+](=O)(O)[O-].Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
@@ -4237,7 +4237,7 @@ Monensin	O=C(O)[C@@H](C)[C@H](OC)[C@H](C)[C@H]5O[C@]1(O[C@@](C)(CC1)[C@@H]2O[C@@
 Felbinac	O=C(O)Cc1ccc(cc1)c2ccccc2
 Enterostatin	O=C(N[C@H](C(=O)O)CCC/N=C(\N)N)[C@H]2N(C(=O)CNC(=O)[C@H]1N(C(=O)[C@@H](N)C)CCC1)CCC2
 Fulvalene	C=1\C=C/C(/C=1)=C2\C=C/C=C2
-Aplidine	O=C([C@@H](NC([C@@H](C)C([C@@H](OC(C[C@H](O)[C@H](NC([C@@H](NC([C@H](N(C([C@H]1N(C(C(C)=O)=O)CCC1)=O)C)CC(C)C)=O)[C@@H](C)OC([C@H](CC2=CC=C(OC)C=C2)N3C)=O)=O)[C@@H](C)CC)=O)C(C)C)=O)=O)CC(C)C)N4[C@H](C3=O)CCC4
+Plitidepsin	O=C([C@@H](NC([C@@H](C)C([C@@H](OC(C[C@H](O)[C@H](NC([C@@H](NC([C@H](N(C([C@H]1N(C(C(C)=O)=O)CCC1)=O)C)CC(C)C)=O)[C@@H](C)OC([C@H](CC2=CC=C(OC)C=C2)N3C)=O)=O)[C@@H](C)CC)=O)C(C)C)=O)=O)CC(C)C)N4[C@H](C3=O)CCC4
 Sultiame	O=S2(=O)N(c1ccc(cc1)S(=O)(=O)N)CCCC2
 Nitroethane	CC[N+](=O)[O-]
 Rhenium trioxide	O=[Re](=O)=O
@@ -8767,6 +8767,7 @@ Norsalsolinol	C1CNCC2=CC(=C(C=C21)O)O
 TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 17-Phenylandrostenol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CC=CC=C5)C)O
 Amfenac	O=C(c1cccc(c1N)CC(=O)O)c2ccccc2
+Climbazole	CC(C)(C)C(=O)C(n1ccnc1)Oc2ccc(cc2)Cl
 GBLD-345	COC1=CC=CC(CNC(C=C2)=NN3C2=NC(C4=CC=C(N)C=C4)=C3OC)=C1
 Canaline	O=C(O)[C@@H](N)CCON
 SSR-180,575	Cn2c3cc(Cl)ccc3c1c2c(=O)n(nc1CC(=O)N(C)C)-c4ccccc4
@@ -11413,6 +11414,7 @@ S33005	CN(C)CC1(CC2=C1C=C(C=C2)OC)C3(CCCCC3)O
 3-Ethylphenol	Oc1cc(ccc1)CC
 WY-46824	CN1CCN(CC1)CC(C2=CC(=CC=C2)Cl)C3(CCCCC3)O
 2-Ethyl-4,5-dimethylphenol	CCC1=C(C=C(C(=C1)C)C)O
+Flufenacet	CC(C)N(c1ccc(cc1)F)C(=O)COc2nnc(s2)C(F)(F)F
 2-Methoxypropene	CC(=C)OC
 Metribuzin	CC(C)(C)C1=NN=C(N(C1=O)N)SC
 Ruthenium hexafluoride	F[Ru](F)(F)(F)(F)F
