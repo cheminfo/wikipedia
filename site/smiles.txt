@@ -172,6 +172,7 @@ Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
 Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
+Monosodium glutamate	[Na+].O=C([O-])[C@@H](N)CCC(=O)O
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)O)N)[C@@H]1/N=C\C[C@H]1C
 Aqua regia	[N+](=O)(O)[O-].Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
@@ -521,7 +522,7 @@ Diphosgene	ClC(=O)OC(Cl)(Cl)Cl
 Lamotrigine	NC1=NC(N)=NN=C1C2=CC=CC(Cl)=C2Cl
 Potassium sodium tartrate	[K+].[Na+].O=C([O-])C(O)C(O)C([O-])=O
 Zolpidem	O=C(CC1=C(C2=CC=C(C)C=C2)N=C3C=CC(C)=CN13)N(C)C
-Diclofenac	O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl.OCCN1CCCC1
+Diclofenac	O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl
 Aristolochic acid	[O-][N+](=O)c1cc4c(c2c1c(C(=O)O)cc3OCOc23)cccc4OC
 Acetylcysteine	CC(=O)NC(CS)C(O)=O
 Radium chloride	[Ra+2].[Cl-].[Cl-]
@@ -13132,7 +13133,6 @@ Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)
 Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C(=C32)C#N)N4C[C@H]5[C@H](C4)OCCN5)F)C(=O)O
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
-Clonazolam	ClC1=C(C=CC=C1)C1=NCC=2N(C3=C1C=C(C=C3)[N+](=O)[O-])C(=NN2)C
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 7,8-Dihydroxyflavone	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
