@@ -219,6 +219,7 @@ Acetyl	C[C]=O
 Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
+Chloroform	ClC(Cl)Cl
 Paracetamol	CC(NC1=CC=C(O)C=C1)=O
 Sulfate	[O-]S(=O)(=O)[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
@@ -5146,7 +5147,7 @@ BOHD (psychedelic)	COc1cc(C)c(cc1C(O)CN)OC
 BOM (psychedelic)	COc1c(cc(cc1OC)C(CN)OC)OC
 4-Bromo-3,5-dimethoxyamphetamine	Brc1c(OC)cc(cc1OC)CC(N)C
 2-Bromo-4,5-methylenedioxyamphetamine	CC(Cc1cc2c(cc1Br)OCO2)N
-4-D (psychedelic)	[2H]C([2H])([2H])Oc1c(cc(cc1OC)CC(C)N)OC
+4-D (psychedelic)	[2H]C([2H])([2H])OC1=C(OC)C=C(CCN)C=C1OC
 Acylfulvene	O=C1C/3=C/C(=CC\3=C(/C2([C@]1(O)C)CC2)C)C
 Acylfulvene	CC1=CC2=C(C3(CC3)C(C(=O)C2=C1)(C)O)C
 Beta-D	COc1c(cc(cc1OC)C([2H])([2H])CN)OC
@@ -13082,6 +13083,7 @@ AZD3293	CC#CC1=CC(=CN=C1)C2=CC3=C(CC4(C35N=C(C(=N5)N)C)CCC(CC4)OC)C=C2
 Verucerfont	Cc2nn1c(NC(CC)c(on4)nc4C)cc(C)nc1c2-c3ccc(OC)cc3C
 HT-2157	c14ccccc4n(-c3ccccc3)c(=O)c1=N\c(c2)cccc2C(F)(F)F
 Cyclamen aldehyde	CC(C)c1ccc(cc1)CC(C)C=O
+Androstanediol glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 SCH-202,596	COC(=O)C4=CC(O)C(O)C(O)C4Oc3c(C1=O)c(c(Cl)c(C)c3Cl)OC12C(C(=O)OC)=CC(=O)C=C2OC
 5F-ADB	COC(=O)C(C(C)(C)C)NC(=O)c2c1ccccc1n(n2)CCCCCF
 13-Methyltetradecanoic acid	CC(C)CCCCCCCCCCCC(=O)O
@@ -13147,6 +13149,7 @@ Ombitasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C(=O)Nc2ccc(cc2)[C@@H]3CC[C@H](N3c4ccc(cc
 Dasabuvir	CC(C)(C)c1cc(cc(c1OC)c2ccc3cc(ccc3c2)NS(=O)(=O)C)n4ccc(=O)[nH]c4=O
 Tipiracil	C1CC(=N)N(C1)Cc2c(c(=O)[nH]c(=O)[nH]2)Cl
 Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
+Testosterone isocaproate	CC(C)CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	C[N@@]1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
@@ -13170,5 +13173,6 @@ Iridodial	C[C@H]1CC[C@@H]([C@H]1C=O)[C@H](C)C=O
 7-Deoxyloganetic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O
 7-Deoxyloganic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
+Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Pyridine-3,4,5-triol	OC1=CN=CC(O)=C1O
