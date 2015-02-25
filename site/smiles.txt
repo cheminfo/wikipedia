@@ -103,7 +103,6 @@ Sildenafil	CN1CCN(S(=O)(C2=CC=C(OCC)C(C3=NC4=C(N(C)N=C4CCC)C(N3)=O)=C2)=O)CC1
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Niacin	Oc(:o):c1cccnc1
-Nicotine	CN(CCC1)[C@@H]1C2=CC=CN=C2
 Psilocybin	CN(C)CCc1cnc2CC=CC(OP(O)(O)=O)=c12
 Adenine	c1[nH]c2c(ncnc2n1)N
 Proline	OC(=O)C1CCCN1
@@ -13176,3 +13175,4 @@ Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([
 Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Pyridine-3,4,5-triol	OC1=CN=CC(O)=C1O
+Tetramethylhexadecenyl succinyl cysteine	C(CCC[C@@H](CCC[C@@H](CCC/C(=C/CSC[C@H](NC(=O)CCC(=O)O)C(=O)O)/C)C)C)(C)C
