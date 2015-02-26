@@ -1,11 +1,11 @@
 
 init.js
 ----------------
-components/jquery/jquery.min.js
+components/jquery/dist/jquery.min.js
 components/loglevel/dist/loglevel.min.js
 src/util/debug.js
 src/util/color.js
-components/lodash/dist/lodash.min.js
+components/lodash/lodash.min.js
 src/util/util.js
 src/main/datas.js
 src/util/localdb.js
@@ -15,12 +15,20 @@ src/util/versioning.js
 src/header/header.js
 src/util/event.js
 src/util/repository.js
-components/jquery-ui/ui/minified/jquery-ui.min.js
-components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js
+components/jquery-ui/ui/core.js
+components/jquery-ui/ui/widget.js
+components/jquery-ui/ui/button.js
+components/jquery-ui/ui/mouse.js
+components/jquery-ui/ui/draggable.js
+components/jquery-ui/ui/position.js
+components/jquery-ui/ui/resizable.js
+components/jquery-ui/ui/dialog.js
+src/util/ui.js
 src/data/structures.js
 src/util/datatraversing.js
 src/util/actionmanager.js
 src/util/api.js
+components/jquery-ui/ui/menu.js
 src/util/context.js
 src/util/fullscreen.js
 modules/module.js
@@ -53,7 +61,7 @@ src/util/lru.js
 src/util/urldata.js
 src/main/entrypoint.js
 components/uri.js/src/URI.fragmentQuery.js
-components/bluebird/js/browser/bluebird.js
+components/bluebird/js/browser/bluebird.min.js
 lib/IndexedDBShim/IndexedDBShim.js
 components/setImmediate/setImmediate.js
 init.js

@@ -1885,11 +1885,8 @@ if (typeof Slick === "undefined") {
       if (!options.enableAsyncPostRender) {
         return;
       }
-
-      //clearTimeout(h_postrender);
-      //h_postrender = setTimeout(asyncPostProcessRows, options.asyncPostRenderDelay);
-      clearImmediate(h_postrender);
-      h_postrender = setImmediate(asyncPostProcessRows);
+      clearTimeout(h_postrender);
+      h_postrender = setTimeout(asyncPostProcessRows, options.asyncPostRenderDelay);
     }
 
     function invalidatePostProcessingResults(row) {
@@ -2023,8 +2020,7 @@ if (typeof Slick === "undefined") {
           }
         }
 
-        //h_postrender = setTimeout(asyncPostProcessRows, options.asyncPostRenderDelay);
-        h_postrender = setImmediate(asyncPostProcessRows);
+        h_postrender = setTimeout(asyncPostProcessRows, options.asyncPostRenderDelay);
         return;
       }
     }
@@ -2572,14 +2568,13 @@ if (typeof Slick === "undefined") {
       }
     }
 
-    function commitEditAndSetFocus(navigation) {
+    function commitEditAndSetFocus() {
       // if the commit fails, it would do so due to a validation error
       // if so, do not steal the focus from the editor
       if (getEditorLock().commitCurrentEdit()) {
         setFocus();
         if (options.autoEdit) {
-          navigation = navigation || 'down';
-          navigate(navigation);
+          navigateDown();
         }
       }
     }
@@ -3102,7 +3097,8 @@ if (typeof Slick === "undefined") {
                 item: item
               });
             } else {
-              var newItem = currentEditor.applyValue(null, currentEditor.serializeValue());
+              var newItem = {};
+              currentEditor.applyValue(newItem, currentEditor.serializeValue());
               makeActiveCellNormal();
               trigger(self.onAddNewRow, {item: newItem, column: column});
             }

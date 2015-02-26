@@ -1,11 +1,11 @@
 /*!
- * jsGraph JavaScript Graphing Library v1.10.4-30
+ * jsGraph JavaScript Graphing Library v1.10.4-34
  * http://github.com/NPellet/jsGraph
  *
  * Copyright 2014 Norman Pellet
  * Released under the MIT license
  *
- * Date: 2015-01-23T14:40Z
+ * Date: 2015-02-11T15:42Z
  */
 
 (function( global, factory ) {
@@ -828,12 +828,7 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
       this._hasChanged = true;
 
       // New method
-      this.emit( "zoom", [ this, this.currentAxisMin, this.currentAxisMax ] );
-
-      // Old method
-      if ( this.options.onZoom && !mute ) {
-        this.options.onZoom( this.currentAxisMin, this.currentAxisMax );
-      }
+      this.emit( "zoom", this.currentAxisMin, this.currentAxisMax, this );
     },
 
     getSerieShift: function() {
@@ -961,12 +956,14 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
 
       var interval = this.getInterval();
 
-      this.currentAxisMin = this.getMinValue() - ( this.options.axisDataSpacing.min * interval );
-      this.currentAxisMax = this.getMaxValue() + ( this.options.axisDataSpacing.max * interval );
-
       if ( this.options.logScale ) {
-        this.currentAxisMin = Math.max( 1e-50, this.currentAxisMin );
-        this.currentAxisMax = Math.max( 1e-50, this.currentAxisMax );
+        this.currentAxisMin = Math.max( 1e-50, this.getMinValue() * 0.9 );
+        this.currentAxisMax = Math.max( 1e-50, this.getMaxValue() * 1.1 );
+      } else {
+
+        this.currentAxisMin = this.getMinValue() - ( this.options.axisDataSpacing.min * interval );
+        this.currentAxisMax = this.getMaxValue() + ( this.options.axisDataSpacing.max * interval );
+
       }
 
       if ( isNaN( this.currentAxisMin ) || isNaN( this.currentAxisMax ) ) {
@@ -985,11 +982,11 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
     },
 
     getActualMin: function() {
-      return this.currentAxisMin == this.currentAxisMax ? this.currentAxisMin - 1 : this.currentAxisMin;
+      return this.currentAxisMin == this.currentAxisMax ? ( this.options.logScale ? this.currentAxisMin / 10 : this.currentAxisMin - 1 ) : this.currentAxisMin;
     },
 
     getActualMax: function() {
-      return this.currentAxisMax == this.currentAxisMin ? this.currentAxisMax + 1 : this.currentAxisMax;
+      return this.currentAxisMax == this.currentAxisMin ? ( this.options.logScale ? this.currentAxisMax * 10 : this.currentAxisMax + 1 ) : this.currentAxisMax;
     },
 
     setCurrentMin: function( val ) {
@@ -1233,6 +1230,14 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
       var incr = Math.min( min, max );
       var max = Math.max( min, max );
 
+      if ( incr < 1e-50 ) {
+        incr = 1e-50;
+      }
+
+      if ( Math.log( incr ) - Math.log( max ) > 20 ) {
+        max = Math.pow( 10, ( Math.log( incr ) * 20 ) );
+      }
+
       var optsMain = {
         fontSize: '1.0em',
         exponential: true,
@@ -1253,11 +1258,16 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
           incr = 1;
           pow++;
         } else {
-          if ( incr != 1 && val > min )
-            this.drawTickWrapper( val, true, 2, {
-              overwrite: incr,
+
+          if ( incr != 1 && val > min ) {
+
+            this.drawTickWrapper( val, false, 2, {
+              overwrite: "",
               fontSize: '0.6em'
             } );
+
+          }
+
           incr++;
         }
       }
@@ -1567,7 +1577,7 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
     setTickContent: function( dom, val, options ) {
       if ( !options ) options = {};
 
-      if ( options.overwrite || !options.exponential ) {
+      if ( options.overwrite ||  !options.exponential ) {
 
         dom.textContent = options.overwrite || this.valueToText( val );
 
@@ -1579,7 +1589,7 @@ build['./graph.axis'] = ( function( $, EventEmitter ) {
         var tspan = document.createElementNS( this.graph.ns, 'tspan' );
         tspan.textContent = log;
         tspan.setAttribute( 'font-size', '0.7em' );
-        tspan.setAttribute( 'dy', -3 );
+        tspan.setAttribute( 'dy', 0 );
         dom.appendChild( tspan );
       }
 
@@ -4236,7 +4246,6 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
     },
 
     // Repaints the axis and series
-
     autoscaleAxes: function() {
       this._applyToAxes( "setMinMaxToFitSeries", null, true, true );
       this.redraw();
@@ -4485,7 +4494,7 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
         if ( shapeData.selectOnMouseDown ) {
           shape._selectOnMouseDown = shapeData.selectOnMouseDown;
         }
-        
+
         if ( shapeData.selectable ) {
           shape.selectable();
         }
@@ -4788,24 +4797,23 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
     },
 
     selectShape: function( shape, mute ) {
-      
+
       // Already selected. Returns false
       if ( this.selectedShapes.indexOf( shape ) > -1 ) {
         return false;
       }
-      
 
       if ( !shape.isSelectable() ) {
         return false;
       }
-      
+
       this.emit( "beforeShapeSelect", shape );
 
       if ( this.cancelSelectShape ) {
         this.cancelSelectShape = false;
         return;
       }
-      
+
       this.cancelSelectShape = false;
 
       if ( this.selectedShapes.length > 0 && this.options.shapeSelection == "unique" )  { // Only one selected shape at the time
@@ -4816,7 +4824,7 @@ build['./graph.core'] = ( function( $, GraphXAxis, GraphYAxis, GraphXAxisBroken,
           this.unselectShape( this.selectedShapes[ 0 ] )
         }
       }
-      
+
       shape._select();
       this.selectedShapes.push( shape );
       this.emit( "shapeSelect", shape );
@@ -7122,13 +7130,11 @@ build['./plugins/graph.plugin.zoom'] = ( function( ) {
         this.graph.autoscaleAxes();
         this.graph.drawSeries();
 
-        if ( yAxis.options.onZoom ) {
-          yAxis.options.onZoom( yAxis.getMinValue(), yAxis.getMaxValue() );
-        }
+        this.graph._applyToAxes( function( axis ) {
 
-        if ( xAxis.options.onZoom ) {
-          xAxis.options.onZoom( xAxis.getMinValue(), xAxis.getMaxValue() );
-        }
+          axis.emit( 'zoom', axis.currentAxisMin, axis.currentAxisMax, axis );
+
+        }, null, true, true );
 
       } else {
 
@@ -7346,7 +7352,7 @@ build['./series/graph.serie.line'] = ( function( GraphSerieNonInstanciable, Slot
       this.name = name;
       this.id = this.graph.uniqueId();
 
-      this.options = $.extend( true, {}, GraphSerie.prototype.defaults, options ); // Creates options
+      this.options = $.extend( true, {}, GraphSerie.prototype.defaults, ( options || {} ) ); // Creates options
       this.graph.mapEventEmission( this.options, this ); // Register events
 
       // Creates an empty style variable
@@ -10257,32 +10263,34 @@ build['./series/graph.serie.scatter'] = ( function( GraphSerieNonInstanciable ) 
 
     makeError: function( orientation, level, coord, origin ) {
 
-      switch ( this.errorstyles[  level ].type ) {
+      switch ( this.errorstyles[ level ].type ) {
 
         case 'bar':
-          return this[ "makeBar" + orientation.toUpperCase() ]( coord, origin );
+          return this[ "makeBar" + orientation.toUpperCase() ]( coord, origin, this.errorstyles[ level ] );
           break;
 
         case 'box':
-          return this[ "makeBox" + orientation.toUpperCase() ]( coord, origin );
+          return this[ "makeBox" + orientation.toUpperCase() ]( coord, origin, this.errorstyles[ level ] );
           break;
       }
     },
 
-    makeBarY: function( coordY, origin ) {
-
-      return " V " + coordY + " m -10 0 h 20 m -10 0 V " + origin + " ";
+    makeBarY: function( coordY, origin, style ) {
+      var width = style.width || 10;
+      return " V " + coordY + " m -" + ( width / 2 ) + " 0 h " + ( width ) + " m -" + ( width / 2 ) + " 0 V " + origin + " ";
     },
 
-    makeBoxY: function( coordY, origin ) {
+    makeBoxY: function( coordY, origin, style ) {
       return " m 5 0 V " + coordY + " h -10 V " + origin + " m 5 0 ";
     },
 
-    makeBarX: function( coordX, origin ) {
-      return " H " + coordX + " m 0 -10 v 20 m 0 -10 H " + origin + " ";
+    makeBarX: function( coordX, origin, style ) {
+      var height = style.height || 10;
+      return " H " + coordX + " m 0 -" + ( height / 2 ) + " v " + ( height ) + " m 0 -" + ( height / 2 ) + " H " + origin + " ";
     },
 
-    makeBoxX: function( coordX, origin ) {
+    makeBoxX: function( coordX, origin, style ) {
+
       return " v 5 H " + coordX + " v -10 H " + origin + " v 5 ";
     },
 
@@ -10515,7 +10523,7 @@ build['./series/graph.serie.scatter'] = ( function( GraphSerieNonInstanciable ) 
 */
 
       this.errorstyles = styles;
-
+      return this;
     },
 
     unselectPoint: function( index ) {
@@ -11929,10 +11937,15 @@ build['./shapes/graph.shape'] = ( function( ) {
     handleMouseOver: function() {
 
       this.callHandler( 'mouseOver', this );
+
+      this.graph.emit( "shapeMouseOver", this );
+
     },
 
     handleMouseOut: function() {
       this.callHandler( 'mouseOut', this );
+
+      this.graph.emit( "shapeMouseOut", this );
     },
 
     removeHandles: function() {

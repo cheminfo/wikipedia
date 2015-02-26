@@ -28,7 +28,7 @@ function switchLayer() {
 }
 
 requirejs.config({
-    baseUrl: 'http://www.lactame.com/visualizer/v2.12.1'
+    baseUrl: 'http://www.lactame.com/visualizer/v2.14.1'
 });
 
 require(['init'], function() {

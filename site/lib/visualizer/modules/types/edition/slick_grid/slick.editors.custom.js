@@ -349,7 +349,7 @@ define(['src/util/util', 'lodash', 'components/spectrum/spectrum', 'jquery'], fu
 
     function booleanLoadValue(item) {
         this.defaultValue = item.getChildSync(this.args.column.jpath);
-        if (this.defaultValue.get()) {
+        if (this.defaultValue && this.defaultValue.get()) {
             this.$input.attr("checked", "checked");
         } else {
             this.$input.removeAttr("checked");
@@ -357,7 +357,7 @@ define(['src/util/util', 'lodash', 'components/spectrum/spectrum', 'jquery'], fu
     }
 
     function booleanSerializeValue() {
-        return !!this.$input.attr("checked");
+        return !!this.$input[0].checked;
     }
 
     function booleanIsValueChanged() {

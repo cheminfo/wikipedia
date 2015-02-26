@@ -1,10 +1,9 @@
 {
   "visualizer": {
-    "cdn": "v2.12.1",
-    "version": "bd61e57c90c5ce26afbc24d34da864d014ef3820",
+    "cdn": "v2.14.1",
+    "version": "b9b01cafb3ebf82dab6be74f4d1ff84a427028c6",
     "del": [
       "components/jsNMR",
-      "components/alpaca",
       "components/jit",
       "components/jsbarcode",
       "components/leaflet",

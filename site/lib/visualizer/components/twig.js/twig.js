@@ -1,14 +1,14 @@
 /**
- * Twig.js 0.7.2
+ * Twig.js 0.8.1
  *
- * @copyright 2011-2013 John Roepke
+ * @copyright 2011-2014 John Roepke
  * @license   Available under the BSD 2-Clause License
  * @link      https://github.com/justjohn/twig.js
  */
 
 var Twig = (function (Twig) {
 
-    Twig.VERSION = "0.7.2";
+    Twig.VERSION = "0.8.1";
 
     return Twig;
 })(Twig || {});
@@ -158,14 +158,80 @@ var Twig = (function (Twig) {
         debug: function() {if (Twig.debug && console) {console.log(Array.prototype.slice.call(arguments));}},
     };
 
-    if (typeof console !== "undefined" && 
-        typeof console.log !== "undefined") {
-        Twig.log.error = function() {
-            console.log.apply(console, arguments);
+    if (typeof console !== "undefined") {
+        if (typeof console.error !== "undefined") {
+            Twig.log.error = function() {
+                console.error.apply(console, arguments);
+            }
+        } else if (typeof console.log !== "undefined") {
+            Twig.log.error = function() {
+                console.log.apply(console, arguments);
+            }
         }
     } else {
         Twig.log.error = function(){};
     }
+
+    /**
+     * Wrapper for context objects in Twig.
+     *
+     * @param {Object} context Values to initialize the context with. If another 
+     *        Twig.Context is provided, it will be returned instead of creating 
+     *        a new context.
+     */
+    Twig.Context = function(context) {
+        // initializing Twig.Context over an existing context 
+        // should return that context.
+        if (context instanceof Twig.Context) {
+            return context;
+        }
+
+        // If the provided context is a plain object, merge it 
+        // into the new Twig.Context
+        if (context) {
+            this._twig_merge(context);
+        }
+    };
+
+    Twig.Context.prototype = {
+        /**
+         * Create a new context that extends off of this one.
+         *
+         * The new context will have it's prototype set to this context and the 
+         * _twig_ methods will be available on the child context.
+         */
+        _twig_create: function() {
+            var ChildContext = function ChildContext() {};
+            ChildContext.prototype = this;
+            return new ChildContext();
+        },
+        /**
+         * Merge another context object into this one.
+         *
+         * @param {Object} context The context object to merge in. Can be a Twig.Context or a 
+         *        plain JS object.
+         * @param {boolean} onlyChanged If true, this will only merge in keys that already 
+         *        exist in the context, no new keys will be added.
+         */
+        _twig_merge: function(context, onlyChanged) {
+            var that = this;
+
+            Twig.forEach(Object.keys(context), function (key) {
+                if (onlyChanged && !(key in that)) {
+                    return;
+                }
+
+                // prevent context methods from being overwitten
+                if (!(key in Twig.Context.prototype)) {
+                    that[key] = context[key];
+                } else {
+                    Twig.log.error(key + ' is not allowed on a Twig.Context, method name is reserved');
+                }
+            });
+
+            return this;
+        }
+    };
 
     /**
      * Container for methods related to handling high level template tokens
@@ -541,16 +607,12 @@ var Twig = (function (Twig) {
                 chain = true,
                 that = this;
 
-            // Default to an empty object if none provided
-            context = context || { };
-
-
             Twig.forEach(tokens, function parseToken(token) {
                 Twig.log.debug("Twig.parse: ", "Parsing token: ", token);
 
                 switch (token.type) {
                     case Twig.token.type.raw:
-                        output.push(token.value);
+                        output.push(Twig.filters.raw(token.value));
                         break;
 
                     case Twig.token.type.logic:
@@ -579,7 +641,7 @@ var Twig = (function (Twig) {
                         break;
                 }
             });
-            return output.join("");
+            return Twig.output.apply(this, [output]);
         } catch (ex) {
             Twig.log.error("Error parsing twig template " + this.id + ": ");
             if (ex.stack) {
@@ -618,6 +680,29 @@ var Twig = (function (Twig) {
 
         return tokens;
     };
+
+    /**
+     * Join the output token's stack and escape it if needed
+     *
+     * @param {Array} Output token's stack
+     *
+     * @return {string|String} Autoescaped output
+     */
+    Twig.output = function(output) {
+        if (!this.options.autoescape) {
+            return output.join("");
+        }
+
+        // [].map would be better but it's not supported by IE8-
+        var escaped_output = [];
+        Twig.forEach(output, function (str) {
+            if (str && !str.twig_markup) {
+                str = Twig.filters.escape(str);
+            }
+            escaped_output.push(str);
+        });
+        return Twig.Markup(escaped_output.join(""));
+    }
 
     // Namespace for template storage and retrieval
     Twig.Templates = {
@@ -870,6 +955,7 @@ var Twig = (function (Twig) {
     Twig.Template.prototype.reset = function(blocks) {
         Twig.log.debug("Twig.Template.reset", "Reseting template " + this.id);
         this.blocks = {};
+        this.importedBlocks = [];
         this.child = {
             blocks: blocks || {}
         };
@@ -882,7 +968,7 @@ var Twig = (function (Twig) {
         var output,
             url;
 
-        this.context = context || {};
+        this.context = new Twig.Context(context);
 
         // Clear any previous state
         this.reset();
@@ -976,27 +1062,31 @@ var Twig = (function (Twig) {
         Twig.forEach(Object.keys(sub_template.blocks), function(key) {
             if (override || that.blocks[key] === undefined) {
                 that.blocks[key] = sub_template.blocks[key];
+                that.importedBlocks.push(key);
             }
         });
-    };
-
-    Twig.Template.prototype.importMacros = function(file) {
-        var url = relativePath(this, file);
-
-        // load remote template
-        var remoteTemplate = Twig.Templates.loadRemote(url, {
-            method: this.url?'ajax':'fs',
-            async: false,
-            id: url
-        });
-
-        return remoteTemplate;
     };
 
     Twig.Template.prototype.compile = function(options) {
         // compile the template into raw JS
         return Twig.compiler.compile(this, options);
     };
+
+    /**
+     * Create safe output
+     *
+     * @param {string} Content safe to output
+     *
+     * @return {String} Content wrapped into a String
+     */
+
+    Twig.Markup = function(content) {
+        if (typeof content === 'string' && content.length > 0) {
+            content = new String(content);
+            content.twig_markup = true;
+        }
+        return content;
+    }
 
     /**
      * Generate the relative canonical version of a url based on the given base path and file path.
@@ -1166,11 +1256,37 @@ var Twig = (function(Twig) {
                                             case 'x': arg = arg.toString(16); break;
                                             case 'X': arg = arg.toString(16).toUpperCase(); break;
                                     }
-                                    arg = (/[def]/.test(match[8]) && match[3] && arg >= 0 ? '+'+ arg : arg);
+
+                                    var sign = '';
+                                    if (/[def]/.test(match[8])) {
+                                        if (match[3]) {
+                                            sign = arg >= 0 ? '+' : '-';
+                                        } else {
+                                            sign = arg >= 0 ? '' : '-';
+                                        }
+                                        arg = Math.abs(arg);
+                                    }
+
                                     pad_character = match[4] ? match[4] == '0' ? '0' : match[4].charAt(1) : ' ';
-                                    pad_length = match[6] - String(arg).length;
+                                    pad_length = match[6] - String(arg).length - sign.length;
                                     pad = match[6] ? str_repeat(pad_character, pad_length) : '';
-                                    output.push(match[5] ? arg + pad : pad + arg);
+
+                                    if (match[5]) {
+                                        // trailing padding
+                                        output.push(sign);
+                                        output.push(arg);
+                                        output.push(pad);
+                                    } else if ('0' == pad_character) {
+                                        // leading zero padding
+                                        output.push(sign);
+                                        output.push(pad);
+                                        output.push(arg);
+                                    } else {
+                                        // leading padding
+                                        output.push(pad);
+                                        output.push(sign);
+                                        output.push(arg);
+                                    }
                             }
                     }
                     return output.join('');
@@ -1822,7 +1938,9 @@ var Twig = (function (Twig) {
         macro:     'Twig.logic.type.macro',
         endmacro:  'Twig.logic.type.endmacro',
         import_:   'Twig.logic.type.import',
-        from:      'Twig.logic.type.from'
+        from:      'Twig.logic.type.from',
+        embed:     'Twig.logic.type.embed',
+        endembed:  'Twig.logic.type.endembed'
     };
 
 
@@ -2024,8 +2142,8 @@ var Twig = (function (Twig) {
                 // Parse expression
                 var result = Twig.expression.parse.apply(this, [token.expression, context]),
                     output = [],
-					len,
-					index = 0,
+                    len,
+                    index = 0,
                     keyset,
                     that = this,
                     conditional = token.conditional,
@@ -2042,10 +2160,12 @@ var Twig = (function (Twig) {
                             parent: context
                         };
                     },
+                    // run once for each iteration of the loop
                     loop = function(key, value) {
-                        var inner_context = Twig.lib.copy(context);
+                        var inner_context = context._twig_create();
 
                         inner_context[token.value_var] = value;
+
                         if (token.key_var) {
                             inner_context[token.key_var] = key;
                         }
@@ -2059,7 +2179,17 @@ var Twig = (function (Twig) {
                             output.push(Twig.parse.apply(that, [token.output, inner_context]));
                             index += 1;
                         }
+
+                        // Delete loop-related variables from the context
+                        delete inner_context['loop'];
+                        delete inner_context[token.value_var];
+                        delete inner_context[token.key_var];
+
+                        // Merge in values that exist in context but have changed 
+                        // in inner_context.
+                        context._twig_merge(inner_context, true);
                     };
+
 
                 if (result instanceof Array) {
                     len = result.length;
@@ -2088,7 +2218,7 @@ var Twig = (function (Twig) {
 
                 return {
                     chain: continue_chain,
-                    output: output.join("")
+                    output: Twig.output.apply(this, [output])
                 };
             }
         },
@@ -2132,8 +2262,6 @@ var Twig = (function (Twig) {
                 var value = Twig.expression.parse.apply(this, [token.expression, context]),
                     key = token.key;
 
-                // set on both the global and local context
-                this.context[key] = value;
                 context[key] = value;
 
                 return {
@@ -2256,15 +2384,21 @@ var Twig = (function (Twig) {
             parse: function (token, context, chain) {
                 var block_output = "",
                     output = "",
+                    isImported = this.importedBlocks.indexOf(token.block) > -1,
                     hasParent = this.blocks[token.block] && this.blocks[token.block].indexOf(Twig.placeholders.parent) > -1;
 
-                // Don't override previous blocks
+                // Don't override previous blocks unless they're imported with "use"
                 // Loops should be exempted as well.
-                if (this.blocks[token.block] === undefined || hasParent || context.loop) {
+                if (this.blocks[token.block] === undefined || isImported || hasParent || context.loop) {
                     block_output = Twig.expression.parse.apply(this, [{
                         type: Twig.expression.type.string,
                         value: Twig.parse.apply(this, [token.output, context])
                     }, context]);
+
+                    if (isImported) {
+                        // once the block is overridden, remove it from the list of imported blocks
+                        this.importedBlocks.splice(this.importedBlocks.indexOf(token.block), 1);
+                    }
 
                     if (hasParent) {
                         this.blocks[token.block] =  this.blocks[token.block].replace(Twig.placeholders.parent, block_output);
@@ -2335,7 +2469,7 @@ var Twig = (function (Twig) {
             /**
              * Block logic tokens.
              *
-             *  Format: {% extends "template.twig" %}
+             *  Format: {% use "template.twig" %}
              */
             type: Twig.logic.type.use,
             regex: /^use\s+(.+)$/,
@@ -2426,8 +2560,12 @@ var Twig = (function (Twig) {
 
                 var file = Twig.expression.parse.apply(this, [token.stack, innerContext]);
 
-                // Import file
-                template = this.importFile(file);
+                if (file instanceof Twig.Template) {
+                    template = file;
+                } else {
+                    // Import file
+                    template = this.importFile(file);
+                }
 
                 return {
                     chain: chain,
@@ -2564,7 +2702,7 @@ var Twig = (function (Twig) {
             parse: function (token, context, chain) {
                 if (token.expression !== "_self") {
                     var file = Twig.expression.parse.apply(this, [token.stack, context]);
-                    var template = this.importMacros(file || token.expression);
+                    var template = this.importFile(file || token.expression);
                     context[token.contextName] = template.render({}, {output: 'macros'});
                 }
                 else {
@@ -2627,7 +2765,7 @@ var Twig = (function (Twig) {
 
                 if (token.expression !== "_self") {
                     var file = Twig.expression.parse.apply(this, [token.stack, context]);
-                    var template = this.importMacros(file || token.expression);
+                    var template = this.importFile(file || token.expression);
                     macros = template.render({}, {output: 'macros'});
                 }
                 else {
@@ -2646,6 +2784,99 @@ var Twig = (function (Twig) {
                 }
 
             }
+        },
+        {
+            /**
+             * The embed tag combines the behaviour of include and extends.
+             * It allows you to include another template's contents, just like include does.
+             *
+             *  Format: {% embed "template.twig" [with {some: 'values'} only] %}
+             */
+            type: Twig.logic.type.embed,
+            regex: /^embed\s+(ignore missing\s+)?(.+?)\s*(?:with\s+(.+?))?\s*(only)?$/,
+            next: [
+                Twig.logic.type.endembed
+            ],
+            open: true,
+            compile: function (token) {
+                var match = token.match,
+                    includeMissing = match[1] !== undefined,
+                    expression = match[2].trim(),
+                    withContext = match[3],
+                    only = ((match[4] !== undefined) && match[4].length);
+
+                delete token.match;
+
+                token.only = only;
+                token.includeMissing = includeMissing;
+
+                token.stack = Twig.expression.compile.apply(this, [{
+                    type:  Twig.expression.type.expression,
+                    value: expression
+                }]).stack;
+
+                if (withContext !== undefined) {
+                    token.withStack = Twig.expression.compile.apply(this, [{
+                        type:  Twig.expression.type.expression,
+                        value: withContext.trim()
+                    }]).stack;
+                }
+
+                return token;
+            },
+            parse: function (token, context, chain) {
+                // Resolve filename
+                var innerContext = {},
+                    withContext,
+                    i,
+                    template;
+
+                if (!token.only) {
+                    for (i in context) {
+                        if (context.hasOwnProperty(i))
+                            innerContext[i] = context[i];
+                    }
+                }
+
+                if (token.withStack !== undefined) {
+                    withContext = Twig.expression.parse.apply(this, [token.withStack, context]);
+
+                    for (i in withContext) {
+                        if (withContext.hasOwnProperty(i))
+                            innerContext[i] = withContext[i];
+                    }
+                }
+
+                var file = Twig.expression.parse.apply(this, [token.stack, innerContext]);
+
+                if (file instanceof Twig.Template) {
+                    template = file;
+                } else {
+                    // Import file
+                    template = this.importFile(file);
+                }
+
+                // reset previous blocks
+                this.blocks = {};
+
+                // parse tokens. output will be not used
+                var output = Twig.parse.apply(this, [token.output, innerContext]);
+
+                // render tempalte with blocks defined in embed block
+                return {
+                    chain: chain,
+                    output: template.render(innerContext, {'blocks':this.blocks})
+                };
+            }
+        },
+        /* Add the {% endembed %} token
+         *
+         */
+        {
+            type: Twig.logic.type.endembed,
+            regex: /^endembed$/,
+            next: [ ],
+            open: false
         }
 
     ];
@@ -2835,7 +3066,7 @@ var Twig = (function (Twig) {
      * Reserved word that can't be used as variable names.
      */
     Twig.expression.reservedWords = [
-        "true", "false", "null", "_context"
+        "true", "false", "null", "TRUE", "FALSE", "NULL", "_context"
     ];
 
     /**
@@ -3508,7 +3739,7 @@ var Twig = (function (Twig) {
              */
             type: Twig.expression.type._null,
             // match a number
-            regex: /^null/,
+            regex: /^(null|NULL|none|NONE)/,
             next: Twig.expression.set.operations,
             compile: function(token, stack, output) {
                 delete token.match;
@@ -3549,10 +3780,10 @@ var Twig = (function (Twig) {
              * Match a boolean
              */
             type: Twig.expression.type.bool,
-            regex: /^(true|false)/,
+            regex: /^(true|TRUE|false|FALSE)/,
             next: Twig.expression.set.operations,
             compile: function(token, stack, output) {
-                token.value = (token.match[0] == "true");
+                token.value = (token.match[0].toLowerCase( ) === "true");
                 delete token.match;
                 output.push(token);
             },
@@ -3986,8 +4217,8 @@ var Twig = (function (Twig) {
             case '~':
                 b = stack.pop();
                 a = stack.pop();
-                stack.push( (a !== undefined ? a.toString() : "")
-                          + (b !== undefined ? b.toString() : "") );
+                stack.push( (a != null ? a.toString() : "")
+                          + (b != null ? b.toString() : "") );
                 break;
 
             case 'not':
@@ -4387,11 +4618,12 @@ var Twig = (function (Twig) {
             if (value === undefined|| value === null){
                 return;
             }
-            return value.toString().replace(/&/g, "&amp;")
+            var raw_value = value.toString().replace(/&/g, "&amp;")
                         .replace(/</g, "&lt;")
                         .replace(/>/g, "&gt;")
                         .replace(/"/g, "&quot;")
                         .replace(/'/g, "&#039;");
+            return Twig.Markup(raw_value);
         },
 
         /* Alias of escape */
@@ -4468,6 +4700,39 @@ var Twig = (function (Twig) {
                 }
             }
             return whitespace.indexOf(str.charAt(0)) === -1 ? str : '';
+        },
+
+        truncate: function (value, params) {
+            var length = 30,
+                preserve = false,
+                separator = '...';
+
+            value =  value + '';
+            if (params) {
+                if (params[0]) {
+                    length = params[0];
+                }
+                if (params[1]) {
+                    preserve = params[1];
+                }
+                if (params[2]) {
+                    separator = params[2];
+                }
+            }
+
+            if (value.length > length) {
+
+                if (preserve) {
+                    length = value.indexOf(' ', length);
+                    if (length === -1) {
+                        return value;
+                    }
+                }
+
+                value =  value.substr(0, length) + separator;
+            }
+
+            return value;
         },
 
         slice: function(value, params) {
@@ -4595,8 +4860,7 @@ var Twig = (function (Twig) {
             return value[value.length - 1];
         },
         raw: function(value) {
-            //Raw filter shim
-            return value;
+            return Twig.Markup(value);
         },
         batch: function(items, params) {
             var size = params.shift(),
@@ -4839,6 +5103,45 @@ var Twig = (function (Twig) {
             }
             // Array will return element 0-index
             return object[method] || undefined;
+        },
+        template_from_string: function(template) {
+            if (template === undefined) {
+                template = '';
+            }
+            return new Twig.Template({
+                options: this.options,
+                data: template
+            });
+        },
+        random: function(value) {
+            var LIMIT_INT31 = 0x80000000;
+
+            function getRandomNumber(n) {
+                var random = Math.floor(Math.random() * LIMIT_INT31);
+                var limits = [0, n];
+                var min = Math.min.apply(null, limits),
+                    max = Math.max.apply(null, limits);
+                return min + Math.floor((max - min + 1) * random / LIMIT_INT31);
+            }
+
+            if(Twig.lib.is("Number", value)) {
+                return getRandomNumber(value);
+            }
+
+            if(Twig.lib.is("String", value)) {
+                return value.charAt(getRandomNumber(value.length-1));
+            }
+
+            if(Twig.lib.is("Array", value)) {
+                return value[getRandomNumber(value.length-1)];
+            }
+
+            if(Twig.lib.is("Object", value)) {
+                var keys = Object.keys(value);
+                return value[keys[getRandomNumber(keys.length-1)]];
+            }
+
+            return getRandomNumber(LIMIT_INT31-1);
         }
     };
 
@@ -4899,6 +5202,9 @@ var Twig = (function (Twig) {
         },
         sameas: function(value, params) {
             return value === params[0];
+        },
+        iterable: function(value) {
+            return value && (Twig.lib.is("Array", value) || Twig.lib.is("Object", value));
         }
         /*
         constant ?
@@ -4945,6 +5251,8 @@ var Twig = (function (Twig) {
         var id = params.id,
             options = {
                 strict_variables: params.strict_variables || false,
+                // TODO: turn autoscape on in the next major version
+                autoescape: params.autoescape != null && params.autoescape || false,
                 allowInlineIncludes: params.allowInlineIncludes || false,
                 rethrow: params.rethrow || false
             };

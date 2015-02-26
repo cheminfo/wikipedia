@@ -1,50 +1,57 @@
-/* icon support */
- .ui-menu-icons { /*position: relative;*/ }
- .ui-menu-icons .ui-menu-item a { position: relative; padding-left: 2em; }
-
- /* left-aligned */
- .ui-menu .ui-icon { position: absolute; top: .2em; left: .2em; }
- 
- /* right-aligned */
- .ui-menu .ui-menu-icon { position: static; float: right; }
-
-
 .ui-menu {
-	border-radius: 0px;
+    width: 150px;
 }
 
-.ui-widget { font-family: inherit; font-size: inherit; }
-.ui-dialog { overflow: visible; }
-.ui-dialog .ui-dialog-content { overflow: visible; }
-
-.ui-menu .ui-menu { margin-top: -3px; position: absolute; }
-
-.ui-menu .ui-menu-item a.ui-state-focus,
-.ui-menu .ui-menu-item a.ui-state-hover,
-.ui-menu .ui-menu-item a.ui-state-active {
-	
-	margin: 0px;
-	
+.ui-menu .ui-menu-item {
+    list-style-image: none;
 }
 
+.ui-menu .ui-menu-item a {
+    line-height: 1.5;
+}
+
+.ui-autocomplete {
+    z-index: 990 !important;
+}
+
+.ui-widget-overlay {
+    background: #262b33;
+    opacity: 0.7;
+    z-index: 999 !important;
+}
+
+.ui-icon.ui-resizable-se {
+    width: 12px;
+    height: 12px;
+}
+
+.ui-widget {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.ui-dialog {
+    overflow: visible;
+}
+
+.ui-dialog .ui-dialog-content {
+    overflow: visible;
+}
 
 .ui-fancytree.fancytree-container {
-	background: transparent;
-	border: none;
-	outline: none;
+    background: transparent;
+    border: none;
+    outline: none;
 }
-
-
-
 
 /* Norman modification */
 .jqgrow:hover {
-	background-color: #e5be39 !important;
+    background-color: #e5be39 !important;
 }
 
 .jqgrow td.ui-state-highlight {
-	background-color: transparent;
-	border: none;
+    background-color: transparent;
+    border: none;
 }
 
 .ui-jqgrid {
@@ -53,6 +60,6 @@
 
 /* disable link animations from colors component */
 a {
-  -webkit-transition: none;
-  transition: none;
+    -webkit-transition: none;
+    transition: none;
 }
