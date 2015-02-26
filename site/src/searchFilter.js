@@ -13,6 +13,10 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 molfile = API.getData('query');
             }
 
+            if (!options) {
+                return;
+            }
+
             var molecules = API.getData('molecules');
 
             var result = [],
@@ -106,17 +110,11 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                     }
                 }
 
-                // if there is some result we get the wikipedia article if the first article changed !
-
+                // if there is some result we change the link, otherwise we blank it
                 if (result.length > 0) {
-                    var oldLink = '';
-                    if (API.getData('link')) {
-                        oldLink = API.getData('link') + '';
-                    }
-                    var newLink = result[0].link + '';
-                    if (oldLink != newLink) {
-                        API.createData('link', result[0].link);
-                    }
+                    API.createData('link', result[0].link + '');
+                } else {
+                    API.createData('link', null);
                 }
 
                 API.createData('searchResult', result);
