@@ -369,7 +369,6 @@ Hyoscyamine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)[C@H](CO)c2ccccc2
 Estradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
 Silver nitrate	[N+](=O)([O-])[O-].[Ag+]
 Nickel tetracarbonyl	C(#O)[Ni](C#O)(C#O)C#O
-Vanillin	c1(C=O)cc(OC)c(O)cc1
 Propylene glycol	CC(O)CO
 Calcium oxalate	C(=O)(C(=O)[O-])[O-].[Ca+2]
 Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
@@ -12932,7 +12931,6 @@ Tavaborole	B1(C2=C(CO1)C=C(C=C2)F)O
 Hydroxybupropion	O=C(c1cc(Cl)ccc1)C(NC(C)(C)CO)C
 Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
 Fluopicolide	C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
-Deschloroetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4)C
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
 4-Methylphenethylamine	CC1=CC=C(C=C1)CCN
 2,4,5-Trimethoxypropiophenone	CCC(=O)C1=CC(=C(C(=C1)OC)OC)OC
@@ -13176,3 +13174,4 @@ Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Pyridine-3,4,5-triol	OC1=CN=CC(O)=C1O
 Tetramethylhexadecenyl succinyl cysteine	C(CCC[C@@H](CCC[C@@H](CCC/C(=C/CSC[C@H](NC(=O)CCC(=O)O)C(=O)O)/C)C)C)(C)C
+Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
