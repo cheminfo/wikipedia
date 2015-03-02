@@ -1,7 +1,7 @@
 {
   "visualizer": {
-    "cdn": "v2.14.1",
-    "version": "b9b01cafb3ebf82dab6be74f4d1ff84a427028c6",
+    "cdn": "v2.14.2",
+    "version": "33ea3ff126397761c6d3164c7f0fa8019a5b0175",
     "del": [
       "components/jsNMR",
       "components/jit",

@@ -11,6 +11,7 @@ src/main/datas.js
 src/util/localdb.js
 src/util/versionhandler.js
 src/main/variables.js
+lib/semver/semver.js
 src/util/versioning.js
 src/header/header.js
 src/util/event.js

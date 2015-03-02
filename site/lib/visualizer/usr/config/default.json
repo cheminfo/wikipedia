@@ -46,6 +46,10 @@
 		{
 			"file": "usr/filters/encodeBarcode",
 			"name": "Encode to Barcode"
+		},
+		{
+			"file": "usr/filters/markdown",
+			"name": "Markdown to HTML"
 		}
 	],
 	"modules": {
