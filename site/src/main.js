@@ -1,14 +1,14 @@
 function showAbout() {
-    require(['jquery-ui'], function () {
-        $('#aboutDialog').dialog({
-            modal: true,
-            title: "About wikipedia chemical structure explorer",
+    require(['src/util/ui'], function (ui) {
+        ui.dialog($('#aboutDialog'), {
+            title: 'About wikipedia chemical structure explorer',
             minWidth: 600,
             buttons: {
-                Ok: function () {
+                OK: function () {
                     $(this).dialog('close');
                 }
-            }
+            },
+            noWrap: true
         });
     });
 }
