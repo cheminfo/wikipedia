@@ -1,1770 +1,1658 @@
 {
-	"version": "2.12.1",
-	"grid": {
-		"xWidth": 10,
-		"yHeight": 10,
-		"layers": {
-			"Default layer": {
-				"name": "Default layer"
-			},
-			"BrowseErrors": {
-				"name": "BrowseErrors"
+  "version": "2.14.1",
+  "grid": {
+	"xWidth": 10,
+	"yHeight": 10,
+	"layers": {
+	  "Default layer": {
+		"name": "Default layer"
+	  },
+	  "BrowseErrors": {
+		"name": "BrowseErrors"
+	  }
+	}
+  },
+  "modules": [
+	{
+	  "url": "modules/types/science/chemistry/jsme/",
+	  "id": 1,
+	  "title": "Draw a structure",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "prefs": [
+				[
+				  "oldlook"
+				]
+			  ],
+			  "labelsize": [
+				14
+			  ],
+			  "bondwidth": [
+				1
+			  ],
+			  "highlightColor": [
+				"3"
+			  ],
+			  "outputResult": [
+				[]
+			  ]
 			}
+		  ]
 		}
-	},
-	"modules": [
-		{
-			"url": "modules/types/science/chemistry/jsme/",
-			"id": 1,
-			"title": "Draw a structure",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"prefs": [
-								[
-									"oldlook"
-								]
-							],
-							"labelsize": [
-								14
-							],
-							"bondwidth": [
-								1
-							],
-							"highlightColor": [
-								"3"
-							],
-							"outputResult": [
-								[]
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"zIndex": 0,
-					"display": true,
-					"title": "Draw a structure",
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer",
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 50,
-						"height": 41
-					},
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					]
-				},
-				"BrowseErrors": {
-					"zIndex": 0,
-					"display": false,
-					"title": "Draw a structure",
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer",
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 50,
-						"height": 41
-					},
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					]
-				}
-			},
-			"vars_in": [
-				{
-					"rel": "mol",
-					"name": "selectedMol"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"vars_out": [
-				{
-					"event": "onStructureChange",
-					"rel": "mol",
-					"jpath": [],
-					"filter": "src/searchFilter.js",
-					"name": "query"
-				}
-			],
-			"actions_out": {},
-			"zindex": 2
+	  },
+	  "layers": {
+		"Default layer": {
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Draw a structure",
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 50,
+			"height": 41
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
 		},
-		{
-			"url": "modules/types/edition/onde/",
-			"id": 2,
-			"title": "Untitled",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"hasButton": [
-								[]
-							],
-							"button_text": [
-								"Export"
-							],
-							"debouncing": [
-								0
-							],
-							"output": [
-								"new"
-							],
-							"mode": [
-								"schema"
-							],
-							"schemaSource": [
-								"config"
-							],
-							"schema": [
-								"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer",
-					"position": {
-						"left": 2,
-						"top": 42
-					},
-					"size": {
-						"width": 48,
-						"height": 9
-					},
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					]
-				},
-				"BrowseErrors": {
-					"zIndex": 0,
-					"display": false,
-					"title": "Untitled",
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer",
-					"position": {
-						"left": 2,
-						"top": 42
-					},
-					"size": {
-						"width": 48,
-						"height": 9
-					},
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					]
-				}
-			},
-			"vars_in": [
-				{
-					"rel": "inputValue",
-					"name": "customQueryOpts"
-				}
-			],
-			"actions_in": {},
-			"vars_out": [
-				{
-					"event": "onFormSubmit",
-					"rel": "outputValue",
-					"jpath": [],
-					"filter": "src/searchFilter.js",
-					"name": "queryOptions"
-				}
-			],
-			"actions_out": [
-				{
-					"jpath": []
-				}
-			],
-			"zindex": 2
-		},
-		{
-			"url": "modules/types/edition/slick_grid/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								null
-							],
-							"colorjpath": [
-								[]
-							],
-							"slickCheck": [
-								[
-									"rowNumbering",
-									"forceFitColumns",
-									"backToTop"
-								]
-							],
-							"slick.defaultColumnWidth": [
-								null
-							],
-							"slick.rowHeight": [
-								"150"
-							],
-							"slick.selectionModel": [
-								[
-									"cell"
-								]
-							],
-							"filterRow": [
-								null
-							]
-						}
-					],
-					"cols": [
-						[
-							{
-								"name": "Structure",
-								"jpath": [
-									"actID"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"width": 250,
-								"minWidth": "250",
-								"maxWidth": "250",
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes"
-								]
-							},
-							{
-								"name": "Name",
-								"jpath": [
-									"name"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"width": 80,
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes"
-								]
-							}
-						]
-					],
-					"groupings": [
-						[
-							{}
-						]
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 48
-					},
-					"size": {
-						"width": 50,
-						"height": 46
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Click on a line to see wikipedia article",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 0,
-						"top": 48
-					},
-					"size": {
-						"width": 50,
-						"height": 46
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "Click on a line to see wikipedia article",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				}
-			},
-			"id": 3,
-			"vars_in": [
-				{
-					"rel": "list",
-					"name": "searchResult"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Click on a line to see wikipedia article",
-			"vars_out": [
-				{
-					"event": "onHover",
-					"rel": "row",
-					"jpath": [],
-					"name": "hover"
-				},
-				{
-					"event": "onHover",
-					"rel": "row",
-					"jpath": [
-						"link"
-					],
-					"name": "link"
-				}
-			],
-			"actions_out": [
-				{
-					"jpath": []
-				}
-			],
-			"zindex": 2
-		},
-		{
-			"url": "modules/types/display/template-twig/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"template": [
-								"<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>MW</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 51,
-						"top": 0
-					},
-					"size": {
-						"width": 96,
-						"height": 27
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Information",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 51,
-						"top": 0
-					},
-					"size": {
-						"width": 96,
-						"height": 27
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "Information",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				}
-			},
-			"id": 4,
-			"vars_in": [
-				{
-					"rel": "value",
-					"name": "hover"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Information",
-			"vars_out": {},
-			"actions_out": {},
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/client_interaction/button_action/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								"click"
-							],
-							"label": [
-								"Search similar molecules"
-							],
-							"onLabel": [
-								"Toggle action off"
-							],
-							"offLabel": [
-								"Toggle action on"
-							],
-							"onColor": [
-								[
-									0,
-									0,
-									0,
-									1
-								]
-							],
-							"offColor": [
-								[
-									0,
-									0,
-									0,
-									1
-								]
-							],
-							"text": [
-								null
-							],
-							"askConfirm": [
-								[]
-							],
-							"confirmText": [
-								"Are you sure?"
-							],
-							"okLabel": [
-								"Ok"
-							],
-							"cancelLabel": [
-								"Cancel"
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 92,
-						"top": 21
-					},
-					"size": {
-						"width": 23,
-						"height": 9
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 92,
-						"top": 21
-					},
-					"size": {
-						"width": 23,
-						"height": 9
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer"
-				}
-			},
-			"id": 5,
-			"vars_in": [],
-			"actions_in": [
-				{}
-			],
-			"title": "Untitled",
-			"vars_out": {},
-			"actions_out": [
-				{
-					"event": "onClick",
-					"rel": "actionText",
-					"jpath": [],
-					"name": "putMol"
-				}
-			],
-			"zindex": 2
-		},
-		{
-			"url": "modules/types/client_interaction/button_action/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								"click"
-							],
-							"label": [
-								"View in wikipedia"
-							],
-							"onLabel": [
-								"Toggle action off"
-							],
-							"offLabel": [
-								"Toggle action on"
-							],
-							"onColor": [
-								[
-									0,
-									0,
-									0,
-									1
-								]
-							],
-							"offColor": [
-								[
-									0,
-									0,
-									0,
-									1
-								]
-							],
-							"text": [
-								null
-							],
-							"askConfirm": [
-								[]
-							],
-							"confirmText": [
-								"Are you sure?"
-							],
-							"okLabel": [
-								"Ok"
-							],
-							"cancelLabel": [
-								"Cancel"
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 77,
-						"top": 21
-					},
-					"size": {
-						"width": 29,
-						"height": 12
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 77,
-						"top": 21
-					},
-					"size": {
-						"width": 29,
-						"height": 12
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "Default layer"
-				}
-			},
-			"id": 6,
-			"vars_in": [],
-			"actions_in": [
-				{}
-			],
-			"title": "Untitled",
-			"vars_out": {},
-			"actions_out": [
-				{
-					"event": "onClick",
-					"rel": "actionText",
-					"jpath": [],
-					"name": "viewDrug"
-				}
-			],
-			"zindex": 1
-		},
-		{
-			"url": "modules/types/display/iframe/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"colnumber": [
-								5
-							],
-							"valjPath": [
-								null
-							],
-							"colorjPath": [
-								null
-							],
-							"width": [
-								null
-							],
-							"height": [
-								null
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 51,
-						"top": 28
-					},
-					"size": {
-						"width": 96,
-						"height": 66
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Wikipedia article",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 51,
-						"top": 28
-					},
-					"size": {
-						"width": 96,
-						"height": 66
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "Wikipedia article",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				}
-			},
-			"id": 7,
-			"vars_in": [
-				{
-					"rel": "url",
-					"name": "link"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Wikipedia article",
-			"vars_out": {},
-			"actions_out": {},
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/edition/slick_grid/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								null
-							],
-							"colorjpath": [
-								[]
-							],
-							"slickCheck": [
-								[
-									"enableCellNavigation",
-									"rowNumbering",
-									"forceFitColumns"
-								]
-							],
-							"slick.defaultColumnWidth": [
-								null
-							],
-							"slick.rowHeight": [
-								null
-							],
-							"slick.selectionModel": [
-								[
-									"cell"
-								]
-							],
-							"filterRow": [
-								null
-							]
-						}
-					],
-					"cols": [
-						[
-							{
-								"name": "Article ID",
-								"jpath": [
-									"id"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"width": 88,
-								"selectable": [],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [],
-								"defaultSortAsc": [
-									"yes"
-								]
-							},
-							{
-								"name": "SMILES",
-								"jpath": [
-									"smiles"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"width": 476,
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes",
-									"yes",
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes",
-									"yes",
-									"yes"
-								]
-							},
-							{
-								"name": "Error message",
-								"jpath": [
-									"error"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"width": 241,
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes",
-									"yes",
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes",
-									"yes",
-									"yes"
-								]
-							}
-						]
-					],
-					"groupings": [
-						[
-							{}
-						]
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 1,
-						"top": 0
-					},
-					"size": {
-						"width": 81,
-						"height": 60
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "SMILES with errors",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 8,
-			"vars_in": [
-				{
-					"rel": "list",
-					"name": "errors"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "SMILES with errors",
-			"vars_out": [
-				{
-					"event": "onHover",
-					"rel": "row",
-					"jpath": [
-						"smiles"
-					],
-					"name": "hoveredSmiles"
-				}
-			],
-			"actions_out": [
-				{
-					"event": "onSelect",
-					"rel": "row",
-					"jpath": [
-						"id"
-					],
-					"name": "openWikiID"
-				}
-			],
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/edition/slick_grid/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								null
-							],
-							"colorjpath": [
-								[]
-							],
-							"slickCheck": [
-								[
-									"enableCellNavigation",
-									"rowNumbering",
-									"forceFitColumns"
-								]
-							],
-							"slick.defaultColumnWidth": [
-								null
-							],
-							"slick.rowHeight": [
-								null
-							],
-							"slick.selectionModel": [
-								[
-									"cell"
-								]
-							],
-							"filterRow": [
-								null
-							]
-						}
-					],
-					"cols": [
-						[
-							{
-								"name": "ID",
-								"jpath": [
-									"id"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes"
-								]
-							}
-						]
-					],
-					"groupings": [
-						[
-							{}
-						]
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 1,
-						"top": 65
-					},
-					"size": {
-						"width": 22,
-						"height": 26
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Pages without correct SMILES",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 9,
-			"vars_in": [
-				{
-					"rel": "list",
-					"name": "full"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Pages without correct SMILES",
-			"vars_out": [
-				{
-					"jpath": []
-				}
-			],
-			"actions_out": [
-				{
-					"event": "onSelect",
-					"rel": "row",
-					"jpath": [
-						"id"
-					],
-					"name": "openWikiID"
-				}
-			],
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/edition/slick_grid/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								null
-							],
-							"colorjpath": [
-								[]
-							],
-							"slickCheck": [
-								[
-									"enableCellNavigation",
-									"rowNumbering",
-									"forceFitColumns"
-								]
-							],
-							"slick.defaultColumnWidth": [
-								null
-							],
-							"slick.rowHeight": [
-								null
-							],
-							"slick.selectionModel": [
-								[
-									"cell"
-								]
-							],
-							"filterRow": [
-								null
-							]
-						}
-					],
-					"cols": [
-						[
-							{
-								"name": "ID",
-								"jpath": [
-									"id"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes"
-								]
-							}
-						]
-					],
-					"groupings": [
-						[
-							{}
-						]
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 27,
-						"top": 65
-					},
-					"size": {
-						"width": 13,
-						"height": 26
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Duplicates",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 10,
-			"vars_in": [
-				{
-					"rel": "list",
-					"name": "dup"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Duplicates",
-			"vars_out": [
-				{
-					"jpath": []
-				}
-			],
-			"actions_out": [
-				{
-					"event": "onSelect",
-					"rel": "row",
-					"jpath": [
-						"id"
-					],
-					"name": "openWikiID"
-				}
-			],
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/edition/slick_grid/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"toggle": [
-								null
-							],
-							"colorjpath": [
-								[]
-							],
-							"slickCheck": [
-								[
-									"enableCellNavigation",
-									"rowNumbering",
-									"forceFitColumns"
-								]
-							],
-							"slick.defaultColumnWidth": [
-								null
-							],
-							"slick.rowHeight": [
-								null
-							],
-							"slick.selectionModel": [
-								[
-									"cell"
-								]
-							],
-							"filterRow": [
-								null
-							]
-						}
-					],
-					"cols": [
-						[
-							{
-								"name": "ID",
-								"jpath": [
-									"id"
-								],
-								"editor": "none",
-								"formatter": "typerenderer",
-								"selectable": [
-									"yes"
-								],
-								"resizable": [
-									"yes"
-								],
-								"sortable": [
-									"yes"
-								],
-								"focusable": [
-									"yes"
-								],
-								"defaultSortAsc": [
-									"yes"
-								]
-							}
-						]
-					],
-					"groupings": [
-						[
-							{}
-						]
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 44,
-						"top": 65
-					},
-					"size": {
-						"width": 13,
-						"height": 26
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Not found",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 11,
-			"vars_in": [
-				{
-					"rel": "list",
-					"name": "notfound"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Not found",
-			"vars_out": [
-				{
-					"jpath": []
-				}
-			],
-			"actions_out": [
-				{
-					"event": "onSelect",
-					"rel": "row",
-					"jpath": [
-						"id"
-					],
-					"name": "openWikiID"
-				}
-			],
-			"zindex": 0
-		},
-		{
-			"url": "modules/types/display/single_value/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"defaultvalue": [
-								null
-							],
-							"font": [
-								null
-							],
-							"fontcolor": [
-								[
-									0,
-									0,
-									0,
-									1
-								]
-							],
-							"fontsize": [
-								"12pt"
-							],
-							"align": [
-								"left"
-							],
-							"valign": [
-								null
-							],
-							"sprintf": [
-								"Hovered SMILES: %s"
-							],
-							"sprintfOrder": [
-								""
-							],
-							"preformatted": [
-								[
-									"selectable",
-									"pre"
-								]
-							],
-							"append": [
-								[]
-							],
-							"maxEntries": [
-								1
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 1,
-						"top": 61
-					},
-					"size": {
-						"width": 154,
-						"height": 6
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 12,
-			"vars_in": [
-				{
-					"rel": "value",
-					"name": "hoveredSmiles"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Untitled",
-			"vars_out": {},
-			"actions_out": {},
-			"zindex": 13
-		},
-		{
-			"url": "modules/types/display/template-twig/",
-			"configuration": {
-				"sections": {},
-				"groups": {
-					"group": [
-						{
-							"template": [
-								"<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
-							]
-						}
-					]
-				}
-			},
-			"layers": {
-				"Default layer": {
-					"position": {
-						"left": 0,
-						"top": 0
-					},
-					"size": {
-						"width": 20,
-						"height": 20
-					},
-					"zIndex": 0,
-					"display": false,
-					"title": "",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": true,
-					"created": true,
-					"name": "Default layer"
-				},
-				"BrowseErrors": {
-					"position": {
-						"left": 85,
-						"top": 12
-					},
-					"size": {
-						"width": 91,
-						"height": 42
-					},
-					"zIndex": 0,
-					"display": true,
-					"title": "Untitled",
-					"bgColor": [
-						255,
-						255,
-						255,
-						0
-					],
-					"wrapper": false,
-					"created": true,
-					"name": "BrowseErrors"
-				}
-			},
-			"id": 13,
-			"vars_in": [
-				{
-					"rel": "value",
-					"name": "count"
-				}
-			],
-			"actions_in": [
-				{}
-			],
-			"title": "Untitled",
-			"vars_out": {},
-			"actions_out": {}
+		"BrowseErrors": {
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Draw a structure",
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 50,
+			"height": 41
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
 		}
-	],
-	"variables": [
+	  },
+	  "vars_in": [
 		{
-			"varname": "molecules",
-			"jpath": [
-				"data",
-				"molecules"
-			]
-		},
-		{
-			"varname": "queryOptions",
-			"jpath": [
-				"queryOptions"
-			]
-		},
-		{
-			"varname": "query",
-			"jpath": [
-				"query"
-			]
-		},
-		{
-			"varname": "errors",
-			"jpath": [
-				"data",
-				"errors"
-			]
-		},
-		{
-			"varname": "fullA",
-			"jpath": [
-				"data",
-				"nogood"
-			]
-		},
-		{
-			"varname": "dupA",
-			"jpath": [
-				"data",
-				"dup"
-			]
-		},
-		{
-			"varname": "notfoundA",
-			"jpath": [
-				"data",
-				"notfound"
-			]
+		  "rel": "mol",
+		  "name": "selectedMol"
 		}
-	],
-	"pouchvariables": [
+	  ],
+	  "actions_in": [
 		{}
-	],
-	"configuration": {
-		"title": "Search wikipedia by substructure and similarity"
+	  ],
+	  "vars_out": [
+		{
+		  "event": "onStructureChange",
+		  "rel": "mol",
+		  "jpath": [],
+		  "filter": "src/searchFilter.js",
+		  "name": "query"
+		}
+	  ],
+	  "actions_out": {},
+	  "zindex": 2
 	},
-	"actionscripts": [
-		{
-			"sections": {},
-			"groups": {
-				"action": [
-					{
-						"name": [
-							null
-						],
-						"script": [
-							null
-						]
-					}
-				]
+	{
+	  "url": "modules/types/edition/onde/",
+	  "id": 2,
+	  "title": "Untitled",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "hasButton": [
+				[]
+			  ],
+			  "button_text": [
+				"Export"
+			  ],
+			  "debouncing": [
+				0
+			  ],
+			  "output": [
+				"new"
+			  ],
+			  "mode": [
+				"schema"
+			  ],
+			  "schemaSource": [
+				"config"
+			  ],
+			  "schema": [
+				"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
+			  ]
 			}
+		  ]
 		}
-	],
-	"crons": [
+	  },
+	  "layers": {
+		"Default layer": {
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 2,
+			"top": 42
+		  },
+		  "size": {
+			"width": 48,
+			"height": 9
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
+		},
+		"BrowseErrors": {
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Untitled",
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 2,
+			"top": 42
+		  },
+		  "size": {
+			"width": 48,
+			"height": 9
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
+		}
+	  },
+	  "vars_in": [
+		{
+		  "rel": "inputValue",
+		  "name": "customQueryOpts"
+		}
+	  ],
+	  "actions_in": {},
+	  "vars_out": [
+		{
+		  "event": "onFormSubmit",
+		  "rel": "outputValue",
+		  "jpath": [],
+		  "filter": "src/searchFilter.js",
+		  "name": "queryOptions"
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "zindex": 2
+	},
+	{
+	  "url": "modules/types/edition/slick_grid/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "slickCheck": [
+				[
+				  "rowNumbering",
+				  "forceFitColumns",
+				  "backToTop",
+				  "enableCellNavigation",
+				  "forgetLastActive"
+				]
+			  ],
+			  "colorjpath": [
+				[]
+			  ],
+			  "slick.defaultColumnWidth": [
+				null
+			  ],
+			  "slick.rowHeight": [
+				"150"
+			  ],
+			  "slick.selectionModel": [
+				"row"
+			  ]
+			}
+		  ],
+		  "cols": [
+			[
+			  {
+				"name": "Structure",
+				"jpath": [
+				  "actID"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"width": 250,
+				"minWidth": "250",
+				"maxWidth": "250"
+			  },
+			  {
+				"name": "Name",
+				"jpath": [
+				  "name"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"width": 80
+			  }
+			]
+		  ],
+		  "groupings": [
+			[
+			  {
+				"getter": [
+				  ""
+				]
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 48
+		  },
+		  "size": {
+			"width": 50,
+			"height": 46
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Click on a row to see the Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 0,
+			"top": 48
+		  },
+		  "size": {
+			"width": 50,
+			"height": 46
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Click on a row to see the Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 3,
+	  "vars_in": [
+		{
+		  "rel": "list",
+		  "name": "searchResult"
+		}
+	  ],
+	  "actions_in": [
 		{}
-	],
-	"couch_replication": [
+	  ],
+	  "title": "Click on a row to see the Wikipedia article",
+	  "vars_out": [
 		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [],
+		  "name": "hover"
+		},
+		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"link"
+		  ],
+		  "name": "link"
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "zindex": 2
+	},
+	{
+	  "url": "modules/types/display/template-twig/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "template": [
+				"<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>MW</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 51,
+			"top": 0
+		  },
+		  "size": {
+			"width": 96,
+			"height": 27
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Information",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 51,
+			"top": 0
+		  },
+		  "size": {
+			"width": 96,
+			"height": 27
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Information",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 4,
+	  "vars_in": [
+		{
+		  "rel": "value",
+		  "name": "hover"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Information",
+	  "vars_out": {},
+	  "actions_out": {},
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/client_interaction/button_action/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "toggle": [
+				"click"
+			  ],
+			  "label": [
+				"Search similar molecules"
+			  ],
+			  "onLabel": [
+				"Toggle action off"
+			  ],
+			  "offLabel": [
+				"Toggle action on"
+			  ],
+			  "onColor": [
+				[
+				  0,
+				  0,
+				  0,
+				  1
+				]
+			  ],
+			  "offColor": [
+				[
+				  0,
+				  0,
+				  0,
+				  1
+				]
+			  ],
+			  "text": [
+				null
+			  ],
+			  "askConfirm": [
+				[]
+			  ],
+			  "confirmText": [
+				"Are you sure?"
+			  ],
+			  "okLabel": [
+				"Ok"
+			  ],
+			  "cancelLabel": [
+				"Cancel"
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 92,
+			"top": 21
+		  },
+		  "size": {
+			"width": 23,
+			"height": 9
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 92,
+			"top": 21
+		  },
+		  "size": {
+			"width": 23,
+			"height": 9
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 5,
+	  "vars_in": [],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Untitled",
+	  "vars_out": {},
+	  "actions_out": [
+		{
+		  "event": "onClick",
+		  "rel": "actionText",
+		  "jpath": [],
+		  "name": "putMol"
+		}
+	  ],
+	  "zindex": 2
+	},
+	{
+	  "url": "modules/types/client_interaction/button_action/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "toggle": [
+				"click"
+			  ],
+			  "label": [
+				"View in wikipedia"
+			  ],
+			  "onLabel": [
+				"Toggle action off"
+			  ],
+			  "offLabel": [
+				"Toggle action on"
+			  ],
+			  "onColor": [
+				[
+				  0,
+				  0,
+				  0,
+				  1
+				]
+			  ],
+			  "offColor": [
+				[
+				  0,
+				  0,
+				  0,
+				  1
+				]
+			  ],
+			  "text": [
+				null
+			  ],
+			  "askConfirm": [
+				[]
+			  ],
+			  "confirmText": [
+				"Are you sure?"
+			  ],
+			  "okLabel": [
+				"Ok"
+			  ],
+			  "cancelLabel": [
+				"Cancel"
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 77,
+			"top": 21
+		  },
+		  "size": {
+			"width": 29,
+			"height": 12
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 77,
+			"top": 21
+		  },
+		  "size": {
+			"width": 29,
+			"height": 12
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 6,
+	  "vars_in": [],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Untitled",
+	  "vars_out": {},
+	  "actions_out": [
+		{
+		  "event": "onClick",
+		  "rel": "actionText",
+		  "jpath": [],
+		  "name": "viewDrug"
+		}
+	  ],
+	  "zindex": 1
+	},
+	{
+	  "url": "modules/types/display/iframe/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "colnumber": [
+				5
+			  ],
+			  "valjPath": [
+				null
+			  ],
+			  "colorjPath": [
+				null
+			  ],
+			  "width": [
+				null
+			  ],
+			  "height": [
+				null
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 51,
+			"top": 28
+		  },
+		  "size": {
+			"width": 96,
+			"height": 66
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 51,
+			"top": 28
+		  },
+		  "size": {
+			"width": 96,
+			"height": 66
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 7,
+	  "vars_in": [
+		{
+		  "rel": "url",
+		  "name": "link"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Wikipedia article",
+	  "vars_out": {},
+	  "actions_out": {},
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/edition/slick_grid/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "colorjpath": [
+				[]
+			  ],
+			  "slickCheck": [
+				[
+				  "enableCellNavigation",
+				  "rowNumbering",
+				  "forceFitColumns"
+				]
+			  ],
+			  "slick.defaultColumnWidth": [
+				null
+			  ],
+			  "slick.rowHeight": [
+				null
+			  ],
+			  "slick.selectionModel": [
+				[
+				  "cell"
+				]
+			  ]
+			}
+		  ],
+		  "cols": [
+			[
+			  {
+				"name": "Article ID",
+				"jpath": [
+				  "id"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"width": 88,
+				"defaultSortAsc": [
+				  "yes"
+				]
+			  },
+			  {
+				"name": "SMILES",
+				"jpath": [
+				  "smiles"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"width": 476,
+				"defaultSortAsc": [
+				  "yes",
+				  "yes",
+				  "yes"
+				]
+			  },
+			  {
+				"name": "Error message",
+				"jpath": [
+				  "error"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"width": 241,
+				"defaultSortAsc": [
+				  "yes",
+				  "yes",
+				  "yes"
+				]
+			  }
+			]
+		  ],
+		  "groupings": [
+			[
+			  {
+				"getter": [
+				  null
+				]
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 1,
+			"top": 0
+		  },
+		  "size": {
+			"width": 81,
+			"height": 60
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "SMILES with errors",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 8,
+	  "vars_in": [
+		{
+		  "rel": "list",
+		  "name": "errors"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "SMILES with errors",
+	  "vars_out": [
+		{
+		  "event": "onHover",
+		  "rel": "row",
+		  "jpath": [
+			"smiles"
+		  ],
+		  "name": "hoveredSmiles"
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"id"
+		  ],
+		  "name": "openWikiID"
+		}
+	  ],
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/edition/slick_grid/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "colorjpath": [
+				[]
+			  ],
+			  "slickCheck": [
+				[
+				  "enableCellNavigation",
+				  "rowNumbering",
+				  "forceFitColumns"
+				]
+			  ],
+			  "slick.defaultColumnWidth": [
+				null
+			  ],
+			  "slick.rowHeight": [
+				null
+			  ],
+			  "slick.selectionModel": [
+				[
+				  "cell"
+				]
+			  ]
+			}
+		  ],
+		  "cols": [
+			[
+			  {
+				"name": "ID",
+				"jpath": [
+				  "id"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"defaultSortAsc": [
+				  "yes"
+				]
+			  }
+			]
+		  ],
+		  "groupings": [
+			[
+			  {
+				"getter": [
+				  null
+				]
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 1,
+			"top": 65
+		  },
+		  "size": {
+			"width": 22,
+			"height": 26
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Pages without correct SMILES",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 9,
+	  "vars_in": [
+		{
+		  "rel": "list",
+		  "name": "full"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Pages without correct SMILES",
+	  "vars_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"id"
+		  ],
+		  "name": "openWikiID"
+		}
+	  ],
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/edition/slick_grid/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "colorjpath": [
+				[]
+			  ],
+			  "slickCheck": [
+				[
+				  "enableCellNavigation",
+				  "rowNumbering",
+				  "forceFitColumns"
+				]
+			  ],
+			  "slick.defaultColumnWidth": [
+				null
+			  ],
+			  "slick.rowHeight": [
+				null
+			  ],
+			  "slick.selectionModel": [
+				[
+				  "cell"
+				]
+			  ]
+			}
+		  ],
+		  "cols": [
+			[
+			  {
+				"name": "ID",
+				"jpath": [
+				  "id"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"defaultSortAsc": [
+				  "yes"
+				]
+			  }
+			]
+		  ],
+		  "groupings": [
+			[
+			  {
+				"getter": [
+				  null
+				]
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 27,
+			"top": 65
+		  },
+		  "size": {
+			"width": 13,
+			"height": 26
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Duplicates",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 10,
+	  "vars_in": [
+		{
+		  "rel": "list",
+		  "name": "dup"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Duplicates",
+	  "vars_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"id"
+		  ],
+		  "name": "openWikiID"
+		}
+	  ],
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/edition/slick_grid/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "colorjpath": [
+				[]
+			  ],
+			  "slickCheck": [
+				[
+				  "enableCellNavigation",
+				  "rowNumbering",
+				  "forceFitColumns"
+				]
+			  ],
+			  "slick.defaultColumnWidth": [
+				null
+			  ],
+			  "slick.rowHeight": [
+				null
+			  ],
+			  "slick.selectionModel": [
+				[
+				  "cell"
+				]
+			  ]
+			}
+		  ],
+		  "cols": [
+			[
+			  {
+				"name": "ID",
+				"jpath": [
+				  "id"
+				],
+				"editor": "none",
+				"formatter": "typerenderer",
+				"defaultSortAsc": [
+				  "yes"
+				]
+			  }
+			]
+		  ],
+		  "groupings": [
+			[
+			  {
+				"getter": [
+				  null
+				]
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 44,
+			"top": 65
+		  },
+		  "size": {
+			"width": 13,
+			"height": 26
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Not found",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 11,
+	  "vars_in": [
+		{
+		  "rel": "list",
+		  "name": "notfound"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Not found",
+	  "vars_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "actions_out": [
+		{
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"id"
+		  ],
+		  "name": "openWikiID"
+		}
+	  ],
+	  "zindex": 0
+	},
+	{
+	  "url": "modules/types/display/single_value/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "defaultvalue": [
+				null
+			  ],
+			  "font": [
+				null
+			  ],
+			  "fontcolor": [
+				[
+				  0,
+				  0,
+				  0,
+				  1
+				]
+			  ],
+			  "fontsize": [
+				"12pt"
+			  ],
+			  "align": [
+				"left"
+			  ],
+			  "valign": [
+				null
+			  ],
+			  "sprintf": [
+				"Hovered SMILES: %s"
+			  ],
+			  "sprintfOrder": [
+				""
+			  ],
+			  "preformatted": [
+				[
+				  "selectable",
+				  "pre"
+				]
+			  ],
+			  "append": [
+				[]
+			  ],
+			  "maxEntries": [
+				1
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 1,
+			"top": 61
+		  },
+		  "size": {
+			"width": 154,
+			"height": 6
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 12,
+	  "vars_in": [
+		{
+		  "rel": "value",
+		  "name": "hoveredSmiles"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Untitled",
+	  "vars_out": {},
+	  "actions_out": {},
+	  "zindex": 13
+	},
+	{
+	  "url": "modules/types/display/template-twig/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "template": [
+				"<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
+			  ]
+			}
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 85,
+			"top": 12
+		  },
+		  "size": {
+			"width": 91,
+			"height": 42
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "BrowseErrors"
+		}
+	  },
+	  "id": 13,
+	  "vars_in": [
+		{
+		  "rel": "value",
+		  "name": "count"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Untitled",
+	  "vars_out": {},
+	  "actions_out": {}
+	}
+  ],
+  "variables": [
+	{
+	  "varname": "molecules",
+	  "jpath": [
+		"data",
+		"molecules"
+	  ]
+	},
+	{
+	  "varname": "queryOptions",
+	  "jpath": [
+		"queryOptions"
+	  ]
+	},
+	{
+	  "varname": "query",
+	  "jpath": [
+		"query"
+	  ]
+	},
+	{
+	  "varname": "errors",
+	  "jpath": [
+		"data",
+		"errors"
+	  ]
+	},
+	{
+	  "varname": "fullA",
+	  "jpath": [
+		"data",
+		"nogood"
+	  ]
+	},
+	{
+	  "varname": "dupA",
+	  "jpath": [
+		"data",
+		"dup"
+	  ]
+	},
+	{
+	  "varname": "notfoundA",
+	  "jpath": [
+		"data",
+		"notfound"
+	  ]
+	}
+  ],
+  "pouchvariables": [
+	{}
+  ],
+  "configuration": {
+	"title": "Search wikipedia by substructure and similarity"
+  },
+  "actionscripts": [
+	{
+	  "sections": {},
+	  "groups": {
+		"action": [
+		  {
+			"name": [
+			  null
+			],
+			"script": [
+			  null
+			]
+		  }
+		]
+	  }
+	}
+  ],
+  "crons": [
+	{}
+  ],
+  "couch_replication": [
+	{
+	  "sections": {},
+	  "groups": {
+		"couch": [
+		  [
+			{
+			  "direction": "both",
+			  "continuous": []
+			}
+		  ]
+		]
+	  }
+	}
+  ],
+  "init_script": [
+	{
+	  "sections": {},
+	  "groups": {
+		"general": [
+		  {
+			"script": [
+			  "require(['src/init.js'], function(init) {\n    init();\n});"
+			]
+		  }
+		]
+	  }
+	}
+  ],
+  "custom_filters": [
+	{
+	  "sections": {
+		"filters": [
+		  {
 			"sections": {},
 			"groups": {
-				"couch": [
-					[
-						{
-							"direction": "both",
-							"continuous": []
-						}
-					]
+			  "filter": [
+				{
+				  "name": [
+					null
+				  ],
+				  "script": [
+					null
+				  ]
+				}
+			  ],
+			  "libs": [
+				[
+				  {}
 				]
+			  ]
 			}
-		}
-	],
-	"init_script": [
-		{
-			"sections": {},
-			"groups": {
-				"general": [
-					{
-						"script": [
-							"require(['src/init.js'], function(init) {\n    init();\n});"
-						]
-					}
-				]
-			}
-		}
-	],
-	"custom_filters": [
-		{
-			"sections": {
-				"filters": [
-					{
-						"sections": {},
-						"groups": {
-							"filter": [
-								{
-									"name": [
-										null
-									],
-									"script": [
-										null
-									]
-								}
-							],
-							"libs": [
-								[
-									{}
-								]
-							]
-						}
-					}
-				]
+		  }
+		]
+	  },
+	  "groups": {}
+	}
+  ],
+  "actionfiles": [
+	{
+	  "sections": {},
+	  "groups": {
+		"action": [
+		  [
+			{
+			  "name": "putMol",
+			  "file": "src/putMol.js",
+			  "mode": "amd"
 			},
-			"groups": {}
-		}
-	],
-	"actionfiles": [
-		{
-			"sections": {},
-			"groups": {
-				"action": [
-					[
-						{
-							"name": "putMol",
-							"file": "src/putMol.js",
-							"mode": "amd"
-						},
-						{
-							"name": "viewDrug",
-							"file": "src/viewDrug.js",
-							"mode": "amd"
-						},
-						{
-							"name": "openWikiID",
-							"file": "src/openWikiID.js",
-							"mode": "amd"
-						}
-					]
-				]
+			{
+			  "name": "viewDrug",
+			  "file": "src/viewDrug.js",
+			  "mode": "amd"
+			},
+			{
+			  "name": "openWikiID",
+			  "file": "src/openWikiID.js",
+			  "mode": "amd"
 			}
-		}
-	]
+		  ]
+		]
+	  }
+	}
+  ]
 }
