@@ -761,15 +761,15 @@
 		"groups": {
 		  "group": [
 			{
-			  "colorjpath": [
-				[]
-			  ],
 			  "slickCheck": [
 				[
 				  "enableCellNavigation",
 				  "rowNumbering",
 				  "forceFitColumns"
 				]
+			  ],
+			  "colorjpath": [
+				[]
 			  ],
 			  "slick.defaultColumnWidth": [
 				null
@@ -778,9 +778,7 @@
 				null
 			  ],
 			  "slick.selectionModel": [
-				[
-				  "cell"
-				]
+				"row"
 			  ]
 			}
 		  ],
@@ -793,10 +791,7 @@
 				],
 				"editor": "none",
 				"formatter": "typerenderer",
-				"width": 88,
-				"defaultSortAsc": [
-				  "yes"
-				]
+				"width": 88
 			  },
 			  {
 				"name": "SMILES",
@@ -805,12 +800,7 @@
 				],
 				"editor": "none",
 				"formatter": "typerenderer",
-				"width": 476,
-				"defaultSortAsc": [
-				  "yes",
-				  "yes",
-				  "yes"
-				]
+				"width": 476
 			  },
 			  {
 				"name": "Error message",
@@ -819,12 +809,7 @@
 				],
 				"editor": "none",
 				"formatter": "typerenderer",
-				"width": 241,
-				"defaultSortAsc": [
-				  "yes",
-				  "yes",
-				  "yes"
-				]
+				"width": 241
 			  }
 			]
 		  ],
@@ -832,7 +817,7 @@
 			[
 			  {
 				"getter": [
-				  null
+				  ""
 				]
 			  }
 			]
