@@ -24,7 +24,7 @@
 </div>
 
 
-<div id="ci-visualizer" config="src/json/config.json" viewURL="src/json/view.json" dataURL="src/json/data.json"></div>
+<div id="ci-visualizer" data-ci-config="src/json/config.json" data-ci-view="src/json/view.json" data-ci-data="src/json/data.json"></div>
 <script>
     if(document.location.search.indexOf('admin') > -1) {
         document.getElementById('ci-visualizer').setAttribute('config', 'src/json/admin.json');
