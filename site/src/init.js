@@ -45,9 +45,13 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
 
         var molecules = API.getData('molecules');
         if (molecules && molecules.length) {
-            var l = molecules.length,
-                db = new Array(l),
-                result = new Array(l);
+            // ?mini=true => only 500 molecules for testing
+            var l = molecules.length;
+            if(document.location.search.indexOf('mini') > -1) {
+                l = Math.min(l, 500);
+            }
+            var db = new Array(l);
+            var result = new Array(l);
             API.cache('db', db);
             var timer = Debug.timer();
             var i = 0, ii, molecule;
@@ -73,9 +77,7 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
 
                 return ii !== l
             }, function (callback) {
-                setImmediate(function () {
-                    callback();
-                });
+                setImmediate(callback);
             }, function () {
                 Debug.debug(timer.time('ms'));
                 API.createData('searchResult', result);
