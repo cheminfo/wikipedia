@@ -1,14 +1,7 @@
-#ci-visualizer * {
-    /* For compatibility with bootstrap that enforces a global border-box model */
-    box-sizing: content-box;
-}
-
 #ci-visualizer h1, h2, h3, h4, h5, h6, p {
     margin: 0;
     padding: 0;
 }
-
-
 
 #ci-visualizer, .ci-visualizer-text, .ci-contextmenu li {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;

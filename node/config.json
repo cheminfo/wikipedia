@@ -1,12 +1,13 @@
 {
   "visualizer": {
-    "cdn": "v2.14.2",
-    "version": "33ea3ff126397761c6d3164c7f0fa8019a5b0175",
+    "cdn": "v2.14.3",
+    "version": "d124867a141027553e6a1b9681dff9decfbaa989",
     "del": [
       "components/jsNMR",
       "components/jit",
       "components/jsbarcode",
       "components/leaflet",
+      "components/marked",
       "components/threejs",
       "lib/biojs-1.0",
       "lib/BarcodeReader",
