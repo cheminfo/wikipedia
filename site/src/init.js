@@ -1,9 +1,17 @@
-define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'components/async/lib/async'], function (API, Debug, ACT, async) {
+define([
+    'src/util/api',
+    'src/util/debug',
+    'lib/actelion/actelion.js',
+    'components/async/lib/async',
+    'uri/URI'
+], function (API, Debug, ACT, async, URI) {
     return function () {
 
         if (API.cache('db')) {
             return;
         }
+
+        var url = new URI(window.location.href);
 
         function getName(value) {
             value = value.replace(/_/g, ' ');
@@ -51,7 +59,6 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                 l = Math.min(l, 500);
             }
             var db = new Array(l);
-            var result = new Array(l);
             API.cache('db', db);
             var timer = Debug.timer();
             var i = 0, ii, molecule;
@@ -72,7 +79,6 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                     newEntry.molecule.ensureHelperArrays(3);
                     newEntry.index = i;
                     db[i] = newEntry;
-                    result[i] = molecule;
                 }
 
                 return ii !== l
@@ -80,7 +86,25 @@ define(['src/util/api', 'src/util/debug', 'lib/actelion/actelion.js', 'component
                 setImmediate(callback);
             }, function () {
                 Debug.debug(timer.time('ms'));
-                API.createData('searchResult', result);
+                var fragment = decodeURIComponent(url.fragment());
+                var query = {
+                    type: 'mol2d',
+                    value: ''
+                };
+                if (fragment) {
+                    try {
+                        var mol = ACT.Molecule.fromSmiles(fragment);
+                        var molfile = mol.toMolfile();
+                        query.value = molfile;
+                        API.createData('selectedMol', {type: 'mol2d', value: molfile});
+                        API.createData('customQueryOpts', {searchMode: 'Similarity'});
+                        API.createData('queryOptions', {searchMode: 'Similarity'});
+                    } catch (e) {}
+                } else {
+                    API.createData('customQueryOpts', {searchMode: 'Substructure'});
+                    API.createData('queryOptions',{searchMode: 'Substructure'});
+                }
+                API.createData('query', query, 'src/searchFilter.js');
                 API.stopLoading('mol');
             });
 

@@ -184,10 +184,6 @@ theResult.data = {
     dup: dup
 };
 
-// Initial objects needed for the view
-theResult.query = {type: 'mol2d', value: ''};
-theResult.queryOptions = {searchMode: 'Substructure'};
-
 console.log(results.length + ' parsed molecules');
 console.log(errors.length + ' parsing errors');
 console.log(nogood.length + ' pages with only bad SMILES');

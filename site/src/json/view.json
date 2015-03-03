@@ -9,6 +9,9 @@
 	  },
 	  "BrowseErrors": {
 		"name": "BrowseErrors"
+	  },
+	  "Admin": {
+		"name": "Admin"
 	  }
 	}
   },
@@ -69,6 +72,28 @@
 		"BrowseErrors": {
 		  "zIndex": 0,
 		  "display": false,
+		  "title": "Draw a structure",
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 50,
+			"height": 41
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
+		},
+		"Admin": {
+		  "zIndex": 0,
+		  "display": true,
 		  "title": "Draw a structure",
 		  "wrapper": true,
 		  "created": true,
@@ -170,6 +195,28 @@
 		"BrowseErrors": {
 		  "zIndex": 0,
 		  "display": false,
+		  "title": "Untitled",
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer",
+		  "position": {
+			"left": 2,
+			"top": 42
+		  },
+		  "size": {
+			"width": 48,
+			"height": 9
+		  },
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ]
+		},
+		"Admin": {
+		  "zIndex": 0,
+		  "display": true,
 		  "title": "Untitled",
 		  "wrapper": false,
 		  "created": true,
@@ -322,6 +369,28 @@
 		  "wrapper": true,
 		  "created": true,
 		  "name": "Default layer"
+		},
+		"Admin": {
+		  "position": {
+			"left": 0,
+			"top": 48
+		  },
+		  "size": {
+			"width": 50,
+			"height": 46
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Click on a row to see the Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
 		}
 	  },
 	  "id": 3,
@@ -353,7 +422,12 @@
 	  ],
 	  "actions_out": [
 		{
-		  "jpath": []
+		  "event": "onSelect",
+		  "rel": "row",
+		  "jpath": [
+			"smiles"
+		  ],
+		  "name": "updateFragment"
 		}
 	  ],
 	  "zindex": 2
@@ -406,6 +480,28 @@
 		  },
 		  "zIndex": 0,
 		  "display": false,
+		  "title": "Information",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"Admin": {
+		  "position": {
+			"left": 51,
+			"top": 0
+		  },
+		  "size": {
+			"width": 96,
+			"height": 27
+		  },
+		  "zIndex": 0,
+		  "display": true,
 		  "title": "Information",
 		  "bgColor": [
 			255,
@@ -521,6 +617,28 @@
 		  },
 		  "zIndex": 0,
 		  "display": false,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"Admin": {
+		  "position": {
+			"left": 92,
+			"top": 21
+		  },
+		  "size": {
+			"width": 23,
+			"height": 9
+		  },
+		  "zIndex": 0,
+		  "display": true,
 		  "title": "Untitled",
 		  "bgColor": [
 			255,
@@ -648,6 +766,28 @@
 		  "wrapper": false,
 		  "created": true,
 		  "name": "Default layer"
+		},
+		"Admin": {
+		  "position": {
+			"left": 77,
+			"top": 21
+		  },
+		  "size": {
+			"width": 29,
+			"height": 12
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": false,
+		  "created": true,
+		  "name": "Default layer"
 		}
 	  },
 	  "id": 6,
@@ -727,6 +867,28 @@
 		  },
 		  "zIndex": 0,
 		  "display": false,
+		  "title": "Wikipedia article",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"Admin": {
+		  "position": {
+			"left": 51,
+			"top": 28
+		  },
+		  "size": {
+			"width": 96,
+			"height": 66
+		  },
+		  "zIndex": 0,
+		  "display": true,
 		  "title": "Wikipedia article",
 		  "bgColor": [
 			255,
@@ -868,7 +1030,8 @@
 		  "wrapper": true,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 8,
 	  "vars_in": [
@@ -1003,7 +1166,8 @@
 		  "wrapper": true,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 9,
 	  "vars_in": [
@@ -1133,7 +1297,8 @@
 		  "wrapper": true,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 10,
 	  "vars_in": [
@@ -1263,7 +1428,8 @@
 		  "wrapper": true,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 11,
 	  "vars_in": [
@@ -1389,7 +1555,8 @@
 		  "wrapper": false,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 12,
 	  "vars_in": [
@@ -1464,7 +1631,8 @@
 		  "wrapper": false,
 		  "created": true,
 		  "name": "BrowseErrors"
-		}
+		},
+		"Admin": {}
 	  },
 	  "id": 13,
 	  "vars_in": [
@@ -1479,6 +1647,128 @@
 	  "title": "Untitled",
 	  "vars_out": {},
 	  "actions_out": {}
+	},
+	{
+	  "url": "modules/types/client_interaction/code_executor/",
+	  "configuration": {
+		"sections": {},
+		"groups": {
+		  "group": [
+			{
+			  "display": [
+				[
+				  "editor",
+				  "buttons"
+				]
+			  ],
+			  "script": [
+				"var mol = ACT.Molecule.fromMolfile(this.variables.query.get());\nsendAction('updateFragment', mol.toSmiles());"
+			  ]
+			}
+		  ],
+		  "libs": [
+			[
+			  {
+				"lib": "lib/actelion/actelion.js",
+				"alias": "ACT"
+			  }
+			]
+		  ],
+		  "buttons": [
+			[
+			  {
+				"name": "button1",
+				"label": "Execute"
+			  }
+			]
+		  ]
+		}
+	  },
+	  "layers": {
+		"Default layer": {
+		  "position": {
+			"left": 148,
+			"top": 0
+		  },
+		  "size": {
+			"width": 67,
+			"height": 44
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		},
+		"BrowseErrors": {
+		  "position": {
+			"left": 0,
+			"top": 0
+		  },
+		  "size": {
+			"width": 20,
+			"height": 20
+		  },
+		  "zIndex": 0,
+		  "display": false,
+		  "title": "",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "BrowseErrors"
+		},
+		"Admin": {
+		  "position": {
+			"left": 148,
+			"top": 0
+		  },
+		  "size": {
+			"width": 54,
+			"height": 27
+		  },
+		  "zIndex": 0,
+		  "display": true,
+		  "title": "Untitled",
+		  "bgColor": [
+			255,
+			255,
+			255,
+			0
+		  ],
+		  "wrapper": true,
+		  "created": true,
+		  "name": "Default layer"
+		}
+	  },
+	  "id": 14,
+	  "vars_in": [
+		{
+		  "rel": "inputValue",
+		  "name": "query"
+		}
+	  ],
+	  "actions_in": [
+		{}
+	  ],
+	  "title": "Untitled",
+	  "vars_out": [
+		{
+		  "jpath": []
+		}
+	  ],
+	  "actions_out": []
 	}
   ],
   "variables": [
@@ -1633,6 +1923,11 @@
 			{
 			  "name": "openWikiID",
 			  "file": "src/openWikiID.js",
+			  "mode": "amd"
+			},
+			{
+			  "name": "updateFragment",
+			  "file": "src/updateFragment.js",
 			  "mode": "amd"
 			}
 		  ]
