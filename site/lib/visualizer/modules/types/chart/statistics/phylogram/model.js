@@ -1,1 +1,0 @@
-define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return c.prototype=$.extend(!0,{},a,{getjPath:function(a){if("leaf"===a){var c=[];return b.getJPathsFromElement(this.module.controller._data,c),c}return[]}}),c});

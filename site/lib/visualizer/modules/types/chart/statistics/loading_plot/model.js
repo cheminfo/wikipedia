@@ -1,1 +1,0 @@
-define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return c.prototype=$.extend(!0,{},a,{getjPath:function(a){var c=[];if("element"===a){var d=this.module.getDataFromRel("loading");if(d&&(d=d.get(),d.series&&d.series[0])){var e=d.series[0];e.data&&e.data[0]&&b.getJPathsFromElement(e.data[0],c)}}return c}}),c});
