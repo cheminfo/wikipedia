@@ -26,7 +26,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 for (i = 0, ii = molecules.length; i < ii; i++) {
                     result.push(molecules[i]);
                 }
-                sendResult(result);
+                return sendResult(result);
             }
 
             var queryMol = ACT.Molecule.fromMolfile(molfile.get());
@@ -49,7 +49,7 @@ define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
                 {
                     targetMW = queryMol.getMolecularFormula().getRelativeWeight();
                     queryMol.setFragment(true);
-                    var queryIndex = queryMol.index;
+                    var queryIndex = queryMol.getIndex();
                     var searcher = new ACT.SSSearchWithIndex();
                     searcher.setFragment(queryMol, queryIndex);
                     var db = API.cache('db');
