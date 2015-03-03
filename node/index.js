@@ -134,8 +134,8 @@ function buildVisualizer(dir, options) {
             console.log(err);
             throw 'Could not install required npm dependencies';
         }
+        console.log('building the visualizer');
         child_process.exec('./node_modules/.bin/grunt build --clean-images', execOptions, function (err) {
-            console.log('building the visualizer');
             if(err) {
                 throw 'Could not build the visualizer';
             }
