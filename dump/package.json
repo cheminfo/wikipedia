@@ -5,7 +5,7 @@
   "main": "wiki.js",
   "private": true,
   "devDependencies": {
-    "chemcalc": "2.0.4",
+    "chemcalc": "2.1.0",
     "commander": "2.6.0",
     "progress": "1.1.8",
     "superagent": "0.21.0"

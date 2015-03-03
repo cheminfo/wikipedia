@@ -19,6 +19,11 @@ function getSmiles(content) {
 
     var res = [];
 
+    /*
+    We found that some pages may contain multiple infoboxes,
+    so we search all of them
+     */
+
     var idx = content.search(regChembox);
     if (idx > -1) {
         parse(content, idx, res);
@@ -40,6 +45,9 @@ function getSmiles(content) {
 
 function parse(content, idx, res) {
 
+    /*
+    We need to find where the infobox ends
+     */
     var boxEndIdx = idx + 2;
     var counter = 1;
     while (counter && boxEndIdx <= content.length) {
@@ -116,29 +124,37 @@ for (var i = 0; i < length; i++) {
                     dup.push(id);
                     continue; // If exact same molecule is already present for this page, skip
                 }
-                result = {};
-                result.id = page.id;
-                result.code = page.title;
+                var mf = molecule.getMolecularFormula().getFormula();
+                result = {
+                    id: page.id,
+                    code: page.title,
+                    smiles: smiles[j],
+                    mf: {type: 'mf', value: mf},
+                    mw: 0,
+                    em: 0,
+                    act_idx: molecule.getIndex(),
+                    actID: {type: 'actelionID', value: idcode}
+                };
                 smilesList.push(page.title + '\t' + smiles[j]);
                 idcodeList.push(idcode + '\t' + page.title);
-                result.smiles = smiles[j];
-                var mf = molecule.getMolecularFormula().getFormula();
-                result.mf = {type: 'mf', value: mf};
-                var chemcalc = Chemcalc.analyseMF(mf);
-                result.mw = chemcalc.mw;
-                result.em = chemcalc.em;
-                result.act_idx = molecule.getIndex();
-                result.actID = {
-                    type: 'actelionID',
-                    value: idcode
-                };
+                try {
+                    var chemcalc = Chemcalc.analyseMF(mf);
+                    result.mw = chemcalc.mw;
+                    result.em = chemcalc.em;
+                } catch (e) {
+                    // MF parsing error
+                    console.error('\nchemcalc could not parse the following ' +
+                    'MF: ' + mf);
+                    console.error(e);
+                }
                 results.push(result);
                 uniq[uniqid] = true;
             } catch (e) {
+                // SMILES parsing error
                 errors.push({
                     id: id,
                     smiles: smiles[j],
-                    error: e.f
+                    error: e.e
                 });
             }
         }
@@ -167,6 +183,8 @@ theResult.data = {
     notfound: notfound,
     dup: dup
 };
+
+// Initial objects needed for the view
 theResult.query = {type: 'mol2d', value: ''};
 theResult.queryOptions = {searchMode: 'Substructure'};
 
@@ -179,6 +197,10 @@ console.log(dup.length + ' dropped duplicates');
 smilesList = smilesList.join('\n') + '\n';
 idcodeList = idcodeList.join('\n') + '\n';
 
+/*
+The JSON string is reformatted in order to have one line per SMILES. Allows to
+use the diff tool from Git to easily see changes between two exports
+ */
 var pubStr = JSON.stringify(theResult)
     .replace('"data":{"molecules":[', '\n"data":{"molecules":[\n')
     .replace(/},\{/g, '},\n{')
@@ -196,8 +218,23 @@ if (program.publish) {
     if (program.limit) {
         console.error('Cannot publish partial data');
     } else {
+        // Copying data in the public site directory
+        /*
+        data.json: main data file loaded by the visualizer. Contains all the
+        parsed structures, information about the molecular formula, name and ID
+        of the Wikipedia page
+         */
         fs.writeFileSync('../site/src/json/data.json', pubStr);
+        /*
+        smiles.txt: tab-delimited list of the SMILES codes and Wikipedia article
+        names. The names may contain UTF-8 characters (like greek letters).
+        It can cause problems when trying to sort the list in natural order
+         */
         fs.writeFileSync('../site/smiles.txt', smilesList);
+        /*
+        idcode.txt: tab-delimited list of the IDCodes and Wikipedia article
+        names.
+         */
         fs.writeFileSync('../site/idcode.txt', idcodeList);
     }
 }
