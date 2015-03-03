@@ -154,7 +154,7 @@ for (var i = 0; i < length; i++) {
                 errors.push({
                     id: id,
                     smiles: smiles[j],
-                    error: e.e
+                    error: e.f
                 });
             }
         }
