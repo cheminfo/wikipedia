@@ -138,7 +138,7 @@
 				"config"
 			  ],
 			  "schema": [
-				"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by name\",\n            \"default\": \"\"\n        }\n    }\n}"
+				"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by article name\",\n            \"default\": \"\"\n        }\n    }\n}"
 			  ]
 			}
 		  ]
@@ -257,7 +257,7 @@
 				"maxWidth": "250"
 			  },
 			  {
-				"name": "Name",
+				"name": "Article name",
 				"jpath": [
 				  "name"
 				],
