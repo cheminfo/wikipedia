@@ -1418,7 +1418,7 @@ Strontium chloride	[Sr+2].[Cl-].[Cl-]
 Montelukast	O=C(O)CC1(CC1)CS[C@@H](c2cccc(c2)\C=C\c3nc4cc(Cl)ccc4cc3)CCc5ccccc5C(O)(C)C
 Dimethylformamide	CN(C)C=O
 Chlortetracycline	CN(C)[C@@H]2C(\O)=C(\C(N)=O)C(=O)[C@@]3(O)C(/O)=C4/C(=O)c1c(O)ccc(Cl)c1[C@@](C)(O)[C@H]4C[C@@H]23
-Beta-Endorphin	CCC(C)C(C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(C)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)O)NC(=O)C(C)NC(=O)C(CC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CC(C)C)NC(=O)C(C(C)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C3CCCN3C(=O)C(C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CO)NC(=O)C(CCCCN)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CCSC)NC(=O)C(CC4=CC=CC=C4)NC(=O)CNC(=O)CNC(=O)C(CC5=CC=C(C=C5)O)N
+Beta-Endorphin	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]3CCCN3C(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)CNC(=O)CNC(=O)[C@H](CC5=CC=C(C=C5)O)N
 Diethylpyrocarbonate	O=C(OCC)OC(=O)OCC
 Piroxicam	OC=2c1ccccc1S(=O)(=O)N(C)C=2C(=O)Nc3ccccn3
 Difluoromethane	FCF
@@ -8343,7 +8343,7 @@ Salicylanilide	C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2O
 Rafoxanide	C1=CC(=CC=C1OC2=C(C=C(C=C2)NC(=O)C3=CC(=CC(=C3O)I)I)Cl)Cl
 Oxyclozanide	C1=C(C=C(C(=C1Cl)O)NC(=O)C2=C(C(=CC(=C2Cl)Cl)Cl)O)Cl
 DPPH	c1ccc(cc1)N(c2ccccc2)[N]c3c(cc(cc3[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
-N-Vinylcarbazole	c1cccc3c1c2c(cccc2)n3C=C
+N-vinylcarbazole	c1cccc3c1c2c(cccc2)n3C=C
 Sulfoquinovose	O=S(=O)(O)C[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Para-Chloroamphetamine	Clc1ccc(cc1)CC(N)C
 Bromine dioxide	O=Br=O
@@ -13180,3 +13180,4 @@ Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
 Filgotinib	O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
 GR-196,429	c23c1CCOc1ccc2CCN3CCNC(=O)C
 N-Acetyllactosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O
+Copanlisib	COC1=C(C=CC2=C1N=C(N3C2=NCC3)NC(=O)C4=CN=C(N=C4)N)OCCCN5CCOCC5
