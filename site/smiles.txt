@@ -9427,6 +9427,7 @@ Imiprothrin	O=C(OCN1C(=O)CN(C1=O)CC#C)C2C(\C=C(/C)C)C2(C)C
 Pyriprole	Clc2cc(C(F)(F)F)cc(Cl)c2-n(nc(C#N)c1SC(F)F)c1NCc3ncccc3
 2-Amino-1,2-dihydronaphthalene	c2ccc1c(\C=C/C(N)C1)c2
 MDAT	C3Cc1cc2OCOc2cc1CC3N
+6-CAT	C1CC2=C(CC1N)C=CC(=C2)Cl
 Medronic acid	O=P(O)(O)CP(=O)(O)O
 Phenylisobutylamine	NC(Cc1ccccc1)CC
 4-Ethylamphetamine	NC(C)Cc1ccc(cc1)CC
@@ -13181,3 +13182,4 @@ Filgotinib	O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
 GR-196,429	c23c1CCOc1ccc2CCN3CCNC(=O)C
 N-Acetyllactosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O
 Copanlisib	COC1=C(C=CC2=C1N=C(N3C2=NCC3)NC(=O)C4=CN=C(N=C4)N)OCCCN5CCOCC5
+Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
