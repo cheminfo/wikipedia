@@ -1,6 +1,5 @@
 Ammonia	N
 Aspirin	O=C(Oc1ccccc1C(=O)O)C
-Acetylene	C#C
 Adenosine triphosphate	O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
 Adenosine triphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O)O)N
 Ampicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
@@ -36,6 +35,7 @@ Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
 Ethanol	CCO
 Erythromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Ethyne	C#C
 Epinephrine	Oc1ccc(cc1O)[C@@H](O)CNC
 Flunitrazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3F)=O)=O
 Glycine	C(C(=O)O)N
