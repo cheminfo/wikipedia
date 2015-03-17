@@ -8220,6 +8220,7 @@ Niridazole	C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-]
 Bephenium hydroxynaphthoate	O(c1ccccc1)CC[N+](Cc2ccccc2)(C)C
 Pyrvinium	CC1=CC(=C(N1C2=CC=CC=C2)C)/C=C/C3=[N+](C4=C(C=C3)C=C(C=C4)N(C)C)C
 Oxantel	CN1CCCN=C1/C=C/C2=CC(=CC=C2)O
+Flubendazole	COC(=O)Nc1[nH]c2ccc(cc2n1)C(=O)c3ccc(cc3)F
 Desaspidin	CCCC(=O)C1=C(C(=C(C=C1O)OC)CC2=C(C(C(=C(C2=O)C(=O)CCC)O)(C)C)O)O
 Stibophen	C1=C(C=C2C(=C1S(=O)(=O)[O-])O[Sb](O2)OC3=CC(=CC(=C3[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+]
 Bithionol	Clc2cc(Cl)cc(Sc1cc(Cl)cc(Cl)c1O)c2O
@@ -13182,3 +13183,4 @@ N-Acetyllactosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([
 Copanlisib	COC1=C(C=CC2=C1N=C(N3C2=NCC3)NC(=O)C4=CN=C(N=C4)N)OCCCN5CCOCC5
 Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
+Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
