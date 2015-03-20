@@ -5793,6 +5793,7 @@ Propiverine	CCCOC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OC3CCN(CC3)C
 Meladrazine	CCN(CC)C1=NC(=NN)N=C(N1)N(CC)CC
 Triclocarban	Clc2ccc(NC(=O)Nc1ccc(Cl)cc1)cc2Cl
 Etybenzatropine	CCN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
+Etanautine	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C.O(CCN(C)C)C(c1ccccc1)c2ccccc2
 Tropatepine	S3c1ccccc1/C(c2c(cccc2)C3)=C5/CC4N(C)C(CC4)C5
 Bornaprine	O=C(OCCCN(CC)CC)C2(c1ccccc1)CC3CCC2C3
 Phenglutarimide	CCN(CC)CC[C@]1(CCC(=O)NC1=O)c1ccccc1
@@ -6773,6 +6774,7 @@ Benidipine	[O-][N+](=O)c1cccc(c1)[C@@H]4C(/C(=O)OC)=C(\N\C(=C4\C(=O)O[C@@H]3CCCN
 Gapicomine	n1ccc(cc1)CNCc2ccncc2
 Cloridarol	C1=CC=C2C(=C1)C=C(O2)C(C3=CC=C(C=C3)Cl)O
 Cinepazet	O=C(OCC)CN2CCN(C(=O)/C=C\c1cc(OC)c(OC)c(OC)c1)CC2
+Efloxate	CCOC(=O)COc1ccc2c(=O)cc(oc2c1)c3ccccc3
 Dilazep	O=C(OCCCN2CCCN(CCCOC(=O)c1cc(OC)c(OC)c(OC)c1)CC2)c3cc(OC)c(OC)c(OC)c3
 Imolamine	CCN(CC)CCN2C(=N)O\N=C2\c1ccccc1
 Hexobendine	COc1c(cc(cc1OC)C(=O)OCCCN(C)CCN(C)CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)OC
