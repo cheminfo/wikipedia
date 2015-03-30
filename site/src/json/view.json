@@ -1670,7 +1670,7 @@
 		  "libs": [
 			[
 			  {
-				"lib": "lib/actelion/actelion.js",
+				"lib": "components/openchemlib/dist/openchemlib-core",
 				"alias": "ACT"
 			  }
 			]

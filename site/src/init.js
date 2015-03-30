@@ -1,7 +1,7 @@
 define([
     'src/util/api',
     'src/util/debug',
-    'lib/actelion/actelion.js',
+    'components/openchemlib/dist/openchemlib-core',
     'components/async/lib/async',
     'uri/URI'
 ], function (API, Debug, ACT, async, URI) {

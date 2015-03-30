@@ -1,4 +1,4 @@
-define(['src/util/api', 'lib/actelion/actelion.js'], function (API, ACT) {
+define(['src/util/api', 'components/openchemlib/dist/openchemlib-core'], function (API, ACT) {
     return {
         filter: function (value, resolve, reject) {
 
