@@ -16,6 +16,11 @@ src/util/versioning.js
 src/header/header.js
 src/util/event.js
 src/util/repository.js
+lib/forms/title.js
+lib/forms/button.js
+lib/webtoolkit/base64.js
+lib/couchdb/jquery.couch.js
+src/util/couchshare.js
 components/jquery-ui/ui/core.js
 components/jquery-ui/ui/widget.js
 components/jquery-ui/ui/button.js

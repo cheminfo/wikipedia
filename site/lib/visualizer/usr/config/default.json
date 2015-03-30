@@ -84,12 +84,12 @@
 					"Advanced charting": {
 						"modules": [
 							{
-								"moduleName": "Matrix display",
-								"url": "modules/types/chart/advanced/canvas_matrix/"
-							},
-							{
 								"moduleName": "3D function plotter",
 								"url": "modules/types/chart/advanced/plot_function/"
+							},
+							{
+								"moduleName": "Matrix display",
+								"url": "modules/types/chart/advanced/canvas_matrix/"
 							},
 							{
 								"moduleName": "Self-organizing map",
@@ -102,6 +102,10 @@
 					"Basic": {
 						"modules": [
 							{
+								"moduleName": "3D scatter plot",
+								"url": "modules/types/chart/basic/scatter3D/"
+							},
+							{
 								"moduleName": "Pie chart",
 								"url": "modules/types/chart/basic/pie_chart/"
 							},
@@ -112,10 +116,6 @@
 							{
 								"moduleName": "Radar chart",
 								"url": "modules/types/chart/basic/radar_chart/"
-							},
-							{
-								"moduleName": "3D scatter plot",
-								"url": "modules/types/chart/basic/scatter3D/"
 							},
 							{
 								"moduleName": "Stack chart",
@@ -142,16 +142,16 @@
 								"url": "modules/types/chart/statistics/dendrogram/"
 							},
 							{
-								"moduleName": "Score plot",
-								"url": "modules/types/chart/statistics/loading_plot/"
-							},
-							{
 								"moduleName": "Parallel coordinates",
 								"url": "modules/types/chart/statistics/parallel_coordinates/"
 							},
 							{
 								"moduleName": "Phylogram",
 								"url": "modules/types/chart/statistics/phylogram/"
+							},
+							{
+								"moduleName": "Score plot",
+								"url": "modules/types/chart/statistics/loading_plot/"
 							}
 						],
 						"folders": {},
@@ -197,28 +197,16 @@
 			"Display": {
 				"modules": [
 					{
-						"moduleName": "Two dimensional list",
-						"url": "modules/types/display/2d_list/"
-					},
-					{
-						"moduleName": "Two dimensional list (fast)",
-						"url": "modules/types/display/2d_list_fast/"
+						"moduleName": "Display value",
+						"url": "modules/types/display/single_value/"
 					},
 					{
 						"moduleName": "Hierarchical structure",
 						"url": "modules/types/display/fancytree/"
 					},
 					{
-						"moduleName": "Table (fast)",
-						"url": "modules/types/display/fasttable/"
-					},
-					{
 						"moduleName": "Iframe",
 						"url": "modules/types/display/iframe/"
-					},
-					{
-						"moduleName": "Table",
-						"url": "modules/types/display/jqgrid/"
 					},
 					{
 						"moduleName": "Panzoom",
@@ -230,12 +218,24 @@
 						"hidden": true
 					},
 					{
-						"moduleName": "Display value",
-						"url": "modules/types/display/single_value/"
+						"moduleName": "Table",
+						"url": "modules/types/display/jqgrid/"
+					},
+					{
+						"moduleName": "Table (fast)",
+						"url": "modules/types/display/fasttable/"
 					},
 					{
 						"moduleName": "Twig template",
 						"url": "modules/types/display/template-twig/"
+					},
+					{
+						"moduleName": "Two dimensional list",
+						"url": "modules/types/display/2d_list/"
+					},
+					{
+						"moduleName": "Two dimensional list (fast)",
+						"url": "modules/types/display/2d_list_fast/"
 					}
 				],
 				"folders": {},
@@ -252,14 +252,6 @@
 						"url": "modules/types/edition/filter_editor/"
 					},
 					{
-						"moduleName": "Templated form",
-						"url": "modules/types/edition/form/"
-					},
-					{
-						"moduleName": "Simple Form",
-						"url": "modules/types/edition/form_simple/"
-					},
-					{
 						"moduleName": "Object editor",
 						"url": "modules/types/edition/object_editor/"
 					},
@@ -272,12 +264,20 @@
 						"url": "modules/types/edition/rich_text/"
 					},
 					{
+						"moduleName": "Simple Form",
+						"url": "modules/types/edition/form_simple/"
+					},
+					{
 						"moduleName": "Slick Grid",
 						"url": "modules/types/edition/slick_grid/"
 					},
 					{
 						"moduleName": "SVG Editor",
 						"url": "modules/types/edition/svg_editor/"
+					},
+					{
+						"moduleName": "Templated form",
+						"url": "modules/types/edition/form/"
 					}
 				],
 				"folders": {},
@@ -290,20 +290,20 @@
 						"url": "modules/types/legacy/button_url/"
 					},
 					{
-						"moduleName": "Two dimensional list",
-						"url": "modules/types/legacy/filelistupload/"
-					},
-					{
 						"moduleName": "Filter",
 						"url": "modules/types/legacy/filter/"
+					},
+					{
+						"moduleName": "Hashmap display",
+						"url": "modules/types/legacy/hashmap/"
 					},
 					{
 						"moduleName": "Selector",
 						"url": "modules/types/legacy/grid_selector/"
 					},
 					{
-						"moduleName": "Hashmap display",
-						"url": "modules/types/legacy/hashmap/"
+						"moduleName": "Two dimensional list",
+						"url": "modules/types/legacy/filelistupload/"
 					},
 					{
 						"moduleName": "Var Editor",

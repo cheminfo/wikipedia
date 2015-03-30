@@ -1,1 +1,1 @@
-define(["jquery","src/util/ui","src/header/components/default","src/util/versioning","src/util/util"],function(a,b,c,d,e){function f(){}return e.inherits(f,c,{_onClick:function(){var c=d.getDataJSON("  "),e=c.length,f=a("<textarea/>").text(c).css({width:"100%",height:"200px"});b.dialog(f,{width:"80%"});var g=f.get(0);g.selectionStart=0,g.selectionEnd=e,g.focus()}}),f});
+define(["jquery","src/util/ui","src/header/components/default","src/util/versioning","src/util/util"],function(a,b,c,d,e){function f(){}return e.inherits(f,c,{_onClick:function(){b.copyData()}}),f});

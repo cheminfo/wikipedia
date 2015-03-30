@@ -2,7 +2,7 @@
 
 define(['lodash', 'src/util/util', 'marked', 'highlightjs'], function (_, Util, marked, highlights) {
     var cssPromises = [];
-    cssPromises.push(Util.loadCss('./components/highlight.js/src/styles/default.css'));
+    cssPromises.push(Util.loadCss('lib/highlight.js/styles/default.css'));
     var cssLoaded = Promise.all(cssPromises);
 
     return {

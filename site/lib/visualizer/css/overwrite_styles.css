@@ -2,6 +2,10 @@
     width: 150px;
 }
 
+.ui-menu a {
+    display: block
+}
+
 .ui-menu .ui-menu-item {
     list-style-image: none;
 }

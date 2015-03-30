@@ -192,10 +192,10 @@ div.ci-module-wrapper .ci-module {
 }
 
 #modules-grid > div.ci-module-wrapper.ci-module-displaywrapper .ci-module-header {
-    display: flex;
     display: -webkit-flex;
-    justify-content: space-between;
+    display: flex;
     -webkit-justify-content: space-between;
+    justify-content: space-between;
     height: 23px;
     font-size: 1.2em;
 
@@ -841,70 +841,33 @@ table.moduleInformation tr td:first-child {
 
 /* Loading css */
 
-div#loading-visualizer {
+#ci-loading {
     height: 100%;
     width: 100%;
     background-color: #d9ddf4;
-    text-align: center;
     position: absolute;
-    top: 0px;
+    top: 0;
     z-index: 1000000;
+
+    display: -webkit-flex;
+    -webkit-align-items: center;
+    -webkit-justify-content: center;
+    -webkit-flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 
-div#loading-visualizer > div {
-    width: 100%;
-}
-
-div#loading-visualizer > div.title {
+.ci-loading-title {
     font-size: 3.2em;
     color: #666a83;
-    position: absolute;
-    top: 50%;
 }
 
-div#loading-visualizer > div.subtitle {
+.ci-loading-subtitle {
     font-size: 1.5em;
     color: #666a83;
-    position: absolute;
-    top: 60%;
-}
-
-div#loading-visualizer > div.animation > div {
-    width: 30px;
-    height: 30px;
-    position: absolute;
-    background-color: #ccc;
-    top: 40%;
-    border-radius: 50%;
-}
-
-div#loading-visualizer > div.animation > div:nth-child(1) {
-    background-color: #21253e;
-    -webkit-animation: move 2s infinite cubic-bezier(.2, .64, .81, .23);
-}
-
-div#loading-visualizer > div.animation > div:nth-child(2) {
-    background-color: #3b4270;
-    -webkit-animation: move 2s 150ms infinite cubic-bezier(.2, .64, .81, .23);
-}
-
-div#loading-visualizer > div.animation > div:nth-child(3) {
-    background-color: #5661a3;
-    -webkit-animation: move 2s 300ms infinite cubic-bezier(.2, .64, .81, .23);
-}
-
-div#loading-visualizer > div.animation > div:nth-child(4) {
-    background-color: #727fd6;
-    -webkit-animation: move 2s 450ms infinite cubic-bezier(.2, .64, .81, .23);
-}
-
-@-webkit-keyframes move {
-    0% {
-        left: 0%;
-    }
-    100% {
-        left: 100%;
-    }
 }
 
 /* Browser compatibility */

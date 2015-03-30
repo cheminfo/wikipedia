@@ -383,3 +383,6 @@ classes should alter those!
     text-align: center;
 }
 
+.slick-cell .sp-container {
+    width: 450px;
+}
