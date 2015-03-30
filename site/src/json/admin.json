@@ -2,12 +2,7 @@
   "lockView": false,
   "usrDir": "usr",
   "debugLevel": 5,
-  "filters": [
-    {
-      "file": "src/searchFilter.js",
-      "name": "Search chemicals"
-    }
-  ],
+  "filters": [],
   "modules": {
     "folders": ["modules/types"]
   },

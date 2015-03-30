@@ -3,12 +3,7 @@
   "contextMenu": ["fullscreen", "export", "print", "utils"],
   "usrDir": "usr",
   "debugLevel": 0,
-  "filters": [
-    {
-      "file": "src/searchFilter.js",
-      "name": "Search chemicals"
-    }
-  ],
+  "filters": [],
   "modules": {
     "folders": ["modules/types"]
   },
