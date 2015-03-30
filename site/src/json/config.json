@@ -1,5 +1,6 @@
 {
-  "lockView": true,
+  "lockView": false,
+  "contextMenu": ["fullscreen", "export", "print", "utils"],
   "usrDir": "usr",
   "debugLevel": 0,
   "filters": [
