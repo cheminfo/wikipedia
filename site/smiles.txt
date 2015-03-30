@@ -13215,3 +13215,6 @@ Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
 Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
+Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
+3,4-Epoxycyclohexanecarboxylate methyl ester	COC(=O)C1CCC2C(C1)O2
+3,4-Epoxycyclohexylmethyl-3’,4’-epoxycyclohexane carboxylate	C1CC2C(O2)CC1COC(=O)C3CCC4C(C3)O4
