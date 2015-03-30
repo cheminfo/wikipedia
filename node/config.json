@@ -52,8 +52,5 @@
       "modules/types/server_interaction",
       "src/util/workers"
     ]
-  },
-  "actelion": {
-    "version": "3.0.0-alpha5"
   }
 }

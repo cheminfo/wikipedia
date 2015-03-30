@@ -17,52 +17,7 @@ mkdir(libDir);
 var lastVisuFile = join(tmpDir, 'visualizer/last.json');
 var lastVisu;
 
-updateActelion(config.actelion);
-
 updateVisualizer(config.visualizer);
-
-function updateActelion(actelion) {
-
-    console.log('updating actelion library');
-
-    if (!actelion.version) {
-        throw 'No actelion version defined in config.json';
-    }
-
-    var dir = join(tmpDir, 'actelion');
-    mkdir(dir);
-
-    var tmpActFile = join(dir, 'actelion.js');
-
-    if (compareLast(actelion.version, dir)) {
-        console.log('actelion library already up-to-date');
-    } else {
-        request.get('http://direct.lactame.com/lib/actelion/' + actelion.version + '/actelion-' + actelion.version + '.js').buffer().end(function (err, res) {
-
-            console.log('downloading actelion library from lactame.com');
-
-            if(res.status !== 200) {
-                throw 'actelion version ' + actelion.version + ' not found on remote server';
-            } else {
-                fs.writeFileSync(tmpActFile, res.text);
-                fs.writeFileSync(join(dir, 'last.txt'), actelion.version);
-                copyActelion(tmpActFile);
-            }
-
-        });
-    }
-
-}
-
-function copyActelion (dir) {
-    console.log('copying actelion library');
-    var actLibDir = join(libDir, 'actelion');
-    mkdir(actLibDir);
-    var ACTStr = fs.readFileSync(dir);
-    fs.writeFileSync(join(actLibDir, 'actelion.js'), ACTStr);
-    fs.writeFileSync(join(__dirname, '../dump/actelion.js'), ACTStr);
-    console.log('actelion library up-to-date');
-}
 
 function updateVisualizer(visualizer) {
 
@@ -184,15 +139,6 @@ function mkdir(dir) {
         return false;
     }
     return true;
-}
-
-function compareLast(versionC, folder) {
-    var last = join(folder, 'last.txt');
-    var version;
-    if(fs.existsSync(last)) {
-        version = fs.readFileSync(last,'utf-8');
-    }
-    return version ? version === versionC : false;
 }
 
 function saveLastVisu() {
