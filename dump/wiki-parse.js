@@ -1,6 +1,6 @@
 var fs = require('fs'),
     util = require('./util'),
-    ACT = require('./actelion'),
+    ACT = require('openchemlib'),
     Chemcalc = require('chemcalc'),
     ProgressBar = require('progress'),
     program = require('commander');
