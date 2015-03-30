@@ -70,8 +70,8 @@ define([
                     API.loading('mol', 'Loading molecules (' + (i + 1) + '/' + l + ')');
                     molecule = molecules[i];
                     // we will add the links in the molecules
-                    molecule.link = 'http://en.wikipedia.org/w/index.php?printable=yes&title=' + molecule.code;
-                    molecule.wiki = 'http://en.wikipedia.org/w/index.php?title=' + molecule.code;
+                    molecule.link = 'http://rest.wikimedia.org/en.wikipedia.org/v1/page/html/' + molecule.code;
+                    molecule.wiki = 'http://en.wikipedia.org/wiki/' + molecule.code;
                     molecule.name = getName(molecule.code);
                     molecule.lowName = molecule.name.toLowerCase();
                     var newEntry = {};
