@@ -3670,6 +3670,7 @@ Zirconium(IV) iodide	[Zr+4].[I-].[I-].[I-].[I-]
 3-Methylheptane	CCCCC(C)CC
 Firefly luciferin	O=C(O)[C@@H]1/N=C(\SC1)c2sc3cc(O)ccc3n2
 Zinc cyanide	[Zn+2].[C-]#N.[C-]#N
+Zinc fluoride	F[Zn]F
 Zinc nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2]
 Potassium sulfide	[S-2].[K+].[K+]
 AEBSF	FS(=O)(=O)c1ccc(cc1)CCN
@@ -13218,3 +13219,5 @@ Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
 3,4-Epoxycyclohexanecarboxylate methyl ester	COC(=O)C1CCC2C(C1)O2
 3,4-Epoxycyclohexylmethyl-3’,4’-epoxycyclohexane carboxylate	C1CC2C(O2)CC1COC(=O)C3CCC4C(C3)O4
+HBTU	CN(C)C(=[N+](C)C)ON1C2=CC=CC=C2N=N1.F[P-](F)(F)(F)(F)F
+Grazoprevir	O=C1C(C(C)(C)C)NC(=O)OC3CC3CCCCCc2nc4ccc(OC)cc4nc2OC(C6)CN1C6C(=O)NC5(CC5C=C)C(=O)NS(=O)(=O)C7CC7
