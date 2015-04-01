@@ -90,7 +90,7 @@ Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
-Trinitrotoluene	O=[N+]([O-])c1c(c(ccc1C)[N+]([O-])=O)[N+]([O-])=O
+Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
 Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
@@ -11883,7 +11883,6 @@ Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
 Silver dichromate	[Ag+].[Ag+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Gallocyanin	CN(C)c1ccc2c(c1)oc-3c(c(=O)cc(c3n2)C(=O)O)O
 Diethylaniline	N(c1ccccc1)(CC)CC
-Boron phosphate	[B+3].[O-]P(=O)([O-])[O-]
 EPN (insecticide)	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)c2ccccc2
 Tripalmitin	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCC
 Diboron tetrachloride	ClB(Cl)B(Cl)Cl
