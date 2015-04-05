@@ -1719,6 +1719,7 @@ Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C
 5-MeO-DALT	C=CCN(CCC1=C[N]C2=C1C=C(OC)C=C2)CC=C
 Triethylamine	CCN(CC)CC
 Caspofungin	O[C@@H]([C@@H](NCCN)NC([C@@H]1[C@@H](O)CCN1C2=O)=O)C[C@@H](C(N[C@H](C(N3[C@H](C(N[C@H](C(N[C@H]2[C@@H](CCN)O)=O)[C@H](O)[C@@H](O)C4=CC=C(O)C=C4)=O)C[C@@H](O)C3)=O)[C@@H](C)O)=O)NC(CCCCCCCC[C@H](C[C@@H](C)CC)C)=O
+4-Acetoxy-DiPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
 Nitroguanidine	NC(N)=N[N+]([O-])=O
 Trigonelline	O=C([O-])c1ccc[n+](c1)C
 Tropane	N1(C)[C@H]2CC[C@@H]1CCC2
@@ -9791,7 +9792,7 @@ Cyclochlorotine	O=C([C@H](CO)NC1=O)N[C@@H](C2=CC=CC=C2)CC(N[C@H](C(N3[C@H](C(N[C
 JWH-210	c4cccc2c4c(CC)ccc2C(=O)c(c3)c1ccccc1n3CCCCC
 Hemopressin	CC(C)C[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc3ccccc3)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@@H]4CCCN4
 JWH-122	CCCCCn1cc(c2c1cccc2)C(=O)c3ccc(c4c3cccc4)C
-4'-Fluorococaine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=C(C=C3)F)C(=O)OC
+4′-Fluorococaine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=C(C=C3)F)C(=O)OC
 JWH-007	c14ccccc4cccc1C(=O)c3c2ccccc2n(c3C)CCCCC
 A-836,339	Cc1c(sc(=NC(=O)C2C(C2(C)C)(C)C)n1CCOC)C
 Cloforex	Clc1ccc(cc1)CC(NC(=O)OCC)(C)C
@@ -11017,7 +11018,7 @@ Biurea	NC(=O)NNC(N)=O
 Bismuth selenide	[Se-2].[Se-2].[Se-2].[Bi+3].[Bi+3]
 Lumacaftor	CC1=C(N=C(C=C1)NC(=O)C2(CC2)C3=CC4=C(C=C3)OC(O4)(F)F)C5=CC(=CC=C5)C(=O)O
 MDA-19	O=C(C1=CC=CC=C1)N/N=C(C2=CC=CC=C2N3CCCCCC)\C3=O
-2'-Acetoxycocaine	CN1C2C[C@H](OC(C3=C(OC(C)=O)C=CC=C3)=O)[C@H](C(OC)=O)C1CC2
+2′-Acetoxycocaine	CN1C2C[C@H](OC(C3=C(OC(C)=O)C=CC=C3)=O)[C@H](C(OC)=O)C1CC2
 Olodaterol	CC(C)(CC1=CC=C(C=C1)OC)NCC(C2=CC(=CC3=C2OCC(=O)N3)O)O
 UR-144	CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3C(C3(C)C)(C)C
 Guaiene	C[C@H]1CCC2=C1C[C@H](C(C)=C)CC[C@@H]2C
@@ -12144,6 +12145,7 @@ Cerium acetylacetonate	[Ce+3].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C.[O-]\C(=C/C(
 Dysprosium acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Dy+3]
 Europium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Eu+3]
 Gadolinium acetylacetonate	[Gd+3].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
+Hafnium acetylacetonate	[Hf+4].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
 Indium acetylacetonate	CC(=CC(=O)C)O[In](OC(=CC(=O)C)C)OC(=CC(=O)C)C
 Silver arsenate	[O-][As](=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 4-AcO-DALT	CC(=O)Oc1cccc2c1c(c[nH]2)CCN(CC=C)CC=C
@@ -13215,6 +13217,7 @@ Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
 Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
+1,2-Diformylhydrazine	O=CNNC=O
 Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
 3,4-Epoxycyclohexanecarboxylate methyl ester	COC(=O)C1CCC2C(C1)O2
 3,4-Epoxycyclohexylmethyl-3’,4’-epoxycyclohexane carboxylate	C1CC2C(O2)CC1COC(=O)C3CCC4C(C3)O4
