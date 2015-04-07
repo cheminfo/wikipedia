@@ -8078,7 +8078,7 @@ Osthol	O=C/2Oc1c(c(OC)ccc1\C=C\2)C\C=C(/C)C
 Norverapamil	CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
 Niludipine	CCCOCCOC(=O)C1=C(NC(=C(C1C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOCCC)C)C
 Niguldipine	[O-][N+](=O)c1cccc(c1)C5C(/C(=O)OC)=C(\N\C(=C5\C(=O)OCCCN4CCC(c2ccccc2)(c3ccccc3)CC4)C)C
-Monatepil	C1CN(CCN1CCCC(=O)NC2C3=CC=CC=C3CSC4=CC=CC=C24)C5=CC=C(C=C5)F
+Monatepil	C1CN(CCN1CCCC(=O)NC2C3=CC4=CC=C3CSC4=CC=CC=C24)C5=CC=C(C=C5)F
 Mepirodipine	CC1=C(C(C(=C(N1)C)C(=O)OC2CCN(C2)CC3=CC=CC=C3)C4=CC(=CC=C4)[N+](=O)[O-])C(=O)OC
 Manoalide	CC1=C(C(CCC1)(C)C)CC/C(=C/CCC2=CC[C@@H](O[C@H]2O)C3=CC(=O)O[C@H]3O)/C
 Fantofarone	CC(C)C1=CN2C=CC=CC2=C1S(=O)(=O)C3=CC=C(C=C3)OCCCN(C)CCC4=CC(=C(C=C4)OC)OC
@@ -13226,3 +13226,4 @@ Grazoprevir	O=C1C(C(C)(C)C)NC(=O)OC3CC3CCCCCc2nc4ccc(OC)cc4nc2OC(C6)CN1C6C(=O)NC
 12-Hydroxyheptadecatrienoic acid	CCCCC[C@@H](/C=C/C=C/C/C=C\CCCC(=O)O)O
 Sedanolide	CCCCC1C2CCCC=C2C(=O)O1
 THJ-2201	c1ccc2c(c1)cccc2C(=O)c3c4ccccc4n(n3)CCCCCF
+Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
