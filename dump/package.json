@@ -7,7 +7,7 @@
   "devDependencies": {
     "chemcalc": "2.1.2",
     "commander": "2.6.0",
-    "openchemlib": "^3.0.0-alpha9",
+    "openchemlib": "^3.0.0-alpha10",
     "progress": "1.1.8",
     "superagent": "0.21.0"
   }
