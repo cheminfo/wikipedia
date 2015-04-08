@@ -444,6 +444,7 @@ dg|H@@RYfUWd}mh@@@@@@	Benzophenone
 fjc`@@@YHleHhheDeckuoArdmUU@DP@TBJKr@@	Maprotiline
 fhiA`@@B|dsLro~jqgM@D@AP@@@	Oxybenzone
 fdy@P@@BtGHhhhheEcliuoM@DD@T@@@	Dioxybenzone
+fgA@@@DjYU_VByHu`@@@@@@@	Anthracene
 ffc`J@BPQc`cQR@HrRPyRIJISHzZMYr\kUUUUUUUDXiRt\`@	Topiramate
 gJPBAbJHt`YAIjj@@	Bromochlorodifluoromethane
 dcNH@FAIfYWgV`hH@@	Methcathinone
@@ -1061,6 +1062,7 @@ f`aPP@B\@bwlbfdRLRTIgMUT@QDLP@	Carbidopa
 eodRLD@AEOIlbg`H`bPRYg]ee]U]YUcbsrIJyzB@h@@BjjjhB@@@	Gefitinib
 diXJHdpjX@b@cm@]@n[ndYRjXIY`@	Sodium metabisulfite
 foQa@@N@rQQQQJKGbiVLz`BB@D@@@	CR gas
+fbc@@@LdbbbbbbcJwEB]Hu`ir@@@@@@@@@@	Benzo(a)pyrene
 fjs@@@DjYeeov_daFuxL\e@@@@`J@B@@@	Methylcholanthrene
 ff}`P@G@dENRJIQJJHyIZPVk^hHbbjjjIEiy@@	Nadolol
 fmiDfETLTyKYka`eNBehuoAcdm^c@n@MDxxgLggByTzxwNgwAyLyxoMgoCz\kg@e@U@U@U@U@U@Ffffff`@@	Ceric ammonium nitrate
@@ -1878,6 +1880,7 @@ gOpHADILkW@@@@	Chlorobenzene
 gGP`@df]jP@	Vinyl acetate
 edRP@`@@LAEMCOHlfnamo`X\dTTRbRdqTVRraTTrUD`RQuuUUUUUUUUUUUSdBPaBhWBdUdBbTjdrVarnP@	Melezitose
 fhf@Z`hHpQgARtZs`AE@aPQzpCXXxgBzWVyw^tNyIHGI@yH@mKRt@@	Aluminium sulfate
+fikpP@@iFAAFYEM@XhdmMEidm[r\mzuUA@D@@P@@@	Ethacridine lactate
 fleQ`@KIASfRJZJIQWQIBUEMADQUUQ@@@	Trimetazidine
 fe{IBPB\lVhHbTQzPCHQdLaGY@\aNPrJJIQQIPrKUPrLTYtDEQLuUmTP@@	Fipronil
 en{xM@@A`DELbjkmWRz|bbTTRdRTtRdRqrRTvTRbRqvbRbVL|\jRrvAQYUMcSZjijjfjijiijjjjjjjjj`@@	Selamectin
@@ -2213,6 +2216,7 @@ dexFHdpj[`BHBAtItB{nFYeJihIYX@@	Sodium dithionate
 daDB@@InRYgrfiZ@@	Squaric acid
 do]BaLJDePBBe^rRPjQQIIZZjj`@	Burgess reagent
 egRtF@DLe`NEFUS\iVgIEEEDhdeeeLeDiXiEDdXeYUHxXEdtcRSJsJKkPAAADUUUTEPAPDTEDH^Rj@@	Tubocurarine chloride
+edZV@HDHOHdohPH`ChIpJQQSQIYIAqQQQIYI\RZNVA]S[OW@a@@@DP@@@DP@@@@	Acriflavinium chloride
 fdypBBH^bBHAtIPZYnUu^RtzpP`@@BH@@@	Acriflavinium chloride
 fkPQ@ENEKYpQC@cHhdiiDXhldeldeJ\M{MX@aZjbBJjX@@@	Tianeptine
 fleQ@@DFAdTRRRaRbRQJBduPAUUT@@@	Ropinirole
@@ -2645,8 +2649,11 @@ gNt@@teUzk@@	Glutaronitrile
 day@@@yIUWjk@@	Adiponitrile
 dcLJ`BiitICHhhhbmpuUUUYDr]@X`D`	Fludeoxyglucose (18F)
 gC``AdeZ@@	Glycolaldehyde
+ffk@@@DjYUUUU}XKdgA}DmP@@@@@@@@@@	Pentacene
+eeXp@@@LdbbbbbbTRbTRbRRRRRVIKB`abpIsMvOwJHmLh@DQD@@@@@@@@@@@@@@@	Rubrene
 egdRLL@BJMFgNa`IBZPndLbbbRbRRbbJfTTSsGAeebWdVqtAAUTuTDtAEI`YKDd`@	Trovafloxacin
 feo@@@LdbbbbbRRRvtjSEFR{HRcfD@@@@P@@@@@@	9,10-Diphenylanthracene
+fdu@@@DjYUUUU`nR\GtP@@@@@@@@@	Tetracene
 gGQHH@aJmZh@	Diethyl sulfoxide
 gKXHH@aJWFe`@	Isothiazole
 dmTN`HSBzUCprRSESQjjfah@	3-Phosphoglyceric acid
@@ -3068,6 +3075,7 @@ gJPBADJPt`YAIjj@@	Chlorotrifluoromethane
 fbuq`BHZBABhRcdfyeUuuaRlyhBBjjjH@@	Oxamniquine
 dedH@@RUUVjjh@@	1-Nonanol
 dax@@LdbJUUT@@	2-Methylheptane
+fncpABANBBH`D@zDhLsLkjjolDjqo@@@@QUU@@@@	New methylene blue
 ffmQ`@EA@cVQQJIIJZIIJjQfhHJJjj`@@	Oxybuprocaine
 flyP`@EN@cHheDdehbdiZZ``bjj@@@	Tetracaine
 fjuQ`@EZ@cvQQJIIJZYIERLuAAQUUP@@	Proxymetacaine
@@ -3948,6 +3956,7 @@ fa{A`@@U{dTRTtRaRfbQfhqVg^ceijjjjjfjicDIZeiyQP@	11-Deoxycorticosterone
 fb}a@@H`rQSISJQIIHlxjwhaSP@UUUUEVAIRm@@	Levomethorphan
 fha@B@PGTNQvNIuNYwNEtnUvnMun]wnCvAQII@qII\ExMUUUUT@@	Uranocene
 eolP@H@@HaIfV[YuV]^]vEICHjamkgh@HCB`pH@@@@@@@	1-Chloro-9,10-bis(phenylethynyl)anthracene
+ed^P@@@LdRbbbbRbRVRQRrtrRcefPURWRqpLOP@@@@A@XP@@@@@@	5,12-Bis(phenylethynyl)naphthacene
 eaYPAF@AEMODl`XPHabHlbChazHQbLbbbbbaVTvbrTRbfbevRWDewtAQCUMMTDTPuUP@@@	Bis-(2,4,5-trichloro-6-(pentyloxycarbonyl)phenyl)oxalate
 dgnBAAAJeNFTfvUffjjZjB`@	Acetylcarnitine
 ec`\LL@BFIdem`HarPZdLbbbbbbbRbrrLRgFbg`TVQWPtDQTUMMUTqUXRPIEH@	Sitafloxacin
@@ -4226,6 +4235,7 @@ fakqb@BVByoPRBSLljkO[lrQ`~cAAQUMUTqH@@	Pefloxacin
 fluQP@BBAIWhyEEEDhdbddpQgQRtpSAEUD@@	Cinoxacin
 gCa@@dmX@	Propargyl alcohol
 fhi`@@@YIECDdhlljw`uTD@@@Pa@@	Lefetamine
+egbP@@@DjYUUUUUUWu`SbQpKrIh[jXzx@@@@@@@@@@@@@@	Heptacene
 eOB@Hcfh@	Thiirane
 fnsA@@@YHhiEDbdliLkRRc^CPUDQUUUPhiIP@	JWH-133
 fcoa`@E@QXhRDRDQDRDaHRDQDQHP\cKU^vjjhJhBj@B@@@	Naftidrofuryl
@@ -5513,6 +5523,7 @@ ejVRNBBNECGHDLD`XTP@cxHqtB]CCd^qdf\ddlTRRVTRbbfRRvJd@dtJFVnN^V``RdJ@@@@e`@ABRl`	
 eod^DH@LMKGHimhD@@cIIKEDmeDeMMLeLdiE@daemcehBB`BJZVf`h@@	Pazopanib
 ffcAp@@FmyIZyHhhheDidgEfBdzNZBb@h`bhDHSD@	Gallocatechol
 gC`BAVRHTQhbOT@@	Iodine trichloride
+fbupABANBBH`D@zDxEEEEDeddcFBUXw`@@@Hj`@@@	Tolonium chloride
 dg|L@@jTie]U|kahHBihBM`	Carpacin
 fmoQA@D}VBHDDILk[JjornmFRuzK^p@ULPQUUTA@aJ@	Zuclopenthixol
 do~D`KIPqDfYUuYa``bjh@@	Meta-DOB
@@ -8957,8 +8968,10 @@ dif`@@pj[IEEEZxBH`@@	Acetoguanamine
 dctb@Drm@YUIgefZjfX@@	Allantoic acid
 dax@P@BHBDiUZjX@@	Allyl propyl disulfide
 f`qHC@DXxHDPrHMDYEDeDUEEj\]z@HhH@@@@	Anilazine
+foQ`@@@ILrszkARUYt@@@@@@@@	Anthramine
 fakaP@M@Qeo\bbTTRTVbTtevkAbUkTuUUTuTuDINIR]@@	Senecionine
 flepPBHRTACdpeGIMrnkLpPXm@ALDA@BDh	Azo violet
+flepABANBBH`D@zDhLsLkj|pRkF|@@@AEP@@@	Azure A
 gfHeQx@@DCApdJ[LWhln@VODQY\eJgPZMfkGkvQQQQQIJFJ[PqIQJJYZIJJIKQFJKFqQJZiIJPhYVaryjjjifZjjZXJhJZaifjjfjjjH@@@	Bacillomycin
 fdu@@@DjYee_daFtxLP@@@@@@@@@	Benz(a)anthracene
 fdu@@@LdbbbbbTUHeRlXOh`@@@@@@@@@	Benzo(c)phenanthrene
@@ -9052,6 +9065,7 @@ dZdyJOb@@JBPlBbxANQtgDJRRmhfmn{~pSDIDECHZM`xYIRlHIbtcKrJjhZngjFYnYV}`{NwiEqJP@H
 daD`@@pjRfY[`J@@@	2,4-Diaminopyrimidine
 daD`@@rfRf^k```@@	4,5-Diaminopyrimidine
 fdihA@AJuYpH`dPdsN{OOLyA@TtuPBAh	Chlorproguanil
+ejUZDH@FCKMcle`HaIe[VUWeUgWfUZNIEG@jnhT\RX@@@``HHjjjj`B`@@	Pyronaridine
 ejUV@D@FM@bi`PH`fHrJIJYIZIKIIQIYQQJHzcbQSpHZ[xEGF@@@jjjjj`@@HJ@@@	Piperaquine
 fi{Qa@AJrtXH`LadTRTtRTTtRVLMNZ\fl@PuATCEQ@@@	Proflazepam
 fakqPBHJLAAZmaJNR[e[eYUV^RlGOV`BFhJAXH@@	Nitrazepate
@@ -9654,6 +9668,7 @@ fhia`@F@LGHhhhddhTiV|EhJBhjH@@	Pentylone
 fiw`P@D`PHjSOKJrjsOrUhp\qSUkUSUUAUATTTIFJTTgH@	6-Monoacetylcodeine
 flua@@C@rQRIQEIIQIgEZbfjijhJB@@@	Pirandamine
 fhe@@@LdbbbTReryHQmN|Fjjjjjjj@TDaLad@	Gonane
+fm@B@@QFQQISQJJIIIQ[HtxkTVy{M\@@P@P@@@@@@@	2-Chloro-9,10-diphenylanthracene
 feg@p@@F]el|dTRbRRRabRQfQJZ}WmUAPU@TDU@@@	Lariciresinol
 fbe@h@@JuYw`qSgHhhhhheDhXpSSMSSKM@@@	Benzoquinonetetracarboxylic acid
 fhqAH@@HIhug^BdwKJsLscTuTsL`@@	Furantetracarboxylic acid
@@ -10289,6 +10304,7 @@ daD@P@qNqDfUzZ@B@@	1,4-Dibromobenzene
 fmg`R@IXEEH@cIEDXhlhdeD\hd`yfnfjZ``Xh@@aQ@@	Ecadotril
 ffcPa@GQMXFHhHrJJIQYZRiQILyKQZp@@PmP@@@@@	Pyrabactin
 gNq`AbeMmUP@	Trimethyl orthoformate
+ebQP@G@@I@bPXdAI@rP\dDi@jPFdEiAzPAdDYCFPRYf{v[v[v[v[~IKOLjimohXHb@b@b@b@bJ@@@@	Perfluoropentacene
 f`aaA@MJADBBDfUu[ehr@Bijh@@	Benthiocarb
 dk\D@@wHhhhhbfES`@`H@@@	Menadiol
 gBlHQEl@SNWZXr`@	Lithium azide
@@ -10505,6 +10521,7 @@ flya`@G@e{IEDheEMd]AZhHbbjj@@@	Desacetylmetipranolol
 fbmQA@AJRBH}HILk\kOKtyit\pACTE@a@@@	N-Desalkylflurazepam
 flyPp@DRAhwhirJIQQIQIDqSfhJAhibAD@	Nooglutyl
 dg^@`IBlRYWV^ih@Jjh@@	Iofetamine (123I)
+fbc@@@DjYeUoUvRDkQoIcd@B@@@@B@@@	Benzo(a)fluoranthene
 ffk@@@DjYee^uyHQmNCDmP@@@@@@@@@@	Dibenz(a,h)anthracene
 fnkX@@@DYxm\bRbbbRVLRbRUhudejwjjiZ`BIh`@@	Ruxolitinib
 ffk@@@DjYee[WyHQmNBdmP@@@@@@@@@@	Dibenz(a,j)anthracene
@@ -10766,6 +10783,7 @@ emwzAH@LDgfPyHjk`_Tzp@cIEEheMeEELUEDiEDhxihidheMiUlilJMX{WP|zZjijijjjiijBjBiajjj
 fdi@P`MF]xDPRHUDVbLbbbfbTRaKAPPQSST@@@	Dimethyl tetrachloroterephthalate
 do^HhF`G@WBYAYCYCIIEXeHiJjZjjBJ`	BSTFA
 dk|@`@|DjYfW[QNUjfYZV@@	9b-Phosphaphenalene
+fasHaAAJCew`QD@`GPdT~{@hhhhhdhhTXXqVhvR@A@@tEU@@@@	Methylene green
 fdeQ@@EA@eMk[\LyKQgT@EUUTR@@	Ro60-0213
 ebvtB@@BgPDEclbbtTbTTVRRbv`zbtTbTTVRRbvdSVWVh]l[UUT@PAPTuUU@D@TE@AAB|Ste`@	Alphacetylmethadol
 fe{``@B`PdssRsNjs}En^mUUPA@EAPHHoH@	Betacetylmethadol
@@ -12114,6 +12132,7 @@ fcohaANBeh\u`kMqGIGJ~wrSJ{KOLjo|TXkVVu{@AMU@@@Dp`@@	INT (chemical)
 fdiA`@@JcdTRTTTZTVhqijjfZZCDcUY@	Abscisic aldehyde
 fas@H@@HDhuj}rJZIJIKPiQIP|dUkSUUSL@QQadxiRCh	Dactylifric acid
 ffcIr@C^bVBLDxjhOCIILUDhcEDeeKPXyJuUUUTmKUadEIH@	Deoxyinosine monophosphate
+ek\pK@H@CO@djfod^Y]SPIrQQQQIJIJIISKRsQJIKKSPz`RRsRHiXXxdUeT@@@HjJfjjBB@Hb`J@@@	Compound NJ2
 dcl@@DjYU]ixP@@J@@@	2,6-Dimethylnaphthalene
 fcw@H@@Hdzlu{rJZJIQJZIIYPiJZ|ekTaPADDqTp@PRs@	8,5'-Diferulic acid
 fik@p@@HTzh|bfRbRbRQTRTrehkVf@HjX@b`@cDz@	Decarboxylated 8,5'-diferulic acid
