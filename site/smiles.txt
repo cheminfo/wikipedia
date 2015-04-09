@@ -11755,6 +11755,7 @@ Ammonium carbamate	[O-]C(=O)N.[NH4+]
 Glyceryl hydroxystearate	O=C(OC(CO)CO)C(O)CCCCCCCCCCCCCCCC
 Strontium oxalate	[Sr+2].[O-]C(=O)C([O-])=O
 Manganese(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mn+2].[Mn+2].[Mn+2]
+S1RA	CC1=CC(OCCN2CCOCC2)=NN1C1=CC=C2C=CC=CC2=C1
 Methylglucoside	O[C@@H]1[C@@H](O)[C@H](O)[C@H](OC1OC)CO
 Linsitinib	C[C@]1(C[C@@H](C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=CC(=N5)C6=CC=CC=C6)C=C4)O
 Bromine azide	[N-]=[N+]=N\Br
@@ -12594,7 +12595,6 @@ T-0156	CC1=NC=CC(=C1)CN2C(=C(C3=C(C2=O)C(=NC=C3)OCC4=NC=CC=N4)C5=CC(=C(C(=C5)OC)
 BAY 60-7550	CC1=C2C(=O)N=C(NN2C(=N1)[C@@H](CCCC3=CC=CC=C3)[C@@H](C)O)CC4=CC(=C(C=C4)OC)OC
 ICI-63197	CCCN1C(=O)C(=CN2C1=NC(=N2)N)C
 8-Methoxymethyl-3-isobutyl-1-methylxanthine	CC(C)CN1C2=C(C(=O)N(C1=O)C)NC(=N2)COC
-Ro20-1724	CCCOC1=C(C=CC(=C1)CC2CNC(=O)N2)OC
 Adapromine	CCC(C12CC3CC(C1)CC(C3)C2)N
 GBR-12783	C1CN(CCN1CCOC(C2=CC=CC=C2)C3=CC=CC=C3)C/C=C/C4=CC=CC=C4
 GBR-13069	C1CN(CCN1CCOC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)C/C=C/C4=CC=CC=C4
@@ -13245,5 +13245,6 @@ HBTU	CN(C)C(=[N+](C)C)ON1C2=CC=CC=C2N=N1.F[P-](F)(F)(F)(F)F
 Grazoprevir	O=C1C(C(C)(C)C)NC(=O)OC3CC3CCCCCc2nc4ccc(OC)cc4nc2OC(C6)CN1C6C(=O)NC5(CC5C=C)C(=O)NS(=O)(=O)C7CC7
 12-Hydroxyheptadecatrienoic acid	CCCCC[C@@H](/C=C/C=C/C/C=C\CCCC(=O)O)O
 Sedanolide	CCCCC1C2CCCC=C2C(=O)O1
+AI-10-49	FC(F)(F)OC1=CC2=C(C=C1)NC(C(C=C3)=NC=C3OCCOCCOC(C=C4)=CN=C4C5=NC6=CC(OC(F)(F)F)=CC=C6N5)=N2
 THJ-2201	c1ccc2c(c1)cccc2C(=O)c3c4ccccc4n(n3)CCCCCF
 Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
