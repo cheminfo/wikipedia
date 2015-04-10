@@ -887,7 +887,6 @@ Cisapride	Clc1cc(c(OC)cc1N)C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC
 Tungsten carbide	[C-]#[W+]
 Dicycloverine	O=C(OCCN(CC)CC)C1(CCCCC1)C2CCCCC2
 Flavoxate	O=C(OCCN1CCCCC1)c4cccc2c4O/C(=C(\C2=O)C)c3ccccc3
-Zinc chloride	Cl[Zn]Cl
 Ipratropium bromide	CC(C)[N+]1([C@@H]2CC[C@H]1C[C@H](C2)OC(=O)C(CO)C3=CC=CC=C3)C.[Br-]
 Fosinopril	O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
 Cadmium arsenide	[Cd+2].[Cd+2].[Cd+2].[AsH6-3].[AsH6-3]
@@ -3459,6 +3458,7 @@ Monocrotophos	O=P(O/C(=C/C(=O)NC)C)(OC)OC
 Lumisterol	O[C@@H]4C/C3=C/C=C1\[C@@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)C(C)C)C)C)[C@]3(C)CC4
 Citrinin	O=C2C(C(O)=O)=C(O)C1=CO[C@H](C)[C@@H](C)C1=C2C
 Tetraphenylmethane	c1ccccc1C(c2ccccc2)(c3ccccc3)c4ccccc4
+URB754	CC1=CC=C(C=C1)NC2=NC3=C(C=C(C=C3)C)C(=O)O2
 Aluminium silicate	O=[Al]O[Si](=O)O[Al]=O
 Parthenolide	C/C/1=C\CC[C@@]2([C@@H](O2)[C@@H]3[C@@H](CC1)C(=C)C(=O)O3)C
 Titanium(III) chloride	Cl[Ti](Cl)Cl
