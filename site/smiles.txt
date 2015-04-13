@@ -1878,6 +1878,7 @@ Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4c(ccc5c4-c6cc(c(cc6CC5)O)O2)O)O
 Chlorobenzene	c1ccc(cc1)Cl
 Vinyl acetate	C=COC(C)=O
 Melezitose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]3(O[C@@H]([C@@H](O)[C@@H]3O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)CO)CO
+Propionate	CCC(=O)[O-]
 Aluminium sulfate	[Al+3].[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Ethacridine lactate	O=C(O)C(O)C.O(c2ccc1nc3c(c(c1c2)N)ccc(c3)N)CC
 Trimetazidine	O(c1ccc(c(OC)c1OC)CN2CCNCC2)C
@@ -13232,6 +13233,7 @@ N-Acetyllactosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([
 Copanlisib	COC1=C(C=CC2=C1N=C(N3C2=NCC3)NC(=O)C4=CN=C(N=C4)N)OCCCN5CCOCC5
 1,3-Dimethylbutylamine	CC(C)CC(C)N
 Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
+SRX246	c5ccccc5C(COC2=O)N2C(C1=O)C(\C=C\c4ccccc4)N1C(C(=O)NC(C)c(c6)cccc6C(F)(F)F)CC(=O)N(CC3)CCC3N7CCCCC7
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
@@ -13249,3 +13251,4 @@ THJ-2201	c1ccc2c(c1)cccc2C(=O)c3c4ccccc4n(n3)CCCCCF
 Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
 Acetylpropionyl	CCC(=O)C(=O)C
 Cyclohexylmethanol	C1CCC(CC1)CO
+Isopropylphenidate	c1ccccc1C(C(=O)OC(C)C)C2CCCCN2
