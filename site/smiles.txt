@@ -12308,7 +12308,9 @@ Asphodelin A	C1=CC(=C(C=C1O)O)C2=C(C3=C(C=C(C=C3)O)OC2=O)O
 Lobivine	CN(C)CCc1ccc2c(c1)OCO2
 Isoemericellin	C/C(C)=C\Cc3ccc2Oc1cc(C)c(OC\C=C(/C)C)c(CO)c1C(=O)c2c3O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
+Shamixanthone	C/C(C)=C\Cc4ccc(O)c3C(=O)c2c(cc(C)c1OC[C@H]([C@H](O)c12)C(C)=C)Oc34
 Macromomycin B	O=C(OC)c2cc(OC)cc1O/C(C(=O)Nc12)=C
+Chartreusin	Cc1ccc2c3c1c(=O)oc4c3c(c(c5c4c(ccc5)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)C)O)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)C)O)OC)O)O)c(=O)o2
 Kedarcidin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]\2COC(=O)C[C@H](c3ccc(c(n3)Cl)O[C@H]4C=C5C#C/C2=C\C#C[C@H]6[C@]5([C@H]4O[C@H]7C[C@@]([C@H]([C@@H](O7)C)O)(C)O)O6)NC(=O)c8cc9c(cc8O)cc(c(c9OC)OC)OC(C)C)O)N(C)C
 Acetylfentanyl	CC(N(C1=CC=CC=C1)C2CCN(CCC3=CC=CC=C3)CC2)=O
 Neokadsuranin	C[C@@H]1[C@@H]([C@H]2C3=CC(=C(C(=C3C4=C(C5=C(C=C4[C@@H]1O2)OCO5)OC)OC)OC)OC)C
@@ -13252,3 +13254,5 @@ Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
 Acetylpropionyl	CCC(=O)C(=O)C
 Cyclohexylmethanol	C1CCC(CC1)CO
 Isopropylphenidate	c1ccccc1C(C(=O)OC(C)C)C2CCCCN2
+Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
+Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
