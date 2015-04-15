@@ -4541,7 +4541,6 @@ HMG-CoA	O=C(O)C[C@@](O)(C)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)
 Phenethyl alcohol	c1ccc(cc1)CCO
 3-Ethylpentane	CCC(CC)CC
 Diisopropylzinc	CC(C)[Zn]C(C)C
-Diisopropylzinc	C[CH-]C.C[CH-]C.[Zn+2]
 Sesamol	O1c2ccc(O)cc2OC1
 Leukotriene B4	CCCCC/C=C\C[C@H](/C=C/C=C/C=C\[C@H](CCCC(=O)O)O)O
 Enoximone	O=C(/C1=C(/NC(=O)N1)C)c2ccc(SC)cc2
@@ -12340,6 +12339,7 @@ Anhalamine	COC1=C(C(=C2CNCCC2=C1)O)OC
 Anhalidine	Oc1c(OC)c(OC)cc2c1CN(CC2)C
 Anhalinine	COC1=C(C(=C2CNCCC2=C1)OC)OC
 N-Methylmescaline	CNCCC1=CC(=C(C(=C1)OC)OC)OC
+Variecolin	C[C@H]1CC(=O)[C@@H]/2[C@H]1C[C@]3(CC[C@@]4(CC[C@@H]([C@H]4[C@@H]3C/C=C2/C=O)C(=C)C)C)C
 N-Acetylmescaline	O=C(NCCc1cc(OC)c(OC)c(OC)c1)C
 Tetramethylpyrazine	CC1=C(N=C(C(=N1)C)C)C
 Kettapeptin	O=C1O[C@@H](C(C)C)[C@@H](C(=O)N3NCCC[C@@H]3C(=O)N(O)[C@H](C(=O)N(C)[C@@H](C(=O)N2NCCC[C@@H]2C(=O)N[C@@H]1[C@@H](O)C)C)COC)NC(=O)[C@@](O)([C@]4(O)OC(/C(=C/C(C(=O)/C(=C/C)C)C)C)[C@H](CC4)C)CC
@@ -13255,4 +13255,5 @@ Acetylpropionyl	CCC(=O)C(=O)C
 Cyclohexylmethanol	C1CCC(CC1)CO
 Isopropylphenidate	c1ccccc1C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
+RTA-408	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(C(=O)OC)CCC(C)(C)C[C@H]12)(C)[C@]3(C)CC[C@H]5C4(C)C)C
 Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
