@@ -103,7 +103,7 @@ Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@
 Nitrous oxide	N#[N+][O-]
 Niacin	Oc(:o):c1cccnc1
 Nicotine	CN(CCC1)[C@@H]1C2=CC=CN=C2
-Psilocybin	CN(C)CCc1cnc2CC=CC(OP(O)(O)=O)=c12
+Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	c1[nH]c2c(ncnc2n1)N
 Proline	OC(=O)C1CCCN1
 Uracil	O=C1NC=CC(=O)N1
@@ -4481,7 +4481,7 @@ Ibandronic acid	O=P(O)(O)C(O)(CCN(CCCCC)C)P(=O)(O)O
 Ebastine	O=C(c1ccc(cc1)C(C)(C)C)CCCN4CCC(OC(c2ccccc2)c3ccccc3)CC4
 Gliquidone	O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)CCN4C(=O)c3c(ccc(OC)c3)C(C4=O)(C)C
 Danishefsky's diene	O(\C=C\C(O[Si](C)(C)C)=C)C
-Beta-Methylamino-L-alanine	CNCC(N)C(O)=O
+Beta-Methylamino-L-alanine	CNC[C@@H](C(=O)O)N
 Lithium tetrafluoroborate	[Li+].F[B-](F)(F)F
 Sodium aurothiomalate	[Au+].[Na+].[O-]C(=O)C([S-])CC(=O)O
 Helenalin	O=C/2O[C@@H]3C[C@H]([C@@H]1/C=C\C(=O)[C@@]1(C)[C@@H](O)[C@@H]3C\2=C)C
