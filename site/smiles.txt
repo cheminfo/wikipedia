@@ -1715,6 +1715,7 @@ Doxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cc
 3,4-Methylenedioxyphenylpropan-2-one	O=C(C)Cc1ccc2OCOc2c1
 Kinetin	C(Nc1ncnc2nc[nH]c12)c1ccco1
 Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C@@H](C)[C@H]([C@@H](C)[C@H](C[C@@H]1CC[C@@](O1)(C)[C@H]2CC[C@@](O2)(C)[C@@H](C)O)O)O)\O
+5-MeO-MiPT	O(c1cc2c(cc1)[nH]cc2CCN(C(C)C)C)C
 5-MeO-DALT	C=CCN(CCC1=C[N]C2=C1C=C(OC)C=C2)CC=C
 Triethylamine	CCN(CC)CC
 Caspofungin	O[C@@H]([C@@H](NCCN)NC([C@@H]1[C@@H](O)CCN1C2=O)=O)C[C@@H](C(N[C@H](C(N3[C@H](C(N[C@H](C(N[C@H]2[C@@H](CCN)O)=O)[C@H](O)[C@@H](O)C4=CC=C(O)C=C4)=O)C[C@@H](O)C3)=O)[C@@H](C)O)=O)NC(CCCCCCCC[C@H](C[C@@H](C)CC)C)=O
