@@ -3863,7 +3863,7 @@ Lopinavir	O=C(N[C@@H](Cc1ccccc1)[C@@H](O)C[C@@H](NC(=O)[C@@H](N2C(=O)NCCC2)C(C)C
 Cetrimonium chloride	CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
 Sulfathiazole	O=S(=O)(Nc1nccs1)c2ccc(N)cc2
 Thallium azide	[Tl+].[N-]=[N+]=[N-]
-Hypoglycin	O=C(O)[C@@H](N)C[C@@H]1C(=C)C1
+Hypoglycin A	O=C(O)[C@@H](N)C[C@@H]1C(=C)C1
 Bifluoride	F[H][F-]
 Gliclazide	O=S(=O)(c1ccc(cc1)C)NC(=O)NN3CC2CCCC2C3
 Titanium(III) oxide	O=[Ti]O[Ti]=O
@@ -6333,7 +6333,6 @@ Decene	CCCCCCCCC=C
 Norpatchoulenol	C[C@]31CCC2CC3/C=C\CC1(O)C2(C)C
 3-Allylfentanyl	O=C(N(c1ccccc1)[C@@H]3CCN(CCc2ccccc2)C[C@@H]3C\C=C)CC
 Picenadol	OC1=CC=CC([C@@]2(CCN(C[C@@H]2C)C)CCC)=C1
-Clonitazene	[O-][N+](=O)c3ccc1c(nc(n1CCN(CC)CC)Cc2ccc(Cl)cc2)c3
 DIMBOA	ON(C1=CC=C(OC)C=C1OC2O)C2=O
 Phenaridine	O=C(N(c1ccccc1)C3CC(N(CCc2ccccc2)CC3C)C)CC
 Beta-Methylfentanyl	O=C(N(c1ccccc1)C3CCN(CC(c2ccccc2)C)CC3)CC
