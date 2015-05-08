@@ -2820,7 +2820,7 @@ Brilliant Black BN	CC(=O)NC1=C2C(=C(C=C1)S(=O)(=O)[O-])C=C(C(=NNC3=C4C=C(C=CC4=C
 Black 7984	[O-]S(C(C=C4)=CC=C4/N=N/C(C=C2)=C3C(C=C(S([O-])(=O)=O)C=C3)=C2/N=N/C1=C(S([O-])(=O)=O)C=C(C=C(S([O-])(=O)=O)C(N)=C5)C5=C1O)(=O)=O.[Na+].[Na+].[Na+].[Na+]
 Lithol Rubine BK	[Ca+2].[O-]S(=O)(=O)c3cc(C)ccc3/N=N/c1c2ccccc2cc(C([O-])=O)c1O
 2C-TFM	FC(F)(C1=C(OC)C=C(CCN)C(OC)=C1)F
-Iloprost	O=C(O)CCC/C=C1/C[C@@H]2C(/C=C/[C@@H](O)C(C)CC#CC)[C@H](O)C[C@@H]2C1
+Iloprost	CC#CCC(C)[C@@H](/C=C/[C@H]1[C@@H](C[C@H]2[C@@H]1C/C(=C/CCCC(=O)O)/C2)O)O
 Nikethamide	O=C(N(CC)CC)c1cccnc1
 Nerolidol	OC(\C=C)(CCC=C(CC/C=C(\C)C)C)C
 Nerolidol	OC(\C=C)(CC\C=C(/CC/C=C(\C)C)C)C
@@ -3233,7 +3233,6 @@ Oxybutynin	O=C(OCC#CCN(CC)CC)C(O)(c1ccccc1)C2CCCCC2
 Lenthionine	C1SSCSSS1
 Diallyl disulfide	S(SC\C=C)C\C=C
 Octyl acetate	O=C(OCCCCCCCC)C
-Dermatan sulfate	[O-]C(=O)[C@@H]2O[C@@H](O[C@H]1[C@@H](OS([O-])(=O)=O)[C@H](O[C@@H](O)[C@@H]1NC(=O)C)CO)[C@H](O)[C@@H](O)[C@@H]2O
 Potassium 2-ethylhexanoate	[K+].[O-]C(=O)C(CC)CCCC
 Pyridoxal	O=Cc1c(cnc(c1O)C)CO
 Furoxan	[O-][N+]1=CC=NO1
@@ -4012,7 +4011,7 @@ Galactosamine	O[C@H]1[C@@H](O)[C@H](OC(O)[C@@H]1N)CO
 Diethylzinc	CC[Zn]CC
 Crotonaldehyde	O=C/C=C/C
 Crotyl alcohol	C\C=C\CO
-Arbidol	CCOC(=O)c1c(n(c2c1c(c(c(c2)Br)O)CN(C)C)C)CSc3ccccc3
+Umifenovir	CCOC(=O)c1c(n(c2c1c(c(c(c2)Br)O)CN(C)C)C)CSc3ccccc3
 Methacrolein	O=CC(=C)C
 Tolfenamic acid	Clc2cccc(Nc1ccccc1C(=O)O)c2C
 Diphenylmethane	c1c(cccc1)Cc2ccccc2
@@ -5847,6 +5846,7 @@ Morinamide	C1COCCN1CNC(=O)C2=NC=CN=C2
 Hernandulcin	CC1=CC(=O)[C@@H](CC1)[C@](C)(CCC=C(C)C)O
 Hydroxymethyl	[CH2]O
 Dibenzo-18-crown-6	O1c3c(OCCOCCOc2ccccc2OCCOCC1)cccc3
+Triflusal	CC(=O)Oc1cc(ccc1C(=O)O)C(F)(F)F
 Picotamide	O=C(NCc1cccnc1)c3cc(C(=O)NCc2cccnc2)c(OC)cc3
 Indobufen	O=C(O)C(c1ccc(cc1)N3C(=O)c2ccccc2C3)CC
 Cloricromen	O=C(OCC)COc2ccc\1c(OC(=O)/C(=C/1C)CCN(CC)CC)c2Cl
@@ -13273,3 +13273,4 @@ Anabaseine	C1CCC(=NC1)c1cccnc1
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Ammonium pertechnetate	O[Tc](=O)(=O)=O
 Echinenone	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
+Molybdenum(IV) telluride	[Te]=[Mo]=[Te]
