@@ -17,6 +17,7 @@ Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
 Carbon dioxide	O=C=O
 Cyanide	[C-]#N
+Carbonate	C(=O)([O-])[O-]
 Cytosine	c1cnc(=O)[nH]c1N
 Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
@@ -1742,7 +1743,7 @@ Samandarin	O[C@H]5C[C@@H]2[C@](C)(CC[C@@H]1[C@@]3(C)[C@@H]4CN[C@H](C[C@H]3CC[C@H
 Etorphine	O[C@](C)(CCC)[C@H]6C[C@]53\C=C/[C@]6(OC)[C@@H]4Oc1c2c(ccc1O)C[C@H]5N(CC[C@@]234)C
 Raloxifene	O=C(c1c3ccc(O)cc3sc1c2ccc(O)cc2)c5ccc(OCCN4CCCCC4)cc5
 Zoledronic acid	O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O
-Platelet-activating factor	CCCCCCCCCCCCCCCCOCC(OCP(=O)([O-])OCC[N+](C)(C)C)OC(=O)C
+Platelet-activating factor	CCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)C
 Stibine	[Sb]
 Decalin	C1CCC2CCCCC2C1
 Raffinose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O)O)O)O
@@ -12474,7 +12475,7 @@ Molybdenum diselenide	[Se]=[Mo]=[Se]
 2-Carbomethoxytropinone	CN1[C@H]2CC[C@@H]1[C@H](C(=O)C2)C(=O)OC
 3-O-Methyldopa	COC1=C(C=CC(=C1)C[C@@H](C(=O)O)N)O
 Flubromazepam	BrC1=CC(C(C2=CC=CC=C2F)=NC3)=C(C=C1)NC3=O
-Ganodermanontriol	C[C@H](CC[C@@H](C(C)(CO)O)O)[C@H]1CC[C@@]2([C@@]1(CC=C3C2=CC[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)C)C
+Ganodermanontriol	C[C@@H]([C@@H]1[C@@]2([C@](C3=CC[C@@H]4[C@@](C3=CC2)(CCC(=O)[C@]4(C)C)C)(CC1)C)C)CC[C@H](O)[C@](O)(CO)C
 Lucidadiol	C[C@H](CC/C=C(\C)/CO)[C@H]1CC[C@@]2([C@@]1(CCC3=C2C(=O)C[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Ganodermadiol	C[C@H](CC/C=C(\C)/CO)[C@@H]1CC[C@@]2([C@@]1(CC=C3C2=CCC4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Laurdan	CCCCCCCCCCCC(=O)c1ccc2cc(ccc2c1)N(C)C
@@ -13274,3 +13275,4 @@ NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Ammonium pertechnetate	O[Tc](=O)(=O)=O
 Echinenone	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
 Molybdenum(IV) telluride	[Te]=[Mo]=[Te]
+Fluorotriiodomethane	C(F)(I)(I)I
