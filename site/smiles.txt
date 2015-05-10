@@ -3951,6 +3951,7 @@ Samarium(III) oxide	[Sm+3].[Sm+3].[O-2].[O-2].[O-2]
 Samarium(III) sulfide	[S-2].[S-2].[S-2].[Sm+3].[Sm+3]
 Tin(II) bromide	Br[Sn]Br
 Aluminium carbide	[Al+3].[Al+3].[Al+3].[Al+3].[C-4].[C-4].[C-4]
+Octadecyltrichlorosilane	CCCCCCCCCCCCCCCCCC[Si](Cl)(Cl)Cl
 Carbinoxamine	Clc1ccc(cc1)C(OCCN(C)C)c2ncccc2
 Ammonium aluminium sulfate	[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
 Imidazolidine	N1CCNC1
@@ -9942,7 +9943,7 @@ Englitazone	O=C1NC(=O)SC1Cc4ccc3OC(Cc2ccccc2)CCc3c4
 Azacyclonol	OC(c1ccccc1)(c2ccccc2)C3CCNCC3
 4-MeO-PCP	COc1ccc(cc1)C2(CCCCC2)N3CCCCC3
 Phencyclamine	N(CCC)C2(c1ccccc1)CCCCC2
-Benzomorphan	C1CNC2CC1C3=CC=CC=C3C
+Benzomorphan	C1CNC2CC1C3=CC=CC=C3C2
 Benzazocine	c1cccc2\C=C/N=C\C=C/c12
 Dextrallorphan	Oc1ccc3c(c1)[C@]24[C@@H]([C@H](N(CC2)C\C=C)C3)CCCC4
 Amflutizole	FC(F)(F)c1cccc(c1)c2nsc(c2N)C(=O)O
@@ -11807,7 +11808,7 @@ Iron(II) molybdate	[O-][Mo](=O)(=O)[O-].[Fe+2]
 Zebularine	O=C1/N=C\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
 Isofraxidin	O=C/2Oc1c(OC)c(O)c(OC)cc1\C=C\2
 1-Octanol	CCCCCCCCO
-Ziram	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]--
+Ziram	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]
 Iron(II) selenide	[Fe]=[Se]
 Iron(II) iodide	[Fe+2].[I-].[I-]
 Aspergillic acid	CCC(C)C1=CN=C(C(=O)N1O)CC(C)C
@@ -12818,7 +12819,7 @@ Clitocine	C1=NC(=C(C(=N1)N[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)[N+](=O)[O-])N
 2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	C([C@@H]1[C@H]([C@H]([C@@H](O1)NC2=C(C(=O)N=C(N2)N)NC=O)O)O)OP(=O)(O)O
 Digitalose	O=C[C@H](O)[C@@H](OC)[C@@H](O)[C@H](O)C
 Plakoridine A	O=C(/C=C2/N(CCc1ccc(O)cc1)[C@H]([C@H](C(=O)OC)[C@H]2O)CCC)CCCCCCCCCCCCCCCC
-Benz(e)acephenanthrylene	C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2
+Benz(e)acephenanthrylene	C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1
 Berkeleytrione	C[C@]12CC=C3[C@]([C@@H]1C[C@@]4(C(=C)[C@]2(C(=O)[C@@](C4=O)(C)O)C(=O)OC)C)([C@@H](CC(=O)C3(C)C)O)C
 9-Deacetoxyfumigaclavine C	[H][C@@]12CC3=C(NC4=C3C(=CC=C4)[C@@]1([H])C[C@@H](C)CN2C)C(C)(C)C=C
 1,1,1-Trichloro-2,2,2-trifluoroethane	FC(F)(F)C(Cl)(Cl)Cl
@@ -13276,3 +13277,4 @@ Ammonium pertechnetate	O[Tc](=O)(=O)=O
 Echinenone	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
 Molybdenum(IV) telluride	[Te]=[Mo]=[Te]
 Fluorotriiodomethane	C(F)(I)(I)I
+Bromochlorofluoromethane	C(F)(Cl)Br
