@@ -8000,7 +8000,7 @@ Sapacitabine	CCCCCCCCCCCCCCCC(=O)NC1=NC(=O)N(C=C1)[C@H]2[C@H]([C@@H]([C@H](O2)CO
 Prednimustine	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCCc4ccc(cc4)N(CCCl)CCCl)O)CCC5=CC(=O)C=C[C@]35C)O
 Triaziquone	C1CN1C2=CC(=O)C(=C(C2=O)N3CC3)N4CC4
 Carboquone	O=C(OCC(OC)C=1C(=O)\C(=C(/C(=O)C=1N2CC2)C)N3CC3)N
-Semustine	CC1CCC(NC(=O)N(C=O)CCCl)CC1
+Semustine	CC1CCC(CC1)NC(=O)N(CCCl)N=O
 Etoglucid	O(CCOCCOCC1OC1)CCOCC2OC2
 Demecolcine	O=C/1C(\OC)=C/C=C2\C(=C\1)[C@@H](NC)CCc3c2c(OC)c(OC)c(OC)c3
 Lonidamine	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)O
@@ -8340,6 +8340,7 @@ Dexelvucitabine	F\C1=C\N(C(=O)\N=C1\N)[C@@H]/2O[C@@H](\C=C\2)CO
 Alisporivir	O=C1N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N(C)[C@@H](C(=O)N(CC)[C@H]1C(C)C)C)CC)[C@H](O)[C@H](C)C/C=C/C)C)C(C)C)CC(C)C)CC(C)C)C)C)CC(C)C)C(C)C
 Acetyl bromide	BrC(=O)C
 Tolciclate	Cc1cccc(c1)N(C)C(=S)Oc2ccc3c(c2)C4CCC3C4
+Dimazole	CCN(CC)CCOc1ccc2c(c1)sc(n2)N(C)C
 Sulbentine	c1ccc(cc1)CN2CN(C(=S)SC2)Cc3ccccc3
 Ticlatone	c1cc2c(cc1Cl)s[nH]c2=O
 Bromochlorosalicylanilide	Brc2cc(C(=O)Nc1ccc(Cl)cc1)c(O)cc2
@@ -9128,6 +9129,7 @@ Techtochrysin	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC=CC=C3)O
 Rhoifolin	O=C\4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)cc5O/C(c3ccc(O)cc3)=C/4
 Neohesperidose	O([C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O)[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
 Tetronal	CCC(CC)(S(=O)(=O)CC)S(=O)(=O)CC
+Daidzin	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O
 Daidzin	O=C3c4ccc(OC1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)cc4O/C=C3/c2ccc(O)cc2
 Biochanin A	O=C\1c3c(O/C=C/1c2ccc(OC)cc2)cc(O)cc3O
 DS-1 (drug)	s4cccc4-c2nc1c(Br)cc(Br)cn1c2NC(=O)c(cc3)ccc3Cl
@@ -9435,6 +9437,7 @@ Potassium hydrogenoxalate	[K+].[O-]C(=O)C(=O)O
 Mifamurtide	CCCCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCCNC(=O)[C@H](C)NC(=O)CC[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]1C(O)[C@@H](CO)O[C@@H](O)[C@@H]1NC(C)=O)C(N)=O)OC(=O)CCCCCCCCCCCCCCC
 Quinolizidine	C1CCN2CCCCC2C1
 Kasugamycin	OC(=O)C(=N)N[C@H]2C[C@H](N)[C@@H](O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O)O[C@@H]2C
+Dioxosuccinic acid	C(=O)(C(=O)C(=O)O)C(=O)O
 Harmane	CC1=NC=CC2=C1NC3=CC=CC=C23
 Ravuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=C(C=C4)F)F)O
 Albaconazole	Fc1ccc(c(F)c1)[C@](O)([C@H](N3\C=N/c2cc(Cl)ccc2C3=O)C)Cn4ncnc4
@@ -11223,7 +11226,7 @@ PF-514273	O=C1N(CC(F)(C)F)CCOc2c1nn(c2-c(cc4)ccc4Cl)-c3ccccc3Cl
 AM-6545	O=S4(=O)CCN(CC4)NC(=O)c1nn(-c2ccc(Cl)cc2Cl)c(c1C)-c3ccc(C#CCCC#N)cc3
 HOCPCA	C1CC(=CC1O)C(=O)O
 CTEP	FC(F)(F)Oc3ccc(n2c(c(C#Cc1ccnc(Cl)c1)nc2C)C)cc3
-PD-217,014	COC(=O)CC2(CN)CC1CCC1C2
+PD-217,014	C2C1CCC1CC2(CN)CC(O)=O
 Oxamyl	O=C(C(=NOC(=O)NC)SC)N(C)C
 AM-2389	OC1=C([C@@H]2C[C@@H](CC[C@H]2C(C)(O3)C)O)C3=CC(C4(CCC4)CCCCCC)=C1
 Joro toxin	O=C(NCCCCCNC(=O)[C@@H](NC(=O)Cc1ccc(O)cc1O)CC(=O)N)CCNCCCCNCCCN
