@@ -15,7 +15,6 @@ Amygdalin	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3OC[C@H]2O[C@@H](OC(C#N)c1ccc
 Boron nitride	B#N
 Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
-Carbon dioxide	O=C=O
 Cyanide	[C-]#N
 Carbonate	C(=O)([O-])[O-]
 Cytosine	c1cnc(=O)[nH]c1N
@@ -13281,3 +13280,4 @@ Argpyrimidine	O=C([C@@H](C)CCCNC1=NC(C)=C(O)C(C)=N1)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
 Roxadustat	CC1=C2C=C(C=CC2=C(C(=N1)C(=O)NCC(=O)O)O)OC3=CC=CC=C3
+Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
