@@ -15,6 +15,7 @@ Amygdalin	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3OC[C@H]2O[C@@H](OC(C#N)c1ccc
 Boron nitride	B#N
 Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
+Carbon dioxide	O=C=O
 Cyanide	[C-]#N
 Carbonate	C(=O)([O-])[O-]
 Cytosine	c1cnc(=O)[nH]c1N
@@ -143,6 +144,7 @@ Folic acid	O=C(N[C@H](C(O)=O)CCC(O)=O)C1=CC=C(NCC2=NC(C(NC(N)=N3)=O)=C3N=C2)C=C1
 Biotin	O=C1N[C@@H]2[C@@H](SC[C@@H]2N1)CCCCC(=O)O
 Sodium dodecyl sulfate	CCCCCCCCCCCCOS(=O)([O-])=O.[Na+]
 Citric acid	OC(=O)CC(O)(C(=O)O)CC(=O)O
+Buckminsterfullerene	c12c3c4c5c1c6c7c8c2c9c1c3c2c3c4c4c%10c5c5c6c6c7c7c%11c8c9c8c9c1c2c1c2c3c4c3c4c%10c5c5c6c6c7c7c%11c8c8c9c1c1c2c3c2c4c5c6c3c7c8c1c23
 Acrylamide	C=CC(=O)N
 Sorbitol	OC([C@H](O)[C@@H](O)[C@H](O)CO)CO
 Galactose	O[C@H]1[C@@H](O)[C@H](O[C@H](O)[C@@H]1O)CO
@@ -6352,7 +6354,7 @@ Lactaldehyde	O=CC(O)C
 Benzocyclobutadiene	C12=CC=CC=C1C=C2
 1,3-Dimethyl-2-imidazolidinone	CN1CCN(C1=O)C
 Alprenolol	O(c1ccccc1C\C=C)CC(O)CNC(C)C
-N-Formylmethionine leucyl-phenylalanine	OC(=O)C(NC=O)CCSC.CC(C)CC(N)C(=O)NC(Cc1ccccc1)C(O)=O
+N-Formylmethionine-leucyl-phenylalanine	OC(=O)C(NC=O)CCSC.CC(C)CC(N)C(=O)NC(Cc1ccccc1)C(O)=O
 DADLE	N[C@H](C(N[C@H](C)C(NCC(N[C@@H](CC1=CC=CC=C1)C(N[C@H](CC(C)C)C(O)=O)=O)=O)=O)=O)CC2=CC=C(O)C=C2
 Aloin	c1cc2c(c(c1)O)C(=O)c3c(cc(cc3O)CO)[C@H]2[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Tetrahydroisoquinoline	c1ccc2c(c1)CCNC2
@@ -13281,3 +13283,5 @@ Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
 Roxadustat	CC1=C2C=C(C=CC2=C(C(=N1)C(=O)NCC(=O)O)O)OC3=CC=CC=C3
 Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
+Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
+Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
