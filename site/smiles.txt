@@ -6320,7 +6320,6 @@ Phenyl isothiocyanate	C1=CC=C(C=C1)N=C=S
 Fluorenylmethyloxycarbonyl chloride	ClC(=O)OCC3c1ccccc1c2c3cccc2
 Sameridine	O=C(N(CC)C)C2(c1ccccc1)CCN(CCCCCC)CC2
 Semorphone	O=C4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)CCOC
-Carperidine	O=C(OCC)C2(c1ccccc1)CCN(CCC(=O)N)CC2
 PEPAP	O=C(C)OC1(CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 Difenoxin	C(CCN1CCC(CC1)(C(O)=O)C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C#N
 Levuglandin	CCCCCC(C=CC(C(CC=CCCCC(=O)O)C=O)C(=O)C)O
@@ -13285,3 +13284,5 @@ Roxadustat	CC1=C2C=C(C=CC2=C(C(=N1)C(=O)NCC(=O)O)O)OC3=CC=CC=C3
 Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
+2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
+2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
