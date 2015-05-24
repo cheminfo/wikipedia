@@ -12684,7 +12684,6 @@ Ungeremine	C1C[N+]2=CC3=CC4=C(C=C3C5=CC(=CC1=C52)O)OCO4
 1,2-Diiodoethane	C(CI)I
 Azastene	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC=C4[C@@]3(CC5=C(C4(C)C)ON=C5)C
 Benorterone	C[C@]12CCC(=O)C=C1C[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C
-Bolmantalate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C45CC6CC(C4)CC(C6)C5)CCC7=CC(=O)CC[C@H]37
 Cloxotestosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(C(Cl)(Cl)Cl)O)CCC4=CC(=O)CC[C@]34C
 Delanterone	C[C@H]1CC(=O)C=C2[C@]1([C@H]3CC[C@@]4(C=CC[C@H]4[C@@H]3CC2)C)C
 Epostane	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@]45[C@@]3(CC(=C([C@]4(O5)C)O)C#N)C
@@ -13179,6 +13178,7 @@ Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H
 Endomorphin-2	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)N
 Naltalimide	c1ccc2c(c1)C(=O)N(C2=O)[C@@H]3CC[C@]4([C@H]5Cc6ccc(c7c6[C@]4([C@H]3O7)CCN5CC8CC8)O)O
 Nexeridine	CC(CN(C)C)C1(CCCCC1C2=CC=CC=C2)OC(=O)C
+Androstadienol	CC12CCC3C(C1CC=C2)CC=C4C3(CCC(C4)O)C
 Ralfinamide	C[C@@H](C(=O)N)NCc1ccc(cc1)OCc2ccccc2F
 Leconotide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](C=S)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](C=S)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](C=S)NC(=O)[C@H](CS)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CS)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CS)N
 Haloprogesterone	CC(=O)[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)F)C)Br
@@ -13288,3 +13288,4 @@ Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
+Lemborexant	CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
