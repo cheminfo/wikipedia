@@ -4728,7 +4728,7 @@ Bromobenzyl cyanide	C1=CC=C(C=C1)C(C#N)Br
 Phenformin	N(=C(/N=C(\N)N)N)\CCc1ccccc1
 (E)-4-Hydroxy-3-methyl-but-2-enyl pyrophosphate	O=P(OP(=O)(O)O)(OC/C=C(/CO)C)O
 (E)-4-Hydroxy-3-methyl-but-2-enyl pyrophosphate	CC(=CCOP(=O)([O-])OP(=O)([O-])[O-])CO
-Glycerol 3-phosphate	O=P(O)(OCC(O)CO)O
+Glycerol 3-phosphate	C([C@H](COP(=O)(O)O)O)O
 Fluoroboric acid	F[B](F)(F)[FH]
 Fluoroboric acid	[H+].[F--].F[B+](F)F
 PAC-1	C=CCc3cccc(/C=N\NC(=O)CN2CCN(Cc1ccccc1)CC2)c3O
@@ -7727,6 +7727,7 @@ Beta-Naphthoflavone	O=C\1c3c(O/C(=C/1)c2ccccc2)ccc4c3cccc4
 Alcian yellow	Cc1cc2c(cc1CSC(=[N+](C)C)N(C)C)nc(s2)c3ccc(cc3)/N=N/c4ccc(cc4)c5nc6cc(c(cc6s5)C)CSC(=[N+](C)C)N(C)C
 Combretastatin A-4	COC1=C(C=C(C=C1)C=CC2=CC(=C(C(=C2)OC)OC)OC)O
 Arbekacin	O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@H](O)[C@H](O[C@H]2O[C@H](CN)CC[C@H]2N)[C@@H](N)C3)[C@@H](O)CCN
+Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
 Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
@@ -12142,6 +12143,7 @@ Compound NJ2	Oc6ccc(cc6O)C7Oc(c5CC7O)c4c(C(=O)O)c(c(cc1O)[o+]c4cc5O)c(c1CC2O)OC2
 2,6-Dimethylnaphthalene	Cc1ccc2cc(ccc2c1)C
 8,5'-Diferulic acid	O=C(O)\C=C\c1cc(OC)c(O)c(c1)/C(=C\c2ccc(O)c(OC)c2)C(=O)O
 Decarboxylated 8,5'-diferulic acid	Oc2c(OC)cc(\C=C\C(O)=O)cc2\C=C\c(cc1OC)ccc1O
+Dichloroacetylene	C(#CCl)Cl
 Neoeriocitrin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O
 Eriocitrin	Oc1ccc(cc1O)[C@H]3Cc2cc(cc(O)c2C(=O)C3)O[C@@H]5O[C@H](CO[C@@H]4O[C@@H](O)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]5O
 Narirutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)O)O)O)O)O)O
