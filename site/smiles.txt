@@ -1896,6 +1896,7 @@ Chlorine monofluoride	ClF
 Fluticasone propionate	O=C(SCF)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C
 Ecamsule	O=S(=O)(O)CC45C(=O)\C(=C/c1ccc(cc1)/C=C2\C(=O)C3(CCC2C3(C)C)CS(=O)(=O)O)C(CC4)C5(C)C
 Caesium chloride	[Cs+].[Cl-]
+Palladium(II) chloride	Cl[Pd]Cl
 Arsenic trioxide	O1[As]2O[As]1O2
 Antimony trioxide	O=[Sb]O[Sb]=O
 Brefeldin A	O=C/1O[C@H](CCC/C=C/[C@H]2[C@H]([C@H](O)/C=C\1)C[C@@H](O)C2)C
@@ -13296,3 +13297,4 @@ ADX-71149	COC1=CC=C(C=C1)C2=CN(C(=O)C=C2)CC3=C(C=C(C=C3)Cl)F
 Modimelanotide	CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](Cc6ccc(cc6)O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)C
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
+3'-hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
