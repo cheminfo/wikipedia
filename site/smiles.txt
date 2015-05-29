@@ -89,7 +89,6 @@ Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
-Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
 Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
@@ -1452,7 +1451,6 @@ Piperazine	C1CNCCN1
 Pirolazamide	O=C(N)C(c1ccccc1)(c2ccccc2)CCN4CC3N(CCC3)CC4
 BINAP	c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c6ccccc6ccc5P(c7ccccc7)c8ccccc8
 HU-210	CC(CCCCCC)(C1CC2OC(C)([C@H]3CCC(CO)=C[C@@H]3C2C(C1)O)C)C
-Pepto-Bismol	C1=CC=C2C(=C1)C(=O)O[Bi](O2)O
 Forskolin	CC(=O)O[C@H]1[C@H]([C@@H]2[C@]([C@H](CCC2(C)C)O)([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O
 Fingolimod	OCC(N)(CCc1ccc(cc1)CCCCCCCC)CO
 Nonylphenol	Oc1ccccc1CCCCCCCCC
@@ -2580,7 +2578,7 @@ Endosulfan	Cl[C@@]3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@H]2[C@@H2]OS(=O)O[C@@H
 Triacetin	CC(=O)OC(COC(=O)C)COC(C)=O
 Calcium acetate	[Ca+2].[O-]C(=O)C.[O-]C(=O)C
 Chromium(II) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
-Metamizole	[OH]S(=O)(=O)CN(C=2C(=O)N(c1ccccc1)N(C=2C)C)C
+Metamizole	Cc1c(c(=O)n(n1C)c2ccccc2)N(C)CS(=O)(=O)O
 Butyl acetate	CCCCOC(=O)C
 Rhodamine B	CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-]
 Propylparaben	O=C(OCCC)c1ccc(O)cc1
