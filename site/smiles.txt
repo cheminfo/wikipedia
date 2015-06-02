@@ -89,6 +89,7 @@ Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
+Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
 Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
@@ -12031,7 +12032,7 @@ QUPIC	CCCCCN1C=C(C2=CC=CC=C21)C(=O)OC3=CC=CC4=C3N=CC=C4
 QUCHIC	C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5
 5F-PB-22	C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
-Copper(III) oxide	[O-2].[O-2].[O-2].[Cu].[Cu]
+Copper(III) oxide	[O-2].[O-2].[O-2].[Cu+3].[Cu+3]
 Barium hypochlorite	[O-]Cl.[O-]Cl.[Ba+2]
 Pencycuron	Clc1ccc(cc1)CN(C(=O)Nc2ccccc2)C3CCCC3
 1,6-Digalloyl glucose	C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
