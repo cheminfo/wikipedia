@@ -4008,7 +4008,6 @@ Galactosamine	O[C@H]1[C@@H](O)[C@H](OC(O)[C@@H]1N)CO
 Diethylzinc	CC[Zn]CC
 Crotonaldehyde	O=C/C=C/C
 Crotyl alcohol	C\C=C\CO
-Umifenovir	CCOC(=O)c1c(n(c2c1c(c(c(c2)Br)O)CN(C)C)C)CSc3ccccc3
 Methacrolein	O=CC(=C)C
 Tolfenamic acid	Clc2cccc(Nc1ccccc1C(=O)O)c2C
 Diphenylmethane	c1c(cccc1)Cc2ccccc2
@@ -4684,8 +4683,7 @@ Pentaethylene glycol monododecyl ether	O(CCO)CCOCCOCCOCCOCCCCCCCCCCCC
 Muramyl dipeptide	O=C(N)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O[C@H]1[C@H](O)[C@H](OC(O)[C@@H]1NC(=O)C)CO)C)C)CCC(=O)O
 Trabectedin	CC(=O)Oc1c5c(c2OCOc2c1C)[C@@H]6COC(=O)[C@@]4(NCCc3cc(O)c(OC)cc34)CCS[C@H]5[C@@H]9N6[C@@H](O)[C@@H]8Cc7cc(C)c(OC)c(O)c7[C@H]9N8C
 Tetralin	c1ccc2c(c1)CCCC2
-Phenazepam	Clc1ccccc1C1=c2cc(Br)ccc2=NC(=O)CN1
-Phenazepam	ClC1=C(C(C2=C(N3)C=CC(Br)=C2)=NCC3=O)C=CC=C1
+Phenazepam	c1ccc(c(c1)C2=NCC(=O)Nc3c2cc(cc3)Br)Cl
 Dibenzothiophene	c1ccc2c(c1)c3ccccc3s2
 Diphenyl ditelluride	C1([Te][Te]C2=CC=CC=C2)=CC=CC=C1
 Lactacystin	CC(C)C(O)C1(NC(=O)C(C)C1O)C(=O)SCC(NC(C)=O)C(O)=O
@@ -7881,6 +7879,7 @@ Tabimorelin	c3c1ccccc1ccc3CC(N(C)C(=O)C=CCC(N)(C)C)C(=O)N(C)C(C(=O)NC)Cc2ccccc2
 Heptadecanoic acid	O=C(O)CCCCCCCCCCCCCCCC
 J-113,397	C4CCCCCCC4CN(CC1CO)CCC1n3c2ccccc2n(CC)c3=O
 SB-612,111	CC1=CC=CC2=C1CC[C@@H](C[C@@H]2O)CN3CCC(CC3)C4=C(C=CC=C4Cl)Cl
+Cetyl myristoleate	CCCCCCCCCCCCCCCCOC(=O)CCCCCCC/C=C\CCCC
 Carmofur	CCCCCCNC(=O)N1C=C(C(=O)NC1=O)F
 Tylosin	CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)O)N(C)C)O)CC=O)C)\C)CO[C@H]4[C@@H]([C@@H]([C@@H]([C@H](O4)C)O)OC)OC
 Mitemcinal	C[C@H](C([C@@](OC)(C)[C@@H](CC)OC2=O)=O)C1=C(C)C[C@@]([C@H](O[C@@]3([H])[C@H](O)[C@@H](N(C)C(C)C)C[C@@H](C)O3)[C@H]([C@H](O[C@]4([H])O[C@@H](C)[C@H](O)[C@@](OC)(C)C4)[C@H]2C)C)(C)O1
