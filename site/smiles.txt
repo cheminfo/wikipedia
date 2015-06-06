@@ -2841,7 +2841,6 @@ Ethylisopropyltryptamine	CC(C)N(CC)CC\C2=C\Nc1ccc(cc12)OC
 2,4,5-trimethoxyphenethylamine	O(c1cc(c(OC)cc1OC)CCN)C
 Elemicin	C=CCC1=CC(OC)=C(OC)C(OC)=C1
 2C-O-4	CC(C)Oc1cc(OC)c(cc1OC)CCN
-Lophophine	O1c2cc(cc(OC)c2OC1)CCN
 Muscone	C[C@@H]1CCCCCCCCCCCCC(=O)C1
 Antimony pentafluoride	F[Sb](F)(F)(F)F
 Dicalcium phosphate	O.O.OP(=O)([O-])[O-].[Ca+2]
@@ -11816,7 +11815,7 @@ Cobalt(II) formate	C(=O)[O-].C(=O)[O-].[Co+2]
 Nickel(II) titanate	[O-2].[O-2].[O-2].[Ti+4].[Ni+2]
 Nickel(II) nitrite	N(=O)[O-].N(=O)[O-].[Ni+2]
 EAM-2201	CCc4c2ccccc2c(cc4)C(=O)c(cn1CCCCCF)c3c1cccc3
-SDB-001	CCCCCn2c1ccccc1c(c2)C(=O)NC45CC3CC(C4)CC(C5)C3
+APICA (synthetic cannabinoid drug)	CCCCCn2c1ccccc1c(c2)C(=O)NC45CC3CC(C4)CC(C5)C3
 Fluorodopa	C1=C(C(=CC(=C1O)O)F)C[C@@H](C(=O)O)N
 Cyanoacetamide	N#CCC(=O)N
 Tetramethylammonium	C[N+](C)(CC)
@@ -12025,7 +12024,7 @@ Ustalic acid	O=C(O)C(=C2OCOC2=C(c1ccccc1)C(O)=O)c3ccccc3
 Arboreol	O[C@@]43CO[C@H](C4CO[C@]3(O)c1ccc2OCOc2c1)c5ccc6OCOc6c5
 Gummadiol	O[C@@H]5O[C@H](c1ccc2OCOc2c1)[C@@]6(O)CO[C@H](c3ccc4OCOc4c3)[C@@H]56
 Prosopine	CC(CCCCCCCCCCC1CCC(C(N1)CO)O)O
-QUPIC	CCCCCN1C=C(C2=CC=CC=C21)C(=O)OC3=CC=CC4=C3N=CC=C4
+PB-22	CCCCCN1C=C(C2=CC=CC=C21)C(=O)OC3=CC=CC4=C3N=CC=C4
 QUCHIC	C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5
 5F-PB-22	C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
