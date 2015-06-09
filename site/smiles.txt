@@ -63,6 +63,7 @@ Nitrate	[N+](=O)([O-])[O-]
 Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
+Nitronium ion	O=[N+]=O
 Ozone	[O]O[O]
 Ozone	[O-][O+]=O
 Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
@@ -135,6 +136,7 @@ Xanthine	c1[nH]c2c(n1)nc(nc2O)O
 7-Dehydrocholesterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Cysteine	C(C(C(=O)O)N)S
 Cysteine	C([C@@H](C(=O)O)N)S
+Acetylcholine	CC(=O)OCC[N+](C)(C)C
 Sodium cyanide	[C-]#N.[Na+]
 Pantothenic acid	CC(C)(CO)C(C(=O)NCCC(=O)O)O
 Pantothenic acid	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O
@@ -5297,6 +5299,7 @@ Propylamphetamine	NC(C)Cc1ccccc1CCC
 Naphthylaminopropane	CC(N)Cc2ccc1ccccc1c2
 Palladium(II) acetylacetonate	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
 Phenadoxone	O=C(C(c1ccccc1)(c2ccccc2)CC(N3CCOCC3)C)CC
+Helium hydride ion	[HeH+]
 Benzylmorphine	O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OCc3ccccc3)ccc4C5)C
 Para-Cresidine	CC1=CC(=C(C=C1)OC)N
 3-Methylfentanyl	CC(C1)C(N(C(CC)=O)C2=CC=CC=C2)CCN1CCC3=CC=CC=C3
@@ -6053,7 +6056,6 @@ Paraoxon	[O-][N+](=O)c1ccc(OP(=O)(OCC)OCC)cc1
 Dapiprazole	n1nc(n2c1CCCC2)CCN4CCN(c3ccccc3C)CC4
 2-Nonenal	O=C/C=C/CCCCCC
 Dezocine	OC1=CC=C2C([C@]3(CCCCC[C@](C2)([H])[C@@]3([H])N)C)=C1
-Lacidipine	CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2/C=C/C(=O)OC(C)(C)C)C(=O)OCC)C)C
 RS-67,333	C(CCC1CCN(CC1)CCCC)(=O)c1c(cc(c(c1)Cl)N)OC
 Metitepine	CN1CCN(CC1)C2Cc3ccccc3Sc4c2cc(cc4)SC
 Metergoline	O=C(OCc1ccccc1)NC[C@@H]3C[C@@H]4c5cccc2c5c(cn2C)C[C@H]4N(C3)C
