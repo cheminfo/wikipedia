@@ -169,7 +169,6 @@ Aconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[
 Aconitine	COC[C@]12CN(C)[C@@H]3[C@H]4[C@H](OC)C1[C@@]3([C@H](C[C@H]2O)OC)[C@@H]5C[C@]6(O)[C@@H](OC)[C@H](O)[C@@]4(OC(C)=O)[C@H]5C6OC(=O)c7ccccc7
 Ferrocene	[cH-]1cccc1.[cH-]1cccc1.[Fe+2]
 Cyclopentadiene	C1C=CC=C1
-Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
 Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
@@ -451,6 +450,7 @@ Topiramate	O=S(=O)(OC[C@@]21OC(O[C@H]1[C@@H]3OC(O[C@@H]3CO2)(C)C)(C)C)N
 Bromochlorodifluoromethane	BrC(Cl)(F)F
 Methcathinone	O=C(c1ccccc1)C(NC)C
 Gallic acid	O=C(O)c1cc(O)c(O)c(O)c1
+Sulfide	[S--]
 Ammonium chloride	[Cl-].[NH4+]
 Loperamide	ClC1=CC=C(C2(CCN(CC2)CCC(C3=CC=CC=C3)(C(N(C)C)=O)C4=CC=CC=C4)O)C=C1
 Glyphosate	O=C(O)CNCP(=O)(O)O
@@ -1612,6 +1612,7 @@ Ethylmorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OCC)ccc3C4)C
 Wilkinson's catalyst	[Rh+](P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3)(P(C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6)P(C7=CC=CC=C7)(C8=CC=CC=C8)C9=CC=CC=C9.[Cl-]
 Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Quaternium-15	C1N2CN3CN1C[N+](C2)(C3)CC=CCl.[Cl-]
+Phosphonium	[PH4+]
 Oxygen difluoride	FOF
 Trimethylaluminium	C[Al](C)C
 Pseudaconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)(C[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccc(OC)c(OC)c7
@@ -1869,7 +1870,6 @@ Tin(II) chloride	Cl[Sn]Cl
 Aldicarb	O=C(O\N=C\C(SC)(C)C)NC
 Bortezomib	O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
 1,1'-Bi-2-naphthol	c1ccc2c(c1)ccc(c2c3c4ccccc4ccc3O)O
-Bismuthide	[Bi-3]
 Benzothiazole	n1c2ccccc2sc1
 Alloxan	O=C1C(=O)NC(=O)NC1=O
 Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4c(ccc5c4-c6cc(c(cc6CC5)O)O2)O)O
@@ -2235,6 +2235,7 @@ Sulforidazine	O=S(=O)(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
 Hydralazine	n2nc(c1ccccc1c2)NN
 Tobramycin	C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N
 Erlotinib	COCCOc1cc2c(cc1OCCOC)ncnc2Nc3cccc(c3)C#C
+Triiodide	I[I-]I
 Pyrazinamide	O=C(N)c1nccnc1
 5-Methyluridine	CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Sumanene	C16=C5C4=C3C2=C1C7=CC=C2CC3=CC=C4CC5=CC=C6C7
@@ -13028,6 +13029,7 @@ KN-62	CN([C@@H](CC1=CC=C(C=C1)OS(=O)(=O)C2=CC=CC3=C2C=CN=C3)C(=O)N4CCN(CC4)C5=CC
 Cyclopentadecanolide	O=C1CCCCCCCCCCCCCCO1
 Resminostat	CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)/C=C/C(=O)NO
 Liafensine	CN1C[C@H](C2=C(C1)C=C(C=C2)C3=NN=C(C=C3)N)C4=CC5=CC=CC=C5C=C4
+TIK-301	C[C@@H](CNC(=O)C)c1c[nH]c2c1cc(c(c2)Cl)OC
 Sacubitril	CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O
 Methyl 2-fluoroacrylate	COC(=O)C(=C)F
 RVX 208	CC1=CC(=CC(=C1OCCO)C)C2=NC3=C(C(=CC(=C3)OC)OC)C(=O)N2
@@ -13296,4 +13298,10 @@ Modimelanotide	CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 3'-hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
+Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
 CP-122,288	CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2C[C@H]3CCCN3C
+Arketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Cl
+Norketamine	C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N
+Dehydronorketamine	C1CC(C(=O)C=C1)(C2=CC=CC=C2Cl)N
+Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
