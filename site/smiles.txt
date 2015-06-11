@@ -901,7 +901,7 @@ Lead(II) iodide	I[Pb]I
 Cotinine	O=C2N(C)[C@H](c1cnccc1)CC2
 Phenylbutazone	O=C2N(c1ccccc1)N(C(=O)C2CCCC)c3ccccc3
 Chlorosarin	ClP(=O)(OC(C)C)C
-DCKA	C1=C(C=C2C(=C1Cl)C(=O)C=C(N2)C(=O)O)Cl
+5,7-Dichlorokynurenic acid	C1=C(C=C2C(=C1Cl)C(=O)C=C(N2)C(=O)O)Cl
 Esomeprazole	COc1ccc2nc([nH]c2c1)S(=O)Cc1ncc(C)c(OC)c1C
 Pectic acid	O=C(O)[C@H]3OC(O[C@@H]1[C@H](O)[C@@H](O)C(O[C@@H]1C(=O)O)O[C@H]2[C@H](O[C@H](O)[C@H](O)[C@H]2O)C(=O)O)[C@H](O)[C@@H](O)[C@H]3O
 Didanosine	O=C3/N=C\Nc1c3ncn1[C@@H]2O[C@@H](CC2)CO
@@ -2072,6 +2072,7 @@ Zinc acetate	[Zn+2].[O-]C(=O)C.[O-]C(=O)C
 Telluric acid	O[Te](O)(O)(O)(O)O
 Latanoprost	O=C(OC(C)C)CCC/C=C\C[C@H]2[C@@H](O)C[C@@H](O)[C@@H]2CC[C@@H](O)CCc1ccccc1
 Oxazolidinedione	O=C1NC(=O)OC1
+Polidocanol	CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
 Clofarabine	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@@H]3F)CO)N
 Phenmetrazine	CC1C(C2=CC=CC=C2)OCCN1
 Technetium(VII) oxide	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Tc+7].[Tc+7]
@@ -2848,7 +2849,7 @@ Muscone	C[C@@H]1CCCCCCCCCCCCC(=O)C1
 Antimony pentafluoride	F[Sb](F)(F)(F)F
 Dicalcium phosphate	O.O.OP(=O)([O-])[O-].[Ca+2]
 Isoproscaline	CC(C)Oc1c(cc(cc1OC)CCN)OC
-Roxatidine	O=C(OCC(=O)NCCCOc1cc(ccc1)CN2CCCCC2)C
+Roxatidine acetate	O=C(OCC(=O)NCCCOc1cc(ccc1)CN2CCCCC2)C
 2,5-Dimethoxy-4-nitroamphetamine	[O-][N+](=O)c1cc(OC)c(cc1OC)CC(N)C
 Nomifensine	NC1=CC=CC2=C1CN(C)CC2C3=CC=CC=C3
 N-Acetylglutamic acid	CC(=O)NC(CCC(O)=O)C(O)=O
@@ -5508,7 +5509,7 @@ NIM811	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[
 Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
 3-Dehydrocarnitine	[O-]C(=O)CC(=O)C[N+](C)(C)C
 3-Dehydrocarnitine	C[N+](C)(C)CC(=O)CC(=O)O
-Growth hormone releasing hexapeptide	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6cnc[nH]6)N
+GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6cnc[nH]6)N
 Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
 PA 824	[O-][N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
 Hexafluoroethane	FC(F)(F)C(F)(F)F
@@ -7459,6 +7460,7 @@ PEAQX	C[C@@H](C1=CC=C(C=C1)Br)NC(C2=C3C(=CC=C2)N=C(C(=N3)O)O)P(=O)(O)O
 Quipazine	C1CN(CCN1)C2=NC3=CC=CC=C3C=C2
 Camostat	CN(C)C(=O)COC(=O)CC1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)N=C(N)N
 Arotinolol	CC(C)(C)NCC(CSC1=NC(=CS1)C2=CC=C(S2)C(=O)N)O
+CJC-1295	CCC(C)C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C(C)O)C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)N)NC(=O)C(C)NC(=O)C(CC(=O)O)NC(=O)C(C)NC(=O)C(CC3=CC=C(C=C3)O)N
 Tiapride	O=S(=O)(c1ccc(OC)c(C(=O)NCCN(CC)CC)c1)C
 Sultopride	O=S(=O)(c1cc(c(OC)cc1)C(=O)NCC2N(CC)CCC2)CC
 Stepholidine	COC1=C(C=C2[C@@H]3CC4=C(CN3CCC2=C1)C(=C(C=C4)O)OC)O
@@ -11293,6 +11295,7 @@ Bitoscanate	C1=CC(=CC=C1N=C=S)N=C=S
 Astatine monoiodide	[I-].[AtH2+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(=C[C@@]23[C@@]1([C@@H](C(=C[C@H](C2=O)[C@H]4[C@H](C4(C)C)C[C@H]3C)CO)O)O)C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
+Βeta-Aminobutyric acid	O=C(O)CC(N)C
 Sodium tetrathionate	O.O.[O-]S(=O)(=O)SSS(=O)(=O)[O-].[Na+].[Na+]
 Leptophos	c1([P@@](Oc2c(cc(Br)c(c2)Cl)Cl)(OC)=S)ccccc1
 Silver thiocyanate	C(#N)[S-].[Ag+]
@@ -13305,3 +13308,11 @@ Arketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Cl
 Norketamine	C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N
 Dehydronorketamine	C1CC(C(=O)C=C1)(C2=CC=CC=C2Cl)N
 Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
+Atrop-abyssomicin C	C[C@@H]1C[C@]23OC(=O)C4=C2OC1[C@H](O)C3\C=C\C(=O)[C@@H](C)C[C@@H](C)C4=O
+4-Chlorokynurenine	C1=CC(=C(C=C1Cl)N)C(=O)CC(C(=O)O)N
+Nebostinel	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
+Basmisanil	CC1=C(C(=NO1)C2=CC=C(C=C2)F)COC3=NC=C(C=C3)C(=O)N4CCS(=O)(=O)CC4
+Pralmorelin	CC(C(=O)NC(CC1=CC2=CC=CC=C2C=C1)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)N
+Stenusin	CCC(C)CC1CCCN(C1)CC
+Anamorelin	CC(C)(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)N3CCCC(C3)(CC4=CC=CC=C4)C(=O)N(C)N(C)C)N
+Relamorelin	C1CC(CNC1)C(=O)NC(CC2=CSC3=CC=CC=C32)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)NC(CC6=CC=CC=C6)C(=O)NC7(CCNCC7)C(=O)N
