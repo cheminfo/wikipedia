@@ -157,7 +157,7 @@ Pentaerythritol	OCC(CO)(CO)CO
 Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
-Valproic acid	O=C(O)C(CCC)CCC
+Valproate	O=C(O)C(CCC)CCC
 Sodium hydroxide	O[Na]
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
 Daminozide	CN(C)NC(=O)CCC(O)=O
@@ -799,7 +799,6 @@ Valdecoxib	O=S(=O)(N)c3ccc(c2c(onc2c1ccccc1)C)cc3
 Adderall	NC(C)Cc1ccccc1
 Vardenafil	O=C2\N=C(/Nn1c(nc(c12)C)CCC)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC)CC4
 Coronene	c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67
-Sodium valproate	[Na+].[O-]C(=O)C(CCC)CCC
 Methyl ethyl ketone peroxide	CCC(C)(OO)OOC(C)(CC)OO
 Diethylhydroxylamine	CCN(O)CC
 Permethrin	Cl/C(Cl)=C/C3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C
