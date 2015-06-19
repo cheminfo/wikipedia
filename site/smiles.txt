@@ -169,6 +169,7 @@ Aconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[
 Aconitine	COC[C@]12CN(C)[C@@H]3[C@H]4[C@H](OC)C1[C@@]3([C@H](C[C@H]2O)OC)[C@@H]5C[C@]6(O)[C@@H](OC)[C@H](O)[C@@]4(OC(C)=O)[C@H]5C6OC(=O)c7ccccc7
 Ferrocene	[cH-]1cccc1.[cH-]1cccc1.[Fe+2]
 Cyclopentadiene	C1C=CC=C1
+Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
 Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
@@ -13309,7 +13310,7 @@ Norketamine	C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N
 Dehydronorketamine	C1CC(C(=O)C=C1)(C2=CC=CC=C2Cl)N
 Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
 Atrop-abyssomicin C	C[C@@H]1C[C@]23OC(=O)C4=C2OC1[C@H](O)C3\C=C\C(=O)[C@@H](C)C[C@@H](C)C4=O
-4-Chlorokynurenine	C1=CC(=C(C=C1Cl)N)C(=O)CC(C(=O)O)N
+4-Chlorokynurenine	C1=CC(=C(C=C1Cl)N)C(=O)C[C@@H](C(=O)O)N
 Nebostinel	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
 Basmisanil	CC1=C(C(=NO1)C2=CC=C(C=C2)F)COC3=NC=C(C=C3)C(=O)N4CCS(=O)(=O)CC4
 Pralmorelin	CC(C(=O)NC(CC1=CC2=CC=CC=C2C=C1)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)N
@@ -13324,3 +13325,4 @@ Propylphenidate	CCCOC(=O)C(C1CCCCN1)c2ccccc2
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC2(c1cccc(OC)c1)CCCCC2
+GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
