@@ -11877,6 +11877,8 @@ Oxathiazolone	O=C1OC=NS1
 6,6'-Bieckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C=C(C(=C4O3)C5=C6C(=C(C=C5O)O)OC7=C(O6)C(=CC(=C7OC8=CC(=CC(=C8)O)O)O)O)O)O)O)O)O
 Eckstolonol	Oc1cc(O)c2oc3c(oc2c1)c(O)cc1oc2c(O)cc(O)cc2oc31
 Valinol	CC(C)C(CO)N
+Valinol	CC(C)[C@@H](CO)N
+Valinol	CC(C)[C@H](CO)N
 Dibutylone	CCC(C(=O)c1ccc2c(c1)OCO2)N(C)C
 Naphthalenetetracarboxylic dianhydride	C1=CC2=C3C(=CC=C4C3=C1C(=O)OC4=O)C(=O)OC2=O
 Levamlodipine	Clc1ccccc1[C@H]2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC
@@ -13283,7 +13285,7 @@ Molybdenum ditelluride	[Te]=[Mo]=[Te]
 Fluorotriiodomethane	C(F)(I)(I)I
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
-Furanyl-fentanyl	O=C(N(C2CCN(CCc1ccccc1)CC2)c3ccccc3)c4ccco4
+Furanylfentanyl	O=C(N(C2CCN(CCc1ccccc1)CC2)c3ccccc3)c4ccco4
 Argpyrimidine	O=C([C@@H](C)CCCNC1=NC(C)=C(O)C(C)=N1)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
@@ -13310,7 +13312,8 @@ Norketamine	C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N
 Dehydronorketamine	C1CC(C(=O)C=C1)(C2=CC=CC=C2Cl)N
 Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
 Atrop-abyssomicin C	C[C@@H]1C[C@]23OC(=O)C4=C2OC1[C@H](O)C3\C=C\C(=O)[C@@H](C)C[C@@H](C)C4=O
-4-Chlorokynurenine	C1=CC(=C(C=C1Cl)N)C(=O)C[C@@H](C(=O)O)N
+4-Chlorokynurenine	C(c1c(cc(Cl)cc1)N)C[C@@H](C(=O)O)N
+Difluorophosphate	[O-]P(=O)(F)F
 Nebostinel	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
 Basmisanil	CC1=C(C(=NO1)C2=CC=C(C=C2)F)COC3=NC=C(C=C3)C(=O)N4CCS(=O)(=O)CC4
 Pralmorelin	CC(C(=O)NC(CC1=CC2=CC=CC=C2C=C1)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)N
@@ -13326,3 +13329,5 @@ ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC2(c1cccc(OC)c1)CCCCC2
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
+Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
+3-Methylbutyrfentanyl	CC1C(CCN(C1)CCC2=CC=CC=C2)N(C(CCC)=O)C3=CC=CC=C3
