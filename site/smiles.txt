@@ -12520,7 +12520,7 @@ Kuwanon G	CC1=C[C@@H]([C@H]([C@@H](C1)C2=C(C=C(C=C2)O)O)C(=O)C3=C(C=C(C=C3)O)O)C
 Moracin M	C1=CC2=C(C=C1O)OC(=C2)C3=CC(=CC(=C3)O)O
 1,3-Cycloheptadiene	C1CC=CC=CC1
 Cyclononene	C\1=C\CCCCCCC/1
-7-Chlorokynurenic acid	C1=CC2=C(C=C1Cl)N=C(C=C2O)C(=O)O
+7-Chlorokynurenic acid	C1=CC2=C(C=C1Cl)NC(=CC2=O)C(=O)O
 WMS-2539	C1CN[C@@H](C[C@H]1F)[C@H]2COC(O2)(C3=CC=CC=C3)C4=CC=CC=C4
 Glyoxal-bis(mesitylimine)	CC1=CC(C)=C(\N=C\C=N\C2=C(C)C=C(C)C=C2C)C(C)=C1
 Aminomethyl propanol	CC(C)(CO)N
@@ -13331,3 +13331,4 @@ Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
 3-Methylbutyrfentanyl	CC1C(CCN(C1)CCC2=CC=CC=C2)N(C(CCC)=O)C3=CC=CC=C3
+5α-Dihydrocorticosterone	CC12CCC(=O)CC1CCC3C2C(CC4(C3CCC4C(=O)CO)C)O
