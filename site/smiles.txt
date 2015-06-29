@@ -4288,7 +4288,6 @@ Phthalimide	O=C2c1ccccc1C(=O)N2
 Iodine-123	[123I-]
 Neuraminic acid	O=C(O)[C@@]1(O)O[C@@H]([C@H](O)[C@H](O)CO)[C@H](N)[C@@H](O)C1
 Kynurenic acid	O=C\2c1c(cccc1)NC(=C/2)/C(=O)O
-Promazine	CN(C)CCCN1c2ccccc2Sc3c1cccc3
 Triflupromazine	CN(C)CCCN1c2ccccc2Sc2ccc(cc12)C(F)(F)F
 Acetophenazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4)C
 Isopropyl nitrate	CC(C)O[N+](=O)[O-]
@@ -13340,8 +13339,10 @@ FUBIMINA	O=C(C1=NC2=C(C=CC=C2)N1CCCCCF)C3=CC=CC4=CC=CC=C43
 MEPIRAPIM	CCCCCN1C=C(C(N2CCN(C)CC2)=O)C3=CC=CC=C31.Cl
 Merotocin	CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSCCCC(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)C(=O)N(CC3=CC=C(C=C3)F)CC(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 3-HO-PCP	c1cc(cc(c1)O)C2(CCCCC2)N3CCCCC3
+5F-SDB-006	O=C(NCC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
 PX-3	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3CCCCC3)C4=C2C=CC=C4
 SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
 4-Methylcathinone	CC1=CC=C(C(C(C)N)=O)C=C1.Cl
 NM-2-AI	CNC1Cc2ccccc2C1
 4-Methylpentedrone	O=C(C(NC)CCC)C1=CC=C(C)C=C1.Cl
+MDMB-CHMICA	COC(=O)C(C(C)(C)C)NC(=O)c1cn(c2c1cccc2)CC1CCCCC1
