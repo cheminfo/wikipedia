@@ -4288,6 +4288,7 @@ Phthalimide	O=C2c1ccccc1C(=O)N2
 Iodine-123	[123I-]
 Neuraminic acid	O=C(O)[C@@]1(O)O[C@@H]([C@H](O)[C@H](O)CO)[C@H](N)[C@@H](O)C1
 Kynurenic acid	O=C\2c1c(cccc1)NC(=C/2)/C(=O)O
+Promazine	CN(C)CCCN1c2ccccc2Sc3c1cccc3
 Triflupromazine	CN(C)CCCN1c2ccccc2Sc2ccc(cc12)C(F)(F)F
 Acetophenazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4)C
 Isopropyl nitrate	CC(C)O[N+](=O)[O-]
@@ -4798,6 +4799,7 @@ Halofantrine	FC(F)(F)c3ccc2c(cc1c(Cl)cc(Cl)cc1c2c3)C(O)CCN(CCCC)CCCC
 8-Aminoquinoline	Nc1cccc2cccnc12
 Pamaquine	O(c1cc(NC(C)CCCN(CC)CC)c2ncccc2c1)C
 Methylmalonic acid	CC(C(=O)O)C(=O)O
+Protoporphyrin IX	CC\1=C(/C/2=C/C3=N/C(=C\C4=C(C(=C(N4)/C=C\5/C(=C(C(=N5)/C=C1\N2)C=C)C)C=C)C)/C(=C3CCC(=O)O)C)CCC(=O)O
 Voglibose	OC[C@@]1(O)C[C@H](NC(CO)CO)[C@H](O)[C@@H](O)[C@@H]1O
 Hydroxocobalamin	Cc1cc2ncn(c2cc1C)C9OC(CO)C(OP3(=O)OC(C)CNC(=O)CCC5C4=C(C)C8=NC(=CC7=NC(=C(C)C6=NC(C)(C(N4[Co](O)O3)C5(C)CC(N)=O)C(C)(CC(N)=O)C6CCC(N)=O)C(C)(CC(N)=O)C7CCC(N)=O)C(CCC(N)=O)C8(C)C)C9O
 Copper benzoate	[Cu+2].[O-]C(=O)c1ccccc1.[O-]C(=O)c1ccccc1
@@ -10056,6 +10058,7 @@ Etalocib	Fc1ccc(cc1)c4c(O)cc(OCCCOc3cccc(Oc2ccccc2C(=O)O)c3CCC)c(c4)CC
 Melissic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Octenidine dihydrochloride	Cl.Cl.N(=C1\C=C/N(/C=C1)CCCCCCCCCCN\2/C=C\C(=N\CCCCCCCC)/C=C/2)\CCCCCCCC
 2-Methyl-2,4-pentanediol	CC(CC(C)(C)O)O
+Naled	COP(=O)(OC)OC(C(Cl)(Cl)Br)Br
 Butyl PBD	CC(C)(C)c1ccc(cc1)c2nnc(o2)c3ccc(cc3)c4ccccc4
 Glycolonitrile	OCC#N
 Iron oxychloride	[O][Fe]Cl
@@ -13251,6 +13254,7 @@ Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 SRX246	CC(C1=CC(=CC=C1)C(F)(F)F)NC(=O)C(CC(=O)N2CCC(CC2)N3CCCCC3)N4C(C(C4=O)N5C(COC5=O)C6=CC=CC=C6)C=CC7=CC=CC=C7
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
+2-Octanol	c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=CCC(=C5)N)O)O)O)OP(=O)(O)O)N
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
 Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 AN2728	N#CC1=CC=C(OC2=CC=C3C(B(O)OC3)=C2)C=C1
@@ -13346,3 +13350,4 @@ SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
 NM-2-AI	CNC1Cc2ccccc2C1
 4-Methylpentedrone	O=C(C(NC)CCC)C1=CC=C(C)C=C1.Cl
 MDMB-CHMICA	COC(=O)C(C(C)(C)C)NC(=O)c1cn(c2c1cccc2)CC1CCCCC1
+Αlpha-Pyrrolidinopentiothiophenone	O=C(C(CCC)N1CCCC1)C2=CC=CS2.Cl
