@@ -288,6 +288,7 @@ Butanone	O=C(C)CC
 Iron(II) sulfate	[O-]S(=O)(=O)[O-].[Fe+2]
 Citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O
 Choline	C[N+](C)(C)CCO
+Chlorite	[O-]Cl=O
 Tacrolimus	O=C3C(=O)N1CCCC[C@H]1C(=O)O[C@H](C(=C/[C@@H]2CC[C@@H](O)[C@H](OC)C2)/C)[C@H](C)[C@@H](O)CC(=O)[C@@H](/C=C(/C[C@@H](C[C@H](OC)[C@H]4O[C@]3(O)[C@H](C)C[C@@H]4OC)C)C)C\C=C
 Potassium chloride	[Cl-].[K+]
 Methaqualone	O=C1C2=C(C=CC=C2)N=C(C)N1C3=C(C)C=CC=C3
@@ -2526,7 +2527,7 @@ Imipenem	O=C(O)/C1=C(\SCC/N=C/N)C[C@H]2N1C(=O)[C@@H]2[C@H](O)C.O
 Cilastatin	O=C(N\C(=C/CCCCSC[C@@H](C(=O)O)N)C(=O)O)[C@H]1CC1(C)C
 Nordazepam	ClC1=CC2=C(C=C1)NC(CN=C2C3=CC=CC=C3)=O
 Eucalyptol	O2C1(CCC(CC1)C2(C)C)C
-Paris Green	CC(=O)[O-].CC(=O)[O-].[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[Cu+2].[Cu+2].[Cu+2].[Cu+2]
+Paris green	CC(=O)[O-].CC(=O)[O-].[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[Cu+2].[Cu+2].[Cu+2].[Cu+2]
 Methylparaben	COC(=O)c1ccc(cc1)O
 Butylparaben	O=C(OCCCC)c1ccc(O)cc1
 Hydroperoxyl	[O]O
@@ -4685,7 +4686,7 @@ Trimethylphosphine	CP(C)C
 Octaethylene glycol monododecyl ether	O(CCOCCOCCCCCCCCCCCC)CCOCCOCCOCCOCCOCCO
 Pentaethylene glycol monododecyl ether	O(CCO)CCOCCOCCOCCOCCCCCCCCCCCC
 Muramyl dipeptide	O=C(N)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O[C@H]1[C@H](O)[C@H](OC(O)[C@@H]1NC(=O)C)CO)C)C)CCC(=O)O
-Trabectedin	CC(=O)Oc1c5c(c2OCOc2c1C)[C@@H]6COC(=O)[C@@]4(NCCc3cc(O)c(OC)cc34)CCS[C@H]5[C@@H]9N6[C@@H](O)[C@@H]8Cc7cc(C)c(OC)c(O)c7[C@H]9N8C
+Trabectedin	Cc1cc2c(c(c1OC)O)[C@@H]3[C@@H]4[C@H]5c6c(c7c(c(c6OC(=O)C)C)OCO7)[C@@H](N4[C@H]([C@H](C2)N3C)O)COC(=O)[C@@]8(CS5)c9cc(c(cc9CCN8)O)OC
 Tetralin	c1ccc2c(c1)CCCC2
 Phenazepam	c1ccc(c(c1)C2=NCC(=O)Nc3c2cc(cc3)Br)Cl
 Dibenzothiophene	c1ccc2c(c1)c3ccccc3s2
@@ -13333,6 +13334,7 @@ Propylphenidate	CCCOC(=O)C(C1CCCCN1)c2ccccc2
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
+Alpha-Pyrrolidinohexiophenone	O=C(C(CCCC)N1CCCC1)C2=CC=CC=C2
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
 3-Methylbutyrfentanyl	CC1C(CCN(C1)CCC2=CC=CC=C2)N(C(CCC)=O)C3=CC=CC=C3
