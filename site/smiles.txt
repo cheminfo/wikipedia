@@ -3307,6 +3307,7 @@ Pristane	CC(C)CCCC(C)CCCC(C)CCCC(C)C
 Ethyl benzoate	O=C(OCC)c1ccccc1
 Dimethyl dicarbonate	O=C(OC(=O)OC)OC
 Pentamethylcyclopentadiene	CC1=C(C)C(C)C(C)=C1C
+Titanocene dichloride	[cH-]1cccc1.[cH-]1cccc1.Cl[Ti+2]Cl
 Pyrylium salt	C1=CC=[O+]C=C1
 Gibberellic acid	O=C1O[C@@]52\C=C/[C@H](O)[C@]1([C@H]5[C@H](C(=O)O)[C@]43[C@H]2CC[C@@](O)(C(=C)\C3)C4)C
 Stannabenzene	[H][Sn]1=CC=CC=C1
@@ -3322,6 +3323,7 @@ Gulose	O=C[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO
 Altrose	O[C@@H]1[C@H](O)[C@H](OC(O)[C@H]1O)CO
 Altrose	OCC(O)[C@@H](O)[C@@H](O)[C@H](O)C=O
 Talose	O=C[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO
+Tebbe's reagent	C[Al-]1(C[Ti+2][Cl+]1)C.[cH-]1cccc1.[cH-]1cccc1
 1,8-Diazafluoren-9-one	O=C3c1ncccc1c2c3nccc2
 Hesperetin	O=C2c3c(O[C@H](c1ccc(OC)c(O)c1)C2)cc(O)cc3O
 Apigenin	O=C\1c3c(O/C(=C/1)c2ccc(O)cc2)cc(O)cc3O
@@ -3780,6 +3782,7 @@ Potassium adipate	C(CCC(=O)[O-])CC(=O)[O-].[K+].[K+]
 Sodium adipate	[Na+].[Na+].[O-]C(=O)CCCCC(=O)[O-]
 Cordycepin	O[C@@H]1C[C@@H](CO)O[C@H]1N2C(N=CN=C3N)=C3N=C2
 3-Iodothyronamine	Ic2cc(ccc2Oc1ccc(O)cc1)CCN
+Schwartz's reagent	[cH-]1cccc1.[cH-]1cccc1.Cl[ZrH+2]
 Gallium(III) bromide	Br[Ga](Br)Br
 3'-Phosphoadenosine-5'-phosphosulfate	S=C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)(O)OS(=O)(=O)O)OP(=O)(O)O)O
 3'-Phosphoadenosine-5'-phosphosulfate	O=S(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
@@ -3839,7 +3842,7 @@ Ethylestrenol	O[C@]2(CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4)CC
 Strontium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[Sr+2]
 Etretinate	O=C(OCC)\C=C(\C=C\C=C(\C=C\c1c(cc(OC)c(c1C)C)C)C)C
 Ethinamate	O=C(OC1(C#C)CCCCC1)N
-Evans blue	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6cc(c(N)c5c6C=C/C(=N\Nc1ccc(cc1C)c4ccc(N\N=C3/C=Cc2c(cc(c(N)c2C3=O)S([O-])(=O)=O)S([O-])(=O)=O)c(C)c4)C5=O)S([O-])(=O)=O
+Evans Blue (dye)	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6cc(c(N)c5c6C=C/C(=N\Nc1ccc(cc1C)c4ccc(N\N=C3/C=Cc2c(cc(c(N)c2C3=O)S([O-])(=O)=O)S([O-])(=O)=O)c(C)c4)C5=O)S([O-])(=O)=O
 Darifenacin	O=C(N)C(c1ccccc1)(c2ccccc2)[C@H]3CN(CC3)CCc5cc4c(OCC4)cc5
 Etonogestrel	O=C3\C=C2\CC[C@H]1[C@H]4[C@](CC)(C/C(=C)[C@@H]1[C@H]2CC3)[C@@](C#C)(O)CC4
 Decamethonium	[Br-].[Br-].C(CCCC[N+](C)(C)C)CCCCC[N+](C)(C)C
