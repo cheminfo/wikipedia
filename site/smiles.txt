@@ -6171,7 +6171,7 @@ Indoprofen	O=C(O)C(c1ccc(cc1)N3C(=O)c2ccccc2C3)C
 Pirprofen	O=C(O)C(c1cc(Cl)c(cc1)N2C/C=C\C2)C
 Benoxaprofen	O=C(O)C(c1cc2nc(oc2cc1)c3ccc(Cl)cc3)C
 Fenoprofen	O=C(O)C(c2cc(Oc1ccccc1)ccc2)C
-Lornoxicam	CN1C(=C(NC2=CC=CC=N2)O)C(=O)C3=C(S1(=O)=O)C=C(S3)Cl
+Lornoxicam	CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
 Droxicam	CN1c2c(oc(=O)n(c2=O)c3ccccn3)-c4ccccc4S1(=O)=O
 Aceclofenac	Clc2cccc(Cl)c2Nc1ccccc1CC(=O)OCC(=O)O
 Proglumetacin	Clc1ccc(cc1)C(=O)n3c2ccc(OC)cc2c(c3C)CC(=O)OCCN4CCN(CC4)CCCOC(=O)CCC(C(=O)N(CCC)CCC)NC(=O)c5ccccc5
@@ -10277,7 +10277,6 @@ Trimethylborane	CB(C)C
 Fasiplon	CC1=NC(C2=CN3C(N=C(OC)C(CC)=C3C)=N2)=NO1
 Taniplon	CC1=NC(C2=CN3C(N=C(OC)C4=C3CCCC4)=N2)=NO1
 Lirequinil	CCO[C@H]1CCN(C1)C(=O)C2=C3C4=C(CCN3C(=O)C(=C2)C5=CC=CC=C5)C=CC(=C4)Cl
-Edoxaban	CN1CCC2=C(C1)SC(=N2)C(=O)N[C@@H]3C[C@H](CC[C@@H]3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C
 Betrixaban	CN(C)C(=N)C1=CC=C(C=C1)C(=O)NC2=C(C=C(C=C2)OC)C(=O)NC3=NC=C(C=C3)Cl
 Lixisenatide	CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2c1cccc2)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NCC(=O)NCC(=O)N3CCCC3C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N4CCCC4C(=O)N5CCCC5C(=O)NC(CO)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)N)NC(=O)C(Cc6ccccc6)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(Cc7ccccc7)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(Cc8cnc[nH]8)N
 Damnacanthal	COC1=C2C(=CC(=C1C=O)O)C(=O)C3=CC=CC=C3C2=O
@@ -10643,6 +10642,7 @@ MT-45	c3ccccc3CC(c2ccccc2)N(CC1)CCN1C4CCCCC4
 AD-1211	c1c(O)cccc1CC(c3ccccc3)N(CC2)CCN2C\C=C(\C)/C
 Butachlor	ClCC(=O)N(c1c(cccc1CC)CC)COCCCC
 Pallidol	C1=CC(=CC=C1C2C3C(C(C4=C(C=C(C=C34)O)O)C5=CC=C(C=C5)O)C6=CC(=CC(=C26)O)O)O
+Reuterin	C(CO)C=O
 5-(Nonyloxy)tryptamine	CCCCCCCCCOC1=CC2=C(C=C1)NC=C2CCN
 Acefluranol	CC[C@@H](c1cc(c(c(c1)F)OC(=O)C)OC(=O)C)[C@H](C)c2cc(c(c(c2)F)OC(=O)C)OC(=O)C
 Astringin	O(c2cc(O)cc(\C=C\c1ccc(O)c(O)c1)c2)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO
@@ -13372,3 +13372,8 @@ Alpha-Pyrrolidinopentiothiophenone	O=C(C(CCC)N1CCCC1)C2=CC=CS2.Cl
 5F-AB-PINACA	O=C(N[C@H](C(N)=O)C(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
 5F-APINACA	O=C(NC1(C[C@@H]2C3)C[C@H](C2)C[C@H]3C1)C4=NN(CCCCCF)C5=CC=CC=C54
 Dihydrotetrabenazine	COC1=C(OC)C=C(C(CC(O)C(CC(C)C)C2)N2CC3)C3=C1
+ADSB-FUB-187	CC(C)(C)[C@@H](C(=O)NCCNS(=O)(=O)C1CC1)NC(=O)C2=NN(C3=C2C=CC=C3Cl)CC4=CC=C(C=C4)F
+FUB-JWH-018	O=C(C1=CC=CC2=C1C=CC=C2)C3=CN(CC4=CC=C(F)C=C4)C5=CC=CC=C53
+CUMYL-PICA	O=C(NC(C)(C)C1=CC=CC=C1)C2=CN(CCCCC)C3=C2C=CC=C3
+PTI-2	CCCCCN1C=C(C2=NC(CN(CCOC)C(C)C)=CS2)C3=CC=CC=C31.Cl
+PTI-1	CCCCCN1C=C(C2=NC(CN(CC)CC)=CS2)C3=CC=CC=C31.Cl
