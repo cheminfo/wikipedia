@@ -13325,12 +13325,13 @@ Modimelanotide	CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=
 Beta-Melanocyte-stimulating hormone	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC=N3)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)NC(CO)C(=O)N7CCCC7C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)O)N
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
-3'-hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+3'-Hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
 Allyl glycidyl ether	C=CCOCC1CO1
 Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
 Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
 CP-122,288	CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2C[C@H]3CCCN3C
 Arketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Cl
+Nosiheptide	C/C=C/1\c2nc(cs2)C(=O)N[C@H]3C[C@@H](C(=O)OCc4cccc5c4c(c([nH]5)C(=O)SC[C@@H](c6nc(cs6)-c7c(cc(c(n7)c8nc(cs8)C(=O)NC(=C)C(=O)N)O)-c9nc(cs9)C(=O)N[C@H](C(=O)N1)[C@H](C)O)NC(=O)c1csc3n1)C)O
 Norketamine	C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N
 Dehydronorketamine	C1CC(C(=O)C=C1)(C2=CC=CC=C2Cl)N
 Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
@@ -13344,13 +13345,17 @@ Stenusin	CCC(C)CC1CCCN(C1)CC
 Anamorelin	CC(C)(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)N3CCCC(C3)(CC4=CC=CC=C4)C(=O)N(C)N(C)C)N
 Relamorelin	C1CC(CNC1)C(=O)NC(CC2=CSC3=CC=CC=C32)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)NC(CC6=CC=CC=C6)C(=O)NC7(CCNCC7)C(=O)N
 Ipamorelin	CC(C)(C(=O)NC(CC1C=NC=N1)C(=O)NC(CC2=CC3=CC=CC=C3C=C2)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCCN)C(=O)N)N
+Penicillin O	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CSCC=C)C(=O)O)C
+Drimane	C[C@H]1CC[C@@H]2[C@@]([C@H]1C)(CCCC2(C)C)C
 Examorelin	CC1=C(C2=CC=CC=C2N1)CC(C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)NC(=O)C(CC6=CN=CN6)N
+Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 6-EAPB	CCNC(C)Cc2ccc1ccoc1c2
 Propylphenidate	CCCOC(=O)C(C1CCCCN1)c2ccccc2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
+Phenylarsine oxide	c1ccc(cc1)[As]=O
 Alpha-Pyrrolidinohexiophenone	O=C(C(CCCC)N1CCCC1)C2=CC=CC=C2
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
