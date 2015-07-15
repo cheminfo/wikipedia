@@ -5628,7 +5628,7 @@ Otera's catalyst	CCCC[Sn]1([N](=C=S)[Sn]2(O1[Sn]3(O2[Sn]([N]3=C=S)(CCCC)(CCCC)C=
 Periplanone B	O=C2[C@]1(OC1)[C@@H]3O[C@@H]3CC(\C=C\[C@H](C(C)C)C2)=C
 Acetyl iodide	CC(I)=O
 Mafosfamide	O=P1(N[C@@H](CCO1)SCCS(O)(=O)=O)N(CCCl)CCCl
-Abiraterone	O[C@@H]2C/C1=C/C[C@@H]4[C@@H]([C@@]1(C)CC2)CC[C@@]3(C(=C/C[C@H]34)\c5cccnc5)C
+Abiraterone acetate	O[C@@H]2C/C1=C/C[C@@H]4[C@@H]([C@@]1(C)CC2)CC[C@@]3(C(=C/C[C@H]34)\c5cccnc5)C
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
@@ -7558,7 +7558,7 @@ NS-2710	c4ncccc4-c(c2)cccc2-n3c1ccc(cc1nc3)C(C)=NOCC
 TPA-023	CC(C)(C)C2=Cc3nnc(-c1ccccc1F)n3N=C2OCc4ncnn4CC
 Sergliflozin etabonate	CCOC(=O)OCC1C(C(C(C(O1)Oc2ccccc2Cc3ccc(cc3)OC)O)O)O
 Remogliflozin etabonate	OC1C(COC(=O)OCC)OC(C(O)C1O)Oc(nn(C(C)C)c2C)c2Cc3ccc(cc3)OC(C)C
-XCT790	COC1=C(C=CC(=C1)C=C(C#N)C(=O)NC2=NN=C(S2)C(F)(F)F)OCC3=C(C=C(C=C3)C(F)(F)F)C(F)(F)F
+XCT790	COC1=C(C=CC(=C1)/C=C(\C#N)/C(=O)NC2=NN=C(S2)C(F)(F)F)OCC3=C(C=C(C=C3)C(F)(F)F)C(F)(F)F
 Magnesium hydride	[MgH2]
 Aranidipine	CC1=C(C(C(=C(N1)C)C(=O)OCC(=O)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
 Suplatast tosilate	CCOCC(COC1=CC=C(C=C1)NC(=O)CC[S+](C)C)O.CC1=CC=C(C=C1)S(=O)(=O)[O-]
@@ -9885,7 +9885,7 @@ Nepetin	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O
 Disiloxane	[SiH3]O[SiH3]
 FV-100	CCCCCC1=CC=C(C=C1)C2=CC3=CN(C(=O)N=C3O2)[C@H]4C[C@@H]([C@H](O4)CO)O
 Bamaluzole	Clc1ccccc1COc3nccc2c3ncn2C
-Tolgabide	O=C2/C(=C\C(\Cl)=C/C2=C(/NCCCC(=O)N)c1ccc(Cl)cc1)C
+Tolgabide	Cc1cc(cc(c1O)/C(=N/CCCC(=O)N)/c2ccc(cc2)Cl)Cl
 Pitrazepin	n4nc(N1CCNCC1)n5c2ccccc2Cc3ccccc3c45
 Ethyl propionate	CCOC(=O)CC
 6-APDB	O2c1cc(ccc1CC2)CC(N)C
@@ -13153,7 +13153,7 @@ CP-132,484	NCCc3c2c1CCCOc1ccc2n(C)c3
 DR-4485	c4cc(Cl)ccc4C(CC5)=CCN5CCCCC2(CCC3)c1c3c(Cl)ccc1NC2=O
 Lespedamine	O(n2c1ccccc1c(c2)CCN(C)C)C
 CID-85469571	Clc4ccc(cc4)COc(c2)cccc2\C=C(\C1=O)/N=C3N1CCCS3
-WB-4101	C3Oc2ccccc2OC3CNCCOc1c(OC)cccc1OC
+WB-4101	COc1cccc(c1OCCNCC2COc3ccccc3O2)OC
 Norbuprenorphine-3-glucuronide	CC(C)(C)C(C)([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O[C@H]7[C@H]([C@H]([C@@H](C(O7)C(=O)O)O)O)O)O4)OC)O
 Buprenorphine-3-glucuronide	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3Cc6c5c(cc(c6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)O4)CC8CC8)OC)(C(C)(C)C)O
 Cebranopadol	CN([C@]1(CC[C@]2(OCCc3c2[nH]c4c3cc(cc4)F)CC1)c5ccccc5)C
@@ -13396,3 +13396,4 @@ NM-2201	FCCCCCN1C=C(C(OC2=C(C=CC=C3)C3=CC=C2)=O)C4=CC=CC=C41
 CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
+MDMB-CHMINACA	COC(=O)C(C(C)(C)C)NC(=O)c1nn(c2c1cccc2)CC1CCCCC1
