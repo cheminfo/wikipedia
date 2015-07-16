@@ -6145,6 +6145,7 @@ Dansyl chloride	ClS(=O)(=O)c1cccc2c1cccc2N(C)C
 Bisoxatin	O=C1Nc4c(OC1(c2ccc(O)cc2)c3ccc(O)cc3)cccc4
 Oxyphenisatine	Oc1ccc(cc1)C1(C(=O)Nc2ccccc12)c1ccc(O)cc1
 Hidrosmin	O=C\4c5c(OCCO)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)[C@@H](O)[C@H](O)[C@H]2O)cc5O/C(c3ccc(OC)c(O)c3)=C/4
+Troxerutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(c(c5)OCCO)OCCO)OCCO)O)O)O)O)O)O)O
 Monoxerutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)OCCO)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
 Calcium dobesilate	[Ca+2].O=S([O-])(=O)c1cc(O)ccc1O.[O-]S(=O)(=O)c1cc(O)ccc1O
 Sodium tetradecyl sulfate	CCCCC(CC)CCC(CC(C)C)OS(=O)(=O)[O-].[Na+]
@@ -13397,3 +13398,8 @@ CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
 MDMB-CHMINACA	COC(=O)C(C(C)(C)C)NC(=O)c1nn(c2c1cccc2)CC1CCCCC1
+4-Fluorobutyrfentanyl	O=C(CCC)N(C1CCN(CCC2=CC=CC=C2)CC1)C3=CC=C(F)C=C3.Cl
+PX-1	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
+PX-2	O=C(N[C@@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
+APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
+MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
