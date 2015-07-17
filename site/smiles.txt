@@ -1294,7 +1294,7 @@ Methylamine	CN
 Europium(III) chloride	Cl[Eu](Cl)Cl
 Acetylide	C#[C-]
 Salmeterol	OCc1cc(ccc1O)[C@H](O)CNCCCCCCOCCCCc2ccccc2
-Ranitidine	[O-][N+](=O)\C=C(\NC)NCCSCc1oc(cc1)CN(C)C
+Ranitidine	CNC(=C[N+](=O)[O-])NCCSCc1ccc(o1)CN(C)C
 Saxitoxin	O=C(OC[C@@H]2/N=C(/N)N3[C@]1(/N=C(\N[C@H]12)N)C(O)(O)CC3)N
 Lisinopril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)O)CCc1ccccc1)CCCCN)CCC2
 Ramipril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@H]12)C)CCc3ccccc3
@@ -2810,8 +2810,7 @@ Bismarck brown Y	N(=N/c1ccc(cc1N)N)\c3cccc(/N=N/c2ccc(N)cc2N)c3
 Bismarck brown Y	CC1=C(C=C(C=C1)N=NC2=C(C=C(C(=C2)C)N)N)N=NC3=C(C=C(C(=C3)C)N)N
 Orange B	[Na+].[Na+].[O-]S(=O)(=O)c4ccc(/N=N/c2c(nn(c1ccc(cc1)S([O-])(=O)=O)c2O)C(=O)OCC)c3ccccc34
 Citrus Red 2	COc3ccc(cc3/N=N/c1c2ccccc2ccc1O)OC
-Azorubine	[Na+].[Na+].[O-]S(=O)(=O)c4ccc(/N=N/c1cc(O)c2ccccc2c1S([O-])(=O)=O)c3ccccc34
-Azorubine	[Na+].[Na+].[O-]S(=O)(=O)c4ccc(N=Nc2cc(c1ccccc1c2O)S([O-])(=O)=O)c3ccccc34
+Azorubine	c1ccc2c(c1)c(ccc2S(=O)(=O)[O-])/N=N/c3cc(c4ccccc4c3O)S(=O)(=O)[O-].[Na+].[Na+]
 Amaranth (dye)	[Na+].[Na+].[Na+].[O-]S(=O)(=O)c4ccc(N=Nc1c2ccc(cc2cc(c1O)S([O-])(=O)=O)S([O-])(=O)=O)c3ccccc34
 Scarlet GN	[Na+].Cc3cc(S(=O)(=O)[O-])c(N=Nc2c(O)c1c(cc2)c(S(=O)(=O)[O-])ccc1)c(C)c3.[Na+]
 Scarlet GN	CC1=CC(=C(NN=C2C=CC3=C(C=CC=C3C2=O)S(=O)(=O)O[Na])C(C)=C1)S(=O)(=O)O[Na]
@@ -5248,7 +5247,7 @@ Tartronic acid	O=C(O)C(O)C(=O)O
 Coptisine	O1c3c(OC1)c2c[n+]6c(cc2cc3)c5cc4OCOc4cc5CC6
 Methylcyclopentadiene	C\1=C\C=C(\C)C/1
 Asarone	O(c1cc(c(OC)cc1OC)/C=C/C)C
-Asarone	CC=CC1=CC(=C(C=C1OC)OC)OC
+Asarone	C/C=C\c1cc(c(cc1OC)OC)OC
 Tert-Butyl chloride	ClC(C)(C)C
 Metolachlor	CCc1cccc(c1N(C(C)COC)C(=O)CCl)C
 Syringaldehyde	COc1cc(cc(c1O)OC)C=O
@@ -10912,7 +10911,7 @@ Morphiceptin	c1ccc(cc1)C[C@@H](C(=O)N2CCC[C@H]2C(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@
 Linifanib	CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N
 Potassium hexafluoronickelate(IV)	[K+].[K+].F[Ni-2](F)(F)(F)(F)F
 Cenicriviroc	O=S(c1ccc(cc1)NC(=O)\C4=C\c3c(ccc(c2ccc(OCCOCCCC)cc2)c3)N(CCC4)CC(C)C)Cc5cncn5CCC
-AP26113	CN(C)C1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=CC=C4P(=O)(C)C)Cl)OC
+Brigatinib	CN(C)C1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=CC=C4P(=O)(C)C)Cl)OC
 Velusetrag	CC(C)N1C2=CC=CC=C2C=C(C1=O)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C[C@H](CN(C)S(=O)(=O)C)O
 Fostamatinib	Fc1cnc(nc1Nc2nc3N(C(=O)C(Oc3cc2)(C)C)COP(=O)(O)O)Nc4cc(OC)c(OC)c(OC)c4
 Lesogaberan	O=P([H])(C[C@@H](CN)F)O
@@ -13403,3 +13402,5 @@ PX-1	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
 PX-2	O=C(N[C@@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
 APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
 MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
+4-Methylbuphedrone	CC1=CC=C(C(C(CC)NC)=O)C=C1.Cl
+2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
