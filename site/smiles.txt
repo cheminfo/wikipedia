@@ -11312,7 +11312,7 @@ Bitoscanate	C1=CC(=CC=C1N=C=S)N=C=S
 Astatine monoiodide	[I-].[AtH2+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(=C[C@@]23[C@@]1([C@@H](C(=C[C@H](C2=O)[C@H]4[C@H](C4(C)C)C[C@H]3C)CO)O)O)C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
-Βeta-Aminobutyric acid	O=C(O)CC(N)C
+Beta-Aminobutyric acid	O=C(O)CC(N)C
 Sodium tetrathionate	O.O.[O-]S(=O)(=O)SSS(=O)(=O)[O-].[Na+].[Na+]
 Leptophos	c1([P@@](Oc2c(cc(Br)c(c2)Cl)Cl)(OC)=S)ccccc1
 Silver thiocyanate	C(#N)[S-].[Ag+]
@@ -13323,6 +13323,7 @@ Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
 Lemborexant	CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
 4,16-Androstadien-3β-ol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C[C@H](CC[C@]34C)O
+Pisatin	COc1ccc2c(c1)OC[C@]3([C@@H]2Oc4c3cc5c(c4)OCO5)O
 ADX-71149	COC1=CC=C(C=C1)C2=CN(C(=O)C=C2)CC3=C(C=C(C=C3)Cl)F
 Modimelanotide	CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](Cc6ccc(cc6)O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)C
 Beta-Melanocyte-stimulating hormone	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC=N3)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)NC(CO)C(=O)N7CCCC7C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)O)N
@@ -13332,6 +13333,7 @@ Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 Allyl glycidyl ether	C=CCOCC1CO1
 Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
 Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
+Sec-Amyl acetate	CCCC(C)OC(C)=O
 CP-122,288	CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2C[C@H]3CCCN3C
 Arketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Cl
 Nosiheptide	C/C=C/1\c2nc(cs2)C(=O)N[C@H]3C[C@@H](C(=O)OCc4cccc5c4c(c([nH]5)C(=O)SC[C@@H](c6nc(cs6)-c7c(cc(c(n7)c8nc(cs8)C(=O)NC(=C)C(=O)N)O)-c9nc(cs9)C(=O)N[C@H](C(=O)N1)[C@H](C)O)NC(=O)c1csc3n1)C)O
@@ -13404,3 +13406,4 @@ APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
 MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
 4-Methylbuphedrone	CC1=CC=C(C(C(CC)NC)=O)C=C1.Cl
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
+5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
