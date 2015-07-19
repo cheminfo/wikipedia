@@ -13064,6 +13064,7 @@ INH1	CC1=CC(=C(C=C1)C2=CSC(=N2)NC(=O)C3=CC=CC=C3)C
 2-Methyl-6-nitrobenzoic anhydride	CC1=C(C(=CC=C1)[N+](=O)[O-])C(=O)OC(=O)C2=C(C=CC=C2[N+](=O)[O-])C
 Cashmeran	CC1C(C2=C(C1(C)C)C(=O)CCC2)(C)C
 Homocitrulline	C(CCNC(=O)N)C[C@@H](C(=O)O)N
+TAPI-1	O=C(NCCN)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](CC(=O)NO)CC(C)C)Cc2ccc1c(cccc1)c2)C
 Methylammonium halide	C[NH3+].[Br-]
 Homolycorine	COc1cc2[C@@H]3[C@@H](CC=C4CCN(C)[C@@H]34)OC(=O)c2cc1OC
 5-Hydroxy-2(5H)-furanone	C1=CC(=O)OC1O
@@ -13304,6 +13305,7 @@ Anabaseine	C1CCC(=NC1)c1cccnc1
 DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
+Cassaine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCN(C)C)[C@]3(CC[C@@H](C([C@@H]3CC2=O)(C)C)O)C
 Ammonium pertechnetate	O[Tc](=O)(=O)=O
 Echinenone	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
 Molybdenum ditelluride	[Te]=[Mo]=[Te]
@@ -13332,6 +13334,7 @@ Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 3'-Hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
 Allyl glycidyl ether	C=CCOCC1CO1
 Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
+N-2′-Indolylnaltrexamine	OC1=CC=C2C[C@H]3N(CC4CC4)CC[C@@]45[C@@H](OC1=C24)[C@@H](CC[C@@]35O)NC(=O)C1=CC2=CC=CC=C2N1
 Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
 Sec-Amyl acetate	CCCC(C)OC(C)=O
 CP-122,288	CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2C[C@H]3CCCN3C
@@ -13391,6 +13394,7 @@ CUMYL-PICA	O=C(NC(C)(C)C1=CC=CC=C1)C2=CN(CCCCC)C3=C2C=CC=C3
 PTI-2	CCCCCN1C=C(C2=NC(CN(CCOC)C(C)C)=CS2)C3=CC=CC=C31.Cl
 PTI-1	CCCCCN1C=C(C2=NC(CN(CC)CC)=CS2)C3=CC=CC=C31.Cl
 2,4,5-Trihydroxyamphetamine	CC(N)CC1=C(O)C=C(O)C(O)=C1
+Modafinil acid	c1ccc(cc1)C(c2ccccc2)S(=O)CC(=O)O
 2,4,5-Trihydroxymethamphetamine	CNC(C)CC1=C(O)C=C(O)C(O)=C1
 THJ-018	O=C(C1=NN(CCCCC)C2=C1C=CC=C2)C3=C4C(C=CC=C4)=CC=C3
 NM-2201	FCCCCCN1C=C(C(OC2=C(C=CC=C3)C3=CC=C2)=O)C4=CC=CC=C41
@@ -13406,4 +13410,6 @@ APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
 MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
 4-Methylbuphedrone	CC1=CC=C(C(C(CC)NC)=O)C=C1.Cl
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
+Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
+3-amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
