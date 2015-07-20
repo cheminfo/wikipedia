@@ -218,7 +218,6 @@ Lipoamide	O=C(N)CCCC[C@H]1SSCC1
 Glutathione	C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
 Acetyl	C[C]=O
 Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
-Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
 Chloroform	ClC(Cl)Cl
 Paracetamol	CC(NC1=CC=C(O)C=C1)=O
@@ -10194,7 +10193,6 @@ Oxitriptyline	O=C(N(C)C)COC3c1ccccc1CCc2c3cccc2
 Norvaline	O=C(O)C(N)CCC
 Gallane	[GaH3]
 GSK 299423	COc1ccc2c(c1)c(c(cn2)C#N)CCN3CCC(CC3)NCc4cc5c(cn4)OCS5
-BNC210	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
 Dihydroxymethylidene	O[C]O
 JWH-019	c3cccc2c3cccc2C(=O)c1cn(CCCCCC)c4c1cccc4
 Methylcyclopentane	CC1CCCC1
@@ -13412,4 +13410,4 @@ MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
 Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
-3-amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
+3-Amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
