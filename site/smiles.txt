@@ -218,6 +218,7 @@ Lipoamide	O=C(N)CCCC[C@H]1SSCC1
 Glutathione	C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
 Acetyl	C[C]=O
 Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
+Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
 Chloroform	ClC(Cl)Cl
 Paracetamol	CC(NC1=CC=C(O)C=C1)=O
@@ -11836,7 +11837,7 @@ Cobalt(II) phosphide	[P-3].[P-3].[Co+2].[Co+2].[Co+2]
 Cobalt(II) formate	C(=O)[O-].C(=O)[O-].[Co+2]
 Nickel(II) titanate	[O-2].[O-2].[O-2].[Ti+4].[Ni+2]
 Nickel(II) nitrite	N(=O)[O-].N(=O)[O-].[Ni+2]
-EAM-2201	CCc4c2ccccc2c(cc4)C(=O)c(cn1CCCCCF)c3c1cccc3
+EAM-2201	CCC1=CC=C(C(C2=CN(CCCCCF)C3=C2C=CC=C3)=O)C4=C1C=CC=C4
 APICA (synthetic cannabinoid drug)	CCCCCn2c1ccccc1c(c2)C(=O)NC45CC3CC(C4)CC(C5)C3
 Fluorodopa	C1=C(C(=CC(=C1O)O)F)C[C@@H](C(=O)O)N
 Cyanoacetamide	N#CCC(=O)N
@@ -13412,6 +13413,9 @@ MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
 Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
+5F-ADBICA	FCCCCCn1cc(c2c1cccc2)C(=O)NC(C(C)(C)C)C(=O)N
 3-Amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
 VT-464	CC(C)C(C1=CC2=CC(=C(C=C2C=C1)OC(F)F)OC(F)F)(C3=NNN=C3)O
 5-MeO-EiPT	CC(C)N(CC)CCC1=CNC2=CC=C(OC)C=C21
+AMB-FUBINACA	FC(C=C1)=CC=C1CN2N=C(C(N[C@H](C(OC)=O)C(C)C)=O)C3=CC=CC=C32
+AMB-CHMINACA	O=C(N[C@@H](C(C)C)C(OC)=O)C1=NN(CC2CCCCC2)C3=C1C=CC=C3
