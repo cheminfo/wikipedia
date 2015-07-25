@@ -1534,7 +1534,6 @@ Phenobarbital	O=C1NC(=O)NC(=O)C1(c2ccccc2)CC
 Oleyl alcohol	OCCCCCCCC\C=C/CCCCCCCC
 2,4,6-Trichloroanisole	Clc1cc(Cl)cc(Cl)c1OC
 Thapsigargin	O=C3O[C@H]2C\1=C(\[C@H](OC(=O)\C(=C/C)C)[C@@H](OC(=O)CCCCCCC)[C@@H]/1[C@@](OC(=O)C)(C[C@H](OC(=O)CCC)[C@]2(O)[C@@]3(O)C)C)C
-Anisoyl chloride	COc1ccc(cc1)C(Cl)=O
 Isophthalic acid	O=C(O)c1cccc(C(=O)O)c1
 Glucose 1-phosphate	O=P(O)(OC1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)O
 Eicosapentaenoic acid	O=C(O)CCC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
@@ -13432,3 +13431,5 @@ FDU-NNE1	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)NC4=C(C=CC=C5)C5=CC=C4
 5F-NNE1	FCCCCCn1cc(c2c1cccc2)C(=O)Nc1cccc2c1cccc2
 Topilutamide	CC(CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
 MDMB-FUBICA	FC1=CC=C(C=C1)CN1C=C(C2=CC=CC=C12)C(=O)NC(C(=O)OC)C(C)(C)C
+ADAMANTYL-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
+BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
