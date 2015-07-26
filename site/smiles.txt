@@ -10173,7 +10173,6 @@ Rhein (molecule)	C1=CC2=C(C(=C1)O)C(=O)C3=C(C=C(C=C3C2=O)C(=O)O)O
 Benzo(a)fluorene	c4ccc3c2c(c1c(cccc1)C2)ccc3c4
 CECXG	c4cccc2c4Oc3ccccc3C2CC(N)(C(O)=O)C1C(C(=O)O)C1CC
 1-Iodomorphine	O[C@H]1\C=C/[C@H]4[C@H]2Cc5c3c(O[C@@H]1[C@]34CCN2C)c(O)cc5I
-Cannabicyclohexanol	CCCCCCCC(C)(C)c1ccc(c(c1)O)[C@@H]2CCC[C@@H](C2)O
 Cannabicyclohexanol	OC2CC(CCC2)c1ccc(cc1O)C(C)(C)CCCCCCC
 EBC-46	O=C1C(O)(C3O)C(C=C1C)C4(O)C(C)C(OC(=O)\C(\C)=C\C)C2(OC(=O)C(C)CC)C(C)(C)C2C4C5OC35CO
 Methylethyl ketone oxime	CC/C(=N/O)/C
@@ -13433,3 +13432,5 @@ Topilutamide	CC(CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
 MDMB-FUBICA	FC1=CC=C(C=C1)CN1C=C(C2=CC=CC=C12)C(=O)NC(C(=O)OC)C(C)(C)C
 ADAMANTYL-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
+CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
+2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
