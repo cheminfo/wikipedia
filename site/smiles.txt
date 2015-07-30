@@ -13419,6 +13419,8 @@ VT-464	CC(C)C(C1=CC2=CC(=C(C=C2C=C1)OC(F)F)OC(F)F)(C3=NNN=C3)O
 5-Hydroxyuracil	c1c(c(nc(n1)O)O)O
 Cytosine glycol	C1(C(NC(=O)N=C1N)O)O
 2-Oxohistidine	C1=NC(=O)N=C1CC(C(=O)O)N
+Uracil glycol	C1(C(NC(=O)NC1=O)O)O
+Thymine glycol	CC1(C(NC(=O)NC1=O)O)O
 MRK-016	CN1N=CN=C1COC1=NN2C(C=NN=C2C2=NOC(C)=C2)=C1C(C)(C)C
 AMB-FUBINACA	FC(C=C1)=CC=C1CN2N=C(C(N[C@H](C(OC)=O)C(C)C)=O)C3=CC=CC=C32
 AMB-CHMINACA	O=C(N[C@@H](C(C)C)C(OC)=O)C1=NN(CC2CCCCC2)C3=C1C=CC=C3
@@ -13440,3 +13442,6 @@ BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
 1P-LSD	C(C)N(C(=O)C1CN(C2CC=3C4=C(C2=C1)C=CC=C4N(C3)C(CC)=O)C)CC
+Jiadifenolide	O=C1OC[C@@]2(C)[C@@]3(OC4=O)[C@@]([C@H](C)CC3)([C@]4(O)O5)C[C@]5([H])[C@]21O
+Pachymic acid	CC(C)C(=C)CCC(C1C(CC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
+Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
