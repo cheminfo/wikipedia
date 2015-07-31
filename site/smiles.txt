@@ -1926,7 +1926,6 @@ Ammonium hydrosulfide	[SH-].[NH4+]
 Iron(II) sulfide	[Fe+2].[S-2]
 Sodium aluminate	O=[Al-]=O.[Na+]
 Merbromin	[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)C(/Br)=C\C=1\2
-Apiol	COc1cc(CC=C)c(OC)c2OCOc12
 Phenyltoloxamine	O(c1ccccc1Cc2ccccc2)CCN(C)C
 Perrhenic acid	[OH2][Re](=O)(=O)(=O)([OH2])O[Re](=O)(=O)=O
 Levocetirizine	Clc1ccc(cc1)[C@H](N2CCN(CCOCC(=O)O)CC2)c3ccccc3
@@ -2451,6 +2450,7 @@ Secoisolariciresinol	COC1=C(C=CC(=C1)CC(CO)C(CC2=CC(=C(C=C2)O)OC)CO)O
 Phosphoenolpyruvic acid	O=C(O)C(OP(=O)(O)O)=C
 Sodium monofluorophosphate	[Na+].[Na+].[O-]P([O-])(F)=O
 Levocabastine	Fc1ccc(cc1)[C@]2(CC[C@@H](CC2)N3CC[C@@]([C@H](C)C3)(c4ccccc4)C(O)=O)C#N
+Apiole	COc1cc(CC=C)c(OC)c2OCOc12
 Atovaquone	OC=2C(=O)c1ccccc1C(=O)C=2[C@@H]3CC[C@H](CC3)c4ccc(Cl)cc4
 Sodium oxalate	C(=O)(C(=O)[O-])[O-].[Na+].[Na+]
 Guanidinium thiocyanate	N#CS.[N@H]=C(N)N
