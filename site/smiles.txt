@@ -5915,7 +5915,6 @@ Propenidazole	O=C(OCC)\C(=C\c1ncc(n1C)[N+]([O-])=O)C(=O)C
 Azanidazole	[O-][N+](=O)c2cnc(\C=C\c1nc(ncc1)N)n2C
 Triphenyl phosphite	O(P(Oc1ccccc1)Oc2ccccc2)c3ccccc3
 Triphenyl phosphate	O=P(Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3
-Oxaceprol	CC(=O)N1C[C@@H](C[C@H]1C(=O)O)O
 Lithium succinate	[Li+].[Li+].[O-]C(=O)CCC([O-])=O
 Colfosceril palmitate	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C)CCCCCCCCCCCCCCC
 CS gas (data page)	Clc1ccccc1\C=C(/C#N)C#N
@@ -13422,6 +13421,7 @@ Cytosine glycol	C1(C(NC(=O)N=C1N)O)O
 Uracil glycol	C1(C(NC(=O)NC1=O)O)O
 Thymine glycol	CC1(C(NC(=O)NC1=O)O)O
 MRK-016	CN1N=CN=C1COC1=NN2C(C=NN=C2C2=NOC(C)=C2)=C1C(C)(C)C
+Methyl lactate	CC(C(=O)OC)O
 AMB-FUBINACA	FC(C=C1)=CC=C1CN2N=C(C(N[C@H](C(OC)=O)C(C)C)=O)C3=CC=CC=C32
 AMB-CHMINACA	O=C(N[C@@H](C(C)C)C(OC)=O)C1=NN(CC2CCCCC2)C3=C1C=CC=C3
 Cyanidin-3,5-O-diglucoside	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O)O
@@ -13447,4 +13447,4 @@ Pachymic acid	CC(C)C(=C)CCC(C1C(CC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)OC(=O)C)C)C)C)O)
 Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
 Pelargonin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
-3,3,4,4-tetramethyltetrahydrofuran-2,5-dione	CC1(C(=O)OC(=O)C1(C)C)C
+3,3,4,4-Tetramethyltetrahydrofuran-2,5-dione	CC1(C(=O)OC(=O)C1(C)C)C
