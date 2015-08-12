@@ -4647,7 +4647,6 @@ Carpaine	O=C3O[C@H]1CC[C@H](N[C@H]1C)CCCCCCCC(=O)O[C@@H]2[C@@H](N[C@@H](CC2)CCCC
 Tolvaptan	O=C(c1ccccc1C)Nc2ccc(c(c2)C)C(=O)N4c3ccc(Cl)cc3C(O)CCC4
 Bambuterol	O=C(Oc1cc(cc(OC(=O)N(C)C)c1)C(O)CNC(C)(C)C)N(C)C
 2-Arachidonoylglycerol	O=C(OC(CO)CO)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
-Chlorophenol red	Oc1ccccc1Cl.CN(C)C(=O)Nc1ccccc1
 Chlorophenol red	C1=CC=C2C(=C1)C(OS2(=O)=O)(C3=CC(=C(C=C3)O)Cl)C4=CC(=C(C=C4)O)Cl
 Vandetanib	CN1CCC(CC1)COc2cc3c(cc2OC)c(ncn3)Nc4ccc(cc4F)Br
 Dichloramine	ClNCl
@@ -13443,12 +13442,14 @@ ADAMANTYL-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
-1P-LSD	C(C)N(C(=O)C1CN(C2CC=3C4=C(C2=C1)C=CC=C4N(C3)C(CC)=O)C)CC
 Jiadifenolide	O=C1OC[C@@]2(C)[C@@]3(OC4=O)[C@@]([C@H](C)CC3)([C@]4(O)O5)C[C@]5([H])[C@]21O
+Tetramethyldiborane	B(B(C)C)(C)C
 Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
 Pelargonin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O
-Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
 3,3,4,4-Tetramethyltetrahydrofuran-2,5-dione	CC1(C(=O)OC(=O)C1(C)C)C
 4'-Methoxy-α-Pyrrolidinopentiophenone	COC1=CC=C(C(C(CCC)N2CCCC2)=O)C=C1.Cl
+5-Formyluracil	O=CC1=CNC(=O)NC1=O
+5-Hydroxyhydantoin	OC1NC(=O)NC1=O
 5F-EMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)C)C1=NN(CCCCCF)C2=CC=CC=C21
 3',4'-Dimethoxy-α-Pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
+Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
