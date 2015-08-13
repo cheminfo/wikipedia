@@ -7595,7 +7595,7 @@ Lurasidone	C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]
 Geiparvarin	CC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C3=CC(=O)C(O3)(C)C
 Geiparvarin	O=C/3Oc2c(ccc(OC/C=C(/C=1OC(C(=O)C=1)(C)C)C)c2)\C=C\3
 Stryker's reagent	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CuH].[CuH].[CuH].[CuH].[CuH].[CuH]
-Dioctyl sodium sulfosuccinate	[Na+].[O-]S(=O)(=O)C(C(=O)OCC(CC)CCCC)CC(=O)OCC(CC)CCCC
+Docusate	[Na+].[O-]S(=O)(=O)C(C(=O)OCC(CC)CCCC)CC(=O)OCC(CC)CCCC
 Clofilium	Clc1ccc(cc1)CCCC[N+](CC)(CC)CCCCCCC
 Sematilide	O=S(=O)(Nc1ccc(cc1)C(=O)NCCN(CC)CC)C
 Glycerol monostearate	O=C(OCC(O)CO)CCCCCCCCCCCCCCCCC
@@ -13453,3 +13453,6 @@ Pelargonin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C
 5F-EMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)C)C1=NN(CCCCCF)C2=CC=CC=C21
 3',4'-Dimethoxy-α-Pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
 Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
+Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
+Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
+3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
