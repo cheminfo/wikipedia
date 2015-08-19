@@ -8829,7 +8829,6 @@ Fluprednisolone	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)C[C@@H](C4=
 Melengestrol acetate	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@](OC(=O)C)(C(=C)\C[C@@H]12)C(=O)C)C)[C@@]3(C)CC4)C
 Flurogestone acetate	CC(=O)[C@]1(CC[C@H]2[C@]1(C[C@@H]([C@@]3([C@@H]2CCC4=CC(=O)CC[C@@]43C)F)O)C)OC(=O)C
 Algestone acetophenide	O=C(C)[C@]25O[C@@](O[C@@H]5C[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@]3(/C(=C\C(=O)CC3)CC4)C)(c6ccccc6)C
-Pregnenolone carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 Medrogestone	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](C(=O)C)(CC[C@@H]12)C)C)[C@@]3(C)CC4)C
 Promegestone	CCC(=O)[C@]1(CC[C@@H]2[C@@]1(CCC3=C4CCC(=O)C=C4CC[C@@H]23)C)C
 19-Iodocholesterol	CC(C)CCC[C@@H](C)[C@H]3CC[C@H]2[C@@H]4C\C=C1\C[C@@H](O)CC[C@]1(CI)[C@H]4CC[C@@]23C
@@ -13459,5 +13458,6 @@ Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
 Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
-Isoallopregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@@H](C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
+5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
+Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
