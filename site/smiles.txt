@@ -614,7 +614,7 @@ Magnesium diboride	[B].[B].[Mg]
 Bromothymol blue	Brc1c(O)c(cc(c1C)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4C)C(C)C)C(C)C
 Salbutamol	OCc1cc(ccc1O)C(O)CNC(C)(C)C
 1,3-Butadiene	C=CC=C
-Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
+4-Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
 Triiodothyronine	c1cc(c(cc1Oc2c(cc(cc2I)C[C@@H](C(=O)O)N)I)I)O
 Gallium nitride	[Ga]#N
 Androsterone	O=C2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4C[C@H](O)CC[C@]34C)C
@@ -11541,7 +11541,7 @@ NE-100	CCCN(CCC)CCC1=CC(=C(C=C1)OC)OCCC2=CC=CC=C2
 Psoralidin	OC1=CC(O2)=C(C=C1)C3=C2C(C=C(C/C=C(C)/C)C(O)=C4)=C4OC3=O
 2-Chloroethanesulfonyl chloride	C(CCl)S(=O)(=O)Cl
 1,2-Dichloroethyl acetate	CC(=O)OC(CCl)Cl
-Ethylthiocyanate	CCSC#N
+Ethyl thiocyanate	CCSC#N
 Alnusiin	C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C7=C6C8=C(C(=C(C=C8C(=O)O7)O)OC9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
 Bicornin	c1c(cc(c(c1O)O)O)C(=O)O[C@@H]2[C@H]3[C@@H](COC(=O)c4cc(c(c(c4Oc5c(cc6c(c5O)c7c(cc(c(c7oc6=O)O)O)C(=O)O3)O)O)O)O)O[C@H]([C@@H]2OC(=O)c8cc(c(c(c8)O)O)O)OC(=O)c9cc(c(c(c9)O)O)O
 Beta-Tocotrienol	CC1=CC(=C(C2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C)O
@@ -13458,6 +13458,8 @@ Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
 Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
+Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
+3α-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(CCC34C)O)C
