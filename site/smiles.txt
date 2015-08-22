@@ -2763,7 +2763,7 @@ Myrcene	CC(=CCCC(=C)C=C)C
 Flucloxacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c(onc2c1c(F)cccc1Cl)C)[C@H]4SC3(C)C
 P-Cymene	c1cc(ccc1C(C)C)C
 Barium titanate	[Ba+2].[Ba+2].[O-][Ti]([O-])([O-])[O-]
-Isopropyl thioxanthone	CC(C)C1=CC=CC2=C1SC3=CC=CC=C3C2=O
+Isopropylthioxanthone	CC(C)C1=CC=CC2=C1SC3=CC=CC=C3C2=O
 Iodoacetamide	C(C(=O)N)I
 Mercury(II) cyanide	C(#N)[Hg]C#N
 Lysergic acid hydroxyethylamide	C[C@@H](NC(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C)O
@@ -4344,7 +4344,7 @@ Megestrol acetate	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](OC(=O)C)(C(=O)C)CC[
 Norethisterone	O=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)C)CC4
 Medroxyprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](O)(C(=O)C)CC[C@H]3[C@@H]1C[C@@H]2C)C)(C)CC4
 Gestodene	O=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](/C=C\[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
-Gestonorone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@](O)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)CC4
+Gestonorone caproate	CCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C(=O)C
 Etiocholanolone	[H][C@]12CC[C@@]3([H])[C@]4([H])CCC(=O)[C@@]4(C)CC[C@]3([H])[C@@]1(C)CC[C@@H](O)C2
 Proscillaridin	O=C\1O\C=C(/C=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)CC[C@H]5[C@H]6CC/C4=C/[C@@H](O[C@@H]3O[C@H]([C@H](O)[C@@H](O)[C@H]3O)C)CC[C@@]45C
 Metildigoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](OC)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
@@ -5090,7 +5090,7 @@ Monoiodotyrosine	O=C(O)[C@@H](NI)Cc1ccc(O)cc1
 Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
 Methylenedioxyphentermine	NC(C)(C)CC1=CC(OCO2)=C2C=C1
 S-Nitroso-N-acetylpenicillamine	O=C(N[C@@H](C(=O)O)C(SN=O)(C)C)C
-17-Hydroxyprogesterone caproate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)CCCCC)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Hydroxyprogesterone caproate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)CCCCC)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 3C-BZ	CC(N)Cc2cc(OC)c(OCc1ccccc1)c(c2)OC
 3,4-Methylenedioxy-N-propylamphetamine	CC(NCCC)Cc1ccc2OCOc2c1
 Calcium formate	[Ca+2].[O-]C=O.[O-]C=O
@@ -7723,6 +7723,7 @@ Cobalt(II) acetate	[Co+2].[O-]C(=O)C.[O-]C(=O)C
 Sodium pyrosulfate	[Na+].[Na+].[O-]S(=O)(=O)OS(=O)(=O)[O-]
 Dihydroxyphenylethylene glycol	Oc1ccc(cc1O)C(O)CO
 Nysted reagent	Br[Zn]C[Zn]C[Zn]Br.C1CCCO1
+Tetrabromoethane	BrC(Br)C(Br)Br
 Nepicastat	Fc1cc3c(c(F)c1)CC[C@H](N2/C(=C\NC2=S)CN)C3
 Titan yellow	[Na+].[Na+].[O-]S(=O)(=O)c2c(ccc1nc(sc12)c6ccc(/N=N/Nc5ccc(c3nc4ccc(c(c4s3)S([O-])(=O)=O)C)cc5)cc6)C
 Darapladib	FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=C/4CCC5)CCN(CC)CC
@@ -13183,7 +13184,7 @@ Magnesium monohydride	[H].[Mg]
 Etodroxizine	c1ccc(cc1)C(c2ccc(cc2)Cl)N3CCN(CC3)CCOCCOCCO
 Pipoxizine	c1ccc(cc1)C(=C2CCN(CC2)CCOCCOCCO)c3ccccc3
 Nepadutant	CC(C)C[C@@H](C(=O)O)NC(=O)[C@@H]1CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)Cc3c[nH]c4c3cccc4)NC(=O)[C@H](CC(=O)N[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)NC(=O)C)N
-17-Hydroxyprogesterone acetate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)C)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Hydroxyprogesterone acetate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)C)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Pawhuskin A	CC(=CCC/C(=C/CC1=C(C=C(C=C1O)O)/C=C/C2=C(C(=C(C=C2)O)O)CC=C(C)C)/C)C
 Becampanel	c1c(cc2c(c1CNCP(=O)(O)O)[nH]c(=O)c(=O)[nH]2)[N+](=O)[O-]
 Selurampanel	CC(C)c1cc2c(cc1c3ccnn3C)c(=O)n(c(=O)[nH]2)NS(=O)(=O)C
@@ -13461,3 +13462,7 @@ Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(CCC34C)O)C
+Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
+Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
+Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
+Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
