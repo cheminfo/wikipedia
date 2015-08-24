@@ -8094,7 +8094,7 @@ Zineb	[Zn+2].[S-]C(=S)NCCNC(=S)[S-]
 Molybdenum hexafluoride	F[Mo](F)(F)(F)(F)F
 Tetrandrine	CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)OC)OC
 Sesamodil	CN1C2=CC=CC=C2SC(C1=O)C3=C(C=CC(=C3)OC)OCCCN(C)CCOC4=CC5=C(C=C4)OCO5
-Ryodipine	CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2OC(F)F)C(=O)OC
+Riodipine	CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2OC(F)F)C(=O)OC
 Oxodipine	CCOC(=O)C1=C(NC(=C(C1C2=C3C(=CC=C2)OCO3)C(=O)OC)C)C
 Osthol	O=C/2Oc1c(c(OC)ccc1\C=C\2)C\C=C(/C)C
 Norverapamil	CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
@@ -9981,7 +9981,6 @@ Beta-Phenylmethamphetamine	c2ccccc2C(C(C)NC)c1ccccc1
 Cebaracetam	C1CN(CC(=O)N1)C(=O)CN2CC(CC2=O)C3=CC=C(C=C3)Cl
 Doliracetam	C1=CC=C(C=C1)C2C3=CC=CC=C3N(C2=O)CC(=O)N
 Dupracetam	C1CC(=O)N(C1)CC(=O)NNC(=O)CN2CCCC2=O
-Piperacetam	CN2CCN(CC2)C(=O)CN1CCCC1=O
 3-Fluoroethamphetamine	c1ccc(CC(C)NCC)cc1F
 4-Methylphenylisobutylamine	c1cc(C)ccc1CC(N)CC
 Sabeluzole	CN(C1CCN(CC1)CC(COC2=CC=C(C=C2)F)O)C3=NC4=CC=CC=C4S3
@@ -13466,3 +13465,4 @@ Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
 Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
