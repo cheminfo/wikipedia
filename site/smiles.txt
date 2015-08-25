@@ -45,7 +45,6 @@ Glucose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
 Gamma-Hydroxybutyric acid	O=C(O)CCCO
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
 Heavy water	[2H]O[2H]
-Hydrogen peroxide	OO
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Ketamine	CNC1(C2=CC=CC=C2Cl)CCCCC1=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
@@ -1558,7 +1557,7 @@ Hexafluoro-2-propanol	FC(F)(F)C(F)(O)C(F)F
 Oxalyl chloride	ClC(=O)C(=O)Cl
 Trimethylamine	CN(C)C
 Calcium bicarbonate	[Ca+2].[O-]C(=O)O.[O-]C(=O)O
-Tetrahydroharmine	COc1cc2CCn3c(cc4c(cncc4c3=O)[C@@H](C)O)-c2cc1O
+Tetrahydroharmine	CC1c(c2CCN1)[nH]c3c2ccc(OC)c3
 Idebenone	O=C1/C(=C(\C(=O)C(\OC)=C1\OC)C)CCCCCCCCCCO
 Trimethylglycine	C[N+](C)(C)CC(=O)[O-]
 Vidarabine	C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)N
@@ -13451,7 +13450,7 @@ Pelargonin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C
 5-Formyluracil	O=CC1=CNC(=O)NC1=O
 5-Hydroxyhydantoin	OC1NC(=O)NC1=O
 5F-EMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)C)C1=NN(CCCCCF)C2=CC=CC=C21
-3',4'-Dimethoxy-α-Pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
+3',4'-Dimethoxy-α-pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
 Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
 Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
@@ -13465,4 +13464,5 @@ Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
 Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
