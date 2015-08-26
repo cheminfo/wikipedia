@@ -5026,7 +5026,7 @@ Ciproxifan	C1CC1C(=O)C2=CC=C(C=C2)OCCCC3=CN=CN3
 Ebselen	O=C1c3ccccc3[Se]N1c2ccccc2
 Leukotriene E4	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]([C@H](CCCC(=O)O)O)SCC(C(=O)O)N
 Mebhydrolin	CN3Cc4c1ccccc1n(Cc2ccccc2)c4CC3
-MDMEO	CC(NOC)Cc1ccc2OCOc2c1
+3,4-methylenedioxy-N-methoxyamphetamine	CC(NOC)Cc1ccc2OCOc2c1
 Maraviroc	Cc5nnc(n5[C@@H]1C[C@H]4CC[C@@H](C1)N4CC[C@H](NC(=O)C2CCC(F)(F)CC2)c3ccccc3)C(C)C
 Isocetane	CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C
 Benfotiamine	O=P(O)(O)OCCC(/SC(=O)c1ccccc1)=C(/N(C=O)Cc2cnc(nc2N)C)C
@@ -12518,6 +12518,7 @@ Metadoxine	Cc1c(c(c(cn1)CO)CO)O.C1CC(=O)N[C@@H]1C(=O)CO
 Dazomet	CN1CN(C(=S)SC1)C
 Arcapillin	COC1=C(C=C(C(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O)O
 Morelloflavone	C1=CC(=CC=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)C4=C(C=C(C5=C4OC(=CC5=O)C6=CC(=C(C=C6)O)O)O)O)O
+Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)C=O
 Isojacareubin	CC1(CCC2=C3C(=C(C=C2O1)O)C(=O)C4=C(O3)C(=C(C=C4)O)O)C
 Taraxerol	C[C@]12CCC(C[C@H]1C3(CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4(C3=CC2)C)(C)C)O)C)C)(C)C
 Thiotaurine	C(CS(=O)(=S)O)N
@@ -13466,3 +13467,4 @@ Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C
 Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
 Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
+Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
