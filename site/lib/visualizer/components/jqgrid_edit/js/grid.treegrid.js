@@ -10,7 +10,7 @@
 /*jshint eqeqeq:false */
 /*global jQuery */
 (function($) {
-
+"use strict";
 $.jgrid.extend({
 	setTreeNode : function(i, len){
 		return this.each(function(){

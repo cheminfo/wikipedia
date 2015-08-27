@@ -1,24 +1,23 @@
 /**
- * Twig.js 0.8.1
+ * Twig.js 0.8.3
  *
- * @copyright 2011-2014 John Roepke
+ * @copyright 2011-2015 John Roepke and the Twig.js Contributors
  * @license   Available under the BSD 2-Clause License
  * @link      https://github.com/justjohn/twig.js
  */
 
 var Twig = (function (Twig) {
 
-    Twig.VERSION = "0.8.1";
+    Twig.VERSION = "0.8.4";
 
     return Twig;
 })(Twig || {});
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
 var Twig = (function (Twig) {
-    
+    "use strict";
     // ## twig.core.js
     //
     // This file handles template level tokenizing, compiling and parsing.
@@ -132,6 +131,18 @@ var Twig = (function (Twig) {
         // 8. return undefined
     };
 
+    Twig.merge = function(target, source, onlyChanged) {
+        Twig.forEach(Object.keys(source), function (key) {
+            if (onlyChanged && !(key in target)) {
+                return;
+            }
+
+            target[key] = source[key]
+        });
+
+        return target;
+    };
+
     /**
      * Exception thrown by twig.js.
      */
@@ -155,7 +166,7 @@ var Twig = (function (Twig) {
      */
     Twig.log = {
         trace: function() {if (Twig.trace && console) {console.log(Array.prototype.slice.call(arguments));}},
-        debug: function() {if (Twig.debug && console) {console.log(Array.prototype.slice.call(arguments));}},
+        debug: function() {if (Twig.debug && console) {console.log(Array.prototype.slice.call(arguments));}}
     };
 
     if (typeof console !== "undefined") {
@@ -173,64 +184,14 @@ var Twig = (function (Twig) {
     }
 
     /**
-     * Wrapper for context objects in Twig.
+     * Wrapper for child context objects in Twig.
      *
-     * @param {Object} context Values to initialize the context with. If another 
-     *        Twig.Context is provided, it will be returned instead of creating 
-     *        a new context.
+     * @param {Object} context Values to initialize the context with.
      */
-    Twig.Context = function(context) {
-        // initializing Twig.Context over an existing context 
-        // should return that context.
-        if (context instanceof Twig.Context) {
-            return context;
-        }
-
-        // If the provided context is a plain object, merge it 
-        // into the new Twig.Context
-        if (context) {
-            this._twig_merge(context);
-        }
-    };
-
-    Twig.Context.prototype = {
-        /**
-         * Create a new context that extends off of this one.
-         *
-         * The new context will have it's prototype set to this context and the 
-         * _twig_ methods will be available on the child context.
-         */
-        _twig_create: function() {
-            var ChildContext = function ChildContext() {};
-            ChildContext.prototype = this;
-            return new ChildContext();
-        },
-        /**
-         * Merge another context object into this one.
-         *
-         * @param {Object} context The context object to merge in. Can be a Twig.Context or a 
-         *        plain JS object.
-         * @param {boolean} onlyChanged If true, this will only merge in keys that already 
-         *        exist in the context, no new keys will be added.
-         */
-        _twig_merge: function(context, onlyChanged) {
-            var that = this;
-
-            Twig.forEach(Object.keys(context), function (key) {
-                if (onlyChanged && !(key in that)) {
-                    return;
-                }
-
-                // prevent context methods from being overwitten
-                if (!(key in Twig.Context.prototype)) {
-                    that[key] = context[key];
-                } else {
-                    Twig.log.error(key + ' is not allowed on a Twig.Context, method name is reserved');
-                }
-            });
-
-            return this;
-        }
+    Twig.ChildContext = function(context) {
+        var ChildContext = function ChildContext() {};
+        ChildContext.prototype = context;
+        return new ChildContext();
     };
 
     /**
@@ -257,6 +218,11 @@ var Twig = (function (Twig) {
             type: Twig.token.type.raw,
             open: '{% raw %}',
             close: '{% endraw %}'
+        },
+        {
+            type: Twig.token.type.raw,
+            open: '{% verbatim %}',
+            close: '{% endverbatim %}'
         },
         // *Output type tokens*
         //
@@ -956,6 +922,7 @@ var Twig = (function (Twig) {
         Twig.log.debug("Twig.Template.reset", "Reseting template " + this.id);
         this.blocks = {};
         this.importedBlocks = [];
+        this.originalBlockTokens = {};
         this.child = {
             blocks: blocks || {}
         };
@@ -968,7 +935,7 @@ var Twig = (function (Twig) {
         var output,
             url;
 
-        this.context = new Twig.Context(context);
+        this.context = context || {};
 
         // Clear any previous state
         this.reset();
@@ -1164,7 +1131,7 @@ var Twig = (function (Twig) {
 //
 // This file contains fills for backwards compatability.
 (function() {
-    
+    "use strict";
     // Handle methods that don't yet exist in every browser
 
     if (!String.prototype.trim) {
@@ -1197,158 +1164,207 @@ var Twig = (function(Twig) {
     Twig.lib = { };
 
     /**
-    sprintf() for JavaScript 0.7-beta1
-    http://www.diveintojavascript.com/projects/javascript-sprintf
+    sprintf() for JavaScript 1.0.3
+    https://github.com/alexei/sprintf.js
     **/
-    var sprintf = (function() {
-            function get_type(variable) {
-                    return Object.prototype.toString.call(variable).slice(8, -1).toLowerCase();
+    var sprintfLib = (function() {
+        var re = {
+            not_string: /[^s]/,
+            number: /[diefg]/,
+            json: /[j]/,
+            not_json: /[^j]/,
+            text: /^[^\x25]+/,
+            modulo: /^\x25{2}/,
+            placeholder: /^\x25(?:([1-9]\d*)\$|\(([^\)]+)\))?(\+)?(0|'[^$])?(-)?(\d+)?(?:\.(\d+))?([b-gijosuxX])/,
+            key: /^([a-z_][a-z_\d]*)/i,
+            key_access: /^\.([a-z_][a-z_\d]*)/i,
+            index_access: /^\[(\d+)\]/,
+            sign: /^[\+\-]/
+        }
+
+        function sprintf() {
+            var key = arguments[0], cache = sprintf.cache
+            if (!(cache[key] && cache.hasOwnProperty(key))) {
+                cache[key] = sprintf.parse(key)
             }
-            function str_repeat(input, multiplier) {
-                    for (var output = []; multiplier > 0; output[--multiplier] = input) {/* do nothing */}
-                    return output.join('');
+            return sprintf.format.call(null, cache[key], arguments)
+        }
+
+        sprintf.format = function(parse_tree, argv) {
+            var cursor = 1, tree_length = parse_tree.length, node_type = "", arg, output = [], i, k, match, pad, pad_character, pad_length, is_positive = true, sign = ""
+            for (i = 0; i < tree_length; i++) {
+                node_type = get_type(parse_tree[i])
+                if (node_type === "string") {
+                    output[output.length] = parse_tree[i]
+                }
+                else if (node_type === "array") {
+                    match = parse_tree[i] // convenience purposes only
+                    if (match[2]) { // keyword argument
+                        arg = argv[cursor]
+                        for (k = 0; k < match[2].length; k++) {
+                            if (!arg.hasOwnProperty(match[2][k])) {
+                                throw new Error(sprintf("[sprintf] property '%s' does not exist", match[2][k]))
+                            }
+                            arg = arg[match[2][k]]
+                        }
+                    }
+                    else if (match[1]) { // positional argument (explicit)
+                        arg = argv[match[1]]
+                    }
+                    else { // positional argument (implicit)
+                        arg = argv[cursor++]
+                    }
+
+                    if (get_type(arg) == "function") {
+                        arg = arg()
+                    }
+
+                    if (re.not_string.test(match[8]) && re.not_json.test(match[8]) && (get_type(arg) != "number" && isNaN(arg))) {
+                        throw new TypeError(sprintf("[sprintf] expecting number but found %s", get_type(arg)))
+                    }
+
+                    if (re.number.test(match[8])) {
+                        is_positive = arg >= 0
+                    }
+
+                    switch (match[8]) {
+                        case "b":
+                            arg = arg.toString(2)
+                            break
+                        case "c":
+                            arg = String.fromCharCode(arg)
+                            break
+                        case "d":
+                        case "i":
+                            arg = parseInt(arg, 10)
+                            break
+                        case "j":
+                            arg = JSON.stringify(arg, null, match[6] ? parseInt(match[6]) : 0)
+                            break
+                        case "e":
+                            arg = match[7] ? arg.toExponential(match[7]) : arg.toExponential()
+                            break
+                        case "f":
+                            arg = match[7] ? parseFloat(arg).toFixed(match[7]) : parseFloat(arg)
+                            break
+                        case "g":
+                            arg = match[7] ? parseFloat(arg).toPrecision(match[7]) : parseFloat(arg)
+                            break
+                        case "o":
+                            arg = arg.toString(8)
+                            break
+                        case "s":
+                            arg = ((arg = String(arg)) && match[7] ? arg.substring(0, match[7]) : arg)
+                            break
+                        case "u":
+                            arg = arg >>> 0
+                            break
+                        case "x":
+                            arg = arg.toString(16)
+                            break
+                        case "X":
+                            arg = arg.toString(16).toUpperCase()
+                            break
+                    }
+                    if (re.json.test(match[8])) {
+                        output[output.length] = arg
+                    }
+                    else {
+                        if (re.number.test(match[8]) && (!is_positive || match[3])) {
+                            sign = is_positive ? "+" : "-"
+                            arg = arg.toString().replace(re.sign, "")
+                        }
+                        else {
+                            sign = ""
+                        }
+                        pad_character = match[4] ? match[4] === "0" ? "0" : match[4].charAt(1) : " "
+                        pad_length = match[6] - (sign + arg).length
+                        pad = match[6] ? (pad_length > 0 ? str_repeat(pad_character, pad_length) : "") : ""
+                        output[output.length] = match[5] ? sign + arg + pad : (pad_character === "0" ? sign + pad + arg : pad + sign + arg)
+                    }
+                }
             }
+            return output.join("")
+        }
 
-            var str_format = function() {
-                    if (!str_format.cache.hasOwnProperty(arguments[0])) {
-                            str_format.cache[arguments[0]] = str_format.parse(arguments[0]);
+        sprintf.cache = {}
+
+        sprintf.parse = function(fmt) {
+            var _fmt = fmt, match = [], parse_tree = [], arg_names = 0
+            while (_fmt) {
+                if ((match = re.text.exec(_fmt)) !== null) {
+                    parse_tree[parse_tree.length] = match[0]
+                }
+                else if ((match = re.modulo.exec(_fmt)) !== null) {
+                    parse_tree[parse_tree.length] = "%"
+                }
+                else if ((match = re.placeholder.exec(_fmt)) !== null) {
+                    if (match[2]) {
+                        arg_names |= 1
+                        var field_list = [], replacement_field = match[2], field_match = []
+                        if ((field_match = re.key.exec(replacement_field)) !== null) {
+                            field_list[field_list.length] = field_match[1]
+                            while ((replacement_field = replacement_field.substring(field_match[0].length)) !== "") {
+                                if ((field_match = re.key_access.exec(replacement_field)) !== null) {
+                                    field_list[field_list.length] = field_match[1]
+                                }
+                                else if ((field_match = re.index_access.exec(replacement_field)) !== null) {
+                                    field_list[field_list.length] = field_match[1]
+                                }
+                                else {
+                                    throw new SyntaxError("[sprintf] failed to parse named argument key")
+                                }
+                            }
+                        }
+                        else {
+                            throw new SyntaxError("[sprintf] failed to parse named argument key")
+                        }
+                        match[2] = field_list
                     }
-                    return str_format.format.call(null, str_format.cache[arguments[0]], arguments);
-            };
-
-            str_format.format = function(parse_tree, argv) {
-                    var cursor = 1, tree_length = parse_tree.length, node_type = '', arg, output = [], i, k, match, pad, pad_character, pad_length;
-                    for (i = 0; i < tree_length; i++) {
-                            node_type = get_type(parse_tree[i]);
-                            if (node_type === 'string') {
-                                    output.push(parse_tree[i]);
-                            }
-                            else if (node_type === 'array') {
-                                    match = parse_tree[i]; // convenience purposes only
-                                    if (match[2]) { // keyword argument
-                                            arg = argv[cursor];
-                                            for (k = 0; k < match[2].length; k++) {
-                                                    if (!arg.hasOwnProperty(match[2][k])) {
-                                                            throw(sprintf('[sprintf] property "%s" does not exist', match[2][k]));
-                                                    }
-                                                    arg = arg[match[2][k]];
-                                            }
-                                    }
-                                    else if (match[1]) { // positional argument (explicit)
-                                            arg = argv[match[1]];
-                                    }
-                                    else { // positional argument (implicit)
-                                            arg = argv[cursor++];
-                                    }
-
-                                    if (/[^s]/.test(match[8]) && (get_type(arg) != 'number')) {
-                                            throw(sprintf('[sprintf] expecting number but found %s', get_type(arg)));
-                                    }
-                                    switch (match[8]) {
-                                            case 'b': arg = arg.toString(2); break;
-                                            case 'c': arg = String.fromCharCode(arg); break;
-                                            case 'd': arg = parseInt(arg, 10); break;
-                                            case 'e': arg = match[7] ? arg.toExponential(match[7]) : arg.toExponential(); break;
-                                            case 'f': arg = match[7] ? parseFloat(arg).toFixed(match[7]) : parseFloat(arg); break;
-                                            case 'o': arg = arg.toString(8); break;
-                                            case 's': arg = ((arg = String(arg)) && match[7] ? arg.substring(0, match[7]) : arg); break;
-                                            case 'u': arg = Math.abs(arg); break;
-                                            case 'x': arg = arg.toString(16); break;
-                                            case 'X': arg = arg.toString(16).toUpperCase(); break;
-                                    }
-
-                                    var sign = '';
-                                    if (/[def]/.test(match[8])) {
-                                        if (match[3]) {
-                                            sign = arg >= 0 ? '+' : '-';
-                                        } else {
-                                            sign = arg >= 0 ? '' : '-';
-                                        }
-                                        arg = Math.abs(arg);
-                                    }
-
-                                    pad_character = match[4] ? match[4] == '0' ? '0' : match[4].charAt(1) : ' ';
-                                    pad_length = match[6] - String(arg).length - sign.length;
-                                    pad = match[6] ? str_repeat(pad_character, pad_length) : '';
-
-                                    if (match[5]) {
-                                        // trailing padding
-                                        output.push(sign);
-                                        output.push(arg);
-                                        output.push(pad);
-                                    } else if ('0' == pad_character) {
-                                        // leading zero padding
-                                        output.push(sign);
-                                        output.push(pad);
-                                        output.push(arg);
-                                    } else {
-                                        // leading padding
-                                        output.push(pad);
-                                        output.push(sign);
-                                        output.push(arg);
-                                    }
-                            }
+                    else {
+                        arg_names |= 2
                     }
-                    return output.join('');
-            };
-
-            str_format.cache = {};
-
-            str_format.parse = function(fmt) {
-                    var _fmt = fmt, match = [], parse_tree = [], arg_names = 0;
-                    while (_fmt) {
-                            if ((match = /^[^\x25]+/.exec(_fmt)) !== null) {
-                                    parse_tree.push(match[0]);
-                            }
-                            else if ((match = /^\x25{2}/.exec(_fmt)) !== null) {
-                                    parse_tree.push('%');
-                            }
-                            else if ((match = /^\x25(?:([1-9]\d*)\$|\(([^\)]+)\))?(\+)?(0|'[^$])?(-)?(\d+)?(?:\.(\d+))?([b-fosuxX])/.exec(_fmt)) !== null) {
-                                    if (match[2]) {
-                                            arg_names |= 1;
-                                            var field_list = [], replacement_field = match[2], field_match = [];
-                                            if ((field_match = /^([a-z_][a-z_\d]*)/i.exec(replacement_field)) !== null) {
-                                                    field_list.push(field_match[1]);
-                                                    while ((replacement_field = replacement_field.substring(field_match[0].length)) !== '') {
-                                                            if ((field_match = /^\.([a-z_][a-z_\d]*)/i.exec(replacement_field)) !== null) {
-                                                                    field_list.push(field_match[1]);
-                                                            }
-                                                            else if ((field_match = /^\[(\d+)\]/.exec(replacement_field)) !== null) {
-                                                                    field_list.push(field_match[1]);
-                                                            }
-                                                            else {
-                                                                    throw('[sprintf] huh?');
-                                                            }
-                                                    }
-                                            }
-                                            else {
-                                                    throw('[sprintf] huh?');
-                                            }
-                                            match[2] = field_list;
-                                    }
-                                    else {
-                                            arg_names |= 2;
-                                    }
-                                    if (arg_names === 3) {
-                                            throw('[sprintf] mixing positional and named placeholders is not (yet) supported');
-                                    }
-                                    parse_tree.push(match);
-                            }
-                            else {
-                                    throw('[sprintf] huh?');
-                            }
-                            _fmt = _fmt.substring(match[0].length);
+                    if (arg_names === 3) {
+                        throw new Error("[sprintf] mixing positional and named placeholders is not (yet) supported")
                     }
-                    return parse_tree;
-            };
+                    parse_tree[parse_tree.length] = match
+                }
+                else {
+                    throw new SyntaxError("[sprintf] unexpected placeholder")
+                }
+                _fmt = _fmt.substring(match[0].length)
+            }
+            return parse_tree
+        }
 
-            return str_format;
+        var vsprintf = function(fmt, argv, _argv) {
+            _argv = (argv || []).slice(0)
+            _argv.splice(0, 0, fmt)
+            return sprintf.apply(null, _argv)
+        }
+
+        /**
+         * helpers
+         */
+        function get_type(variable) {
+            return Object.prototype.toString.call(variable).slice(8, -1).toLowerCase()
+        }
+
+        function str_repeat(input, multiplier) {
+            return Array(multiplier + 1).join(input)
+        }
+
+        /**
+         * export
+         */
+        return {
+            sprintf: sprintf,
+            vsprintf: vsprintf
+        }
     })();
 
-    var vsprintf = function(fmt, argv) {
-        argv.unshift(fmt);
-        return sprintf.apply(null, argv);
-    };
+    var sprintf = sprintfLib.sprintf;
+    var vsprintf = sprintfLib.vsprintf;
 
     // Expose to Twig
     Twig.lib.sprintf = sprintf;
@@ -1612,196 +1628,273 @@ var Twig = (function(Twig) {
         return new Date(ms);
     };
 
-    Twig.lib.strtotime = function (str, now) {
-        // http://kevin.vanzonneveld.net
-        // +   original by: Caio Ariede (http://caioariede.com)
-        // +   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
-        // +      input by: David
-        // +   improved by: Caio Ariede (http://caioariede.com)
-        // +   improved by: Brett Zamir (http://brett-zamir.me)
-        // +   bugfixed by: Wagner B. Soares
-        // +   bugfixed by: Artur Tchernychev
-        // %        note 1: Examples all have a fixed timestamp to prevent tests to fail because of variable time(zones)
-        // *     example 1: strtotime('+1 day', 1129633200);
-        // *     returns 1: 1129719600
-        // *     example 2: strtotime('+1 week 2 days 4 hours 2 seconds', 1129633200);
-        // *     returns 2: 1130425202
-        // *     example 3: strtotime('last month', 1129633200);
-        // *     returns 3: 1127041200
-        // *     example 4: strtotime('2009-05-04 08:30:00');
-        // *     returns 4: 1241418600
-        var i, l, match, s, parse = '';
+    Twig.lib.strtotime = function (text, now) {
+        //  discuss at: http://phpjs.org/functions/strtotime/
+        //     version: 1109.2016
+        // original by: Caio Ariede (http://caioariede.com)
+        // improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+        // improved by: Caio Ariede (http://caioariede.com)
+        // improved by: A. Matías Quezada (http://amatiasq.com)
+        // improved by: preuter
+        // improved by: Brett Zamir (http://brett-zamir.me)
+        // improved by: Mirko Faber
+        //    input by: David
+        // bugfixed by: Wagner B. Soares
+        // bugfixed by: Artur Tchernychev
+        //        note: Examples all have a fixed timestamp to prevent tests to fail because of variable time(zones)
+        //   example 1: strtotime('+1 day', 1129633200);
+        //   returns 1: 1129719600
+        //   example 2: strtotime('+1 week 2 days 4 hours 2 seconds', 1129633200);
+        //   returns 2: 1130425202
+        //   example 3: strtotime('last month', 1129633200);
+        //   returns 3: 1127041200
+        //   example 4: strtotime('2009-05-04 08:30:00 GMT');
+        //   returns 4: 1241425800
 
-        str = str.replace(/\s{2,}|^\s|\s$/g, ' '); // unecessary spaces
-        str = str.replace(/[\t\r\n]/g, ''); // unecessary chars
-        if (str === 'now') {
-            return now === null || isNaN(now) ? new Date().getTime() / 1000 | 0 : now | 0;
-        } else if (!isNaN(parse = Date.parse(str))) {
-            return parse / 1000 | 0;
-        } else if (now) {
-            now = new Date(now * 1000); // Accept PHP-style seconds
-        } else {
-            now = new Date();
+        var parsed, match, today, year, date, days, ranges, len, times, regex, i, fail = false;
+
+        if (!text) {
+            return fail;
         }
 
-        var upperCaseStr = str;
+        // Unecessary spaces
+        text = text.replace(/^\s+|\s+$/g, '')
+            .replace(/\s{2,}/g, ' ')
+            .replace(/[\t\r\n]/g, '')
+            .toLowerCase();
 
-        str = str.toLowerCase();
+        // in contrast to php, js Date.parse function interprets:
+        // dates given as yyyy-mm-dd as in timezone: UTC,
+        // dates with "." or "-" as MDY instead of DMY
+        // dates with two-digit years differently
+        // etc...etc...
+        // ...therefore we manually parse lots of common date formats
+        match = text.match(
+            /^(\d{1,4})([\-\.\/\:])(\d{1,2})([\-\.\/\:])(\d{1,4})(?:\s(\d{1,2}):(\d{2})?:?(\d{2})?)?(?:\s([A-Z]+)?)?$/);
 
-        var __is = {
-            day: {
-                'sun': 0,
-                'mon': 1,
-                'tue': 2,
-                'wed': 3,
-                'thu': 4,
-                'fri': 5,
-                'sat': 6
-            },
-            mon: [
-                'jan',
-                'feb',
-                'mar',
-                'apr',
-                'may',
-                'jun',
-                'jul',
-                'aug',
-                'sep',
-                'oct',
-                'nov',
-                'dec'
-            ]
-        };
-
-        var process = function (m) {
-            var ago = (m[2] && m[2] === 'ago');
-            var num = (num = m[0] === 'last' ? -1 : 1) * (ago ? -1 : 1);
-
-            switch (m[0]) {
-            case 'last':
-            case 'next':
-                switch (m[1].substring(0, 3)) {
-                case 'yea':
-                    now.setFullYear(now.getFullYear() + num);
-                    break;
-                case 'wee':
-                    now.setDate(now.getDate() + (num * 7));
-                    break;
-                case 'day':
-                    now.setDate(now.getDate() + num);
-                    break;
-                case 'hou':
-                    now.setHours(now.getHours() + num);
-                    break;
-                case 'min':
-                    now.setMinutes(now.getMinutes() + num);
-                    break;
-                case 'sec':
-                    now.setSeconds(now.getSeconds() + num);
-                    break;
-                case 'mon':
-                    if (m[1] === "month") {
-                        now.setMonth(now.getMonth() + num);
-                        break;
-                    }
-                    // fall through
-                default:
-                    var day = __is.day[m[1].substring(0, 3)];
-                    if (typeof day !== 'undefined') {
-                        var diff = day - now.getDay();
-                        if (diff === 0) {
-                            diff = 7 * num;
-                        } else if (diff > 0) {
-                            if (m[0] === 'last') {
-                                diff -= 7;
-                            }
-                        } else {
-                            if (m[0] === 'next') {
-                                diff += 7;
-                            }
+        if (match && match[2] === match[4]) {
+            if (match[1] > 1901) {
+                switch (match[2]) {
+                case '-':
+                    {
+                        // YYYY-M-D
+                        if (match[3] > 12 || match[5] > 31) {
+                            return fail;
                         }
-                        now.setDate(now.getDate() + diff);
-                        now.setHours(0, 0, 0, 0); // when jumping to a specific last/previous day of week, PHP sets the time to 00:00:00
+
+                        return new Date(match[1], parseInt(match[3], 10) - 1, match[5],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                    }
+                case '.':
+                    {
+                        // YYYY.M.D is not parsed by strtotime()
+                        return fail;
+                    }
+                case '/':
+                    {
+                        // YYYY/M/D
+                        if (match[3] > 12 || match[5] > 31) {
+                            return fail;
+                        }
+
+                        return new Date(match[1], parseInt(match[3], 10) - 1, match[5],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
                     }
                 }
-                break;
+            } else if (match[5] > 1901) {
+                switch (match[2]) {
+                case '-':
+                    {
+                        // D-M-YYYY
+                        if (match[3] > 12 || match[1] > 31) {
+                            return fail;
+                        }
 
-            default:
-                if (/\d+/.test(m[0])) {
-                    num *= parseInt(m[0], 10);
-
-                    switch (m[1].substring(0, 3)) {
-                    case 'yea':
-                        now.setFullYear(now.getFullYear() + num);
-                        break;
-                    case 'mon':
-                        now.setMonth(now.getMonth() + num);
-                        break;
-                    case 'wee':
-                        now.setDate(now.getDate() + (num * 7));
-                        break;
-                    case 'day':
-                        now.setDate(now.getDate() + num);
-                        break;
-                    case 'hou':
-                        now.setHours(now.getHours() + num);
-                        break;
-                    case 'min':
-                        now.setMinutes(now.getMinutes() + num);
-                        break;
-                    case 'sec':
-                        now.setSeconds(now.getSeconds() + num);
-                        break;
+                        return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
                     }
-                } else {
-                    return false;
+                case '.':
+                    {
+                        // D.M.YYYY
+                        if (match[3] > 12 || match[1] > 31) {
+                            return fail;
+                        }
+
+                        return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                    }
+                case '/':
+                    {
+                        // M/D/YYYY
+                        if (match[1] > 12 || match[3] > 31) {
+                            return fail;
+                        }
+
+                        return new Date(match[5], parseInt(match[1], 10) - 1, match[3],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                    }
                 }
-                break;
+            } else {
+                switch (match[2]) {
+                case '-':
+                    {
+                        // YY-M-D
+                        if (match[3] > 12 || match[5] > 31 || (match[1] < 70 && match[1] > 38)) {
+                            return fail;
+                        }
+
+                        year = match[1] >= 0 && match[1] <= 38 ? +match[1] + 2000 : match[1];
+                        return new Date(year, parseInt(match[3], 10) - 1, match[5],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                    }
+                case '.':
+                    {
+                        // D.M.YY or H.MM.SS
+                        if (match[5] >= 70) {
+                            // D.M.YY
+                            if (match[3] > 12 || match[1] > 31) {
+                                return fail;
+                            }
+
+                            return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
+                                match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                        }
+                        if (match[5] < 60 && !match[6]) {
+                            // H.MM.SS
+                            if (match[1] > 23 || match[3] > 59) {
+                                return fail;
+                            }
+
+                            today = new Date();
+                            return new Date(today.getFullYear(), today.getMonth(), today.getDate(),
+                                match[1] || 0, match[3] || 0, match[5] || 0, match[9] || 0) / 1000;
+                        }
+
+                        // invalid format, cannot be parsed
+                        return fail;
+                    }
+                case '/':
+                    {
+                        // M/D/YY
+                        if (match[1] > 12 || match[3] > 31 || (match[5] < 70 && match[5] > 38)) {
+                            return fail;
+                        }
+
+                        year = match[5] >= 0 && match[5] <= 38 ? +match[5] + 2000 : match[5];
+                        return new Date(year, parseInt(match[1], 10) - 1, match[3],
+                            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
+                    }
+                case ':':
+                    {
+                        // HH:MM:SS
+                        if (match[1] > 23 || match[3] > 59 || match[5] > 59) {
+                            return fail;
+                        }
+
+                        today = new Date();
+                        return new Date(today.getFullYear(), today.getMonth(), today.getDate(),
+                            match[1] || 0, match[3] || 0, match[5] || 0) / 1000;
+                    }
+                }
             }
-            return true;
+        }
+
+        // other formats and "now" should be parsed by Date.parse()
+        if (text === 'now') {
+            return now === null || isNaN(now) ? new Date()
+                .getTime() / 1000 | 0 : now | 0;
+        }
+        if (!isNaN(parsed = Date.parse(text))) {
+            return parsed / 1000 | 0;
+        }
+
+        date = now ? new Date(now * 1000) : new Date();
+        days = {
+            'sun': 0,
+            'mon': 1,
+            'tue': 2,
+            'wed': 3,
+            'thu': 4,
+            'fri': 5,
+            'sat': 6
+        };
+        ranges = {
+            'yea': 'FullYear',
+            'mon': 'Month',
+            'day': 'Date',
+            'hou': 'Hours',
+            'min': 'Minutes',
+            'sec': 'Seconds'
         };
 
-        match = str.match(/^(\d{2,4}-\d{2}-\d{2})(?:\s(\d{1,2}:\d{2}(:\d{2})?)?(?:\.(\d+))?)?$/);
-        if (match !== null) {
-            if (!match[2]) {
-                match[2] = '00:00:00';
-            } else if (!match[3]) {
-                match[2] += ':00';
+        function lastNext(type, range, modifier) {
+            var diff, day = days[range];
+
+            if (typeof day !== 'undefined') {
+                diff = day - date.getDay();
+
+                if (diff === 0) {
+                    diff = 7 * modifier;
+                } else if (diff > 0 && type === 'last') {
+                    diff -= 7;
+                } else if (diff < 0 && type === 'next') {
+                    diff += 7;
+                }
+
+                date.setDate(date.getDate() + diff);
             }
-
-            s = match[1].split(/-/g);
-
-            s[1] = __is.mon[s[1] - 1] || s[1];
-            s[0] = +s[0];
-
-            s[0] = (s[0] >= 0 && s[0] <= 69) ? '20' + (s[0] < 10 ? '0' + s[0] : s[0] + '') : (s[0] >= 70 && s[0] <= 99) ? '19' + s[0] : s[0] + '';
-            return parseInt(this.strtotime(s[2] + ' ' + s[1] + ' ' + s[0] + ' ' + match[2]) + (match[4] ? match[4] / 1000 : ''), 10);
         }
 
-        var regex = '([+-]?\\d+\\s' + '(years?|months?|weeks?|days?|hours?|min|minutes?|sec|seconds?' + '|sun\\.?|sunday|mon\\.?|monday|tue\\.?|tuesday|wed\\.?|wednesday' + '|thu\\.?|thursday|fri\\.?|friday|sat\\.?|saturday)' + '|(last|next)\\s' + '(years?|months?|weeks?|days?|hours?|min|minutes?|sec|seconds?' + '|sun\\.?|sunday|mon\\.?|monday|tue\\.?|tuesday|wed\\.?|wednesday' + '|thu\\.?|thursday|fri\\.?|friday|sat\\.?|saturday))' + '(\\sago)?';
+        function process(val) {
+            var splt = val.split(' '), // Todo: Reconcile this with regex using \s, taking into account browser issues with split and regexes
+                type = splt[0],
+                range = splt[1].substring(0, 3),
+                typeIsNumber = /\d+/.test(type),
+                ago = splt[2] === 'ago',
+                num = (type === 'last' ? -1 : 1) * (ago ? -1 : 1);
 
-        match = str.match(new RegExp(regex, 'gi')); // Brett: seems should be case insensitive per docs, so added 'i'
-        if (match === null) {
-            // Try to parse ISO8601 in IE8
-            try {
-                num = Twig.lib.parseISO8601Date(upperCaseStr);
-                if (num) {
-                    return num / 1000 | 0;
-               }
-            } catch (err) {
+            if (typeIsNumber) {
+                num *= parseInt(type, 10);
+            }
+
+            if (ranges.hasOwnProperty(range) && !splt[1].match(/^mon(day|\.)?$/i)) {
+                return date['set' + ranges[range]](date['get' + ranges[range]]() + num);
+            }
+
+            if (range === 'wee') {
+                return date.setDate(date.getDate() + (num * 7));
+            }
+
+            if (type === 'next' || type === 'last') {
+                lastNext(type, range, num);
+            } else if (!typeIsNumber) {
                 return false;
             }
-            return false;
+
+            return true;
         }
 
-        for (i = 0, l = match.length; i < l; i++) {
-            if (!process(match[i].split(' '))) {
-                return false;
+        times = '(years?|months?|weeks?|days?|hours?|minutes?|min|seconds?|sec' +
+            '|sunday|sun\\.?|monday|mon\\.?|tuesday|tue\\.?|wednesday|wed\\.?' +
+            '|thursday|thu\\.?|friday|fri\\.?|saturday|sat\\.?)';
+        regex = '([+-]?\\d+\\s' + times + '|' + '(last|next)\\s' + times + ')(\\sago)?';
+
+        match = text.match(new RegExp(regex, 'gi'));
+        if (!match) {
+            return fail;
+        }
+
+        for (i = 0, len = match.length; i < len; i++) {
+            if (!process(match[i])) {
+                return fail;
             }
         }
 
-        return now.getTime() / 1000 | 0;
+        // ECMAScript 5 only
+        // if (!match.every(process))
+        //    return false;
+
+        return (date.getTime() / 1000);
     };
 
     Twig.lib.is = function(type, obj) {
@@ -1898,7 +1991,6 @@ var Twig = (function(Twig) {
 
 })(Twig || { });
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -1906,7 +1998,7 @@ var Twig = (function(Twig) {
 //
 // This file handles tokenizing, compiling and parsing logic tokens. {% ... %}
 var Twig = (function (Twig) {
-    
+    "use strict";
 
     /**
      * Namespace for logic handling.
@@ -1973,7 +2065,7 @@ var Twig = (function (Twig) {
              *  Format: {% if expression %}
              */
             type: Twig.logic.type.if_,
-            regex: /^if\s+([^\s].+)$/,
+            regex: /^if\s+([\s\S]+)$/,
             next: [
                 Twig.logic.type.else_,
                 Twig.logic.type.elseif,
@@ -2162,7 +2254,7 @@ var Twig = (function (Twig) {
                     },
                     // run once for each iteration of the loop
                     loop = function(key, value) {
-                        var inner_context = context._twig_create();
+                        var inner_context = Twig.ChildContext(context);
 
                         inner_context[token.value_var] = value;
 
@@ -2185,26 +2277,26 @@ var Twig = (function (Twig) {
                         delete inner_context[token.value_var];
                         delete inner_context[token.key_var];
 
-                        // Merge in values that exist in context but have changed 
+                        // Merge in values that exist in context but have changed
                         // in inner_context.
-                        context._twig_merge(inner_context, true);
+                        Twig.merge(context, inner_context, true);
                     };
 
 
-                if (result instanceof Array) {
+                if (Twig.lib.is('Array', result)) {
                     len = result.length;
                     Twig.forEach(result, function (value) {
                         var key = index;
 
                         loop(key, value);
                     });
-                } else if (result instanceof Object) {
+                } else if (Twig.lib.is('Object', result)) {
                     if (result._keys !== undefined) {
                         keyset = result._keys;
                     } else {
                         keyset = Object.keys(result);
                     }
-					len = keyset.length;
+                    len = keyset.length;
                     Twig.forEach(keyset, function(key) {
                         // Ignore the _keys property, it's internal to twig.js
                         if (key === "_keys") return;
@@ -2240,7 +2332,7 @@ var Twig = (function (Twig) {
              *  Format: {% set key = expression %}
              */
             type: Twig.logic.type.set,
-            regex: /^set\s+([a-zA-Z0-9_,\s]+)\s*=\s*(.+)$/,
+            regex: /^set\s+([a-zA-Z0-9_,\s]+)\s*=\s*([\s\S]+)$/,
             next: [ ],
             open: true,
             compile: function (token) {
@@ -2389,7 +2481,7 @@ var Twig = (function (Twig) {
 
                 // Don't override previous blocks unless they're imported with "use"
                 // Loops should be exempted as well.
-                if (this.blocks[token.block] === undefined || isImported || hasParent || context.loop) {
+                if (this.blocks[token.block] === undefined || isImported || hasParent || context.loop || token.overwrite) {
                     block_output = Twig.expression.parse.apply(this, [{
                         type: Twig.expression.type.string,
                         value: Twig.parse.apply(this, [token.output, context])
@@ -2401,10 +2493,17 @@ var Twig = (function (Twig) {
                     }
 
                     if (hasParent) {
-                        this.blocks[token.block] =  this.blocks[token.block].replace(Twig.placeholders.parent, block_output);
+                        this.blocks[token.block] = Twig.Markup(this.blocks[token.block].replace(Twig.placeholders.parent, block_output));
                     } else {
                         this.blocks[token.block] = block_output;
                     }
+
+                    this.originalBlockTokens[token.block] = {
+                        type: token.type,
+                        block: token.block,
+                        output: token.output,
+                        overwrite: true
+                    };
                 }
 
                 // Check if a child block has been set from a template extending this one.
@@ -2506,7 +2605,7 @@ var Twig = (function (Twig) {
              *  Format: {% includes "template.twig" [with {some: 'values'} only] %}
              */
             type: Twig.logic.type.include,
-            regex: /^include\s+(ignore missing\s+)?(.+?)\s*(?:with\s+(.+?))?\s*(only)?$/,
+            regex: /^include\s+(ignore missing\s+)?(.+?)\s*(?:with\s+([\S\s]+?))?\s*(only)?$/,
             next: [ ],
             open: true,
             compile: function (token) {
@@ -2543,10 +2642,7 @@ var Twig = (function (Twig) {
                     template;
 
                 if (!token.only) {
-                    for (i in context) {
-                        if (context.hasOwnProperty(i))
-                            innerContext[i] = context[i];
-                    }
+                    innerContext = Twig.ChildContext(context);
                 }
 
                 if (token.withStack !== undefined) {
@@ -2612,14 +2708,14 @@ var Twig = (function (Twig) {
              *
              */
             type: Twig.logic.type.macro,
-            regex: /^macro\s+([a-zA-Z0-9_]+)\s?\((([a-zA-Z0-9_]+(,\s?)?)*)\)$/,
+            regex: /^macro\s+([a-zA-Z0-9_]+)\s*\(\s*((?:[a-zA-Z0-9_]+(?:,\s*)?)*)\s*\)$/,
             next: [
                 Twig.logic.type.endmacro
             ],
             open: true,
             compile: function (token) {
                 var macroName = token.match[1],
-                    parameters = token.match[2].split(/[ ,]+/);
+                    parameters = token.match[2].split(/[\s,]+/);
 
                 //TODO: Clean up duplicate check
                 for (var i=0; i<parameters.length; i++) {
@@ -2918,10 +3014,6 @@ var Twig = (function (Twig) {
 
         if (!definition.type) {
             throw new Twig.Error("Unable to extend logic definition. No type provided for " + definition);
-        }
-        if (Twig.logic.type[definition.type]) {
-            throw new Twig.Error("Unable to extend logic definitions. Type " +
-                                 definition.type + " is already defined.");
         } else {
             Twig.logic.extendType(definition.type);
         }
@@ -3047,7 +3139,6 @@ var Twig = (function (Twig) {
 
 })(Twig || { });
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -3055,7 +3146,7 @@ var Twig = (function (Twig) {
 //
 // This file handles tokenizing, compiling and parsing expressions.
 var Twig = (function (Twig) {
-    
+    "use strict";
 
     /**
      * Namespace for expression handling.
@@ -3325,7 +3416,7 @@ var Twig = (function (Twig) {
              */
             type: Twig.expression.type.string,
             // See: http://blog.stevenlevithan.com/archives/match-quoted-string
-            regex: /^(["'])(?:(?=(\\?))\2.)*?\1/,
+            regex: /^(["'])(?:(?=(\\?))\2[\s\S])*?\1/,
             next: Twig.expression.set.operations,
             compile: function(token, stack, output) {
                 var value = token.value;
@@ -4042,7 +4133,6 @@ var Twig = (function (Twig) {
 
 })( Twig || { } );
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -4050,7 +4140,7 @@ var Twig = (function (Twig) {
 //
 // This file handles operator lookups and parsing.
 var Twig = (function (Twig) {
-    
+    "use strict";
 
     /**
      * Operator associativity constants.
@@ -4320,7 +4410,6 @@ var Twig = (function (Twig) {
 
 })( Twig || { } );
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -4387,7 +4476,7 @@ var Twig = (function (Twig) {
                 return value.reverse();
             } else if (is("String", value)) {
                 return value.split("").reverse().join("");
-            } else if (value instanceof Object) {
+            } else if (is("Object", value)) {
                 var keys = value._keys || Object.keys(value).reverse();
                 value._keys = keys;
                 return value;
@@ -4396,7 +4485,7 @@ var Twig = (function (Twig) {
         sort: function(value) {
             if (is("Array", value)) {
                 return value.sort();
-            } else if (value instanceof Object) {
+            } else if (is('Object', value)) {
                 // Sorting objects isn't obvious since the order of
                 // returned keys isn't guaranteedin JavaScript.
                 // Because of this we use a "hidden" key called _keys to
@@ -4446,7 +4535,7 @@ var Twig = (function (Twig) {
             if (params && params[0]) {
                 join_str = params[0];
             }
-            if (value instanceof Array) {
+            if (is("Array", value)) {
                 output = value;
             } else {
                 keyset = value._keys || Object.keys(value);
@@ -4484,21 +4573,21 @@ var Twig = (function (Twig) {
                 keyset = [];
 
             // Check to see if all the objects being merged are arrays
-            if (!(value instanceof Array)) {
+            if (!is("Array", value)) {
                 // Create obj as an Object
                 obj = { };
             } else {
                 Twig.forEach(params, function(param) {
-                    if (!(param instanceof Array)) {
+                    if (!is("Array", param)) {
                         obj = { };
                     }
                 });
             }
-            if (!(obj instanceof Array)) {
+            if (!is("Array", obj)) {
                 obj._keys = [];
             }
 
-            if (value instanceof Array) {
+            if (is("Array", value)) {
                 Twig.forEach(value, function(val) {
                     if (obj._keys) obj._keys.push(arr_index);
                     obj[arr_index] = val;
@@ -4526,7 +4615,7 @@ var Twig = (function (Twig) {
 
             // mixin the merge arrays
             Twig.forEach(params, function(param) {
-                if (param instanceof Array) {
+                if (is("Array", param)) {
                     Twig.forEach(param, function(val) {
                         if (obj._keys) obj._keys.push(arr_index);
                         obj[arr_index] = val;
@@ -4552,12 +4641,9 @@ var Twig = (function (Twig) {
             return obj;
         },
         date: function(value, params) {
-            if (value === undefined||value === null){
-                return;
-            }
-
             var date = Twig.functions.date(value);
-            return Twig.lib.formatDate(date, params[0]);
+            var format = params && params.length ? params[0] : 'F j, Y H:i';
+            return Twig.lib.formatDate(date, format);
         },
 
         date_modify: function(value, params) {
@@ -4643,7 +4729,9 @@ var Twig = (function (Twig) {
                         .replace(/\r/g, br)
                         .replace(/\n/g, br);
 
-            return Twig.lib.replaceAll(value, linebreak_tag, "\n");
+            value = Twig.lib.replaceAll(value, linebreak_tag, "\n");
+
+            return Twig.Markup(value);
         },
 
         /**
@@ -4772,9 +4860,9 @@ var Twig = (function (Twig) {
         },
 
         first: function(value) {
-            if (value instanceof Array) {
+            if (is("Array", value)) {
                 return value[0];
-            } else if (value instanceof Object) {
+            } else if (is("Object", value)) {
                 if ('_keys' in value) {
                     return value[value._keys[0]];
                 }
@@ -4933,7 +5021,6 @@ var Twig = (function (Twig) {
 
 })(Twig || { });
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //                   2012 Hadrien Lanneau
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
@@ -5003,19 +5090,19 @@ var Twig = (function (Twig) {
         },
         dump: function() {
             var EOL = '\n',
-            	indentChar = '  ',
-            	indentTimes = 0,
-            	out = '',
-				args = Array.prototype.slice.call(arguments),
-				indent = function(times) {
-                	var ind	 = '';
+                indentChar = '  ',
+                indentTimes = 0,
+                out = '',
+                args = Array.prototype.slice.call(arguments),
+                indent = function(times) {
+                    var ind  = '';
                     while (times > 0) {
                         times--;
                         ind += indentChar;
                     }
                     return ind;
                 },
-				displayVar = function(variable) {
+                displayVar = function(variable) {
                     out += indent(indentTimes);
                     if (typeof(variable) === 'object') {
                         dumpVar(variable);
@@ -5029,41 +5116,41 @@ var Twig = (function (Twig) {
                         out += 'bool(' + variable + ')' + EOL;
                     }
                 },
-             	dumpVar = function(variable) {
-					var	i;
-	                if (variable === null) {
-	                    out += 'NULL' + EOL;
-	                } else if (variable === undefined) {
-	                    out += 'undefined' + EOL;
-	                } else if (typeof variable === 'object') {
-	                    out += indent(indentTimes) + typeof(variable);
-	                    indentTimes++;
-	                    out += '(' + (function(obj) {
-	                        var size = 0, key;
-	                        for (key in obj) {
-	                            if (obj.hasOwnProperty(key)) {
-	                                size++;
-	                            }
-	                        }
-	                        return size;
-	                    })(variable) + ') {' + EOL;
-	                    for (i in variable) {
-	                        out += indent(indentTimes) + '[' + i + ']=> ' + EOL;
-	                        displayVar(variable[i]);
-	                    }
-	                    indentTimes--;
-	                    out += indent(indentTimes) + '}' + EOL;
-	                } else {
-	                    displayVar(variable);
-	                }
-	            };
+                dumpVar = function(variable) {
+                    var i;
+                    if (variable === null) {
+                        out += 'NULL' + EOL;
+                    } else if (variable === undefined) {
+                        out += 'undefined' + EOL;
+                    } else if (typeof variable === 'object') {
+                        out += indent(indentTimes) + typeof(variable);
+                        indentTimes++;
+                        out += '(' + (function(obj) {
+                            var size = 0, key;
+                            for (key in obj) {
+                                if (obj.hasOwnProperty(key)) {
+                                    size++;
+                                }
+                            }
+                            return size;
+                        })(variable) + ') {' + EOL;
+                        for (i in variable) {
+                            out += indent(indentTimes) + '[' + i + ']=> ' + EOL;
+                            displayVar(variable[i]);
+                        }
+                        indentTimes--;
+                        out += indent(indentTimes) + '}' + EOL;
+                    } else {
+                        displayVar(variable);
+                    }
+                };
 
-			// handle no argument case by dumping the entire render context
-			if (args.length == 0) args.push(this.context);
+            // handle no argument case by dumping the entire render context
+            if (args.length == 0) args.push(this.context);
 
-			Twig.forEach(args, function(variable) {
-				dumpVar(variable);
-			});
+            Twig.forEach(args, function(variable) {
+                dumpVar(variable);
+            });
 
             return out;
         },
@@ -5084,14 +5171,18 @@ var Twig = (function (Twig) {
             return dateObj;
         },
         block: function(block) {
-            return this.blocks[block];
+            if (this.originalBlockTokens[block]) {
+                return Twig.logic.parse.apply(this, [this.originalBlockTokens[block], this.context]).output;
+            } else {
+                return this.blocks[block];
+            }
         },
         parent: function() {
             // Add a placeholder
             return Twig.placeholders.parent;
         },
         attribute: function(object, method, params) {
-            if (object instanceof Object) {
+            if (Twig.lib.is('Object', object)) {
                 if (object.hasOwnProperty(method)) {
                     if (typeof object[method] === "function") {
                         return object[method].apply(undefined, params);
@@ -5160,7 +5251,6 @@ var Twig = (function (Twig) {
 
 })(Twig || { });
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -5168,7 +5258,7 @@ var Twig = (function (Twig) {
 //
 // This file handles expression tests. (is empty, is not defined, etc...)
 var Twig = (function (Twig) {
-    
+    "use strict";
     Twig.tests = {
         empty: function(value) {
             if (value === null || value === undefined) return true;
@@ -5225,7 +5315,6 @@ var Twig = (function (Twig) {
     return Twig;
 })( Twig || { } );
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -5234,7 +5323,7 @@ var Twig = (function (Twig) {
 // This file provides extension points and other hooks into the twig functionality.
 
 var Twig = (function (Twig) {
-    
+    "use strict";
     Twig.exports = {
         VERSION: Twig.VERSION
     };
@@ -5247,7 +5336,7 @@ var Twig = (function (Twig) {
      * @return {Twig.Template} A Twig template ready for rendering.
      */
     Twig.exports.twig = function twig(params) {
-        
+        'use strict';
         var id = params.id,
             options = {
                 strict_variables: params.strict_variables || false,
@@ -5417,7 +5506,6 @@ var Twig = (function (Twig) {
 }) (Twig || { });
 
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 
@@ -5473,7 +5561,6 @@ var Twig = (function (Twig) {
     return Twig;
 })(Twig || {});
 //     Twig.js
-//     Copyright (c) 2011-2013 John Roepke
 //     Available under the BSD 2-Clause License
 //     https://github.com/justjohn/twig.js
 

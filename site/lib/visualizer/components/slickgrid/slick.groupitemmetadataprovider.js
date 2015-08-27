@@ -51,7 +51,7 @@
           "' style='margin-left:" + indentation +"'>" +
           "</span>" +
           "<span class='" + options.groupTitleCssClass + "' level='" + item.level + "'>" +
-            item.title +
+          item.title +
           "</span>";
     }
 
@@ -74,13 +74,19 @@
       }
     }
 
+    var onGroupExpanded = new Slick.Event();
+    var onGroupCollapsed = new Slick.Event();
     function handleGridClick(e, args) {
+      var self = this;
       var item = this.getDataItem(args.row);
       if (item && item instanceof Slick.Group && $(e.target).hasClass(options.toggleCssClass)) {
+        args.item = item;
         if (item.collapsed) {
           this.getData().expandGroup(item.groupingKey);
+          onGroupExpanded.notify(args, e, self);
         } else {
           this.getData().collapseGroup(item.groupingKey);
+          onGroupCollapsed.notify(args, e, self);
         }
 
         e.stopImmediatePropagation();
@@ -90,15 +96,19 @@
 
     // TODO:  add -/+ handling
     function handleGridKeyDown(e, args) {
+      var self = this;
       if (options.enableExpandCollapse && (e.which == $.ui.keyCode.SPACE)) {
         var activeCell = this.getActiveCell();
         if (activeCell) {
           var item = this.getDataItem(activeCell.row);
           if (item && item instanceof Slick.Group) {
+            args.item = item;
             if (item.collapsed) {
               this.getData().expandGroup(item.groupingKey);
+              onGroupExpanded.notify(args, e, self);
             } else {
               this.getData().collapseGroup(item.groupingKey);
+              onGroupCollapsed.notify(args, e, self);
             }
 
             e.stopImmediatePropagation();
@@ -138,7 +148,9 @@
       "init": init,
       "destroy": destroy,
       "getGroupRowMetadata": getGroupRowMetadata,
-      "getTotalsRowMetadata": getTotalsRowMetadata
+      "getTotalsRowMetadata": getTotalsRowMetadata,
+      "onGroupExpanded": onGroupExpanded,
+      "onGroupCollapsed": onGroupCollapsed
     };
   }
 })(jQuery);

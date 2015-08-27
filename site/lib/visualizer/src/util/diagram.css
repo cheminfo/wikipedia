@@ -1,0 +1,37 @@
+.ci-diagram .link {
+    fill: none;
+    stroke: #666;
+    stroke-width: 1px;
+}
+
+.ci-diagram .link.normal {
+    stroke: black;
+}
+
+.ci-diagram circle {
+    fill: lightgrey;
+    stroke: #333;
+    stroke-width: 1px;
+}
+
+.ci-diagram rect {
+    fill: lightgrey;
+    stroke: #333;
+    stroke-width: 1px;
+}
+
+.ci-diagram .arrow-text,  {
+    background-color: lightgrey;
+    border: solid 1px black;
+    padding: 8px 5px 8px 5px;
+}
+
+.ci-diagram .node-text {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    pointer-events: none;
+    background-color: rgba(255,255,255,0);
+}

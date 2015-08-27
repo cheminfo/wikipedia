@@ -16,7 +16,7 @@
 /*global jQuery */
 
 (function($) {
-	
+"use strict";	
 	$.fmatter = {};
 	//opts can be id:row id for the row, rowdata:the data for the row, colmodel:the column model for this column
 	//example {id:1234,}

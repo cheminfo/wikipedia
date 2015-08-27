@@ -20,22 +20,22 @@
 
     window.setMolFile = function (mol) {
         jsmeApplet.readMolFile(mol);
-    }
+    };
 
     window.setJmeFile = function (mol) {
         jsmeApplet.readMolecule(mol);
-    }
+    };
 
     window.setSize = function (w, h) {
         var width = w + "px";
         var height = h + "px";
         jsmeApplet.setSize(width, height);
 //			jsmeApplet.repaint();
-    }
+    };
 
     window.clear = function () {
         jsmeApplet.reset();
-    }
+    };
 
     var highlightColor;
     window.setHighlightColor = function (color) {
@@ -57,19 +57,25 @@
             }
             jsmeApplet.setAtomBackgroundColors(molIndex, highlight.join(","))
         }
-    }
+    };
 
     window.clearHighlight = function (molIndex, atomsIndex) {
         jsmeApplet.resetAtomColors(molIndex);
-    }
+    };
 
-    var changeCallback=function(result) {
+    var changeCallback = function (result) {
         var mol = window.jsmeApplet.molFile();
         var molV3 = window.jsmeApplet.molFile(true);
         var jme = window.jsmeApplet.jmeFile();
         var smiles = window.jsmeApplet.smiles();
         window.doPostMessage("onChange", {mol: mol, molV3: molV3, smiles: smiles, jme: jme, action: result.action});
     };
+
+    function setDefaultAction() {
+        if (this.defaultaction) {
+            jsmeApplet.setAction(this.defaultaction);
+        }
+    }
 
     function jsmeOnLoad() {
         var w = window.innerWidth;
@@ -85,17 +91,33 @@
             setHighlightColor(message.highlightColor);
             jsmeApplet.setMolecularAreaLineWidth(message.bondwidth);
             jsmeApplet.setAtomMolecularAreaFontSize(message.labelsize);
+
+            if (message.defaultaction) {
+                self.defaultaction = message.defaultaction;
+                setDefaultAction();
+            }
             doPostMessage('ready');
         });
-
-
-
 
 
         jsmeApplet.setAfterStructureModifiedCallback(changeCallback);
 
         // The notifyAtomHighLightJSfunction will receive two arguments: the molecule index and the atom index, both start at 1
         jsmeApplet.setNotifyAtomHighLightChangeJSfunction('(function(mol,atom) {this.doPostMessage("doHighlight", {mol: mol, atom:atom});})');
+
+
+        jsmeApplet.setCallBack('AtomHighlight', function (jsmeEvent) {
+            this.doPostMessage("atomHover", {atom: jsmeEvent.atom});
+        });
+        jsmeApplet.setCallBack('AtomClicked', function (jsmeEvent) {
+            this.doPostMessage("atomClicked", {atom: jsmeEvent.atom});
+        });
+        jsmeApplet.setCallBack('BondHighlight', function (jsmeEvent) {
+            this.doPostMessage("bondHover", {bond: jsmeEvent.bond});
+        });
+        jsmeApplet.setCallBack('BondClicked', function (jsmeEvent) {
+            this.doPostMessage("bondClicked", {bond: jsmeEvent.bond});
+        });
 
     }
 
@@ -116,7 +138,7 @@
 
         try {
             var message = JSON.parse(event.data);
-        } catch(e) {
+        } catch (e) {
             return;
         }
 
@@ -133,9 +155,11 @@
                 break;
             case 'setMolFile':
                 setMolFile(message.message);
+                setDefaultAction();
                 break;
             case 'setJmeFile':
                 setJmeFile(message.message);
+                setDefaultAction();
                 break;
             case 'setHighlight':
                 setHighlight(message.message.atoms, message.message.onOff);

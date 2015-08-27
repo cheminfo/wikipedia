@@ -4,7 +4,7 @@
 // License: MIT
 
 (function (factory) {
-    
+    "use strict";
 
     if (typeof define === 'function' && define.amd) { // AMD
         define(['jquery'], factory);
@@ -16,7 +16,7 @@
         factory(jQuery);
     }
 })(function($, undefined) {
-    
+    "use strict";
 
     var defaultOpts = {
 

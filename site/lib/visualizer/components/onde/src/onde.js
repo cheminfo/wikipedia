@@ -9,13 +9,13 @@ define(function(){
 // These two are nice things which JS misses so much
     if (!String.prototype.startsWith) {
         String.prototype.startsWith = function (prefix) {
-            
+            "use strict";
             return this.lastIndexOf(prefix, 0) === 0;
         };
     }
     if (!String.prototype.endsWith) {
         String.prototype.endsWith = function (suffix) {
-            
+            "use strict";
             return this.indexOf(suffix, this.length - suffix.length) !== -1;
         };
     }
@@ -417,12 +417,6 @@ define(function(){
         //TODO: Read-only
         //TODO: Schema ref
         var fieldValueId = 'fieldvalue-' + this._fieldNameToID(fieldName);
-        if ('$ref' in fieldInfo) {
-            console.log(fieldInfo);
-            if (valueData) {
-                console.log(valueData);
-            }
-        }
         fieldInfo = this._sanitizeFieldInfo(fieldInfo, valueData);
         var fieldDesc = fieldInfo ? fieldInfo.description || fieldInfo.title : null;
         if (!fieldInfo || !fieldInfo.type || fieldInfo.type == 'any') {
@@ -590,6 +584,7 @@ define(function(){
             }
             var contN = $('<ol start="0"></ol>').
                 attr('id', fieldValueId).
+                data('fieldInfo', fieldInfo.items).
                 attr('data-type', 'array');
             var lastIndex = 0;
             if (valueData) {
@@ -634,6 +629,10 @@ define(function(){
         if(fieldValueNode && fieldInfo && fieldInfo.readonly) {
             fieldValueNode.attr('disabled', true);
             fieldValueNode.css('background-color', 'lightgray');
+        }
+
+        if(fieldValueNode && fieldInfo) {
+            fieldValueNode.data('fieldInfo', fieldInfo);
         }
     };
 
@@ -963,7 +962,6 @@ define(function(){
                 dataType = fvn.attr('data-type');
             }
             if (!dataType || dataType == 'any') {
-                console.log(propName);
                 //TODO: Fallback: string?
                 //TODO: Need to attach the type to the field for array and object
             }
@@ -1050,9 +1048,6 @@ define(function(){
                         result.errorCount += 1;
                         result.errorData = 'value-required';
                     }
-                }
-                if (!propInfo) {
-                    console.log(fieldName);
                 }
             }
         }

@@ -1,0 +1,13 @@
+.upload-ui .dropzone {
+    height: 100%;
+    border: 3px lightgrey dashed;
+}
+
+.upload-ui {
+    padding: 10px 10px 20px 10px;
+    height: calc(100% - 30px);
+}
+
+.upload-ui .drop-over.dropzone {
+    border: 3px lightgreen dashed;
+}

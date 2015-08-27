@@ -29,7 +29,7 @@
 /*global jQuery */
 
 (function ($) {
-
+"use strict";
 
 $.fn.jqFilter = function( arg ) {
 	if (typeof arg === 'string') {

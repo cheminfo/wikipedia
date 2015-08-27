@@ -14,7 +14,7 @@
 /*global jQuery */
 
 (function ($) {
-
+"use strict";
 $.jgrid = $.jgrid || {};
 $.extend($.jgrid,{
 	version : "4.5.4",

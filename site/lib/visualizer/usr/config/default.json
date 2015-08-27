@@ -88,6 +88,10 @@
 								"url": "modules/types/chart/advanced/plot_function/"
 							},
 							{
+								"moduleName": "Hexagonal map",
+								"url": "modules/types/chart/advanced/hex/"
+							},
+							{
 								"moduleName": "Matrix display",
 								"url": "modules/types/chart/advanced/canvas_matrix/"
 							},
@@ -152,6 +156,10 @@
 							{
 								"moduleName": "Score plot",
 								"url": "modules/types/chart/statistics/loading_plot/"
+							},
+							{
+								"moduleName": "Word cloud",
+								"url": "modules/types/chart/statistics/wordcloud/"
 							}
 						],
 						"folders": {},
@@ -213,6 +221,10 @@
 						"url": "modules/types/display/panzoom/"
 					},
 					{
+						"moduleName": "Progress bar",
+						"url": "modules/types/display/progress/"
+					},
+					{
 						"moduleName": "Sticky note",
 						"url": "modules/types/display/postit/",
 						"hidden": true
@@ -231,11 +243,12 @@
 					},
 					{
 						"moduleName": "Two dimensional list",
-						"url": "modules/types/display/2d_list/"
+						"url": "modules/types/display/2d_list_fast/"
 					},
 					{
-						"moduleName": "Two dimensional list (fast)",
-						"url": "modules/types/display/2d_list_fast/"
+						"moduleName": "Two dimensional list (old)",
+						"url": "modules/types/display/2d_list/",
+						"hidden": true
 					}
 				],
 				"folders": {},
@@ -252,7 +265,7 @@
 						"url": "modules/types/edition/filter_editor/"
 					},
 					{
-						"moduleName": "Object editor",
+						"moduleName": "JSON object editor",
 						"url": "modules/types/edition/object_editor/"
 					},
 					{
@@ -329,6 +342,14 @@
 							{
 								"moduleName": "JSMol",
 								"url": "modules/types/science/chemistry/jsmol/"
+							},
+							{
+								"moduleName": "OCL Molecule editor",
+								"url": "modules/types/science/chemistry/ocl_editor/"
+							},
+							{
+								"moduleName": "Periodic table",
+								"url": "modules/types/science/chemistry/periodic_table/"
 							}
 						],
 						"folders": {},
@@ -422,6 +443,14 @@
 			{
 				"type": "pouchsaveview",
 				"label": "Save local view"
+			},
+			{
+				"type": "pouchloaddata",
+				"label": "Load local data"
+			},
+			{
+				"type": "pouchsavedata",
+				"label": "Save local data"
 			},
 			{
 				"type": "couchshare",

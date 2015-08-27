@@ -17,7 +17,7 @@
 
 // Start of local namespace
 ;(function($, window, document, undefined) {
-
+"use strict";
 
 // prevent duplicate loading
 if ( $.ui && $.ui.fancytree ) {

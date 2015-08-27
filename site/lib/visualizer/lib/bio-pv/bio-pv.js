@@ -1,5 +1,5 @@
 /**
- * PV - WebGL protein viewer v1.5.0
+ * PV - WebGL protein viewer v1.7.1
  * http://biasmv.github.io/pv
  * 
  * Copyright 2013-2015 Marco Biasini
@@ -9,6 +9,11 @@
   (function (root, factory) {
       if (typeof define === 'function' && define.amd) {
           define([], factory);
+      } else if (typeof exports === 'object') { 
+        exports = factory(); 
+        if (typeof module === 'object') { 
+          module.exports = exports; 
+        } 
       } else {
           var pv = factory();
           root.pv = pv;
@@ -25,7 +30,7 @@
       }
   }(this, function () {
       // modules will be inlined here
-  var glMatrix, color, uniqueObjectIdPool, utils, gfxCanvas, gfxFramebuffer, bufferAllocators, gfxCam, gfxShaders, touch, mouse, geom, gfxGeomBuilders, gfxSceneNode, gfxBaseGeom, gfxVertexArrayBase, gfxVertexArray, gfxIndexedVertexArray, gfxChainData, gfxMeshGeom, gfxLineGeom, gfxVertAssoc, gfxRender, gfxLabel, gfxCustomMesh, gfxAnimation, slab, viewer, molSymmetry, molAtom, molResidue, molTrace, molChain, molBond, molSelect, molMol, molAll, io, viewpoint, pv, SceneNode, VertexArrayBase, IndexedVertexArray, BaseGeom, mol;
+  var glMatrix, color, uniqueObjectIdPool, utils, gfxCanvas, gfxFramebuffer, bufferAllocators, gfxCam, gfxShaders, touch, mouse, geom, gfxGeomBuilders, gfxSceneNode, gfxBaseGeom, gfxVertexArrayBase, gfxVertexArray, gfxIndexedVertexArray, gfxChainData, gfxMeshGeom, gfxLineGeom, gfxVertAssoc, gfxRender, gfxLabel, gfxCustomMesh, gfxAnimation, slab, viewer, molSymmetry, molAtom, molResidue, molTrace, molChain, molBond, molSelect, molMol, svd, molSuperpose, molAll, io, viewpoint, pv, SceneNode, VertexArrayBase, IndexedVertexArray, BaseGeom, mol;
 glMatrix = function () {
   var exports = {};
   if (!GLMAT_EPSILON) {
@@ -2059,6 +2064,9 @@ uniqueObjectIdPool = function () {
       this._pool._objects[id] = obj;
       return id;
     },
+    hasLeft: function () {
+      return this._next < this._end;
+    },
     recycle: function () {
       this._pool.recycle(this);
     },
@@ -2101,7 +2109,7 @@ uniqueObjectIdPool = function () {
     },
     clear: function () {
       this._objects = {};
-      this._unusedRangeStart = 0;
+      this._unusedRangeStart = 1;
       this._free = [];
       this._usedCount = 0;
     },
@@ -2461,6 +2469,8 @@ gfxCanvas = function () {
       shaderProgram.fogNear = getUniformLoc(shaderProgram, 'fogNear');
       shaderProgram.fogColor = getUniformLoc(shaderProgram, 'fogColor');
       shaderProgram.outlineColor = getUniformLoc(shaderProgram, 'outlineColor');
+      shaderProgram.pointSize = getUniformLoc(shaderProgram, 'pointSize');
+      shaderProgram.zoom = getUniformLoc(shaderProgram, 'zoom');
       return shaderProgram;
     },
     on: function (name, handler) {
@@ -2680,6 +2690,10 @@ gfxCam = function () {
     fieldOfViewY: function () {
       return this._fovY;
     },
+    setFieldOfViewY: function (value) {
+      this._fovY = value;
+      this._updateProjectionMat = true;
+    },
     aspectRatio: function () {
       return this._width / this._height;
     },
@@ -2864,6 +2878,7 @@ gfxCam = function () {
       gl.uniform1i(shader.fog, this._fog);
       var nearOffset = this._zoom;
       gl.uniform1f(shader.fogFar, this._fogFar + nearOffset);
+      gl.uniform1f(shader.zoom, this._zoom);
       gl.uniform1f(shader.fogNear, this._fogNear + nearOffset);
       gl.uniform3fv(shader.fogColor, this._fogColor);
       gl.uniform3fv(shader.outlineColor, this._outlineColor);
@@ -2873,13 +2888,15 @@ gfxCam = function () {
 }();
 gfxShaders = {
   LINES_FS: '\nprecision ${PRECISION} float;\n\nvarying vec4 vertColor;\nvarying vec3 vertNormal;\nuniform float fogNear;\nuniform float fogFar;\nuniform vec3 fogColor;\nuniform bool fog;\n\nvoid main(void) {\n  gl_FragColor = vec4(vertColor);\n  if (gl_FragColor.a == 0.0) { discard; }\n  float depth = gl_FragCoord.z / gl_FragCoord.w;\n  if (fog) {\n    float fog_factor = smoothstep(fogNear, fogFar, depth);\n    gl_FragColor = mix(gl_FragColor, vec4(fogColor, gl_FragColor.w),\n                        fog_factor);\n  }\n}',
+  LINES_VS: '\nattribute vec3 attrPos;\nattribute vec4 attrColor;\n\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nvarying vec4 vertColor;\nuniform float pointSize;\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  float distToCamera = vec4(modelviewMat * vec4(attrPos, 1.0)).z;\n  gl_PointSize = pointSize * 200.0 / abs(distToCamera); \n  vertColor = attrColor;\n}',
   HEMILIGHT_FS: '\nprecision ${PRECISION} float;\n\nvarying vec4 vertColor;\nvarying vec3 vertNormal;\nuniform float fogNear;\nuniform float fogFar;\nuniform vec3 fogColor;\nuniform bool fog;\n\nvoid main(void) {\n  float dp = dot(vertNormal, vec3(0.0, 0.0, 1.0));\n  float hemi = max(0.0, dp)*0.5+0.5;\n  hemi *= vertColor.a;\n  gl_FragColor = vec4(vertColor.rgb*hemi, vertColor.a);\n  if (gl_FragColor.a == 0.0) { discard; }\n  float depth = gl_FragCoord.z / gl_FragCoord.w;\n  if (fog) {\n    float fog_factor = smoothstep(fogNear, fogFar, depth);\n    gl_FragColor = mix(gl_FragColor, vec4(fogColor, gl_FragColor.w),\n                        fog_factor);\n  }\n}',
-  HEMILIGHT_VS: '\nattribute vec3 attrPos;\nattribute vec4 attrColor;\nattribute vec3 attrNormal;\n\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nvarying vec4 vertColor;\nvarying vec3 vertNormal;\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  vec4 n = (modelviewMat * vec4(attrNormal, 0.0));\n  vertNormal = n.xyz;\n  vertColor = attrColor;\n}',
+  PHONG_FS: '\nprecision ${PRECISION} float;\n\nvarying vec4 vertColor;\nvarying vec3 vertNormal;\nvarying vec3 vertPos;\nuniform float fogNear;\nuniform float fogFar;\nuniform vec3 fogColor;\nuniform bool fog;\nuniform float zoom;\n\nvoid main(void) {\n  vec3 eyePos = vec3(0.0, 0.0, zoom);\n  float dp = dot(vertNormal, normalize(eyePos - vertPos));\n  float hemi = max(0.0, dp)*0.8+0.2;\n  hemi *= vertColor.a;\n  vec3 rgbColor = vertColor.rgb * hemi; \n  rgbColor += min(vertColor.rgb, 0.8) * pow(max(0.0, dp), 16.0);\n  //vec3 rgbColor = vertColor.rgb * hemi;\n  gl_FragColor = vec4(clamp(rgbColor, 0.0, 1.0), vertColor.a);\n  if (gl_FragColor.a == 0.0) { discard; }\n  float depth = gl_FragCoord.z / gl_FragCoord.w;\n  if (fog) {\n    float fog_factor = smoothstep(fogNear, fogFar, depth);\n    gl_FragColor = mix(gl_FragColor, vec4(fogColor, gl_FragColor.w),\n                        fog_factor);\n  }\n}',
+  HEMILIGHT_VS: '\nattribute vec3 attrPos;\nattribute vec4 attrColor;\nattribute vec3 attrNormal;\n\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nvarying vec4 vertColor;\nvarying vec3 vertNormal;\nvarying vec3 vertPos;\nvoid main(void) {\n  vertPos = (modelviewMat * vec4(attrPos, 1.0)).xyz;\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  vec4 n = (modelviewMat * vec4(attrNormal, 0.0));\n  vertNormal = n.xyz;\n  vertColor = attrColor;\n}',
   OUTLINE_FS: '\nprecision ${PRECISION} float;\nvarying float vertAlpha;\n\nuniform vec3 outlineColor;\nuniform float fogNear;\nuniform float fogFar;\nuniform vec3 fogColor;\nuniform bool fog;\n\nvoid main() {\n  gl_FragColor = vec4(outlineColor, vertAlpha);\n  if (gl_FragColor.a == 0.0) { discard; }\n  float depth = gl_FragCoord.z / gl_FragCoord.w;\n  if (fog) { \n    float fog_factor = smoothstep(fogNear, fogFar, depth);\n    gl_FragColor = mix(gl_FragColor, vec4(fogColor, vertAlpha),\n                        fog_factor);\n  }\n}',
-  OUTLINE_VS: '\nprecision ${PRECISION} float;\n\nattribute vec3 attrPos;\nattribute vec3 attrNormal;\nattribute vec4 attrColor;\n                                                                       \nuniform vec3 outlineColor;\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nvarying float vertAlpha;\n\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  vec4 normal = modelviewMat * vec4(attrNormal, 0.0);\n  vertAlpha = attrColor.a;\n  gl_Position.xy += normal.xy*0.200;\n}',
+  OUTLINE_VS: '\nprecision ${PRECISION} float;\n\nattribute vec3 attrPos;\nattribute vec3 attrNormal;\nattribute vec4 attrColor;\n                                                                       \nuniform vec3 outlineColor;\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nvarying float vertAlpha;\n\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  vec4 normal = modelviewMat * vec4(attrNormal, 0.0);\n  vertAlpha = attrColor.a;\n  gl_Position.xy += normal.xy*0.100;\n  gl_Position.z += gl_Position.w*0.0001;\n}',
   TEXT_VS: '\nprecision ${PRECISION} float;\n\nattribute vec3 attrCenter;\nattribute vec2 attrCorner;\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nuniform mat4 rotationMat;\nvarying vec2 vertTex;\nuniform float width;\nuniform float height;\nvoid main() { \n  vec4 pos = modelviewMat* vec4(attrCenter, 1.0);\n  pos.z += 4.0;\n  gl_Position = projectionMat * pos;\n  gl_Position.xy += vec2(width,height)*attrCorner*gl_Position.w; \n  vertTex = (attrCorner+abs(attrCorner))/(2.0*abs(attrCorner)); \n}',
   TEXT_FS: '\nprecision ${PRECISION} float;\n\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nuniform sampler2D sampler;\nuniform float xScale;\nuniform float yScale;\nvarying vec2 vertTex;\nvoid main() { \n  vec2 texCoord = vec2(vertTex.x*xScale, vertTex.y*yScale);\n  gl_FragColor = texture2D(sampler, texCoord);\n  if (gl_FragColor.a == 0.0) { discard; }\n}',
-  SELECT_VS: '\nprecision ${PRECISION} float;\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nattribute vec3 attrPos;\nattribute float attrObjId;\n\nvarying float objId;\n\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  objId = attrObjId;\n}',
+  SELECT_VS: '\nprecision ${PRECISION} float;\nuniform mat4 projectionMat;\nuniform mat4 modelviewMat;\nuniform float pointSize;\nattribute vec3 attrPos;\nattribute float attrObjId;\n\nvarying float objId;\n\nvoid main(void) {\n  gl_Position = projectionMat * modelviewMat * vec4(attrPos, 1.0);\n  float distToCamera = vec4(modelviewMat * vec4(attrPos, 1.0)).z;\n  gl_PointSize = pointSize * 200.0 / abs(distToCamera); \n  objId = attrObjId;\n}',
   SELECT_FS: '\nprecision ${PRECISION} float;\n\nvarying float objId;\nuniform int symId;\n\nint intMod(int x, int y) { \n  int z = x/y;\n  return x-y*z;\n}\nvoid main(void) {\n  // ints are only required to be 7bit...\n  int integralObjId = int(objId+0.5);\n  int red = intMod(integralObjId, 256);\n  integralObjId/=256;\n  int green = intMod(integralObjId, 256);\n  integralObjId/=256;\n  int blue = intMod(integralObjId, 256);\n  int alpha = symId;\n  gl_FragColor = vec4(float(red), float(green), \n                      float(blue), float(alpha))/255.0;\n}'
 };
 touch = function () {
@@ -2975,7 +2992,8 @@ touch = function () {
         this._cam.zoom(deltaScale);
       }
       if (newState.numTouches === 2 && this._touchState.numTouches === 2) {
-        this._cam.panXY(newState.deltaCenter.x * 0.001 * this._cam.zoom(), newState.deltaCenter.y * 0.001 * this._cam.zoom());
+        var speed = 0.002 * Math.tan(0.5 * this._cam.fieldOfViewY()) * this._cam.zoom();
+        this._cam.panXY(newState.deltaCenter.x * speed, newState.deltaCenter.y * speed);
       }
       var deltaZRotation = -newState.deltaRotation;
       this._cam.rotateZ(deltaZRotation);
@@ -3013,7 +3031,6 @@ touch = function () {
 }();
 mouse = function () {
   
-  var vec3 = glMatrix.vec3;
   function MouseHandler(canvas, viewer, cam, animationTime) {
     this._viewer = viewer;
     this._canvas = canvas;
@@ -3027,15 +3044,7 @@ mouse = function () {
       if (picked === null) {
         return;
       }
-      var transformedPos = vec3.create();
-      var newAtom = picked.object().atom;
-      var pos = newAtom.pos();
-      if (picked.transform()) {
-        vec3.transformMat4(transformedPos, pos, picked.transform());
-        this._viewer.setCenter(transformedPos, this._animationTime);
-      } else {
-        this._viewer.setCenter(pos, this._animationTime);
-      }
+      this._viewer.setCenter(picked.pos(), this._animationTime);
     },
     _mouseUp: function () {
       var canvas = this._canvas;
@@ -3075,7 +3084,7 @@ mouse = function () {
           x: event.clientX - rect.left,
           y: event.clientY - rect.top
         });
-        this._viewer._dispatchEvent(event, 'atomDoubleClicked', picked);
+        this._viewer._dispatchEvent(event, 'doubleClick', picked);
         this._viewer.requestRedraw();
       };
     }(),
@@ -3091,7 +3100,7 @@ mouse = function () {
           x: event.clientX - rect.left,
           y: event.clientY - rect.top
         });
-        this._viewer._dispatchEvent(event, 'atomClicked', picked);
+        this._viewer._dispatchEvent(event, 'click', picked);
       }
       event.preventDefault();
       if (event.shiftKey === true) {
@@ -3132,7 +3141,7 @@ mouse = function () {
         x: newMousePos.x - this._lastMousePos.x,
         y: newMousePos.y - this._lastMousePos.y
       };
-      var speed = 0.001 * this._cam.zoom();
+      var speed = 0.002 * Math.tan(0.5 * this._cam.fieldOfViewY()) * this._cam.zoom();
       this._cam.panXY(speed * delta.x, speed * delta.y);
       this._lastMousePos = newMousePos;
       this._viewer.requestRedraw();
@@ -3143,6 +3152,7 @@ mouse = function () {
 geom = function () {
   
   var vec3 = glMatrix.vec3;
+  var vec4 = glMatrix.vec4;
   var mat3 = glMatrix.mat3;
   var quat = glMatrix.quat;
   var signedAngle = function () {
@@ -3315,7 +3325,7 @@ geom = function () {
         if (c === 1) {
           break;
         }
-        vec3.set(jr, 0, 0, 0, 0);
+        vec4.set(jr, 0, 0, 0, 0);
         jr[k] = sgn * Math.sqrt((1 - c) / 2);
         jr[k] *= -1;
         jr[3] = Math.sqrt(1 - jr[k] * jr[k]);
@@ -3864,15 +3874,6 @@ gfxVertexArrayBase = VertexArrayBase = function () {
         center[0] += this._vertData[index + 0];
         center[1] += this._vertData[index + 1];
         center[2] += this._vertData[index + 2];
-        if (isNaN(center[0])) {
-          console.log(this, i, numVerts, 'x NaN');
-        }
-        if (isNaN(center[2])) {
-          console.log(this, i, numVerts, 'y NaN');
-        }
-        if (isNaN(center[2])) {
-          console.log(this, i, numVerts, 'z NaN');
-        }
       }
       vec3.scale(center, center, 1 / numVerts);
       var radiusSquare = 0;
@@ -3942,7 +3943,8 @@ gfxVertexArray = function () {
   
   function VertexArray(gl, numVerts, float32Allocator) {
     VertexArrayBase.call(this, gl, numVerts, float32Allocator);
-    this._numLines = 0;
+    this._numVerts = 0;
+    this._primitiveType = this._gl.LINES;
   }
   utils.derive(VertexArray, VertexArrayBase, {
     _FLOATS_PER_VERT: 8,
@@ -3950,29 +3952,32 @@ gfxVertexArray = function () {
     _COLOR_OFFSET: 3,
     _ID_OFFSET: 7,
     numVerts: function () {
-      return this._numLines * 2;
+      return this._numVerts;
     },
-    addLine: function (startPos, startColor, endPos, endColor, idOne, idTwo) {
-      var index = this._FLOATS_PER_VERT * this._numLines * 2;
-      this._vertData[index++] = startPos[0];
-      this._vertData[index++] = startPos[1];
-      this._vertData[index++] = startPos[2];
-      this._vertData[index++] = startColor[0];
-      this._vertData[index++] = startColor[1];
-      this._vertData[index++] = startColor[2];
-      this._vertData[index++] = startColor[3];
-      this._vertData[index++] = idOne;
-      this._vertData[index++] = endPos[0];
-      this._vertData[index++] = endPos[1];
-      this._vertData[index++] = endPos[2];
-      this._vertData[index++] = endColor[0];
-      this._vertData[index++] = endColor[1];
-      this._vertData[index++] = endColor[2];
-      this._vertData[index++] = endColor[3];
-      this._vertData[index++] = idTwo;
-      this._numLines += 1;
+    setDrawAsPoints: function (enable) {
+      if (enable) {
+        this._primitiveType = this._gl.POINTS;
+      } else {
+        this._primitiveType = this._gl.LINES;
+      }
+    },
+    addPoint: function (pos, color, id) {
+      var index = this._FLOATS_PER_VERT * this._numVerts;
+      this._vertData[index++] = pos[0];
+      this._vertData[index++] = pos[1];
+      this._vertData[index++] = pos[2];
+      this._vertData[index++] = color[0];
+      this._vertData[index++] = color[1];
+      this._vertData[index++] = color[2];
+      this._vertData[index++] = color[3];
+      this._vertData[index++] = id;
+      this._numVerts += 1;
       this._ready = false;
       this._boundingSpehre = null;
+    },
+    addLine: function (startPos, startColor, endPos, endColor, idOne, idTwo) {
+      this.addPoint(startPos, startColor, idOne);
+      this.addPoint(endPos, endColor, idTwo);
     },
     bindAttribs: function (shader) {
       this._gl.vertexAttribPointer(shader.posAttrib, 3, this._gl.FLOAT, false, this._FLOATS_PER_VERT * 4, this._POS_OFFSET * 4);
@@ -4000,7 +4005,7 @@ gfxVertexArray = function () {
       this.bindAttribs(shader);
     },
     draw: function () {
-      this._gl.drawArrays(this._gl.LINES, 0, this._numLines * 2);
+      this._gl.drawArrays(this._primitiveType, 0, this._numVerts);
     }
   });
   return VertexArray;
@@ -4235,7 +4240,11 @@ gfxMeshGeom = function (cd, IndexedVertexArray) {
     },
     shaderForStyleAndPass: function (shaderCatalog, style, pass) {
       if (pass === 'normal') {
-        return shaderCatalog.hemilight;
+        if (style === 'hemilight') {
+          return shaderCatalog.hemilight;
+        } else {
+          return shaderCatalog.phong;
+        }
       }
       if (pass === 'select') {
         return shaderCatalog.select;
@@ -4284,6 +4293,7 @@ gfxLineGeom = function (chainData) {
     this._vertArrays = [];
     this._float32Allocator = float32Allocator;
     this._lineWidth = 1;
+    this._pointSize = 1;
   }
   utils.derive(LineGeom, BaseGeom, {
     addChainVertArray: function (chain, numVerts) {
@@ -4293,6 +4303,9 @@ gfxLineGeom = function (chainData) {
     },
     setLineWidth: function (width) {
       this._lineWidth = width;
+    },
+    setPointSize: function (size) {
+      this._pointSize = size;
     },
     vertArrays: function () {
       return this._vertArrays;
@@ -4317,6 +4330,9 @@ gfxLineGeom = function (chainData) {
     },
     _drawVertArrays: function (cam, shader, vertArrays, additionalTransforms) {
       this._gl.lineWidth(this._lineWidth * cam.upsamplingFactor());
+      if (shader.pointSize) {
+        this._gl.uniform1f(shader.pointSize, this._pointSize * cam.upsamplingFactor());
+      }
       var i;
       if (additionalTransforms) {
         for (i = 0; i < vertArrays.length; ++i) {
@@ -4557,30 +4573,54 @@ gfxRender = function (geomBuilders, MeshGeom, LineGeom, vertAssoc) {
   ];
   var HELIX_POINTS = [
     -6 * R,
+    -0.9 * R,
+    0,
+    -5.8 * R,
+    -1 * R,
+    0,
+    5.8 * R,
     -1 * R,
     0,
     6 * R,
-    -1 * R,
+    -0.9 * R,
     0,
     6 * R,
+    0.9 * R,
+    0,
+    5.8 * R,
+    1 * R,
+    0,
+    -5.8 * R,
     1 * R,
     0,
     -6 * R,
-    1 * R,
+    0.9 * R,
     0
   ];
   var ARROW_POINTS = [
     -10 * R,
+    -0.9 * R,
+    0,
+    -9.8 * R,
+    -1 * R,
+    0,
+    9.8 * R,
     -1 * R,
     0,
     10 * R,
-    -1 * R,
+    -0.9 * R,
     0,
     10 * R,
+    0.9 * R,
+    0,
+    9.8 * R,
+    1 * R,
+    0,
+    -9.8 * R,
     1 * R,
     0,
     -10 * R,
-    1 * R,
+    0.9 * R,
     0
   ];
   var smoothStrandInplace = function () {
@@ -4700,6 +4740,42 @@ gfxRender = function (geomBuilders, MeshGeom, LineGeom, vertAssoc) {
     opts.color.end(structure);
     console.timeEnd('ballsAndSticks');
     return meshGeom;
+  };
+  var pointsForChain = function () {
+    var clr = vec4.fromValues(0, 0, 0, 1);
+    return function (lineGeom, vertAssoc, chain, opts) {
+      var atomCount = chain.atomCount();
+      var idRange = opts.idPool.getContinuousRange(atomCount);
+      lineGeom.addIdRange(idRange);
+      var va = lineGeom.addChainVertArray(chain, atomCount);
+      va.setDrawAsPoints(true);
+      chain.eachAtom(function (atom) {
+        var vertStart = va.numVerts();
+        opts.color.colorFor(atom, clr, 0);
+        var objId = idRange.nextId({
+          geom: lineGeom,
+          atom: atom
+        });
+        va.addPoint(atom.pos(), clr, objId);
+        var vertEnd = va.numVerts();
+        vertAssoc.addAssoc(atom, va, vertStart, vertEnd);
+      });
+    };
+  }();
+  exports.points = function (structure, gl, opts) {
+    console.time('points');
+    var vertAssoc = new AtomVertexAssoc(structure, true);
+    opts.color.begin(structure);
+    var lineGeom = new LineGeom(gl, opts.float32Allocator);
+    lineGeom.setPointSize(opts.pointSize);
+    lineGeom.addVertAssoc(vertAssoc);
+    lineGeom.setShowRelated(opts.showRelated);
+    structure.eachChain(function (chain) {
+      pointsForChain(lineGeom, vertAssoc, chain, opts);
+    });
+    opts.color.end(structure);
+    console.timeEnd('points');
+    return lineGeom;
   };
   var linesForChain = function () {
     var mp = vec3.create();
@@ -5080,9 +5156,9 @@ gfxRender = function (geomBuilders, MeshGeom, LineGeom, vertAssoc) {
     console.time('cartoon');
     opts.arrowSkip = Math.floor(opts.splineDetail * 3 / 4);
     opts.coilProfile = new TubeProfile(COIL_POINTS, opts.arcDetail, 1);
-    opts.helixProfile = new TubeProfile(HELIX_POINTS, opts.arcDetail, 0.1);
-    opts.strandProfile = new TubeProfile(HELIX_POINTS, opts.arcDetail, 0.1);
-    opts.arrowProfile = new TubeProfile(ARROW_POINTS, opts.arcDetail, 0.1);
+    opts.arrowProfile = new TubeProfile(ARROW_POINTS, opts.arcDetail / 2, 0.1);
+    opts.helixProfile = new TubeProfile(HELIX_POINTS, opts.arcDetail / 2, 0.1);
+    opts.strandProfile = new TubeProfile(HELIX_POINTS, opts.arcDetail / 2, 0.1);
     opts.protoCyl = new ProtoCylinder(opts.arcDetail * 4);
     opts.protoSphere = new ProtoSphere(opts.arcDetail * 4, opts.arcDetail * 4);
     var meshGeom = new MeshGeom(gl, opts.float32Allocator, opts.uint16Allocator);
@@ -5543,6 +5619,7 @@ gfxCustomMesh = function (gb) {
   var vec3 = glMatrix.vec3;
   var mat3 = glMatrix.mat3;
   var forceRGB = color.forceRGB;
+  var ID_CHUNK_SIZE = 100;
   function DynamicIndexedVertexArray() {
     this._vertData = [];
     this._indexData = [];
@@ -5569,7 +5646,7 @@ gfxCustomMesh = function (gb) {
       return this._vertData;
     }
   };
-  function CustomMesh(name, gl, float32Allocator, uint16Allocator) {
+  function CustomMesh(name, gl, float32Allocator, uint16Allocator, idPool) {
     SceneNode.call(this, gl);
     this._float32Allocator = float32Allocator;
     this._uint16Allocator = uint16Allocator;
@@ -5577,7 +5654,10 @@ gfxCustomMesh = function (gb) {
     this._protoSphere = new gb.ProtoSphere(8, 8);
     this._protoCyl = new gb.ProtoCylinder(8);
     this._va = null;
+    this._idRanges = [];
+    this._idPool = idPool;
     this._ready = false;
+    this._currentRange = null;
   }
   function capTubeStart(va, baseIndex, numTubeVerts) {
     for (var i = 0; i < numTubeVerts - 1; ++i) {
@@ -5626,7 +5706,14 @@ gfxCustomMesh = function (gb) {
           ], color, 0);
           capTubeStart(this._data, startIndex, 8);
         }
-        this._protoCyl.addTransformed(this._data, midPoint, length, radius, rotation, color, color, 0, 0);
+        var userData = options.userData !== undefined ? options.userData : null;
+        console.log(userData);
+        var objectId = this._nextObjectId({
+          center: midPoint,
+          userData: userData,
+          geom: this
+        });
+        this._protoCyl.addTransformed(this._data, midPoint, length, radius, rotation, color, color, objectId, objectId);
         if (cap) {
           var baseIndex = this._data.numVerts();
           this._data.addVertex(end, dir, color, 0);
@@ -5635,10 +5722,29 @@ gfxCustomMesh = function (gb) {
         this._ready = false;
       };
     }(),
+    _nextObjectId: function (data) {
+      if (!this._currentRange || !this._currentRange.hasLeft()) {
+        this._currentRange = this._idPool.getContinuousRange(ID_CHUNK_SIZE);
+        this._idRanges.push(this._currentRange);
+      }
+      return this._currentRange.nextId(data);
+    },
+    destroy: function () {
+      SceneNode.prototype.destroy.call(this);
+      for (var i = 0; i < this._idRanges.length; ++i) {
+        this._idRanges[i].recycle();
+      }
+    },
     addSphere: function (center, radius, options) {
       options = options || {};
       var color = forceRGB(options.color || 'white');
-      this._protoSphere.addTransformed(this._data, center, radius, color, 0);
+      var userData = options.userData !== undefined ? options.userData : null;
+      var objectId = this._nextObjectId({
+        center: center,
+        userData: userData,
+        geom: this
+      });
+      this._protoSphere.addTransformed(this._data, center, radius, color, objectId);
       this._ready = false;
     },
     _prepareVertexArray: function () {
@@ -5670,10 +5776,14 @@ gfxCustomMesh = function (gb) {
     },
     shaderForStyleAndPass: function (shaderCatalog, style, pass) {
       if (pass === 'normal') {
-        return shaderCatalog.hemilight;
+        if (style === 'hemilight') {
+          return shaderCatalog.hemilight;
+        } else {
+          return shaderCatalog.phong;
+        }
       }
       if (pass === 'select') {
-        return null;
+        return shaderCatalog.select;
       }
       if (pass === 'outline') {
         return shaderCatalog.outline;
@@ -5804,7 +5914,13 @@ gfxAnimation = function () {
         mat3.mul(rotation, axisRot, rotation);
         cam.setRotation(rotation);
       };
-    }()
+    }(),
+    setSpeed: function (speed) {
+      this._speed = speed;
+    },
+    setAxis: function (axis) {
+      this._axis = axis;
+    }
   });
   function AnimationControl() {
     this._animations = [];
@@ -5919,20 +6035,32 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
     }
     return null;
   }
-  function PickingResult(obj, symIndex, transform) {
-    this._obj = obj;
+  function PickedObject(target, node, symIndex, pos, object, transform) {
+    this._pos = pos;
+    this._target = target;
+    this._node = node;
     this._symIndex = symIndex;
-    this._transform = transform;
+    this._legacyObject = object;
+    this._legacyTransform = transform;
   }
-  PickingResult.prototype = {
-    object: function () {
-      return this._obj;
-    },
+  PickedObject.prototype = {
     symIndex: function () {
       return this._symIndex;
     },
+    target: function () {
+      return this._target;
+    },
+    pos: function () {
+      return this._pos;
+    },
+    node: function () {
+      return this._node;
+    },
     transform: function () {
-      return this._transform;
+      return this._legacyTransform;
+    },
+    object: function () {
+      return this._legacyObject;
     }
   };
   function Viewer(domElement, opts) {
@@ -5950,11 +6078,11 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
     this._animControl = new anim.AnimationControl();
     this._initCanvas();
     this.quality(this._options.quality);
-    if (this._options.atomDoubleClicked !== null) {
-      this.addListener('atomDoubleClicked', this._options.atomDoubleClicked);
+    if (this._options.click !== null) {
+      this.on('click', this._options.click);
     }
-    if (this._options.atomClick !== null) {
-      this.addListener('atomClicked', this._options.atomClick);
+    if (this._options.doubleClicked !== null) {
+      this.on('doubleClick', this._options.doubleClick);
     }
     if (document.readyState === 'complete' || document.readyState === 'loaded' || document.readyState === 'interactive') {
       this._initViewer();
@@ -5968,6 +6096,34 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
     }
     return defaultValue;
   }
+  function getDoubleClickHandler(opts) {
+    if (opts.atomDoubleClick) {
+      console.warn('use of atomDoubleClick is deprecated. ', 'use doubleClick instead');
+      return opts.atomDoubleClick;
+    }
+    if (opts.atomDoubleClicked) {
+      console.warn('use of atomDoubleClicked is deprecated. ', 'use doubleClick instead');
+      return opts.atomDoubleClicked;
+    }
+    if (opts.doubleClick) {
+      return opts.doubleClick;
+    }
+    return 'center';
+  }
+  function getClickHandler(opts) {
+    if (opts.atomClick) {
+      console.warn('use of atomClick is deprecated. ', 'use click instead');
+      return opts.atomClick;
+    }
+    if (opts.atomClicked) {
+      console.warn('use of atomClicked is deprecated. ', 'use click instead');
+      return opts.atomClicked;
+    }
+    if (opts.click) {
+      return opts.click;
+    }
+    return null;
+  }
   Viewer.prototype = {
     _initOptions: function (opts, domElement) {
       opts = opts || {};
@@ -5980,14 +6136,12 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
         style: optValue(opts, 'style', 'hemilight'),
         background: color.forceRGB(opts.background || 'white'),
         slabMode: slabModeToStrategy(opts.slabMode),
-        atomClick: opts.atomClicked || opts.atomClick || null,
         outline: optValue(opts, 'outline', true),
-        atomDoubleClicked: optValue(opts, 'atomDoubleClicked', optValue(opts, 'atomDoubleClick', 'center')),
+        fov: optValue(opts, 'fov', 45),
+        doubleClick: getDoubleClickHandler(opts),
+        click: getClickHandler(opts),
         fog: optValue(opts, 'fog', true)
       };
-      if ('atomDoubleClick' in opts || 'atomClick' in opts) {
-        console.warn('use of atomDoubleClick/atomClick is deprecated. ', 'use atomDoubleClicked/atomClicked instead');
-      }
       var parentRect = domElement.getBoundingClientRect();
       if (options.width === 'auto') {
         options.width = parentRect.width;
@@ -6031,6 +6185,9 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
           this._cam.fog(value);
           this._options.fog = value;
           this.requestRedraw();
+        } else if (optName === 'fov') {
+          this._options.fov = value;
+          this._cam.setFieldOfViewY(value * Math.PI / 180);
         } else {
           this._options[optName] = value;
         }
@@ -6047,15 +6204,15 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
         return;
       }
       if (qual === 'medium') {
-        this._options.arcDetail = 3;
+        this._options.arcDetail = 2;
         this._options.sphereDetail = 10;
-        this._options.splineDetail = 4;
+        this._options.splineDetail = 5;
         return;
       }
       if (qual === 'low') {
         this._options.arcDetail = 2;
         this._options.sphereDetail = 8;
-        this._options.splineDetail = 2;
+        this._options.splineDetail = 3;
         return;
       }
       console.error('invalid quality argument', qual);
@@ -6072,7 +6229,7 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
     },
     _initViewer: function () {
       if (!this._canvas.initGL()) {
-        this._domElement.removeChild(this._canvas);
+        this._domElement.removeChild(this._canvas.domElement());
         this._domElement.innerHTML = WEBGL_NOT_SUPPORTED;
         this._domElement.style.width = this._options.width + 'px';
         this._domElement.style.height = this._options.height + 'px';
@@ -6086,13 +6243,15 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       this._cam.setUpsamplingFactor(this._canvas.superSamplingFactor());
       this._cam.fog(this._options.fog);
       this._cam.setFogColor(this._options.background);
+      this._cam.setFieldOfViewY(this._options.fov * Math.PI / 180);
       this._mouseHandler.setCam(this._cam);
       var c = this._canvas;
       var p = shouldUseHighPrecision() ? 'highp' : 'mediump';
       this._shaderCatalog = {
         hemilight: c.initShader(shaders.HEMILIGHT_VS, shaders.HEMILIGHT_FS, p),
+        phong: c.initShader(shaders.HEMILIGHT_VS, shaders.PHONG_FS, p),
         outline: c.initShader(shaders.OUTLINE_VS, shaders.OUTLINE_FS, p),
-        lines: c.initShader(shaders.HEMILIGHT_VS, shaders.LINES_FS, p),
+        lines: c.initShader(shaders.LINES_VS, shaders.LINES_FS, p),
         text: c.initShader(shaders.TEXT_VS, shaders.TEXT_FS, p),
         select: c.initShader(shaders.SELECT_VS, shaders.SELECT_FS, p)
       };
@@ -6110,6 +6269,9 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       }
       this._redrawRequested = true;
       requestAnimFrame(this._boundDraw);
+    },
+    boundingClientRect: function () {
+      return this._canvas.domElement().getBoundingClientRect();
     },
     _drawWithPass: function (pass) {
       for (var i = 0, e = this._objects.length; i !== e; ++i) {
@@ -6180,6 +6342,7 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       }
       gl.cullFace(gl.FRONT);
       gl.enable(gl.BLEND);
+      gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
       this._drawWithPass('normal');
     },
     setCenter: function (center, ms) {
@@ -6241,7 +6404,8 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       'cartoon',
       'tube',
       'spheres',
-      'ballsAndSticks'
+      'ballsAndSticks',
+      'points'
     ],
     renderAs: function (name, structure, mode, opts) {
       var found = false;
@@ -6345,6 +6509,13 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       var obj = render.lines(structure, this._canvas.gl(), options);
       return this.add(name, obj);
     },
+    points: function (name, structure, opts) {
+      var options = this._handleStandardMolOptions(opts, structure);
+      options.color = options.color || color.byElement();
+      options.pointSize = options.pointSize || 1;
+      var obj = render.points(structure, this._canvas.gl(), options);
+      return this.add(name, obj);
+    },
     trace: function (name, structure, opts) {
       var options = this._handleStandardMolOptions(opts, structure);
       options.color = options.color || color.uniform([
@@ -6436,9 +6607,11 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
         return this._rockAndRoll !== null;
       }
       if (!!enable) {
-        this._rockAndRoll = anim.rockAndRoll();
-        this._animControl.add(this._rockAndRoll);
-        this.requestRedraw();
+        if (this._rockAndRoll === null) {
+          this._rockAndRoll = anim.rockAndRoll();
+          this._animControl.add(this._rockAndRoll);
+          this.requestRedraw();
+        }
         return true;
       }
       this._animControl.remove(this._rockAndRoll);
@@ -6464,8 +6637,13 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
         1,
         0
       ];
-      this._spin = anim.spin(axis, speed);
-      this._animControl.add(this._spin);
+      if (this._spin === null) {
+        this._spin = anim.spin(axis, speed);
+        this._animControl.add(this._spin);
+      } else {
+        this._spin.setSpeed(speed);
+        this._spin.setAxis(axis);
+      }
       this.requestRedraw();
       return true;
     },
@@ -6486,7 +6664,7 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
     },
     customMesh: function (name, opts) {
       var options = this._handleStandardOptions(opts);
-      var mesh = new CustomMesh(name, this._canvas.gl(), options.float32Allocator, options.uint16Allocator);
+      var mesh = new CustomMesh(name, this._canvas.gl(), options.float32Allocator, options.uint16Allocator, options.idPool);
       this.add(name, mesh);
       return mesh;
     },
@@ -6500,28 +6678,42 @@ viewer = function (UniqueObjectIdPool, canvas, FrameBuffer, PoolAllocator, Cam, 
       gl.enable(gl.CULL_FACE);
       this._drawWithPass('select');
     },
-    pick: function (pos) {
-      this._pickBuffer.bind();
-      this._drawPickingScene();
-      var pixels = new Uint8Array(4);
-      var gl = this._canvas.gl();
-      gl.readPixels(pos.x, this._options.height - pos.y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixels);
-      this._pickBuffer.release();
-      if (pixels.data) {
-        pixels = pixels.data;
-      }
-      var objId = pixels[0] | pixels[1] << 8 | pixels[2] << 16;
-      var symIndex = pixels[3];
-      var obj = this._objectIdManager.objectForId(objId);
-      if (obj === undefined) {
-        return null;
-      }
-      var transform = null;
-      if (symIndex !== 255) {
-        transform = obj.geom.symWithIndex(symIndex);
-      }
-      return new PickingResult(obj, symIndex < 255 ? symIndex : null, transform);
-    },
+    pick: function () {
+      return function (pos) {
+        this._pickBuffer.bind();
+        this._drawPickingScene();
+        var pixels = new Uint8Array(4);
+        var gl = this._canvas.gl();
+        gl.readPixels(pos.x, this._options.height - pos.y, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixels);
+        this._pickBuffer.release();
+        if (pixels.data) {
+          pixels = pixels.data;
+        }
+        var objId = pixels[0] | pixels[1] << 8 | pixels[2] << 16;
+        var symIndex = pixels[3];
+        var picked = this._objectIdManager.objectForId(objId);
+        if (picked === undefined) {
+          return null;
+        }
+        var transformedPos = vec3.create();
+        var target = null;
+        var transform = null;
+        if (symIndex !== 255) {
+          target = picked.atom;
+          transform = picked.geom.symWithIndex(symIndex);
+          vec3.transformMat4(transformedPos, picked.atom.pos(), transform);
+        } else {
+          if (picked.atom !== undefined) {
+            target = picked.atom;
+            transformedPos = picked.atom.pos();
+          } else {
+            target = picked.userData;
+            transformedPos = picked.center;
+          }
+        }
+        return new PickedObject(target, picked.geom, symIndex < 255 ? symIndex : null, transformedPos, picked, transform);
+      };
+    }(),
     add: function (name, obj) {
       obj.name(name);
       this._objects.push(obj);
@@ -6651,6 +6843,7 @@ molSymmetry = function () {
 }();
 molAtom = function () {
   
+  var vec3 = glMatrix.vec3;
   function AtomBase() {
   }
   AtomBase.prototype = {
@@ -6715,6 +6908,9 @@ molAtom = function () {
     },
     pos: function () {
       return this._pos;
+    },
+    setPos: function (pos) {
+      vec3.copy(this._pos, pos);
     },
     element: function () {
       return this._element;
@@ -7367,6 +7563,13 @@ molChain = function (residue, trace) {
       }
       return resView;
     },
+    addAtom: function (atom) {
+      var resView = this._residueMap[atom.residue().full().index()];
+      if (resView === undefined) {
+        resView = this.addResidue(atom.residue());
+      }
+      return resView.addAtom(atom);
+    },
     containsResidue: function (residue) {
       var resView = this._residueMap[residue.full().index()];
       if (resView === undefined) {
@@ -7588,7 +7791,7 @@ molSelect = function () {
   }
   return { dict: dictSelect };
 }();
-molMol = function (chain, bond, select) {
+molMol = mol = function (chain, bond, select) {
   
   var vec3 = glMatrix.vec3;
   var Chain = chain.Chain;
@@ -8066,6 +8269,13 @@ molMol = function (chain, bond, select) {
       }
       return chainView;
     },
+    addAtom: function (atom) {
+      var chain = this.chain(atom.residue().chain().name());
+      if (chain === null) {
+        chain = this.addChain(atom.residue().chain());
+      }
+      return chain.addAtom(atom);
+    },
     containsResidue: function (residue) {
       if (!residue) {
         return false;
@@ -8093,7 +8303,523 @@ molMol = function (chain, bond, select) {
     Mol: Mol
   };
 }(molChain, molBond, molSelect);
-molAll = mol = function (mol) {
+svd = function () {
+  function svd(A) {
+    var temp;
+    var prec = Math.pow(2, -52);
+    var tolerance = 1e-64 / prec;
+    var itmax = 50;
+    var c = 0;
+    var i = 0;
+    var j = 0;
+    var k = 0;
+    var l = 0;
+    var u = A;
+    var m = u.length;
+    var n = u[0].length;
+    if (m < n)
+      throw 'Need more rows than columns';
+    var e = new Array(n);
+    var q = new Array(n);
+    for (i = 0; i < n; i++)
+      e[i] = q[i] = 0;
+    var v = [];
+    for (var i = 0; i < n; ++i) {
+      var xxx = [];
+      v.push([]);
+      for (var j = 0; j < n; ++j) {
+        xxx.push(0);
+      }
+      v.push(xxx);
+    }
+    function pythag(a, b) {
+      a = Math.abs(a);
+      b = Math.abs(b);
+      if (a > b)
+        return a * Math.sqrt(1 + b * b / a / a);
+      else if (b == 0)
+        return a;
+      return b * Math.sqrt(1 + a * a / b / b);
+    }
+    var f = 0;
+    var g = 0;
+    var h = 0;
+    var x = 0;
+    var y = 0;
+    var z = 0;
+    var s = 0;
+    for (i = 0; i < n; i++) {
+      e[i] = g;
+      s = 0;
+      l = i + 1;
+      for (j = i; j < m; j++)
+        s += u[j][i] * u[j][i];
+      if (s <= tolerance)
+        g = 0;
+      else {
+        f = u[i][i];
+        g = Math.sqrt(s);
+        if (f >= 0)
+          g = -g;
+        h = f * g - s;
+        u[i][i] = f - g;
+        for (j = l; j < n; j++) {
+          s = 0;
+          for (k = i; k < m; k++)
+            s += u[k][i] * u[k][j];
+          f = s / h;
+          for (k = i; k < m; k++)
+            u[k][j] += f * u[k][i];
+        }
+      }
+      q[i] = g;
+      s = 0;
+      for (j = l; j < n; j++)
+        s = s + u[i][j] * u[i][j];
+      if (s <= tolerance)
+        g = 0;
+      else {
+        f = u[i][i + 1];
+        g = Math.sqrt(s);
+        if (f >= 0)
+          g = -g;
+        h = f * g - s;
+        u[i][i + 1] = f - g;
+        for (j = l; j < n; j++)
+          e[j] = u[i][j] / h;
+        for (j = l; j < m; j++) {
+          s = 0;
+          for (k = l; k < n; k++)
+            s += u[j][k] * u[i][k];
+          for (k = l; k < n; k++)
+            u[j][k] += s * e[k];
+        }
+      }
+      y = Math.abs(q[i]) + Math.abs(e[i]);
+      if (y > x)
+        x = y;
+    }
+    for (i = n - 1; i != -1; i += -1) {
+      if (g != 0) {
+        h = g * u[i][i + 1];
+        for (j = l; j < n; j++)
+          v[j][i] = u[i][j] / h;
+        for (j = l; j < n; j++) {
+          s = 0;
+          for (k = l; k < n; k++)
+            s += u[i][k] * v[k][j];
+          for (k = l; k < n; k++)
+            v[k][j] += s * v[k][i];
+        }
+      }
+      for (j = l; j < n; j++) {
+        v[i][j] = 0;
+        v[j][i] = 0;
+      }
+      v[i][i] = 1;
+      g = e[i];
+      l = i;
+    }
+    for (i = n - 1; i != -1; i += -1) {
+      l = i + 1;
+      g = q[i];
+      for (j = l; j < n; j++)
+        u[i][j] = 0;
+      if (g != 0) {
+        h = u[i][i] * g;
+        for (j = l; j < n; j++) {
+          s = 0;
+          for (k = l; k < m; k++)
+            s += u[k][i] * u[k][j];
+          f = s / h;
+          for (k = i; k < m; k++)
+            u[k][j] += f * u[k][i];
+        }
+        for (j = i; j < m; j++)
+          u[j][i] = u[j][i] / g;
+      } else
+        for (j = i; j < m; j++)
+          u[j][i] = 0;
+      u[i][i] += 1;
+    }
+    prec = prec * x;
+    for (k = n - 1; k != -1; k += -1) {
+      for (var iteration = 0; iteration < itmax; iteration++) {
+        var test_convergence = false;
+        for (l = k; l != -1; l += -1) {
+          if (Math.abs(e[l]) <= prec) {
+            test_convergence = true;
+            break;
+          }
+          if (Math.abs(q[l - 1]) <= prec)
+            break;
+        }
+        if (!test_convergence) {
+          c = 0;
+          s = 1;
+          var l1 = l - 1;
+          for (i = l; i < k + 1; i++) {
+            f = s * e[i];
+            e[i] = c * e[i];
+            if (Math.abs(f) <= prec)
+              break;
+            g = q[i];
+            h = pythag(f, g);
+            q[i] = h;
+            c = g / h;
+            s = -f / h;
+            for (j = 0; j < m; j++) {
+              y = u[j][l1];
+              z = u[j][i];
+              u[j][l1] = y * c + z * s;
+              u[j][i] = -y * s + z * c;
+            }
+          }
+        }
+        z = q[k];
+        if (l == k) {
+          if (z < 0) {
+            q[k] = -z;
+            for (j = 0; j < n; j++)
+              v[j][k] = -v[j][k];
+          }
+          break;
+        }
+        if (iteration >= itmax - 1)
+          throw 'Error: no convergence.';
+        x = q[l];
+        y = q[k - 1];
+        g = e[k - 1];
+        h = e[k];
+        f = ((y - z) * (y + z) + (g - h) * (g + h)) / (2 * h * y);
+        g = pythag(f, 1);
+        if (f < 0)
+          f = ((x - z) * (x + z) + h * (y / (f - g) - h)) / x;
+        else
+          f = ((x - z) * (x + z) + h * (y / (f + g) - h)) / x;
+        c = 1;
+        s = 1;
+        for (i = l + 1; i < k + 1; i++) {
+          g = e[i];
+          y = q[i];
+          h = s * g;
+          g = c * g;
+          z = pythag(f, h);
+          e[i - 1] = z;
+          c = f / z;
+          s = h / z;
+          f = x * c + g * s;
+          g = -x * s + g * c;
+          h = y * s;
+          y = y * c;
+          for (j = 0; j < n; j++) {
+            x = v[j][i - 1];
+            z = v[j][i];
+            v[j][i - 1] = x * c + z * s;
+            v[j][i] = -x * s + z * c;
+          }
+          z = pythag(f, h);
+          q[i - 1] = z;
+          c = f / z;
+          s = h / z;
+          f = c * g + s * y;
+          x = -s * g + c * y;
+          for (j = 0; j < m; j++) {
+            y = u[j][i - 1];
+            z = u[j][i];
+            u[j][i - 1] = y * c + z * s;
+            u[j][i] = -y * s + z * c;
+          }
+        }
+        e[l] = 0;
+        e[k] = f;
+        q[k] = x;
+      }
+    }
+    for (i = 0; i < q.length; i++)
+      if (q[i] < prec)
+        q[i] = 0;
+    for (i = 0; i < n; i++) {
+      for (j = i - 1; j >= 0; j--) {
+        if (q[j] < q[i]) {
+          c = q[j];
+          q[j] = q[i];
+          q[i] = c;
+          for (k = 0; k < u.length; k++) {
+            temp = u[k][i];
+            u[k][i] = u[k][j];
+            u[k][j] = temp;
+          }
+          for (k = 0; k < v.length; k++) {
+            temp = v[k][i];
+            v[k][i] = v[k][j];
+            v[k][j] = temp;
+          }
+          i = j;
+        }
+      }
+    }
+    return {
+      U: u,
+      S: q,
+      V: v
+    };
+  }
+  return svd;
+}();
+molSuperpose = function () {
+  
+  var vec3 = glMatrix.vec3;
+  var mat3 = glMatrix.mat3;
+  var quat = glMatrix.quat;
+  var calculateCenter = function (atoms, center) {
+    vec3.set(center, 0, 0, 0);
+    if (atoms.length === 0) {
+      return;
+    }
+    for (var i = 0; i < atoms.length; ++i) {
+      var atom = atoms[i];
+      vec3.add(center, center, atom.pos());
+    }
+    vec3.scale(center, center, 1 / atoms.length);
+  };
+  var calculateCov = function () {
+    var shiftedSubject = vec3.create();
+    var shiftedReference = vec3.create();
+    return function (subjectAtoms, referenceAtoms, subjectCenter, referenceCenter, covariance) {
+      covariance[0] = 0;
+      covariance[1] = 0;
+      covariance[2] = 0;
+      covariance[3] = 0;
+      covariance[4] = 0;
+      covariance[5] = 0;
+      covariance[6] = 0;
+      covariance[7] = 0;
+      covariance[8] = 0;
+      for (var i = 0; i < referenceAtoms.length; ++i) {
+        vec3.sub(shiftedSubject, subjectAtoms[i].pos(), subjectCenter);
+        vec3.sub(shiftedReference, referenceAtoms[i].pos(), referenceCenter);
+        var ss = shiftedSubject;
+        var sr = shiftedReference;
+        covariance[0] += ss[0] * sr[0];
+        covariance[1] += ss[0] * sr[1];
+        covariance[2] += ss[0] * sr[2];
+        covariance[3] += ss[1] * sr[0];
+        covariance[4] += ss[1] * sr[1];
+        covariance[5] += ss[1] * sr[2];
+        covariance[6] += ss[2] * sr[0];
+        covariance[7] += ss[2] * sr[1];
+        covariance[8] += ss[2] * sr[2];
+      }
+    };
+  }();
+  var superpose = function () {
+    var referenceCenter = vec3.create();
+    var subjectCenter = vec3.create();
+    var shiftedPos = vec3.create();
+    var rotation = mat3.create();
+    var cov = mat3.create();
+    var tmp = mat3.create();
+    var uMat = mat3.create();
+    var vMat = mat3.create();
+    return function (structure, reference) {
+      var subjectAtoms = structure.atoms();
+      var referenceAtoms = reference.atoms();
+      calculateCenter(referenceAtoms, referenceCenter);
+      calculateCenter(subjectAtoms, subjectCenter);
+      if (subjectAtoms.length !== referenceAtoms.length) {
+        console.error('atom counts do not match (' + subjectAtoms.length + 'in structure vs ' + referenceAtoms.length + ' in reference)');
+        return false;
+      }
+      if (subjectAtoms.length < 3) {
+        console.error('at least 3 atoms are required for superposition');
+        return false;
+      }
+      calculateCov(subjectAtoms, referenceAtoms, subjectCenter, referenceCenter, cov);
+      var input = [
+        [
+          cov[0],
+          cov[1],
+          cov[2]
+        ],
+        [
+          cov[3],
+          cov[4],
+          cov[5]
+        ],
+        [
+          cov[6],
+          cov[7],
+          cov[8]
+        ]
+      ];
+      var u = [
+        [],
+        [],
+        []
+      ];
+      var v = [
+        [],
+        [],
+        []
+      ];
+      var decomp = svd(input);
+      uMat[0] = decomp.U[0][0];
+      uMat[1] = decomp.U[0][1];
+      uMat[2] = decomp.U[0][2];
+      uMat[3] = decomp.U[1][0];
+      uMat[4] = decomp.U[1][1];
+      uMat[5] = decomp.U[1][2];
+      uMat[6] = decomp.U[2][0];
+      uMat[7] = decomp.U[2][1];
+      uMat[8] = decomp.U[2][2];
+      var detU = mat3.determinant(uMat);
+      vMat[0] = decomp.V[0][0];
+      vMat[1] = decomp.V[0][1];
+      vMat[2] = decomp.V[0][2];
+      vMat[3] = decomp.V[1][0];
+      vMat[4] = decomp.V[1][1];
+      vMat[5] = decomp.V[1][2];
+      vMat[6] = decomp.V[2][0];
+      vMat[7] = decomp.V[2][1];
+      vMat[8] = decomp.V[2][2];
+      var detV = mat3.determinant(vMat);
+      mat3.identity(tmp);
+      if (detU * detV < 0) {
+        console.log('determinants smaller than zero!');
+        tmp[8] = -1;
+        mat3.mul(uMat, uMat, tmp);
+      }
+      mat3.mul(rotation, mat3.transpose(vMat, vMat), uMat);
+      mat3.transpose(rotation, rotation);
+      var allAtoms = structure.full().atoms();
+      for (var i = 0; i < allAtoms.length; ++i) {
+        var atom = allAtoms[i];
+        vec3.sub(shiftedPos, atom.pos(), subjectCenter);
+        vec3.transformMat3(shiftedPos, shiftedPos, rotation);
+        vec3.add(shiftedPos, referenceCenter, shiftedPos);
+        atom.setPos(shiftedPos);
+      }
+      return true;
+    };
+  }();
+  function parseAtomNames(atoms) {
+    if (atoms === undefined || atoms === null || atoms === 'all') {
+      return null;
+    }
+    if (atoms === 'backbone') {
+      return {
+        'CA': true,
+        'C': true,
+        'O': true,
+        'N': true
+      };
+    }
+    if (atoms.substr !== undefined) {
+      var results = {};
+      var atomNames = atoms.split(',');
+      for (var i = 0; i < atomNames.length; ++i) {
+        results[atomNames[i].trim()] = true;
+      }
+      return results;
+    } else {
+      var results = {};
+      for (var i = 0; i < atoms.length; ++i) {
+        results[atoms[i]] = true;
+      }
+      return results;
+    }
+  }
+  function addAtomsPresentInBoth(inA, inB, outA, outB, atomSet) {
+    var atomsA = inA.atoms();
+    var atomsB = inB.atoms();
+    for (var i = 0; i < atomsA.length; ++i) {
+      var atomA = atomsA[i];
+      if (atomSet !== null && atomSet[atomA.name()] !== true) {
+        continue;
+      }
+      for (var j = 0; j < atomsB.length; ++j) {
+        var atomB = atomsB[j];
+        if (atomB.name() === atomA.name()) {
+          outA.push(atomA);
+          outB.push(atomB);
+          break;
+        }
+      }
+    }
+  }
+  function matchResidues(inA, inB, atoms, matchFn) {
+    var outA = inA.full().createEmptyView();
+    var outB = inB.full().createEmptyView();
+    var numChains = Math.min(inA.chains().length, inB.chains().length);
+    var atomSet = parseAtomNames(atoms);
+    for (var i = 0; i < numChains; ++i) {
+      var chainA = inA.chains()[i];
+      var chainB = inB.chains()[i];
+      var matchedResidues = matchFn(chainA, chainB);
+      var residuesA = matchedResidues[0];
+      var residuesB = matchedResidues[1];
+      if (residuesA.length !== residuesB.length) {
+        console.errors('chains', chainA.name(), ' and', chainB.name(), ' do not contain the same number of residues.');
+        return null;
+      }
+      var outChainA = outA.addChain(chainA);
+      var outChainB = outB.addChain(chainB);
+      for (var j = 0; j < residuesA.length; ++j) {
+        var residueA = residuesA[j];
+        var residueB = residuesB[j];
+        var outAtomsA = [], outAtomsB = [];
+        addAtomsPresentInBoth(residueA, residueB, outAtomsA, outAtomsB, atomSet);
+        if (outAtomsA.length === 0) {
+          continue;
+        }
+        var outResidueA = outChainA.addResidue(residueA);
+        var outResidueB = outChainB.addResidue(residueB);
+        for (var k = 0; k < outAtomsA.length; ++k) {
+          outResidueA.addAtom(outAtomsA[k]);
+          outResidueB.addAtom(outAtomsB[k]);
+        }
+      }
+    }
+    return [
+      outA,
+      outB
+    ];
+  }
+  function matchResiduesByIndex(inA, inB, atoms) {
+    return matchResidues(inA, inB, atoms, function (chainA, chainB) {
+      return [
+        chainA.residues(),
+        chainB.residues()
+      ];
+    });
+  }
+  function matchResiduesByNum(inA, inB, atoms) {
+    return matchResidues(inA, inB, atoms, function (chainA, chainB) {
+      var outA = [], outB = [];
+      var inA = chainA.residues();
+      for (var i = 0; i < inA.length; ++i) {
+        var resB = chainB.residueByRnum(inA[i].num());
+        if (resB !== null) {
+          outA.push(inA[i]);
+          outB.push(resB);
+        }
+      }
+      return [
+        outA,
+        outB
+      ];
+    });
+  }
+  return {
+    superpose: superpose,
+    matchResiduesByNum: matchResiduesByNum,
+    matchResiduesByIndex: matchResiduesByIndex,
+    parseAtomNames: parseAtomNames,
+    addAtomsPresentInBoth: addAtomsPresentInBoth
+  };
+}();
+molAll = mol = function (sp) {
   
   var vec3 = glMatrix.vec3;
   var zhangSkolnickSS = function () {
@@ -8156,9 +8882,13 @@ molAll = mol = function (mol) {
   }
   return {
     Mol: mol.Mol,
-    assignHelixSheet: assignHelixSheet
+    MolView: mol.MolView,
+    assignHelixSheet: assignHelixSheet,
+    superpose: sp.superpose,
+    matchResiduesByIndex: sp.matchResiduesByIndex,
+    matchResiduesByNum: sp.matchResiduesByNum
   };
-}(molMol);
+}(molSuperpose);
 io = function (symmetry) {
   
   var vec3 = glMatrix.vec3;
@@ -8235,6 +8965,11 @@ io = function (symmetry) {
           ++i;
           charCode = trimmed.charCodeAt(i);
         }
+        return trimmed[i];
+      }
+      var firstCharCode = trimmed.charCodeAt(0);
+      if (firstCharCode >= 48 && firstCharCode <= 57) {
+        return trimmed[1];
       }
       return trimmed.substr(0, 2);
     }
@@ -8254,6 +8989,10 @@ io = function (symmetry) {
     this._options.conectRecords = !!options.conectRecords;
   }
   PDBReader.prototype = {
+    CONTINUE: 1,
+    MODEL_COMPLETE: 2,
+    FILE_END: 3,
+    ERROR: 4,
     parseHelixRecord: function (line) {
       var frstNum = parseInt(line.substr(21, 4), 10);
       var frstInsCode = line[25] === ' ' ? '\0' : line[25];
@@ -8361,30 +9100,36 @@ io = function (symmetry) {
     processLine: function (line) {
       var recordName = line.substr(0, 6);
       if (recordName === 'ATOM  ' || recordName === 'HETATM') {
-        return this.parseAndAddAtom(line);
+        return this.parseAndAddAtom(line) ? this.CONTINUE : this.ERROR;
       }
       if (recordName === 'REMARK') {
         var remarkNumber = line.substr(7, 3);
         if (remarkNumber === '350') {
           this._remark350Reader.nextLine(line);
         }
-        return true;
+        return this.CONTINUE;
       }
       if (recordName === 'HELIX ') {
-        return this.parseHelixRecord(line);
+        return this.parseHelixRecord(line) ? this.CONTINUE : this.ERROR;
       }
       if (recordName === 'SHEET ') {
-        return this.parseSheetRecord(line);
+        return this.parseSheetRecord(line) ? this.CONTINUE : this.ERROR;
       }
       if (this._options.conectRecords && recordName === 'CONECT') {
-        return this.parseConectRecord(line);
+        return this.parseConectRecord(line) ? this.CONTINUE : this.ERROR;
       }
-      if (recordName === 'END   ' || recordName === 'ENDMDL') {
-        return false;
+      if (recordName === 'END   ') {
+        return this.FILE_END;
       }
-      return true;
+      if (recordName === 'ENDMDL') {
+        return this.MODEL_COMPLETE;
+      }
+      return this.CONTINUE;
     },
     finish: function () {
+      if (this._currChain === null) {
+        return null;
+      }
       var chain = null;
       var i;
       for (i = 0; i < this._sheets.length; ++i) {
@@ -8407,7 +9152,12 @@ io = function (symmetry) {
       }
       this._structure.deriveConnectivity();
       console.log('imported', this._structure.chains().length, 'chain(s),', this._structure.residueCount(), 'residue(s)');
-      return this._structure;
+      var result = this._structure;
+      this._structure = new mol.Mol();
+      this._currChain = null;
+      this._currRes = null;
+      this._currAtom = null;
+      return result;
     },
     _assignBondsFromConectRecords: function (structure) {
       for (var i = 0; i < this._conect.length; ++i) {
@@ -8428,14 +9178,34 @@ io = function (symmetry) {
     var opts = options || {};
     var lines = getLines(text);
     var reader = new PDBReader(opts);
+    var structures = [];
     for (var i = 0; i < lines.length; i++) {
-      if (!reader.processLine(lines[i])) {
-        break;
+      var result = reader.processLine(lines[i]);
+      if (result === reader.ERROR) {
+        console.timeEnd('pdb');
+        return null;
       }
+      if (result === reader.CONTINUE) {
+        continue;
+      }
+      var struct = reader.finish();
+      if (struct !== null) {
+        structures.push(struct);
+      }
+      if (result === reader.MODEL_COMPLETE && opts.loadAllModels) {
+        continue;
+      }
+      break;
     }
     var structure = reader.finish();
+    if (structure !== null) {
+      structures.push(structure);
+    }
     console.timeEnd('pdb');
-    return structure;
+    if (opts.loadAllModels) {
+      return structures;
+    }
+    return structures[0];
   }
   function SDFReader() {
     this._structure = new mol.Mol();
@@ -8570,7 +9340,8 @@ io = function (symmetry) {
     sdf: sdf,
     Remark350Reader: Remark350Reader,
     fetchPdb: fetchPdb,
-    fetchSdf: fetchSdf
+    fetchSdf: fetchSdf,
+    guessAtomElementFromName: guessAtomElementFromName
   };
 }(molSymmetry);
 viewpoint = function () {

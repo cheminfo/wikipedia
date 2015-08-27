@@ -1,1 +1,1 @@
-define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return c.prototype=$.extend(!0,{},a,{getjPath:function(a){var c=[];return b.getJPathsFromElement(this.module.view._data,c),c}}),c});
+define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){function c(){}return $.extend(!0,c.prototype,a,{getjPath:function(){var a=[];return b.getJPathsFromElement(this.module.view._data,a),a}}),c});

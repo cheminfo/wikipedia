@@ -1,1 +1,1 @@
-define(["modules/types/client_interaction/code_editor/model"],function(a){function b(){}return b.prototype=Object.create(a.prototype),b});
+define(["modules/types/client_interaction/code_editor/model","src/util/util"],function(a,b){function c(){a.call(this)}return b.inherits(c,a),c});

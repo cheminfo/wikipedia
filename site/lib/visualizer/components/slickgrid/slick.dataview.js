@@ -49,6 +49,8 @@
     var compiledFilterWithCaching;
     var filterCache = [];
 
+    var module = null;  // The visualizer model
+
     // grouping
     var groupingInfoDefaults = {
       getter: null,
@@ -78,6 +80,9 @@
 
     options = $.extend(true, {}, defaults, options);
 
+    function setModule(m) {
+      module = m;
+    }
 
     function beginUpdate() {
       suspend = true;
@@ -169,6 +174,22 @@
       refresh();
     }
 
+    function sortBy(comparer, ascending) {
+      sortAsc = ascending;
+      sortComparer = comparer;
+      fastSortField = null;
+      if (ascending === false) {
+        items.reverse();
+      }
+      items = _.sortBy(items, comparer);
+      if (ascending === false) {
+        items.reverse();
+      }
+      idxById = {};
+      updateIdxById();
+      refresh();
+    }
+
     /***
      * Provides a workaround for the extremely slow sorting in IE.
      * Does a [lexicographic] sort on a give column by temporarily overriding Object.prototype.toString
@@ -226,7 +247,7 @@
       groups = [];
       toggledGroupsByLevel = [];
       groupingInfo = groupingInfo || [];
-      groupingInfos = (groupingInfo instanceof Array) ? groupingInfo : [groupingInfo];
+      groupingInfos = Array.isArray(groupingInfo) ? groupingInfo : [groupingInfo];
 
       for (var i = 0; i < groupingInfos.length; i++) {
         var gi = groupingInfos[i] = $.extend(true, {}, groupingInfoDefaults, groupingInfos[i]);
@@ -496,7 +517,7 @@
           group = groups[i];
           group.groups = extractGroups(group.rows, group);
         }
-      }      
+      }
 
       groups.sort(groupingInfos[level].comparer);
 
@@ -601,8 +622,8 @@
       var fn = new Function(
           "_items",
           "for (var " + accumulatorInfo.params[0] + ", _i=0, _il=_items.length; _i<_il; _i++) {" +
-              accumulatorInfo.params[0] + " = _items[_i]; " +
-              accumulatorInfo.body +
+          accumulatorInfo.params[0] + " = _items[_i]; " +
+          accumulatorInfo.body +
           "}"
       );
       fn.displayName = fn.name = "compiledAccumulatorLoop";
@@ -763,13 +784,13 @@
               item.__group !== r.__group ||
               item.__group && !item.equals(r))
               || (eitherIsNonData &&
-              // no good way to compare totals since they are arbitrary DTOs
-              // deep object comparison is pretty expensive
-              // always considering them 'dirty' seems easier for the time being
+                // no good way to compare totals since they are arbitrary DTOs
+                // deep object comparison is pretty expensive
+                // always considering them 'dirty' seems easier for the time being
               (item.__groupTotals || r.__groupTotals))
               || item[idProperty] != r[idProperty]
               || (updated && updated[item[idProperty]])
-              ) {
+          ) {
             diff[diff.length] = i;
           }
         }
@@ -912,6 +933,7 @@
 
     $.extend(this, {
       // methods
+      "setModule": setModule,
       "beginUpdate": beginUpdate,
       "endUpdate": endUpdate,
       "setPagingOptions": setPagingOptions,
@@ -920,6 +942,7 @@
       "setItems": setItems,
       "setFilter": setFilter,
       "sort": sort,
+      "sortBy": sortBy,
       "fastSort": fastSort,
       "reSort": reSort,
       "setGrouping": setGrouping,

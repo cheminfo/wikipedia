@@ -14,7 +14,7 @@
 /*global jQuery */
 
 (function ($) {
-
+"use strict";
 $.jgrid = $.jgrid || {};
 $.extend($.jgrid,{
 	version : "4.5.5",
@@ -5281,7 +5281,7 @@ var xmlJsonClass = {
 /*global jQuery */
 
 (function($) {
-	
+"use strict";	
 	$.fmatter = {};
 	//opts can be id:row id for the row, rowdata:the data for the row, colmodel:the column model for this column
 	//example {id:1234,}
@@ -6433,7 +6433,7 @@ $.extend($.jgrid,{
 /*global jQuery */
 
 (function ($) {
-
+"use strict";
 
 $.fn.jqFilter = function( arg ) {
 	if (typeof arg === 'string') {
@@ -10688,7 +10688,7 @@ toggleSubGridRow : function(rowid) {
 /*jshint eqeqeq:false */
 /*global jQuery */
 (function($) {
-
+"use strict";
 $.jgrid.extend({
 	setTreeNode : function(i, len){
 		return this.each(function(){
@@ -11361,7 +11361,7 @@ $.jgrid.extend({
 /*global jQuery */
 // Grouping module
 (function($){
-
+"use strict";
 $.extend($.jgrid,{
 	template : function(format){ //jqgformat
 		var args = $.makeArray(arguments).slice(1), j, al = args.length;

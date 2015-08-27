@@ -21,7 +21,7 @@
 		factory(global, global.jQuery);
 	}
 }(typeof window !== 'undefined' ? window : this, function(window, $) {
-	
+	'use strict';
 
 	// Common properties to lift for touch or pointer events
 	var list = 'over out down up move enter leave cancel'.split(' ');

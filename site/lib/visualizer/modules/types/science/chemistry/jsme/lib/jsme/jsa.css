@@ -155,7 +155,7 @@
 	border-width: medium;
 	width: auto;
 	min-width: 0;
-	//display:inline;
+	/*display:inline;*/
 	height: auto;
 	min-height: 0;
 	background-color: transparent;
@@ -169,7 +169,4 @@
 	line-height: normal;
 
 	
-}
-
-
 }

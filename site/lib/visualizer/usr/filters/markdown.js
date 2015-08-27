@@ -7,7 +7,7 @@ define(['lodash', 'src/util/util', 'marked', 'highlightjs'], function (_, Util, 
 
     return {
         filter: function gcFilter(md, resolve) {
-            cssLoaded.then(function() {
+            cssLoaded.then(function () {
                 resolve({
                     type: 'html',
                     value: marked(md.resurrect(), {

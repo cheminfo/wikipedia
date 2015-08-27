@@ -27,7 +27,6 @@ em {background-color:rgb(102,255,255);}
                jsmeApplet.options("nocanonize");
            }
            smiles = jsmeApplet.smiles();
-           console.log(smiles);
            new_smiles = smiles.replace(patt, '<em>$1</em>');
            document.getElementById("smiles_container").innerHTML = new_smiles
        }

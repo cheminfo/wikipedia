@@ -5,18 +5,13 @@ No built-in (selected, editable, highlight, flashing, invalid, loading, :focus) 
 classes should alter those!
 */
 
-.slick-header-columns {
-    background: url('../../../../components/slickgrid/images/header-columns-bg.gif') repeat-x center bottom;
+.slick-header-columns, .slick-header-column {
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAYCAYAAADQ+yzZAAAAQklEQVQIW63MOwoAIAxEwXj/y+Ueaj5qk0rBBQtt7Ya3sCkiJhFR+g5vA88H5h3lhVrDdCDqKFXsQqmKkotcYOZdFg0IXCG+t9vbAAAAAElFTkSuQmCC') repeat-x center bottom;
     border-bottom: 1px solid silver;
 }
 
-.slick-header-column {
-    background: url('../../../../components/slickgrid/images/header-columns-bg.gif') repeat-x center bottom;
-    border-right: 1px solid silver;
-}
-
 .slick-header-column:hover, .slick-header-column-active {
-    background: white url('../../../../components/slickgrid/images/header-columns-over-bg.gif') repeat-x center bottom;
+    background: white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAWCAYAAADq8U2pAAAAIklEQVQIW2N8/fnvfwYGBgZGChk3X/yGmENPxqoz38CWAgAEf1LRe6w+0QAAAABJRU5ErkJggg==') repeat-x center bottom;
 }
 
 .slick-headerrow {
@@ -61,11 +56,11 @@ classes should alter those!
 }
 
 .slick-group-toggle.expanded {
-    background: url(../../../../components/slickgrid/images/collapse.gif) no-repeat center center;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAbElEQVQYV2NsaGj4z0AAMIIUhRbX41S2ureRAa5IjA2ijomRgeE/1Oz/jAwMU9uQFImzMTAwMmIaOBlZkU5wNYaKN1taGVAUyXIwMDz+gWkSipsUOLG7vbsFyU0gRcyMDAx/oY6GseGKCIUTAO9aN4EuUYtlAAAAAElFTkSuQmCC') no-repeat center center;
 }
 
 .slick-group-toggle.collapsed {
-    background: url(../../../../components/slickgrid/images/expand.gif) no-repeat center center;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAiklEQVQYV2NsaGj4z0AAMIIUhRbX41S2ureRAa5IjA2iTsy3muH15lYw+z8jA8PUNiRF4mwMDIyMDAwiPtUMV9a2MkiwQzRNRlakE1yNYeWbLa2oimQ5GBge/2BgACkGmQQDKG5S4IQI83hBFMH43S1IbgIJMjMyMPz9z8Dw4DsDgzIXhA1XRCicAC4DQ4EYKVoeAAAAAElFTkSuQmCC') no-repeat center center;
 }
 
 .slick-group-totals {
@@ -101,10 +96,14 @@ classes should alter those!
 
 .slick-cell.invalid {
     border-color: red;
-    -moz-animation-duration: 0.2s;
     -webkit-animation-duration: 0.2s;
-    -moz-animation-name: slickgrid-invalid-hilite;
+    -moz-animation-duration: 0.2s;
+    -o-animation-duration: 0.2s;
+    animation-duration: 0.2s;
     -webkit-animation-name: slickgrid-invalid-hilite;
+    -moz-animation-name: slickgrid-invalid-hilite;
+    -o-animation-name: slickgrid-invalid-hilite;
+    animation-name: slickgrid-invalid-hilite;
 }
 
 @-moz-keyframes slickgrid-invalid-hilite {
@@ -116,6 +115,7 @@ classes should alter those!
     from { box-shadow: 0 0 6px red; }
     to { box-shadow: none; }
 }
+
 /* ============================================ */
 
 .ci-module-slickgrid h2 {
@@ -130,7 +130,7 @@ classes should alter those!
 }
 
 .ci-module-slickgrid .ci-module-content li {
-    background: url("../../../../components/slickgrid/images/arrow_right_spearmint.png") no-repeat center left;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAAiUlEQVQYV2NkIAEwoqvd/KyBy1eq4Rs2MzAU73lY/4mZk1HKUazhC7oGTMWP6v8zMDB+Z+ZgEEPXgEMxyEzG779+vhX0Up38E2YDLsUg0z+8k70qGsa4+i8BxYzv331mkAjTbviF7G5sJt9/95lRHV0h2GHoPt7/v4HFkbHhD1FBhy+OMEzGpxgAPeQ0DCOGTRIAAAAASUVORK5CYII=') no-repeat center left;
     padding: 0 0 0 14px;
 
     list-style: none;
@@ -147,7 +147,7 @@ classes should alter those!
     border: 1px solid gray;
     border-bottom: 0;
     border-top: 0;
-    background: url('../../../../components/slickgrid/images/header-bg.gif') repeat-x center top;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAEsCAYAAAACUNnVAAAAj0lEQVQ4T+2UOQrCUAAFeXf3IPZeQEQRJbggkhATjRHjgksj2RMLixFFr2Ahv5lyisfw1GhaqLg/UHitPwguNVqdK+SfKuQdS+QeSuTsS2TvCjSPCtQa31DbjlHHiVHXTVBvkaC+l6KBn6LhMkVWkKHROkOTMEfTTY5m26/lrTIwG/ygAwAZmA3+vYPXrT8BoKdyyDT9ExUAAAAASUVORK5CYII=') repeat-x center top;
     color: black;
     height: 24px;
     line-height: 24px;
@@ -174,12 +174,14 @@ classes should alter those!
     padding: 2px 2px;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
+    border-radius: 2px;
     border: 1px solid silver;
 }
 
 .ci-module-slickgrid .options-panel {
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
+    border-radius: 6px;
     border: 1px solid silver;
     background: #f0f0f0;
     padding: 4px;
@@ -231,6 +233,7 @@ classes should alter those!
     height: 6px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
+    border-radius: 3px;
 }
 
 /* Slick.Editors.Text, Slick.Editors.Date */
@@ -269,7 +272,7 @@ classes should alter those!
     display: inline-block;
     width: 16px;
     height: 100%;
-    background: url("../../../../components/slickgrid/images/pencil.gif") no-repeat center center;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAPCAYAAADd/14OAAABm0lEQVQoU3XSYSicARzH8e9j7uzOeVxh7cWmjsO8OOWFmxUzl1K2FYlQolamtRfeLO7NKC+WF2orqaNoe6O8UKa2k1zLq7u8cCh0OD3mHi7U1Dk3PTyKuK47/5f//+fV7/cXVFVVSTTKJUd+icx80/VVuA9OdPfTnGHl1/ESrz5/TAy/O0ZpMzfCYTqcb7Dp/R0PZVlmbrwVfe57irMLMHuecPh3Kh5+7W2g642fra0cJnwWbOVlXOyHY+HqipfC4GuSTTqQ01l16XDuG/jkcEahoiiM9Nn48G4Xwlpw6dnbDvC/00XuM0sUzkxP8javC7Q6CKYRdgb5mVpPU89QNB5JkngsVZGSfQ4nInj0LK/JFA3uIDxIjsKR4S901A7BWQociCjz/1iqGKakouauCsHtdqvPNS1wdgFaDaw/YuWyjKL2gZi+hB9jDrW1rhTCAdj4xvGCH7HHi+ahPhZ6FmZV6wszJz4f24t/UEyVWF9Wx7Uv2O12VRMKYCvMIqmgmqc5eUQikTtoNBoRRfEmntNQiFSDIeET3S6vABdTsoSmAet9AAAAAElFTkSuQmCC') no-repeat center center;
     overflow: visible;
     z-index: 1000;
     float: right;
@@ -280,7 +283,7 @@ classes should alter those!
     position: absolute;
     top: -2px;
     left: -9px;
-    background: url("../../../../components/slickgrid/images/editor-helper-bg.gif") no-repeat top left;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAJYCAYAAACw3MxrAAAA/ElEQVR4Xu3cSw6EIAwAUL0Z97+Uxg+Iykd3mrzZTmNIgfZ1TGYcGp8QwrR8PQr6VQrivlX3Lg8oBl0DbkGlgFNQLeD9k+Lh666pFljdu26erk/81SlYFu8GS4FT4CKoBWspVw6lwClwEdQC5XCzvY4gBU6Bi6AWKIc6wv57l6aoKWqKmqKmqClqipqi12DpBTgaoREaoREaoREaoREaoVHKABqhERqhERqhERqhERqh0ZEBOqRDOqRDOqRDOqRDOqRDOswyAMiADMiADMiADMiADMiADMiAnGfAjGBGMCOYEcwIZgQzghnBjGBG+PiMEJfX/PNIQWkXH+VpBnRUCMe7KL8dAAAAAElFTkSuQmCC') no-repeat top left;
     padding-left: 9px;
 
     width: 120px;
@@ -356,19 +359,8 @@ classes should alter those!
 
 .slick-cell a.recycle-bin {
     cursor: pointer;
-    color: black;
-    border: 1px solid #AEAEAE;
-    border-radius: 20px;
-    font-size: 20px;
-    font-weight: bold;
-    display: inline-block;
-    line-height: 0px;
     padding: 6px 3px 11px 3px;
     margin-left: 3px;
-}
-
-.recycle-bin:before {
-    content: "×";
 }
 
 .rowHelp {
@@ -383,6 +375,107 @@ classes should alter those!
     text-align: center;
 }
 
+.rowToolbar {
+    background-color: white;
+    color: black;
+    opacity: 0.8;
+    position: relative;
+    width: 100%;
+}
+
+
 .slick-cell .sp-container {
     width: 450px;
+}
+
+/* ========= column picker ==========*/
+.slick-columnpicker {
+    border: 1px solid #718BB7;
+    background: #f0f0f0;
+    padding: 6px;
+    -moz-box-shadow: 2px 2px 2px silver;
+    -webkit-box-shadow: 2px 2px 2px silver;
+    box-shadow: 2px 2px 2px silver;
+    min-width: 100px;
+    cursor: default;
+}
+
+.slick-columnpicker li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.slick-columnpicker input {
+    margin: 4px;
+}
+
+.slick-columnpicker li a {
+    display: block;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.slick-columnpicker li a:hover {
+    background: white;
+}
+
+/* =============== Item details =============*/
+.cell-title {
+    font-weight: bold;
+}
+.cell-effort-driven {
+    text-align: center;
+}
+.item-details-form {
+    z-index: 10000;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 8px;
+    padding: 10px;
+    background: #efefef;
+    -moz-box-shadow: 0px 0px 15px black;
+    -webkit-box-shadow: 0px 0px 15px black;
+    box-shadow: 0px 0px 15px black;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+.item-details-form-buttons {
+    float: right;
+}
+.item-details-label {
+    margin-left: 10px;
+    margin-top: 8px;
+    display: block;
+    font-weight: bold;
+}
+.item-details-editor-container {
+    /*width: 200px;*/
+    /*height: 20px;*/
+    /*border: 1px solid silver;*/
+    /*background: white;*/
+    display: block;
+    margin: 10px;
+    margin-top: 4px;
+    padding: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+/* =========== MODULE CUSTOM CSS ============ */
+.ci-module-slickgrid .main-container{
+    display: -webkit-flex;
+    display: flex;
+    min-height: 100%;
+    max-height: 100%;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+}
+
+.ci-module-slickgrid .flex-1 {
+    -webkit-flex: 1;
+    flex: 1;
 }

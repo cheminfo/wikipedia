@@ -11,7 +11,7 @@ define(function () {
             // expected way
             if (value)
                 value = String(value.get()).replace(reg, '');
-            resolve({ type: 'string', value: 'http://dx.doi.org/' + value });
+            resolve({type: 'string', value: 'http://dx.doi.org/' + value});
         }
     };
 

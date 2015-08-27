@@ -124,7 +124,6 @@ function moveVisualizer(dir, options) {
     console.log('Moving visualizer to lib');
     del.sync('visualizer', {cwd: libDir});
     fs.renameSync(dir, join(libDir, 'visualizer'));
-    fs.writeFileSync(join(tmpDir, 'visualizer/last.txt'), options.version);
 
     lastVisu.finish = true;
     saveLastVisu();
