@@ -1,5 +1,5 @@
 {
-  "version": "2.15.3",
+  "version": "2.27.0",
   "grid": {
 	"xWidth": 10,
 	"yHeight": 10,
@@ -274,7 +274,8 @@
 				  "forceFitColumns",
 				  "backToTop",
 				  "enableCellNavigation",
-				  "forgetLastActive"
+				  "forgetLastActive",
+				  "highlightScroll"
 				]
 			  ],
 			  "colorjpath": [
@@ -819,7 +820,8 @@
 				[
 				  "enableCellNavigation",
 				  "rowNumbering",
-				  "forceFitColumns"
+				  "forceFitColumns",
+				  "highlightScroll"
 				]
 			  ],
 			  "colorjpath": [
@@ -993,7 +995,8 @@
 				[
 				  "enableCellNavigation",
 				  "rowNumbering",
-				  "forceFitColumns"
+				  "forceFitColumns",
+				  "highlightScroll"
 				]
 			  ],
 			  "slick.defaultColumnWidth": [
@@ -1145,7 +1148,8 @@
 				[
 				  "enableCellNavigation",
 				  "rowNumbering",
-				  "forceFitColumns"
+				  "forceFitColumns",
+				  "highlightScroll"
 				]
 			  ],
 			  "slick.defaultColumnWidth": [
@@ -1297,7 +1301,8 @@
 				[
 				  "enableCellNavigation",
 				  "rowNumbering",
-				  "forceFitColumns"
+				  "forceFitColumns",
+				  "highlightScroll"
 				]
 			  ],
 			  "slick.defaultColumnWidth": [
@@ -1801,6 +1806,9 @@
 				  "buttons"
 				]
 			  ],
+			  "execOnLoad": [
+				[]
+			  ],
 			  "script": [
 				"setAsync();\n\nvar link = this.variables.link.get();\n\nagent.get(link, function (res) {\n    // Replace protocol relative urls with absolute protocol\n    // because it does not work with blob urls\n    var html = res.text.replace(/\"\\/\\//g, '\"http://');\n    var blob = new Blob([html], {type : 'text/html'});\n    var url = URL.createObjectURL(blob);\n    set('url', url);\n    done();\n});\n"
 			  ]
@@ -1809,7 +1817,7 @@
 		  "libs": [
 			[
 			  {
-				"lib": "components/superagent/superagent",
+				"lib": "superagent",
 				"alias": "agent"
 			  }
 			]
@@ -2204,5 +2212,6 @@
 		]
 	  }
 	}
-  ]
+  ],
+  "aliases": []
 }
