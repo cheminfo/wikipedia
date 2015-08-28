@@ -2378,6 +2378,7 @@ Ethambutol	CC[C@@H](CO)NCCN[C@@H](CC)CO
 Sodium ethoxide	[Na+].[O-]CC
 Carbonyldiimidazole	O=C(n1cncc1)n2ccnc2
 Potassium cyanate	C(#N)[O-].[K+]
+Sodium pertechnetate	[Na+].[O-][Tc](=O)(=O)=O
 Copper(I) iodide	[Cu]I
 1-Chloro-1,2,2,2-tetrafluoroethane	FC(F)(F)C(Cl)F
 Azelaic acid	O=C(O)CCCCCCCC(=O)O
@@ -5026,7 +5027,7 @@ Ciproxifan	C1CC1C(=O)C2=CC=C(C=C2)OCCCC3=CN=CN3
 Ebselen	O=C1c3ccccc3[Se]N1c2ccccc2
 Leukotriene E4	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]([C@H](CCCC(=O)O)O)SCC(C(=O)O)N
 Mebhydrolin	CN3Cc4c1ccccc1n(Cc2ccccc2)c4CC3
-3,4-methylenedioxy-N-methoxyamphetamine	CC(NOC)Cc1ccc2OCOc2c1
+3,4-Methylenedioxy-N-methoxyamphetamine	CC(NOC)Cc1ccc2OCOc2c1
 Maraviroc	Cc5nnc(n5[C@@H]1C[C@H]4CC[C@@H](C1)N4CC[C@H](NC(=O)C2CCC(F)(F)CC2)c3ccccc3)C(C)C
 Isocetane	CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C
 Benfotiamine	O=P(O)(O)OCCC(/SC(=O)c1ccccc1)=C(/N(C=O)Cc2cnc(nc2N)C)C
@@ -5530,6 +5531,7 @@ Tolonium chloride	[Cl-].CN(C)c1ccc2nc3cc(C)c(N)cc3[s+]c2c1
 Carpacin	O1c2cc(c(OC)cc2OC1)/C=C/C
 Zuclopenthixol	Clc2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
 4-HO-MET	CCN(C)CCc2c[nH]c1cccc(O)c12
+4-HO-MPT	OC1=CC=CC2=C1C(CCN(C)CCC)=CN2
 Meta-DOB	Brc1cc(c(OC)cc1OC)CC(N)C
 Meta-DOT	O(c1cc(OC)c(cc1SC)CC(N)C)C
 1,3-Benzodioxolyl-N-methylpentanamine	C1=C2C(=CC=C1CC(NC)CCC)OCO2
@@ -10865,7 +10867,7 @@ Thunberginol E	COC1=C(C=C(C=C1)C2CC3=CC(=CC(=C3C(=O)O2)O)O)O
 Thunberginol F	C1=CC2=C(C(=C1)O)C(=O)OC2=CC3=CC(=C(C=C3)O)O
 Fluorine nitrate	FON(O)O
 Thunberginol G	O=C3c1c(cccc1O)CC(O3)c(cc2O)ccc2O
-Norbergenin	O=C3O[C@@H]1[C@H](O[C@@H](CO)[C@H](O)[C@H]1O)c2c(O)c(O)c(O)cc23
+Norbergenin	Oc1cc3c([C@H]2[C@H](OC3=O)[C@@H](O)[C@H](O)[C@@H](CO)O2)c(O)c1O
 Ethylferrocene	[Fe+2].[C-]1(CC)C=CC=C1.[CH-]1C=CC=C1
 Valoneic acid dilactone	Oc1cc5c(=O)oc3c(O)c(Oc4c(C(=O)O)cc(O)c(O)c4O)cc2c3c5c(c1O)oc2=O
 Valoneic acid	c1c(c(cc(c1O)O)C(=O)O)c2cc(c(cc2C(=O)O)Oc3c(cc(c(c3O)O)O)C(=O)O)O
@@ -12767,6 +12769,7 @@ Lysergene	CN1CC(=C)C=C2[C@H]1CC3=CNC4=CC=CC2=C34
 Alafosfalin	C[C@@H](C(=O)N[C@@H](C)P(=O)(O)O)N
 Alentemol	CCCN(CCC)C1CC2=CC=CC3=CC(=CC(=C23)C1)O
 Alexidine	CCCCC(C/N=C(/N=C(\NCCCCCCN/C(=N\C(=N\CC(CCCC)CC)\N)/N)/N)\N)CC
+Alfaprostol	COC(=O)CCC/C=C\C[C@H]1[C@H](C[C@H]([C@@H]1C#C[C@H](CCC2CCCCC2)O)O)O
 Alifedrine	C[C@@H]([C@@H](C1=CC=CC=C1)O)NCCC(=O)C2CCCCC2
 Alisertib	COC1=C(C(=CC=C1)F)C2=NCC3=CN=C(N=C3C4=C2C=C(C=C4)Cl)NC5=CC(=C(C=C5)C(=O)O)OC
 Albifylline	CC(C)(CCCCN1C(=O)C2=C(N=CN2)N(C1=O)C)O
@@ -13363,6 +13366,7 @@ Alpha-Pyrrolidinohexiophenone	O=C(C(CCCC)N1CCCC1)C2=CC=CC=C2
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
 3-Methylbutyrfentanyl	CC1C(CCN(C1)CCC2=CC=CC=C2)N(C(CCC)=O)C3=CC=CC=C3
+3-MeO-PCMo	COC1=CC(C2(N3CCOCC3)CCCCC2)=CC=C1
 5α-Dihydrocorticosterone	CC12CCC(=O)CC1CCC3C2C(CC4(C3CCC4C(=O)CO)C)O
 PyAOP reagent	C1CCN(C1)[P+](N2CCCC2)(N3CCCC3)ON4C5=C(C=CC=N5)N=N4.F[P-](F)(F)(F)(F)F
 Quinfamide	C1CC2=C(C=CC(=C2)OC(=O)C3=CC=CO3)N(C1)C(=O)C(Cl)Cl
