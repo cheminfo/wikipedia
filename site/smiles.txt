@@ -43,6 +43,7 @@ Guanine	c1[nH]c2c(n1)c(=O)[nH]c(n2)N
 Glucose	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Glucose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
 Gamma-Hydroxybutyric acid	O=C(O)CCCO
+Hydroxide	[OH-]
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
 Heavy water	[2H]O[2H]
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
@@ -63,8 +64,8 @@ Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
 Nitronium ion	O=[N+]=O
-Ozone	[O]O[O]
 Ozone	[O-][O+]=O
+Ozone	[O-][O+][O-]
 Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
@@ -104,7 +105,7 @@ Nitrous oxide	N#[N+][O-]
 Niacin	Oc(:o):c1cccnc1
 Nicotine	CN(CCC1)[C@@H]1C2=CC=CN=C2
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
-Adenine	c1[nH]c2c(ncnc2n1)N
+Adenine	NC1=NC=NC2=C1N=C[N]2
 Proline	OC(=O)C1CCCN1
 Uracil	O=C1NC=CC(=O)N1
 Lead(II) azide	[N-]=[N+]=N[Pb]N=[N+]=[N-]
@@ -180,6 +181,7 @@ Alanine	O=C(O)[C@@H](N)C
 Alanine	O=C(O)C(N)C
 Aspartic acid	C(C(C(=O)O)N)C(=O)O
 Glutamic acid	C(CC(=O)O)C(C(=O)O)N
+Histidine	O=C([C@H](CC1=CNC=N1)N)O
 Isoleucine	CC[C@H](C)[C@@H](C(=O)O)N
 Lysine	C(CCN)CC(C(=O)O)N
 Leucine	CC(C)C[C@@H](C(=O)O)N
@@ -203,6 +205,7 @@ Osmium tetroxide	O=[Os](=O)(=O)=O
 Sarin	FP(=O)(OC(C)C)C
 Progesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Pseudoephedrine	O[C@@H](c1ccccc1)[C@@H](NC)C
+Bilirubin	CC1=C(/C=C2C(C)=C(C=C)C(N/2)=O)NC(CC3=C(CCC(O)=O)C(C)=C(/C=C4C(C=C)=C(C)C(N/4)=O)N3)=C1CCC(O)=O
 Bilirubin	Cc1c(c([nH]c1/C=C\2/C(=C(C(=O)N2)C=C)C)Cc3c(c(c([nH]3)/C=C\4/C(=C(C(=O)N4)C)C=C)C)CCC(=O)O)CCC(=O)O
 Ammonium	[NH4+]
 Acetophenone	CC(=O)c1ccccc1
@@ -311,6 +314,7 @@ Mifepristone	O=C5\C=C4/C(=C3/[C@@H](c1ccc(N(C)C)cc1)C[C@]2([C@@H](CC[C@]2(C#CC)O
 Ethylenediaminetetraacetic acid	OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O
 Corrin	N=1C=4CCC=1\C=C2/NC(CC2)C\5CC/C(C=C3\CC/C(=N3)/C=4)=N/5
 Pyrrole	N1C=CC=C1
+Chlorin	C(N1)(/C=C2N=C(C=C\2)/C=C3N/C(C=C\3)=C\4)=CC=C1/C=C5CCC4=N/5
 Prussian blue	[Fe+3].[Fe+3].[Fe+3].[Fe+3].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N
 Ephedrine	O[C@H](c1ccccc1)[C@@H](NC)C
 Thyrotropin-releasing hormone	C1C[C@H](N(C1)C(=O)[C@H](CC2=CN=CN2)NC(=O)[C@@H]3CCC(=O)N3)C(=O)N
@@ -541,6 +545,7 @@ Undecane	CCCCCCCCCCC
 Acetazolamide	O=S(=O)(c1nnc(s1)NC(=O)C)N
 Safrole	C=CCc1ccc2OCOc2c1
 Methylisothiazolinone	O=C1/C=C\SN1C
+Ergine	O=C(N)[C@@H]1C=C2C3=CC=CC4=C3C(C[C@@]2([H])N(C1)C)=CN4
 AMPA	O=C1/C(=C(\ON1)C)CC(N)C(=O)O
 N-Methyl-D-aspartic acid	CN[C@H](CC(O)=O)C(O)=O
 Uranium hexafluoride	F[U](F)(F)(F)(F)F
@@ -566,6 +571,7 @@ Sodium percarbonate	[Na+].[O-]C(=O)OO
 Methyl tert-butyl ether	O(C(C)(C)C)C
 Butyrate	[O-]C(=O)CCC
 Myristicin	O1c2cc(cc(OC)c2OC1)C\C=C
+Histamine	NCCC1=C[N]C=N1
 Guanosine triphosphate	c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O)[nH]c(nc2=O)N
 Guanosine diphosphate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)NC(=NC2=O)N
 Hexamethylenetetramine	C1N2CN3CN1CN(C2)C3
@@ -11784,6 +11790,7 @@ Allyl cyanide	C=CCC#N
 Diisopropyl methylphosphonate	CP(OC(C)C)(OC(C)C)=O
 Cellocidin	C(#CC(=O)N)C(=O)N
 Allylcyclopentane	C=C\CC1CCCC1
+Diethyl succinate	CCOC(=0)CCC(=0)OCC
 3-Aminobenzamide	C1=CC(=CC(=C1)N)C(=O)N
 Mucobromic acid	C(=O)C(=C(C(=O)O)Br)Br
 Mucobromic acid	C1(O)C(Br)=C(Br)C(=O)O1
