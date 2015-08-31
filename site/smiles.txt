@@ -1270,7 +1270,6 @@ Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
 Adrafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)NO
-Cannabidiol	Oc1c(c(O)cc(c1)CCCCC)[C@@H]2\C=C(/CC[C@H]2\C(=C)C)C
 Tetrahydrocannabivarin	CCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1)O
 Cannabivarin	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCC
 Fluoromethane	FC
@@ -13267,6 +13266,7 @@ Iridodial	C[C@H]1CC[C@@H]([C@H]1C=O)[C@H](C)C=O
 Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
 Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
+2-Azetidinone	C1CNC1=O
 Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
 Filgotinib	O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
 GR-196,429	c23c1CCOc1ccc2CCN3CCNC(=O)C
