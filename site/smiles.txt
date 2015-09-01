@@ -1000,7 +1000,6 @@ Thymol	CC(C)c1ccc(C)cc1O
 Nordihydroguaiaretic acid	Oc2ccc(CC(C)C(C)Cc1ccc(O)c(O)c1)cc2O
 Sulforhodamine B	O=S(=O)(O)c4ccc(C=1c3c(OC=2C=1\C=C/C(=[N+](/CC)CC)/C=2)cc(cc3)N(CC)CC)c(c4)S([O-])(=O)=O
 Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
-Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc2ccc(NC(=N/C(=N/CCCCCC/N=C(/N=C(N)Nc1ccc(Cl)cc1)N)N)N)cc2
 Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
@@ -1270,6 +1269,7 @@ Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
 Adrafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)NO
+Cannabidiol	Oc1c(c(O)cc(c1)CCCCC)[C@@H]2\C=C(/CC[C@H]2\C(=C)C)C
 Tetrahydrocannabivarin	CCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1)O
 Cannabivarin	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCC
 Fluoromethane	FC
@@ -13351,7 +13351,7 @@ Hydroxynorketamine	C1CC(C(=O)C(C1)(C2=CC=CC=C2Cl)N)O
 Atrop-abyssomicin C	C[C@@H]1C[C@]23OC(=O)C4=C2OC1[C@H](O)C3\C=C\C(=O)[C@@H](C)C[C@@H](C)C4=O
 4-Chlorokynurenine	C(c1c(cc(Cl)cc1)N)C[C@@H](C(=O)O)N
 Difluorophosphate	[O-]P(=O)(F)F
-Nebostinel	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
+Neboglamine	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
 Basmisanil	CC1=C(C(=NO1)C2=CC=C(C=C2)F)COC3=NC=C(C=C3)C(=O)N4CCS(=O)(=O)CC4
 Pralmorelin	CC(C(=O)NC(CC1=CC2=CC=CC=C2C=C1)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)N
 Stenusin	CCC(C)CC1CCCN(C1)CC
