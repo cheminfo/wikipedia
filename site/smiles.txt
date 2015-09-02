@@ -46,6 +46,7 @@ Gamma-Hydroxybutyric acid	O=C(O)CCCO
 Hydroxide	[OH-]
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
 Heavy water	[2H]O[2H]
+Hydrogen peroxide	OO
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Ketamine	CNC1(C2=CC=CC=C2Cl)CCCCC1=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
@@ -551,7 +552,6 @@ N-Methyl-D-aspartic acid	CN[C@H](CC(O)=O)C(O)=O
 Uranium hexafluoride	F[U](F)(F)(F)(F)F
 Aldosterone	O=C(CO)[C@@H]4[C@@]3(C=O)C[C@H](O)[C@@H]2[C@@]1(/C(=C\C(=O)CC1)CC[C@H]2[C@@H]3CC4)C
 Glyceraldehyde	O=CC(O)CO
-Cyanogen	N#CC#N
 Lead(II) sulfate	[O-]S(=O)(=O)[O-].[PbH4+2]
 Bupropion	O=C(C(C)NC(C)(C)C)C1=CC=CC(Cl)=C1
 Nitrous acid	O=NO
@@ -1000,6 +1000,7 @@ Thymol	CC(C)c1ccc(C)cc1O
 Nordihydroguaiaretic acid	Oc2ccc(CC(C)C(C)Cc1ccc(O)c(O)c1)cc2O
 Sulforhodamine B	O=S(=O)(O)c4ccc(C=1c3c(OC=2C=1\C=C/C(=[N+](/CC)CC)/C=2)cc(cc3)N(CC)CC)c(c4)S([O-])(=O)=O
 Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
+Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc2ccc(NC(=N/C(=N/CCCCCC/N=C(/N=C(N)Nc1ccc(Cl)cc1)N)N)N)cc2
 Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
@@ -1558,7 +1559,7 @@ Nelfinavir	O=C(c1cccc(O)c1C)N[C@@H](CSc2ccccc2)[C@H](O)CN4[C@H](C(=O)NC(C)(C)C)C
 Betaxolol	O(CCc1ccc(OCC(O)CNC(C)C)cc1)CC2CC2
 Alachlor	CCc1cccc(c1N(COC)C(=O)CCl)CC
 Levothyroxine	NC(Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(O)=O
-Hexafluoro-2-propanol	FC(F)(F)C(F)(O)C(F)F
+Hexafluoro-2-propanol	C(C(F)(F)F)(C(F)(F)F)O
 Oxalyl chloride	ClC(=O)C(=O)Cl
 Trimethylamine	CN(C)C
 Calcium bicarbonate	[Ca+2].[O-]C(=O)O.[O-]C(=O)O
@@ -10193,6 +10194,7 @@ Oxitriptyline	O=C(N(C)C)COC3c1ccccc1CCc2c3cccc2
 Norvaline	O=C(O)C(N)CCC
 Gallane	[GaH3]
 GSK 299423	COc1ccc2c(c1)c(c(cn2)C#N)CCN3CCC(CC3)NCc4cc5c(cn4)OCS5
+BNC210	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
 Dihydroxymethylidene	O[C]O
 JWH-019	c3cccc2c3cccc2C(=O)c1cn(CCCCCC)c4c1cccc4
 Methylcyclopentane	CC1CCCC1
@@ -13483,3 +13485,5 @@ Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
 6,14-Endoethenotetrahydrooripavine	[H][C@]12OC3=C4C(C[C@H]5N(C)CC[C@@]14[C@@]51CC[C@]2(OC)C=C1)=CC=C3O
 3,5-Diiodothyronine	C1=CC(=CC=C1O)OC2=C(C=C(C=C2I)CC(C(=O)O)N)I
+Dihydrotanshinone	O=C2c3c(C=1OCC(C=1C2=O)C)ccc4c(cccc34)C
+Myxoxanthophyll	C/C(=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(C)/C=C/[C@@H](O[C@@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O)C(C)(C)O)/C=C/C2=C(C)C[C@@H](O)CC2(C)C
