@@ -3059,7 +3059,7 @@ Patchoulol	O[C@@]23CC[C@@H]([C@@H]1C[C@@H](CC[C@@]12C)C3(C)C)C
 Sodium bis(2-methoxyethoxy)aluminumhydride	[Na+].COCCO[AlH2-]OCCOC
 Pristinamycin	CCC1C(=O)N2CCCC2C(=O)N(C(C(=O)N3CCC(=O)CC3C(=O)NC(C(=O)OC(C(C(=O)N1)NC(=O)c4c(cccn4)O)C)c5ccccc5)Cc6ccccc6)C.CC1/C=C\C(=O)NC/C=C\C(=C/C(CC(=O)Cc2nc(co2)C(=O)N3CCC=C3C(=O)OC1C(C)C)O)\C
 Furfuryl alcohol	c1cc(oc1)CO
-Gabazine	[Br-].O=C(O)CCC[n+]2nc(c1ccc(OC)cc1)ccc2N
+Gabazine	[Br-].C(=O)(O)CCCN1N=C(C=CC1=[NH2+])C1=CC=C(C=C1)OC
 Paraxanthine	O=C2Nc1ncn(c1C(=O)N2C)C
 1-Octene	C=CCCCCCC
 Streptozotocin	CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O
@@ -13490,3 +13490,4 @@ Imidazolate	c1cnc[n-]1
 Myxoxanthophyll	C/C(=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(C)/C=C/[C@@H](O[C@@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O)C(C)(C)O)/C=C/C2=C(C)C[C@@H](O)CC2(C)C
 Cyclopentyl methyl ether	COC1CCCC1
 DEG monobutyl ether	CCCCOCCOCCO
+Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
