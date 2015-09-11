@@ -1878,7 +1878,7 @@ Bortezomib	O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
 1,1'-Bi-2-naphthol	c1ccc2c(c1)ccc(c2c3c4ccccc4ccc3O)O
 Benzothiazole	n1c2ccccc2sc1
 Alloxan	O=C1C(=O)NC(=O)NC1=O
-Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4c(ccc5c4-c6cc(c(cc6CC5)O)O2)O)O
+Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4cc-5c(cc4O)CCc6c5c(c(cc6)O)O2)O
 Chlorobenzene	c1ccc(cc1)Cl
 Vinyl acetate	C=COC(C)=O
 Melezitose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]3(O[C@@H]([C@@H](O)[C@@H]3O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)CO)CO
@@ -9275,7 +9275,7 @@ Irigenin	O=C\1c3c(O)c(OC)c(O)cc3O/C=C/1c2cc(O)c(OC)c(OC)c2
 Tectorigenin	COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)O
 Psi-Tectorigenin	COC1=C(C=C(C2=C1OC=C(C2=O)C3=CC=C(C=C3)O)O)O
 Buphedrone	CNC(CC)C(=O)c1ccccc1
-Lodenafil	O=C2\N=C(/Nc1c(nn(c12)C)CCC)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC4)CCOC(=O)OCCN5CCN(CC5)S(=O)(=O)c8cc(C\6=N\C(=O)c7c(N/6)c(nn7C)CCC)c(OCC)cc8
+Lodenafil	CCCc1c2c(c(=O)nc([nH]2)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC4)CCO)n(n1)C
 Mirodenafil	CCCc1cn(CC)c2c1[nH]c(nc2=O)c1c(OCCC)ccc(c1)S(=O)(=O)N1CCN(CC1)CCO
 Iridin	COC1=CC(=CC(=C1OC)O)C2=COC3=CC(=C(C(=C3C2=O)O)OC)OC4C(C(C(C(O4)CO)O)O)O
 Tectoridin	COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
@@ -12900,6 +12900,7 @@ Cyantraniliprole	CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
 Idropranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
+Thiothinone	CC(NC)C(C1=CC=CS1)=O.Cl
 EMA401	COC1=C(C2=C(CN(C(C2)C(=O)O)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4)C=C1)OCC5=CC=CC=C5
 Paritaprevir	Cc1cnc(cn1)C(=O)N[C@H]2CCCCC/C=C\[C@@H]3C[C@]3(NC(=O)[C@@H]4C[C@H](CN4C2=O)Oc5c6ccccc6c7ccccc7n5)C(=O)NS(=O)(=O)C8CC8
 2-Hydroxyisocaproic acid	CC(C)CC(C(=O)O)O
