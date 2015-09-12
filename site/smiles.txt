@@ -8860,7 +8860,6 @@ Mycobacillin	O=C(N1CCC[C@H]1[C@](N[C@H](CC(O)=O)C(N[C@H](CCC4=O)[C@@](O)=O)=O)=O
 Ferrichrome	CC(=O)N(CCCC1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NCC(=O)NCC(=O)N1)CCCN(C(=O)C)[O-])CCCN(C(=O)C)[O-])[O-].[Fe+3]
 Lucimycin	CCCCC1CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC3C(O3)C=CC(=O)O1)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O
 Maitansine	C/C(CC1=CC(OC)=C(Cl)C(N3C)=C1)=C\C=C\[C@@H](OC)[C@@]2(O)C[C@]([C@@H](C)[C@H]4[C@](O4)(C)[C@@H](OC([C@H](C)N(C)C(C)=O)=O)CC3=O)([H])OC(N2)=O
-Tenuazonic acid	CCC(C)C1C(=O)C(=C(N1)O)C(=O)C
 Penicillic acid	CC(=C)C1(C=CC(=O)O1)O
 Gallacetophenone	O=C(c1c(O)c(O)c(O)cc1)C
 Tixocortol pivalate	CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CSC(=O)C(C)(C)C)O)C)O
@@ -13504,3 +13503,4 @@ Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 4-Chloromethcathinone	ClC1=CC=C(C(C(C)NC)=O)C=C1
 Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#N)F
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
+AB-CHMFUPPYCA	NC(C(C(C)C)NC(=O)C1=CC(=N[N]1CC2CCCCC2)C3=CC=C(C=C3)F)=O
