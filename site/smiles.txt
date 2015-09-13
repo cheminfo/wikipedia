@@ -1618,7 +1618,6 @@ Ethylmorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OCC)ccc3C4)C
 Wilkinson's catalyst	[Rh+](P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3)(P(C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6)P(C7=CC=CC=C7)(C8=CC=CC=C8)C9=CC=CC=C9.[Cl-]
 Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Quaternium-15	C1N2CN3CN1C[N+](C2)(C3)CC=CCl.[Cl-]
-Phosphonium	[PH4+]
 Oxygen difluoride	FOF
 Trimethylaluminium	C[Al](C)C
 Pseudaconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)(C[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccc(OC)c(OC)c7
@@ -12130,7 +12129,7 @@ Nitarsone	O=[N+]([O-])c1ccc(cc1)[As](=O)(O)O
 Norartocarpetin	C1=CC(=C(C=C1O)O)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
 Norwogonin	C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)O
 Cadazolid	OC(C1=CN(C2CC2)C3=C(C=C(F)C(N4CCC(COC5=C(F)C=C(N6C[C@H](CO)OC6=O)C=C5)(O)CC4)=C3)C1=O)=O
-Sterpuric acid	CC1=C2C[C@@](C[C@H]2C[C@]3([C@@]1(CC3)O)C)(C)C(=O)O
+Sterpuric acid	OC12C(=C3CC(CC3CC1(CC2)C)(C(=O)O)C)C
 Leelamine	CC(C)c1ccc2c(c1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)CN)C
 5-EAPB	CC(NCC)CC1=CC(C=CO2)=C2C=C1
 Palbociclib	O=C2N(c1nc(ncc1/C(=C2/C(=O)C)C)Nc3ncc(cc3)N4CCNCC4)C5CCCC5
@@ -13503,4 +13502,6 @@ Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 4-Chloromethcathinone	ClC1=CC=C(C(C(C)NC)=O)C=C1
 Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#N)F
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
+2-Butoxyethanol acetate	CCCCOCCOC(=O)C
+4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
 AB-CHMFUPPYCA	NC(C(C(C)C)NC(=O)C1=CC(=N[N]1CC2CCCCC2)C3=CC=C(C=C3)F)=O
