@@ -13377,7 +13377,7 @@ ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
 Phenylarsine oxide	c1ccc(cc1)[As]=O
-Alpha-Pyrrolidinohexiophenone	O=C(C(CCCC)N1CCCC1)C2=CC=CC=C2
+Alpha-Pyrrolidinohexiophenone	C1(=CC=CC=C1)C(C(CCCC)N2CCCC2)=O
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 5-MeO-DiBF	COC1=CC=C(OC=C2CCN(C(C)C)C(C)C)C2=C1
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
@@ -13505,3 +13505,5 @@ Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
 2-Butoxyethanol acetate	CCCCOCCOC(=O)C
 4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
 AB-CHMFUPPYCA	NC(C(C(C)C)NC(=O)C1=CC(=N[N]1CC2CCCCC2)C3=CC=C(C=C3)F)=O
+Salicyl alcohol	c1ccc(c(c1)CO)O
+Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
