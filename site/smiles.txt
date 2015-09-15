@@ -119,7 +119,6 @@ Sulfur mustard	ClCCSCCCl
 Phosgene	ClC(Cl)=O
 Phenytoin	O=C2NC(=O)NC2(c1ccccc1)c3ccccc3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
-Dopamine	c1cc(c(cc1CCN)O)O
 Polyvinylpyrrolidone	N1(C(CCC1)=O)[C@@H](C*)*
 Methylchloroisothiazolinone	ClC=1SN(C(=O)C=1)C
 Fructose	O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO
@@ -10820,7 +10819,7 @@ Sodium tert-butoxide	CC(C)(C)[O-].[Na+]
 Ferric oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
 O-1812	C[C@H](CO)NC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\C(C)(C)CCCCC#N
 Acivicin	Cl\C1=N\O[C@H]([C@@H](C(=O)O)N)C1
-4-Hydroxy-TEMPO	CC1(CC(CC(N1[O])(C)C)O)C
+4-Hydroxy-TEMPO	CC1(C)CC(O)CC(C)(C)N1[O]
 O-2372	CC1(C)[C@H]2[C@@H](CC(C)=CC2)C3=C(C=C(C(C)(C)CCCCC(N4CCOCC4)=O)C=C3O)O1
 Atagabalin	C[C@H]1CC(C[C@@H]1C)(CC(=O)O)CN
 Uroguanylin	CC[C@H](C)[C@H](NC(=O)[C@H](CS)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CS)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@@H](N)CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CS)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCC(=O)N[C@@H](CS)C(O)=O
@@ -12380,6 +12379,7 @@ N-Methylmescaline	CNCCC1=CC(=C(C(=C1)OC)OC)OC
 Variecolin	C[C@H]1CC(=O)[C@@H]/2[C@H]1C[C@]3(CC[C@@]4(CC[C@@H]([C@H]4[C@@H]3C/C=C2/C=O)C(=C)C)C)C
 N-Acetylmescaline	O=C(NCCc1cc(OC)c(OC)c(OC)c1)C
 Tetramethylpyrazine	CC1=C(N=C(C(=N1)C)C)C
+Altemicidin	O=S(=O)(N)CC(=O)N[C@@]2(C(=O)O)[C@@H](O)C[C@H]1C(=C/N(C[C@H]12)C)\C(=O)N
 Kettapeptin	O=C1O[C@@H](C(C)C)[C@@H](C(=O)N3NCCC[C@@H]3C(=O)N(O)[C@H](C(=O)N(C)[C@@H](C(=O)N2NCCC[C@@H]2C(=O)N[C@@H]1[C@@H](O)C)C)COC)NC(=O)[C@@](O)([C@]4(O)OC(/C(=C/C(C(=O)/C(=C/C)C)C)C)[C@H](CC4)C)CC
 MC21-A	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2O)Br)Br)Br
 25C-NBOH	COc1cc(Cl)c(OC)cc1CCNCc2ccccc2O
@@ -12582,7 +12582,7 @@ Hirsutine	CC[C@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=CC=CC=C34
 Liriodenine	C1OC2=C(O1)C3=C4C(=C2)C=CN=C4C(=O)C5=CC=CC=C53
 S-14,506	COC1=CC2=C(C=CC=C2N3CCN(CC3)CCNC(=O)C4=CC=C(C=C4)F)C=C1
 Donovan's solution	[As](I)(I)I.I[Hg]
-Affinisine	C/C=C\1/CN2[C@H]3C[C@@H]1C([C@@H]2CC4=C3N(C5=CC=CC=C45)C)CO
+Affinisine	C/C=C\1/CN2[C@H]3Cc4c5ccccc5n(c4[C@@H]2C[C@@H]1[C@H]3CO)C
 Heyneanine	C[C@@H]([C@@H]1C[C@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC=CC=C45)O
 Hydnocarpic acid	O=C(O)CCCCCCCCCCC1\C=C/CC1
 27-Hydroxycholesterol	C[C@H](CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)CO
@@ -13501,6 +13501,7 @@ DEG monobutyl ether	CCCCOCCOCCO
 Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 4-Chloromethcathinone	ClC1=CC=C(C(C(C)NC)=O)C=C1
 Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#N)F
+1,3-diisocyanatobenzene	c1cc(cc(c1)N=C=O)N=C=O
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
 2-Butoxyethanol acetate	CCCCOCCOC(=O)C
 4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
