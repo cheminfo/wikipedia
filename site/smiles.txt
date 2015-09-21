@@ -1829,7 +1829,7 @@ Lead(II) acetate	CC(=O)[O-].CC(=O)[O-].[Pb+2]
 Phosphorous acid	OP(=O)O
 Fumonisin B1	O=C(O)CC(C(=O)O)CC(=O)OC(C(C)CCCC)C(OC(=O)CC(C(=O)O)CC(=O)O)CC(C)CC(O)CCCCC(O)CC(O)C(N)C
 5-Nitro-2-propoxyaniline	[O-][N+](=O)c1ccc(OCCC)c(c1)N
-Palytoxin	CC1CC2(C(OC(C1)(O2)CCCCCCCC(CC3C(C(C(C(O3)(CC(C(C)C=CC(CCC(C(C4CC(C(C(O4)CC(C(CC5C(C(C(C(O5)CC(C=CC=CCC(C(C(CC=CC(=C)CCC(C(C(C(C)CC6C(C(C(C(O6)C=CC(C(CC7CC8CC(O7)C(O8)CCC9C(CC(O9)CN)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)CC(C)CCCCCC(C(C(C(C(C1C(C(C(C(O1)CC(C(C(=CC(CC(C)C(C(=O)NC=CC(=O)NCCCO)O)O)C)O)O)O)O)O)O)O)O)O)O)C
+Palytoxin	NC[C@@H]1C[C@H]([C@H](O1)CC[C@H]1O[C@@H]2C[C@H](O[C@H]1C2)C[C@H]([C@@H](\C=C/[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@H]([C@H]([C@@H]([C@H](CCC(\C=C/C[C@H]([C@H]([C@@H](C/C=C/C=C\[C@H](C[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C[C@H]([C@@H](C[C@@H]2[C@H]([C@@H](C[C@H](O2)[C@@H]([C@@H](CC[C@@H](/C=C/[C@@H]([C@H](C[C@]2([C@@H]([C@@H]([C@H]([C@H](O2)C[C@H](CCCCCCC[C@]21C[C@H](C[C@]([C@H](O2)C[C@H](CCCCC[C@H]([C@@H]([C@@H]([C@H]([C@H](O)[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@@H]([C@@H](/C(=C/[C@@H](C[C@H]([C@@H](C(O)=N\C=C\C(=NCCCO)O)O)C)O)/C)O)O)O)O)O)O)O)O)O)C)(O1)C)C)O)O)O)O)O)O)C)O)O)O)O)O)O)O)O)O)O)O)O)O)O)=C)O)O)O)C)O)O)O)O)O)O
 Tranexamic acid	NC[C@@H]1CC[C@H](CC1)C(O)=O
 2-Butene	C(=CC)C
 Benzoin	c1ccc(cc1)C(C(=O)c2ccccc2)O
@@ -9229,7 +9229,7 @@ Zilpaterol	CC(C)N[C@@H]1CCN2C3=C([C@H]1O)C=CC=C3NC2=O
 2-Aminotetralin	C1CC2=CC=CC=C2CC1N
 Ilepcimide	C1CCN(CC1)C(=O)/C=C/C2=CC3=C(C=C2)OCO3
 SQ109	CC(=CCC/C(=C/CNCCN[C@@H]1C2CC3CC(C2)CC1C3)/C)C
-Ambroxan	CC1(CCC[C@]2([C@H]1CC[C@@]3([C@@H]2CCO3)C)C)C
+Ambroxide	CC1(CCC[C@]2([C@H]1CC[C@@]3([C@@H]2CCO3)C)C)C
 Primulin (anthocyanin)	COC1=CC(=CC(=C1O)OC)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O.[Cl-]
 Oenin	COC1=CC(=CC(=C1O)OC)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O
 Procyanidin C2	Oc8ccc(cc8O)C(C1O)Oc7cc(O)cc(O)c7C1c3c(O)cc(O)c(c3OC(C5O)c(cc2O)ccc2O)C5c4c6OC(c(cc9O)ccc9O)C(O)Cc6c(O)cc4O
@@ -13538,3 +13538,4 @@ Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
+Omarigliptin	CS(=O)(=O)N1C=C2CN(CC2=N1)C3CC(C(OC3)C4=C(C=CC(=C4)F)F)N
