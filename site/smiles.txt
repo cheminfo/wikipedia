@@ -887,6 +887,7 @@ Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
 Neostigmine	O=C(Oc1cccc(c1)[N+](C)(C)C)N(C)C
 Physostigmine	O=C(Oc1cc2c(cc1)N([C@H]3N(CC[C@@]23C)C)C)NC
 Anisomycin	O=C(O[C@@H]1[C@@H](NC[C@H]1O)Cc2ccc(OC)cc2)C
+Teriparatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN/C(=N/[H])/N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3cnc[nH]3)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc4ccccc4)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](Cc6cnc[nH]6)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CO)N
 Pyridostigmine	O=C(Oc1ccc[n+](c1)C)N(C)C
 Tacrine	n1c3c(c(c2c1cccc2)N)CCCC3
 Echothiophate	[I-].O=P(OCC)(OCC)SCC[N+](C)(C)C
@@ -7134,6 +7135,7 @@ Talnetant	CCC(C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)O
 Osanetant	CC(=O)N(C)C1(CCN(CC1)CCC[C@@]2(CCCN(C2)C(=O)C3=CC=CC=C3)C4=CC(=C(C=C4)Cl)Cl)C5=CC=CC=C5
 Solabegron	C1=CC(=CC(=C1)C(=O)O)C2=CC(=CC=C2)NCCNC[C@@H](C3=CC(=CC=C3)Cl)O
 Amibegron	CCOC(=O)COc3ccc1CCC(Cc1c3)NCC(O)c2cc(Cl)ccc2
+CCK-4	CSCC[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)N
 Erythravine	COc3cc1CCN2CC=C4C=CC(O)CC24c1cc3OC
 Fenclonine	Clc1ccc(cc1)CC(C(=O)O)N
 Amfepentorex	N(C(Cc1ccc(cc1)CCCCC)C)C
@@ -7902,7 +7904,7 @@ Ripazepam	CCN1C2=C(C(=N1)C)NC(=O)CN=C2C3=CC=CC=C3
 Ibutamoren	O=S(C)(=O)N(C2)c1ccccc1C23CCN(CC3)C(=O)C(NC(=O)C(N)(C)C)COCc4ccccc4
 SM-130,686	FC(F)(F)c3c1c(cc(c3)C(N)=O)N(CCN(CC)CC)C(=O)C1(O)c2ccccc2Cl
 Licofelone	CC1(CC2=C(C(=C(N2C1)CC(=O)O)C3=CC=C(C=C3)Cl)C4=CC=CC=C4)C
-Tabimorelin	c3c1ccccc1ccc3CC(N(C)C(=O)C=CCC(N)(C)C)C(=O)N(C)C(C(=O)NC)Cc2ccccc2
+Tabimorelin	CC(C)(C/C=C/C(=O)N(C)[C@H](CC1=CC2=CC=CC=C2C=C1)C(=O)N(C)[C@H](CC3=CC=CC=C3)C(=O)NC)N
 Heptadecanoic acid	O=C(O)CCCCCCCCCCCCCCCC
 J-113,397	C4CCCCCCC4CN(CC1CO)CCC1n3c2ccccc2n(CC)c3=O
 SB-612,111	CC1=CC=CC2=C1CC[C@@H](C[C@@H]2O)CN3CCC(CC3)C4=C(C=CC=C4Cl)Cl
@@ -10603,6 +10605,7 @@ JWH-424	c4cccc1c4n(CCCCC)cc1C(=O)c(c2c3Br)cccc2ccc3
 Thymidine triphosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
 Isomethadone	O=C(CC)C(C1=CC=CC=C1)(C(C)CN(C)C)C2=CC=CC=C2
 Carnosic acid	CC(C)C1=C(C(=C2C(=C1)CCC3C2(CCCC3(C)C)C(=O)O)O)O
+Tetrabromoethylene	C(=C(Br)Br)(Br)Br
 AM-1248	CN1CCCCC1Cn(c6)c2ccccc2c6C(=O)C5(C3)CC(CC3C4)CC4C5
 Perifosine	[O-]P(=O)(OCCCCCCCCCCCCCCCCCC)OC1CC[N+](C)(C)CC1
 Edelfosine	[O-]P(=O)(OCC(OC)COCCCCCCCCCCCCCCCCCC)OCC[N+](C)(C)C
@@ -12419,6 +12422,7 @@ Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
 Aplysamine-2	CN(C)CCCOC1=C(C=C(C=C1Br)CCNC(=O)/C(=N\O)/CC2=CC(=C(C=C2)OC)Br)Br
 Pibocin B	C[C@@H]1C[C@H]2[C@@H](CC3=C(N(C4=CC=CC2=C34)OC)Br)N(C1)C
+Terminaline	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H]([C@H]4O)O)C)C)N(C)C
 Rutecarpine	C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4
 PHA-57378	C1(OCC2)=C(N2C3=C4CCNCC3)C4=CC=C1
 Phantasmidine	C1C[C@]23[C@H]1NC[C@H]2C4=C(O3)N=C(C=C4)Cl
@@ -12439,6 +12443,7 @@ Isoharmine	CC1=NC=CC2=C1NC3=C2C=C(C=C3)OC
 Aposcopolamine	O=C(O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23)C(\c4ccccc4)=C
 Diclazepam	CN1C2=C(C=C(C=C2)Cl)C(C3=C(Cl)C=CC=C3)=NCC1=O
 Neotripterifordin	C[C@@]1(C[C@@]23CC[C@H]4[C@]5([C@@H]2CC[C@@H]1C3)CCCC4(COC5=O)C)O
+Terpestacin	C/C/1=C\CC/C(=C/C[C@]2([C@H](C/C=C(/[C@H](CC1)O)\C)C(=C(C2=O)O)[C@H](C)CO)C)/C
 Blazein	CC(C)C(C)/C=C/C(C)[C@H]1CCC2[C@@]1(CC[C@H]3C2=C[C@H]([C@@]4([C@@]3(CC[C@@H](C4)O)C)O)OC)C
 Coprinol	CC1=C2CC(CC2=C(C(=C1CCO)C)O)(C)C
 Sparassol	CC1=CC(=CC(=C1C(=O)OC)O)OC
@@ -13539,3 +13544,4 @@ Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
 Omarigliptin	CS(=O)(=O)N1C=C2CN(CC2=N1)C3CC(C(OC3)C4=C(C=CC(=C4)F)F)N
+NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
