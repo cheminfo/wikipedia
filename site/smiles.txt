@@ -4845,7 +4845,7 @@ Alpha-Eleostearic acid	O=C(O)CCCCCCC/C=C\C=C\C=C\CCCC
 Pramocaine	O(c2ccc(OCCCN1CCOCC1)cc2)CCCC
 Isobutyramide	O=C(N)C(C)C
 Indoline	c1cccc2c1CCN2
-Isoindoline	C1C2=CC=CC=C2CN1
+Isoindoline	c1cccc2c1CNC2
 Carbazole	c1ccc2c(c1)c3ccccc3[nH]2
 Oxindole	c1ccc2c(c1)CC(=O)N2
 Andrographolide	O=C3OCC(O)C3=CCC1\C(=C)CCC2C(C)(CO)C(O)CCC12C
@@ -13543,5 +13543,8 @@ Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
+Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)N1C=C2CN(CC2=N1)C3CC(C(OC3)C4=C(C=CC(=C4)F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
+Phosphoramide	NP(=O)(N)N
+Calicene	
