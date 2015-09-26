@@ -9093,7 +9093,7 @@ CP-809101	C2CNCCN2c(n3)cncc3OCc(c1)cccc1Cl
 Sazetidine A	OCCCCC#Cc1cc(cnc1)OCC2CCN2
 L-765,314	COc3cc2c(cc3OC)nc(nc2N)N(CC1C(=O)NC(C)(C)C)CCN1C(=O)OCc4ccccc4
 Big gastrin	CC(C)CC(C(=O)NCC(=O)NCC(=O)NC(CCC(=O)N)C(=O)NCC(=O)N1CCCC1C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCC(=O)N)C(=O)NCC(=O)N2CCCC2C(=O)NCC(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(C)C(=O)NCC(=O)NCC(=O)NC(Cc3c[nH]c4c3cccc4)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(Cc5ccccc5)C(=O)N)NC(=O)C6CCC(=O)N6
-Minigastrin	C[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)NCC(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)N
+Minigastrin	C[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCC(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc4ccccc4)C(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)N
 Little gastrin I	C[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)NCC(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCCN7C(=O)CNC(=O)[C@@H]8CCC(=O)N8
 2,4-Diaminopyrimidine	n1c(N)ccnc1N
 4,5-Diaminopyrimidine	n1cc(N)c(nc1)N
@@ -10176,7 +10176,7 @@ Metaflumizone	FC(F)(F)Oc1ccc(cc1)NC(=O)N\N=C(\Cc2ccc(C#N)cc2)c3cccc(c3)C(F)(F)F
 P7C3	c4ccccc4NCC(O)Cn2c1ccc(Br)cc1c(c3)c2ccc3Br
 Chlorophenylbiguanide	c1ccc(Cl)cc1NC(=[NH3])NC(=N)N
 Purpurogallin	C1=CC(=O)C(=C2C(=C1)C=C(C(=C2O)O)O)O
-Mononitrogen monosulfide	[N+][S-]
+Nitrogen monosulfide	[N+][S-]
 Delta-Carotene	CC1=CCCC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C)C)C)(C)C
 Silver phosphate	[O-]P(=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 Glycine propionyl-L-carnitine	[NH3+]CC([O-])=O.CCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
@@ -11797,6 +11797,7 @@ Calcium perchlorate	[Ca+2].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O
 Triethoxysilane	O(CC)[SiH](OCC)OCC
 Rotundone	O=C1\C2=C(/[C@H](C1)C)C[C@H](\C(=C)C)CC[C@@H]2C
 Methylpyridinium	[n+]1(ccccc1)C
+Allyl phenyl ether	C=CCOc1ccccc1
 Ethylene diurea	O=C(NCCNC(=O)N)N
 Ethanimine	CC=N
 Brookhart's acid	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[B-](c2cc(cc(c2)C(F)(F)F)C(F)(F)F)(c3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4cc(cc(c4)C(F)(F)F)C(F)(F)F.O(CC)CC.[OH+](CC)CC
@@ -13551,4 +13552,6 @@ Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
 Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)N1C=C2CN(CC2=N1)C3CC(C(OC3)C4=C(C=CC(=C4)F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
+1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
 Phosphoramide	NP(=O)(N)N
+2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
