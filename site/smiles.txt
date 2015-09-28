@@ -29,7 +29,6 @@ Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
 DDT	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
-N,N-Dimethyltryptamine	CN(CCC1=CNC2=C1C=CC=C2)C
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -88,6 +87,7 @@ Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
 Scopolamine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
+Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
 Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
@@ -9567,6 +9567,7 @@ Chlorobenzilate	Clc1ccc(cc1)C(O)(c2ccc(Cl)cc2)C(=O)OCC
 Chlornaphazine	ClCCN(c2ccc1c(cccc1)c2)CCCl
 Synthalin	NC(=N)NCCCCCCCCCCNC(N)=N
 Pentachlorobenzene	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl
+Benzoxepin	C1=CC=C2C(=C1)C=CC=CO2
 Phosphamidon	CCN(CC)C(=O)/C(=C(\C)/OP(=O)(OC)OC)/Cl
 Piperic acid	C1OC2=C(O1)C=C(C=C2)/C=C/C=C/C(=O)O
 NS-398	CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2CCCCC2
@@ -13189,7 +13190,7 @@ Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
 Cinazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)OC(=O)CCC(=O)O)Cl
 3-Hydroxyphenazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)O)Cl
 Fluroxene	C=COCC(F)(F)F
-LGD-4033	C1C[C@@H](N(C1)C2=CC(=C(C=C2)C#N)C(F)(F)F)[C@H](C(F)(F)F)O
+LGD-4033	FC([C@H](O)[C@H]1CCCN1C2=CC(=C(C#N)C=C2)C(F)(F)F)(F)F
 SB-236057	n5nc(C)oc5-c(cc2C)ccc2-c6ccc(cc6)C(=O)N(CCc1cc3OC7)c1cc3C7(CC4)CCN4CC
 CP-132,484	NCCc3c2c1CCCOc1ccc2n(C)c3
 1-Methylpsilocin	CN(C)CCc(cn1C)c2c1cccc2O
@@ -13556,3 +13557,6 @@ NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
 1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
 Phosphoramide	NP(=O)(N)N
 2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
+2-Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
+3-Methylfuran	CC1=COC=C1
+Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
