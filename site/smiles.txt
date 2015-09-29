@@ -5061,7 +5061,6 @@ Rhizoxin	O=C1C[C@@](C[C@H]3[C@H]2O3)([H])C[C@@]([C@H](C)/C=C/[C@@H](O4)[C@]4(C)[
 Potassium phthalimide	C1=CC=C2C(=C1)C(=O)[N-]C2=O.[K+]
 Gaboxadol	O=C1/C2=C(\ON1)CNCC2
 CGS-21680	O=C(O)CCc1ccc(cc1)CCNc2nc(c3ncn(c3n2)[C@@H]4O[C@H](C(=O)NCC)[C@@H](O)[C@H]4O)N
-Norepinephrine	Oc1ccc(cc1O)[C@@H](O)CN
 Gamma-Tocopherol	C[C@H](CCC[C@H](C)CCCC(C)C)CCC[C@@]2(C)OC1=C(C)C(C)=C(O)C=C1CC2
 Delta-Tocopherol	Oc2cc(c1O[C@](CCc1c2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C
 Enrofloxacin	O=C(O)\C3=C\N(c2cc(N1CCN(CC)CC1)c(F)cc2C3=O)C4CC4
@@ -13406,7 +13405,7 @@ Drimane	C[C@H]1CC[C@@H]2[C@@]([C@H]1C)(CCCC2(C)C)C
 Examorelin	CC1=C(C2=CC=CC=C2N1)CC(C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCCN)C(=O)N)NC(=O)C(CC6=CN=CN6)N
 Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 6-EAPB	CCNC(C)Cc2ccc1ccoc1c2
-Propylphenidate	CCCOC(=O)C(C1CCCCN1)c2ccccc2
+Propylphenidate	C1(=CC=CC=C1)C(C(=O)OCCC)C2CCCCN2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
@@ -13430,7 +13429,7 @@ Merotocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](
 PX-3	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3CCCCC3)C4=C2C=CC=C4
 SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
 4-Methylcathinone	Cc1ccc(cc1)C(=O)C(C)N
-NM-2-AI	CNC1Cc2ccccc2C1
+NM-2-AI	CNC2CC1=CC=CC=C1C2
 4-Methylpentedrone	O=C(C(NC)CCC)C1=CC=C(C)C=C1.Cl
 MDMB-CHMICA	COC(=O)C(C(C)(C)C)NC(=O)c1cn(c2c1cccc2)CC1CCCCC1
 Alpha-Pyrrolidinopentiothiophenone	O=C(C(CCC)N1CCCC1)C2=CC=CS2.Cl
@@ -13560,3 +13559,5 @@ Phosphoramide	NP(=O)(N)N
 2-Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
 3-Methylfuran	CC1=COC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
+Norepinephrine (drug)	Oc1ccc(cc1O)[C@@H](O)CN
+4-Fluoromethylphenidate	FC1=CC=C(C=C1)C(C(=O)OC)C2CCCCN2
