@@ -15,7 +15,6 @@ Amygdalin	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3OC[C@H]2O[C@@H](OC(C#N)c1ccc
 Boron nitride	B#N
 Bicarbonate	OC([O-])=O
 Benzoic acid	c1ccc(cc1)C(=O)O
-Carbon dioxide	O=C=O
 Cyanide	[C-]#N
 Carbonate	C(=O)([O-])[O-]
 Cytosine	c1cnc(=O)[nH]c1N
@@ -12424,6 +12423,7 @@ CPhos	CN(C)C1=C(C(=CC=C1)N(C)C)C2=CC=CC=C2P(C3CCCCC3)C4CCCCC4
 Saringosterol	C[C@H](CCC(C=C)(C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Acetiromate	CC(=O)OC1=C(C=C(C=C1)OC2=C(C=C(C=C2I)C(=O)O)I)I
 Borane	B
+Fucosterol	CC=C(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
 Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
 Aplysamine-2	CN(C)CCCOC1=C(C=C(C=C1Br)CCNC(=O)/C(=N\O)/CC2=CC(=C(C=C2)OC)Br)Br
@@ -13561,3 +13561,4 @@ Phosphoramide	NP(=O)(N)N
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
 Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
 4-Fluoromethylphenidate	FC1=CC=C(C=C1)C(C(=O)OC)C2CCCCN2
+Tetrahydroxy-1,2-benzoquinone	3
