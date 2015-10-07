@@ -1856,7 +1856,6 @@ Tert-Butyl alcohol	CC(C)(C)O
 Lithium borate	[Li+].[Li+].O=BOB([O-])OB([O-])OB=O
 Lithium acetate	[Li+].CC(=O)[O-]
 Geosmin	O[C@]12[C@H](CCC[C@]2(CCCC1)C)C
-Sodium oxide	[O-2].[Na+].[Na+]
 Sodium peroxide	[O-][O-].[Na+].[Na+]
 Sodium superoxide	O=O.[Na+]
 Potassium peroxide	[O-][O-].[K+].[K+]
@@ -13564,3 +13563,4 @@ Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
 Tetrahydroxy-1,2-benzoquinone	3
 Deschloroketamine	ClC1=C(C=CC=C1)C2(CCCCC2=O)NC
 Ozanimod	CC(C)Oc1ccc(cc1C#N)c2nc(no2)c3cccc4c3CC[C@@H]4NCCO
+Spiropentane	C1CC12CC2
