@@ -12285,7 +12285,7 @@ Botryodiplodin	CC1C(COC1O)C(=O)C
 Verrucosidin	C[C@@H]1[C@@]2([C@@H](O2)[C@](O1)(C)/C=C(\C)/C=C(\C)/[C@H]3[C@](O3)(C)C4=C(C(=C(C(=O)O4)C)OC)C)C
 Sorbicillactone A	C/C=C/C=C/C(=C/1\[C@H]2[C@@](C(=O)C(=C1O)C)(OC(=O)[C@@]2(C)NC(=O)/C=C/C(=O)O)C)/O
 Plakevulin A	CCCCCCCCCCCCCCCC[C@@]1(C=C[C@@H]([C@H]1C(=O)OC)O)O
-Penostatin A	CCCCC/C=C/CCC1=C(COC2C1C3CC(CC3=CC2=O)O)C
+Penostatin A	O=C2/C=C1/C[C@H](O)C[C@H]1[C@@H]3/C=C(/C)[C@@H](O[C@@H]23)/C=C/CCCCCCC
 Nupharamine	CC1CCC(NC1CCC(C)(C)O)C2=COC=C2
 Castoramine	CC1CCC(N2C1CCC(C2)CO)C3=COC=C3
 Cyclohexane-1,2-diol	O[C@H]1CCCC[C@@H]1O
@@ -13577,3 +13577,5 @@ Deschloroketamine	ClC1=C(C=CC=C1)C2(CCCCC2=O)NC
 Ozanimod	CC(C)Oc1ccc(cc1C#N)c2nc(no2)c3cccc4c3CC[C@@H]4NCCO
 Spiropentane	C1CC12CC2
 Amastatin	CC(C)CC(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(CC(=O)O)C(=O)O)O)N
+2C-B-BUTTERFLY	O3CCCc1c3c(Br)c2CCCOc2c1CCN
+Fenethazine	CN(C)CCN1C2=CC=CC=C2SC3=CC=CC=C31
