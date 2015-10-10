@@ -119,6 +119,7 @@ Phosgene	ClC(Cl)=O
 Phenytoin	O=C2NC(=O)NC2(c1ccccc1)c3ccccc3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
 Polyvinylpyrrolidone	N1(C(CCC1)=O)[C@@H](C*)*
+Hydronium	[OH3+]
 Methylchloroisothiazolinone	ClC=1SN(C(=O)C=1)C
 Fructose	O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO
 Indigo dye	c1ccc2c(c1)C(=O)/C(=C\3/C(=O)c4ccccc4N3)/N2
@@ -6948,6 +6949,7 @@ AM-411	C5C6CC4CC5(CC(C6)C4)c(cc1O3)cc(O)c1C2CC(C)=CCC2C3(C)C
 Isavuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=CC(=C4)F)F)O
 Pelargonidin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)O)O
 Carbutamide	O=S(=O)(c1ccc(N)cc1)NC(=O)NCCCC
+Fenspiride	c1ccc(cc1)CCN2CCC3(CC2)CN=C(O3)O
 5,10-Methenyltetrahydrofolate	O=C(O)C(NC(=O)c1ccc(cc1)N4/C=[N+]3/C2=C(/N\C(=N/C2=O)N)NCC3C4)CCC(=O)O
 Aluminium monochloride	[Al]Cl
 Pyrimidone	O=C1NC=NC=C1
@@ -12557,7 +12559,7 @@ Nonacosylic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCC
 2-Nitrochlorobenzene	C1=CC=C(C(=C1)[N+](=O)[O-])Cl
 Naphthanthrone	O=C5c2cccc1ccc4c(c12)c3c5cccc3cc4
 9-Carboxymethoxymethylguanine	C1=NC2=C(N1COCC(=O)O)N=C(NC2=O)N
-3-Bromocytisine	O=C1C(Br)=CC=C2N1CC3CC2CNC3
+3-Bromocytisine	c1cc2n(c(=O)c1Br)C[C@H]3C[C@@H]2CNC3
 Glycidic acid	C1C(O1)C(=O)O
 Barium iodate	[Ba+2].[O-]I(=O)=O.[O-]I(=O)=O
 Anagliptin	CC1=NN2C=C(C=NC2=C1)C(=O)NCC(C)(C)NCC(=O)N3CCC[C@H]3C#N
@@ -13097,6 +13099,7 @@ Eliglustat	CCCCCCCC(=O)N[C@H](CN1CCCC1)[C@@H](C2=CC3=C(C=C2)OCCO3)O
 Pracinostat	CCCCC1=NC2=C(N1CCN(CC)CC)C=CC(=C2)/C=C/C(=O)NO
 Sappanone A	C1/C(=C\C2=CC(=C(C=C2)O)O)/C(=O)C3=C(O1)C=C(C=C3)O
 KN-62	CN([C@@H](CC1=CC=C(C=C1)OS(=O)(=O)C2=CC=CC3=C2C=CN=C3)C(=O)N4CCN(CC4)C5=CC=CC=C5)S(=O)(=O)C6=CC=CC7=C6C=CN=C7
+Scillavone B	COc1cc2c(c(c1OC)O)C(=O)[C@H](CO2)Cc3ccc(c(c3)O)O
 Cyclopentadecanolide	O=C1CCCCCCCCCCCCCCO1
 Resminostat	CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)/C=C/C(=O)NO
 Liafensine	CN1C[C@H](C2=C(C1)C=C(C=C2)C3=NN=C(C=C3)N)C4=CC5=CC=CC=C5C=C4
