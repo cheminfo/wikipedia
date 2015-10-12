@@ -11203,7 +11203,7 @@ Bay R 1531	COc2ccc1[nH3]cc3CC(Cc2c13)N(CCC)CCC
 5-MeO-NBpBrT	BrC1=CC=C(CNCCC2=C[N]C3=CC=C(OC)C=C23)C=C1
 Ammiol	COC1=C2C(=O)C=C(OC2=C(C3=C1C=CO3)OC)CO
 Biphalin	O=C(N[C@@H](C(=O)NCC(=O)N[C@H](C(=O)NNC(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)C)Cc2ccccc2)Cc3ccccc3)C)[C@@H](N)Cc4ccc(O)cc4
-FE 200665	O=C(NCC1=CC=NC=C1)[C@H](NC([C@H](NC([C@@H](CC2=CC=CC=C2)NC([C@@H](CC3=CC=CC=C3)N)=O)=O)CCCC)=O)CCCNC(N)=N
+CR665	O=C(NCC1=CC=NC=C1)[C@H](NC([C@H](NC([C@@H](CC2=CC=CC=C2)NC([C@@H](CC3=CC=CC=C3)N)=O)=O)CCCC)=O)CCCNC(N)=N
 LF22-0542	COC1=CC(C)=C(S(N(C)CCOCC(N(C)CC2=CC=C(C3=NCCN3)C=C2)=O)(=O)=O)C(C)=C1
 4-Acetoxy-MET	CCN(C)CCc1c[nH]c2c1c(ccc2)OC(=O)C
 TC-1827	C[C@H](NC)C/C=C/C1=CN=CN=C1
@@ -13065,7 +13065,9 @@ Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
 Tavaborole	B1(C2=C(CO1)C=C(C=C2)F)O
 Hydroxybupropion	O=C(c1cc(Cl)ccc1)C(NC(C)(C)CO)C
 Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
+Funapide	C1C2(C3=CC=CC=C3N(C2=O)CC4=CC=C(O4)C(F)(F)F)C5=CC6=C(C=C5O1)OCO6
 Fluopicolide	C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
+Raxatrigine	C1CC(NC1C2=CC=C(C=C2)OCC3=CC=CC=C3F)C(=O)N
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
 4-Methylphenethylamine	CC1=CC=C(C=C1)CCN
 2,4,5-Trimethoxypropiophenone	CCC(=O)C1=CC(=C(C(=C1)OC)OC)OC
@@ -13522,6 +13524,7 @@ Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
 Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
+1P-LSD	C(C)N(C(=O)C1CN(C2CC=3C4=C(C2=C1)C=CC=C4N(C3)C(CC)=O)C)CC
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
@@ -13584,3 +13587,4 @@ Amastatin	CC(C)CC(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(CC(=O)O)C(=O)O)O)N
 2C-B-BUTTERFLY	O3CCCc1c3c(Br)c2CCCOc2c1CCN
 Fenethazine	CN(C)CCN1C2=CC=CC=C2SC3=CC=CC=C31
 Nothoapiole	COC1=C(C(=C(C2=C1OCO2)OC)OC)CC=C
+Dihexa	C(CCCCC)(=O)NC(C(=O)NC(C(=O)NCCCCCC(=O)N)C(CC)C)CC1=CC=C(C=C1)O
