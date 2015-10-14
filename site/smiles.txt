@@ -70,7 +70,6 @@ Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	c1cncnc1
-Phosphate	[O-]P([O-])([O-])=O
 Pyridine	c1ccncc1
 Phenol	c1ccc(cc1)O
 Phencyclidine	C1(C2(N3CCCCC3)CCCCC2)=CC=CC=C1
@@ -839,7 +838,7 @@ Parathion	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)OCC
 2,5-Dimethoxy-4-methylamphetamine	O(c1cc(c(OC)cc1C[C@H](N)C)C)C
 2,5-Dimethoxy-4-bromoamphetamine	Brc1cc(OC)c(cc1OC)CC(N)C
 Fludrocortisone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]1(/C(=C\C(=O)CC1)CC[C@H]4[C@@H]2CC3)C)C
-3,4-Methylenedioxyamphetamine	NC(C)CC1=CC2=C(C=C1)OCO2
+Methylenedioxyamphetamine	NC(C)CC1=CC2=C(C=C1)OCO2
 Tannic acid	Oc1cc(cc(O)c1O)C(=O)Oc1cc(cc(O)c1O)C(=O)OC[C@H]1O[C@H](OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)[C@H](OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)[C@@H](OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)[C@@H]1OC(=O)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(O)c2)c1
 Lithium orotate	[Li+].O=C([O-])\C1=C\C(=O)NC(=O)N1
 Aztreonam	O=S(=O)(O)N2C(=O)[C@@H](NC(=O)C(=N\OC(C(=O)O)(C)C)/c1nc(sc1)N)[C@@H]2C
@@ -9870,6 +9869,7 @@ Isoglutamine	O=C(N)C(N)CCC(=O)O
 Dibenzocycloheptene	c1cc3c(cc1)Cc2c(cccc2)CC3
 Doxpicomine	CN(C)C(C1COCOC1)C2=CN=CC=C2
 RH-34	O=c1[nH]c2ccccc2c(=O)n1CCNCc3ccccc3OC
+LSD-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
 AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
 WAY-181,187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
 WAY-208,466	O=C(N\N=C1/S\C=C(/N1CC(C)C)c2ccc(Cl)cc2Cl)COc3nccnc3
@@ -10540,7 +10540,7 @@ Ethyl azide	[N-]=[N+]=N/CC
 N-Propyl azide	[N-]=[N+]=NCCC
 Orthoacetic acid	CC(O)(O)O
 4-Methylethcathinone	Cc1ccc(cc1)C(=O)C(C)NCC
-Methylenedioxycathinone	CC(N)C(=O)C1=CC=C(OCO2)C2=C1
+Methylenedioxycathinone	NC(C(=O)C1=CC2=C(C=C1)OCO2)C
 Piperacetazine	CC(=O)c1ccc2Sc3ccccc3N(CCCN4CCC(CCO)CC4)c2c1
 Quinaprilat	C[C@@H](C(=O)N1CC2=CC=CC=C2C[C@H]1C(=O)O)N[C@@H](CCC3=CC=CC=C3)C(=O)O
 Sulfabenzamide	Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2
@@ -13605,3 +13605,4 @@ Elagolix	CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)CC(C3=CC=CC=C3)NCCCC(=O)O)C
 Relugolix	CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC
 Sufugolix	CN(CC1=CC=CC=C1)CC2=C(SC3=C2C(=O)N(C(=O)N3CC4=C(C=CC=C4F)F)C5=CC=CC=C5)C6=CC=C(C=C6)NC(=O)NOC
 Antillatoxin	CC1C(OC(=O)CNC(=O)C(N(C(=O)C(NC(=O)CC1=C)C)C)C(C)C)C(=CC(=CC(C)(C)C)C)C
+Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
