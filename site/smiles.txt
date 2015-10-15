@@ -5523,7 +5523,7 @@ Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
 3-Dehydrocarnitine	C[N+](C)(C)CC(=O)CC(=O)O
 GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6cnc[nH]6)N
 Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
-PA 824	[O-][N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
+Pretomanid	[O-][N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
 Amorolfine	O2[C@@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)CC)C[C@@H]2C)C
@@ -11593,6 +11593,7 @@ BD1052	Clc1ccc(cc1Cl)CCN(CCN2CCCC2)C\C=C
 BD1018	Clc1ccc(cc1Cl)CCN3C[C@H]2N(CCC2)CC3
 BD1008	CN(CCc1ccc(c(c1)Cl)Cl)CCN2CCCC2
 BD1067	CCN(CCC1=CC(=C(C=C1)Cl)Cl)CCN2CCCC2
+JWH-047	CCCCn1c(c(c2c1cccc2)C(=O)c3cccc4c3cc(cc4)C)C
 JWH-048	CCCCCN1C(=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=C3C=C(C=C4)C)C
 JWH-057	CCCCCCC(C)(C)C1=CC2=C(C=C1)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)C
 2-Piperidinone	O=C1NCCCC1
@@ -11600,6 +11601,9 @@ Pyrazophos	S=P(OCC)(OCC)Oc1nn2cc(c(nc2c1)C)C(=O)OCC
 Fensulfothion	S=P(Oc1ccc(cc1)S(=O)C)(OCC)OCC
 Propamocarb	O=C(OCCC)NCCCN(C)C
 JWH-116	CCCCCN1C2=CC=CC=C2C(=C1CC)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-184	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)C
+JWH-185	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)OC
+JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
 Xenon monochloride	[Xe]Cl
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
 Digermane	[Ge][Ge]
@@ -13113,7 +13117,7 @@ Cyclopentadecanolide	O=C1CCCCCCCCCCCCCCO1
 Resminostat	CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)/C=C/C(=O)NO
 Liafensine	CN1C[C@H](C2=C(C1)C=C(C=C2)C3=NN=C(C=C3)N)C4=CC5=CC=CC=C5C=C4
 TIK-301	C[C@@H](CNC(=O)C)c1c[nH]c2c1cc(c(c2)Cl)OC
-Sacubitrilat	CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O
+Sacubitril	CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O
 Methyl 2-fluoroacrylate	COC(=O)C(=C)F
 RVX 208	CC1=CC(=CC(=C1OCCO)C)C2=NC3=C(C(=CC(=C3)OC)OC)C(=O)N2
 Diethyl phenylmalonate	CCOC(=O)C(C1=CC=CC=C1)C(=O)OCC
@@ -13606,3 +13610,4 @@ Relugolix	CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=
 Sufugolix	CN(CC1=CC=CC=C1)CC2=C(SC3=C2C(=O)N(C(=O)N3CC4=C(C=CC=C4F)F)C5=CC=CC=C5)C6=CC=C(C=C6)NC(=O)NOC
 Antillatoxin	CC1C(OC(=O)CNC(=O)C(N(C(=O)C(NC(=O)CC1=C)C)C)C(C)C)C(=CC(=CC(C)(C)C)C)C
 Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
+2-Bromomescaline	COC1=C(C(=C(C(=C1)CCN)Br)OC)OC
