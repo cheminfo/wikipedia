@@ -7753,7 +7753,7 @@ Darapladib	FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=
 Naphthol yellow S	C1=CC2=C(C=C1S(=O)(=O)[O-])C(=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[O-].[Na+]
 Martius yellow	C1=CC=C2C(=C1)C(=CC(=C2O)[N+](=O)[O-])[N+](=O)[O-]
 Wine lactone	CC1C2CCC(=CC2OC1=O)C
-Potassium bifluoride	[K+].F[F-]
+Potassium bifluoride	[H-](F)F.[K+]
 Beta-Naphthoflavone	O=C\1c3c(O/C(=C/1)c2ccccc2)ccc4c3cccc4
 JTE-907	c4c3OCOc3ccc4CNC(=O)c(cc2ccc1OC)c(=O)[nH]c2c1OCCCCC
 Alcian yellow	Cc1cc2c(cc1CSC(=[N+](C)C)N(C)C)nc(s2)c3ccc(cc3)/N=N/c4ccc(cc4)c5nc6cc(c(cc6s5)C)CSC(=[N+](C)C)N(C)C
@@ -12199,6 +12199,7 @@ Citropten	O=C/2Oc1cc(OC)cc(OC)c1\C=C\2
 Scoparone	O=C/2Oc1cc(OC)c(OC)cc1\C=C\2
 Anthocyanone A	C1=C(C=C(/C(=C\C(=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)/C1=O)O)O
 IDFP	O=P(F)(CCCCCCCCCCCC)OC(C)C
+Sodium bifluoride	[H-](F)F.[Na+]
 Ro4938581	FC(F)C(N=C1)=C(N1C2=C3C=C(Br)C=C2)CN4C3=NC=N4
 ISRIB	O=C(COC1=CC=C(Cl)C=C1)N[C@@H]2CC[C@@H](NC(COC3=CC=C(Cl)C=C3)=O)CC2
 5-Geranyloxy-7-methoxycoumarin	CC(=CCC/C(=C/COC1=C2C=CC(=O)OC2=CC(=C1)OC)/C)C
@@ -13618,3 +13619,5 @@ Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
 Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 2-Bromomescaline	COC1=C(C(=C(C(=C1)CCN)Br)OC)OC
 Rimoprogin	c1(ncc(cn1)OCC#CI)SC
+25I-NB34MD	c3cc2OCOc2cc3CNCCc1cc(OC)c(I)cc1OC
+Mexedrone	COCC(C(=O)C1=CC=C(C=C1)C)NC
