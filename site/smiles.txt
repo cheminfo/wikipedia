@@ -8033,6 +8033,7 @@ Etoglucid	O(CCOCCOCC1OC1)CCOCC2OC2
 Demecolcine	O=C/1C(\OC)=C/C=C2\C(=C\1)[C@@H](NC)CCc3c2c(OC)c(OC)c(OC)c3
 Lonidamine	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)O
 Mitoguazone	C\C(\C=N\NC(N)=N)=N/NC(N)=N
+Triethylenemelamine	C1CN1c2nc(nc(n2)N3CC3)N4CC4
 Ortataxel	CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@]5(C2(C)C)[C@H]([C@@H]1OC(=O)[C@@H]([C@H](CC(C)C)NC(=O)OC(C)(C)C)O)OC(=O)O5)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)OC(=O)C
 Tesetaxel	CC1=C2[C@@H]3[C@H]([C@@]4(CC[C@@H]5[C@]([C@H]4[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C6=C(C=CC=N6)F)NC(=O)OC(C)(C)C)O)O)OC(=O)C7=CC=CC=C7)(CO5)OC(=O)C)C)O[C@@H](O3)CN(C)C
 Belotecan	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(c(c3C4)CCNC(C)C)cccc5
@@ -13585,6 +13586,7 @@ Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
 1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
+Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
 Cyclopropenone	c1cc1=O
 Cyclopentadienone	C1=CC(=O)C=C1
@@ -13623,3 +13625,5 @@ Rimoprogin	c1(ncc(cn1)OCC#CI)SC
 25I-NB34MD	c3cc2OCOc2cc3CNCCc1cc(OC)c(I)cc1OC
 Mexedrone	COCC(C(=O)C1=CC=C(C=C1)C)NC
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
+5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
+RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
