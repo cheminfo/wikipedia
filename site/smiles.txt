@@ -5094,7 +5094,7 @@ Strontium ranelate	[Sr+2].[Sr+2].O=C([O-])CN(c1sc(c(c1C#N)CC([O-])=O)C([O-])=O)C
 Ketazocine	O=C2c1c(cc(O)cc1)[C@]3([C@H]([C@@H]2N(CC3)CC4CC4)C)C
 Dinonylnaphthylsulfonic acid	O=S(=O)(O)c2c1ccccc1cc(c2CCCCCCCCC)CCCCCCCCC
 Diiodotyrosine	Ic1cc(cc(I)c1O)C[C@@H](C(=O)O)N
-Monoiodotyrosine	O=C(O)[C@@H](NI)Cc1ccc(O)cc1
+Monoiodotyrosine	c1cc(c(cc1C[C@@H](C(=O)O)N)I)O
 Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
 Methylenedioxyphentermine	NC(C)(C)CC1=CC(OCO2)=C2C=C1
 S-Nitroso-N-acetylpenicillamine	O=C(N[C@@H](C(=O)O)C(SN=O)(C)C)C
@@ -11722,6 +11722,7 @@ Bitopertin	CC(C(F)(F)F)Oc1ccc(cc1C(=O)N2CCN(CC2)c3c(cc(cn3)C(F)(F)F)F)S(=O)(=O)C
 Nickel boride	[B].[Ni].[Ni]
 Indacrinone	CC1(Cc2cc(c(c(c2C1=O)Cl)Cl)OCC(=O)O)c3ccccc3
 Oxyresveratrol	C1=CC(=C(C=C1O)O)C=CC2=CC(=CC(=C2)O)O
+Borane tert-butylamine complex	NC(C)(C)C.B
 Mulberroside A	C1=CC(=C(C=C1OC2C(C(C(C(O2)CO)O)O)O)O)C=CC3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)O
 Combretastatin B-1	COC1=C(C(=C(C=C1)CCC2=CC(=C(C(=C2)OC)OC)OC)O)O
 Dihydro-resveratrol	C1=CC(=CC=C1CCC2=CC(=CC(=C2)O)O)O
@@ -13366,7 +13367,7 @@ Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
 Acetylpropionyl	CCC(=O)C(=O)C
 Cyclohexylmethanol	C1CCC(CC1)CO
 Cyclohexanethiol	C1CCC(CC1)S
-Isopropylphenidate	c1ccccc1C(C(=O)OC(C)C)C2CCCCN2
+Isopropylphenidate	C1(=CC=CC=C1)C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
 Chidamide	NC1=C(NC(=O)C2=CC=C(CNC(=O)\C=C\C3=CN=CC=C3)C=C2)C=C(F)C=C1
 AT-076	C4c1ccc(O)cc1CNC4C(=O)NC(C(C)C)CN(CC3)CCC3c(ccc2)cc2O
@@ -13531,6 +13532,7 @@ Sandalore	CC1=CCC(C1(C)C)CCC(C)C(C)O
 Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
 Pelargonin	C1=CC(=CC=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O
 3,3,4,4-Tetramethyltetrahydrofuran-2,5-dione	CC1(C(=O)OC(=O)C1(C)C)C
+Pomiferin	CC(=CCC1=C(C2=C(C3=C1OC(C=C3)(C)C)OC=C(C2=O)C4=CC(=C(C=C4)O)O)O)C
 Perfluorotoluene	FC1=C(F)C(F)=C(C(F)=C1F)C(F)(F)F
 13-Hydroxyoctadecadienoic acid	CCCCC[C@@H](/C=C/C=C\CCCCCCCC(=O)O)O
 4'-Methoxy-α-Pyrrolidinopentiophenone	COC1=CC=C(C(C(CCC)N2CCCC2)=O)C=C1.Cl
