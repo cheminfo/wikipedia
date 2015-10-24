@@ -70,6 +70,7 @@ Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	c1cncnc1
+Phosphate	[O-]P([O-])([O-])=O
 Pyridine	c1ccncc1
 Phenol	c1ccc(cc1)O
 Phencyclidine	C1(C2(N3CCCCC3)CCCCC2)=CC=CC=C1
@@ -750,6 +751,7 @@ Calcium sulfate	[Ca+2].[O-]S([O-])(=O)=O
 S-Adenosyl methionine	O=C(O)C(N)CC[S+](C)C[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
 Troglitazone	O=C1NC(=O)SC1Cc4ccc(OCC3(Oc2c(c(c(O)c(c2CC3)C)C)C)C)cc4
 Isoniazid	O=C(NN)c1ccncc1
+Sumatriptan	O=S(=O)(NC)Cc1cc2c(cc1)[nH]cc2CCN(C)C
 Propylene oxide	CC1CO1
 Barium hydroxide	[Ba+2].[OH-].[OH-]
 Hydrobromic acid	Br
@@ -1207,6 +1209,7 @@ VG (nerve agent)	O=P(OCC)(OCC)SCCN(CC)CC
 VE (nerve agent)	O=P(OCC)(SCCN(CC)CC)CC
 1,8-Bis(dimethylamino)naphthalene	c1(cccc2cccc(N(C)C)c12)N(C)C
 Microcosmic salt	[NH4+].OP(=O)([O-])[O-].[Na+]
+Zolmitriptan	O=C1OC[C@@H](N1)Cc2ccc3c(c2)c(c[nH]3)CCN(C)C
 Lead(II) chloride	Cl[Pb]Cl
 Silabenzene	C1=CC=[SiH]C=C1
 Isosorbide mononitrate	[O-][N+](=O)O[C@H]1[C@H]2OC[C@H](O)[C@H]2OC1
