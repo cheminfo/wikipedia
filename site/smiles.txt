@@ -3099,7 +3099,6 @@ Raclopride	Clc1c(O)c(c(OC)c(Cl)c1)C(=O)NC[C@H]2N(CC)CCC2
 Flupentixol	FC(F)(F)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
 Tert-Butyl acetate	O=C(OC(C)(C)C)C
 Sec-Butyl acetate	O=C(OC(C)CC)C
-Resiniferatoxin	Oc1ccc(cc1OC)CC(=O)OCC=4C[C@]7(O)C(=O)C(\C)=C/C7[C@]52O[C@@]3(O[C@](C[C@H]2C)(C(C)=C)C(O3)C5C=4)Cc6ccccc6
 Lupinine	OC[C@H]1[C@@H]2N(CCC1)CCCC2
 Amlodipine/benazepril	Clc1ccccc1C2C(\C(=O)OC)=C(/N\C(=C2\C(=O)OCC)COCCN)C.O=C(OCC)[C@@H](N[C@@H]2C(=O)N(c1ccccc1CC2)CC(=O)O)CCc3ccccc3
 Salicylaldehyde	O=Cc1ccccc1O
@@ -10706,6 +10705,7 @@ Potassium ethyl xanthate	[K+].[S-]C(=S)OCC
 Denufosol	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O
 Stigmastanol	O[C@H]1CC[C@@]2(C)[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@@H](CC[C@@H](CC)C(C)C)C)([H])C1
 Thallium hydride	[TlH3]
+Prazepine	CN(C)CCCN1CC2=CC=CC=C2CC3=CC=CC=C31
 Ocean propanal	CC(CC1=CC2=C(C=C1)OCO2)C=O
 7α-Hydroxy-4-cholesten-3-one	O=C4\C=C2/[C@]([C@H]1CC[C@]3([C@H]([C@@H]1[C@H](O)C2)CC[C@@H]3[C@H](C)CCCC(C)C)C)(C)CC4
 Tetraethylmethane	CCC(CC)(CC)CC
