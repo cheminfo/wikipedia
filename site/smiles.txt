@@ -195,7 +195,6 @@ Formaldehyde	C=O
 Acetonitrile	CC#N
 Potassium nitrate	[K+].[O-][N+]([O-])=O
 Boric acid	B(O)(O)O
-Borax	[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2.O.O.O.O.O.O.O.O.O.O
 Creatinine	CN1C=C(O)N=C1N
 Picric acid	O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1O)[N+]([O-])=O
 Chloride	[Cl-]
@@ -11637,6 +11636,7 @@ Solanidine	C[C@@H]1CN2[C@@]3([H])C[C@@]4([H])[C@]5([H])CCC6=C[C@@H](O)CC[C@]6(C)
 Masitinib	O=C(c1ccc(cc1)CN2CCN(C)CC2)Nc3cc(c(cc3)C)Nc4nc(cs4)c5cccnc5
 Undecanal	O=CCCCCCCCCCC
 Dodecanal	O=CCCCCCCCCCCC
+Phosphoryl bromide	O=P(Br)(Br)Br
 Trimethylsilane	C[SiH](C)C
 Formetanate	O=C(Oc1cccc(\N=C\N(C)C)c1)NC
 Fluenetil	O=C(OCCF)Cc1ccc(cc1)c2ccccc2
@@ -13537,7 +13537,7 @@ Sandalore	CC1=CCC(C1(C)C)CCC(C)C(C)O
 Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
 Pelargonin	c1cc(ccc1c2c(cc3c([o+]2)cc(cc3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O
 3,3,4,4-Tetramethyltetrahydrofuran-2,5-dione	CC1(C(=O)OC(=O)C1(C)C)C
-Pomiferin	CC(=CCC1=C(C2=C(C3=C1OC(C=C3)(C)C)OC=C(C2=O)C4=CC(=C(C=C4)O)O)O)C
+Pomiferin	CC(=CCc1c(c2c(=O)c(coc2c3c1OC(C=C3)(C)C)c4ccc(c(c4)O)O)O)C
 Perfluorotoluene	FC1=C(F)C(F)=C(C(F)=C1F)C(F)(F)F
 13-Hydroxyoctadecadienoic acid	CCCCC[C@@H](/C=C/C=C\CCCCCCCC(=O)O)O
 4'-Methoxy-α-Pyrrolidinopentiophenone	COC1=CC=C(C(C(CCC)N2CCCC2)=O)C=C1.Cl
