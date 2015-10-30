@@ -6863,7 +6863,7 @@ JWH-030	CCCCCn3cc(cc3)C(=O)c1cccc2ccccc12
 JWH-147	c4ccccc4-c2cc(cn2CCCCCC)C(=O)c1cccc3c1cccc3
 JWH-307	CCCCCN1C=C(C=C1C2=CC=CC=C2F)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-200	O=C(C1=CC=CC2=C1C=CC=C2)C3=CN(C4=C3C=CC=C4)CCN5CCOCC5
-Ipodate sodium	[Na+].Ic1c(/N=C/N(C)C)c(I)cc(I)c1CCC(O)=O
+Ipodate sodium	CN(C)/C=N/c1c(cc(c(c1I)CCC(=O)[O-])I)I.[Na+]
 Kappadione	CC1=C(C2=CC=CC=C2C(=C1)OP(=O)([O-])[O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
 1-(4-Nitrophenylethyl)piperidylidene-2-(4-chlorophenyl)sulfonamide	O=N(C1=CC=C(CCN2CCCC/C2=N\S(=O)(C3=CC=C(Cl)C=C3)=O)C=C1)=O
 Hydroxylammonium sulfate	[O-]S([O-])(=O)=O.O[NH3+].O[NH3+]
@@ -11617,7 +11617,7 @@ JWH-116	CCCCCN1C2=CC=CC=C2C(=C1CC)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-184	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)C
 JWH-185	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)OC
 JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
-Xenon monochloride	[Xe]Cl
+Xenon monochloride	Cl[Xe]
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
 Digermane	[Ge][Ge]
 Iodosilane	I[SiH3]
@@ -13597,6 +13597,7 @@ NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
 Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
 Cyclopropenone	c1cc1=O
+Cyclobutanone	O=C1CCC1
 Cyclopentadienone	C1=CC(=O)C=C1
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
@@ -13639,3 +13640,4 @@ Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 4'-Fluoro-α-Pyrrolidinopentiophenone	FC1=CC=C(C=C1)C(C(CCC)N2CCCC2)=O
 Borepin	B1C=CC=CC=C1
 Finerenone	CCOc1c2c(c(cn1)C)NC(=C([C@H]2c3ccc(cc3OC)C#N)C(=O)N)C
+DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
