@@ -863,7 +863,6 @@ Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
 Methyltestosterone	O=C4\C=C3/[C@]([C@H]2CC[C@]1([C@@H](CC[C@@]1(O)C)[C@@H]2CC3)C)(C)CC4
 Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
-Clonazepam	[O-][N+](C1=CC2=C(C=C1)NC(CN=C2C3=CC=CC=C3Cl)=O)=O
 Thorium dioxide	O=[Th]=O
 Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
@@ -1625,7 +1624,6 @@ Wilkinson's catalyst	[Rh+](P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3)(P(C4=CC=CC=C4
 Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Quaternium-15	C1N2CN3CN1C[N+](C2)(C3)CC=CCl.[Cl-]
 Oxygen difluoride	FOF
-Trimethylaluminium	C[Al](C)C
 Pseudaconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)(C[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccc(OC)c(OC)c7
 Cyclopentanone	C1CCC(=O)C1
 Bromethalin	Brc2cc(Br)cc(Br)c2N(c1c([N+]([O-])=O)cc([N+]([O-])=O)cc1C(F)(F)F)C
@@ -13595,14 +13593,19 @@ Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
+Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
+1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
 Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
 Cyclopropenone	c1cc1=O
 Cyclobutanone	O=C1CCC1
 Cyclopentadienone	C1=CC(=O)C=C1
+2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
+Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
+3-Methylfuran	CC1=COC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
 2,5-Dichloroaniline	C1=CC(=C(C=C1Cl)N)Cl
 Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
