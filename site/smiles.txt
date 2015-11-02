@@ -9123,7 +9123,6 @@ Ethyldienolone	CC14CCC2=C3CCC(=O)C=C3CCC2C4CCC1(O)CC
 Androisoxazole	O[C@@]5(C)CC[C@H]4[C@H]3[C@@H]([C@]2(Cc1c(noc1)C[C@@H]2CC3)C)CC[C@@]45C
 Dexanabinol	Oc2cc(cc1OC([C@H]3C/C=C(\C[C@@H]3c12)CO)(C)C)C(C)(C)CCCCCC
 Vitexin	O=C2\C=C(/Oc1c(c(O)cc(O)c12)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO)c4ccc(O)cc4
-Properties of water	O
 RTI-274	c4cc1OCOc1cc4OCC2C(c3ccc(F)cc3)CC5NC2CC5
 1,4-Dichlorobut-2-ene	ClC/C=C/CCl
 1,4-Dichlorobut-2-ene	ClCC=CCCl
@@ -9603,6 +9602,7 @@ Cis-2,3-Butylene carbonate	O=C1O[C@@H](C)[C@H](O1)C
 Maritimein	C1=CC(=C(C=C1/C=C\2/C(=O)C3=C(O2)C(=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O
 Arsenicin A	[As@@]1(O2)C[As@](O[As@]2C3)O[As@]3C1
 Marein	C1=CC(=C(C=C1C=CC(=O)C2=C(C(=C(C=C2)OC3C(C(C(C(O3)CO)O)O)O)O)O)O)O
+Selank	NCCCCC(C(=O)N1CCCC1C(=O)NC(C(=O)N2CCCC2C(=O)NCC(=O)N3CCCC3C(=O)O)CCCNC(=N)N)NC(C(C(C)O)N)=O
 Pivagabine	CC(C)(C)C(=O)NCCCC(O)=O
 Acefylline	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C
 Demexiptiline	O(\N=C3/c1ccccc1\C=C/c2c3cccc2)CCNC
@@ -13596,6 +13596,7 @@ Methamnetamine	CN[C@H](CC2=CC1=CC=CC=C1C=C2)C
 Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
+5-oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
 1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
 Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
@@ -13647,3 +13648,4 @@ Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 Borepin	B1C=CC=CC=C1
 Finerenone	CCOc1c2c(c(cn1)C)NC(=C([C@H]2c3ccc(cc3OC)C#N)C(=O)N)C
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
+Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
