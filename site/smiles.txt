@@ -85,7 +85,7 @@ Radon difluoride	F[Rn]F
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
-Scopolamine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
+Hyoscine hydrobromide	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
@@ -3431,7 +3431,6 @@ Bronidox	O=[N+]([O-])C1(Br)COCOC1
 Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
 Cytochalasin E	C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C
-Methylthioninium chloride	CN(C)c1ccc2c(c1)sc-3cc(=[N+](C)C)ccc3n2.[Cl-]
 Distearyldimethylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
 Veratridine	O=C(O[C@H]7CC[C@@]1([C@@]65O[C@@]7(O)[C@H]1CC[C@H]6[C@@]2(O)[C@](O)([C@H]4[C@](O)([C@@H](O)C2)[C@@](O)(C)[C@H]3N(C[C@@H](C)CC3)C4)C5)C)c8ccc(OC)c(OC)c8
 Triphenylmethyl radical	c1ccc(cc1)[C](c1ccccc1)c1ccccc1
