@@ -11774,7 +11774,7 @@ Mercury(II) hydride	[H][Hg][H]
 Candicine	Oc1ccc(cc1)CC[N+](C)(C)C
 Tetradecylthioacetic acid	O=C(O)CSCCCCCCCCCCCCCC
 Hexabenzocoronene	C12=C3C4=C5C(C6=C7C8=CC=C9)=C1C8=C9C%10=CC=CC(C%11=C3C(C%12=C4C(C(C5%13)=CC=CC%13=C6CC=C7)=CC=C%12)=CC=C%11)=C%102
-3,4′-Dihydroxystilbene	C1=CC(=CC(=C1)O)C=CC2=CC=C(C=C2)O
+3,4′-Dihydroxystilbene	Oc2cc(/C=C/c1ccc(O)cc1)ccc2
 Avoparcin	CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)cc6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
 Avoparcin	CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)c(Cl)c6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
 P-Coumaric acid glucoside	C1=CC(=CC=C1/C=C/C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
@@ -11956,8 +11956,8 @@ Phloretic acid	C1=CC(=CC=C1CCC(=O)O)O
 Umbellic acid	C1=CC(=C(C=C1O)O)C=CC(=O)O
 5-Hydroxyferulic acid	O=C(O)\C=C\c1cc(O)c(O)c(OC)c1
 Trametinib	Ic1ccc(c(F)c1)N\C3=C\2/C(=O)N(C(=O)N(C/2=C(\C(=O)N3C)C)c4cccc(NC(=O)C)c4)C5CC5
-2,3-Dihydroxycinnamic acid	C1=CC(=C(C(=C1)O)O)C=CC(=O)O
-3,5-Dihydroxycinnamic acid	C1=C(C=C(C=C1O)O)C=CC(=O)O
+2,3-Dihydroxycinnamic acid	c1cc(c(c(c1)O)O)/C=C/C(=O)O
+3,5-Dihydroxycinnamic acid	c1c(cc(cc1O)O)/C=C/C(=O)O
 2,5-Dihydroxycinnamic acid	C1=CC(=C(C=C1O)C=CC(=O)O)O
 3-Dehydroshikimic acid	C1[C@H]([C@@H](C(=O)C=C1C(=O)O)O)O
 Catechin-7-O-glucoside	C1C(C(OC2=CC(=CC(=C21)O)OC3C(C(C(C(O3)CO)O)O)O)C4=CC(=C(C=C4)O)O)O
@@ -12580,6 +12580,7 @@ Propidium monoazide	[N-]=[N+]=N\c3ccc2c1ccc(N)cc1[n+](c(c2c3)c4ccccc4)CCC[N+](CC
 Formetorex	CC(CC1=CC=CC=C1)NC=O
 Tricosylic acid	CCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Pentacosylic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCC
+DIOP	CC1(O[C@H]([C@@H](O1)CP(c2ccccc2)c3ccccc3)CP(c4ccccc4)c5ccccc5)C
 Heneicosylic acid	CCCCCCCCCCCCCCCCCCCCC(=O)O
 Heptacosylic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCC
 Nonacosylic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCC
@@ -13219,7 +13220,7 @@ Metaglycodol	CC(C)(C(C)(c1cccc(c1)Cl)O)O
 Gamma-Hydroxybutyraldehyde	C(CC=O)CO
 Trans-4,5-Epoxy-(E)-2-decenal	CCCCCC1OC1\C=C\C=O
 Lanierone	CC1=CC(C=C(C1=O)O)(C)C
-1,5-Dihydroxynaphthalene	C1=CC2=C(C=CC=C2O)C(=C1)O
+1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
 Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
 Cinazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)OC(=O)CCC(=O)O)Cl
@@ -13516,7 +13517,7 @@ MRK-016	CN1N=CN=C1COC1=NN2C(C=NN=C2C2=NOC(C)=C2)=C1C(C)(C)C
 Methyl lactate	CC(C(=O)OC)O
 AMB-FUBINACA	FC(C=C1)=CC=C1CN2N=C(C(N[C@H](C(OC)=O)C(C)C)=O)C3=CC=CC=C32
 AMB-CHMINACA	O=C(N[C@@H](C(C)C)C(OC)=O)C1=NN(CC2CCCCC2)C3=C1C=CC=C3
-Cyanidin-3,5-O-diglucoside	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)OC4C(C(C(C(O4)CO)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O)O
+Cyanidin-3,5-O-diglucoside	c1cc(c(cc1c2c(cc3c([o+]2)cc(cc3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O
 Helenin	C[C@H]1CCC[C@]2(C1=C[C@H]3[C@@H](C2)OC(=O)C3=C)C
 Helenin	C[C@]12CCCC(=C)[C@@H]1C[C@H]3[C@@H](C2)OC(=O)C3=C
 5F-PCN	O=C(NC1=C(C=CC=C2)C2=CC=C1)C3=CN(CCCCCF)C4=C3C=NC=C4
@@ -13628,7 +13629,7 @@ Tavilermide	C1COC2=C(C=C(C=C2)[N+](=O)[O-])C(=O)NC(C(=O)NC(C(=O)NC1C(=O)NCC(=O)O
 Elagolix	CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)CC(C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F
 Relugolix	CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC
 Sufugolix	CN(CC1=CC=CC=C1)CC2=C(SC3=C2C(=O)N(C(=O)N3CC4=C(C=CC=C4F)F)C5=CC=CC=C5)C6=CC=C(C=C6)NC(=O)NOC
-Antillatoxin	CC1C(OC(=O)CNC(=O)C(N(C(=O)C(NC(=O)CC1=C)C)C)C(C)C)C(=CC(=CC(C)(C)C)C)C
+Antillatoxin	C[C@H]1[C@@H](OC(=O)CNC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CC1=C)C)C)C(C)C)/C(=C/C=C/C(C)(C)C)/C
 Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
 Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 2-Bromomescaline	COC1=C(C(=C(C(=C1)CCN)Br)OC)OC
