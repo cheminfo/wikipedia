@@ -12230,7 +12230,7 @@ Xanthotoxol	C1=CC(=O)OC2=C(C3=C(C=CO3)C=C21)O
 Fraxetin	COC1=C(C(=C2C(=C1)C=CC(=O)O2)O)O
 Perfluoroheptane	C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
 6-MAPB	CC(NC)CC1=CC(OC=C2)=C2C=C1
-25D-NBOMe	CC1=CC(OC)=C(CCNCC2=C(OC)C=CC=C2)C=C1OC
+25D-NBOMe	COC1=C(C=C(C(=C1)C)OC)CCNCC2=C(C=CC=C2)OC
 Lithium (medication)	[Li+]
 5-MAPDB	CC(NC)CC1=CC(CCO2)=C2C=C1
 6-MAPDB	CC(NC)CC1=CC(OCC2)=C2C=C1
@@ -12538,7 +12538,7 @@ Chrysoeriol	COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
 Xylopine	COC1=CC2=C(C=C1)C3=C4[C@@H](C2)NCCC4=CC5=C3OCO5
 Annonamine	C[N+]1(CCc2cc(c(c-3c2[C@H]1Cc4c3cccc4)OC)O)C
 Bifenox	COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
-N,alpha-Diethylphenylethylamine	c1ccccc1CC(CC)NCC
+N,alpha-Diethylphenylethylamine	C(C)NC(CC1=CC=CC=C1)CC
 SR-57227	ClC1=CC=CC(N2CCC(N)CC2)=N1
 Anonaine	C1CN[C@@H]2CC3=CC=CC=C3C4=C2C1=CC5=C4OCO5
 Asimilobine	COC1=C(C=C2CCN[C@@H]3C2=C1C4=CC=CC=C4C3)O
@@ -13636,6 +13636,7 @@ Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 Rimoprogin	c1(ncc(cn1)OCC#CI)SC
 25I-NB34MD	c3cc2OCOc2cc3CNCCc1cc(OC)c(I)cc1OC
 Mexedrone	COCC(C(=O)C1=CC=C(C=C1)C)NC
+2-A1MP	CC(NC)C(C1=CC(OC)=C(OCO2)C2=C1)=O
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
 RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
@@ -13649,3 +13650,4 @@ Borepin	B1C=CC=CC=C1
 Finerenone	CCOc1c2c(c(cn1)C)NC(=C([C@H]2c3ccc(cc3OC)C#N)C(=O)N)C
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
 Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
+Indenone	c1ccc2c(c1)C=CC2=O
