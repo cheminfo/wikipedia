@@ -3020,6 +3020,7 @@ Oil Blue A	O=C2c1ccccc1C(c3c2c(NC(C)C)ccc3NC(C)C)=O
 Solvent Yellow 124	N(=N/c1ccc(N(CCOC(OCC(C)C)C)CC)cc1)\c2ccccc2
 Arsenic pentoxide	O=[As](=O)O[As](=O)=O
 Glufosinate	O=P(O)(CCC(C(=O)O)N)C
+Sodium stearate	[Na+].[O-]C(=O)CCCCCCCCCCCCCCCCC
 Sodium arsenite	[O-][As]=O.[Na+]
 Sodium dichromate	[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 9,10-Dithioanthracene	SC1=C2C(C=CC=C2)=C(S)C3=CC=CC=C31
@@ -9122,6 +9123,7 @@ Ethyldienolone	CC14CCC2=C3CCC(=O)C=C3CCC2C4CCC1(O)CC
 Androisoxazole	O[C@@]5(C)CC[C@H]4[C@H]3[C@@H]([C@]2(Cc1c(noc1)C[C@@H]2CC3)C)CC[C@@]45C
 Dexanabinol	Oc2cc(cc1OC([C@H]3C/C=C(\C[C@@H]3c12)CO)(C)C)C(C)(C)CCCCCC
 Vitexin	O=C2\C=C(/Oc1c(c(O)cc(O)c12)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO)c4ccc(O)cc4
+Properties of water	O
 RTI-274	c4cc1OCOc1cc4OCC2C(c3ccc(F)cc3)CC5NC2CC5
 1,4-Dichlorobut-2-ene	ClC/C=C/CCl
 1,4-Dichlorobut-2-ene	ClCC=CCCl
@@ -13653,3 +13655,4 @@ DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
 Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
+Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
