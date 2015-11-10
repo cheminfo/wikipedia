@@ -59,7 +59,6 @@ Methanol	CO
 Morphine	CN1CC[C@]23C4=C5C=CC(O)=C4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5
 Modafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)N
 Methadone	CCC(C(C1=CC=CC=C1)(C2=CC=CC=C2)CC(N(C)C)C)=O
-Nitrate	[N+](=O)([O-])[O-]
 Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
@@ -13252,7 +13251,7 @@ HT-2157	c14ccccc4n(-c3ccccc3)c(=O)c1=N\c(c2)cccc2C(F)(F)F
 Cyclamen aldehyde	CC(C)c1ccc(cc1)CC(C)C=O
 Androstanediol glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 SCH-202,596	COC(=O)C4=CC(O)C(O)C(O)C4Oc3c(C1=O)c(c(Cl)c(C)c3Cl)OC12C(C(=O)OC)=CC(=O)C=C2OC
-5F-ADB	COC(=O)C(C(C)(C)C)NC(=O)c2c1ccccc1n(n2)CCCCCF
+5F-ADB	FCCCCC[N]2C1=CC=CC=C1C(=N2)C(=O)N[C@H](C(=O)OC)C(C)(C)C
 13-Methyltetradecanoic acid	CC(C)CCCCCCCCCCCC(=O)O
 Phenoxazine	c1ccc2c(c1)Nc3ccccc3O2
 Pelretin	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/c2ccc(cc2)C(=O)O)/C
