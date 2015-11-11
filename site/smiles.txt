@@ -59,6 +59,7 @@ Methanol	CO
 Morphine	CN1CC[C@]23C4=C5C=CC(O)=C4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5
 Modafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)N
 Methadone	CCC(C(C1=CC=CC=C1)(C2=CC=CC=C2)CC(N(C)C)C)=O
+Nitrate	[N+](=O)([O-])[O-]
 Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
@@ -6019,6 +6020,7 @@ Tetra-n-butylammonium bromide	[Br-].CCCC[N+](CCCC)(CCCC)CCCC
 Sodium perrhenate	[O-][Re](=O)(=O)=O.[Na+]
 Tyropanoic acid	CCCC(=O)NC1=C(C=C(C(=C1I)CC(CC)C(=O)O)I)I
 Dicoronylene	c1cc2ccc3cc4c5cc6ccc7ccc8ccc9ccc%10cc(c5c5c6c7c8c9c%105)c5c4c4c3c2c2c1ccc1c2c4c(c5)cc1
+6-MeO-THH	CC1NCCC2=C1[N]C(C=C3)=C2C=C3OC
 Trioxsalen	O=C/3Oc2c(c1oc(cc1cc2\C(=C\3)C)C)C
 Dimethylzinc	C[Zn]C
 Suriclone	Clc4nc5nc(N3C(=O)C=1SCCSC=1C3OC(=O)N2CCN(C)CC2)ccc5cc4
@@ -9699,7 +9701,7 @@ Methylenomycin A	O=C1C(=C)[C@@H](C(=O)O)[C@@]2(O[C@]12C)C
 4C-T-2	COC1=C(CC(CC)N)C=C(OC)C(SCC)=C1
 Acotiamide	O=C(Nc1nc(C(=O)NCCN(C(C)C)C(C)C)cs1)c2cc(OC)c(OC)cc2O
 Alinidine	Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
-6-Fluoro-DMT	CN(C)CCc1c[nH]c2c1ccc(c2)F
+6-Fluoro-DMT	CN(CCC1=CNC2=C1C=CC(F)=C2)C
 2-(Dicyanomethylene)croconate	[O-][C]1C(=O)C(=O)[C]([O-])C1=C(C#N)C#N
 2-(Dicyanomethylene)croconate	C(#N)C(=C1C(=O)C(=C(C1=O)[O-])[O-])C#N
 3-Ethylpentan-3-ol	OC(CC)(CC)CC
@@ -13443,7 +13445,7 @@ Penicillin O	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CSCC=C)C(=O)O)C
 Drimane	C[C@H]1CC[C@@H]2[C@@]([C@H]1C)(CCCC2(C)C)C
 Examorelin	CC1=C(C2=CC=CC=C2N1)C[C@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC6=CNC=N6)N
 Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
-6-EAPB	CCNC(C)Cc2ccc1ccoc1c2
+6-EAPB	CCNC(CC1=CC2=C(C=CO2)C=C1)C
 Propylphenidate	C1(=CC=CC=C1)C(C(=O)OCCC)C2CCCCN2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
@@ -13464,7 +13466,7 @@ FUBIMINA	O=C(C1=NC2=C(C=CC=C2)N1CCCCCF)C3=CC=CC4=CC=CC=C43
 MEPIRAPIM	CCCCCN1C=C(C(N2CCN(C)CC2)=O)C3=CC=CC=C31.Cl
 Merotocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)O)C(=O)N(Cc3ccc(cc3)F)CC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 3-HO-PCP	c1cc(cc(c1)O)C2(CCCCC2)N3CCCCC3
-5F-SDB-006	FCCCCCn1cc(c2c1cccc2)C(=O)NCc1ccccc1
+5F-SDB-006	FCCCCCN1C=C(C(NCC2=CC=CC=C2)=O)C3=C1C=CC=C3
 PX-3	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3CCCCC3)C4=C2C=CC=C4
 25B-NBOH	BrC2=CC(=C(CCNCC1=C(C=CC=C1)O)C=C2OC)OC
 SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
@@ -13655,3 +13657,5 @@ Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
 Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
+Napthalenetetracarboxylic diimide	c1cc2c3c(ccc4c3c1C(=O)NC4=O)C(=O)NC2=O
+Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
