@@ -112,7 +112,6 @@ Lead(II) azide	[N-]=[N+]=N[Pb]N=[N+]=[N-]
 Mescaline	O(c1cc(cc(OC)c1OC)CCN)C
 Hydrogen cyanide	C#N
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
-Silicon dioxide	O=[Si]=O
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
 Sulfur mustard	ClCCSCCCl
@@ -13662,3 +13661,5 @@ Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
 Napthalenetetracarboxylic diimide	c1cc2c3c(ccc4c3c1C(=O)NC4=O)C(=O)NC2=O
 Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
 Parkeol	[H][C@@]1(CC[C@@]2(C)[C@]3([H])CC[C@@]4([H])C(C)(C)[C@@H](O)CC[C@]4(C)C3=CC[C@]12C)[C@H](C)CCC=C(C)C
+MK-2206	C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=N3)C=CN5C4=NNC5=O)C6=CC=CC=C6)N
+Ethyl octanoate	O=C(OCC)CCCCCCC
