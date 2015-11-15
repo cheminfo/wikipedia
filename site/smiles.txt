@@ -6427,6 +6427,7 @@ Girisopam	Clc3cccc(C\2=N\N=C(/Cc1c/2cc(OC)c(OC)c1)C)c3
 Triflubazam	FC(F)(C1=CC(N(C2=CC=CC=C2)C(CC(N3C)=O)=O)=C3C=C1)F
 Beta-Alanine ethyl ester	O=C(OCC)CCN
 2,4,6-Trichlorophenol	OC1=C(C=C(C=C1Cl)Cl)Cl
+MEAI	COC2=CC=C1CC(CC1=C2)N
 2,2'-Bis(2-indenyl) biphenyl	c1cccc\2c1CC(=C/2)/c6ccccc6c5ccccc5\C4=C\c3ccccc3C4
 6-Methylenedihydrodesoxymorphine	Oc2c1O[C@H]5\C(=C)CC[C@H]4[C@@H]3N(CC[C@@]45c1c(cc2)C3)C
 Trans-2-Methyl-2-butenal	O=C/C(=C/C)C
@@ -13663,3 +13664,4 @@ Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
 Parkeol	[H][C@@]1(CC[C@@]2(C)[C@]3([H])CC[C@@]4([H])C(C)(C)[C@@H](O)CC[C@]4(C)C3=CC[C@]12C)[C@H](C)CCC=C(C)C
 MK-2206	C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=N3)C=CN5C4=NNC5=O)C6=CC=CC=C6)N
 Ethyl octanoate	O=C(OCC)CCCCCCC
+Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
