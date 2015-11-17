@@ -7877,6 +7877,7 @@ Autoinducer-2	O[C@@H]1[C@]2(O[B-](O[C@]2(OC1)C)(O)O)O
 Nifuratel	CSCC1CN(C(=O)O1)/N=C/C2=CC=C(O2)[N+](=O)[O-]
 Clodantoin	O=C1NC(C(=O)N1SC(Cl)(Cl)Cl)C(CC)CCCC
 AL-34662	CC(N)Cn1ncc2ccc(O)cc12
+Caffeyl alcohol	OC\C=C\c1ccc(O)c(O)c1
 Tritoqualine	CCOC1=C(C(=C(C2=C1C(OC2=O)C3C4=C(C5=C(C=C4CCN3C)OCO5)OC)N)OCC)OCC
 Clobenztropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccc(Cl)cc3
 Clemizole	Clc1ccc(cc1)Cn3c(nc2ccccc23)CN4CCCC4
@@ -13665,4 +13666,7 @@ Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
 Parkeol	[H][C@@]1(CC[C@@]2(C)[C@]3([H])CC[C@@]4([H])C(C)(C)[C@@H](O)CC[C@]4(C)C3=CC[C@]12C)[C@H](C)CCC=C(C)C
 MK-2206	C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=N3)C=CN5C4=NNC5=O)C6=CC=CC=C6)N
 Ethyl octanoate	O=C(OCC)CCCCCCC
+J147	CC1=C(C=CC(=C1)C)N(C(C(F)(F)F)=O)\N=C\C2=CC(=CC=C2)OC
+N-Methylornithine	CNC(CCCN)C(=O)O
 Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
+Osimertinib	CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
