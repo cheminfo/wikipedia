@@ -880,7 +880,6 @@ Hydroxyzine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCCO
 Flecainide	FC(F)(F)COc2cc(C(=O)NCC1NCCCC1)c(OCC(F)(F)F)cc2
 Hydroxyl radical	[OH]
 Barium sulfate	[Ba+2].[O-]S([O-])(=O)=O
-Barium oxide	[Ba]=O
 Calcium fluoride	[Ca+2].[F-].[F-]
 Bethanechol	O=C(OC(C)C[N+](C)(C)C)N
 Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
@@ -1728,7 +1727,6 @@ Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C
 5-MeO-MiPT	O(c1cc2c(cc1)[nH]cc2CCN(C(C)C)C)C
 5-MeO-DALT	C=CCN(CCC1=CNC2=C1C=C(OC)C=C2)CC=C
 Triethylamine	CCN(CC)CC
-Caspofungin	O[C@@H]([C@@H](NCCN)NC([C@@H]1[C@@H](O)CCN1C2=O)=O)C[C@@H](C(N[C@H](C(N3[C@H](C(N[C@H](C(N[C@H]2[C@@H](CCN)O)=O)[C@H](O)[C@@H](O)C4=CC=C(O)C=C4)=O)C[C@@H](O)C3)=O)[C@@H](C)O)=O)NC(CCCCCCCC[C@H](C[C@@H](C)CC)C)=O
 4-Acetoxy-DiPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
 Nitroguanidine	NC(N)=N[N+]([O-])=O
 Trigonelline	O=C([O-])c1ccc[n+](c1)C
@@ -13645,7 +13643,7 @@ Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 Rimoprogin	c1(ncc(cn1)OCC#CI)SC
 25I-NB34MD	O1C2=C(OC1)C=C(C=C2)CNCCC3=C(C=C(C(=C3)OC)I)OC
 Mexedrone	COCC(C(=O)C1=CC=C(C=C1)C)NC
-2-A1MP	CC(NC)C(C1=CC(OC)=C(OCO2)C2=C1)=O
+5-Methoxymethylone	CC(NC)C(C1=CC(OC)=C(OCO2)C2=C1)=O
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
 RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
