@@ -6472,8 +6472,7 @@ Atiprimod	N(CC)(CC)CCCN2CCC1(CCC(CC1)(CCC)CCC)C2
 Atrasentan	O=C(O)[C@H]4[C@H](c1ccc(OC)cc1)N(CC(=O)N(CCCC)CCCC)C[C@@H]4c2ccc3OCOc3c2
 Brostallicin	CN1C=C(C=C1C(=O)NCCN=C(N)N)NC(=O)C2=CC(=CN2C)NC(=O)C3=CC(=CN3C)NC(=O)C4=CC(=CN4C)NC(=O)C(=C)Br
 Glucic acid	O=CC(O)C=O
-Dodecenyl succinic anhydride	O=C1OC(=O)CC1CCCCCCCCCCCC
-Dodecenyl succinic anhydride	O=C(C(CCCCCC=CCCCCC)C1)OC1=O
+Dodecenyl succinic anhydride	O=C(CC1C=CCCCCCCCCCC)OC1=O
 CCPA (biochemistry)	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO)NC4CCCC4
 SCH-58261	c1ccccc1CCN1N=CC2=C1N=C(N)N3C2=NC(C4=CC=CO4)=N3
 Eltrombopag	CC1=C(C=C(C=C1)N2C(=O)C(=C(N2)C)NN=C3C=CC=C(C3=O)C4=CC(=CC=C4)C(=O)O)C
@@ -7048,7 +7047,7 @@ SPhos	COc1cccc(c1c2ccccc2P(C3CCCCC3)C4CCCCC4)OC
 Norbinaltorphimine	C1CC1CN2CC[C@]34[C@@H]5C6=C(C[C@]3([C@H]2CC7=C4C(=C(C=C7)O)O5)O)C8=C(N6)[C@H]9[C@@]12CCN([C@@H]([C@@]1(C8)O)CC1=C2C(=C(C=C1)O)O9)CC1CC1
 XPhos	P(c2ccccc2c1c(cc(cc1C(C)C)C(C)C)C(C)C)(C3CCCCC3)C4CCCCC4
 Disiamylborane	B(C(C(C)C)C)C(C)C(C)C
-A-412,997	c3ccc(cc3C)NC(=O)CN2CCC(CC2)c1ccccn1
+A-412,997	CC1=CC(NC(CN2CCC(C3=CC=CC=N3)CC2)=O)=CC=C1
 Tert-Amyl alcohol	CCC(C)(C)O
 XF-73	C[N+](C)(C)CCCOC(C=C1)=CC=C1/C(C2=CC=C(/C=C3C=CC(/C(C4=CC=C(OCCC[N+](C)(C)C)C=C4)=C(N/5)/C=CC5=C\6)=N/3)N2)=C7N=C6C=C/7.[Cl-].[Cl-]
 Propylnorapomorphine	CCCN1CCC2=CC=CC3=C2C1CC4=C3C(=C(C=C4)O)O
@@ -7999,7 +7998,7 @@ Phenylethylmalonamide	CCC(c1ccccc1)(C(=O)N)C(=O)N
 Pyrrolidonyl-beta-naphthylamide	O=C(Nc2cc1ccccc1cc2)C3NC(=O)CC3
 Cyclopropenylidene	C1=C[C]1
 Vulpinic acid	COC(=O)/C(=C/1\C(=O)C(=C(O1)O)C2=CC=CC=C2)/C3=CC=CC=C3
-A-372159	FC(F)(F)c2cc(OC(C)C)ccc2-c(cc3OCCC4)cc1c3N4C5CCNCC15
+A-372159	FC(F)(C1=C(C2=CC3=C4C(OCCCN4[C@@]5([H])CCNC[C@@]35[H])=C2)C=CC(OC(C)C)=C1)F
 YM-348	n3cc2ccc1oc(cc1c2n3C[C@@H](N)C)CC
 SB-699551	C2CCCC2CCC(=O)N(CCN(C)C)Cc(cc3)ccc3-c(cc1)ccc1CNCCc4ccccc4
 Hyponitrite	[N-]=O
@@ -9361,7 +9360,7 @@ DHSA	CC1=C(C(=C(C=C1)O)O)CCC2C3CCC(=O)C3(CCC2=O)C
 Pulchellidin	COc(c3)c(c2)c(cc(O)3)[o+1]c(c(O)2)c(c1)cc(O)c(O)c(O)1
 EA-3148	CCN(CC)CCSP(C)(=O)OC1CCCC1
 AR-R17779	O=C3O[C@]1(CN2CCC1CC2)CN3
-A-84,543	O(c1c(nccc1)C)C[C@H]2NCCC2
+A-84,543	CN(CCC1)[C@@H]1COC2=CC=CN=C2
 UB-165	c2nc(Cl)ccc2C1=CCCC3CCC1N3
 Sunifiram	c2ccccc2C(=O)N1CCN(CC1)C(=O)CC
 Unifiram	C2CN1C(=O)CCC1CN2S(=O)(=O)c(cc3)ccc3F
@@ -9377,7 +9376,7 @@ PNU-282,987	Clc3ccc(cc3)C(=O)NC1CN2CCC1CC2
 PHA-543,613	C1CN2CCC1[C@H](C2)NC(=O)C3=NC=C4C(=C3)C=CO4
 SSR-180,711	c1cc(ccc1OC(=O)N2CCN3CCC2CC3)Br
 ABT-202	C1CC(N)CN1c2cccnc2
-A-366,833	N#Cc1cc(cnc1)N3[C@H]2CNC[C@H]2C3
+A-366,833	N#CC1=CN=CC(N2[C@]3([H])CNC[C@]3([H])C2)=C1
 TC-2216	N1CCCC1(CC2)CN2c3cnccc3
 TC-1698	c2ncccc2C1CCC3CCN1CC3
 CAR-301,060	C[C@@H]1[C@@H](C2CCN1CC2)OC(=O)C(C3CCCC3)(C4=CC=CC=C4)O
@@ -13393,6 +13392,7 @@ RTA 408	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(C(=O)OC)CCC(C)(C)C[C
 Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
 Trimethylhexamethylenediamine	CC(CC(C)(C)CCN)CN
 Anabaseine	C1CCC(=NC1)c1cccnc1
+Flubromazolam	BrC1=CC3=C(C=C1)[N]2C(=NN=C2C)CN=C3C4=C(C=CC=C4)F
 DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
@@ -13452,6 +13452,7 @@ Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 6-EAPB	CCNC(CC1=CC2=C(C=CO2)C=C1)C
 Propylphenidate	C1(=CC=CC=C1)C(C(=O)OCCC)C2CCCCN2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F
+AB-CHFUPYCA	O=C(NC(C(N)=O)C(C)C)C1=CC(C2=CC=C(F)C=C2)=NN1CC3CCCCC3
 ADB-CHMINACA	CC(C)(C)C(NC(=O)c2nn(CC1CCCCC1)c3ccccc23)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
