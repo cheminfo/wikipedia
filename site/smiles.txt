@@ -381,7 +381,6 @@ Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
 Sulfurous acid	O=S(O)O
 Butyric acid	CCCC(=O)O
 Polyvinyl acetate	O([C@@H](C*)*)C(C)=O
-Acrylonitrile butadiene styrene	N#CC=C.C=Cc1ccccc1.C=CC=C
 Alizarin	O=C2c1ccccc1C(=O)c3c2ccc(O)c3O
 Fenamidone	O=C2N(Nc1ccccc1)C(\SC)=N/[C@]2(c3ccccc3)C
 Famoxadone	O=C2OC(C(=O)N2Nc1ccccc1)(c4ccc(Oc3ccccc3)cc4)C
@@ -8577,7 +8576,7 @@ Dichlorophene	Clc1cc(c(O)cc1)Cc2cc(Cl)ccc2O
 Arsabenzene	[as]1ccccc1
 Triphenylborane	c3c(B(c1ccccc1)c2ccccc2)cccc3
 MMAI	Cc1cc2CC(N)Cc2cc1OC
-5,6-Methylenedioxy-N-methyl-2-aminoindane	C3c2cc1OCOc1cc2CC3NC
+MDMAI	C3c2cc1OCOc1cc2CC3NC
 Rhodium(IV) oxide	[Rh+4].[O-2].[O-2]
 5-IAI	c2c1CC(N)Cc1ccc2I
 UH-301	C2Cc1c(c(O)ccc1F)CC2N(CCC)CCC
@@ -13670,3 +13669,5 @@ J147	CC1=C(C=CC(=C1)C)N(C(C(F)(F)F)=O)\N=C\C2=CC(=CC=C2)OC
 N-Methylornithine	CNC(CCCN)C(=O)O
 Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
 Osimertinib	CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+Variegatorubin	OC=1C=C(C=CC=1O)C=2C(=O)O/C(C=2O)=C3\C(=O)OC=4C=C(O)C(O)=CC3=4
+Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)O
