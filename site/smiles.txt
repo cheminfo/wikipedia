@@ -10248,7 +10248,7 @@ Cartazolate	O=C(C1=CN=C(N(CC)N=C2)C2=C1NCCCC)OCC
 Pentadecanoic acid	O=C(O)CCCCCCCCCCCCCC
 Famprofazone	O=C2\C(=C(/N(N2c1ccccc1)C)CN(C(C)Cc3ccccc3)C)C(C)C
 Tafamidis	O=C(O)c3ccc1nc(oc1c3)-c2cc(Cl)cc(Cl)c2
-NITD609	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
+Cipargamin	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
 Eckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C=C(C=C4O3)O)O)O)O)O
 Terflavin B	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)O)O)O)OC(=O)C3=CC(=C(C(=C3C4=C(C(=C5C6=C4C(=O)OC7=C6C(=CC(=C7O)O)C(=O)O5)O)O)O)O)O
 Hexahydroxydiphenic acid	O=C(O)c2cc(O)c(O)c(O)c2c1c(O)c(O)c(O)cc1C(=O)O
@@ -11129,6 +11129,7 @@ Evacetrapib	O=C([C@H]1CC[C@H](CN2CCC[C@H](N(CC3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)C4=
 Lesquerolic acid	O=C(O)CCCCCCCCC\C=C/C[C@H](O)CCCCCC
 Levopimaric acid	O=C(O)[C@]3([C@@H]2CCC\1=C\C(=C/C[C@@H]/1[C@@]2(C)CCC3)C(C)C)C
 Epristeride	CC(C)(C)NC(=O)C1CCC2C3C\C=C4\C=C(/CCC4(C)C3CCC12C)C(O)=O
+Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC(C)C)OC3=CC=CC=C3
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
 1,2-Diaminopropane	CC(N)CN
 Pseudomorphine	CN1CCC23C4C1CC5=C2C(=C(C(=C5)C6=CC7=C8C(=C6O)OC9C81CCN(C(C7)C1C=CC9O)C)O)OC3C(C=C4)O
@@ -12731,6 +12732,7 @@ LY-255582	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CC[C@@H](C3CCCCC3)O
 Cytochrophin-4	C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CC3=CC=C(C=C3)O)N)O
 Aceturic acid	CC(=O)NCC(=O)O
 Obovatol	C=CCC1=CC=C(C=C1)OC2=CC(=CC(=C2O)O)CC=C
+Cobalt phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Co+2].[Co+2].[Co+2]
 Sovaprevir	CC(C)(C)[C@H](CC(=O)N1CCCCC1)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C[C@H]3C=C)C(=O)NS(=O)(=O)C4CC4)Oc5cc(nc6c5ccc(c6)OC)c7ccccc7
 Nitrosyl-O-hydroxide	[N-]=[O+]O
 Inaperisone	CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCC2
@@ -13671,3 +13673,5 @@ Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
 Osimertinib	CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
 Variegatorubin	OC=1C=C(C=CC=1O)C=2C(=O)O/C(C=2O)=C3\C(=O)OC=4C=C(O)C(O)=CC3=4
 Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)O
+Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
+5-DBFPV	O1C2=C(CC1)C=C(C=C2)C(C(CCC)N3CCCC3)=O
