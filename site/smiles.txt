@@ -157,7 +157,6 @@ Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
-Sodium hydroxide	O[Na]
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
 Daminozide	CN(C)NC(=O)CCC(O)=O
 Thymine	Cc1c[nH]c(=O)[nH]c1=O
@@ -4944,7 +4943,7 @@ Lotaustralin	CC[C@](C)(C#N)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Desoxypipradrol	C1(C(C2NCCCC2)C3=CC=CC=C3)=CC=CC=C1
 Fluproquazone	Fc3ccc(C/1=N/C(=O)N(c2cc(ccc\12)C)C(C)C)cc3
 Parahexyl	Oc2cc(cc1OC(C\3=C(/c12)CC(CC/3)C)(C)C)CCCCCC
-ABT-239	N#Cc4ccc(c3cc1c(oc(c1)CCN2[C@H](C)CCC2)cc3)cc4
+ABT-239	N#CC1=CC=C(C2=CC3=C(C=C2)OC(CCN4[C@@H](CCC4)C)=C3)C=C1
 Armstrong's acid	O=S(=O)(O)c1cccc2c1cccc2S(=O)(=O)O
 Ammonium cerium(IV) sulfate	[Ce+4].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.O.O.[NH4+].[NH4+].[NH4+].[NH4+]
 7-Dehydrositosterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CC[C@@H](CC)C(C)C)C)[C@@]3(C)CC4
@@ -8481,7 +8480,7 @@ Bisulepine	s1ccc2c1SCc3c(C2=CCCN(C)C)cccc3
 Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
-AC-262,356	C3C(O)CC1CCC3N1c2ccc(C#N)c4ccccc24
+AC-262,356	OC1CC(N2C3=CC=C(C4=C3C=CC=C4)C#N)CCC2C1
 S-23 (drug)	C[C@](COC1=CC(=C(C=C1)Cl)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
 Glucose 1,6-bisphosphate	O=P(O)(O)OC[C@H]1O[C@H](OP(=O)(O)O)[C@H](O)[C@@H](O)[C@@H]1O
 1,3-Diaminopropane	NCCCN
@@ -9373,7 +9372,7 @@ PNU-120,596	COc1cc(OC)c(Cl)cc1NC(=O)Nc2noc(C)c2
 PNU-282,987	Clc3ccc(cc3)C(=O)NC1CN2CCC1CC2
 PHA-543,613	C1CN2CCC1[C@H](C2)NC(=O)C3=NC=C4C(=C3)C=CO4
 SSR-180,711	c1cc(ccc1OC(=O)N2CCN3CCC2CC3)Br
-ABT-202	C1CC(N)CN1c2cccnc2
+ABT-202	N[C@@H]1CCN(C2=CC=CN=C2)C1
 A-366,833	N#CC1=CN=CC(N2[C@]3([H])CNC[C@]3([H])C2)=C1
 TC-2216	N1CCCC1(CC2)CN2c3cnccc3
 TC-1698	c2ncccc2C1CCC3CCN1CC3
@@ -13512,6 +13511,8 @@ MMB-2201	COC(=O)C(C(C)C)NC(=O)c2cn(CCCCCF)c1ccccc12
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
 Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
+AB-FUBICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CC2=CC=C(F)C=C2)C3=CC=CC=C31
+AB-PICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CCCCC)C2=CC=CC=C21
 5F-ADBICA	FCCCCCn1cc(c2c1cccc2)C(=O)NC(C(C)(C)C)C(=O)N
 3-Amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
 VT-464	CC(C)C(C1=CC2=CC(=C(C=C2C=C1)OC(F)F)OC(F)F)(C3=NNN=C3)O
@@ -13674,4 +13675,5 @@ Osimertinib	CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C
 Variegatorubin	OC=1C=C(C=CC=1O)C=2C(=O)O/C(C=2O)=C3\C(=O)OC=4C=C(O)C(O)=CC3=4
 Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)O
 Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
-5-DBFPV	O1C2=C(CC1)C=C(C=C2)C(C(CCC)N3CCCC3)=O
+5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
+Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
