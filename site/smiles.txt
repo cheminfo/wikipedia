@@ -1131,7 +1131,7 @@ Tetrahydrobiopterin	O=C2\N=C(/NC=1NC[C@@H](NC=12)[C@@H](O)[C@@H](O)C)N
 Barium chloride	[Ba+2].[Cl-].[Cl-]
 Fulminic acid	[O-][N+]#C
 Ticlopidine	Clc1ccccc1CN3Cc2c(scc2)CC3
-Dipyridamole	n3c(nc2c(nc(nc2N1CCCCC1)N(CCO)CCO)c3N4CCCCC4)N(CCO)CCO
+Dipyridamole	OCCN(CCO)C(N=C1N2CCCCC2)=NC3=C1N=C(N(CCO)CCO)N=C3N4CCCCC4
 Paraquat	C[n+]1ccc(cc1)c2cc[n+](cc2)C.[Cl-].[Cl-]
 Griseofulvin	O=C2c3c(O[C@@]21C(/OC)=C\C(=O)C[C@H]1C)c(Cl)c(OC)cc3OC
 Brucine	O=C7N2c1cc(OC)c(OC)cc1[C@@]64[C@@H]2[C@@H]3[C@@H](OC/C=C5\[C@@H]3C[C@@H]6N(CC4)C5)C7
@@ -1252,6 +1252,7 @@ AP-7 (drug)	O=P(O)(O)CCCCCC(C(=O)O)N
 NBQX	[O-][N+](=O)c2cc3c(c1cccc(c12)S(=O)(=O)N)NC(=O)C(=O)N3
 Sorbic acid	O=C(O)\C=C\C=C\C
 Pyridoxine	CC1=NC=C(C(=C1O)CO)CO
+4-Acetoxy-DET	CC(OC1=CC=CC2=C1C(CCN(CC)CC)=C[N]2)=O
 Indometacin	Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O
 Flurazepam	FC1=CC=CC=C1C2=NCC(N(CCN(CC)CC)C3=C2C=C(C=C3)Cl)=O
 Resorcinol	c1cc(cc(c1)O)O
@@ -2086,7 +2087,7 @@ Guanidine	NC(N)=N
 Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(ccc2c3ccc(cc3c1c4ccccc4)N)N.[I-].[I-]
 Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
-Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
+Fonturacetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
 Lithium nitride	[Li+].[Li][N-][Li]
 Uramustine	O=C1C(\N(CCCl)CCCl)=C/NC(=O)N1
 Terlipressin	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)CN)CSSC1)Cc2ccc(O)cc2)Cc3ccccc3)CCC(=O)N)CC(=O)N)CCC4)CCCCN
@@ -11171,7 +11172,7 @@ Thiourea dioxide	C(=N)(N)S(=O)O
 Tetrabarbital	O=C1NC(=O)NC(=O)C1(C(CC)CCC)CC
 Narceine	CN(C)CCC1=CC2=C(C(=C1CC(=O)C3=C(C(=C(C=C3)OC)OC)C(=O)O)OC)OCO2
 Heptobarbital	O=C1NC(=O)NC(=O)C1(c2ccccc2)C
-4-Acetoxy-MiPT	CC(C)N(C)CCc1c[nH]c2c1c(ccc2)OC(=O)C
+4-Acetoxy-MiPT	CC(N(CCC1=CNC2=C1C(OC(C)=O)=CC=C2)C)C
 Quisqualamine	O=C1NC(=O)ON1CCN
 Tiazesim	CN(C)CCN1C(=O)CC(SC2=CC=CC=C21)C3=CC=CC=C3
 Alletorphine	C[C@](O)(CCC)[C@H]6C[C@]42/C=C/[C@]6(OC)[C@@H]3Oc5c1c(C[C@H]4N(CC[C@@]123)CC=C)ccc5O
