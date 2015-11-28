@@ -82,6 +82,7 @@ Phenothiazine	c1ccc2c(c1)Nc3ccccc3S2
 Quinine	O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](/C=C)C3)cc4)C
 Riboflavin	O=C2/N=C\1/N(c3cc(c(cc3/N=C/1C(=O)N2)C)C)C[C@H](O)[C@H](O)[C@H](O)CO
 Radon difluoride	F[Rn]F
+Sulfur	S1SSSSSSS1
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
@@ -1321,7 +1322,8 @@ Phentermine	NC(Cc1ccccc1)(C)C
 Cerberin	CC1C(C(C(C(O1)OC2CCC3(C(C2)CCC4C3CCC5(C4(CCC5C6=CC(=O)OC6)O)C)C)OC(=O)C)OC)O
 Androstenone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@@]1(/C=C\C[C@H]12)C)[C@@]3(C)CC4
 Sibutramine	ClC1=CC=C(C2(CCC2)C(CC(C)C)N(C)C)C=C1
-Tenofovir	O=P(O)(O)CO[C@H](C)Cn1c2ncnc(c2nc1)N
+Tenofovir disoproxil	O=P(O)(O)CO[C@H](C)Cn1c2ncnc(c2nc1)N
+Tenofovir disoproxil	C[C@H](Cn1cnc2c1ncnc2N)OCP(=O)(OCOC(=O)OC(C)C)OCOC(=O)OC(C)C
 Cidofovir	O=C1/N=C(\C=C/N1C[C@H](OCP(=O)(O)O)CO)N
 Adefovir	O=P(O)(O)COCCn1c2ncnc(c2nc1)N
 Terpyridine	c1ccnc(c1)c2cccc(n2)c3ccccn3
@@ -1375,6 +1377,7 @@ Ofloxacin	Fc4cc1c2N(/C=C(\C1=O)C(=O)O)C(COc2c4N3CCN(C)CC3)C
 Tin(IV) chloride	Cl[Sn](Cl)(Cl)Cl
 Enflurane	FC(Cl)C(F)(F)OC(F)F
 T-2 mycotoxin	O=C(O[C@@H]4C(=C/[C@H]3O[C@H]2[C@]1(OC1)[C@]([C@H](OC(=O)C)[C@H]2O)([C@@]3(COC(=O)C)C4)C)\C)CC(C)C
+Leuprorelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc2ccc(cc2)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@@H]6CCC(=O)N6
 Melarsoprol	OCC1S[As](SC1)c3ccc(Nc2nc(nc(n2)N)N)cc3
 Nevirapine	O=C2Nc1c(ccnc1N(c3ncccc23)C4CC4)C
 Ziconotide	C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2CSSC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N1)CCCCN)CCCCN)N)C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N3)CO)[C@@H](C)O)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CO)CCCNC(=N)N)CC(C)C)CCSC)CC4=CC=C(C=C4)O)CC(=O)O)C(=O)N)CCCCN)CO)CCCNC(=N)N)CCCCN
@@ -1936,7 +1939,9 @@ Merbromin	[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)
 Phenyltoloxamine	O(c1ccccc1Cc2ccccc2)CCN(C)C
 Perrhenic acid	[OH2][Re](=O)(=O)(=O)([OH2])O[Re](=O)(=O)=O
 Levocetirizine	Clc1ccc(cc1)[C@H](N2CCN(CCOCC(=O)O)CC2)c3ccccc3
+Nafarelin	CC(C)C[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](CC2=CC3=CC=CC=C3C=C2)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CNC=N7)NC(=O)[C@@H]8CCC(=O)N8
 Sodium iodide	[Na+].[I-]
+Buserelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc2ccc(cc2)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@@H]6CCC(=O)N6
 Epibatidine	ClC1=CC=C([C@@H]2C[C@]3([H])CC[C@@]2([H])N3)C=N1
 Cefaclor	O=C2N1/C(=C(/Cl)CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccccc3)N)C(=O)O.O
 Ibogaine	CC[C@H]([C@@H]1[N@](C2)CC3)C[C@@H]2C[C@H]1C(N4)=C3C5=C4C=CC(OC)=C5
@@ -4722,6 +4727,7 @@ Pentacarbonylhydridorhenium	C(#O)[ReH](C#O)(C#O)(C#O)C#O
 Allylpalladium chloride dimer	Cl[Pd]CC=C.C=CC[Pd]Cl
 Decitabine	O=C1/N=C(\N=C/N1[C@@H]2O[C@@H]([C@@H](O)C2)CO)N
 Nalmefene	OC(C1=C2[C@@]34[C@H]5O1)=CC=C2C[C@@H](N(CC4)CC6CC6)[C@]3(O)CCC5=C
+Histrelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CN(C=N2)CC3=CC=CC=C3)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CNC=N7)NC(=O)[C@@H]8CCC(=O)N8
 Cyclooctadiene rhodium chloride dimer	Cl[Rh].Cl[Rh].C=1CC\C=C/CCC=1.C/1C\C=C/CC\C=C\1
 Strontium carbonate	[Sr+2].[O-]C([O-])=O
 3,4-Xylidine	Cc1ccc(N)cc1C
