@@ -3886,7 +3886,7 @@ Gestrinone	O=C4\C=C3/C(=C2/C=C\[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
 Desvenlafaxine	OC2(C(c1ccc(O)cc1)CN(C)C)CCCCC2
 Semicarbazide	C(=O)(N)NN
 Ammonium ferric citrate	[Fe+3].O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-].[NH4+]
-Bromodeoxyuridine	BrC=1C(=O)NC(=O)N(C=1)[C@H]2O[C@H]([C@H](O)C2)CO
+Bromodeoxyuridine	c1c(c(=O)[nH]c(=O)n1[C@H]2C[C@@H]([C@H](O2)CO)O)Br
 Ethylammonium nitrate	CC[NH3+].[N+](=O)([O-])[O-]
 Dipotassium phosphate	[K+].[K+].[O-]P([O-])(=O)O
 Dithioerythritol	SC[C@@H](O)[C@@H](O)CS
@@ -5385,7 +5385,7 @@ Bissulfosuccinimidyl suberate	C1C(C(=O)N(C1=O)OC(=O)CCCCCCC(=O)ON2C(=O)CC(C2=O)S
 Fluoroiodomethane	FCI
 Mannose 6-phosphate	C(C1C(C(C(C(O1)O)O)O)O)OP(=O)(O)O
 Mannose 6-phosphate	O=P(O)(O)OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O
-N-Acetylaspartylglutamic acid	COC1CC2(C)C(CCC2(O)C#C)C2CCC3=CC(O)=CC=C3C12
+N-Acetylaspartylglutamic acid	CC(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCC(O)=O)C(O)=O
 Diprenorphine	CC(C)([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
 Photobiotin	O=C1N[C@@H]2C(SC[C@@H]2N1)CCCCC(=O)NCCCN(CCCNc3ccc(\N=[N+]=[N-])cc3[N+]([O-])=O)C
 O-Desmethyltramadol	OC2(c1cc(O)ccc1)CCCCC2CN(C)C
@@ -9265,7 +9265,7 @@ Desmethylsertraline	Clc1ccc(cc1Cl)[C@H]3c2c(cccc2)[C@@H](N)CC3
 Para-Bromoamphetamine	Brc1ccc(cc1)CC(N)C
 Para-Iodoamphetamine	CC(CC1=CC=C(C=C1)I)N
 Actarit	O=C(O)Cc1ccc(cc1)NC(=O)C
-Pyrrolidine dithiocarbamate	S=C(S)N1CCCC1
+Pyrrolidine dithiocarbamate	C1CCN(C1)C(=S)S
 Myrtillin	C1=C(C=C(C(=C1O)O)O)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O.[Cl-]
 Sambubiose	C1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O)CO)O)O)O)O)O
 Tulipanin	O(C[C@H]4O[C@@H](Oc2cc3c(O)cc(O)cc3[o+]c2c1cc(O)c(O)c(O)c1)[C@H](O)[C@@H](O)[C@@H]4O)[C@@H]5O[C@H]([C@H](O)[C@@H](O)[C@H]5O)C
@@ -10217,7 +10217,7 @@ Methylethyl ketone oxime	CC/C(=N/O)/C
 Taxodone	O=C1\C(=C/C=2/C(=C1/O)[C@]3(C)[C@@H]([C@@H](O)C=2)C(C)(C)CCC3)C(C)C
 Staphyloxanthin	O=C(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)\C(=C\C=C\C(C)(C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C(\C=C/CCCCCCCC(C)CC)C=O)C
 Toxoflavin	O=C2\N=C1C(=N/C=N\N1C)\C(=O)N2C
-Ro5-2904	C1C(=O)NC2=C(C=C(C=C2)C(F)(F)F)C(=N1)C3=CC=CC=C3
+Triflunordazepam	C1C(=O)NC2=C(C=C(C=C2)C(F)(F)F)C(=N1)C3=CC=CC=C3
 Rhodocene	[cH-]1cccc1.[cH-]1cccc1.[Rh+2]
 Lasmiditan	CN3CCC(CC3)C(=O)c(n2)cccc2NC(=O)c1c(F)cc(F)cc1F
 Triglycine sulfate	O=C(O)CN.O=S(=O)(O)O.O=C(O)CN.O=C(O)CN
@@ -10984,7 +10984,6 @@ Varespladib	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)O)C(=O)C(=O)N
 VU-0238429	COc1ccc(cc1)CN2c3ccc(cc3C(=O)C2=O)OC(F)(F)F
 Pafuramidine	CO/N=C(\N)/C1=CC=C(C=C1)C2=CC=C(O2)C3=CC=C(C=C3)/C(=N/OC)/N
 PD-0298029	CCCc1c(c2c(n1C)cc(c3c2CN4CCc5cc(ccc5C4O3)OC)C)C(=O)OCC
-FG-8205	Clc4cccc3n2cnc(c1nc(on1)C(C)C)c2CN(C(=O)c34)C
 AFDX-384	O=C1Nc2cccnc2N(c4c1cccc4)C(=O)NCCN3CCCCC3CN(CCC)CCC
 S-Ethylisothiouronium diethylphosphate	O=P(OCC)(O)OCC.[N@H]=C(SCC)N
 Rubrosterone	O[C@@H]1[C@H](O)C[C@](C(C=C2[C@]3([H])CC[C@@]4(C)[C@@]2(O)CCC4=O)=O)([H])[C@]3(C)C1
