@@ -47,6 +47,7 @@ Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1
 Heavy water	[2H]O[2H]
 Hydrogen peroxide	OO
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
+Ketamine	CNC1(C2=CC=CC=C2Cl)CCCCC1=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
 Alpha-Ketoglutaric acid	O=C(O)C(=O)CCC(=O)O
 Lysergic acid diethylamide	CCN(CC)C(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C
@@ -157,6 +158,7 @@ Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
+Sodium hydroxide	O[Na]
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
 Daminozide	CN(C)NC(=O)CCC(O)=O
 Thymine	Cc1c[nH]c(=O)[nH]c1=O
@@ -2003,7 +2005,7 @@ Adams's catalyst	O=[Pt]=O
 Tribendimidine	N(=C/c2ccc(\C=N\c1ccc(/N=C(/N(C)C)C)cc1)cc2)\c3ccc(\N=C(\N(C)C)C)cc3
 Delphinidin	[Cl-].Oc1cc(cc(O)c1O)c3[o+]c2cc(O)cc(O)c2cc3O
 Delphinidin	Oc3cc(O)cc(c3CC2O)OC2c(cc1O)cc(O)c1O
-Butylscopolamine	[Br-].OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@@H]3[C@H]4O[C@H]4[C@H](C2)[N+]3(C)CCCC
+Hyoscine butylbromide	[Br-].OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@@H]3[C@H]4O[C@H]4[C@H](C2)[N+]3(C)CCCC
 4-Aminopyridine	n1ccc(N)cc1
 Lithium hydride	[H-].[Li+]
 Tiabendazole	[nH]1c2ccccc2nc1c3cscn3
@@ -8568,8 +8570,7 @@ UR-AK49	c1c(nc[nH]1)CCCNC(=N)NC(=O)CCC2CCCCC2
 NS-2359	Clc1ccc(cc1Cl)C(C2COC)CC3NC2CC3
 DOV-216,303	C3C2CNCC23c(cc1Cl)ccc1Cl
 DOV-102,677	C1[C@](CN2)(C1C2)C(=C1)C=C(C(Cl)=C1)Cl
-Dasotraline	Clc1ccc(cc1)C2([C@H](N)CC(C)C)CCC2
-Dasotraline	Clc1ccc(cc1Cl)[C@H]3c2c(cccc2)[C@H](N)CC3
+Dasotraline	C1C[C@H](C2=CC=CC=C2[C@@H]1C3=CC(=C(C=C3)Cl)Cl)N
 Cadmium hydroxide	[Cd+2].[OH-].[OH-]
 Amfonelic acid	CCN1C=C(C(=O)C2=C1N=C(C=C2)CC3=CC=CC=C3)C(=O)O
 Adhyperforin	CCC(C)C(=O)C12C(=C(C(=O)C(C1=O)(CC(C2(C)CCC=C(C)C)CC=C(C)C)CC=C(C)C)CC=C(C)C)O
@@ -13681,3 +13682,6 @@ Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
 5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
 Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
+Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
+2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
+Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
