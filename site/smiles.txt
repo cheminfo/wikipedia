@@ -880,6 +880,7 @@ Hydroxyzine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCCO
 Flecainide	FC(F)(F)COc2cc(C(=O)NCC1NCCCC1)c(OCC(F)(F)F)cc2
 Hydroxyl radical	[OH]
 Barium sulfate	[Ba+2].[O-]S([O-])(=O)=O
+Barium oxide	[Ba]=O
 Calcium fluoride	[Ca+2].[F-].[F-]
 Bethanechol	O=C(OC(C)C[N+](C)(C)C)N
 Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
@@ -3888,7 +3889,6 @@ Methoxyflurane	ClC(Cl)C(F)(F)OC
 Gestrinone	O=C4\C=C3/C(=C2/C=C\[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
 Desvenlafaxine	OC2(C(c1ccc(O)cc1)CN(C)C)CCCCC2
 Semicarbazide	C(=O)(N)NN
-Ammonium ferric citrate	[Fe+3].O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-].[NH4+]
 Bromodeoxyuridine	c1c(c(=O)[nH]c(=O)n1[C@H]2C[C@@H]([C@H](O2)CO)O)Br
 Ethylammonium nitrate	CC[NH3+].[N+](=O)([O-])[O-]
 Dipotassium phosphate	[K+].[K+].[O-]P([O-])(=O)O
@@ -13366,7 +13366,7 @@ SRX246	CC(C1=CC(=CC=C1)C(F)(F)F)NC(=O)C(CC(=O)N2CCC(CC2)N3CCCCC3)N4C(C(C4=O)N5C(
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 2-Octanol	c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=CCC(=C5)N)O)O)O)OP(=O)(O)O)N
-Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1c3[nH]c4cc(ccc4n3)c5cc6ccc5CCc7ccc(c(c7)c8ccc9c(c8)[nH]c(n9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)CC6)NC(=O)OC
+Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CCC7=CC(=C(CCC(=C5)C=C6)C=C7)C8=CC9=C(C=C8)N=C(N9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 AN2728	N#CC1=CC=C(OC2=CC=C3C(B(O)OC3)=C2)C=C1
 1,2-Diformylhydrazine	O=CNNC=O
@@ -13685,3 +13685,4 @@ A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
 Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
+Filibuvir	CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
