@@ -8833,7 +8833,6 @@ BRL-44408	N2CCN=C2CN(C1C)Cc3c1cccc3
 Phenylsilatrane	C1C[N+]23CCO[Si-]2(O1)(OCC3)C1=CC=CC=C1
 Heptafluorobutyric acid	OC(C(F)(F)C(F)(F)C(F)(F)F)=O
 Oxapium iodide	C[N+]1(CCCCC1)CC2COC(O2)(C3CCCCC3)C4=CC=CC=C4.[I-]
-Salvinorin B ethoxymethyl ether	CCOCO[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)C4=COC=C4)C)C(=O)OC
 Salvinorin B methoxymethyl ether	COCO[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)C4=COC=C4)C)C(=O)OC
 Afegostat	C1[C@@H]([C@H]([C@@H](CN1)O)O)CO
 BMY-7,378	C4CCCC4(CC1=O)CC(=O)N1CCN3CCN(CC3)c2ccccc2OC
@@ -10602,7 +10601,7 @@ BRL-32872	[O-][N+](=O)c1ccc(cc1)C(=O)N(c2cc(OC)c(OC)cc2)CCCN(CCc3ccc(OC)c(OC)c3)
 Bis(2-ethylhexyl) adipate	O=C(OCC(CC)CCCC)CCCCC(=O)OCC(CCCC)CC
 Argininosuccinic acid	O=C(O)C[C@@H](C(=O)O)NC(=N/CCC[C@H](N)C(=O)O)/N
 5-Bromo-4-chloro-3-indolyl phosphate	C1=CC(=C(C2=C1NC=C2OP(=O)(O)O)Cl)Br
-Festinavir	CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@](O2)(CO)C#C
+Censavudine	CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@](O2)(CO)C#C
 Budesonide	CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C
 O-Cresol	Cc1ccccc1O
 Temozolomide	O=C(c1ncn2C(=O)N(\N=N/c12)C)N
