@@ -288,7 +288,6 @@ Sodium bicarbonate	[Na+].OC([O-])=O
 Sodium carbonate	[Na+].[Na+].[O-]C([O-])=O
 Butanone	O=C(C)CC
 Iron(II) sulfate	[O-]S(=O)(=O)[O-].[Fe+2]
-Citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O
 Choline	C[N+](C)(C)CCO
 Chlorite	[O-]Cl=O
 Tacrolimus	O=C3C(=O)N1CCCC[C@H]1C(=O)O[C@H](C(=C/[C@@H]2CC[C@@H](O)[C@H](OC)C2)/C)[C@H](C)[C@@H](O)CC(=O)[C@@H](/C=C(/C[C@@H](C[C@H](OC)[C@H]4O[C@]3(O)[C@H](C)C[C@@H]4OC)C)C)C\C=C
@@ -639,6 +638,7 @@ Calcium silicate	[Ca++].[Ca++].[O-][Si]([O-])([O-])[O-]
 Pentazocine	Oc1ccc3c(c1)[C@]2([C@H]([C@H](N(CC2)C\C=C(/C)C)C3)C)C
 Gabapentin	O=C(O)CC1(CN)CCCCC1
 Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
+Omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
 5-Bromouracil	Br/C1=C/NC(=O)NC1=O
 ENU	CCN(N=O)C(N)=O
 Silver sulfide	[S-2].[Ag+].[Ag+]
@@ -1274,7 +1274,6 @@ Neodymium(III) chloride	Cl[Nd](Cl)Cl
 Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
-Adrafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)NO
 Cannabidiol	Oc1c(c(O)cc(c1)CCCCC)[C@@H]2\C=C(/CC[C@H]2\C(=C)C)C
 Tetrahydrocannabivarin	CCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1)O
 Cannabivarin	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCC
@@ -7596,7 +7595,7 @@ Bevantolol	O(c1ccc(cc1OC)CCNCC(O)COc2cc(ccc2)C)C
 Astromicin	O=C(N(C)[C@@H]2[C@@H](OC)[C@@H](O)[C@H](N)[C@@H](O[C@H]1O[C@H]([C@@H](N)C)CC[C@H]1N)[C@@H]2O)CN
 Micronomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H](C([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CNC)N)N)N)O
 TP-13	C5CCC5c3cc2nnc(-c4ccccc4)n2nc3OCc1ncnn1C
-TP-003	N#Cc4cc(F)ccc4-c1cc(ccc1F)-c2cnc3n2ccc(C(C)(O)C)c3F
+TP-003	CC(C)(C1=C(C2=NC=C(N2C=C1)C3=C(C=CC(=C3)C4=C(C=C(C=C4)F)C#N)F)F)O
 Disulfur	[S][S]
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
@@ -9922,7 +9921,7 @@ Acacetin	O=C\1c3c(O/C(=C/1)c2ccc(OC)cc2)cc(O)cc3O
 Nepetin	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O
 Disiloxane	[SiH3]O[SiH3]
 FV-100	CCCCCC1=CC=C(C=C1)C2=CC3=CN(C(=O)N=C3O2)[C@H]4C[C@@H]([C@H](O4)CO)O
-Bamaluzole	Clc1ccccc1COc3nccc2c3ncn2C
+Bamaluzole	CN1C=NC2=C1C=CN=C2OCC3=CC=CC=C3Cl
 Tolgabide	Cc1cc(cc(c1O)/C(=N/CCCC(=O)N)/c2ccc(cc2)Cl)Cl
 Pitrazepin	n4nc(N1CCNCC1)n5c2ccccc2Cc3ccccc3c45
 Ethyl propionate	CCOC(=O)CC
