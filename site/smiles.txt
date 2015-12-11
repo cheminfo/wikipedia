@@ -6106,7 +6106,6 @@ Pivoxazepam	Clc3cc\1c(NC(=O)C(OC(=O)C(C)(C)C)/N=C/1c2ccccc2)cc3
 Rilmazafone	ClC1=C(C(C2=CC(Cl)=CC=C2N3C(CNC(CN)=O)=NC(C(N(C)C)=O)=N3)=O)C=CC=C1
 Copper(I) fluoride	F[Cu]
 Sodium ferrocyanide	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Na+].[Na+].[Na+].[Na+].[Fe+2]
-MK-9470	C[C@H](N([H])C(C(C)(C)Oc1ncc(C)cc1)=O)[C@@H](Cc2ccc(OCC)cc2)c3cccc(C#N)c3
 POPOP	C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C4=NC=C(O4)C5=CC=CC=C5
 Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C@H]3CC[C@@]4([C@H]5CC[C@@H]6[C@H]7[C@@](C[C@@H](O[C@@]78C[C@]6([C@@]5(CC[C@H]4C3(C)C)C)CO8)C=C(C)C)(C)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)OC(=O)C)OC(=O)C)C)O)O)O
 Gadolinium(III) nitrate	[Gd+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
@@ -12489,7 +12488,7 @@ Vindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4C([C@@H]2OC(=O)C)(C(
 Olivacine	Cc1c2ccnc(c2cc3c1[nH]c4c3cccc4)C
 Cepharanthine	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)OC)OCO3
 Cepharanoline	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)O)OCO3
-Affinine	C/C=C\1/CN([C@@H]2Cc3c4ccccc4[nH]c3C(=O)C[C@H]1C2CO)C
+Affinine	C/C=C1CN(C)[C@H]2CC3=C(C(C[C@H]/1[C@]2(C)CO)=O)NC4=C3C=CC=C4
 Norharmine	COC1=CC2=C(C=C1)C3=C(N2)C=NC=C3
 Isoharmine	CC1=NC=CC2=C1NC3=C2C=C(C=C3)OC
 Aposcopolamine	O=C(O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23)C(\c4ccccc4)=C
@@ -12663,7 +12662,7 @@ Liriodenine	C1OC2=C(O1)C3=C4C(=C2)C=CN=C4C(=O)C5=CC=CC=C53
 Dragomabin	C[C@@H](CCCCC#C)C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](C)C(=O)N(C)[C@@H](C)C(=O)N(C)[C@@H](Cc2ccc(cc2)OC)C(=O)N
 S-14,506	COC1=CC2=C(C=CC=C2N3CCN(CC3)CCNC(=O)C4=CC=C(C=C4)F)C=C1
 Donovan's solution	[As](I)(I)I.I[Hg]
-Affinisine	C/C=C\1/CN2[C@H]3Cc4c5ccccc5n(c4[C@@H]2C[C@@H]1[C@H]3CO)C
+Affinisine	CN1C2=C(C=CC=C2)C3=C1[C@@](C[C@@]4([H])/C(C5)=C\C)([H])[N@]5[C@@]([C@@]([H])4CO)([H])C3
 Heyneanine	C[C@@H]([C@@H]1C[C@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC=CC=C45)O
 Hydnocarpic acid	O=C(O)CCCCCCCCCCC1\C=C/CC1
 27-Hydroxycholesterol	C[C@H](CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)CO
