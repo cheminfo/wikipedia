@@ -288,7 +288,6 @@ Sodium bicarbonate	[Na+].OC([O-])=O
 Sodium carbonate	[Na+].[Na+].[O-]C([O-])=O
 Butanone	O=C(C)CC
 Iron(II) sulfate	[O-]S(=O)(=O)[O-].[Fe+2]
-Citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O
 Choline	C[N+](C)(C)CCO
 Chlorite	[O-]Cl=O
 Tacrolimus	O=C3C(=O)N1CCCC[C@H]1C(=O)O[C@H](C(=C/[C@@H]2CC[C@@H](O)[C@H](OC)C2)/C)[C@H](C)[C@@H](O)CC(=O)[C@@H](/C=C(/C[C@@H](C[C@H](OC)[C@H]4O[C@]3(O)[C@H](C)C[C@@H]4OC)C)C)C\C=C
@@ -8809,7 +8808,6 @@ Metabutethamine	CC(C)CNCCOC(=O)C1=CC(=CC=C1)N
 Chlorproethazine	Clc2cc1N(c3c(Sc1cc2)cccc3)CCCN(CC)CC
 Dixyrazine	CC(CN1CCN(CC1)CCOCCO)CN2C3=CC=CC=C3SC4=CC=CC=C42
 Thiopropazate	CC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
-Thioproperazine	CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C
 Butaperazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4)CCC
 Pipotiazine	CN(C)S(=O)(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
 Moperone	CC1=CC=C(C=C1)C2(CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)O
@@ -12460,6 +12458,7 @@ PNU-181731	C12=CC=CC=C1N3C(CCNCC3)=C2
 Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Vincadifformine	CC[C@@]12CCCN3[C@@H]1[C@@]4(CC3)c5ccccc5NC4=C(C2)C(=O)OC
 Minovincinine	CC([C@@]12CCCN3[C@@H]1[C@@]4(CC3)C5=CC=CC=C5NC4=C(C2)C(=O)OC)O
+Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
 Rosin (chemical)	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Rosarin	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H](O3)CO)O)O)O)O)O
