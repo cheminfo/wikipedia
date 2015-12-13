@@ -8894,7 +8894,7 @@ Gallacetophenone	O=C(c1c(O)c(O)c(O)cc1)C
 Tixocortol pivalate	CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CSC(=O)C(C)(C)C)O)C)O
 DAA-1097	CC(C)Oc2ccccc2CN(C(=O)C)c1ccc(Cl)cc1Oc3ccccc3
 DAA-1106	c3ccccc3Oc2ccc(F)cc2N(C(C)=O)Cc1cc(OC)ccc1OC
-Bis(triphenylphosphine)palladium(II) dichloride	[Pd+2].[Cl-].[Cl-].c3c(P(c1ccccc1)c2ccccc2)cccc3.c1ccccc1P(c2ccccc2)c3ccccc3
+Bis(triphenylphosphine)palladium chloride	[Pd+2].[Cl-].[Cl-].c3c(P(c1ccccc1)c2ccccc2)cccc3.c1ccccc1P(c2ccccc2)c3ccccc3
 ATC-0175	Fc1ccc(cc1F)C(=O)NC3CCC(CC3)Nc(nc4N(C)C)nc2ccccc24
 Benzenehexol	c1(c(c(c(c(c1O)O)O)O)O)O
 SNAP-94847	Fc1ccc(cc1F)Oc(cc4)ccc4CN(CC3)CCC3c2cc(NC(=O)C(C)C)ccc2C
@@ -13695,3 +13695,5 @@ Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
 Filibuvir	CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
+Venetoclax	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(c(c4)Oc5cc6cc[nH]c6nc5)C(=O)NS(=O)(=O)c7ccc(c(c7)[N+](=O)[O-])NCC8CCOCC8)C
+Triciribine	CN1c2c3c(cn(c3ncn2)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N
