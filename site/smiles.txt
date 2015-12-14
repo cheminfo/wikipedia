@@ -375,7 +375,6 @@ Estradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
 Silver nitrate	[N+](=O)([O-])[O-].[Ag+]
 Nickel tetracarbonyl	C(#O)[Ni](C#O)(C#O)C#O
 Vanillin	c1(C=O)cc(OC)c(O)cc1
-Propylene glycol	CC(O)CO
 Calcium oxalate	C(=O)(C(=O)[O-])[O-].[Ca+2]
 Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
 Sulfurous acid	O=S(O)O
@@ -1859,6 +1858,7 @@ Magnesium silicide	[Mg]=[Si]=[Mg]
 Boron trioxide	O=BOB=O
 Mordant red 19	O=C1N(C2=CC=CC=C2)N=C(C)C1/N=N/C3=CC(Cl)=CC(S(O)(=O)=O)=C3O
 Dimethyl terephthalate	COC(=O)C1=CC=C(C=C1)C(=O)OC
+Octopamine	OC(c1ccc(O)cc1)CN
 Tert-Butyl alcohol	CC(C)(C)O
 Lithium borate	[Li+].[Li+].O=BOB([O-])OB([O-])OB=O
 Lithium acetate	[Li+].CC(=O)[O-]
