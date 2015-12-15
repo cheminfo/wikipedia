@@ -375,6 +375,7 @@ Estradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
 Silver nitrate	[N+](=O)([O-])[O-].[Ag+]
 Nickel tetracarbonyl	C(#O)[Ni](C#O)(C#O)C#O
 Vanillin	c1(C=O)cc(OC)c(O)cc1
+Propylene glycol	CC(O)CO
 Calcium oxalate	C(=O)(C(=O)[O-])[O-].[Ca+2]
 Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
 Sulfurous acid	O=S(O)O
@@ -1858,7 +1859,6 @@ Magnesium silicide	[Mg]=[Si]=[Mg]
 Boron trioxide	O=BOB=O
 Mordant red 19	O=C1N(C2=CC=CC=C2)N=C(C)C1/N=N/C3=CC(Cl)=CC(S(O)(=O)=O)=C3O
 Dimethyl terephthalate	COC(=O)C1=CC=C(C=C1)C(=O)OC
-Octopamine	OC(c1ccc(O)cc1)CN
 Tert-Butyl alcohol	CC(C)(C)O
 Lithium borate	[Li+].[Li+].O=BOB([O-])OB([O-])OB=O
 Lithium acetate	[Li+].CC(=O)[O-]
@@ -4580,7 +4580,6 @@ Rilmenidine	N\1=C(\OCC/1)NC(C2CC2)C3CC3
 Perindopril/indapamide	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCCC[C@H]12)C)CCC.O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Bemotrizinol	CCC(CCCC)COc4ccc(c1nc(nc(n1)c2ccc(cc2O)OCC(CC)CCCC)c3ccc(OC)cc3)c(O)c4
 Bisoctrizole	n1c6ccccc6nn1c2cc(cc(c2O)Cc5cc(cc(n3nc4ccccc4n3)c5O)C(C)(C)CC(C)(C)C)C(C)(C)CC(C)(C)C
-Tebufenpyrad	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl
 Saxagliptin	O=C(N1[C@H](C#N)C[C@@H]2C[C@H]12)[C@@H](N)C35CC4CC(C3)CC(O)(C4)C5
 Rupatadine	Clc1cc5c(cc1)\C(=C3/CCN(Cc2cncc(c2)C)CC3)c4ncccc4CC5
 Pargyline	C#CCN(C)Cc1ccccc1
@@ -13672,6 +13671,7 @@ Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 Borepin	B1C=CC=CC=C1
 Finerenone	CCOc1c2c(c(cn1)C)NC(=C([C@H]2c3ccc(cc3OC)C#N)C(=O)N)C
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
+Tebufenpyrad	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl
 Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
@@ -13697,3 +13697,6 @@ Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
 Filibuvir	CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
 Venetoclax	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(c(c4)Oc5cc6cc[nH]c6nc5)C(=O)NS(=O)(=O)c7ccc(c(c7)[N+](=O)[O-])NCC8CCOCC8)C
 Triciribine	CN1c2c3c(cn(c3ncn2)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N
+Ansofaxine	Cc1ccc(cc1)C(=O)Oc2ccc(cc2)C(CN(C)C)C3(CCCCC3)O
+AdipoRon	C1CN(CCC1NC(=O)COC2=CC=C(C=C2)C(=O)C3=CC=CC=C3)CC4=CC=CC=C4
+Octopamine (drug)	OC(c1ccc(O)cc1)CN
