@@ -5516,6 +5516,7 @@ Hemin	OC(=O)CCC=5C1=C\C6=N\C(=C/c3n2[Fe](Cl)N1C(=C\C4=N\C(=C/c2c(C=C)c3C)C(/C)=C
 Alvimopan	O=C(O)CNC(=O)[C@@H](Cc1ccccc1)CN3CC[C@@](c2cccc(O)c2)([C@H](C3)C)C
 Methylnaltrexone	O=C6[C@@H]3Oc1c2c(ccc1O)C[C@@H]4[C@@](O)([C@@]23CC[N+]4(C)CC5CC5)CC6
 AM404	O=C(Nc1ccc(O)cc1)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
+Isovaleryl-CoA	CC(C)CC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O
 Bromoacetic acid	C(C(=O)O)Br
 Glutaryl-CoA	O=C(O)CCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
 Imidazol-4-one-5-propionic acid	O=C1N\C=N/C1CCC(=O)O
@@ -9724,7 +9725,7 @@ Pentylone	c2cc1OCOc1cc2C(=O)C(NC)CCC
 Pirandamine	CC1(C2=C(CCO1)C3=CC=CC=C3C2)CCN(C)C
 Gonane	C2C1[C@H](CCCC1)[C@H]3CC[C@H]4[C@H]([C@@H]3C2)CCC4
 2-Chloro-9,10-diphenylanthracene	Clc4ccc3c(c1ccccc1c(c2ccccc2)c3c4)c5ccccc5
-Lariciresinol	COC1=C(C=CC(=C1)CC2COC(C2CO)C3=CC(=C(C=C3)O)OC)O
+Lariciresinol	COc1cc(ccc1O)C[C@H]2CO[C@@H]([C@H]2CO)c3ccc(c(c3)OC)O
 Calcium beta-hydroxy-beta-methylbutyrate	[Ca+2].[O-]C(=O)CC(O)(C)C.[O-]C(=O)CC(O)(C)C
 Benzoquinonetetracarboxylic acid	C1(=C(C(=O)C(=C(C1=O)C(=O)O)C(=O)O)C(=O)O)C(=O)O
 Furantetracarboxylic acid	C1(=C(OC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
@@ -11364,7 +11365,7 @@ Astatine monoiodide	[I-].[AtH2+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(=C[C@@]23[C@@]1([C@@H](C(=C[C@H](C2=O)[C@H]4[C@H](C4(C)C)C[C@H]3C)CO)O)O)C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
 Beta-Aminobutyric acid	O=C(O)CC(N)C
-Istaroxime	C[C@]12CC/C(=N/OCCN)/C[C@@H]1C(=O)C[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
+Istaroxime	C[C@]12CCC(=NOCCN)C[C@@H]1C(=O)C[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
 Sodium tetrathionate	O.O.[O-]S(=O)(=O)SSS(=O)(=O)[O-].[Na+].[Na+]
 Leptophos	c1([P@@](Oc2c(cc(Br)c(c2)Cl)Cl)(OC)=S)ccccc1
 Silver thiocyanate	C(#N)[S-].[Ag+]
@@ -13703,3 +13704,4 @@ AdipoRon	C1CN(CCC1NC(=O)COC2=CC=C(C=C2)C(=O)C3=CC=CC=C3)CC4=CC=CC=C4
 Octopamine (drug)	OC(c1ccc(O)cc1)CN
 Butyl acrylate	CCCCOC(=O)C=C
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
+Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
