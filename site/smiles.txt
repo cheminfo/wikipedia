@@ -113,7 +113,6 @@ Lead(II) azide	[N-]=[N+]=N[Pb]N=[N+]=[N-]
 Mescaline	O(c1cc(cc(OC)c1OC)CCN)C
 Hydrogen cyanide	C#N
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
-Silicon dioxide	O=[Si]=O
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
 Sulfur mustard	ClCCSCCCl
@@ -7957,7 +7956,7 @@ Cyclomethycaine	O=C(OCCCN1C(CCCC1)C)c3ccc(OC2CCCCC2)cc3
 Risocaine	O=C(OCCC)c1ccc(N)cc1
 Propoxycaine	CCCOC1=C(C=CC(=C1)N)C(=O)OCCN(CC)CC
 Orthocaine	COC(=O)C1=CC(N)=C(O)C=C1
-Meprylcaine	CCCNC(C)(C)COC(=O)C1=CC=CC=C1
+Meprylcaine	CC(COC(C1=CC=CC=C1)=O)(C)NCCC
 Butacaine	O=C(OCCCN(CCCC)CCCC)c1ccc(N)cc1
 Amylocaine	O=C(OC(C)(CC)CN(C)C)c1ccccc1
 Methyldichloroarsine	Cl[As](Cl)C
@@ -9791,7 +9790,6 @@ Diaziridine	N1NC1
 Gantacurium chloride	C[N@+]1(CCC2=CC(=C(C=C2[C@H]1CC3=CC(=C(C(=C3)OC)OC)OC)OC)OC)CCCOC(=O)/C(=C/C(=O)OCCC[N@+]4(CCC5=CC(=C(C=C5[C@@H]4C6=CC(=C(C(=C6)OC)OC)OC)OC)OC)C)/Cl.[Cl-].[Cl-]
 Europetin	COC1=CC(=C2C(=C1)OC(=C(C2=O)O)C3=CC(=C(C(=C3)O)O)O)O
 Mearnsetin	COC1=C(C=C(C=C1O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
-LY-156,735	C[C@@H](CNC(=O)C)c1c[nH]c2c1cc(c(c2)Cl)OC
 Herniarin	O=C/2Oc1cc(OC)ccc1\C=C\2
 Gallagic acid	Oc4c6c1c(c5c(=O)o6)c(oc(=O)c1c(c4O)-c(c(O)c2O)c(C(O)=O)cc2O)c(O)c(O)c5-c3c(C(O)=O)cc(O)c(O)c3O
 Stibole	[SbH]1C=CC=C1
@@ -12095,7 +12093,7 @@ Quinaldine red	CC[N+]1=C(C=CC2=CC=CC=C21)C=CC3=CC=C(C=C3)N(C)C.[I-]
 Camphorsultam	CC1([C@H]2CC[C@@]13CS(=O)(=O)N[C@H]3C2)C
 Cyanuric triazide	C1(=NC(=NC(=N1)N=[N+]=[N-])N=[N+]=[N-])N=[N+]=[N-]
 Menthyl anthranilate	O=C(O[C@H]1[C@@H](CC[C@H](C1)C)C(C)C)c2ccccc2N
-U-47700	CN([C@@H]1CCCC[C@H]1N(C)C(C2=CC=C(Cl)C(Cl)=C2)=O)C
+U-47700	ClC1=C(C=CC(=C1)C(=O)N(C)[C@@H]2CCCC[C@H]2N(C)C)Cl
 1,4-Dioxene	O1/C=C\OCC1
 Bromopyrogallol red	Brc5c(O)c(O)c4Oc1c(O)c(O)c(Br)cc1C3(OS(=O)(=O)c2ccccc23)c4c5
 Nicotianamine	C1CN([C@@H]1C(=O)O)CC[C@@H](C(=O)O)NCC[C@@H](C(=O)O)N
@@ -13693,6 +13691,7 @@ Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
 5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
 Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
+Indirubin	c1ccc2c(c1)/C(=C/3\C(=O)c4ccccc4N3)/C(=O)N2
 Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
@@ -13705,3 +13704,4 @@ Octopamine (drug)	OC(c1ccc(O)cc1)CN
 Butyl acrylate	CCCCOC(=O)C=C
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
+Tert-butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
