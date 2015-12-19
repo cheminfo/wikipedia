@@ -1527,6 +1527,7 @@ Dihydroxyacetone phosphate	C(C(=O)COP(=O)(O)O)O
 Thiourea	C(=S)(N)N
 Nalidixic acid	O=C\2c1c(nc(cc1)C)N(/C=C/2C(=O)O)CC
 Chloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CC
+Isopropyl β-D-1-thiogalactopyranoside	CC(C)S[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O
 Hydrazoic acid	[N-]=[N+]=[N@H]
 Di-tert-butyl ether	O(C(C)(C)C)C(C)(C)C
 Diisopropyl ether	O(C(C)C)C(C)C
@@ -4863,7 +4864,7 @@ SCH-50911	O=C(O)C[C@@H]1OCC(NC1)(C)C
 Fencamfamine	CCNC1C(C2CCC1C2)C3=CC=CC=C3
 Prolinol	C1C[C@@H](NC1)CO
 Prolinol	C1C[C@H](NC1)CO
-Isonicotinamide	NC(=O)c1ccncc1
+Isonicotinamide	c1cnccc1C(=O)N
 Phenyl salicylate	O=C(Oc2ccccc2)c1c(O)cccc1
 Decabromodiphenyl ether	Brc2c(Oc1c(Br)c(Br)c(Br)c(Br)c1Br)c(Br)c(Br)c(Br)c2Br
 Methylenedioxypyrovalerone	O=C(C(CCC)N1CCCC1)C2=CC=C3C(OCO3)=C2
