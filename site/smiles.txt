@@ -3423,6 +3423,7 @@ Uranium(III) chloride	Cl[U](Cl)Cl
 Diphenylalanine	OC(C(N)C(C2=CC=CC=C2)C1=CC=CC=C1)=O
 Diphenylalanine	CC(N(c1ccccc1)c2ccccc2)C(O)=O
 Thallium(I) telluride	[Te].[Tl].[Tl]
+Capreomycin	C[C@H]1C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N[C@H](C(=O)NC[C@@H](C(=O)N1)N)[C@H]2CCN=C(N2)N)CNC(=O)C[C@H](CCCN)N.C1CN=C(N[C@H]1[C@H]2C(=O)NC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N2)CNC(=O)C[C@H](CCCN)N)CO)N)N
 Rubidium telluride	[Rb][Te][Rb]
 Cycloserine	O=C1NOC[C@H]1N
 WIN 55,212-2	CC1=C(C2=C3N1C(COC3=CC=C2)CN4CCOCC4)C(=O)C5=CC=CC6=CC=CC=C65
@@ -13706,3 +13707,4 @@ Butyl acrylate	CCCCOC(=O)C=C
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
+3,3-Dimethyl-1-butanol	CC(C)(C)CCO
