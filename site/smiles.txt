@@ -4148,8 +4148,6 @@ Phenprocoumon	OC=1c3ccccc3OC(=O)C=1C(CC)c2ccccc2
 Phenindione	O=C2c1ccccc1C(=O)C2c3ccccc3
 Acenocoumarol	[O-][N+](=O)c1ccc(cc1)C(CC(C)=O)C\2=C(/O)c3ccccc3OC/2=O
 Dicoumarol	c1ccc2c(c1)c(c(c(=O)o2)Cc3c(c4ccccc4oc3=O)O)O
-4-Hydroxycoumarins	O/C2=C/C(=O)Oc1ccccc12
-4-Hydroxycoumarins	Oc1ccc(/C=C/CO)cc1
 Paramethadione	O=C1N(C(=O)OC1(C)CC)C
 Phensuximide	O=C2N(C(=O)CC2c1ccccc1)C
 Phenacemide	O=C(NC(=O)N)Cc1ccccc1
@@ -12217,6 +12215,8 @@ Nardosinone	O=C2/C1=C/CC[C@@H](C)[C@@]1([C@@H]3C(OO[C@@H]3C2)(C)C)C
 Citropten	O=C/2Oc1cc(OC)cc(OC)c1\C=C\2
 Scoparone	O=C/2Oc1cc(OC)c(OC)cc1\C=C\2
 Anthocyanone A	C1=C(C=C(/C(=C\C(=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)/C1=O)O)O
+4-Hydroxycoumarin	O/C2=C/C(=O)Oc1ccccc12
+4-Hydroxycoumarin	Oc1ccc(/C=C/CO)cc1
 IDFP	O=P(F)(CCCCCCCCCCCC)OC(C)C
 Sodium bifluoride	[H-](F)F.[Na+]
 Ro4938581	FC(F)C(N=C1)=C(N1C2=C3C=C(Br)C=C2)CN4C3=NC=N4
