@@ -13580,7 +13580,7 @@ Perfluorotoluene	FC1=C(F)C(F)=C(C(F)=C1F)C(F)(F)F
 3',4'-Dimethoxy-α-pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
 Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
-Ulimorelin	O=C1NCCCc2ccccc2OC(C)CNC(C4CC4)C(=O)N(C)C(C)C(=O)NC1Cc(cc3)ccc3F
+Ulimorelin	C[C@@H]1CN[C@H](C(=O)N([C@@H](C(=O)N[C@@H](C(=O)NCCCC2=CC=CC=C2O1)CC3=CC=C(C=C3)F)C)C)C4CC4
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
 1P-LSD	C(C)N(C(=O)C1CN(C2CC=3C4=C(C2=C1)C=CC=C4N(C3)C(CC)=O)C)CC
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
@@ -13708,6 +13708,7 @@ Triciribine	CN1c2c3c(cn(c3ncn2)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N
 Ansofaxine	Cc1ccc(cc1)C(=O)Oc2ccc(cc2)C(CN(C)C)C3(CCCCC3)O
 AdipoRon	C1CN(CCC1NC(=O)COC2=CC=C(C=C2)C(=O)C3=CC=CC=C3)CC4=CC=CC=C4
 Octopamine (drug)	OC(c1ccc(O)cc1)CN
+Acalabrutinib	CC#CC(=O)N1CCC[C@H]1c2nc(c3n2ccnc3N)c4ccc(cc4)C(=O)Nc5ccccn5
 Butyl acrylate	CCCCOC(=O)C=C
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
@@ -13716,3 +13717,4 @@ Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
 Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
 Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
+Fenleuton	CC(C#Cc1cccc(c1)Oc2ccc(cc2)F)N(C(=O)N)O
