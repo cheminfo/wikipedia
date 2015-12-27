@@ -1273,6 +1273,7 @@ Neodymium(III) chloride	Cl[Nd](Cl)Cl
 Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
+Adrafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)NO
 Cannabidiol	Oc1c(c(O)cc(c1)CCCCC)[C@@H]2\C=C(/CC[C@H]2\C(=C)C)C
 Tetrahydrocannabivarin	CCCC1=CC2=C(C3C=C(CCC3C(O2)(C)C)C)C(=C1)O
 Cannabivarin	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCC
@@ -9931,6 +9932,7 @@ Bamaluzole	CN1C=NC2=C1C=CN=C2OCC3=CC=CC=C3Cl
 Tolgabide	Cc1cc(cc(c1O)/C(=N/CCCC(=O)N)/c2ccc(cc2)Cl)Cl
 Pitrazepin	n4nc(N1CCNCC1)n5c2ccccc2Cc3ccccc3c45
 Ethyl propionate	CCOC(=O)CC
+Benzoic anhydride	c1ccc(cc1)C(=O)OC(=O)c2ccccc2
 6-APDB	O2c1cc(ccc1CC2)CC(N)C
 Cafaminol	O=C2N(c1nc(n(c1C(=O)N2C)C)N(CCO)C)C
 Ciladopa	O=C3/C=C\C=C/C=C3/N2CCN(C[C@@H](O)c1ccc(OC)c(OC)c1)CC2
