@@ -2818,7 +2818,7 @@ Iron(III) oxide-hydroxide	[O][Fe]O
 Biclotymol	Clc1cc(c(O)c(c1C)Cc2c(c(Cl)cc(c2O)C(C)C)C)C(C)C
 Allura Red AC	[Na+].[Na+].COc3cc(c(C)cc3/N=N/c1c2ccc(cc2ccc1O)S([O-])(=O)=O)S([O-])(=O)=O
 Fast Green FCF	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)\C(=C\4/C=C\C(=[N+](\CC)Cc3cccc(c3)S([O-])(=O)=O)/C=C/4)c5ccc(O)cc5S([O-])(=O)=O)CC
-Water blue	Cc1cc(cc(OS([O-])=O)c1N)/C(=C2C=CC(C=C2)=[N/H+]c3ccc(OS([O-])=O)cc3)c4ccc(Nc5ccc(OS([O-])=O)cc5)cc4
+Water blue	[H+].c1ccc(c(c1)Nc2ccc(cc2)C(=C3C=CC(=Nc4ccccc4S(=O)(=O)[O-])C=C3)c5cccc(c5CN)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
 Ponceau 2R	CC1=CC(=C(C=C1)NN=C2C3=C(C=C(C=C3)S(=O)(=O)O)C=C(C2=O)S(=O)(=O)O)C
 Light Green SF yellowish	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)\C(=C\4/C=C\C(=[N+](\CC)Cc3cccc(c3)S([O-])(=O)=O)/C=C/4)c5ccc(cc5)S([O-])(=O)=O)CC
 Bismarck brown Y	N(=N/c1ccc(cc1N)N)\c3cccc(/N=N/c2ccc(N)cc2N)c3
@@ -8678,7 +8678,7 @@ Belinostat	O=S(=O)(Nc1ccccc1)c2cc(\C=C\C(=O)NO)ccc2
 Triptane	CC(C)C(C)(C)C
 Chlormadinone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C
 2-Bromohexane	CCCCC(C)Br
-Nitrosonium octafluoroxenate(VI)	N[O+].N[O+].F[Xe](F)(F)(F)(F)(F)(F)[F-2]
+Nitrosonium octafluoroxenate(VI)	[N]#[O+].[N]#[O+].F[Xe-2](F)(F)(F)(F)(F)(F)[F]
 Hexaoxotricyclobutabenzene	O=C1C(=O)C2=C3C(=O)C(=O)C3=C3C(=O)C(=O)C3=C12
 Naringin dihydrochalcone	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H]([C@@H](O[C@@H]2Oc3cc(c(c(c3)O)C(=O)CCc4ccc(cc4)O)O)CO)O)O)O)O)O
 Agaritine	[O-]C(=O)[C@@H]([NH3+])CCC(=O)NNc1ccc(cc1)CO
@@ -9909,7 +9909,7 @@ Demegestone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CCC3=C4CCC(=O)C=C4CC[C@@H]23)C)C
 Trimegestone	C[C@@H](C(=O)[C@]1(CC[C@@H]2[C@@]1(CCC3=C4CCC(=O)C=C4CC[C@@H]23)C)C)O
 Promestriene	CCCOc1ccc2c(c1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4OC)C
 Methallenestril	CCC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(C)(C)C(=O)O
-Moxestrol	COC1CC2(C)C(CCC2(O)C#C)C2CCC3=CC(O)=CC=C3C12
+Moxestrol	CC12CC(C3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O)OC
 Aglepristone	C/C=C\[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)c5ccc(cc5)N(C)C)C)O
 Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
@@ -13720,3 +13720,6 @@ Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
 Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
 Fenleuton	CC(C#Cc1cccc(c1)Oc2ccc(cc2)F)N(C(=O)N)O
+Piperylon	CCC1=C(NN(C1=O)C2CCN(CC2)C)C3=CC=CC=C3
+BzODZ-EPyr	C(C1=CC=CC=C1)C2=NOC(=N2)C3=C[N](C4=CC=CC=C34)CCN5CCCC5
+Hexestrol	CCC(C1=CC=C(C=C1)O)C(CC)C2=CC=C(C=C2)O
