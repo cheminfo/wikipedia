@@ -2102,6 +2102,7 @@ Midodrine	O=C(NCC(O)c1cc(OC)ccc1OC)CN
 Pyrogallol	Oc1cccc(O)c1O
 Alfuzosin	O=C(NCCCN(c2nc1cc(OC)c(OC)cc1c(n2)N)C)C3OCCC3
 Carbidopa/levodopa	O=C(O)[C@](NN)(C)Cc1cc(O)c(O)cc1.O=C(O)[C@@H](N)Cc1cc(O)c(O)cc1
+Stilbestrol	C1=CC(=CC=C1C=CC2=CC=C(C=C2)O)O
 Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 1,2,4-Trihydroxyanthraquinone	O=C2c1ccccc1C(=O)c3c2c(O)cc(O)c3O
 Borazine	B1NBNBN1
@@ -13723,3 +13724,17 @@ Fenleuton	CC(C#Cc1cccc(c1)Oc2ccc(cc2)F)N(C(=O)N)O
 Piperylon	CCC1=C(NN(C1=O)C2CCN(CC2)C)C3=CC=CC=C3
 BzODZ-EPyr	C(C1=CC=CC=C1)C2=NOC(=N2)C3=C[N](C4=CC=CC=C34)CCN5CCCC5
 Hexestrol	CCC(C1=CC=C(C=C1)O)C(CC)C2=CC=C(C=C2)O
+Methestrol	CCC(C1=CC(=C(C=C1)O)C)C(CC)C2=CC(=C(C=C2)O)C
+Cloxestradiol	CC12CCC3C(C1CCC2OC(C(Cl)(Cl)Cl)O)CCC4=C3C=CC(=C4)O
+Cloxestradiol acetate	CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC(C(Cl)(Cl)Cl)OC(=O)C)C
+Methestrol dipropionate	CCC(C1=CC(=C(C=C1)OC(=O)CC)C)C(CC)C2=CC(=C(C=C2)OC(=O)CC)C
+Estrapronicate	CCC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC(=O)C5=CN=CC=C5)C
+Nilestriol	CC12CCC3C(C1CC(C2(C#C)O)O)CCC4=C3C=CC(=C4)OC5CCCC5
+Orestrate	CCC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC5=CCCCC5)C
+Diarylpropionitrile	C1=CC(=CC=C1CC(C#N)C2=CC=C(C=C2)O)O
+Propylpyrazoletriol	CCCC1=C(N(NC1=C2C=CC(=O)C=C2)C3=CC=C(C=C3)O)C4=CC=C(C=C4)O
+Methylpiperidinopyrazole	CC1=C(N(NC1=C2C=CC(=O)C=C2)C3=CC=C(C=C3)O)C4=CC=C(C=C4)OCCN5CCCCC5
+PHTPP	C1=CC=C(C=C1)C2=NN3C(=CC(=NC3=C2C4=CC=C(C=C4)O)C(F)(F)F)C(F)(F)F
+(R,R)-Tetrahydrochrysene	CCC1CC2=C(C=CC(=C2)O)C3=C1C4=C(CC3CC)C=C(C=C4)O
+Triphenylethylene	C1=CC=C(C=C1)C=C(C2=CC=CC=C2)C3=CC=CC=C3
+Ethamoxytriphetol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)OC)(C3=CC=CC=C3)O
