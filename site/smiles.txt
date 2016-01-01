@@ -1097,7 +1097,6 @@ Bombesin	C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H]
 Ezetimibe/simvastatin	Fc1ccc(cc1)[C@H](O)CC[C@@H]4[C@@H](c2ccc(O)cc2)N(c3ccc(F)cc3)C4=O.CC(C)(CC)C(=O)O[C@H]2C[C@@H](C)\C=C3\C=C/[C@H](C)[C@H](CC[C@@H]1C[C@@H](O)CC(=O)O1)[C@@H]23
 Squalene	CC(=CCC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)/C)/C)C
 Astaxanthin	O=C2\C(=C(\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C1=C(\C(=O)[C@@H](O)CC1(C)C)C)C)C)C)C)C(C)(C)C[C@@H]2O)C
-Dihydrocodeine	O[C@@H]1[C@@H]2OC3=C(OC)C=CC4=C3[C@@]2([C@H]5CC1)CCN(C)[C@@H]5C4
 Retinal	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C
 Bleomycin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H](C(C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O
 Potassium iodide	[K+].[I-]
@@ -2094,7 +2093,7 @@ Guanidine	NC(N)=N
 Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(ccc2c3ccc(cc3c1c4ccccc4)N)N.[I-].[I-]
 Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
-Fonturacetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
+Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
 Lithium nitride	[Li+].[Li][N-][Li]
 Uramustine	O=C1C(\N(CCCl)CCCl)=C/NC(=O)N1
 Terlipressin	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)CN)CSSC1)Cc2ccc(O)cc2)Cc3ccccc3)CCC(=O)N)CC(=O)N)CCC4)CCCCN
