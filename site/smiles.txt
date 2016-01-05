@@ -328,7 +328,7 @@ Olanzapine	CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
 Benzatropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
 Propranolol	CC(NCC(O)COC1=C(C=CC=C2)C2=CC=C1)C
 Dinitrogen tetroxide	[O-][N+](=O)[N+]([O-])=O
-Clarithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](C(=O)[C@H](C)C[C@](OC)(C)[C@H](O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)C([C@H](O[C@@H]2O[C@H]([C@H](O)[C@](OC)(C2)C)C)[C@H]3C)C)C
+Clarithromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
 Mefloquine	FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3
 Diethylcarbamazine	O=C(N1CCN(C)CC1)N(CC)CC
 Phosphoric acid	OP(=O)(O)O
@@ -2115,7 +2115,6 @@ Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As](=O)([O-])[O-]
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
 Bromine pentafluoride	FBr(F)(F)(F)F
-Iron(II) hydroxide	[Fe+2].[OH-].[OH-]
 Acryloyl chloride	ClC(=O)C=C
 Fosphenytoin	O=C3N(C(=O)C(c1ccccc1)(c2ccccc2)N3)COP(=O)(O)O
 Piperacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)C(=O)N(CC)CC2)[C@H]4SC3(C)C
@@ -6729,8 +6728,10 @@ Alpha-Furil	O=C(C(=O)c1occc1)c2occc2
 Salutaridine	CN1CC[C@]23C=C(C(=O)C=C2[C@H]1CC4=C3C(=C(C=C4)OC)O)OC
 Verdamicin	C[C@@H](C1=CC[C@H]([C@H](O1)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@](CO3)(C)O)NC)O)N)N)N)N
 Sisomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H](CC=C(O3)CN)N)N)N)O
+Isepamicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N)NC(=O)[C@H](CN)O)O
+Ribostamycin	C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)N)O[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)O)N
 Dibekacin	C1C[C@H]([C@H](O[C@@H]1CN)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N)N)N
-Dihydrostreptomycin	CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(CO)O
+Dihydrostreptomycin	C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)NC(=N)N)O)NC(=N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(CO)O
 Pirkle's alcohol	OC(C(F)(F)F)C1=C2C(C=CC=C2)=CC3=CC=CC=C31
 Pirkle's alcohol	FC(F)(F)[C@H](O)c2c3c(cc1c2cccc1)cccc3
 Pirkle's alcohol	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2[C@@H](C(F)(F)F)O
@@ -8374,6 +8375,7 @@ Alcian blue stain	CN(C)C(=[N+](C)C)SCC1=CC2=C(C=C1)C3=NC4=NC(=NC5=C6C=C(C=CC6=C(
 Lomitapide	FC(F)(F)c5ccc(cc5)-c1ccccc1C(=O)NC4CCN(CC4)CCCCC2(C(=O)NCC(F)(F)F)c3ccccc3-c6ccccc26
 Talarozole	c2ncnn2C(C(CC)CC)c(cc3)ccc3Nc4nc1ccccc1s4
 GYKI-52,466	CC1=NN=C(C2=CC3=C(C=C2C1)OCO3)C4=CC=C(C=C4)N
+Acetyltributylcitrate	CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C
 Telcagepant	O=C(N[C@H]2C(=O)N(CC(F)(F)F)C[C@H](c1cccc(F)c1F)CC2)N5CCC(N4c3cccnc3NC4=O)CC5
 Chrome alum	[K]OS(=O)(=O)O[Cr]1OS(=O)(=O)O1
 2-Aminoacridine	n1c3c(cc2c1cccc2)cc(cc3)N
