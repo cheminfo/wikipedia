@@ -2115,6 +2115,7 @@ Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As](=O)([O-])[O-]
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
 Bromine pentafluoride	FBr(F)(F)(F)F
+Iron(II) hydroxide	[Fe+2].[OH-].[OH-]
 Acryloyl chloride	ClC(=O)C=C
 Fosphenytoin	O=C3N(C(=O)C(c1ccccc1)(c2ccccc2)N3)COP(=O)(O)O
 Piperacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)C(=O)N(CC)CC2)[C@H]4SC3(C)C
@@ -9308,7 +9309,7 @@ Pyrimidinylpiperazine	n1cccnc1N2CCNCC2
 9-nor-9β-Hydroxyhexahydrocannabinol	OC3CCC1C(C3)c2c(O)cc(CCCCC)cc2OC1(C)C
 3-Methoxyamphetamine	NC(C)CC1=CC=CC(OC)=C1
 3-Methoxymethamphetamine	CNC(C)Cc(c1)cccc1OC
-Sakuranin	COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)OC4C(C(C(C(O4)CO)O)O)O
+Sakuranin	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Irigenin	O=C\1c3c(O)c(OC)c(O)cc3O/C=C/1c2cc(O)c(OC)c(OC)c2
 Tectorigenin	COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)O
 Psi-Tectorigenin	COC1=C(C=C(C2=C1OC=C(C2=O)C3=CC=C(C=C3)O)O)O
@@ -11371,7 +11372,7 @@ Dimethyl carbate	O=C(OC)[C@@H]2[C@H](C(=O)OC)[C@H]\1C[C@@H]2/C=C/1
 MK-212	Clc1nc(cnc1)N2CCNCC2
 Bitoscanate	C1=CC(=CC=C1N=C=S)N=C=S
 2-(2-Methoxyethoxy)ethanol	COCCOCCO
-Astatine monoiodide	[I-].[AtH2+]
+Astatine monoiodide	[I-].[At+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(=C[C@@]23[C@@]1([C@@H](C(=C[C@H](C2=O)[C@H]4[C@H](C4(C)C)C[C@H]3C)CO)O)O)C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
 Beta-Aminobutyric acid	O=C(O)CC(N)C
@@ -11537,6 +11538,7 @@ LBP-1 (drug)	ClC1=C(N(CC2CCOCC2)C=C3C4=NOC(CN5CCN(CC(N)=O)CC5)=N4)C3=CC=C1
 PF-04457845	n4ncccc4NC(=O)N(CC3)CC\C3=C/c2cc(ccc2)Oc(cc1)ncc1C(F)(F)F
 Copper(I) sulfate	[O-]S(=O)(=O)[O-].[Cu+].[Cu+]
 Luteic acid	C1=C2C(=C(C(=C1O)O)O)C3=C(C(=C(C=C3C(=O)O)O)O)OC2=O
+OUP-16	CN=C(NC[C@H]1CC[C@@H](O1)C2=CN=CN2)NC#N
 N-Arachidonylglycine	O=C(NCC(=O)O)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
 Aminocyclopyrachlor	C1CC1C2=NC(=C(C(=N2)N)Cl)C(=O)O
 S33005	CN(C)CC1(CC2=C1C=C(C=C2)OC)C3(CCCCC3)O
