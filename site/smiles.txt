@@ -10584,7 +10584,7 @@ Elinogrel	CNC1=C(C=C2C(=C1)NC(=O)N(C2=O)C3=CC=C(C=C3)NC(=O)NS(=O)(=O)C4=CC=C(S4)
 3,3-Diphenylpropylamine	C1=CC=C(C=C1)C(CCN)C2=CC=CC=C2
 2,3-Diphenylpropylamine	C1=CC=C(C=C1)CC(CN)C2=CC=CC=C2
 Bazinaprine	N#Cc2cc(nnc2NCCN1CCOCC1)c3ccccc3
-Tetrindole	C4CCCCC4c3ccc1n(CCNC2CCC5)c2c5c1c3
+Tetrindole	C1CCC(CC1)C2=CC3=C(C=C2)N4CCNC5C4=C3CCC5
 1,1'-Azobis-1,2,3-triazole	c2cnnn2\N=N\n1ccnn1
 Flusilazole	c2ncnn2C[Si](C)(c(cc1)ccc1F)c3ccc(F)cc3
 Alcaftadine	CN1CCC(=C2c3ccccc3CCn4c(C=O)cnc24)CC1
@@ -13753,3 +13753,12 @@ Quadrosilan	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C
 Anordrin	CCC(=O)OC1(CCC2C1(CCC3C2CCC4C3(CC(C4)(C#C)OC(=O)CC)C)C)C#C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
+Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
+Anagestone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CCCC4)C
+Ethynerone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(C#CCl)O
+Deoxygedunin	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)OC(C4(CC3)C)C5=COC=C5)C)C)(C)C
+ANA-12	C1CCNC(=O)C(C1)NC(=O)C2=CC=CC=C2NC(=O)C3=CC4=CC=CC=C4S3
+LM22A-4	C1=C(C=C(C=C1C(=O)NCCO)C(=O)NCCO)C(=O)NCCO
+Cyclotraxin B	CC(C1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)NCC(=O)NC(C(=O)N1)CC3=CC=C(C=C3)O)CCSC)CC(=O)N)N)C(=O)O)CCC(=O)O)CCCCN)O
+7,8,3'-Trihydroxyflavone	C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O
+4'-Dimethylamino-7,8-dihydroxyflavone	CN(C)c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
