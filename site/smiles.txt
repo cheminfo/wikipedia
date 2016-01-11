@@ -1719,7 +1719,7 @@ Benzonatate	O=C(OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)c1ccc(NCCCC)cc1
 Phosphorus pentabromide	BrP(Br)(Br)(Br)Br
 Falcarinol	C(#CC#C[C@@H](O)\C=C)C\C=C/CCCCCCC
 Cacodyl	[As]([As](C)C)(C)C
-Acetone	CC(C)=O
+Acetone	CC(=O)C
 Eriochrome Black T	C1=CC=C2C(=C1)C=CC(=C2O)/N=N/C3=C4C=CC(=CC4=C(C=C3O)S(=O)(=O)[O-])[N+](=O)[O-].[Na+]
 Triphenylphosphine	c3c(P(c1ccccc1)c2ccccc2)cccc3
 Metamfepramone	CC(C(=O)C1=CC=CC=C1)N(C)C
@@ -12579,6 +12579,7 @@ Cyanoacetic acid	C(C#N)C(=O)O
 Arecaidine	CN1CCC=C(C1)C(=O)O
 Guvacine	C1CNCC(=C1)C(=O)O
 CI-966	c1cc(ccc1C(c2ccc(cc2)C(F)(F)F)OCCN3CCC=C(C3)C(=O)O)C(F)(F)F
+NNC-711	C1CN(CC(=C1)C(=O)O)CCON=C(C2=CC=CC=C2)C3=CC=CC=C3
 Βk-2C-B	COC1=CC(C(=O)CN)=C(OC)C=C1Br
 Lichesterol	C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CCC3=C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Fungisterol	CC(C)[C@@H](C)CC[C@@H](C)[C@H]1CC[C@H]2C3=CC[C@H]4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
@@ -13434,6 +13435,7 @@ Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
 ITI-007	c3cc(F)ccc3C(=O)CCCN5CC2C(CC5)N1CCN(C)c4c1c2ccc4
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
+MIN-117	Clc1ccc(cc1Cl)C2CCN(CC2)C[C@H](O)COc4cccc3oc(cc34)c5nnc(o5)C
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
@@ -13763,3 +13765,5 @@ LM22A-4	C1=C(C=C(C=C1C(=O)NCCO)C(=O)NCCO)C(=O)NCCO
 Cyclotraxin B	CC(C1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)NCC(=O)NC(C(=O)N1)CC3=CC=C(C=C3)O)CCSC)CC(=O)N)N)C(=O)O)CCC(=O)O)CCCCN)O
 7,8,3'-Trihydroxyflavone	C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O
 4'-Dimethylamino-7,8-dihydroxyflavone	CN(C)c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
+UWA-001	CNC(Cc1ccc2OCOc2c1)c3ccccc3
+Prostanoic acid	CCCCCCCCC1CCCC1CCCCCCC(=O)O
