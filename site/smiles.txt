@@ -9964,7 +9964,7 @@ Ozolinone	CN1/C(=C\C(=O)O)/SC(C1=O)N2CCCCC2
 Darglitazone	CC1=C(N=C(O1)C2=CC=CC=C2)CCC(=O)C3=CC=C(C=C3)CC4C(=O)NC(=O)S4
 Netoglitazone	C1=CC=C(C(=C1)COC2=CC3=C(C=C2)C=C(C=C3)CC4C(=O)NC(=O)S4)F
 Mubritinib	FC(F)(F)c1ccc(cc1)\C=C\c2nc(co2)COc3ccc(cc3)CCCCn4nncc4
-Loxtidine	OCc1nn(c(n1)NCCCOc2cc(ccc2)CN3CCCCC3)C
+Lavoltidine	OCc1nn(c(n1)NCCCOc2cc(ccc2)CN3CCCCC3)C
 Phenylpyruvic acid	C1=CC=C(C=C1)CC(=O)C(=O)O
 Etozoline	O=C(OCC)\C=C1/SC(C(=O)N1C)N2CCCCC2
 Meta-Tyramine	Oc1cc(ccc1)CCN
@@ -13771,3 +13771,4 @@ Sufotidine	CN1C(=NC(=N1)CS(=O)(=O)C)NCCCOC2=CC=CC(=C2)CN3CCCCC3
 Azonine	C1=CC=CNC=CC=C1
 Talazoparib	Cn1c(ncn1)[C@H]2c3c4c(cc(cc4N[C@@H]2c5ccc(cc5)F)F)c(=O)[nH]n3
 Nitrazolam	Cc1nnc2CN=C(c3ccccc3)c4cc(ccc4n12)[N+]([O-])=O
+Fructoselysine	C(CCNCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)C[C@@H](C(=O)O)N
