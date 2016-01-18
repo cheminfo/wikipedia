@@ -11911,7 +11911,7 @@ Cobalt(II) formate	C(=O)[O-].C(=O)[O-].[Co+2]
 Nickel(II) titanate	[O-2].[O-2].[O-2].[Ti+4].[Ni+2]
 Nickel(II) nitrite	N(=O)[O-].N(=O)[O-].[Ni+2]
 EAM-2201	CCC1=CC=C(C(C2=CN(CCCCCF)C3=C2C=CC=C3)=O)C4=C1C=CC=C4
-APICA (synthetic cannabinoid drug)	CCCCCn2c1ccccc1c(c2)C(=O)NC45CC3CC(C4)CC(C5)C3
+APICA (synthetic cannabinoid drug)	CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c5ccccc15
 Fluorodopa	C1=C(C(=CC(=C1O)O)F)C[C@@H](C(=O)O)N
 Cyanoacetamide	N#CCC(=O)N
 Tetramethylammonium	C[N+](C)(CC)
@@ -13631,6 +13631,7 @@ Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CNC(C)Cc1ccc2ccccc2c1
+PF-3845	O=C(NC1=CN=CC=C1)N(CC2)CCC2CC3=CC=CC(OC4=NC=C(C(F)(F)F)C=C4)=C3
 Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
@@ -13776,3 +13777,4 @@ Cannabinodiol	CCCCCc1cc(c(c(c1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
 Coronaric acid	CCCCC/C=C\CC1C(O1)CCCCCCCC(=O)O
 Tobias acid	C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N
 BIA 10-2474	CN(C1CCCC1)C(=O)n2cnc(c2)c3cccc(NC(N)=O)c3
+MK-4409	c3nc(C(O)(C)C)ccc3-c1nc(-c4ccc(F)cc4)oc1Sc(nc2)ccc2Cl
