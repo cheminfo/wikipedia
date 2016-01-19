@@ -7689,7 +7689,7 @@ Teprenone	CC(=CCC/C(=C/CC/C(=C/CCC(=CCCC(=O)C)C)/C)/C)C
 Gefarnate	CC(=CCC/C(=C/CC/C(=C/CCC(=O)OC/C=C(\C)/CCC=C(C)C)/C)/C)C
 Hypotaurine	O=S(O)CCN
 Α5IA	c4n(C)nnc4COc5c1ccccc1c2nnc(n2n5)-c(c3)noc3C
-Lecozotan	c5ccc1OCCOc1c5N(CC4)CCN4C(C)CN(C(=O)c(cc2)ccc2C#N)c3ncccc3.Cl
+Lecozotan	C[C@H](CN(C1=CC=CC=N1)C(=O)C2=CC=C(C=C2)C#N)N3CCN(CC3)C4=C5C(=CC=C4)OCCO5
 L-655,708	CCOC(=O)c1c2n(cn1)-c3ccc(cc3C(=O)N4[C@H]2CCC4)OC
 Strontium sulfide	S=[Sr]
 Pyridine-N-oxide	c1cc[n+](cc1)[O-]
@@ -13778,3 +13778,7 @@ Coronaric acid	CCCCC/C=C\CC1C(O1)CCCCCCCC(=O)O
 Tobias acid	C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N
 BIA 10-2474	CN(C1CCCC1)C(=O)n2cnc(c2)c3cccc(NC(N)=O)c3
 MK-4409	c3nc(C(O)(C)C)ccc3-c1nc(-c4ccc(F)cc4)oc1Sc(nc2)ccc2Cl
+(2Z,4Z,6Z,8Z)-Thionine	C1=CC=CSC=CC=C1
+Oxonine	C1=CC=COC=CC=C1
+Oxatetrazole	N1=NON=N1
+Thiatetrazole	N1=NSN=N1
