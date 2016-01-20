@@ -846,7 +846,6 @@ Aztreonam	O=S(=O)(O)N2C(=O)[C@@H](NC(=O)C(=N\OC(C(=O)O)(C)C)/c1nc(sc1)N)[C@@H]2C
 Zinc pyrithione	c1cc[n+]2c(c1)S[Zn-2]3(O2)O[n+]4ccccc4S3
 Para-Azoxyanisole	COc2ccc(\N=[N+](/[O-])c1ccc(OC)cc1)cc2
 AP5	O=P(O)(O)CCC[C@@H](N)C(=O)O
-Carisoprodol	O=C(OCC(COC(=O)NC(C)C)(C)CCC)N
 Potassium benzoate	[K+].[O-]C(=O)c1ccccc1
 Dicofol	Clc1ccc(cc1)C(O)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
 Beta-Alanine	O=C(O)CCN
@@ -13782,3 +13781,7 @@ MK-4409	c3nc(C(O)(C)C)ccc3-c1nc(-c4ccc(F)cc4)oc1Sc(nc2)ccc2Cl
 Oxonine	C1=CC=COC=CC=C1
 Oxatetrazole	N1=NON=N1
 Thiatetrazole	N1=NSN=N1
+JNJ-42165279	c3c1OC(F)(F)Oc1ccc3CN4CCN(CC4)C(=O)Nc2cnccc2Cl
+Cericlamine	CC(CC1=CC(=C(C=C1)Cl)Cl)(CO)N(C)C
+LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
+QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
