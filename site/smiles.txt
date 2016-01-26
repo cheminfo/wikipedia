@@ -1402,7 +1402,7 @@ Silicic acid	O[Si](O)(O)O
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Cisplatin	[NH3+][Pt-2]([NH3+])(Cl)Cl
 Pyrene	c1cc2ccc3cccc4c3c2c(c1)cc4
-Obidoxime	O=[NH+]\C=C1\C=C/N(/C=C1)COCN/2/C=C\C(C=C\2)=C\[NH+]=O
+Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
 Sodium thiosulfate	[Na+].[Na+].[O-]S([O-])(=O)=S
 Lithium diisopropylamide	[Li+].[N-](C(C)C)C(C)C
@@ -4393,6 +4393,7 @@ Deflazacort	O=C(OCC(=O)[C@]25/N=C(\O[C@@H]5C[C@H]1[C@H]4[C@H]([C@@H](O)C[C@@]12C
 Cloprednol	O=C\1\C=C/[C@]4(C(=C/1)C(\Cl)=C/[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C
 Meprednisone	O=C(CO)[C@@]3(O)[C@@H](C)C[C@H]2[C@@H]4CC\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4C(=O)C[C@@]23C
 Cortivazol	O=C(OCC(=O)[C@@]4(O)[C@H](C)C[C@H]5[C@@H]6/C=C(\C3=C\c1c(cnn1c2ccccc2)C[C@@]3([C@H]6[C@@H](O)C[C@]45C)C)C)C
+Fluocortin	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@H]1C(=O)C(=O)O)C)O)C)F
 Fluperolone acetate	C[C@@H](C(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)O)OC(=O)C
 Clocortolone	O=C(OCC(=O)[C@@H]3[C@]2(C[C@H](O)[C@]4(Cl)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C)C(C)(C)C
 Amcinonide	O=C(OCC(=O)[C@]45OC6(O[C@@H]5C[C@@H]2[C@@]4(C[C@H](O)[C@]3(F)[C@]/1(/C=C\C(=O)\C=C\1CC[C@@H]23)C)C)CCCC6)C
@@ -5091,6 +5092,7 @@ Phthalaldehyde	O=Cc1ccccc1C=O
 RU28362	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)C)O)C)O
 Diazolidinyl urea	O=C1N(C(=O)C(N(C(=O)NCO)CO)N1CO)CO
 Carbetocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)OC)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+Sulflower	c12c3c4c5c6c7c8c1c9sc2sc3sc4sc5sc6sc7sc8s9
 Beta-Tocopherol	C[C@H](CCC[C@H](C)CCCC(C)C)CCC[C@@]2(C)OC1=C(C)C=C(O)C(C)=C1CC2
 Magnesium trisilicate	[O-][Si](=O)O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2]
 Staurosporine	C[C@@]12[C@@H]([C@@H](C[C@@H](O1)n3c4ccccc4c5c3c6n2c7ccccc7c6c8c5C(=O)NC8)NC)OC
@@ -6188,6 +6190,7 @@ Azapropazone	O=C3N/1N(c2c(\N=C\1N(C)C)ccc(c2)C)C(=O)C3CCC
 Flufenamic acid	FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O
 Dexketoprofen	C[C@@H](c1cccc(c1)C(=O)c2ccccc2)C(=O)O
 Alminoprofen	O=C(O)C(c1ccc(NC/C(=C)C)cc1)C
+Flunoxaprofen	C[C@@H](c1ccc2c(c1)nc(o2)c3ccc(cc3)F)C(=O)O
 Dexibuprofen	C[C@@H](c1ccc(cc1)CC(C)C)C(=O)O
 Ibuproxam	O=C(NO)C(c1ccc(cc1)CC(C)C)C
 Indoprofen	O=C(O)C(c1ccc(cc1)N3C(=O)c2ccccc2C3)C
@@ -10026,6 +10029,7 @@ Isobenzan	ClC1C2C3(Cl)C(Cl)=C(Cl)C(C3(Cl)Cl)(Cl)C2C(Cl)O1
 Lithium tetrakis(pentafluorophenyl)borate	[Li+].Fc1c(c(F)c(F)c(F)c1F)[B-](c2c(F)c(F)c(F)c(F)c2F)(c3c(F)c(F)c(F)c(F)c3F)c4c(F)c(F)c(F)c(F)c4F
 Allyl acetate	C=CCOC(C)=O
 Fanetizole	n1c(csc1NCCc2ccccc2)c3ccccc3
+Fenclozic acid	c1cc(ccc1c2nc(cs2)CC(=O)O)Cl
 Ruthenium(III) acetylacetonate	CC(=O)CC(=O)C.CC(=O)CC(=O)C.CC(=O)CC(=O)C.[Ru]
 Erbulozole	CCOC(=O)NC1=CC=C(C=C1)SC[C@H]2CO[C@](O2)(CN3C=CN=C3)C4=CC=C(C=C4)OC
 Phenylethylpyrrolidine	c1c(cccc1)CCN2CCCC2
@@ -11939,7 +11943,7 @@ N-Hydroxypiperidine	ON1CCCCC1
 Cucurbitacin E	CC(=O)OC(C)(C)C=CC(=O)C(C)(C1C(CC2(C1(CC(=O)C3(C2CC=C4C3C=C(C(=O)C4(C)C)O)C)C)C)O)O
 Rifalazil	CC(C)CN1CCN(CC1)c2cc(O)c3/N=C\4/c5c7C(=O)[C@@]6(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)N\C(=C/4/Oc3c2)C(=O)c5c(O)c(C)c7O6
 Einsteinium(III) iodide	I[Es](I)I
-N-Ethylbuphedrone	CCNC(CC)C(C1=CC=CC=C1)=O
+N-Ethylbuphedrone	CCNC(CC)C(=O)c1ccccc1
 Imazaquin	O=C(O)c2c(nc1ccccc1c2)/C3=N/C(C(=O)N3)(C(C)C)C
 Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 2-Vinylpyridine	C=CC1=CC=CC=N1
@@ -12582,6 +12586,7 @@ CI-966	c1cc(ccc1C(c2ccc(cc2)C(F)(F)F)OCCN3CCC=C(C3)C(=O)O)C(F)(F)F
 NNC-711	C1CN(CC(=C1)C(=O)O)CCON=C(C2=CC=CC=C2)C3=CC=CC=C3
 Βk-2C-B	COC1=CC(C(=O)CN)=C(OC)C=C1Br
 Lichesterol	C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CCC3=C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+Fecosterol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
 Fungisterol	CC(C)[C@@H](C)CC[C@@H](C)[C@H]1CC[C@H]2C3=CC[C@H]4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
 Daucosterol	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C
 Campestanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
@@ -12785,7 +12790,7 @@ Ersentilide	CS(=O)(=O)NC1=CC=C(C=C1)OCC(CNCCOC2=CC=C(C=C2)N3C=CN=C3)O
 Exaprolol	CC(C)NCC(COC1=CC=CC=C1C2CCCCC2)O
 Falintolol	C/C(=N\OCC(CNC(C)(C)C)O)/C1CC1
 Flestolol	CC(C)(CNC(=O)N)NCC(COC(=O)C1=CC=CC=C1F)O
-Flusoxolol	CC(C)NC[C@H](COC1=CC=C(C=C1)OCCOCCC2=CC=C(C=C2)F)O
+Flusoxolol	CC(C)NC[C@@H](COc1ccc(cc1)OCCOCCc2ccc(cc2)F)O
 Indenolol	CC(C)NCC(COC1=CC=CC2=C1C=CC2)O
 Levomoprolol	CC(C)NC[C@@H](COC1=CC=CC=C1OC)O
 Moprolol	CC(C)NCC(COC1=CC=CC=C1OC)O
@@ -13724,6 +13729,7 @@ Butyl acrylate	CCCCOC(=O)C=C
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
+Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
 3,3-Dimethyl-1-butanol	CC(C)(C)CCO
 Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
