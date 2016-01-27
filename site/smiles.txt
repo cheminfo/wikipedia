@@ -8380,7 +8380,7 @@ Lomitapide	FC(F)(F)c5ccc(cc5)-c1ccccc1C(=O)NC4CCN(CC4)CCCCC2(C(=O)NCC(F)(F)F)c3c
 Talarozole	c2ncnn2C(C(CC)CC)c(cc3)ccc3Nc4nc1ccccc1s4
 GYKI-52,466	CC1=NN=C(C2=CC3=C(C=C2C1)OCO3)C4=CC=C(C=C4)N
 Acetyltributylcitrate	CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C
-Telcagepant	O=C(N[C@H]2C(=O)N(CC(F)(F)F)C[C@H](c1cccc(F)c1F)CC2)N5CCC(N4c3cccnc3NC4=O)CC5
+Telcagepant	C1C[C@H](C(=O)N(C[C@@H]1C2=C(C(=CC=C2)F)F)CC(F)(F)F)NC(=O)N3CCC(CC3)N4C5=C(NC4=O)N=CC=C5
 Chrome alum	[K]OS(=O)(=O)O[Cr]1OS(=O)(=O)O1
 2-Aminoacridine	n1c3c(cc2c1cccc2)cc(cc3)N
 3-Aminoacridine	n1c3c(cc2c1cccc2)ccc(c3)N
@@ -10657,7 +10657,7 @@ Dinitro-ortho-cresol	[O-][N+](=O)c1cc(O)c(c([N+]([O-])=O)c1)C
 Trisulfur	[S-][S+]=S
 Pirinixic acid	Cc1cccc(c1C)Nc2cc(nc(n2)SCC(=O)O)Cl
 TAPS (buffer)	C(CNC(CO)(CO)CO)CS(=O)(=O)O
-TAPSO (buffer)	O=S(=O)(O)CC(O)CNC(CO)(CO)CO
+TAPSO	O=S(=O)(O)CC(O)CNC(CO)(CO)CO
 TES (buffer)	C(CS(=O)(=O)O)NC(CO)(CO)CO
 A-40174	c2c(C(C)(C)CCCCCC)cc(O)c1c2OC(C)(C)C(CC3)=C1CN3CC#C
 AM-2232	c1ccc2c(c1)cccc2C(=O)c3cn(c4c3cccc4)CCCCC#N
@@ -13525,7 +13525,7 @@ CUMYL-PICA	O=C(NC(C)(C)C1=CC=CC=C1)C2=CN(CCCCC)C3=C2C=CC=C3
 PTI-2	CCCCCN1C=C(C2=NC(CN(CCOC)C(C)C)=CS2)C3=CC=CC=C31.Cl
 PTI-1	CCCCCN1C=C(C2=NC(CN(CC)CC)=CS2)C3=CC=CC=C31.Cl
 2,4,5-Trihydroxyamphetamine	CC(N)CC1=C(O)C=C(O)C(O)=C1
-Modafinil acid	c1ccc(cc1)C(c2ccccc2)S(=O)CC(=O)O
+Modafinil acid	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)O
 2,4,5-Trihydroxymethamphetamine	CNC(C)CC1=C(O)C=C(O)C(O)=C1
 THJ-018	O=C(C1=NN(CCCCC)C2=C1C=CC=C2)C3=C4C(C=CC=C4)=CC=C3
 NM-2201	FCCCCCN1C=C(C(OC2=C(C=CC=C3)C3=CC=C2)=O)C4=CC=CC=C41
@@ -13630,6 +13630,7 @@ Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
 2-Butoxyethanol acetate	CCCCOCCOC(=O)C
 4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
+Modafinil sulfone	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)(=O)CC(=O)N
 Salicyl alcohol	c1ccc(c(c1)CO)O
 Desmethyletizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 20-Hydroxyeicosatetraenoic acid	C(CC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O)CCO
@@ -13794,3 +13795,4 @@ LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
 QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
 Miravirsen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(OC5COP(=S)(O)OC6C7C(OC6(CO7)CO)N8C=CC(=NC8=O)N)N9C=CC(=NC9=O)N)N1C=NC2=C1N=CN=C2N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC12COC(C1OP(=S)(O)OCC13COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=CC(=NC1=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC4=C1N=CN=C4N)OP(=S)(O)OCC14COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=NC5=C1N=CN=C5N)OP(=S)(O)OCC15COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC16COC(C1OP(=S)(O)OCC17COC(C1O)C(O7)N1C=CC(=NC1=O)N)C(O6)N1C=CC(=NC1=O)N)C(O5)N1C=CC(=NC1=O)N)C(O4)N1C=CC(=NC1=O)N)C(O3)N1C=C(C(=O)NC1=O)C)C(O2)N1C=NC2=C1N=C(NC2=O)N
 U-77891	BrC1=C(C=CC(=C1)C(=O)NC2CCCCC23N(CCC3)C)Br
+Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
