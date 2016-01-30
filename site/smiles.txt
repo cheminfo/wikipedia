@@ -2992,6 +2992,7 @@ Imiquimod	n3c1ccccc1c2c(ncn2CC(C)C)c3N
 Fluoroantimonic acid	[FH2+].F[Sb-](F)(F)(F)(F)F
 Pyrimethamine	Clc2ccc(c1c(nc(nc1CC)N)N)cc2
 Abacavir/lamivudine/zidovudine	OC[C@@H]1\C=C/[C@@H](C1)n4cnc3c4nc(N)nc3NC2CC2.C/C1=C/N(C(=O)NC1=O)[C@H]2C[C@H](\N=[N+]=[N-])[C@@H](CO)O2.N/C1=N/C(=O)N(/C=C1)[C@@H]2O[C@H](CO)SC2
+Palladium on carbon	[Pd]
 Isopentenyl pyrophosphate	CC(=C)CCOP(=O)([O-])OP(=O)([O-])[O-]
 Geranyl pyrophosphate	O=P(O)(O)OP(=O)(OC/C=C(/CC\C=C(/C)C)C)O
 Geranylgeranyl pyrophosphate	O=P(O)(O)OP(=O)(O)OC/C=C(/CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C)C
@@ -10368,6 +10369,7 @@ Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
 Bromo(tetrahydrothiophene)gold(I)	Br[Au][S]1CCCC1
 Tetrabromoauric acid	[H+].Br[Au-](Br)(Br)Br
 9,10-Dihydroxyanthracene	Oc2c1c(cccc1)c(O)c3c2cccc3
+Methastyridone	CC1(C)NC(=O)C(O1)\C=C\c2ccccc2
 Nitromethaqualone	O=C1C2=CC=CC=C2N=C(N1C3=C(OC)C=C(N(=O)=O)C=C3)C
 Asoxime chloride	C1=CC=[N+](C(=C1)/C=N/O)COC[N+]2=CC=C(C=C2)C(=O)N.[Cl-].[Cl-]
 Ro5-4864	Clc3ccc(cc3)C(=NCC1=O)c2cc(Cl)ccc2N1C
@@ -13789,6 +13791,7 @@ Cannabinodiol	CCCCCc1cc(c(c(c1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
 Coronaric acid	CCCCC/C=C\CC1C(O1)CCCCCCCC(=O)O
 Tobias acid	C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N
 BIA 10-2474	O=C(N1C=C(C2=C[N+]([O-])=CC=C2)N=C1)N(C3CCCCC3)C
+N-Phenacylthiazolium bromide	C1=CC=C(C=C1)C(=O)C[N+]2=CSC=C2.[Br-]
 MK-4409	c3nc(C(O)(C)C)ccc3-c1nc(-c4ccc(F)cc4)oc1Sc(nc2)ccc2Cl
 (2Z,4Z,6Z,8Z)-Thionine	C1=CC=CSC=CC=C1
 Oxonine	C1=CC=COC=CC=C1
@@ -13805,3 +13808,4 @@ Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
 O-(2-fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
 3'-fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
+Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
