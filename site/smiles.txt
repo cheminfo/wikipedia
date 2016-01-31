@@ -4355,6 +4355,7 @@ Homovanillic acid	O=C(O)Cc1cc(OC)c(O)cc1
 Copper(I) bromide	Br[Cu]
 Butenafine	N(C)(Cc1ccc(cc1)C(C)(C)C)Cc3c2ccccc2ccc3
 Benzylamine	c1ccc(cc1)CN
+Platinum on carbon	[Pt]
 Iron(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Fe+3]
 Benzal chloride	ClC(Cl)c1ccccc1
 Phenylacetylene	C#Cc1ccccc1
@@ -7873,7 +7874,7 @@ Phetharbital	c2ccccc2N(C1=O)C(=O)NC(=O)C1(CC)CC
 Bucolome	CCCCC1C(=O)NC(=O)N(C1=O)C2CCCCC2
 Propynylidyne	[C]C#C[H]
 Cyclazodone	C1CC1NC2=NC(=O)C(O2)C3=CC=CC=C3
-BTS 74,398	c1cc(c(cc1C2(CCC2)C(=O)CSCCCN(CCN)CCN)Cl)Cl
+BTS 74,398	NCCN(CCN)CCCSCC(=O)C2(CCC2)c(cc1Cl)ccc1Cl
 Tafluprost	CC(C)OC(=O)CCC\C=C/CC(C(O)CC1O)C1\C=C\C(F)(F)COc2ccccc2
 SB-271046	C4CNCCN4c3cc(ccc3OC)NS(=O)(=O)c1sc2ccc(Cl)cc2c1C
 Embramine	CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Br)OCCN(C)C
@@ -8930,7 +8931,7 @@ Copper(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cu+2].[Cu+2].[Cu+2
 Ammonium dihydrogen phosphate	[O-]P(=O)(O)O.[NH4+]
 Echinomycin	CC1C(=O)N(C2CSC(C(C(=O)N(C(C(=O)OCC(C(=O)N1)NC(=O)C3=NC4=CC=CC=C4N=C3)C(C)C)C)N(C(=O)C(NC(=O)C(COC(=O)C(N(C2=O)C)C(C)C)NC(=O)C5=NC6=CC=CC=C6N=C5)C)C)SC)C
 Eslicarbazepine acetate	CC(=O)OC2Cc1ccccc1N(C(N)=O)c3c2cccc3
-Befiradol	FC2(CCN(C(=O)c1ccc(F)c(Cl)c1)CC2)CNCc3ncc(cc3)C
+Befiradol	n2cc(C)ccc2CNCC(F)(CC3)CCN3C(=O)c(cc1Cl)ccc1F
 Methylenedioxyethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
 3-Oxetanone	O=C1COC1
 Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
@@ -10049,7 +10050,7 @@ Sabeluzole	CN(C1CCN(CC1)CC(COC2=CC=C(C=C2)F)O)C3=NC4=CC=CC=C4S3
 Sibopirdine	c5cnccc5CC1(Cc3ccncc3)c2cccnc2-c4c1cccn4
 Besipirdine	CCCN(C1=CC=NC=C1)N2C=CC3=CC=CC=C32
 Matrine	C1C[C@@H]2[C@H]3CCCN4[C@H]3[C@@H](CCC4)CN2C(=O)C1
-Asimadoline	O=C(N(C)[C@@H](c1ccccc1)CN2CC[C@H](O)C2)C(c3ccccc3)c4ccccc4
+Asimadoline	CN([C@H](CN1CC[C@@H](C1)O)C2=CC=CC=C2)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4
 14-Cinnamoyloxycodeinone	CN1CC[C@]23[C@@H]4C(=O)C=C[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)OC(=O)/C=C/C6=CC=CC=C6
 Ammonium arsenate	[O-][As]([O-])(=O)O.[NH4+].[NH4+]
 Fluotracen	FC(F)(F)c1ccc3c(c1)C(c2ccccc2C3C)CCCN(C)C
@@ -13806,6 +13807,8 @@ Ethyl hexanoate	CCCCCC(OCC)=O
 Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
-O-(2-fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
-3'-fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
+O-(2-Fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
+3'-Fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
+Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
+O-acylpseudotropine	C12(CCC(CC(OC(=O)[R])([H])C1)N(C)2)
