@@ -5281,7 +5281,6 @@ Adipamide	O=C(N)CCCCC(=O)N
 Carisbamate	Clc1ccccc1[C@@H](O)COC(=O)N
 Aminoethylpiperazine	NCCN1CCNCC1
 Aminothiazole	c1csc(n1)N
-Anilinium chloride	Cl.Nc1ccccc1
 Trimethylarsine	[As](C)(C)C
 4-Piperidinone	O=C1CCNCC1
 N-Phenethyl-4-piperidinone	O=C2CCN(CCc1ccccc1)CC2
@@ -6456,6 +6455,7 @@ Catecholborane	[B]1OC2=CC=CC=C2O1
 Catecholborane	c1cccc2OBOc12
 Dithiete	c1css1
 Necopidem	O=C(N(C)Cc1c(nc2ccc(cn12)C)c3ccc(cc3)CC)CC(C)C
+Palladium black	[Pd]
 2,6-Dichlorobenzonitrile	N#Cc1c(Cl)cccc1Cl
 Losigamone	Clc1ccccc1C(O)C2OC(=O)C=C2OC
 Methyl-n-amylnitrosamine	CCCCCN(C)N=O
@@ -13812,3 +13812,4 @@ O-(2-Fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
 O-acylpseudotropine	C12(CCC(CC(OC(=O)[R])([H])C1)N(C)2)
+Isobenzothiophene	c1ccc2cscc2c1
