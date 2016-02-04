@@ -1002,7 +1002,7 @@ Sulforhodamine B	O=S(=O)(O)c4ccc(C=1c3c(OC=2C=1\C=C/C(=[N+](/CC)CC)/C=2)cc(cc3)N
 Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
 Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
-Chlorhexidine	Clc2ccc(NC(=N/C(=N/CCCCCC/N=C(/N=C(N)Nc1ccc(Cl)cc1)N)N)N)cc2
+Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
 Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
@@ -2260,6 +2260,7 @@ Phenylacetone	O=C(C)Cc1ccccc1
 Norbornadiene	C1C2C=CC1C=C2
 Quadricyclane	C1C2C3C2C4C1C34
 Copper(I)-thiophene-2-carboxylate	[Cu+].[O-]C(=O)c1sccc1
+NNK	CN(CCCC(=O)c1cccnc1)N=O
 Dichlorocarbene	[C](Cl)Cl
 Corannulene	C1=CC2=CC=C3C=CC4=C5C6=C(C2=C35)C1=CC=C6C=C4
 Ticarcillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccsc1)C(=O)O)[C@H]3SC2(C)C
@@ -11453,6 +11454,7 @@ NMP-7	c3cccc1c3n(CCCCC)c(cc2)c1cc2C(=O)N4CCCCC4
 Imagabalin	O=C(O)C[C@@H](N)C[C@@H](CCC)C
 Velleral	O=C/C1=C/[C@@H]2CC(C)(C)C[C@@H]2[C@@H](C)/C=C1/C=O
 1,1-Difluoroethylene	C=C(F)F
+Ichthyothereol	CC#CC#CC#C/C=C/[C@H]1[C@@H](CCCO1)O
 S32212	O=C(N3c2ccc1c(cccc1)c2CC3)Nc4cc(c(OC)cc4)N5CCN(C)CC5
 Meta-Hydroxynorephedrine	OC(c1cc(O)ccc1)C(N)C
 Paeoniflorin	O=C(OC[C@@]35[C@@H]4[C@]1(O)O[C@H]5O[C@@](C1)([C@@]3(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C4)C)c6ccccc6
