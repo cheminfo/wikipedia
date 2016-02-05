@@ -7434,6 +7434,7 @@ Guanoxan	c1ccc2c(c1)OCC(O2)CNC(=N)N
 Bethanidine	N(=C(/NCc1ccccc1)NC)\C
 Urapidil	O=C1\C=C(/N(C(=O)N1C)C)NCCCN3CCN(c2ccccc2OC)CC3
 Trimazosin	O=C(OCC(O)(C)C)N3CCN(c1nc(N)c2c(n1)c(OC)c(OC)c(OC)c2)CC3
+Endralazine	c1ccc(cc1)C(=O)N2CCc3c(c/c(=N/N)/[nH]n3)C2
 Cadralazine	O=C(OCC)NNc1nnc(N(CC(O)C)CC)cc1
 Oudenone	O=C1C(/C(=O)CC1)=C2/O[C@H](CC2)CCC
 Aquayamycin	C[C@@H]1[C@H]([C@@H](C[C@@H](O1)C2=C(C3=C(C=C2)C(=O)C4=C(C3=O)C=C[C@]5([C@@]4(C(=O)C[C@](C5)(C)O)O)O)O)O)O
@@ -12904,7 +12905,7 @@ Quercinol	C[C@]1(C=CC2=C(O1)C=CC(=C2)O)OC
 Antcin B	[H][C@@]1(CC[C@@]2([H])C3=C(C(=O)C[C@]12C)[C@@]1(C)CCC(=O)[C@@H](C)[C@]1([H])CC3=O)[C@H](C)CCC(=C)C(C)C(O)=O
 Antrodioxolanone	CC1=C(C(=CC(=C1OC)OC)OC)C#C[C@@]2([C@](OC(=O)O2)(C)C#CC3=C(C(=C(C=C3OC)OC)OC)C)C
 Habenariol	c1cc(O)ccc1COC(=O)C(O)(CC(C)C)CC(=O)OCc(cc2)ccc2O
-Epicocconone	C\C=C\C=C\C=C\C(=O)\C=C(O)\C1=C2C=C3C[C@@H](CO)OC=C3C(=O)[C@@]2(C)OC1=O
+Epicocconone	C/C=C/C=C/C=C/C(=O)/C=C(/C1=C2C=C3C[C@H](OC=C3C(=O)[C@]2(OC1=O)C)CO)\O
 Arabinopyranosyl-N-methyl-N-nitrosourea	CN(C(=O)NC1C(C(C(CO1)O)O)O)N=O
 Dehydrohexahydroxydiphenic acid	O=C(O)c2cc(O)c(O)c1OC3(O)C(=O)C=C(C(c12)C3(O)O)C(=O)O
 Mallojaponin	Oc1cc(cc(O)c1O)C(=O)O[C@@H]9O[C@@H]%13COC(=O)c2cc(O)c(O)c(O)c2c4c(O)c(O)c(Oc3c(cc(O)c(O)c3O)C(O)=O)cc4C(=O)O[C@H]%10[C@@H]%13OC(=O)[C@@]7%11CC(=O)[C@@](O)(O[C@]75C(=O)O[C@@H]6[C@@H](O)CO[C@]56O)[C@]%12(O)Oc8c(c(cc(O)c8O)C(=O)O[C@@H]9%10)[C@H]%11%12
@@ -13465,6 +13466,7 @@ Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 Allyl glycidyl ether	C=CCOCC1CO1
 Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
 N-2′-Indolylnaltrexamine	OC1=CC=C2C[C@H]3N(CC4CC4)CC[C@@]45[C@@H](OC1=C24)[C@@H](CC[C@@]35O)NC(=O)C1=CC2=CC=CC=C2N1
+Benzyl potassium	[K]Cc1ccccc1
 Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
 Cyproconazole	CC(C1CC1)C(Cn2cncn2)(c3ccc(cc3)Cl)O
 Sec-Amyl acetate	CCCC(C)OC(C)=O
@@ -13808,6 +13810,7 @@ Miravirsen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(
 Ethyl hexanoate	CCCCCC(OCC)=O
 Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
+5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
 O-(2-Fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
 3'-Fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
