@@ -2046,7 +2046,7 @@ Lutein	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/
 Tazarotene	O=C(OCC)c1ccc(nc1)C#Cc3ccc2SCCC(c2c3)(C)C
 Aldrin	ClC4(Cl)[C@@]2(Cl)C(/Cl)=C(/Cl)[C@]4(Cl)[C@@H]3[C@@H]\1C[C@@H](/C=C/1)[C@H]23
 Chlorodifluoromethane	ClC(F)F
-Cuscohygrine	O=C(CC1N(C)CCC1)CC2N(C)CCC2
+Cuscohygrine	CN1CCC[C@@H]1CC(=O)C[C@@H]2CCCN2C
 Docetaxel	O=C(OC(C)(C)C)N[C@@H](c1ccccc1)[C@@H](O)C(=O)O[C@@H]4C(=C3/[C@@H](O)C(=O)[C@]6([C@H]([C@H](OC(=O)c2ccccc2)[C@@](O)(C3(C)C)C4)[C@@]5(OC(=O)C)[C@H](OC5)C[C@@H]6O)C)/C
 Hexamethylphosphoramide	O=P(N(C)C)(N(C)C)N(C)C
 Butyronitrile	CCCC#N
@@ -9383,7 +9383,7 @@ EA-3148	CCN(CC)CCSP(C)(=O)OC1CCCC1
 AR-R17779	O=C3O[C@]1(CN2CCC1CC2)CN3
 A-84,543	CN(CCC1)[C@@H]1COC2=CC=CN=C2
 UB-165	c2nc(Cl)ccc2C1=CCCC3CCC1N3
-Sunifiram	c2ccccc2C(=O)N1CCN(CC1)C(=O)CC
+Sunifiram	CCC(=O)N1CCN(CC1)C(=O)c2ccccc2
 Unifiram	C2CN1C(=O)CCC1CN2S(=O)(=O)c(cc3)ccc3F
 Calphostin C	C[C@H](CC1=C(C(=C2C(=O)C=C(C3=C4C(=CC(=O)C5=C(C(=C(C(=C45)C1=C32)C[C@@H](C)OC(=O)OC6=CC=C(C=C6)O)OC)O)OC)OC)O)OC)OC(=O)C7=CC=CC=C7
 Robinetinidol	C1[C@@H]([C@H](OC2=C1C=CC(=C2)O)C3=CC(=C(C(=C3)O)O)O)O
@@ -12405,6 +12405,7 @@ Akuammicine	C123C(=C(C4CC1N(CC3)CC4=CC)C(OC)=O)Nc1c2cccc1
 Boonein	O=C1OCC[C@H]2C[C@H](O)[C@H](C)[C@@H]12
 Loganin	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
 Picrinine	C/C=C\1/CN2C3CC1C(C45C3(NC6=CC=CC=C64)OC2C5)C(=O)OC
+Scholarine	C[C@@H]([C@@H]1CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3Nc5c4cccc5OC)C(=O)OC)O
 Rhazine	C/C=C/1\CN2[C@H]3C[C@@H]1C([C@@H]2CC4C3Nc5c4cccc5)(CO)C(=O)OC
 Acetylcysteinamide	SC[C@H](C(=O)N)NC(=O)C
 Dihydrokanakugiol	COC1=C(C(=C(C(=C1C(=O)CCC2=CC=CC=C2)O)OC)OC)OC
@@ -12484,6 +12485,7 @@ Vincadifformine	CC[C@@]12CCCN3[C@@H]1[C@@]4(CC3)c5ccccc5NC4=C(C2)C(=O)OC
 Minovincinine	CC([C@@]12CCCN3[C@@H]1[C@@]4(CC3)C5=CC=CC=C5NC4=C(C2)C(=O)OC)O
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
+Dihydrocuscohygrine	OC(C[C@H]2N(C)CCC2)C[C@H]1CCCN1C
 Rosin (chemical)	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Rosarin	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H](O3)CO)O)O)O)O)O
 CPhos	CN(C)C1=C(C(=CC=C1)N(C)C)C2=CC=CC=C2P(C3CCCCC3)C4CCCCC4
