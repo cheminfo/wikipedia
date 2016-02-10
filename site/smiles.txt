@@ -6636,7 +6636,7 @@ DASB	[11CH3]N(C)Cc1ccccc1Sc2ccc(cc2N)C#N
 Tripotassium phosphate	[K+].[K+].[K+].[O-]P([O-])([O-])=O
 Bendamustine	ClCCN(c2ccc1c(nc(n1C)CCCC(=O)O)c2)CCCl
 Anisatin	O=C1OC[C@]14[C@@]2(O)[C@H](O)C[C@H]([C@]23C[C@@H](OC(=O)[C@@H]3O)[C@@]4(O)C)C
-Methylammonium nitrate	CN.[N+](=O)(O)[O-]
+Methylammonium nitrate	C[NH3+].[N+](=O)([O-])[O-]
 DMPU	O=C1N(C)CCCN1C
 M1G	C1=CN2C(=O)C3=C(N=CN3)N=C2N=C1
 Phenylglyoxylic acid	C1=CC=C(C=C1)C(=O)C(=O)O
@@ -8033,6 +8033,7 @@ Sodium methanethiolate	[Na+].[S-]C
 Vatalanib	Clc1ccc(cc1)Nc3nnc(c2c3cccc2)Cc4ccncc4
 Orthonitrate	[N+]([O-])([O-])([O-])[O-]
 Iodamide	CC(=O)NCC1=C(C(=C(C(=C1I)NC(=O)C)I)C(=O)O)I
+Methiodal	C(S(=O)(=O)[O-])I.[Na+]
 Iopromide	CN(CC(CO)O)C(=O)c1c(c(c(c(c1I)NC(=O)COC)I)C(=O)NCC(CO)O)I
 Ioversol	C(CO)N(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO
 Iopentol	CC(=O)N(CC(COC)O)c1c(c(c(c(c1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I
@@ -13662,7 +13663,7 @@ Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
 5-oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
 Diapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)C2=C(C(=CC(=C2)C(=O)C)OC)O
-1,6-Methano(10)annulene	C1C2=CC=CC=C1C=CC=C2
+1,6-Methano(10)annulene	c1ccc2ccccc(c1)C2
 Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
 Cyclopropenone	c1cc1=O
@@ -13816,6 +13817,7 @@ LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
 QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
 Miravirsen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(OC5COP(=S)(O)OC6C7C(OC6(CO7)CO)N8C=CC(=NC8=O)N)N9C=CC(=NC9=O)N)N1C=NC2=C1N=CN=C2N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC12COC(C1OP(=S)(O)OCC13COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=CC(=NC1=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC4=C1N=CN=C4N)OP(=S)(O)OCC14COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=NC5=C1N=CN=C5N)OP(=S)(O)OCC15COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC16COC(C1OP(=S)(O)OCC17COC(C1O)C(O7)N1C=CC(=NC1=O)N)C(O6)N1C=CC(=NC1=O)N)C(O5)N1C=CC(=NC1=O)N)C(O4)N1C=CC(=NC1=O)N)C(O3)N1C=C(C(=O)NC1=O)C)C(O2)N1C=NC2=C1N=C(NC2=O)N
 Ethyl hexanoate	CCCCCC(OCC)=O
+Cyclotene	CC1C(=O)C(=O)CC1
 Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
