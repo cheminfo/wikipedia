@@ -2853,7 +2853,7 @@ Ethyl maltol	CCC1=C(C(=O)C=CO1)O
 Aminophenazone	O=C2\C(=C(/N(N2c1ccccc1)C)C)N(C)C
 Nesiritide	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)CC(=O)O)CCSC)CCCCN)CCCNC(=N)N)CC2=CC=CC=C2)NC(=O)CNC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCCCN)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CO)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC4=CNC=N4)C(=O)O)CC(C)C)CO)CO)CO)CO
 Labetalol	O=C(c1cc(ccc1O)C(O)CNC(C)CCc2ccccc2)N
-2C-B-FLY	BrC1=C2C(OCC2)=C(CCN)C3=C1OCC3
+2C-B-FLY	NCCc1c2CCOc2c(Br)c3CCOc13
 Zinc gluconate	[Zn+2].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Aluminium arsenide	[Al]#[As]
 Lanosterol	C[C@H](CCC=C(C)C)[C@H]1CC[C@]2(C)C1CCC3=C2CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C
