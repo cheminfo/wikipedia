@@ -124,7 +124,7 @@ for (var i = 0; i < length; i++) {
                     dup.push(id);
                     continue; // If exact same molecule is already present for this page, skip
                 }
-                var mf = molecule.getMolecularFormula().getFormula();
+                var mf = molecule.getMolecularFormula().formula;
                 result = {
                     id: page.id,
                     code: page.title,
