@@ -46,6 +46,10 @@
     overflow: visible;
 }
 
+.ui-state-focus {
+    outline: none;
+}
+
 .ui-fancytree.fancytree-container {
     background: transparent;
     border: none;

@@ -2787,7 +2787,7 @@ module.exports = ZipEntry;
 
 },{"./compressedObject":2,"./object":13,"./stringReader":15,"./utils":21}],24:[function(_dereq_,module,exports){
 // Top level file is just a mixin of submodules & constants
-
+'use strict';
 
 var assign    = _dereq_('./lib/utils/common').assign;
 
@@ -3633,7 +3633,7 @@ exports.setTyped = function (on) {
 exports.setTyped(TYPED_OK);
 },{}],28:[function(_dereq_,module,exports){
 // String encode/decode helpers
-
+'use strict';
 
 
 var utils = _dereq_('./common');

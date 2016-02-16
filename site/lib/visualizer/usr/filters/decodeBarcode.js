@@ -1,4 +1,4 @@
-
+'use strict';
 
 define(function () {
     var reg = new RegExp('^data:([^;]+);base64,(.+)$');

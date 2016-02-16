@@ -1,4 +1,4 @@
-
+'use strict';
 
 define(['lib/pixastic/pixastic'], function (Pixastic) {
 

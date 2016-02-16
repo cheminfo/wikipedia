@@ -2,7 +2,6 @@
 
 var fs = require('fs'),
     join = require('path').join,
-    request = require('superagent'),
     tarball = require('tarball-extract'),
     child_process = require('child_process'),
     del = require('del');

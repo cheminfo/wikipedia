@@ -1,4 +1,4 @@
-
+'use strict';
 
 define(['components/jsbarcode/jsBarcode.min'], function () {
 
@@ -13,7 +13,7 @@ define(['components/jsbarcode/jsBarcode.min'], function () {
                     type: 'png',
                     value: $img[0].src
                 });
-            } catch(e) {
+            } catch (e) {
                 reject(e);
             }
 

@@ -9,7 +9,7 @@
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/
-
+"use strict";
 $.jgrid.extend({
 setSubGrid : function () {
 	return this.each(function (){

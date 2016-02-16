@@ -1,4 +1,4 @@
-
+'use strict';
 
 define(['lodash', 'src/util/util', 'marked', 'highlightjs'], function (_, Util, marked, highlights) {
     var cssPromises = [];

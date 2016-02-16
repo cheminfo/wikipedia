@@ -919,6 +919,23 @@ li.safari {
     width: 200px;
 }
 
+/* Helper css */
+.flex-main-container{
+    display: -webkit-flex;
+    display: flex;
+    min-height: 100%;
+    max-height: 100%;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+}
+
+.flex-1 {
+    -webkit-flex: 1;
+    flex: 1;
+}
+
+
 
 
 
@@ -1021,7 +1038,7 @@ svg .axe-text {
 .ci-module-panzoom .buttons {
     height: 25px;
 }
-.parent {
+.ci-panzoom-parent {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -1694,12 +1711,6 @@ classes should alter those!
     background-color: rgb(255,255,153) !important;
 }
 
-.slick-cell a.recycle-bin {
-    cursor: pointer;
-    padding: 6px 3px 11px 3px;
-    margin-left: 3px;
-}
-
 .rowHelp {
     background-color: lightgray;
     color: white;
@@ -1802,6 +1813,14 @@ classes should alter those!
 }
 
 /* =========== MODULE CUSTOM CSS ============ */
+.slick-cell a.recycle-bin {
+    cursor: pointer;
+}
+
+.slick-cell a.icon-container {
+    cursor: pointer;
+}
+
 .ci-module-slickgrid .main-container{
     display: -webkit-flex;
     display: flex;
@@ -1815,6 +1834,12 @@ classes should alter those!
 .ci-module-slickgrid .flex-1 {
     -webkit-flex: 1;
     flex: 1;
+}
+
+.ci-module-slickgrid i.centered-icon {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
 }
 
 
@@ -1886,6 +1911,9 @@ classes should alter those!
 	overflow: hidden;
 }
 
+.gwt-DialogBox {
+    z-index: 1000;
+}
 
 /* Reset Style */
 

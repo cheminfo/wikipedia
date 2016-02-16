@@ -1,1 +1,1 @@
-define(["modules/default/defaultmodel"],function(a){function b(){}return $.extend(!0,b.prototype,a,{getValue:function(){return this.dataValue}}),b});
+"use strict";define(["modules/default/defaultmodel"],function(a){function b(){}return $.extend(!0,b.prototype,a,{getValue:function(){return this.dataValue}}),b});

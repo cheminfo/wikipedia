@@ -1,2217 +1,2249 @@
 {
-  "version": "2.27.0",
-  "grid": {
-	"xWidth": 10,
-	"yHeight": 10,
-	"layers": {
-	  "Default layer": {
-		"name": "Default layer"
-	  },
-	  "BrowseErrors": {
-		"name": "BrowseErrors"
-	  },
-	  "Admin": {
-		"name": "Admin"
-	  }
-	}
-  },
-  "modules": [
-	{
-	  "url": "modules/types/science/chemistry/jsme/",
-	  "id": 1,
-	  "title": "Draw a structure",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "prefs": [
-				[
-				  "oldlook",
-				  "polarnitro"
-				]
-			  ],
-			  "labelsize": [
-				14
-			  ],
-			  "bondwidth": [
-				1
-			  ],
-			  "highlightColor": [
-				"3"
-			  ],
-			  "outputResult": [
-				[]
-			  ]
+	"version": "2.40.1",
+	"grid": {
+		"xWidth": 10,
+		"yHeight": 10,
+		"layers": {
+			"Default layer": {
+				"name": "Default layer"
+			},
+			"BrowseErrors": {
+				"name": "BrowseErrors"
+			},
+			"Admin": {
+				"name": "Admin"
 			}
-		  ]
 		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Draw a structure",
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 50,
-			"height": 41
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		},
-		"BrowseErrors": {
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Draw a structure",
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 50,
-			"height": 41
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		},
-		"Admin": {
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Draw a structure",
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 50,
-			"height": 41
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		}
-	  },
-	  "vars_in": [
-		{
-		  "rel": "mol",
-		  "name": "selectedMol"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "vars_out": [
-		{
-		  "event": "onStructureChange",
-		  "rel": "mol",
-		  "jpath": [],
-		  "filter": "searchFilter",
-		  "name": "query"
-		}
-	  ],
-	  "actions_out": {},
-	  "zindex": 2
 	},
-	{
-	  "url": "modules/types/edition/onde/",
-	  "id": 2,
-	  "title": "Untitled",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "hasButton": [
-				[]
-			  ],
-			  "button_text": [
-				"Export"
-			  ],
-			  "debouncing": [
-				0
-			  ],
-			  "output": [
-				"new"
-			  ],
-			  "mode": [
-				"schema"
-			  ],
-			  "schemaSource": [
-				"config"
-			  ],
-			  "schema": [
-				"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by article name\",\n            \"default\": \"\"\n        }\n    }\n}"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 2,
-			"top": 42
-		  },
-		  "size": {
-			"width": 48,
-			"height": 9
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		},
-		"BrowseErrors": {
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 2,
-			"top": 42
-		  },
-		  "size": {
-			"width": 48,
-			"height": 9
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		},
-		"Admin": {
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer",
-		  "position": {
-			"left": 2,
-			"top": 42
-		  },
-		  "size": {
-			"width": 48,
-			"height": 9
-		  },
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ]
-		}
-	  },
-	  "vars_in": [
+	"modules": [
 		{
-		  "rel": "inputValue",
-		  "name": "customQueryOpts"
-		}
-	  ],
-	  "actions_in": {},
-	  "vars_out": [
-		{
-		  "event": "onFormSubmit",
-		  "rel": "outputValue",
-		  "jpath": [],
-		  "filter": "searchFilter",
-		  "name": "queryOptions"
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "jpath": []
-		}
-	  ],
-	  "zindex": 2
-	},
-	{
-	  "url": "modules/types/edition/slick_grid/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "slickCheck": [
-				[
-				  "rowNumbering",
-				  "forceFitColumns",
-				  "backToTop",
-				  "enableCellNavigation",
-				  "forgetLastActive",
-				  "highlightScroll"
-				]
-			  ],
-			  "colorjpath": [
-				[]
-			  ],
-			  "slick.defaultColumnWidth": [
-				null
-			  ],
-			  "slick.rowHeight": [
-				"150"
-			  ],
-			  "slick.selectionModel": [
-				"row"
-			  ]
-			}
-		  ],
-		  "cols": [
-			[
-			  {
-				"name": "Structure",
-				"jpath": [
-				  "actID"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"width": 250,
-				"minWidth": "250",
-				"maxWidth": "250"
-			  },
-			  {
-				"name": "Article name",
-				"jpath": [
-				  "name"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"width": 80
-			  }
-			]
-		  ],
-		  "groupings": [
-			[
-			  {
-				"getter": [
-				  ""
-				]
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 48
-		  },
-		  "size": {
-			"width": 50,
-			"height": 46
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Click on a row to see the Wikipedia article",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 0,
-			"top": 48
-		  },
-		  "size": {
-			"width": 50,
-			"height": 46
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Click on a row to see the Wikipedia article",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"Admin": {
-		  "position": {
-			"left": 0,
-			"top": 48
-		  },
-		  "size": {
-			"width": 50,
-			"height": 46
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Click on a row to see the Wikipedia article",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		}
-	  },
-	  "id": 3,
-	  "vars_in": [
-		{
-		  "rel": "list",
-		  "name": "searchResult"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Click on a row to see the Wikipedia article",
-	  "vars_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [],
-		  "name": "hover"
-		},
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"link"
-		  ],
-		  "name": "link"
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"smiles"
-		  ],
-		  "name": "updateFragment"
-		}
-	  ],
-	  "zindex": 2
-	},
-	{
-	  "url": "modules/types/display/template-twig/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "template": [
-				"<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>MW</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 51,
-			"top": 0
-		  },
-		  "size": {
-			"width": 96,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Information",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 51,
-			"top": 0
-		  },
-		  "size": {
-			"width": 96,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Information",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"Admin": {
-		  "position": {
-			"left": 51,
-			"top": 0
-		  },
-		  "size": {
-			"width": 96,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Information",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		}
-	  },
-	  "id": 4,
-	  "vars_in": [
-		{
-		  "rel": "value",
-		  "name": "hover"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Information",
-	  "vars_out": {},
-	  "actions_out": {},
-	  "zindex": 0
-	},
-	{
-	  "url": "modules/types/client_interaction/button_action/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "toggle": [
-				"click"
-			  ],
-			  "label": [
-				"Search similar molecules"
-			  ],
-			  "onLabel": [
-				"Toggle action off"
-			  ],
-			  "offLabel": [
-				"Toggle action on"
-			  ],
-			  "onColor": [
-				[
-				  0,
-				  0,
-				  0,
-				  1
-				]
-			  ],
-			  "offColor": [
-				[
-				  0,
-				  0,
-				  0,
-				  1
-				]
-			  ],
-			  "text": [
-				null
-			  ],
-			  "askConfirm": [
-				[]
-			  ],
-			  "confirmText": [
-				"Are you sure?"
-			  ],
-			  "okLabel": [
-				"Ok"
-			  ],
-			  "cancelLabel": [
-				"Cancel"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 92,
-			"top": 21
-		  },
-		  "size": {
-			"width": 23,
-			"height": 9
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 92,
-			"top": 21
-		  },
-		  "size": {
-			"width": 23,
-			"height": 9
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"Admin": {
-		  "position": {
-			"left": 92,
-			"top": 21
-		  },
-		  "size": {
-			"width": 23,
-			"height": 9
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		}
-	  },
-	  "id": 5,
-	  "vars_in": [],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Untitled",
-	  "vars_out": {},
-	  "actions_out": [
-		{
-		  "event": "onClick",
-		  "rel": "actionText",
-		  "jpath": [],
-		  "name": "putMol"
-		}
-	  ],
-	  "zindex": 2
-	},
-	{
-	  "url": "modules/types/client_interaction/button_action/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "toggle": [
-				"click"
-			  ],
-			  "label": [
-				"View in wikipedia"
-			  ],
-			  "onLabel": [
-				"Toggle action off"
-			  ],
-			  "offLabel": [
-				"Toggle action on"
-			  ],
-			  "onColor": [
-				[
-				  0,
-				  0,
-				  0,
-				  1
-				]
-			  ],
-			  "offColor": [
-				[
-				  0,
-				  0,
-				  0,
-				  1
-				]
-			  ],
-			  "text": [
-				null
-			  ],
-			  "askConfirm": [
-				[]
-			  ],
-			  "confirmText": [
-				"Are you sure?"
-			  ],
-			  "okLabel": [
-				"Ok"
-			  ],
-			  "cancelLabel": [
-				"Cancel"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 77,
-			"top": 21
-		  },
-		  "size": {
-			"width": 29,
-			"height": 12
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 77,
-			"top": 21
-		  },
-		  "size": {
-			"width": 29,
-			"height": 12
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"Admin": {
-		  "position": {
-			"left": 77,
-			"top": 21
-		  },
-		  "size": {
-			"width": 29,
-			"height": 12
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "Default layer"
-		}
-	  },
-	  "id": 6,
-	  "vars_in": [],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Untitled",
-	  "vars_out": {},
-	  "actions_out": [
-		{
-		  "event": "onClick",
-		  "rel": "actionText",
-		  "jpath": [],
-		  "name": "viewDrug"
-		}
-	  ],
-	  "zindex": 1
-	},
-	{
-	  "url": "modules/types/edition/slick_grid/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "slickCheck": [
-				[
-				  "enableCellNavigation",
-				  "rowNumbering",
-				  "forceFitColumns",
-				  "highlightScroll"
-				]
-			  ],
-			  "colorjpath": [
-				[]
-			  ],
-			  "slick.defaultColumnWidth": [
-				null
-			  ],
-			  "slick.rowHeight": [
-				null
-			  ],
-			  "slick.selectionModel": [
-				"row"
-			  ]
-			}
-		  ],
-		  "cols": [
-			[
-			  {
-				"name": "Article ID",
-				"jpath": [
-				  "id"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"width": 88
-			  },
-			  {
-				"name": "SMILES",
-				"jpath": [
-				  "smiles"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"width": 476
-			  },
-			  {
-				"name": "Error message",
-				"jpath": [
-				  "error"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"width": 241
-			  }
-			]
-		  ],
-		  "groupings": [
-			[
-			  {
-				"getter": [
-				  ""
-				]
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 1,
-			"top": 0
-		  },
-		  "size": {
-			"width": 81,
-			"height": 60
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "SMILES with errors",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 7,
-	  "vars_in": [
-		{
-		  "rel": "list",
-		  "name": "errors"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "SMILES with errors",
-	  "vars_out": [
-		{
-		  "event": "onHover",
-		  "rel": "row",
-		  "jpath": [
-			"smiles"
-		  ],
-		  "name": "hoveredSmiles"
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"id"
-		  ],
-		  "name": "openWikiID"
-		}
-	  ],
-	  "zindex": 0
-	},
-	{
-	  "url": "modules/types/edition/slick_grid/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "colorjpath": [
-				[]
-			  ],
-			  "slickCheck": [
-				[
-				  "enableCellNavigation",
-				  "rowNumbering",
-				  "forceFitColumns",
-				  "highlightScroll"
-				]
-			  ],
-			  "slick.defaultColumnWidth": [
-				null
-			  ],
-			  "slick.rowHeight": [
-				null
-			  ],
-			  "slick.selectionModel": [
-				[
-				  "cell"
-				]
-			  ]
-			}
-		  ],
-		  "cols": [
-			[
-			  {
-				"name": "ID",
-				"jpath": [
-				  "id"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"defaultSortAsc": [
-				  "yes"
-				]
-			  }
-			]
-		  ],
-		  "groupings": [
-			[
-			  {
-				"getter": [
-				  null
-				]
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 1,
-			"top": 65
-		  },
-		  "size": {
-			"width": 22,
-			"height": 26
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Pages without correct SMILES",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 8,
-	  "vars_in": [
-		{
-		  "rel": "list",
-		  "name": "full"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Pages without correct SMILES",
-	  "vars_out": [
-		{
-		  "jpath": []
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"id"
-		  ],
-		  "name": "openWikiID"
-		}
-	  ],
-	  "zindex": 0
-	},
-	{
-	  "url": "modules/types/edition/slick_grid/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "colorjpath": [
-				[]
-			  ],
-			  "slickCheck": [
-				[
-				  "enableCellNavigation",
-				  "rowNumbering",
-				  "forceFitColumns",
-				  "highlightScroll"
-				]
-			  ],
-			  "slick.defaultColumnWidth": [
-				null
-			  ],
-			  "slick.rowHeight": [
-				null
-			  ],
-			  "slick.selectionModel": [
-				[
-				  "cell"
-				]
-			  ]
-			}
-		  ],
-		  "cols": [
-			[
-			  {
-				"name": "ID",
-				"jpath": [
-				  "id"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"defaultSortAsc": [
-				  "yes"
-				]
-			  }
-			]
-		  ],
-		  "groupings": [
-			[
-			  {
-				"getter": [
-				  null
-				]
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 27,
-			"top": 65
-		  },
-		  "size": {
-			"width": 13,
-			"height": 26
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Duplicates",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 9,
-	  "vars_in": [
-		{
-		  "rel": "list",
-		  "name": "dup"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Duplicates",
-	  "vars_out": [
-		{
-		  "jpath": []
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"id"
-		  ],
-		  "name": "openWikiID"
-		}
-	  ],
-	  "zindex": 0
-	},
-	{
-	  "url": "modules/types/edition/slick_grid/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "colorjpath": [
-				[]
-			  ],
-			  "slickCheck": [
-				[
-				  "enableCellNavigation",
-				  "rowNumbering",
-				  "forceFitColumns",
-				  "highlightScroll"
-				]
-			  ],
-			  "slick.defaultColumnWidth": [
-				null
-			  ],
-			  "slick.rowHeight": [
-				null
-			  ],
-			  "slick.selectionModel": [
-				[
-				  "cell"
-				]
-			  ]
-			}
-		  ],
-		  "cols": [
-			[
-			  {
-				"name": "ID",
-				"jpath": [
-				  "id"
-				],
-				"editor": "none",
-				"formatter": "typerenderer",
-				"defaultSortAsc": [
-				  "yes"
-				]
-			  }
-			]
-		  ],
-		  "groupings": [
-			[
-			  {
-				"getter": [
-				  null
-				]
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 44,
-			"top": 65
-		  },
-		  "size": {
-			"width": 13,
-			"height": 26
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Not found",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 10,
-	  "vars_in": [
-		{
-		  "rel": "list",
-		  "name": "notfound"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Not found",
-	  "vars_out": [
-		{
-		  "jpath": []
-		}
-	  ],
-	  "actions_out": [
-		{
-		  "event": "onSelect",
-		  "rel": "row",
-		  "jpath": [
-			"id"
-		  ],
-		  "name": "openWikiID"
-		}
-	  ],
-	  "zindex": 0
-	},
-	{
-	  "url": "modules/types/display/single_value/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "defaultvalue": [
-				null
-			  ],
-			  "font": [
-				null
-			  ],
-			  "fontcolor": [
-				[
-				  0,
-				  0,
-				  0,
-				  1
-				]
-			  ],
-			  "fontsize": [
-				"12pt"
-			  ],
-			  "align": [
-				"left"
-			  ],
-			  "valign": [
-				null
-			  ],
-			  "sprintf": [
-				"Hovered SMILES: %s"
-			  ],
-			  "sprintfOrder": [
-				""
-			  ],
-			  "preformatted": [
-				[
-				  "selectable",
-				  "pre"
-				]
-			  ],
-			  "append": [
-				[]
-			  ],
-			  "maxEntries": [
-				1
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 1,
-			"top": 61
-		  },
-		  "size": {
-			"width": 154,
-			"height": 6
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 11,
-	  "vars_in": [
-		{
-		  "rel": "value",
-		  "name": "hoveredSmiles"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Untitled",
-	  "vars_out": {},
-	  "actions_out": {},
-	  "zindex": 13
-	},
-	{
-	  "url": "modules/types/display/template-twig/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "template": [
-				"<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 85,
-			"top": 12
-		  },
-		  "size": {
-			"width": 91,
-			"height": 42
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": false,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 12,
-	  "vars_in": [
-		{
-		  "rel": "value",
-		  "name": "count"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Untitled",
-	  "vars_out": {},
-	  "actions_out": {}
-	},
-	{
-	  "url": "modules/types/client_interaction/code_executor/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "display": [
-				[
-				  "editor",
-				  "buttons"
-				]
-			  ],
-			  "script": [
-				"var mol = ACT.Molecule.fromMolfile(this.variables.query.get());\nsendAction('updateFragment', mol.toSmiles());"
-			  ]
-			}
-		  ],
-		  "libs": [
-			[
-			  {
-				"lib": "components/openchemlib/dist/openchemlib-core",
-				"alias": "ACT"
-			  }
-			]
-		  ],
-		  "buttons": [
-			[
-			  {
-				"name": "button1",
-				"label": "Execute"
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 67,
-			"height": 44
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 54,
-			"height": 27
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "Untitled",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		}
-	  },
-	  "id": 13,
-	  "vars_in": [
-		{
-		  "rel": "inputValue",
-		  "name": "query"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "Untitled",
-	  "vars_out": [
-		{
-		  "jpath": []
-		}
-	  ],
-	  "actions_out": []
-	},
-	{
-	  "url": "modules/types/client_interaction/code_executor/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "display": [
-				[
-				  "editor",
-				  "buttons"
-				]
-			  ],
-			  "execOnLoad": [
-				[]
-			  ],
-			  "script": [
-				"setAsync();\n\nvar link = this.variables.link.get();\n\nagent.get(link, function (res) {\n    // Replace protocol relative urls with absolute protocol\n    // because it does not work with blob urls\n    var html = res.text.replace(/\"\\/\\//g, '\"http://');\n    var blob = new Blob([html], {type : 'text/html'});\n    var url = URL.createObjectURL(blob);\n    set('url', url);\n    done();\n});\n"
-			  ]
-			}
-		  ],
-		  "libs": [
-			[
-			  {
-				"lib": "superagent",
-				"alias": "agent"
-			  }
-			]
-		  ],
-		  "buttons": [
-			[
-			  {
-				"name": "button1",
-				"label": "Execute"
-			  }
-			]
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 148,
-			"top": 0
-		  },
-		  "size": {
-			"width": 56,
-			"height": 39
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 148,
-			"top": 28
-		  },
-		  "size": {
-			"width": 54,
-			"height": 40
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 14,
-	  "vars_in": [
-		{
-		  "rel": "inputValue",
-		  "name": "link"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "",
-	  "vars_out": [
-		{
-		  "event": "onScriptEnded",
-		  "rel": "outputValue",
-		  "jpath": [
-			"url"
-		  ],
-		  "name": "url"
-		}
-	  ],
-	  "actions_out": []
-	},
-	{
-	  "url": "modules/types/display/template-twig/",
-	  "configuration": {
-		"sections": {},
-		"groups": {
-		  "group": [
-			{
-			  "template": [
-				"<iframe id=\"wikipedia-iframe\" src=\"{{ url }}\" width=\"100%\" height=\"100%\" style=\"border: none; vertical-align: bottom;\"></iframe>\n<script>\n    var iframe = document.getElementById('wikipedia-iframe');\n    iframe.contentWindow.addEventListener('DOMContentLoaded', function () {\n        $(iframe.contentDocument.body).css({\n            'margin-left': 0,\n            border: 'none'\n        });\n    });\n</script>"
-			  ]
-			}
-		  ]
-		}
-	  },
-	  "layers": {
-		"Default layer": {
-		  "position": {
-			"left": 51,
-			"top": 28
-		  },
-		  "size": {
-			"width": 96,
-			"height": 66
-		  },
-		  "zIndex": 0,
-		  "display": true,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Default layer"
-		},
-		"BrowseErrors": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "BrowseErrors"
-		},
-		"Admin": {
-		  "position": {
-			"left": 0,
-			"top": 0
-		  },
-		  "size": {
-			"width": 20,
-			"height": 20
-		  },
-		  "zIndex": 0,
-		  "display": false,
-		  "title": "",
-		  "bgColor": [
-			255,
-			255,
-			255,
-			0
-		  ],
-		  "wrapper": true,
-		  "created": true,
-		  "name": "Admin"
-		}
-	  },
-	  "id": 15,
-	  "vars_in": [
-		{
-		  "rel": "value",
-		  "name": "url"
-		}
-	  ],
-	  "actions_in": [
-		{}
-	  ],
-	  "title": "",
-	  "vars_out": [],
-	  "actions_out": []
-	}
-  ],
-  "variables": [
-	{
-	  "varname": "molecules",
-	  "jpath": [
-		"data",
-		"molecules"
-	  ]
-	},
-	{
-	  "varname": "queryOptions",
-	  "jpath": [
-		"queryOptions"
-	  ]
-	},
-	{
-	  "varname": "query",
-	  "jpath": [
-		"query"
-	  ]
-	},
-	{
-	  "varname": "errors",
-	  "jpath": [
-		"data",
-		"errors"
-	  ]
-	},
-	{
-	  "varname": "fullA",
-	  "jpath": [
-		"data",
-		"nogood"
-	  ]
-	},
-	{
-	  "varname": "dupA",
-	  "jpath": [
-		"data",
-		"dup"
-	  ]
-	},
-	{
-	  "varname": "notfoundA",
-	  "jpath": [
-		"data",
-		"notfound"
-	  ]
-	}
-  ],
-  "pouchvariables": [
-	{}
-  ],
-  "configuration": {
-	"title": "Search wikipedia by substructure and similarity"
-  },
-  "actionscripts": [
-	{
-	  "sections": {},
-	  "groups": {
-		"action": [
-		  {
-			"name": [
-			  "openWikiID"
+			"url": "modules/types/science/chemistry/jsme/",
+			"id": 1,
+			"title": "Draw a structure",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"prefs": [
+								[
+									"oldlook",
+									"polarnitro"
+								]
+							],
+							"labelsize": [
+								14
+							],
+							"bondwidth": [
+								1
+							],
+							"highlightColor": [
+								"3"
+							],
+							"outputResult": [
+								[]
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Draw a structure",
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 50,
+						"height": 41
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				},
+				"BrowseErrors": {
+					"zIndex": 0,
+					"display": false,
+					"title": "Draw a structure",
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 50,
+						"height": 41
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				},
+				"Admin": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Draw a structure",
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 50,
+						"height": 41
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				}
+			},
+			"vars_in": [
+				{
+					"rel": "mol",
+					"name": "selectedMol"
+				}
 			],
-			"script": [
-			  "window.open('http://en.wikipedia.org/w/index.php?curid=' + value, '_blank')"
-			]
-		  }
-		]
-	  }
-	},
-	{
-	  "sections": {},
-	  "groups": {
-		"action": [
-		  {
-			"name": [
-			  "putMol"
+			"actions_in": [
+				{}
 			],
-			"script": [
-			  "require(['src/util/api', 'components/openchemlib/dist/openchemlib-core'], function (API, ACT) {\n    var hover = API.getData('hover');\n    var act;\n    if (hover && (act = hover.get('actID'))) {\n        var mol = ACT.Molecule.fromIDCode(act.value, act.coordinates).toMolfile();\n        API.createData('customQueryOpts', {searchMode: 'Similarity'});\n        API.createData('queryOptions', {searchMode: 'Similarity'});\n        API.createData('selectedMol', {type: 'mol2d', value: mol});\n        API.createData('query', {type: 'mol2d', value: mol});\n    }\n});"
-			]
-		  }
-		]
-	  }
-	},
-	{
-	  "sections": {},
-	  "groups": {
-		"action": [
-		  {
-			"name": [
-			  "viewDrug"
+			"vars_out": [
+				{
+					"event": "onStructureChange",
+					"rel": "mol",
+					"jpath": [],
+					"filter": "searchFilter",
+					"name": "query"
+				}
 			],
-			"script": [
-			  "require(['src/util/api'], function (API) {\n    var currentDrug = API.getData('hover');\n    if (currentDrug) {\n        var link = currentDrug.get('wiki').get();\n        window.open(link, '_blank')\n    }\n});"
-			]
-		  }
-		]
-	  }
-	},
-	{
-	  "sections": {},
-	  "groups": {
-		"action": [
-		  {
-			"name": [
-			  "updateFragment"
+			"actions_out": {},
+			"zindex": 2
+		},
+		{
+			"url": "modules/types/edition/onde/",
+			"id": 2,
+			"title": "Untitled",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"hasButton": [
+								[]
+							],
+							"button_text": [
+								"Export"
+							],
+							"debouncing": [
+								0
+							],
+							"output": [
+								"new"
+							],
+							"mode": [
+								"schema"
+							],
+							"schemaSource": [
+								"config"
+							],
+							"schema": [
+								"{\n    \"type\": \"object\",\n    \"properties\": {\n        \"searchMode\": {\n            \"type\": \"string\",\n            \"label\": \"Search mode\",\n            \"enum\": [\"Substructure\", \"Exact structure\", \"Similarity\"],\n            \"default\": \"Substructure\",\n            \"required\": true\n        },\n        \"name\": {\n            \"type\": \"string\",\n            \"label\": \"Filter by article name\",\n            \"default\": \"\"\n        }\n    }\n}"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 2,
+						"top": 42
+					},
+					"size": {
+						"width": 48,
+						"height": 9
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				},
+				"BrowseErrors": {
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 2,
+						"top": 42
+					},
+					"size": {
+						"width": 48,
+						"height": 9
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				},
+				"Admin": {
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer",
+					"position": {
+						"left": 2,
+						"top": 42
+					},
+					"size": {
+						"width": 48,
+						"height": 9
+					},
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					]
+				}
+			},
+			"vars_in": [
+				{
+					"rel": "inputValue",
+					"name": "customQueryOpts"
+				}
 			],
-			"script": [
-			  "require(['uri/URI'], function (URI) {\n    var url = new URI(window.location.href);\n    url.fragment(encodeURIComponent(value));\n    window.history.pushState(null, '', url.href());\n});"
+			"actions_in": {},
+			"vars_out": [
+				{
+					"event": "onFormSubmit",
+					"rel": "outputValue",
+					"jpath": [],
+					"filter": "searchFilter",
+					"name": "queryOptions"
+				}
+			],
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
+			"zindex": 2
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"slickCheck": [
+								[
+									"rowNumbering",
+									"forceFitColumns",
+									"backToTop",
+									"enableCellNavigation",
+									"forgetLastActive",
+									"highlightScroll"
+								]
+							],
+							"colorjpath": [
+								[]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								"150"
+							],
+							"slick.selectionModel": [
+								"row"
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "Structure",
+								"jpath": [
+									"actID"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 250,
+								"minWidth": "250",
+								"maxWidth": "250"
+							},
+							{
+								"name": "Article name",
+								"jpath": [
+									"name"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 80
+							}
+						]
+					],
+					"groupings": [
+						[
+							{
+								"getter": [
+									""
+								]
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 48
+					},
+					"size": {
+						"width": 50,
+						"height": 46
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Click on a row to see the Wikipedia article",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 0,
+						"top": 48
+					},
+					"size": {
+						"width": 50,
+						"height": 46
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Click on a row to see the Wikipedia article",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"Admin": {
+					"position": {
+						"left": 0,
+						"top": 48
+					},
+					"size": {
+						"width": 50,
+						"height": 46
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Click on a row to see the Wikipedia article",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 3,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "searchResult"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Click on a row to see the Wikipedia article",
+			"vars_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [],
+					"name": "hover"
+				},
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"link"
+					],
+					"name": "link"
+				}
+			],
+			"actions_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"smiles"
+					],
+					"name": "updateFragment"
+				}
+			],
+			"zindex": 2
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<center><h1>{{hover.name}}</h1></center>\n<div style=\"height:150px;\"><center>{{rendertype(hover.actID)}}</center></div>\n<table>\n    <tr>\n        <th>MF</th>\n        <td><div style=\"height:20px;\">{{rendertype(hover.mf)}}</div></td>\n    </tr>\n    <tr>\n        <th>MW</th>\n        <td>{{hover.mw|number_format(2)}}</td>\n    </tr>\n</table>"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 51,
+						"top": 0
+					},
+					"size": {
+						"width": 96,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Information",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 51,
+						"top": 0
+					},
+					"size": {
+						"width": 96,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Information",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"Admin": {
+					"position": {
+						"left": 51,
+						"top": 0
+					},
+					"size": {
+						"width": 96,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Information",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 4,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "hover"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Information",
+			"vars_out": {},
+			"actions_out": {},
+			"zindex": 0
+		},
+		{
+			"url": "modules/types/client_interaction/button_action/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"toggle": [
+								"click"
+							],
+							"label": [
+								"Search similar molecules"
+							],
+							"onLabel": [
+								"Toggle action off"
+							],
+							"offLabel": [
+								"Toggle action on"
+							],
+							"onColor": [
+								[
+									0,
+									0,
+									0,
+									1
+								]
+							],
+							"offColor": [
+								[
+									0,
+									0,
+									0,
+									1
+								]
+							],
+							"text": [
+								null
+							],
+							"askConfirm": [
+								[]
+							],
+							"confirmText": [
+								"Are you sure?"
+							],
+							"okLabel": [
+								"Ok"
+							],
+							"cancelLabel": [
+								"Cancel"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 92,
+						"top": 21
+					},
+					"size": {
+						"width": 23,
+						"height": 9
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 92,
+						"top": 21
+					},
+					"size": {
+						"width": 23,
+						"height": 9
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				},
+				"Admin": {
+					"position": {
+						"left": 92,
+						"top": 21
+					},
+					"size": {
+						"width": 23,
+						"height": 9
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 5,
+			"vars_in": [],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": [
+				{
+					"event": "onClick",
+					"rel": "actionText",
+					"jpath": [],
+					"name": "putMol"
+				}
+			],
+			"zindex": 2
+		},
+		{
+			"url": "modules/types/client_interaction/button_action/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"toggle": [
+								"click"
+							],
+							"label": [
+								"View in wikipedia"
+							],
+							"onLabel": [
+								"Toggle action off"
+							],
+							"offLabel": [
+								"Toggle action on"
+							],
+							"onColor": [
+								[
+									0,
+									0,
+									0,
+									1
+								]
+							],
+							"offColor": [
+								[
+									0,
+									0,
+									0,
+									1
+								]
+							],
+							"text": [
+								null
+							],
+							"askConfirm": [
+								[]
+							],
+							"confirmText": [
+								"Are you sure?"
+							],
+							"okLabel": [
+								"Ok"
+							],
+							"cancelLabel": [
+								"Cancel"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 77,
+						"top": 21
+					},
+					"size": {
+						"width": 29,
+						"height": 12
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 77,
+						"top": 21
+					},
+					"size": {
+						"width": 29,
+						"height": 12
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				},
+				"Admin": {
+					"position": {
+						"left": 77,
+						"top": 21
+					},
+					"size": {
+						"width": 29,
+						"height": 12
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 6,
+			"vars_in": [],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": [
+				{
+					"event": "onClick",
+					"rel": "actionText",
+					"jpath": [],
+					"name": "viewDrug"
+				}
+			],
+			"zindex": 1
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"slickCheck": [
+								[
+									"enableCellNavigation",
+									"rowNumbering",
+									"forceFitColumns",
+									"highlightScroll"
+								]
+							],
+							"colorjpath": [
+								[]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								null
+							],
+							"slick.selectionModel": [
+								"row"
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "Article ID",
+								"jpath": [
+									"id"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 88
+							},
+							{
+								"name": "SMILES",
+								"jpath": [
+									"smiles"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 476
+							},
+							{
+								"name": "Error message",
+								"jpath": [
+									"error"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"width": 241
+							}
+						]
+					],
+					"groupings": [
+						[
+							{
+								"getter": [
+									""
+								]
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 1,
+						"top": 0
+					},
+					"size": {
+						"width": 81,
+						"height": 60
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "SMILES with errors",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 7,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "errors"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "SMILES with errors",
+			"vars_out": [
+				{
+					"event": "onHover",
+					"rel": "row",
+					"jpath": [
+						"smiles"
+					],
+					"name": "hoveredSmiles"
+				}
+			],
+			"actions_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"id"
+					],
+					"name": "openWikiID"
+				}
+			],
+			"zindex": 0
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"colorjpath": [
+								[]
+							],
+							"slickCheck": [
+								[
+									"enableCellNavigation",
+									"rowNumbering",
+									"forceFitColumns",
+									"highlightScroll"
+								]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								null
+							],
+							"slick.selectionModel": [
+								[
+									"cell"
+								]
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "ID",
+								"jpath": [
+									"id"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"defaultSortAsc": [
+									"yes"
+								]
+							}
+						]
+					],
+					"groupings": [
+						[
+							{
+								"getter": [
+									null
+								]
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 1,
+						"top": 65
+					},
+					"size": {
+						"width": 22,
+						"height": 26
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Pages without correct SMILES",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 8,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "full"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Pages without correct SMILES",
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"id"
+					],
+					"name": "openWikiID"
+				}
+			],
+			"zindex": 0
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"colorjpath": [
+								[]
+							],
+							"slickCheck": [
+								[
+									"enableCellNavigation",
+									"rowNumbering",
+									"forceFitColumns",
+									"highlightScroll"
+								]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								null
+							],
+							"slick.selectionModel": [
+								[
+									"cell"
+								]
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "ID",
+								"jpath": [
+									"id"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"defaultSortAsc": [
+									"yes"
+								]
+							}
+						]
+					],
+					"groupings": [
+						[
+							{
+								"getter": [
+									null
+								]
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 27,
+						"top": 65
+					},
+					"size": {
+						"width": 13,
+						"height": 26
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Duplicates",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 9,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "dup"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Duplicates",
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"id"
+					],
+					"name": "openWikiID"
+				}
+			],
+			"zindex": 0
+		},
+		{
+			"url": "modules/types/edition/slick_grid/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"colorjpath": [
+								[]
+							],
+							"slickCheck": [
+								[
+									"enableCellNavigation",
+									"rowNumbering",
+									"forceFitColumns",
+									"highlightScroll"
+								]
+							],
+							"slick.defaultColumnWidth": [
+								null
+							],
+							"slick.rowHeight": [
+								null
+							],
+							"slick.selectionModel": [
+								[
+									"cell"
+								]
+							]
+						}
+					],
+					"cols": [
+						[
+							{
+								"name": "ID",
+								"jpath": [
+									"id"
+								],
+								"editor": "none",
+								"formatter": "typerenderer",
+								"defaultSortAsc": [
+									"yes"
+								]
+							}
+						]
+					],
+					"groupings": [
+						[
+							{
+								"getter": [
+									null
+								]
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 44,
+						"top": 65
+					},
+					"size": {
+						"width": 13,
+						"height": 26
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Not found",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 10,
+			"vars_in": [
+				{
+					"rel": "list",
+					"name": "notfound"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Not found",
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": [
+				{
+					"event": "onSelect",
+					"rel": "row",
+					"jpath": [
+						"id"
+					],
+					"name": "openWikiID"
+				}
+			],
+			"zindex": 0
+		},
+		{
+			"url": "modules/types/display/single_value/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"defaultvalue": [
+								null
+							],
+							"font": [
+								null
+							],
+							"fontcolor": [
+								[
+									0,
+									0,
+									0,
+									1
+								]
+							],
+							"fontsize": [
+								"12pt"
+							],
+							"align": [
+								"left"
+							],
+							"valign": [
+								null
+							],
+							"sprintf": [
+								"Hovered SMILES: %s"
+							],
+							"sprintfOrder": [
+								""
+							],
+							"preformatted": [
+								[
+									"selectable",
+									"pre"
+								]
+							],
+							"append": [
+								[]
+							],
+							"maxEntries": [
+								1
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 1,
+						"top": 61
+					},
+					"size": {
+						"width": 154,
+						"height": 6
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 11,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "hoveredSmiles"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": {},
+			"zindex": 13
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 85,
+						"top": 12
+					},
+					"size": {
+						"width": 91,
+						"height": 42
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": false,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 12,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "count"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": {},
+			"actions_out": {}
+		},
+		{
+			"url": "modules/types/client_interaction/code_executor/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"display": [
+								[
+									"editor",
+									"buttons"
+								]
+							],
+							"script": [
+								"var mol = ACT.Molecule.fromMolfile(this.variables.query.get() + '');\nsendAction('updateFragment', mol.toSmiles());"
+							]
+						}
+					],
+					"libs": [
+						[
+							{
+								"lib": "components/openchemlib/dist/openchemlib-core",
+								"alias": "ACT"
+							}
+						]
+					],
+					"buttons": [
+						[
+							{
+								"name": "button1",
+								"label": "Execute"
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 67,
+						"height": 44
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 54,
+						"height": 27
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "Untitled",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				}
+			},
+			"id": 13,
+			"vars_in": [
+				{
+					"rel": "inputValue",
+					"name": "query"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "Untitled",
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": []
+		},
+		{
+			"url": "modules/types/client_interaction/code_executor/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"display": [
+								[
+									"editor",
+									"buttons"
+								]
+							],
+							"execOnLoad": [
+								[]
+							],
+							"script": [
+								"var link = this.variables.link.get() + '';\n\nreturn agent.get(link).end().then(function (res) {\n    // Replace protocol relative urls with absolute protocol\n    // because it does not work with blob urls\n    var html = res.text.replace(/\"\\/\\//g, '\"https://');\n    var blob = new Blob([html], {type : 'text/html'});\n    var url = URL.createObjectURL(blob);\n    set('url', url);\n    done();\n});\n"
+							]
+						}
+					],
+					"libs": [
+						[
+							{
+								"lib": "superagent",
+								"alias": "agent"
+							}
+						]
+					],
+					"buttons": [
+						[
+							{
+								"name": "button1",
+								"label": "Execute"
+							}
+						]
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 148,
+						"top": 0
+					},
+					"size": {
+						"width": 56,
+						"height": 39
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 148,
+						"top": 28
+					},
+					"size": {
+						"width": 54,
+						"height": 40
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 14,
+			"vars_in": [
+				{
+					"rel": "inputValue",
+					"name": "link"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "",
+			"vars_out": [
+				{
+					"event": "onScriptEnded",
+					"rel": "outputValue",
+					"jpath": [
+						"url"
+					],
+					"name": "url"
+				}
+			],
+			"actions_out": []
+		},
+		{
+			"url": "modules/types/display/template-twig/",
+			"configuration": {
+				"sections": {},
+				"groups": {
+					"group": [
+						{
+							"template": [
+								"<iframe id=\"wikipedia-iframe\" src=\"{{ url }}\" width=\"100%\" height=\"100%\" style=\"border: none; vertical-align: bottom;\"></iframe>\n<script>\n    var iframe = document.getElementById('wikipedia-iframe');\n    iframe.contentWindow.addEventListener('DOMContentLoaded', function () {\n        $(iframe.contentDocument.body).css({\n            'margin-left': 0,\n            border: 'none'\n        });\n    });\n</script>"
+							]
+						}
+					]
+				}
+			},
+			"layers": {
+				"Default layer": {
+					"position": {
+						"left": 51,
+						"top": 28
+					},
+					"size": {
+						"width": 96,
+						"height": 66
+					},
+					"zIndex": 0,
+					"display": true,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Default layer"
+				},
+				"BrowseErrors": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "BrowseErrors"
+				},
+				"Admin": {
+					"position": {
+						"left": 0,
+						"top": 0
+					},
+					"size": {
+						"width": 20,
+						"height": 20
+					},
+					"zIndex": 0,
+					"display": false,
+					"title": "",
+					"bgColor": [
+						255,
+						255,
+						255,
+						0
+					],
+					"wrapper": true,
+					"created": true,
+					"name": "Admin"
+				}
+			},
+			"id": 15,
+			"vars_in": [
+				{
+					"rel": "value",
+					"name": "url"
+				}
+			],
+			"actions_in": [
+				{}
+			],
+			"title": "",
+			"vars_out": [],
+			"actions_out": []
+		}
+	],
+	"variables": [
+		{
+			"varname": "molecules",
+			"jpath": [
+				"data",
+				"molecules"
 			]
-		  }
-		]
-	  }
-	}
-  ],
-  "crons": [
-	{}
-  ],
-  "couch_replication": [
-	{
-	  "sections": {},
-	  "groups": {
-		"couch": [
-		  [
-			{
-			  "direction": "both",
-			  "continuous": []
-			}
-		  ]
-		]
-	  }
-	}
-  ],
-  "init_script": [
-	{
-	  "sections": {},
-	  "groups": {
-		"general": [
-		  {
-			"script": [
-			  "require([\n    'src/util/api',\n    'src/util/debug',\n    'components/openchemlib/dist/openchemlib-core',\n    'components/async/lib/async',\n    'uri/URI'\n], function (API, Debug, ACT, async, URI) {\n    if (API.cache('db')) {\n        return;\n    }\n\n    var url = new URI(window.location.href);\n\n    function getName(value) {\n        value = value.replace(/_/g, ' ');\n        value = decodeURIComponent(value);\n        return value;\n    }\n\n    function toObj(val) {\n        return {id: val};\n    }\n\n    var errors = API.getData('errors');\n\n    var fullA = API.getData('fullA');\n    var full = fullA.map(toObj);\n\n    var el = errors.length;\n    var hid = 0;\n\n    for (var k = 0; k < el; k++) {\n        var id = errors[k].id;\n        var idx = fullA.indexOf(id);\n        if (idx > -1) {\n            var error = full[idx];\n            if (!error._highlight) {\n                error._highlight = [++hid];\n            } else {\n                error._highlight.push(++hid);\n            }\n            errors[k]._highlight = [hid];\n        } else {\n            errors[k]._highlight = [];\n        }\n    }\n\n    API.createData('full', full);\n    API.createData('dup', API.getData('dupA').map(toObj));\n    API.createData('notfound', API.getData('notfoundA').map(toObj));\n\n    var molecules = API.getData('molecules');\n    if (molecules && molecules.length) {\n        // ?mini=true => only 500 molecules for testing\n        var l = molecules.length;\n        if(document.location.search.indexOf('mini') > -1) {\n            l = Math.min(l, 500);\n        }\n        var db = new Array(l);\n        API.cache('db', db);\n        var timer = Debug.timer();\n        var i = 0, ii, molecule;\n\n        async.whilst(function () {\n            ii = Math.min(i + 1000, l);\n\n            for (; i < ii; i++) {\n                API.loading('mol', 'Loading molecules (' + (i + 1) + '/' + l + ')');\n                molecule = molecules[i];\n                // we will add the links in the molecules\n                molecule.link = 'http://rest.wikimedia.org/en.wikipedia.org/v1/page/html/' + molecule.code;\n                molecule.wiki = 'http://en.wikipedia.org/wiki/' + molecule.code;\n                molecule.name = getName(molecule.code);\n                molecule.lowName = molecule.name.toLowerCase();\n                var newEntry = {};\n                newEntry.molecule = ACT.Molecule.fromIDCode(molecule.actID.value, false);\n                newEntry.molecule.ensureHelperArrays(3);\n                newEntry.index = i;\n                db[i] = newEntry;\n            }\n\n            return ii !== l\n        }, function (callback) {\n            setImmediate(callback);\n        }, function () {\n            Debug.debug(timer.time('ms'));\n            var fragment = decodeURIComponent(url.fragment());\n            var query = {\n                type: 'mol2d',\n                value: ''\n            };\n            if (fragment) {\n                try {\n                    var mol = ACT.Molecule.fromSmiles(fragment);\n                    var molfile = mol.toMolfile();\n                    query.value = molfile;\n                    API.createData('selectedMol', {type: 'mol2d', value: molfile});\n                    API.createData('customQueryOpts', {searchMode: 'Similarity'});\n                    API.createData('queryOptions', {searchMode: 'Similarity'});\n                } catch (e) {}\n            } else {\n                API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                API.createData('queryOptions',{searchMode: 'Substructure'});\n            }\n            API.createData('query', query, 'searchFilter');\n            API.stopLoading('mol');\n        });\n\n    }\n});"
+		},
+		{
+			"varname": "queryOptions",
+			"jpath": [
+				"queryOptions"
 			]
-		  }
-		]
-	  }
-	}
-  ],
-  "custom_filters": [
-	{
-	  "sections": {
-		"filters": [
-		  {
+		},
+		{
+			"varname": "query",
+			"jpath": [
+				"query"
+			]
+		},
+		{
+			"varname": "errors",
+			"jpath": [
+				"data",
+				"errors"
+			]
+		},
+		{
+			"varname": "fullA",
+			"jpath": [
+				"data",
+				"nogood"
+			]
+		},
+		{
+			"varname": "dupA",
+			"jpath": [
+				"data",
+				"dup"
+			]
+		},
+		{
+			"varname": "notfoundA",
+			"jpath": [
+				"data",
+				"notfound"
+			]
+		},
+		{
+			"varname": "count",
+			"jpath": [
+				"count"
+			]
+		}
+	],
+	"pouchvariables": [
+		{}
+	],
+	"configuration": {
+		"title": "Search wikipedia by substructure and similarity"
+	},
+	"actionscripts": [
+		{
 			"sections": {},
 			"groups": {
-			  "filter": [
-				{
-				  "name": [
-					"searchFilter"
-				  ],
-				  "script": [
-					"return {\n    filter: function (value, resolve, reject) {\n\n        resolve(value);\n\n        var molfile, options;\n        if (value.__name === 'query') {\n            molfile = value;\n            options = API.getData('queryOptions');\n        } else if (value.__name === 'queryOptions') {\n            options = value;\n            molfile = API.getData('query');\n        }\n\n        if (!options) {\n            return;\n        }\n\n        var molecules = API.getData('molecules');\n\n        var result = [],\n            i, ii;\n\n        if (!molfile || !molfile.get() || !options) {\n            for (i = 0, ii = molecules.length; i < ii; i++) {\n                result.push(molecules[i]);\n            }\n            return sendResult(result);\n        }\n\n        var queryMol = ACT.Molecule.fromMolfile(molfile.get());\n        var mode = String(options.get('searchMode'));\n        var targetMW;\n\n        switch (mode) {\n            case 'Exact structure':\n            {\n                var idcode = queryMol.getIDCode();\n                for (i = 0, ii = molecules.length; i < ii; i++) {\n                    if (String(molecules[i].actID.value) === idcode) {\n                        result = [molecules[i]];\n                        break;\n                    }\n                }\n                break;\n            }\n            case 'Substructure':\n            {\n                targetMW = queryMol.getMolecularFormula().getRelativeWeight();\n                queryMol.setFragment(true);\n                var queryIndex = queryMol.getIndex();\n                var searcher = new ACT.SSSearchWithIndex();\n                searcher.setFragment(queryMol, queryIndex);\n                var db = API.cache('db');\n                for (i = 0, ii = db.length; i < ii; i++) {\n                    var actmol = db[i].molecule,\n                        mol = molecules[db[i].index];\n                    searcher.setMolecule(actmol, mol.act_idx);\n                    if (searcher.isFragmentInMolecule()) {\n                        result.push(mol);\n                    }\n                }\n                result.sort(function (a, b) {\n                    return Math.abs(targetMW - a.mw) - Math.abs(targetMW - b.mw);\n                });\n\n                break;\n            }\n            case 'Similarity':\n            {\n                var index = queryMol.getIndex();\n                targetMW = queryMol.getMolecularFormula().getRelativeWeight();\n                var targetID = queryMol.getIDCode();\n                var intermediate = [];\n                var similarity;\n                for (i = 0, ii = molecules.length; i < ii; i++) {\n                    if (String(molecules[i].actID.value) === targetID) {\n                        similarity = 1e10;\n                    } else {\n                        similarity = ACT.SSSearchWithIndex.getTanimotoSimilarity(index, molecules[i].act_idx) * 100000 - Math.abs(targetMW - molecules[i].mw) / 1000;\n                    }\n                    intermediate.push([molecules[i], similarity]);\n                }\n                intermediate.sort(function (a, b) {\n                    return b[1] - a[1];\n                });\n\n                for (i = 0, ii = intermediate.length; i < ii; i++) {\n                    result.push(intermediate[i][0]);\n                }\n\n                break;\n            }\n        }\n\n        sendResult(result);\n\n        API.setVar('hover', ['searchResult', 0]);\n\n        function sendResult(result) {\n            var name = String(options.get('name')).toLowerCase();\n            if (name != 'undefined') { // filter by name\n                var oldResult = result;\n                result = [];\n                for (i = 0, ii = oldResult.length; i < ii; i++) {\n                    if (oldResult[i].lowName.indexOf(name) > -1) {\n                        result.push(oldResult[i]);\n                    }\n                }\n            }\n\n            // if there is some result we change the link, otherwise we blank it\n            if (result.length > 0) {\n                API.createData('link', result[0].link + '');\n            } else {\n                API.createData('link', null);\n            }\n\n            API.createData('searchResult', result);\n        }\n\n    }\n};"
-				  ]
-				}
-			  ],
-			  "libs": [
-				[
-				  {
-					"lib": "components/openchemlib/dist/openchemlib-core",
-					"alias": "ACT"
-				  }
+				"action": [
+					{
+						"name": [
+							"openWikiID"
+						],
+						"script": [
+							"window.open('https://en.wikipedia.org/w/index.php?curid=' + value, '_blank')"
+						]
+					}
 				]
-			  ]
 			}
-		  }
-		]
-	  },
-	  "groups": {}
-	}
-  ],
-  "actionfiles": [
-	{
-	  "sections": {},
-	  "groups": {
-		"action": [
-		  [
-			{}
-		  ]
-		]
-	  }
-	}
-  ],
-  "aliases": []
+		},
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					{
+						"name": [
+							"putMol"
+						],
+						"script": [
+							"require(['src/util/api', 'components/openchemlib/dist/openchemlib-core'], function (API, ACT) {\n    var hover = API.getData('hover');\n    var act;\n    if (hover && (act = hover.get('actID'))) {\n        var mol = ACT.Molecule.fromIDCode(act.value + '', act.coordinates + '').toMolfile();\n        API.createData('customQueryOpts', {searchMode: 'Similarity'});\n        API.createData('queryOptions', {searchMode: 'Similarity'});\n        API.createData('selectedMol', {type: 'mol2d', value: mol});\n        API.createData('query', {type: 'mol2d', value: mol});\n    }\n});"
+						]
+					}
+				]
+			}
+		},
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					{
+						"name": [
+							"viewDrug"
+						],
+						"script": [
+							"require(['src/util/api'], function (API) {\n    var currentDrug = API.getData('hover');\n    if (currentDrug) {\n        var link = currentDrug.get('wiki').get() + '';\n        window.open(link, '_blank')\n    }\n});"
+						]
+					}
+				]
+			}
+		},
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					{
+						"name": [
+							"updateFragment"
+						],
+						"script": [
+							"require(['uri/URI'], function (URI) {\n    var url = new URI(window.location.href);\n    url.fragment(encodeURIComponent(value));\n    window.history.pushState(null, '', url.href());\n});"
+						]
+					}
+				]
+			}
+		}
+	],
+	"crons": [
+		{}
+	],
+	"couch_replication": [
+		{
+			"sections": {},
+			"groups": {
+				"couch": [
+					[
+						{
+							"direction": "both",
+							"continuous": []
+						}
+					]
+				]
+			}
+		}
+	],
+	"init_script": [
+		{
+			"sections": {},
+			"groups": {
+				"general": [
+					{
+						"script": [
+							"require([\n    'src/util/api',\n    'src/util/debug',\n    'components/openchemlib/dist/openchemlib-core',\n    'components/async/lib/async',\n    'uri/URI'\n], function (API, Debug, ACT, async, URI) {\n    if (API.cache('db')) {\n        return;\n    }\n\n    var url = new URI(window.location.href);\n\n    function getName(value) {\n        value = value.replace(/_/g, ' ');\n        value = decodeURIComponent(value);\n        return value;\n    }\n\n    function toObj(val) {\n        return {id: val};\n    }\n\n    var errors = API.getData('errors');\n\n    var fullA = API.getData('fullA');\n    var full = fullA.map(toObj);\n\n    var el = errors.length;\n    var hid = 0;\n\n    for (var k = 0; k < el; k++) {\n        var id = errors[k].id;\n        var idx = fullA.indexOf(id);\n        if (idx > -1) {\n            var error = full[idx];\n            if (!error._highlight) {\n                error._highlight = [++hid];\n            } else {\n                error._highlight.push(++hid);\n            }\n            errors[k]._highlight = [hid];\n        } else {\n            errors[k]._highlight = [];\n        }\n    }\n\n    API.createData('full', full);\n    API.createData('dup', API.getData('dupA').map(toObj));\n    API.createData('notfound', API.getData('notfoundA').map(toObj));\n\n    var molecules = API.getData('molecules');\n    if (molecules && molecules.length) {\n        // ?mini=true => only 500 molecules for testing\n        var l = molecules.length;\n        if(document.location.search.indexOf('mini') > -1) {\n            l = Math.min(l, 500);\n        }\n        var db = new Array(l);\n        API.cache('db', db);\n        var timer = Debug.timer();\n        var i = 0, ii, molecule;\n\n        async.whilst(function () {\n            ii = Math.min(i + 1000, l);\n\n            for (; i < ii; i++) {\n                API.loading('mol', 'Loading molecules (' + (i + 1) + '/' + l + ')');\n                molecule = molecules[i];\n                // we will add the links in the molecules\n                molecule.link = 'https://rest.wikimedia.org/en.wikipedia.org/v1/page/html/' + molecule.code;\n                molecule.wiki = 'https://en.wikipedia.org/wiki/' + molecule.code;\n                molecule.name = getName(molecule.code);\n                molecule.lowName = molecule.name.toLowerCase();\n                var newEntry = {};\n                newEntry.molecule = ACT.Molecule.fromIDCode(molecule.actID.value, false);\n                newEntry.molecule.ensureHelperArrays(3);\n                newEntry.index = i;\n                db[i] = newEntry;\n            }\n\n            return ii !== l\n        }, function (callback) {\n            setImmediate(callback);\n        }, function () {\n            Debug.debug(timer.time('ms'));\n            var fragment = decodeURIComponent(url.fragment());\n            var query = {\n                type: 'mol2d',\n                value: ''\n            };\n            if (fragment) {\n                try {\n                    var mol = ACT.Molecule.fromSmiles(fragment);\n                    var molfile = mol.toMolfile();\n                    query.value = molfile;\n                    API.createData('selectedMol', {type: 'mol2d', value: molfile});\n                    API.createData('customQueryOpts', {searchMode: 'Similarity'});\n                    API.createData('queryOptions', {searchMode: 'Similarity'});\n                } catch (e) {}\n            } else {\n                API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                API.createData('queryOptions',{searchMode: 'Substructure'});\n            }\n            API.createData('query', query, 'searchFilter');\n            API.stopLoading('mol');\n        });\n\n    }\n});"
+						]
+					}
+				]
+			}
+		}
+	],
+	"custom_filters": [
+		{
+			"sections": {
+				"modules": [
+					{
+						"sections": {},
+						"groups": {
+							"modules": [
+								[
+									{}
+								]
+							]
+						}
+					}
+				],
+				"filtersLib": [
+					{
+						"sections": {},
+						"groups": {
+							"filters": [
+								[
+									{}
+								]
+							]
+						}
+					}
+				],
+				"filters": [
+					{
+						"sections": {},
+						"groups": {
+							"filter": [
+								{
+									"name": [
+										"searchFilter"
+									],
+									"script": [
+										"return {\n    filter: function (value, resolve, reject) {\n\n        resolve(value);\n\n        var molfile, options;\n        if (value.__name === 'query') {\n            molfile = value;\n            options = API.getData('queryOptions');\n        } else if (value.__name === 'queryOptions') {\n            options = value;\n            molfile = API.getData('query');\n        }\n\n        if (!options) {\n            return;\n        }\n\n        var molecules = API.getData('molecules');\n\n        var result = [],\n            i, ii;\n\n        if (!molfile || !(molfile.get() + '') || !options) {\n            for (i = 0, ii = molecules.length; i < ii; i++) {\n                result.push(molecules[i]);\n            }\n            return sendResult(result);\n        }\n\n        var queryMol = ACT.Molecule.fromMolfile(molfile.get() + '');\n        var mode = String(options.get('searchMode'));\n        var targetMW;\n\n        switch (mode) {\n            case 'Exact structure':\n            {\n                var idcode = queryMol.getIDCode();\n                for (i = 0, ii = molecules.length; i < ii; i++) {\n                    if (String(molecules[i].actID.value) === idcode) {\n                        result = [molecules[i]];\n                        break;\n                    }\n                }\n                break;\n            }\n            case 'Substructure':\n            {\n                targetMW = queryMol.getMolecularFormula().getRelativeWeight();\n                queryMol.setFragment(true);\n                var queryIndex = queryMol.getIndex();\n                var searcher = new ACT.SSSearcherWithIndex();\n                searcher.setFragment(queryMol, queryIndex);\n                var db = API.cache('db');\n                for (i = 0, ii = db.length; i < ii; i++) {\n                    var actmol = db[i].molecule,\n                        mol = molecules[db[i].index];\n                    searcher.setMolecule(actmol, mol.act_idx);\n                    if (searcher.isFragmentInMolecule()) {\n                        result.push(mol);\n                    }\n                }\n                result.sort(function (a, b) {\n                    return Math.abs(targetMW - a.mw) - Math.abs(targetMW - b.mw);\n                });\n\n                break;\n            }\n            case 'Similarity':\n            {\n                var index = queryMol.getIndex();\n                targetMW = queryMol.getMolecularFormula().getRelativeWeight();\n                var targetID = queryMol.getIDCode();\n                var intermediate = [];\n                var similarity;\n                for (i = 0, ii = molecules.length; i < ii; i++) {\n                    if (String(molecules[i].actID.value) === targetID) {\n                        similarity = 1e10;\n                    } else {\n                        similarity = ACT.SSSearcherWithIndex.getSimilarityTanimoto(index, molecules[i].act_idx) * 100000 - Math.abs(targetMW - molecules[i].mw) / 1000;\n                    }\n                    intermediate.push([molecules[i], similarity]);\n                }\n                intermediate.sort(function (a, b) {\n                    return b[1] - a[1];\n                });\n\n                for (i = 0, ii = intermediate.length; i < ii; i++) {\n                    result.push(intermediate[i][0]);\n                }\n\n                break;\n            }\n        }\n\n        sendResult(result);\n\n        API.setVar('hover', ['searchResult', 0]);\n\n        function sendResult(result) {\n            var name = String(options.get('name')).toLowerCase();\n            if (name != 'undefined') { // filter by name\n                var oldResult = result;\n                result = [];\n                for (i = 0, ii = oldResult.length; i < ii; i++) {\n                    if (oldResult[i].lowName.indexOf(name) > -1) {\n                        result.push(oldResult[i]);\n                    }\n                }\n            }\n\n            // if there is some result we change the link, otherwise we blank it\n            if (result.length > 0) {\n                API.createData('link', result[0].link + '');\n            } else {\n                API.createData('link', null);\n            }\n\n            API.createData('searchResult', result);\n        }\n\n    }\n};"
+									]
+								}
+							],
+							"libs": [
+								[
+									{
+										"lib": "components/openchemlib/dist/openchemlib-core",
+										"alias": "ACT"
+									}
+								]
+							]
+						}
+					}
+				]
+			},
+			"groups": {}
+		}
+	],
+	"actionfiles": [
+		{
+			"sections": {},
+			"groups": {
+				"action": [
+					[
+						{}
+					]
+				]
+			}
+		}
+	],
+	"aliases": [
+		{}
+	]
 }

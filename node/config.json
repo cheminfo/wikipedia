@@ -1,7 +1,7 @@
 {
   "visualizer": {
-    "cdn": "v2.27.0",
-    "version": "732ed8b45c79d18f111a55596b422b9166392b97",
+    "cdn": "v2.40.1",
+    "version": "a9988958933e488cda6d023f3f6ed8d279971444",
     "del": [
       "components/chemcalc",
       "components/chroma-js",

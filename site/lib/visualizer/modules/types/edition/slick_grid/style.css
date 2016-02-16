@@ -357,12 +357,6 @@ classes should alter those!
     background-color: rgb(255,255,153) !important;
 }
 
-.slick-cell a.recycle-bin {
-    cursor: pointer;
-    padding: 6px 3px 11px 3px;
-    margin-left: 3px;
-}
-
 .rowHelp {
     background-color: lightgray;
     color: white;
@@ -465,6 +459,14 @@ classes should alter those!
 }
 
 /* =========== MODULE CUSTOM CSS ============ */
+.slick-cell a.recycle-bin {
+    cursor: pointer;
+}
+
+.slick-cell a.icon-container {
+    cursor: pointer;
+}
+
 .ci-module-slickgrid .main-container{
     display: -webkit-flex;
     display: flex;
@@ -478,4 +480,10 @@ classes should alter those!
 .ci-module-slickgrid .flex-1 {
     -webkit-flex: 1;
     flex: 1;
+}
+
+.ci-module-slickgrid i.centered-icon {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
 }

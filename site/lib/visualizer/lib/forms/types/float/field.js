@@ -1,1 +1,1 @@
-define(["../../field"],function(a){var b=function(a){this.name=a};return b.prototype=new a,b});
+"use strict";define(["../../field"],function(a){var b=function(a){this.name=a};return b.prototype=new a,b});

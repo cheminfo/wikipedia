@@ -70,7 +70,7 @@ var MELHighlightRules = function() {
            regex: '(^[ \\t]*)((?:#)[a-zA-Z]+)' },
          
          { token: [ 'meta.function.mel', 'keyword.other.mel', 'storage.type.mel', 'entity.name.function.mel', 'punctuation.section.function.mel' ],
-           regex: '((?:global\\s*)?proc)\\s*(\\w+\\s*\\[?\\]?\\s+|\\s+)([A-Za-z_][A-Za-z0-9_\\.]*)(\\s*(\\())',
+           regex: '(global\\s*)?(proc\\s*)(\\w+\\s*\\[?\\]?\\s+|\\s+)([A-Za-z_][A-Za-z0-9_\\.]*)(\\s*\\()',
            push: 
             [ { include: '$self' },
               { token: 'punctuation.section.function.mel',
@@ -328,8 +328,8 @@ var CstyleBehaviour = function() {
                 if (leftChar == "\\" && token && /escape/.test(token.type))
                     return null;
                 
-                var stringBefore = token && /string/.test(token.type);
-                var stringAfter = !rightToken || /string/.test(rightToken.type);
+                var stringBefore = token && /string|escape/.test(token.type);
+                var stringAfter = !rightToken || /string|escape/.test(rightToken.type);
                 
                 var pair;
                 if (rightChar == quote) {
@@ -470,7 +470,7 @@ oop.inherits(FoldMode, BaseFoldMode);
     this.foldingStopMarker = /^[^\[\{]*(\}|\])|^[\s\*]*(\*\/)/;
     this.singleLineBlockCommentRe= /^\s*(\/\*).*\*\/\s*$/;
     this.tripleStarBlockCommentRe = /^\s*(\/\*\*\*).*\*\/\s*$/;
-    this.startRegionRe = /^\s*(\/\*|\/\/)#region\b/;
+    this.startRegionRe = /^\s*(\/\*|\/\/)#?region\b/;
     this._getFoldWidgetBase = this.getFoldWidget;
     this.getFoldWidget = function(session, foldStyle, row) {
         var line = session.getLine(row);
@@ -558,13 +558,12 @@ oop.inherits(FoldMode, BaseFoldMode);
         
         return new Range(startRow, startColumn, endRow, session.getLine(endRow).length);
     };
-    
     this.getCommentRegionBlock = function(session, line, row) {
         var startColumn = line.search(/\s*$/);
         var maxRow = session.getLength();
         var startRow = row;
         
-        var re = /^\s*(?:\/\*|\/\/)#(end)?region\b/;
+        var re = /^\s*(?:\/\*|\/\/|--)#?(end)?region\b/;
         var depth = 1;
         while (++row < maxRow) {
             line = session.getLine(row);

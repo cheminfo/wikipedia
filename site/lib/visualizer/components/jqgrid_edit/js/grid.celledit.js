@@ -29,7 +29,7 @@
  * cellurl
  * ajaxCellOptions
 * */
-
+"use strict";
 $.jgrid.extend({
 	editCell : function (iRow,iCol, ed){
 		return this.each(function (){

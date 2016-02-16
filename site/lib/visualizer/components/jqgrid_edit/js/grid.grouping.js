@@ -2,7 +2,7 @@
 /*global jQuery */
 // Grouping module
 (function($){
-
+"use strict";
 $.extend($.jgrid,{
 	template : function(format){ //jqgformat
 		var args = $.makeArray(arguments).slice(1), j, al = args.length;

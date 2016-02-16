@@ -10,7 +10,7 @@
  * http://www.gnu.org/licenses/gpl-2.0.html
  * depends on jQuery UI 
 **/
-
+"use strict";
 if ($.jgrid.msie && $.jgrid.msiever()===8) {
 	$.expr[":"].hidden = function(elem) {
 		return elem.offsetWidth === 0 || elem.offsetHeight === 0 ||

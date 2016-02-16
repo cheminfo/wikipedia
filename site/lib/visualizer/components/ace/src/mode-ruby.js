@@ -567,8 +567,8 @@ var CstyleBehaviour = function() {
                 if (leftChar == "\\" && token && /escape/.test(token.type))
                     return null;
                 
-                var stringBefore = token && /string/.test(token.type);
-                var stringAfter = !rightToken || /string/.test(rightToken.type);
+                var stringBefore = token && /string|escape/.test(token.type);
+                var stringAfter = !rightToken || /string|escape/.test(rightToken.type);
                 
                 var pair;
                 if (rightChar == quote) {
@@ -809,7 +809,7 @@ oop.inherits(Mode, TextMode);
             var match = line.match(/^.*[\{\(\[]\s*$/);
             var startingClassOrMethod = line.match(/^\s*(class|def|module)\s.*$/);
             var startingDoBlock = line.match(/.*do(\s*|\s+\|.*\|\s*)$/);
-            var startingConditional = line.match(/^\s*(if|else)\s*/)
+            var startingConditional = line.match(/^\s*(if|else|when)\s*/)
             if (match || startingClassOrMethod || startingDoBlock || startingConditional) {
                 indent += tab;
             }

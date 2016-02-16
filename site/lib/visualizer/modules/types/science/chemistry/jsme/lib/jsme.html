@@ -64,11 +64,20 @@
     };
 
     var changeCallback = function (result) {
-        var mol = window.jsmeApplet.molFile();
-        var molV3 = window.jsmeApplet.molFile(true);
-        var jme = window.jsmeApplet.jmeFile();
-        var smiles = window.jsmeApplet.smiles();
-        window.doPostMessage("onChange", {mol: mol, molV3: molV3, smiles: smiles, jme: jme, action: result.action});
+        setTimeout(function () {
+            var mol = window.jsmeApplet.molFile();
+            var molV3 = window.jsmeApplet.molFile(true);
+            var jme = window.jsmeApplet.jmeFile();
+            var smiles = window.jsmeApplet.smiles();
+            var svg = window.jsmeApplet.getMolecularAreaGraphicsString();
+            svg = svg.split('\n').filter(function (line, i) {
+                if (i === 1) return false; // remove main white background
+                if (/^<(rect|polygon).*stroke="rgb\(0,0,255\)"/.test(line)) return false; // remove blue hover rectangle
+                if (/^<line .*y1="0".*stroke="rgb\(...,(134|192|255),...\)"/.test(line)) return false; // remove lines on the right
+                return true;
+            }).join('\n');
+            window.doPostMessage('onChange', {mol: mol, molV3: molV3, smiles: smiles, jme: jme, svg: svg, action: result.action});
+        });
     };
 
     function setDefaultAction() {

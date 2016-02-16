@@ -1,4 +1,4 @@
-
+'use strict';
 
 define(['lib/chemistry/gc-generator'], function (GC) {
 

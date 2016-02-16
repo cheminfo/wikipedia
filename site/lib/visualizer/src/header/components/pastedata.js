@@ -1,1 +1,0 @@
-define(["jquery","src/util/ui","src/header/components/default","src/util/versioning","forms/button","src/util/util"],function(a,b,c,d,e,f){function g(){}return f.inherits(g,c,{_onClick:function(){b.pasteData()}}),g});

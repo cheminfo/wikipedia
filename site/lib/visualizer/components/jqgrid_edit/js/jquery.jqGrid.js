@@ -3830,7 +3830,7 @@ $.jgrid.extend({
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/
-
+"use strict";
 $.jgrid.extend({
 	getColProp : function(colname){
 		var ret ={}, $t = this[0];
@@ -5752,7 +5752,7 @@ var xmlJsonClass = {
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 */
-
+"use strict";
 $.extend($.jgrid,{
 // Modal functions
 	showModal : function(h) {
@@ -7128,7 +7128,7 @@ $.extend($.fn.jqFilter,{
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/
-
+"use strict";
 var rp_ge = {};
 $.jgrid.extend({
 	searchGrid : function (p) {
@@ -9242,7 +9242,7 @@ $.jgrid.extend({
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/ 
-
+"use strict";
 $.jgrid.inlineEdit = $.jgrid.inlineEdit || {};
 $.jgrid.extend({
 //Editing
@@ -9907,7 +9907,7 @@ $.jgrid.extend({
  * cellurl
  * ajaxCellOptions
 * */
-
+"use strict";
 $.jgrid.extend({
 	editCell : function (iRow,iCol, ed){
 		return this.each(function (){
@@ -10383,7 +10383,7 @@ $.jgrid.extend({
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/
-
+"use strict";
 $.jgrid.extend({
 setSubGrid : function () {
 	return this.each(function (){
@@ -11843,7 +11843,7 @@ $.jgrid.extend({
  * http://www.gnu.org/licenses/gpl-2.0.html
 **/ 
 
-
+"use strict";
     $.jgrid.extend({
         jqGridImport : function(o) {
             o = $.extend({
@@ -12058,7 +12058,7 @@ $.jgrid.extend({
  * http://www.gnu.org/licenses/gpl-2.0.html
  * depends on jQuery UI 
 **/
-
+"use strict";
 if ($.jgrid.msie && $.jgrid.msiever()===8) {
 	$.expr[":"].hidden = function(elem) {
 		return elem.offsetWidth === 0 || elem.offsetHeight === 0 ||

@@ -5,8 +5,8 @@
   "main": "index.js",
   "private": true,
   "devDependencies": {
-    "del": "^1.1.0",
-    "tarball-extract": "0.0.3",
-    "superagent": "^0.21.0"
+    "del": "^2.2.0",
+    "superagent": "^1.7.2",
+    "tarball-extract": "0.0.3"
   }
 }
