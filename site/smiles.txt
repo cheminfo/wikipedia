@@ -11159,7 +11159,6 @@ Bismuth selenide	[Se-2].[Se-2].[Se-2].[Bi+3].[Bi+3]
 Lumacaftor	CC1=C(N=C(C=C1)NC(=O)C2(CC2)C3=CC4=C(C=C3)OC(O4)(F)F)C5=CC(=CC=C5)C(=O)O
 MDA-19	O=C(C1=CC=CC=C1)N/N=C(C2=CC=CC=C2N3CCCCCC)\C3=O
 2′-Acetoxycocaine	CN1C2C[C@H](OC(C3=C(OC(C)=O)C=CC=C3)=O)[C@H](C(OC)=O)C1CC2
-Olodaterol	CC(C)(CC1=CC=C(C=C1)OC)NCC(C2=CC(=CC3=C2OCC(=O)N3)O)O
 UR-144	CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3C(C3(C)C)(C)C
 Guaiene	C[C@H]1CCC2=C1C[C@H](C(C)=C)CC[C@@H]2C
 Guaiene	C[C@H]1CCC2=C1C/C(CC[C@@H]2C)=C(C)\C
@@ -11204,6 +11203,7 @@ S-Nitrosoglutathione	NC(CCC(=O)NC(CSN=O)C(=O)NCC(O)=O)C(O)=O
 Sofosbuvir	C[C@@H](C(OC(C)C)=O)N[P@](OC[C@@H]1[C@H]([C@@](F)([C@@H](O1)N2C=CC(NC2=O)=O)C)O)(OC3=CC=CC=C3)=O
 Tropacocaine	CN3[C@H]1CC[C@@H]3C[C@H](C1)OC(=O)c2ccccc2
 Diethylene glycol diethyl ether	CCOCCOCCOCC
+Abaloparatide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NC(C)(C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)C(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc2cnc[nH]2)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](Cc3cnc[nH]3)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
 TG101348	NC1=C(CC2=CC=CC(S(NC(C)(C)C)(=O)=O)=C2)N=C(NC3=CC=C(OCCN4CCCC4)C=C3)N=C1
 Kelatorphan	O=C(O)[C@@H](NC(=O)[C@H](Cc1ccccc1)CC(=O)NO)C
 Spinorphin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)O)[C@H](O)C)Cc3c2ccccc2[nH]c3)Cc4ccc(O)cc4)C(C)C)C(C)C)[C@@H](N)CC(C)C
