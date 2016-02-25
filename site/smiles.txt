@@ -3759,6 +3759,7 @@ Balsalazide	O=C(O)c1cc(ccc1O)/N=N/c2ccc(cc2)C(=O)NCCC(O)=O
 Olsalazine	O=C(O)c1cc(ccc1O)/N=N/c2cc(C(O)=O)c(O)cc2
 Beta-Propiolactone	O=C1OCC1
 Azelastine	Clc1ccc(cc1)CC\3=N\N(C(=O)c2ccccc2/3)C4CCCN(C)CC4
+2,3-Bisphosphoglyceric acid	O=P(O)(OC(C(=O)O)COP(=O)(O)O)O
 Dimethoxymethane	COCOC
 Ivabradine	O=C2N(CCc1cc(OC)c(OC)cc1C2)CCCN(C[C@@H]4c3cc(OC)c(OC)cc3C4)C
 Thiocarbanilide	S=C(Nc1ccccc1)Nc2ccccc2
@@ -13876,3 +13877,4 @@ Phenethyl acetate	CC(=O)OCCc1ccccc1
 Delta-Nonalactone	CCCCC1CCCC(=O)O1
 Gamma-Nonalactone	CCCCCC1CCC(=O)O1
 Ethyl isovalerate	CC(C)CC(=O)OCC
+Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
