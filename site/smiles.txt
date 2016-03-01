@@ -3237,6 +3237,7 @@ Eplerenone	COC(=O)[C@@H]4C\C1=C\C(=O)CC[C@]1(C)[C@@]65O[C@@H]6C[C@@]3(C)[C@@H](C
 Butamben	O=C(OCCCC)c1ccc(N)cc1
 1,1-Dichloroethene	ClC(Cl)=C
 1,1,2-Trichloroethane	C(C(Cl)Cl)Cl
+Nociceptin	C[C@H]([C@@H](C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CO)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@H](Cc2ccccc2)N)O
 Norbuprenorphine	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O)O4)OC)(C(C)(C)C)O
 Biguanide	NC(=N)NC(N)=N
 1,4-Dimethoxybenzene	COc1ccc(OC)cc1
@@ -6550,6 +6551,7 @@ Embutramide	O=C(NCC(c1cc(OC)ccc1)(CC)CC)CCCO
 4-Fluoromethamphetamine	Fc1ccc(cc1)CC(NC)C
 Bromsulphthalein	[Na+].[Na+].[O-]S(=O)(=O)c1c(O)ccc(c1)C3(OC(=O)c2c(Br)c(Br)c(Br)c(Br)c23)c4ccc(O)c(c4)S([O-])(=O)=O
 Aplysiatoxin	C[C@@H](O)C(CC(O1)=O)OC(C[C@@]2(O)[C@H](C)CC(C)(C)[C@@]3(C[C@H]1[C@H](C)[C@@H]([C@@H](C)CCC(OC)C4=C(Br)C=CC(O)=C4)O3)O2)=O
+Nodularin	C/C=C\1/C(=O)N[C@H]([C@@H](C(=O)N[C@H](C(=O)N[C@H]([C@@H](C(=O)N[C@H](CCC(=O)N1C)C(=O)O)C)/C=C/C(=C/[C@H](C)[C@H](CC2=CC=CC=C2)OC)/C)CCCNC(=N)N)C)C(=O)O
 Magnesium iodide	[Mg+2].[I-].[I-]
 Strontium iodide	[Sr+2].[I-].[I-]
 Mephedrone	CC1=CC=C(C(C(NC)C)=O)C=C1
@@ -10173,7 +10175,7 @@ Glycolonitrile	OCC#N
 Iron oxychloride	[O][Fe]Cl
 Acetone thiosemicarbazone	S=C(N)N/N=C(\C)C
 Chromium(VI) oxide peroxide	[O-2].[O-][Cr]([O-])(=O)=O
-Palladium(II) iodide	[Pd+2].[I-].[I-]
+Palladium(II) iodide	[Pd](I)I
 Palladium(II) bromide	Br[Pd]Br
 Azinphos-ethyl	CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1
 Isobutyl cyanoacrylate	N#CC(=C)C(=O)OCC(C)C
@@ -13727,6 +13729,7 @@ Phosphoramide	NP(=O)(N)N
 Cyclopropenone	c1cc1=O
 Cyclobutanone	O=C1CCC1
 Cyclopentadienone	C1=CC(=O)C=C1
+Parathion methyl	COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
 2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
 Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
