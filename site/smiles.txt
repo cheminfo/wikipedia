@@ -2,7 +2,6 @@ Ammonia	N
 Aspirin	O=C(Oc1ccccc1C(=O)O)C
 Acetylene	C#C
 Adenosine triphosphate	O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
-Adenosine triphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O)O)N
 Ampicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
 Ascorbic acid	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
 Ascorbic acid	OC=1C(OC(=O)C=1O)[C@@H](O)CO
@@ -238,8 +237,7 @@ Deoxyuridine	O=C/1NC(=O)N(\C=C\1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
 Acetaldehyde	O=CC
 Thymidine	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)CO)O
 Methyl radical	[CH3]
-Adenosine diphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)OP(=O)(O)O)O)O)N
-Adenosine diphosphate	O=P(O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
+Adenosine diphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
 Adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 5-Methylcytosine	Cc1cnc(=O)[nH]c1N
 Ornithine	O=C(O)[C@@H](N)CCCN
@@ -10714,7 +10712,7 @@ Ammonium oxalate	[O-]C(=O)C([O-])=O.[NH4+].[NH4+]
 G-130	CC1(C)NCC(OC1)C2=CC=CC=C2
 2-Phenyl-3,6-dimethylmorpholine	CC1NCC(C)OC1c2ccccc2
 3-Benzhydrylmorpholine	C1(C(C2=CC=CC=C2)C3NCCOC3)=CC=CC=C1
-Glyceollin III	CC(=C)C1CC2=CC3=C(C=C2O1)OCC4(C3OC5=C4C=CC(=C5)O)O
+Glyceollin III	CC(=C)[C@@H]1Cc2cc3c(cc2O1)OC[C@@]4([C@H]3Oc5c4ccc(c5)O)O
 RTI-120	CN1[C@@H]2C[C@H](C3=CC=C(C)C=C3)[C@H](C(OC4=CC=CC=C4)=O)[C@H]1CC2
 Antimony sulfate	[SbH3+3].[SbH3+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Fertaric acid	Oc1ccc(cc1OC)/C=C/C(=O)OC(C(=O)O)C(O)C(=O)O
@@ -13462,6 +13460,7 @@ Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 SRX246	O=C1[C@@H](N2C(OC[C@@H]2C3=CC=CC=C3)=O)[C@@H](/C=C/C4=CC=CC=C4)N1[C@@H](C(N[C@H](C)C5=CC=CC=C5)=O)CC(N6CCC(N7CCCCC7)CC6)=O
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
+Gepotidacin	c1cc(=O)n2c3c1ncc(=O)n3[C@@H](C2)CN4CCC(CC4)NCc5cc6c(cn5)OCCC6
 2-Octanol	c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=CCC(=C5)N)O)O)O)OP(=O)(O)O)N
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CCC7=CC(=C(CCC(=C5)C=C6)C=C7)C8=CC9=C(C=C8)N=C(N9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Etomoxir	CCOC(=O)C1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
