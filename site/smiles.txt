@@ -1182,6 +1182,7 @@ Natamycin	OC(=O)[C@@H]3[C@@H](O)C[C@@]2(O)C[C@@H](O)C[C@H]4O[C@@H]4/C=C/C(=O)O[C
 Esmolol	O=C(OC)CCc1ccc(OCC(O)CNC(C)C)cc1
 Coumarin	c1ccc2c(c1)ccc(=O)o2
 Imidazole	c1cnc[nH]1
+Ivermectin	CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C.C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)O[C@@H]1C(C)C
 Bromazepam	BrC1=CC2=C(C=C1)NC(CN=C2C3=CC=CC=N3)=O
 Ectocarpene	CC/C=C\[C@H]1CC=CCC=C1
 Sebacic acid	OC(=O)CCCCCCCCC(=O)O
@@ -6979,8 +6980,8 @@ Farglitazar	O=C(c1ccccc1)c2ccccc2N[C@H](C(=O)O)Cc5ccc(OCCc3nc(oc3C)c4ccccc4)cc5
 Manganese(III) oxide	O=[Mn]O[Mn]=O
 5,6-Dichloro-1-beta-D-ribofuranosylbenzimidazole	Clc2cc1ncn(c1cc2Cl)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO
 1-Methylimidazole	n1ccn(c1)C
-CP 47,497	CCCCCCC(C)(C)c1ccc(c(c1)O)[C@@H]2CCC[C@@H](C2)O
 CP 47,497	CCCCCCC(C)(C)c1ccc(c(c1)O)[C@H]2CCC[C@H](C2)O
+CP 47,497	CCCCCCC(C)(C)c1ccc(c(c1)O)[C@@H]2CCC[C@@H](C2)O
 Meconic acid	C1=C(OC(=C(O)O)C(=O)C1=O)C(=O)O
 Adipic acid dihydrazide	O=C(NN)CCCCC(=O)NN
 4-Phenylthiosemicarbazide	S=C(Nc1ccccc1)NN
@@ -10778,7 +10779,7 @@ Denufosol	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=
 Stigmastanol	O[C@H]1CC[C@@]2(C)[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@@H](CC[C@@H](CC)C(C)C)C)([H])C1
 Thallium hydride	[TlH3]
 Prazepine	CN(C)CCCN1CC2=CC=CC=C2CC3=CC=CC=C31
-Ocean propanal	CC(CC1=CC2=C(C=C1)OCO2)C=O
+Helional	CC(CC1=CC2=C(C=C1)OCO2)C=O
 7α-Hydroxy-4-cholesten-3-one	O=C4\C=C2/[C@]([C@H]1CC[C@]3([C@H]([C@@H]1[C@H](O)C2)CC[C@@H]3[C@H](C)CCCC(C)C)C)(C)CC4
 Tetraethylmethane	CCC(CC)(CC)CC
 Chloroacetamide	ClCC(=O)N
