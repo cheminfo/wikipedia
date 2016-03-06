@@ -2953,7 +2953,7 @@ Moxifloxacin	COc1c2c(cc(c1N3C[C@@H]4CCCN[C@@H]4C3)F)c(=O)c(cn2C5CC5)C(=O)O
 Bisoprolol	O(c1ccc(cc1)COCCOC(C)C)CC(O)CNC(C)C
 Thiobarbital	O=C1NC(=S)NC(=O)C1(CC)CC
 Benzylmercapturic acid	CC(=O)N[C@@H](CSCC1=CC=CC=C1)C(=O)O
-Medical use of nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+Nitroglycerin (drug)	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Arecoline	O=C(OC)C=1CN(C)CCC=1
 Zingerone	O=C(C)CCc1cc(OC)c(O)cc1
 4-Anisaldehyde	COc1ccc(C=O)cc1
@@ -5242,7 +5242,7 @@ Methylenedioxyhydroxyethylamphetamine	C1=C2C(=CC=C1CC(C)NCCO)OCO2
 3,4-Methylenedioxy-N-isopropylamphetamine	C1=C2C(=CC=C1CC(C)NC(C)C)OCO2
 1,3-Benzodioxolyl-N-ethylbutanamine	O1c2ccc(cc2OC1)CC(NCC)CC
 1,3-Benzodioxolyl-N-ethylpentanamine	C1=C2C(=CC=C1CC(CCC)NCC)OCO2
-F-2 (psychedelic)	C1=C2C(=CC(=C1CC(C)N)OC)CC(O2)C
+F-2 (drug)	C1=C2C(=CC(=C1CC(C)N)OC)CC(O2)C
 Fulvene	C=C1\C=C/C=C1
 Ribulose 5-phosphate	[O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C(=O)CO
 Syn-Propanethial-S-oxide	O=S=C/CC
@@ -13735,7 +13735,7 @@ Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
 3-Methylfuran	CC1=COC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
 2,5-Dichloroaniline	C1=CC(=C(C=C1Cl)N)Cl
-Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
+Norepinephrine (drug)	Oc1ccc(cc1O)[C@@H](O)CN
 4-Fluoromethylphenidate	FC1=CC=C(C=C1)C(C(=O)OC)C2CCCCN2
 1,3-Dichlorobenzene	ClC1=CC=CC(Cl)=C1
 N-Feruloylserotonin	COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cc(cc3)O
@@ -13901,3 +13901,5 @@ Oxycarboxin	CC1=C(S(=O)(=O)CCO1)/C(=N\c2ccccc2)/O
 Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
 Noroxymorphone	Oc1ccc2C[C@H]3NCC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O
+Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
+Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
