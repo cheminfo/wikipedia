@@ -8065,6 +8065,7 @@ Iopydol	C1=C(C(=O)C(=CN1CC(CO)O)I)I
 Propyliodone	CCCOC(=O)CN1C=C(C(=O)C(=C1)I)I
 Iofendylate	CCOC(=O)CCCCCCCCC(C)C1=CC=C(C=C1)I
 Adipiodone	O=C(Nc1c(I)c(c(I)cc1I)C(=O)O)CCCCC(=O)Nc2c(I)c(C(=O)O)c(I)cc2I
+Perflenapent	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
 Metrizoic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)N(C)C(=O)C)I
 Iotalamic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NC)I
 Ioxitalamic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NCCO)I
@@ -9647,7 +9648,7 @@ Ro48-8684	CCCN(CC1=CN=C(C2=C(CN(C(C3=C4C=CC(F)=C3)=O)C)N4C=N2)O1)CCC
 Org 21465	CC5(C)CN(CCO5)C2CC4(C)C(CC2O)CCC1C4C(=O)CC3(C)C1CCC3C(=O)CS(O)(=O)=O
 5-Fluoro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)F
 Eritoran	CCCCCCCCCCCC(=O)CC(=O)NC1C(C(C(OC1OP(=O)(O)O)COC2C(C(C(C(O2)COC)OP(=O)(O)O)OCCC(CCCCCCC)OC)NC(=O)CCCCCCCCCC=CCCCCCC)O)OCCCCCCCCCC
-Cephaeline	Oc1cc2c(cc1OC)[C@H](NCC2)C[C@H]5C[C@H]4c3c(cc(OC)c(OC)c3)CCN4C[C@@H]5CC
+Cephaeline	CC[C@H]1CN2CCc3cc(c(cc3[C@@H]2C[C@@H]1C[C@@H]4c5cc(c(cc5CCN4)O)OC)OC)OC
 Org 37,684	O(c1c(OC)ccc2c1CCC2)[C@H]3CCNC3
 Myrcenol	C=CC(=C)CC\C=C(\C)CO
 Fenclofenac	OC(=O)Cc1ccccc1Oc2ccc(Cl)cc2Cl
