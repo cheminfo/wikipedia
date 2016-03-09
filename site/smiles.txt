@@ -959,7 +959,7 @@ Ergosterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)
 Tetrahedrane	C12C3C1C23
 Cyclobutadiene	C1=CC=C1
 Methylenecyclopropene	C=C1C=C1
-Fluticasone/salmeterol	O=C(SCF)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C.O(CCCCc1ccccc1)CCCCCCNCC(O)c2ccc(O)c(c2)CO
+Fluticasone propionate/salmeterol	O=C(SCF)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C.O(CCCCc1ccccc1)CCCCCCNCC(O)c2ccc(O)c(c2)CO
 Xylose	C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
 Reboxetine	CCOC1=C(C=CC=C1)O[C@@H]([C@@H]2OCCNC2)C3=CC=CC=C3
 Atazanavir	O=C(OC)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)CN(NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)Cc3ccc(c2ncccc2)cc3)C(C)(C)C
@@ -9678,7 +9678,7 @@ Pagodane	C1C2C3C4CC5C3C1C13C6CC7C8C9CC(C68)C51C49C237
 Deacetylasperulosidic acid	O=C(O)C1=CO[C@@H](O[C@]2([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@]3([H])[C@]1([H])[C@@H](O)C=C3CO
 Palau'amine	Cl[C@@H]4[C@@]1(NC(=N/[C@H]1O)\N)[C@H]3[C@@]26/N=C(\N[C@H]6n5c(C(=O)N2C[C@@H]3[C@H]4CN)ccc5)N
 1,2,3-Tribromopropane	BrCC(Br)CBr
-Fluo-4	CC1=C(OCCOC2=C(C=CC(=C2)C2=C3C=C(F)C(=O)C=C3OC3=CC(O)=C(F)C=C23)N(CC(O)=O)CC(O)=O)C=C(C=C1)N(CC(O)=O)CC(O)=O
+Fluo-4	CC1=CC(OCCOC2=CC(=CC=C2N(CC(O)=O)CC(O)=O)C2=C3C=C(F)C(=O)C=C3OC3=C2C=C(F)C(O)=C3)=C(C=C1)N(CC(O)=O)CC(O)=O
 Nitroacetic acid	C(C(=O)O)[N+](=O)[O-]
 2-Pentanol	OC(C)CCC
 3-Hexanol	CCCC(CC)O
