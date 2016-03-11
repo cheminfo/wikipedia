@@ -389,8 +389,8 @@ Potassium bicarbonate	[K+].[O-]C(=O)O
 Potassium carbonate	C(=O)([O-])[O-].[K+].[K+]
 Lead(II) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pb+2]
 Arsine	[AsH3]
-Nitrogen dioxide	O=[N]=O
-Nitrogen dioxide	[O-][N++][O-]
+Nitrogen dioxide	N(=O)[O]
+Nitrogen dioxide	[N+](=O)[O-]
 Methylene blue	CN(C)c1ccc2c(c1)sc-3cc(=[N+](C)C)ccc3n2.[Cl-]
 Tetrodotoxin	O1[C@@H]4[C@@](O)([C@@H]3O[C@@]1(O)[C@@H](O)[C@]2(N\C(=N/[C@H](O)[C@H]23)N)[C@@H]4O)CO
 Temazepam	CN1C2=C(C(C3=CC=CC=C3)=NC(O)C1=O)C=C(Cl)C=C2
@@ -3074,7 +3074,7 @@ Laminarin	O([C@H]1[C@H](O)[C@H](OC(O)[C@@H]1O)CO)C3O[C@@H]([C@@H](O)[C@H](OC2O[C
 Mepivacaine	O=C(Nc1c(cccc1C)C)C2N(C)CCCC2
 Cysteamine	SCCN
 2,4-Dimethyl-6-tert-butylphenol	Oc1c(cc(cc1C(C)(C)C)C)C
-N,N'-Di-2-butyl-1,4-phenylenediamine	CC(CC)Nc1ccc(NC(C)CC)cc1
+N,N'-Di-2-butyl-1,4-phenylenediamine	CCC(C)Nc1ccc(cc1)NC(C)CC
 2,6-Di-tert-butylphenol	Oc1c(cccc1C(C)(C)C)C(C)(C)C
 Patchoulol	O[C@@]23CC[C@@H]([C@@H]1C[C@@H](CC[C@@]12C)C3(C)C)C
 Sodium bis(2-methoxyethoxy)aluminumhydride	[Na+].COCCO[AlH2-]OCCOC
@@ -11015,7 +11015,6 @@ Tefluthrin	Cl\C(=C/[C@@H]2[C@H](C(=O)OCc1c(F)c(F)c(c(F)c1F)C)C2(C)C)C(F)(F)F
 Silafluofen	Fc2ccc(cc2Oc1ccccc1)CCC[Si](c3ccc(OCC)cc3)(C)C
 Diborane(4)	[H]1[BH]2[H][BH]12
 Phorate	S=P(OCC)(SCSCC)OCC
-Meldonium	C[N+](C)(C)NCCC(=O)[O-]
 Gamendazole	FC(F)(F)c1ccc2c(c1)n(nc2\C=C\C(=O)O)Cc3ccc(Cl)cc3Cl
 Morphiceptin	c1ccc(cc1)C[C@@H](C(=O)N2CCC[C@H]2C(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)N
 Linifanib	CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N
@@ -13906,3 +13905,4 @@ Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
 Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
 Debromoaplysiatoxin	[C@@]123O[C@]([C@H](C)CC1(C)C)(CC(O[C@@]([C@@H](C)O)(CC(OC(C2)[C@H](C)[C@](O3)([C@H](CC[C@@H](C=4C=CC=C(C4)O)OC)C)[H])=O)[H])=O)O
 Lactimidomycin	N2C(=O)CC(CC2=O)CC(O)CC(=O)C(C)\C=C(/C)\C1OC(=O)C=CCCC=CC=CC1C
+Bis(trifluoromethyl)peroxide	C(OOC(F)(F)(F)(F)(F)F
