@@ -1747,7 +1747,7 @@ Dihydroquinine	O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](CC)C3)cc4)C
 Dihydroquinine	O[C@@H](C1N2CCC(C(CC)C2)C1)C3=CC=NC4=CC=C(OC)C=C43
 Pemoline	O=C2\N=C(/OC2c1ccccc1)N
 Orotic acid	O=C(O)\C1=C\C(=O)NC(=O)N1
-ALD-52	O=C(n4cc2c3c(/C1=C/[C@@H](C(=O)N(CC)CC)CN([C@@H]1C2)C)cccc34)C
+ALD-52	O=C(n1cc2c3c(C4=C[C@@H](C(=O)N(CC)CC)CN([C@@H]4C2)C)cccc13)C
 Tricaine mesylate	[NH3+]C1=CC=CC(C(OCC)=O)=C1.CS(=O)([O-])=O
 Titanium nitride	N#[Ti]
 Tributyrin	CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC
@@ -4612,6 +4612,7 @@ Benzylideneacetone	CC(=O)/C=C/c1ccccc1
 Potassium fulminate	[K+].[C-]#[N+][O-]
 Bepridil	O(CC(C)C)CC(N1CCCC1)CN(c2ccccc2)Cc3ccccc3
 Methylidyne radical	[CH]
+Beraprost	CC#CCC(C)[C@@H](/C=C/[C@H]1[C@@H](C[C@H]2[C@@H]1C3=CC=CC(=C3O2)CCCC(=O)O)O)O
 Kairine	CN1CCCC2=C1C(=CC=C2)O
 Barium peroxide	[Ba+2].[O-][O-]
 Diatomic carbon	[C]=[C]
@@ -9329,7 +9330,7 @@ Poncirin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O
 Polyozellin	CC(=O)OC1=C2C(=C(C3=C1C4=CC(=C(C=C4O3)O)O)OC(=O)C)C5=CC(=C(C=C5O2)O)O
 Sakuranetin	COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
 Asocainol	O(c3cc2c1c(O)c(OC)ccc1CC(N(CCc2cc3)C)CCc4ccccc4)C
-3',4'-Methylenedioxy-α-pyrrolidinobutiophenone	c3c1OCOc1ccc3C(=O)C(CC)N2CCCC2
+3',4'-Methylenedioxy-α-pyrrolidinobutiophenone	CCC(N1CCCC1)C(=O)c2ccc3OCOc3c2
 Alpha-Pyrrolidinopentiophenone	CCCC(C(C1=CC=CC=C1)=O)N2CCCC2
 Naphyrone	CCCC(C(C1=CC2=C(C=C1)C=CC=C2)=O)N3CCCC3
 4'-Methyl-α-pyrrolidinobutiophenone	C1CCCN1C(CC)C(=O)c(cc2)ccc2C
@@ -13209,6 +13210,7 @@ TC OT 39	Cc1cc(ccc1CNC(=O)N2CCC[C@H]2C(=S)N3CCCN(CC3)C)C(=O)N4Cc5cnn(c5Nc6c4cccc
 Basimglurant	Clc3nccc(C#Cc2nc(n(c1ccc(F)cc1)c2C)C)c3
 Decoglurant	C1=CC(=CC=C1C2=NC3=C(C=NN3C(=C2)C(F)(F)F)C#CC4=CN=C(C=C4)N)C(F)(F)F
 Propylene glycol methyl ether acetate	CC(COC)OC(=O)C
+Dibutyltin dilaurate	CCCCCCCCCCCC(=O)O[Sn](CCCC)(CCCC)OC(=O)CCCCCCCCCCC
 Chromane	C1CC2=CC=CC=C2OC1
 Calcium monohydride	[H].[Ca]
 3-Chlorophenol	C1=CC(=CC(=C1)Cl)O
@@ -13906,3 +13908,4 @@ Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
 Debromoaplysiatoxin	[C@@]123O[C@]([C@H](C)CC1(C)C)(CC(O[C@@]([C@@H](C)O)(CC(OC(C2)[C@H](C)[C@](O3)([C@H](CC[C@@H](C=4C=CC=C(C4)O)OC)C)[H])=O)[H])=O)O
 Lactimidomycin	N2C(=O)CC(CC2=O)CC(O)CC(=O)C(C)\C=C(/C)\C1OC(=O)C=CCCC=CC=CC1C
 Bis(trifluoromethyl)peroxide	C(OOC(F)(F)(F)(F)(F)F
+Glycidamide	C1C(O1)C(=O)N
