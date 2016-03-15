@@ -11222,7 +11222,7 @@ TG101348	NC1=C(CC2=CC=CC(S(NC(C)(C)C)(=O)=O)=C2)N=C(NC3=CC=C(OCCN4CCCC4)C=C3)N=C
 Kelatorphan	O=C(O)[C@@H](NC(=O)[C@H](Cc1ccccc1)CC(=O)NO)C
 Spinorphin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)O)[C@H](O)C)Cc3c2ccccc2[nH]c3)Cc4ccc(O)cc4)C(C)C)C(C)C)[C@@H](N)CC(C)C
 Tynorphin	CC(C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)O)N
-Hemorphin-4	Oc1ccc(cc1)CC(N)C(=O)N2CCCC2C(=O)NC(Cc4c[nH]c3ccccc34)C(=O)NC(C(O)=O)C(C)O
+Hemorphin-4	C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](Cc1c[nH]c2c1cccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)N)O
 Methionine sulfoxide	O=C(O)C(N)CCS(=O)C
 BMS-470,539	CCCC(=O)C1(CCN(CC1)C(=O)[C@@H](Cc2ccc(cc2)OC)NC(=O)[C@H](Cc3cncn3C)N)c4ccccc4
 Pildralazine	n1nc(NN)ccc1N(C)CC(O)C
@@ -12353,7 +12353,7 @@ Austrocortilutein	C[C@]1(CC(C2=C(C1)C(=O)C3=CC(=CC(=C3C2=O)O)OC)O)O
 Pencolide	C/C=C(/C(=O)O)\N1C(=O)C=C(C1=O)C
 Viscumamide	O=C1NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC1C(C)CC)CC(C)C)C(C)CC)CC(C)C)CC(C)C
 Yunnanin A	C1C[C@H]2C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N2C1)CC4=CC=C(C=C4)O)CC5=CC=CC=C5
-Hymenistatin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N1)C(C)C)CC5=CC=C(C=C5)O)[C@@H](C)CC)[C@@H](C)CC
+Hymenistatin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N[C@H](C(=O)N1)CC(C)C)C(C)C)Cc5ccc(cc5)O)[C@@H](C)CC
 Populin	C1=CC=C(C=C1)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC=CC=C3CO)O)O)O
 Fumigaclavine A	C[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2[C@H]1OC(=O)C)C
 Fumigaclavine C	C[C@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2[C@H]1OC(=O)C)C(C)(C)C=C)C
