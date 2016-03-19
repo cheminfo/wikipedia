@@ -7804,7 +7804,7 @@ Titan yellow	[Na+].[Na+].[O-]S(=O)(=O)c2c(ccc1nc(sc12)c6ccc(/N=N/Nc5ccc(c3nc4ccc
 Darapladib	FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=C/4CCC5)CCN(CC)CC
 Naphthol yellow S	C1=CC2=C(C=C1S(=O)(=O)[O-])C(=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[O-].[Na+]
 Martius yellow	C1=CC=C2C(=C1)C(=CC(=C2O)[N+](=O)[O-])[N+](=O)[O-]
-Wine lactone	CC1C2CCC(=CC2OC1=O)C
+Wine lactone	O=C1O[C@H]2/C=C(\CC[C@H]2[C@@H]1C)C
 Potassium bifluoride	[H-](F)F.[K+]
 Beta-Naphthoflavone	O=C\1c3c(O/C(=C/1)c2ccccc2)ccc4c3cccc4
 JTE-907	c4c3OCOc3ccc4CNC(=O)c(cc2ccc1OC)c(=O)[nH]c2c1OCCCCC
@@ -9051,7 +9051,7 @@ Pyrethrin I	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=CC=C
 Thiomalic acid	C(C(C(=O)O)S)C(=O)O
 Monolinuron	Clc1ccc(NC(=O)N(OC)C)cc1
 Siamenoside I	CC(CCC(C(C)(C)O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)OC3C(C(C(C(O3)CO)O)O)O)C4CCC5(C4(CC(C6(C5CC=C7C6CCC(C7(C)C)OC8C(C(C(C(O8)CO)O)O)O)C)O)C)C
-Rhodizonic acid	c1(c(c(=O)c(=O)c(=O)c1=O)O)O
+Rhodizonic acid	C1(=C(C(=O)C(=O)C(=O)C1=O)O)O
 Ethyl glucuronide	CCO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O
 DCG-IV	[C@@H]1([C@@H](C1[C@@H](C(=O)O)N)C(=O)O)C(=O)O
 HYDIA	C1[C@H]2[C@@H]([C@H]2[C@@]([C@@H]1O)(C(=O)O)N)C(=O)O
