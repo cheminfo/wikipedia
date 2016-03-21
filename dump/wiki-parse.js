@@ -168,7 +168,7 @@ for (var i = 0; i < length; i++) {
 }
 
 var theResult = {};
-theResult.count = {
+var count = {
     date: (new Date()).toISOString(),
     molecules: results.length,
     errors: errors.length,
@@ -176,6 +176,7 @@ theResult.count = {
     notfound: notfound.length,
     dup: dup.length
 };
+theResult.count = count;
 theResult.data = {
     molecules: results,
     errors: errors,
@@ -221,6 +222,10 @@ if (program.publish) {
         of the Wikipedia page
          */
         fs.writeFileSync('../site/src/json/data.json', pubStr);
+        // Cumulative statistics about the data
+        var stats = require('../stats.json').map(x => JSON.stringify(x));
+        stats.push(JSON.stringify(count));
+        fs.writeFileSync('../stats.json', '[\n' + stats.join(',\n') + '\n]');
         /*
         smiles.txt: tab-delimited list of the SMILES codes and Wikipedia article
         names. The names may contain UTF-8 characters (like greek letters).
