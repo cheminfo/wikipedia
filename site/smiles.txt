@@ -10254,7 +10254,7 @@ Quinelorane	CCCN1CCC[C@H]2[C@H]1CC3=CN=C(N=C3C2)N
 SKF-89,145	Oc1ccc(cc1O)C2CN(C)Cc3sccc23
 BP-897	COc1ccccc1N3CCN(CC3)CCCCNC(=O)c4ccc2ccccc2c4
 Imeglimin	C[C@H]1NC(=NC(=N1)N)N(C)C
-VER-3323	CC(N)CN1CCc(c1c2)ccc2Br
+VER-3323	C[C@@H](CN1CCc2c1cc(cc2)Br)N
 Metaflumizone	FC(F)(F)Oc1ccc(cc1)NC(=O)N\N=C(\Cc2ccc(C#N)cc2)c3cccc(c3)C(F)(F)F
 P7C3	c4ccccc4NCC(O)Cn2c1ccc(Br)cc1c(c3)c2ccc3Br
 Chlorophenylbiguanide	c1ccc(Cl)cc1NC(=[NH3])NC(=N)N
