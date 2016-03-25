@@ -1731,6 +1731,7 @@ Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C
 5-MeO-MiPT	O(c1cc2c(cc1)[nH]cc2CCN(C(C)C)C)C
 5-MeO-DALT	C=CCN(CCC1=CNC2=C1C=C(OC)C=C2)CC=C
 Triethylamine	CCN(CC)CC
+Caspofungin	[C@@]12(N(C[C@@H](C1)O)C([C@H]([C@@H](C)O)NC(=O)[C@](C[C@H]([C@@H](NCCN)NC([C@@H]3[C@H](CCN3C([C@H]([C@@H](CCN)O)NC(=O)[C@H]([C@@H]([C@H](C4=CC=C(C=C4)O)O)O)NC2=O)=O)O)=O)O)(NC(CCCCCCCC[C@H](C[C@H](CC)C)C)=O)[H])=O)[H]
 4-Acetoxy-DiPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
 Nitroguanidine	NC(N)=N[N+]([O-])=O
 Trigonelline	O=C([O-])c1ccc[n+](c1)C
@@ -13708,6 +13709,7 @@ Cyclopentyl methyl ether	COC1CCCC1
 DEG monobutyl ether	CCCCOCCOCCO
 Fludioxonil	c1cc(c2c(c1)OC(O2)(F)F)c3c[nH]cc3C#N
 Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+14-Methoxydihydromorphinone	CO[C@]12CCC(=O)[C@@H]3OC4=C5C(C[C@H]1N(C)CC[C@@]235)=CC=C4O
 4-Chloromethcathinone	ClC1=CC=C(C(C(C)NC)=O)C=C1
 ODM-201	C[C@@H](Cn1ccc(n1)c2ccc(c(c2)Cl)C#N)NC(=O)c3cc([nH]n3)C(C)O
 Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#N)F
