@@ -5481,6 +5481,7 @@ Ubiquinol	CC1=C(C(C(=C(C1O)OC)OC)O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC
 Silodosin	FC(F)(F)COc3ccccc3OCCN[C@H](C)Cc1cc2c(c(c1)C(=O)N)N(CC2)CCCO
 7-Aminoactinomycin D	O=C3C(C)=C2OC1=C(C)C(N)=CC(C(N[C@H](C(N[C@@H](C7=O)[C@H](C)C)=O)[C@@H](C)OC([C@H]([C@H](C)C)N(C)C(CN(C)[C@]([C@H]6N7CCC6)=O)=O)=O)=O)=C1N=C2C(C(N[C@H](C(N[C@H]([C@H](C)C)C4=O)=O)[C@@H](C)OC([C@H]([C@@H](C)C)N(C)C(CN(C)[C@@]([C@H]5N4CCC5)=O)=O)=O)=O)=C3N
 Methoxyethane	COCC
+Tyrothricin	CC(C)C[C@H]1C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@@H](C(=O)[C@@H](NC(=O)[C@@H](N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN)C(C)C)Cc3ccc(cc3)O)CCC(=O)O)CC(=O)N)Cc4ccccc4)Cc5ccccc5)Cc6ccccc6
 Drostanolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@H](C(=O)C4)C)C)C
 Oenanthotoxin	CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO
 MEDA	Cl.SCCN(C)C
@@ -13861,6 +13862,7 @@ Deoxygedunin	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)OC(C4(CC3)C)C5=COC=C5)C)C)(C
 ANA-12	C1CCNC(=O)C(C1)NC(=O)C2=CC=CC=C2NC(=O)C3=CC4=CC=CC=C4S3
 LM22A-4	C1=C(C=C(C=C1C(=O)NCCO)C(=O)NCCO)C(=O)NCCO
 Cyclotraxin B	CC(C1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)NCC(=O)NC(C(=O)N1)CC3=CC=C(C=C3)O)CCSC)CC(=O)N)N)C(=O)O)CCC(=O)O)CCCCN)O
+Abemaciclib	CC(N1C2=CC(C3=NC(NC4=NC=C(CN5CCN(CC)CC5)C=C4)=NC=C3F)=CC(F)=C2N=C1C)C
 7,8,3'-Trihydroxyflavone	C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O
 4'-Dimethylamino-7,8-dihydroxyflavone	CN(C)c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 UWA-001	CNC(Cc1ccc2OCOc2c1)c3ccccc3
