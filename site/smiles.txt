@@ -2755,6 +2755,7 @@ Clorazepate	OC(C1N=C(C2=CC=CC=C2)C3=C(NC1(O)O)C=CC(Cl)=C3)=O
 3C-P	CC(N)Cc1cc(OC)c(OCCC)c(c1)OC
 Trichostatin A	O=C(NO)\C=C\C(=C\[C@H](C(=O)c1ccc(N(C)C)cc1)C)C
 2,5-Dimethoxy-4-chloroamphetamine	ClC1=C(OC)C=C(CC(C)N)C(OC)=C1
+Proscaline	COc1cc(cc(OC)c1OCCC)CCN
 Torcetrapib	FC(F)(F)c1cc(cc(c1)C(F)(F)F)CN(C(=O)OC)[C@@H]3c2c(ccc(c2)C(F)(F)F)N(C(=O)OCC)[C@@H](C3)CC
 2C-T	CSc1cc(OC)c(cc1OC)CCN
 Ethyl cyanoacrylate	N#CC(=C)C(=O)OCC
@@ -6323,6 +6324,7 @@ Meprodine	CC[C@H]1CN(C)CC[C@@]1(OC(=O)CC)c2ccccc2
 1-Amino-2-propanone	O=C(C)CN
 1,2-Dioxin	O1OC=CC=C1
 Piminodine	O=C(OCC)C3(c1ccccc1)CCN(CCCNc2ccccc2)CC3
+Tunicamycin	CC(C)C\C=C\C(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)NC(=O)C)CC([C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O)O)O
 Uridine diphosphate N-acetylglucosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
 Isopropyl palmitate	O=C(OC(C)C)CCCCCCCCCCCCCCC
 Co-amilozide	O=C(/N=C(\N)N)c1nc(Cl)c(nc1N)N.O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)NCN2)N
@@ -8182,6 +8184,7 @@ Osthol	O=C/2Oc1c(c(OC)ccc1\C=C\2)C\C=C(/C)C
 Norverapamil	CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
 Niludipine	CCCOCCOC(=O)C1=C(NC(=C(C1C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOCCC)C)C
 Niguldipine	[O-][N+](=O)c1cccc(c1)C5C(/C(=O)OC)=C(\N\C(=C5\C(=O)OCCCN4CCC(c2ccccc2)(c3ccccc3)CC4)C)C
+Monatepil	C1CN(CCN1CCCC(=O)NC2C3=CC=CC=C3CSC4=CC=CC=C24)C5=CC=C(C=C5)F
 Manoalide	CC1=C(C(CCC1)(C)C)CC/C(=C/CCC2=CC[C@@H](O[C@H]2O)C3=CC(=O)O[C@H]3O)/C
 Fantofarone	CC(C)C1=CN2C=CC=CC2=C1S(=O)(=O)C3=CC=C(C=C3)OCCCN(C)CCC4=CC(=C(C=C4)OC)OC
 Falipamil	CN(CCCN1CC2=CC(=C(C=C2C1=O)OC)OC)CCC3=CC(=C(C=C3)OC)OC
@@ -10915,6 +10918,7 @@ Patellamide A	CC[C@H](C)[C@H]1C2=N[C@@H](CO2)C(=O)N[C@@H](c3nc(cs3)C(=O)N[C@H](C
 Secologanin	COC(=O)C1=CO[C@H]([C@@H]([C@@H]1CC=O)C=C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Scytonemin	C1=CC=C2N=C\3C(=C(C(=O)/C3=C/C4=CC=C(C=C4)O)C5=C6C(=NC7=CC=CC=C67)/C(=C\C8=CC=C(C=C8)O)/C5=O)C2=C1
 Inogatran	NC(=N)NCCCCNC(=O)[C@@H]1CCCCN1C(=O)[C@@H](CC1CCCCC1)NCC(O)=O
+Ro-318220	Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCSC(=N)N)c4ccccc34)c5ccccc15
 Amifloxacin	CNN1C=C(C(=O)O)C(=O)c2cc(F)c(cc12)N3CCN(C)CC3
 SB-431542	NC(=O)c1ccc(cc1)c2nc(c3ccc4OCOc4c3)c([nH]2)c5ccccn5
 Vaniprevir	CC(C)(C)[C@H]1NC(=O)OCC(C)(C)CCCCc2cccc3CN(Cc23)C(=O)O[C@H]4C[C@@H](N(C4)C1=O)C(=O)N[C@@]5(C[C@H]5C=C)C(=O)NS(=O)(=O)C6CC6
@@ -11298,7 +11302,7 @@ Bay R 1531	COc2ccc1[nH3]cc3CC(Cc2c13)N(CCC)CCC
 Ammiol	COC1=C2C(=O)C=C(OC2=C(C3=C1C=CO3)OC)CO
 Biphalin	O=C(N[C@@H](C(=O)NCC(=O)N[C@H](C(=O)NNC(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)C)Cc2ccccc2)Cc3ccccc3)C)[C@@H](N)Cc4ccc(O)cc4
 CR665	O=C(NCC1=CC=NC=C1)[C@H](NC([C@H](NC([C@@H](CC2=CC=CC=C2)NC([C@@H](CC3=CC=CC=C3)N)=O)=O)CCCC)=O)CCCNC(N)=N
-LF22-0542	COC1=CC(C)=C(S(N(C)CCOCC(N(C)CC2=CC=C(C3=NCCN3)C=C2)=O)(=O)=O)C(C)=C1
+Safotibant	Cc1cc(cc(c1S(=O)(=O)N(C)CCOCC(=O)N(C)Cc2ccc(cc2)C3=NCCN3)C)OC
 4-Acetoxy-MET	CCN(C)CCc1c[nH]c2c1c(ccc2)OC(=O)C
 TC-1827	C[C@H](NC)C/C=C/C1=CN=CN=C1
 SIB-1553A	OC1=CC=C(SCCC2CCCN2C)C=C1
@@ -13694,6 +13698,7 @@ Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
 Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+Thioxanthone	c1ccc2c(c1)c(=O)c3ccccc3s2
 Ipragliflozin	S1C(=CC2=C1C=CC=C2)CC=2C=C(C=CC2F)[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@H](O2)CO
 Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
