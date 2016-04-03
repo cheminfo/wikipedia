@@ -6748,7 +6748,7 @@ Xylitol pentanitrate	C([C@H]([C@@H]([C@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)
 4,4'-Oxydianiline	O(c1ccc(N)cc1)c2ccc(cc2)N
 Bisphenol S	O=S(=O)(c1ccc(O)cc1)c2ccc(O)cc2
 Nickel chromate	[O-][Cr](=O)(=O)[O-].[Ni+2]
-Gabexate	O=C(Oc1ccc(cc1)C(=O)OCC)CCCCC/N=C(\N)N
+Gabexate	[Br-].C(=O)(O)CCCN1N=C(C=CC1=[NH2+])C1=CC=C(C=C1)OC
 Carbohydrazide	O=C(NN)NN
 2-Methylpyridine	Cc1ccccn1
 WAY-100,635	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
@@ -7649,6 +7649,7 @@ Aloglutamol	C([C@H]([C@H]([C@@H]([C@H](C(=O)O[Al](O)O)O)O)O)O)O.C(C(CO)(CO)N)O
 Carbaldrate	C(=O)([O-])[O-].O.[OH-].[OH-].[Na+].[Al+3]
 Netropsin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)CN=C(N)N)\N
 ICI-118,551	CC1=C2CCCC2=C(C=C1)OCC(C(C)NC(C)C)O
+Vilazodone	C[C@H]1CC/C=C/C=C(/C/C(=C/C[C@@H]([C@H](/C=C/C=C/C(=O)NC1)C)O[C@H]2C[C@@H]([C@@H]([C@H](O2)C)NC)O)/C)\C
 SR 59230A	CCC1=CC=CC=C1OCC(CNC2CCCC3=CC=CC=C23)O
 Trehalose dimycolate	CCCCCCCCCCCCCCCCCCCCCCCCCC(C(CCCCCCCCCCC1CC1CCCCCCCCCCCCCCCCCC)C(=O)OCC2C(C(C(C(O2)OC3C(C(C(C(O3)COC(=O)C(CCCCCCCCCCCCCCCCCCCCCCCC)C(CCCCCCCCCCCC4CC4CCCCCCCCCCCCCCCCCC)O)O)O)O)O)O)O)O
 Streptazolin	C=3CCN1C(=O)OC2C1C=3\C(=C\C)\C2O
