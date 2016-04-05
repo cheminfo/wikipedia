@@ -7242,6 +7242,7 @@ Indecainide	O=C(N)C3(c1ccccc1c2c3cccc2)CCCNC(C)C
 Neridronic acid	C(CCC(O)(P(=O)(O)O)P(=O)(O)O)CCN
 Incadronic acid	O=P(O)(O)C(NC1CCCCCC1)P(=O)(O)O
 Echinocandin B	CCCCC/C=C\C/C=C\CCCCCCCC(=O)N[C@@H]1C[C@H]([C@H](NC(=O)[C@@H]2C[C@H](CN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](c4ccc(cc4)O)O)O)[C@@H](C)O)C)O)O
+Papulacandin B	CCC(C)CC/C=C/C=C(\C)/C(C/C=C/C=C/C(=O)O[C@H]1[C@@H]([C@H](O[C@]2([C@@H]1O)c3c(cc(cc3O)O)CO2)CO)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)COC(=O)/C=C/C=C/C=C/C(CC)O)O)O)O)O
 Hodgkinsine	CN1CC[C@]2([C@@H]1NC3=CC=CC=C32)C4=C5C(=CC=C4)[C@]6(CCN([C@H]6N5)C)[C@@]78CCN([C@@H]7NC9=CC=CC=C89)C
 VR (nerve agent)	CCN(CC)CCSP(=O)(C)OCC(C)C
 Thallium(I) fluoride	F[Tl]
@@ -13941,3 +13942,5 @@ Bicyclomycin	C[C@](CO)([C@@H]([C@@]12C(=O)N[C@@](C(=C)CCO1)(C(=O)N2)O)O)O
 Trinitroethylorthoformate	C([N+]([O-])=O)([N+]([O-])=O)([N+]([O-])=O)COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
 Carmoterol	COc1ccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c3NC(=O)C=Cc23)cc1
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
+Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
+Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N[C@@H]3[C@@H]([C@H]([C@@H]4[C@H]([C@@H]3O)OCO4)O)O
