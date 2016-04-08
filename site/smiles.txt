@@ -6710,7 +6710,7 @@ Alternariol	Cc1cc(cc2c1c3cc(cc(c3c(=O)o2)O)O)O
 Sodium aluminium hydride	[Na+].[AlH4-]
 Antalarmin	n1c2c(c(nc1C)N(CC)CCCC)c(c(n2c3c(cc(cc3C)C)C)C)C
 Para-Dimethylaminobenzaldehyde	O=Cc1ccc(N(C)C)cc1
-Liraglutide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)O)C(=O)NCCCC[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc5ccccc5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](Cc6cnc[nH]6)N
+Liraglutide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@H](NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(N)=O)NC(=O)CNC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](C)NC(=O)[C@@H](N)CC1=CN=CN1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CNC2=CC=CC=C12)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(O)=O)C(O)=O
 Solanocapsine	N[C@H]1CC[C@@]2(C)[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])C[C@]5([H])[C@]4([H])[C@H](C)C6[C@@](C[C@@H](C)CN6)(O)O5)([H])C1
 Pexacerfont	CC[C@@H](C)NC1=NC(=NC2=C(C(=NN21)C)C3=C(N=C(C=C3)OC)C)C
 Eglumegad	O=C(O)[C@H]1[C@]2([H])CC[C@](C(O)=O)(N)[C@@]21[H]
@@ -9996,7 +9996,6 @@ Cafaminol	O=C2N(c1nc(n(c1C(=O)N2C)C)N(CCO)C)C
 Ciladopa	O=C3/C=C\C=C/C=C3/N2CCN(C[C@@H](O)c1ccc(OC)c(OC)c1)CC2
 Iodobenzene dichloride	ClI(Cl)C1=CC=CC=C1
 Meta-Hydroxyphenylhydracrylic acid	OCC(C(O)=O)c1cccc(O)c1
-Fluparoxan	Fc2c1O[C@@H]3[C@@H](Oc1ccc2)CNC3
 Meseclazone	Clc2cc1C(=O)N3OC(CC3Oc1cc2)C
 Pirolate	O=C(OCC)C/1=N/C(=O)c2cc3cc(OC)c(OC)cc3nc2N\1
 Quazinone	Clc1cccc3c1CN2/C(=N\C(=O)[C@H]2C)N3
