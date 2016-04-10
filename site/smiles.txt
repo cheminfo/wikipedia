@@ -6035,7 +6035,7 @@ Plutonium(III) chloride	[Pu+3].[Cl-].[Cl-].[Cl-]
 Labdane	C2CC([C@@H]1CC[C@@H]([C@@H]([C@@]1(C)C2)CC[C@H](C)CC)C)(C)C
 Ellman's reagent	c1cc(c(cc1SSc2ccc(c(c2)C(=O)O)[N+](=O)[O-])C(=O)O)[N+](=O)[O-]
 Emetine	O(c1cc2c(cc1OC)[C@H](NCC2)C[C@H]5C[C@H]4c3c(cc(OC)c(OC)c3)CCN4C[C@@H]5CC)C
-Diloxanide furoate	O=C(Oc1ccc(N(C(=O)C(Cl)Cl)C)cc1)c2occc2
+Diloxanide	O=C(Oc1ccc(N(C(=O)C(Cl)Cl)C)cc1)c2occc2
 Tesofensine	Clc1ccc(cc1Cl)[C@H]3C[C@H]2N(C)[C@H](CC2)[C@@H]3COCC
 RTI-55	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)I)C(=O)OC
 Thiocyanogen	N#CSSC#N
@@ -12076,7 +12076,6 @@ Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
 Silver dichromate	[Ag+].[Ag+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Gallocyanin	CN(C)c1ccc2c(c1)oc-3c(c(=O)cc(c3n2)C(=O)O)O
 Diethylaniline	N(c1ccccc1)(CC)CC
-Tesamorelin	CCC[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCSC)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](Cc3ccc(cc3)O)NC(=O)C/C=C/CC
 Boron phosphate	[B+3].[O-]P(=O)([O-])[O-]
 EPN (insecticide)	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)c2ccccc2
 Tripalmitin	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCC
@@ -13945,3 +13944,4 @@ Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
 Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N[C@@H]3[C@@H]([C@H]([C@@H]4[C@H]([C@@H]3O)OCO4)O)O
 Biliatresone	C1(=CC2=C(C(=C1C(=O)C(=C)C=3C=CC=CC3O)OC)OCO2)O
+Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
