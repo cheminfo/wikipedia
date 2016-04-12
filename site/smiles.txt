@@ -9783,7 +9783,6 @@ Pirandamine	CC1(C2=C(CCO1)C3=CC=CC=C3C2)CCN(C)C
 Gonane	C2C1[C@H](CCCC1)[C@H]3CC[C@H]4[C@H]([C@@H]3C2)CCC4
 2-Chloro-9,10-diphenylanthracene	Clc4ccc3c(c1ccccc1c(c2ccccc2)c3c4)c5ccccc5
 Lariciresinol	COc1cc(ccc1O)C[C@H]2CO[C@@H]([C@H]2CO)c3ccc(c(c3)OC)O
-Calcium beta-hydroxy-beta-methylbutyrate	[Ca+2].[O-]C(=O)CC(O)(C)C.[O-]C(=O)CC(O)(C)C
 Benzoquinonetetracarboxylic acid	C1(=C(C(=O)C(=C(C1=O)C(=O)O)C(=O)O)C(=O)O)C(=O)O
 Furantetracarboxylic acid	C1(=C(OC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
 Benzoquinonetetracarboxylic dianhydride	O=C(C(C(O3)=O)=C1C3=O)C2=C(C(OC2=O)=O)C1=O
@@ -13946,3 +13945,4 @@ Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N
 Biliatresone	C1(=CC2=C(C(=C1C(=O)C(=C)C=3C=CC=CC3O)OC)OCO2)O
 Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
+PR-104	OP(=O)(O)OCCNC(=O)c(cc([N](=O)=O)cc1[N](=O)=O)c1N(CCBr)CCOS(=O)(C)=O
