@@ -5355,7 +5355,7 @@ Thiamine monophosphate	Cc1c(sc[n+]1Cc2cnc(nc2N)C)CCOP(=O)(O)O.[Cl-]
 Α-Methylacetylfentanyl	O=C(N(c1ccccc1)C3CCN(C(Cc2ccccc2)C)CC3)C
 Parafluorofentanyl	Fc1ccc(cc1)N(C(=O)CC)C3CCN(CCc2ccccc2)CC3
 Thiofentanyl	O=C(CC)N(C1CCN(CCC2=CC=CS2)CC1)C3=CC=CC=C3
-Betahydroxythiofentanyl	O=C(N(c1ccccc1)C3CCN(CC(O)c2ccccc2)CC3)CC
+Betahydroxythiofentanyl	CCC(=O)N(c1ccccc1)C2CCN(CC2)CC(c3cccs3)O
 3-Methylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2C)CCc3sccc3)CC
 Alphamethylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2)C(Cc3sccc3)C)CC
 Betahydroxyfentanyl	O=C(N(c1ccccc1)C3CCN(CC(O)c2ccccc2)CC3)CC
