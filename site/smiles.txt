@@ -2195,7 +2195,7 @@ Magic acid	OS(=O)(=O)F.F[Sb](F)(F)(F)F
 Shikimic acid	C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O
 Chorismic acid	O=C(O)C1=C/[C@@H](O/C(C(=O)O)=C)[C@H](O)/C=C1
 Ponceau 4R	[Na+].[Na+].[Na+].[O-]S(=O)(=O)c4ccc(/N=N/c1c2c(ccc1O)cc(cc2S([O-])(=O)=O)S([O-])(=O)=O)c3ccccc34
-Estradiol acetate	O=C(O[C@H]3CC[C@H]4[C@H]2[C@@H](c1ccc(O)cc1CC2)CC[C@]34C)C
+Estradiol acetate	C(C)(=O)Oc1ccc2[C@@H]3CC[C@@]4([C@H](CC[C@@H]4[C@@H]3CCc2c1)O)C
 Estradiol valerate	O=C(O[C@H]3CC[C@H]4[C@H]2[C@@H](c1ccc(O)cc1CC2)CC[C@]34C)CCCC
 Morphine-6-glucuronide	O=C(O)[C@H]6O[C@@H](O[C@H]1/C=C\[C@@H]5[C@@]24c3c(ccc(O)c3O[C@@H]12)C[C@H]5N(C)CC4)[C@H](O)[C@@H](O)[C@@H]6O
 Arsenous acid	O[As](O)O
@@ -2563,9 +2563,8 @@ Scandium(III) trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(
 Cocamidopropyl betaine	CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC([O-])=O
 Dimethylglyoxime	C\C(=N\O)\C(\C)=N\O
 Iproniazid	O=C(NNC(C)C)c1ccncc1
-Mitomycins	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N
-Mitomycins	COC12C3NC3CN1C1=C(C2COC(N)=O)C(=O)C(N)=C(C)C1=O
 Novobiocin	C[C@@]4(C)O[C@@H](Oc3ccc2C(\O)=C(\NC(=O)c1ccc(O)c(C\C=C(/C)C)c1)C(=O)Oc2c3C)[C@H](O)[C@H](OC(N)=O)[C@H]4OC
+Mitomycin C	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N
 Retene	Cc1cccc3c1ccc2cc(C(C)C)ccc23
 Ethylenediamine	NCCN
 Diethylenetriamine	NCCNCCN
@@ -6667,7 +6666,7 @@ Blasticidin S	O=C1\N=C(\N)/C=C\N1[C@@H]\2O[C@H](C(=O)O)[C@H](/C=C/2)NC(=O)C[C@@H
 Methyl methanesulfonate	COS(=O)(=O)C
 P-Menthane-3,8-diol	OC(C1CCC(CC1O)C)(C)C
 Acibenzolar	SC(=O)c1cccc2nnsc12
-Triphenylsulfonium triflate	C1=CC=C(C=C1)[S+](C2=CC=CC=C2)C3=CC=CC=C3.C(F)(F)(F)S(=O)(=O)[O-]
+Photoacid	C1=CC=C(C=C1)[S+](C2=CC=CC=C2)C3=CC=CC=C3.C(F)(F)(F)S(=O)(=O)[O-]
 Caldarchaeol	CC1CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCCC(CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCC1)C)C)C)C)C)CO)C)C)C)C)C)C)C)C)CO)C)C
 Gadobutrol	C1CN(CCN(CCN(CCN1CC(=O)[O-])CC(=O)[O-])C(CO)C(CO)O)CC(=O)[O-].[Ga+3]
 12-Crown-4	C1COCCOCCOCCO1
@@ -13857,6 +13856,7 @@ PHTPP	C1=CC=C(C=C1)C2=NN3C(=CC(=NC3=C2C4=CC=C(C=C4)O)C(F)(F)F)C(F)(F)F
 (R,R)-Tetrahydrochrysene	CCC1CC2=C(C=CC(=C2)O)C3=C1C4=C(CC3CC)C=C(C=C4)O
 Triphenylethylene	C1=CC=C(C=C1)C=C(C2=CC=CC=C2)C3=CC=CC=C3
 Ethamoxytriphetol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)OC)(C3=CC=CC=C3)O
+Duvelisib	C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5
 WAY-200070	C1=CC(=O)C=CC1=C2NC3=CC(=CC(=C3O2)Br)O
 (S)-Equol	C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O
 SC-5233	CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC45CCC(=O)O5)C
