@@ -1,10 +1,11 @@
 {
   "visualizer": {
-    "cdn": "v2.40.1",
-    "version": "a9988958933e488cda6d023f3f6ed8d279971444",
+    "cdn": "v2.51.0",
+    "version": "4fbd4e5332b6cbd8f96cebaaff4e8b421b24efcb",
     "del": [
       "components/chemcalc",
       "components/chroma-js",
+      "components/ckeditor",
       "components/d3",
       "components/jcampconverter",
       "components/jquery.threedubmedia",
@@ -12,7 +13,9 @@
       "components/jsoneditor",
       "components/jsNMR",
       "components/jit",
+      "components/jquery-qrcode",
       "components/jsbarcode",
+      "components/jsmol",
       "components/leaflet",
       "components/leaflet-omnivore",
       "components/marked",
@@ -47,7 +50,6 @@
       "modules/types/bio",
       "modules/types/chart",
       "modules/types/legacy",
-      "modules/types/science/chemistry/jsmol",
       "modules/types/science/spectra",
       "modules/types/server_interaction",
       "src/util/workers"

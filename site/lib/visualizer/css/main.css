@@ -1266,6 +1266,18 @@ svg .axe-text {
 
 
 
+.jsoneditor-poweredBy {
+    display: none
+}
+
+.ci-module-jsoneditor div.jsoneditor-menu {
+    background-color: #b5c6f0;
+    border: none;
+}
+
+.ci-module-jsoneditor div.jsoneditor {
+    border: none;
+}
 
 
 .richtext-postit {
@@ -1817,7 +1829,7 @@ classes should alter those!
     cursor: pointer;
 }
 
-.slick-cell a.icon-container {
+.slick-cell a.icon-clickable {
     cursor: pointer;
 }
 
@@ -1840,6 +1852,11 @@ classes should alter those!
     display: inline-block;
     width: 100%;
     text-align: center;
+}
+
+.cell-reorder {
+    cursor: move !important;
+    background: no-repeat center center url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAADAFBMVEUAAACWlpbY2NgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADmpIfcAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAAABlJREFUCNdj+I8EGFA5jHAA5DDBAW2VIQEAmyRUB6U7kZIAAAAASUVORK5CYII=')
 }
 
 
@@ -1936,7 +1953,7 @@ classes should alter those!
     flex-direction: row;
     flex-wrap: wrap;
     margin-left: -2px;
-    min-width: 118em;
+    min-width: 93.3em;
     min-height: 50em;
     width: 100%;
     height: 100%;
@@ -1947,8 +1964,8 @@ classes should alter those!
     margin-left: 2px;
     display: block;  /* IE fix */
     border: 2px solid grey;
-    min-height: 6em;
-    min-width: 6em;
+    min-height: 4.7em;
+    min-width: 4.7em;
     padding: 2px;
     margin-bottom: 2px;
 }
@@ -2000,6 +2017,7 @@ classes should alter those!
 
 .indic-p {
     justify-content: flex-end;
+    width: 8px;
 }
 
 .indic-g {
@@ -2100,10 +2118,10 @@ classes should alter those!
     display:flex;
 }
 .color-serie {
-    font-size: 1em;
-    column-count: 2;
-    -moz-column-count: 2;
-    -webkit-column-count: 2;
+    font-size: 0.8em;
+    column-count: 3;
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
     flex: 2;
 }
 .color-serie li {
@@ -2165,22 +2183,12 @@ td.solid, td.liquid, td.gas, td.unknown {
     display: none;
 }
 
+#periodicTemperatureSlider {
+    width: calc(100% - 30px);
+    margin-left: 15px;
+    margin-right: 15px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 /*grey : #5A5A5A*/

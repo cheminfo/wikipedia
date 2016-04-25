@@ -1,0 +1,12 @@
+.jsoneditor-poweredBy {
+    display: none
+}
+
+.ci-module-jsoneditor div.jsoneditor-menu {
+    background-color: #b5c6f0;
+    border: none;
+}
+
+.ci-module-jsoneditor div.jsoneditor {
+    border: none;
+}

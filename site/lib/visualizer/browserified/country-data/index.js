@@ -9346,7 +9346,7 @@ function search(data, query) {
 },{"underscore":10}],8:[function(require,module,exports){
 module.exports = mapSymbol
 
-var map = require('./map.json')
+var map = require('./map')
 
 function mapSymbol(currencyCode) {
   if (map.hasOwnProperty(currencyCode)) {
@@ -9355,8 +9355,9 @@ function mapSymbol(currencyCode) {
     return '?'
   }
 }
-},{"./map.json":9}],9:[function(require,module,exports){
-module.exports={ "ALL": "L"
+},{"./map":9}],9:[function(require,module,exports){
+module.exports =
+{ "ALL": "L"
 , "AFN": "؋"
 , "ARS": "$"
 , "AWG": "ƒ"

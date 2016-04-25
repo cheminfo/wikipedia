@@ -1,11 +1,12 @@
 
 init.js
 ----------------
-components/jquery/dist/jquery.min.js
+components/jquery/dist/jquery.js
 components/loglevel/dist/loglevel.min.js
 src/util/debug.js
 src/util/color.js
-components/lodash/lodash.min.js
+components/lodash/dist/lodash.min.js
+src/data/structures.js
 components/web-animations-js/web-animations.min.js
 src/util/util.js
 components/superagent-dist/superagent.js
@@ -13,6 +14,7 @@ lib/superagent-promise/index.js
 src/util/lru.js
 src/util/urldata.js
 src/main/datas.js
+src/util/cache.js
 src/util/localdb.js
 src/util/versionhandler.js
 src/main/variables.js
@@ -25,7 +27,6 @@ src/util/repository.js
 components/moment/min/moment.min.js
 components/numeral/min/numeral.min.js
 components/sprintf/dist/sprintf.min.js
-src/data/structures.js
 src/util/datatraversing.js
 src/util/actionmanager.js
 src/util/config.js
@@ -47,6 +48,7 @@ components/slickgrid/plugins/slick.cellrangedecorator.js
 components/slickgrid/plugins/slick.cellrangeselector.js
 components/slickgrid/plugins/slick.cellselectionmodel.js
 components/slickgrid/plugins/slick.rowselectionmodel.js
+components/slickgrid/plugins/slick.rowmovemanager.js
 components/slickgrid/slick.editors.js
 components/spectrum/spectrum.js
 components/jquery-ui/ui/datepicker.js

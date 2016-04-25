@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title></title>
+    <script type="text/javascript" language="javascript" src="../../../../../components/jsme/src/jsme/jsme.nocache.js"></script>
+    <script type="text/javascript" language="javascript" src="./jquery.min.js"></script>
+</head>
+
+<body style="margin: 0; padding: 0; overflow: hidden;">
+
+<div id="appletContainer"></div>
+
+<script type="text/javascript">
+
+    var jsmeApplet;
+    var previousHighlight;
+    var def = $.Deferred();
+
+    window.setMolFile = function (mol) {
+        jsmeApplet.readMolFile(mol);
+    };
+
+    window.setJmeFile = function (mol) {
+        jsmeApplet.readMolecule(mol);
+    };
+
+    window.setSize = function (w, h) {
+        var width = w + "px";
+        var height = h + "px";
+        jsmeApplet.setSize(width, height);
+//			jsmeApplet.repaint();
+    };
+
+    window.clear = function () {
+        jsmeApplet.reset();
+    };
+
+    var highlightColor;
+    window.setHighlightColor = function (color) {
+        highlightColor = color;
+    };
+
+    window.setHighlight = function (atoms, onOff) {
+        var molIndex = 1;
+
+        // before highlight we systematically reset all the colors because there is a problem in case of
+        // overlapping atoms and events
+        if (!onOff) {
+            jsmeApplet.resetAtomColors(1);
+        } else {
+            var highlight = [];
+            for (var i = 0; i < atoms.length; i++) {
+                highlight.push(atoms[i] + 1);
+                highlight.push(highlightColor);
+            }
+            jsmeApplet.setAtomBackgroundColors(molIndex, highlight.join(","))
+        }
+    };
+
+    window.clearHighlight = function (molIndex, atomsIndex) {
+        jsmeApplet.resetAtomColors(molIndex);
+    };
+
+    var changeCallback = function (result) {
+        setTimeout(function () {
+            var mol = window.jsmeApplet.molFile();
+            var molV3 = window.jsmeApplet.molFile(true);
+            var jme = window.jsmeApplet.jmeFile();
+            var smiles = window.jsmeApplet.smiles();
+            var svg = window.jsmeApplet.getMolecularAreaGraphicsString();
+            svg = svg.split('\n').filter(function (line, i) {
+                if (i === 1) return false; // remove main white background
+                if (/^<(rect|polygon).*stroke="rgb\(0,0,255\)"/.test(line)) return false; // remove blue hover rectangle
+                if (/^<line .*y1="0".*stroke="rgb\(...,(134|192|255),...\)"/.test(line)) return false; // remove lines on the right
+                return true;
+            }).join('\n');
+            window.doPostMessage('onChange', {mol: mol, molV3: molV3, smiles: smiles, jme: jme, svg: svg, action: result.action});
+        });
+    };
+
+    function setDefaultAction() {
+        if (this.defaultaction) {
+            jsmeApplet.setAction(this.defaultaction);
+        }
+    }
+
+    function jsmeOnLoad() {
+        var w = window.innerWidth;
+        var h = window.innerHeight;
+
+        var self = this;
+
+        //var __self = window;
+        jsmeApplet = new JSApplet.JSME("appletContainer", w + "px", h + "px");
+
+        def.done(function (message) {
+            jsmeApplet.options(message.prefs);
+            setHighlightColor(message.highlightColor);
+            jsmeApplet.setMolecularAreaLineWidth(message.bondwidth);
+            jsmeApplet.setAtomMolecularAreaFontSize(message.labelsize);
+
+            if (message.defaultaction) {
+                self.defaultaction = message.defaultaction;
+                setDefaultAction();
+            }
+            doPostMessage('ready');
+        });
+
+
+        jsmeApplet.setAfterStructureModifiedCallback(changeCallback);
+
+        // The notifyAtomHighLightJSfunction will receive two arguments: the molecule index and the atom index, both start at 1
+        jsmeApplet.setNotifyAtomHighLightChangeJSfunction('(function(mol,atom) {this.doPostMessage("doHighlight", {mol: mol, atom:atom});})');
+
+
+        jsmeApplet.setCallBack('AtomHighlight', function (jsmeEvent) {
+            this.doPostMessage("atomHover", {atom: jsmeEvent.atom});
+        });
+        jsmeApplet.setCallBack('AtomClicked', function (jsmeEvent) {
+            this.doPostMessage("atomClicked", {atom: jsmeEvent.atom});
+        });
+        jsmeApplet.setCallBack('BondHighlight', function (jsmeEvent) {
+            this.doPostMessage("bondHover", {bond: jsmeEvent.bond});
+        });
+        jsmeApplet.setCallBack('BondClicked', function (jsmeEvent) {
+            this.doPostMessage("bondClicked", {bond: jsmeEvent.bond});
+        });
+
+    }
+
+    var parent;
+
+    window.doPostMessage = function (type, message) {
+        if (parent) {
+            parent.window.postMessage(JSON.stringify({
+                type: type,
+                message: message,
+                id: parent.id,
+                module: 'jsme'
+            }), '*');
+        }
+    };
+
+    window.addEventListener('message', function (event) {
+
+        try {
+            var message = JSON.parse(event.data);
+        } catch (e) {
+            return;
+        }
+
+        switch (message.type) {
+            case 'init':
+                parent = {
+                    window: event.source,
+                    id: message.message.id
+                };
+                def.resolve(message.message);
+                break;
+            case 'clear':
+                clear();
+                break;
+            case 'setMolFile':
+                setMolFile(message.message);
+                setDefaultAction();
+                break;
+            case 'setJmeFile':
+                setJmeFile(message.message);
+                setDefaultAction();
+                break;
+            case 'setHighlight':
+                setHighlight(message.message.atoms, message.message.onOff);
+                break;
+            case 'setSize':
+                setSize(message.message.width, message.message.height);
+                break;
+            default:
+                console.error('Message type not handled: ', message.type);
+                break;
+        }
+
+    });
+</script>
+
+</body>
+</html>

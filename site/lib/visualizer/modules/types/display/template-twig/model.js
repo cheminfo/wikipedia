@@ -1,1 +1,1 @@
-"use strict";define(["modules/default/defaultmodel"],function(a){function b(){}return $.extend(!0,b.prototype,a),b});
+"use strict";define(["jquery","modules/default/defaultmodel"],function(a,b){function c(){}return a.extend(!0,c.prototype,b),c});

@@ -1,6 +1,6 @@
 'use strict';
 
-define(['lodash', 'src/util/util', 'marked', 'highlightjs'], function (_, Util, marked, highlights) {
+define(['src/util/util', 'marked', 'highlightjs'], function (Util, marked, highlights) {
     var cssPromises = [];
     cssPromises.push(Util.loadCss('lib/highlight.js/styles/default.css'));
     var cssLoaded = Promise.all(cssPromises);

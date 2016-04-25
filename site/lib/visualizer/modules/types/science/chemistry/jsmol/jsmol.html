@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title></title>
+    <script>
+        // jsmol prints too many debug lines
+        console.log = function() {};
+    </script>
+    <script type="text/javascript" language="javascript" src="../../../../../components/jsmol/src/JSmol.min.js"></script>
+
+
+</head>
+<body style="margin: 0; padding: 0; overflow: hidden;">
+
+<div id="appletContainer"></div>
+
+<script type="text/javascript">
+    function messageCallback(container, response) {
+        window.doPostMessage('message', response);
+    }
+
+    function clickCallback(container, response) {
+        window.doPostMessage('atomClick', response);
+    }
+
+    function hoverCallback(container, response) {
+        window.doPostMessage('atomHover', response);
+    }
+
+    var jsmolApplet;
+    var deferred = $.Deferred();
+    var self = window;
+
+    window.setInDom = function () {
+        var useSignedApplet = false, self = this;
+        var info = {
+            width: window.innerWidth,
+            height: window.innerHeight,
+            debug: false,
+            color: "0xF0F0F0",
+            addSelectionOptions: false,
+            use: "HTML5",
+            j2sPath: "../../../../../components/jsmol/src/j2s",
+            isSigned: useSignedApplet,
+            disableJ2SLoadMonitor: true,
+            disableInitialConsole: true,
+            messagecallback: "messageCallback",
+            hoverCallback: "hoverCallback",
+            pickCallback: "clickCallback",
+
+            readyFunction: function (applet) {
+                deferred.done(function () {
+                    self.doPostMessage('ready');
+                });
+            },
+            allowjavascript: true,
+            script: "set antialiasDisplay"
+        };
+
+        //   Jmol._XhtmlElement = $('#appletContainer').get(0);
+        //   Jmol._XhtmlAppendChild = true;
+        window.applet = Jmol.getApplet("appletContainer", info);
+    };
+
+    window.executeScript = function (actions) {
+        if (window.applet) {
+            Jmol.script(window.applet, actions.join('\r\n'));
+        }
+    };
+
+    window.executeScriptSync = function(actions) {
+        if(window.applet) {
+            try{
+                setTimeout(function() {
+                    var result  = Jmol.scriptWait(window.applet, actions.join('\r\n'));
+//                var result = Jmol.evaluateVar(window.applet, "script('" + actions.join('\r\n') + "')");
+//                var result = Jmol.evaluateVar(window.applet, "script('show file')");
+//                var result = Jmol.evaluateVar(window.applet, "script('show file;')")
+                    doPostMessage('execSync', result);
+                }, 10)
+            }
+            catch(e) {
+                console.log('jsmol error', e);
+                doPostMessage('error', JSON.stringify(e));
+            }
+        }
+    };
+
+    window.setMolFile = function (data) {
+        var actions = [];
+        actions.push("load data 'model'");
+        actions.push(data._modelLoad);
+        actions.push("end 'model' " + data._lattice);
+        actions.push(data._script);
+        actions.push('set hoverDelay 0.01;');
+        this.executeScript(actions);
+    };
+
+    window.saveOrientation = function(id) {
+        Jmol.saveOrientation(id);
+    };
+
+    window.restoreOrientation = function(id) {
+        Jmol.restoreOrientation(id);
+    };
+
+    window.setSize = function (w, h) {
+        Jmol.resizeApplet(this.applet, [w, h]);
+    };
+
+    /*
+    window.clear = function () {
+        this.applet.reset();
+    };
+    */
+
+    // TODO !!!!
+    window.setHighlight = function (atoms, onOff) {
+        var molIndex = 1;
+        if (!onOff) {
+            jsmeApplet.resetAtomColors(1);
+        } else {
+            var highlight = [];
+            for (var i = 0; i < atoms.length; i++) {
+                highlight.push(atoms[i] + 1);
+                highlight.push(3);
+            }
+            jsmeApplet.setAtomBackgroundColors(molIndex, highlight.join(","))
+        }
+    };
+
+    // TODO !!!!
+    window.clearHighlight = function (molIndex, atomsIndex) {
+        jsmeApplet.resetAtomColors(molIndex);
+    };
+
+    window.setInDom();
+
+    var parent;
+
+    window.doPostMessage = function (type, message) {
+        if (parent) {
+            parent.window.postMessage(JSON.stringify({
+                type: type,
+                message: message,
+                id: parent.id,
+                module: 'jsmol'
+            }), '*');
+        }
+    };
+
+    window.addEventListener('message', function (event) {
+
+        try {
+            var message = JSON.parse(event.data);
+        } catch(e) {
+            return;
+        }
+
+        switch (message.type) {
+            case 'init':
+                parent = {
+                    window: event.source,
+                    id: message.message.id
+                };
+                deferred.resolve();
+                break;
+            case 'setMolFile':
+                setMolFile(message.message);
+                break;
+            case 'blank':
+                this.executeScript(["zap"]);
+                break;
+            case 'executeScript':
+                executeScript(message.message);
+                break;
+            case 'executeScriptSync':
+                executeScriptSync(message.message);
+                break;
+            case 'setSize':
+                setSize(message.message.width, message.message.height);
+                break;
+            case 'call':
+                if(!message.message.name || !(typeof Jmol[message.message.name] == 'function')) break;
+                Jmol[message.message.name].apply(Jmol, message.message.args);
+                break;
+            default:
+                console.error('Message type not handled: ', message.type);
+                break;
+        }
+
+    });
+
+</script>
+</body>
+</html>

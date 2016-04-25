@@ -459,8 +459,8 @@
 			{
 				"type": "couchshare",
 				"label": "Share view",
-				"couchUrl": "http://visualizer.epfl.ch",
-				"tinyUrl": "http://visualizer.epfl.ch/tiny",
+				"couchUrl": "https://visualizer.epfl.ch",
+				"tinyUrl": "https://visualizer.epfl.ch/tiny",
 				"database": "x"
 			},
 			{
