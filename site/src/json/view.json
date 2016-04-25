@@ -31,6 +31,9 @@
 									"polarnitro"
 								]
 							],
+							"defaultaction": [
+								null
+							],
 							"labelsize": [
 								14
 							],
@@ -42,9 +45,6 @@
 							],
 							"outputResult": [
 								[]
-							],
-							"defaultaction": [
-								null
 							]
 						}
 					]
@@ -136,20 +136,11 @@
 					"name": "query"
 				}
 			],
-			"actions_out": {
-				"event": [
-					null
-				],
-				"rel": [
-					null
-				],
-				"jpath": [
-					null
-				],
-				"name": [
-					null
-				]
-			},
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
 			"zindex": 2,
 			"toolbar": {
 				"custom": [
@@ -165,9 +156,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -336,6 +325,12 @@
 									"highlightScroll"
 								]
 							],
+							"autoColumns": [
+								[]
+							],
+							"toolbar": [
+								[]
+							],
 							"colorjpath": [
 								[]
 							],
@@ -347,6 +342,12 @@
 							],
 							"slick.selectionModel": [
 								"row"
+							],
+							"filterType": [
+								"pref"
+							],
+							"filterRow": [
+								"// Documentation: https://github.com/NPellet/visualizer/blob/db85d9cc12c6204e4a3afb69bba6d695f6f8bad5/src/modules/types/edition/slick_grid/view.js#L918-L940"
 							]
 						}
 					],
@@ -358,10 +359,14 @@
 									"actID"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
+								"visibility": "both",
+								"rendererOptions": "",
 								"width": 250,
 								"minWidth": "250",
-								"maxWidth": "250"
+								"maxWidth": "250",
+								"hideColumn": []
 							},
 							{
 								"name": "Article name",
@@ -369,8 +374,31 @@
 									"name"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"width": 80
+								"visibility": "both",
+								"rendererOptions": "",
+								"width": 80,
+								"hideColumn": []
+							}
+						]
+					],
+					"actionCols": [
+						[
+							{
+								"backgroundColor": [
+									255,
+									255,
+									255,
+									1
+								],
+								"color": [
+									0,
+									0,
+									0,
+									1
+								],
+								"position": "end"
 							}
 						]
 					],
@@ -381,6 +409,11 @@
 									""
 								]
 							}
+						]
+					],
+					"actionOutButtons": [
+						[
+							{}
 						]
 					]
 				}
@@ -505,9 +538,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -606,8 +637,16 @@
 				{}
 			],
 			"title": "Information",
-			"vars_out": {},
-			"actions_out": {},
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
 			"zindex": 0,
 			"toolbar": {
 				"custom": [
@@ -623,9 +662,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -966,6 +1003,12 @@
 									"highlightScroll"
 								]
 							],
+							"autoColumns": [
+								[]
+							],
+							"toolbar": [
+								[]
+							],
 							"colorjpath": [
 								[]
 							],
@@ -977,6 +1020,12 @@
 							],
 							"slick.selectionModel": [
 								"row"
+							],
+							"filterType": [
+								"pref"
+							],
+							"filterRow": [
+								"// Documentation: https://github.com/NPellet/visualizer/blob/db85d9cc12c6204e4a3afb69bba6d695f6f8bad5/src/modules/types/edition/slick_grid/view.js#L918-L940"
 							]
 						}
 					],
@@ -988,8 +1037,12 @@
 									"id"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"width": 88
+								"visibility": "both",
+								"rendererOptions": "",
+								"width": 88,
+								"hideColumn": []
 							},
 							{
 								"name": "SMILES",
@@ -997,8 +1050,12 @@
 									"smiles"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"width": 476
+								"visibility": "both",
+								"rendererOptions": "",
+								"width": 476,
+								"hideColumn": []
 							},
 							{
 								"name": "Error message",
@@ -1006,8 +1063,31 @@
 									"error"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"width": 241
+								"visibility": "both",
+								"rendererOptions": "",
+								"width": 241,
+								"hideColumn": []
+							}
+						]
+					],
+					"actionCols": [
+						[
+							{
+								"backgroundColor": [
+									255,
+									255,
+									255,
+									1
+								],
+								"color": [
+									0,
+									0,
+									0,
+									1
+								],
+								"position": "end"
 							}
 						]
 					],
@@ -1018,6 +1098,11 @@
 									""
 								]
 							}
+						]
+					],
+					"actionOutButtons": [
+						[
+							{}
 						]
 					]
 				}
@@ -1136,9 +1221,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -1151,9 +1234,6 @@
 				"groups": {
 					"group": [
 						{
-							"colorjpath": [
-								[]
-							],
 							"slickCheck": [
 								[
 									"enableCellNavigation",
@@ -1161,6 +1241,15 @@
 									"forceFitColumns",
 									"highlightScroll"
 								]
+							],
+							"autoColumns": [
+								[]
+							],
+							"toolbar": [
+								[]
+							],
+							"colorjpath": [
+								[]
 							],
 							"slick.defaultColumnWidth": [
 								null
@@ -1172,6 +1261,12 @@
 								[
 									"cell"
 								]
+							],
+							"filterType": [
+								"pref"
+							],
+							"filterRow": [
+								"// Documentation: https://github.com/NPellet/visualizer/blob/db85d9cc12c6204e4a3afb69bba6d695f6f8bad5/src/modules/types/edition/slick_grid/view.js#L918-L940"
 							]
 						}
 					],
@@ -1183,10 +1278,30 @@
 									"id"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"defaultSortAsc": [
-									"yes"
-								]
+								"visibility": "both",
+								"rendererOptions": "",
+								"hideColumn": []
+							}
+						]
+					],
+					"actionCols": [
+						[
+							{
+								"backgroundColor": [
+									255,
+									255,
+									255,
+									1
+								],
+								"color": [
+									0,
+									0,
+									0,
+									1
+								],
+								"position": "end"
 							}
 						]
 					],
@@ -1194,9 +1309,14 @@
 						[
 							{
 								"getter": [
-									null
+									""
 								]
 							}
+						]
+					],
+					"actionOutButtons": [
+						[
+							{}
 						]
 					]
 				}
@@ -1310,9 +1430,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -1325,9 +1443,6 @@
 				"groups": {
 					"group": [
 						{
-							"colorjpath": [
-								[]
-							],
 							"slickCheck": [
 								[
 									"enableCellNavigation",
@@ -1335,6 +1450,15 @@
 									"forceFitColumns",
 									"highlightScroll"
 								]
+							],
+							"autoColumns": [
+								[]
+							],
+							"toolbar": [
+								[]
+							],
+							"colorjpath": [
+								[]
 							],
 							"slick.defaultColumnWidth": [
 								null
@@ -1346,6 +1470,12 @@
 								[
 									"cell"
 								]
+							],
+							"filterType": [
+								"pref"
+							],
+							"filterRow": [
+								"// Documentation: https://github.com/NPellet/visualizer/blob/db85d9cc12c6204e4a3afb69bba6d695f6f8bad5/src/modules/types/edition/slick_grid/view.js#L918-L940"
 							]
 						}
 					],
@@ -1357,10 +1487,30 @@
 									"id"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"defaultSortAsc": [
-									"yes"
-								]
+								"visibility": "both",
+								"rendererOptions": "",
+								"hideColumn": []
+							}
+						]
+					],
+					"actionCols": [
+						[
+							{
+								"backgroundColor": [
+									255,
+									255,
+									255,
+									1
+								],
+								"color": [
+									0,
+									0,
+									0,
+									1
+								],
+								"position": "end"
 							}
 						]
 					],
@@ -1368,9 +1518,14 @@
 						[
 							{
 								"getter": [
-									null
+									""
 								]
 							}
+						]
+					],
+					"actionOutButtons": [
+						[
+							{}
 						]
 					]
 				}
@@ -1484,9 +1639,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -1499,9 +1652,6 @@
 				"groups": {
 					"group": [
 						{
-							"colorjpath": [
-								[]
-							],
 							"slickCheck": [
 								[
 									"enableCellNavigation",
@@ -1509,6 +1659,15 @@
 									"forceFitColumns",
 									"highlightScroll"
 								]
+							],
+							"autoColumns": [
+								[]
+							],
+							"toolbar": [
+								[]
+							],
+							"colorjpath": [
+								[]
 							],
 							"slick.defaultColumnWidth": [
 								null
@@ -1520,6 +1679,12 @@
 								[
 									"cell"
 								]
+							],
+							"filterType": [
+								"pref"
+							],
+							"filterRow": [
+								"// Documentation: https://github.com/NPellet/visualizer/blob/db85d9cc12c6204e4a3afb69bba6d695f6f8bad5/src/modules/types/edition/slick_grid/view.js#L918-L940"
 							]
 						}
 					],
@@ -1531,10 +1696,30 @@
 									"id"
 								],
 								"editor": "none",
+								"forceType": "",
 								"formatter": "typerenderer",
-								"defaultSortAsc": [
-									"yes"
-								]
+								"visibility": "both",
+								"rendererOptions": "",
+								"hideColumn": []
+							}
+						]
+					],
+					"actionCols": [
+						[
+							{
+								"backgroundColor": [
+									255,
+									255,
+									255,
+									1
+								],
+								"color": [
+									0,
+									0,
+									0,
+									1
+								],
+								"position": "end"
 							}
 						]
 					],
@@ -1542,9 +1727,14 @@
 						[
 							{
 								"getter": [
-									null
+									""
 								]
 							}
+						]
+					],
+					"actionOutButtons": [
+						[
+							{}
 						]
 					]
 				}
@@ -1658,9 +1848,7 @@
 				"common": [
 					{
 						"toolbar": [
-							[
-								"Open Preferences"
-							]
+							[]
 						]
 					}
 				]
@@ -1713,6 +1901,15 @@
 							],
 							"maxEntries": [
 								1
+							],
+							"editable": [
+								null
+							],
+							"rendererOptions": [
+								null
+							],
+							"forceType": [
+								null
 							]
 						}
 					]
@@ -2329,8 +2526,16 @@
 				{}
 			],
 			"title": "",
-			"vars_out": [],
-			"actions_out": [],
+			"vars_out": [
+				{
+					"jpath": []
+				}
+			],
+			"actions_out": [
+				{
+					"jpath": []
+				}
+			],
 			"toolbar": {
 				"custom": [
 					[
@@ -2346,7 +2551,7 @@
 					{
 						"toolbar": [
 							[
-								"Open Preferences"
+								"Show fullscreen"
 							]
 						]
 					}
