@@ -9880,7 +9880,7 @@ Eterobarb	CCC1(C(=O)N(C(=O)N(C1=O)COC)COC)C2=CC=CC=C2
 Vabicaserin	C1C[C@H]2CN3CCNCC4=C3C(=CC=C4)[C@H]2C1
 Pardoprunox	Cl.O=C2Oc1c(cccc1N2)N3CCN(C)CC3
 Tedatioxetine	CC(C=C1)=CC=C1SC2=C(C3CCNCC3)C=CC=C2
-SL65.0155	Cl.O=C1O/C(=NN1C3CCN(CCc2ccccc2)CC3)c5cc(Cl)c(c4OCCOc45)N
+Capeserod	C1CN(CCC1N2C(=O)OC(=N2)C3=CC(=C(C4=C3OCCO4)N)Cl)CCC5=CC=CC=C5
 SB-742457	C3CNCCN3c1cccc(c1nc4)cc4S(=O)(=O)c2ccccc2
 PRX-07034	COc2cc(Cl)cc(c2OC)C(C)Nc1cc(ccc1S(=O)(=O)C)N3CCNCC3
 Tellimagrandin II	C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O
@@ -13752,14 +13752,20 @@ Diapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)C2=C(C(=CC(=C2)C(=O)C)OC)O
 1,6-Methano(10)annulene	c1ccc2ccccc(c1)C2
 Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
+Calicene	C1(C=CC=C1)=C2C=C2
 Cyclopropenone	c1cc1=O
 Cyclobutanone	O=C1CCC1
 Cyclopentadienone	C1=CC(=O)C=C1
+Triafulvalene	C=1\C(/C=1)=C2\C=C2
 Parathion methyl	COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
 2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
+Propadienone	C=C=C=O
+Propadienone	C=[C-]C#[O+]
+Propynal	C#CC=O
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
 Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
 3-Methylfuran	CC1=COC=C1
+Cyclononatetraene	C1=CC=CCC=CC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
 2,5-Dichloroaniline	C1=CC(=C(C=C1Cl)N)Cl
 Norepinephrine (drug)	Oc1ccc(cc1O)[C@@H](O)CN
@@ -13889,6 +13895,7 @@ UWA-001	CNC(Cc1ccc2OCOc2c1)c3ccccc3
 Prostanoic acid	CCCCCCCCC1CCCC1CCCCCCC(=O)O
 Sufotidine	CN1C(=NC(=N1)CS(=O)(=O)C)NCCCOC2=CC=CC(=C2)CN3CCCCC3
 Azonine	C1=CC=CNC=CC=C1
+Heptafulvene	C=C\1/C=C\C=C/C=C/1
 Talazoparib	Cn1c(ncn1)[C@H]2c3c4c(cc(cc4N[C@@H]2c5ccc(cc5)F)F)c(=O)[nH]n3
 Nitrazolam	Cc1nnc2CN=C(c3ccccc3)c4cc(ccc4n12)[N+]([O-])=O
 Fructoselysine	C(CCNCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)C[C@@H](C(=O)O)N
@@ -13922,6 +13929,7 @@ O-acylpseudotropine	C12(CCC(CC(OC(=O)[R])([H])C1)N(C)2)
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
+Pentazine	C1=NN=NN=N1
 Pentafluorothiophenol	c1(c(c(c(c(c1F)F)S)F)F)F
 Phenethyl acetate	CC(=O)OCCc1ccccc1
 Delta-Nonalactone	CCCCC1CCCC(=O)O1
@@ -13959,3 +13967,4 @@ Nicotinamide mononucleotide	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O
 Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 1,7-Octadiene	C=CCCCCC=C
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
+DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
