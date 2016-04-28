@@ -5203,6 +5203,7 @@ BOHD (psychedelic)	COc1cc(C)c(cc1C(O)CN)OC
 BOM (psychedelic)	COc1c(cc(cc1OC)C(CN)OC)OC
 4-Bromo-3,5-dimethoxyamphetamine	Brc1c(OC)cc(cc1OC)CC(N)C
 2-Bromo-4,5-methylenedioxyamphetamine	CC(Cc1cc2c(cc1Br)OCO2)N
+4-D (psychedelic)	[2H]C([2H])([2H])OC1=C(OC)C=C(CCN)C=C1OC
 Acylfulvene	O=C1C/3=C/C(=CC\3=C(/C2([C@]1(O)C)CC2)C)C
 Acylfulvene	CC1=CC2=C(C3(CC3)C(C(=O)C2=C1)(C)O)C
 Beta-D	COc1c(cc(cc1OC)C([2H])([2H])CN)OC
@@ -12442,6 +12443,7 @@ Gymnochrome E	CCC[C@H](Cc1c2c3c(c(c(c4c3c5c6c(c(cc(c6c4=O)O)O)c7c(cc(c8c7c5c2c(c
 Avibactam	[C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
 Nemonoxacin	C[C@H]1C[C@@H](CN(C1)c2ccc3c(c2OC)n(cc(c3=O)C(=O)O)C4CC4)N
 Omadacycline	CC(C)(C)CNCc1cc(c2c(c1O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)N(C)C
+Plazomicin	CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3OC(=CC[C@H]3N)CNCCO)[C@@H](N)C[C@H]2NC(=O)[C@@H](O)CCN)OC[C@]1(C)O
 Sutezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(c(c2)F)N3CCSCC3
 Brilacidin	C1CNC[C@@H]1OC2=C(C=C(C=C2NC(=O)C3=CC(=NC=N3)C(=O)NC4=CC(=CC(=C4O[C@@H]5CCNC5)NC(=O)CCCCNC(=N)N)C(F)(F)F)C(F)(F)F)NC(=O)CCCCNC(=N)N
 Eravacycline	CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=C(C(=C4C(=O)C3=C([C@@]2(C(=O)C(=C1O)C(=O)N)O)O)O)NC(=O)CN5CCCC5)F
