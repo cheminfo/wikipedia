@@ -10492,7 +10492,6 @@ Voacamine	CCC1CC2CC3(C1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)C6CC\7C(C(CC8=C6NC9=CC=CC=
 3-Acetyl-6-methoxybenzaldehyde	CC(=O)C1=CC(=C(C=C1)OC)C=O
 Cinchonain-Ib	O=C5Oc3c(c2O[C@H](c1ccc(O)c(O)c1)[C@H](O)Cc2c(O)c3)[C@H](c4ccc(O)c(O)c4)C5
 4-Hydroxyphenylacetic acid	O=C(O)Cc1ccc(O)cc1
-Pinoresinol	COc1cc(ccc1O)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)c4ccc(c(c4)OC)O
 Pinoresinol	COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O
 Eusiderin	O1c3c(O[C@@H]([C@H]1c2cc(OC)c(OC)c(OC)c2)C)c(OC)cc(c3)C\C=C
 Mannoheptulose	O=C([C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)CO
@@ -13915,7 +13914,7 @@ Cericlamine	CC(CC1=CC(=C(C=C1)Cl)Cl)(CO)N(C)C
 LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
 QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
 Miravirsen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(OC5COP(=S)(O)OC6C7C(OC6(CO7)CO)N8C=CC(=NC8=O)N)N9C=CC(=NC9=O)N)N1C=NC2=C1N=CN=C2N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC12COC(C1OP(=S)(O)OCC13COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=CC(=NC1=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC4=C1N=CN=C4N)OP(=S)(O)OCC14COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=NC5=C1N=CN=C5N)OP(=S)(O)OCC15COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC16COC(C1OP(=S)(O)OCC17COC(C1O)C(O7)N1C=CC(=NC1=O)N)C(O6)N1C=CC(=NC1=O)N)C(O5)N1C=CC(=NC1=O)N)C(O4)N1C=CC(=NC1=O)N)C(O3)N1C=C(C(=O)NC1=O)C)C(O2)N1C=NC2=C1N=C(NC2=O)N
-Ethyl hexanoate	CCCCCC(OCC)=O
+Ethyl hexanoate	CCCCCC(=O)OCC
 Cyclotene	CC1C(=O)C(=O)CC1
 Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
