@@ -9889,6 +9889,7 @@ Butynamine	CC(C)(C)N(C)C(C)(C)C#C
 Aminometradine	O=C1N(/C(=C\C(=O)N1CC)N)C\C=C
 Pirfenidone	CC1=CN(C(=O)C=C1)C2=CC=CC=C2
 Adatanserin	O=C(NCCN2CCN(c1ncccn1)CC2)C35CC4CC(CC(C3)C4)C5
+NBUMP	COc1ccccc1N2CCN(CC2)CCCCNC(=O)C34CC5CC(C3)CC(C5)C4
 CRL-40,941	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)NO)F
 Batanopride	Clc1cc(c(OC(C(=O)C)C)cc1N)C(=O)NCCN(CC)CC
 Gamfexine	c1ccccc1C(CCN(C)C)C2CCCCC2
@@ -11494,6 +11495,7 @@ Laurolactam	C1CCCCCC(=O)NCCCCC1
 Sodium trifluoromethanesulfinate	[Na+].FC(F)(F)S([O-])=O
 Valperinol	O1[C@@H](OC)[C@@H]2[C@@]3(O[C@H]1[C@@H]([C@H]2C[C@@H]3O)C)CN4CCCCC4
 Valorphin	C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](Cc1c[nH]c2c1cccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)N)O
+Leumorphin	C[C@H]([C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc2ccc(cc2)O)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc5ccccc5)NC(=O)CNC(=O)CNC(=O)[C@H](Cc6ccc(cc6)O)N)O
 Deltorphin I	O=C(N)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)C)Cc2ccccc2)CC(=O)O)C(C)C)C(C)C
 Deltorphin	O=C(O)C[C@@H](C(=O)N)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)CCSC)Cc2ccccc2)Cc3c[nH]cn3)CC(C)C)CCSC
 Fedotozine	O(c1cc(cc(OC)c1OC)COC[C@@](c2ccccc2)(N(C)C)CC)C
@@ -13550,7 +13552,7 @@ Modimelanotide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)NCC(=O
 Beta-Melanocyte-stimulating hormone	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC=N3)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)NC(CO)C(=O)N7CCCC7C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)O)N
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
-3'-Hydroxyechinenone	CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+3'-Hydroxyechinenone	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
 Allyl glycidyl ether	C=CCOCC1CO1
 Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
 N-2′-Indolylnaltrexamine	OC1=CC=C2C[C@H]3N(CC4CC4)CC[C@@]45[C@@H](OC1=C24)[C@@H](CC[C@@]35O)NC(=O)C1=CC2=CC=CC=C2N1
