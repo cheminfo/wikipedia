@@ -5421,6 +5421,7 @@ Iloperidone	O=C(c4ccc(OCCCN3CCC(c2noc1cc(F)ccc12)CC3)c(OC)c4)C
 G418	O[C@H]3[C@H](O)[C@@H](N)[C@@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O)[C@H]2O)OC3[C@@H](O)C
 Leukotriene A4	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]1[C@@H](O1)CCCC(=O)O
 Leukotriene D4	CCCCC\C=C/C\C=C/C=C/C=C/[C@@H](SC[C@H](N)C(=O)NCC(=O)O)[C@@H](O)CCCC(=O)O
+Leukotriene C4	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]([C@H](CCCC(=O)O)O)SC[C@@H](/C(=N/CC(=O)O)/O)/N=C(\CC[C@@H](C(=O)O)N)/O
 Plumbane	[Pb]
 Thromboxane B2	CCCCC[C@H](O)\C=C\[C@H]1OC(O)C[C@H](O)[C@@H]1C\C=C/CCCC(O)=O
 Peridinin	[H][C@@](/[C@@](C)=C/C=C/C=C/C=C(C)/C=C2C=C(/C=C/[C@@]3(O4)[C@]4(C)C[C@@H](O)CC(C)3C)C(O\2)=O)=C=C1[C@](C)(O)C[C@@H](OC(C)=O)CC(C)1C
@@ -7646,6 +7647,7 @@ TP-003	CC(C)(C1=C(C2=NC=C(N2C=C1)C3=C(C=CC(=C3)C4=C(C=C(C=C4)F)C#N)F)F)O
 Disulfur	[S][S]
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
+Isobromindione	c1ccc(cc1)C2C(=O)c3ccc(cc3C2=O)Br
 Oxypurinol	O=C1NC(=O)C2=CNNC2=N1
 Tisopurine	c1c2c([nH]n1)ncnc2S
 Aluminium glycinate	O[Al+]O.[O-]C(=O)CN
@@ -13622,6 +13624,7 @@ NM-2-AI	CNC2CC1=CC=CC=C1C2
 MDMB-CHMICA	COC(=O)C(C(C)(C)C)NC(=O)c1cn(c2c1cccc2)CC1CCCCC1
 Alpha-Pyrrolidinopentiothiophenone	O=C(C(CCC)N1CCCC1)C2=CC=CS2.Cl
 Acrylophenone	C=CC(=O)C1=CC=CC=C1
+Irganox 1098	CC(c1c(c(cc(c1)CC/C(=N/CCCCCC/N=C(\O)/CCc2cc(c(c(c2)C(C)(C)C)O)C(C)(C)C)/O)C(C)(C)C)O)(C)C
 Hydroxyacetone	CC(=O)CO
 6-Hydroxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)O
 5F-AB-PINACA	CC(C)[C@H](NC(=O)c1nn(CCCCF)c2ccccc12)C(N)=O
