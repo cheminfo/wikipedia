@@ -8883,7 +8883,7 @@ Bioallethrin	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C
 Thiram	CN(C)C(=S)SSC(=S)N(C)C
 Dixanthogen	S=C(SSC(=S)OCC)OCC
 Bamifylline	O=C2N(c1nc(n(c1C(=O)N2C)CCN(CC)CCO)Cc3ccccc3)C
-Etamiphylline	CCN(CC)CCN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Etamiphylline	CCN(CC)CCn1cnc2c1c(=O)n(c(=O)n2C)C
 Proxyphylline	CC(CN1C=NC2=C1C(=O)N(C(=O)N2C)C)O
 Dyphylline	O=C2N(c1ncn(c1C(=O)N2C)CC(O)CO)C
 Eprozinol	COC(CN1CCN(CC1)CCC(C2=CC=CC=C2)O)C3=CC=CC=C3
@@ -8977,7 +8977,7 @@ Cyclobutanetetrone	O=C1C(=O)C(=O)C1=O
 Halichondrin B	OCC(O)CC(O)[C@@H]1C[C@@H]2O[C@@]3(C[C@H](C)[C@@H]2O1)C[C@H](C)[C@@H]4O[C@]%10(C[C@@H]4O3)C[C@H]%11O[C@H]%12[C@H](C)[C@H]%13OC(=O)C[C@H]8CC[C@@H]9O[C@H]7[C@H]6O[C@]5(O[C@H]([C@@H]7O[C@@H]6C5)[C@H]9O8)CC[C@H]%15C/C(=C)[C@H](CC[C@H]%14C[C@@H](C)\C(=C)[C@@H](C[C@@H]%13O[C@H]%12C[C@H]%11O%10)O%14)O%15
 Copper(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Ammonium dihydrogen phosphate	[O-]P(=O)(O)O.[NH4+]
-Echinomycin	CC1C(=O)N(C2CSC(C(C(=O)N(C(C(=O)OCC(C(=O)N1)NC(=O)C3=NC4=CC=CC=C4N=C3)C(C)C)C)N(C(=O)C(NC(=O)C(COC(=O)C(N(C2=O)C)C(C)C)NC(=O)C5=NC6=CC=CC=C6N=C5)C)C)SC)C
+Echinomycin	C[C@H]1C(=O)N([C@H]2CSC([C@@H](C(=O)N([C@H](C(=O)OC[C@H](C(=O)N1)NC(=O)c3cnc4ccccc4n3)C(C)C)C)N(C(=O)[C@@H](NC(=O)[C@@H](COC(=O)[C@@H](N(C2=O)C)C(C)C)NC(=O)c5cnc6ccccc6n5)C)C)SC)C
 Eslicarbazepine acetate	CC(=O)OC2Cc1ccccc1N(C(N)=O)c3c2cccc3
 Befiradol	n2cc(C)ccc2CNCC(F)(CC3)CCN3C(=O)c(cc1Cl)ccc1F
 Methylenedioxyethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
@@ -12143,7 +12143,7 @@ Celastrol	CC1=C(C(=O)C=C2C1=CC=C3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4C[C@](CC5)
 5-MAPB	CC(NC)CC1=CC(C=CO2)=C2C=C1
 Acetone azine	N(\N=C(/C)C)=C(\C)C
 Mesembrenone	O=C3\C=C/[C@]2(c1ccc(OC)c(OC)c1)[C@@H](N(CC2)C)C3
-Nupharin A	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O3)O)O)O)O)O)O
+Nupharin A	O=C3O[C@H]7[C@H](OC(=O)c1c(c(O)c(O)c(O)c1)c2c(O)c(O)c(O)cc23)[C@@H](OC(=O)c4cc(O)c(O)c(O)c4)[C@H](OC(=O)c5cc(O)c(O)c(O)c5)O[C@@H]7COC(=O)c6cc(O)c(O)c(O)c6
 Dopachrome	C1C(NC2=CC(=O)C(=O)C=C21)C(=O)O
 DHICA	C1=C2C=C(NC2=CC(=C1O)O)C(=O)O
 Propanethiol	CCCS
