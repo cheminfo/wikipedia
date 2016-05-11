@@ -3394,8 +3394,9 @@ Bromodichloromethane	BrC(Cl)Cl
 Dibromochloromethane	ClC(Br)Br
 Methyl isothiocyanate	S=C=NC
 Grapefruit mercaptan	SC(C)(C)[C@@H]1CCC(C)=CC1
-Dibenzylideneacetone	O=C(\C=C\c1ccccc1)/C=C\c2ccccc2
 Dibenzylideneacetone	O=C(/C=C/c1ccccc1)/C=C/c2ccccc2
+Dibenzylideneacetone	O=C(\C=C\c1ccccc1)/C=C\c2ccccc2
+Dibenzylideneacetone	O=C(/C=C\c1ccccc1)/C=C\c2ccccc2
 Nitrosobenzene	O=Nc1ccccc1
 Ristocetin	CC1C(C(CC(O1)OC2C3C(=O)NC(C4=CC(=CC(=C4C5=C(C=CC(=C5)C(C(=O)N3)NC(=O)C6C7=CC(=C(C(=C7)OC8=CC=C2C=C8)OC9C(C(C(C(O9)COC1C(C(C(C(O1)C)O)O)O)O)O)OC1C(C(C(C(O1)CO)O)O)OC1C(C(C(CO1)O)O)O)OC1=CC=C(C=C1)C(C1C(=O)NC(C2=CC(=C(C(=C2)O)C)OC2=C(C=CC(=C2)C(C(=O)N1)N)O)C(=O)N6)O)O)OC1C(C(C(C(O1)CO)O)O)O)O)C(=O)O)N)O
 Disopyramide	O=C(N)C(c1ncccc1)(c2ccccc2)CCN(C(C)C)C(C)C
@@ -13054,6 +13055,7 @@ Berkeleytrione	C[C@]12CC=C3[C@]([C@@H]1C[C@@]4(C(=C)[C@]2(C(=O)[C@@](C4=O)(C)O)C
 1,1,1-Trichloro-2,2,2-trifluoroethane	FC(F)(F)C(Cl)(Cl)Cl
 Acid Blue 25	C1=CC=C(C=C1)NC2=CC(=C(C3=C2C(=O)C4=CC=CC=C4C3=O)N)S(=O)(=O)[O-].[Na+]
 Brincidofovir	CCCCCCCCCCCCCCCCOCCCOP(=O)(CO[C@@H](CN1C=CC(=NC1=O)N)CO)O
+Isobutylidenediurea	CC(C)C(NC(=O)N)NC(=O)N
 Potassium selenate	[K+].[K+].[O-][Se]([O-])(=O)=O
 Retronecine	C1CN2CC=C([C@@H]2[C@@H]1O)CO
 JNJ-26489112	NS(=O)(=O)NC[C@H]1COC2=C(O1)C=CC(Cl)=C2
