@@ -7579,7 +7579,7 @@ Homochlorcyclizine	CN1CCCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
 Mosapramine	C1CCN2C(C1)NC(=O)C23CCN(CC3)CCCN4C5=CC=CC=C5CCC6=C4C=C(C=C6)Cl
 Cinanserin	CN(C)CCCSC1=CC=CC=C1NC(=O)\C=C\C2=CC=CC=C2
 Cianopramine	N#Cc1ccc3c(c1)N(c2ccccc2CC3)CCCN(C)C
-Cyanopindolol	n1ccn(c1)C(c3ccc(c2ccccc2)cc3)c4ccccc4
+Cyanopindolol	N#CC1=CC2=C(OCC(CNC(C)(C)C)O)C=CC=C2N1
 Iodocyanopindolol	IC1=C(C#N)NC2=CC=CC(OCC(CNC(C)(C)C)O)=C21
 Leonurine	O=C(OCCCC/N=C(\N)N)c1cc(OC)c(O)c(OC)c1
 Fadrozole	C1CC(N2C=NC=C2C1)C3=CC=C(C=C3)C#N
@@ -9228,7 +9228,7 @@ Trifolin	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
 Kaempferitrin	CC1C(C(C(C(O1)OC2=CC(=C3C(=C2)OC(=C(C3=O)OC4C(C(C(C(O4)C)O)O)O)C5=CC=C(C=C5)O)O)O)O)O
 Myricitrin	CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O
 Robinin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)O)O)O)C6=CC=C(C=C6)O)O)O)O)O)O)O
-Spiraeoside	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)OC4C(C(C(C(O4)CO)O)O)O
+Spiraeoside	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Xanthorhamnin	CC1C(C(C(C(O1)OC2C(C(OC(C2O)OCC3C(C(C(C(O3)OC4=C(OC5=CC(=CC(=C5C4=O)O)OC)C6=CC(=C(C=C6)O)O)O)O)O)C)O)O)O)O
 Diosmetin	COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
 Nobiletin	COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC
@@ -13845,6 +13845,7 @@ Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)
 Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
 5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
 Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
+Phenylbiguanide	c1ccc(cc1)NC(=N)NC(=N)N
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
 Indirubin	c1ccc2c(c1)/C(=C/3\C(=O)c4ccccc4N3)/C(=O)N2
 Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
