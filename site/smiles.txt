@@ -7265,7 +7265,7 @@ Bismuth(III) iodide	[I-].[I-].[I-].[BiH3+3]
 Piperidylthiambutene	C1CCCCN1C(C)C=C(c3cccs3)c2sccc2
 Pyrrolidinylthiambutene	C2CCCN2C(C)C=C(c1sccc1)c3sccc3
 Pilsicainide	CC1=C(C(=CC=C1)C)NC(=O)CC23CCCN2CCC3
-Azilsartan	O=C1O/C(=C(\O1)C)COC(=O)c3cccc2nc(OCC)n(c23)Cc6ccc(c5ccccc5C\4=N\C(=O)ON/4)cc6
+Azilsartan	CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)N5)C(=O)O
 Azasetron	CN1C(=O)COC2=C1C=C(C=C2C(=O)NC3CN4CCC3CC4)Cl
 Plutonium(III) fluoride	[F-].[F-].[F-].[Pu+3]
 (E,E)-2,4-Decadienal	CCCCC\C=C\C=C\C=O
@@ -11039,7 +11039,7 @@ Morphiceptin	c1ccc(cc1)C[C@@H](C(=O)N2CCC[C@H]2C(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@
 Linifanib	CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N
 Potassium hexafluoronickelate(IV)	[K+].[K+].F[Ni-2](F)(F)(F)(F)F
 Cenicriviroc	O=S(c1ccc(cc1)NC(=O)\C4=C\c3c(ccc(c2ccc(OCCOCCCC)cc2)c3)N(CCC4)CC(C)C)Cc5cncn5CCC
-Brigatinib	CN(C)C1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=CC=C4P(=O)(C)C)Cl)OC
+Brigatinib	COC1=C(C=CC(N2CCC(N3CCN(CC3)C)CC2)=C1)NC4=NC=C(C(NC5=CC=CC=C5P(C)(C)=O)=N4)Cl
 Velusetrag	CC(C)N1C2=CC=CC=C2C=C(C1=O)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C[C@H](CN(C)S(=O)(=O)C)O
 Fostamatinib	Fc1cnc(nc1Nc2nc3N(C(=O)C(Oc3cc2)(C)C)COP(=O)(O)O)Nc4cc(OC)c(OC)c(OC)c4
 Lesogaberan	O=P([H])(C[C@@H](CN)F)O
@@ -13641,7 +13641,7 @@ NNE1	CCCCCn1cc(c2c1cccc2)C(=O)Nc1cccc2c1cccc2
 CUMYL-PICA	O=C(NC(C)(C)C1=CC=CC=C1)C2=CN(CCCCC)C3=C2C=CC=C3
 PTI-2	CCCCCN1C=C(C2=NC(CN(CCOC)C(C)C)=CS2)C3=CC=CC=C31.Cl
 PTI-1	CCCCCN1C=C(C2=NC(CN(CC)CC)=CS2)C3=CC=CC=C31.Cl
-Phenylpiracetam hydrazide	O=C1CC(C2=CC=CC=C2)CN1CC(NN)=O
+Phenylpiracetam hydrazide	c1ccc(cc1)C2CC(=O)N(C2)CC(=O)NN
 2,4,5-Trihydroxyamphetamine	CC(N)CC1=C(O)C=C(O)C(O)=C1
 Modafinil acid	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)O
 2,4,5-Trihydroxymethamphetamine	CNC(C)CC1=C(O)C=C(O)C(O)=C1
@@ -13960,6 +13960,7 @@ Noroxymorphone	Oc1ccc2C[C@H]3NCC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O
 Ridinilazole	c6cc(c5nc4ccc(c3ccc2nc(c1ccncc1)[nH]c2c3)cc4[nH]5)ccn6
 Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
 Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
+2-Aminothiophenol	c1ccc(c(c1)N)S
 4-Carboxybenzaldehyde	c1cc(ccc1C=O)C(=O)O
 Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
 Urea perchlorate	C(=O)([NH3+])N.[O-]Cl(=O)(=O)=O
