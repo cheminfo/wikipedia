@@ -9471,7 +9471,7 @@ Epsilon-Viniferin	C1=CC(=CC=C1C=CC2=CC(=CC3=C2C(C(O3)C4=CC=C(C=C4)O)C5=CC(=CC(=C
 Alpha-Viniferin	Oc1ccc(cc1)C%10Oc2cc(O)cc7c2C%10c8cc(O)cc9OC(c3ccc(O)cc3)C(c5cc(O)cc6OC(c4ccc(O)cc4)C7c56)c89
 Alpha-Viniferin	OC(C=C1)=CC=C1[C@@H]2[C@@H](C3=C4C(O[C@@H](C5=CC=C(O)C=C5)[C@@H]4C6=C([C@@H]7[C@H](C8=CC=C(O)C=C8)O9)C9=CC(O)=C6)=CC(O)=C3)C%10=C7C=C(O)C=C%10O2
 Trans-Diptoindonesin B	OC1=CC(/C=C/C2=CC=C(O[C@H](C3=CC=C(O)C=C3)[C@H]4C5=CC(O)=CC6=C5[C@H](C7=CC(O)=CC(O)=C7)[C@@H](C8=CC=C(O)C=C8)O6)C4=C2)=CC(O)=C1
-Furanomycin	CC1C=CC(O1)C(C(=O)O)N
+Furanomycin	C[C@H]1C=C[C@@H](O1)[C@@H](C(=O)O)N
 Phorbol 12,13-dibutyrate	CCCC(=O)O[C@@H]1[C@H]([C@]2([C@@H](C=C(C[C@]3([C@H]2C=C(C3=O)C)O)CO)[C@H]4[C@@]1(C4(C)C)OC(=O)CCC)O)C
 Bay K8644	CC1=C(C(C(=C(N1)C)[N+](=O)[O-])C2=CC=CC=C2C(F)(F)F)C(=O)OC
 Binedaline	c1cccc2c1c(cn2N(CCN(C)C)C)c3ccccc3
@@ -9568,7 +9568,7 @@ Ammonium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[NH4+].[NH4+]
 Abnormal cannabidiol	CCCCCC1=CC(=CC(=C1[C@H]2C=C(CC[C@H]2C(=C)C)C)O)O
 Scammonin I	O=C(CCCCCCCCC[C@H](CCCCC)O[C@H]1[C@@]2([H])[C@@H](O)[C@H](O)[C@@H](C)O1)O[C@H]([C@](O[C@@H]3O[C@H](C)[C@@H](OC(/C(C)=C/C)=O)[C@H](O)[C@H]3O)([H])[C@H](C)O4)[C@@H](OC([C@H](CC)C)=O)[C@@H]4O[C@@]5([H])[C@H](O2)O[C@H](CO)[C@@H](O)[C@@H]5O
 Octadecyltrimethoxysilane	CCCCCCCCCCCCCCCCCC[Si](OC)(OC)OC
-Eupatolin	CC1C(C(C(C(O1)OC2=C(OC3=CC(=C(C(=C3C2=O)O)OC)OC)C4=CC(=C(C=C4)O)O)O)O)O
+Eupatolin	C[C@@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3O)OC)OC)oc2c4ccc(c(c4)O)O)O)O)O
 Carbonyl bromide	BrC(Br)=O
 Basketene	C2=CC5C1C4C3C1C2C3C45
 Dibutylamine	CCCCNCCCC
@@ -11924,6 +11924,7 @@ Methylpyridinium	[n+]1(ccccc1)C
 Allyl phenyl ether	C=CCOc1ccccc1
 Ethylene diurea	O=C(NCCNC(=O)N)N
 Ethanimine	CC=N
+Eleutheroside D	COc1cc(cc(c1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)[C@@H]3[C@@H]4CO[C@@H]([C@H]4CO3)c5cc(c(c(c5)OC)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)OC
 Brookhart's acid	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[B-](c2cc(cc(c2)C(F)(F)F)C(F)(F)F)(c3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4cc(cc(c4)C(F)(F)F)C(F)(F)F.O(CC)CC.[OH+](CC)CC
 Ammonium carbamate	[O-]C(=O)N.[NH4+]
 Dimethylbutadiene	CC(=C)C(=C)C
@@ -12571,7 +12572,7 @@ Saringosterol	C[C@H](CCC(C=C)(C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[
 Acetiromate	CC(=O)OC1=C(C=C(C=C1)OC2=C(C=C(C=C2I)C(=O)O)I)I
 Borane	B
 Agosterol A	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(C[C@H]([C@H]3C2=C[C@@H]([C@@H]4[C@@]3(CC[C@@H]([C@@H]4OC(=O)C)OC(=O)C)C)OC(=O)C)O)C)[C@@H](CCC(C)C)O
-Fucosterol	CC=C(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+Fucosterol	C/C=C(\CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)/C(C)C
 Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
 Aplysamine-2	CN(C)CCCOC1=C(C=C(C=C1Br)CCNC(=O)/C(=N\O)/CC2=CC(=C(C=C2)OC)Br)Br
@@ -12795,6 +12796,7 @@ N-Methyl-L-glutamic acid	O=C(O)CC[C@H](NC)C(=O)O
 4-Methylsalicylic acid	CC1=CC(=C(C=C1)C(=O)O)O
 2-Hydroxy-4-methylbenzaldehyde	CC1=CC(=C(C=C1)C=O)O
 2-Hydroxy-4-methoxybenzaldehyde	COC1=CC(=C(C=C1)C=O)O
+Erbium(III) iodide	I[Er](I)I
 3-Nitrochlorobenzene	C1=CC(=CC(=C1)Cl)[N+](=O)[O-]
 Perfluorotributylamine	C(C(C(F)(F)F)(F)F)(C(N(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 Icotinib	C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4
@@ -13721,6 +13723,7 @@ Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
+Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(CCC34C)O)C
 Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
