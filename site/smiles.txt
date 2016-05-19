@@ -6388,6 +6388,7 @@ Sameridine	O=C(N(CC)C)C2(c1ccccc1)CCN(CCCCCC)CC2
 Semorphone	O=C4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)CCOC
 PEPAP	O=C(C)OC1(CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 Difenoxin	C(CCN1CCC(CC1)(C(O)=O)C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C#N
+Pethidine intermediate A	CN1CCC(CC1)(C#N)c2ccccc2
 Levuglandin	CCCCCC(C=CC(C(CC=CCCCC(=O)O)C=O)C(=O)C)O
 Heptene	C=CCCCCC
 Decene	CCCCCCCCC=C
@@ -12330,7 +12331,7 @@ Compound NJ2	Oc6ccc(cc6O)C7Oc(c5CC7O)c4c(C(=O)O)c(c(cc1O)[o+]c4cc5O)c(c1CC2O)OC2
 Decarboxylated 8,5'-diferulic acid	Oc2c(OC)cc(\C=C\C(O)=O)cc2\C=C\c(cc1OC)ccc1O
 Dichloroacetylene	C(#CCl)Cl
 Neoeriocitrin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O
-Eriocitrin	Oc1ccc(cc1O)[C@H]3Cc2cc(cc(O)c2C(=O)C3)O[C@@H]5O[C@H](CO[C@@H]4O[C@@H](O)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]5O
+Eriocitrin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)O)O)O)O)O)O
 Narirutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)O)O)O)O)O)O
 Liquiritin	C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Xanthotoxol	C1=CC(=O)OC2=C(C3=C(C=CO3)C=C21)O
@@ -13982,7 +13983,7 @@ Allyl mercaptan	C=CCS
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
 Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N[C@@H]3[C@@H]([C@H]([C@@H]4[C@H]([C@@H]3O)OCO4)O)O
-Biliatresone	C1(=CC2=C(C(=C1C(=O)C(=C)C=3C=CC=CC3O)OC)OCO2)O
+Biliatresone	O=C(C(C1=C(O)C=CC=C1)=C)C2=C(OC)C3=C(OCO3)C=C2OC
 Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
 PR-104	OP(=O)(O)OCCNC(=O)c(cc([N](=O)=O)cc1[N](=O)=O)c1N(CCBr)CCOS(=O)(C)=O
@@ -13991,3 +13992,4 @@ Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 1,7-Octadiene	C=CCCCCC=C
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
+Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
