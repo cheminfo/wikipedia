@@ -9657,6 +9657,7 @@ Piperic acid	C1OC2=C(O1)C=C(C=C2)/C=C/C=C/C(=O)O
 NS-398	CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2CCCCC2
 Daphnin	O=C2\C=C/c3ccc(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c(O)c3O2
 4-Chloromercuribenzoic acid	O=C(O)c1ccc([Hg]Cl)cc1
+S-Adenosylmethioninamine	C[S+](CCCN)C[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O
 Aurintricarboxylic acid	O=C(O)\C1=C\C(\C=C/C1=O)=C(/c2ccc(O)c(C(=O)O)c2)c3ccc(O)c(C(=O)O)c3
 Ro48-8684	CCCN(CC1=CN=C(C2=C(CN(C(C3=C4C=CC(F)=C3)=O)C)N4C=N2)O1)CCC
 Org 21465	CC5(C)CN(CCO5)C2CC4(C)C(CC2O)CCC1C4C(=O)CC3(C)C1CCC3C(=O)CS(O)(=O)=O
@@ -12212,6 +12213,7 @@ Prosopine	CC(CCCCCCCCCCC1CCC(C(N1)CO)O)O
 PB-22	CCCCCN1C=C(C2=CC=CC=C21)C(=O)OC3=CC=CC4=C3N=CC=C4
 QUCHIC	C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5
 5F-PB-22	C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4
+AB-005	CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CC4CCCCN4C)C
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
 Copper(III) oxide	[O-2].[O-2].[O-2].[Cu+3].[Cu+3]
 Barium hypochlorite	[O-]Cl.[O-]Cl.[Ba+2]
@@ -12461,6 +12463,7 @@ Sutezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(c(c2)F)N3CCSCC3
 Brilacidin	C1CNC[C@@H]1OC2=C(C=C(C=C2NC(=O)C3=CC(=NC=N3)C(=O)NC4=CC(=CC(=C4O[C@@H]5CCNC5)NC(=O)CCCCNC(=N)N)C(F)(F)F)C(F)(F)F)NC(=O)CCCCNC(=N)N
 Eravacycline	CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=C(C(=C4C(=O)C3=C([C@@]2(C(=O)C(=C1O)C(=O)N)O)O)O)NC(=O)CN5CCCC5)F
 D75-4590	CCc1c(c(c2nc3ccccc3n2c1NCCN(CC)CC)C#N)C
+E1210	c1ccnc(c1)OCc2ccc(cc2)Cc3cc(on3)c4cccnc4N
 3-Deazaneplanocin A	n3ccc1c(ncn1[C@@H]2/C=C(/CO)[C@@H](O)[C@H]2O)c3N
 BAY 57-1293	Cc1c(sc(n1)N(C)C(=O)Cc2ccc(cc2)c3ccccn3)S(=O)(=O)N
 PMDTT	CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](CO2)OCP(=O)(O)O
@@ -14002,4 +14005,7 @@ Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
 2-Bromopyridine	c1ccnc(c1)Br
+8-Mercaptoquinoline	c1cc2cccnc2c(c1)S
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
+Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
+Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
