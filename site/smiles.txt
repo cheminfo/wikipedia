@@ -6253,6 +6253,7 @@ Prallethrin	O=C2\C(=C(\C)C(OC(=O)C1C(/C=C(/C)C)C1(C)C)C2)CC#C
 Etamsylate	CCNCC.c1cc(c(cc1O)S(=O)(=O)O)O
 Tetrachloro-m-xylene	Clc1c(c(Cl)c(c(Cl)c1Cl)C)C
 Benzofuranylpropylaminopentane	CCC[C@@H](NCCC)CC1=CC2=C(C=CC=C2)O1
+Phenylpropylaminopentane	CCCN[C@H](CCC)Cc1ccccc1
 Tifluadom	O=C(NCC1N(c3ccccc3C(=N/C1)\c2ccccc2F)C)c4ccsc4
 Pipequaline	n1c4c(c(cc1c2ccccc2)CCC3CCNCC3)cccc4
 Faxeladol	Oc1cccc(c1)[C@@H]2CCCC[C@H]2CN(C)C
@@ -6807,6 +6808,7 @@ Octyl gallate	CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)
 Dodecyl gallate	CCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O
 Icilin	O=C3N(c1c(O)cccc1)C/C=C(/c2cccc([N+]([O-])=O)c2)N3
 Rivoglitazone	CN1C2=C(C=CC(=C2)OC)N=C1COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4
+Ro48-6791	Fc4cc3c(n2cnc(c1nc(on1)CN(CCC)CCC)c2CN(C3=O)C)cc4
 Fosaprepitant	C[C@H](c1cc(cc(c1)C(F)(F)F)C(F)(F)F)O[C@@H]2[C@@H](N(CCO2)Cc3[nH]c(=O)n(n3)P(=O)(O)O)c4ccc(cc4)F
 Iodine pentoxide	O=I(=O)OI(=O)=O
 Tedisamil	C1CCC2(C1)C3CN(CC2CN(C3)CC4CC4)CC5CC5
@@ -7037,7 +7039,7 @@ Mercury(I) iodide	[I]1=[Hg]2[I]=[Hg]12
 Chromium nitride	[Cr]#N
 Bismuth(III) sulfide	[BiH3+3].[BiH3+3].[S-2].[S-2].[S-2]
 Tin(II) sulfide	S=[Sn]
-RWJ-394674	c5ccccc5CCN1C(C4)CCC1CC4=C(c3ccc(cc3)C(=O)N(CC)CC)c2ccccc2
+RWJ-394674	CCN(CC)C(=O)c1ccc(cc1)C(=C2C[C@H]3CC[C@@H](C2)N3CCc4ccccc4)c5ccccc5
 R-4066	CCC(=O)C(CCN1CCC2(CCCC3=CC=CC=C32)CC1)(C4=CC=CC=C4)C5=CC=CC=C5
 C-8813	BrC1=CC=C([C@@]2(CC[C@](CC2)(CCC3=CC=CS3)O)N(C)C)C=C1
 9-Aminoacridine	n1c3c(c(c2c1cccc2)N)cccc3
@@ -7145,6 +7147,7 @@ Potassium argentocyanide	[C-]#N.[C-]#N.[K+].[Ag+]
 Methacryloyl chloride	CC(=C)C(=O)Cl
 Pirimiphos-methyl	CCN(CC)C1=NC(=CC(=N1)OP(=S)(OC)OC)C
 Procymidone	Clc1cc(cc(Cl)c1)N2C(=O)C3(C)CC3(C)C2=O
+Pyrimethanil	Cc1cc(nc(n1)Nc2ccccc2)C
 Philanthotoxin	CCCC(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCCCCNCCCNCCCN
 Diclofensine	CN1CC(C2=C(C1)C=C(C=C2)OC)C3=CC(=C(C=C3)Cl)Cl
 Dichloropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2)C[C@@H]1C3=CC(=C(C=C3)Cl)Cl
@@ -8968,7 +8971,7 @@ NGD-4715	Brc1ccc(nc1OC)N3CCN(CC3)Cc(cc2OC)ccc2OC
 SHA-68	c4ccccc4C1(c5ccccc5)OC(=O)N3C1CN(CC3)C(=O)NCc(cc2)ccc2F
 SB-215505	CC1=C(C=C2C(=C1)CCN2C(=O)NC3=CC=NC4=CC=CC=C43)Cl
 Meclinertant	c7cc3c(cc7Cl)nccc3-n4nc(cc4-c1c(OC)cccc1OC)C(=O)NC2(C(O)=O)C5CC(C6)CC2CC6C5
-Ricasetron	C4C2CCC(N2C)CC4NC(=O)N(CC1(C)C)c3c1cccc3
+Ricasetron	CC1(CN(c2c1cccc2)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C)C
 Chamazulene	c1(ccc(c2ccc(c2c1)C)C)CC
 GR-127935	n5oc(C)nc5-c(cc2C)ccc2-c(cc3)ccc3C(=O)Nc(ccc1OC)cc1N4CCN(C)CC4
 CCG-4986	O=[N](=O)c1ccc(cc1)\S(\OC)=N\S(=O)(=O)c(cc2)ccc2Cl
@@ -10745,7 +10748,7 @@ Octaazacubane	N12N3N4N1N5N4N3N52
 DDAIP	CCCCCCCCCCCCOC(=O)C(C)N(C)C
 Hydroxylated lecithin	CCCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCC[C@H]([C@@H](CCCCCCCC)O)O)COP(=O)([O-])OCC[N+](C)(C)C
 JTV-519	O=C(N1CCSC(C=CC(OC)=C2)=C2C1)CCN(CC3)CCC3CC4=CC=CC=C4
-RTI-171	CN2C1CCC2CC(c(cc4)ccc4C)C1c3cc(C)no3
+RTI-171	n1oc(cc1C)[C@@H]3[C@@H]4N(C)[C@H](C[C@@H]3c2ccc(cc2)C)CC4
 Chloroxine	Clc1c(O)c2ncccc2c(Cl)c1
 (+)-Naloxone	C=CCN1CC[C@@]23[C@H]4C(=O)CC[C@@]2([C@@H]1CC5=C3C(=C(C=C5)O)O4)O
 Cycloastragenol	CC(C)(O)[C@@H]1CC[C@@](C)(O1)[C@H]3[C@@H](O)C[C@@]2(C)[C@@H]4C[C@H](O)[C@H]6[C@](C)(C)[C@@H](O)CC[C@@]65C[C@@]45CC[C@@]23C
@@ -11234,7 +11237,7 @@ Disulfur difluoride	FSSF
 3,4-Dichloroamphetamine	Clc1ccc(CC(N)C)cc1Cl
 Arachidonoyl serotonin	O=C(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)NCCC1=CNC2=C1C=C(O)C=C2
 Sulfur tetrachloride	ClS(Cl)(Cl)Cl
-S-Nitrosoglutathione	NC(CCC(=O)NC(CSN=O)C(=O)NCC(O)=O)C(O)=O
+S-Nitrosoglutathione	C(CC(=O)N[C@@H](CSN=O)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
 Sofosbuvir	C[C@@H](C(OC(C)C)=O)N[P@](OC[C@@H]1[C@H]([C@@](F)([C@@H](O1)N2C=CC(NC2=O)=O)C)O)(OC3=CC=CC=C3)=O
 Tropacocaine	CN3[C@H]1CC[C@@H]3C[C@H](C1)OC(=O)c2ccccc2
 Diethylene glycol diethyl ether	CCOCCOCCOCC
@@ -13968,6 +13971,7 @@ Delta-Nonalactone	CCCCC1CCCC(=O)O1
 Gamma-Nonalactone	CCCCCC1CCC(=O)O1
 Ethyl isovalerate	CC(C)CC(=O)OCC
 Oxycarboxin	CC1=C(S(=O)(=O)CCO1)/C(=N\c2ccccc2)/O
+4-Pyridone	c1c[nH]ccc1=O
 Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
 Noroxymorphone	Oc1ccc2C[C@H]3NCC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O
@@ -14003,6 +14007,8 @@ Dapivirine	Cc1cc(c(c(c1)C)Nc2ccnc(n2)Nc3ccc(cc3)C#N)C
 Nicotinamide mononucleotide	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)[O-])O)O)C(=O)N
 Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 1,7-Octadiene	C=CCCCCC=C
+GAT100	CCc1c([nH]c2ccc(cc12)N=C=S)C(=O)NCCc3ccc(cc3)N4CCCCC4
+PSNCBAM-1	Clc1ccc(NC(=O)Nc2cccc(c2)c3cccc(n3)N4CCCC4)cc1
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
 2-Bromopyridine	c1ccnc(c1)Br
