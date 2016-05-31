@@ -10848,7 +10848,6 @@ Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4(
 Gephyrotoxin	C#C\C=C/C[C@@H]3[C@H]2CC[C@H]1N([C@H](CC1)CCO)[C@H]2CCC3
 Tauroursodeoxycholic acid	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Sophoraflavanone G	[H][C@@](CC=C(C)C)(Cc1c(O)cc(O)c2C(=O)C[C@H](Oc12)c1ccc(O)cc1O)C(C)=C
-Naphthionic acid	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)O)N
 Michellamine	Oc1c8c(c(c(O)c1)c2cc(c(O)c3c2cc(cc3OC)C)c7c(O)c4c(cc(cc4OC)C)c(c5c(O)cc(O)c6c5C[C@H](N[C@@H]6C)C)c7)C[C@H](N[C@@H]8C)C
 Acefurtiamine	O=C(OCC(=O)OCCC(\SC(=O)c1occc1)=C(/N(C=O)Cc2cnc(nc2N)C)C)C
 Acefylline clofibrol	Clc3ccc(OC(C)(C)COC(=O)Cn1c2c(nc1)N(C(=O)N(C2=O)C)C)cc3
@@ -14024,3 +14023,4 @@ Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
 Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
+Portentol	C[C@@H]1[C@H](O[C@@]2([C@@H]([C@@H]1O)C)[C@H]([C@@H]3[C@H](C(=O)[C@]2(C(=O)O3)C)C)C)C
