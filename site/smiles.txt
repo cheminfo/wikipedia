@@ -10848,6 +10848,7 @@ Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4(
 Gephyrotoxin	C#C\C=C/C[C@@H]3[C@H]2CC[C@H]1N([C@H](CC1)CCO)[C@H]2CCC3
 Tauroursodeoxycholic acid	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Sophoraflavanone G	[H][C@@](CC=C(C)C)(Cc1c(O)cc(O)c2C(=O)C[C@H](Oc12)c1ccc(O)cc1O)C(C)=C
+Naphthionic acid	c1ccc2c(c1)c(ccc2S(=O)(=O)O)N
 Michellamine	Oc1c8c(c(c(O)c1)c2cc(c(O)c3c2cc(cc3OC)C)c7c(O)c4c(cc(cc4OC)C)c(c5c(O)cc(O)c6c5C[C@H](N[C@@H]6C)C)c7)C[C@H](N[C@@H]8C)C
 Acefurtiamine	O=C(OCC(=O)OCCC(\SC(=O)c1occc1)=C(/N(C=O)Cc2cnc(nc2N)C)C)C
 Acefylline clofibrol	Clc3ccc(OC(C)(C)COC(=O)Cn1c2c(nc1)N(C(=O)N(C2=O)C)C)cc3
@@ -12939,7 +12940,7 @@ Liarozole	C1=CC(=CC(=C1)Cl)C(C2=CC3=C(C=C2)N=CN3)N4C=CN=C4
 Metogest	C[C@]12CC[C@H]3[C@H]([C@@H]1CC([C@@H]2O)(C)C)CCC4=CC(=O)CC[C@H]34
 Nordinone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@@H](CC4=C3CCC4(C)C)O
 Ocaperidone	CC1=CC=CN2C1=NC(=C(C2=O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F)C
-Osaterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)OC[C@]34C)Cl)C)O
+Osaterone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)OC[C@]34C)Cl)C)O
 Oxendolone	CC[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]2([C@H]1O)C
 Penmesterol	C[C@]12CCC(=CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)OC5CCCC5
 Rosterolone	CCC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3([C@H](CC(=O)C4)C)C)C)O
@@ -13471,6 +13472,7 @@ Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
 Enduracididine	C1[C@H](NC(=N)N1)C[C@@H](C(=O)O)N
+Zoxazolamine	C1=CC2=C(C=C1Cl)N=C(O2)N
 Taxadienone	[H][C@]12CCC(C)=C(CC[C@]3(C)CCC=C(C)[C@@]3([H])C1=O)C2(C)C
 N-Benzoyl-N'-phenylurea	O=C(NC(Nc1ccccc1)=O)c2ccccc2
 Chlorotrifluorosilane	F[Si](F)(F)Cl
@@ -14025,3 +14027,8 @@ Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
 Portentol	C[C@@H]1[C@H](O[C@@]2([C@@H]([C@@H]1O)C)[C@H]([C@@H]3[C@H](C(=O)[C@]2(C(=O)O3)C)C)C)C
 Arglabin	CC1=CCC23C1C4C(CCC2(O3)C)C(=C)C(=O)O4
+Dimepregnen	CC1CC2C3CC(C4=CC(CCC4(C3CCC2(C1C(=O)C)C)C)O)C
+Cioteronel	CCC(CCCCC1CCC2C1CC(=O)C2)OC
+Mespirenone	CC(=O)SC1CC2=CC(=O)C=CC2(C3C1C4C5CC5C6(C4(CC3)C)CCC(=O)O6)C
+Spirorenone	CC12CCC3C(C1C4CC4C25CCC(=O)O5)C6CC6C7=CC(=O)C=CC37C
+Pentomone	CC1(C2C(CC3=C(O2)C(=CC=C3)OC)C(=O)C4C1OC5=C(C4)C=CC=C5OC)C
