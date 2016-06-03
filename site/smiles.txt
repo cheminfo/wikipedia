@@ -1003,6 +1003,7 @@ Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
 Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
+Thiamine mononitrate	Cc1c(sc[n+]1Cc2cnc(nc2N)C)CCO.[N+](=O)([O-])[O-]
 Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
@@ -3142,7 +3143,7 @@ Propyl gallate	O=C(OCCC)c1cc(O)c(O)c(O)c1
 Mitotane	Clc1ccccc1C(c2ccc(Cl)cc2)C(Cl)Cl
 Ambrein	O[C@@]1(CCC3[C@]([C@H]1CC\C=C(/C)CC[C@@H]2C(=C)\CCCC2(C)C)(C)CCCC3(C)C)C
 Quinpirole	CCCN1CCC[C@H]2[C@H]1CC3=C(C2)NN=C3
-SCH 23390	CN1CCC2=CC(=C(C=C2C(C1)C3=CC=CC=C3)O)Cl
+SCH-23390	CN1CCC2=CC(=C(C=C2C(C1)C3=CC=CC=C3)O)Cl
 Dihydrexidine	c1ccc2c(c1)CN[C@H]3[C@H]2c4cc(c(cc4CC3)O)O
 Fenoldopam	Clc1c3c(cc(O)c1O)C(c2ccc(O)cc2)CNCC3
 Sulfolane	C1CCS(=O)(=O)C1
@@ -4711,7 +4712,7 @@ Dioxathion	S=P(SC1OCCOC1SP(=S)(OCC)OCC)(OCC)OCC
 Bis(trimethylsilyl)sulfide	C[Si](C)(C)S[Si](C)(C)C
 Sodium diethyldithiocarbamate	[Na+].[S-]C(=S)N(CC)CC
 Monosodium citrate	C(C(=O)O)C(CC(=O)O)(C(=O)[O-])O.[Na+]
-Disodium citrate	[Na+].[Na+].O=C([O-])CC(O)(CC(=O)[O-])C([O-])=O
+Disodium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)O)O.[Na+].[Na+]
 Monocalcium citrate	OC(CC(C(O)=O)(O)CC([O-])=O)=O.OC(CC(C(O)=O)(O)CC([O-])=O)=O.[Ca+2]
 Dicalcium citrate	[O-]C(CC(C(O)=O)(O)CC([O-])=O)=O.[Ca+2]
 Trioctylphosphine oxide	CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC
@@ -13775,6 +13776,7 @@ Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#
 1,1,1-Tribromoethane	CC(Br)(Br)Br
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
 2-Butoxyethanol acetate	CCCCOCCOC(=O)C
+Vosoritide	CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)CC(=O)O)CC(C)C)CCCCN)CC(C)C)Cc2ccccc2)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc3ccc(cc3)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@@H]6CCCN6)C(=O)O)CC(C)C)CO)CCSC)CO
 4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
 Modafinil sulfone	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)(=O)CC(=O)N
 Salicyl alcohol	c1ccc(c(c1)CO)O
@@ -14032,3 +14034,6 @@ Cioteronel	CCC(CCCCC1CCC2C1CC(=O)C2)OC
 Mespirenone	CC(=O)SC1CC2=CC(=O)C=CC2(C3C1C4C5CC5C6(C4(CC3)C)CCC(=O)O6)C
 Spirorenone	CC12CCC3C(C1C4CC4C25CCC(=O)O5)C6CC6C7=CC(=O)C=CC37C
 Pentomone	CC1(C2C(CC3=C(O2)C(=CC=C3)OC)C(=O)C4C1OC5=C(C4)C=CC=C5OC)C
+Jasmolone	CCC=CCC1=C(C(CC1=O)O)C
+Migalastat	C1[C@@H]([C@H]([C@H]([C@H](N1)CO)O)O)O
+Almestrone	CC1CC2=C(C=CC(=C2)O)C3C1C4CCC(=O)C4(CC3)C
