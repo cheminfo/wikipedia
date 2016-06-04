@@ -13733,6 +13733,7 @@ Perfluorotoluene	FC1=C(F)C(F)=C(C(F)=C1F)C(F)(F)F
 5-Formyluracil	O=CC1=CNC(=O)NC1=O
 5-Hydroxyhydantoin	OC1NC(=O)NC1=O
 5,6-Dihydroxycytosine	c1(c([nH]c(=O)[nH]c1=O)N)O
+Nojirimycin	C([C@@H]1[C@H]([C@@H]([C@H](C(N1)O)O)O)O)O
 1-(3-Chlorophenyl)-4-(2-phenylethyl)piperazine	ClC1=CC=CC(=C1)N2CCN(CC2)CCC3=CC=CC=C3
 5F-EMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)C)C1=NN(CCCCCF)C2=CC=CC=C21
 3',4'-Dimethoxy-α-pyrrolidinopentiophenone	COC=1C=C(C=CC1OC)C(C(CCC)N1CCCC1)=O
@@ -14037,3 +14038,4 @@ Pentomone	CC1(C2C(CC3=C(O2)C(=CC=C3)OC)C(=O)C4C1OC5=C(C4)C=CC=C5OC)C
 Jasmolone	CCC=CCC1=C(C(CC1=O)O)C
 Migalastat	C1[C@@H]([C@H]([C@H]([C@H](N1)CO)O)O)O
 Almestrone	CC1CC2=C(C=CC(=C2)O)C3C1C4CCC(=O)C4(CC3)C
+Shortolide A	[H][C@@]12CC[C@H]3O[C@@]3(C)[C@]1(C)C[C@H](OC(=O)C(\C)=C/C)[C@@H](C)[C@@]2(C)CCC1=CC(=O)OC1
