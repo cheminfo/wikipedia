@@ -13652,6 +13652,7 @@ NM-2-AI	CNC2CC1=CC=CC=C1C2
 MDMB-CHMICA	COC(=O)C(C(C)(C)C)NC(=O)c1cn(c2c1cccc2)CC1CCCCC1
 Alpha-Pyrrolidinopentiothiophenone	O=C(C(CCC)N1CCCC1)C2=CC=CS2.Cl
 Acrylophenone	C=CC(=O)C1=CC=CC=C1
+Oligopetide P11-4	CC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc4ccccc4)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N
 Irganox 1098	CC(c1c(c(cc(c1)CC/C(=N/CCCCCC/N=C(\O)/CCc2cc(c(c(c2)C(C)(C)C)O)C(C)(C)C)/O)C(C)(C)C)O)(C)C
 Hydroxyacetone	CC(=O)CO
 6-Hydroxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)O
@@ -14042,6 +14043,14 @@ Shortolide A	[H][C@@]12CC[C@H]3O[C@@]3(C)[C@]1(C)C[C@H](OC(=O)C(\C)=C/C)[C@@H](C
 (+)-Benzo(a)pyrene-7,8-dihydrodiol-9,10-epoxide	O[C@@H]3c1cc4ccc5cccc6ccc(c1[C@H]2O[C@H]2[C@H]3O)c4c56
 Fenpropathrin	CC1(C(C1(C)C)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C
 4′-Ethynyl-2-fluoro-2′-deoxyadenosine	C#C[C@]1([C@H](C[C@@H](O1)n2cnc3c2nc(nc3N)F)O)CO
+Estradiol butyrylacetate	CCCC(=O)CC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
+Estradiol diundecylate	CCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(OC(=O)CCCCCCCCCC)ccc4[C@H]3CC[C@]12C
+Estradiol furoate	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2OC(=O)c5occc5
+Estradiol hexahydrobenzoate	CC12CCC3C(CCc4cc(O)ccc34)C1CCC2OC(=O)C5CCCCC5
+Estradiol monopropionate	CCC(=O)Oc1ccc2[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@@H]3CCc2c1
+Estradiol palmitate	CCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
+Estradiol propoxyphenylpropionate	CCCOc1ccc(CCC(=O)O[C@H]2CC[C@H]3[C@@H]4CCc5cc(O)ccc5[C@H]4CC[C@]23C)cc1
+Estradiol stearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
 Estradiol hemisuccinate	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2OC(=O)CCC(O)=O
 Atrimustine	C[C@]12CC[C@H]3[C@@H](CCc4cc(OC(=O)c5ccccc5)ccc34)[C@@H]1CC[C@@H]2OC(=O)COC(=O)CCCc6ccc(cc6)N(CCCl)CCCl
 Estradiol pivalate	CC(C)(C)C(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
@@ -14051,3 +14060,4 @@ Estrone tetraacetylglucoside	CC(=O)OCC1OC(Oc2ccc3C4CCC5(C)C(CCC5=O)C4CCc3c2)C(OC
 Estrone acetate	CC(=O)Oc1ccc2[C@H]3CC[C@@]4(C)[C@@H](CCC4=O)[C@@H]3CCc2c1
 Dienestrol diacetate	C\C=C(c1ccc(OC(C)=O)cc1)/C(=C/C)c2ccc(OC(C)=O)cc2
 Diethylstilbestrol dipropionate	CCC(=O)Oc1ccc(cc1)\C(CC)=C(/CC)c2ccc(OC(=O)CC)cc2
+M-Xylylenediamine	C1=CC(=CC(=C1)CN)CN
