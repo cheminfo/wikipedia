@@ -13243,7 +13243,7 @@ PF-4455242	CC(C)CNCC1=CC=C(C=C1)C2=CC=CC=C2S(=O)(=O)N3CCCC3
 Apricoxib	CCOC1=CC=C(C=C1)C2=CC(=CN2C3=CC=C(C=C3)S(=O)(=O)N)C
 ADB-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)NC(C(=O)N)C(C)(C)C
 Benzenesulfonyl chloride	C1=CC=C(C=C1)S(=O)(=O)Cl
-NRX-1074	N[C@H](C(=O)N1CCC[C@@H]1C(=O)N2CCC[C@]2(CC3=CC=CC=C3)C(=O)N[C@H](C(=O)N)[C@@H](C)O)[C@@H](C)O
+NRX-1074	C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@@]2(Cc3ccccc3)C(O)=N[C@@H]([C@@H](C)O)C(O)=N
 CERC-301	CC1=CC=C(C=C1)COC(=O)N2CC[C@@H]([C@@H](C2)F)CNC3=NC=CC=N3
 2-Phenylpyridine	c1ccc(cc1)c2ccccn2
 Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
@@ -14072,3 +14072,4 @@ Dalapon	CC(C(=O)O)(Cl)Cl
 Tetramethyllead	C[Pb](C)(C)C
 Lefamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4CC[C@H](C[C@H]4O)N)C
 Azamulin	CC[C@@]1(C[C@H]([C@@]2([C@@H](CC[C@@]3([C@H]2C(=O)CC3)[C@H]([C@@H]1O)C)C)C)OC(=O)CSc4nc([nH]n4)N)C
+Thiouric acid	c12c([nH]c(=O)[nH]1)[nH]c(=O)[nH]c2=S
