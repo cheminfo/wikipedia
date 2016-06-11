@@ -1522,7 +1522,7 @@ Nickel(II) chloride	Cl[Ni]Cl
 Iron(II) chloride	Cl[Fe]Cl
 Isoxathion	S=P(Oc2noc(c1ccccc1)c2)(OCC)OCC
 Thiazole	n1ccsc1
-Pyridinium chlorochromate	O=[Cr](=O)([O-])Cl.[nH+]1ccccc1
+Pyridinium chlorochromate	C1=CC=[NH+]C=C1.[O-][Cr](=O)(=O)Cl
 Acetyl chloride	ClC(=O)C
 Sulfur monoxide	o:s
 Dihydroxyacetone phosphate	C(C(=O)COP(=O)(O)O)O
@@ -3664,7 +3664,6 @@ Silicon tetrafluoride	F[Si](F)(F)F
 2-Mercaptoindole	SC2=CC1=CC=CC=C1N2
 Silver acetate	CC(=O)[O-].[Ag+]
 Aluminium fluoride	F[Al](F)F
-Aluminium iodide	I[Al](I)I
 Aluminium phosphate	O=P12O[Al](O1)O2
 Aluminium phosphate	[Al+3].[O-]P([O-])([O-])=O
 Aluminium sulfide	[Al+3].[Al+3].[S-2].[S-2].[S-2]
@@ -5165,6 +5164,7 @@ Potassium bis(trimethylsilyl)amide	C[Si](C)(C)N([K])[Si](C)(C)C
 Asymbescaline	O(c1c(OC)cc(cc1OCC)CCN)CC
 Symbescaline	COc1c(cc(cc1OCC)CCN)OCC
 Gadoversetamide	[Gd+3].O=C(NCCOC)CN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC(=O)NCCOC)CC([O-])=O
+Collins reagent	c1ccncc1.c1ccncc1.O=[Cr](=O)=O
 Cornforth reagent	[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O.c1cc[nH+]cc1.[nH+]1ccccc1
 Loviride	Clc1cccc(Cl)c1C(Nc2cc(ccc2C(=O)C)C)C(=O)N
 Buscaline	COc1cc(cc(OC)c1OCCCC)CCN
@@ -11221,7 +11221,6 @@ Benzoylthiomethylecgonine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)SC(=O)c3ccccc3)C(=O)O
 2-sec-Butyl-4,5-dihydrothiazole	CCC(C)C1=NCCS1
 Rhamnolipid	CCCCCCCC(CC(=O)O)OC(=O)CC(CCCCCCC)OC1C(C(C(C(O1)C)O)O)OC2C(C(C(C(O2)C)O)O)O
 Bolinaquinone	COC1=CC(=O)C(=C(C[C@@]2(C)CC[C@@]3(C)[C@@H](CCC=C3C)[C@H]2C)C1=O)O
-Aluminium monoiodide	[AlH2]I
 (R)-p-Isothiocyanatobenzoylecgonine methyl ester	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)c3ccc(cc3)N=C=S)C(=O)OC
 Metaphit	S=C=N\c1cccc(c1)C3(N2CCCCC2)CCCCC3
 Tetraethylene glycol dimethyl ether	COCCOCCOCCOCCOC
@@ -13243,7 +13242,7 @@ PF-4455242	CC(C)CNCC1=CC=C(C=C1)C2=CC=CC=C2S(=O)(=O)N3CCCC3
 Apricoxib	CCOC1=CC=C(C=C1)C2=CC(=CN2C3=CC=C(C=C3)S(=O)(=O)N)C
 ADB-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)NC(C(=O)N)C(C)(C)C
 Benzenesulfonyl chloride	C1=CC=C(C=C1)S(=O)(=O)Cl
-NRX-1074	C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@@]2(Cc3ccccc3)C(O)=N[C@@H]([C@@H](C)O)C(O)=N
+NRX-1074	C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@@]2(Cc3ccccc3)C(=O)N[C@@H]([C@@H](C)O)C(N)=O
 CERC-301	CC1=CC=C(C=C1)COC(=O)N2CC[C@@H]([C@@H](C2)F)CNC3=NC=CC=N3
 2-Phenylpyridine	c1ccc(cc1)c2ccccn2
 Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
@@ -13458,7 +13457,7 @@ Naltalimide	c1ccc2c(c1)C(=O)N(C2=O)[C@@H]3CC[C@]4([C@H]5Cc6ccc(c7c6[C@]4([C@H]3O
 Nexeridine	CC(CN(C)C)C1(CCCCC1C2=CC=CC=C2)OC(=O)C
 Androstadienol	CC12CCC3C(C1CC=C2)CC=C4C3(CCC(C4)O)C
 Ralfinamide	C[C@@H](C(=O)N)NCc1ccc(cc1)OCc2ccccc2F
-Leconotide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](C=S)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](C=S)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](C=S)NC(=O)[C@H](CS)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CS)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CS)N
+Leconotide	CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CS)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CS)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CS)C(=O)N[C@@H](C=S)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](C=S)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](C=S)C(N)=O
 Haloprogesterone	CC(=O)[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)F)C)Br
 Hydromadinone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)Cl)C)O
 Dipicolylamine	c1ccnc(c1)CNCc2ccccn2
@@ -13749,7 +13748,7 @@ Saracatinib	C4CN(C)CCN4CCOc(cc2ncn3)cc(OC6CCOCC6)c2c3Nc1c(Cl)ccc5OCOc15
 Emicerfont	CC1=C(C=CC(=C1)OC)N2CCC3=C2N=C(C=C3N4C=CC(=N4)N5CCNC5=O)C
 Ulimorelin	C[C@@H]1CN[C@H](C(=O)N([C@@H](C(=O)N[C@@H](C(=O)NCCCC2=CC=CC=C2O1)CC3=CC=C(C=C3)F)C)C)C4CC4
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
-1P-LSD	C(C)N(C(=O)C1CN(C2CC=3C4=C(C2=C1)C=CC=C4N(C3)C(CC)=O)C)CC
+1P-LSD	CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3cn(C(=O)CC)c4cccc(C2=C1)c34
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
@@ -14073,3 +14072,5 @@ Tetramethyllead	C[Pb](C)(C)C
 Lefamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4CC[C@H](C[C@H]4O)N)C
 Azamulin	CC[C@@]1(C[C@H]([C@@]2([C@@H](CC[C@@]3([C@H]2C(=O)CC3)[C@H]([C@@H]1O)C)C)C)OC(=O)CSc4nc([nH]n4)N)C
 Thiouric acid	c12c([nH]c(=O)[nH]1)[nH]c(=O)[nH]c2=S
+Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
+Estradiol phenylpropionate	CC12CCC3C(C1CCC2OC(=O)CCC4=CC=CC=C4)CCC5=C3C=CC(=C5)O
