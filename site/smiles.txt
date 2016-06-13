@@ -6597,6 +6597,7 @@ Elvitegravir	Clc1cccc(c1F)Cc3c(OC)cc2c(C(=O)\C(=C/N2[C@H](CO)C(C)C)C(=O)O)c3
 Ethenone	O=C=C
 1-Pentyne	C#CCCC
 Ethcathinone	O=C(c1ccccc1)C(NCC)C
+1-Methyl-5-methoxy-diisopropyltryptamine	COc1ccc2n(C)cc(CCN(C(C)C)C(C)C)c2c1
 Tetrahydrocannabinol-C4	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
 Laudanosine	CN1CCc2cc(c(cc2[C@@H]1Cc3ccc(c(c3)OC)OC)OC)OC
 Dalbavancin	CC(C)CCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1Oc2c3cc4cc2Oc5ccc(cc5Cl)[C@H]([C@H]6C(=O)N[C@@H](c7cc(cc(c7-c8cc(ccc8O)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]9c1cc(cc(c1Cl)O)Oc1ccc(cc1O)[C@H](C(=O)N[C@H](Cc1ccc(cc1)O3)C(=O)N9)NC)O[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O)C(=O)NCCCN(C)C)O)C(=O)O)O)O
@@ -10782,7 +10783,7 @@ Butachlor	ClCC(=O)N(c1c(cccc1CC)CC)COCCCC
 Pallidol	C1=CC(=CC=C1C2C3C(C(C4=C(C=C(C=C34)O)O)C5=CC=C(C=C5)O)C6=CC(=CC(=C26)O)O)O
 Reuterin	C(CO)C=O
 5-(Nonyloxy)tryptamine	CCCCCCCCCOC1=CC2=C(C=C1)NC=C2CCN
-Acefluranol	CC[C@@H](c1cc(c(c(c1)F)OC(=O)C)OC(=O)C)[C@H](C)c2cc(c(c(c2)F)OC(=O)C)OC(=O)C
+Acefluranol	CCC(C1=CC(=C(C(=C1)F)OC(=O)C)OC(=O)C)C(C)C2=CC(=C(C(=C2)F)OC(=O)C)OC(=O)C
 Astringin	O(c2cc(O)cc(\C=C\c1ccc(O)c(O)c1)c2)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO
 Myosmine	n1cccc(c1)/C2=N/CCC2
 Macelignan	C[C@H](CC1=CC2=C(C=C1)OCO2)[C@@H](C)CC3=CC(=C(C=C3)O)OC
@@ -14076,3 +14077,12 @@ Benzyl isothiocyanate	c1ccc(cc1)CN=C=S
 Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
 Estradiol phenylpropionate	CC12CCC3C(C1CCC2OC(=O)CCC4=CC=CC=C4)CCC5=C3C=CC(=C5)O
 17α-Dihydroequilin	CC12CCC3C(=CCC4=C3C=CC(=C4)O)C1CCC2O
+Bifluranol	CCC(C1=CC(=C(C=C1)O)F)C(C)C2=CC(=C(C=C2)O)F
+Calcium selenide	[Ca]=[Se]
+Dimestrol	CCC(=C(CC)C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC
+Hydroxyestrone diacetate	CC(=O)OC1CC2C3CCC4=C(C3CCC2(C1=O)C)C=CC(=C4)OC(=O)C
+Estradiol dienanthate	CCCCCCC(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)CCCCCC)C
+Ethinyl estradiol sulfonate	CC(C)S(=O)(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4(C#C)O)C
+Hexestrol diacetate	CCC(C1=CC=C(C=C1)OC(=O)C)C(CC)C2=CC=C(C=C2)OC(=O)C
+Hexestrol dipropionate	CCC(C1=CC=C(C=C1)OC(=O)CC)C(CC)C2=CC=C(C=C2)OC(=O)CC
+Hexestrol diphosphate	CCC(C1=CC=C(C=C1)OP(=O)(O)O)C(CC)C2=CC=C(C=C2)OP(=O)(O)O
