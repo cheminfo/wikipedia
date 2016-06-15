@@ -12144,7 +12144,7 @@ Strontium chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Sr+2]
 Strontium chromate	[O-][Cr](=O)(=O)[O-].[Sr+2]
 Prunasin	C1=CC=C(C=C1)[C@H](C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Cadmium tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Cd+2]
-AB-FUBINACA	O=C(C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)N[C@@H](C(C)C)C(N)=O
+AB-FUBINACA	CC(C)[C@H](NC(=O)c1nn(Cc2ccc(F)cc2)c3ccccc13)C(N)=O
 Phylloflavan	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)CC(CCC4=CC(=C(C=C4)O)O)O
 PF-03550096	O=C(N1C(N(CCC(C)(O)C)C2=C1C=CC=C2)=O)N[C@@H](C(C)(C)C)C(N)=O
 AB-PINACA	CCCCCn1c2ccccc2c(n1)C(=O)N[C@@H](C(C)C)C(=O)N
@@ -13165,7 +13165,7 @@ Fostemsavir	O=C(c1ccccc1)N5CCN(C(=O)C(=O)c4c2c(c(ncc2OC)n3nc(nc3)C)n(c4)COP(=O)(
 Vicianose	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H](C(O2)O)O)O)O)O)O)O
 3-Octanone	CCCCCC(=O)CC
 Viridin	C[C@]12[C@@H]([C@@H](C(=O)C3=COC(=C31)C(=O)C4=C2C=CC5=C4CCC5=O)OC)O
-U-77891	BrC1=C(C=CC(=C1)C(=O)NC2CCCCC23N(CCC3)C)Br
+U-77891	CN1CCC[C@]12CCCC[C@H]2N(C)C(=O)c3ccc(Br)c(Br)c3
 2-Methylphenethylamine	CC1=CC=CC=C1CCN
 Perinone	C1=CC=C2C(=C1)N=C3N2C(=O)C4=CC=C5C6=C(C=CC3=C46)C(=O)N7C5=NC8=CC=CC=C87
 3-Methylphenethylamine	CC1=CC(=CC=C1)CCN
@@ -13236,7 +13236,7 @@ Coeloginanthrin	Oc3cc(O)c2c1c(c(OC)c(OC)c(O)c1)ccc2c3
 Confusarin	COc3c2c(ccc1c(OC)c(O)ccc12)cc(O)c3OC
 Benzamidenafil	COC1=C(OC)C=C(CNC(=O)C2=CC(=CC=C2NC(C)CO)[N+]([O-])=O)C=C1
 Iminosuccinic acid	C(C(=N)C(=O)O)C(=O)O
-AB-CHMINACA	CC(C)[C@@H](C(=O)N)NC(=O)c1c2ccccc2n(n1)Cc3ccc(cc3)F
+AB-CHMINACA	CC(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c3ccccc13)C(N)=O
 CERC-501	CC1=CC(=CC(=C1)[C@@H]2CCCN2CC3=CC=C(C=C3)OC4=C(C=C(C=C4)C(=O)N)F)C
 PF-4455242	CC(C)CNCC1=CC=C(C=C1)C2=CC=CC=C2S(=O)(=O)N3CCCC3
 5-Fluoroorotic acid	C1(=C(NC(=O)NC1=O)C(=O)O)F
@@ -13573,7 +13573,7 @@ Fluorotriiodomethane	C(F)(I)(I)I
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
 Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
-Furanylfentanyl	O=C(N(C2CCN(CCc1ccccc1)CC2)c3ccccc3)c4ccco4
+Furanylfentanyl	O=C(N(C1CCN(CC1)CCc2ccccc2)c3ccccc3)c4occc4
 Argpyrimidine	O=C([C@@H](C)CCCNC1=NC(C)=C(O)C(C)=N1)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
@@ -13906,6 +13906,7 @@ Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
 Fenleuton	CC(C#Cc1cccc(c1)Oc2ccc(cc2)F)N(C(=O)N)O
 Piperylone	CCC1=C(NN(C1=O)C2CCN(CC2)C)C3=CC=CC=C3
 BzODZ-EPyr	C(C1=CC=CC=C1)C2=NOC(=N2)C3=C[N](C4=CC=CC=C34)CCN5CCCC5
+Broparestrol	CCc1ccc(cc1)/C(=C(\c2ccccc2)/Br)/c3ccccc3
 Hexestrol	CCC(C1=CC=C(C=C1)O)C(CC)C2=CC=C(C=C2)O
 Methestrol	CCC(C1=CC(=C(C=C1)O)C)C(CC)C2=CC(=C(C=C2)O)C
 Cloxestradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(C(Cl)(Cl)Cl)O)O
