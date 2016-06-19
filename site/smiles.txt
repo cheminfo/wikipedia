@@ -3987,7 +3987,7 @@ Carbinoxamine	Clc1ccc(cc1)C(OCCN(C)C)c2ncccc2
 Ammonium aluminium sulfate	[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
 Imidazolidine	N1CCNC1
 11-Deoxycorticosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
-Levomethorphan	CN1CC[C@]23CCCC[C@H]2[C@H]1Cc4c3cc(cc4)OC
+Levomethorphan	COc1ccc2C[C@@H]3[C@@H]4CCCC[C@]4(CCN3C)c2c1
 Uranocene	[U].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
 1-Chloro-9,10-bis(phenylethynyl)anthracene	Clc5cccc4c(C#Cc1ccccc1)c2ccccc2c(C#Cc3ccccc3)c45
 5,12-Bis(phenylethynyl)naphthacene	C(#Cc1ccccc1)c5c2ccccc2c(C#Cc3ccccc3)c6cc4ccccc4cc56
@@ -4088,7 +4088,7 @@ Etoperidone	Clc3cccc(N2CCN(CCCN1/N=C(\N(C1=O)CC)CC)CC2)c3
 Betulinic acid	O=C(O)[C@@]54[C@@H]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)[C@@H](O)CC2)CC3)C)(C)CC4)[C@H](C(=C)C)CC5
 Pendimethalin	CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
 Dichlorvos	O=P(O\C=C(/Cl)Cl)(OC)OC
-Methorphan	COc2ccc3C[CH]1C4CCCC[C]4(CCN1C)c3c2
+Methorphan	CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
 Phenoxyethanol	c1ccc(cc1)OCCO
 Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@H](C4)O)C
 Picamilon	O=C(NCCCC(=O)O)c1cccnc1
@@ -12409,6 +12409,7 @@ Helicin	C1=CC=C(C(=C1)C=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Fumigaclavine B	C[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)[C@H]2[C@H]1O)C
 Chanoclavine II	C/C(=C\[C@@H]1[C@@H](CC2=CNC3=CC=CC1=C23)NC)/CO
 4-HTMPIPO	CCCCCN1C=C(C2=CC=CC=C21)C(=O)CC(C)(C)C(C)(C)O
+2,5-Diketopiperazine	C1C(=NCC(=N1)O)O
 3-Hydroxyacetophenone	CC(=O)C1=CC(=CC=C1)O
 4-Methylcatechol	CC1=CC(=C(C=C1)O)O
 3-Methylcatechol	CC1=C(C(=CC=C1)O)O
@@ -14089,9 +14090,10 @@ Hexestrol diphosphate	CCC(C1=CC=C(C=C1)OP(=O)(O)O)C(CC)C2=CC=C(C=C2)OP(=O)(O)O
 Quingestrone	CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C
 Ethyl cyanoacetate	CCOC(=O)CC#N
 NE-CHMIMO	O=C(c1cccc2ccccc12)c3cn(CC4CCCCC4)c5ccccc35
-Cingestol	CC12CCC3C4CCCCC4=CCC3C1CCC2(C#C)O
+Cingestol	C[C@]12CC[C@H]3[C@@H](CC=C4CCCC[C@H]34)[C@@H]1CC[C@@]2(O)C#C
 Tigestol	CC12CCC3C(C1CCC2(C#C)O)CCC4=C3CCCC4
 Segesterone	CC(=O)C1(C(=C)CC2C1(CCC3C2CCC4=CC(=O)CCC34)C)O
-Flugestone acetate	CC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)OC(=O)C
+Flugestone acetate	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(C)=O
 Flugestone	CC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O
+Pentagestrone	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)O
 Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
