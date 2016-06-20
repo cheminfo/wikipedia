@@ -13708,7 +13708,7 @@ Thymine glycol	CC1(C(NC(=O)NC1=O)O)O
 MRK-016	CN1N=CN=C1COC1=NN2C(C=NN=C2C2=NOC(C)=C2)=C1C(C)(C)C
 Methyl lactate	CC(C(=O)OC)O
 AMB-FUBINACA	COC(=O)[C@@H](NC(=O)c1nn(Cc2ccc(F)cc2)c3ccccc13)C(C)C
-AMB-CHMINACA	O=C(N[C@@H](C(C)C)C(OC)=O)C1=NN(CC2CCCCC2)C3=C1C=CC=C3
+AMB-CHMINACA	COC(=O)[C@@H](NC(=O)c1nn(CC2CCCCC2)c3ccccc13)C(C)C
 Cyanidin-3,5-O-diglucoside	c1cc(c(cc1c2c(cc3c([o+]2)cc(cc3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O
 Helenin	C[C@H]1CCC[C@]2(C1=C[C@H]3[C@@H](C2)OC(=O)C3=C)C
 Helenin	C[C@]12CCCC(=C)[C@@H]1C[C@H]3[C@@H](C2)OC(=O)C3=C
@@ -14097,3 +14097,4 @@ Flugestone acetate	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@@]3(F)[C
 Flugestone	CC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O
 Pentagestrone	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)O
 Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
+Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.OS(=O)(=O)O
