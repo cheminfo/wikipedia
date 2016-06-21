@@ -201,7 +201,6 @@ Chloride	[Cl-]
 Formic acid	O=CO
 Osmium tetroxide	O=[Os](=O)(=O)=O
 Sarin	FP(=O)(OC(C)C)C
-Progesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Pseudoephedrine	O[C@@H](c1ccccc1)[C@@H](NC)C
 Bilirubin	CC1=C(/C=C2C(C)=C(C=C)C(N/2)=O)NC(CC3=C(CCC(O)=O)C(C)=C(/C=C4C(C=C)=C(C)C(N/4)=O)N3)=C1CCC(O)=O
 Bilirubin	Cc1c(c([nH]c1/C=C\2/C(=C(C(=O)N2)C=C)C)Cc3c(c(c([nH]3)/C=C\4/C(=C(C(=O)N4)C)C=C)C)CCC(=O)O)CCC(=O)O
@@ -9119,6 +9118,7 @@ Cresyl violet	[Cl-].N=1c4c(OC=3C=1c2ccccc2\C(=[NH2+])\C=3)cc(c(c4)C)N(C)C
 Cyclodecane	C1CCCCCCCCC1
 Cyclododecane	C1CCCCCCCCCCC1
 Canagliflozin	Cc1ccc(cc1Cc2ccc(s2)c3ccc(cc3)F)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
+Racemorphan	CN1CCC23CCCCC2C1Cc4ccc(O)cc34
 Morphan	C1(C2)CCCC2NCC1
 Demeton	O=P(OCC)(SCCSCC)OCC
 Diethylaluminium chloride	CC[Al](Cl)CC
@@ -11187,7 +11187,7 @@ Dopastin	O=C(NC[C@@H](N(O)N=O)C(C)C)/C=C/C
 Cephalosporin C	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)CCC[C@H](C(=O)O)N)COC(=O)C)C(=O)O
 2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine	n1cc(cc2c1nc(n2C)N)c3ccccc3
 Setrobuvir	CS(NC(C=C1)=CC2=C1NC(C3=C(O)[C@@]4([H])[C@@]([C@@H]5CC[C@H]4C5)([H])N(CC6=CC=C(F)C=C6)C3=O)=NS2(=O)=O)(=O)=O
-N-(S)-Fenchyl-1-(2-morpholinoethyl)-7-methoxyindole-3-carboxamide	COC1=C(N(CCN2CCOCC2)C=C3C(N[C@H]4[C@@]5(C)CC[C@H](C5)C4(C)C)=O)C3=CC=C1
+MN-25	COC1=C(N(CCN2CCOCC2)C=C3C(N[C@H]4[C@@]5(C)CC[C@H](C5)C4(C)C)=O)C3=CC=C1
 Linopristin	O=C([C@H](CC1=CC=C(N(C)C)C=C1)N(C)C([C@H]2N(CCC2)C3=O)=O)N4[C@H](C(N[C@H](C(O[C@H](C)[C@@H](C(N[C@@H]3CC)=O)NC(C5=NC=CC=C5O)=O)=O)C6=CC=CC=C6)=O)CC=C(CN7CCOCC7)C4
 Flopristin	O[C@H](/C=C(C)/C=C/CNC(/C=C/[C@@H](C)[C@H](OC1=O)C(C)C)=O)C[C@@H](F)CC2=NC(C(N3[C@@H]1CCC3)=O)=CO2
 Pristinamycin IIB	O[C@H](/C=C(C)/C=C/CNC(/C=C/[C@@H](C)[C@H](OC1=O)C(C)C)=O)CC(CC2=NC(C(N3[C@@H]1CCC3)=O)=CO2)=O
@@ -13549,6 +13549,7 @@ Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
 Acetylpropionyl	CCC(=O)C(=O)C
 Cyclohexylmethanol	C1CCC(CC1)CO
 Cyclohexanethiol	C1CCC(CC1)S
+2-Methyl-2-heptanethiol	CCCCCC(C)(C)S
 Isopropylphenidate	C1(=CC=CC=C1)C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
 Chidamide	NC1=C(NC(=O)C2=CC=C(CNC(=O)\C=C\C3=CN=CC=C3)C=C2)C=C(F)C=C1
@@ -14098,3 +14099,4 @@ Flugestone	CC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O
 Pentagestrone	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)O
 Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.OS(=O)(=O)O
+N-Butyl glycidyl ether	CCCCOCC1CO1
