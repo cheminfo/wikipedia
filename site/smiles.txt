@@ -7132,7 +7132,8 @@ Tosufloxacin	NC1CCN(C1)c1nc2n(cc(C(O)=O)c(=O)c2cc1F)-c1ccc(F)cc1F
 Orbifloxacin	Fc1c(c(F)c2c(c1F)C(=O)C(\C(=O)O)=C/N2C3CC3)N4C[C@@H](N[C@@H](C4)C)C
 O-2694	O=C(N1CCOCC1)CCCCC(c3cc2OC([C@@H]4C/C=C(\C[C@H]4c2c(OC(=O)CCCN(C(C)C)C(C)C)c3)C)(C)C)(C)C
 Difloxacin	Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCN(C)CC4
-LR-5182	CN(C)C[C@@H]1[C@@H](C2CCC1CC2)C3=CC(=C(C=C3)Cl)Cl
+LR-5182	CN(C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
+LR-5182	[Cl-].C[NH+](C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
 4,4'-Bipyridine	C1(C2=CC=NC=C2)=CC=NC=C1
 Silicon monoxide	[O+]#[Si-]
 Beefy meaty peptide	CC(C)CC(C(=O)NC(C)C(=O)O)NC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CCCCN)N
@@ -12355,7 +12356,7 @@ Perfluoroheptane	C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
 25D-NBOMe	COC1=C(C=C(C(=C1)C)OC)CCNCC2=C(C=CC=C2)OC
 Lithium (medication)	[Li+]
 5-MAPDB	CC(NC)CC1=CC(CCO2)=C2C=C1
-6-MAPDB	CC(NC)CC1=CC(OCC2)=C2C=C1
+6-MAPDB	CC(CC1=CC2=C(CCO2)C=C1)NC
 O-4310	CC(C)N1C2=CC(F)=CC(O)=C2C(CCN(C)C)=C1
 Magnesium chromate	[O-][Cr](=O)(=O)[O-].[Mg+2]
 1-Bromoadamantane	C1C2CC3CC1CC(C2)(C3)Br
@@ -13561,6 +13562,7 @@ Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
 Cyclobis(paraquat-p-phenylene)	c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2
 Trimethylhexamethylenediamine	CC(CC(C)(C)CCN)CN
 Anabaseine	C1CCC(=NC1)c1cccnc1
+Clonazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=C4Cl
 Flubromazolam	BrC1=CC3=C(C=C1)[N]2C(=NN=C2C)CN=C3C4=C(C=CC=C4)F
 DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
@@ -13663,7 +13665,7 @@ Oligopetide P11-4	CC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCN
 Irganox 1098	CC(c1c(c(cc(c1)CC/C(=N/CCCCCC/N=C(\O)/CCc2cc(c(c(c2)C(C)(C)C)O)C(C)(C)C)/O)C(C)(C)C)O)(C)C
 Hydroxyacetone	CC(=O)CO
 6-Hydroxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)O
-5F-AB-PINACA	CC(C)[C@H](NC(=O)c1nn(CCCCF)c2ccccc12)C(N)=O
+5F-AB-PINACA	CC(C)[C@H](NC(=O)c1nn(CCCCCF)c2ccccc12)C(N)=O
 5F-APINACA	O=C(NC1(C[C@@H]2C3)C[C@H](C2)C[C@H]3C1)C4=NN(CCCCCF)C5=CC=CC=C54
 Dihydrotetrabenazine	COC1=C(OC)C=C(C(CC(O)C(CC(C)C)C2)N2CC3)C3=C1
 ADSB-FUB-187	CC(C)(C)[C@@H](C(=O)NCCNS(=O)(=O)C1CC1)NC(=O)C2=NN(C3=C2C=CC=C3Cl)CC4=CC=C(C=C4)F
@@ -13832,7 +13834,7 @@ Isopropyl cyanide	CC(C)C#N
 2C-B-BUTTERFLY	O3CCCc1c3c(Br)c2CCCOc2c1CCN
 Fenethazine	CN(C)CCN1C2=CC=CC=C2SC3=CC=CC=C31
 Nothoapiole	COC1=C(C(=C(C2=C1OCO2)OC)OC)CC=C
-Dihexa	C(CCCCC)(=O)NC(C(=O)NC(C(=O)NCCCCCC(=O)N)C(CC)C)CC1=CC=C(C=C1)O
+Dihexa	CCCCCC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCCCC(N)=O
 Difelikefalin	CC(C)C[C@H](C(=O)N[C@H](CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](Cc3ccccc3)N
 3-Indolepropionic acid	C1=CC=C2C(=C1)C(=CN2)CCC(=O)O
 Evenamide	CCCCOC1=CC=CC(=C1)CCNCC(=O)N(C)C
@@ -14100,3 +14102,4 @@ Pentagestrone	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)O
 Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.OS(=O)(=O)O
 N-Butyl glycidyl ether	CCCCOCC1CO1
+N-Butyl lactate	CCCCOC(=O)C(C)O
