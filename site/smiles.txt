@@ -2269,7 +2269,7 @@ Ticarcillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccsc1)C(=O)O)[C@H]3SC2(C)C
 Zirconium nitride	N#[Zr]
 Deferoxamine	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN
 Phenylacetic acid	O=C(O)Cc1ccccc1
-Hetacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](N2C(=O)C(c1ccccc1)NC2(C)C)[C@H]4SC3(C)C
+Hetacillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)N3C(=O)[C@H](NC3(C)C)c4ccccc4)C(=O)O)C
 3,5-Dinitrosalicylic acid	c1c(cc(c(c1C(=O)O)O)[N+](=O)[O-])[N+](=O)[O-]
 3-Amino-5-nitrosalicylic acid	[O-][N+](=O)c1cc(C(=O)O)c(O)c(N)c1
 Hydroxystilbamidine	Oc2cc(ccc2/C=C/c1ccc(cc1)C(N)=N)C(N)=N
