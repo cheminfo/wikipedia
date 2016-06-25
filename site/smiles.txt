@@ -6629,6 +6629,7 @@ Miotine	CC(C1=CC(=CC=C1)OC(=O)NC)N(C)C
 Alpha-GPC	[O-]P(=O)(OC[C@H](O)CO)OCC[N+](C)(C)C
 Anacardic acids	C=CCC=CCC=CCCCCCCCC1=C(C(=CC=C1)O)C(=O)O
 Altanserin	Fc1ccc(cc1)C(=O)C4CCN(CCN3C(=O)c2ccccc2NC3=S)CC4
+2β-Propanoyl-3β-(2-naphthyl)-tropane	CCC(=O)[C@H]1[C@H]2CC[C@@H](C[C@@H]1c3ccc4ccccc4c3)N2C
 Dioxirane	C1OO1
 Dimethocaine	NC1=CC=C(C(OCC(C)(C)CN(CC)CC)=O)C=C1
 Piperocaine	CC1CCCCN1CCCOC(C2=CC=CC=C2)=O
@@ -13652,6 +13653,7 @@ Merotocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](
 5F-SDB-006	FCCCCCN1C=C(C(NCC2=CC=CC=C2)=O)C3=C1C=CC=C3
 PX-3	NC(=O)[C@H](Cc1ccccc1)NC(=O)c2nn(CC3CCCCC3)c4ccccc24
 Harpagoside	C[C@@]1(C[C@H]([C@]2([C@@H]1[C@@H](OC=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)OC(=O)/C=C/c4ccccc4
+HDEP-28	CCOC(=O)C(C1CCCCN1)c2ccc3ccccc3c2
 25B-NBOH	BrC2=CC(=C(CCNCC1=C(C=CC=C1)O)C=C2OC)OC
 SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
 4-Methylcathinone	Cc1ccc(cc1)C(=O)C(C)N
@@ -14103,3 +14105,8 @@ Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.OS(=O)(=O)O
 N-Butyl glycidyl ether	CCCCOCC1CO1
 N-Butyl lactate	CCCCOC(=O)C(C)O
+Estrofurate	CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3=CC2)CCC4(C5=COC=C5)O)C
+Estrazinol	CC12CCC3C4=C(CCN3C1CCC2(C#C)O)C=C(C=C4)OC
+Etamestrol	CC1CC2=CC(=CC(=C2C3C1C4CCC(C4(CC3)C)(C#C)O)OC(=O)C5=CC=CC=C5)OC(=O)C6=CC=CC=C6
+Alestramustine	CC(C(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl)C)N
+Edogestrone	CC1=C2CC3(CCC2(C4CCC5(C(C4C1)CCC5(C(=O)C)OC(=O)C)C)C)OCCO3
