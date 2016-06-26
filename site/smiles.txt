@@ -10017,7 +10017,6 @@ Benzoic anhydride	c1ccc(cc1)C(=O)OC(=O)c2ccccc2
 6-APDB	O2c1cc(ccc1CC2)CC(N)C
 Cafaminol	O=C2N(c1nc(n(c1C(=O)N2C)C)N(CCO)C)C
 Ciladopa	O=C3/C=C\C=C/C=C3/N2CCN(C[C@@H](O)c1ccc(OC)c(OC)c1)CC2
-Iodobenzene dichloride	ClI(Cl)C1=CC=CC=C1
 Meta-Hydroxyphenylhydracrylic acid	OCC(C(O)=O)c1cccc(O)c1
 Meseclazone	Clc2cc1C(=O)N3OC(CC3Oc1cc2)C
 Pirolate	O=C(OCC)C/1=N/C(=O)c2cc3cc(OC)c(OC)cc3nc2N\1
@@ -11239,6 +11238,7 @@ Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
 1,2-Diaminopropane	CC(N)CN
 Pseudomorphine	CN1CCC23C4C1CC5=C2C(=C(C(=C5)C6=CC7=C8C(=C6O)OC9C81CCN(C(C7)C1C=CC9O)C)O)OC3C(C=C4)O
+6β-Naltrexol-d4	O[C@@]1(C(C[C@@]2(O)[C@H]3Cc4ccc(O)c5O[C@@]1([C@]2(CCN3CC6CC6)c45)[2H])([2H])[2H])[2H]
 Elemene	C[C@]1(C=C)C(C(C)C)=C/C(CC1)=C(C)/C
 Elemene	C[C@]1(C=C)[C@H](C(C)=C)C[C@H](C(C)=C)CC1
 Elemene	C[C@@]1(C=C)[C@@H](C(C)=C)C=C(C(C)C)CC1
@@ -14000,6 +14000,7 @@ Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
 Noroxymorphone	Oc1ccc2C[C@H]3NCC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O
 Ridinilazole	c6cc(c5nc4ccc(c3ccc2nc(c1ccncc1)[nH]c2c3)cc4[nH]5)ccn6
+Oxymorphone-3-methoxynaltrexonazine	CN1CCC23C4C(=NN=C5CCC6(C7CC8=C9C6(C5OC9=C(C=C8)OC)CCN7CC5CC5)O)CCC2(C1CC1=C3C(=C(C=C1)O)O4)O
 Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
 Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
 2-Aminothiophenol	c1ccc(c(c1)N)S
