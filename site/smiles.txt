@@ -672,7 +672,7 @@ Verapamil	N#CC(c1cc(OC)c(OC)cc1)(CCCN(CCc2ccc(OC)c(OC)c2)C)C(C)C
 Mirtazapine	n1cccc3c1N4C(c2ccccc2C3)CN(C)CC4
 P-Phenylenediamine	Nc1ccc(N)cc1
 Bifenthrin	Cl\C(=C/[C@@H]3[C@H](C(=O)OCc2cccc(c1ccccc1)c2C)C3(C)C)C(F)(F)F
-Bifenthrin	Cc1c(cccc1c2ccccc2)COC(=O)C3C(C3(C)C)C=C(C(F)(F)F)Cl.Cc1c(cccc1c2ccccc2)COC(=O)C3C(C3(C)C)C=C(C(F)(F)F)Cl
+Bifenthrin	Cc1c(cccc1c2ccccc2)COC(=O)C3C(C3(C)C)C=C(C(F)(F)F)Cl
 Sirolimus	O[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]4CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(/C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N3CCCC[C@H]3C(=O)O4
 Everolimus	OCCO[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]4CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(/C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N3CCCC[C@H]3C(=O)O4
 Mycophenolic acid	O=C1OCc2c1c(O)c(c(OC)c2C)C\C=C(/C)CCC(=O)O
@@ -8927,7 +8927,7 @@ TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 Amfenac	O=C(c1cccc(c1N)CC(=O)O)c2ccccc2
 Climbazole	CC(C)(C)C(=O)C(n1ccnc1)Oc2ccc(cc2)Cl
 GBLD-345	COC1=CC=CC(CNC(C=C2)=NN3C2=NC(C4=CC=C(N)C=C4)=C3OC)=C1
-Canaline	O=C(O)[C@@H](N)CCON
+Cannaline	O=C(O)[C@@H](N)CCON
 SSR-180,575	Cn2c3cc(Cl)ccc3c1c2c(=O)n(nc1CC(=O)N(C)C)-c4ccccc4
 Orientin	C1(=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC=C(O)C(=C3)O)C4OC(CO)C(C(C4O)O)O
 Tricin	COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
@@ -10915,7 +10915,7 @@ Symplocamide A	CCCC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1[C@H](OC(=O)[C@@H](NC(=O)[C@
 VUAA1	CCN1C(C2=CN=CC=C2)=NN=C1SCC(NC3=CC=C(CC)C=C3)=O
 Sorbinil	Fc3ccc2OCC[C@@]1(C(=O)NC(=O)N1)c2c3
 Sabarubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@@H](O[C@H](C[C@@H]2O)O[C@H]3C[C@@](Cc4c3c(c5c(c4O)C(=O)c6ccccc6C5=O)O)(C(=O)CO)O)C)N)O
-Nortilidine	O=C(OCC)[C@@]1(CCC=C[C@H]1N(C)C)C2=CC=CC=C2
+Nortilidine	CCOC(=O)[C@]1(CCC=C[C@@H]1NC)C2=CC=CC=C2
 Thonzonium bromide	[Br-].O(c1ccc(cc1)CN(c2ncccn2)CC[N+](CCCCCCCCCCCCCCCC)(C)C)C
 Sibrafiban	CCOC(=O)COC1CCN(CC1)C(=O)[C@H](C)NC(=O)c2ccc(cc2)C(=N)NO
 Ro-44-3888	C[C@@H](C(=O)N1CCC(CC1)OCC(=O)O)NC(=O)C2=CC=C(C=C2)C(=N)N
