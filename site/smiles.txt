@@ -8927,7 +8927,6 @@ TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 Amfenac	O=C(c1cccc(c1N)CC(=O)O)c2ccccc2
 Climbazole	CC(C)(C)C(=O)C(n1ccnc1)Oc2ccc(cc2)Cl
 GBLD-345	COC1=CC=CC(CNC(C=C2)=NN3C2=NC(C4=CC=C(N)C=C4)=C3OC)=C1
-Cannaline	O=C(O)[C@@H](N)CCON
 SSR-180,575	Cn2c3cc(Cl)ccc3c1c2c(=O)n(nc1CC(=O)N(C)C)-c4ccccc4
 Orientin	C1(=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC=C(O)C(=C3)O)C4OC(CO)C(C(C4O)O)O
 Tricin	COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
@@ -9975,7 +9974,7 @@ AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
 WAY-181,187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
 Elzasonan	Clc4c(Cl)cc(N1C(=O)C(\SCC1)=C\c3ccccc3N2CCN(C)CC2)cc4
 WAY-208,466	O=C(N\N=C1/S\C=C(/N1CC(C)C)c2ccc(Cl)cc2Cl)COc3nccnc3
-Eutylone	c2c1OCOc1ccc2C(=O)C(CC)NCC
+Eutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NCC
 4,4'-Dichlorobenzophenone	O=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2
 Acetolactic acid	O=C(C)[C@](O)(C(=O)O)C
 Denaverine	CCC(CC)COC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OCCN(C)C
@@ -13121,7 +13120,7 @@ Cyantraniliprole	CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
 Idropranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
-Thiothinone	CC(NC)C(C1=CC=CS1)=O.Cl
+Thiothinone	CC(C(=O)C1=CC=CS1)NC
 EMA401	COC1=C(C2=C(CN(C(C2)C(=O)O)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4)C=C1)OCC5=CC=CC=C5
 Paritaprevir	Cc1cnc(cn1)C(=O)N[C@H]2CCCCC/C=C\[C@@H]3C[C@]3(NC(=O)[C@@H]4C[C@H](CN4C2=O)Oc5c6ccccc6c7ccccc7n5)C(=O)NS(=O)(=O)C8CC8
 2-Hydroxyisocaproic acid	CC(C)CC(C(=O)O)O
@@ -13647,7 +13646,7 @@ PyAOP reagent	C1CCN(C1)[P+](N2CCCC2)(N3CCCC3)ON4C5=C(C=CC=N5)N=N4.F[P-](F)(F)(F)
 Quinfamide	C1CC2=C(C=CC(=C2)OC(=O)C3=CC=CO3)N(C1)C(=O)C(Cl)Cl
 5F-AMB	O=C(N[C@H](C(OC)=O)C(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
 FUBIMINA	O=C(C1=NC2=C(C=CC=C2)N1CCCCCF)C3=CC=CC4=CC=CC=C43
-MEPIRAPIM	CCCCCN1C=C(C(N2CCN(C)CC2)=O)C3=CC=CC=C31.Cl
+MEPIRAPIM	CCCCCN1C=C(C2=CC=CC=C21)C(=O)N3CCN(CC3)C
 Merotocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)O)C(=O)N(Cc3ccc(cc3)F)CC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 3-HO-PCP	c1cc(cc(c1)O)C2(CCCCC2)N3CCCCC3
 5F-SDB-006	FCCCCCN1C=C(C(NCC2=CC=CC=C2)=O)C3=C1C=CC=C3
