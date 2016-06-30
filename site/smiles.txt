@@ -3442,7 +3442,7 @@ Thallium(I) telluride	[Te].[Tl].[Tl]
 Capreomycin	C[C@H]1C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N[C@H](C(=O)NC[C@@H](C(=O)N1)N)[C@H]2CCN=C(N2)N)CNC(=O)C[C@H](CCCN)N.C1CN=C(N[C@H]1[C@H]2C(=O)NC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N2)CNC(=O)C[C@H](CCCN)N)CO)N)N
 Rubidium telluride	[Rb][Te][Rb]
 Cycloserine	O=C1NOC[C@H]1N
-WIN 55,212-2	CC1=C(C2=C3N1C(COC3=CC=C2)CN4CCOCC4)C(=O)C5=CC=CC6=CC=CC=C65
+WIN 55,212-2	CC1=C(C2=C3N1[C@@H](COC3=CC=C2)CN4CCOCC4)C(=O)C5=CC=CC6=CC=CC=C65
 Methyl carbamate	O=C(OC)N
 DHA-clozapine	Clc1ccc2N(C(=O)CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC)c4ccccc4C(=N/c2c1)\N3CCN(C)CC3
 Hexafluorosilicic acid	[H+].[H+].F[Si-2](F)(F)(F)(F)F
@@ -6924,7 +6924,7 @@ JWH-307	CCCCCN1C=C(C=C1C2=CC=CC=C2F)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-200	O=C(C1=CC=CC2=C1C=CC=C2)C3=CN(C4=C3C=CC=C4)CCN5CCOCC5
 Ipodate sodium	CN(C)/C=N/c1c(cc(c(c1I)CCC(=O)[O-])I)I.[Na+]
 Kappadione	CC1=C(C2=CC=CC=C2C(=C1)OP(=O)([O-])[O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
-W-18	O=N(C1=CC=C(CCN2CCCC/C2=N\S(=O)(C3=CC=C(Cl)C=C3)=O)C=C1)=O
+W-18	C1CCN(/C(=N\S(=O)(=O)C2=CC=C(C=C2)Cl)/C1)CCC3=CC=C(C=C3)[N+](=O)[O-]
 Hydroxylammonium sulfate	[O-]S([O-])(=O)=O.O[NH3+].O[NH3+]
 Guanidinium chloride	Cl.[N@H]=C(N)N
 Potassium hexacyanochromate(III)	[K+].[K+].[K+].N#C[Cr-3](C#N)(C#N)(C#N)(C#N)C#N
