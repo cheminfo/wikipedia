@@ -2627,7 +2627,7 @@ Quinbolone	O=C\1\C=C/[C@]5(/C(=C/1)CC[C@@H]3[C@@H]5CC[C@@]4([C@@H](O/C2=C/CCC2)C
 Pyridazine	c1ccnnc1
 Methyl benzoate	O=C(OC)c1ccccc1
 Bis(2-ethylhexyl) phthalate	O=C(OCC(CC)CCCC)C1=CC=CC=C1C(OCC(CC)CCCC)=O
-Huperzine A	C\C2=C\[C@H]\3CC=1NC(=O)\C=C/C=1[C@@](N)(C2)C/3=C\C
+Huperzine A	C/C=C/1\[C@@H]2CC3=C([C@]1(CC(=C2)C)N)C=CC(=O)N3
 Cacodyl oxide	C[As](C)O[As](C)C
 Benzyl butyl phthalate	CCCCOC(=O)c1ccccc1C(=O)OCc2ccccc2
 Diatrizoic acid	Ic1c(c(I)c(c(I)c1NC(=O)C)C(=O)O)NC(=O)C
@@ -5156,7 +5156,7 @@ Fluoxetine	CNCCC(c1ccccc1)Oc2ccc(cc2)C(F)(F)F
 Estratetraenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C3C=CC(=C4)O
 Androstadienone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C
 Indium(I) bromide	[In+].[Br-]
-Ohmefentanyl	O=C(CC)N([C@H]1CCN(C[C@H]1C)C[C@H](C2=CC=CC=C2)O)C3=CC=CC=C3
+Ohmefentanyl	CCC(=O)N(C1CCN(CC1C)CC(C2=CC=CC=C2)O)C3=CC=CC=C3
 Cardenolide	C[C@]52/C=C\CCC5CC[C@H]1[C@H]3CC[C@@H]([C@@]3(C)CC[C@@H]12)[C@H]4CC(=O)OC4
 Cardenolide	CC12CCCCC1CCC3C2CCC4(C3C=CC4C5CC(=O)OC5)C
 Bufadienolide	CC14CCC3C2(C)CCCCC2CCC3C1CCC4c5ccc(=O)oc5
@@ -6320,7 +6320,7 @@ Iron(III) sulfate	[Fe+3].[Fe+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(
 Ataluren	Fc3ccccc3c1nc(no1)c2cc(ccc2)C(=O)O
 Chromium(III) sulfate	[Cr+3].[Cr+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.O.O.O.O.O.O.O.O.O.O.O.O
 Dioxygenyl hexafluoroplatinate	O=[O+].F[Pt-](F)(F)(F)(F)F
-Ceftobiprole	O=C3N1/C(=C(\CS[C@@H]1[C@@H]3NC(=O)C(\N=O)=C2/NSC(\N)=N2)/C=C4\CCN(C4=O)[C@@H]5CCNC5)C(O)=O
+Ceftobiprole	C1CNC[C@@H]1N2CC/C(=C\C3=C(N4[C@@H]([C@@H](C4=O)NC(=O)/C(=N\O)/c5nc(sn5)N)SC3)C(=O)O)/C2=O
 Acetoxyketobemidone	O=C(CC)C1(CCN(C)CC1)c2cccc(OC(C)=O)c2
 Methylketobemidone	O=C(C2(c1cccc(O)c1)CCN(C)CC2)C
 Propylketobemidone	O=C(CCC)C1(CCN(C)CC1)c2cccc(O)c2
@@ -6587,6 +6587,7 @@ Iobenguane	C1=CC(=CC(=C1)I)CNC(=N)N
 Boron triiodide	IB(I)I
 Bicifadine	c1cc(ccc1C)[C@]32CNC[C@@H]2C3
 Telbivudine	O=C/1NC(=O)N(\C=C\1C)[C@H]2O[C@H]([C@H](O)C2)CO
+Dimepheptanol	CCC(C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)O
 Acetylmethadol	O=C(OC(C(c1ccccc1)(c2ccccc2)CC(N(C)C)C)CC)C
 Alphamethadol	O[C@@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC
 Betamethadol	O[C@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC
@@ -11300,6 +11301,7 @@ Propyl hexanoate	CCCCCC(=O)OCCC
 Miquelianin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
 CYT387	c1cc(ccc1c2ccnc(n2)Nc3ccc(cc3)N4CCOCC4)C(=O)NCC#N
 2,2-Di-2-furylpropane	o1c(ccc1)C(c2occc2)(C)C
+Org 26576	C1C[C@H]2COC3=C(C=CC=N3)C(=O)N2C1
 Eupalin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=C(C(=C3C2=O)O)OC)OC)C4=CC=C(C=C4)O)O)O)O
 Ethylene thiourea	C1CNC(=S)N1
 Tilmicosin	O=C4\C=C\C(=C\[C@H](CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC)[C@H](OC(=O)C[C@@H](O)[C@@H]([C@@H](O[C@@H]2O[C@@H]([C@@H](O)[C@H](N(C)C)[C@H]2O)C)[C@@H](CCN3C[C@H](C)C[C@H](C)C3)C[C@H]4C)C)CC)C
@@ -11552,7 +11554,7 @@ Hexapradol	OC(c1ccccc1)(c2ccccc2)C(N)CCCCC
 Lufuradom	O=C(C1=COC=C1)NCC2N(C)C3=C(C(C4=CC=CC=C4)=NC2)C=CC(F)=C3
 Casokefamide	O=C(N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N)Cc1ccc(O)cc1)C)Cc2ccccc2)C)[C@@H](N)Cc3ccc(O)cc3
 Desmethoxycurcumin	COc(c1)c(O)ccc(C=CC(=O)CC(=O)C=Cc(c2)ccc(O)c2)1
-Frakefamide	Fc1ccc(cc1)C[C@H](N)C(=O)N[C@H](C(=O)NC(=O)[C@H](NC(=O)[C@@H](N)Cc2ccc(O)cc2)C)Cc3ccccc3
+Frakefamide	C[C@H](C(=O)N[C@@H](CC1=CC=C(C=C1)F)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N)NC(=O)[C@H](CC3=CC=C(C=C3)O)N
 Metkefamide	O=C(N)[C@@H](N(C(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)C)Cc2ccccc2)C)CCSC
 Gestaclone	O=C5\C=C4\C(\Cl)=C/[C@@H]1[C@H](CC[C@@]2([C@@]3(C(=O)C)[C@@H](C[C@@H]12)C3)C)[C@@]4(C)[C@H]6C[C@@H]56
 Tinabinol	O3c1cc(cc(O)c1\C2=C(\SCCC2)C3(C)C)C(C)C(C)CCCCC
@@ -13657,7 +13659,7 @@ Harpagoside	C[C@@]1(C[C@H]([C@]2([C@@H]1[C@@H](OC=C2)O[C@H]3[C@@H]([C@H]([C@@H](
 HDEP-28	CCOC(=O)C(C1CCCCN1)c2ccc3ccccc3c2
 25B-NBOH	BrC2=CC(=C(CCNCC1=C(C=CC=C1)O)C=C2OC)OC
 SDB-005	CCCCCn1nc(c2c1cccc2)C(=O)Oc1cccc2c1cccc2
-4-Methylcathinone	Cc1ccc(cc1)C(=O)C(C)N
+4-Methylcathinone	CC1=CC=C(C=C1)C(=O)C(C)N
 NM-2-AI	CNC2CC1=CC=CC=C1C2
 2,5-Dimethoxy-4-isopropylamphetamine	COC1=C(C=C(C(=C1)C(C)C)OC)CC(C)N
 4-Methylpentedrone	CCCC(NC)C(=O)c1ccc(C)cc1
