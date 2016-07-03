@@ -7601,9 +7601,9 @@ Bopindolol	CC1=CC2=C(N1)C=CC=C2OCC(CNC(C)(C)C)OC(=O)C3=CC=CC=C3
 3-(p-Fluorobenzoyloxy)tropane	CN1C2CC(OC(C3=CC=C(F)C=C3)=O)CC1CC2
 Altropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2C\C=C\I)C[C@@H]1C3=CC=C(C=C3)F
 RTI-150	CC1=CC=C(C=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC4CCC4)N3C
-(-)-2β-(1,2,4-Oxadiazol-5-methyl)-3β-phenyltropane	CN2C1CCC2CC(c4ccccc4)C1c3nc(C)on3
+(-)-2β-(1,2,4-Oxadiazol-5-methyl)-3β-phenyltropane	CC1=NOC(=N1)[C@H]2[C@H](CC3CCC2N3C)C4=CC=CC=C4
 Fludorex	CNCC(C1=CC(=CC=C1)C(F)(F)F)OC
-(-)-2β-(3-(4-Methylphenyl)isoxazol-5-yl)-3β-(4-chlorophenyl)tropane	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)Cl
+(-)-2β-(3-(4-Methylphenyl)isoxazol-5-yl)-3β-(4-chlorophenyl)tropane	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
 Alpha-Methylhistamine	CC(N)CC1=CNC=N1
 Alpha-Methylhistamine	CC(CC1=CN=CN1)N
 Drometrizole trisiloxane	CC(CC1=C(O)C(=CC(C)=C1)N1N=C2C=CC=CC2=N1)C[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C
@@ -9004,14 +9004,14 @@ Para-Ethoxyamphetamine	O(c1ccc(cc1)CC(N)C)CC
 Chloranil	ClC=1C(=O)C(\Cl)=C(\Cl)C(=O)C=1Cl
 2,3,3-Trimethylpentane	CCC(C)(C)C(C)C
 RTI-113	CN1C2CCC1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC4=CC=CC=C4
-RTI-112	CC1=C(C=CC(=C1)[C@H]2CC3CCC([C@H]2C(=O)OC)N3C)Cl
+RTI-112	CC1=C(C=CC(=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3C)Cl
 Noopept	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
 MMPIP	COc3ccc(cc3)C2CC(C1C(=O)N2C)ON=C1c4ccncc4
 LY-404,039	C1[C@]([C@@H]2[C@H]([C@@H]2S1(=O)=O)C(=O)O)(C(=O)O)N
 ADX-47273	FC1=CC=C(C(N2CCC[C@@H](C2)C3=NC(C4=CC=C(F)C=C4)=NO3)=O)C=C1
 SIB-1757	Oc1ccc(C)nc1\N=N\c2ccccc2
 SIB-1893	c1ccccc1\C=C\c(nc2C)ccc2
-RTI-177	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
+RTI-177	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C4=CC(=NO4)C5=CC=CC=C5
 2-Nitrobenzaldehyde	O=[N+]([O-])c1ccccc1C=O
 3-Nitrobenzaldehyde	O=[N+]([O-])c1cc(C=O)ccc1
 2-Nitrocinnamaldehyde	O=[N+]([O-])c1ccccc1\C=C\C=O
@@ -13376,7 +13376,7 @@ Losoxantrone	c1cc-2c(c(c1)O)C(=O)c3c(ccc4c3c2nn4CCNCCO)NCCNCCO
 Crisnatol	CC(CO)(CO)NCc1cc2c3ccccc3ccc2c4c1cccc4
 Lunamarine	Cn1c2cc(ccc2c(=O)cc1c3ccc4c(c3)OCO4)OC
 Verbenalin	C[C@H]1CC(=O)[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
-15-Hydroxyicosatetraenoic acid	CCCCC[C@@H](/C=C/C=C\C/C=C\C/C=C\CCCC(=O)O)O
+15-Hydroxyeicosatetraenoic acid	CCCCC[C@@H](/C=C/C=C\C/C=C\C/C=C\CCCC(=O)O)O
 Octotiamine	Cc1ncc(c(n1)N)CN(C=O)/C(=C(\CCO)/SSCCC(CCCCC(=O)OC)SC(=O)C)/C
 Paroxypropione	CCC(=O)c1ccc(cc1)O
 Ciclafrine	c1cc(cc(c1)O)C2CNC3(O2)CCCCCC3
@@ -14115,3 +14115,4 @@ Estrazinol	CC12CCC3C4=C(CCN3C1CCC2(C#C)O)C=C(C=C4)OC
 Etamestrol	CC1CC2=CC(=CC(=C2C3C1C4CCC(C4(CC3)C)(C#C)O)OC(=O)C5=CC=CC=C5)OC(=O)C6=CC=CC=C6
 Alestramustine	CC(C(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl)C)N
 Edogestrone	CC1=C2CC3(CCC2(C4CCC5(C(C4C1)CCC5(C(=O)C)OC(=O)C)C)C)OCCO3
+Thiophanate-methyl	COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC
