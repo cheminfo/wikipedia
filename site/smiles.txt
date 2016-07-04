@@ -7285,7 +7285,7 @@ Plutonium(III) fluoride	[F-].[F-].[F-].[Pu+3]
 (E,E)-2,4-Decadienal	CCCCC\C=C\C=C\C=O
 Phenylacetaldehyde	O=CCc1ccccc1
 4-HO-MPMI	OC1=C2C(C[C@@]3([H])CCCN3C)=CNC2=CC=C1
-5-MeO-MPMI	CN1CCCC1CC2=CNC3=CC=C(OC)C=C23
+5-MeO-MPMI	CN1CCC[C@@H]1CC2=CNC3=C2C=C(C=C3)OC
 Chiraphos	P(c1ccccc1)(c2ccccc2)[C@H]([C@@H](P(c3ccccc3)c4ccccc4)C)C
 2-C-Methyl-D-erythritol-2,4-cyclopyrophosphate	C[C@]1([C@H](COP(=O)(OP(=O)(O1)O)O)O)CO
 4-Diphosphocytidyl-2-C-methylerythritol	O=P(OC[C@@H](O)[C@](O)(C)CO)(O)OP(=O)(O)OC[C@H]2O[C@@H](N/1C(=O)/N=C(/N)\C=C\1)[C@H](O)[C@@H]2O
@@ -8641,8 +8641,8 @@ Propachlor	CC(C)N(c1ccccc1)C(=O)CCl
 Cadmium cyanide	[Cd+2].[C-]#N.[C-]#N
 UR-AK49	c1c(nc[nH]1)CCCNC(=N)NC(=O)CCC2CCCCC2
 NS-2359	Clc1ccc(cc1Cl)C(C2COC)CC3NC2CC3
-DOV-216,303	C3C2CNCC23c(cc1Cl)ccc1Cl
-DOV-102,677	C1[C@](CN2)(C1C2)C(=C1)C=C(C(Cl)=C1)Cl
+DOV-216,303	C1C2C1(CNC2)C3=CC(=C(C=C3)Cl)Cl
+DOV-102,677	C1[C@@H]2[C@]1(CNC2)C3=CC(=C(C=C3)Cl)Cl
 Dasotraline	C1C[C@H](C2=CC=CC=C2[C@@H]1C3=CC(=C(C=C3)Cl)Cl)N
 Cadmium hydroxide	[Cd+2].[OH-].[OH-]
 Amfonelic acid	CCN1C=C(C(=O)C2=C1N=C(C=C2)CC3=CC=CC=C3)C(=O)O
@@ -9176,7 +9176,7 @@ Normethandrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CCC4=CC(=O)CC[C@H]34
 Propetandrol	CCC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@]4(CC)O)C
 Boldione	O=C\1\C=C/[C@]3(/C(=C/1)CC[C@H]4[C@@H]2CCC(=O)[C@]2(CC[C@H]34)C)C
 Panaxytriol	CCCCCCC[C@@H]([C@H](CC#CC#C[C@@H](C=C)O)O)O
-JNJ-7925476	C#CC1=CC=C(C2CN3CCCC3C4=C2C=CC=C4)C=C1
+JNJ-7925476	C#CC1=CC=C(C=C1)[C@@H]2CN3CCC[C@@H]3C4=CC=CC=C24
 Wieland-Gumlich aldehyde	C1CN2C/C(=C/CO)/[C@@H]3C[C@H]2[C@@]14[C@H]([C@@H]3C=O)NC5=CC=CC=C45
 Dodecanedioic acid	O=C(O)CCCCCCCCCCC(=O)O
 Trichotomine	C1[C@H](N2C(=C/C(=C\3/C=C4C5=C(C[C@H](N4C3=O)C(=O)O)C6=CC=CC=C6N5)/C2=O)C7=C1C8=CC=CC=C8N7)C(=O)O
