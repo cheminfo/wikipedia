@@ -12180,6 +12180,7 @@ Selinene	C\1(=C\CC[C@]2([C@H]/1C[C@H](\C(=C)C)CC2)C)C
 Selinene	C1(=C)\CCC[C@]2([C@H]1C[C@H](\C(=C)C)CC2)C
 Selinene	C2(=C(/C)C)\CC[C@@]1([C@H](/C(=C)CCC1)C2)C
 Selinene	C[C@@H]1CC=C[C@]2([C@H]1C[C@@H](CC2)C(C)C)C
+BL-1020	C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCOC(=O)CCCN
 3-Acetyloxymorphone	CN1[C@H](C2)[C@@]3(O)[C@@]4(CC1)C5=C2C=CC(OC(C)=O)=C5O[C@@]4([H])C(CC3)=O
 3,14-Diacetyloxymorphone	CN1[C@H](C2)[C@@]3(OC(C)=O)[C@@]4(CC1)C5=C2C=CC(OC(C)=O)=C5O[C@@]4([H])C(CC3)=O
 Hydrangeic acid	Oc2ccc(cc2)\C=C\c(c1C(O)=O)cccc1O
@@ -12872,7 +12873,7 @@ Leptacline	C1CCC(CC1)CN2CCCCC2
 2-Methyl-3-phenylpiperidine	CC1C(CCCN1)C2=CC=CC=C2
 4-Hydroxy-3-methoxymethamphetamine	CC(CC1=CC(=C(C=C1)O)OC)NC
 Benzylfentanyl	CCC(=O)N(C1CCN(CC1)CC2=CC=CC=C2)C3=CC=CC=C3
-Binaltorphimine	O[C@@]57Cc1c%11c(n(c1[C@@H]6Oc2c4c(ccc2O)C[C@H]7N(CC3CC3)CC[C@@]456)C)[C@@H]%12Oc8c9c(ccc8O)C[C@H]%10N(CC[C@]9%12[C@@]%10(O)C%11)CC%13CC%13
+Binaltorphimine	CN1C2=C(C[C@]3([C@H]4CC5=C6[C@]3([C@H]2OC6=C(C=C5)O)CCN4CC7CC7)O)C8=C1[C@H]9[C@@]12CCN([C@@H]([C@@]1(C8)O)CC1=C2C(=C(C=C1)O)O9)CC1CC1
 Bisnortilidine	CCOC(=O)[C@]1(CCC=C[C@@H]1N)C2=CC=CC=C2
 CGS-8216	O=C3c2cnc1ccccc1c2NN3c4ccccc4
 CGS-13767	C1=CC=C(C=C1)C2=NN3C(=N2)C4=CC=CC=C4N=C3O
@@ -13989,7 +13990,7 @@ O-(2-Fluorethyl)-L-thyrosine	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
-O-acylpseudotropine	C12(CCC(CC(OC(=O)[R])([H])C1)N(C)2)
+O-acylpseudotropine	CN1C2CCC1CC(C2)OC(=O)C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
