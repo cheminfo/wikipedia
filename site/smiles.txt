@@ -2438,6 +2438,7 @@ Diisopropyl azodicarboxylate	O=C(/N=N/C(=O)OC(C)C)OC(C)C
 Diisopropyl azodicarboxylate	O=C(OC(C)C)\N=N/C(OC(C)C)=O
 Bazedoxifene	Oc1ccc(cc1)c3c(c2cc(O)ccc2n3Cc5ccc(OCCN4CCCCCC4)cc5)C
 Zinc iodide	I[Zn]I
+Diazald	Cc1ccc(cc1)S(=O)(=O)N(C)N=O
 Pentyl	[CH2]CCCC
 Pittsburgh compound B	[11CH3]NC1=CC=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O
 Fluorosulfuric acid	OS(F)(=O)=O
@@ -2808,7 +2809,7 @@ Nerol	OC\C=C(/CC/C=C(/C)C)C
 Fluorone	O=C/2/C=C\C1=C\c3c(O/C1=C\2)cccc3
 Eosin B	C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C(=C4OC5=C(C(=C(C=C35)[N+](=O)[O-])O)Br)Br)O)[N+](=O)[O-]
 Eosin Y	c1ccc(c(c1)c2c3cc(c(c(c3oc-4c(c(=O)c(cc24)Br)Br)Br)[O-])Br)C(=O)[O-].[Na+].[Na+]
-Pararosaniline	C1=CC(=[NH2+])C=CC1=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N.[Cl-]
+Pararosaniline	c1cc(ccc1C(=C2C=CC(=N)C=C2)c3ccc(cc3)N)N
 Camphorsulfonic acid	CC1(C2CCC1(C(=O)C2)CS(=O)(=O)O)C
 Hematein	C1C2=CC(=O)C(=CC2=C3C1(COC4=C3C=CC(=C4O)O)O)O
 Quercitrin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
@@ -12293,6 +12294,7 @@ Theacrine	CN1C2=C(N(C1=O)C)N(C(=O)N(C2=O)C)C
 Taxusin	[H][C@@]1(C[C@@]2([H])C[C@]3([H])C(=C)[C@H](CC[C@@]3(C)[C@@H](OC(C)=O)[C@H](OC(C)=O)C(=C1C)C2(C)C)OC(C)=O)OC(C)=O
 Bromopropylate	Brc1ccc(cc1)C(O)(c2ccc(Br)cc2)C(=O)OC(C)C
 Theograndin I	C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)OC4C(C(C(C(O4)C(=O)O)O)OS(=O)(=O)O)O)O
+Decinnamoyltaxinine J	CC1=C2[C@H]([C@@H]([C@@]3([C@H](C[C@@H](C(=C)[C@H]3[C@@H]([C@@H](C2(C)C)C[C@@H]1OC(=O)C)OC(=O)C)O)OC(=O)C)C)OC(=O)C)OC(=O)C
 Isoscutellarein	C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)O)O
 3,5-Dihydroxyphenylpropionoic acid	C1=C(C=C(C=C1O)O)CCC(=O)O
 Taxadiene	C\1(=C2/CC[C@]3(C)CC/C=C(/C)[C@H]3C[C@H](CC/1)C2(C)C)C
@@ -13561,7 +13563,7 @@ Cyclohexanethiol	C1CCC(CC1)S
 Isopropylphenidate	C1(=CC=CC=C1)C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
 Chidamide	NC1=C(NC(=O)C2=CC=C(CNC(=O)\C=C\C3=CN=CC=C3)C=C2)C=C(F)C=C1
-AT-076	C4c1ccc(O)cc1CNC4C(=O)NC(C(C)C)CN(CC3)CCC3c(ccc2)cc2O
+AT-076	CC(C)[C@@H](CN1CCC(CC1)C2=CC(=CC=C2)O)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
 BU09059	Oc3cccc(c3)C1(C)CCN(CC1C)CC(C(=O)OCC)NC(=O)C(NCc2c4)Cc2ccc4O
 Samatasvir	c9ccccc9C(NC(=O)OC)C(=O)N3CCCC3c8[nH]cc(n8)-c7ccc(cc7)-c6csc1c(csc16)-c(ccc4n5)cc4[nH]c5C2CCCN2C(=O)C(C(C)C)NC(=O)OC
 RTA 408	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(C(=O)OC)CCC(C)(C)C[C@H]12)(C)[C@]3(C)CC[C@H]5C4(C)C)C
@@ -14112,6 +14114,7 @@ Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.OS(=O)(=O)O
 N-Butyl glycidyl ether	CCCCOCC1CO1
 N-Butyl lactate	CCCCOC(=O)C(C)O
+Trimethylthiazoline	CC1C(SC(=N1)C)C
 Estrofurate	CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3=CC2)CCC4(C5=COC=C5)O)C
 Estrazinol	CC12CCC3C4=C(CCN3C1CCC2(C#C)O)C=C(C=C4)OC
 Etamestrol	CC1CC2=CC(=CC(=C2C3C1C4CCC(C4(CC3)C)(C#C)O)OC(=O)C5=CC=CC=C5)OC(=O)C6=CC=CC=C6
