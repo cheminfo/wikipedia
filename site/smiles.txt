@@ -1467,7 +1467,7 @@ Eflornithine	FC(F)C(N)(C(=O)O)CCCN
 Piperazine	C1CNCCN1
 Pirolazamide	O=C(N)C(c1ccccc1)(c2ccccc2)CCN4CC3N(CCC3)CC4
 BINAP	c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c6ccccc6ccc5P(c7ccccc7)c8ccccc8
-HU-210	CC(CCCCCC)(C1CC2OC(C)([C@H]3CCC(CO)=C[C@@H]3C2C(C1)O)C)C
+HU-210	CCCCCCC(C)(C)C1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO)C(=C1)O
 Forskolin	CC(=O)O[C@H]1[C@H]([C@@H]2[C@]([C@H](CCC2(C)C)O)([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O
 Fingolimod	OCC(N)(CCc1ccc(cc1)CCCCCCCC)CO
 Nonylphenol	Oc1ccccc1CCCCCCCCC
@@ -6969,7 +6969,7 @@ Gossypetin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O)O
 BU-48	C8CC8CN5CCC26C1Oc7c2c(ccc7O)CC5C46C=CC1(OC)C3C4CCCC3O
 DPI-221	O=C(N(CC)CC)c1ccc(cc1)[C@@H](N3C[C@H](N(Cc2cc(F)ccc2)C[C@@H]3C)C)c4ccccc4
 DPI-287	CCN(CC)C(=O)c2ccc(cc2)C(c(ccc4)cc4O)N(CC1C)C(C)CN1Cc3ccccc3
-DPI-3290	OC1=CC=CC([C@@](C2=CC(C(N(C3=CC(F)=CC=C3)C)=O)=CC=C2)([H])N([C@@H](CN4CC=C)C)C[C@@H]4C)=C1
+DPI-3290	C[C@H]1CN([C@@H](CN1[C@@H](C2=CC(=CC=C2)O)C3=CC=CC(=C3)C(=O)N(C)C4=CC(=CC=C4)F)C)CC=C
 N-Phenethyl-14-ethoxymetopon	O=C1CCC2(C3CC4=C(C25CCN3CCC6=CC=CC=C6)C(OC15C)=C(O)C=C4)OCC
 1-Phenylethylamine	CC(c1ccccc1)N
 Dimethyl fumarate	O=C(OC)\C=C\C(=O)OC
@@ -10077,7 +10077,7 @@ Naphthylpiperazine	c2cc(c1ccccc1c2)N3CCNCC3
 Filaminast	CC(=NOC(=O)N)C1=CC(=C(C=C1)OC)OC2CCCC2
 Bismuth tribromide	Br[Bi](Br)Br
 Hederagenin	O=C(O)[C@]35[C@H](C\2=C\C[C@@H]1[C@@]4([C@@H](CC[C@]1([C@]/2(C)CC3)C)[C@](C)(CO)[C@@H](O)CC4)C)CC(C)(C)CC5
-UK-414,495	CCc1nnc(s1)NC(=O)C2(CC(C(O)=O)CCC)CCCC2
+UK-414,495	CCC[C@H](CC1(CCCC1)C(=O)NC2=NN=C(S2)CC)C(=O)O
 N,N-Dimethyl-1-naphthylamine	c1cccc2cccc(N(C)C)c12
 3,3-Diphenylcyclobutanamine	c1ccc(cc1)C3(c2ccccc2)CC(N)C3
 Ptaquiloside	C[C@@H]1C[C@]2(C=C(C3(CC3)[C@@]([C@H]2C1=O)(C)O)C)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
@@ -10306,7 +10306,7 @@ Rhein (molecule)	C1=CC2=C(C(=C1)O)C(=O)C3=C(C=C(C=C3C2=O)C(=O)O)O
 Benzo(a)fluorene	c4ccc3c2c(c1c(cccc1)C2)ccc3c4
 CECXG	c4cccc2c4Oc3ccccc3C2CC(N)(C(O)=O)C1C(C(=O)O)C1CC
 1-Iodomorphine	O[C@H]1\C=C/[C@H]4[C@H]2Cc5c3c(O[C@@H]1[C@]34CCN2C)c(O)cc5I
-Cannabicyclohexanol	OC2CC(CCC2)c1ccc(cc1O)C(C)(C)CCCCCCC
+Cannabicyclohexanol	CCCCCCCC(C)(C)C1=CC(=C(C=C1)[C@@H]2CCC[C@@H](C2)O)O
 EBC-46	O=C1C(O)(C3O)C(C=C1C)C4(O)C(C)C(OC(=O)\C(\C)=C\C)C2(OC(=O)C(C)CC)C(C)(C)C2C4C5OC35CO
 Methylethyl ketone oxime	CC/C(=N/O)/C
 Taxodone	O=C1\C(=C/C=2/C(=C1/O)[C@]3(C)[C@@H]([C@@H](O)C=2)C(C)(C)CCC3)C(C)C
@@ -13845,7 +13845,7 @@ Isopropyl cyanide	CC(C)C#N
 Fenethazine	CN(C)CCN1C2=CC=CC=C2SC3=CC=CC=C31
 Nothoapiole	COC1=C(C(=C(C2=C1OCO2)OC)OC)CC=C
 Dihexa	CCCCCC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCCCC(N)=O
-Difelikefalin	CC(C)C[C@H](C(=O)N[C@H](CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](Cc3ccccc3)N
+Difelikefalin	CC(C)C[C@H](C(=O)N[C@H](CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)[C@@H](CC2=CC=CC=C2)NC(=O)[C@@H](CC3=CC=CC=C3)N
 3-Indolepropionic acid	C1=CC=C2C(=C1)C(=CN2)CCC(=O)O
 Evenamide	CCCCOC1=CC=CC(=C1)CCNCC(=O)N(C)C
 Tavilermide	C1COC2=C(C=C(C=C2)[N+](=O)[O-])C(=O)NC(C(=O)NC(C(=O)NC1C(=O)NCC(=O)O)CCCCN)CCC(=O)O
