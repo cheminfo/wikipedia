@@ -644,7 +644,7 @@ Silver sulfide	[S-2].[Ag+].[Ag+]
 Furfural	c1cc(oc1)C=O
 Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
-Propofol	OC1=C(C(C)C)C=CC=C1C(C)C
+Propofol	CC(C)c1cccc(c1O)C(C)C
 Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
@@ -787,7 +787,7 @@ Atorvastatin	O=C(O)C[C@H](O)C[C@H](O)CCn2c(c(c(c2c1ccc(F)cc1)c3ccccc3)C(=O)Nc4cc
 Simvastatin	O=C(O[C@@H]1[C@H]3C(=C/[C@H](C)C1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)C(C)(C)CC
 Clindamycin	Cl[C@@H](C)[C@@H](NC(=O)[C@H]1N(C)C[C@H](CCC)C1)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O
 Fluvastatin	O=C(O)C[C@H](O)C[C@H](O)/C=C/c2c(c1ccccc1n2C(C)C)c3ccc(F)cc3
-Rosuvastatin	O=S(=O)(N(c1nc(c(c(n1)C(C)C)/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c2ccc(F)cc2)C)C
+Rosuvastatin	OC(=O)C[C@H](O)C[C@H](O)\C=C\c1c(C(C)C)nc(N(C)S(=O)(=O)C)nc1c2ccc(F)cc2
 Pravastatin	O=C(O)C[C@H](O)C[C@H](O)CC[C@H]2[C@H](/C=C\C1=C\[C@@H](O)C[C@H](OC(=O)[C@@H](C)CC)[C@@H]12)C
 Lovastatin	O=C(O[C@@H]1[C@H]3C(=C/[C@H](C)C1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)[C@@H](C)CC
 Cerivastatin	O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(nc(c(c1c2ccc(F)cc2)COC)C(C)C)C(C)C
@@ -1005,7 +1005,6 @@ Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
 Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
-Thiamine mononitrate	Cc1c(sc[n+]1Cc2cnc(nc2N)C)CCO.[N+](=O)([O-])[O-]
 Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
@@ -1317,7 +1316,7 @@ Formoterol	O=CNc1cc(ccc1O)[C@@H](O)CN[C@H](C)Cc2ccc(OC)cc2
 Selegiline	C#CCN([C@@H](Cc1ccccc1)C)C
 Goserelin	CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O
 Bicalutamide	O=C(Nc1cc(c(C#N)cc1)C(F)(F)F)C(O)(C)CS(=O)(=O)c2ccc(F)cc2
-Tamoxifen	O(c1ccc(cc1)/C(c2ccccc2)=C(\c3ccccc3)CC)CCN(C)C
+Tamoxifen	CN(C)CCOc1ccc(cc1)/C(c2ccccc2)=C(/CC)c3ccccc3
 Fulvestrant	FC(F)(F)C(F)(F)CCCS(=O)CCCCCCCCCC3Cc1c(ccc(O)c1)[C@H]2CC[C@]4([C@H]([C@@H]23)CC[C@@H]4O)C
 Meropenem	O=C3N2\C(=C(\S[C@H]1C[C@@H](C(=O)N(C)C)NC1)[C@H](C)[C@@H]2[C@H]3[C@H](O)C)C(=O)O
 Cefotetan	O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)C3S/C(S3)=C(/C(=O)N)C(=O)O)CSc4nnnn4C)C(=O)O
@@ -5443,7 +5442,7 @@ Prostaglandin H2	O=C(O)CCC/C=C\C[C@H]2[C@H]1OO[C@H](C1)[C@@H]2/C=C/[C@@H](O)CCCC
 Arachidonic acid 5-hydroperoxide	O=C(O)CCCC(OO)/C=C/C=C\C\C=C/C\C=C/CCCCC
 Ruthenocene	[cH-]1cccc1.[cH-]1cccc1.[Ru+2]
 Uridine diphosphate glucuronic acid	OC(=O)[C@@H](O)[C@@H](O)[C@H](OP([O-])([O-])=O)[C@H](C=O)OP([O-])([O-])=O.O=C\1NC(=O)N(/C=C/1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
-Uridine diphosphate galactose	OC[C@@H](O)[C@H](O)[C@H](OP([O-])([O-])=O)[C@H](C=O)OP([O-])([O-])=O.O=C\1NC(=O)N(/C=C/1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+Uridine diphosphate galactose	[H]OC([H])([H])[C@]1([H])O[C@]([H])(O[P@@](=O)(O[H])O[P@](=O)(O[H])OC([H])([H])[C@]2([H])O[C@@]([H])(N3C([H])=C([H])C(=O)N([H])C3=O)[C@]([H])(O[H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@]([H])(O[H])[C@@]1([H])O[H]
 Galactose 1-phosphate	O=P(O)(O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO)O
 2-Hydroxybutyric acid	O=C(O)C(O)CC
 Durene	c1c(c(cc(c1C)C)C)C
@@ -8664,7 +8663,7 @@ Chloro(cyclopentadienyl)bis(triphenylphosphine)ruthenium	c1ccc(cc1)P(c2ccccc2)c3
 Tetramethylammonium chloride	C[N+](C)(C)C.[Cl-]
 Barium sulfite	[Ba+2].[O-]S([O-])=O
 Arsabenzene	[as]1ccccc1
-Triphenylborane	c3c(B(c1ccccc1)c2ccccc2)cccc3
+Triphenylborane	B(c1ccccc1)(c2ccccc2)c3ccccc3
 MMAI	Cc1cc2CC(N)Cc2cc1OC
 MDMAI	C3c2cc1OCOc1cc2CC3NC
 Rhodium(IV) oxide	[Rh+4].[O-2].[O-2]
@@ -8967,7 +8966,7 @@ Hydroxyacetylaminofluorene	CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O
 Acetoxyacetylaminofluorene	CC(=O)ON(C(C)=O)c1ccc-2c(Cc3ccccc-23)c1
 Trichodermin	CC1=C[C@@H]2[C@](CC1)([C@]3([C@@H](C[C@H]([C@@]34CO4)O2)OC(=O)C)C)C
 Pristinamycin IA	CC[C@@H]1C(=O)N2CCC[C@H]2C(=O)N([C@H](C(=O)N3CCC(=O)C[C@H]3C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CC6=CC=C(C=C6)N(C)C)C
-Mycobacillin	C[C@H]1C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N1)CC(=O)O)CCC(=O)O)CC(C)C)CC(=O)O)CO)Cc3ccc(cc3)O)CC(=O)O)Cc4ccc(cc4)O)CCC(=O)O)CC(=O)O)CC(=O)O
+Mycobacillin	N1[C@@H](C)C(=O)N[C@H](CC(O)=O)C(=O)N2[C@H](C(=O)N[C@H](CC(O)=O)C(=O)N[C@H](CCC(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CO)C(=O)N[C@H](CC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@H](CCC(=O)N[C@H](CC(O)=O)C1=O)C(=O)O)C(=O)O)CCC2
 Ferrichrome	CC(=O)N(CCCC1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NCC(=O)NCC(=O)N1)CCCN(C(=O)C)[O-])CCCN(C(=O)C)[O-])[O-].[Fe+3]
 Lucimycin	CCCCC1CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC3C(O3)C=CC(=O)O1)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O
 Maitansine	C/C(CC1=CC(OC)=C(Cl)C(N3C)=C1)=C\C=C\[C@@H](OC)[C@@]2(O)C[C@]([C@@H](C)[C@H]4[C@](O4)(C)[C@@H](OC([C@H](C)N(C)C(C)=O)=O)CC3=O)([H])OC(N2)=O
@@ -14141,3 +14140,11 @@ Oxogestone	CC(C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)O
 Oxogestone phenpropionate	CC(C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)OC(=O)CCC5=CC=CC=C5
 Gestadienol	CC(=O)C1(CCC2C1(CCC3C2C=CC4=CC(=O)CCC34)C)O
 Acrylfentanyl	C=CC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
+Cismadinone	CC(=O)C1(CCC2C1(CCC3C2CC(C4=CC(=O)C=CC34C)Cl)C)O
+Cismadinone acetate	CC(=O)C1(CCC2C1(CCC3C2CC(C4=CC(=O)C=CC34C)Cl)C)OC(=O)C
+Clogestone	CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(CCC34C)O)Cl)C)O
+Clogestone acetate	CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(CCC34C)OC(=O)C)Cl)C)OC(=O)C
+Clomegestone	CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)O)C)C)Cl
+Clomegestone acetate	CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)OC(=O)C)C)C)Cl
+Norethisterone acetate oxime	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=NO)CCC34)C)C#C
+Dopamine (medication)	c1cc(c(cc1CCN)O)O
