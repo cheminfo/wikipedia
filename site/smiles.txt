@@ -1888,7 +1888,6 @@ Aldicarb	O=C(O\N=C\C(SC)(C)C)NC
 Bortezomib	O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
 1,1'-Bi-2-naphthol	c1ccc2c(c1)ccc(c2c3c4ccccc4ccc3O)O
 Benzothiazole	n1c2ccccc2sc1
-Alloxan	O=C1C(=O)NC(=O)NC1=O
 Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4cc-5c(cc4O)CCc6c5c(c(cc6)O)O2)O
 Chlorobenzene	c1ccc(cc1)Cl
 Vinyl acetate	C=COC(C)=O
@@ -10345,7 +10344,7 @@ Hexyl acetate	O=C(OCCCCCC)C
 E-64	OC([C@@H]1[C@@H](C(N[C@@H](CC(C)C)C(NCCCCNC(N)=N)=O)=O)O1)=O
 CSP-2503	O=C4N5CCCC5C(=O)N(CN3CCN(c2c1ccccc1ccc2)CC3)C4
 Pyoverdine	CC(C1C(=O)NC(C(=O)NCCCCC(C(=O)NC(C(=O)N1)CCCN(C=O)O)NC(=O)C(CCCN(C=O)O)NC(=O)C(CO)NC(=O)C(CCCN=C(N)N)NC(=O)C(CO)NC(=O)C2CCNC3N2C4=CC(=C(C=C4C=C3NC(=O)CCC(C(=O)O)N)O)O)C(C)O)O
-BEZ235	N#CC(c6ccc(N5c4c(cnc3ccc(c1cc2ccccc2nc1)cc34)N(C5=O)C)cc6)(C)C
+Dactolisib	N#CC(c6ccc(N5c4c(cnc3ccc(c1cc2ccccc2nc1)cc34)N(C5=O)C)cc6)(C)C
 Copper peptide GHK-Cu	O=C(N[C@@H](CC1=CN=CN1)C(N[C@@H](CCCCN)C(O)=O)=O)CN
 Proxorphan	c1cc2c(cc1O)C34CCN(C(C2)C3CCOC4)CC5CC5
 Adrenorphin	O=C(N)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)Cc2ccccc2)CCSC)CCC/N=C(\N)N)CCC/N=C(\N)N)C(C)C
@@ -11045,7 +11044,7 @@ Thiocarbonic acid	C(=S)(S)S
 Chebulic acid	c1c2c(c(c(c1O)O)O)[C@@H]([C@H](OC2=O)C(=O)O)[C@H](CC(=O)O)C(=O)O
 Promin	[Na+].[Na+].[O-]S(=O)(=O)[C@H](Nc1ccc(cc1)S(=O)(=O)c2ccc(N[C@@H](S([O-])(=O)=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc2)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Beloranib	O=C(O[C@H]2[C@@H](OC)[C@@H]([C@]1(OC1)CC2)[C@]3(O[C@@H]3C\C=C(/C)C)C)\C=C\c4ccc(OCCN(C)C)cc4
-NVP-AUY922	CC(C)c1cc(c(O)cc1O)c2onc(C(=O)NCC)c2c3ccc(cc3)CN4CCOCC4
+Luminespib	CC(C)c1cc(c(O)cc1O)c2onc(C(=O)NCC)c2c3ccc(cc3)CN4CCOCC4
 Selumetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO
 Hexasulfur	S1SSSSS1
 Dimethyl disulfide	S(SC)C
@@ -11310,7 +11309,7 @@ Org 25935	O=C(O)CN(C)C[C@@H]2[C@@H](c1c(cc(OC)cc1)CC2)c3ccccc3
 Mazapertine	O=C(N1CCCCC1)c2cc(ccc2)CN4CCN(c3ccccc3OC(C)C)CC4
 Propyl hexanoate	CCCCCC(=O)OCCC
 Miquelianin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
-CYT387	c1cc(ccc1c2ccnc(n2)Nc3ccc(cc3)N4CCOCC4)C(=O)NCC#N
+Momelotinib	c1cc(ccc1c2ccnc(n2)Nc3ccc(cc3)N4CCOCC4)C(=O)NCC#N
 2,2-Di-2-furylpropane	o1c(ccc1)C(c2occc2)(C)C
 Org 26576	C1C[C@H]2COC3=C(C=CC=N3)C(=O)N2C1
 Eupalin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=C(C(=C3C2=O)O)OC)OC)C4=CC=C(C=C4)O)O)O)O
@@ -13506,7 +13505,7 @@ Ombitasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C(=O)Nc2ccc(cc2)[C@@H]3CC[C@H](N3c4ccc(cc
 Dasabuvir	CC(C)(C)c1cc(cc(c1OC)c2ccc3cc(ccc3c2)NS(=O)(=O)C)n4ccc(=O)[nH]c4=O
 Tipiracil	C1CC(=N)N(C1)Cc2c(c(=O)[nH]c(=O)[nH]2)Cl
 Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
-Testosterone isocaproate	CC(C)CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+Testosterone isocaproate	CC(C)CCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	CN1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
@@ -14146,5 +14145,23 @@ Clogestone	CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(CCC34C)O)Cl)C)O
 Clogestone acetate	CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(CCC34C)OC(=O)C)Cl)C)OC(=O)C
 Clomegestone	CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)O)C)C)Cl
 Clomegestone acetate	CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)OC(=O)C)C)C)Cl
-Norethisterone acetate oxime	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=NO)CCC34)C)C#C
+Norethisterone acetate oxime	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O)/CC[C@H]34)C)C#C
 Dopamine (medication)	c1cc(c(cc1CCN)O)O
+Testosterone cyclohexylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCCC4)CCC5=CC(=O)CC[C@]35C
+Testosterone cyclopentanepropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=CC(=O)CC[C@]35C
+Testosterone furoate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2OC(=O)c5occc5
+Testosterone hexahydrobenzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4CCCCC4)CCC5=CC(=O)CC[C@]35C
+Testosterone hexahydrobenzylcarbonate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)OCC4CCCCC4)CCC5=CC(=O)CC[C@]35C
+Testosterone hexyloxyphenylpropionate	CCCCCCOC1=CC=C(C=C1)CCC(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
+Testosterone isobutyrate	CC(C)C(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+Testosterone nicotinate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4=CN=CC=C4)CCC5=CC(=O)CC[C@]35C
+Testosterone phenpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@]35C
+Testosterone phenylacetate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=CC=C4)CCC5=CC(=O)CC[C@]35C
+Testosterone phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=CC(=O)CC[C@]34C
+Androstanolone benzoate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC(=O)C5=CC=CC=C5)C
+Androstanolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Androstanolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Androstanolone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Dihydrotestosterone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Dihydrotestosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Dihydrotestosterone formate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC=O)C
