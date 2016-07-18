@@ -2889,6 +2889,7 @@ Betanin	OCC1[C@@H](O)[C@@H](O)[C@H](O)[C@@H](OC2=C(O)C=C(/[N+]([C@@H]([C@]([O-])
 Ethyl salicylate	O=C(OCC)c1ccccc1O
 Jasmonic acid	CC/C=C\C[C@@H]1[C@H](CCC1=O)CC(=O)O
 Acetyldigitoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)CC[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@@H]([C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@@H](OC(=O)C)C3)[C@@H](O)C4)C)[C@@H](O)C5)C)C6
+Testosterone cypionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=CC(=O)CC[C@]35C
 Tolcapone	[O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
 Indium arsenide	[As]#[In]
 Aluminium monostearate	CCCCCCCCCCCCCCCCCC(O[Al](O)O)=O
@@ -4496,7 +4497,7 @@ Queuine	C1=C[C@@H]([C@@H]([C@H]1NCC2=CNC3=C2C(=O)NC(=N3)N)O)O
 Tetraxenonogold(II)	[Xe][Au+2]([Xe])([Xe])[Xe]
 Metirosine	O=C(O)[C@@](N)(Cc1ccc(O)cc1)C
 Ammonium sulfamate	[O-]S(=O)(=O)N.[NH4+]
-4-Chlorodehydromethyltestosterone	O=C1\C=C/[C@]4(/C(=C1/Cl)CC[C@@H]3[C@@H]4CC[C@]2([C@H]3CC[C@@]2(O)C)C)C
+Chlorodehydromethyltestosterone	O=C1\C=C/[C@]4(/C(=C1/Cl)CC[C@@H]3[C@@H]4CC[C@]2([C@H]3CC[C@@]2(O)C)C)C
 Indiplon	O=C(C1=CC=CS1)C2=C3N=CC=C(C4=CC(N(C)C(C)=O)=CC=C4)N3N=C2
 Cyclopentanol	C1CCC(C1)O
 Halomon	Cl[C@](C(Cl)=C)(CC[C@@H](Br)C(Cl)(C)C)CBr
@@ -9882,6 +9883,7 @@ Kumatakenin	COC1=CC(=C2C(=C1)OC(=C(C2=O)OC)C3=CC=C(C=C3)O)O
 Axillarin	COC1=C(C=C2C(=C1O)C(=O)C(=C(O2)C3=CC(=C(C=C3)O)O)OC)O
 Diaziridine	N1NC1
 Estriol succinate	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1C[C@@H](OC(=O)CCC(O)=O)[C@@H]2OC(=O)CCC(O)=O
+Testosterone ketolaurate	CCCCCCCCCC(=O)CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Gantacurium chloride	C[N@+]1(CCC2=CC(=C(C=C2[C@H]1CC3=CC(=C(C(=C3)OC)OC)OC)OC)OC)CCCOC(=O)/C(=C/C(=O)OCCC[N@+]4(CCC5=CC(=C(C=C5[C@@H]4C6=CC(=C(C(=C6)OC)OC)OC)OC)OC)C)/Cl.[Cl-].[Cl-]
 Europetin	COC1=CC(=C2C(=C1)OC(=C(C2=O)O)C3=CC(=C(C(=C3)O)O)O)O
 Mearnsetin	COC1=C(C=C(C=C1O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
@@ -11377,6 +11379,7 @@ Diquafosol	O=C1\C=C/N(C(=O)N1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP(=O)(O)OP(=O)(O
 Bilastine	O=C(O)C(c1ccc(cc1)CCN4CCC(c2nc3ccccc3n2CCOCC)CC4)(C)C
 Floctafenine	FC(F)(F)c1cccc2c(ccnc12)Nc3ccccc3C(=O)OCC(O)CO
 Petasin	O=C2/C=C1/CC[C@@H](OC(=O)\C(=C/C)C)[C@@H]([C@]1(C[C@H]2\C(=C)C)C)C
+Testosterone phenylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@]35C
 Quinalphos	CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1
 Silver permanganate	[Ag+].[O-][Mn](=O)(=O)=O
 Barium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ba+2]
@@ -13262,7 +13265,7 @@ PF-4455242	CC(C)CNCC1=CC=C(C=C1)C2=CC=CC=C2S(=O)(=O)N3CCCC3
 Apricoxib	CCOC1=CC=C(C=C1)C2=CC(=CN2C3=CC=C(C=C3)S(=O)(=O)N)C
 ADB-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)NC(C(=O)N)C(C)(C)C
 Benzenesulfonyl chloride	C1=CC=C(C=C1)S(=O)(=O)Cl
-NRX-1074	C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@@]2(Cc3ccccc3)C(=O)N[C@@H]([C@@H](C)O)C(N)=O
+Apimostinel	C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@@]2(Cc3ccccc3)C(=O)N[C@@H]([C@@H](C)O)C(N)=O
 CERC-301	CC1=CC=C(C=C1)COC(=O)N2CC[C@@H]([C@@H](C2)F)CNC3=NC=CC=N3
 2-Phenylpyridine	c1ccc(cc1)c2ccccn2
 Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
@@ -13800,7 +13803,7 @@ Fludioxonil	c1cc(c2c(c1)OC(O2)(F)F)c3c[nH]cc3C#N
 Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 14-Methoxydihydromorphinone	CO[C@]12CCC(=O)[C@@H]3OC4=C5C(C[C@H]1N(C)CC[C@@]235)=CC=C4O
 4-Chloromethcathinone	ClC1=CC=C(C(C(C)NC)=O)C=C1
-ODM-201	C[C@@H](Cn1ccc(n1)c2ccc(c(c2)Cl)C#N)NC(=O)c3cc([nH]n3)C(C)O
+Darolutamide	C[C@@H](Cn1ccc(n1)c2ccc(c(c2)Cl)C#N)NC(=O)c3cc([nH]n3)C(C)O
 Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#N)F
 1,3-Diisocyanatobenzene	c1cc(cc(c1)N=C=O)N=C=O
 1,1,1-Tribromoethane	CC(Br)(Br)Br
@@ -13883,6 +13886,7 @@ Finerenone	CCOc1c2c(c(cn1)C)NC(=C([C@H]2c3ccc(cc3OC)C#N)C(=O)N)C
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
 Tebufenpyrad	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl
 Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
+Granadaene	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC(C)C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)N[C@@H](CCCN)C(=O)O)O)O)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
 Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
@@ -14059,6 +14063,7 @@ AUTEN-67	c1ccc2c(c1)C(=O)C(=C(C2=O)n3cnc4c3cccc4)NS(=O)(=O)c5ccc(cc5)[N+](=O)[O-
 8-Mercaptoquinoline	c1cc2cccnc2c(c1)S
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
+Α-Hederin	[H][C@@]1(O[C@@H]2[C@@H](O)[C@H](O)[C@H](C)O[C@@]2([H])O[C@H]2CC[C@@]3(C)[C@@]([H])(CC[C@]4(C)[C@]3([H])CC=C3[C@]5([H])CC(C)(C)CC[C@@]5(CC[C@@]43C)C(O)=O)[C@]2(C)CO)O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O
 Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
 Portentol	C[C@@H]1[C@H](O[C@@]2([C@@H]([C@@H]1O)C)[C@H]([C@@H]3[C@H](C(=O)[C@]2(C(=O)O3)C)C)C)C
@@ -14148,14 +14153,12 @@ Clomegestone acetate	CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)OC(=O)C)C)C)Cl
 Norethisterone acetate oxime	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O)/CC[C@H]34)C)C#C
 Dopamine (medication)	c1cc(c(cc1CCN)O)O
 Testosterone cyclohexylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCCC4)CCC5=CC(=O)CC[C@]35C
-Testosterone cyclopentanepropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=CC(=O)CC[C@]35C
 Testosterone furoate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2OC(=O)c5occc5
 Testosterone hexahydrobenzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4CCCCC4)CCC5=CC(=O)CC[C@]35C
 Testosterone hexahydrobenzylcarbonate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)OCC4CCCCC4)CCC5=CC(=O)CC[C@]35C
 Testosterone hexyloxyphenylpropionate	CCCCCCOC1=CC=C(C=C1)CCC(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
 Testosterone isobutyrate	CC(C)C(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Testosterone nicotinate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4=CN=CC=C4)CCC5=CC(=O)CC[C@]35C
-Testosterone phenpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@]35C
 Testosterone phenylacetate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=CC=C4)CCC5=CC(=O)CC[C@]35C
 Testosterone phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=CC(=O)CC[C@]34C
 Androstanolone benzoate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC(=O)C5=CC=CC=C5)C
@@ -14165,3 +14168,4 @@ Androstanolone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[
 Dihydrotestosterone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Dihydrotestosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Dihydrotestosterone formate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC=O)C
+Nandrolone 17-bis(2-chloroethyl)carbamate	[H][C@@]12CC[C@H](OC(=O)N(CCCl)CCCl)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
