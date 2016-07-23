@@ -7613,7 +7613,7 @@ Altropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2C\C=C\I)C[C@@H]1C3=CC=C(C=C3)F
 RTI-150	CC1=CC=C(C=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC4CCC4)N3C
 (-)-2β-(1,2,4-Oxadiazol-5-methyl)-3β-phenyltropane	CC1=NOC(=N1)[C@H]2[C@H](CC3CCC2N3C)C4=CC=CC=C4
 Fludorex	CNCC(C1=CC(=CC=C1)C(F)(F)F)OC
-(-)-2β-(3-(4-Methylphenyl)isoxazol-5-yl)-3β-(4-chlorophenyl)tropane	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
+RTI-336	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
 Alpha-Methylhistamine	CC(N)CC1=CNC=N1
 Alpha-Methylhistamine	CC(CC1=CN=CN1)N
 Drometrizole trisiloxane	CC(CC1=C(O)C(=CC(C)=C1)N1N=C2C=CC=CC2=N1)C[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C
@@ -13575,7 +13575,7 @@ Isopropylphenidate	C1(=CC=CC=C1)C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
 Chidamide	NC1=C(NC(=O)C2=CC=C(CNC(=O)\C=C\C3=CN=CC=C3)C=C2)C=C(F)C=C1
 AT-076	CC(C)[C@@H](CN1CCC(CC1)C2=CC(=CC=C2)O)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
-BU09059	Oc3cccc(c3)C1(C)CCN(CC1C)CC(C(=O)OCC)NC(=O)C(NCc2c4)Cc2ccc4O
+BU09059	CCOC(=O)C(CN1CC[C@](C)([C@@H](C)C1)c2cccc(O)c2)NC(=O)[C@H]3Cc4ccc(O)cc4CN3
 Samatasvir	c9ccccc9C(NC(=O)OC)C(=O)N3CCCC3c8[nH]cc(n8)-c7ccc(cc7)-c6csc1c(csc16)-c(ccc4n5)cc4[nH]c5C2CCCN2C(=O)C(C(C)C)NC(=O)OC
 RTA 408	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(C(=O)OC)CCC(C)(C)C[C@H]12)(C)[C@]3(C)CC[C@H]5C4(C)C)C
 Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
