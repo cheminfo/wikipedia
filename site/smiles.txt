@@ -12199,7 +12199,8 @@ Hydrangeic acid	Oc2ccc(cc2)\C=C\c(c1C(O)=O)cccc1O
 Isocodeine	O[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Desocodeine	O(c2c1O[C@@H]5[C@@]34c1c(cc2)C[C@@H](N(CC3)C)[C@@H]4CCC5)C
 Chlorohydroxyphenylglycine	Clc1ccc(O)cc1C(N)C(=O)O
-TAS-108	O=C(O)C(O)(CC(=O)O)CC(=O)O.O(c5cc(ccc5OCC[C@H]3CC[C@H]4[C@H]2[C@@H](c1ccc(O)cc1C[C@H]2C)CC[C@]34C)CN(CC)CC)C
+TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC
+TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Cyclotetradecane	C1CCCCCCCCCCCCC1
 Cyclotridecane	C1CCCCCCCCCCCC1
 Tris(2-chloroethyl) phosphate	ClCCOP(=O)(OCCCl)OCCCl
