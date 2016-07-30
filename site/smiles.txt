@@ -13987,7 +13987,7 @@ Heptafulvene	C=C\1/C=C\C=C/C=C/1
 Talazoparib	Cn1c(ncn1)[C@H]2c3c4c(cc(cc4N[C@@H]2c5ccc(cc5)F)F)c(=O)[nH]n3
 Nitrazolam	Cc1nnc2CN=C(c3ccccc3)c4cc(ccc4n12)[N+]([O-])=O
 Fructoselysine	C(CCNCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)C[C@@H](C(=O)O)N
-Cannabinodiol	CCCCCc1cc(c(c(c1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
+Cannabinodiol	CCCCCC1=CC(=C(C(=C1)O)C2=C(C=CC(=C2)C)C(=C)C)O
 Coronaric acid	CCCCC/C=C\CC1C(O1)CCCCCCCC(=O)O
 Tobias acid	C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N
 BIA 10-2474	O=C(N1C=C(C2=C[N+]([O-])=CC=C2)N=C1)N(C3CCCCC3)C
@@ -14193,4 +14193,5 @@ Amadinone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@H]34)Cl)C)
 Amadinone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@H]34)Cl)C)OC(=O)C
 Chloroethynyl norgestrel	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#CCl)O)CCC4=CC(=O)CC[C@H]34
 Isoferulic acid	COC1=C(C=C(C=C1)C=CC(=O)O)O
-Lugdunin	CC(C)C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C2N[C@@H](CS2)C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)Cc3c[nH]c4c3cccc4)C(C)C)CS)C(C)C)C(C)C)C(C)C
+Lugdunin	CC(C)C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C2N[C@@H](CS2)C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)Cc3c[nH]c4c3cccc4)C(C)C)C(C)C)C(C)C)C(C)C
+O-Desmethylangolensin	CC(c1ccc(cc1)O)C(=O)c2ccc(cc2O)O
