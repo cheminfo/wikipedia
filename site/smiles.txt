@@ -1094,7 +1094,7 @@ Ethanolamine	C(CO)N
 Bisphenol A	Oc1ccc(cc1)C(c2ccc(O)cc2)(C)C
 Trehalose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O
 N-Methylethanolamine	CNCCO
-Bombesin	C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]4CCC(=O)N4
+Bombesin	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](Cc3c[nH]cn3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]4CCC(=O)N4
 Ezetimibe/simvastatin	Fc1ccc(cc1)[C@H](O)CC[C@@H]4[C@@H](c2ccc(O)cc2)N(c3ccc(F)cc3)C4=O.CC(C)(CC)C(=O)O[C@H]2C[C@@H](C)\C=C3\C=C/[C@H](C)[C@H](CC[C@@H]1C[C@@H](O)CC(=O)O1)[C@@H]23
 Squalene	CC(=CCC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)/C)/C)C
 Astaxanthin	O=C2\C(=C(\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C1=C(\C(=O)[C@@H](O)CC1(C)C)C)C)C)C)C)C(C)(C)C[C@@H]2O)C
