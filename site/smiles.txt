@@ -13520,7 +13520,7 @@ Testosterone isocaproate	CC(C)CCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	CN1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
-Indacaterol/glycopyrrolate	CCC1=C(C=C2CC(CC2=C1)NCC(C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC.C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
+Indacaterol/glycopyrronium bromide	CCC1=C(C=C2CC(CC2=C1)NCC(C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC.C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
 Camalexin	c1ccc2c(c1)c(c[nH]2)c3nccs3
 Strictosidine	COC(=O)C1=CO[C@H]([C@@H]([C@@H]1C[C@H]2C3=C(CCN2)C4=CC=CC=C4N3)C=C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Tabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccccc5N3)C(=O)OC
@@ -14055,6 +14055,7 @@ Allyl mercaptan	C=CCS
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
 Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N[C@@H]3[C@@H]([C@H]([C@@H]4[C@H]([C@@H]3O)OCO4)O)O
+Niraparib	c1cc2cn(nc2c(c1)C(=O)N)c3ccc(cc3)[C@@H]4CCCNC4
 Biliatresone	O=C(C(C1=C(O)C=CC=C1)=C)C2=C(OC)C3=C(OCO3)C=C2OC
 Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
