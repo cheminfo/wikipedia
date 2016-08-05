@@ -2698,7 +2698,7 @@ Menadione	O=C\2c1c(cccc1)C(=O)/C(=C/2)C
 Phylloquinone	CC1=C(C(=O)c2ccccc2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C
 Iron(II) fluoride	[Fe+2].[F-].[F-]
 Cobalt(II) fluoride	F[Co]F
-Copper gluconate	[Cu+].O[C@H]([C@@H](O)C([O-])=O)[C@H](O)[C@H](O)CO
+Copper gluconate	C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.[Cu+2]
 Juglone	O=C\2c1c(c(O)ccc1)C(=O)/C=C/2
 Ampicillin/sulbactam	O=C(OCOC(=O)[C@@H]2N1C(=O)C[C@H]1S(=O)(=O)C2(C)C)C4N5C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]5SC4(C)C.OS(=O)(=O)c1ccc(C)cc1
 Curium(III) oxide	[O--].[O--].[O--].[Cm+3].[Cm+3]
