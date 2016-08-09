@@ -3388,7 +3388,7 @@ Leptomycin	OC(=O)\C=C(/C)C[C@H](C)[C@@H](O)[C@H](C)C(=O)[C@H](C)/C=C(\C)/C=C/C[C
 Perillaldehyde	O=C\C1=C\CC(\C(=C)C)CC1
 Perillartine	CC([C@H]1CCC(/C=N/O)=CC1)=C
 Padimate O	O=C(OCC(CC)CCCC)c1ccc(N(C)C)cc1
-Padimate A	O=C(OCCCCC)c1ccc(N(C)C)cc1
+Padimate A	CC(C)CCOC(=O)c1ccc(cc1)N(C)C
 1,2-Dimethoxybenzene	COc1ccccc1OC
 Plutonium hydride	[H-].[H-].[Pu++]
 Lamivudine/zidovudine	C/C1=C/N(C(=O)NC1=O)[C@H]2C[C@H](\N=[N+]=[N-])[C@@H](CO)O2.N/C1=N/C(=O)N(/C=C1)[C@@H]2O[C@H](CO)SC2
