@@ -278,7 +278,6 @@ Chlorpromazine	CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
 Alpha-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
-Hydrogen sulfide	S
 Ibuprofen	CC(C)Cc1ccc(cc1)C(C)C(=O)O
 Fluoride	[F-]
 Sodium bicarbonate	[Na+].OC([O-])=O
@@ -12967,10 +12966,10 @@ Ungeremine	C1C[N+]2=CC3=CC4=C(C=C3C5=CC(=CC1=C52)O)OCO4
 Azastene	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC=C4[C@@]3(CC5=C(C4(C)C)ON=C5)C
 Benorterone	CC12CCC(=O)C=C1CC3C2CCC4(C3CCC4(C)O)C
 Cloxotestosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(C(Cl)(Cl)Cl)O)CCC4=CC(=O)CC[C@]34C
-Delanterone	C[C@H]1CC(=O)C=C2[C@]1([C@H]3CC[C@@]4(C=CC[C@H]4[C@@H]3CC2)C)C
+Delanterone	CC1CC(=O)C=C2C1(C3CCC4(C=CCC4C3CC2)C)C
 Epostane	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@]45[C@@]3(CC(=C([C@]4(O5)C)O)C#N)C
 Hydroxyflutamide	CC(C)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
-Inocoterone	CCC1=C2CC[C@]3([C@H]([C@@H]2CCC1=O)CC[C@@H]3O)C
+Inocoterone	CCC1=C2CCC3(C(C2CCC1=O)CCC3O)C
 Liarozole	C1=CC(=CC(=C1)Cl)C(C2=CC3=C(C=C2)N=CN3)N4C=CN=C4
 Metogest	C[C@]12CC[C@H]3[C@H]([C@@H]1CC([C@@H]2O)(C)C)CCC4=CC(=O)CC[C@H]34
 Nordinone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@@H](CC4=C3CCC4(C)C)O
@@ -14207,3 +14206,4 @@ Thorocene	[Th].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][
 Neptunocene	[Np].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
 Plutonocene	[Pu].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
+4'-fluoro-cannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
