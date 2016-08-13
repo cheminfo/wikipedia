@@ -278,6 +278,7 @@ Chlorpromazine	CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
 Alpha-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
+Hydrogen sulfide	S
 Ibuprofen	CC(C)Cc1ccc(cc1)C(C)C(=O)O
 Fluoride	[F-]
 Sodium bicarbonate	[Na+].OC([O-])=O
@@ -12576,6 +12577,7 @@ Pregomisin	C[C@H](Cc1cc(c(c(c1)OC)OC)O)[C@@H](C)Cc2cc(c(c(c2)OC)OC)O
 4-Methoxycinnamaldehyde	COC1=CC=C(C=C1)/C=C/C=O
 Daphnoretin	COC1=C(C=C2C(=C1)C=C(C(=O)O2)OC3=CC4=C(C=C3)C=CC(=O)O4)O
 Cryptopine	CN1CCc2cc(c(cc2C(=O)Cc3ccc4c(c3C1)OCO4)OC)OC
+Fangchinoline	C12=CC(=C3C=C1[C@@H](N(CC2)C)CC4=CC=C(C=C4)OC5=CC(C[C@]6(C=7C(=C(C(=CC7CCN6C)OC)O)O3)[H])=CC=C5OC)OC
 Acetylcorynoline	CC(=O)O[C@H]1CC2=CC3=C(C=C2[C@@H]4[C@]1(C5=C(CN4C)C6=C(C=C5)OCO6)C)OCO3
 Corydaline	C[C@@H]1[C@@H]2C3=CC(=C(C=C3CCN2CC4=C1C=CC(=C4OC)OC)OC)OC
 Corynoline	O1c2c(OC1)c3c(cc2)[C@@]5([C@H](N(C3)C)c4cc6OCOc6cc4C[C@@H]5O)C
@@ -14210,3 +14212,10 @@ GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
 DIMP (antiandrogen)	CC1=C(C(=NO1)C)CN2C(=O)C3=CC=CC=C3C2=O
 Acetothiolutamide	CC(=O)NC1=CC=C(C=C1)SCC(C)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
+LG-121071	CCC1CCNC2=C1C=C3C(=CC(=O)NC3=C2)C(F)(F)F
+Spirodiclofen	CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)c3cc(cc(c3)Cl)Cl
+17α-Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
+Tetronic acid	O=C1CC(CO1)=O
+Tetronic acid	O=C1C=C(O)CO1
+R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
+11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
