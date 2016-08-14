@@ -2440,7 +2440,7 @@ Diisopropyl azodicarboxylate	O=C(OC(C)C)\N=N/C(OC(C)C)=O
 Bazedoxifene	Oc1ccc(cc1)c3c(c2cc(O)ccc2n3Cc5ccc(OCCN4CCCCCC4)cc5)C
 Zinc iodide	I[Zn]I
 Diazald	Cc1ccc(cc1)S(=O)(=O)N(C)N=O
-Pentyl	[CH2]CCCC
+Pentyl group	[CH2]CCCC
 Pittsburgh compound B	[11CH3]NC1=CC=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O
 Fluorosulfuric acid	OS(F)(=O)=O
 Isocyanic acid	O=C=[N@H]
@@ -13950,7 +13950,7 @@ Cloxestradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(C(Cl)(Cl)Cl)O)
 Cloxestradiol acetate	CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC(C(Cl)(Cl)Cl)OC(=O)C)C
 Methestrol dipropionate	CCC(C1=CC(=C(C=C1)OC(=O)CC)C)C(CC)C2=CC(=C(C=C2)OC(=O)CC)C
 Estrapronicate	CCC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC(=O)C5=CN=CC=C5)C
-Nilestriol	CC12CCC3C(C1CC(C2(C#C)O)O)CCC4=C3C=CC(=C4)OC5CCCC5
+Nilestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@]2(C#C)O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 Orestrate	CCC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3CC2)CCC4OC5=CCCCC5)C
 Diarylpropionitrile	C1=CC(=CC=C1CC(C#N)C2=CC=C(C=C2)O)O
 Propylpyrazoletriol	CCCC1=C(N(NC1=C2C=CC(=O)C=C2)C3=CC=C(C=C3)O)C4=CC=C(C=C4)O
@@ -14208,7 +14208,7 @@ Thorocene	[Th].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][
 Neptunocene	[Np].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
 Plutonocene	[Pu].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
-4'-fluoro-cannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+4'-Fluorocannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
 DIMP (antiandrogen)	CC1=C(C(=NO1)C)CN2C(=O)C3=CC=CC=C3C2=O
 Acetothiolutamide	CC(=O)NC1=CC=C(C=C1)SCC(C)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
@@ -14219,3 +14219,4 @@ Tetronic acid	O=C1CC(CO1)=O
 Tetronic acid	O=C1C=C(O)CO1
 R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
+Ethinyl estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC(C4=C3C=CC(=C4)O)O
