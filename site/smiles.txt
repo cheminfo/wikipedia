@@ -216,7 +216,7 @@ Sodium chloride	[Na+].[Cl-]
 Coenzyme A	O=C(NCCS)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
 Lipoamide	O=C(N)CCCC[C@H]1SSCC1
 Glutathione	C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
-Acetyl	C[C]=O
+Acetyl group	C[C]=O
 Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
@@ -1526,7 +1526,7 @@ Isoxathion	S=P(Oc2noc(c1ccccc1)c2)(OCC)OCC
 Thiazole	n1ccsc1
 Pyridinium chlorochromate	C1=CC=[NH+]C=C1.[O-][Cr](=O)(=O)Cl
 Acetyl chloride	ClC(=O)C
-Sulfur monoxide	o:s
+Sulfur monoxide	O=S
 Dihydroxyacetone phosphate	C(C(=O)COP(=O)(O)O)O
 Thiourea	C(=S)(N)N
 Nalidixic acid	O=C\2c1c(nc(cc1)C)N(/C=C/2C(=O)O)CC
@@ -4001,7 +4001,7 @@ Bis-(2,4,5-trichloro-6-(pentyloxycarbonyl)phenyl)oxalate	Clc2c(C(=O)OCCCCC)c(OC(
 Acetylcarnitine	[O-]C(=O)C[C@@H](OC(=O)C)C[N+](C)(C)C
 Sitafloxacin	F[C@H]5C[C@H]5N2/C=C(/C(=O)O)C(=O)c1cc(F)c(c(Cl)c12)N4C[C@@H](N)C3(CC3)C4
 Chrysin	O=C\1c3c(O/C(=C/1)c2ccccc2)cc(O)cc3O
-Azinphos-methyl	COP(=S)(OC)SCn1nnc2ccccc2c1:o
+Azinphos-methyl	COP(=S)(OC)SCn1nnc2ccccc2c1=O
 Ammonium hexachloroplatinate	[NH4+].[NH4+].Cl[Pt-2](Cl)(Cl)(Cl)(Cl)Cl
 Lithium amide	[Li+].[NH2-]
 Pindone	O=C2c1ccccc1C(=O)C2C(=O)C(C)(C)C
@@ -5318,7 +5318,7 @@ Dimethylbenzylamine	N(C)(Cc1ccccc1)C
 Dodecylbenzene	c1ccccc1CCCCCCCCCCCC
 Beta-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)CO)([H])N[C@@]4=O)=O
 Gamma-Amanitin	CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H]2CS(=O)c3c(c4ccc(cc4[nH]3)O)C[C@@H](C(=O)NCC(=O)N1)NC(=O)[C@@H](NC(=O)[C@@H]5C[C@H](CN5C(=O)[C@@H](NC2=O)CC(=O)N)O)[C@@H](C)[C@H](C)O
-Roxarsone	OC1=CC=C(C=C1[N+]([O-])=O)[As](O)(O)=O
+Roxarsone	Oc1ccc(cc1[N+](=O)[O-])[As](O)(O)=O
 Phenylarsonic acid	O[As](O)(=O)C1=CC=CC=C1
 Retapamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4C[C@H]5CC[C@@H](C4)N5C)C
 Sodium salicylate	[Na+].O=C([O-])c1ccccc1O
@@ -10647,7 +10647,7 @@ AM-2233	Ic3ccccc3C(=O)c1cn(CC2CCCCN2C)c4c1cccc4
 Thianthrene	S1c3c(Sc2c1cccc2)cccc3
 Alpha-Tocotrienol	CC1=C(C(=C2CC[C@@](OC2=C1C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)C)O
 TM-38837	O=C(C1=NN(C2=CC=C(Cl)C=C2Cl)C(C3=CC=C(C#CC4=CC=C(C(F)(F)F)C=C4)S3)=C1CC)NN5CCCCC5
-2-Nitrofluorene	[O]N([O])C1=CC2=C(C=C1)C1=CC=CC=C1C2
+2-Nitrofluorene	[O-][N+](=O)c1ccc2c(Cc3ccccc-23)c1
 POPC	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Cycloheptanone	O=C1CCCCCC1
 Midostaurin	C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC
@@ -13661,6 +13661,7 @@ Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 6-EAPB	CCNC(CC1=CC2=C(C=CO2)C=C1)C
 Propylphenidate	C1(=CC=CC=C1)C(C(=O)OCCC)C2CCCCN2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F
+3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F.Cl
 AB-CHFUPYCA	O=C(NC(C(N)=O)C(C)C)C1=CC(C2=CC=C(F)C=C2)=NN1CC3CCCCC3
 ADB-CHMINACA	CC(C)(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c3ccccc13)C(N)=O
 Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
