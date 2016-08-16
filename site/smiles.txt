@@ -4632,7 +4632,7 @@ Dillapiole	O1c2cc(c(OC)c(OC)c2OC1)CC=C
 Methyl trifluoromethansulfonate	COS(=O)(=O)C(F)(F)F
 Methyl fluorosulfonate	FS(=O)(=O)OC
 Phenylmagnesium bromide	Br[Mg]c1ccccc1
-2,3-Dimethoxy-4,5-methylenedioxyamphetamine	CC(N)Cc1cc2OCOc2c(OC)c1OC
+DMMDA-2	CC(N)Cc1cc2OCOc2c(OC)c1OC
 Phosphorus pentafluoride	FP(F)(F)(F)F
 Argon fluorohydride	F[ArH]
 Capromorelin	CC(C)(C(=O)N[C@H](COCC1=CC=CC=C1)C(=O)N2CCC3=NN(C(=O)[C@@]3(C2)CC4=CC=CC=C4)C)N
@@ -5090,7 +5090,7 @@ Methylenedioxymethoxyethylamphetamine	CC(Cc1ccc2c(c1)OCO2)NCCOC
 Neurokinin B	CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc3c[nH]cn3)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(=O)O)N
 Lanreotide	C[C@H]([C@@H](C(=O)N)NC(=O)[C@@H]1CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C(C)C)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccc(cc4)O)NC(=O)[C@@H](Cc5ccc6ccccc6c5)N)O
 Plerixafor	N1CCNCCCN(CCNCCC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3
-Methylenedioxyhydroxyamphetamine	CC(CC1=CC2=C(C=C1)OCO2)NO
+3,4-Methylenedioxy-N-hydroxyamphetamine	CC(CC1=CC2=C(C=C1)OCO2)NO
 Acetone cyanohydrin	CC(C)(O)C#N
 Adenosine thiamine triphosphate	O=P(O)(OC[C@H]3O[C@@H](n1c2ncnc(N)c2nc1)[C@H](O)[C@@H]3O)OP(=O)(O)OP(=O)(O)OCCc4sc[n+](c4C)Cc5c(nc(nc5)C)N
 Cefquinome	O=C4[C@@H](NC(=O)C(=N\OC)/c1csc(N)n1)[C@H]5SC\C(C[n+]3cccc2CCCCc23)=C(/N45)C([O-])=O
@@ -5140,7 +5140,7 @@ Dinonylnaphthylsulfonic acid	O=S(=O)(O)c2c1ccccc1cc(c2CCCCCCCCC)CCCCCCCCC
 Diiodotyrosine	Ic1cc(cc(I)c1O)C[C@@H](C(=O)O)N
 Monoiodotyrosine	c1cc(c(cc1C[C@@H](C(=O)O)N)I)O
 Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
-Methylenedioxyphentermine	NC(C)(C)CC1=CC(OCO2)=C2C=C1
+3,4-Methylenedioxyphentermine	NC(C)(C)CC1=CC(OCO2)=C2C=C1
 S-Nitroso-N-acetylpenicillamine	O=C(N[C@@H](C(=O)O)C(SN=O)(C)C)C
 Hydroxyprogesterone caproate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)CCCCC)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 3C-BZ	CC(N)Cc2cc(OC)c(OCc1ccccc1)c(c2)OC
@@ -13664,7 +13664,8 @@ Propylphenidate	C1(=CC=CC=C1)C(C(=O)OCCC)C2CCCCN2
 3-Fluorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)F.Cl
 AB-CHFUPYCA	O=C(NC(C(N)=O)C(C)C)C1=CC(C2=CC=C(F)C=C2)=NN1CC3CCCCC3
 ADB-CHMINACA	CC(C)(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c3ccccc13)C(N)=O
-Ephenidine	CCNC(Cc1ccccc1)c2ccccc2
+Ephenidine	CCNC(CC1=CC=CC=C1)C2=CC=CC=C2
+Ephenidine	CCNC(CC1=CC=CC=C1)C2=CC=CC=C2.Cl
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
 Phenylarsine oxide	c1ccc(cc1)[As]=O
 Alpha-Pyrrolidinohexiophenone	C1(=CC=CC=C1)C(C(CCCC)N2CCCC2)=O
