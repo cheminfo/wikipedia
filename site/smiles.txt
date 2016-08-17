@@ -5147,7 +5147,7 @@ Hydroxyprogesterone caproate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)CCCCC)(C(
 3,4-Methylenedioxy-N-propylamphetamine	CC(NCCC)Cc1ccc2OCOc2c1
 Calcium formate	[Ca+2].[O-]C=O.[O-]C=O
 Tributyltin hydride	CCCC[SnH](CCCC)CCCC
-Methylenedioxypropargylamphetamine	CC(NCC#C)Cc1ccc2OCOc2c1
+3,4-Methylenedioxy-N-propargylamphetamine	CC(NCC#C)Cc1ccc2OCOc2c1
 Daigremontianin	O=C\1O\C=C(/C=C/1)[C@@H]6[C@]5(C(=O)[C@@H](O)[C@@H]7[C@]3(C=O)C4(OC2(O[C@@H](CC3O2)C4)C)CC[C@H]7[C@@]5(O)CC6)C
 Daigremontianin	C[C@@]12[C@@](CC[C@@H]2C(C=C3)=COC3=O)(O)[C@]4([H])CC[C@]5(OC6(C)O7)C[C@@H]7C[C@@H](O6)[C@]5(C=O)[C@@]4([H])[C@H](O)C1=O
 EDMA	CC(Cc1ccc2c(c1)OCCO2)NC
@@ -14071,6 +14071,7 @@ Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 ZCZ-011	Cc1ccc2c([nH]c(c3ccccc3)c2C(C[N+]([O-])=O)c4sccc4)c1
 GAT100	CCc1c([nH]c2ccc(cc12)N=C=S)C(=O)NCCc3ccc(cc3)N4CCCCC4
 PSNCBAM-1	Clc1ccc(NC(=O)Nc2cccc(c2)c3cccc(n3)N4CCCC4)cc1
+Dihydrokainic acid	CC(C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
 AUTEN-67	c1ccc2c(c1)C(=O)C(=C(C2=O)n3cnc4c3cccc4)NS(=O)(=O)c5ccc(cc5)[N+](=O)[O-]
