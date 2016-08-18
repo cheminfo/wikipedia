@@ -6308,7 +6308,7 @@ GTPgammaS	S=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n1cnc2c1NC(=N/C2=O)\N)[C@H]
 Methomyl	C/C(=N\OC(=O)NC)/SC
 Apamin	C[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)NC(C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)N)C(=O)N1)CC(C)C)C)[C@@H](C)O)CCC(=O)O)C)CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc4cnc[nH]4)C(=O)N)CCCNC(=N)N)CCCNC(=N)N
 N-Oxalylglycine	OC(=O)CNC(=O)C(O)=O
-Levophacetoperane	CC(O[C@H](C1=CC=CC=C1)[C@@H]2NCCCC2)=O
+Levophacetoperane	CC(=O)O[C@@H]([C@H]1CCCCN1)C2=CC=CC=C2
 Cyprodenate	O=C(OCCN(C)C)CCC1CCCCC1
 2-MDP	OC(c1ccccc1)(c2ccccc2)C(C)CN
 Dexoxadrol	O1C[C@@H](OC1(c2ccccc2)c3ccccc3)[C@H]4NCCCC4
@@ -14223,3 +14223,5 @@ Tetronic acid	O=C1C=C(O)CO1
 R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
 Ethinyl estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC(C4=C3C=CC(=C4)O)O
+10-Fluorocannabidiol diacetate	CCCCCc1cc(OC(C)=O)c([C@@H]2C=C(C)CC[C@H]2C(=C)CF)c(OC(C)=O)c1
+PZM21	c1cc(O)ccc1CC(N(C)C)CNC(=O)NC(C)Cc2cscc2
