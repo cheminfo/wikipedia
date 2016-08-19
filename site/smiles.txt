@@ -1716,7 +1716,7 @@ Guanidine nitrate	[O-][N+](=O)O.[N@H]=C(N)N
 Limonene	CC1=CCC(CC1)C(=C)C
 Acetoin	CC(=O)C(C)O
 Avizafone	Clc1cc(c(N(C(=O)CNC(=O)[C@@H](N)CCCCN)C)cc1)C(=O)c2ccccc2
-1,3-Benzodioxolyl-N-methylbutanamine	CCC(CC1=CC2=C(C=C1)OCO2)NC
+MBDB	CCC(CC1=CC2=C(C=C1)OCO2)NC
 1,8-Diazabicycloundec-7-ene	N\2=C1\N(CCCCC1)CCC/2
 Benzonatate	O=C(OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)c1ccc(NCCCC)cc1
 Phosphorus pentabromide	BrP(Br)(Br)(Br)Br
@@ -9055,7 +9055,7 @@ Dinoxyline	c3ccc(Oc24)c1c3CNCC1c4ccc(O)c2O
 Doxanthrine	c1ccc2c(c1)CN[C@H]3[C@H]2c4cc(c(cc4OC3)O)O
 Naphthol Green B	C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Fe+3]
 RTI-31	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC
-Methylenedioxyphenethylamine	C1OC2=C(O1)C=C(C=C2)CCN
+3,4-Methylenedioxyphenethylamine	C1OC2=C(O1)C=C(C=C2)CCN
 Homarylamine	CNCCC1=CC2=C(C=C1)OCO2
 Castanospermine	O[C@H]1CCN2[C@H]1[C@@H](O)[C@H](O)[C@@H](O)C2
 Diphenylmercury	c1ccc(cc1)[Hg]c2ccccc2
@@ -13418,6 +13418,7 @@ Metaglycodol	CC(C)(C(C)(c1cccc(c1)Cl)O)O
 Gamma-Hydroxybutyraldehyde	C(CC=O)CO
 Trans-4,5-Epoxy-(E)-2-decenal	CCCCCC1OC1\C=C\C=O
 Lanierone	CC1=CC(C=C(C1=O)O)(C)C
+2-Octyne	CC#CCCCCC
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
 Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
@@ -14223,5 +14224,7 @@ Tetronic acid	O=C1C=C(O)CO1
 R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
 Ethinyl estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC(C4=C3C=CC(=C4)O)O
+4-Octyne	CCCC#CCCC
+5-Decyne	CCCCC#CCCCC
 10-Fluorocannabidiol diacetate	CCCCCc1cc(OC(C)=O)c([C@@H]2C=C(C)CC[C@H]2C(=C)CF)c(OC(C)=O)c1
-PZM21	c1cc(O)ccc1CC(N(C)C)CNC(=O)NC(C)Cc2cscc2
+PZM21	O=C(NC[C@@H](N(C)C)Cc1ccc(O)cc1)N[C@@H](C)Cc2ccsc2
