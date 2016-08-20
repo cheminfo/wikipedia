@@ -9004,7 +9004,7 @@ Ammonium dihydrogen phosphate	[O-]P(=O)(O)O.[NH4+]
 Echinomycin	C[C@H]1C(=O)N([C@H]2CSC([C@@H](C(=O)N([C@H](C(=O)OC[C@H](C(=O)N1)NC(=O)c3cnc4ccccc4n3)C(C)C)C)N(C(=O)[C@@H](NC(=O)[C@@H](COC(=O)[C@@H](N(C2=O)C)C(C)C)NC(=O)c5cnc6ccccc6n5)C)C)SC)C
 Eslicarbazepine acetate	CC(=O)OC2Cc1ccccc1N(C(N)=O)c3c2cccc3
 Befiradol	n2cc(C)ccc2CNCC(F)(CC3)CCN3C(=O)c(cc1Cl)ccc1F
-Methylenedioxyethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
+3,4-Methylenedioxy-N-ethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
 3-Oxetanone	O=C1COC1
 Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
 Licarbazepine	NC(=O)N1c2ccccc2CC(O)c3ccccc13
@@ -13288,6 +13288,7 @@ Raxatrigine	C1CC(NC1C2=CC=C(C=C2)OCC3=CC=CC=C3F)C(=O)N
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
 4-Methylphenethylamine	CC1=CC=C(C=C1)CCN
 2,4,5-Trimethoxypropiophenone	CCC(=O)C1=CC(=C(C(=C1)OC)OC)OC
+Bufalin	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@H]4c5ccc(=O)oc5)O)C)O
 Cyclothiazomycin	O=C([C@H]1CSC(C2=CSC(C3=CSC(C(NC([C@@H]4CSC(C5=CSC(C6=CC=C(C(N[C@@H](CC(N)=O)C7=N[C@H](C(N/C8=C\C)=O)CS7)=O)C([C@H](NC9=O)C)=N6)=N5)=N4)=O)=C)=N3)=N2)=N1)N[C@H](C(O)=O)CS[C@@](C)(C(N[C@]([C@H](O)C)([H])C(NCC(N/C(C(N%10[C@H]9CCC%10)=O)=C\C)=O)=O)=O)NC8=O
 Copper(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Cu+2]
 Israpafant	C[C@@H]1C2=NN=C(N2C3=C(C=C(S3)CCC4=CC=C(C=C4)CC(C)C)C(=N1)C5=CC=CC=C5Cl)C
@@ -14228,3 +14229,6 @@ Ethinyl estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC(C4=C3C=CC(=C4)O)O
 5-Decyne	CCCCC#CCCCC
 10-Fluorocannabidiol diacetate	CCCCCc1cc(OC(C)=O)c([C@@H]2C=C(C)CC[C@H]2C(=C)CF)c(OC(C)=O)c1
 PZM21	O=C(NC[C@@H](N(C)C)Cc1ccc(O)cc1)N[C@@H](C)Cc2ccsc2
+Clovamide	C1=CC(=C(C=C1CC(C(=O)O)NC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Ethyl-Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
+Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
