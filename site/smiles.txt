@@ -9481,6 +9481,7 @@ Pridopidine	CS(C1=CC=CC(C2CCN(CCC)CC2)=C1)(=O)=O
 Dihydrochalcone	C1=CC=C(C=C1)CCC(=O)C2=CC=CC=C2
 Thymectacin	C[C@@H](C(=O)OC)NP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n2cc(c(=O)[nH]c2=O)/C=C/Br)O)Oc3ccccc3
 Methyl hydroxychalcone	CC1=CC=CC(=C1)C(=O)C=CC2=CC(=CC=C2)O
+Naringenin chalcone	C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2O)O)O)O
 Leptosidin	COc(c(O)3)c(o1)c(cc3)c(=O)c(=Cc(c2)cc(O)c(O)c2)1
 Aureusidin	C1=CC(=C(C=C1C=C2C(=O)C3=C(C=C(C=C3O2)O)O)O)O
 Aurone	C1=CC=C(C=C1)C=C2C(=O)C3=CC=CC=C3O2
@@ -14226,7 +14227,7 @@ Tetronic acid	O=C1CC(CO1)=O
 Tetronic acid	O=C1C=C(O)CO1
 R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
-Ethinyl estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC(C4=C3C=CC(=C4)O)O
+Ethinyl estriol	C[C@]12CC[C@@H]3c4ccc(cc4[C@H](C[C@H]3[C@@H]1CC[C@]2(C#C)O)O)O
 Volixibat	CCCC[C@@]1(CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(c3)NC(=O)N[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COS(=O)(=O)O)O)OCc5ccccc5)O)N(C)C)CC
 4-Octyne	CCCC#CCCC
 5-Decyne	CCCCC#CCCCC
@@ -14235,3 +14236,4 @@ PZM21	O=C(NC[C@@H](N(C)C)Cc1ccc(O)cc1)N[C@@H](C)Cc2ccsc2
 Clovamide	C1=CC(=C(C=C1CC(C(=O)O)NC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
 Ethyl-Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
 Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
+SCYX-7158	CC2(C)OB(O)c3c2ccc(c3)NC(=O)c1ccc(F)cc1C(F)(F)F
