@@ -55,7 +55,6 @@ Lithium carbonate	[Li+].[Li+].[O-]C([O-])=O
 Lactose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
 Lycopene	C(\C=C\C=C(\CC/C=C(\C)C)C)(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C=C(\C)CC\C=C(/C)C)C)C)C)C
 Methanol	CO
-Morphine	CN1CC[C@]23C4=C5C=CC(O)=C4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5
 Modafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)N
 Methadone	CCC(C(C1=CC=CC=C1)(C2=CC=CC=C2)CC(N(C)C)C)=O
 Nitrate	[N+](=O)([O-])[O-]
@@ -13444,6 +13443,7 @@ Trengestone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)Cl
 Dinitrobisphenol A	CC(C)(C1=CC(=C(C=C1)O)[N+](=O)[O-])C2=CC(=C(C=C2)O)[N+](=O)[O-]
 Nitroapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)[N+](=O)[O-]
 4-Bromofluorobenzene	c1cc(ccc1F)Br
+Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2
 AZD3293	CC#CC1=CC(=CN=C1)C2=CC3=C(CC4(C35N=C(C(=N5)N)C)CCC(CC4)OC)C=C2
 4-Methylpentanoic acid	CC(C)CCC(=O)O
 6β-Naltrexol	c1cc(c2c3c1C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)[C@@H](CC5)O)O)O
