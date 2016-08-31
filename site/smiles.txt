@@ -508,7 +508,6 @@ Dexamethasone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC
 Mesitylene	Cc1cc(cc(c1)C)C
 Digoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
 Digitoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)CC[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
-Cortisol	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Glucuronolactone	O=C[C@H](O)[C@H]1OC(=O)[C@@H](O)[C@H]1O
 Sertindole	Fc1ccc(cc1)n3c2ccc(Cl)cc2c(c3)C5CCN(CCN4C(=O)NCC4)CC5
 Chloramine	NCl
@@ -677,6 +676,7 @@ Sirolimus	O[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]4CC(=O)[C@H](C)/C=C(\C)[C@@H
 Everolimus	OCCO[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]4CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(/C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N3CCCC[C@H]3C(=O)O4
 Mycophenolic acid	O=C1OCc2c1c(O)c(c(OC)c2C)C\C=C(/C)CCC(=O)O
 Prednisone	O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4C(=O)C[C@@]23C
+Hydrocortisone	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Benzocaine	O=C(OCC)c1ccc(N)cc1
 S-Methylmethionine	C[S+](C)CC[C@@H](C(=O)O)N
 Cinnamaldehyde	c1ccc(cc1)/C=C/C=O
@@ -977,7 +977,7 @@ Methyl salicylate	O=C(OC)c1ccccc1O
 Acrylic acid	O=C(O)C=C
 Isobutyric acid	O=C(O)C(C)C
 Norzoanthamine	O=C2C[C@@H]1C(=O)/C=C(/C)C[C@H]1[C@]3(C)C[C@]47OC(=O)C[C@@](C)([C@@H]23)[C@]7(C)CC[C@@]65C[C@@H](C)C[C@H](CN45)O6
-Tetrahydrozoline	N\1=C(\NCC/1)C3c2ccccc2CCC3
+Tetryzoline	N\1=C(\NCC/1)C3c2ccccc2CCC3
 Praziquantel	O=C4N2C(c1c(cccc1)CC2)CN(C(=O)C3CCCCC3)C4
 Metyrapone	O=C(c1cccnc1)C(c2cccnc2)(C)C
 Cadmium sulfide	[S-2].[Cd+2]
@@ -3994,7 +3994,7 @@ Ammonium aluminium sulfate	[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
 Imidazolidine	N1CCNC1
 11-Deoxycorticosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Levomethorphan	COc1ccc2C[C@@H]3[C@@H]4CCCC[C@]4(CCN3C)c2c1
-Uranocene	[U].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1
+Uranocene	[cH-]/1/cc\cc/[cH-]/cc1.[cH-]/1/cc\cc/[cH-]/cc1.[U]
 1-Chloro-9,10-bis(phenylethynyl)anthracene	Clc5cccc4c(C#Cc1ccccc1)c2ccccc2c(C#Cc3ccccc3)c45
 5,12-Bis(phenylethynyl)naphthacene	C(#Cc1ccccc1)c5c2ccccc2c(C#Cc3ccccc3)c6cc4ccccc4cc56
 Bis-(2,4,5-trichloro-6-(pentyloxycarbonyl)phenyl)oxalate	Clc2c(C(=O)OCCCCC)c(OC(=O)C(=O)Oc1c(C(=O)OCCCCC)c(Cl)c(Cl)cc1Cl)c(Cl)cc2Cl
@@ -4216,6 +4216,7 @@ Ammonium dichromate	[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O.[NH4+].[NH4+]
 Flunarizine	Fc1ccc(cc1)C(c2ccc(F)cc2)N3CCN(CC3)C\C=C\c4ccccc4
 Cinnamyl alcohol	c1ccc(cc1)/C=C/CO
 3,4-Xylenol	CC1=C(C=C(C=C1)O)C
+Iron(II) carbonate	C(=O)([O-])[O-].[Fe+2]
 CHAPS detergent	[O-]S(=O)(=O)CCC[N+](C)(C)CCCNC(=O)CC[C@@H](C)[C@H]4CC[C@H]3[C@H]2[C@@H]([C@@]1([C@@H](C[C@H](O)CC1)C[C@H]2O)C)C[C@H](O)[C@@]34C
 CHAPS detergent	CC(CCC(=O)NCCC[N+](C)(C)CCCS([O-])(=O)=O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C
 Aceprometazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CC(N(C)C)C)C
@@ -10457,6 +10458,7 @@ O-Anisic acid	COc1ccccc1C(=O)O
 Ammonium sulfite	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].O=S([O-])[O-]
 Terbequinil	CCCNC(=O)C1=CN(C2=CC=CC=C2C1=O)COC
 Cyclotetradecaheptaene	c1ccccccccccccc1
+Dipotassium cyclooctatetraenide	[cH-]/1/cc\cc/[cH-]/cc1.[K+].[K+]
 GM6001	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CN=C2C1=CCC=C2)C(=O)NC
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
 Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
@@ -13443,7 +13445,7 @@ Trengestone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)Cl
 Dinitrobisphenol A	CC(C)(C1=CC(=C(C=C1)O)[N+](=O)[O-])C2=CC(=C(C=C2)O)[N+](=O)[O-]
 Nitroapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)[N+](=O)[O-]
 4-Bromofluorobenzene	c1cc(ccc1F)Br
-Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2
+Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2]
 AZD3293	CC#CC1=CC(=CN=C1)C2=CC3=C(CC4(C35N=C(C(=N5)N)C)CCC(CC4)OC)C=C2
 4-Methylpentanoic acid	CC(C)CCC(=O)O
 6β-Naltrexol	c1cc(c2c3c1C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)[C@@H](CC5)O)O)O
