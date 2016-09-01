@@ -55,6 +55,7 @@ Lithium carbonate	[Li+].[Li+].[O-]C([O-])=O
 Lactose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
 Lycopene	C(\C=C\C=C(\CC/C=C(\C)C)C)(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C=C(\C)CC\C=C(/C)C)C)C)C)C
 Methanol	CO
+Morphine	CN1CC[C@]23C4=C5C=CC(O)=C4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5
 Modafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)N
 Methadone	CCC(C(C1=CC=CC=C1)(C2=CC=CC=C2)CC(N(C)C)C)=O
 Nitrate	[N+](=O)([O-])[O-]
@@ -13487,6 +13488,7 @@ Thioacetone	CC(=S)C
 Selepressin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCCC(=O)N
 Barusiban	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCSCCC(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)C(=O)N(C)[C@@H](CCCN)CO)CC(=O)N)[C@H](C)CC
 Homoquinolinic acid	c1cc(c(nc1)C(=O)O)CC(=O)O
+MIN-202	c4c(C)nc(nc4C)N5CC2CN(CC2C5)C(=O)c1c(cccc1F)-n3nccn3
 EVT-201	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 AVN-211	Cc1cc(n2c(n1)c(c(n2)SC)S(=O)(=O)c3ccccc3)C
 Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
@@ -13724,7 +13726,7 @@ NM-2201	FCCCCCN1C=C(C(OC2=C(C=CC=C3)C3=CC=C2)=O)C4=CC=CC=C41
 CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	CCCCCN1N=C(C(=O)NC(C)(C)C2=CC=CC=C2)C2=CC=CC=C12
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
-MDMB-CHMINACA	COC(=O)C(C(C)(C)C)NC(=O)c1nn(c2c1cccc2)CC1CCCCC1
+MDMB-CHMINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3
 4-Fluorobutyrfentanyl	CCCC(=O)N(c1ccc(cc1)F)C2CCN(CC2)CCc3ccccc3
 PX-1	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
 PX-2	O=C(N[C@@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
@@ -14241,3 +14243,9 @@ N-Ethylhexedrone	CCCCC(NCC)C(=O)c1ccccc1
 Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
 SCYX-7158	CC2(C)OB(O)c3c2ccc(c3)NC(=O)c1ccc(F)cc1C(F)(F)F
 Beta-Hydroxy beta-methylbutyryl-CoA	CC(C)(CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)O)O
+Orvepitant	C5C3CCC(=O)N3CCN5C(CC1c2ccc(F)cc2C)CCN1C(=O)N(C)C(C)c4cc(C(F)(F)F)cc(c4)C(F)(F)F
+Rolapitant	FC(F)(F)c(c4)cc(C(F)(F)F)cc4C(C)OCC3(c2ccccc2)NCC1(CC3)NC(=O)CC1
+Lanepitant	CC(=O)N(CC1=CC=CC=C1OC)C[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)CN4CCC(CC4)N5CCCCC5
+Befetupitant	CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCOCC4
+Burapitant	CC(C)(C1CCN(CC1)CC[C@]2(CN(CCO2)C(=O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=CC(=C(C=C4)Cl)Cl)C(=O)N
+Metanilic acid	C1=CC(=CC(=C1)S(=O)(=O)
