@@ -2195,6 +2195,7 @@ Milnacipran	O=C(N(CC)CC)[C@@]2(c1ccccc1)[C@@H](CN)C2
 17-Hydroxyprogesterone	CC(=O)C1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O
 Dimethylamine	CNC
 Ethinyl estradiol	Oc1cc4c(cc1)[C@H]3CC[C@]2([C@@H](CC[C@]2(C#C)O)[C@@H]3CC4)C
+Cyclodecapentaene	C1=C\C=C\C=C/C=C/C=C/1
 Magic acid	OS(=O)(=O)F.F[Sb](F)(F)(F)F
 Shikimic acid	C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O
 Chorismic acid	O=C(O)C1=C/[C@@H](O/C(C(=O)O)=C)[C@H](O)/C=C1
@@ -10014,7 +10015,7 @@ Moxestrol	CC12CC(C3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O)OC
 Aglepristone	C/C=C\[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)c5ccc(cc5)N(C)C)C)O
 Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
-Nomegestrol acetate	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](OC(=O)C)(C(=O)C)CC[C@@H]12)C)[C@H]3CC4)C
+Nomegestrol acetate	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4C1=CC(=O)CC4
 Hydroxyquinol	Oc1cc(O)c(O)cc1
 Candocuronium iodide	[I-].[I-].C\53=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CCC[N+]2(C)C)C)[C@@]3(C)CC[C@H]([N+]4(C)CCCC4)C/5
 SKF-77,434	c3ccccc3C2CN(CC=C)CCc(cc1O)c2cc1O
@@ -13291,6 +13292,7 @@ Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C
 Funapide	C1C2(C3=CC=CC=C3N(C2=O)CC4=CC=C(O4)C(F)(F)F)C5=CC6=C(C=C5O1)OCO6
 Fluopicolide	C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
 Raxatrigine	C1CC(NC1C2=CC=C(C=C2)OCC3=CC=CC=C3F)C(=O)N
+PF-05089771	C1=CC(=C(C=C1Cl)C2=C(NN=C2)N)OC3=CC(=C(C=C3Cl)S(=O)(=O)NC4=CSC=N4)F
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
 4-Methylphenethylamine	CC1=CC=C(C=C1)CCN
 2,4,5-Trimethoxypropiophenone	CCC(=O)C1=CC(=C(C(=C1)OC)OC)OC
@@ -13862,7 +13864,6 @@ Propadienone	C=C=C=O
 Propadienone	C=[C-]C#[O+]
 Propynal	C#CC=O
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
-Hydroxyazulene	C1=CC=C2C=C(C=C2C=C1)O
 3-Methylfuran	CC1=COC=C1
 Cyclononatetraene	C1=CC=CCC=CC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
@@ -14257,3 +14258,6 @@ Burapitant	CC(C)(C1CCN(CC1)CC[C@]2(CN(CCO2)C(=O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 Metanilic acid	C1=CC(=CC(=C1)S(=O)(=O)
 Ethanesulfonic acid	CCS(O)(=O)=O
 Acetomepregenol	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(CC4)OC(=O)C)C
+Mytatrienediol	CC12CCC3C(C1CC(C2O)(C)O)CCC4=C3C=CC(=C4)OC
+Brilanestrant	CCC(=C(C1=CC=C(C=C1)C=CC(=O)O)C2=CC3=C(C=C2)NN=C3)C4=C(C=C(C=C4)F)Cl
+Elacestrant	CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O
