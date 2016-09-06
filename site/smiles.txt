@@ -8945,6 +8945,7 @@ TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 Amfenac	O=C(c1cccc(c1N)CC(=O)O)c2ccccc2
 Climbazole	CC(C)(C)C(=O)C(n1ccnc1)Oc2ccc(cc2)Cl
 GBLD-345	COC1=CC=CC(CNC(C=C2)=NN3C2=NC(C4=CC=C(N)C=C4)=C3OC)=C1
+Canaline	O=C(O)[C@@H](N)CCON
 SSR-180,575	Cn2c3cc(Cl)ccc3c1c2c(=O)n(nc1CC(=O)N(C)C)-c4ccccc4
 Orientin	C1(=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC=C(O)C(=C3)O)C4OC(CO)C(C(C4O)O)O
 Tricin	COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
@@ -9370,7 +9371,7 @@ Poncirin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O
 Polyozellin	CC(=O)OC1=C2C(=C(C3=C1C4=CC(=C(C=C4O3)O)O)OC(=O)C)C5=CC(=C(C=C5O2)O)O
 Sakuranetin	COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
 Asocainol	O(c3cc2c1c(O)c(OC)ccc1CC(N(CCc2cc3)C)CCc4ccccc4)C
-3',4'-Methylenedioxy-α-pyrrolidinobutiophenone	CCC(N1CCCC1)C(=O)c2ccc3OCOc3c2
+3',4'-Methylenedioxy-α-pyrrolidinobutiophenone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3
 Alpha-Pyrrolidinopentiophenone	CCCC(C(C1=CC=CC=C1)=O)N2CCCC2
 Naphyrone	CCCC(C(C1=CC2=C(C=C1)C=CC=C2)=O)N3CCCC3
 4'-Methyl-α-pyrrolidinobutiophenone	C1CCCN1C(CC)C(=O)c(cc2)ccc2C
@@ -14258,6 +14259,10 @@ Burapitant	CC(C)(C1CCN(CC1)CC[C@]2(CN(CCO2)C(=O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 Metanilic acid	C1=CC(=CC(=C1)S(=O)(=O)
 Ethanesulfonic acid	CCS(O)(=O)=O
 Acetomepregenol	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(CC4)OC(=O)C)C
+Di-tert-butyl-iminodicarboxylate	CC(C)(C)OC(=O)NC(=O)OC(C)(C)C
+Thioanisole	CSC1=CC=CC=C1
 Mytatrienediol	CC12CCC3C(C1CC(C2O)(C)O)CCC4=C3C=CC(=C4)OC
 Brilanestrant	CCC(=C(C1=CC=C(C=C1)C=CC(=O)O)C2=CC3=C(C=C2)NN=C3)C4=C(C=C(C=C4)F)Cl
 Elacestrant	CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O
+Thiobenzoic acid	C1=CC=C(C=C1)C(=O)S
+Gamma-Decalactone	CCCCCC1CCC(=O)O1
