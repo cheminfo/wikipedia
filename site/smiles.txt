@@ -13560,6 +13560,7 @@ Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([
 Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 2-Azetidinone	C1CNC1=O
+Anol	CC=CC1=CC=C(C=C1)O
 Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
 Filgotinib	O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
 GR-196,429	c23c1CCOc1ccc2CCN3CCNC(=O)C
@@ -13732,7 +13733,7 @@ CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	CCCCCN1N=C(C(=O)NC(C)(C)C2=CC=CC=C2)C2=CC=CC=C12
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
 MDMB-CHMINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3
-4-Fluorobutyrfentanyl	CCCC(=O)N(c1ccc(cc1)F)C2CCN(CC2)CCc3ccccc3
+4-Fluorobutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 PX-1	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
 PX-2	O=C(N[C@@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
 APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
@@ -14260,9 +14261,17 @@ Metanilic acid	C1=CC(=CC(=C1)S(=O)(=O)
 Ethanesulfonic acid	CCS(O)(=O)=O
 Acetomepregenol	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(CC4)OC(=O)C)C
 Di-tert-butyl-iminodicarboxylate	CC(C)(C)OC(=O)NC(=O)OC(C)(C)C
+2-NBDG	O=C([H])[C@H](NC1=CC=C([N+]([O-])=O)C2=NON=C21)[C@H]([C@@H]([C@@H](CO)O)O)O
 Thioanisole	CSC1=CC=CC=C1
 Mytatrienediol	CC12CCC3C(C1CC(C2O)(C)O)CCC4=C3C=CC(=C4)OC
 Brilanestrant	CCC(=C(C1=CC=C(C=C1)C=CC(=O)O)C2=CC3=C(C=C2)NN=C3)C4=C(C=C(C=C4)F)Cl
 Elacestrant	CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O
 Thiobenzoic acid	C1=CC=C(C=C1)C(=O)S
-Gamma-Decalactone	CCCCCC1CCC(=O)O1
+Gamma-Decalactone	CCCCCCC1CCC(=O)O1
+Dihydrojasmone	CCCCCC1=C(CCC1=O)C
+Delta-Octalactone	O1[C@@H](CCCC1=O)CCC
+Jasmine lactone	CCC=CCC1CCCC(=O)O1
+Triparanol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)Cl)(C3=CC=C(C=C3)C)O
+Bisdehydrodoisynolic acid	CCC1C2=C(CCC1(C)C(O)=O)C1=CC=C(O)C=C1C=C2
+Dianol	CCC(\C(C)=C\C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+Allenolic acid	C1=CC2=C(C=CC(=C2)O)C=C1CCC(=O)O
