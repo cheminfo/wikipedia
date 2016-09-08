@@ -1848,7 +1848,7 @@ Benzoin	c1ccc(cc1)C(C(=O)c2ccccc2)O
 Daunorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)C)O)N)O
 Desonide	O=C\1\C=C/[C@]2(/C(=C/1)CC[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)(C)C)C(=O)CO)C)C
 2,2,4-Trimethylpentane	CC(C)CC(C)(C)C
-Mitragynine	O=C(/C([C@H]1C[C@H]2C3=C(CCN2C[C@H]1CC)C4=C(OC)C=CC=C4N3[H])=C/OC)OC
+Mitragynine	CC[C@@H]1CN2CCC3=C([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
 N,N'-Dicyclohexylcarbodiimide	N(=C=N\C1CCCCC1)\C2CCCCC2
 Orphenadrine	O(CCN(C)C)C(c1ccccc1)c2ccccc2C
 Bupivacaine	O=C(C1N(CCCC1)CCCC)NC2=C(C)C=CC=C2C
@@ -5565,7 +5565,6 @@ Imidazol-4-one-5-propionic acid	O=C1N\C=N/C1CCC(=O)O
 Formiminoglutamic acid	C(CC(=O)O)C(C(=O)O)N=CN
 1-Pyrroline-5-carboxylic acid	O=C(O)C1/N=C\CC1
 5-Formiminotetrahydrofolate	c1cc(ccc1C(=O)NC(CCC(=O)[O-])C(=O)[O-])NCC2CNc3c(c(=O)[nH]c(n3)N)N2C=N
-Alpha-Aminoadipic acid	O=C(O)CCCC(N)C(=O)O
 7-Hydroxymitragynine	CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cccc(OC)c34)[C@@H]2C[C@@H]1\C(=C/OC)C(=O)OC
 Gallium(II) sulfide	S=[Ga]
 Cyclic olefin copolymer	C=C.C\1=C\C2CC/1CC2
@@ -8939,6 +8938,7 @@ Barium acetate	[Ba+2].[O-]C(=O)C.[O-]C(=O)C
 TDIQ	c23OCOc2cc1CCNCc1c3
 THIQ	N4Cc1ccccc1CC4C(=O)NC(Cc(cc2)ccc2Cl)C(=O)N5CCC(CC5)(Cn6ncnc6)C3CCCCC3
 Norsalsolinol	C1CNCC2=CC(=C(C=C21)O)O
+Alpha-aminoadipate pathway	O=C(O)CCCC(N)C(=O)O
 Emapunil	CCN(Cc1ccccc1)C(=O)Cn2c3c(cnc(n3)c4ccccc4)n(c2=O)C
 TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 17-Phenylandrostenol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CC=CC=C5)C)O
@@ -14269,8 +14269,8 @@ Elacestrant	CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O
 Thiobenzoic acid	C1=CC=C(C=C1)C(=O)S
 Gamma-Decalactone	CCCCCCC1CCC(=O)O1
 Dihydrojasmone	CCCCCC1=C(CCC1=O)C
-Delta-Octalactone	O1[C@@H](CCCC1=O)CCC
-Jasmine lactone	CCC=CCC1CCCC(=O)O1
+Delta-Octalactone	CCCC1CCCC(=O)O1
+Jasmine lactone	CC/C=C\CC1CCCC(=O)O1
 Triparanol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)Cl)(C3=CC=C(C=C3)C)O
 Bisdehydrodoisynolic acid	CCC1C2=C(CCC1(C)C(O)=O)C1=CC=C(O)C=C1C=C2
 Dianol	CCC(\C(C)=C\C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
