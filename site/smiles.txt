@@ -8490,6 +8490,7 @@ Allyl methyl sulfide	CSCC=C
 Linoleyl alcohol	CCCCC/C=C\C/C=C\CCCCCCCCO
 2-Methylisoborneol	OC2(C)CC1CCC2(C1(C)C)C
 Nicoracetam	COC1=NC=C(C=C1)C(=O)N2CCCC2=O
+Diisodecyl phthalate	O=C(OCCCCCCCC(C)C)C1=CC=CC=C1C(OCCCCCCCC(C)C)=O
 Antiarin	CC1C(C(C(C(O1)OC2CCC3(C4CC(C5(C(CCC5(C4CCC3(C2)O)O)C6=CC(=O)OC6)C)O)C=O)O)O)O
 Antiarin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)[C@H](O)C[C@H]4[C@H]6CC[C@]5(O)C[C@@H](O[C@@H]3O[C@@H]([C@H](O)[C@@H](O)[C@H]3O)C)CC[C@]45C=O
 2-Hexanone	O=C(C)CCCC
@@ -9144,6 +9145,7 @@ Morphan	C1(C2)CCCC2NCC1
 Demeton	O=P(OCC)(SCCSCC)OCC
 Diethylaluminium chloride	CC[Al](Cl)CC
 Dihydrocortisone	O=C3C[C@@]1([C@@](O)(C(=O)CO)CC[C@H]1[C@@H]4CC[C@@H]2CC(=O)CC[C@]2(C)[C@@H]34)C
+Diisoheptyl phthalate	O=C(OCCCCC(C)C)C1=CC=CC=C1C(OCCCCC(C)C)=O
 Direct Blue 1	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6c5\C=C/C(=N/Nc1ccc(cc1OC)c2ccc(c(OC)c2)N/N=C4\C=C/c3c(cc(c(N)c3C4=O)S([O-])(=O)=O)S([O-])(=O)=O)C(=O)c5c(N)c(c6)S([O-])(=O)=O
 2,6-Di-tert-butylpyridine	n1c(cccc1C(C)(C)C)C(C)(C)C
 Panaxatriol	C[C@@]1(CCCC(O1)(C)C)[C@H]2CC[C@@]3([C@@H]2[C@@H](C[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)O)C)O)C
@@ -13631,6 +13633,7 @@ Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 MIN-117	Clc1ccc(cc1Cl)C2CCN(CC2)C[C@H](O)COc4cccc3oc(cc34)c5nnc(o5)C
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
+Propylene glycol methyl ether	CC(O)COC
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
 Lemborexant	CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
 4,16-Androstadien-3β-ol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C[C@H](CC[C@]34C)O
