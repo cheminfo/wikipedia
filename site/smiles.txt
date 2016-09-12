@@ -632,7 +632,6 @@ Quassin	O=C1C(\OC)=C/[C@@H](C)[C@H]4[C@]1([C@H]3C(=O)C(\OC)=C(/[C@@H]2CC(=O)O[C@
 Lanthionine	O=C(O)[C@@H](N)CSC[C@H](N)C(=O)O
 Nisin	C[C@H](CC)[C@@H](N)C(N/C(C(N[C@@H]1C(N[C@@H](C(NC(C(N[C@@H](C(N[C@@H](C(N[C@H](C(N2[C@@H](C(NC3)=O)CCC2)=O)[C@@H](C)SC[C@H](C(N[C@H](CCCCN)C(N[C@H](C(NCC(N[C@@H](C(N[C@H](CC(C)C)C(N[C@H](CCSC)C(NCC(N[C@@H](C(N[C@H](CC(N)=O)C(N[C@H](CCSC)C(N[C@H](CCCCN)C(N[C@@H]([C@@H](C)SC[C@@H](N6)C(N[C@H](CC5=CN=CN5)C(N[C@@H](C(N[C@H](CO)C(N[C@H]([C@@H](CC)C)C(N[C@H](CC8=CN=CN8)C(N[C@H]([C@@H](C)C)C(NC(C(N[C@H](CCCCN)C(O)=O)=O)=C)=O)=O)=O)=O)=O)CS[C@H](C)[C@H]7C6=O)=O)=O)C(N[C@H](C)C(N7)=O)=O)=O)=O)=O)=O)CS4)=O)=O)=O)=O)C)=O)=O)[C@H]4C)=O)=O)NC3=O)=O)CSC1)=O)CC(C)C)=O)=C)=O)[C@H](C)CC)=O)=O)=C\C)=O
 Dehydroalanine	O=C(O)C(=C)N
-Copper(II) sulfate	[O-]S(=O)(=O)[O-].[Cu+2]
 Furosemide	O=S(=O)(N)c1c(Cl)cc(c(C(=O)O)c1)NCc2occc2
 Calcium silicate	[Ca++].[Ca++].[O-][Si]([O-])([O-])[O-]
 Pentazocine	Oc1ccc3c(c1)[C@]2([C@H]([C@H](N(CC2)C\C=C(/C)C)C3)C)C
@@ -10588,6 +10587,7 @@ Karavilagenin E	C[C@H](CC(O)/C=C(C)/C)[C@@]1([H])CC[C@@]2(C)[C@]3([H])C=C[C@]45C
 25TFM-NBOMe	FC(F)(F)c1c(OC)cc(c(OC)c1)CCNCc2ccccc2OC
 25C-NBOMe	COc2ccccc2CNCCc(cc1OC)c(OC)cc1Cl
 AM-2201	O=C(C1=CN(CCCCCF)C2=C1C=CC=C2)C3=CC=CC4=C3C=CC=C4
+Butyric anhydride	CCCC(OC(CCC)=O)=O
 Viscumitol	CO[C@@H]1[C@H]([C@@H]([C@@H]([C@H]([C@@H]1OC)O)O)O)O
 Pinpollitol	CO[C@@H]1[C@@H]([C@H]([C@@H]([C@H]([C@H]1O)O)OC)O)O
 Ononitol	CO[C@H]1[C@@H]([C@H]([C@@H]([C@@H]([C@@H]1O)O)O)O)O
@@ -14246,10 +14246,10 @@ Tetronic acid	O=C1C=C(O)CO1
 R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
 Ethinyl estriol	C[C@]12CC[C@@H]3c4ccc(cc4[C@H](C[C@H]3[C@@H]1CC[C@]2(C#C)O)O)O
+4-Vinyltoluene	CC1=CC=C(C=C)C=C1
 Volixibat	CCCC[C@@]1(CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(c3)NC(=O)N[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COS(=O)(=O)O)O)OCc5ccccc5)O)N(C)C)CC
 4-Octyne	CCCC#CCCC
 5-Decyne	CCCCC#CCCCC
-10-Fluorocannabidiol diacetate	CCCCCc1cc(OC(C)=O)c([C@@H]2C=C(C)CC[C@H]2C(=C)CF)c(OC(C)=O)c1
 PZM21	O=C(NC[C@@H](N(C)C)Cc1ccc(O)cc1)N[C@@H](C)Cc2ccsc2
 Clovamide	C1=CC(=C(C=C1CC(C(=O)O)NC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
 N-Ethylhexedrone	CCCCC(NCC)C(=O)c1ccccc1
