@@ -13881,6 +13881,7 @@ Norepinephrine (drug)	Oc1ccc(cc1O)[C@@H](O)CN
 1,3-Dichlorobenzene	ClC1=CC=CC(Cl)=C1
 N-Feruloylserotonin	COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cc(cc3)O
 Deschloroketamine	CNC1(CCCCC1=O)c2ccccc2
+Thiolactic acid	SC(C)C(O)=O
 Ozanimod	CC(C)Oc1ccc(cc1C#N)c2nc(no2)c3cccc4c3CC[C@@H]4NCCO
 Spiropentane	C1CC12CC2
 Amastatin	CC(C)CC(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(CC(=O)O)C(=O)O)O)N
@@ -14291,3 +14292,4 @@ Terfluranol	CC(C1=CC=C(C=C1)O)C(CC(F)(F)F)C2=CC=C(C=C2)O
 Pentafluranol	CC(C1=CC(=C(C=C1)O)F)C(CC(F)(F)F)C2=CC(=C(C=C2)O)F
 Clomestrone	CC12CCC3C(C1CC(C2=O)Cl)CCC4=C3C=CC(=C4)OC
 Trofinetide	C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
