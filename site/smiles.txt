@@ -7957,7 +7957,7 @@ Pinaverium	CC1(C2CCC(C1C2)CCOCC[N+]3(CCOCC3)CC4=CC(=C(C=C4Br)OC)OC)C
 Chlorbenzoxamine	Clc1ccccc1C(OCCN2CCN(CC2)Cc3ccccc3C)c4ccccc4
 Fenpiprane	C1CCN(CC1)CCC(C2=CC=CC=C2)C3=CC=CC=C3
 Clorobiocin	CC1=CC=C(N1)C(=O)O[C@H]2[C@H]([C@@H](OC([C@@H]2OC)(C)C)OC3=C(C4=C(C=C3)C(=O)C(=C(O4)O)NC(=O)C5=CC(=C(C=C5)O)CC=C(C)C)Cl)O
-Coumermycin A1	CC1=CC=C(N1)C(=O)O[C@H]2[C@H](C(OC([C@@H]2OC)(C)C)OC3=C(C4=C(C=C3)C(=O)C(=C(O4)O)NC(=O)C5=CNC(=C5C)C(=O)NC6=C(OC7=C(C6=O)C=CC(=C7C)OC8[C@@H]([C@@H]([C@H](C(O8)(C)C)OC)OC(=O)C9=CC=C(N9)C)O)O)C)O
+Coumermycin A1	CO[C@@H]1[C@H](OC(=O)c2ccc(C)[nH]2)[C@@H](O)[C@H](Oc2ccc3c(O)c(NC(=O)c4c[nH]c(C(=O)Nc5c(=O)oc6c(C)c(ccc6c5O)O[C@@H]5OC(C)(C)[C@H](OC)[C@H](OC(=O)c6ccc(C)[nH]6)[C@H]5O)c4C)c(=O)oc3c2C)OC1(C)C
 MS-245	COc2cc1c(CCN(C)C)cn(c1cc2)S(=O)(=O)c3ccccc3
 Autoinducer-2	O[C@@H]1[C@]2(O[B-](O[C@]2(OC1)C)(O)O)O
 Nifuratel	CSCC1CN(C(=O)O1)/N=C/C2=CC=C(O2)[N+](=O)[O-]
@@ -12722,7 +12722,7 @@ Acutifolin A	CC(=CC[C@@]12[C@@H](CC[C@@](C1=O)(C=CC2=O)O)C3=CC=C(C=C3)O)C
 Chrysoeriol	COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
 14-Norpseurotin A	C/C=C\[C@@H]([C@@H](C1=C(C(=O)[C@@]2(O1)[C@H]([C@@](NC2=O)(C(=O)C3=CC=CC=C3)OC)O)C)O)O
 Xylopine	COC1=CC2=C(C=C1)C3=C4[C@@H](C2)NCCC4=CC5=C3OCO5
-Annonamine	C[N+]1(CCc2cc(c(c-3c2[C@H]1Cc4c3cccc4)OC)O)C
+Annonamine	C[N+]1(C)CCC2=CC(O)=C(OC)C3=C2[C@H]1CC4=C3C=CC=C4
 Bifenox	COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
 N,alpha-Diethylphenylethylamine	C(C)NC(CC1=CC=CC=C1)CC
 SR-57227	ClC1=CC=CC(N2CCC(N)CC2)=N1
@@ -14295,3 +14295,4 @@ Trofinetide	C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
 Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 3-Nitrooxypropanol	C(CO)CO[N+](=O)[O-]
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
+(2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
