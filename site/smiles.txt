@@ -1257,7 +1257,7 @@ AP-7 (drug)	O=P(O)(O)CCCCCC(C(=O)O)N
 NBQX	[O-][N+](=O)c2cc3c(c1cccc(c12)S(=O)(=O)N)NC(=O)C(=O)N3
 Sorbic acid	O=C(O)\C=C\C=C\C
 Pyridoxine	CC1=NC=C(C(=C1O)CO)CO
-4-Acetoxy-DET	CC(OC1=CC=CC2=C1C(CCN(CC)CC)=C[N]2)=O
+4-Acetoxy-DET	CC(OC1=CC=CC2=C1C(CCN(CC)CC)=CN2)=O
 Indometacin	Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O
 Flurazepam	FC1=CC=CC=C1C2=NCC(N(CCN(CC)CC)C3=C2C=C(C=C3)Cl)=O
 Resorcinol	c1cc(cc(c1)O)O
@@ -12137,6 +12137,7 @@ Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
 Silver dichromate	[Ag+].[Ag+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Gallocyanin	CN(C)c1ccc2c(c1)oc-3c(c(=O)cc(c3n2)C(=O)O)O
 Diethylaniline	N(c1ccccc1)(CC)CC
+Tesamorelin	CCC[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCSC)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](Cc3ccc(cc3)O)NC(=O)C/C=C/CC
 Boron phosphate	[B+3].[O-]P(=O)([O-])[O-]
 EPN (insecticide)	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)c2ccccc2
 Tripalmitin	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCC
@@ -13758,6 +13759,7 @@ AB-PICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CCCCC)C2=CC=CC=C21
 Deschloroetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4)C
 Seviteronel	CC(C)C(C1=CC2=CC(=C(C=C2C=C1)OC(F)F)OC(F)F)(C3=NNN=C3)O
 Testosterone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+Testosterone caproate	CCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 5-MeO-EiPT	CC(C)N(CC)CCC1=CNC2=CC=C(OC)C=C21
 5-Hydroxycytosine	c1c(c([nH]c(=O)n1)N)O
 5-Hydroxyuracil	c1c(c(nc(n1)O)O)O
