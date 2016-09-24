@@ -6071,7 +6071,7 @@ Tetra-n-butylammonium bromide	[Br-].CCCC[N+](CCCC)(CCCC)CCCC
 Sodium perrhenate	[O-][Re](=O)(=O)=O.[Na+]
 Tyropanoic acid	CCCC(=O)NC1=C(C=C(C(=C1I)CC(CC)C(=O)O)I)I
 Dicoronylene	c1cc2ccc3cc4c5cc6ccc7ccc8ccc9ccc%10cc(c5c5c6c7c8c9c%105)c5c4c4c3c2c2c1ccc1c2c4c(c5)cc1
-6-MeO-THH	CC1NCCC2=C1[N]C(C=C3)=C2C=C3OC
+6-MeO-THH	CC1NCCC2=C1NC(C=C3)=C2C=C3OC
 Trioxsalen	O=C/3Oc2c(c1oc(cc1cc2\C(=C\3)C)C)C
 Dimethylzinc	C[Zn]C
 Suriclone	Clc4nc5nc(N3C(=O)C=1SCCSC=1C3OC(=O)N2CCN(C)CC2)ccc5cc4
@@ -10049,7 +10049,7 @@ Quazinone	Clc1cccc3c1CN2/C(=N\C(=O)[C@H]2C)N3
 Pirquinozol	OCc1cc2c3ccccc3NC(=O)n2n1
 Atiprosin	n23c1ccccc1c(c2[C@H]4N(CCN([C@@H]4CC3)C(C)C)CC)C
 Emamectin	C/C([C@](O[C@H]1C[C@H](OC)[C@](O[C@@H]2O[C@H](C)[C@@H](NC)[C@H](OC)C2)([H])[C@H](C)O1)([H])[C@@H](C)/C=C/C=C(CO3)/[C@@]([C@@]3([H])[C@H](O)C(C)=C4)(O)[C@@H]4C(O5)=O)=C\C[C@@H]6C[C@H]5C[C@]7(C=C[C@H](C)[C@]([C@@H](C)CC)([H])O7)O6
-4-HO-αMT	CC(N)CC1=C[N]C2=CC=CC(O)=C12
+4-HO-αMT	CC(N)CC1=CNC2=CC=CC(O)=C12
 Ebrotidine	Brc1ccc(cc1)S(=O)(=O)N/C=N/CCSCc2csc(n2)N=C(N)N
 Edaravone	O=C1N(/N=C(\C1)C)c2ccccc2
 1,2,3,5-Tetrahydroxybenzene	Oc1cc(O)c(O)c(O)c1
@@ -11356,7 +11356,7 @@ Nitrosoprodenafil	CCCc1c2c(c(nc(n2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)
 Diethylethanolamine	CCN(CC)CCO
 1,3,3,3-Tetrafluoropropene	F[C@H]=CC(F)(F)F
 Bay R 1531	COc2ccc1[nH3]cc3CC(Cc2c13)N(CCC)CCC
-5-MeO-NBpBrT	BrC1=CC=C(CNCCC2=C[N]C3=CC=C(OC)C=C23)C=C1
+5-MeO-NBpBrT	BrC1=CC=C(CNCCC2=CNC3=CC=C(OC)C=C23)C=C1
 Ammiol	COC1=C2C(=O)C=C(OC2=C(C3=C1C=CO3)OC)CO
 Biphalin	O=C(N[C@@H](C(=O)NCC(=O)N[C@H](C(=O)NNC(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)C)Cc2ccccc2)Cc3ccccc3)C)[C@@H](N)Cc4ccc(O)cc4
 CR665	O=C(NCC1=CC=NC=C1)[C@H](NC([C@H](NC([C@@H](CC2=CC=CC=C2)NC([C@@H](CC3=CC=CC=C3)N)=O)=O)CCCC)=O)CCCNC(N)=N
