@@ -13463,7 +13463,7 @@ Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2]
 AZD3293	CC#CC1=CC(=CN=C1)C2=CC3=C(CC4(C35N=C(C(=N5)N)C)CCC(CC4)OC)C=C2
 4-Methylpentanoic acid	CC(C)CCC(=O)O
 6β-Naltrexol	c1cc(c2c3c1C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)[C@@H](CC5)O)O)O
-Verucerfont	CC[C@@H](c1nc(no1)C)Nc2cc(nc3n2nc(c3c4cccc(c4C)OC)C)C
+Verucerfont	CC[C@@H](c1nc(no1)C)Nc2cc(nc3n2nc(c3c4ccc(cc4C)OC)C)C
 HT-2157	c14ccccc4n(-c3ccccc3)c(=O)c1=N\c(c2)cccc2C(F)(F)F
 Cyclamen aldehyde	CC(C)c1ccc(cc1)CC(C)C=O
 Androstanediol glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
@@ -14300,3 +14300,6 @@ Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 3-Nitrooxypropanol	C(CO)CO[N+](=O)[O-]
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
 (2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
+Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
+Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
+Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
