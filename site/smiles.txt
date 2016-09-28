@@ -2101,6 +2101,7 @@ Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
 Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
 Lithium nitride	[Li+].[Li][N-][Li]
+Nandrolone decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Uramustine	O=C1C(\N(CCCl)CCCl)=C/NC(=O)N1
 Terlipressin	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)CN)CSSC1)Cc2ccc(O)cc2)Cc3ccccc3)CCC(=O)N)CC(=O)N)CCC4)CCCCN
 Midodrine	O=C(NCC(O)c1cc(OC)ccc1OC)CN
@@ -14218,6 +14219,8 @@ Androstanolone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[
 Dihydrotestosterone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Dihydrotestosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Dihydrotestosterone formate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC=O)C
+Nandrolone caproate	CCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
+Nandrolone cypionate	CC12CC[C@H]3C([C@@H]1CCC2OC(=O)CCC4CCCC4)CCC5=CC(=O)CCC35
 Nandrolone hydrogen succinate	[H][C@@]12CC[C@H](OC(=O)CCC(O)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
 Nandrolone laurate	CCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Nandrolone phenylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@H]35
