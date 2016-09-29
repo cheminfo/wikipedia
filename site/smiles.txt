@@ -10191,7 +10191,6 @@ Alovudine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
 Antimony telluride	[SbH3+3].[SbH3+3].[TeH2-2].[TeH2-2].[TeH2-2]
 Mordant Brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
 2-Mercaptopyridine	S=C1/C=C\C=C/N1
-2-Chloropyridine	Clc1ncccc1
 Rogletimide	O=C1NC(=O)CCC1(c2ccncc2)CC
 Bufotenidine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)[O-]
 Neoconvalloside	C[C@@]12[C@@](CC[C@@H]2C3=CC(OC3)=O)(O)[C@]4([H])CC[C@]5(O)C[C@@H](O[C@]6([H])O[C@@H](O)[C@H](O)[C@@H](O)[C@H]6O[C@]7([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)CC[C@]5(C=O)[C@@]4([H])CC1
@@ -13791,6 +13790,7 @@ ADAMANTYL-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
+Kethoxal	CCOC(C)C(=O)C(O)O
 Jiadifenolide	O=C1OC[C@@]2(C)[C@@]3(OC4=O)[C@@]([C@H](C)CC3)([C@]4(O)O5)C[C@]5([H])[C@]21O
 Sandalore	CC1=CCC(C1(C)C)CCC(C)C(C)O
 D5SICS	OCC3OC(N2C=Cc1cc(ccc1C2=S)C)CC3(O)
@@ -14221,14 +14221,19 @@ Dihydrotestosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@
 Dihydrotestosterone formate	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC=O)C
 Nandrolone caproate	CCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Nandrolone cypionate	CC12CC[C@H]3C([C@@H]1CCC2OC(=O)CCC4CCCC4)CCC5=CC(=O)CCC35
+Nandrolone cyclohexanecarboxylate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4CCCCC4)CCC5=CC(=O)CC[C@H]35
+Nandrolone cyclohexylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCCC4)CCC5=CC(=O)CC[C@H]35
+Nandrolone cyclotate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C45CCC(CC4)(C=C5)C)CCC6=CC(=O)CC[C@H]36
+Nandrolone furylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CO4)CCC5=CC(=O)CC[C@H]35
+Nandrolone hexyloxyphenylpropionate	CCCCCCOC1=CC=C(C=C1)CCC(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@H]45)C
 Nandrolone hydrogen succinate	[H][C@@]12CC[C@H](OC(=O)CCC(O)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
 Nandrolone laurate	CCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Nandrolone phenylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@H]35
 Nandrolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
-Nandrolone sodium sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)[O-])CCC4=CC(=O)CC[C@H]34.[Na+]
+Nandrolone sulfate sodium	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)[O-])CCC4=CC(=O)CC[C@H]34.[Na+]
 Nandrolone undecylate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Bolmantalate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C45CC6CC(C4)CC(C6)C5)CCC7=CC(=O)CC[C@H]37
-Nandrolone 17-bis(2-chloroethyl)carbamate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC(=O)N(CCCl)CCCl
+LS-1727	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)N(CCCl)N=O)CCC4=CC(=O)CC[C@H]34
 Algestone acetonide	CC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C)OC(O2)(C)C
 Amadinone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@H]34)Cl)C)O
 Amadinone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@H]34)Cl)C)OC(=O)C
@@ -14307,3 +14312,6 @@ Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
 Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
 Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
 Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
+Velneperit	CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
+Testosterone buciclate	CCCCC1CCC(CC1)C(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
+Ethyltestosterone	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O

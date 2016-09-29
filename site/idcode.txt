@@ -10191,7 +10191,6 @@ fhiPR@AFIsPPRBSL{sNiFV]UUULtubBPfP@	Alovudine
 gJ@KPVPlQYlpy`ZLfvgP@_qPDAAfK@	Antimony telluride
 fishqANZMZlDXbwh@`^acjswasddebbrRrbbrtDeYJmA@UMLlq@aZ@	Mordant Brown 33
 gOxHD@aIeZviX@	2-Mercaptopyridine
-gOxHDHaIeZx@@@	2-Chloropyridine
 f`qP`@D^@KHheHhiblrSoMUSA@P@@	Rogletimide
 f`qQ@BAF@CcSdTRTraRdhpTh@JZjb@@	Bufotenidine
 edqp@`@@DKNacgh\V^Q]_Px|bbVTTbTUfRdrbNRbTTRraTTrQEDag`VURvrIImkTuUUUUTuUUUUUUUUUUQLKaRQrIJj[Jy_HFHpfTjUJpuVh@	Neoconvalloside
@@ -13791,6 +13790,7 @@ ekd\D@@DJI@ClbbTTRbbbRRJvaRdT\r|JRZJzvNZfjBj`jJjjb`@@	ADAMANTYL-THPINACA
 fewQ@@F\AdTTTTRTTVRvRjT{Q`ejuhF@j@B@j@@@@	BIM-018
 fjm`c@CPt@HsHEdLdfbTTTRRNr]DJVj`A`@J@@@	CRL-40,940
 dmv@@@RYnueZj@@@@	2-Phenyl-3-aminobutane
+dedB@@JfrJJJGMUU@@	Kethoxal
 ffkAp@@HhqIZyEDiEEhiEmDr\TYUmArUjjjjjjfjnXQIrBbejVP@	Jiadifenolide
 do|H@@RYoYiUnjjjjd@@	Sandalore
 fbmab@DRcd@PdsLlnnjpQoV\uPMAQUQ@@@	D5SICS
@@ -14221,14 +14221,19 @@ fewA`@@E[dTRTtRaRfbQTrhqVg^cejjjjjjijjnDcDIZeiyQP@	Dihydrotestosterone butyrate
 fnkA`@@E[dTRTtRaRfbQUFJt{t\mUUUUUUMUpdXaKTmOJJ@@	Dihydrotestosterone formate
 fmoA`@@YkdTRTrTrTtRJfRUFRUYpTmMUUUUTuUULXaITMGHJ@@	Nandrolone caproate
 ekhPL@@@LjlbbRfRfRfbQTrTRhXdTl\BRvNZZjjjjijjjjPDQd@@	Nandrolone cypionate
+ec`PL@@@LjlbbRfRfRfbQTtRUCDbec`RRvsSUUUUUMUUULLHQJPrNHI@@	Nandrolone cyclohexanecarboxylate
+egdPL@@@LjlbbRfRfRfbQTrTRUCDbec`RQusSUUUUUMUUUTppaDiCHx`d@@	Nandrolone cyclohexylpropionate
+eobPL@@@LjlbbRfRfRfbQTtbRQhXdTl\BRvnNnZZjjjjijfjjjXXPbTad\PR@@	Nandrolone cyclotate
+ekhPB@@@LjilbbRfRfRfbQTrTRhXdTl\BRvNZZjjjjijfjiXXPbTad\PR@@	Nandrolone furylpropionate
+ejYPB@@@LjglbbRfRfRfbQTrTRVRRRhXdTl\BRNnZZjjjjij@BjjjaaaBIRFQqAH@	Nandrolone hexyloxyphenylpropionate
 fmoAP@@YkM^QQISISISQHjYJTYIUgARtuUUUUSTuUQbDcQrB`@	Nandrolone hydrogen succinate
 ehRPL@@@LjlbbRfRfRfbQTrRRRRhXdTl\BRZZjjjjijjjjjXXPbTad\PR@@	Nandrolone laurate
 egdPL@@@LjlbbRfRfRfbQTrTRUCDbec`RQusSUUUUUMP@UPppaDiCHx`d@@	Nandrolone phenylpropionate
 fa{A`@@YkdTRTrTrTtRJfhrRkNBeijjjjjfjicDIJahyAP@	Nandrolone propionate
-fi{AQBHHpSh@`^`SasddatTbRLrTrV@mV]EMVkUUUUUSSUThfHTMGH@	Nandrolone sodium sulfate
+fi{AQBHHpSh@`^`SasddatTbRLrTrV@mV]EMVkUUUUUSSUThfHTMGH@	Nandrolone sulfate sodium
 e`\PL@@@LjlbbRfRfRfbQTrRRRUCDbec`RSSUUUUUMUUUULLHQJPrNHI@@	Nandrolone undecylate
 e`VPL@@@LjlbbRfRfRfbQTtbRTUCDbec`RVuqsqwsSUUUUUMUUUUULLHQJPrNHI@@	Bolmantalate
-ek`XLD@LFNC`HaRHrIJJKISRIHsISIZpIKIki[ZjfjjjjjiijfIEhkIELeT`@	Nandrolone 17-bis(2-chloroethyl)carbamate
+fcPR@LDYpVpQFQIQJEQRIHsISIXwhijvZzjVjjjjjZZiddiF`XeEP@	LS-1727
 ec`PB@@@BfalbbRfbTJTtRfRfeCBfcgdVSWSSUUUUUUMUU\LHQZRr^JJYH@	Algestone acetonide
 fa{Ab@MEZBHrJJIJIQZEQZVLEHs`qsRuUMUUTuTrdXaIT\hp@	Amadinone
 fmo@R@ME{LDQdTTRTRbtJbtJbcARLxL\tmUSUUUSMULiFHRUGJL@@	Amadinone acetate
@@ -14307,3 +14312,6 @@ fcwa`@D@GoHhddhbddddhdievZ}mSUMUTpAEDCAJUF@	Guineesine
 ffkAB@B`BDiUY[WnV`bcEF]zNZjjjjjjjj@@	Methylepitiostanol
 ffs@`@@UrJIJYJIJZFITYIS`iJtuUUUUUU@@@	Dimethandrolone
 fb}@`@@YRYVum[ehrRkNBeijZjjjj`@@	Dienolone
+fmgq``LASAG`A@yB\`nPrRPjQRiYSJIKJPujmVjjjih@Jj@@@	Velneperit
+ehZPL@@@BflbbRfbTJTtRJfbRrRhXTt\|brvNZZjjjjjZjjjjfFDHmIYOED`@	Testosterone buciclate
+fnk@`@@ErJIJZIPiSQJVcEZ]zNVfjjjjjjjXqBViZ^TT@	Ethyltestosterone
