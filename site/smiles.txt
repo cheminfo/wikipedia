@@ -5192,7 +5192,7 @@ Heme A	C/C(C)=C\CCC(\C)=C\CCC(\C)=C\CCC(O)c1c2/C=C\3C(\C)=C(\C=C)/C=4/C=C8/C(/C)
 TOMSO	COc1cc(C)c(cc1CC(C)N)S(C)=O
 Azaserine	O=C(OC[C@H](N)C(O)=O)/C=[N+]=[N-]
 Cipemastat	CC1(C)NC(=O)N(C[C@@H]([C@@H](CC2CCCC2)C(=O)N3CCCCC3)C(=O)NO)C1=O
-2C–H	O(c1ccc(OC)cc1CCN)C
+2C-H	O(c1ccc(OC)cc1CCN)C
 3,4-Methylenedioxy-N-hydroxy-N-methylamphetamine	C1=C2C(=CC=C1CC(C)N(C)O)OCO2
 Psi-DOM	COc1cc(C)cc(OC)c1CC(C)N
 Oritavancin	C[C@H]1[C@@H]([C@@](C[C@@H](O1)O[C@H]2[C@H]3C(=O)N[C@H](C4=C(C(=CC(=C4)O)O)C5=C(C=CC(=C5)[C@H](C(=O)N3)NC(=O)[C@H]6C7=CC(=C(C(=C7)OC8=C(C=C(C=C8)[C@H]([C@H](C(=O)N[C@H](C(=O)N6)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O[C@H]1C[C@]([C@H]([C@@H](O1)C)O)(C)NCC1=CC=C(C=C1)C1=CC=C(C=C1)Cl)OC1=C(C=C2C=C1)Cl)O)C(=O)O)(C)N)O
@@ -6779,7 +6779,7 @@ Xylitol pentanitrate	C([C@H]([C@@H]([C@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)
 4,4'-Oxydianiline	O(c1ccc(N)cc1)c2ccc(cc2)N
 Bisphenol S	O=S(=O)(c1ccc(O)cc1)c2ccc(O)cc2
 Nickel chromate	[O-][Cr](=O)(=O)[O-].[Ni+2]
-Gabexate	[Br-].C(=O)(O)CCCN1N=C(C=CC1=[NH2+])C1=CC=C(C=C1)OC
+Gabexate	O=C(Oc1ccc(cc1)C(=O)OCC)CCCCC/N=C(\N)N
 Carbohydrazide	O=C(NN)NN
 2-Methylpyridine	Cc1ccccn1
 WAY-100,635	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
@@ -7677,7 +7677,7 @@ Bevantolol	O(c1ccc(cc1OC)CCNCC(O)COc2cc(ccc2)C)C
 Astromicin	O=C(N(C)[C@@H]2[C@@H](OC)[C@@H](O)[C@H](N)[C@@H](O[C@H]1O[C@H]([C@@H](N)C)CC[C@H]1N)[C@@H]2O)CN
 Micronomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H](C([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CNC)N)N)N)O
 TP-13	C5CCC5c3cc2nnc(-c4ccccc4)n2nc3OCc1ncnn1C
-TP-003	CC(C)(C1=C(C2=NC=C(N2C=C1)C3=C(C=CC(=C3)C4=C(C=C(C=C4)F)C#N)F)F)O
+TP-003	N#Cc4cc(F)ccc4-c1cc(ccc1F)-c2cnc3n2ccc(C(C)(O)C)c3F
 Disulfur	[S][S]
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
@@ -8305,6 +8305,7 @@ Octyl glucoside	CCCCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 1,2-Dichloro-4-nitrobenzene	Clc1ccc(cc1Cl)[N+]([O-])=O
 TCPy	O=C1C(Cl)=CC(Cl)=C(Cl)N1
 Morindone	O=C2c1c(ccc(c1O)C)C(=O)c3c2ccc(O)c3O
+1-Androstenediol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC[C@@H]4[C@@]3(C=C[C@@H](C4)O)C
 1-Testosterone	O=C4\C=C/[C@]1([C@@H](CC[C@@H]2[C@@H]1CC[C@@]3([C@@H](O)CC[C@@H]23)C)C4)C
 Dechlorane plus	Cl\C2=C(/Cl)C3(Cl)C1CCC4C(CCC1C2(Cl)C3(Cl)Cl)C5(Cl)C(\Cl)=C(\Cl)C4(Cl)C5(Cl)Cl
 Bolandione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@H]3CC4
@@ -10191,6 +10192,7 @@ Alovudine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
 Antimony telluride	[SbH3+3].[SbH3+3].[TeH2-2].[TeH2-2].[TeH2-2]
 Mordant Brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
 2-Mercaptopyridine	S=C1/C=C\C=C/N1
+2-Chloropyridine	Clc1ncccc1
 Rogletimide	O=C1NC(=O)CCC1(c2ccncc2)CC
 Bufotenidine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)[O-]
 Neoconvalloside	C[C@@]12[C@@](CC[C@@H]2C3=CC(OC3)=O)(O)[C@]4([H])CC[C@]5(O)C[C@@H](O[C@]6([H])O[C@@H](O)[C@H](O)[C@@H](O)[C@H]6O[C@]7([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)CC[C@]5(C=O)[C@@]4([H])CC1
@@ -12489,7 +12491,6 @@ Chrysophanic acid	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O
 Duclauxin	CC1=CC(=C2C3=C1C(=O)C4C(C3(COC2=O)C5C4(C6=C7C(=COC(=O)C7=C(C=C6C)O)C5=O)OC)OC(=O)C)O
 Bisvertinolone	C/C=C/C=C/C(=O)C1=C[C@]2([C@H]3/C(=C(\C=C\C=C\C)/O)/C(=C(C(=O)[C@]3(O[C@]2([C@@](C1=O)(C)O)O)C)C)O)C
 Hadacidin	C(C(=O)O)N(C=O)O
-Anicequol	C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1[C@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2[C@H](C(=O)[C@@H]4[C@@]3(CC[C@@H](C4)O)C)O)O)C)OC(=O)C
 3-O-Methylfunicone	C/C=C/c1c(c(=O)c(co1)C(=O)c2c(cc(cc2OC)OC)C(=O)OC)OC
 Citromycin	CC1=CC(=O)C2=C(O1)C3=CC(=C(C=C3OC2)O)O
 Quinolacetic acid	O=C\1\C=C/C(O)(/C=C/1)CC(=O)O
@@ -12607,7 +12608,7 @@ Nitromemantine	N[C@@]12C[C@]3(O[N+]([O-])=O)C[C@@](C2)(CC)C[C@@](C1)(CC)C3
 Pellotine	CC1C2=C(C(=C(C=C2CCN1C)OC)OC)O
 Anhalonidine	C[C@H]1c2c(cc(c(c2O)OC)OC)CCN1
 Anhalamine	COC1=C(C(=C2CNCCC2=C1)O)OC
-Anhalidine	Oc1c(OC)c(OC)cc2c1CN(CC2)C
+Anhalidine	OC1=C(C(OC)=CC2=C1CN(C)CC2)OC
 Anhalinine	COC1=C(C(=C2CNCCC2=C1)OC)OC
 N-Methylmescaline	CNCCC1=CC(=C(C(=C1)OC)OC)OC
 Variecolin	C[C@H]1CC(=O)[C@@H]/2[C@H]1C[C@]3(CC[C@@]4(CC[C@@H]([C@H]4[C@@H]3C/C=C2/C=O)C(=C)C)C)C
@@ -12788,7 +12789,7 @@ Radotinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)N3C=C(N=C3)C)C(F)(F)F)NC4=NC=CC(=N4
 Teneligliptin	CC1=NN(C(=C1)N2CCN(CC2)[C@H]3C[C@H](NC3)C(=O)N4CCSC4)C5=CC=CC=C5
 Thiosulfurous acid	OS(S)=O
 4-Hydroxyphenylacetone	CC(=O)CC1=CC=C(C=C1)O
-Metadoxine	Cc1c(c(c(cn1)CO)CO)O.C1CC(=O)N[C@@H]1C(=O)CO
+Metadoxine	Cc1ncc(CO)c(CO)c1O.O=C2CC[C@@H](C(O)=O)N2
 Dazomet	CN1CN(C(=S)SC1)C
 Arcapillin	COC1=C(C=C(C(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O)O
 Morelloflavone	c1cc(ccc1[C@@H]2[C@H](C(=O)c3c(cc(cc3O2)O)O)c4c(cc(c5c4oc(cc5=O)c6ccc(c(c6)O)O)O)O)O
@@ -14315,3 +14316,16 @@ Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
 Velneperit	CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
 Testosterone buciclate	CCCCC1CCC(CC1)C(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
 Ethyltestosterone	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Diethylstilbestrol diacetate	CC\C(=C(\CC)C1=CC=C(OC(C)=O)C=C1)C1=CC=C(OC(C)=O)C=C1
+Diethylstilbestrol dipalmitate	CCCCCCCCCCCCCCCC(=O)OC1=CC=C(C=C1)/C(=C(\CC)/C2=CC=C(C=C2)OC(=O)CCCCCCCCCCCCCCC)/CC
+Diethylstilbestrol dilaurate	CCCCCCCCCCCC(=O)OC1=CC=C(C=C1)C(\CC)=C(/CC)C1=CC=C(OC(=O)CCCCCCCCCCC)C=C1
+Diethylstilbestrol monobenzyl ether	CC/C(=C(/CC)\C1=CC=C(C=C1)OCC2=CC=CC=C2)/C3=CC=C(C=C3)O
+Diethylstilbestrol disulfate	CC/C(=C(/CC)\C1=CC=C(C=C1)OS(=O)(=O)O)/C2=CC=C(C=C2)OS(=O)(=O)O
+ICI-85966	CC/C(=C(/CC)\C1=CC=C(C=C1)OC(=O)N(CCCl)CCCl)/C2=CC=C(C=C2)OC(=O)N(CCCl)CCCl
+Estromustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl
+Estradiol diundecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCC=C
+Estradiol succinate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC(=O)[O-])CCC4=C3C=CC(=C4)O
+Estrone cyanate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CCC2=O)OC#N
+Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl
+16α-LE2	O=C5O[C@H]4[C@](O)([C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3C4)C)C5
+8β-VE2	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@]2(\C=C)CC3)C
