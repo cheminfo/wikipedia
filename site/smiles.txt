@@ -13751,7 +13751,7 @@ MMB-2201	CC(C)[C@@H](C(=O)OC)NC(=O)c1cn(c2c1cccc2)CCCCCF
 4-Methylbuphedrone	CC1=CC=C(C(C(CC)NC)=O)C=C1.Cl
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
 Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
-5F-ADB-PINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
+5F-ADB-PINACA	CC(C)(C)[C@@H](C(=O)N)NC(=O)c1c2ccccc2n(n1)CCCCCF
 AB-FUBICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CC2=CC=C(F)C=C2)C3=CC=CC=C31
 ADB-FUBICA	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)N[C@@H](C(C)(C)C)C(N)=O
 AB-PICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CCCCC)C2=CC=CC=C21
@@ -14324,8 +14324,13 @@ Diethylstilbestrol disulfate	CC/C(=C(/CC)\C1=CC=C(C=C1)OS(=O)(=O)O)/C2=CC=C(C=C2
 ICI-85966	CC/C(=C(/CC)\C1=CC=C(C=C1)OC(=O)N(CCCl)CCCl)/C2=CC=C(C=C2)OC(=O)N(CCCl)CCCl
 Estromustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl
 Estradiol diundecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCC=C
-Estradiol succinate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC(=O)[O-])CCC4=C3C=CC(=C4)O
+Estradiol succinate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)CCC(=O)O)O
 Estrone cyanate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CCC2=O)OC#N
 Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl
 16α-LE2	O=C5O[C@H]4[C@](O)([C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3C4)C)C5
 8β-VE2	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@]2(\C=C)CC3)C
+16α-Iodo-E2	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)I)CCC4=C3C=CC(=C4)O
+17β-Dihydroequilin	C[C@]12CC[C@H]3C(=CCC4=C3C=CC(=C4)O)[C@@H]1CC[C@@H]2O
+17α-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@H]2O)C=CC4=C3C=CC(=C4)O
+17β-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@@H]2O)C=CC4=C3C=CC(=C4)O
+8,9-Dehydroestrone	C[C@]12CCC3=C([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O
