@@ -591,7 +591,7 @@ Tranylcypromine	c1cccc(c1)[C@@H]2C[C@H]2N
 Cubane	C12C3C4C1C5C2C3C45
 Ecdysone	O=C1\C=C3/[C@@H]([C@]2(C[C@H](O)[C@H](O)C[C@@H]12)C)CC[C@]4([C@@]3(O)CC[C@@H]4[C@H](C)[C@H](O)CCC(O)(C)C)C
 Linezolid	O=C1O[C@@H](CNC(=O)C)CN1c3cc(F)c(N2CCOCC2)cc3
-Meticillin	OC(=O)[C@@H]2N3C(=O)[C@@H](NC(=O)c1c(OC)cccc1OC)[C@H]3SC2(C)C
+Methicillin	OC(=O)[C@@H]2N3C(=O)[C@@H](NC(=O)c1c(OC)cccc1OC)[C@H]3SC2(C)C
 Alamethicin	CC(C)CC(C(=O)NC(C)(C)C(=O)N1CCCC1C(=O)NC(C(C)C)C(=O)NC(C)(C)C(=O)NC(C)(C)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(Cc2ccccc2)CO)NC(=O)CNC(=O)C(C)(C)NC(=O)C(C(C)C)NC(=O)C(C)(C)NC(=O)C(CCC(=O)N)NC(=O)C(C)NC(=O)C(C)(C)NC(=O)C(C)NC(=O)C(C)(C)NC(=O)C3CCCN3C(=O)C(C)(C)NC(=O)C
 Alamethicin	CC(C)C[C@@H](C(=O)NC(C)(C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(=O)NC(C)(C)C(=O)NC(C)(C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC2=CC=CC=C2)CO)NC(=O)CNC(=O)C(C)(C)NC(=O)[C@H](C(C)C)NC(=O)C(C)(C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C)NC(=O)C(C)(C)NC(=O)[C@H](C)NC(=O)C(C)(C)NC(=O)[C@@H]3CCCN3C(=O)C(C)(C)NC(=O)C
 1-Aminocyclopropane-1-carboxylic acid	O=C(O)C1(N)CC1
@@ -14301,6 +14301,7 @@ Estradiol 3-propionate	CCC(=O)Oc1ccc2c(c1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]
 Hexestrol dicaprylate	CCCCCCCC(=O)OC1=CC=C(C=C1)C(CC)C(CC)C2=CC=C(C=C2)OC(=O)CCCCCCC
 Mestilbol	CCC(=C(CC)C1=CC=C(C=C1)OC)C2=CC=C(C=C2)O
 N,N-Dimethylphenethylamine	CN(C)CCC1=CC=CC=C1
+1,2-Octanediol	CCCCCCOCCO
 Terfluranol	CC(C1=CC=C(C=C1)O)C(CC(F)(F)F)C2=CC=C(C=C2)O
 Pentafluranol	CC(C1=CC(=C(C=C1)O)F)C(CC(F)(F)F)C2=CC(=C(C=C2)O)F
 Clomestrone	CC12CCC3C(C1CC(C2=O)Cl)CCC4=C3C=CC(=C4)OC
@@ -14334,3 +14335,13 @@ Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC
 17α-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@H]2O)C=CC4=C3C=CC(=C4)O
 17β-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@@H]2O)C=CC4=C3C=CC(=C4)O
 8,9-Dehydroestrone	C[C@]12CCC3=C([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O
+2-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=C(C=C34)O)O
+16β,17α-Epiestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]([C@H]2O)O)CCC4=C3C=CC(=C4)O
+1-Keto-1,2,3,4-tetrahydrophenanthrene	C1CC2=C(C=CC3=CC=CC=C23)C(=O)C1
+Estriol triacetate	CC(=O)O[C@@H]1C[C@H]2[C@@H]3CCC4=C([C@H]3CC[C@@]2([C@H]1OC(=O)C)C)C=CC(=C4)OC(=O)C
+Estradiol mustard	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl)CCC5=C3C=CC(=C5)OC(=O)CC6=CC=C(C=C6)N(CCCl)CCCl
+16α-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H](C2=O)O)CCC4=C3C=CC(=C4)O
+FERb 033	c1cc(c(cc1c2ccc(c(c2Cl)O)/C=N/O)F)O
+WAY-166818	OC1=CC=C(C=C1)C1=NC2=CC(O)=CC=C2O1
+Estradiol butyrate benzoate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5)C
+Dimethyltrienolone	C[C@@H]1CC2=CC(=O)CCC2=C3C1C4CC[C@](C4(C=C3)C)(C)O
