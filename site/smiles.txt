@@ -6524,6 +6524,7 @@ Amonafide	O=C2c1c3c(ccc1)cc(cc3C(=O)N2CCN(C)C)N
 Imexon	O=C1/N=C(/N)C2N1C2
 Amrubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@](C(=O)C)(N)C[C@@H]5O[C@@H]4OC[C@@H](O)[C@@H](O)C4
 Proglumide	CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)c1ccccc1
+Ibudilast	CC(C)C(=O)c1c(nn2ccccc12)C(C)C
 Sodium maleonitriledithiolate	[Na+].[Na+].[S-]/C(C#N)=C(/[S-])C#N
 Felinine	O=C(O)[C@@H](N)CSC(CCO)(C)C
 3-Mercapto-3-methylbutan-1-ol	OCCC(S)(C)C
@@ -14135,7 +14136,7 @@ Estradiol monopropionate	CCC(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)O)C
 Estradiol palmitate	CCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
 Estradiol propoxyphenylpropionate	CCCOc1ccc(CCC(=O)O[C@H]2CC[C@H]3[C@@H]4CCc5cc(O)ccc5[C@H]4CC[C@]23C)cc1
 Estradiol stearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
-Estradiol hemisuccinate	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2OC(=O)CCC(O)=O
+Estradiol hemisuccinate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)CCC(=O)O)O
 Atrimustine	C[C@]12CC[C@H]3[C@@H](CCc4cc(OC(=O)c5ccccc5)ccc34)[C@@H]1CC[C@@H]2OC(=O)COC(=O)CCCc6ccc(cc6)N(CCCl)CCCl
 Estradiol pivalate	CC(C)(C)C(=O)O[C@H]1CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@]12C
 Estriol tripropionate	CCC(=O)O[C@@H]1C[C@H]2[C@@H]3CCc4cc(OC(=O)CC)ccc4[C@H]3CC[C@]2(C)[C@H]1OC(=O)CC
@@ -14324,7 +14325,6 @@ Diethylstilbestrol disulfate	CC/C(=C(/CC)\C1=CC=C(C=C1)OS(=O)(=O)O)/C2=CC=C(C=C2
 ICI-85966	CC/C(=C(/CC)\C1=CC=C(C=C1)OC(=O)N(CCCl)CCCl)/C2=CC=C(C=C2)OC(=O)N(CCCl)CCCl
 Estromustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl
 Estradiol diundecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCC=C
-Estradiol succinate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)CCC(=O)O)O
 Estrone cyanate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CCC2=O)OC#N
 Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl
 16α-LE2	O=C5O[C@H]4[C@](O)([C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3C4)C)C5
@@ -14344,4 +14344,7 @@ FERb 033	c1cc(c(cc1c2ccc(c(c2Cl)O)/C=N/O)F)O
 WAY-166818	OC1=CC=C(C=C1)C1=NC2=CC(O)=CC=C2O1
 Estradiol butyrate benzoate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5)C
 Dimethyltrienolone	C[C@@H]1CC2=CC(=O)CCC2=C3C1C4CC[C@](C4(C=C3)C)(C)O
+2-Ethylhexyl acrylate	CCCCC(CC)COC(=O)C=C
 8,9-Dehydroestradiol	Oc4cc3c(/C1=C(/[C@@H]2CC[C@H](O)[C@]2(CC1)C)CC3)cc4
+MP-2001	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=C(C=C34)OC)OC)OC
+Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O)C
