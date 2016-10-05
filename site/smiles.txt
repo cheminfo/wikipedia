@@ -778,6 +778,7 @@ Aciclovir	O=C2/N=C(\Nc1n(cnc12)COCCO)N
 Edrophonium	[Cl-].Oc1cccc(c1)[N+](C)(CC)C
 Pilocarpine	O=C2OC[C@H](Cc1n(cnc1)C)[C@@H]2CC
 Bromocriptine	BrC1=C(C[C@H]2N(C)C3)C4=C(C=CC=C4C2=C[C@H]3C(N[C@]5(C(C)C)O[C@@]6(N([C@@H](CC(C)C)C(N7CCC[C@H]76)=O)C5=O)O)=O)N1
+Hydroiodic acid	I
 Potassium cyanide	[K+].[C-]#N
 Carnosine	c1c(nc[nH]1)C[C@@H](C(=O)O)NC(=O)CCN
 Carnosine	O=C(O)C(NC(=O)CCN)Cc1c[nH]cn1
@@ -9689,7 +9690,6 @@ Chlorobenzilate	Clc1ccc(cc1)C(O)(c2ccc(Cl)cc2)C(=O)OCC
 Chlornaphazine	ClCCN(c2ccc1c(cccc1)c2)CCCl
 Synthalin	NC(=N)NCCCCCCCCCCNC(N)=N
 Pentachlorobenzene	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl
-Benzoxepin	C1=CC=C2C(=C1)C=CC=CO2
 Phosphamidon	CCN(CC)C(=O)/C(=C(\C)/OP(=O)(OC)OC)/Cl
 Piperic acid	C1OC2=C(O1)C=C(C=C2)/C=C/C=C/C(=O)O
 NS-398	CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2CCCCC2
@@ -14348,3 +14348,4 @@ Dimethyltrienolone	C[C@@H]1CC2=CC(=O)CCC2=C3C1C4CC[C@](C4(C=C3)C)(C)O
 8,9-Dehydroestradiol	Oc4cc3c(/C1=C(/[C@@H]2CC[C@H](O)[C@]2(CC1)C)CC3)cc4
 MP-2001	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=C(C=C34)OC)OC)OC
 Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O)C
+3-Benzoxepin	C1=CC=C2C=COC=CC2=C1
