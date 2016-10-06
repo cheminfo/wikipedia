@@ -2144,7 +2144,7 @@ Isoprenaline	Oc1ccc(cc1O)C(O)CNC(C)C
 Xenon tetrafluoride	F[Xe](F)(F)F
 Xenon hexafluoride	F[Xe](F)(F)(F)(F)F
 Ketotifen	O=C3c1sccc1C(\c2c(cccc2)C3)=C4/CCN(C)CC4
-Kanamycin	O([C@@H]2[C@@H](O)[C@H](O[C@H]1O[C@H](CN)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)C[C@H]2N)[C@H]3O[C@@H]([C@@H](O)[C@H](N)[C@H]3O)CO
+Kanamycin A	O([C@@H]2[C@@H](O)[C@H](O[C@H]1O[C@H](CN)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)C[C@H]2N)[C@H]3O[C@@H]([C@@H](O)[C@H](N)[C@H]3O)CO
 Diethyl sulfate	O=S(=O)(OCC)OCC
 Diethyl sulfite	O=S(OCC)OCC
 Decanoic acid	O=C(O)CCCCCCCCC
@@ -14327,8 +14327,8 @@ Estromustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCC
 Estradiol diundecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCC=C
 Estrone cyanate	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CCC2=O)OC#N
 Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl
-16α-LE2	O=C5O[C@H]4[C@](O)([C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3C4)C)C5
-8β-VE2	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@]2(\C=C)CC3)C
+16α-LE2	O=C1O[C@@]2([H])[C@]([C@@]3(C)CC[C@]4([H])C5=CC=C(C=C5CC[C@@]4([H])[C@]3([H])C2)O)(C1)O
+8β-VE2	C=C[C@@]12CCC3=CC(O)=CC=C3[C@@]1([H])CC[C@]4([C@@]2([H])CC[C@]4([H])O)C
 16α-Iodo-E2	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)I)CCC4=C3C=CC(=C4)O
 17β-Dihydroequilin	C[C@]12CC[C@H]3C(=CCC4=C3C=CC(=C4)O)[C@@H]1CC[C@@H]2O
 17α-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@H]2O)C=CC4=C3C=CC(=C4)O
