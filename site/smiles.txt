@@ -2648,6 +2648,7 @@ TMPTA	CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Triptycene	C12=CC=CC=C1C3C5=C(C=CC=C5)C2C4=C3C=CC=C4
 Chlorophyll d	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCCC(\C)=C\COC(=O)CC[C@H]6[C@H](C)C=5/C=C/2\N\1[Mg]n4c(\C=C\3/N=C(/C=C/1C(\C=O)=C\2\C)C(/C)=C/3/CC)c(C)c7c4\C(=C6/N=5)[C@@H](C(=O)OC)C7=O
 3-Dehydroquinic acid	O=C1[C@@H](O)[C@H](O)C[C@](O)(C(=O)O)C1
+Nanocar	CCCCCCCCCCOc1cc(c(cc1C#Cc2cc(ccc2C#Cc3cc(c(cc3OCCCCCCCCCC)C#CC45c6c7c8c9c1c2c3c%10c%11c%12c%13c3c1c1c8c3c6c6c4c4c8c%14c%15c%16c(c%11c%11c%10c%10c2c2c9c7c7c9c2c%10c2c%11c%16c%10c2c9c(c4c%10%14)C57)c2c%12c4c%13c1c3c1c4c(c2%15)c8c16)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#Cc1cc(ccc1C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC
 Tiletamine	O=C2C(c1sccc1)(NCC)CCCC2
 Mangostin	CC(=CCC1=C(C=C2C(=C1O)C(=O)C3=C(C(=C(C=C3O2)O)OC)CC=C(C)C)O)C
 1,2,3-Triazole	c1cnn[nH]1
@@ -11917,7 +11918,7 @@ Demephion	S=P(OC)(OCCSC)OC
 Demephion	O=P(OC)(OC)SCCSC
 BAY 29952	S=P(Oc1ccc(SC)cc1)(OCC)C
 CP-40294	S=P(Oc1ccc(cc1)[N+]([O-])=O)(Oc2ccccc2)C
-Nestorone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@](OC(=O)C)(C(=C)\C[C@H]3[C@@H]1CC2)C(=O)C)C)CC4
+Segesterone acetate	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@](OC(=O)C)(C(=C)\C[C@H]3[C@@H]1CC2)C(=O)C)C)CC4
 19-Norprogesterone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](C(=O)C)CC[C@H]3[C@@H]1CC2)C)CC4
 Prothoate	O=C(NC(C)C)CSP(=S)(OCC)OCC
 Falcarindiol	O[C@@H](C#CC#C[C@@H](O)\C=C/CCCCCCC)\C=C
