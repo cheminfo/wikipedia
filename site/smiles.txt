@@ -14352,3 +14352,5 @@ MP-2001	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=C(C=C34)OC)OC)OC
 Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O)C
 3-Benzoxepin	C1=CC=C2C=COC=CC2=C1
 Difluoroacetic acid	C(C(=O)O)(F)F
+Allyltestosterone	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)CC=C
+Lolitrem B	CC(=CC1OC2C(C(O1)(C)C)OC3CCC4(C5(C(CCC4(C36C2O6)O)CC7=C5NC8=C7C9=C(C=C8)C(=O)C1C(C9)C(OC1(C)C)(C)C)C)C)C
