@@ -8964,6 +8964,7 @@ Betamethasone 17-valerate	O=C(O[C@@]3(C(=O)CO)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(
 Fluprednisolone	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)C[C@@H](C4=CC(=O)C=C[C@]34C)F)O
 Melengestrol acetate	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@](OC(=O)C)(C(=C)\C[C@@H]12)C(=O)C)C)[C@@]3(C)CC4)C
 Algestone acetophenide	O=C(C)[C@]25O[C@@](O[C@@H]5C[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@]3(/C(=C\C(=O)CC3)CC4)C)(c6ccccc6)C
+Medroxyprogesterone acetate	C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CC(=O)CC4)C
 Medrogestone	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](C(=O)C)(CC[C@@H]12)C)C)[C@@]3(C)CC4)C
 Promegestone	CCC(=O)[C@]1(CC[C@@H]2[C@@]1(CCC3=C4CCC(=O)C=C4CC[C@@H]23)C)C
 19-Iodocholesterol	CC(C)CCC[C@@H](C)[C@H]3CC[C@H]2[C@@H]4C\C=C1\C[C@@H](O)CC[C@]1(CI)[C@H]4CC[C@@]23C
@@ -14354,3 +14355,6 @@ Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O
 Difluoroacetic acid	C(C(=O)O)(F)F
 Allyltestosterone	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)CC=C
 Lolitrem B	CC(=CC1OC2C(C(O1)(C)C)OC3CCC4(C5(C(CCC4(C36C2O6)O)CC7=C5NC8=C7C9=C(C=C8)C(=O)C1C(C9)C(OC1(C)C)(C)C)C)C)C
+FK1012	C[C@@H]1C[C@@H]([C@@H]2[C@@H](C[C@H](C(O2)C(=O)C(=O)N3CCCCC3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\C)C/C=C/CC4/C=C(/C[C@@H](C[C@@H]([C@@H]5[C@@H](C[C@H]([C@@](O5)(C(=O)C(=O)N6CCCCC6C(=O)O[C@@H]([C@@H]([C@H](CC4=O)O)C)/C(=C/[C@@H]7CC[C@H]([C@@H](C7)OC)O)/C)O)C)OC)OC)C)\C)O)C)/C(=C/[C@@H]8CC[C@H]([C@@H](C8)OC)O)/C)C)OC)OC
+Norhydrocodone	COC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4)[C@@H](O2)C(=O)CC5)C=C1
+Noroxycodone	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4)[C@@H](O2)C(=O)CC5)O)C=C1
