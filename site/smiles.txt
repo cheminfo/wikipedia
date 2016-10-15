@@ -930,7 +930,7 @@ Succinyl-CoA	O=C(O)CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[
 5-Methoxy-diisopropyltryptamine	CC(C)N(C(C)C)CCC1=C[NH]C(C=C2)=C1C=C2OC
 1,4-Butanediol	C(CCO)CO
 Isosorbide dinitrate	[O-][N+](=O)O[C@H]1[C@H]2OC[C@H](O[N+]([O-])=O)[C@H]2OC1
-Desmopressin	NC(=O)CNC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@@H]1CCCN1C(=O)[C@@H]4CSSCCC(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N4
+Desmopressin	NC(=O)CNC(=O)[C@@H](CCCNC(N)=N)NC(=O)[C@@H]1CCCN1C(=O)[C@@H]4CSSCCC(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N4
 Glucosamine	N[C@H]1C(O)OC(CO)[C@@H](O)[C@@H]1O
 Valpromide	CCCC(CCC)C(N)=O
 Sodium sulfate	[Na+].[Na+].[O-]S([O-])(=O)=O
@@ -14357,3 +14357,5 @@ Lolitrem B	CC(=CC1OC2C(C(O1)(C)C)OC3CCC4(C5(C(CCC4(C36C2O6)O)CC7=C5NC8=C7C9=C(C=
 FK1012	C[C@@H]1C[C@@H]([C@@H]2[C@@H](C[C@H](C(O2)C(=O)C(=O)N3CCCCC3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\C)C/C=C/CC4/C=C(/C[C@@H](C[C@@H]([C@@H]5[C@@H](C[C@H]([C@@](O5)(C(=O)C(=O)N6CCCCC6C(=O)O[C@@H]([C@@H]([C@H](CC4=O)O)C)/C(=C/[C@@H]7CC[C@H]([C@@H](C7)OC)O)/C)O)C)OC)OC)C)\C)O)C)/C(=C/[C@@H]8CC[C@H]([C@@H](C8)OC)O)/C)C)OC)OC
 Norhydrocodone	COC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4)[C@@H](O2)C(=O)CC5)C=C1
 Noroxycodone	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4)[C@@H](O2)C(=O)CC5)O)C=C1
+Agaric acid	CCCCCCCCCCCCCCCCC(C(=O)O)C(CC(=O)O)(C(=O)O)O
+Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([C@H]3c4cc(c(cc4)O)OC)C(=O)O[C@H]5[C@H]([C@H]6[C@@H](C5)[C@H](CN(C6)C)C)C)c7cc(c(cc7)O)OC)C)CN(C1)C
