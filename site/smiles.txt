@@ -6520,7 +6520,7 @@ Annamycin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@@](O)(C(=O)CO)C[C@@H]5O[C@@H]4O
 Ioflupane (123I)	COC(=O)[C@@H]1[C@H]2CCC(N2CCCF)C[C@@H]1C3=CC=C(C=C3)[123I]
 Derrubone	CC(=CCC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC4=C(C=C3)OCO4)O)C
 Lapaquistat	O=C(O)CC4CCN(C(=O)C[C@H]1O[C@@H](c2cc(Cl)ccc2N(C1=O)CC(C)(C)CO)c3cccc(OC)c3OC)CC4
-Katanosin	O=C(N)C(O)C2C(=O)NC(C(=O)OC(c1ccccc1)C(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)N2)C(O)C)C(C)CC)CCC/N=C(\N)N)CC(C)C)C(O)C(C)C)NC(=O)C(NC(=O)C(N)CC(C)C)CC(C)C)CO
+Katanosin	O=C(N)C(O)C2C(=O)NC(C(=O)OC(c1ccccc1)C(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)N2)C(O)C)C(C)CC)CCCN=C(N)N)CC(C)C)C(O)C(C)C)NC(=O)C(NC(=O)C(N)CC(C)C)CC(C)C)CO
 Amonafide	O=C2c1c3c(ccc1)cc(cc3C(=O)N2CCN(C)C)N
 Imexon	O=C1/N=C(/N)C2N1C2
 Amrubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@](C(=O)C)(N)C[C@@H]5O[C@@H]4OC[C@@H](O)[C@@H](O)C4
@@ -14359,3 +14359,4 @@ Norhydrocodone	COC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4)[C@@H](O2)C(=O)CC5)C=C1
 Noroxycodone	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4)[C@@H](O2)C(=O)CC5)O)C=C1
 Agaric acid	CCCCCCCCCCCCCCCCC(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([C@H]3c4cc(c(cc4)O)OC)C(=O)O[C@H]5[C@H]([C@H]6[C@@H](C5)[C@H](CN(C6)C)C)C)c7cc(c(cc7)O)OC)C)CN(C1)C
+5-MBPB	CCC(NC)Cc2ccc1occc1c2
