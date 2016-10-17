@@ -14280,6 +14280,7 @@ Lanepitant	CC(=O)N(CC1=CC=CC=C1OC)C[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)CN4CCC(CC4)N5
 Befetupitant	CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCOCC4
 Burapitant	CC(C)(C1CCN(CC1)CC[C@]2(CN(CCO2)C(=O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=CC(=C(C=C4)Cl)Cl)C(=O)N
 Metanilic acid	C1=CC(=CC(=C1)S(=O)(=O)
+O-sec-Butylphenol	CCC(C)C1=CC=CC=C1O
 Ethanesulfonic acid	CCS(O)(=O)=O
 Acetomepregenol	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(CC4)OC(=O)C)C
 Di-tert-butyl-iminodicarboxylate	CC(C)(C)OC(=O)NC(=O)OC(C)(C)C
@@ -14360,3 +14361,4 @@ Noroxycodone	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4)[C@@H](O2)C(=O)CC5)O)C=C1
 Agaric acid	CCCCCCCCCCCCCCCCC(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([C@H]3c4cc(c(cc4)O)OC)C(=O)O[C@H]5[C@H]([C@H]6[C@@H](C5)[C@H](CN(C6)C)C)C)c7cc(c(cc7)O)OC)C)CN(C1)C
 5-MBPB	CCC(NC)Cc2ccc1occc1c2
+Pungenin	CC(=O)C1=CC(=C(C=C1)O)OC2C(C(C(C(O2)CO)O)O)O
