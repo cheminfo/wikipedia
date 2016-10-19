@@ -11659,7 +11659,7 @@ Domoxin	O1c3c(OC(C1)CN(N)Cc2ccccc2)cccc3
 Carbenzide	O=C(OCC)NNC(c1ccccc1)C
 Minamestane	O=C4\C=C/[C@]3(C(/C=C\[C@H]2[C@H]1[C@@](C(=O)CC1)(CC[C@@H]23)C)=C4/N)C
 Plomestane	O=C4\C=C3/[C@@](CC#C)([C@H]2CC[C@@]1(C(=O)CC[C@H]1[C@@H]2CC3)C)CC4
-Estradiol undecylate	O=C(O[C@H]3CC[C@H]4[C@H]2[C@@H](c1ccc(O)cc1CC2)CC[C@]34C)CCCCCCCCCC
+Estradiol undecylate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
 Estradiol dipropionate	O=C(Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](OC(=O)CC)CC[C@H]4[C@@H]2CC3)C)CC
 Prinaberel	O=C3\C=C/C(=C2/Oc1c(cc(O)cc1N2)\C=C)/C=C3/F
 Nitecapone	[O-][N+](=O)c1cc(\C=C(/C(=O)C)C(=O)C)cc(O)c1O
@@ -14362,3 +14362,4 @@ Agaric acid	CCCCCCCCCCCCCCCCC(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([C@H]3c4cc(c(cc4)O)OC)C(=O)O[C@H]5[C@H]([C@H]6[C@@H](C5)[C@H](CN(C6)C)C)C)c7cc(c(cc7)O)OC)C)CN(C1)C
 5-MBPB	CCC(NC)Cc2ccc1occc1c2
 Pungenin	CC(=O)C1=CC(=C(C=C1)O)OC2C(C(C(C(O2)CO)O)O)O
+Valbenazine	CC(C)C[C@@H]1CN2CCc3cc(c(cc3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC
