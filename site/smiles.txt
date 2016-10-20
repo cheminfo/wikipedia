@@ -1344,7 +1344,6 @@ Pralatrexate	O=C(O)[C@@H](NC(=O)c1ccc(cc1)C(CC#C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
 Tanespimycin	C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCC=C)/C)OC)OC(=O)N)\C)C)O)OC
 2-Methoxyestradiol	Oc1cc3c(cc1OC)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@@H]2CC3)C
 3-Aminopyridine-2-carboxaldehyde thiosemicarbazone	S=C(N\N=C\c1ncccc1N)N
-3-Aminopyridine-2-carboxaldehyde thiosemicarbazone	C1=CC(=C(N=C1)C=NNC(=S)N)N
 Idarubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@@](O)(C(=O)C)C[C@@H]5O[C@@H]4O[C@H]([C@@H](O)[C@@H](N)C4)C
 4-Nitroquinoline 1-oxide	[O-][N+](=O)c2c1c(cccc1)[n+]([O-])cc2
 Fluorouracil	c1c(c(=O)[nH]c(=O)[nH]1)F
@@ -1706,7 +1705,6 @@ Phosphorus tribromide	BrP(Br)Br
 Silver sulfadiazine	[Ag+].O=S(=O)([N-]c1ncccn1)c2ccc(N)cc2
 Citronellal	O=CCC(CC/C=C(/C)C)C
 Citral	O=CC=C(C)CCC=C(C)C
-Citral	O=C/C=C(/CC/C=C(/C)C)C
 Ionone	O=C(\C=C\C1\C(=C)CCCC1(C)C)C
 Para Red	O=N(=O)c1ccc(cc1)/N=N/c2c3ccccc3ccc2O
 Diphenoxylate	N#CC(c1ccccc1)(c2ccccc2)CCN4CCC(c3ccccc3)(C(=O)OCC)CC4
@@ -1844,7 +1842,6 @@ Palytoxin	NC[C@@H]1C[C@H]([C@H](O1)CC[C@H]1O[C@@H]2C[C@H](O[C@H]1C2)C[C@H]([C@@H
 Tranexamic acid	NC[C@@H]1CC[C@H](CC1)C(O)=O
 2-Butene	C/C=C\C
 2-Butene	C/C=C/C
-2-Butene	C(=CC)C
 Benzoin	c1ccc(cc1)C(C(=O)c2ccccc2)O
 Daunorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)C)O)N)O
 Desonide	O=C\1\C=C/[C@]2(/C(=C/1)CC[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)(C)C)C(=O)CO)C)C
@@ -7711,7 +7708,6 @@ Diethylamino hydroxybenzoyl hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1C(=O)C2=C(C(=C
 Safinamide	O=C(N)[C@@H](NCc2ccc(OCc1cccc(F)c1)cc2)C
 Lurasidone	C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]7CC[C@@H](C7)[C@H]6C5=O
 Geiparvarin	CC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C3=CC(=O)C(O3)(C)C
-Geiparvarin	O=C/3Oc2c(ccc(OC/C=C(/C=1OC(C(=O)C=1)(C)C)C)c2)\C=C\3
 Stryker's reagent	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CuH].[CuH].[CuH].[CuH].[CuH].[CuH]
 Docusate	[Na+].[O-]S(=O)(=O)C(C(=O)OCC(CC)CCCC)CC(=O)OCC(CC)CCCC
 Clofilium	Clc1ccc(cc1)CCCC[N+](CC)(CC)CCCCCCC
@@ -7813,7 +7809,6 @@ Silver trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].[Ag+]
 Tert-Butyl hydroperoxide	CC(C)(C)OO
 Dinoseb	[O-][N+](=O)c1cc(cc(c1O)C(CC)C)[N+]([O-])=O
 Desmethoxyyangonin	O=C/1O\C(=CC(\OC)=C\1)\C=C\c2ccccc2
-Desmethoxyyangonin	COC1=CC(=O)OC(=C1)C=CC2=CC=CC=C2
 Kavain	COC1=CC(=O)OC(C1)/C=C/C2=CC=CC=C2
 Alfetamine	NC(Cc1ccccc1)C\C=C
 Archaeol	CC(C)CCCC(C)CCCC(C)CCCC(C)CCOCC(CO)OCCC(C)CCCC(C)CCCC(C)CCCC(C)C
@@ -8463,7 +8458,6 @@ Chrome alum	[K]OS(=O)(=O)O[Cr]1OS(=O)(=O)O1
 3-Aminoacridine	n1c3c(cc2c1cccc2)ccc(c3)N
 4-Aminoacridine	Nc2cccc1cc3ccccc3nc12
 P-Azobenzenearsonate	O[As](O)(=O)c2ccc(/N=N/c1ccc(cc1)[As](O)(O)=O)cc2
-P-Azobenzenearsonate	O[As](O)(=O)C1=CC=C(C=C1)N=NC1=CC=C(C=C1)[As](O)(O)=O
 Arsenamide	O=C(N)c1ccc(cc1)[As](SCC(=O)O)SCC(=O)O
 Methasterone	O=C2C[C@@H]1CC[C@@H]3[C@@H]([C@@]1(C)C[C@H]2C)CC[C@]4([C@H]3CC[C@@]4(O)C)C
 Lodenosine	F[C@H]3C[C@H](O[C@H]3n2cnc1c(ncnc12)N)CO
@@ -9232,7 +9226,6 @@ Vitexin	O=C2\C=C(/Oc1c(c(O)cc(O)c12)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO)c
 Properties of water	O
 RTI-274	c4cc1OCOc1cc4OCC2C(c3ccc(F)cc3)CC5NC2CC5
 1,4-Dichlorobut-2-ene	ClC/C=C/CCl
-1,4-Dichlorobut-2-ene	ClCC=CCCl
 Scutellarein	C13=C(OC(=CC1=O)C2=CC=C(O)C=C2)C=C(O)C(=C3O)O
 Calcium bromate	[Ca+2].[O-]Br(=O)=O.[O-]Br(=O)=O
 Wogonin	COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O
@@ -10269,7 +10262,6 @@ Costunolide	O=C/1O[C@@H]2/C=C(/CC/C=C(/CC[C@H]2C\1=C)C)C
 1,1,1,3,3,3-Hexafluoropropane	FC(F)(F)CC(F)(F)F
 6-APB	NC(C)CC1=CC(OC=C2)=C2C=C1
 3-Phenylazoacetylacetone	O=C(C(/N=N/c1ccccc1)C(=O)C)C
-3-Phenylazoacetylacetone	CC(=O)C(C(=O)C)N=NC1=CC=CC=C1
 LY-293284	CCCN(CCC)[C@H]1CC2=CNC3=C2C(=C(C=C3)C(=O)C)C1
 S-18986	C1C[C@@H]2NS(=O)(=O)C3=CC=CC=C3N2C1
 Tivozanib	O=C(Nc1noc(c1)C)Nc4ccc(Oc2c3cc(OC)c(OC)cc3ncc2)cc4Cl
@@ -12079,7 +12071,6 @@ Imazaquin	O=C(O)c2c(nc1ccccc1c2)/C3=N/C(C(=O)N3)(C(C)C)C
 Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 2-Vinylpyridine	C=CC1=CC=CC=N1
 6-Nonenal	O=CCCCCC=CCC
-6-Nonenal	O=CCCCC/C=C/CC
 6-Nonenal	O=CCCCC/C=C\CC
 (S)-iPr-PHOX	CC(C)[C@@H](CO1)N=C1C2=CC=CC=C2P(C3=CC=CC=C3)C4=CC=CC=C4
 Cyclohexylacetone	O=C(CC1CCCCC1)C
