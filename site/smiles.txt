@@ -1717,7 +1717,7 @@ Limonene	CC1=CCC(CC1)C(=C)C
 Acetoin	CC(=O)C(C)O
 Avizafone	Clc1cc(c(N(C(=O)CNC(=O)[C@@H](N)CCCCN)C)cc1)C(=O)c2ccccc2
 MBDB	CCC(CC1=CC2=C(C=C1)OCO2)NC
-1,8-Diazabicycloundec-7-ene	N\2=C1\N(CCCCC1)CCC/2
+1,8-Diazabicyclo(5.4.0)undec-7-ene	N\2=C1\N(CCCCC1)CCC/2
 Benzonatate	O=C(OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)c1ccc(NCCCC)cc1
 Phosphorus pentabromide	BrP(Br)(Br)(Br)Br
 Falcarinol	C(#CC#C[C@@H](O)\C=C)C\C=C/CCCCCCC
@@ -14353,3 +14353,4 @@ Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([
 5-MBPB	CCC(NC)Cc2ccc1occc1c2
 Pungenin	CC(=O)C1=CC(=C(C=C1)O)OC2C(C(C(C(O2)CO)O)O)O
 Valbenazine	CC(C)C[C@@H]1CN2CCc3cc(c(cc3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC
+2-Ethyl-2-oxazoline	CCC1=NCCO1
