@@ -3461,7 +3461,7 @@ Bronidox	O=[N+]([O-])C1(Br)COCOC1
 Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
 Cytochalasin E	C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C
-Distearyldimethylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
+Dimethyldioctadecylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
 Veratridine	O=C(O[C@H]7CC[C@@]1([C@@]65O[C@@]7(O)[C@H]1CC[C@H]6[C@@]2(O)[C@](O)([C@H]4[C@](O)([C@@H](O)C2)[C@@](O)(C)[C@H]3N(C[C@@H](C)CC3)C4)C5)C)c8ccc(OC)c(OC)c8
 Triphenylmethyl radical	c1ccc(cc1)[C](c1ccccc1)c1ccccc1
 1,2-Bis(diphenylphosphino)ethane	P(c1ccccc1)(c2ccccc2)CCP(c3ccccc3)c4ccccc4
@@ -4997,6 +4997,7 @@ Hexamethyltungsten	C[W](C)(C)(C)(C)C
 Propallylonal	O=C1NC(=O)NC(=O)C1(C(C)C)CC(\Br)=C
 Reposal	O=C1NC(=O)NC(=O)C1(CC)C=3C[C@H]2C[C@H](CC2)C=3
 Dantron	O=C2c1cccc(O)c1C(=O)c3c2cccc3O
+Phosphorylethanolamine	C(COP(=O)(O)O)N
 Deferiprone	O=C\1C(\O)=C(/N(/C=C/1)C)C
 Levobetaxolol	O(CCc1ccc(OC[C@@H](O)CNC(C)C)cc1)CC2CC2
 2-Methyl-2-nitrosopropane	CC(C)(C)N=O
@@ -9327,6 +9328,7 @@ S-17092	O=C(N1CCCC1)[C@H]4N(C(=O)[C@H]3[C@H](c2ccc(F)cc2)C3)[C@H]5CCCC[C@H]5C4
 Caftaric acid	O=C(O)[C@H](O)[C@@H](OC(=O)\C=C\c1cc(O)c(O)cc1)C(=O)O
 Melacacidin	Oc1ccc(cc1O)[C@H]3Oc2c(O)c(O)ccc2[C@@H](O)[C@H]3O
 Leucodelphinidin	C1=C(C=C(C(=C1O)O)O)C2C(C(C3=C(C=C(C=C3O2)O)O)O)O
+Dimethyldioctadecylammonium bromide	CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Br-]
 Furfurylamine	o1c(ccc1)CN
 Progoitrin	OC[C@H]1O[C@@H](SC(C[C@@H](O)C=C)=NOS(O)(=O)=O)[C@H](O)[C@@H](O)[C@@H]1O
 Pipermethystine	O=C(N1C(=O)\C=C/[C@H](OC(=O)C)C1)CCc2ccccc2
