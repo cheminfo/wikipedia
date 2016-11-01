@@ -5141,6 +5141,7 @@ Sterigmatocystin	COC1=C2C(=C3[C@@H]4C=CO[C@@H]4OC3=C1)OC5=C(C2=O)C(=CC=C5)O
 Strontium ranelate	[Sr+2].[Sr+2].O=C([O-])CN(c1sc(c(c1C#N)CC([O-])=O)C([O-])=O)CC([O-])=O
 Ketazocine	O=C2c1c(cc(O)cc1)[C@]3([C@H]([C@@H]2N(CC3)CC4CC4)C)C
 Dinonylnaphthylsulfonic acid	O=S(=O)(O)c2c1ccccc1cc(c2CCCCCCCCC)CCCCCCCCC
+U0126	c1cc(c(cc1)S/C(=C(/C(=C(/Sc2c(cccc2)N)\N)/C#N)\C#N)/N)N
 Diiodotyrosine	Ic1cc(cc(I)c1O)C[C@@H](C(=O)O)N
 Monoiodotyrosine	c1cc(c(cc1C[C@@H](C(=O)O)N)I)O
 Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
@@ -7856,6 +7857,7 @@ Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
 Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
+UMB66	C(CCl)C(=O)O
 Coelenterazine	C1=CC=C(C=C1)CC2=C3N=C(C(=O)N3C=C(N2)C4=CC=C(C=C4)O)CC5=CC=C(C=C5)O
 ZM-241,385	Oc1ccc(CCNc2nc3nc(c4ccco4)nn3c(N)n2)cc1
 N,N'-Methylenebisacrylamide	C=CC(=O)NCNC(=O)C=C
@@ -14256,6 +14258,7 @@ R-2956	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
 Martinostat	CN(Cc1ccc(cc1)/C=C/C(=O)NO)CC23CC4CC(C2)CC(C4)C3
 Ethinyl estriol	C[C@]12CC[C@@H]3c4ccc(cc4[C@H](C[C@H]3[C@@H]1CC[C@]2(C#C)O)O)O
+4-Vinylbenzyl chloride	C=Cc1ccc(cc1)CCl
 4-Vinyltoluene	CC1=CC=C(C=C)C=C1
 Volixibat	CCCC[C@@]1(CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(c3)NC(=O)N[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COS(=O)(=O)O)O)OCc5ccccc5)O)N(C)C)CC
 4-Octyne	CCCC#CCCC
