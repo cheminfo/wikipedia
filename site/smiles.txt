@@ -5098,6 +5098,7 @@ Plerixafor	N1CCNCCCN(CCNCCC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3
 Acetone cyanohydrin	CC(C)(O)C#N
 Adenosine thiamine triphosphate	O=P(O)(OC[C@H]3O[C@@H](n1c2ncnc(N)c2nc1)[C@H](O)[C@@H]3O)OP(=O)(O)OP(=O)(O)OCCc4sc[n+](c4C)Cc5c(nc(nc5)C)N
 Cefquinome	O=C4[C@@H](NC(=O)C(=N\OC)/c1csc(N)n1)[C@H]5SC\C(C[n+]3cccc2CCCCc23)=C(/N45)C([O-])=O
+Pahutoxin	CCCCCCCCCCCCC[C@@H](CC(=O)OCC[N+](C)(C)C)OC(=O)C.[Cl-]
 Methylphosphonyl difluoride	CP(F)(F)=O
 Isopropylamine	CC(C)N
 5-Sulfosalicylic acid	O=C(O)c1cc(ccc1O)S(=O)(=O)O
@@ -5419,6 +5420,7 @@ Lasofoxifene	O(c1ccc(cc1)[C@@H]4c2ccc(O)cc2CC[C@@H]4c3ccccc3)CCN5CCCC5
 Diiodomethane	ICI
 4-Maleylacetoacetic acid	O=C(/C=C\C(=O)O)CC(=O)CC(=O)O
 4-Hydroxytestosterone	O=C4C(\O)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Piericidin A	C/C=C(\C)/[C@@H]([C@H](C)/C=C(\C)/C=C/C/C(=C/Cc1c(c(=O)c(c([nH]1)OC)OC)C)/C)O
 Stigmatellin	O=C\1c2c(O/C(=C/1C)CC[C@H](C)[C@H](OC)[C@H](C)[C@@H](OC)\C=C\C=C\C(=C\C)C)c(O)c(OC)cc2OC
 Chlorofluoromethane	C(F)Cl
 Bromofluoromethane	BrCF
@@ -13934,6 +13936,7 @@ N-Methylornithine	CNC(CCCN)C(=O)O
 Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
 3-Methylornithine	C[C@H](CCN)[C@H](C(=O)O)N
 Osimertinib	CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+Tradipitant	Clc1ccccc1C(=O)c2c(nccc2)c3nnn(c3c4ccncc4)Cc5cc(cc(c5)C(F)(F)F)C(F)(F)F
 Variegatorubin	c1cc(c(cc1C2=C(/C(=C\3/c4cc(c(cc4OC3=O)O)O)/OC2=O)O)O)O
 Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)O
 Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
@@ -14263,7 +14266,7 @@ Ethinyl estriol	C[C@]12CC[C@@H]3c4ccc(cc4[C@H](C[C@H]3[C@@H]1CC[C@]2(C#C)O)O)O
 Volixibat	CCCC[C@@]1(CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(c3)NC(=O)N[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COS(=O)(=O)O)O)OCc5ccccc5)O)N(C)C)CC
 4-Octyne	CCCC#CCCC
 5-Decyne	CCCCC#CCCCC
-PZM21	O=C(NC[C@@H](N(C)C)Cc1ccc(O)cc1)N[C@@H](C)Cc2ccsc2
+PZM21	O=C(N[C@H](CC1=CSC=C1)C)NC[C@H](CC2=CC=C(O)C=C2)N(C)C
 Clovamide	C1=CC(=C(C=C1CC(C(=O)O)NC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
 N-Ethylhexedrone	CCCCC(NCC)C(=O)c1ccccc1
 Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
@@ -14367,3 +14370,4 @@ Estriol glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O[C@H]4[C@@H]([C
 Hydrocarboxyl	O=[C]O
 Beta-Funaltrexamine	COC(=O)/C=C/C(=O)N[C@@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC6CC6)O)O
 Beta-Fuoxymorphamine	O=C(OC)\C=C\C(=O)N[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
+Uvitic acid	Cc1cc(cc(c1)C(=O)O)C(=O)O
