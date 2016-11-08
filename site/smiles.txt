@@ -3478,7 +3478,7 @@ Spirapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)CC1(SCCS1)C2)C)CCc3ccccc3
 Phorbol	OCC1=C[C@]([C@@](C(C)4C)([H])[C@]4(O)[C@H](O)[C@H]2C)([H])[C@]2(O)[C@@](C=C(C)C3=O)([H])[C@@]3(O)C1
 Nedocromil	O=C\1c3c(N(/C(C(=O)O)=C/1)CC)c(c2O/C(=C\C(=O)c2c3)C(=O)O)CCC
 2-Mercaptoethanol	OCCS
-FCE 28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
+FCE-28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
 1,2-Ethanedithiol	SCCS
 Dichlorodifluoroethylene	Cl/C(Cl)=C(/F)F
 Dichlorodifluoroethylene	Cl/C(F)=C(\Cl)F
@@ -14383,3 +14383,4 @@ Indole-3-acetaldehyde	O=CCC1=CNC2=CC=CC=C12
 Etiocholane	C[C@@]12CCC[C@H]1[C@@H]3CC[C@@H]4CCCC[C@@]4([C@H]3CC2)C
 Epietiocholanolone	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O
 Diiminoisoindole	C1=CC=C2C(=C1)C(=NC2=N)N
+Tetrahydropapaveroline	C1CNC(C2=CC(=C(C=C21)O)O)CC3=CC(=C(C=C3)O)O
