@@ -13878,7 +13878,7 @@ Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
 Cyclononatetraene	C1=CC=CCC=CC=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
 2,5-Dichloroaniline	C1=CC(=C(C=C1Cl)N)Cl
-Norepinephrine (drug)	Oc1ccc(cc1O)[C@@H](O)CN
+Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
 4-Fluoromethylphenidate	FC1=CC=C(C=C1)C(C(=O)OC)C2CCCCN2
 1,3-Dichlorobenzene	ClC1=CC=CC(Cl)=C1
 N-Feruloylserotonin	COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cc(cc3)O
@@ -14375,7 +14375,7 @@ Hydrocarboxyl	O=[C]O
 Beta-Funaltrexamine	COC(=O)/C=C/C(=O)N[C@@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC6CC6)O)O
 Beta-Fuoxymorphamine	O=C(OC)\C=C\C(=O)N[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Uvitic acid	Cc1cc(cc(c1)C(=O)O)C(=O)O
-Afoxolaner	c2c(cc(C(F)(F)F)cc2Cl)C3(C(F)(F)F)CC(=NO3)c1ccc(c4ccccc14)C(=O)NCC(=O)NCC(F)(F)F
+Afoxolaner	FC(F)(F)CNC(=O)CNC(=O)c1ccc(C2=NOC(C2)(c3cc(Cl)cc(c3)C(F)(F)F)C(F)(F)F)c4ccccc14
 Buprofezin	CC(C)N1\C(=N\C(C)(C)C)\SCN(C1=O)c2ccccc2
 NPDPA	c1ccccc1CC(NC(C)C)c2ccccc2
 Indole-3-acetaldehyde	O=CCC1=CNC2=CC=CC=C12
@@ -14391,3 +14391,4 @@ Trenbolone hexahydrobenzylcarbonate	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[
 Tricarbon monoxide	[C-]#CC#[O+]
 AP-237	CCCC(=O)N1CCN(CC1)CC=CC2=CC=CC=C2
 Testosterone (medication)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Aluminium triacetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3]
