@@ -4443,6 +4443,7 @@ Manganese(II) sulfate	[Mn+2].[O-]S([O-])(=O)=O
 Karanjin	C1(=C(OC2=C(C1=O)C=CC3=C2C=CO3)C4=CC=CC=C4)OC
 Ammonium tetrathiomolybdate	[NH4+].[NH4+].[S-][Mo]([S-])(=S)=S
 Miltefosine	[O-]P(=O)(OCCCCCCCCCCCCCCCC)OCC[N+](C)(C)C
+Tipifarnib	CN1C(=O)C=C(c2cccc(Cl)c2)c3cc(ccc13)[C@](N)(c4ccc(Cl)cc4)c5cncn5C
 Pivalic acid	O=C(O)C(C)(C)C
 Barium sulfide	[Ba+2].[S-2]
 Sodium lauroamphoacetate	CCCCCCCCCCCC1=NCC[N]1(CC([O-])=O)CCO.[Na+]
@@ -11212,7 +11213,6 @@ Benzedrone	c2ccccc2CNC(C)C(=O)c(cc1)ccc1C
 Syringin	O(c1c(OC)cc(/C=C/CO)cc1OC)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
 BI 224436	CC(C)(C)O[C@@H](c1cnc2ccccc2c1c3ccc4c(c3)CCCO4)C(=O)O
 Cycloocta-1,3,6-triene	C1C=CCC=CC=C1
-Racemic epinephrine	Oc1ccc(cc1O)C(O)CNC
 Pentedrone	O=C(C(CCC)NC)C1=CC=CC=C1
 Cannabipiperidiethanone	COc2ccccc2CC(=O)c(c4c1cccc4)cn1CC3CCCCN3C
 Dopastin	O=C(NC[C@@H](N(O)N=O)C(C)C)/C=C/C
@@ -14393,3 +14393,6 @@ Tricarbon monoxide	[C-]#CC#[O+]
 AP-237	CCCC(=O)N1CCN(CC1)CC=CC2=CC=CC=C2
 Testosterone (medication)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Aluminium triacetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3]
+Celgosivir	CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
+Boldenone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=CC(=O)C=C[C@]34C
+Nitrotriazolone	C1(=NC(=O)NN1)[N+](=O)[O-]
