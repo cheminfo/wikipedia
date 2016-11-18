@@ -9882,6 +9882,7 @@ Luteone (isoflavone)	CC(=CCC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=C(C=C(C=C3)O)O)O)C
 5-O-Methylgenistein	COC1=C2C(=CC(=C1)O)OC=C(C2=O)C3=CC=C(C=C3)O
 Alpinumisoflavone	O=C2/C(c1ccc(O)cc1)=C\Oc4c2c(O)c3\C=C/C(Oc3c4)(C)C
 Karanjachromene	COc1c(=O)c2ccc3OC(C)(C)C=Cc3c2oc1-c4ccccc4
+Ezlopitant	COc1ccc(cc1CN[C@H]2C3CCN(CC3)[C@H]2C(c4ccccc4)c5ccccc5)C(C)C
 Centaureidin	O=C1c3c(O)c(OC)c(O)cc3O/C(=C1/OC)c2ccc(OC)c(O)c2
 Brickellin	COc3cc(C=1Oc2cc(OC)c(OC)c(O)c2C(=O)C=1OC)c(O)cc3OC
 Ermanin	COC1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC
@@ -14396,3 +14397,4 @@ Aluminium triacetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3]
 Celgosivir	CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
 Boldenone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=CC(=O)C=C[C@]34C
 Nitrotriazolone	C1(=NC(=O)NN1)[N+](=O)[O-]
+NITD008	C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C2N=CN=C3N)CO)O)O
