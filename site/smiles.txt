@@ -4446,6 +4446,7 @@ Miltefosine	[O-]P(=O)(OCCCCCCCCCCCCCCCC)OCC[N+](C)(C)C
 Tipifarnib	CN1C(=O)C=C(c2cccc(Cl)c2)c3cc(ccc13)[C@](N)(c4ccc(Cl)cc4)c5cncn5C
 Pivalic acid	O=C(O)C(C)(C)C
 Barium sulfide	[Ba+2].[S-2]
+Trenbolone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Sodium lauroamphoacetate	CCCCCCCCCCCC1=NCC[N]1(CC([O-])=O)CCO.[Na+]
 Disufenton sodium	CC(C)(C)[N+]([O-])=Cc1ccc(cc1S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
 2-Bromopropane	CC(C)Br
@@ -7834,7 +7835,7 @@ Difemerine	OC(C(=O)OC(C)(C)CN(C)C)(c1ccccc1)c2ccccc2
 Dihexyverine	C1CCC(CC1)C2(CCCCC2)C(=O)OCCN3CCCCC3
 Trimebutine	CCC(COC(=O)C1=CC(=C(C(=C1)OC)OC)OC)(C2=CC=CC=C2)N(C)C
 Camylofin	O=C(OCCC(C)C)C(NCCN(CC)CC)c1ccccc1
-Vedaclidine	C3CC1CCN3CC1c2nsnc2SCCCC
+Vedaclidine	CCCCSC1=NSN=C1[C@@H]2CN3CCC2CC3
 TAN-67	CN1CC[C@@]2(CC3=NC4=CC=CC=C4C=C3C[C@H]2C1)C5=CC(=CC=C5)O
 Nonabine	CCCCCC(C)C(C)c1cc(c2c(c1)OC(C=C2c3ccncc3)(C)C)O
 Naltriben	Oc3c2O[C@H]6c1oc8ccccc8c1C[C@@]5(O)[C@H]4N(CC[C@@]56c2c(cc3)C4)CC7CC7
@@ -12249,6 +12250,7 @@ Bromopyrogallol red	Brc5c(O)c(O)c4Oc1c(O)c(O)c(Br)cc1C3(OS(=O)(=O)c2ccccc23)c4c5
 Nicotianamine	C1CN([C@@H]1C(=O)O)CC[C@@H](C(=O)O)NCC[C@@H](C(=O)O)N
 Fimasartan	CCCCC1=NC(=C(C(=O)N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=NN4)CC(=S)N(C)C)C
 Oxymatrine	[O-][N+]43[C@@H]2[C@@H]([C@@H]1N(C(=O)CCC1)C[C@@H]2CCC3)CCC4
+Trenbolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Forasartan	CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
 ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
 Delamanid	FC(F)(F)Oc5ccc(OC4CCN(c3ccc(OC[C@@]2(Oc1nc(cn1C2)[N+]([O-])=O)C)cc3)CC4)cc5
@@ -14233,7 +14235,7 @@ Nandrolone laurate	CCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(
 Nandrolone phenylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@H]35
 Nandrolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Nandrolone sulfate sodium	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)[O-])CCC4=CC(=O)CC[C@H]34.[Na+]
-Nandrolone undecylate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
+Nandrolone undecanoate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Bolmantalate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C45CC6CC(C4)CC(C6)C5)CCC7=CC(=O)CC[C@H]37
 LS-1727	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)N(CCCl)N=O)CCC4=CC(=O)CC[C@H]34
 Algestone acetonide	CC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C)OC(O2)(C)C
@@ -14398,3 +14400,6 @@ Celgosivir	CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
 Boldenone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=CC(=O)C=C[C@]34C
 Nitrotriazolone	C1(=NC(=O)NN1)[N+](=O)[O-]
 NITD008	C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C2N=CN=C3N)CO)O)O
+Stenbolone acetate	CC1=C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC(=O)C)C)CC1=O)C
+Metenolone acetate	CC1=CC(=O)C[C@H]2[C@]1([C@H]3CC[C@]4([C@H]([C@@H]3CC2)CC[C@@H]4OC(=O)C)C)C
+Bolazine capronate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C\C(=N\N=C5/C[C@@H]6CC[C@H]7[C@@H]8CC[C@H](OC(=O)CCCCC)[C@@]8(C)CC[C@@H]7[C@@]6(C)C[C@H]5C)[C@H](C)C[C@]4(C)[C@H]3CC[C@]12C
