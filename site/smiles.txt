@@ -92,7 +92,7 @@ Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
 Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
-Testosterone (hormone)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
 Tyrosine	N[C@@H](Cc1ccc(O)cc1)C(O)=O
 Thebaine	COC1=CC=C2[C@@H](C3)N(C)CC[C@@]24C5=C3C=CC(OC)=C5O[C@@H]14
@@ -4561,6 +4561,7 @@ Diphenyl diselenide	c1ccc(cc1)[Se][Se]c2ccccc2
 PK-11195	CCC(C)N(C)C(=O)c3cc1ccccc1c(n3)-c2ccccc2Cl
 Methyllycaconitine	CCN1CC2(CCC(C34C2C(C(C31)(C5(CC(C6CC4C5C6OC)OC)O)O)OC)OC)COC(=O)C7=CC=CC=C7N8C(=O)CC(C8=O)C
 Trestolone	O=C2\C=C3\CC(C)[C@H]1[C@@H]4CCC(O)[C@@]4(C)CC[C@@H]1[C@H]3CC2
+Trestolone acetate	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)OC(=O)C
 Benzethonium chloride	[Cl-].CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1
 Barium chromate	[Ba+2].[O-][Cr]([O-])(=O)=O
 Orciprenaline	Oc1cc(cc(O)c1)C(O)CNC(C)C
@@ -12182,6 +12183,7 @@ Strontium chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Sr+2]
 Strontium chromate	[O-][Cr](=O)(=O)[O-].[Sr+2]
 Prunasin	C1=CC=C(C=C1)[C@H](C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Cadmium tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Cd+2]
+4-DAMP	[I-].C[N+]1(C)CCC(CC1)OC(=O)C(C1=CC=CC=C1)C1=CC=CC=C1
 AB-FUBINACA	CC(C)[C@H](NC(=O)c1nn(Cc2ccc(F)cc2)c3ccccc13)C(N)=O
 Phylloflavan	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)CC(CCC4=CC(=C(C=C4)O)O)O
 PF-03550096	O=C(N1C(N(CCC(C)(O)C)C2=C1C=CC=C2)=O)N[C@@H](C(C)(C)C)C(N)=O
@@ -13815,6 +13817,7 @@ Ulimorelin	C[C@@H]1CN[C@H](C(=O)N([C@@H](C(=O)N[C@@H](C(=O)NCCCC2=CC=CC=C2O1)CC3
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
 1P-LSD	CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3cn(C(=O)CC)c4cccc(C2=C1)c34
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
+Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
@@ -14256,6 +14259,7 @@ Plutonocene	[Pu].[CH-]1[CH-][CH-][CH-][CH-][CH-][CH-][CH-]1.[CH-]1[CH-][CH-][CH-
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
 4'-Fluorocannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
+Bolandiol dipropionate	CCC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@@H]4OC(=O)CC)C
 DIMP (antiandrogen)	CC1=C(C(=NO1)C)CN2C(=O)C3=CC=CC=C3C2=O
 Acetothiolutamide	CC(=O)NC1=CC=C(C=C1)SCC(C)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
 LG-121071	CCC1CCNC2=C1C=C3C(=CC(=O)NC3=C2)C(F)(F)F
@@ -14311,6 +14315,7 @@ N,N-Dimethylphenethylamine	CN(C)CCC1=CC=CC=C1
 1,2-Octanediol	CCCCCCOCCO
 Terfluranol	CC(C1=CC=C(C=C1)O)C(CC(F)(F)F)C2=CC=C(C=C2)O
 Pentafluranol	CC(C1=CC(=C(C=C1)O)F)C(CC(F)(F)F)C2=CC(=C(C=C2)O)F
+Norclostebol acetate	CC(=O)OC1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@H]34)Cl)C
 Clomestrone	CC12CCC3C(C1CC(C2=O)Cl)CCC4=C3C=CC(=C4)OC
 Trofinetide	C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
 Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
@@ -14403,3 +14408,13 @@ NITD008	C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C2N=CN=C3N)CO)O)O
 Stenbolone acetate	CC1=C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC(=O)C)C)CC1=O)C
 Metenolone acetate	CC1=CC(=O)C[C@H]2[C@]1([C@H]3CC[C@]4([C@H]([C@@H]3CC2)CC[C@@H]4OC(=O)C)C)C
 Bolazine capronate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C\C(=N\N=C5/C[C@@H]6CC[C@H]7[C@@H]8CC[C@H](OC(=O)CCCCC)[C@@]8(C)CC[C@@H]7[C@@]6(C)C[C@H]5C)[C@H](C)C[C@]4(C)[C@H]3CC[C@]12C
+2-Methylglutaronitrile	CC(CCC#N)C#N
+Clostebol acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
+Mericitabine	CC(C)C(=O)OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=NC2=O)N)(C)F)OC(=O)C(C)C
+GS-5734	Nc3ncnn2c3ccc2C(C#N)(C1O)OC(C1O)CO[P](=O)(NC(C)C(=O)OCC(CC)CC)Oc4ccccc4
+Emricasan	CC(C)(C)c2ccccc2NC(=O)C(=O)NC(C)C(=O)NC(CC(O)=O)C(=O)COc(c1F)c(F)c(F)cc1F
+Methylclostebol	C[C@]12CCC(=O)C(=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)Cl
+Testosterone formate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC=O)CCC4=CC(=O)CC[C@]34C
+Clostebol caproate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=C(Cl)C(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+Clostebol propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
+Camicinal	C[C@H]1CN(CCN1)CC2=CC=C(C=C2)CC(=O)N3CCC(CC3)NC4=CC(=CC=C4)F
