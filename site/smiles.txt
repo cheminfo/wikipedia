@@ -13967,6 +13967,7 @@ Quadrosilan	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C
 Anordrin	CCC(=O)OC1(CCC2C1(CCC3C2CCC4C3(CC(C4)(C#C)OC(=O)CC)C)C)C#C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
+Bicalicene	C1=CC2=C4C=C4C3=CC=CC3=C5C=C5C2=C1
 Siponimod	O=C(O)C4CN(C4)Cc2ccc(cc2CC)\C(\C)=N\OCc(cc1C(F)(F)F)ccc1C3CCCCC3
 Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
 Anagestone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CCCC4)C
@@ -14382,3 +14383,7 @@ Clostebol caproate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=C(Cl)C(=O)CC[C@]4(C)[C@H
 Clostebol propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
 Camicinal	C[C@H]1CN(CCN1)CC2=CC=C(C=C2)CC(=O)N3CCC(CC3)NC4=CC(=CC=C4)F
 2-Nitrobenzoic acid	O=[N+]([O-])c1c(C(=O)O)cccc1
+Uvitonic acid	CC1=NC=C(C(O)=O)C(=C1)C(O)=O
+Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+Buciclic acid	CCCCC1CCC(CC1)C(=O)O
+Ciclotic acid	CC12CCC(CC1)(C=C2)C(O)=O
