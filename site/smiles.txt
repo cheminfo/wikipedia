@@ -605,7 +605,7 @@ Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H
 2C-E	COc1cc(CC)c(cc1CCN)OC
 Iron(III) chloride	Cl[Fe](Cl)Cl
 Silver iodide	[Ag]I
-Tryptamine	C1=CC=C2C(=C1)C(=CN2)CCN
+Tryptamine	c1ccc2c(c1)c(c[nH]2)CCN
 Propafenone	O=C(c1ccccc1OCC(O)CNCCC)CCc2ccccc2
 Phenacetin	O=C(Nc1ccc(OCC)cc1)C
 Sulfur hexafluoride	FS(F)(F)(F)(F)F
@@ -1266,6 +1266,7 @@ Remifentanil	O=C(OC)C2(N(c1ccccc1)C(=O)CC)CCN(CCC(=O)OC)CC2
 Geraniol	CC(=CCC/C(=C/CO)/C)C
 Geranic acid	O=C(O)/C=C(/CC\C=C(/C)C)C
 Rhodinol	C[C@H](CCO)CCCC(C)=C
+Tosyl phenylalanyl chloromethyl ketone	Cc1ccc(cc1)S(=O)(=O)N[C@@H](Cc2ccccc2)C(=O)CCl
 Neodymium(III) chloride	Cl[Nd](Cl)Cl
 Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
@@ -5981,6 +5982,7 @@ Brodimoprim	Brc1c(OC)cc(cc1OC)Cc2cnc(nc2N)N
 Cycloundecane	C1CCCCCCCCCC1
 Emopamil	N#CC(c1ccccc1)(C(C)C)CCCN(CCc2ccccc2)C
 Mecoprop	CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+Trimethyltin chloride	C[Sn](C)(C)Cl
 Triphenyltin chloride	Cl[Sn](c1ccccc1)(c2ccccc2)c3ccccc3
 Tetraethyltin	CC[Sn](CC)(CC)CC
 Trimethylolpropane phosphite	O1P2OCC(CC)(C1)CO2
@@ -7657,6 +7659,7 @@ Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
 Isobromindione	c1ccc(cc1)C2C(=O)c3ccc(cc3C2=O)Br
 Oxypurinol	O=C1NC(=O)C2=CNNC2=N1
 Tisopurine	c1c2c([nH]n1)ncnc2S
+Troxipide	COc1cc(cc(c1OC)OC)C(=O)NC2CCCNC2
 Aluminium glycinate	O[Al+]O.[O-]C(=O)CN
 Aloglutamol	C([C@H]([C@H]([C@@H]([C@H](C(=O)O[Al](O)O)O)O)O)O)O.C(C(CO)(CO)N)O
 Carbaldrate	C(=O)([O-])[O-].O.[OH-].[OH-].[Na+].[Al+3]
@@ -13792,6 +13795,7 @@ Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
 Retroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
 Thioxanthone	c1ccc2c(c1)c(=O)c3ccccc3s2
+Trelagliptin	Cn1c(=O)cc(n(c1=O)Cc2cc(ccc2C#N)F)N3CCC[C@H](C3)N
 Ipragliflozin	S1C(=CC2=C1C=CC=C2)CC=2C=C(C=CC2F)[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@H](O2)CO
 Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
@@ -14054,6 +14058,7 @@ Bicyclomycin	C[C@](CO)([C@@H]([C@@]12C(=O)N[C@@](C(=C)CCO1)(C(=O)N2)O)O)O
 Trinitroethylorthoformate	C([N+]([O-])=O)([N+]([O-])=O)([N+]([O-])=O)COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
 Carmoterol	COc1ccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c3NC(=O)C=Cc23)cc1
 Vonoprazan	CNCc1cc(n(c1)S(=O)(=O)c2cccnc2)c3ccccc3F
+Emixustat hydrochloride	c1cc(cc(c1)OCC2CCCCC2)[C@@H](CCN)O.Cl
 Allyl mercaptan	C=CCS
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
@@ -14241,7 +14246,7 @@ Volixibat	CCCC[C@@]1(CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(c3)NC(=O)N[C@H]4[C@
 4-Octyne	CCCC#CCCC
 5-Decyne	CCCCC#CCCCC
 PZM21	O=C(N[C@H](CC1=CSC=C1)C)NC[C@H](CC2=CC=C(O)C=C2)N(C)C
-Clovamide	C1=CC(=C(C=C1CC(C(=O)O)NC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Clovamide	c1cc(c(cc1C[C@@H](C(=O)O)NC(=O)/C=C\c2ccc(c(c2)O)O)O)O
 N-Ethylhexedrone	CCCCC(NCC)C(=O)c1ccccc1
 Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
 SCYX-7158	CC2(C)OB(O)c3c2ccc(c3)NC(=O)c1ccc(F)cc1C(F)(F)F
@@ -14376,7 +14381,7 @@ Bolazine capronate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C\C(=N\N=C5/C[C@@H]6C
 Clostebol acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
 Mericitabine	CC(C)C(=O)OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=NC2=O)N)(C)F)OC(=O)C(C)C
 GS-5734	Nc3ncnn2c3ccc2C(C#N)(C1O)OC(C1O)CO[P](=O)(NC(C)C(=O)OCC(CC)CC)Oc4ccccc4
-Emricasan	CC(C)(C)c2ccccc2NC(=O)C(=O)NC(C)C(=O)NC(CC(O)=O)C(=O)COc(c1F)c(F)c(F)cc1F
+Emricasan	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)COc1c(c(cc(c1F)F)F)F)NC(=O)C(=O)Nc2ccccc2C(C)(C)C
 Methylclostebol	C[C@]12CCC(=O)C(=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)Cl
 Testosterone formate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC=O)CCC4=CC(=O)CC[C@]34C
 Clostebol caproate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=C(Cl)C(=O)CC[C@]4(C)[C@H]3CC[C@]12C
@@ -14387,3 +14392,5 @@ Uvitonic acid	CC1=NC=C(C(O)=O)C(=C1)C(O)=O
 Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Buciclic acid	CCCCC1CCC(CC1)C(=O)O
 Ciclotic acid	CC12CCC(CC1)(C=C2)C(O)=O
+Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
