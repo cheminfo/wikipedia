@@ -85,7 +85,7 @@ Sulfur	S1SSSSSSS1
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
-Hyoscine hydrobromide	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
+Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
@@ -10000,7 +10000,7 @@ Almoxatone	Clc1cccc(c1)COc3ccc(N2C(=O)O[C@H](CNC)C2)cc3
 Amixetrine	O(CCC(C)C)C(c1ccccc1)CN2CCCC2
 Metaterol	OC(c1cc(O)ccc1)CNC(C)C
 2,6-Dihydroxypyridine	O=C1/C=C\C=C(\O)N1
-Bexlosteride	CN1C2CCC3=C(C2CCC1=O)C=CC(=C3)Cl
+Bexlosteride	CN1[C@@H]2CCc3cc(ccc3[C@H]2CCC1=O)Cl
 Izonsteride	O=C4N(C)[C@@H]5CCc3cc(Sc1nc2c(cccc2s1)CC)ccc3[C@@]5(C)CC4
 Turosteride	O=C(NC(C)C)N(C(=O)[C@@H]2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4N(C(=O)CC[C@]34C)C)C)C(C)C
 Acacetin	O=C\1c3c(O/C(=C/1)c2ccc(OC)cc2)cc(O)cc3O
