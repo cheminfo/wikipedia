@@ -1391,7 +1391,6 @@ Meclofenoxate	Clc1ccc(OCC(=O)OCCN(C)C)cc1
 Dibenzofuran	o2c1ccccc1c3c2cccc3
 Cefixime	O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\OCC(=O)O)/c3nc(sc3)N)C(=O)O
 Fuchsine	[Cl-].[NH2+]=C\1/C=C\C(C=C/1)=C(\c2ccc(N)c(C)c2)c3ccc(N)cc3
-Fuchsine acid	[Na+].[Na+].O=S([O-])(=O)C\1=C\C(\C=C/C/1=[NH2+])=C(\c2ccc(N)c(c2)S([O-])(=O)=O)c3cc(c(N)c(C)c3)S([O-])(=O)=O
 Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
 Silicic acid	O[Si](O)(O)O
@@ -2522,7 +2521,7 @@ Niclosamide	Clc2cc(ccc2NC(=O)c1cc(Cl)ccc1O)[N+]([O-])=O
 2-Iodoxybenzoic acid	c1ccc2c(c1)C(=O)OI2(=O)O
 Barbital	O=C1NC(=O)NC(=O)C1(CC)CC
 Cinnoline	n1nccc2ccccc12
-(E)-2-butenoic acid	O=C(O)/C=C/C
+Crotonic acid	O=C(O)/C=C/C
 Sudan III	Oc4ccc1ccccc1c4/N=N/c3ccc(\N=N/c2ccccc2)cc3
 Pulegone	O=C1/C(=C(/C)C)CC[C@@H](C)C1
 Retinyl palmitate	CC1(C)CCCC(\C)=C1\C=C\C(\C)=C\C=C\C(\C)=C\C(=O)OC(=O)CCCCCCCCCCCCCCC
@@ -14387,6 +14386,7 @@ Testosterone formate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC=O)CCC4=CC(=O)CC[C@]
 Clostebol caproate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=C(Cl)C(=O)CC[C@]4(C)[C@H]3CC[C@]12C
 Clostebol propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
 Camicinal	C[C@H]1CN(CCN1)CC2=CC=C(C=C2)CC(=O)N3CCC(CC3)NC4=CC(=CC=C4)F
+N-Oleoylsarcosine	CCCCCCCC/C=C\CCCCCCCC(=O)N(C)CC(=O)O
 2-Nitrobenzoic acid	O=[N+]([O-])c1c(C(=O)O)cccc1
 Uvitonic acid	CC1=NC=C(C(O)=O)C(=C1)C(O)=O
 Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
@@ -14394,3 +14394,4 @@ Buciclic acid	CCCCC1CCC(CC1)C(=O)O
 Ciclotic acid	CC12CCC(CC1)(C=C2)C(O)=O
 Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
+Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
