@@ -9160,7 +9160,7 @@ Mesabolone	C[C@@]12CC[C@H]3[C@H]([C@H]1CC[C@@H]2OC4(CCCCC4)OC)CC[C@@H]5[C@@]3(C=
 Mesabolone	O=C1\C=C/[C@@]5(C)[C@H](C1)CC[C@@H]4[C@@H]5CC[C@@]3(C)[C@H]4CC[C@@H]3OC2(OC)CCCCC2
 Oxymesterone	C[C@]12CCC(=O)C(=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)O
 Roxibolone	C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C(=C[C@]34C)C(=O)O)O)C)O
-Silandrone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O[Si](C)(C)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+Silandrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O[Si](C)(C)C)CCC4=CC(=O)CC[C@]34C
 Stenbolone	CC1=C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)CC1=O)C
 Tiomesterone	CC(=O)S[C@@H]1CC2=CC(=O)C[C@@H]([C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C)O)C)SC(=O)C
 Bolenol	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@H]3CCCC4)C)O
@@ -14095,6 +14095,7 @@ Spirorenone	CC12CCC3C(C1C4CC4C25CCC(=O)O5)C6CC6C7=CC(=O)C=CC37C
 Pentomone	CC1(C2C(CC3=C(O2)C(=CC=C3)OC)C(=O)C4C1OC5=C(C4)C=CC=C5OC)C
 Jasmolone	CCC=CCC1=C(C(CC1=O)O)C
 Migalastat	C1[C@@H]([C@H]([C@H]([C@H](N1)CO)O)O)O
+Cloxotestosterone acetate	CC(=O)OC(C(Cl)(Cl)Cl)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Almestrone	CC1CC2=C(C=CC(=C2)O)C3C1C4CCC(=O)C4(CC3)C
 Shortolide A	[H][C@@]12CC[C@H]3O[C@@]3(C)[C@]1(C)C[C@H](OC(=O)C(\C)=C/C)[C@@H](C)[C@@]2(C)CCC1=CC(=O)OC1
 (+)-Benzo(a)pyrene-7,8-dihydrodiol-9,10-epoxide	O[C@@H]3c1cc4ccc5cccc6ccc(c1[C@H]2O[C@H]2[C@H]3O)c4c56
@@ -14395,3 +14396,4 @@ Ciclotic acid	CC12CCC(CC1)(C=C2)C(O)=O
 Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
 Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
+Estradiol (medication)	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
