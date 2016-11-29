@@ -258,7 +258,7 @@ Hexane	CCCCCC
 Tetraethyllead	CC[Pb](CC)(CC)CC
 Tabun (nerve agent)	N#CP(=O)(OCC)N(C)C
 Paroxetine	c1cc(ccc1[C@@H]2CCNC[C@H]2COc3ccc4c(c3)OCO4)F
-Hydroxyproline	O=C(O)C1NCC(O)C1
+Hydroxyproline	C1[C@H](CN[C@@H]1C(=O)O)O
 3-Quinuclidinyl benzilate	O=C(OC2C1CCN(CC1)C2)C(O)(c3ccccc3)c4ccccc4
 Aluminium oxide	[Al+3].[Al+3].[O-2].[O-2].[O-2]
 Fentanyl	O=C(CC)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
@@ -4535,7 +4535,7 @@ Benzeneselenol	[SeH]c1ccccc1
 Diphenyl diselenide	c1ccc(cc1)[Se][Se]c2ccccc2
 PK-11195	CCC(C)N(C)C(=O)c3cc1ccccc1c(n3)-c2ccccc2Cl
 Methyllycaconitine	CCN1CC2(CCC(C34C2C(C(C31)(C5(CC(C6CC4C5C6OC)OC)O)O)OC)OC)COC(=O)C7=CC=CC=C7N8C(=O)CC(C8=O)C
-Trestolone	O=C2\C=C3\CC(C)[C@H]1[C@@H]4CCC(O)[C@@]4(C)CC[C@@H]1[C@H]3CC2
+Trestolone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1[C@H](C)C2)C)CC4
 Trestolone acetate	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)OC(=O)C
 Benzethonium chloride	[Cl-].CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1
 Barium chromate	[Ba+2].[O-][Cr]([O-])(=O)=O
@@ -6956,7 +6956,7 @@ Triethyl citrate	CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O
 Protocatechuic acid	C1=CC(=C(C=C1C(=O)O)O)O
 Meglumine	O[C@H]([C@@H](O)CNC)[C@H](O)[C@H](O)CO
 Gossypetin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O)O
-BU-48	C8CC8CN5CCC26C1Oc7c2c(ccc7O)CC5C46C=CC1(OC)C3C4CCCC3O
+BU-48	CO[C@]12C=C[C@@]3([C@H]4[C@@H]1[C@H](CCC4)O)[C@H]5Cc6ccc(c7c6[C@]3([C@H]2O7)CCN5CC8CC8)O
 DPI-221	O=C(N(CC)CC)c1ccc(cc1)[C@@H](N3C[C@H](N(Cc2cc(F)ccc2)C[C@@H]3C)C)c4ccccc4
 DPI-287	CCN(CC)C(=O)c2ccc(cc2)C(c(ccc4)cc4O)N(CC1C)C(C)CN1Cc3ccccc3
 DPI-3290	C[C@H]1CN([C@@H](CN1[C@@H](C2=CC(=CC=C2)O)C3=CC=CC(=C3)C(=O)N(C)C4=CC(=CC=C4)F)C)CC=C
@@ -14199,7 +14199,7 @@ Nandrolone caproate	CCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC
 Nandrolone cypionate	CC12CC[C@H]3C([C@@H]1CCC2OC(=O)CCC4CCCC4)CCC5=CC(=O)CCC35
 Nandrolone cyclohexanecarboxylate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4CCCCC4)CCC5=CC(=O)CC[C@H]35
 Nandrolone cyclohexylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCCC4)CCC5=CC(=O)CC[C@H]35
-Nandrolone cyclotate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C45CCC(CC4)(C=C5)C)CCC6=CC(=O)CC[C@H]36
+Nandrolone cyclotate	C[C@@]12C=C[C@@](CC1)(CC2)C(=O)O[C@@H]3[C@@]4([C@H]([C@H]5[C@@H]([C@@H]6C(=CC(=O)CC6)CC5)CC4)CC3)C
 Nandrolone furylpropionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CO4)CCC5=CC(=O)CC[C@H]35
 Nandrolone hexyloxyphenylpropionate	CCCCCCOC1=CC=C(C=C1)CCC(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@H]45)C
 Nandrolone hydrogen succinate	[H][C@@]12CC[C@H](OC(=O)CCC(O)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
@@ -14350,6 +14350,7 @@ N-Hydroxyphthalimide	O=C2N(O)C(C1=CC=CC=C12)=O
 Etacstil	CC/C(=C(\c1ccccc1)/c2ccc(cc2)/C=C/C(=O)O)/c3ccccc3
 Estriol glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)CCC5=C3C=CC(=C5)O
 Hydrocarboxyl	O=[C]O
+Ammonium iodate	[NH4+].[O-]I(=O)=O
 Beta-Funaltrexamine	COC(=O)/C=C/C(=O)N[C@@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC6CC6)O)O
 Beta-Fuoxymorphamine	O=C(OC)\C=C\C(=O)N[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Uvitic acid	Cc1cc(cc(c1)C(=O)O)C(=O)O
@@ -14392,8 +14393,10 @@ N-Oleoylsarcosine	CCCCCCCC/C=C\CCCCCCCC(=O)N(C)CC(=O)O
 Uvitonic acid	CC1=NC=C(C(O)=O)C(=C1)C(O)=O
 Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Buciclic acid	CCCCC1CCC(CC1)C(=O)O
-Ciclotic acid	CC12CCC(CC1)(C=C2)C(O)=O
+Ciclotic acid	C[C@@]12C=C[C@@](CC1)(CC2)C(=O)O
 Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
 Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
 Estradiol (medication)	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
+P-dioxanone	C1COC(=O)CO1
+Ustilagic acid	CCCC(CC(=O)OC1C(C(C(OC1OC2C(OC(C(C2O)O)OCC(CCCCCCCCCCCCC(C(=O)O)O)O)COC(=O)C)CO)O)O)O
