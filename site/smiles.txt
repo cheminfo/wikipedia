@@ -1031,7 +1031,7 @@ Lithium nitrate	[Li+].[N+](=O)([O-])[O-]
 Fusidic acid	O=C(O)/C(=C3/[C@@H]2C[C@@H](O)[C@H]1[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]1([C@]2(C[C@@H]3OC(=O)C)C)C)CC\C=C(/C)C
 Fenitrothion	S=P(Oc1cc(c(cc1)[N+]([O-])=O)C)(OC)OC
 Sotalol	O=S(=O)(Nc1ccc(cc1)C(O)CNC(C)C)C
-19-Norandrosterone	O=C2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4C[C@H](O)CC[C@H]34)C
+19-Norandrosterone	C[C@]12CC[C@@H]3[C@H]4CC[C@H](C[C@@H]4CC[C@H]3[C@@H]1CCC2=O)O
 Ibotenic acid	O=C1/C=C(\ON1)C(C(=O)O)N
 Muscimol	O=C1/C=C(\ON1)CN
 Muscazone	O=C([O-])[C@H]([NH3+])C\1=C\NC(=O)O/1
@@ -8456,7 +8456,7 @@ Prephytoene diphosphate	O=P(O)(O)OP(=O)(O)OCC1C(\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C
 Phytoene	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/C=C\C=C(/C)\CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)/C)/C)/C)C
 Goitrin	S=C1OC(\C=C)CN1
 Anthanthrene	c6c3ccc2cc1cccc5c1c4c2c3c(cc4cc5)cc6
-4-Androstenediol	O[C@@H]4/C=C2\[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+4-Androstenediol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C[C@H](CC[C@]34C)O
 Darusentan	COC1=CC(=NC(=N1)O[C@H](C(=O)O)C(C2=CC=CC=C2)(C3=CC=CC=C3)OC)OC
 Chlorophetanol	Clc1ccc(OCCO)cc1
 Allyl methyl sulfide	CSCC=C
@@ -14416,3 +14416,4 @@ TFM-4AS-1	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC4=CC=CC=C4C(F)(F)F)CCC5[C@
 Nandrolone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Nandrolone formate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC=O
 Prasterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C
+7α-Methyl-19-norandrostenedione	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CCC(=O)[C@]4(CC3)C
