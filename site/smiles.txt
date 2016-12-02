@@ -1810,6 +1810,7 @@ P-Toluic acid	O=C(O)c1ccc(cc1)C
 Arsanilic acid	O=[As](O)(O)c1ccc(N)cc1
 Proflavine	n1c3c(cc2c1cc(N)cc2)ccc(c3)N
 Homoserine	O=C(O)C(N)CCO
+Hydrogen iodide	I
 Arsenide	[As-3]
 Diethyl azodicarboxylate	O=C(/N=N/C(=O)OCC)OCC
 Indium nitride	[In]#N
@@ -12476,6 +12477,7 @@ Neamphamide A	C[C@@H]1[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N([C@H](C
 Etamycin	C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2C[C@@H](C[C@@H]2C(=O)N(CC(=O)N(C(C(=O)N[C@H](C(=O)N([C@H](C(=O)O1)C3=CC=CC=C3)C)C)[C@@H](C)C(C)C)C)C)O)CC(C)C)NC(=O)C4=C(C=CC=N4)O
 Clavanin B	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC2=CN=CN2)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC4=CN=CN4)C(=O)NCC(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC6=CN=CN6)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC7=CC=CC=C7)C(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC8=CC=CC=C8)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC9=CC=CC=C9)NC(=O)[C@H](C(C)C)N
 Gymnochrome E	CCC[C@H](Cc1c2c3c(c(c(c4c3c5c6c(c(cc(c6c4=O)O)O)c7c(cc(c8c7c5c2c(c8=O)c(c1Br)O)O)O)O)Br)C[C@H](C)O)O
+Arylomycin A2	C[C@H]1C(=O)N[C@@H](Cc2ccc(c(c2)-c3cc(ccc3O)[C@@H](C(=O)N1)N(C)C(=O)CNC(=O)[C@@H](C)NC(=O)[C@@H](CO)N(C)C(=O)C)O)C(=O)O
 Avibactam	[C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
 Nemonoxacin	C[C@H]1C[C@@H](CN(C1)c2ccc3c(c2OC)n(cc(c3=O)C(=O)O)C4CC4)N
 Omadacycline	CC(C)(C)CNCc1cc(c2c(c1O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)N(C)C
@@ -14042,6 +14044,7 @@ Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
 2-Aminothiophenol	c1ccc(c(c1)N)S
 4-Carboxybenzaldehyde	c1cc(ccc1C=O)C(=O)O
 Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
+Hydrazine nitrate	NN.[N+](=O)(O)[O-]
 Urea perchlorate	C(=O)([NH3+])N.[O-]Cl(=O)(=O)=O
 Debromoaplysiatoxin	[C@@]123O[C@]([C@H](C)CC1(C)C)(CC(O[C@@]([C@@H](C)O)(CC(OC(C2)[C@H](C)[C@](O3)([C@H](CC[C@@H](C=4C=CC=C(C4)O)OC)C)[H])=O)[H])=O)O
 Lactimidomycin	N2C(=O)CC(CC2=O)CC(O)CC(=O)C(C)\C=C(/C)\C1OC(=O)C=CCCC=CC=CC1C
@@ -14082,6 +14085,7 @@ DNaM	OCC3OC(c1ccc2ccccc2(c1(OC)))CC3(O)
 AUTEN-67	c1ccc2c(c1)C(=O)C(=C(C2=O)n3cnc4c3cccc4)NS(=O)(=O)c5ccc(cc5)[N+](=O)[O-]
 2-Bromopyridine	c1ccnc(c1)Br
 8-Mercaptoquinoline	c1cc2cccnc2c(c1)S
+4-Amino-3-hydrazino-5-mercapto-1,2,4-triazole	c1(=S)[nH]nc(n1N)NN
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
 Α-Hederin	[H][C@@]1(O[C@@H]2[C@@H](O)[C@H](O)[C@H](C)O[C@@]2([H])O[C@H]2CC[C@@]3(C)[C@@]([H])(CC[C@]4(C)[C@]3([H])CC=C3[C@]5([H])CC(C)(C)CC[C@@]5(CC[C@@]43C)C(O)=O)[C@]2(C)CO)O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O
@@ -14417,3 +14421,9 @@ Nandrolone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]
 Nandrolone formate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC=O
 Prasterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C
 7α-Methyl-19-norandrostenedione	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CCC(=O)[C@]4(CC3)C
+Dimethandrolone buciclate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)C4CCC(CCCC)CC4)[C@@]3(C)C[C@H](C)[C@H]21
+Dimethandrolone undecanoate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)CCCCCCCCCC)[C@@]3(C)C[C@H](C)[C@H]21
+Dimethandrolone dodecylcarbonate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)OCCCCCCCCCCCC)[C@@]3(C)C[C@H](C)[C@H]21
+11β-Methyl-19-nortestosterone dodecylcarbonate	CCCCCCCCCCCCOC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3[C@@H](C)C[C@]12C
+11β-Methyl-19-nortestosterone	C[C@H]1C[C@]2(C)[C@@H](O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@@H]13
+Crocetane	CC(C)CCCC(C)CCCCC(C)CCCC(C)C
