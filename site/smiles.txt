@@ -5103,7 +5103,7 @@ Dihydrofolic acid	O=C(O)[C@@H](NC(=O)c1ccc(cc1)NCC/2=N/C=3C(=O)\N=C(/NC=3NC\2)N)
 Aliskiren	O=C(N)C(C)(C)CNC(=O)[C@H](C(C)C)C[C@H](O)[C@@H](N)C[C@@H](C(C)C)Cc1cc(OCCCOC)c(OC)cc1
 Cresidinesulfonic acid	Cc1cc(c(cc1S(=O)(=O)O)OC)N
 Phthalaldehyde	O=Cc1ccccc1C=O
-RU28362	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)C)O)C)O
+RU-28362	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)C)O)C)O
 Diazolidinyl urea	O=C1N(C(=O)C(N(C(=O)NCO)CO)N1CO)CO
 Carbetocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)OC)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Sulflower	c12c3c4c5c6c7c8c1c9sc2sc3sc4sc5sc6sc7sc8s9
@@ -13613,6 +13613,7 @@ MIN-117	Clc1ccc(cc1Cl)C2CCN(CC2)C[C@H](O)COc4cccc3oc(cc34)c5nnc(o5)C
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Propylene glycol methyl ether	CC(O)COC
+Boron monofluoride monoxide	B(=O)F
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
 Lemborexant	CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
 4,16-Androstadien-3β-ol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C[C@H](CC[C@]34C)O
@@ -13975,7 +13976,6 @@ Quadrosilan	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C
 Anordrin	CCC(=O)OC1(CCC2C1(CCC3C2CCC4C3(CC(C4)(C#C)OC(=O)CC)C)C)C#C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
-Bicalicene	C1=CC2=C4C=C4C3=CC=CC3=C5C=C5C2=C1
 Siponimod	O=C(O)C4CN(C4)Cc2ccc(cc2CC)\C(\C)=N\OCc(cc1C(F)(F)F)ccc1C3CCCCC3
 Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
 Anagestone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CCCC4)C
@@ -14460,3 +14460,6 @@ Nisterime acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C
 Estradiol glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)CCC5=C3C=CC(=C5)O
 Estrone glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 Estriol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
+Estriol sulfate glucuronide	[H][C@@]12C[C@@H](OC3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OS(O)(=O)=O)C=C3
+Flumedroxone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)OC(=O)C
+2-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=C(C=C34)O)O
