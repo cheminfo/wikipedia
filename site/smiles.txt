@@ -10824,9 +10824,10 @@ Dimefox	CN(C)P(=O)(N(C)C)F
 Ammonium perfluorononanoate	FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.N
 Thiobenzophenone	S=C(C1=CC=CC=C1)C2=CC=CC=C2
 Perhydropyrene	C2CCC3CCC1C4C(CCC1)CCC2C34
-Vitisin A (stilbenoid)	C1=CC(=CC=C1C2C(C3=CC(=CC4=C3C(C(O4)C5=CC=C(C=C5)O)C6=CC(=CC(=C26)O)O)O)C7=C(C=CC(=C7)C=CC8=CC(=CC9=C8C(C(O9)C1=CC=C(C=C1)O)C1=CC(=CC(=C1)O)O)O)O)O
+Vitisin A (stilbenoid)	c1cc(ccc1[C@H]2c3c(cc(cc3O)O)[C@H]4c5c(cc(cc5O[C@@H]4c6ccc(cc6)O)O)[C@@H]2c7cc(ccc7O)/C=C/c8cc(cc9c8[C@@H]([C@H](O9)c1ccc(cc1)O)c1cc(cc(c1)O)O)O)O
 Vitisin A (pyranoanthocyanin)	O=CC1=C2C3=C(OC1=O)C=C(O)C=C3[O+]([H])C(C4=CC(OC)=C(O)C(OC)=C4)=C2O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O
-Vitisin B (stilbenoid)	C1=CC(=CC=C1C2C(C3=C(O2)C=CC(=C3)C=CC4=CC(=CC5=C4C(C(O5)C6=CC=C(C=C6)O)C7=CC(=CC(=C7)O)O)O)C8=CC9=C(C(C(O9)C1=CC=C(C=C1)O)C1=CC(=CC(=C1)O)O)C(=C8)O)O
+Vitisin B (stilbenoid)	c1cc(ccc1[C@H]2[C@@H](c3cc(ccc3O2)/C=C/c4cc(cc5c4[C@H]([C@@H](O5)c6ccc(cc6)O)c7cc(cc(c7)O)O)O)c8cc(c9c(c8)O[C@H]([C@@H]9c1cc(cc(c1)O)O)c1ccc(cc1)O)O)O
+Vitisin B (pyranoanthocyanin)	COc1cc(cc(c1O)OC)c2c(c3c4c([o+]2)cc(cc4OC=C3)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Vitisin C	OC(C=C1)=CC=C1[C@@H](O2)[C@@H](C3=CC(O)=CC(O)=C3)C4=C2C=C(O)C=C4/C=C/C5=CC([C@H](C6=C([C@H](C7=CC(O)=CC(O)=C7)[C@@H](C8=CC=C(O)C=C8)O9)C9=CC(O)=C6)[C@H](C%10=CC=C(O)C=C%10)O%11)=C%11C=C5
 Propylheptyl alcohol	CCCCCC(CO)CCC
 Nitromersol	Cc1ccc(c2[Hg]Oc12)[N+]([O-])=O
@@ -13976,6 +13977,7 @@ Quadrosilan	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C
 Anordrin	CCC(=O)OC1(CCC2C1(CCC3C2CCC4C3(CC(C4)(C#C)OC(=O)CC)C)C)C#C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
+Bicalicene	C1=CC2=C4C=C4C3=CC=CC3=C5C=C5C2=C1
 Siponimod	O=C(O)C4CN(C4)Cc2ccc(cc2CC)\C(\C)=N\OCc(cc1C(F)(F)F)ccc1C3CCCCC3
 Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
 Anagestone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CCCC4)C
@@ -14149,6 +14151,7 @@ Hexestrol dipropionate	CCC(C1=CC=C(C=C1)OC(=O)CC)C(CC)C2=CC=C(C=C2)OC(=O)CC
 Hexestrol diphosphate	CCC(C1=CC=C(C=C1)OP(=O)(O)O)C(CC)C2=CC=C(C=C2)OP(=O)(O)O
 Quingestrone	CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C
 Ethyl cyanoacetate	CCOC(=O)CC#N
+4-Hydroxy-1-methyl-4-(4-methylphenyl)-3-piperidyl 4-methylphenyl ketone	O=C(c1ccc(cc1)C)[C@H]3[C@](O)(c2ccc(cc2)C)CCN(C)C3
 NE-CHMIMO	O=C(c1cccc2ccccc12)c3cn(CC4CCCCC4)c5ccccc35
 Cingestol	C[C@]12CC[C@H]3[C@@H](CC=C4CCCC[C@H]34)[C@@H]1CC[C@@]2(O)C#C
 Tigestol	CC12CCC3C(C1CCC2(C#C)O)CCC4=C3CCCC4
@@ -14463,3 +14466,7 @@ Estriol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS
 Estriol sulfate glucuronide	[H][C@@]12C[C@@H](OC3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OS(O)(=O)=O)C=C3
 Flumedroxone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)OC(=O)C
 2-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=C(C=C34)O)O
+Androsterone glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
+Etiocholanolone glucuronide	C[C@]12CC[C@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
+Testosterone glucuronide	[H][C@@]12CC[C@H](O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+Testosterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=CC(=O)CC[C@]34C
