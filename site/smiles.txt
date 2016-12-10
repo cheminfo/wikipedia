@@ -10266,7 +10266,7 @@ GR-89696	Clc1ccc(cc1Cl)CC(=O)N2CCN(C(=O)OC)CC2CN3CCCC3
 BRL-52537	C1CCN([C@@H](C1)CN2CCCC2)C(=O)CC3=CC(=C(C=C3)Cl)Cl
 ICI-204,448	C2CCCN2CC(c(ccc3)cc3OCC(O)=O)N(C)C(=O)Cc(cc1Cl)ccc1Cl
 LPK-26	CC(C)[C@@H](CN1CC=CC1)N(C)C(=O)CC2=CC(=C(C=C2)Cl)Cl
-ICI-199,441	Clc1ccc(cc1Cl)CC(=O)N(C)C(c3ccccc3)CN2CCCC2
+ICI-199,441	CN([C@H](CN1CCCC1)c2ccccc2)C(=O)Cc3ccc(c(c3)Cl)Cl
 L-687,384	c3ccccc3CN2CCC1(CC2)CCCc4c1cccc4
 PRE-084	c1ccccc1C2(CCCCC2)C(=O)OCCN3CCOCC3
 BD-1047	Clc1ccc(CCN(C)CCN(C)C)cc1Cl
@@ -14473,3 +14473,7 @@ Testosterone glucuronide	[H][C@@]12CC[C@H](O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H
 Testosterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=CC(=O)CC[C@]34C
 1,2-Difluoroethane	C(CF)F
 Bicyclo(1.1.1)pentane	C1C2CC1C2
+AA560	CC(C)(C(=O)NC1=CC(=C(C(=C1)Cl)Cl)Cl)O
+15β-Hydroxycyproterone acetate	CC(=O)[C@]1(CC([C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O)OC(=O)C
+RU-22930	CN1OCCN(C1=O)C1=CC=C(C(=C1)C(F)(F)F)N(=O)=O
+Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
