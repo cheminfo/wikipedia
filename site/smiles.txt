@@ -2865,7 +2865,7 @@ Muscone	C[C@@H]1CCCCCCCCCCCCC(=O)C1
 Antimony pentafluoride	F[Sb](F)(F)(F)F
 Dicalcium phosphate	O.O.OP(=O)([O-])[O-].[Ca+2]
 Isoproscaline	CC(C)Oc1c(cc(cc1OC)CCN)OC
-Roxatidine acetate	CC(=O)OCC(=O)NCCCOc1cccc(c1)CN2CCCCC2
+Roxatidine acetate	O=C(OCC(=O)NCCCOc1cc(ccc1)CN2CCCCC2)C
 2,5-Dimethoxy-4-nitroamphetamine	[O-][N+](=O)c1cc(OC)c(cc1OC)CC(N)C
 Nomifensine	NC1=CC=CC2=C1CN(C)CC2C3=CC=CC=C3
 N-Acetylglutamic acid	CC(=O)NC(CCC(O)=O)C(O)=O
@@ -5605,7 +5605,7 @@ Ortho-DOT	S(c1cc(OC)c(OC)cc1CC(N)C)C
 4-PPBP	c1ccccc1C3CCN(CCCCc2ccccc2)CC3
 SA-4503	COC1=C(OC)C=C(CCN2CCN(CCCC3=CC=CC=C3)CC2)C=C1
 Siramesine	C1CN(CCC12C3=CC=CC=C3CO2)CCCCC4=CN(C5=CC=CC=C54)C6=CC=C(C=C6)F
-1-Cyclohexylpiperazine	C1CCCCC1N2CCNCC2
+1-Cyclohexylpiperazine	N2CCN(C1CCCCC1)CC2
 PB-28	COc1c(CCCC2CCCN3CCN(C4CCCCC4)CC3)c2ccc1
 Fenoterol	Oc1cc(cc(O)c1)C(O)CNC(C)Cc2ccc(O)cc2
 Calcium inosinate	[Ca+2].[O-]P([O-])(=O)OC[C@H]3O[C@@H](n2cnc1c2ncnc1O)[C@H](O)[C@@H]3O
@@ -14409,6 +14409,7 @@ Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)C
 Buciclic acid	CCCCC1CCC(CC1)C(=O)O
 Ciclotic acid	C[C@@]12C=C[C@@](CC1)(CC2)C(=O)O
 Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
 Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
 Estradiol (medication)	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
 P-dioxanone	C1COC(=O)CO1
@@ -14429,6 +14430,7 @@ Nandrolone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]
 Nandrolone formate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC=O
 Prasterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C
 7α-Methyl-19-norandrostenedione	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CCC(=O)[C@]4(CC3)C
+Oxamic acid	C(=O)(C(=O)O)N
 Dimethandrolone buciclate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)C4CCC(CCCC)CC4)[C@@]3(C)C[C@H](C)[C@H]21
 Dimethandrolone undecanoate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)CCCCCCCCCC)[C@@]3(C)C[C@H](C)[C@H]21
 Dimethandrolone dodecylcarbonate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)OCCCCCCCCCCCC)[C@@]3(C)C[C@H](C)[C@H]21
@@ -14477,3 +14479,4 @@ AA560	CC(C)(C(=O)NC1=CC(=C(C(=C1)Cl)Cl)Cl)O
 15β-Hydroxycyproterone acetate	CC(=O)[C@]1(CC([C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O)OC(=O)C
 RU-22930	CN1OCCN(C1=O)C1=CC=C(C(=C1)C(F)(F)F)N(=O)=O
 Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
+1,1-Diphenylethylene	C=C(C1=CC=CC=C1)C2=CC=CC=C2
