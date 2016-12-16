@@ -27,7 +27,7 @@ Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
-DDT	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
+Dichlorodiphenyltrichloroethane	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -6709,6 +6709,7 @@ Sarmentose (chemistry)	CO[C@@H]1CC(O)O[C@@H](C)[C@H]1O
 Propane-1,2,3-tricarboxylic acid	C(C(CC(=O)O)C(=O)O)C(=O)O
 Viminol	CCC(C)N(C(C)CC)CC(O)C1=CC=CN1CC2=CC=CC=C2Cl
 Akuammine	COC(=O)C46CO[C@]35N(C)c1ccc(O)cc1[C@]56CCN2C/C(=C\C)[C@H]4CC23
+Ruboxistaurin	CN(C[C@]1([H])CCN2C=C(C(C(O)=NC3=O)=C3C(C4=CC=CC=C45)=CN5CCO1)C6=CC=CC=C62)C
 4-Deoxypyridoxine	Oc1c(c(cnc1C)CO)C
 8-Anilinonaphthalene-1-sulfonic acid	c1ccc(cc1)Nc2cccc3c2c(ccc3)S(=O)(=O)O
 Aplaviroc	CCCCN1C(=O)[C@H](NC(=O)C12CCN(CC2)CC3=CC=C(C=C3)OC4=CC=C(C=C4)C(=O)O)[C@@H](C5CCCCC5)O
@@ -12222,6 +12223,7 @@ Bromopyrogallol red	Brc5c(O)c(O)c4Oc1c(O)c(O)c(Br)cc1C3(OS(=O)(=O)c2ccccc23)c4c5
 Nicotianamine	C1CN([C@@H]1C(=O)O)CC[C@@H](C(=O)O)NCC[C@@H](C(=O)O)N
 Fimasartan	CCCCC1=NC(=C(C(=O)N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=NN4)CC(=S)N(C)C)C
 Oxymatrine	[O-][N+]43[C@@H]2[C@@H]([C@@H]1N(C(=O)CCC1)C[C@@H]2CCC3)CCC4
+Glucuronamide	C(=O)[C@@H]([C@H]([C@@H]([C@@H](C(=O)N)O)O)O)O
 Trenbolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Forasartan	CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
 ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
@@ -13812,6 +13814,7 @@ Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 9-Hydroxyoctadecadienoic acid	CCCCC/C=C\C=C\[C@H](CCCCCCCC(=O)O)O
 Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
 6,14-Endoethenotetrahydrooripavine	[H][C@]12OC3=C4C(C[C@H]5N(C)CC[C@@]14[C@@]51CC[C@]2(OC)C=C1)=CC=C3O
+Etelcalcetide	C[C@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@@H](CSSC[C@@H](C(=O)O)N)NC(=O)C
 3,5-Diiodothyronine	C1=CC(=CC=C1O)OC2=C(C=C(C=C2I)CC(C(=O)O)N)I
 Aripiprazole lauroxil	CCCCCCCCCCCC(=O)OCN1C(=O)CCC2=C1C=C(C=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
 Dihydrotanshinone	O=C2c3c(C=1OCC(C=1C2=O)C)ccc4c(cccc34)C
@@ -13998,7 +14001,6 @@ UWA-001	CNC(Cc1ccc2OCOc2c1)c3ccccc3
 Prostanoic acid	CCCCCCCCC1CCCC1CCCCCCC(=O)O
 Sufotidine	CN1C(=NC(=N1)CS(=O)(=O)C)NCCCOC2=CC=CC(=C2)CN3CCCCC3
 Azonine	C1=CC=CNC=CC=C1
-Heptafulvene	C=C\1/C=C\C=C/C=C/1
 Talazoparib	Cn1c(ncn1)[C@H]2c3c4c(cc(cc4N[C@@H]2c5ccc(cc5)F)F)c(=O)[nH]n3
 Nitrazolam	Cc1nnc2CN=C(c3ccccc3)c4cc(ccc4n12)[N+]([O-])=O
 Fructoselysine	C(CCNCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)C[C@@H](C(=O)O)N
@@ -14089,6 +14091,7 @@ PSNCBAM-1	Clc1ccc(NC(=O)Nc2cccc(c2)c3cccc(n3)N4CCCC4)cc1
 Dihydrokainic acid	CC(C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	COc1cc2ccccc2cc1[C@H]3C[C@@H]([C@H](O3)CO)O
+Uridine triacetate	CC(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2ccc(=O)[nH]c2=O)OC(=O)C)OC(=O)C
 4-Chloro-alpha-pyrrolidinovalerophenone	CCCC(C(=O)c1ccc(cc1)Cl)N2CCCC2
 AUTEN-67	c1ccc2c(c1)C(=O)C(=C(C2=O)n3cnc4c3cccc4)NS(=O)(=O)c5ccc(cc5)[N+](=O)[O-]
 2-Bromopyridine	c1ccnc(c1)Br
@@ -14269,7 +14272,7 @@ Hexedrone	CCCCC(NCC)C(=O)C1=CC=CC=C1
 SCYX-7158	CC2(C)OB(O)c3c2ccc(c3)NC(=O)c1ccc(F)cc1C(F)(F)F
 Diphenylphosphine oxide	c1ccc(cc1)P(=O)c2ccccc2
 Beta-Hydroxy beta-methylbutyryl-CoA	CC(C)(CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)O)O
-Orvepitant	C5C3CCC(=O)N3CCN5C(CC1c2ccc(F)cc2C)CCN1C(=O)N(C)C(C)c4cc(C(F)(F)F)cc(c4)C(F)(F)F
+Orvepitant	CC1=C(C=CC(=C1)F)[C@H]2C[C@H](CCN2C(=O)N(C)[C@H](C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN5[C@H](C4)CCC5=O
 Rolapitant	FC(F)(F)c(c4)cc(C(F)(F)F)cc4C(C)OCC3(c2ccccc2)NCC1(CC3)NC(=O)CC1
 Lanepitant	CC(=O)N(CC1=CC=CC=C1OC)C[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)CN4CCC(CC4)N5CCCCC5
 Befetupitant	CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCOCC4
@@ -14488,5 +14491,10 @@ Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)C
 1,1-Diphenylethylene	C=C(C1=CC=CC=C1)C2=CC=CC=C2
 Propalene	C1=C2C1=C2
 Epinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CNC
-P1-185	CC(C)[C@@H](C(=O)O/N=C/1\CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@@H]4C(=O)C)C)C)N.Cl
+P1-185	CC(C)[C@@H](C(=O)O/N=C/1\CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@@H]4C(=O)C)C)C)N
 3β-Methoxypregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC)C)C
+Pyrithione	c1ccn(c(=S)c1)O
+Pyrithione	C1=CC=[N+](C(=C1)S)[O-]
+Pyrithione	c1cc[n+](c(c1)[S-])[O-].[Na+]
+Pyrithione	c1ccn(c(=S)c1)[O-].[Na+]
+21-Deoxycortisol	CC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)O)C)O
