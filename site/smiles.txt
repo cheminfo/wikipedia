@@ -11692,6 +11692,7 @@ Epsilon-Carotene	C1(=C/CCC(C)(C)C1\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C2C(=
 Zeta-Carotene	C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(\C)CC\C=C(/C)CC\C=C(/C)C)C)C)(\CC/C=C(/CC/C=C(\C)C)C)C
 Methylazoxymethanol acetate	CC(=O)OC/N=[N+](/C)\[O-]
 Rubicordifolin	O=C(OC)c2c(O)c1ccccc1c3oc(cc23)[C@@]7(Oc4c6c(c(O)c5c4cccc5)C(=O)O[C@H]([C@@H]6C7)C(O)(C)C)C
+Baricitinib	CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
 Polonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Po]
 Clofexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)Cl
 Tebufenozide	O=C(c1cc(cc(c1)C)C)N(NC(=O)c2ccc(cc2)CC)C(C)(C)C
@@ -14075,6 +14076,7 @@ Allyl mercaptan	C=CCS
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
 Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N[C@@H]3[C@@H]([C@H]([C@@H]4[C@H]([C@@H]3O)OCO4)O)O
+Rociletinib	CC(=O)N1CCN(CC1)c2ccc(c(c2)OC)Nc3ncc(c(n3)Nc4cccc(c4)NC(=O)C=C)C(F)(F)F
 Niraparib	c1cc2cn(nc2c(c1)C(=O)N)c3ccc(cc3)[C@@H]4CCCNC4
 Biliatresone	O=C(C(C1=C(O)C=CC=C1)=C)C2=C(OC)C3=C(OCO3)C=C2OC
 Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
@@ -14180,6 +14182,7 @@ Edogestrone	CC1=C2CC3(CCC2(C4CCC5(C(C4C1)CCC5(C(=O)C)OC(=O)C)C)C)OCCO3
 11-Aminoundecanoic acid	C(CCCCCN)CCCCC(=O)O
 Velpatasvir	C[C@H]1CC[C@H](N1C(=O)[C@H](C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=CC5=C(C=C43)OCC6=C5C=CC(=C6)C7=CN=C(N7)[C@@H]8C[C@@H](CN8C(=O)[C@@H](C9=CC=CC=C9)NC(=O)OC)COC
 Thiophanate-methyl	COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC
+Lucitanib	CNC(=O)c1cccc2c1ccc(c2)Oc3ccnc4c3cc(c(c4)OCC5(CC5)N)OC
 Furostilbestrol	CCC(=C(CC)C1=CC=C(C=C1)OC(=O)C2=CC=CO2)C3=CC=C(C=C3)OC(=O)C4=CC=CO4
 Tosagestin	CC12CC(=C)C3C(C1C=CC2(C#C)O)CCC4=CC(=O)CCC34
 Metynodiol	CC1CC2(C(CCC2(C#C)O)C3C1C4CCC(C=C4CC3)O)C
@@ -14514,3 +14517,27 @@ Piketoprofen	Cc1ccnc(c1)NC(=O)C(C)c2cccc(c2)C(=O)c3ccccc3
 11-Ketoprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 9α-Bromo-11-ketoprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)C3([C@H]2CCC4=CC(=O)CC[C@@]43C)Br)C
 Butolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCCO)CCC4=C3C=CC(=C4)O
+Prolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCO)CCC4=C3C=CC(=C4)O
+Prodiame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCN)CCC4=C3C=CC(=C4)O
+Pentolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCCCO)CCC4=C3C=CC(=C4)O
+Hexolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCCCCO)CCC4=C3C=CC(=C4)O
+Aminoestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2N)CCC4=C3C=CC(=C4)O
+Estradiol decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
+Estradiol cyclooctyl acetate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4CCCCCCC4)CCC5=C3C=CC(=C5)O
+Taleranol	C[C@H]1CCC[C@H](CCCCCC2=CC(=CC(=C2C(=O)O1)O)O)O
+4-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4O)O
+4-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4O)O
+21-Deoxycortisone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+ERB-196	C1(=CC2=C(C(=C1)C#N)C=C(C=C2)O)C1=CC(=C(C=C1)O)F
+WAY-214156	C1C2=C(C=CC(=C2)O)C3=C(O1)C4=C(C=C(C=C4C#N)O)C(=C3)C#N
+Glabrene	CC1(C=CC2=C(C=CC(=C2O1)C3=CC4=C(C=C(C=C4)O)OC3)O)C
+Mirificin	C1[C@@]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)C3=C(C=CC4=C3OC=C(C4=O)C5=CC=C(C=C5)O)O)O)O)O)O)(CO)O
+Nyasol	C=CC(C=CC1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+Triphenylchloroethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3
+Allenestrol	CCC(C1=CC2=C(C=C1)C=C(C=C2)O)C(C)(C)C(=O)O
+Triphenylbromoethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Br)C3=CC=CC=C3
+Triphenyliodoethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)I)C3=CC=CC=C3
+Triphenylmethylethylene	CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C3=CC=CC=C3
+Olmutinib	CN1CCN(CC1)c2ccc(cc2)Nc3nc4ccsc4c(n3)Oc5cccc(c5)NC(=O)C=C
+Erteberel	C1C[C@H]2[C@@H](C1)C3=C(C=CC(=C3)O)O[C@H]2C4=CC=C(C=C4)O
+Ro 6-3129	CCS[C@@H]1C[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]2(C)[C@H]1C(C)=O
