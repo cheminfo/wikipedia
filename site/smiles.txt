@@ -3718,7 +3718,7 @@ Titanium(II) chloride	[Ti+2].[Cl-].[Cl-]
 24-Ethyl coprostanol	O[C@H]1CC[C@@]2(C)[C@@](CC[C@]3([H])[C@@]([H])2CC[C@@]4(C)[C@]([H])3CC[C@@]([H])4[C@@H](CCC(CC)C(C)C)C)([H])C1
 Caesium carbonate	[Cs+].[Cs+].[O-]C([O-])=O
 Hypobromite	[O-]Br
-Harmalol	O=C/1\C=C2C(\C=C\1)=C3C(\N2)=C(/NCC3)C
+Harmalol	OC1=CC=C(C(CCN=C3C)=C3N2)C2=C1
 Varenicline	n1c2cc3c(cc2ncc1)[C@@H]4CNC[C@H]3C4
 Cadmium iodide	[Cd+2].[I-].[I-]
 Chlorbenside	ClC1=CC=C(SCC2=CC=C(Cl)C=C2)C=C1
@@ -12643,7 +12643,6 @@ Cepharanthine	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=
 Cepharanoline	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)O)OCO3
 Affinine	C/C=C1CN(C)[C@H]2CC3=C(C(C[C@H]/1[C@]2(C)CO)=O)NC4=C3C=CC=C4
 Norharmine	COC1=CC2=C(C=C1)C3=C(N2)C=NC=C3
-Isoharmine	CC1=NC=CC2=C1NC3=C2C=C(C=C3)OC
 Aposcopolamine	O=C(O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23)C(\c4ccccc4)=C
 Diclazepam	CN1C2=C(C=C(C=C2)Cl)C(C3=C(Cl)C=CC=C3)=NCC1=O
 Eleutherobin	CC1=CC[C@@H]([C@@H]/2[C@H]1C[C@@H]([C@@]3(C=C[C@@](O3)(/C(=C2)/CO[C@H]4[C@H]([C@@H]([C@@H](CO4)O)O)OC(=O)C)OC)C)OC(=O)/C=C/C5=CN(C=N5)C)C(C)C
@@ -13244,8 +13243,8 @@ Gymnopusin	COC1=CC2=CC(=C(C(=C2C3=C1C=C(C=C3)O)OC)OC)O
 7-Hydroxy-2,3,4,8-tetramethoxyphenanthrene	COc3c2c(ccc1c(OC)c(O)ccc12)cc(OC)c3OC
 Dihydrodeoxycorticosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CO)C
 1-Hydroxyphenanthrene	C1=CC=C2C(=C1)C=CC3=C2C=CC=C3O
-Cyphostemmin A	Oc1ccc(cc1)C=3Cc2cc(O)cc(O)c2C(C=3c4ccc(O)cc4)c5cc(O)cc(O)c5
-Cyphostemmin B	Oc1ccc(cc1)/C=C4/c2cc(O)cc(O)c2C(c3ccc(O)cc3)C4c5cc(O)cc(O)c5
+Cyphostemmin A	c1cc(ccc1C2=C([C@@H](c3c(cc(cc3O)O)C2)c4cc(cc(c4)O)O)c5ccc(cc5)O)O
+Cyphostemmin B	c1cc(ccc1/C=C\2/c3cc(cc(c3[C@H]([C@@H]2c4cc(cc(c4)O)O)c5ccc(cc5)O)O)O)O
 Pinostilbene	COC1=CC(=CC(=C1)O)/C=C/C2=CC=C(C=C2)O
 Aspergillomarasmine A	C(C(C(=O)O)NCC(C(=O)O)NCC(C(=O)O)N)C(=O)O
 Isopregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
@@ -13425,7 +13424,7 @@ Cinazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)OC(=O)CCC(=O)O)Cl
 Fluroxene	C=COCC(F)(F)F
 LGD-4033	FC([C@H](O)[C@H]1CCCN1C2=CC(=C(C#N)C=C2)C(F)(F)F)(F)F
 SB-236057	n5nc(C)oc5-c(cc2C)ccc2-c6ccc(cc6)C(=O)N(CCc1cc3OC7)c1cc3C7(CC4)CCN4CC
-CP-132,484	NCCc3c2c1CCCOc1ccc2n(C)c3
+CP-132,484	Cn1cc(c2c1ccc3c2CCCO3)CCN
 1-Methylpsilocin	CN(C)CCc(cn1C)c2c1cccc2O
 DR-4485	c4cc(Cl)ccc4C(CC5)=CCN5CCCCC2(CCC3)c1c3c(Cl)ccc1NC2=O
 Lespedamine	O(n2c1ccccc1c(c2)CCN(C)C)C
@@ -14541,3 +14540,5 @@ Triphenylmethylethylene	CC(=C(C1=CC=CC=C1)C2=CC=CC=C2)C3=CC=CC=C3
 Olmutinib	CN1CCN(CC1)c2ccc(cc2)Nc3nc4ccsc4c(n3)Oc5cccc(c5)NC(=O)C=C
 Erteberel	C1C[C@H]2[C@@H](C1)C3=C(C=CC(=C3)O)O[C@H]2C4=CC=C(C=C4)O
 Ro 6-3129	CCS[C@@H]1C[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]2(C)[C@H]1C(C)=O
+Selenium dibromide	[Se](Br)Br
+Praseodymium bromide	Br[Pr](Br)Br
