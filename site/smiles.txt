@@ -5909,7 +5909,7 @@ Peruvoside	O=C\1OC/C(=C/1)[C@H]6CC[C@@]5(O)[C@]6(C)CC[C@H]3[C@H]5CC[C@@H]4C[C@@H
 Cymarin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)CC[C@H]4[C@H]6CC[C@]5(O)C[C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](OC)C3)C)CC[C@]45C=O
 Gitoformate	CC1C(C(CC(O1)OC2C(OC(CC2OC=O)OC3C(OC(CC3OC=O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CC(C7C8=CC(=O)OC8)OC=O)O)C)C)C)C)OC=O)OC=O
 Lanatoside C	C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@]3([C@@H](C2)CC[C@@H]4[C@@H]3C[C@H]([C@]5([C@@]4(CC[C@@H]5C6=CC(=O)OC6)O)C)O)C)O)O[C@H]7C[C@@H]([C@@H]([C@H](O7)C)O[C@H]8C[C@@H]([C@@H]([C@H](O8)C)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)OC(=O)C)O
-Acetyldigoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](OC(=O)C)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
+Α-Acetyldigoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](OC(=O)C)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
 Strontium peroxide	[O-][O-].[Sr+2]
 N-Methylphenethylamine	N(CCc1ccccc1)C
 2-C-Methylerythritol 4-phosphate	CC(CO)(C(COP(=O)(O)O)O)O
@@ -9567,6 +9567,7 @@ Tetramethylbutane	CC(C)(C)C(C)(C)C
 1.1.1-Propellane	C1(C2)(C3)C23C1
 2.2.2-Propellane	C1C23C(CC2)(CC3)C1
 Tetramethylazodicarboxamide	CN(C)C(=O)N=NC(=O)N(C)C
+Rucaparib	CNCc1ccc(cc1)c2[nH]c3cc(F)cc4C(=O)NCCc2c34
 2,2,4,4-Tetramethyl-3-t-butyl-pentane-3-ol	OC(C(C)(C)C)(C(C)(C)C)C(C)(C)C
 Tetra-tert-butylmethane	CC(C)(C)C(C(C)(C)C)(C(C)(C)C)C(C)(C)C
 Tetracyclopropylmethane	C1(CC1)C(C2CC2)(C3CC3)C4CC4
@@ -14542,3 +14543,9 @@ Erteberel	C1C[C@H]2[C@@H](C1)C3=C(C=CC(=C3)O)O[C@H]2C4=CC=C(C=C4)O
 Ro 6-3129	CCS[C@@H]1C[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]2(C)[C@H]1C(C)=O
 Selenium dibromide	[Se](Br)Br
 Praseodymium bromide	Br[Pr](Br)Br
+Neodymium bromide	Br[Nd](Br)Br
+Samarium(II) bromide	Br[Sm]Br
+Samarium(III) bromide	O.O.O.O.O.O.[Br-].[Br-].[Br-].[Sm+3]
+Europium(II) bromide	Br[Eu]Br
+Europium(III) bromide	[Eu+2].[Br-].[Br-].[Br-]
+Gadolinium bromide	[Br-].[Br-].[Br-].[Gd+3]
