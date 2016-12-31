@@ -3,8 +3,8 @@ Aspirin	O=C(Oc1ccccc1C(=O)O)C
 Acetylene	C#C
 Adenosine triphosphate	O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
 Ampicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
-Ascorbic acid	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
-Ascorbic acid	OC=1C(OC(=O)C=1O)[C@@H](O)CO
+Ascorbic acid (molecular aspects)	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+Ascorbic acid (molecular aspects)	OC=1C(OC(=O)C=1O)[C@@H](O)CO
 Amphetamine	NC(CC1=CC=CC=C1)C
 Aspartame	O=C(O)C[C@H](N)C(=O)N[C@H](C(=O)OC)Cc1ccccc1
 Amoxicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccc(O)cc1)N)[C@H]3SC2(C)C
@@ -5986,6 +5986,8 @@ Brodimoprim	Brc1c(OC)cc(cc1OC)Cc2cnc(nc2N)N
 Cycloundecane	C1CCCCCCCCCC1
 Emopamil	N#CC(c1ccccc1)(C(C)C)CCCN(CCc2ccccc2)C
 Mecoprop	CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+Enclomifene	CCN(CC)CCOC1=CC=C(C=C1)/C(=C(\C2=CC=CC=C2)/Cl)/C3=CC=CC=C3
+Zuclomifene	CCN(CC)CCOC1=CC=C(C=C1)/C(=C(/C2=CC=CC=C2)\Cl)/C3=CC=CC=C3
 Trimethyltin chloride	C[Sn](C)(C)Cl
 Triphenyltin chloride	Cl[Sn](c1ccccc1)(c2ccccc2)c3ccccc3
 Tetraethyltin	CC[Sn](CC)(CC)CC
@@ -10819,7 +10821,7 @@ Tert-Butylthiol	SC(C)(C)C
 Tert-Butylphosphaacetylene	P#CC(C)(C)C
 Alpha-Ketovaleric acid	O=C(C(=O)O)CCC
 Bromodiphenylmethane	BrC(c1ccccc1)c2ccccc2
-Idoxifene	Ic1ccc(cc1)\C(=C(\c2ccccc2)CC)c4ccc(OCCN3CCCC3)cc4
+Idoxifene	CC/C(=C(/C1=CC=C(C=C1)OCCN2CCCC2)\C3=CC=C(C=C3)I)/C4=CC=CC=C4
 Actinonin	O=C(N1[C@H](CO)CCC1)[C@@H](NC(=O)[C@H](CCCCC)CC(=O)NO)C(C)C
 Alazopeptin	C=CCNC(CCC(=C[N+]#N)[O-])C(=O)NC(CCC(=C[N+]#N)[O-])C(=O)O
 Almokalant	O=S(CCC)CCCN(CC)CC(O)COc1ccc(C#N)cc1
@@ -14134,6 +14136,7 @@ Dimepregnen	CC1CC2C3CC(C4=CC(CCC4(C3CCC2(C1C(=O)C)C)C)O)C
 Cioteronel	CCC(CCCCC1CCC2C1CC(=O)C2)OC
 Mespirenone	CC(=O)SC1CC2=CC(=O)C=CC2(C3C1C4C5CC5C6(C4(CC3)C)CCC(=O)O6)C
 Spirorenone	CC12CCC3C(C1C4CC4C25CCC(=O)O5)C6CC6C7=CC(=O)C=CC37C
+Inocoterone acetate	CCC1=C2CC[C@]3([C@H]([C@@H]2CCC1=O)CC[C@@H]3OC(=O)C)C
 Osaterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)OC[C@]34C)Cl)C)O
 Pentomone	CC1(C2C(CC3=C(O2)C(=CC=C3)OC)C(=O)C4C1OC5=C(C4)C=CC=C5OC)C
 Jasmolone	CCC=CCC1=C(C(CC1=O)O)C
@@ -14605,3 +14608,14 @@ Androstenediol dipropionate	CCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC
 Methyltestosterone 3-hexyl ether	CCCCCCOC1=CC2=CC[C@@H]3[C@@H]([C@]2(CC1)C)CC[C@]4([C@H]3CC[C@]4(C)O)C
 Testosterone enanthate benziloylhydrazone	CCCCCCC(=O)OC1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N\NC(=O)C(C5=CC=CC=C5)(C6=CC=CC=C6)O)/CC[C@]34C)C
 Ovandrotone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)[C@@H](CC1=CC(=O)CC[C@]31C)SCCC(O)=O
+Triflidic acid	[H]C(S(=O)(C(F)(F)F)=O)(S(=O)(C(F)(F)F)=O)S(=O)(C(F)(F)F)=O
+Riligustilide	CCC/C=C\1/C2=C([C@@H]3[C@H](CC2)[C@@H]([C@@]34C5=C(C=CCC5)C(=O)O4)CCC)C(=O)O1
+ORG-2058	CC[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]2([C@H]1C(=O)CO)C
+Androstenediol 17β-acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+Androstenediol 3β-acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@@H]4O)C)C
+Androstenediol diacetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@@H]4OC(=O)C)C)C
+Drupanol	CC(C)=CCC(C)(CC(=C)C1=CC=C(O)C=C1)C=C
+Cortexolone 17α-propionate	CCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)C(=O)CO
+9,11-Dehydrocortexolone 17α-butyrate	CCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC=C3[C@H]2CCC4=CC(=O)CC[C@@]43C)C)C(=O)CO
+Photoanethole	COC1=CC=C(C=C1)/C=C/C2=CC=C(C=C2)OC
+Levoketoconazole	CC(=O)N1CCN(CC1)c2ccc(cc2)OC[C@@H]3CO[C@@](O3)(Cn4ccnc4)c5ccc(cc5Cl)Cl
