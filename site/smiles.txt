@@ -2203,6 +2203,7 @@ Captan	Clc1ccccc1NC(=O)CCN2C(=O)[C@@H]3CCCC[C@H]3C2=O
 Gingerol	O=C(C[C@@H](O)CCCCC)CCc1cc(OC)c(O)cc1
 Desogestrel	C#C[C@@]4(O)[C@@]2([C@H]([C@@H]3CC/C1=C/CCC[C@@H]1[C@H]3C(=C)\C2)CC4)CC
 Drospirenone	O=C7O[C@@]6([C@@]3([C@H]([C@@H]2[C@@H]4[C@H](/C1=C/C(=O)CC[C@]1(C)[C@H]2CC3)C4)[C@@H]5C[C@@H]56)C)CC7
+Norethisterone acetate	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C
 Norelgestromin	ON=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
 Norgestimate	O=C(O[C@@]2(C#C)CC[C@H]1[C@H]4[C@H](CC[C@@]12CC)[C@@H]3/C(=C\C(=N\O)CC3)CC4)C
 Norgestrel	O=C\1CC[C@H]4C(=C/1)/CC[C@@H]3[C@@H]4CC[C@@]2(CC)[C@H]3CCC2(O)C#C
@@ -9748,6 +9749,7 @@ Perimycin	O=C1C[C@@H](O)CC(OC([C@@H](C)CCC(O)CC(C4=CC=C(NC)C=C4)=O)([H])[C@@H](C
 DBNPA	NC(=O)C(Br)(Br)C#N
 Cyclohexanone oxime	C1CCC(=NO)CC1
 Neoflavan	O3c1ccccc1C(c2ccccc2)CC3
+Psychotridine	CN1CCC2(C1NC1=CC=CC=C21)C1=CC=CC2=C1NC1N(C)CCC21C1=CC=CC2=C1NC1N(C)CCC21C12CCN(C)C1NC1=C2C=CC=C1C12CCN(C)C1NC1=CC=CC=C21
 Eupatolitin	O=C1c3c(O)c(OC)c(OC)cc3O/C(=C1/O)c2ccc(O)c(O)c2
 Iron(II) citrate	C(C(=O)O)C(CC(=O)[O-])(C(=O)[O-])O.[Fe+2]
 Tropic acid	C1=CC=C(C=C1)C(CO)C(=O)O
@@ -12873,6 +12875,7 @@ Tabilautide	CCCCCCCCCCCC(=O)N[C@H](C)C(=O)N[C@H](CCC(=O)N[C@@H](CCC[C@H](N)C(N)=
 Solpecainol	C[C@@H](COC1=CC=CC=C1)N[C@@H](CO)[C@H](O)C1=CC=CC=C1
 Cefsumide	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3cccc(NS(=O)(=O)C)c3)N)C)C(=O)O
 Allyl iodide	C=CCI
+9,10-Dihydroanthracene	c1ccc2c(c1)Cc3ccccc3C2
 Filanesib	CN(C(=O)N1[C@](SC(=N1)C2=C(C=CC(=C2)F)F)(CCCN)C3=CC=CC=C3)OC
 Fluridone	CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3
 3,4,5-Trimethoxybenzaldehyde	COC1=CC(=CC(=C1OC)OC)C=O
@@ -13827,7 +13830,8 @@ Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
 Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
-3α-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4=CC(CCC34C)O)C
+3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
+3β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@H](CC[C@]34C)O)C
 Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
@@ -14050,7 +14054,7 @@ Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
-Fluoroethyl-L-tyrosine (18F)	C1=CC(=CC=C1CC(C(=O)O)N)OCCF
+Fluoroethyl-L-tyrosine (18F)	C1=CC(=CC=C1C[C@@H](C(=O)O)N)OCC[18F]
 3'-Fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
@@ -14636,4 +14640,7 @@ ERA-63	C[C@@H]1CC2=C(CCC(=C)C2)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
 DCW234	CCCCOC(=O)C1=CC=C(C=C1)OC(=O)CCC
 3-Methyl-19-methyleneandrosta-3,5-dien-17β-ol	CC1=CC2=CC[C@H]3[C@@H]4CC[C@@H]([C@]4(CC[C@@H]3[C@]2(CC1)C=C)C)O
 Estramustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl
+4-Formylphenylboronic acid	B(C1=CC=C(C=C1)C=O)(O)O
 Uniconazole	CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
+N-Iodosuccinimide	C1CC(=O)N(C1=O)I
+Syrosingopine	CCOC(=O)Oc1c(cc(cc1OC)C(=O)O[C@@H]2C[C@@H]3CN4CCc5c6ccc(cc6[nH]c5[C@H]4C[C@@H]3[C@@H]([C@H]2OC)C(=O)OC)OC)OC
