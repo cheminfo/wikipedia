@@ -12550,6 +12550,7 @@ Hispidulin	COc1c(O)cc2oc(cc(=O)c2c1O)-c1ccc(O)cc1
 Cynaropicrin	C=C1C[C@@H]([C@@H]2[C@@H]([C@@H]3[C@H]1C[C@@H](C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO
 5'-Methoxyhydnocarpin	COC1=CC(=CC2=C1O[C@@H]([C@H](O2)C3=CC(=C(C=C3)O)OC)CO)C4=CC(=O)C5=C(C=C(C=C5O4)O)O
 Norbadione A	O=C(O)C(\c1ccc(O)cc1)=C7\OC(\O)=C(\c2cc(O)c4OC(=O)c3cc(cc2c34)\C6=C(/O)O\C(=C(/c5ccc(O)cc5)C(=O)O)C6=O)C7=O
+Epoxyagroclavine	C[C@@]12CN([C@@H]3Cc4c[nH]c5c4c(ccc5)[C@@H]3[C@@H]1O2)C
 Meleagrin	CC(C)(C=C)[C@@]12C=C(C(=O)N\3[C@]1(NC(=O)/C3=C\c4c[nH]cn4)N(c5c2cccc5)OC)O
 Questiomycin A	C1=CC=C2C(=C1)N=C3C=C(C(=O)C=C3O2)N
 Costaclavin	C[C@@H]1C[C@@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
@@ -14644,3 +14645,4 @@ Estramustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl
 Uniconazole	CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
 N-Iodosuccinimide	C1CC(=O)N(C1=O)I
 Syrosingopine	CCOC(=O)Oc1c(cc(cc1OC)C(=O)O[C@@H]2C[C@@H]3CN4CCc5c6ccc(cc6[nH]c5[C@H]4C[C@@H]3[C@@H]([C@H]2OC)C(=O)OC)OC)OC
+Vaborbactam	OB1O[C@H](CC(O)=O)CC[C@@H]1NC(=O)CC1=CC=CS1
