@@ -88,7 +88,7 @@ dk]H@ALLbbRfTJiaf@Bfh`@	Serotonin
 ffs`P@@`QjjSKLrj|nvC{LTijuUPUATUELqBHtlhiL@@	Hyoscine
 fhaPaBDXXH@PGPYpYrJIJKSQHbgFfijjh@@	Sodium thiopental
 gJPXHlPDQzt@@	Sulfuric acid
-flyIABFN|EPHb@PCfS`TTRRrtTRIFAcSMU@PT@@@	Thiamine
+fdyIBDJV]zP@bdiSJn|s~J^CSMURuT`@@	Thiamine
 e`\TA@@Ek`AC@djmclbbbbbbbvfd|VbRbgFbgcaWPsPMAUEUMMSUET\SQVHj]P@	Tetracycline
 f`appCHRtAAkN}BT]J]S[o\dwLmmpeM@QDs@@@	Trinitrotoluene
 gOp@DjWkB@@@	Toluene
@@ -1166,7 +1166,7 @@ fnmPr@CU`cAJN@DYIHFhdlaeDedkVRkT@EP@T@@@	Metol
 eMCA|jqkHz@	Samarium(II) iodide
 dmTD@@QIeUujjj@@	Pentyl butyrate
 dg}@@@aJVYU^Svv`@@@@`D	Azobenzene
-en~pD@@@MLbbbbRrLVRbrTVRbrTVRbrTVRbrTXDZYjejfjZijfjZijfjZ`AMHJjekzIiYv@	Plastoquinone
+en~pD@@@MLbbbbRrLVRbrTVRbrTVRbrTVRbrTXDZYjejfjZijfjZijfjZ`AMDJjekzIiYv@	Plastoquinone
 fbe`H@M@PRU`qRdwOLwKlZsUUUUUMTpfSbEEH@	N-Acetylmuramic acid
 diDJ@@PnEInvZZX@@	Oxaloacetic acid
 dmvL@EAFR[f]FV``H@@	Mesalazine
@@ -2645,6 +2645,7 @@ dglB@@PUrJIQEJZMSULp@@	Ethylene glycol dimethacrylate
 fhiQ@@NFAdTTRbcRbcA\e@QCUUD@@	4-HO-MiPT
 dcLL@@i\bTTRRORpPQP@@	2,5-Dimethoxybenzaldehyde
 fbm`@@@YHhdcEEDdejL|fNZjjjjjjh@@	Perhexiline
+gK\@ABeKcMH@	1,2,4-Triazole
 eaUZK@@DKHmnPJEODbfcgohZV\bbTTrbRTVfrbTrbVTLrQ`WTrNKUUUUUUUUUUUUUPVDHgBtad\`TrUTzPtfUrAbJqP@	Amikacin
 gFq`AbeJfuU@@	1,3,5-Trioxane
 gFq`ABeJfuU@@	1,2,4-Trioxane
@@ -12161,6 +12162,7 @@ ffu@`@@HR[UUUUUUjjjZjjhDEH	Gadoleic acid
 fly@R`EN|DDPRHEDF|KQFQQQYKQIRELyA@UMMT@`j@	Tetrachlorvinphos
 gjHTAX@@@G@HLqT`vXmN@RNRJJJIPiIJJFIJIJZJJIIQJJWQIQIHgFIIGDFD`qxrADaper}RcRjLFSMmpx|aptDp@PUDET@ATPD@AEPAPAPEAAD@plIHbdVJTdr@@	Amurensin K
 fag`P@M@iUnRJIKIJJIHiI[ENBtzp\ehHBjj`BjH@@@	Amurensine
+fig`P@C@iUjTwJnsjjj|dYw`yKPPQUU@ETP@@@	Pavine (molecule)
 edVPF@@@MCkoh\bbbTTRtVRTTVRRTR{@gBbWTsvpLADUHT@@@EDQ@@PZP	Quadrangularin A
 fle@P@@TBeJ[g]YV^B}F``I`BH@Pe@	Isorhapontigenin
 eDAPXh@fx@@	Chromium(I) hydride
@@ -14349,6 +14351,7 @@ dazBAHALzIsdf]Vjh@@	3-Nitrooxypropanol
 fi{aa@EDdLDavPRYg^yfUWugDuJvB@fh@@@h@@@	GTx-758
 fbm@A@@XaOAIfV^[U]doIcfBB`@@@@@@	(2-Bromophenyl)diphenylphosphine
 fcwa`@D@GoHhddhbddddhdievZ}mSUMUTpAEDCAJUF@	Guineesine
+gJQHLHaIZj@@	Propylene chlorohydrin
 dayH@DpDfYfjh@@	Tetramethylurea
 ffkAB@B`BDiUY[WnV`bcEF]zNZjjjjjjjj@@	Methylepitiostanol
 ffs@`@@UrJIJYJIJZFITYIS`iJtuUUUUUU@@@	Dimethandrolone
@@ -14404,6 +14407,7 @@ ff}@H@@Bt[vRuRYm[Vv[Wd`qZ@HjjjjJbeYN`UE@@	Pungenin
 eg`TB@@JG@DEmlbbTTtTQRRbbJrRUcaSPtsUUUUUTDAUTDXPb\Rr@@	Valbenazine
 gOy@LDiguij`@	2-Ethyl-2-oxazoline
 dax@h@dBdJdFdNdDfVijhHa@	1,2,3,3,3-Pentafluoropropene
+dax@h@dBdJdFdNdDfVijhHb@	1,2,3,3,3-Pentafluoropropene
 gNpBADFPl`yAIVijaI@	1-Chloro-3,3,3-trifluoropropene
 dcnL@D@aRYfuzY]ZhDB@@	N-Hydroxyphthalimide
 fmw@`@@HrJYJIKJJJIJIYFRl}fmi`@iB`B@@@HqF`	Etacstil
@@ -14580,8 +14584,8 @@ few@b@IS@DYHheEhhcideDmnB\EN^cjjijjfjZZkdIa\PeYAbX@	Ro 6-3129
 eMCCDdQqDf`@	Selenium dibromide
 gC`BAnSDVIlROT@@	Praseodymium bromide
 gC`B@^SDVIlROT@@	Neodymium bromide
-eMCA|lQqHz@	Samarium dibromide
-de@FHbinFP_HqDqLq@vNSlx@@	Samarium tribromide
+eMCA|lQqHz@	Samarium(II) bromide
+de@FHbinFP_HqDqLq@vNSlx@@	Samarium(III) bromide
 eMCC|lQqHz@	Europium dibromide
 gB@BQ~SDVIlPKNW[`@@	Europium tribromide
 gB@BPASDVIlP[NW[`@@	Gadolinium bromide

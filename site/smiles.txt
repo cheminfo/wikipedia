@@ -88,7 +88,7 @@ Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
 Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
-Thiamine	[Cl-].Cc1c(CCO)sc[n+]1Cc1cnc(C)nc1N
+Thiamine	Cc1c(sc[n+]1Cc2cnc([nH]c2=N)C)CCO
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
 Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
@@ -1166,7 +1166,7 @@ Metol	O=S(=O)(O)O.Oc1ccc(NC)cc1.Oc1ccc(NC)cc1
 Samarium(II) iodide	I[Sm]I
 Pentyl butyrate	CCCCCOC(=O)CCC
 Azobenzene	N(=N/c1ccccc1)\c2ccccc2
-Plastoquinone	CC1=C(C(=O)C(=CC1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C
+Plastoquinone	CC=1C(=O)/C=C(/C\C=C(\C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C)C(=O)C=1C
 N-Acetylmuramic acid	O=C(O)[C@H](O[C@H]1[C@H](O)[C@H](OC(O)[C@@H]1NC(=O)C)CO)C
 Oxaloacetic acid	O=C(O)C(=O)CC(=O)O
 Mesalazine	O=C(O)c1cc(ccc1O)N
@@ -2645,6 +2645,7 @@ Ethylene glycol dimethacrylate	CC(=C)C(=O)OCCOC(=O)C(=C)C
 4-HO-MiPT	CN(C(C)C)CCC2=CNC1=CC=CC(O)=C12
 2,5-Dimethoxybenzaldehyde	COc1ccc(c(c1)C=O)OC
 Perhexiline	N3C(CC(C1CCCCC1)C2CCCCC2)CCCC3
+1,2,4-Triazole	N1C=NC=N1
 Amikacin	O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@@H](O)[C@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](N)C3)[C@@H](O)CCN
 1,3,5-Trioxane	O1COCOC1
 1,2,4-Trioxane	C1COCOO1
@@ -12161,6 +12162,7 @@ Gadoleic acid	O=C(O)CCCCCCC\C=C/CCCCCCCCCC
 Tetrachlorvinphos	COP(=O)(OC)O/C(=C\Cl)/c1cc(c(cc1Cl)Cl)Cl
 Amurensin K	C1=CC(=CC=C1[C@@H]2[C@H](C3=CC(=CC4=C3[C@@H]([C@H](O4)C5=CC=C(C=C5)O)C6=CC(=CC(=C26)O)O)O)C7=C(C=CC(=C7)C8=CC9=C1[C@@H]([C@H](OC1=CC(=C9O8)O)C1=CC=C(C=C1)O)C1=CC(=CC(=C1)O)O)O)O
 Amurensine	CN1CC2C3=CC(=C(C=C3CC1C4=CC5=C(C=C24)OCO5)OC)O
+Pavine (molecule)	COc1cc2c(cc1OC)C3Cc4cc(c(cc4C(C2)N3)OC)OC
 Quadrangularin A	C1=CC(=CC=C1C=C2C(C(C3=C(C=C(C=C23)O)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O
 Isorhapontigenin	COC1=C(C=CC(=C1)C=CC2=CC(=CC(=C2)O)O)O
 Chromium(I) hydride	[H-].[Cr+]
@@ -12517,7 +12519,7 @@ CMV423	c1cc(cnc1)c2c(c(c3n2CCCC3)C(=O)N)Cl
 BAY 57-1293	Cc1c(sc(n1)N(C)C(=O)Cc2ccc(cc2)c3ccccn3)S(=O)(=O)N
 PMDTT	CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](CO2)OCP(=O)(O)O
 ODE-CDV	CCCCCCCCCCCCCCCCCCOCCOP(=O)(CO[C@@H](Cn1ccc(nc1=O)N)CO)O
-PMEG (antiviral)	C1=NC2=C(N1CCOCP(=O)(O)O)NC(=NC2=O)N
+PMEG (antiviral)	c1nc2c(n1CCOCP(=O)(O)O)[nH]c(nc2=O)N
 SR9009	CCOC(=O)N1CCC(C1)CN(CC2=CC=C(C=C2)Cl)CC3=CC=C(S3)[N+](=O)[O-]
 Prunin	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C4=CC=C(C=C4)O
 SR9011	CCCCCNC(=O)N1CCC(CN(Cc2ccc(Cl)cc2)Cc3ccc(s3)[N+](=O)[O-])C1
@@ -14349,6 +14351,7 @@ Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
 (2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
 Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
+Propylene chlorohydrin	CC(CCl)O
 Tetramethylurea	CN(C)C(=O)N(C)C
 Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
 Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
@@ -14404,6 +14407,7 @@ Pungenin	CC(=O)c1ccc(c(c1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O
 Valbenazine	CC(C)C[C@@H]1CN2CCc3cc(c(cc3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC
 2-Ethyl-2-oxazoline	CCC1=NCCO1
 1,2,3,3,3-Pentafluoropropene	F\C=C(/F)C(F)(F)F
+1,2,3,3,3-Pentafluoropropene	C(=C(C(F)(F)F)F)F
 1-Chloro-3,3,3-trifluoropropene	FC(F)(F)C=CCl
 N-Hydroxyphthalimide	O=C2N(O)C(C1=CC=CC=C12)=O
 Etacstil	CC/C(=C(\c1ccccc1)/c2ccc(cc2)/C=C/C(=O)O)/c3ccccc3
@@ -14580,8 +14584,8 @@ Ro 6-3129	CCS[C@@H]1C[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]2(C)[C@H]1
 Selenium dibromide	[Se](Br)Br
 Praseodymium bromide	Br[Pr](Br)Br
 Neodymium bromide	Br[Nd](Br)Br
-Samarium dibromide	Br[Sm]Br
-Samarium tribromide	O.O.O.O.O.O.[Br-].[Br-].[Br-].[Sm+3]
+Samarium(II) bromide	Br[Sm]Br
+Samarium(III) bromide	O.O.O.O.O.O.[Br-].[Br-].[Br-].[Sm+3]
 Europium dibromide	Br[Eu]Br
 Europium tribromide	[Eu+2].[Br-].[Br-].[Br-]
 Gadolinium bromide	[Br-].[Br-].[Br-].[Gd+3]
