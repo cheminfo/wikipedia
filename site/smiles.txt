@@ -5747,6 +5747,7 @@ Thiouracil	O=C1\C=C/NC(=S)N1
 Methyl acrylate	C=CC(OC)=O
 Seletracetam	F\C(F)=C/[C@H]1CC(=O)N([C@H](C(=O)N)CC)C1
 Flumedroxone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)O
+Cerium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Ce+3].[Ce+3]
 Metopimazine	O=S(=O)(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCC(C(=O)N)CC4)C
 Bromopride	Brc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC
 Methyl cinnamate	COC(=O)C=CC1=CC=CC=C1
@@ -10731,6 +10732,7 @@ Pentylenetetrazol	C12=NN=N[N]1CCCCC2
 Docosanedioic acid	OC(CCCCCCCCCCCCCCCCCCCCC(O)=O)=O
 Allixin	O=C1C(/OC)=C(\O/C(=C1/O)CCCCC)C
 2,3,4,5-Tetrahydro-1,5-methano-1H-3-benzazepine	c13ccccc3C2CC1CNC2
+Astressin-B	CCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@](C)(CC(C)C)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)NC3CCC(=O)NCCCC[C@H](NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H](CC(=O)N)NC3=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@](C)(CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N
 4,4'-Thiodianiline	C1=CC(=CC=C1N)SC2=CC=C(C=C2)N
 Tebuthiuron	O=C(N(c1nnc(s1)C(C)(C)C)C)NC
 BW A444	[Cl-].[Cl-].O=C(OCCC[N+]2(C)C(c1cc(OC)c(OC)cc1CC2)Cc3cc(OC)c(OC)c(OC)c3)\C=C\c4ccc(cc4)\C=C\C(=O)OCCC[N+]6(C(c5c(cc(OC)c(OC)c5)CC6)Cc7cc(OC)c(OC)c(OC)c7)C
@@ -14650,3 +14652,5 @@ Uniconazole	CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
 N-Iodosuccinimide	C1CC(=O)N(C1=O)I
 Syrosingopine	CCOC(=O)Oc1c(cc(cc1OC)C(=O)O[C@@H]2C[C@@H]3CN4CCc5c6ccc(cc6[nH]c5[C@H]4C[C@@H]3[C@@H]([C@H]2OC)C(=O)OC)OC)OC
 Vaborbactam	OB1O[C@H](CC(O)=O)CC[C@@H]1NC(=O)CC1=CC=CS1
+Trifluoroperacetic acid	C(=O)(C(F)(F)F)OO
+Dikegulac sodium	CC1(OCC2C(O1)C3C(O2)(OC(O3)(C)C)C(=O)[O-])C.[Na+]
