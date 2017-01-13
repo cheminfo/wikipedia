@@ -10328,7 +10328,7 @@ Benzo(a)fluorene	c4ccc3c2c(c1c(cccc1)C2)ccc3c4
 CECXG	c4cccc2c4Oc3ccccc3C2CC(N)(C(O)=O)C1C(C(=O)O)C1CC
 1-Iodomorphine	O[C@H]1\C=C/[C@H]4[C@H]2Cc5c3c(O[C@@H]1[C@]34CCN2C)c(O)cc5I
 Cannabicyclohexanol	CCCCCCCC(C)(C)C1=CC(=C(C=C1)[C@@H]2CCC[C@@H](C2)O)O
-EBC-46	O=C1C(O)(C3O)C(C=C1C)C4(O)C(C)C(OC(=O)\C(\C)=C\C)C2(OC(=O)C(C)CC)C(C)(C)C2C4C5OC35CO
+EBC-46	CCC(C)C(=O)O[C@@]12[C@@H](C1(C)C)[C@@H]3[C@H]4[C@](O4)([C@H]([C@]5([C@H]([C@]3([C@@H]([C@H]2OC(=O)/C(=C/C)/C)C)O)C=C(C5=O)C)O)O)CO
 Methylethyl ketone oxime	CC/C(=N/O)/C
 Taxodone	O=C1\C(=C/C=2/C(=C1/O)[C@]3(C)[C@@H]([C@@H](O)C=2)C(C)(C)CCC3)C(C)C
 Staphyloxanthin	O=C(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)\C(=C\C=C\C(C)(C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C(\C=C/CCCCCCCC(C)CC)C=O)C
@@ -11695,6 +11695,7 @@ Ciprefadol	C1CC[C@]2(CCN(C[C@@H]2C1)CC3CC3)C4=CC(=CC=C4)O
 Quingestanol acetate	O=C(O[C@@]5(C#C)CC[C@@H]4[C@]5(C)CC[C@@H]3[C@@H]2C(\C=C(\OC1CCCC1)CC2)=C/C[C@H]34)C
 Delmadinone acetate	O=C\1\C=C/[C@]4(C(=C/1)C(\Cl)=C/[C@@H]2[C@@H]4CC[C@@]3([C@@](OC(=O)C)(C(=O)C)CC[C@@H]23)C)C
 Methacrylonitrile	C=C(C)C#N
+EGIS-7625	CC1=CC(=C(C=C1N)N2CCN(CC2)CC3=CC=CC=C3)[N+](=O)[O-]
 Daclatasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]c(cn2)c3ccc(cc3)c4ccc(cc4)c5cnc([nH]5)[C@@H]6CCCN6C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Octadecylphosphonic acid	CCCCCCCCCCCCCCCCCCP(=O)(O)O
 Diethyl chlorophosphate	CCOP(=O)(OCC)Cl
@@ -12521,6 +12522,7 @@ Sutezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(c(c2)F)N3CCSCC3
 Brilacidin	C1CNC[C@@H]1OC2=C(C=C(C=C2NC(=O)C3=CC(=NC=N3)C(=O)NC4=CC(=CC(=C4O[C@@H]5CCNC5)NC(=O)CCCCNC(=N)N)C(F)(F)F)C(F)(F)F)NC(=O)CCCCNC(=N)N
 Eravacycline	CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=C(C(=C4C(=O)C3=C([C@@]2(C(=O)C(=C1O)C(=O)N)O)O)O)NC(=O)CN5CCCC5)F
 D75-4590	CCc1c(c(c2nc3ccccc3n2c1NCCN(CC)CC)C#N)C
+OSU-03012	C1=CC=C2C(=C1)C=CC3=C2C=CC(=C3)C4=CC(=NN4C5=CC=C(C=C5)NC(=O)CN)C(F)(F)F
 E1210	c1ccnc(c1)OCc2ccc(cc2)Cc3cc(on3)c4cccnc4N
 3-Deazaneplanocin A	n3ccc1c(ncn1[C@@H]2/C=C(/CO)[C@@H](O)[C@H]2O)c3N
 CMV423	c1cc(cnc1)c2c(c(c3n2CCCC3)C(=O)N)Cl
@@ -13602,6 +13604,7 @@ Gepotidacin	c1cc(=O)n2c3c1ncc(=O)n3[C@@H](C2)CN4CCC(CC4)NCc5cc6c(cn5)OCCC6
 2-Octanol	c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=CCC(=C5)N)O)O)O)OP(=O)(O)O)N
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CCC7=CC(=C(CCC(=C5)C=C6)C=C7)C8=CC9=C(C=C8)N=C(N9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Etomoxir	CCOC(=O)[C@]1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
+Aldoxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=NNC(=O)CCCCCN6C(=O)C=CC6=O)CO)O)N)O
 Crisaborole	B1(c2ccc(cc2CO1)Oc3ccc(cc3)C#N)O
 1,2-Diformylhydrazine	O=CNNC=O
 Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
@@ -14670,7 +14673,10 @@ Vaborbactam	OB1O[C@H](CC(O)=O)CC[C@@H]1NC(=O)CC1=CC=CS1
 Trifluoroperacetic acid	C(=O)(C(F)(F)F)OO
 Dikegulac sodium	CC1(OCC2C(O1)C3C(O2)(OC(O3)(C)C)C(=O)[O-])C.[Na+]
 Prexasertib	C1=C(C(=C(C=C1)OC)C1=CC(=NN1)NC1=NC=C(N=C1)C#N)OCCCN
+Merestinib	Cc1ccc(c(=O)n1c2ccc(cc2)F)C(=O)Nc3ccc(c(c3)F)Oc4cc5cnn(c5cc4c6c[nH]nc6)C
 Ralimetinib	C12C(=CC=C(N=1)C1=C(N=C(N1)C(C)(C)C)C1C=CC(=CC=1)F)N=C(N2CC(C)(C)C)N
 Galunisertib	N1=CC=C(C2=CC(=CC=C12)C(=O)N)C1=C2N(N=C1C1C=CC=C(N=1)C)CCC2
-Ipatasertib	C(C(CNC(C)C)C1C=CC(=CC=1)Cl)(=O)N1CCN(CC1)C1=C2C(=NC=N1)C(CC2C)O
+Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
+Opicapone	Cc1c(c([n+](c(c1Cl)C)[O-])Cl)c2nc(on2)c3cc(c(c(c3)O)O)[N+](=O)[O-]
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
+RO4929097	O=C1Nc2ccccc2c2c(C1NC(=O)C(C(=O)NCC(C(F)(F)F)(F)F)(C)C)cccc2
