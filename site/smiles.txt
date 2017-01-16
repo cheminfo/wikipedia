@@ -3767,7 +3767,7 @@ Cefalotin	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cc3sccc3)COC(=O)C)C(=O)O
 Platensimycin	O=C(O)c1c(O)c(c(O)cc1)NC(=O)CC[C@@]5(C(=O)\C=C/[C@@]34C[C@@]2(O[C@@H](C[C@@H]2C3)[C@H]45)C)C
 2-Ethoxyethanol	CCOCCO
 2-Methoxyethanol	OCCOC
-4-Methylbenzylidene camphor	O=C2\C(=C\c1ccc(cc1)C)C3CCC2(C)C3(C)C
+Enzacamene	O=C2\C(=C\c1ccc(cc1)C)C3CCC2(C)C3(C)C
 Thionyl bromide	BrS(Br)=O
 Selenium oxydichloride	O=[Se](Cl)Cl
 Guanabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)N
@@ -4878,7 +4878,7 @@ Suprofen	O=C(c1ccc(cc1)C(C(=O)O)C)c2sccc2
 Bismuth subgallate	OC(=O)c2cc1O[Bi](O)Oc1c(O)c2
 Patulin	O=C\1O/C2=C/COC(O)C2=C/1
 SCH-50911	O=C(O)C[C@@H]1OCC(NC1)(C)C
-Fencamfamine	CCNC1C(C2CCC1C2)C3=CC=CC=C3
+Fencamfamin	CCNC1C(C2CCC1C2)C3=CC=CC=C3
 Prolinol	C1C[C@@H](NC1)CO
 Prolinol	C1C[C@H](NC1)CO
 Isonicotinamide	c1cnccc1C(=O)N
@@ -6284,7 +6284,7 @@ N-Acetyltalosaminuronic acid	O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@@H]1NC(C)=O)C(O)=
 N-Acetyltalosaminuronic acid	CC(=O)N[C@@H]1[C@@H]([C@@H]([C@@H](O[C@H]1O)C(=O)O)O)O
 Clofenciclan	ClC1=CC=C(C2(CCCCC2)OCCN(CC)CC)C=C1
 Etamivan	CCN(CC)C(=O)C1=CC(=C(C=C1)O)OC
-Gilutensin	C(=C(/c1ccccc1)c2ccccc2)(\CN)CC
+Etifelmine	C(=C(/c1ccccc1)c2ccccc2)(\CN)CC
 Hexacyclonate	O=C(O)CC1(CO)CCCCC1
 Valofane	O=C(N)NC(=O)C1(C(=O)OC(C)C1)C\C=C
 Sodium methylsulfinylmethylide	[Na+].O=S([CH2-])C
@@ -7487,7 +7487,7 @@ Guanoxabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)NO
 Aptiganel	CCC1=CC(=CC=C1)N(C)C(=NC2=CC=CC3=CC=CC=C32)N
 Selfotel	C1CN[C@@H](C[C@@H]1CP(=O)(O)O)C(=O)O
 Guanazodine	C1CCCNC(CC1)CNC(=N)N
-Guanochlor	C1=CC(=C(C(=C1)Cl)OCCNNC(=N)N)Cl
+Guanoclor	C1=CC(=C(C(=C1)Cl)OCCNNC(=N)N)Cl
 Guanoxan	c1ccc2c(c1)OCC(O2)CNC(=N)N
 Bethanidine	N(=C(/NCc1ccccc1)NC)\C
 Urapidil	O=C1\C=C(/N(C(=O)N1C)C)NCCCN3CCN(c2ccccc2OC)CC3
@@ -14684,3 +14684,5 @@ Opicapone	Cc1c(c([n+](c(c1Cl)C)[O-])Cl)c2nc(on2)c3cc(c(c(c3)O)O)[N+](=O)[O-]
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
 RO4929097	O=C1Nc2ccccc2c2c(C1NC(=O)C(C(=O)NCC(C(F)(F)F)(F)F)(C)C)cccc2
 Eberconazole	C1CC2=CC(=CC(=C2C(C3=CC=CC=C31)N4C=CN=C4)Cl)Cl
+Glesatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=S)NC(=O)Cc5ccc(cc5)F
+Elisabethatriene	CC1CCC(C2=CC(=C)CCC12)C(C)CCC=C(C)C
