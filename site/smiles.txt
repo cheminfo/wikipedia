@@ -1058,6 +1058,7 @@ Cetirizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCC(=O)O
 Zanamivir	O=C(O)C=1O[C@@H]([C@H](O)[C@H](O)CO)[C@H](NC(=O)C)[C@@H](/N=C(\N)N)C=1
 Oseltamivir	O=C(OCC)/C1=C/[C@@H](OC(CC)CC)[C@H](NC(=O)C)[C@@H](N)C1
 Cyclobutane	C1CCC1
+Nitrous oxide (medication)	[N-]=[N+]=O
 Glycol stearate	O=C(OCCO)CCCCCCCCCCCCCCCCC
 Pteridine	C1=CN=C2C(=N1)C=NC=N2
 Domperidone	Clc1cc2c(cc1)N(C(=O)N2)C5CCN(CCCN4c3ccccc3NC4=O)CC5
@@ -1378,6 +1379,7 @@ Leuprorelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[
 Melarsoprol	OCC1S[As](SC1)c3ccc(Nc2nc(nc(n2)N)N)cc3
 Nevirapine	O=C2Nc1c(ccnc1N(c3ncccc23)C4CC4)C
 Ziconotide	C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2CSSC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N1)CCCCN)CCCCN)N)C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N3)CO)[C@@H](C)O)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CO)CCCNC(=N)N)CC(C)C)CCSC)CC4=CC=C(C=C4)O)CC(=O)O)C(=O)N)CCCCN)CO)CCCNC(=N)N)CCCCN
+Saline (medicine)	[Na+].[Cl-]
 Demeclocycline	CN(C)[C@@H]1C(\O)=C(\C(N)=O)C(=O)[C@@]2(O)C(/O)=C3/C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12
 Ursodeoxycholic acid	O=C(O)CC[C@H]([C@H]1CC[C@@H]2[C@]1(C)CC[C@H]4[C@H]2[C@@H](O)C[C@@H]3C[C@H](O)CC[C@@]34C)C
 Aminopterin	O=C(O)C(NC(=O)c1ccc(cc1)NCc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
@@ -10962,6 +10964,7 @@ Cabozantinib	O=C(C1(CC1)C(NC2=CC=C(F)C=C2)=O)NC(C=C3)=CC=C3OC4=C(C=C(OC)C(OC)=C5
 Aminooxyacetic acid	O=C(O)CON
 Tin(II) 2-ethylhexanoate	CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Sn+2]
 4,4'-Azobis(4-cyanopentanoic acid)	CC(CCC(=O)O)(C#N)N=NC(C)(CCC(=O)O)C#N
+Tris(2-pyridylmethyl)amine	c1ccnc(c1)CN(Cc2ccccn2)Cc3ccccn3
 Triazane	NNN
 Triphosphane	PPP
 1-Chloro-1,1-difluoroethane	CC(F)(F)Cl
@@ -11997,6 +12000,7 @@ Acetyl cyanide	CC(=O)C#N
 Allyl cyanide	C=CCC#N
 2'-Fucosyllactose	C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)O[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O
 Diisopropyl methylphosphonate	CP(OC(C)C)(OC(C)C)=O
+Triptolide	CC(C)[C@@]12[C@@H](O1)[C@H]3[C@@]4(O3)[C@]5(CCC6=C([C@@H]5C[C@H]7[C@]4([C@@H]2O)O7)COC6=O)C
 Cellocidin	C(#CC(=O)N)C(=O)N
 Allylcyclopentane	C=C\CC1CCCC1
 Diethyl succinate	CCOC(=0)CCC(=0)OCC
@@ -13317,6 +13321,7 @@ CERC-301	CC1=CC=C(C=C1)COC(=O)N2CC[C@@H]([C@@H](C2)F)CNC3=NC=CC=N3
 2-Phenylpyridine	c1ccc(cc1)c2ccccn2
 Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
 Tavaborole	B1(C2=C(CO1)C=C(C=C2)F)O
+Triuret	C(=O)(N)NC(=O)NC(=O)N
 Hydroxybupropion	O=C(c1cc(Cl)ccc1)C(NC(C)(C)CO)C
 Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
 Funapide	C1C2(C3=CC=CC=C3N(C2=O)CC4=CC=C(O4)C(F)(F)F)C5=CC6=C(C=C5O1)OCO6
@@ -14430,6 +14435,7 @@ Noroxycodone	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4)[C@@H](O2)C(=O)CC5)O)C=C1
 Agaric acid	CCCCCCCCCCCCCCCCC(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([C@H]3c4cc(c(cc4)O)OC)C(=O)O[C@H]5[C@H]([C@H]6[C@@H](C5)[C@H](CN(C6)C)C)C)c7cc(c(cc7)O)OC)C)CN(C1)C
 5-MBPB	CCC(CC1=CC2=C(OC=C2)C=C1)NC
+Truxinic acid	c1ccc(cc1)C2C(C(C2C(=O)O)C(=O)O)c3ccccc3
 Pungenin	CC(=O)c1ccc(c(c1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O
 Valbenazine	CC(C)C[C@@H]1CN2CCc3cc(c(cc3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC
 2-Ethyl-2-oxazoline	CCC1=NCCO1
@@ -14624,6 +14630,7 @@ Volanesorsen	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O[C@H]3C[C@@H](O
 Narlaprevir	CCCC[C@H](NC(=O)[C@@H]1[C@@H]2[C@H](CN1C(=O)[C@@H](NC(=O)NC3(CS(=O)(=O)C(C)(C)C)CCCCC3)C(C)(C)C)C2(C)C)C(=O)C(=O)NC4CC4
 N-Oleyl-1,3-propanediamine	CCCCCCCC/C=C\CCCCCCCCNCCCN
 Cloprostenol	c1cc(cc(c1)Cl)OC[C@@H](/C=C/[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)O
+Glucagon (medication)	C[C@H]([C@@H](C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccc(cc2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc4ccccc4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc5c[nH]c6c5cccc6)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](Cc7cnc[nH]7)N)O
 2-Hydroxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=CC(=C(C=C34)O)O
 4-Hydroxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4O)O
 2,2'-Bithiophene	c1cc(sc1)c2cccs2
@@ -14686,15 +14693,25 @@ Prexasertib	C1=C(C(=C(C=C1)OC)C1=CC(=NN1)NC1=NC=C(N=C1)C#N)OCCCN
 Merestinib	Cc1ccc(c(=O)n1c2ccc(cc2)F)C(=O)Nc3ccc(c(c3)F)Oc4cc5cnn(c5cc4c6c[nH]nc6)C
 Ralimetinib	C12C(=CC=C(N=1)C1=C(N=C(N1)C(C)(C)C)C1C=CC(=CC=1)F)N=C(N2CC(C)(C)C)N
 Galunisertib	N1=CC=C(C2=CC(=CC=C12)C(=O)N)C1=C2N(N=C1C1C=CC=C(N=1)C)CCC2
+Tris(trimethylsilyl)amine	C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
 Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
+Alcohol (medical use)	CCO
 Opicapone	Cc1c(c([n+](c(c1Cl)C)[O-])Cl)c2nc(on2)c3cc(c(c(c3)O)O)[N+](=O)[O-]
 Lorlatinib	C[C@@H]1c2cc(ccc2C(=O)N(Cc3c(c(n(n3)C)C#N)-c4cc(c(nc4)N)O1)C)F
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
 Bafetinib	CC1=C(C=C(C=C1)NC(=O)C2=CC(=C(C=C2)CN3CC[C@@H](C3)N(C)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CN=C5
 RO4929097	O=C1Nc2ccccc2c2c(C1NC(=O)C(C(=O)NCC(C(F)(F)F)(F)F)(C)C)cccc2
+Potassium chloride (medical use)	[Cl-].[K+]
+Acetic acid (medical use)	CC(=O)O
 Eberconazole	C1CC2=CC(=CC(=C2C(C3=CC=CC=C31)N4C=CN=C4)Cl)Cl
+Potassium permanganate (medical use)	[O-][Mn](=O)(=O)=O.[K+]
 Salicylic acid (medical use)	c1ccc(c(c1)C(=O)O)O
+Sodium thiosulfate (medical use)	[O-]S(=O)(=S)[O-].[Na+].[Na+]
+Sodium nitrite (medical use)	N(=O)[O-].[Na+]
 Glesatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=S)NC(=O)Cc5ccc(cc5)F
+Zinc sulfate (medical use)	[O-]S(=O)(=O)[O-].[Zn+2]
 Elisabethatriene	CC1CCC(C2=CC(=C)CCC12)C(C)CCC=C(C)C
 Pseudoisoeugenol	CC=CC1=C(C=CC(=C1)OC)O
+Magnesium sulfate (medical use)	[O-]S(=O)(=O)[O-].[Mg+2]
+Fluorescein (medical use)	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
