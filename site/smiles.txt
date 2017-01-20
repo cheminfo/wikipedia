@@ -2445,7 +2445,6 @@ Iron(III) phosphate	[O-]P(=O)([O-])[O-].[Fe+3]
 Bimane	O=C1C=CN2N1C(C=C2)=O
 Isobutanol	CC(C)CO
 Punicalagin	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C(OC(=O)C9=CC(=C(C(=C9C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)C=O)O
-Irinotecan	O=C7OCC=6C(=O)N2C(\c1nc5c(c(c1C2)CC)cc(OC(=O)N4CCC(N3CCCCC3)CC4)cc5)=C/C=6[C@@]7(O)CC
 Sodium selenite	[Na+].[Na+].[O-][Se]([O-])=O
 Sodium tellurite	[Na+].[Na+].[O-][Te]([O-])=O
 Triethyl phosphate	O=P(OCC)(OCC)OCC
@@ -14715,3 +14714,4 @@ Pseudoisoeugenol	CC=CC1=C(C=CC(=C1)OC)O
 Magnesium sulfate (medical use)	[O-]S(=O)(=O)[O-].[Mg+2]
 Fluorescein (medical use)	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
+2,5-Dimethoxy-p-cymene	CC1=CC(=C(C=C1OC)C(C)C)OC
