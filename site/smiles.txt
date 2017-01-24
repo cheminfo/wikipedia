@@ -14724,3 +14724,7 @@ Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
 2,5-Dimethoxy-p-cymene	CC1=CC(=C(C=C1OC)C(C)C)OC
 Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4C3)F)F
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
+Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
+Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
+Eflapegrastim	CC(C(C(=O)O)NCCCOCCOCCCN1CCCC1C(=O)O)O
