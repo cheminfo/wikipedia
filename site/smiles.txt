@@ -7623,7 +7623,7 @@ Bopindolol	CC1=CC2=C(N1)C=CC=C2OCC(CNC(C)(C)C)OC(=O)C3=CC=CC=C3
 3-(p-Fluorobenzoyloxy)tropane	CN1C2CC(OC(C3=CC=C(F)C=C3)=O)CC1CC2
 Altropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2C\C=C\I)C[C@@H]1C3=CC=C(C=C3)F
 RTI-150	CC1=CC=C(C=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC4CCC4)N3C
-(-)-2β-(1,2,4-Oxadiazol-5-methyl)-3β-phenyltropane	CC1=NOC(=N1)[C@H]2[C@H](CC3CCC2N3C)C4=CC=CC=C4
+RTI-126	CC1=NOC(=N1)[C@H]2[C@H](CC3CCC2N3C)C4=CC=CC=C4
 Fludorex	CNCC(C1=CC(=CC=C1)C(F)(F)F)OC
 RTI-336	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
 Alpha-Methylhistamine	CC(N)CC1=CNC=N1
@@ -10171,7 +10171,7 @@ Xanthosine	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)NC(=O)NC2=O
 Emoxypine	Oc1ccc(nc1CC)C
 Gigantine	O(c1cc2c(c(O)c1OC)CCN(C)[C@H]2C)C
 Neocuproine	n1c3c(ccc1C)ccc2ccc(nc23)C
-Vicianin	C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC(C#N)C3=CC=CC=C3)O)O)O)O)O)O
+Vicianin	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)O[C@@H](C#N)C3=CC=CC=C3)O)O)O)O)O)O
 Enpiprazole	Clc3ccccc3N2CCN(CCc1cn(nc1)C)CC2
 Lorpiprazole	FC(F)(F)c1cc(ccc1)N5CCN(CCc4nnc2n4C[C@@H]3CCC[C@H]23)CC5
 Sonepiprazole	O=S(=O)(N)c1ccc(cc1)N2CCN(CC2)CC[C@@H]4OCCc3ccccc34
