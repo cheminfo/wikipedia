@@ -560,7 +560,6 @@ Phenethylamine	c1ccc(cc1)CCN
 Tadalafil	O=C1N(CC(N2[C@@H]1CC3=C([C@H]2C4=CC5=C(OCO5)C=C4)NC6=C3C=CC=C6)=O)C
 Magnesium carbonate	[Mg+2].[O-]C([O-])=O
 Metoclopramide	Clc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC
-Cyclopropane	C1CC1
 Cyclohexane	C1CCCCC1
 Methyl violet	CN=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C3=CC=C(C=C3)N(C)C)C=C1.Cl
 Calcium hydroxide	[Ca+2].[OH-].[OH-]
@@ -14751,3 +14750,5 @@ Eflapegrastim	CC(C(C(=O)O)NCCCOCCOCCCN1CCCC1C(=O)O)O
 Dimethylaminoisopropanol	CC(CN(C)C)O
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Acetryptine	CC(=O)C1=CC2=C(C=C1)NC=C2CCN
+Enasidenib	CC(C)(CNC1=NC(=NC(=N1)NC2=CC(=NC=C2)C(F)(F)F)C3=NC(=CC=C3)C(F)(F)F)O
+Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc2cnn3ccc(nc23)N4CCC[C@@H]4c5cc(F)ccc5F
