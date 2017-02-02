@@ -14032,6 +14032,7 @@ Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
 Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
 3,3-Dimethyl-1-butanol	CC(C)(C)CCO
+Pexidartinib	c1cc(ncc1Cc2c[nH]c3c2cc(cn3)Cl)NCc4ccc(nc4)C(F)(F)F
 Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
 Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
@@ -14134,6 +14135,7 @@ Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
 2-Aminothiophenol	c1ccc(c(c1)N)S
 4-Carboxybenzaldehyde	c1cc(ccc1C=O)C(=O)O
 Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
+Evogliptin	CC(C)(C)OC[C@@H]1C(=O)NCCN1C(=O)C[C@@H](Cc2cc(c(cc2F)F)F)N
 Hydrazine nitrate	NN.[N+](=O)(O)[O-]
 Urea perchlorate	C(=O)([NH3+])N.[O-]Cl(=O)(=O)=O
 Debromoaplysiatoxin	[C@@]123O[C@]([C@H](C)CC1(C)C)(CC(O[C@@]([C@@H](C)O)(CC(OC(C2)[C@H](C)[C@](O3)([C@H](CC[C@@H](C=4C=CC=C(C4)O)OC)C)[H])=O)[H])=O)O
