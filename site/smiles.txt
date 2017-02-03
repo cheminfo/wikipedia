@@ -14166,6 +14166,7 @@ Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)O
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
 PR-104	OP(=O)(O)OCCNC(=O)c(cc([N](=O)=O)cc1[N](=O)=O)c1N(CCBr)CCOS(=O)(C)=O
 Dapivirine	Cc1cc(c(c(c1)C)Nc2ccnc(n2)Nc3ccc(cc3)C#N)C
+Larazotide	CC(C)C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)CN
 Nicotinamide mononucleotide	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)[O-])O)O)C(=O)N
 Tioxazafen	O1N=C(N=C1C=2SC=CC2)C3=CC=CC=C3
 Virstatin	c1cc2cccc3c2c(c1)C(=O)N(C3=O)CCCC(=O)O
@@ -14754,3 +14755,4 @@ N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Acetryptine	CC(=O)C1=CC2=C(C=C1)NC=C2CCN
 Enasidenib	CC(C)(CNC1=NC(=NC(=N1)NC2=CC(=NC=C2)C(F)(F)F)C3=NC(=CC=C3)C(F)(F)F)O
 Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc2cnn3ccc(nc23)N4CCC[C@@H]4c5cc(F)ccc5F
+Tucatinib	CC1=C(OC2=CC3=NC=NN3C=C2)C=CC(NC2=C3C=C(NC4=NC(C)(C)CO4)C=CC3=NC=N2)=C1
