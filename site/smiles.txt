@@ -4307,6 +4307,7 @@ Usnic acid	CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O
 Traumatic acid	O=C(O)/C=C/CCCCCCCCC(O)=O
 Traumatin	O=C\C=C\CCCCCCCCC(=O)O
 Kyotorphin	O=C(O)[C@@H](NC(=O)[C@@H](N)Cc1ccc(O)cc1)CCC/N=C(\N)N
+Glucobrassicin	c1ccc2c(c1)c(c[nH]2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Tuftsin	O=C(N[C@@H](CCCNC(N)=N)C(O)=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)[C@@H](N)[C@@H](C)O
 Fenoxycarb	O=C(OCC)NCCOc2ccc(Oc1ccccc1)cc2
 3-Hydroxypropionic acid	O=C(O)CCO
@@ -14744,15 +14745,20 @@ Magnesium sulfate (medical use)	[O-]S(=O)(=O)[O-].[Mg+2]
 Fluorescein (medical use)	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
 2,5-Dimethoxy-p-cymene	CC1=CC(=C(C=C1OC)C(C)C)OC
+Glasdegib	CN1CC[C@H](C[C@@H]1c2[nH]c3ccccc3n2)NC(=O)Nc4ccc(cc4)C#N
 Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4C3)F)F
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
 Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
 Eflapegrastim	CC(C(C(=O)O)NCCCOCCOCCCN1CCCC1C(=O)O)O
+Glucotropaeolin	c1ccc(cc1)C/C(=N\OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Dimethylaminoisopropanol	CC(CN(C)C)O
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Acetryptine	CC(=O)C1=CC2=C(C=C1)NC=C2CCN
 Enasidenib	CC(C)(CNC1=NC(=NC(=N1)NC2=CC(=NC=C2)C(F)(F)F)C3=NC(=CC=C3)C(F)(F)F)O
 Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc2cnn3ccc(nc23)N4CCC[C@@H]4c5cc(F)ccc5F
 Tucatinib	CC1=C(OC2=CC3=NC=NN3C=C2)C=CC(NC2=C3C=C(NC4=NC(C)(C)CO4)C=CC3=NC=N2)=C1
+Savolitinib	C[C@@H](C1=CN2C=CN=C2C=C1)N3C4=NC(=CN=C4N=N3)C5=CN(N=C5)C
+Sapanisertib	CC(C)N1C2=C(C(=N1)C3=CC4=C(C=C3)OC(=N4)N)C(=NC=N2)N
+Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F
