@@ -1103,6 +1103,7 @@ Ammonium lauryl sulfate	[O-]S(=O)(=O)OCCCCCCCCCCCC.[NH4+]
 Mannitol	O[C@H]([C@H](O)CO)[C@H](O)[C@H](O)CO
 Thiocyanate	[S-]C#N
 Lipoxin	O=C(O)CCC[C@H](O)/C=C/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCCC
+Cimetidine	N#CN\C(=N/C)NCCSCc1nc[nH]c1C
 Imipramine	c1cc3c(cc1)CCc2c(cccc2)N3CCCN(C)C
 Ximelagatran	O=C(NCc1ccc(C(=N\O)\N)cc1)[C@H]3N(C(=O)[C@H](NCC(=O)OCC)C2CCCCC2)CC3
 Malachite green	CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]
@@ -14723,7 +14724,7 @@ Galunisertib	N1=CC=C(C2=CC(=CC=C12)C(=O)N)C1=C2N(N=C1C1C=CC=C(N=1)C)CCC2
 Tris(trimethylsilyl)amine	C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
 Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
 Alcohol (medical use)	CCO
-Opicapone	Cc1c(c([n+](c(c1Cl)C)[O-])Cl)c2nc(on2)c3cc(c(c(c3)O)O)[N+](=O)[O-]
+Opicapone	CC1=[N+]([O-])C(Cl)=C(C2=NOC(C3=CC([N+]([O-])=O)=C(O)C(O)=C3)=N2)C(C)=C1Cl
 Lorlatinib	C[C@@H]1c2cc(ccc2C(=O)N(Cc3c(c(n(n3)C)C#N)-c4cc(c(nc4)N)O1)C)F
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
 Bafetinib	CC1=C(C=C(C=C1)NC(=O)C2=CC(=C(C=C2)CN3CC[C@@H](C3)N(C)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CN=C5
@@ -14761,3 +14762,4 @@ Savolitinib	C[C@@H](C1=CN2C=CN=C2C=C1)N3C4=NC(=CN=C4N=N3)C5=CN(N=C5)C
 Sapanisertib	CC(C)N1C2=C(C(=N1)C3=CC4=C(C=C3)OC(=N4)N)C(=NC=N2)N
 Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F
 Timoprazole	C1=CC=C2C(=C1)NC(=N2)S(=O)CC3=CC=CC=N3
+2,4,6-Tri-tert-butylphenol	CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
