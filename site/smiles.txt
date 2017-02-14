@@ -652,7 +652,7 @@ Nocodazole	O=C(C2=CC=CS2)C1=CC=C(N=C(NC(OC)=O)N3)C3=C1
 Naproxen	C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O
 Skatole	C1=C2C(=CC=C1)C(=C[N]2C)C
 Thiophene	c1ccsc1
-Rotenone	CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC
+Rotenone	CC(=C)[C@H]1Cc2c(O1)ccc3c2O[C@@H]4COc5cc(OC)c(OC)cc5[C@@H]4C3=O
 Phosphocreatine	OC(CN(C)C(N)=NP(O)(O)=O)=O
 Phosphocreatine	CN(CC(=O)O)C(=N)NP(=O)(O)O
 Copper(I) oxide	[Cu]O[Cu]
@@ -12821,7 +12821,7 @@ Radotinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)N3C=C(N=C3)C)C(F)(F)F)NC4=NC=CC(=N4
 Teneligliptin	CC1=NN(C(=C1)N2CCN(CC2)[C@H]3C[C@H](NC3)C(=O)N4CCSC4)C5=CC=CC=C5
 Thiosulfurous acid	OS(S)=O
 4-Hydroxyphenylacetone	CC(=O)CC1=CC=C(C=C1)O
-Metadoxine	Cc1ncc(CO)c(CO)c1O.O=C2CC[C@@H](C(O)=O)N2
+Metadoxine	Cc1c(c(c(cn1)CO)CO)O.C1CC(=O)N[C@@H]1C(=O)O
 Dazomet	CN1CN(C(=S)SC1)C
 Arcapillin	COC1=C(C=C(C(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O)O
 Morelloflavone	c1cc(ccc1[C@@H]2[C@H](C(=O)c3c(cc(cc3O2)O)O)c4c(cc(c5c4oc(cc5=O)c6ccc(c(c6)O)O)O)O)O
@@ -13143,7 +13143,7 @@ Apicidin	CC[C@H](C)[C@H]1C(=O)N2CCCC[C@@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC3=C
 1-Octen-3-yl acetate	CC(=O)OC(C=C)CCCCC
 Lavandulyl acetate	O=C(OCC(\C(=C)C)C/C=C(/C)C)C
 Resveratroloside	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
-2-Hydroxymuconate semialdehyde	C(=C/C(=O)C(=O)O)\C=C\O
+2-Hydroxymuconate semialdehyde	C(=C/C=O)\C=C(\C(=O)O)/O
 2-Oxopent-4-enoic acid	O=C(C(=O)O)C\C=C
 4-Hydroxy-2-oxopentanoic acid	O=C(O)C(=O)CC(O)C
 Dacomitinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)NC(=O)/C=C/CN4CCCCC4
@@ -13153,6 +13153,7 @@ Clitocine	C1=NC(=C(C(=N1)N[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)[N+](=O)[O-])N
 2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	C([C@@H]1[C@H]([C@H]([C@@H](O1)NC2=C(C(=O)N=C(N2)N)NC=O)O)O)OP(=O)(O)O
 Digitalose	O=C[C@H](O)[C@@H](OC)[C@@H](O)[C@H](O)C
 Plakoridine A	O=C(/C=C2/N(CCc1ccc(O)cc1)[C@H]([C@H](C(=O)OC)[C@H]2O)CCC)CCCCCCCCCCCCCCCC
+Hydrogen thioperoxide	OS
 Benz(e)acephenanthrylene	C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1
 Berkeleytrione	C[C@]12CC=C3[C@]([C@@H]1C[C@@]4(C(=C)[C@]2(C(=O)[C@@](C4=O)(C)O)C(=O)OC)C)([C@@H](CC(=O)C3(C)C)O)C
 9-Deacetoxyfumigaclavine C	[H][C@@]12CC3=C(NC4=C3C(=CC=C4)[C@@]1([H])C[C@@H](C)CN2C)C(C)(C)C=C
@@ -13817,6 +13818,7 @@ ADB-FUBICA	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)N[C@@H](C(C)(C)C)C(N)=O
 AB-PICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CCCCC)C2=CC=CC=C21
 5F-ADBICA	FCCCCCn1cc(c2c1cccc2)C(=O)NC(C(C)(C)C)C(=O)N
 3-Amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
+Pivaldehyde	CC(C)(C([H])=O)C
 Deschloroetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4)C
 Seviteronel	CC(C)C(C1=CC2=CC(=C(C=C2C=C1)OC(F)F)OC(F)F)(C3=NNN=C3)O
 Testosterone acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
