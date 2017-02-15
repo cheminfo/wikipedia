@@ -7041,7 +7041,7 @@ Fenspiride	c1ccc(cc1)CCN2CCC3(CC2)CN=C(O3)O
 5,10-Methenyltetrahydrofolate	O=C(O)C(NC(=O)c1ccc(cc1)N4/C=[N+]3/C2=C(/N\C(=N/C2=O)N)NCC3C4)CCC(=O)O
 Aluminium monochloride	[Al]Cl
 Pyrimidone	O=C1NC=NC=C1
-11-nor-9-Carboxy-THC	CCCCCc1cc(c2c(c1)OC(C3C2C=C(CC3)C(=O)O)(C)C)O
+11-Nor-9-carboxy-THC	CCCCCc1cc(c2c(c1)OC(C3C2C=C(CC3)C(=O)O)(C)C)O
 JWH-051	CCCCCCC(C)(C)C1=CC2=C(C=C1)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO
 L-759,633	CCCCCCC(C)(C)c1cc2c(c(c1)OC)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)C
 L-759,656	CCCCCCC(C)(C)c1cc2c(c(c1)OC)[C@@H]3CC(=C)CC[C@H]3C(O2)(C)C
@@ -11099,7 +11099,7 @@ Morphiceptin	c1ccc(cc1)C[C@@H](C(=O)N2CCC[C@H]2C(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@
 Linifanib	CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N
 Potassium hexafluoronickelate(IV)	[K+].[K+].F[Ni-2](F)(F)(F)(F)F
 Cenicriviroc	O=S(c1ccc(cc1)NC(=O)\C4=C\c3c(ccc(c2ccc(OCCOCCCC)cc2)c3)N(CCC4)CC(C)C)Cc5cncn5CCC
-Brigatinib	COC1=C(C=CC(N2CCC(N3CCN(CC3)C)CC2)=C1)NC4=NC=C(C(NC5=CC=CC=C5P(C)(C)=O)=N4)Cl
+Brigatinib	COc1cc(ccc1Nc1ncc(Cl)c(Nc2ccccc2P(C)(C)=O)n1)N1CCC(CC1)N1CCN(C)CC1
 Velusetrag	CC(C)N1C2=CC=CC=C2C=C(C1=O)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C[C@H](CN(C)S(=O)(=O)C)O
 Fostamatinib	Fc1cnc(nc1Nc2nc3N(C(=O)C(Oc3cc2)(C)C)COP(=O)(O)O)Nc4cc(OC)c(OC)c(OC)c4
 Lesogaberan	O=[PH](O)C[C@H](F)CN
