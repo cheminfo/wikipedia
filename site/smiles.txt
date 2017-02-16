@@ -10878,7 +10878,7 @@ L-741,626	OC(CC1)(C2=CC=C(Cl)C=C2)CCN1CC3=CNC4=CC=CC=C43
 GSK-789,472	O=C1N(CC2NCCCC2)CCN1C3=CC=CC=C3
 L-368,899	CC1(C)[C@@]2(CS(N3CCN(C4=CC=CC=C4C)CC3)(=O)=O)CC[C@@H]1C[C@@H]2NC([C@H](CCS(C)(=O)=O)N)=O
 8-Carboxamidocyclazocine	C[C@H]1[C@H]2Cc3ccc(cc3[C@]1(CCN2CC4CC4)C)C(=O)N
-Biotin sulfoxide	OC(=O)CCCCC1C2NC(=O)NC2CS1=O
+Biotin sulfoxide	C1[C@H]2[C@@H]([C@@H](S1=O)CCCCC(=O)O)NC(=O)N2
 Sapotalin	CC1=CC2=C(C=C1)C=CC(=C2C)C
 Nickel(II) acetate	[Ni+2].[O-]C(=O)C.[O-]C(=O)C
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
