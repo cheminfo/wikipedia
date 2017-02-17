@@ -1004,7 +1004,7 @@ Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
 Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
-Thiamine pyrophosphate	[Cl-].OP(=O)(O)OP(O)(O)=O.Cc2nc(N)c(C[n+]1csc(CCO)c1C)cn2
+Thiamine pyrophosphate	[Cl-].Cc2ncc(C[n+]1csc(CCOOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
 Sodium amide	[NH2-].[Na+]
@@ -6459,7 +6459,7 @@ Exatecan	CCC1(C2=C(COC1=O)C(=O)N3CC4=C5C(CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)N)O
 Pidotimod	O=C(O)[C@H]2N(C(=O)[C@H]1NC(=O)CC1)CSC2
 Thymopentin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccc(O)cc1)C(C)C)CC(=O)O)CCCCN)[C@@H](N)CCC/N=C(\N)N
 Roquinimex	CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O
-Triethyl phosphite	O(P(OCC)OCC)CC
+Triethylphosphite	O(P(OCC)OCC)CC
 Trimethyl phosphite	O(P(OC)OC)C
 8-OH-DPAT	CCCN(CCC)C1CCc2cccc(O)c2C1
 Cyclohexenone	C1CC=CC(=O)C1
@@ -8364,7 +8364,7 @@ Clopidol	CC1=C(Cl)C(O)=C(Cl)C(C)=N1
 Decoquinate	CCCCCCCCCCOC1=C(C=C2C(=C1)C(=O)C(=CN2)C(=O)OCC)OCC
 Diclazuril	C1=CC(=CC=C1C(C#N)C2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C=N3)Cl)Cl
 Ethopabate	O=C(Nc1cc(OCC)c(cc1)C(=O)OC)C
-Halofuginone	Brc1cc2/N=C\N(C(=O)c2cc1Cl)CC(=O)C[C@@H]3NCCC[C@H]3O
+Halofuginone	O=C(CN3C=NC2=CC(Br)=C(Cl)C=C2C3=O)C[C@@H]1NCCC[C@H]1O
 Lasalocid	O=C(O)c1c(O)c(ccc1CC[C@@H](C)[C@H](O)[C@@H](C(=O)[C@@H]([C@H]3O[C@@]([C@@H]2O[C@H]([C@](O)(CC2)CC)C)(CC)C[C@@H]3C)CC)C)C
 Narasin	O=C([C@@H](C)[C@@H](O)[C@H](C)[C@]5([H])O[C@]([C@@H](CC)C(O)=O)([H])[C@@H](C)C[C@@H]5C)[C@H](CC)[C@@]1([H])O[C@@]2(O[C@@]3(CC[C@]([C@]4([H])O[C@@H](C)[C@@](O)(CC)CC4)(C)O3)[C@H](O)C=C2)[C@H](C)C[C@@H]1C
 Nicarbazin	O=C1/N=C(\C=C(/N1)C)C.[O-][N+](=O)c1ccc(cc1)NC(=O)Nc2ccc([N+]([O-])=O)cc2
