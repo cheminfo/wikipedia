@@ -2824,7 +2824,7 @@ Allura Red AC	[Na+].[Na+].COc3cc(c(C)cc3/N=N/c1c2ccc(cc2ccc1O)S([O-])(=O)=O)S([O
 Fast Green FCF	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)\C(=C\4/C=C\C(=[N+](\CC)Cc3cccc(c3)S([O-])(=O)=O)/C=C/4)c5ccc(O)cc5S([O-])(=O)=O)CC
 Water blue	[H+].c1ccc(c(c1)Nc2ccc(cc2)C(=C3C=CC(=Nc4ccccc4S(=O)(=O)[O-])C=C3)c5cccc(c5CN)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
 Ponceau 2R	CC1=CC(=C(C=C1)NN=C2C3=C(C=C(C=C3)S(=O)(=O)O)C=C(C2=O)S(=O)(=O)O)C
-Light Green SF yellowish	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)\C(=C\4/C=C\C(=[N+](\CC)Cc3cccc(c3)S([O-])(=O)=O)/C=C/4)c5ccc(cc5)S([O-])(=O)=O)CC
+Light Green SF	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)\C(=C\4/C=C\C(=[N+](\CC)Cc3cccc(c3)S([O-])(=O)=O)/C=C/4)c5ccc(cc5)S([O-])(=O)=O)CC
 Bismarck brown Y	N(=N/c1ccc(cc1N)N)\c3cccc(/N=N/c2ccc(N)cc2N)c3
 Bismarck brown Y	CC1=C(C=C(C=C1)N=NC2=C(C=C(C(=C2)C)N)N)N=NC3=C(C=C(C(=C3)C)N)N
 Orange B	[Na+].[Na+].[O-]S(=O)(=O)c4ccc(/N=N/c2c(nn(c1ccc(cc1)S([O-])(=O)=O)c2O)C(=O)OCC)c3ccccc34
@@ -6052,7 +6052,7 @@ Phenylacetylglutamine	O=C(N[C@H](C(=O)O)CCC(=O)N)Cc1ccccc1
 Mestanolone	O=C2C[C@@H]1CC[C@@H]3[C@@H]([C@@]1(C)CC2)CC[C@]4([C@H]3CC[C@@]4(O)C)C
 Lithium iron phosphate	[Fe+2].[Li+].[O-]P([O-])([O-])=O
 2,alpha-DMT	Cc1c(c2ccccc2[nH]1)CC(C)N
-FD&C Orange Number 1	[Na+].[O-]S(=O)(=O)C1=CC=C(NN=C2C=CC(=O)C3=C2C=CC=C3)C=C1
+Orange 1	[Na+].[O-]S(=O)(=O)C1=CC=C(NN=C2C=CC(=O)C3=C2C=CC=C3)C=C1
 Bromobimane	O=C1\C(=C(/N2/C(=C(\C(=O)N12)C)CBr)C)C
 Plutonium(III) chloride	[Pu+3].[Cl-].[Cl-].[Cl-]
 Labdane	C2CC([C@@H]1CC[C@@H]([C@@H]([C@@]1(C)C2)CC[C@H](C)CC)C)(C)C
