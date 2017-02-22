@@ -722,5 +722,6 @@
 {"date":"2017-02-18T03:43:04.090Z","molecules":14772,"errors":429,"nogood":331,"notfound":2193,"dup":585},
 {"date":"2017-02-19T04:14:39.637Z","molecules":14772,"errors":429,"nogood":331,"notfound":2194,"dup":585},
 {"date":"2017-02-20T03:41:00.118Z","molecules":14774,"errors":429,"nogood":331,"notfound":2194,"dup":584},
-{"date":"2017-02-21T03:40:44.846Z","molecules":14774,"errors":431,"nogood":333,"notfound":2193,"dup":583}
+{"date":"2017-02-21T03:40:44.846Z","molecules":14774,"errors":431,"nogood":333,"notfound":2193,"dup":583},
+{"date":"2017-02-22T03:40:33.912Z","molecules":14773,"errors":432,"nogood":334,"notfound":2195,"dup":583}
 ]

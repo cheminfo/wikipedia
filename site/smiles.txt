@@ -810,7 +810,7 @@ Pantoprazole	FC(F)Oc1ccc2[nH]c(nc2c1)S(=O)Cc3nccc(OC)c3OC
 Methyl ethyl ketone peroxide	CCC(C)(OO)OOC(C)(CC)OO
 Diethylhydroxylamine	CCN(O)CC
 Permethrin	Cl/C(Cl)=C/C3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C
-Amiodarone	Ic1cc(cc(I)c1OCCN(CC)CC)C(=O)c2c3ccccc3oc2CCCC
+Amiodarone	CCN(CC)CCOc1c(I)cc(cc1I)C(=O)c2c3ccccc3oc2CCCC
 Anthraquinone	O=C1c2ccccc2C(=O)c3ccccc13
 Dapsone	O=S(=O)(c1ccc(N)cc1)c2ccc(N)cc2
 Pentane	CCCCC
@@ -1250,7 +1250,7 @@ Styphnic acid	c1c(c(c(c(c1[N+](=O)[O-])O)[N+](=O)[O-])O)[N+](=O)[O-]
 AP-7 (drug)	O=P(O)(O)CCCCCC(C(=O)O)N
 NBQX	[O-][N+](=O)c2cc3c(c1cccc(c12)S(=O)(=O)N)NC(=O)C(=O)N3
 Sorbic acid	O=C(O)\C=C\C=C\C
-Pyridoxine	CC1=NC=C(C(=C1O)CO)CO
+Pyridoxine	OCc1cnc(C)c(O)c1CO
 4-Acetoxy-DET	CC(OC1=CC=CC2=C1C(CCN(CC)CC)=CN2)=O
 Indometacin	Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O
 Flurazepam	FC1=CC=CC=C1C2=NCC(N(CCN(CC)CC)C3=C2C=C(C=C3)Cl)=O
@@ -3624,7 +3624,6 @@ DESOXY	Cc1c(cc(cc1OC)CCN)OC
 3,3',5,5'-Tetramethylbenzidine	Cc1cc(cc(c1N)C)c2cc(c(c(c2)C)N)C
 Titanium tetraiodide	[Ti](I)(I)(I)I
 Carbon tetraiodide	IC(I)(I)I
-Milrinone	Cc1c(cc(c(=O)[nH]1)C#N)c2ccncc2
 Tricine	OCC(CO)(CO)NCC(O)=O
 Cyclobutyne	C1#CCC1
 Thallium(I) oxide	O([Tl])[Tl]
