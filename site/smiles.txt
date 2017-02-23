@@ -3624,6 +3624,7 @@ DESOXY	Cc1c(cc(cc1OC)CCN)OC
 3,3',5,5'-Tetramethylbenzidine	Cc1cc(cc(c1N)C)c2cc(c(c(c2)C)N)C
 Titanium tetraiodide	[Ti](I)(I)(I)I
 Carbon tetraiodide	IC(I)(I)I
+Milrinone	c1cnccc1-c2c(C)[nH]c(=O)c(C#N)c2
 Tricine	OCC(CO)(CO)NCC(O)=O
 Cyclobutyne	C1#CCC1
 Thallium(I) oxide	O([Tl])[Tl]
@@ -12390,6 +12391,7 @@ Anthocyanone A	C1=C(C=C(/C(=C\C(=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)
 4-Hydroxycoumarin	Oc1ccc(/C=C/CO)cc1
 IDFP	O=P(F)(CCCCCCCCCCCC)OC(C)C
 Sodium bifluoride	[H-](F)F.[Na+]
+Lead tetrafluoride	F[Pb](F)(F)F
 Ro4938581	FC(F)C(N=C1)=C(N1C2=C3C=C(Br)C=C2)CN4C3=NC=N4
 ISRIB	O=C(COC1=CC=C(Cl)C=C1)N[C@@H]2CC[C@@H](NC(COC3=CC=C(Cl)C=C3)=O)CC2
 5-Geranyloxy-7-methoxycoumarin	CC(=CCC/C(=C/COC1=C2C=CC(=O)OC2=CC(=C1)OC)/C)C
@@ -13408,6 +13410,7 @@ PYR-41	CCOC(=O)C1=CC=C(C=C1)N2C(=O)/C(=C\C3=CC=C(O3)[N+](=O)[O-])/C(=O)N2
 Narciclasine	C1OC2=C(O1)C(=C3C(=C2)C4=C[C@@H]([C@H]([C@H]([C@@H]4NC3=O)O)O)O)O
 Y-320	O=C(C1=C(C)N(C2=CC=C(Cl)C=C2)N=C1)NC(C=C3)=CC(C#N)=C3N(CC4)CCC4N5CCOCC5
 Titanium nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
+Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
