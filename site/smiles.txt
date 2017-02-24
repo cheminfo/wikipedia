@@ -10478,7 +10478,7 @@ Ammonium sulfite	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].O=S([O-])[O-]
 Terbequinil	CCCNC(=O)C1=CN(C2=CC=CC=C2C1=O)COC
 Cyclotetradecaheptaene	c1ccccccccccccc1
 Dipotassium cyclooctatetraenide	[cH-]/1/cc\cc/[cH-]/cc1.[K+].[K+]
-GM6001	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CN=C2C1=CCC=C2)C(=O)NC
+Ilomastat	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
 Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
 Bromo(tetrahydrothiophene)gold(I)	Br[Au][S]1CCCC1
@@ -10996,6 +10996,7 @@ Apratoxin A	[H]N1[C@@H](Cc2ccc(OC)cc2)C(=O)N(C)[C@@H](C)C(=O)N(C)[C@@H]([C@@H](C
 Dimethyl tetrachloroterephthalate	Clc1c(C(=O)OC)c(Cl)c(Cl)c(C(=O)OC)c1Cl
 BSTFA	C[Si](C)(C)O\C(\C(F)(F)F)=N\[Si](C)(C)C
 9b-Phosphaphenalene	C12=CC=CC(P23)=CC=CC3=CC=C1
+Prinomastat	CC1([C@@H](N(CCS1)S(=O)(=O)C2=CC=C(C=C2)OC3=CC=NC=C3)C(=O)NO)C
 Methylene green	O=[N+](c1c([s+]c(cc(N(C)C)cc2)c2n3)c3ccc1N(C)C)[O-].[Cl-]
 Ro60-0213	C[C@@H](Cn1ccc2c1-c3cc(ccc3C2)OC)N
 Alphacetylmethadol	CC[C@H](C(C[C@H](C)N(C)C)(c1ccccc1)c2ccccc2)OC(=O)C.CC[C@@H](C(C[C@@H](C)N(C)C)(c1ccccc1)c2ccccc2)OC(=O)C
@@ -14774,3 +14775,4 @@ Timoprazole	C1=CC=C2C(=C1)NC(=N2)S(=O)CC3=CC=CC=N3
 2,4,6-Tri-tert-butylphenol	CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
 Triangulene	C1C2=C3C(=CC=C2)CC4=CC=CC5=C4C3=C6C1=CC=CC6=C5
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
+Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
