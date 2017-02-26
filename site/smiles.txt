@@ -27,6 +27,7 @@ Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
+Dichlorodiphenyltrichloroethane	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -12960,7 +12961,7 @@ Cytochrophin-4	C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H]2CCCN2C
 Aceturic acid	CC(=O)NCC(=O)O
 Obovatol	C=CCC1=CC=C(C=C1)OC2=CC(=CC(=C2O)O)CC=C
 Cobalt phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Co+2].[Co+2].[Co+2]
-Sovaprevir	CC(C)(C)[C@H](CC(=O)N1CCCCC1)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C[C@H]3C=C)C(=O)NS(=O)(=O)C4CC4)Oc5cc(nc6c5ccc(c6)OC)c7ccccc7
+Sovaprevir	CC(C)(C)[C@H](CC(=O)N1CCCCC1)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C[C@H]3C=C)C(=O)NS(=O)(=O)C4CC4)OC5=CC(=NC6=C5C=CC(=C6)OC)C7=CC=CC=C7
 Nitrosyl-O-hydroxide	[N-]=[O+]O
 Inaperisone	CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCC2
 Lanperisone	C[C@H](CN1CCCC1)C(=O)C2=CC=C(C=C2)C(F)(F)F
@@ -14777,3 +14778,5 @@ Triangulene	C1C2=C3C(=CC=C2)CC4=CC=CC5=C4C3=C6C1=CC=CC6=C5
 Anatoxin-a(S)	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
 Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
 Sulfoxylic acid	OSO
+Danoprevir	CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
+Glecaprevir	CC1(CC1)S(=O)(=O)NC(=O)[C@]2(C[C@H]2C(F)F)NC(=O)[C@@H]3C[C@@H]4CN3C(=O)[C@@H](NC(=O)O[C@@H]5CCC[C@H]5OC/C=C/C(C6=NC7=CC=CC=C7N=C6O4)(F)F)C(C)(C)C
