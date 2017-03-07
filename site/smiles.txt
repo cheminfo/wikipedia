@@ -8854,7 +8854,7 @@ Spiramide	c2cc(F)ccc2OCCCN3CCC1(CC3)N(CNC1=O)c4ccccc4
 EA-3443	C1CN(C)CCC1OC(=O)C(O)(C3CCCC3)c2ccccc2
 CAR-302,196	CN1CCC(CC1)OC(=O)C(O)(C#CC)C2CCCC2
 Clonixin	O=C(O)C1=CC=CN=C1NC2=C(C)C(Cl)=CC=C2
-Azaspirodecanedione	O=C2NC(=O)CC1(CCCC1)C2
+Azaspirodecanedione	C1CCC2(C1)CC(=O)NC(=O)C2
 Arsenic pentasulfide	S=[As](=S)S[As](=S)=S
 Arsenic pentasulfide	S=[As]12S[As]3(=S)S[As](=S)(S1)S[As](=S)(S2)S3
 Litoxetine	C3CNCCC3OCc2cc1ccccc1cc2
@@ -10105,7 +10105,7 @@ Piclamilast	COC1=C(C=C(C=C1)C(=O)NC2=C(C=NC=C2Cl)Cl)OC3CCCC3
 Azaspirodecane	N2CCC1(CCCC1)CC2
 Spirodecane	C2CCC1(CCCCC1)C2
 Spirodecanedione	O=C1CCC(=O)C12CCCCC2
-Glutarimide	O=C1NC(=O)CCC1
+Glutarimide	C1CC(=O)NC(=O)C1
 2,3-Dichlorophenylpiperazine	Clc1c(Cl)c(ccc1)N2CCNCC2
 Batoprazine	O=C/2Oc1c(cccc1\C=C\2)N3CCNCC3
 Naphthylpiperazine	c2cc(c1ccccc1c2)N3CCNCC3
@@ -13685,6 +13685,7 @@ Ammonium pertechnetate	[O-][Tc](=O)(=O)=O.[NH4+]
 Echinenone	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
 Molybdenum ditelluride	[Te]=[Mo]=[Te]
 Dimethyl adipate	COC(=O)CCCCC(=O)OC
+Bisacurone	C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@@](C=C1)(C)O)O
 Fluorotriiodomethane	C(F)(I)(I)I
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
@@ -14782,5 +14783,6 @@ Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
 Sulfoxylic acid	OSO
 Danoprevir	CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
 Glecaprevir	CC1(CC1)S(=O)(=O)NC(=O)[C@]2(C[C@H]2C(F)F)NC(=O)[C@@H]3C[C@@H]4CN3C(=O)[C@@H](NC(=O)O[C@@H]5CCC[C@H]5OC/C=C/C(C6=NC7=CC=CC=C7N=C6O4)(F)F)C(C)(C)C
+Dihydroxydisulfane	OSSO
 Telotristat ethyl	CCOC(=O)[C@@H](N)Cc1ccc(cc1)c2cc(O[C@H](c3ccc(Cl)cc3n4ccc(C)n4)C(F)(F)F)nc(N)n2
 Ceronapril	O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
