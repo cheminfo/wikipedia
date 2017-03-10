@@ -12517,7 +12517,6 @@ Hadacidin	C(C(=O)O)N(C=O)O
 3-O-Methylfunicone	C/C=C/c1c(c(=O)c(co1)C(=O)c2c(cc(cc2OC)OC)C(=O)OC)OC
 Citromycin	CC1=CC(=O)C2=C(O1)C3=CC(=C(C=C3OC2)O)O
 Quinolacetic acid	O=C\1\C=C/C(O)(/C=C/1)CC(=O)O
-Penochalasin A	C[C@H]\1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@@]2(C5=CC=C(N5)C(=O)C(=O)/C(=C1)/C)C(=O)N[C@H]4CC6=CNC7=CC=CC=C76)C)C
 Rubratoxin B	CCCCCC[C@H]([C@H]1[C@H](C2=C(C[C@H](CC3=C1C(=O)OC3=O)[C@@H]([C@@H]4CC=CC(=O)O4)O)C(=O)OC2=O)O)O
 Verruculogen	CC(=CC1N2C3=C(C=CC(=C3)OC)C4=C2C(CC(OO1)(C)C)N5C(=O)C6CCCN6C(=O)C5(C4O)O)C
 Sch 642305	C[C@H]1CCCC[C@@H]2[C@@H](CC(=O)O1)[C@H](C=CC2=O
@@ -14786,3 +14785,4 @@ Dihydroxydisulfane	OSSO
 Telotristat ethyl	CCOC(=O)[C@@H](N)Cc1ccc(cc1)c2cc(O[C@H](c3ccc(Cl)cc3n4ccc(C)n4)C(F)(F)F)nc(N)n2
 Ceronapril	O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
 Distamycin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)c3cc(cn3C)NC=O)\N
+Iron(III) citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Fe+3]
