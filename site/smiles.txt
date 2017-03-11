@@ -2889,6 +2889,7 @@ Testosterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=
 Testosterone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Tolcapone	[O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
 Indium arsenide	[As]#[In]
+Exenatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc8ccccc8)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](Cc9cnc[nH]9)N
 Aluminium monostearate	CCCCCCCCCCCCCCCCCC(O[Al](O)O)=O
 O-Toluic acid	O=C(O)c1ccccc1C
 M-Toluic acid	CC1=CC=CC(=C1)C(=O)O
@@ -5881,6 +5882,7 @@ Avanafil	Clc1c(OC)ccc(c1)CNc3nc(ncc3C(=O)NCc2ncccn2)N4[C@@H](CCC4)CO
 Terodiline	c1ccccc1C(c2ccccc2)CC(NC(C)(C)C)C
 Propiverine	CCCOC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OC3CCN(CC3)C
 Meladrazine	CCN(CC)C1=NC(=NN)N=C(N1)N(CC)CC
+Emepronium bromide	CC[N+](C)(C)C(C)CC(c1ccccc1)c2ccccc2.[Br-]
 Triclocarban	Clc2ccc(NC(=O)Nc1ccc(Cl)cc1)cc2Cl
 Etybenzatropine	CCN1[C@@H]2CC[C@H]1C[C@H](C2)OC(c3ccccc3)c4ccccc4
 Etanautine	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C.O(CCN(C)C)C(c1ccccc1)c2ccccc2
@@ -14786,3 +14788,4 @@ Telotristat ethyl	CCOC(=O)[C@@H](N)Cc1ccc(cc1)c2cc(O[C@H](c3ccc(Cl)cc3n4ccc(C)n4
 Ceronapril	O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
 Distamycin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)c3cc(cn3C)NC=O)\N
 Iron(III) citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Fe+3]
+Branaplam	CC1(CC(CC(N1)(C)C)Oc2ccc(nn2)c3ccc(cc3O)c4c[nH]nc4)C
