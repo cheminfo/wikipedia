@@ -1351,7 +1351,6 @@ Lumiracoxib	Clc2cccc(F)c2Nc1ccc(cc1CC(=O)O)C
 Threose	O=C[C@@H](O)[C@H](O)CO
 Threose	OC[C@H](O)[C@@H](O)C=O
 Erythrulose	O=C(CO)[C@H](O)CO
-Ethyl acetate	O=C(OCC)C
 Methyl acetate	O=C(OC)C
 Sodium sulfite	[O-]S(=O)[O-].[Na+].[Na+]
 Atosiban	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]3N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CCSSC1)Cc2ccc(OCC)cc2)[C@@H](C)CC)[C@H](O)C)CC(=O)N)CCC3)CCCN
@@ -4223,6 +4222,7 @@ Sugammadex	[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].O=C([O-])CCSC[C@H]8O[
 Doxacurium chloride	[Cl-].[Cl-].O=C(OCCC[N@+]2(C)[C@H](c1c(OC)c(OC)c(OC)cc1CC2)Cc3cc(OC)c(OC)c(OC)c3)CCC(=O)OCCC[N@+]5([C@@H](c4c(cc(OC)c(OC)c4OC)CC5)Cc6cc(OC)c(OC)c(OC)c6)C
 Cisatracurium besilate	[O-]S(=O)(=O)c1ccccc1.[O-]S(=O)(=O)c1ccccc1.O=C(OCCCCCOC(=O)CC[N@@+]2([C@@H](c1c(cc(OC)c(OC)c1)CC2)Cc3ccc(OC)c(OC)c3)C)CC[N@+]5(C)[C@@H](c4cc(OC)c(OC)cc4CC5)Cc6ccc(OC)c(OC)c6
 Chlormezanone	O=S1(CCC(N(C)C1C2=CC=C(C=C2)Cl)=O)=O
+Chlorzoxazone	Clc2cc1c(OC(=O)N1)cc2
 Alcuronium chloride	[Cl-].[Cl-].OC\C=C6\C[N@+]4(CC=C)CC[C@@]58c%11ccccc%11N7\C=C9\[C@H]1C[C@H]2[C@@]%10(CC[N@@+]2(CC=C)C\C1=C\CO)c3ccccc3N(/C=C(/[C@H]6C[C@H]45)[C@H]78)[C@@H]9%10
 Mephenesin	O(c1ccccc1C)CC(O)CO
 Tolperisone	C1CCCN(C1)CC(C(C2=CC=C(C=C2)C)=O)C
@@ -14790,4 +14790,4 @@ Distamycin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)c3cc(cn3C)NC=O)\N
 Iron(III) citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Fe+3]
 Lithium bis(trifluoromethanesulfonyl)imide	[Li+].C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
 Branaplam	CC1(CC(CC(N1)(C)C)Oc2ccc(nn2)c3ccc(cc3O)c4c[nH]nc4)C
-Sarafotoxin	CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C(CC3=CN=CN3)NC(=O)C4CSSCC(C(=O)NC(C(=O)NC5CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N4)CC6=CC=CC=C6)CC7=CC=C(C=C7)O)CC(C)C)NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC5=O)CCCCN)CC(=O)O)CCSC)C(C)O)CC(=O)O)CCCCN)CCC(=O)O)CO)N
+Sarafotoxin	CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C(CC3=CNC=N3)NC(=O)C4CSSCC(C(=O)NC(C(=O)NC5CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N4)CC6=CC=CC=C6)CC(=O)N)CC(C)C)NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC5=O)CCCCN)CC(=O)O)CCSC)C(C)O)CC(=O)O)CCCCN)CCC(=O)O)CO)N
