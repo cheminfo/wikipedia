@@ -6914,6 +6914,7 @@ Efloxate	CCOC(=O)COc1ccc2c(=O)cc(oc2c1)c3ccccc3
 Trapidil	CCN(CC)c1cc(nc2n1ncn2)C
 Dilazep	O=C(OCCCN2CCCN(CCCOC(=O)c1cc(OC)c(OC)c(OC)c1)CC2)c3cc(OC)c(OC)c(OC)c3
 Imolamine	CCN(CC)CCN2C(=N)O\N=C2\c1ccccc1
+Etafenone	CCN(CC)CCOc1ccccc1C(=O)CCc2ccccc2
 Hexobendine	COc1c(cc(cc1OC)C(=O)OCCCN(C)CCN(C)CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)OC
 Carbocromen	O=C(OCC)COc2ccc\1c(OC(=O)/C(=C/1C)CCN(CC)CC)c2
 Oxyfedrine	C[C@@H]([C@@H](c1ccccc1)O)NCCC(=O)c2cccc(c2)OC
@@ -14794,4 +14795,6 @@ Branaplam	CC1(CC(CC(N1)(C)C)Oc2ccc(nn2)c3ccc(cc3O)c4c[nH]nc4)C
 Sarafotoxin	CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C(CC3=CNC=N3)NC(=O)C4CSSCC(C(=O)NC(C(=O)NC5CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N4)CC6=CC=CC=C6)CC(=O)N)CC(C)C)NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC5=O)CCCCN)CC(=O)O)CCSC)C(C)O)CC(=O)O)CCCCN)CCC(=O)O)CO)N
 2,2-Diethoxytetrahydrofuran	CCOC1(CCCO1)OCC
 Diaminomaleonitrile	C(#N)/C(=C(\C#N)/N)/N
-4-ipomeanol	CC(CCC(=O)C1=COC=C1)O
+4-Ipomeanol	CC(CCC(=O)C1=COC=C1)O
+Decarbamoylsaxitoxin	NC1=N[C@H]2[C@H](CO)N=C(N)N3CCC(O)(O)[C@]23N1
+Platinum diselenide	[Se]=[Pt]=[Se]
