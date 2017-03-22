@@ -6070,6 +6070,7 @@ Thiocyanogen	N#CSSC#N
 Talastine	O=C1c3ccccc3\C(=N/N1CCN(C)C)Cc2ccccc2
 O-Acetylserine	O=C(OCC(N)C(=O)O)C
 Piceatannol	C1=CC(=C(C=C1C=CC2=CC(=CC(=C2)O)O)O)O
+Zaurategrast	C1CCC2(CC1)C(=C(C2=O)Br)N[C@@H](CC3=CC=C(C=C3)NC4=NC=CC5=C4C=NC=C5)C(=O)O
 Tridihexethyl	OC(c1ccccc1)(CC[N+](CC)(CC)CC)C2CCCCC2
 Phenyl-C61-butyric acid methyl ester	COC(=O)CCCC1(C23=C14c5c6c7c8c9c1c%10c%11c%12c%13c%14c%10c%10c9c7c7c5c5c2c2c9c%15c(c%13c%13c%12c%12c%16c%11c1c1c8c8c6c4c4c6c8c1c%16c1c%12c8c%13c%15c%11c8c(c16)c4c3c%112)c1c%14c%10c7c5c19)c1ccccc1
 Sodium phenoxide	c1ccc(cc1)[O-].[Na+]
@@ -11746,6 +11747,7 @@ Polonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Po]
 Clofexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)Cl
 Tebufenozide	O=C(c1cc(cc(c1)C)C)N(NC(=O)c2ccc(cc2)CC)C(C)(C)C
 Methacrylamide	O=C(\C(=C)C)N
+DPA-713	CCN(CC)C(=O)CC1=C2N=C(C=C(N2N=C1C3=CC=C(C=C3)OC)C)C
 Bipinnatin J	Cc1cc/2oc1[C@H]([C@@H](CCC3=C[C@H](C/C(=C2)/C)OC3=O)C(=C)C)O
 Lactamide	O=C(N)C(O)C
 2-Nitropropane	CC(C)[N+](=O)[O-]
