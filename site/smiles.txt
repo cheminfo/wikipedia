@@ -2730,7 +2730,6 @@ Chloropyramine	Clc1ccc(cc1)CN(c2ncccc2)CCN(C)C
 Chlorendic acid	C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O
 Copper monosulfide	[Cu]=S
 Phosphorus pentasulfide	P12(=S)SP3(=S)SP(=S)(S1)SP(=S)(S2)S3
-Phosphorus sesquisulfide	S1P2P3SP1SP23
 Dimethyl methylphosphonate	O=P(OC)(OC)C
 Thiodiglycol	OCCSCCO
 2-Chloroethanol	OCCCl
@@ -3775,7 +3774,6 @@ Platensimycin	O=C(O)c1c(O)c(c(O)cc1)NC(=O)CC[C@@]5(C(=O)\C=C/[C@@]34C[C@@]2(O[C@
 Enzacamene	O=C2\C(=C\c1ccc(cc1)C)C3CCC2(C)C3(C)C
 Thionyl bromide	BrS(Br)=O
 Selenium oxydichloride	O=[Se](Cl)Cl
-Guanabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)N
 Levosimendan	O=C2N/N=C(/c1ccc(N/N=C(\C#N)C#N)cc1)[C@H](C)C2
 P-Toluenesulfonic acid	Cc1ccc(cc1)S(=O)(=O)O
 Bitolterol	O=C(Oc2cc(ccc2OC(=O)c1ccc(cc1)C)C(O)CNC(C)(C)C)c3ccc(cc3)C
@@ -11045,6 +11043,7 @@ Tris(2,3-dibromopropyl) phosphate	BrCC(Br)COP(=O)(OCC(Br)CBr)OCC(Br)CBr
 Citraconic acid	O=C(O)\C=C(/C(=O)O)C
 N-Phenethylnordesomorphine	[H][C@@]12[C@]3(CCN4CCC5=CC=CC=C5)C6=C(O2)C(O)=CC=C6C[C@@H]4[C@]3([H])CCC1
 N-Methylcarfentanil	O=C(OC)C1(N(C2=CC=CC=C2)C(CC)=O)CCN(C)CC1
+Furafylline	Cc1[nH]c2c(n1)n(c(=O)n(c2=O)C)Cc3ccco3
 Bufuralol	OC(c2oc1c(cccc1c2)CC)CNC(C)(C)C
 R-30490	CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CC=C3)COC
 JM-1232	O=C1C2=CC3=C(C=C2[C@H](N1C4=CC=CC=C4)CC(N5CCN(CC5)C)=O)CCC3
@@ -11738,6 +11737,7 @@ Isopimpinellin	COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC
 Diadinoxanthin	CC23CC(O)(O)CC(C)(C)C3(/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)C#C\C1=C(/C)CCCC1(C)C)O2
 Diatoxanthin	O[C@@H]2C/C(=C(/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C#C\C1=C(/C)C[C@@H](O)CC1(C)C)C)C)C)C)C(C)(C)C2)C
 Dinoxanthin	C[C@@]13O[C@]1(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/[C@@H]=C=C2C(C)(C)C[C@@H](OC(C)=O)C[C@]2(C)O)C(C)(C)C[C@H](O)C3
+DPA-714	CCN(CC)C(=O)Cc1c(nn2c1nc(cc2C)C)c3ccc(cc3)OCCF
 Thiophosphoric acid	OP(=S)(O)O
 Oxanorbornadiene	C1=CC2C=CC1O2
 Naphthomycin A	O=C1c2c3C(=O)/C(=C1/Cl)NC(=O)/C(=C\C=C\C=C/[C@H](C)[C@@H](O)CC(=O)\C(=C/C[C@H](O)\C=C/[C@H](C)[C@H](O)[C@H](\C=C(\C(=O)c2c(O)c(c3)C)C)C)C)C
@@ -14808,3 +14808,4 @@ Diaminomaleonitrile	C(#N)/C(=C(\C#N)/N)/N
 Decarbamoylsaxitoxin	NC1=N[C@H]2[C@H](CO)N=C(N)N3CCC(O)(O)[C@]23N1
 Platinum diselenide	[Se]=[Pt]=[Se]
 Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
+Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
