@@ -2730,6 +2730,7 @@ Chloropyramine	Clc1ccc(cc1)CN(c2ncccc2)CCN(C)C
 Chlorendic acid	C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O
 Copper monosulfide	[Cu]=S
 Phosphorus pentasulfide	P12(=S)SP3(=S)SP(=S)(S1)SP(=S)(S2)S3
+Phosphorus sesquisulfide	S1P2P3SP1SP23
 Dimethyl methylphosphonate	O=P(OC)(OC)C
 Thiodiglycol	OCCSCCO
 2-Chloroethanol	OCCCl
@@ -3924,7 +3925,7 @@ Zinc pyrophosphate	[Zn+2].[Zn+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Ytterbium(II) chloride	[Yb+2].[Cl-].[Cl-]
 Xenon oxytetrafluoride	F[Xe](F)(F)(F)=O
 Tungsten(IV) oxide	O=[W]=O
-Tungsten(IV) telluride	[Te]=[W]=[Te]
+Tungsten ditelluride	[Te]=[W]=[Te]
 Tungsten(V) bromide	Br[W](Br)(Br)(Br)Br
 Tungsten(V) chloride	Cl[W](Cl)(Cl)(Cl)Cl
 Tungsten dichloride dioxide	[O-2].[O-2].[Cl-].[Cl-].[W]
