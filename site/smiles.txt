@@ -3813,7 +3813,7 @@ Gallium(III) iodide	I[Ga](I)I
 Gallium(III) oxide	O=[Ga]O[Ga]=O
 Gadolinium(III) oxide	[Gd+3].[Gd+3].[O-2].[O-2].[O-2]
 Hafnium(IV) carbide	[Hf+]#[C-]
-Hafnium(IV) oxide	O=[Hf]=O
+Hafnium dioxide	O=[Hf]=O
 Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
 Indium(III) sulfide	S=[In]S[In]=S
 Indium(III) sulfate	[In+3].[In+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
@@ -14811,3 +14811,4 @@ Platinum diselenide	[Se]=[Pt]=[Se]
 Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
 Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
+Hafnium disulfide	S=[Hf]=S
