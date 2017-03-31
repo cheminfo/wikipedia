@@ -3775,6 +3775,7 @@ Platensimycin	O=C(O)c1c(O)c(c(O)cc1)NC(=O)CC[C@@]5(C(=O)\C=C/[C@@]34C[C@@]2(O[C@
 Enzacamene	O=C2\C(=C\c1ccc(cc1)C)C3CCC2(C)C3(C)C
 Thionyl bromide	BrS(Br)=O
 Selenium oxydichloride	O=[Se](Cl)Cl
+Guanabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)N
 Levosimendan	O=C2N/N=C(/c1ccc(N/N=C(\C#N)C#N)cc1)[C@H](C)C2
 P-Toluenesulfonic acid	Cc1ccc(cc1)S(=O)(=O)O
 Bitolterol	O=C(Oc2cc(ccc2OC(=O)c1ccc(cc1)C)C(O)CNC(C)(C)C)c3ccc(cc3)C
@@ -5674,6 +5675,8 @@ Tiludronic acid	c1cc(ccc1SC(P(=O)(O)O)P(=O)(O)O)Cl
 Clodronic acid	ClC(Cl)(P(=O)(O)O)P(=O)(O)O
 Erythritol tetranitrate	C(C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Fenbufen	O=C(O)CCC(=O)c2ccc(c1ccccc1)cc2
+Spirotryprostatin B	O=C1C=3N(C(=O)[C@H]2N1CCC2)[C@@H](\C=C(/C)C)[C@]5(C=3)c4ccccc4NC5=O
+Spirotryprostatin A	CC(=C[C@H]1[C@]2(C[C@@H]3N1C(=O)[C@@H]4CCCN4C3=O)C5=C(C=C(C=C5)OC)NC2=O)C
 Xylopropamine	c1c(ccc(c1C)C)CC(N)C
 TAN-1057 A	O=C1N\C(=N/C[C@H]1N(C(=O)C[C@@H](N)CCC/N=C(\N)N)C)NC(=O)N
 TAN-1057 C	O=C1N(C)[C@@H](C(=O)N[C@H](C1)CCC/N=C(\N)N)CNN\C=N\C(=O)N
@@ -7330,6 +7333,7 @@ Pazufloxacin	C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2C4(CC4)N)F)C(=O)O
 Sarafloxacin	Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCNCC4
 Ibafloxacin	Fc2cc1C(=O)/C(C(=O)O)=C\N3c1c(c2C)CCC3C
 Pradofloxacin	C1C[C@H]2CN(C[C@H]2NC1)C3=C(C=C4C(=C3C#N)N(C=C(C4=O)C(=O)O)C5CC5)F
+Sulbenicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](c3ccccc3)S(=O)(=O)O)C(=O)O)C
 Acetildenafil	CCCc1nn(C)c3c1nc([nH]c3=O)-c2cc(ccc2OCC)C(=O)CN4CCN(CC)CC4
 Flopropione	CCC(=O)C1=C(C=C(C=C1O)O)O
 Florantyrone	C1=CC2=C3C(=C1)C4=C(C3=CC=C2)C=C(C=C4)C(=O)CCC(=O)O
@@ -10738,7 +10742,7 @@ AM-679 (FLAP inhibitor)	n5cc(OC)cnc5-c6ccc(cc6)Cn(c1CC(C)(C)C(=O)O)c4ccc(cc4c1SC
 Sulfacytine	CCN1C=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC1=O
 Sulfoxone	OS(=O)CNc1ccc(cc1)S(=O)(=O)c2ccc(NCS(=O)O)cc2
 Diphenyldichloromethane	c1ccc(cc1)C(c2ccccc2)(Cl)Cl
-GSK1360707F	COCC13CC1(CCNC3)c(cc2Cl)ccc2Cl
+GSK1360707F	COC[C@@]12C[C@@]1(CCNC2)c3ccc(c(c3)Cl)Cl
 Tetraphenylethylene	c1ccc(cc1)C(=C(c2ccccc2)c3ccccc3)c4ccccc4
 Sodium bisulfite	[Na+].[O-]S(=O)O
 Org 12962	C2CNCCN2c(nc1Cl)ccc1C(F)(F)F
@@ -11415,6 +11419,7 @@ Beryllium borohydride	[Be+2].[BH4-].[BH4-]
 (R)-2-Methyl-CBS-oxazaborolidine	O2B(N1CCC[C@@H]1C2(c3ccccc3)c4ccccc4)C
 Benfluralin	[O-][N+](=O)c1cc(cc([N+]([O-])=O)c1N(CCCC)CC)C(F)(F)F
 Nitrofen	Clc2cc(Cl)ccc2Oc1ccc([N+]([O-])=O)cc1
+L-694247	CS(=O)(=O)Nc1ccc(cc1)Cc2nc(on2)c3ccc4c(c3)c(c[nH]4)CCN
 WAY-629	C1CCC2=C(C1)C3=CC=CC4=C3N2CCNC4
 Camfetamine	C2CC1CC2C(NC)C1c3ccccc3
 Bialaphos	O=C(O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CCP(=O)(O)C)C)C
@@ -12289,6 +12294,7 @@ ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
 Delamanid	FC(F)(F)Oc5ccc(OC4CCN(c3ccc(OC[C@@]2(Oc1nc(cn1C2)[N+]([O-])=O)C)cc3)CC4)cc5
 O-1602	CC1=C[C@@H](C2=C(C)C=C(O)C=C2O)[C@H](C(C)=C)CC1
 O-1918	CC1=C[C@@H](C2=C(OC)C=C(C)C=C2OC)[C@H](C(C)=C)CC1
+Mallotojaponin B	Cc1c(c(c(c(c1OC)Cc2c(c(c(c(c2OC)CC=C(C)C)O)C(=O)C)O)O)C(=O)C)O
 Mallotophenone	Cc1c(O)c(C(=O)C)c(O)c(c1OC)Cc(c(OC)c2C)c(O)c(C(C)=O)c2O
 Tofogliflozin	CCc1ccc(cc1)Cc2ccc3c(c2)[C@]4([C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC3.O
 Mallotojaponin C	CC(=O)c1c(O)c(c(OC)c(c1O)C\C=C(\C)/C)Cc2c(OC)c(C\C=C(/C)\C)c(O)c(C(=O)C)c2O
@@ -13526,7 +13532,7 @@ Nitroapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)[N+](=O)[O-]
 4-Bromofluorobenzene	c1cc(ccc1F)Br
 Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2]
 Lactocillin	C/C=C\1/c2nc(cs2)C(=O)NC(C3=NC(CS3)C(=O)NC(c4nc(cs4)-c5c(ccc(n5)c6nc(cs6)c7nc(cs7)C(=O)NC(C)C(=O)O)-c8nc(cs8)C(=O)NC(C(=O)N1)C(C)O)CSC(=O)c9c[nH]c1c9cccc1)C(C)O
-Lanabecestat	CC#CC1=CC(=CN=C1)C2=CC3=C(CC4(C35N=C(C(=N5)N)C)CCC(CC4)OC)C=C2
+Lanabecestat	CC#Cc1cncc(c1)c2cc3c(cc2)C[C@@]4([C@@]35N=C(C(=N5)C)N)CC[C@H](CC4)OC
 4-Methylpentanoic acid	CC(C)CCC(=O)O
 6β-Naltrexol	c1cc(c2c3c1C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)[C@@H](CC5)O)O)O
 Verucerfont	CC[C@@H](c1nc(no1)C)Nc2cc(nc3n2nc(c3c4ccc(cc4C)OC)C)C
@@ -14520,6 +14526,7 @@ Endoxifen	CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3
 Testosterone (medication)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Potassium thioacetate	CC(=S)[O-].[K+]
 Aluminium triacetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3]
+Ezutromid	CCS(=O)(=O)c1ccc2c(c1)nc(o2)c3ccc4ccccc4c3
 Celgosivir	CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
 Boldenone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=CC(=O)C=C[C@]34C
 Nitrotriazolone	C1(=NC(=O)NN1)[N+](=O)[O-]
