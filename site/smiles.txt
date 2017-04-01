@@ -90,7 +90,7 @@ Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	Cc1c(sc[n+]1Cc2cnc([nH]c2=N)C)CCO
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
-Trinitrotoluene	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+TNT	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
 Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
@@ -6571,6 +6571,7 @@ RWJ-51204	Fc1ccccc1NC(=O)C=3C(=O)CCN4c2c(cc(F)cc2)N(C=34)COCC
 Heptanal	O=CCCCCCC
 Hexanal	O=CCCCCC
 Nonanal	CCCCCCCCC=O
+Penguinone	CC1=CC(=O)C=C(C1(C)C)C
 Eledoisin	O=C(NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)N)CCSC)CC(C)C)C(C)CC)Cc1ccccc1)C)CC(=O)O)CCCCN)CO)C3N(C(=O)C2NC(=O)CC2)CCC3
 Homocitric acid	O=C(O)CC(O)(C(=O)O)CCC(=O)O
 Prostaglandin F2alpha	O=C(O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)CCCCC
@@ -13464,6 +13465,7 @@ Piromelatine	COC1=CC2=C(C=C1)NC=C2CCNC(=O)C3=CC(=O)C=CO3
 S2242	C1=C2C(=NC(=N1)N)N=CN2COC(CO)CO
 Norpropylhexedrine	CC(CC1CCCCC1)N
 Fluxapyroxad	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
+Pigment Red 149	Cc1cc(cc(c1)N2C(=O)c3ccc4c5ccc6c7c5c(ccc7C(=O)N(C6=O)c8cc(cc(c8)C)C)c9c4c3c(cc9)C2=O)C
 Pigment Red 179	CN1C(=O)c2ccc3c4ccc5c6c4c(ccc6C(=O)N(C5=O)C)c7c3c2c(cc7)C1=O
 N-Succinimidyl 4-fluorobenzoate	FC1=CC=C(C(ON2C(CCC2=O)=O)=O)C=C1
 Pentethylcyclanone	C1CC=C(C1)C2(CCCC2=O)CCN3CCOCC3
@@ -13696,6 +13698,7 @@ Flubromazolam	BrC1=CC3=C(C=C1)[N]2C(=NN=C2C)CN=C3C4=C(C=CC=C4)F
 Triazavirin	CSc1[nH]n2c(=O)c(nnc2n1)[N+](=O)[O-]
 DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
+Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)OO
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
 Methylselenocysteine	C[Se]C[C@@H](C(=O)O)N
 Cassaine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCN(C)C)[C@]3(CC[C@@H](C([C@@H]3CC2=O)(C)C)O)C
