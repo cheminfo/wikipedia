@@ -14221,7 +14221,7 @@ Tribromoethanol	C(C(Br)(Br)Br)O
 4-Amino-3-hydrazino-5-mercapto-1,2,4-triazole	c1(=S)[nH]nc(n1N)NN
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
-Α-Hederin	[H][C@@]1(O[C@@H]2[C@@H](O)[C@H](O)[C@H](C)O[C@@]2([H])O[C@H]2CC[C@@]3(C)[C@@]([H])(CC[C@]4(C)[C@]3([H])CC=C3[C@]5([H])CC(C)(C)CC[C@@]5(CC[C@@]43C)C(O)=O)[C@]2(C)CO)O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O
+Α-Hederin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H](CO[C@H]2O[C@H]3CC[C@]4([C@H]([C@]3(C)CO)CC[C@@]5([C@@H]4CC=C6[C@]5(CC[C@@]7([C@H]6CC(CC7)(C)C)C(=O)O)C)C)C)O)O)O)O)O
 Dimethylphosphine	CPC
 Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
