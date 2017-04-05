@@ -4947,6 +4947,7 @@ Dimethyl oxalate	O=C(OC)C(=O)OC
 Deuterated acetone	[2H]C([2H])([2H])C(=O)C([2H])([2H])[2H]
 Deuterated benzene	[2H]c1c([2H])c([2H])c([2H])c([2H])c1[2H]
 Deuterated DMF	[2H]C(=O)N(C([2H])([2H])[2H])C([2H])([2H])[2H]
+Deuterated ethanol	[2H]C([2H])([2H])C([2H])([2H])O[2H]
 Deuterated methanol	[2H]OC([2H])([2H])[2H]
 Deuterated THF	[2H]C1([2H])OC([2H])([2H])C([2H])([2H])C1([2H])[2H]
 Limonin	O=C4[C@@]6(C)[C@@]72O[C@@H]7C(=O)O[C@@H](c1ccoc1)[C@]2(C)CC[C@@H]6[C@]35COC(=O)C[C@@H]5OC([C@@H]3C4)(C)C
@@ -10563,6 +10564,7 @@ Hexacyclinol	O=C5[C@]34[C@H](\C=C2\C(=O)[C@H]1O[C@H]1[C@H](O)[C@H]2[C@@H]3[C@@H]
 Gastrodin	O(c1ccc(cc1)CO)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
 Oxaziridine	C1NO1
 Triformin	C(C(COC=O)OC=O)OC=O
+Maresin	CC/C=C\C/C=C\C[C@@H](/C=C\C=C\C=C\[C@@H](C/C=C\CCC(=O)O)O)O
 Voacamine	CCC1CC2CC3(C1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)C6CC\7C(C(CC8=C6NC9=CC=CC=C89)N(C/C7=C/C)C)C(=O)OC)C(=O)OC
 5-Deoxyinositol	O[C@@H]1C[C@@H](O)[C@H](O)C(O)[C@H]1O
 1-Methyltryptophan	O=C(O)C(N)Cc2c1ccccc1n(c2)C
@@ -14823,3 +14825,4 @@ Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
 Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
+Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
