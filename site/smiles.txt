@@ -12836,6 +12836,7 @@ Nonacosylic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCC
 2-Nitrochlorobenzene	C1=CC=C(C(=C1)[N+](=O)[O-])Cl
 Naphthanthrone	O=C5c2cccc1ccc4c(c12)c3c5cccc3cc4
 Oliceridine	COc1ccsc1CNCC[C@]2(CCOC3(CCCC3)C2)c4ccccn4
+6'-Guanidinonaltrindole	c1cc2c(cc1NC(=N)N)[nH]c3c2CC4(C5Cc6ccc(c7c6C4(C3O7)CCN5CC8CC8)O)O
 9-Carboxymethoxymethylguanine	C1=NC2=C(N1COCC(=O)O)N=C(NC2=O)N
 3-Bromocytisine	c1cc2n(c(=O)c1Br)C[C@H]3C[C@@H]2CNC3
 Glycidic acid	C1C(O1)C(=O)O
@@ -14826,3 +14827,4 @@ Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
+Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
