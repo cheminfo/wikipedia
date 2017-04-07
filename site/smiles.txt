@@ -101,6 +101,7 @@ Uric acid	OC1Nc2nc(=O)nc2C(=O)N1
 Vitamin C	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
 Sildenafil	CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
+Nitrous oxide	N#[N+][O-]
 Niacin	OC(=O)c1cccnc1
 Nicotine	CN(CCC1)[C@@H]1C2=CC=CN=C2
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
@@ -9049,7 +9050,7 @@ Chloranil	ClC=1C(=O)C(\Cl)=C(\Cl)C(=O)C=1Cl
 2,3,3-Trimethylpentane	CCC(C)(C)C(C)C
 RTI-113	CN1C2CCC1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC4=CC=CC=C4
 RTI-112	CC1=C(C=CC(=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3C)Cl
-Noopept	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
+N-phenylacetyl-L-prolylglycine ethyl ester	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
 MMPIP	COc3ccc(cc3)C2CC(C1C(=O)N2C)ON=C1c4ccncc4
 LY-404,039	C1[C@]([C@@H]2[C@H]([C@@H]2S1(=O)=O)C(=O)O)(C(=O)O)N
 ADX-47273	FC1=CC=C(C(N2CCC[C@@H](C2)C3=NC(C4=CC=C(F)C=C4)=NO3)=O)C=C1
@@ -14828,3 +14829,4 @@ Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
+Kukoamines	C1=CC(=C(C=C1CCC(=O)NCCCNCCCCNCCCNC(=O)CCC2=CC(=C(C=C2)O)O)O)O
