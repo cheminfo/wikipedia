@@ -8748,6 +8748,7 @@ ATMP	O=P(O)(O)CN(CP(=O)(O)O)CP(=O)(O)O
 Semapimod	CC(=NN=C(N)N)C1=CC(=CC(=C1)NC(=O)CCCCCCCCC(=O)NC2=CC(=CC(=C2)C(=NN=C(N)N)C)C(=NN=C(N)N)C)C(=NN=C(N)N)C.Cl.Cl.Cl.Cl
 Glycidyl methacrylate	CC(=C)C(=O)OCC1CO1
 Tametraline	CN[C@H](CC1)C(C=CC=C2)=C2[C@H]1C3=CC=CC=C3
+Nemifitide	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)N)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@H](Cc4ccc(cc4)F)N)O
 Alpha-Hexachlorocyclohexane	Cl[C@H]1[C@@H](Cl)[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
 EDTMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CP(=O)(O)O)CP(=O)(O)O
 DTPMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O
