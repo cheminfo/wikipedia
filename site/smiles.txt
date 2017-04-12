@@ -800,7 +800,7 @@ Omethoate	O=C(NC)CSP(=O)(OC)OC
 Amlodipine	Clc1ccccc1C2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC
 Fenvalerate	Clc1ccc(cc1)C(C(=O)OC(C#N)c3cccc(Oc2ccccc2)c3)C(C)C
 Atomoxetine	CC1=C(C=CC=C1)O[C@H](CCNC)C2=CC=CC=C2
-Midazolam	FC1=CC=CC=C1C2=NCC3=CN=C(N3C4=C2C=C(Cl)C=C4)C
+Midazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
 Estriol	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
 Phenanthrene	c1ccc2c3ccccc3ccc2c1
 Rofecoxib	O=C2OCC(=C2\c1ccccc1)\c3ccc(cc3)S(=O)(=O)C
@@ -14833,3 +14833,7 @@ Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
 Kukoamines	C1=CC(=C(C=C1CCC(=O)NCCCNCCCCNCCCNC(=O)CCC2=CC(=C(C=C2)O)O)O)O
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
 Linuron	CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
+Anordiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@]3(C[C@](C4)(C#C)O)C
+Tesmilifene	CCN(CC)CCOC1=CC=C(C=C1)CC2=CC=CC=C2
+Sivifene	C1=CC(=O)C=CC1=C(C2=CC=C(C=C2)O)NNC3=C(C=C(C=C3)[N+](=O)[O-])[N+](=O)[O-]
+Zindoxifene	CCN1C2=C(C=C(C=C2)OC(=O)C)C(=C1C3=CC=C(C=C3)OC(=O)C)C
