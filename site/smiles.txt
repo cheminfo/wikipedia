@@ -13416,6 +13416,7 @@ Scillavone B	COc1cc2c(c(c1OC)O)C(=O)[C@H](CO2)Cc3ccc(c(c3)O)O
 Cyclopentadecanolide	O=C1CCCCCCCCCCCCCCO1
 Resminostat	CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)/C=C/C(=O)NO
 Liafensine	CN1C[C@H](C2=C(C1)C=C(C=C2)C3=NN=C(C=C3)N)C4=CC5=CC=CC=C5C=C4
+Viridicatumtoxin B	CC1=CCCC([C@@]12Cc3c4c2c(cc(c4c(c5c3C(=O)[C@]6(CC(=C(C(=O)[C@]6(C5=O)O)C(=O)N)O)O)O)O)OC)(C)C
 TIK-301	C[C@@H](CNC(=O)C)c1c[nH]c2c1cc(c(c2)Cl)OC
 Sacubitril	CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O
 Methyl 2-fluoroacrylate	COC(=O)C(=C)F
@@ -13582,7 +13583,7 @@ Thioacetone	CC(=S)C
 Selepressin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCCC(=O)N
 Barusiban	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCSCCC(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)C(=O)N(C)[C@@H](CCCN)CO)CC(=O)N)[C@H](C)CC
 Homoquinolinic acid	c1cc(c(nc1)C(=O)O)CC(=O)O
-MIN-202	c4c(C)nc(nc4C)N5CC2CN(CC2C5)C(=O)c1c(cccc1F)-n3nccn3
+Seltorexant	c4c(C)nc(nc4C)N5CC2CN(CC2C5)C(=O)c1c(cccc1F)-n3nccn3
 EVT-201	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 AVN-211	Cc1cc(n2c(n1)c(c(n2)SC)S(=O)(=O)c3ccccc3)C
 Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
@@ -14837,3 +14838,9 @@ Anordiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@]3(C[C@](C4)(C#C
 Tesmilifene	CCN(CC)CCOC1=CC=C(C=C1)CC2=CC=CC=C2
 Sivifene	C1=CC(=O)C=CC1=C(C2=CC=C(C=C2)O)NNC3=C(C=C(C=C3)[N+](=O)[O-])[N+](=O)[O-]
 Zindoxifene	CCN1C2=C(C=C(C=C2)OC(=O)C)C(=C1C3=CC=C(C=C3)OC(=O)C)C
+Pipendoxifene	CC1=C(N(C2=C1C=C(C=C2)O)CC3=CC=C(C=C3)OCCN4CCCCC4)C5=CC=C(C=C5)O
+2-Phenylindole	c1ccc(cc1)c2cc3ccccc3[nH]2
+D-15414	CCN1C2=C(C=C(C=C2)O)C(=C1C3=CC=C(C=C3)O)C
+Panomifene	C1=CC=C(C=C1)/C(=C(/C2=CC=CC=C2)\C(F)(F)F)/C3=CC=C(C=C3)OCCNCCO
+Nitromifene	COC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)[N+](=O)[O-])C3=CC=C(C=C3)OCCN4CCCC4
+Viridicatumtoxin A	CC1=CCC[C@@]([C@]12c3c4c(c(c5c(c4C2)[C@@H]([C@@]6([C@](C5=O)(C(=O)C(=C(C6)O)C(=O)N)O)O)O)O)c(cc3OC)O)(C)C
