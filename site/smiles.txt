@@ -3476,7 +3476,7 @@ Iodotrifluoroethylene	F/C(F)=C(\F)I
 Trifluoromethylisocyanide	[C-]#[N+]C(F)(F)F
 Bromodifluoroacetyl chloride	C(=O)(C(F)(F)Br)Cl
 Prilocaine	O=C(Nc1ccccc1C)C(NCCC)C
-Oxacillin	Cc1c(c(no1)c2ccccc2)/C(=N/[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O)/O
+Oxacillin	Cc1c(c(no1)c2ccccc2)/C(N/[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O)=O
 Etidocaine	O=C(Nc1c(C)cccc1C)C(CC)N(CC)CCC
 Chloroprocaine	O=C(OCCN(CC)CC)c1ccc(cc1Cl)N
 Trimethobenzamide	O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
@@ -14830,6 +14830,7 @@ Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
+N-methylhexahydrofluorenamine	c12c(cccc1)C3(NC)CCCCC3C2
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
 Kukoamines	C1=CC(=C(C=C1CCC(=O)NCCCNCCCCNCCCNC(=O)CCC2=CC(=C(C=C2)O)O)O)O
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
