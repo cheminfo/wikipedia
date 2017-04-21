@@ -1398,7 +1398,7 @@ Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
 Silicic acid	O[Si](O)(O)O
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
-Cisplatin	[NH3+][Pt-2]([NH3+])(Cl)Cl
+Cisplatin	[NH3][Pt+2](Cl)(Cl)[NH3]
 Pyrene	c1cc2cccc3ccc4cccc1c4c32
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
@@ -14847,6 +14847,7 @@ D-15414	CCN1C2=C(C=C(C=C2)O)C(=C1C3=CC=C(C=C3)O)C
 Panomifene	C1=CC=C(C=C1)/C(=C(/C2=CC=CC=C2)\C(F)(F)F)/C3=CC=C(C=C3)OCCNCCO
 Nitromifene	COC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)[N+](=O)[O-])C3=CC=C(C=C3)OCCN4CCCC4
 Viridicatumtoxin A	CC1=CCC[C@@]([C@]12c3c4c(c(c5c(c4C2)[C@@H]([C@@]6([C@](C5=O)(C(=O)C(=C(C6)O)C(=O)N)O)O)O)O)c(cc3OC)O)(C)C
+2,2',2''-Nitrilotriacetonitrile	C(C#N)N(CC#N)CC#N
 MIBE	C(OC(/C=C(/OC1=CC=C2C(C(/C(/C)=C/C(OCC)=O)=CN2C)=C1)\C)=O)C
 ZB716	O[C@H]1CC[C@@]2([H])[C@]3([H])[C@H](CCCCCCCCCS(CCCC(F)(C(F)(F)F)F)=O)CC4=CC(B(O)O)=CC=C4[C@@]3([H])CC[C@@]21C
 4'-Hydroxynorendoxifen	CCC(=C(C1=CC=C(O)C=C1)C1=CC=C(OCCN)C=C1)C1=CC=C(O)C=C1
