@@ -12120,7 +12120,7 @@ Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 2-Vinylpyridine	C=CC1=CC=CC=N1
 6-Nonenal	O=CCCCCC=CCC
 6-Nonenal	O=CCCCC/C=C\CC
-(S)-iPr-PHOX	CC(C)[C@@H](CO1)N=C1C2=CC=CC=C2P(C3=CC=CC=C3)C4=CC=CC=C4
+(S)-iPr-PHOX	CC(C)[C@H]1COC(=N1)C2=CC=CC=C2P(C3=CC=CC=C3)C4=CC=CC=C4
 Cyclohexylacetone	O=C(CC1CCCCC1)C
 Calostomal	C(=C/C=C/C=C/C=C/C(=O)O)\C=C\C=C\C=C\C=O
 Cyclopropyl cyanide	N#CC1CC1
@@ -12921,6 +12921,7 @@ N-Methyl-L-glutamic acid	O=C(O)CC[C@H](NC)C(=O)O
 4-Methylsalicylic acid	CC1=CC(=C(C=C1)C(=O)O)O
 2-Hydroxy-4-methylbenzaldehyde	CC1=CC(=C(C=C1)C=O)O
 2-Hydroxy-4-methoxybenzaldehyde	COC1=CC(=C(C=C1)C=O)O
+Hypophosphoric acid	OP(O)(P(O)(O)=O)=O
 Erbium(III) iodide	I[Er](I)I
 3-Nitrochlorobenzene	C1=CC(=CC(=C1)Cl)[N+](=O)[O-]
 Perfluorotributylamine	C(C(C(F)(F)F)(F)F)(C(N(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
@@ -14447,6 +14448,7 @@ Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 3-Nitrooxypropanol	C(CO)CO[N+](=O)[O-]
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
 (2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
+KAF156	CC1(c2nc(c(n2CCN1C(=O)CN)Nc3ccc(cc3)F)c4ccc(cc4)F)C
 Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
 Propylene chlorohydrin	CC(CCl)O
 Tetramethylurea	CN(C)C(=O)N(C)C
@@ -14855,3 +14857,10 @@ Endrisone	C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C
 6-Methylisoxanthopterin	CC1=NC2=C(NC1=O)NC(=NC2=O)N
 1-Vinylimidazole	C=CN1C=CN=C1
 Formyl cyanide	C(=O)C#N
+25G-NBOMe	CC1=C(C=C(C(=C1C)OC)CCNCC2=CC=CC=C2OC)OC
+25H-NBOMe	COC1=CC(=C(C=C1)OC)CCNCC2=CC=CC=C2OC
+25C-NB3OMe	COC1=CC=CC(=C1)CNCCC2=CC(=C(C=C2OC)Cl)OC
+25I-NB4OMe	COC1=CC=C(C=C1)CNCCC2=CC(=C(C=C2OC)I)OC
+25C-NB4OMe	COC1=CC=C(C=C1)CNCCC2=CC(=C(C=C2OC)Cl)OC
+25I-NB3OMe	COC1=CC=CC(=C1)CNCCC2=CC(=C(C=C2OC)I)OC
+25iP-NBOMe	CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
