@@ -1967,6 +1967,7 @@ Aurin	C1=CC(=O)C=CC1=C(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
 Pentoxifylline	O=C2N(c1ncn(c1C(=O)N2CCCCC(=O)C)C)C
 Iodic acid	O=I(=O)O
 Periodic acid	OI(=O)(O)(O)(O)O
+Periodic acid	OI(=O)(=O)=O
 Molybdenum hexacarbonyl	[O]#C[Mo](C#[O])(C#[O])(C#[O])(C#[O])C#[O]
 Bromate	OBr(=O)=O
 Tetraphenylene	C1=CC=C2C(=C1)C3=CC=CC=C3C4=CC=CC=C4C5=CC=CC=C25
