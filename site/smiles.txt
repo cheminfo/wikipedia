@@ -1473,6 +1473,7 @@ Dimethylallyl pyrophosphate	O=P(OP(=O)(OC(C)(C)C=C)OC(C)(C)C=C)(OC(C)(C)C=C)OC(C
 Dimethylallyl pyrophosphate	CC(=CCOP(=O)(O)OP(=O)(O)O)C
 Cyclopentane	C1CCCC1
 Phytic acid	[C@@H]1([C@@H]([C@@H]([C@@H]([C@H]([C@@H]1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+Pindolol	CC(C)NCC(O)COc2cccc1[nH]ccc12
 Metepa	CC1CN1P(=O)(N2CC2C)N3CC3C
 Octabenzone	O=C(c1ccc(OCCCCCCCC)cc1O)c2ccccc2
 MCPA	Cl-C1=CC=C(OCC(=O)O)C(C)=C1
@@ -8704,6 +8705,7 @@ Rhodium(IV) oxide	[Rh+4].[O-2].[O-2]
 5-IAI	c2c1CC(N)Cc1ccc2I
 UH-301	C2Cc1c(c(O)ccc1F)CC2N(CCC)CCC
 NAN-190	O=C1c2ccccc2C(=O)N1CCCCN4CCN(CC4)c3ccccc3OC
+U-92,016-A	N#Cc3cc1c(ccc2c1C[C@H](N(CCC)CCC)CC2)[nH]3
 Naluzotan	O=C(Nc3cccc(N2CCN(CCCCNS(=O)(=O)CC1CCCCC1)CC2)c3)C
 Alnespirone	Cl.O=C1N(C(=O)CC2(C1)CCCC2)CCCCN([C@H]3Cc4c(OC)cccc4OC3)CCC
 Lu AA-33810	O=S(C)(=O)NCC3CCC(CC3)Nc4sc2CCSc1ccccc1-c2n4
@@ -11490,6 +11492,7 @@ Brivanib alaninate	CC1=CC2=C(N1)C=CC(=C2F)OC3=NC=NN4C3=C(C(=C4)OCC(C)OC(=O)C(C)N
 Bupicomide	O=C(c1ncc(cc1)CCCC)N
 Delphinidin-3-O-(6-p-coumaroyl)glucoside	c1cc(ccc1/C=C/C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc4c(cc(cc4[o+]c3c5cc(c(c(c5)O)O)O)O)O)O)O)O)O
 Phenopicolinic acid	C1=CC(=CC=C1CC2=CN=C(C=C2)C(=O)O)O
+Pindobind	BrCC(=O)NC1(C)CCC(CC1)C(NCC(O)COc2cccc3c2cc[nH]3)(C)C
 Butinoline	C1CCN(C1)CC#CC(C2=CC=CC=C2)(C3=CC=CC=C3)O
 Petunidin-3-O-glucoside	COC1=CC(=CC(=C1O)O)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O
 Peonidin-3-O-glucoside	COC1=C(C=CC(=C1)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
@@ -12191,7 +12194,7 @@ Ammonium diethyl dithiophosphate	[S-]P(=S)(OCC)OCC.[NH4+]
 Roche ester	C[C@H](CO)C(=O)OC
 Roche ester	C[C@@H](CO)C(=O)OC
 Quisinostat	O=C(NO)c1cnc(nc1)N2CCC(CC2)CNCc4c3ccccc3n(c4)C
-Neptunium hexafluoride	F[Np](F)(F)(F)(F)F
+Neptunium(VI) fluoride	F[Np](F)(F)(F)(F)F
 Galactose-alpha-1,3-galactose	O([C@@H]1[C@@H](O)C(O)O[C@H](CO)[C@@H]1O)[C@H]2O[C@@H]([C@H](O)[C@H](O)[C@H]2O)CO
 8-Prenylnaringenin	CC(=CCC1=C2C(=C(C=C1O)O)C(=O)C[C@H](O2)C3=CC=C(C=C3)O)C
 Serinolamide A	O=C(N(C)[C@H](CO)COC)CC/C=C/CCCCCCCCCCCCC
@@ -12420,6 +12423,7 @@ Anthocyanone A	C1=C(C=C(/C(=C\C(=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)
 IDFP	O=P(F)(CCCCCCCCCCCC)OC(C)C
 Sodium bifluoride	[H-](F)F.[Na+]
 Lead tetrafluoride	F[Pb](F)(F)F
+Lanthanum trifluoride	F[La](F)F
 Ro4938581	FC(F)C(N=C1)=C(N1C2=C3C=C(Br)C=C2)CN4C3=NC=N4
 ISRIB	O=C(COC1=CC=C(Cl)C=C1)N[C@@H]2CC[C@@H](NC(COC3=CC=C(Cl)C=C3)=O)CC2
 5-Geranyloxy-7-methoxycoumarin	CC(=CCC/C(=C/COC1=C2C=CC(=O)OC2=CC(=C1)OC)/C)C
@@ -13519,6 +13523,7 @@ Trans-4,5-Epoxy-(E)-2-decenal	CCCCCC1OC1\C=C\C=O
 Lanierone	CC1=CC(C=C(C1=O)O)(C)C
 Disodium 4,4'-dinitrostilbene-2,2'-disulfonate	c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)[O-])/C=C/c2ccc(cc2S(=O)(=O)[O-])[N+](=O)[O-].[Na+].[Na+]
 2-Octyne	CC#CCCCCC
+Americium(III) fluoride	F[Am](F)F
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
 Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
@@ -13885,7 +13890,6 @@ FDU-NNE1	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)NC4=C(C=CC=C5)C5=CC=C4
 5F-NNE1	FCCCCCn1cc(c2c1cccc2)C(=O)Nc1cccc2c1cccc2
 Topilutamide	CC(CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
 MDMB-FUBICA	FC1=CC=C(C=C1)CN1C=C(C2=CC=CC=C12)C(=O)NC(C(=O)OC)C(C)(C)C
-ATHPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
@@ -14866,3 +14870,8 @@ Formyl cyanide	C(=O)C#N
 25I-NB3OMe	COC1=CC=CC(=C1)CNCCC2=CC(=C(C=C2OC)I)OC
 25iP-NBOMe	CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
 Kaitocephalin	O=C(O)[C@H](N)[C@H](O)[C@]2(C(=O)O)N[C@@H](C[C@H](NC(=O)c1cc(Cl)c(O)c(Cl)c1)C(=O)O)CC2
+Cyanogen azide	C(#N)N=[N+]=[N-]
+Actinium fluoride	F[Ac](F)F
+Curium(III) fluoride	F[Cm](F)F
+Promethium(III) fluoride	F[Pm](F)F
+Neptunium(III) fluoride	F[Np](F)F
