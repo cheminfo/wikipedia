@@ -7196,7 +7196,7 @@ Procymidone	Clc1cc(cc(Cl)c1)N2C(=O)C3(C)CC3(C)C2=O
 Pyrimethanil	Cc1cc(nc(n1)Nc2ccccc2)C
 Philanthotoxin	CCCC(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCCCCNCCCNCCCN
 Diclofensine	CN1CC(C2=C(C1)C=C(C=C2)OC)C3=CC(=C(C=C3)Cl)Cl
-Dichloropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2)C[C@@H]1C3=CC(=C(C=C3)Cl)Cl
+Dichloropane	COC(=O)[C@@H]1[C@H]2CC[C@H](N2C)C[C@@H]1C3=CC(=C(C=C3)Cl)Cl
 Ispronicline	C[C@@H](C/C=C/C1=CC(=CN=C1)OC(C)C)NC
 Rivanicline	CNCC\C=C\C1=CN=CC=C1
 Tebanicline	C1CN[C@H]1COC2=CN=C(C=C2)Cl
@@ -13890,6 +13890,7 @@ FDU-NNE1	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)NC4=C(C=CC=C5)C5=CC=C4
 5F-NNE1	FCCCCCn1cc(c2c1cccc2)C(=O)Nc1cccc2c1cccc2
 Topilutamide	CC(CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
 MDMB-FUBICA	FC1=CC=C(C=C1)CN1C=C(C2=CC=CC=C12)C(=O)NC(C(=O)OC)C(C)(C)C
+Adamantyl-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
@@ -14750,6 +14751,7 @@ SC-8109	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@]24CCC(=O)O4)CCC5=CC(=O)CC[C@H]35
 Pentarane A	CC(=O)[C@@]12CCCC[C@@H]1C[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
 Beta-Zearalenol	C[C@H]1CCC[C@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
 Alpha-Zearalenol	C[C@H]1CCC[C@@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
+SC-4289	CCC(C1=CC=C2C=C(OCC3=CC=CC=C3)C=CC2=C1)C(C)(C)CO
 SERBA-2	C1C[C@@H]2[C@H](C1)C3=C(C=CC(=C3)O)O[C@@H]2C4=CC=C(C=C4)O
 2-Methoxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=C(C=C34)OC)O
 4-Methoxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4OC)O
@@ -14875,3 +14877,4 @@ Actinium fluoride	F[Ac](F)F
 Curium(III) fluoride	F[Cm](F)F
 Promethium(III) fluoride	F[Pm](F)F
 Neptunium(III) fluoride	F[Np](F)F
+Fezolinetant	C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C
