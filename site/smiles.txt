@@ -1300,7 +1300,6 @@ Benzylpiperazine	C1(CN2CCNCC2)=CC=CC=C1
 Valaciclovir	O=C(OCCOCn1c2N\C(=N/C(=O)c2nc1)N)[C@@H](N)C(C)C
 Methylamine	CN
 Europium(III) chloride	Cl[Eu](Cl)Cl
-Acetylide	C#[C-]
 Vecuronium bromide	CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1N4CCCCC4)C)CC[C@]5([C@H]3C[C@@H]([C@@H]5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-]
 Salmeterol	OCc1cc(ccc1O)[C@H](O)CNCCCCCCOCCCCc2ccccc2
 Ranitidine	CNC(=C[N+](=O)[O-])NCCSCc1ccc(o1)CN(C)C
@@ -7704,7 +7703,7 @@ Disulfur	[S][S]
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
 Isobromindione	c1ccc(cc1)C2C(=O)c3ccc(cc3C2=O)Br
-Oxypurinol	O=C1NC(=O)C2=CNNC2=N1
+Oxipurinol	O=C1NC(=O)C2=CNNC2=N1
 Tisopurine	c1c2c([nH]n1)ncnc2S
 Troxipide	COc1cc(cc(c1OC)OC)C(=O)NC2CCCNC2
 Aluminium glycinate	O[Al+]O.[O-]C(=O)CN
