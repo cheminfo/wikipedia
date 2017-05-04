@@ -3970,7 +3970,7 @@ Antimony triiodide	I[Sb](I)I
 Antimony triiodide	[SbH3+3].[I-].[I-].[I-]
 Antimony triselenide	[SbH3+3].[SbH3+3].[Se-2].[Se-2].[Se-2]
 Scandium(III) sulfide	S=[Sc]S[Sc]=S
-Selenium trioxide	O=[SeH2](=O)=O
+Selenium trioxide	O=[Se](=O)=O
 Selenium oxybromide	Br[Se](Br)=O
 Samarium(II) chloride	Cl[Sm]Cl
 Samarium(III) oxide	[Sm+3].[Sm+3].[O-2].[O-2].[O-2]
@@ -7175,7 +7175,6 @@ Difloxacin	Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCN(C)CC4
 LR-5182	CN(C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
 LR-5182	[Cl-].C[NH+](C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
 4,4'-Bipyridine	c1cnccc1-c2ccncc2
-Silicon monoxide	[O+]#[Si-]
 Beefy meaty peptide	CC(C)CC(C(=O)NC(C)C(=O)O)NC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CCCCN)N
 HBT (explosive)	N(Nc1nn[nH]n1)c1nn[nH]n1
 HBT (explosive)	C1(NNC2=NN=NN2)=NN=NN1
