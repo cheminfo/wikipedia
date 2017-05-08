@@ -10047,7 +10047,7 @@ Trimegestone	C[C@@H](C(=O)[C@]1(CC[C@@H]2[C@@]1(CCC3=C4CCC(=O)C=C4CC[C@@H]23)C)C
 Promestriene	CCCOc1ccc2c(c1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4OC)C
 Methallenestril	CCC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(C)(C)C(=O)O
 Moxestrol	CC12CC(C3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O)OC
-Aglepristone	C/C=C\[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)c5ccc(cc5)N(C)C)C)O
+Aglepristone	C/C=C\[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O
 Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
 Nomegestrol acetate	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4C1=CC(=O)CC4
@@ -13733,6 +13733,7 @@ Lumateperone	c3cc(F)ccc3C(=O)CCCN5CC2C(CC5)N1CCN(C)c4c1c2ccc4
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 MIN-117	Clc1ccc(cc1Cl)C2CCN(CC2)C[C@H](O)COc4cccc3oc(cc34)c5nnc(o5)C
+RP-5063	C1CN(CCN1CCCCOC2=CC3=C(C=C2)OCC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Propylene glycol methyl ether	CC(O)COC
@@ -14878,3 +14879,9 @@ Neptunium(III) fluoride	F[Np](F)F
 Fezolinetant	C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C
 Onapristone	C[C@@]12C[C@@H](C3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@]2(CCCO)O)C5=CC=C(C=C5)N(C)C
 Toripristone	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C(C)C)C)O
+Lilopristone	C[C@]12C[C@@H](C3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(/C=C\CO)O)C5=CC=C(C=C5)N(C)C
+Vilaprisan	C[C@]12C[C@@H](C3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(C(C(F)(F)F)(F)F)O)C5=CC=C(C=C5)S(=O)(=O)C
+Lonaprisan	CC(=O)C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(C(C(F)(F)F)(F)F)O)[C@H]4C2=C5CCC(=O)C=C5CC4)C
+Asoprisnil ecamate	CCNC(=O)O/N=C/C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(COC)OC)[C@H]4C2=C5CCC(=O)C=C5CC4)C
+MLE-4901	CC[C@@H](C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)NS(=O)(=O)C
+Tetrolic acid	CC#CC(=O)O
