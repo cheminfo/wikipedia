@@ -14497,6 +14497,7 @@ Hydroxylamine-O-sulfonic acid	NOS(=O)(=O)O
 MP-2001	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=C(C=C34)OC)OC)OC
 Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O)C
 3-Benzoxepin	C1=CC=C2C=COC=CC2=C1
+Cerium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Ce+3].[Ce+3]
 1,2-Dimethylethylenediamine	CNCCNC
 1,1-Dimethylethylenediamine	CN(C)CCN
 Difluoroacetic acid	C(C(=O)O)(F)F
@@ -14885,3 +14886,4 @@ Lonaprisan	CC(=O)C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(C(C(F)(F)F)(F)F)O)[C@H
 Asoprisnil ecamate	CCNC(=O)O/N=C/C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(COC)OC)[C@H]4C2=C5CCC(=O)C=C5CC4)C
 MLE-4901	CC[C@@H](C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)NS(=O)(=O)C
 Tetrolic acid	CC#CC(=O)O
+Proxalutamide	CC1(C(=O)N(C(=S)N1C2=CN=C(C=C2)CCCC3=NC=CO3)C4=C(C(=C(C=C4)C#N)C(F)(F)F)F)C
