@@ -14871,6 +14871,7 @@ Formyl cyanide	C(=O)C#N
 25C-NB4OMe	COC1=CC=C(C=C1)CNCCC2=CC(=C(C=C2OC)Cl)OC
 25I-NB3OMe	COC1=CC=CC(=C1)CNCCC2=CC(=C(C=C2OC)I)OC
 25iP-NBOMe	CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
+Moroidin	CC(C)C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2Cc3c4ccc(cc4[nH]c3-n5cc(nc5)C[C@H](NC(=O)CNC(=O)[C@@H](NC2=O)CCCNC(=[NH2+])N)C(=O)[O-])[C@H]([C@@H](C(=O)N1)NC(=O)[C@@H]6CCC(=O)N6)C(C)C)C(C)C
 Kaitocephalin	O=C(O)[C@H](N)[C@H](O)[C@]2(C(=O)O)N[C@@H](C[C@H](NC(=O)c1cc(Cl)c(O)c(Cl)c1)C(=O)O)CC2
 Cyanogen azide	C(#N)N=[N+]=[N-]
 Actinium fluoride	F[Ac](F)F
