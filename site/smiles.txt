@@ -7043,7 +7043,7 @@ TCB-2	COc1c(Br)cc(OC)c2c1CC2CN
 5-Methyl-MDA	O2COc1c2cc(CC(N)C)cc1C
 25I-NBOH	Oc2ccccc2CNCCc(c(OC)cc1I)cc1OC
 25I-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC
-HU-308	CCCCCCC(C)(C)C1=CC(=C(C(=C1)OC)C2C=C(C3CC2C3(C)C)CO)OC
+HU-308	CCCCCCC(C)(C)C1=CC(=C(C(=C1)OC)[C@H]2C=C([C@@H]3C[C@H]2C3(C)C)CO)OC
 Sodium tetraphenylborate	[B-](C1=CC=CC=C1)(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Na+]
 AM-411	C5C6CC4CC5(CC(C6)C4)c(cc1O3)cc(O)c1C2CC(C)=CCC2C3(C)C
 Isavuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=CC(=C4)F)F)O
@@ -9812,7 +9812,7 @@ Rufigallol	C1=C2C(=C(C(=C1O)O)O)C(=O)C3=CC(=C(C(=C3C2=O)O)O)O
 Diethyl carbonate	O=C(OCC)OCC
 2,3,5,7-Tetrahydroxy-1,4-naphthalenedione	Oc1cc(O)c2c(c1)C(=O)C(\O)=C(\O)C2=O
 Grandinin	C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)C8(C(C(C(O8)CO)O)O)O)OC(=O)C9=CC(=C(C(=C9C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
-5,8-Dihydroxy-1,4-naphthoquinone	O=C\2c1c(O)ccc(O)c1C(=O)/C=C/2
+Naphthazarin	O=C\2c1c(O)ccc(O)c1C(=O)/C=C/2
 Quinalizarin	C1=CC(=C(C2=C1C(=O)C3=C(C=CC(=C3C2=O)O)O)O)O
 RTI-229	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)I)C(=O)N4CCCC4
 Dimemebfe	CN(C)CCc1coc(c1c2)ccc2OC
@@ -14296,6 +14296,7 @@ Hexestrol dipropionate	CCC(C1=CC=C(C=C1)OC(=O)CC)C(CC)C2=CC=C(C=C2)OC(=O)CC
 Hexestrol diphosphate	CCC(C1=CC=C(C=C1)OP(=O)(O)O)C(CC)C2=CC=C(C=C2)OP(=O)(O)O
 Quingestrone	CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C
 Ethyl cyanoacetate	CCOC(=O)CC#N
+CM156	c1ccc2c(c1)n(c(=S)s2)CCCCN3CCN(CC3)C4CCCCC4
 4-Hydroxy-1-methyl-4-(4-methylphenyl)-3-piperidyl 4-methylphenyl ketone	O=C(c1ccc(cc1)C)[C@H]3[C@](O)(c2ccc(cc2)C)CCN(C)C3
 NE-CHMIMO	O=C(c1cccc2ccccc12)c3cn(CC4CCCCC4)c5ccccc35
 Fourphit	c1ccc(cc1)C2(CCCCC2)N3CCC(CC3)N=C=S
@@ -14888,3 +14889,4 @@ Asoprisnil ecamate	CCNC(=O)O/N=C/C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(COC)OC
 MLE-4901	CC[C@@H](C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)NS(=O)(=O)C
 Tetrolic acid	CC#CC(=O)O
 Proxalutamide	CC1(C(=O)N(C(=S)N1C2=CN=C(C=C2)CCCC3=NC=CO3)C4=C(C(=C(C=C4)C#N)C(F)(F)F)F)C
+Thiazyl chloride trimer	ClS1=NS(Cl)=NS(Cl)=N1
