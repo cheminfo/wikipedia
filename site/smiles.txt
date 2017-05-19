@@ -5483,7 +5483,7 @@ Lombricine	O=C(O)[C@H](N)COP(=O)(OCC/N=C(\N)N)O
 Chlorotrifluoroethylene	F/C(F)=C(/Cl)F
 Ascofuranone	O=Cc1c(O)c(c(O)c(Cl)c1C)C/C=C(/CC/C=C(\C)[C@H]2OC(C(=O)C2)(C)C)C
 Manganese(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2[N-]3)C9=CC=CC=C94.[Mn+2]
-EF5	O=[N+]([O-])c1nccn1CC(=O)NCC(F)(F)C(F)(F)F
+18F-EF5	O=[N+]([O-])c1nccn1CC(=O)NCC(F)(F)C(F)(F)F
 1,3-Dehydroadamantane	C1C2CC34CC1CC3(C2)C4
 Propynyl (psychedelic)	COc1cc(cc(OC)c1OCC#C)CCN
 3-Methoxy-4-ethoxyphenethylamine	O(c1ccc(cc1OC)CCN)CC
@@ -11153,6 +11153,7 @@ Orteronel	O=C(NC)c2ccc1cc(ccc1c2)C4(O)c3cncn3CC4
 1-Chloropentane	CCCCCCl
 Neochlorogenic acid	O=C(O)[C@@]2(O)C[C@@H](O)[C@H](O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)C2
 Fluometuron	O=C(Nc1cc(ccc1)C(F)(F)F)N(C)C
+Atraric acid	Cc1cc(c(c(c1C(=O)OC)O)C)O
 Ombrabulin	COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)N
 Varespladib methyl	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)OC)C(=O)C(=O)N
 2-Formylpyridine	O=Cc1ncccc1
@@ -13622,6 +13623,7 @@ Eoxin E4	CCCCC[C@@H]([C@@H](/C=C/C=C/C=C\C/C=C\CCCC(=O)O)SC[C@@H](C(=O)O)N)O
 Teixobactin	CC[C@H](C)[C@H]1C(=O)O[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C[C@H]2CNC(=N)N2)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H]([C@@H](C)CC)NC(=O)[C@@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H](Cc3ccccc3)NC)C
 Fexaramine	CN(C)C1=CC=C(C=C1)C2=CC=C(C=C2)CN(C3=CC=CC(=C3)/C=C/C(=O)OC)C(=O)C4CCCCC4
 PPPA (drug)	c1ccc(cc1)C(CCN)Oc2ccccc2
+N-Methyl-PPPA	CNCCC(Oc1ccccc1)c2ccccc2
 Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CO)OP(=O)(O)OP(=O)(O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)NC(=O)C
 Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C(=C32)C#N)N4C[C@H]5[C@H](C4)OCCN5)F)C(=O)O
@@ -14910,3 +14912,4 @@ Adenosine 5'-tetraphosphate	Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(
 Ferric sodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3]
 Propynyllithium	[Li+].CC#[C-]
 Capillin	CC#CC#CC(=O)C1=CC=CC=C1
+Rimegepant	C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
