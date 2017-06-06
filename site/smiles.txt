@@ -1755,6 +1755,7 @@ Zoledronic acid	O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O
 Platelet-activating factor	CCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)C
 Stibine	[Sb]
 Decalin	C1CCC2CCCCC2C1
+Raffinose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O)O)O)O
 Efavirenz	FC(F)([C@]1(OC(NC2=CC=C(C=C21)Cl)=O)C#CC3CC3)F
 Ciclopirox	O=C1/C=C(\C=C(/N1O)C2CCCCC2)C
 N-Bromosuccinimide	O=C1N(Br)C(=O)CC1
@@ -12708,6 +12709,7 @@ PNU-181731	C12=CC=CC=C1N3C(CCNCC3)=C2
 Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
+Rosiridin	CC(=CC[C@@H](/C(=C/CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)/C)O)C
 Dihydrocuscohygrine	OC(C[C@H]1N(C)CCC1)C[C@H]2N(C)CCC2
 Rosin (chemical)	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Rosarin	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H](O3)CO)O)O)O)O)O
@@ -14810,7 +14812,7 @@ Tris(trimethylsilyl)amine	C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
 Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
 Alcohol (medical use)	CCO
 Opicapone	CC1=[N+]([O-])C(Cl)=C(C2=NOC(C3=CC([N+]([O-])=O)=C(O)C(O)=C3)=N2)C(C)=C1Cl
-Lorlatinib	C[C@@H]1c2cc(ccc2C(=O)N(Cc3c(c(n(n3)C)C#N)-c4cc(c(nc4)N)O1)C)F
+Lorlatinib	C[C@H]1Oc2cc(cnc2N)c3c(CN(C)C(=O)c4ccc(F)cc14)nn(C)c3C#N
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
 Bafetinib	CC1=C(C=C(C=C1)NC(=O)C2=CC(=C(C=C2)CN3CC[C@@H](C3)N(C)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CN=C5
 RO4929097	O=C1Nc2ccccc2c2c(C1NC(=O)C(C(=O)NCC(C(F)(F)F)(F)F)(C)C)cccc2
