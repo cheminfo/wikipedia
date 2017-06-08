@@ -14879,7 +14879,6 @@ Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
-Kukoamines	C1=CC(=C(C=C1CCC(=O)NCCCNCCCCNCCCNC(=O)CCC2=CC(=C(C=C2)O)O)O)O
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
 Linuron	CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
 Anordiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@]3(C[C@](C4)(C#C)O)C
@@ -14968,3 +14967,5 @@ Estrin (compound)	C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC=CC=C4[C@H]3CC2
 Trifluoroacetone	CC(=O)C(F)(F)F
 Trifluoromethanol	C(O)(F)(F)F
 Hippulin	C[C@]12CCC3=C([C@H]1CCC2=O)CCC4=C3C=CC(=C4)O
+Triethylindium	CC[In](CC)CC
+Osilodrostat	C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F
