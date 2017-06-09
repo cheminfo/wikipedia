@@ -3292,7 +3292,7 @@ Fludiazepam	O=C1CN=C(C2=CC=CC=C2F)C3=CC(Cl)=CC=C3N1C
 Ethyl loflazepate	FC1=CC=CC=C1C2=NC(C(OCC)=O)C(NC3=C2C=C(C=C3)Cl)=O
 Levopropoxyphene	CCC(=O)OC(Cc1ccccc1)(c2ccccc2)C(C)CN(C)C
 Levopropoxyphene	O=C(O[C@](c1ccccc1)(Cc2ccccc2)[C@@H](C)CN(C)C)CC
-Trifluoromethanesulfonic acid	C(F)(F)(F)S(=O)(=O)O
+Triflic acid	C(F)(F)(F)S(=O)(=O)O
 Bongkrek acid	O=C(O)\C(=C\C=C(\C)[C@H](OC)C/C=C\C=C\CC/C=C/C[C@@H](/C=C/C(=C\C(=O)O)CC(=O)O)C)C
 Bongkrek acid	COC(CC=CC=CCCC=CCC(C)C=CC(CC(O)=O)=CC(O)=O)C(C)=CC=C(C)C(O)=O
 Potassium hydrogen phthalate	[K+].O=C(O)c1ccccc1C([O-])=O
@@ -11585,6 +11585,7 @@ N-(1-Naphthyl)ethylenediamine	c1cccc2cccc(NCCN)c12
 Carnosol	CC(C)C1=CC2=C(C(=C1O)O)[C@@]34CCCC([C@@H]3C[C@@H]2OC4=O)(C)C
 Pachyphyllone	CC(C)C1=CC23CCC4C(CCCC4(C2=C(C1=O)O)CO3)(C)C
 Caesium bicarbonate	[Cs+].[O-]C(=O)O
+Dimethylcadmium	C[Cd]C
 Methylenetriphenylphosphorane	C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Rhododendrin	CC(CCC1=CC=C(C=C1)O)OC2C(C(C(C(O2)CO)O)O)O
 UWA-101	C3CC3C(NC)Cc2cc1OCOc1cc2
@@ -12946,7 +12947,7 @@ Prostaglandin E3	CC/C=C\C[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O
 5-Androstenedione	C[C@]12CC[C@H]3[C@@H](CC=C4CC(=O)CC[C@]34C)[C@@H]1CCC2=O
 Eprobemide	C1COCCN1CCCNC(=O)C2=CC=C(C=C2)Cl
 Technetium (99mTc) etarfolatide	C1=CC(=CC=C1C(=O)N[C@H](CCC(=O)NC[C@@H](C(=O)[N-][C@@H](CC(=O)O)C(=O)[N-][C@@H](C[S-])C(=O)O)[NH-])C(=O)O)NCC2=CN=C3C(=N2)C(=O)N=C(N3)N.O=[99Tc+4]
-FlAsH-EDT2	OC(=O)C1=C(C=CC=C1)C1=C2C=CC(=O)C([As]3SCCS3)=C2OC2=C([As]3SCCS3)C(O)=CC=C12
+FlAsH-EDT2	c1ccc(c(c1)c2c3ccc(c(c3oc-4c(c(=O)ccc24)[As]5SCCS5)[As]6SCCS6)O)C(=O)O
 Urolithin A	Oc1ccc2c3ccc(O)cc3OC(=O)c2c1
 N-Methyl-L-glutamic acid	O=C(O)CC[C@H](NC)C(=O)O
 4-Methylsalicylic acid	CC1=CC(=C(C=C1)C(=O)O)O
@@ -14218,6 +14219,7 @@ Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
 Evogliptin	CC(C)(C)OC[C@@H]1C(=O)NCCN1C(=O)C[C@@H](Cc2cc(c(cc2F)F)F)N
 Hydrazine nitrate	NN.[N+](=O)(O)[O-]
 Urea perchlorate	C(=O)([NH3+])N.[O-]Cl(=O)(=O)=O
+Dimethylcarbamoyl chloride	CN(C)C(=O)Cl
 Debromoaplysiatoxin	[C@@]123O[C@]([C@H](C)CC1(C)C)(CC(O[C@@]([C@@H](C)O)(CC(OC(C2)[C@H](C)[C@](O3)([C@H](CC[C@@H](C=4C=CC=C(C4)O)OC)C)[H])=O)[H])=O)O
 Lactimidomycin	N2C(=O)CC(CC2=O)CC(O)CC(=O)C(C)\C=C(/C)\C1OC(=O)C=CCCC=CC=CC1C
 Bis(trifluoromethyl)peroxide	C(OOC(F)(F)(F)(F)(F)F
@@ -14438,6 +14440,7 @@ Ethinylestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@]2(C#C)O)O)CCC4=C3C=CC(=C4)
 4-Vinylbenzyl chloride	C=Cc1ccc(cc1)CCl
 4-Vinyltoluene	CC1=CC=C(C=C)C=C1
 Volixibat	CCCC[C@]1(CC)CS(=O)(=O)c2ccc(cc2[C@H]([C@H]1O)c3cccc(NC(=O)N[C@@H]4O[C@H](COS(=O)(=O)O)[C@@H](O)[C@H](OCc5ccccc5)[C@H]4O)c3)N(C)C
+4-Ethyltoluene	CCc1ccc(cc1)C
 4-Octyne	CCCC#CCCC
 5-Decyne	CCCCC#CCCCC
 PZM21	O=C(N[C@H](CC1=CSC=C1)C)NC[C@H](CC2=CC=C(O)C=C2)N(C)C
@@ -14969,3 +14972,6 @@ Trifluoromethanol	C(O)(F)(F)F
 Hippulin	C[C@]12CCC3=C([C@H]1CCC2=O)CCC4=C3C=CC(=C4)O
 Triethylindium	CC[In](CC)CC
 Osilodrostat	C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F
+Amphenone B	CC(=O)C(C)(C1=CC=C(C=C1)N)C2=CC=C(C=C2)N
+Benzyl iodide	C1=CC=C(C=C1)CI
+Pentafluorobenzene	C1=C(C(=C(C(=C1F)F)F)F)F
