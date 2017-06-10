@@ -3828,6 +3828,7 @@ Indium(III) sulfide	S=[In]S[In]=S
 Indium(III) sulfate	[In+3].[In+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Lanthanum carbide	[C-]#[C].[La]
 Lanthanum(III) chloride	Cl[La](Cl)Cl
+Lead(II) fluoride	F[Pb]F
 Lithium aluminate	[Li+].[O-][Al]=O
 Lithium molybdate	[Li+].[Li+].[O-][Mo]([O-])(=O)=O
 Lithium oxide	[Li+].[Li+].[O-2]
@@ -6650,6 +6651,7 @@ Ethyl iodide	CCI
 1-Bromopropane	CCCBr
 1,1-Dibromoethane	CC(Br)Br
 Sulforhodamine 101	[O-]S(C(C=C(S(O)(=O)=O)C=C1)=C1C2=C(C=C3C4=C5CCCN4CCC3)C5=[O+]C6=C(CCCN7CCC8)C7=C8C=C62)(=O)=O
+Lead(II) bromide	Br[Pb]Br
 3-Methoxy-4-hydroxyphenylglycol	Oc1ccc(cc1OC)C(O)CO
 Disodium malonate	[Na+].[Na+].[O-]C(=O)CC([O-])=O
 Naproxcinod	C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)OCCCCO[N+](=O)[O-]
@@ -10528,6 +10530,7 @@ Methastyridone	CC1(C)NC(=O)C(O1)\C=C\c2ccccc2
 Nitromethaqualone	O=C1C2=CC=CC=C2N=C(N1C3=C(OC)C=C(N(=O)=O)C=C3)C
 Asoxime chloride	C1=CC=[N+](C(=C1)/C=N/O)COC[N+]2=CC=C(C=C2)C(=O)N.[Cl-].[Cl-]
 Ro5-4864	Clc3ccc(cc3)C(=NCC1=O)c2cc(Cl)ccc2N1C
+Lead(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Pb+2].[Pb+2].[Pb+2]
 Scandium(III) hydride	[ScH3]
 Fursultiamine	O=CN(\C(=C(\SSCC1OCCC1)CCO)C)Cc2cnc(nc2N)C
 Prosultiamine	O=CN(\C(=C(\SSCCC)CCO)C)Cc1cnc(nc1N)C
@@ -12029,6 +12032,7 @@ Aderbasib	COC(=O)N1CC2(CC2)C[C@@H]([C@H]1C(=O)N3CCN(CC3)C4=CC=CC=C4)C(=O)NO
 Phenylpropanoic acid	OC(=O)CCc1ccccc1
 Alrestatin	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CC(=O)O
 Lythranidine	COC1=C2C=C(CCC(CC3CCCC(N3)CC(CCC4=CC2=C(C=C4)O)O)O)C=C1
+Lead tetrachloride	Cl[Pb](Cl)(Cl)Cl
 Triamiphos	O=P(n1nc(nc1N)c2ccccc2)(N(C)C)N(C)C
 Triazofos	S=P(OCC)(OCC)Oc1ncn(n1)c2ccccc2
 Trichloronate	Clc1cc(OP(=S)(OCC)CC)c(Cl)cc1Cl
@@ -14975,3 +14979,10 @@ Osilodrostat	C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F
 Amphenone B	CC(=O)C(C)(C1=CC=C(C=C1)N)C2=CC=C(C=C2)N
 Benzyl iodide	C1=CC=C(C=C1)CI
 Pentafluorobenzene	C1=C(C(=C(C(=C1F)F)F)F)F
+Cholesterol sulfate	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C)C
+Pentachlorobenzenethiol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)S
+Hexadecanethiol	CCCCCCCCCCCCCCCCS
+Estriol 3-glucuronide	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1C[C@H]([C@@H]2O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
+Estradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
+Estrone sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
+10β,17β-Dihydroxyestra-1,4-dien-3-one	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)C=C[C@]34O
