@@ -44,6 +44,7 @@ Gamma-Hydroxybutyric acid	O=C(O)CCCO
 Hydroxide	[OH-]
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
 Heavy water	[2H]O[2H]
+Hydrogen peroxide	OO
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Ketamine	CNC1(C2=CC=CC=C2Cl)CCCCC1=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
@@ -6727,7 +6728,7 @@ Methyl methanesulfonate	COS(=O)(=O)C
 P-Menthane-3,8-diol	OC(C1CCC(CC1O)C)(C)C
 Acibenzolar	SC(=O)c1cccc2nnsc12
 Caldarchaeol	CC1CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCCC(CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCC1)C)C)C)C)C)CO)C)C)C)C)C)C)C)C)CO)C)C
-Gadobutrol	C1CN(CCN(CCN(CCN1CC(=O)[O-])CC(=O)[O-])C(CO)C(CO)O)CC(=O)[O-].[Ga+3]
+Gadobutrol	C1CN(CCN(CCN(CCN1CC(=O)[O-])CC(=O)[O-])[C@@H](CO)[C@H](CO)O)CC(=O)[O-].[Gd+3]
 12-Crown-4	C1COCCOCCOCCO1
 15-Crown-5	C1COCCOCCOCCOCCO1
 Apricitabine	O=C1/N=C(/N)\C=C/N1[C@@H]2S[C@@H](OC2)CO
@@ -8162,6 +8163,7 @@ Ioglycamic acid	O=C(Nc1c(I)c(c(I)cc1I)C(=O)O)COCC(=O)Nc2c(I)c(C(=O)O)c(I)cc2I
 Iobenzamic acid	Ic1c(c(I)c(N)c(I)c1)C(=O)N(c2ccccc2)CCC(=O)O
 Iopanoic acid	CCC(CC1=C(C(=C(C=C1I)I)N)I)C(=O)O
 Iocetamic acid	O=C(O)C(CN(C(=O)C)c1c(I)cc(I)c(c1I)N)C
+Gadoxetic acid	CCOc1ccc(cc1)C[C@@H](CN(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Gd+3]
 Gadobenic acid	[H+].[H+].[Gd+3].[O-]C(=O)CN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)C(C([O-])=O)COCc1ccccc1
 Sapacitabine	CCCCCCCCCCCCCCCC(=O)NC1=NC(=O)N(C=C1)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)C#N
 Prednimustine	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCCc4ccc(cc4)N(CCCl)CCCl)O)CCC5=CC(=O)C=C[C@]35C)O
@@ -14950,6 +14952,7 @@ Propynyllithium	[Li+].CC#[C-]
 Capillin	CC#CC#CC(=O)C1=CC=CC=C1
 Rimegepant	C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
 Tetrachlorocyclopropene	ClC1=C(Cl)C1(Cl)Cl
+Upadacitinib	CCC1CN(CC1C2=CN=C3N2C4=C(NC=C4)N=C3)C(=O)NCC(F)(F)F
 1,1-Diiodoethane	CC(I)I
 TPEN	c1ccc(nc1)CN(CCN(Cc1ccccn1)Cc1ccccn1)Cc1ccccn1
 6-(Methylsulfinyl)hexyl isothiocyanate	CS(=O)CCCCCN=C=S
@@ -15001,3 +15004,5 @@ Estrone sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
 10β,17β-Dihydroxyestra-1,4-dien-3-one	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)C=C[C@]34O
 Hibarimicinone	CCC[C@@]1([C@H]([C@@H]([C@H]([C@@H]2[C@]1(C(=O)c3c(cc4c(c3O)c(c(c(c4OC)OC)C5=C(C(=O)c6c(c(c7c(c6O)[C@H]8[C@@H]9[C@@H]([C@H]([C@@H](C([C@@]9(C7=O)O)(O8)CCC)O)O)O)O)C5=O)OC)O)C2)O)O)O)O)O
 Methyl perchlorate	COCl(=O)(=O)=O
+1-Fluoronaphthalene	C1=CC=C2C(=C1)C=CC=C2F
+3-Fluorobenzoic acid	C1=CC(=CC(=C1)F)C(=O)O
