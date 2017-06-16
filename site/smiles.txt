@@ -6561,7 +6561,6 @@ Atrasentan	O=C(O)[C@H]4[C@H](c1ccc(OC)cc1)N(CC(=O)N(CCCC)CCCC)C[C@@H]4c2ccc3OCOc
 Brostallicin	CN1C=C(C=C1C(=O)NCCN=C(N)N)NC(=O)C2=CC(=CN2C)NC(=O)C3=CC(=CN3C)NC(=O)C4=CC(=CN4C)NC(=O)C(=C)Br
 Treosulfan	CS(=O)(=O)OC[C@@H]([C@H](COS(=O)(=O)C)O)O
 Glucic acid	O=CC(O)C=O
-Dodecenyl succinic anhydride	O=C(CC1C=CCCCCCCCCCC)OC1=O
 MPP+	C[n+]1ccc(cc1)c2ccccc2
 CCPA (biochemistry)	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO)NC4CCCC4
 SCH-58261	c1ccccc1CCN1N=CC2=C1N=C(N)N3C2=NC(C4=CC=CO4)=N3
@@ -11047,7 +11046,6 @@ Anthramycin	Cc1ccc2C(=O)N3C=C(C[C@H]3[C@H](O)Nc2c1O)\C=C\C(=O)N
 Apratoxin A	[H]N1[C@@H](Cc2ccc(OC)cc2)C(=O)N(C)[C@@H](C)C(=O)N(C)[C@@H]([C@@H](C)CC)C(=O)N2CCC[C@H]2C(=O)O[C@@H](C[C@@H](C)C[C@H](O)[C@H](C)C2=N[C@H](CS2)\C=C(C)\C1=O)C(C)(C)C
 Dimethyl tetrachloroterephthalate	Clc1c(C(=O)OC)c(Cl)c(Cl)c(C(=O)OC)c1Cl
 BSTFA	C[Si](C)(C)O\C(\C(F)(F)F)=N\[Si](C)(C)C
-Phosphaphenalene	C12=CC=CC(P23)=CC=CC3=CC=C1
 Prinomastat	CC1([C@@H](N(CCS1)S(=O)(=O)C2=CC=C(C=C2)OC3=CC=NC=C3)C(=O)NO)C
 Methylene green	O=[N+](c1c([s+]c(cc(N(C)C)cc2)c2n3)c3ccc1N(C)C)[O-].[Cl-]
 Phosphinous acid	OP
@@ -15012,3 +15010,4 @@ Methyl perchlorate	COCl(=O)(=O)=O
 1-Fluoronaphthalene	C1=CC=C2C(=C1)C=CC=C2F
 3-Fluorobenzoic acid	C1=CC(=CC(=C1)F)C(=O)O
 2-Chloronaphthalene	ClC1=CC=C2C=CC=CC2=C1
+Yttrium phosphide	P#[Y]
