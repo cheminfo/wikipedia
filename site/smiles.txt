@@ -14902,6 +14902,7 @@ Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
+Dimethylphosphine oxide	CP(=O)C
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
 Linuron	CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
 Anordiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@]3(C[C@](C4)(C#C)O)C
@@ -15017,3 +15018,4 @@ Pentamethylantimony	C[Sb](C)(C)(C)C
 Pentamethylbismuth	C[Bi](C)(C)(C)C
 Yttrium phosphide	P#[Y]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
+Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
