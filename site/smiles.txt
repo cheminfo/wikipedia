@@ -1128,6 +1128,7 @@ Chitosan	COC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C
 Clobetasol propionate	ClCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C
 Nitrogen trichloride	ClN(Cl)Cl
 Pentalene	c1cc2cccc2c1
+Silver fulminate	[C-]#[N+][O-].[Ag+]
 Zafirlukast	Cc1ccccc1S(=O)(=O)NC(=O)c2cc(OC)c(cc2)Cc3cn(C)c4ccc(cc43)NC(=O)OC5CCCC5
 Zileuton	O=C(N)N(O)C(c2sc1ccccc1c2)C
 Tetrahydrobiopterin	O=C2\N=C(/NC=1NC[C@@H](NC=12)[C@@H](O)[C@@H](O)C)N
@@ -12617,7 +12618,7 @@ SR9009	CCOC(=O)N1CCC(C1)CN(CC2=CC=C(C=C2)Cl)CC3=CC=C(S3)[N+](=O)[O-]
 Prunin	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C4=CC=C(C=C4)O
 SR9011	CCCCCNC(=O)N1CCC(CN(Cc2ccc(Cl)cc2)Cc3ccc(s3)[N+](=O)[O-])C1
 Diacetoxyscirpenol	CC1=C[C@@H]2[C@](CC1)([C@]3([C@@H]([C@H]([C@H]([C@]34CO4)O2)O)OC(=O)C)C)COC(=O)C
-Norcantharidin	C1CC2C3C(C1O2)C(=O)OC3=O
+Norcantharidin	C1C[C@H]2[C@H]3[C@@H]([C@@H]1O2)C(=O)OC3=O
 Stearoylethanolamide	CCCCCCCCCCCCCCCCCC(=O)NCCO
 Cis-2-Decenoic acid	O=C(O)\C=C/CCCCCCC
 Indane-5-sulfonamide	c1cc2c(cc1S(=O)(=O)N)CCC2
