@@ -3846,7 +3846,7 @@ Ruthenium(IV) oxide	O=[Ru]=O
 Samarium(III) fluoride	F[Sm](F)F
 Selenium tetrafluoride	F[Se](F)(F)F
 Silicon tetraiodide	I[Si](I)(I)I
-Silicon sulfide	S=[Si]=S
+Silicon disulfide	S=[Si]=S
 Sodium hexafluoroaluminate	[Na+].[Na+].[Na+].F[Al-3](F)(F)(F)(F)F
 Sodium telluride	[Na][Te][Na]
 Sodium metatitanate	[O-][Ti](=O)O[Ti](=O)O[Ti](=O)[O-].[Na+].[Na+]
@@ -15019,4 +15019,7 @@ Pentamethylantimony	C[Sb](C)(C)(C)C
 Pentamethylbismuth	C[Bi](C)(C)(C)C
 Yttrium phosphide	P#[Y]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
+Trithiapentalene	C1=CSS2=C1C=CS2
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
+1,4-Diazacycloheptane	C1CNCCNC1
+Methaniazide	C1=CN=CC=C1C(=O)NNCS(=O)(=O)O
