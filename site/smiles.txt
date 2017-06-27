@@ -364,6 +364,7 @@ Quinoline Yellow WS	[Na+].[Na+].[O-]S(=O)(=O)c1cc(cc2ccc(nc12)C4C(=O)c3ccccc3C4=
 Titanium dioxide	O=[Ti]=O
 Xylitol	O[C@H](CO)[C@H](O)[C@@H](O)CO
 Thiomersal	[Na+].[O-]C(=O)c1ccccc1S[Hg]CC
+Vasopressin	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Oxytocin	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
 Dilithium	[Li][Li]
 Potassium oxide	O([K])[K]
@@ -12297,6 +12298,7 @@ BL-1020	C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCOC(=O)CCCN
 3-Acetyloxymorphone	CN1[C@H](C2)[C@@]3(O)[C@@]4(CC1)C5=C2C=CC(OC(C)=O)=C5O[C@@]4([H])C(CC3)=O
 3,14-Diacetyloxymorphone	CN1[C@H](C2)[C@@]3(OC(C)=O)[C@@]4(CC1)C5=C2C=CC(OC(C)=O)=C5O[C@@]4([H])C(CC3)=O
 Hydrangeic acid	Oc2ccc(cc2)\C=C\c(c1C(O)=O)cccc1O
+Aspirin/paracetamol/caffeine	O=C(Nc1ccc(O)cc1)C.O=C(O)c1ccccc1OC(=O)C.O=C2N(c1ncn(c1C(=O)N2C)C)C
 Isocodeine	O[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Desocodeine	O(c2c1O[C@@H]5[C@@]34c1c(cc2)C[C@@H](N(CC3)C)[C@@H]4CCC5)C
 Chlorohydroxyphenylglycine	Clc1ccc(O)cc1C(N)C(=O)O
@@ -14903,6 +14905,7 @@ Hafnium disulfide	S=[Hf]=S
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
+Kukoamines	C1=CC(=C(C=C1CCC(=O)NCCCNCCCCNCCCNC(=O)CCC2=CC(=C(C=C2)O)O)O)O
 Dimethylphosphine oxide	CP(=O)C
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
 Linuron	CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
@@ -15027,3 +15030,4 @@ Methaniazide	C1=CN=CC=C1C(=O)NNCS(=O)(=O)O
 Vinyldiphenylphosphine	C=CP(C1=CC=CC=C1)C2=CC=CC=C2
 Δ4-Abiraterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C
 3-Keto-5α-abiraterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C
+Vasopressin (medication)	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
