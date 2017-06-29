@@ -5669,6 +5669,9 @@ Asoprisnil	O=C5\C=C4/C(=C3/[C@@H](c1ccc(\C=N\O)cc1)C[C@]2([C@@H](CC[C@@]2(OC)COC
 Telapristone	O=C5\C=C3/C(=C2/[C@@H](c1ccc(N(C)C)cc1)C[C@@]4([C@@](OC(=O)C)(C(=O)COC)CC[C@H]4[C@@H]2CC3)C)CC5
 5-MeS-DMT	CN(CCC1=CNC2=C1C=C(SC)C=C2)C
 5-MeO-NMT	CNCCC1=C[N]C2=CC=C(C=C21)OC
+5,6-MDO-DMT	CN(C)CCC1=CNC2=CC3=C(C=C21)OCO3
+5,6-MDO-DiPT	CC(C)N(CCC1=CNC2=CC3=C(C=C21)OCO3)C(C)C
+4,5-MDO-DiPT	CC(C)N(CCc1c[nH]c2c1c3c(cc2)OCO3)C(C)C
 4,5-MDO-DMT	CN(C)CCC1=CNC2=C1C(OCO3)=C3C=C2
 Magnolol	C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O
 Adrenosterone	O=C4/C=C3/CC[C@@H]2[C@H](C(=O)C[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
@@ -8514,7 +8517,6 @@ Methasterone	O=C2C[C@@H]1CC[C@@H]3[C@@H]([C@@]1(C)C[C@H]2C)CC[C@]4([C@H]3CC[C@@]
 Lodenosine	F[C@H]3C[C@H](O[C@H]3n2cnc1c(ncnc12)N)CO
 Emivirine	CCOCN1C(=C(C(=O)NC1=O)C(C)C)CC2=CC=CC=C2
 Capravirine	O=C(OCc2nc(c(Sc1cc(Cl)cc(Cl)c1)n2Cc3ccncc3)C(C)C)N
-Dexelvucitabine	C1=CC(OC1CO)N2C=C(C(=NC2=O)N)F
 Dexelvucitabine	F\C1=C\N(C(=O)\N=C1\N)[C@@H]/2O[C@@H](\C=C\2)CO
 Alisporivir	O=C1N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N(C)[C@@H](C(=O)N(CC)[C@H]1C(C)C)C)CC)[C@H](O)[C@H](C)C/C=C/C)C)C(C)C)CC(C)C)CC(C)C)C)C)CC(C)C)C(C)C
 Acetyl bromide	BrC(=O)C
@@ -14875,7 +14877,9 @@ CBD-DMH	CCCCCCC(C)(C)c1cc(c(c(c1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F
 Timoprazole	C1=CC=C2C(=C1)NC(=N2)S(=O)CC3=CC=CC=N3
 2,4,6-Tri-tert-butylphenol	CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
+3,9-Diethylidene-2,4,8,10-tetraoxaspiro(5.5)undecane	CC=C1OCC2(CO1)COC(=CC)OC2
 Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)CC)CC)C(=C3CC)CC)CC
+10-Methacryloyloxydecyl dihydrogen phosphate	CC(=C)C(=O)OCCCCCCCCCCOP(=O)(O)O
 Triangulene	C1C2=C3C(=CC=C2)CC4=CC=CC5=C4C3=C6C1=CC=CC6=C5
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
 Anatoxin-a(S)	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
