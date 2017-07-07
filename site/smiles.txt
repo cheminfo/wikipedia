@@ -10822,7 +10822,7 @@ Angelicin	O=C\2Oc3c1ccoc1ccc3/C=C/2
 Glycinol (pterocarpan)	O3c1c(ccc(O)c1)[C@@H]4Oc2cc(O)ccc2[C@]4(O)C3
 Phaseolin (pterocarpan)	[H][C@]12C3=CC=C(O)C=C3OC[C@@]1([H])C4=C(C(C=CC(C)(C)O5)=C5C=C4)O2
 Sodium ethyl xanthate	CCOC(=S)[S-].[Na+]
-Thallous acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tl+3]
+Thallous acetate	CC(=O)[O-].[Tl+]
 N-Glycolylneuraminic acid	C1[C@@H]([C@H]([C@@H](O[C@@]1(C(=O)O)O)[C@@H]([C@@H](CO)O)O)NC(=O)CO)O
 2,4-Diacetylphloroglucinol	CC(=O)C1=C(C(=C(C=C1O)O)C(=O)C)O
 Ivacaftor	O=C\2c1c(cccc1)N/C=C/2C(=O)Nc3cc(O)c(cc3C(C)(C)C)C(C)(C)C
@@ -15124,3 +15124,4 @@ Prorenoate potassium	C[C@]12CCC(=O)C=C1[C@@H]3C[C@@H]3[C@@H]4[C@@H]2CC[C@]5([C@H
 Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)3CCC(C=C3[C@@]([H])3C[C@]3([H])[C@@]21[H])=O
 2,3,4-Pentanetrione	CC(=O)C(=O)C(=O)C
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
+Diethylphosphite	CCOP(O)OCC
