@@ -15125,3 +15125,6 @@ Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)
 2,3,4-Pentanetrione	CC(=O)C(=O)C(=O)C
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
 Diethylphosphite	CCOP(O)OCC
+Dimethylphosphite	COP(O)OC
+Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
+Diisopropylphosphite	CC(C)OP(O)OC(C)C
