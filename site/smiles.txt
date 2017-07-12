@@ -713,7 +713,7 @@ Hydrochlorothiazide	O=S(=O)(N)c1c(Cl)cc2c(c1)S(=O)(=O)NCN2
 Ribulose 1,5-bisphosphate	O=P(O)(OCC(=O)[C@H](O)[C@H](O)COP(=O)(O)O)O
 Lithium hydroxide	[Li+].[OH-]
 Melamine	c1(nc(nc(n1)N)N)N
-Phosphite	[O-]P([O-])[O-]
+Phosphite anion	[O-]P([O-])[O-]
 Copper(II) nitrate	[Cu+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Clonidine	Clc1c(c(Cl)ccc1)N/C2=N/CCN2
 Dihydroxyacetone	O=C(CO)CO
@@ -15060,8 +15060,6 @@ Etiprednol	CCOC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]3
 Halopredone	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)C[C@H](C4=CC(=O)C(=C[C@@]43C)Br)F)F)O
 Isoflupredone	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@@]43C)F)O
 Mazipredone	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CN4CCN(CC4)C)O)CCC5=CC(=O)C=C[C@]35C)O
-Prednazate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCC(=O)O)O)CCC4=CC(=O)C=C[C@]34C)O.C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO
-Prednazoline	CC(C)C1=CC=CC=C1OCC2=NCCN2.C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COP(=O)(O)O)O)CCC4=CC(=O)C=C[C@]34C)O
 Prednisolamate	CCN(CC)CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)O
 Resocortol	CCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)O)C)O
 Tipredane	CCS[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)SC
@@ -15129,3 +15127,6 @@ Dimethylphosphite	COP(O)OC
 Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
 Iridium tetrachloride	Cl[Ir](Cl)(Cl)Cl
+ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
+N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
+LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
