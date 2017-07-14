@@ -12729,6 +12729,7 @@ Tetramethylpyrazine	CC1=C(N=C(C(=N1)C)C)C
 Altemicidin	O=S(=O)(N)CC(=O)N[C@@]2(C(=O)O)[C@@H](O)C[C@H]1C(=C/N(C[C@H]12)C)\C(=O)N
 Kettapeptin	O=C1O[C@@H](C(C)C)[C@@H](C(=O)N3NCCC[C@@H]3C(=O)N(O)[C@H](C(=O)N(C)[C@@H](C(=O)N2NCCC[C@@H]2C(=O)N[C@@H]1[C@@H](O)C)C)COC)NC(=O)[C@@](O)([C@]4(O)OC(/C(=C/C(C(=O)/C(=C/C)C)C)C)[C@H](CC4)C)CC
 MC21-A	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2O)Br)Br)Br
+Debromomarinone	O=C2C=1O[C@@]([C@H]4[C@@H](C=1C(=O)c3cc(O)cc(O)c23)/C=C(\CC4)C)(C)CC\C=C(/C)C
 25C-NBOH	COc1cc(Cl)c(OC)cc1CCNCc2ccccc2O
 Harmol	CC1=C2C(=C3C=CC(=O)C=C3N2)C=CN1
 Vasicine	C1CN2CC3=CC=CC=C3N=C2C1O
@@ -14966,6 +14967,7 @@ Asoprisnil ecamate	CCNC(=O)O/N=C/C1=CC=C(C=C1)[C@H]2C[C@]3([C@@H](CC[C@]3(COC)OC
 MLE-4901	CC[C@@H](C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)NS(=O)(=O)C
 Tetrolic acid	CC#CC(=O)O
 Proxalutamide	CC1(C(=O)N(C(=S)N1C2=CN=C(C=C2)CCCC3=NC=CO3)C4=C(C(=C(C=C4)C#N)C(F)(F)F)F)C
+Blebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=CC=C4)O
 Thiazyl chloride trimer	ClS1=NS(Cl)=NS(Cl)=N1
 Pentakis(dimethylamido)tantalum	C[N-]C.C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ta+5]
 Succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate	O=C(C1CCC(CN2C(C=CC2=O)=O)CC1)ON3C(CCC3=O)=O
@@ -15104,6 +15106,7 @@ Nicocortonide	C/C=C/C1O[C@@]23CC[C@]([C@]2(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)CC[C@]
 Nivacortol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC5=C(C[C@]34C)C=NN5C6=CC=C(C=C6)F
 Oxisopred	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)OC)O)CCC(=O)C4[C@@]3(C=CC4=O)C)O
 Colestolone	CC(C)CCCC(C)[C@H]1CC(=O)C2=C3CC[C@H]4C[C@H](CC[C@@]4(C3CC[C@]12C)C)O
+Pentafluorosulfanylbenzene	C1=CC=C(C=C1)S(F)(F)(F)(F)F
 Triamcinolone aminobenzal benzamidoisobutyrate	CC(CNC(=O)C1=CC=CC=C1)C(=O)OCC(=O)[C@@]23C(C[C@@H]4[C@@]2(CC(C5([C@H]4CCC6=CC(=O)C=C[C@@]65C)F)O)C)OC(O3)C7=CC=C(C=C7)N(C)C
 Benzodrocortisone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)OC(=O)C5=CC=CC=C5)C)O
 Methyl isobutyrate	CC(C)C(=O)OC
