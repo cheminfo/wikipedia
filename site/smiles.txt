@@ -1645,7 +1645,7 @@ Cyclohexyl nitrite	O=NOC1CCCCC1
 Indian yellow	OC(=O)[C@H]4O[C@@H](Oc1ccc2Oc3cccc(O)c3C(=O)c2c1)[C@H](O)[C@@H](O)[C@@H]4O
 Tropinone	CN1[C@@H]2CC[C@H]1CC(=O)C2
 Manganese(III) fluoride	[Mn+3].[F-].[F-].[F-]
-Thiothixene	O=S(=O)(N(C)C)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(C)CC4
+Tiotixene	O=S(=O)(N(C)C)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(C)CC4
 Dihydrocapsaicin	CC(C)CCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
 Nordihydrocapsaicin	CC(C)CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
 Homodihydrocapsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCCCCCC(C)C
@@ -2897,6 +2897,7 @@ Testosterone cypionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5
 Testosterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Testosterone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Tolcapone	[O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
+Cortisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
 Indium arsenide	[As]#[In]
 Exenatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc8ccccc8)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](Cc9cnc[nH]9)N
 Aluminium monostearate	CCCCCCCCCCCCCCCCCC(O[Al](O)O)=O
@@ -8212,6 +8213,7 @@ Triamcinolone furetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(
 Triamcinolone benetonide	CC(CNC(=O)C1=CC=CC=C1)C(=O)OCC(=O)[C@@]23[C@@H](C[C@@H]4[C@@]2(C[C@@H]([C@]5([C@H]4CCC6=CC(=O)C=C[C@@]65C)F)O)C)OC(O3)(C)C
 Amanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Proamanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4CCC5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
+Clocortolone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)COC(=O)C(C)(C)C)C)O)Cl)C)F
 Epsilon-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)C)([H])N[C@@]4=O)=O
 Amanullinic acid	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Copper(I) hydroxide	[OH-].[Cu+]
@@ -15138,3 +15140,5 @@ Isoxeromoic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
 Methyl propiolate	COC(=O)C#C
 Ethyl propiolate	CCOC(=O)C#C
 Cortobenzolone	C[C@]12C[C@@H](C3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)COC(=O)C4=CC=CC=C4O)O)O)CCC5=CC(=O)C=C[C@@]53C)F)O
+Incensole	CC1=CCCC(=CCC2(CCC(O2)(C(CC1)O)C)C(C)C)C
+Tris(2,4-di-tert-butylphenyl)phosphite	CC(C)(C)C1=CC(=C(C=C1)OP(OC2=C(C=C(C=C2)C(C)(C)C)C(C)(C)C)OC3=C(C=C(C=C3)C(C)(C)C)C(C)(C)C)C(C)(C)C
