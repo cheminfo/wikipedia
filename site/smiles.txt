@@ -2621,6 +2621,7 @@ Isobutyl acetate	O=C(OCC(C)C)C
 Dichloroacetic acid	ClC(Cl)C(O)=O
 Anagrelide	Clc1ccc3c(c1Cl)CN2/C(=N\C(=O)C2)N3
 Propyl acetate	O=C(OCCC)C
+Prasterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Patent Blue V	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(c(cc3S(=O)(=O)O)S(=O)(=O)O)O
 Dioctyl adipate	O=C(OCCCCCCCC)CCCCC(=O)OCCCCCCCC
 Rubidium hydride	[H-].[Rb+]
@@ -15136,10 +15137,10 @@ ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
 LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
 Xerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
-Isoxeromoic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
 Methyl propiolate	COC(=O)C#C
 Ethyl propiolate	CCOC(=O)C#C
 Cortobenzolone	C[C@]12C[C@@H](C3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)COC(=O)C4=CC=CC=C4O)O)O)CCC5=CC(=O)C=C[C@@]53C)F)O
 Incensole	CC1=CCCC(=CCC2(CCC(O2)(C(CC1)O)C)C(C)C)C
 Tris(2,4-di-tert-butylphenyl)phosphite	CC(C)(C)C1=CC(=C(C=C1)OP(OC2=C(C=C(C=C2)C(C)(C)C)C(C)(C)C)OC3=C(C=C(C=C3)C(C)(C)C)C(C)(C)C)C(C)(C)C
 MK-386	C[C@H]1C[C@@H]2[C@](CCC(=O)N2C)([C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)[C@H](C)CCCC(C)C)C
+Isoxerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
