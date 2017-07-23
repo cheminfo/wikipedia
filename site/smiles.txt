@@ -8120,7 +8120,7 @@ Woollins' reagent	C1=CC=C(C=C1)P2(=[Se])[Se]P(=[Se])([Se]2)C3=CC=CC=C3
 Tetrahydrodeoxycorticosterone	C[C@]12CCC(C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CO)C)O
 Hydroxydione	C[C@]12CCC(=O)C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CO)C
 Alfadolone	O=C2[C@H]3[C@H]([C@@H]1CC[C@H](C(=O)CO)[C@@]1(C)C2)CC[C@H]4C[C@H](O)CC[C@]34C
-Org 20599	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)CCl)CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)N5CCOCC5)C
+ORG-20599	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)CCl)CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)N5CCOCC5)C
 (+)-cis-2-Aminomethylcyclopropane carboxylic acid	NC[C@@H]1C[C@@H]1C(O)=O
 5-Fluorowillardiine	NC(CN1C=C(F)C(=O)N=C1O)C(O)=O
 5-Iodowillardiine	O=C(O)[C@@H](N)CN1/C=C(/I)C(=O)NC1=O
@@ -9768,7 +9768,7 @@ Daphnin	O=C2\C=C/c3ccc(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c(O)c3O2
 S-Adenosylmethioninamine	C[S+](CCCN)C[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O
 Aurintricarboxylic acid	O=C(O)\C1=C\C(\C=C/C1=O)=C(/c2ccc(O)c(C(=O)O)c2)c3ccc(O)c(C(=O)O)c3
 Ro48-8684	CCCN(CC1=CN=C(C2=C(CN(C(C3=C4C=CC(F)=C3)=O)C)N4C=N2)O1)CCC
-Org 21465	O=S(=O)(OCC(=O)[C@H]5CC[C@@H]1[C@]5(C)CC(=O)[C@H]3[C@H]1CC[C@H]4C[C@H](O)[C@@H](N2CC(OCC2)(C)C)C[C@]34C)C
+ORG-21465	O=S(=O)(OCC(=O)[C@H]5CC[C@@H]1[C@]5(C)CC(=O)[C@H]3[C@H]1CC[C@H]4C[C@H](O)[C@@H](N2CC(OCC2)(C)C)C[C@]34C)C
 5-Fluoro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)F
 Eritoran	CCCCCCCCCCCC(=O)CC(=O)NC1C(C(C(OC1OP(=O)(O)O)COC2C(C(C(C(O2)COC)OP(=O)(O)O)OCCC(CCCCCCC)OC)NC(=O)CCCCCCCCCC=CCCCCCC)O)OCCCCCCCCCC
 Cephaeline	CC[C@H]1CN2CCc3cc(c(cc3[C@@H]2C[C@@H]1C[C@@H]4c5cc(c(cc5CCN4)O)OC)OC)OC
@@ -11406,7 +11406,7 @@ Acarviosin	O[C@@H]2[C@@H](O)[C@H](N[C@@H]1/C=C(/CO)[C@H](O)[C@@H](O)[C@@H]1O)[C@
 Apixaban	O=C5N(c4ccc(N3C(=O)c1c(c(nn1c2ccc(OC)cc2)C(=O)N)CC3)cc4)CCCC5
 LY-2183240	CN(C)C(=O)n1nnnc1Cc2ccc(cc2)-c3ccccc3
 Acifluorfen	Clc2cc(ccc2Oc1cc(C(=O)O)c([N+]([O-])=O)cc1)C(F)(F)F
-Org 25435	COc1cc(C)cc(OC)c1OC(=O)C(CC)N(CCOC)CCOC
+ORG-25435	COc1cc(C)cc(OC)c1OC(=O)C(CC)N(CCOC)CCOC
 Org 25935	O=C(O)CN(C)C[C@@H]2[C@@H](c1c(cc(OC)cc1)CC2)c3ccccc3
 Mazapertine	O=C(N1CCCCC1)c2cc(ccc2)CN4CCN(c3ccccc3OC(C)C)CC4
 Propyl hexanoate	CCCCCC(=O)OCCC
@@ -15004,7 +15004,7 @@ Normustine	C(CCl)N(CCCl)C(=O)O
 Cyclopropylacetylene	C#CC1CC1
 Esaxerenone	CC1=C(N(C=C1C(=O)NC2=CC=C(C=C2)S(=O)(=O)C)CCO)C3=CC=CC=C3C(F)(F)F
 Apararenone	CC1(C(=O)N(C2=C(O1)C=C(C=C2)NS(=O)(=O)C)C3=CC=C(C=C3)F)C
-NGA0187	C1C[C@](O[H])C[C@@]2(C(=O)[C@](O[H])[C@]([H])3[C@@]([H])4C[C@](OC(=O)C)[C@]([H])([C@](C)/C=C/[C@](C)C(C)C)[C@@]4(C)C[C@](O[H])[C@]3([H])[C@@]12C)[H]
+Anicequol	C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1[C@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2[C@H](C(=O)[C@@H]4[C@@]3(CC[C@@H](C4)O)C)O)O)C)OC(=O)C
 Fluoroacetone	CC(=O)CF
 Fluasterone	C[C@]12CCCCC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3C[C@H](C4=O)F)C
 Irosustat	C1CCC2=C(CC1)C(=O)OC3=C2C=CC(=C3)OS(=O)(=O)N
@@ -15049,6 +15049,7 @@ Methaniazide	C1=CN=CC=C1C(=O)NNCS(=O)(=O)O
 Vinyldiphenylphosphine	C=CP(C1=CC=CC=C1)C2=CC=CC=C2
 Δ4-Abiraterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C
 3-Keto-5α-abiraterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C
+(Diacetoxyiodo)benzene	CC(=O)OI(C1=CC=CC=C1)OC(=O)C
 Vasopressin (medication)	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Voxilaprevir	CC[C@@H]1[C@@H]2CN([C@@H]1C(=O)N[C@@]3(C[C@H]3C(F)F)C(=O)NS(=O)(=O)C4(CC4)C)C(=O)[C@@H](NC(=O)O[C@@H]5C[C@H]5CCCCC(c6c(nc7cc(ccc7n6)OC)O2)(F)F)C(C)(C)C
 Androstanolone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
@@ -15146,3 +15147,4 @@ MK-386	C[C@H]1C[C@@H]2[C@](CCC(=O)N2C)([C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C
 Isoxerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
 Androsterone sulfate	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O
 Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
+2-Aminobenzaldehyde	C1=CC=C(C(=C1)C=O)N
