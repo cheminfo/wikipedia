@@ -6754,7 +6754,7 @@ Pyrantel	CN1CCCN=C1/C=C/c2cccs2
 Xipamide	CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N
 Nervonic acid	O=C(O)CCCCCCCCCCCCC\C=C/CCCCCCCC
 1-Methylcyclopropene	C\1=C(/C)C/1
-Eribulin	NC[C@@H](O)C[C@H]5O[C@H]4C[C@H]9O[C@@H](CC[C@@H]1O[C@H](CC1=C)CC[C@@]32O[C@@H]6[C@@H]8O[C@H](C2)[C@H](O3)[C@@H]8O[C@H]7CC[C@H](CC(=O)O[C@@H]4[C@H]5OC)O[C@H]67)C[C@@H](C)C9=C
+Eribulin	O=C(C[C@@H]1[C@@H](OC)[C@@H](C[C@H](O)CN)O[C@H]1C[C@H]2O[C@@H](CC[C@H]3C(C[C@H](CCC[C@@]4(C5)O6)O3)=C)C[C@@H](C)C2=C)C[C@@H]7O[C@@]([C@H]6[C@H](O[C@H]5[C@@H]8O4)[C@H]8O9)([H])[C@]9([H])CC7
 Oxepin	C1=CC=COC=C1
 Zaragozic acid	CC[C@H](C)C[C@H](C)/C=C/C(=O)O[C@@H]1[C@H]([C@]2(O[C@@H]([C@]([C@@]1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)[C@H]([C@H](C)CC3=CC=CC=C3)OC(=O)C)O
 Dimethyldioxirane	CC1(OO1)C
@@ -15153,3 +15153,5 @@ Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@
 2,3,3,3-Tetrafluoro-2-(heptafluoropropoxy)propanoic acid	C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O
 2-Quinolone	C1=CC=C2C(=C1)C=CC(=O)N2
 Cholamine chloride hydrochloride	C[N+](C)(C)CCN.Cl.[Cl-]
+HEPBS	C1CN(CCN1CCCCS(=O)(=O)O)CCO
+4-Quinolone	C1=CC=C2C(=C1)C(=O)C=CN2
