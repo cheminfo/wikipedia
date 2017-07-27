@@ -742,7 +742,7 @@ Strontium titanate	[Sr++].[O-][Ti]([O-])=O
 Sulfur trioxide	O=S(=O)=O
 Alpha-Carotene	C\C2=C\CCC(C)(C)C2/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Brompheniramine	Brc1ccc(cc1)C(c2ncccc2)CCN(C)C
-Carbofuran	O=C(Oc2cccc1c2OC(C1)(C)C)NC
+Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
 Amitriptyline	c3cc2c(/C(c1c(cccc1)CC2)=C\CCN(C)C)cc3
 Dinitrogen pentoxide	[O-][N+](=O)O[N+]([O-])=O
 Clopidogrel	COC(=O)[C@H](c1ccccc1Cl)N2CCc3c(ccs3)C2
@@ -771,7 +771,7 @@ Fucoxanthin	CC(=CC=CC=C(C)C=CC=C(C)C(=O)CC12C(CC(CC1(O2)C)O)(C)C)C=CC=C(C)C=C=C3
 Puromycin	O=C(N[C@@H]3[C@H](O[C@@H](n2cnc1c2ncnc1N(C)C)[C@@H]3O)CO)[C@@H](N)Cc4ccc(OC)cc4
 Phenylpropanolamine	O[C@H](c1ccccc1)[C@@H](N)C
 Ciglitazone	O=C1NC(=O)SC1Cc3ccc(OCC2(C)CCCCC2)cc3
-Fenobucarb	O=C(Oc1ccccc1C(C)CC)NC
+Fenobucarb	CNC(=O)Oc1ccccc1C(C)CC
 Pethidine	O=C(C1(CCN(CC1)C)C2=CC=CC=C2)OCC
 Nitrobenzene	c1ccc(cc1)[N+](=O)[O-]
 Triclopyr	ClC1=C(OCC(O)=O)N=C(Cl)C(Cl)=C1
@@ -820,7 +820,7 @@ Dapsone	O=S(=O)(c1ccc(N)cc1)c2ccc(N)cc2
 Pentane	CCCCC
 Doxycycline	O.CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@H](C)[C@H]2[C@H](O)[C@@H]34
 Oleic acid	CCCCCCCC\C=C/CCCCCCCC(O)=O
-Carbaryl	O=C(Oc2cccc1ccccc12)NC
+Carbaryl	CNC(=O)Oc1c2ccccc2ccc1
 Chlorphenamine	Clc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Diazomethane	N#[N+]-[C-]
 Desflurane	FC(F)(F)C(F)OC(F)F
@@ -1881,7 +1881,7 @@ Gold(III) chloride	[Cl-]1.[Cl-]2.[Cl-]([Au+3]1)2
 Pyrrolidine	C1CCNC1
 Xylene cyanol	[Na+].CCNc1ccc(cc1C)/C(=C2/C=C\C(=[NH+]\CC)C(=C2)C)c3ccc(OS([O-])=O)cc3OS([O-])=O
 Tin(II) chloride	Cl[Sn]Cl
-Aldicarb	O=C(O\N=C\C(SC)(C)C)NC
+Aldicarb	CNC(=O)O/N=C/C(C)(C)SC
 Bortezomib	O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
 1,1'-Bi-2-naphthol	c1ccc2c(c1)ccc(c2c3c4ccccc4ccc3O)O
 Benzothiazole	n1c2ccccc2sc1
@@ -5864,7 +5864,7 @@ Dimethyltubocurarinium chloride	C[N+]1(CCc2cc(c3cc2[C@@H]1Cc4ccc(cc4)Oc5c6c(cc(c
 Nalorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(O)ccc3C4)C\C=C
 BOP reagent	F[P-](F)(F)(F)(F)F.n1nn(O[P+](N(C)C)(N(C)C)N(C)C)c2ccccc12
 Sodium zincate	[OH-].[OH-].[OH-].[OH-].[Na+].[Na+].[Zn+2]
-Bendiocarb	O=C(Oc1cccc2OC(Oc12)(C)C)NC
+Bendiocarb	CNC(=O)Oc1cccc2c1OC(C)(C)O2
 Sulfanilic acid	C1=CC(=CC=C1N)S(=O)(=O)O
 Brazilin	Oc1cc3c(cc1O)[C@@H]2c4c(OC[C@]2(O)C3)cc(O)cc4
 Scyllo-Inositol	O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
@@ -6351,7 +6351,7 @@ Anacetrapib	O=C2O[C@H](c1cc(cc(c1)C(F)(F)F)C(F)(F)F)[C@@H](N2Cc4c(c3cc(c(F)cc3OC
 Olympiadane	c1cc2c3cccc2OCCOCCOCCOCCOc4cccc5c4cccc5OCCOCCOCCOCCOc6cccc7c6cccc7OCCOCCOCCOCCOc3c1.c1cc2c3cccc2OCCOCCOCCOCCOc4cccc5c4cccc5OCCOCCOCCOCCOc6cccc7c6cccc7OCCOCCOCCOCCOc3c1.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F
 Valnemulin	O=C(NCC(SCC(=O)O[C@@H]2C[C@@](\C=C)([C@@H](O)[C@@H]([C@]31[C@@H](C(=O)CC1)[C@@]2(C)[C@H](C)CC3)C)C)(C)C)[C@H](N)C(C)C
 GTPgammaS	S=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n1cnc2c1NC(=N/C2=O)\N)[C@H](O)[C@@H]3O
-Methomyl	C/C(=N\OC(=O)NC)/SC
+Methomyl	CNC(=O)ON=C(C)SC
 Apamin	C[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)NC(C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)N)C(=O)N1)CC(C)C)C)[C@@H](C)O)CCC(=O)O)C)CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc4cnc[nH]4)C(=O)N)CCCNC(=N)N)CCCNC(=N)N
 N-Oxalylglycine	OC(=O)CNC(=O)C(O)=O
 Levophacetoperane	CC(=O)O[C@@H]([C@H]1CCCCN1)C2=CC=CC=C2
@@ -8233,7 +8233,7 @@ Housane	C1C2CCC12
 Chloroacetyl chloride	C(C(=O)Cl)Cl
 1,2-Bis(diisopropylphosphino)ethane	P(C(C)C)(CCP(C(C)C)C(C)C)C(C)C
 Iodine trifluoride	FI(F)F
-Adafenoxate	Clc4ccc(OCC(=O)OCCNC13CC2CC(CC(C1)C2)C3)cc4
+Adafenoxate	Clc4ccc(cc4)OCC(=O)OCCNC12CC3CC(C1)CC(C2)C3
 Suritozole	Cn1c(=S)n(C)nc1-c2cccc(F)c2
 Cichoric acid	O=C(O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)[C@@H](OC(=O)\C=C\c2cc(O)c(O)cc2)C(=O)O
 BAY 73-6691	C[C@H](CC1=NC(=O)C2=CNN(C2=N1)C3=CC=CC=C3Cl)C(F)(F)F
@@ -11512,7 +11512,7 @@ AM-6545	O=S4(=O)CCN(CC4)NC(=O)c1nn(-c2ccc(Cl)cc2Cl)c(c1C)-c3ccc(C#CCCC#N)cc3
 HOCPCA	C1CC(=CC1O)C(=O)O
 CTEP	FC(F)(F)Oc3ccc(n2c(c(C#Cc1ccnc(Cl)c1)nc2C)C)cc3
 PD-217,014	C1C[C@@H]2[C@H]1C[C@](C2)(CC(=O)O)CN
-Oxamyl	O=C(C(=NOC(=O)NC)SC)N(C)C
+Oxamyl	CN(C)C(=O)/C(SC)=N/OC(=O)NC
 AM-2389	OC1=C([C@@H]2C[C@@H](CC[C@H]2C(C)(O3)C)O)C3=CC(C4(CCC4)CCCCCC)=C1
 Joro toxin	O=C(NCCCCCNC(=O)[C@@H](NC(=O)Cc1ccc(O)cc1O)CC(=O)N)CCNCCCCNCCCN
 Dimethylamidophosphoric dicyanide	CN(C)P(=O)(C#N)C#N
