@@ -3886,7 +3886,7 @@ Etretinate	O=C(OCC)\C=C(\C=C\C=C(\C=C\c1c(cc(OC)c(c1C)C)C)C)C
 Ethinamate	O=C(OC1(C#C)CCCCC1)N
 Evans Blue (dye)	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6cc(c(N)c5c6C=C/C(=N\Nc1ccc(cc1C)c4ccc(N\N=C3/C=Cc2c(cc(c(N)c2C3=O)S([O-])(=O)=O)S([O-])(=O)=O)c(C)c4)C5=O)S([O-])(=O)=O
 Darifenacin	O=C(N)C(c1ccccc1)(c2ccccc2)[C@H]3CN(CC3)CCc5cc4c(OCC4)cc5
-Etonogestrel	O=C3\C=C2\CC[C@H]1[C@H]4[C@](CC)(C/C(=C)[C@@H]1[C@H]2CC3)[C@@](C#C)(O)CC4
+Etonogestrel	CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34
 Decamethonium	[Br-].[Br-].C(CCCC[N+](C)(C)C)CCCCC[N+](C)(C)C
 Gemifloxacin	Fc2c(nc1N(/C=C(/C(=O)O)C(=O)c1c2)C3CC3)N4C/C(=N\OC)C(C4)CN
 Grepafloxacin	O=C(O)\C2=C\N(c1cc(c(F)c(c1C2=O)C)N3CC(NCC3)C)C4CC4
@@ -6708,6 +6708,7 @@ Aspalathin	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3c
 Nothofagin	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O[C@@H]1CO)c3c(O)cc(O)c(C(=O)CCc2ccc(O)cc2)c3O
 Xanthurenic acid	OC2=CC(C(O)=O)=NC1=C(O)C=CC=C12
 Tert-Butyl formate	CC(C)(C)OC=O
+Dienogest	C[C@]12CCC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(CC#N)O
 Magnesium citrate (3:2)	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Mg].[Mg].[Mg]
 2-Heptanone	O=C(C)CCCCC
 Imidazolidinyl urea	O=C2N(CO)C(NC(=O)NCNC(=O)NC1C(=O)NC(=O)N1CO)C(=O)N2
@@ -13011,7 +13012,7 @@ Dibenzopentalene	C1=C2C(=CC3=C2C=CC=C3)C2=CC=CC=C12
 Perillene	o1ccc(c1)CC\C=C(/C)C
 Thiomuscimol	C1=C(SN=C1O)CN
 1-Nitropropane	CCC[N+](=O)[O-]
-SL-75102	C1=CC(=CC=C1C(=C2C=C(C=CC2=O)F)NCCCC(=O)O)Cl
+SL-75102	c1cc(ccc1/C(=N\CCCC(=O)O)/c2cc(ccc2O)F)Cl
 Arofylline	CCCN1C(=O)C2=C(N=CN2)N(C1=O)C3=CC=C(C=C3)Cl
 Cilostamide	CN(C1CCCCC1)C(=O)CCCOC2=CC3=C(C=C2)NC(=O)C=C3
 KMUP-1	CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CCN3CCN(CC3)C4=CC=CC=C4Cl
@@ -15163,3 +15164,4 @@ Gestadienol acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=CC4=CC(=O)CC[C@H
 Metacresol purple	CC1=C(C=CC(=C1)O)C2(C3=CC=CC=C3S(=O)(=O)O2)C4=C(C=C(C=C4)O)C
 2-Hydroxy-3-morpholinopropanesulfonic acid	C1COCCN1CC(CS(=O)(=O)O)O
 Arsonium	[AsH4+]
+Regrelor	CCNC(=O)NC1=NC=NC2=C1N=CN2C3C4C(C(O3)COP(=O)(O)O)OC(O4)C=CC5=CC=CC=C5
