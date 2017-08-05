@@ -15165,3 +15165,5 @@ Metacresol purple	CC1=C(C=CC(=C1)O)C2(C3=CC=CC=C3S(=O)(=O)O2)C4=C(C=C(C=C4)O)C
 2-Hydroxy-3-morpholinopropanesulfonic acid	C1COCCN1CC(CS(=O)(=O)O)O
 Arsonium	[AsH4+]
 Regrelor	CCNC(=O)NC1=NC=NC2=C1N=CN2C3C4C(C(O3)COP(=O)(O)O)OC(O4)C=CC5=CC=CC=C5
+Pibrentasvir	C[C@H]([C@@H](C(=O)N1CCC[C@H]1c2[nH]c3cc(c(cc3n2)[C@H]4CC[C@@H](N4c5cc(c(c(c5)F)N6CCC(CC6)c7ccc(cc7)F)F)c8cc9c(cc8F)[nH]c(n9)[C@@H]1CCCN1C(=O)[C@H]([C@@H](C)OC)NC(=O)OC)F)NC(=O)OC)OC
+Potassium azodicarboxylate	C(=O)(N=NC(=O)[O-])[O-].[K+].[K+]
