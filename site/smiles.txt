@@ -2773,7 +2773,7 @@ Sudan II	Cc3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Cycloheptene	C\1=C\CCCCC/1
 Longifolene	C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3C2=C)(C)C
 Tributyltin oxide	CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC
-Di-n-butyl ether	CCCCOCCCC
+Dibutyl ether	CCCCOCCCC
 Glyoxal	C(=O)C=O
 Glycin	O=C(O)CNc1ccc(O)cc1
 1-Propanol	CCCO
@@ -6612,6 +6612,7 @@ Dimethylamphetamine	CC(N(C)C)CC1=CC=CC=C1
 Desosamine	O=C[C@H](O)[C@@H](N(C)C)C[C@H](O)C
 Chromium nitrate	[Cr+2].O=N([O-])=O.[O-]N(=O)=O.[O-]N(=O)=O
 Carfecillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)C(c1ccccc1)C(=O)Oc2ccccc2)[C@H]4SC3(C)C
+Hachimycin	CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(CC(CC(CCCC(=O)CC(=O)OC1C(C)CCC(CC(=O)C3=CC=C(C=C3)N)O)O)O)O)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O.CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(CCCC(CC(CC(=O)CC(=O)OC1C(C)CCC(CC(=O)C3=CC=C(C=C3)N)O)O)O)O)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O
 Candicidin	Nc1ccc(cc1)C(=O)CC(O)C(C)CC(C)C3OC(=O)CC(=O)CCCC(=O)CC(O)CC(O)CC(O)CC4(O)CC(O)C(C(=O)O)C(CC(OC2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C=CC=CC=CC=CC=CC=CC=CC3C)O4
 Calcium iodide	[Ca+2].[I-].[I-]
 Biphenylene	c1ccc-2c(c1)-c3c2cccc3
@@ -11690,6 +11691,7 @@ Bilobol	CCCCCCC=CCCCCCCCC1=CC(=CC(=C1)O)O
 DB-2073	Oc1cc(cc(O)c1CCCCCC)CCC
 Casuarinin	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C4C5C(C6=C(C(=C(C(=C6C(=O)O5)C7=C(C(=C(C=C7C(=O)O4)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Pedunculagin	c1c2c(c(c(c1O)O)O)-c3c(cc(c(c3O)O)O)C(=O)O[C@@H]4[C@@H](COC2=O)OC([C@H]5[C@H]4OC(=O)c6cc(c(c(c6-c7c(cc(c(c7O)O)O)C(=O)O5)O)O)O)O
+Lambertianin C	C1C2C(C3C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O3)O)O)O)O)O)O)OC7=C(C8=C(C(=C(C=C8O1)O)O)O)C(=C(C(=C7OC9=CC(=CC(=C9O)O)C(=O)OC1C2C(C3C(O1)COC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C(=C1O)O)O)OC1=CC(=CC(=C1O)O)C(=O)OC1C4C(C5C(O1)COC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O5)O)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O4)O)O)O)O)O)O)C(=O)O3)O)O)O)OC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O2)O)O)O)O)O)O)O)O)O
 Bisdemethoxycurcumin	C1=CC(=CC=C1C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O
 EMPA (drug)	CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C
 Panicudine	CC(=O)O[C@H]1C[C@]2(CN([C@@H]3[C@H]4C(=O)[C@H]5C[C@H]6[C@]3(C1)[C@@H]2C(=O)C[C@]64CC5=C)C)C
@@ -13954,7 +13956,7 @@ FDU-NNE1	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)NC4=C(C=CC=C5)C5=CC=C4
 5F-AB-FUPPYCA	NC(C(C(C)C)NC(=O)C1=NN(C(=C1)C1=CC=C(C=C1)F)CCCCCF)=O
 5F-NNE1	FCCCCCn1cc(c2c1cccc2)C(=O)Nc1cccc2c1cccc2
 Topilutamide	CC(CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
-MDMB-FUBICA	FC1=CC=C(C=C1)CN1C=C(C2=CC=CC=C12)C(=O)NC(C(=O)OC)C(C)(C)C
+MDMB-FUBICA	COC(=O)[C@@H](NC(=O)c1cn(Cc2ccc(F)cc2)c3ccccc13)C(C)(C)C
 Adamantyl-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
 CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
@@ -15167,3 +15169,5 @@ Arsonium	[AsH4+]
 Regrelor	CCNC(=O)NC1=NC=NC2=C1N=CN2C3C4C(C(O3)COP(=O)(O)O)OC(O4)C=CC5=CC=CC=C5
 Pibrentasvir	C[C@H]([C@@H](C(=O)N1CCC[C@H]1c2[nH]c3cc(c(cc3n2)[C@H]4CC[C@@H](N4c5cc(c(c(c5)F)N6CCC(CC6)c7ccc(cc7)F)F)c8cc9c(cc8F)[nH]c(n9)[C@@H]1CCCN1C(=O)[C@H]([C@@H](C)OC)NC(=O)OC)F)NC(=O)OC)OC
 Potassium azodicarboxylate	C(=O)(N=NC(=O)[O-])[O-].[K+].[K+]
+Rishitin	C[C@@H]1[C@H]([C@@H](CC2=C1C[C@@H](CC2)C(=C)C)O)O
+Tellimagrandin I	C1C2C(C(C(C(O2)O)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O1)O)O)O)O)O)O
