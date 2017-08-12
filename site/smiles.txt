@@ -1592,7 +1592,6 @@ Sotolon	O=C1OC(C)C(C)=C1O
 Tiagabine	O=C(O)[C@H]1CN(CCC1)CC/C=C(/c2sccc2C)c3sccc3C
 Quinapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)Cc1c(cccc1)C2)C)CCc3ccccc3
 Cis-3-Hexenal	O=CC\C=C/CC
-Safranin	[Cl-].n1c4c([n+](c2c1cc(c(N)c2)C)c3ccccc3)cc(c(c4)C)N
 Thionyl chloride	ClS(Cl)=O
 Meprobamate	O=C(OCC(COC(=O)N)(C)CCC)N
 Synephrine	OC(c1ccc(O)cc1)CNC
@@ -3283,6 +3282,7 @@ Silver cyanide	[C-]#N.[Ag+]
 Liothyronine	[Na+].[O-]C(=O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2.O
 Lymecycline	C[C@@]1([C@H]2C[C@H]3[C@@H](C(=C(C(=O)[C@]3(C(=C2C(=O)C4=C1C=CC=C4O)O)O)C(=O)NCNCCCC[C@@H](C(=O)O)N)O)N(C)C)O
 Carveol	CC(=C)C1CC=C(C)C(O)C1
+Nimetazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3)=O)=O
 Adinazolam	Clc3cc2\C(=N/Cc1nnc(n1c2cc3)CN(C)C)c4ccccc4
 Halazepam	FC(F)(CN1C(CN=C(C2=CC=CC=C2)C3=C1C=CC(Cl)=C3)=O)F
 Pinazepam	Clc3cc\1c(N(C(=O)C/N=C/1c2ccccc2)CC#C)cc3
@@ -12759,6 +12759,7 @@ Borane	B
 Agosterol A	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(C[C@H]([C@H]3C2=C[C@@H]([C@@H]4[C@@]3(CC[C@@H]([C@@H]4OC(=O)C)OC(=O)C)C)OC(=O)C)O)C)[C@@H](CCC(C)C)O
 Fucosterol	C/C=C(\CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)/C(C)C
 Phaeochromycin A	CCCc1cc(c2c(c1c3cc(cc(=O)o3)O)cccc2O)O
+Borinic acid	BO
 Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
 Aplyzanzine A	CN(C)CCCOc1c(cc(cc1Br)CCNC(=O)[C@H](Cc2cc(c(c(c2)Br)OC)Br)N(C)C)Br
