@@ -1592,6 +1592,7 @@ Sotolon	O=C1OC(C)C(C)=C1O
 Tiagabine	O=C(O)[C@H]1CN(CCC1)CC/C=C(/c2sccc2C)c3sccc3C
 Quinapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)Cc1c(cccc1)C2)C)CCc3ccccc3
 Cis-3-Hexenal	O=CC\C=C/CC
+Safranin	[Cl-].n1c4c([n+](c2c1cc(c(N)c2)C)c3ccccc3)cc(c(c4)C)N
 Thionyl chloride	ClS(Cl)=O
 Meprobamate	O=C(OCC(COC(=O)N)(C)CCC)N
 Synephrine	OC(c1ccc(O)cc1)CNC
@@ -5430,7 +5431,7 @@ Enterobactin	C1C(C(=O)OCC(C(=O)OCC(C(=O)O1)NC(=O)C2=C(C(=CC=C2)O)O)NC(=O)C3=C(C(
 Capsazepine	Clc1ccc(cc1)CCNC(=S)N3Cc2c(cc(O)c(O)c2)CCC3
 Calcium stearate	[Ca+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
 Cannabigerol	Oc1cc(cc(O)c1C/C=C(\C)CC\C=C(/C)C)CCCCC
-Diazene	N=N
+Diimide	N=N
 Acetoacetyl-CoA	O=C(C)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
 Hydrogen anion	[H-]
 Phosphomevalonic acid	CC(CCOP(=O)(O)O)(CC(=O)O)O
