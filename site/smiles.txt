@@ -2287,7 +2287,7 @@ Thallium(I) hydroxide	[Tl+].[OH-]
 Thallium(III) hydroxide	O[Tl](O)O
 Thiocyanic acid	SC#N
 Fluacizine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)C(=O)CCN(CC)CC
-Dosulepin	CN(C)CC/C=C/1\c2ccccc2CSc3c1cccc3
+Dosulepin	CN(C)CC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
 Nialamide	O=C(NNCCC(=O)NCc1ccccc1)c2ccncc2
 Perylene	c1ccc5cccc4c5c1c2cccc3cccc4c23
 Pyrazoline	C1CCN=N1
@@ -6460,7 +6460,6 @@ SNC-80	O=C(N(CC)CC)c1ccc(cc1)[C@@H](N2C[C@H](N(C\C=C)C[C@@H]2C)C)c3cccc(OC)c3
 Isoguanine	O=C1\N=C2\N=C/NC2=C(\N1)N
 Isocytosine	O=C1/C=C\N=C(\N)N1
 Tributylphosphine	CCCCP(CCCC)CCCC
-3,4-Dichlorobicyclo(3.2.1)oct-2-ene	ClC1C2CCC(C2)C=C1Cl
 SB-277,011-A	c4cccc1c4nccc1C(=O)NC3CCC(CC3)CCN(CCc2c5)Cc2ccc5C#N
 Enadoline	O=C(Cc1cccc2occc12)N(C)C1CCC2(CCCO2)CC1N1CCCC1
 Cobalt(II) chlorate	[Co+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
@@ -13592,6 +13591,9 @@ Lanierone	CC1=CC(C=C(C1=O)O)(C)C
 Disodium 4,4'-dinitrostilbene-2,2'-disulfonate	c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)[O-])/C=C/c2ccc(cc2S(=O)(=O)[O-])[N+](=O)[O-].[Na+].[Na+]
 2-Octyne	CC#CCCCCC
 Americium(III) fluoride	F[Am](F)F
+Americium(III) bromide	[Br-].[Br-].[Br-].[Am]
+Americium(III) iodide	[I-].[I-].[I-].[Am]
+Americium(II) bromide	[Br-].[Br-].[Am]
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
 Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
