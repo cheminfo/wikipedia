@@ -3183,7 +3183,6 @@ Fluoroacetic acid	FCC(O)=O
 Strontium fluoride	[Sr+2].[F-].[F-]
 Potassium hydride	[H-].[K+]
 Boron tribromide	BrB(Br)Br
-Boron tribromide	[BH6+3].[Br-].[Br-].[Br-]
 Americium dioxide	[O--].[O--].[Am+4]
 Lincomycin	O=C(N[C@@H]([C@H]1O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O)[C@H](O)C)[C@H]2N(C)C[C@H](CCC)C2
 Trimethadione	O=C1N(C(=O)OC1(C)C)C
@@ -5404,6 +5403,7 @@ Alphamethylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2)C(Cc3sccc3)C)CC
 Betahydroxyfentanyl	O=C(N(c1ccccc1)C3CCN(CC(O)c2ccccc2)CC3)CC
 Hydroxypethidine	O=C(OCC)C2(c1cccc(O)c1)CCN(C)CC2
 Aluminium diboride	B1=B[Al]1
+Aluminium dodecaboride	[B].[B].[B].[B].[B].[B].[B].[B].[B].[B].[B].[B].[Al]
 Metrifonate	COP(=O)(C(C(Cl)(Cl)Cl)O)OC
 Radicicol	C[C@@H]1C[C@@H]2[C@H](O2)/C=C\C=C\C(=O)Cc3c(c(cc(c3Cl)O)O)C(=O)O1
 Neopentyllithium	CC(C)(C)C[Li]
@@ -8869,6 +8869,7 @@ Resazurin	C1=CC2=C(C=C1O)OC3=CC(=O)C=CC3=[N+]2[O-]
 4-Ethylbenzaldehyde	CCc1ccc(C=O)cc1
 Veratraldehyde	COc1cc(ccc1OC)C=O
 Benzenesulfonic acid	c1ccc(cc1)S(=O)(=O)O
+Ammonium azide	N.N=[N+]=[N-]
 SDZ SER-082	CN1CC[C@@H]2CN3CCC4=C3C(=CC=C4)[C@@H]2C1
 Calcium titanate	[Ca+2].[O-][Ti]([O-])=O
 SB-649,915	O=C4COc1ccc(cc1N4)CC(CC5)CCN5CCOc(cccc2n3)c2ccc3C
@@ -10226,7 +10227,7 @@ Besipirdine	CCCN(C1=CC=NC=C1)N2C=CC3=CC=CC=C32
 Matrine	C1C[C@@H]2[C@H]3CCCN4[C@H]3[C@@H](CCC4)CN2C(=O)C1
 Asimadoline	CN([C@H](CN1CC[C@@H](C1)O)C2=CC=CC=C2)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4
 14-Cinnamoyloxycodeinone	CN1CC[C@]23[C@@H]4C(=O)C=C[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)OC(=O)/C=C/C6=CC=CC=C6
-Ammonium arsenate	[O-][As]([O-])(=O)O.[NH4+].[NH4+]
+Ammonium arsenate	[NH4+].[NH4+].[NH4+].[O-][As](=O)([O-])[O-]
 Fluotracen	FC(F)(F)c1ccc3c(c1)C(c2ccccc2C3C)CCCN(C)C
 Dichlorotris(triphenylphosphine)ruthenium(II)	[Ru+2].[Cl-].[Cl-].c3c(P(c1ccccc1)c2ccccc2)cccc3.c1ccccc1P(c2ccccc2)c3ccccc3.c1ccccc1P(c2ccccc2)c3ccccc3
 Hepzidine	O(C3c1ccccc1CCc2ccccc23)C4CCN(C)CC4
@@ -13517,6 +13518,7 @@ Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
 Pentaborane(11)	[BH3]1[BH2]2[BH]13[BH2]2[BH3]3
+Zirconium perchlorate	[Zr](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 2,4,5-Trihydroxycinnamic acid	OC(=O)\C=C\c(cc1O)c(O)cc1O
 Cyclohexene oxide	C1CCC2C(C1)O2
 Dibenzopyrenes	c1ccc2c(c1)cc3c4ccccc4c5cccc6c5c3c2cc6
@@ -15030,6 +15032,7 @@ Estrin (compound)	C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC=CC=C4[C@H]3CC2
 Trifluoroacetone	CC(=O)C(F)(F)F
 Trifluoromethanol	C(O)(F)(F)F
 Hippulin	C[C@]12CCC3=C([C@@H]1CCC2=O)CCc4c3ccc(c4)O
+Hexafluorothioacetone	FC(F)(F)C(=S)C(F)(F)F
 Triethylindium	CC[In](CC)CC
 Osilodrostat	C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F
 Amphenone B	CC(=O)C(C)(C1=CC=C(C=C1)N)C2=CC=C(C=C2)N
@@ -15126,6 +15129,7 @@ Pentafluorosulfanylbenzene	C1=CC=C(C=C1)S(F)(F)(F)(F)F
 Triamcinolone aminobenzal benzamidoisobutyrate	CC(CNC(=O)C1=CC=CC=C1)C(=O)OCC(=O)[C@@]23C(C[C@@H]4[C@@]2(CC(C5([C@H]4CCC6=CC(=O)C=C[C@@]65C)F)O)C)OC(O3)C7=CC=C(C=C7)N(C)C
 Benzodrocortisone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)OC(=O)C5=CC=CC=C5)C)O
 Methyl isobutyrate	CC(C)C(=O)OC
+Methyl pivalate	CC(C)(C)C(=O)OC
 Dagrocorat	CC1=C(C=CC=N1)NC(=O)C2=CC3=C(C=C2)[C@@]4(CC[C@@](C[C@H]4CC3)(C(F)(F)F)O)CC5=CC=CC=C5
 Fosdagrocorat	CC1=C(C=CC=N1)NC(=O)C2=CC3=C(C=C2)[C@@]4(CC[C@@](C[C@H]4CC3)(C(F)(F)F)OP(=O)(O)O)CC5=CC=CC=C5
 7α-Thiomethylspironolactone	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)SC
@@ -15184,3 +15188,4 @@ Naphthol AS	C1=CC=C(C=C1)NC(=O)C2=CC3=CC=CC=C3C=C2O
 3-Hydroxy-2-naphthoic acid	C1=CC=C2C=C(C(=CC2=C1)C(=O)O)O
 Dibenzoxepin	C1=CC=C2C(=C1)C=C3C=CC=CC3=CO2
 Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
+Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
