@@ -7585,7 +7585,7 @@ Lorcaserin	Clc1cc2c(cc1)CCNC[C@@H]2C
 5-Carboxamidotryptamine	C1=CC2=C(C=C1C(=O)N)C(=CN2)CCN
 Zacopride	COC1=CC(=C(C=C1C(=O)NC2CN3CCC2CC3)Cl)N
 Copper(I) sulfide	[Cu+].[Cu+].[S-2]
-1H-Phenalene	c3c1cccc2\C=C/Cc(c12)cc3
+Phenalene	c3c1cccc2\C=C/Cc(c12)cc3
 Forodesine	C1=C(C2=C(N1)C(=O)NC=N2)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O
 Aescin	CC=C(C)C(=O)OC1C(C2(C(CC1(C)C)C3=CCC4C5(CCC(C(C5CCC4(C3(CC2O)C)C)(C)CO)OC6C(C(C(C(O6)C(=O)O)OC7C(C(C(C(O7)CO)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CO)OC(=O)C
 Mellitic anhydride	O=C2OC(=O)c1c4c(c3c(c12)C(=O)OC3=O)C(=O)OC4=O
@@ -12706,6 +12706,7 @@ Hydroxymatairesinol	COC1=C(C=CC(=C1)C[C@@H]2[C@H](COC2=O)[C@@H](C3=CC(=C(C=C3)O)
 Angustific acid	CC(=C)[C@H]1C[C@@H]2[C@H]3[C@@]4(CC=C([C@]4(CC[C@@]35[C@@]1(C5)CCC(=O)O2)C)C(=C)CC/C=C(/C)\C(=O)O)C
 Angustific acid	CC(=C)[C@@H]1C[C@@H]([C@H]2[C@@]3([C@H](C=C([C@]3(CC[C@@]24[C@@]1(C4)CCC(=O)O)C)[C@](C)(CC/C=C(/C)\C(=O)O)O)O)C)O
 Angustifodilactone	C[C@@]12CC[C@@H]([C@]1([C@H](C[C@]34[C@H]2C[C@@H]([C@@H]5[C@]3(C4)C=CC(=O)OC5(C)C)O)O)C)[C@](C)([C@H]6CC=C(C(=O)O6)CO)O
+Angustifodilactone	CC1=CCC(OC1=O)C(C)(C2CCC3(C2(C(CC45C3CC(C6C4(C5)C=CC(=O)OC6(C)C)O)O)C)C)O
 Kadsurin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C4=C(C=C3[C@@H]([C@@H]1C)OC(=O)C)OCO4)OC)OC)OC)OC
 Smoothened agonist	ClC1=C(C(N([C@H]2CC[C@H](NC)CC2)CC3=CC=CC(C4=CC=NC=C4)=C3)=O)SC5=CC=CC=C51
 Deoxyschizandrin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3C[C@@H]1C)OC)OC)OC)OC)OC)OC
@@ -15193,3 +15194,4 @@ Dibenzoxepin	C1=CC=C2C(=C1)C=C3C=CC=CC3=CO2
 Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
 Direct Blue 15	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)NN=C3C(=CC4=CC(=CC(=C4C3=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-])OC)NN=C5C(=CC6=CC(=CC(=C6C5=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
+Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
