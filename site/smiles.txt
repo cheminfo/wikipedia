@@ -2503,7 +2503,7 @@ Ferrate(VI)	[O-][Fe]([O-])(=O)=O
 Sinigrin	C=CCC(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O.[K+]
 Amidol	Oc1ccc(N)cc1N
 Dyclonine	O=C(c1ccc(OCCCC)cc1)CCN2CCCCC2
-Calcium hypochlorite	[Ca+2].[O-].Cl.[O-].Cl
+Calcium hypochlorite	[Ca+2].[O-]Cl.[O-]Cl
 Acetaldehyde ammonia trimer	N1C(NC(NC1C)C)C
 Bosentan	CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc2c(c(nc(n2)c3ncccn3)OCCO)Oc4ccccc4OC
 Sodium sorbate	[Na+].[O-]C(=O)\C=C\C=C\C
@@ -13817,7 +13817,7 @@ Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
 Lumateperone	c3cc(F)ccc3C(=O)CCCN5CC2C(CC5)N1CCN(C)c4c1c2ccc4
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
-MIN-117	Clc1ccc(cc1Cl)C2CCN(CC2)C[C@H](O)COc4cccc3oc(cc34)c5nnc(o5)C
+MIN-117	CC1=NN=C(O1)C2=CC3=C(O2)C=CC=C3OC[C@H](CN4CCC(CC4)C5=CC(=C(C=C5)Cl)Cl)O
 RP-5063	C1CN(CCN1CCCCOC2=CC3=C(C=C2)OCC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
