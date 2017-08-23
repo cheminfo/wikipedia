@@ -6755,7 +6755,7 @@ Pyrantel	CN1CCCN=C1/C=C/c2cccs2
 Xipamide	CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N
 Nervonic acid	O=C(O)CCCCCCCCCCCCC\C=C/CCCCCCCC
 1-Methylcyclopropene	C\1=C(/C)C/1
-Eribulin	O=C(C[C@@H]1[C@@H](OC)[C@@H](C[C@H](O)CN)O[C@H]1C[C@H]2O[C@@H](CC[C@H]3C(C[C@H](CCC[C@@]4(C5)O6)O3)=C)C[C@@H](C)C2=C)C[C@@H]7O[C@@]([C@H]6[C@H](O[C@H]5[C@@H]8O4)[C@H]8O9)([H])[C@]9([H])CC7
+Eribulin	O=C1C[C@@H]2[C@H]([C@H](O[C@H]2C[C@H]3O[C@H](C[C@H](C3=C)C)CC[C@H]4C(C[C@@H](O4)CC[C@]5(O6)C[C@@H]([C@@H]7O5)O[C@H]([C@H]7O[C@]8(CC9)[H])[C@@H]6[C@@]8([H])O[C@H]9C1)=C)C[C@@H](CN)O)OC
 Oxepin	C1=CC=COC=C1
 Zaragozic acid	CC[C@H](C)C[C@H](C)/C=C/C(=O)O[C@@H]1[C@H]([C@]2(O[C@@H]([C@]([C@@]1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)[C@H]([C@H](C)CC3=CC=CC=C3)OC(=O)C)O
 Dimethyldioxirane	CC1(OO1)C
@@ -7057,6 +7057,7 @@ Dithionic acid	O=S(=O)(O)S(=O)(=O)O
 Dimethylaminopropylamine	CN(C)CCCN
 Lauryl glucoside	CCCCCCCCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Procaterol	CC(C)NC(CC)C(O)c2ccc(O)c1NC(=O)C=Cc12
+Diphosphorus tetraiodide	P(P(I)I)(I)I
 Benzamil	Clc2nc(C(=O)NC(=N/Cc1ccccc1)/N)c(nc2N)N
 Benzamil	Clc2nc(C(=O)\N=C(/N)NCc1ccccc1)c(N)nc2N
 Perfluorobutane	C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F
@@ -11000,7 +11001,6 @@ N-Methylaniline	CNC1=CC=CC=C1
 Imazapic	O=C(O)c1c(ncc(c1)C)/C2=N/C(C(=O)N2)(C(C)C)C
 Potassium salicylate	[K+].O=C([O-])c1ccccc1O
 Picramic acid	c1c(cc(c(c1N)O)[N+](=O)[O-])[N+](=O)[O-]
-Europium barium titanate	[Ba+2].[Eu+2].[O-][Ti]([O-])([O-])[O-]
 Ferric ammonium oxalate	[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O.[NH4+].[NH4+].[NH4+]
 Danielone	COC1=CC(=CC(=C1O)OC)C(=O)CO
 Actinium(III) oxide	[O--].[O--].[O--].[Ac+3].[Ac+3]
@@ -15200,3 +15200,4 @@ Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
 Direct Blue 15	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)NN=C3C(=CC4=CC(=CC(=C4C3=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-])OC)NN=C5C(=CC6=CC(=CC(=C6C5=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
 Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
+Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
