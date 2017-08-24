@@ -1487,7 +1487,6 @@ Copper(II) chloride	[Cu+2].[Cl-].[Cl-]
 Tungsten trioxide	O=[W](=O)=O
 Nimesulide	[O-][N+](=O)c2cc(Oc1ccccc1)c(cc2)NS(=O)(=O)C
 Tetrabutylammonium hydroxide	[OH-].CCCC[N+](CCCC)(CCCC)CCCC
-Sodium acetate	[Na+].[O-]C(=O)C
 Flavin adenine dinucleotide	CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C5N=CN=C6N)O)O)O)O)O
 Hexetidine	CCCCC(CC)CN1CC(CN(C1)CC(CC)CCCC)(C)C
 Amobarbital	O=C1NC(=O)NC(=O)C1(CCC(C)C)CC
@@ -12366,6 +12365,7 @@ Mallotojaponin B	Cc1c(c(c(c(c1OC)Cc2c(c(c(c(c2OC)CC=C(C)C)O)C(=O)C)O)O)C(=O)C)O
 Mallotophenone	Cc1c(O)c(C(=O)C)c(O)c(c1OC)Cc(c(OC)c2C)c(O)c(C(C)=O)c2O
 Tofogliflozin	CCc1ccc(cc1)Cc2ccc3c(c2)[C@]4([C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC3.O
 Mallotojaponin C	CC(=O)c1c(O)c(c(OC)c(c1O)C\C=C(\C)/C)Cc2c(OC)c(C\C=C(/C)\C)c(O)c(C(=O)C)c2O
+Cerium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ce+3].[Ce+3]
 Ustalic acid	O=C(O)C(=C2OCOC2=C(c1ccccc1)C(O)=O)c3ccccc3
 Arboreol	O[C@@]43CO[C@H](C4CO[C@]3(O)c1ccc2OCOc2c1)c5ccc6OCOc6c5
 Gummadiol	O[C@@H]5O[C@H](c1ccc2OCOc2c1)[C@@]6(O)CO[C@H](c3ccc4OCOc4c3)[C@@H]56
@@ -15200,4 +15200,6 @@ Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
 Direct Blue 15	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)NN=C3C(=CC4=CC(=CC(=C4C3=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-])OC)NN=C5C(=CC6=CC(=CC(=C6C5=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
 Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
+4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
+Parasorbic acid	CC1OC(C=CC1)=O
