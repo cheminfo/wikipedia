@@ -1487,6 +1487,7 @@ eLCrxhabA[g`@	Copper(II) chloride
 gCahHlEJNj@@	Tungsten trioxide
 fjmQRBL^``R\`BOSglddNbbRtRRbTZIUjBB@`X@@@	Nimesulide
 fdaa@BH@AtIPZeUUUZjjjjh@@	Tetrabutylammonium hydroxide
+gK`hiahB]rBsP@	Sodium acetate
 ejuyOD@BcgobZV]PxDLBNAIC@djfeoXpOBcprRSKRKZIJJKZJFJKIZIJJEQISIWrJyzDdWTtMuMjijjjjjjhFBbXI`YJhhxTed\gbbVTz`@	Flavin adenine dinucleotide
 facP@@@DrRIIQQSEJKIHtyUUUUUUUT@@	Hexetidine
 f`aQ`@DX@pRSJsvoTxuSMUU@@@	Amobarbital
@@ -2065,7 +2066,10 @@ dmVD@NADfvWfjjjB`@	Pregabalin
 f`aQ`@DX@pVQQIQZZIFgFjYjjh@@	Pentobarbital
 ffcP@@@YrRJJIQJIQDvJmjKdu@DPQPUP@@@	Trimipramine
 eohTJ@@DF@O@bjlbbbbbRRTTubJRfRDL\rn^Zj`jAjFj`@`Ppfb@@	Benazepril
+eodPFH@AJfimk`ICHiEHhhhblXdicBeEOMKGHdbjjjjYjjZfijhRAHKBDIR^QJEP@	Betamethasone acetate
+ebQPFH@AJfecg`ICHiEHhhhblXdiliimLdiyiXyDdTccUUUSMUSULt@ETBPIAXPaJSrIPj@@	Betamethasone benzoate
 eb^PNH@AJfecghPICHiEHhhhblXdiliilmLiyiXyDdUUUUSMUSULuSUTI@dEaBDiOHeBh@@	Betamethasone dipropionate
+ed\PABBHDLBNIJo`OAjPAtH]CCbNAfF\ddqTtfdTRlRbLfVpAgbVPtussUSUUUUUURsUBBIQZHrQQJYSi@@	Betamethasone sodium phosphate
 gFPhiahB]rBvu@@	Sodium propionate
 gFPhiadB]rBvu@@	Potassium propanoate
 eMB@Hch@	Dimethyl sulfide
@@ -2502,7 +2506,7 @@ gJPXhlPl[ct^m@@	Ferrate(VI)
 fnmaKBFHpRa`ejtFQ@HDD@fgXEICeDeDeMLeEJuMUSUUTBEH	Sinigrin
 dieH@BDDfY}n``H@@	Amidol
 fjm``@I@ldsJkrj~bUzKPPQUUUD@@	Dyclonine
-gJ`mdPTRHtPEWGdDz@@	Calcium hypochlorite
+gJ@mlPTRHTPEwG`@_pmA`	Calcium hypochlorite
 dig@@@rldTTUkjjj`@	Acetaldehyde ammonia trimer
 enUZFH@LA@jfhDKLofP@cIIBhhdeEhdmEDiDeDkemOG@glXZUj@@HBj@JhHHb@@@@	Bosentan
 dixDaHpM@IsdEmUifALj`	Sodium sorbate
@@ -7178,7 +7182,7 @@ ek`PDH@Fa`OCIHhhhhddeEmhiTcLgB`jimj`jhJhBhbHh@@@	SPhos
 eh{|F@@EAfPNLi`URbDaHRDRDcDQHRDIBrDQDaHQDSHRDaLEHHXd\LR|JBbjFVvn^IyiYEeuM}ChJ`fbjjjjjj`jjBjbfbhaDHpcDUFdmMiB`@	Norbinaltorphimine
 edZP@H@@OCIHhhhhddeEmhiUMDxYdxTETLmTEUAU@TQEUTT@@@	XPhos
 dmT@`JhLdbeTTjjj`@	Disiamylborane
-fnsq@@DTRCHhdhhddijhdmNlFkVjB`hj@@`@@	A-412,997
+fnsq@@DTRCHhdhhddijhdmNlFkVjB`hj@@`@@	A-412997
 gGQ@@dtuT@@	Tert-Amyl alcohol
 efuvDDBCLjohTtGPHbBH@zCcISg@MEDdediEKEDdeleEDdeUDeddeIIitMLmbSRsSr[[PPQUSTtrmMLtp@UUTUL@XNTrS@	XF-73
 ffs``@H`YdTTTTTLQbJrxkUg^bfBH@bBjhb@@	Propylnorapomorphine
@@ -15155,6 +15159,7 @@ daxL@@IdfYffX@@	2,3,4-Pentanetrione
 fncqRBLAcAFRu@DQdoYIHUEDdeldhiiuoKT@@@ULp@@@	Sulfanitran
 daxL`HS@|DjWZjh@@	Diethylphosphite
 fdiIbBFRTzEo@b@\rTFUymY^cCNjj`BJh@@	DMTMM
+f`~@@@DkUUUUZjjjj@@	Hexadecene
 gGQhHlOAJejh@	Dimethylphosphite
 f`qAb@HHpCpRi^YU_Sk^jh@@@@@@	Diphenylphosphite
 dedL`HS@|DjWfjjj@@	Diisopropylphosphite
@@ -15202,4 +15207,7 @@ fe{@q@HHqdmPADPcIIKEEEEiEOHkIHudkP@PETKUP@@@	Dibudinic acid
 ehTTNBBKOHDLLckg`@cXH~t@]CCgn~dF\ddlTRbrvTTTrVrd@dTL\jzfVV`@@bZXDBVB@HOH	Acid Red 13
 foAP@@@NRYWVUzLMZjjjjj@@	4,4-Diaminodicyclohexylmethane
 fighbBNNbVoQ`dBrOdfYYvvUU^YJs`ySVBAbB`XjXa@ADBt	Flunitrazolam
+eOBCpcfh@	Phosphirane
+eOBCpcfd@	Phosphirene
 daDD@@QIeZfZfh@@	Parasorbic acid
+ffcAP@@HuxnQQJIZJJJQYpeCV\EjjjijjZd@@	Matricin

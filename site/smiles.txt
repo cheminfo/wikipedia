@@ -1487,6 +1487,7 @@ Copper(II) chloride	[Cu+2].[Cl-].[Cl-]
 Tungsten trioxide	O=[W](=O)=O
 Nimesulide	[O-][N+](=O)c2cc(Oc1ccccc1)c(cc2)NS(=O)(=O)C
 Tetrabutylammonium hydroxide	[OH-].CCCC[N+](CCCC)(CCCC)CCCC
+Sodium acetate	[Na+].[O-]C(=O)C
 Flavin adenine dinucleotide	CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C5N=CN=C6N)O)O)O)O)O
 Hexetidine	CCCCC(CC)CN1CC(CN(C1)CC(CC)CCCC)(C)C
 Amobarbital	O=C1NC(=O)NC(=O)C1(CCC(C)C)CC
@@ -2065,7 +2066,10 @@ Pregabalin	O=C(O)C[C@H](CC(C)C)CN
 Pentobarbital	O=C1NC(=O)NC(=O)C1(C(C)CCC)CC
 Trimipramine	c1cc3c(cc1)CCc2c(cccc2)N3CC(C)CN(C)C
 Benazepril	O=C(OCC)[C@@H](N[C@@H]2C(=O)N(c1ccccc1CC2)CC(=O)O)CCc3ccccc3
+Betamethasone acetate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)F)C
+Betamethasone benzoate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)OC(=O)c5ccccc5)C)O)F)C
 Betamethasone dipropionate	O=C(OCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C)CC
+Betamethasone sodium phosphate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)([O-])[O-])O)C)O)F)C.[Na+].[Na+]
 Sodium propionate	[Na+].[O-]C(=O)CC
 Potassium propanoate	CCC(=O)[O-].[K+]
 Dimethyl sulfide	CSC
@@ -2502,7 +2506,7 @@ Ferrate(VI)	[O-][Fe]([O-])(=O)=O
 Sinigrin	C=CCC(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O.[K+]
 Amidol	Oc1ccc(N)cc1N
 Dyclonine	O=C(c1ccc(OCCCC)cc1)CCN2CCCCC2
-Calcium hypochlorite	[Ca+2].[O-]Cl.[O-]Cl
+Calcium hypochlorite	[Ca+2].[O-].Cl.[O-].Cl
 Acetaldehyde ammonia trimer	N1C(NC(NC1C)C)C
 Bosentan	CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc2c(c(nc(n2)c3ncccn3)OCCO)Oc4ccccc4OC
 Sodium sorbate	[Na+].[O-]C(=O)\C=C\C=C\C
@@ -7178,7 +7182,7 @@ SPhos	COc1cccc(c1c2ccccc2P(C3CCCCC3)C4CCCCC4)OC
 Norbinaltorphimine	C1CC1CN2CC[C@]34[C@@H]5C6=C(C[C@]3([C@H]2CC7=C4C(=C(C=C7)O)O5)O)C8=C(N6)[C@H]9[C@@]12CCN([C@@H]([C@@]1(C8)O)CC1=C2C(=C(C=C1)O)O9)CC1CC1
 XPhos	P(c2ccccc2c1c(cc(cc1C(C)C)C(C)C)C(C)C)(C3CCCCC3)C4CCCCC4
 Disiamylborane	B(C(C(C)C)C)C(C)C(C)C
-A-412,997	CC1=CC(NC(CN2CCC(C3=CC=CC=N3)CC2)=O)=CC=C1
+A-412997	CC1=CC(NC(CN2CCC(C3=CC=CC=N3)CC2)=O)=CC=C1
 Tert-Amyl alcohol	CCC(C)(C)O
 XF-73	C[N+](C)(C)CCCOC(C=C1)=CC=C1/C(C2=CC=C(/C=C3C=CC(/C(C4=CC=C(OCCC[N+](C)(C)C)C=C4)=C(N/5)/C=CC5=C\6)=N/3)N2)=C7N=C6C=C/7.[Cl-].[Cl-]
 Propylnorapomorphine	CCCN1CCC2=CC=CC3=C2C1CC4=C3C(=C(C=C4)O)O
@@ -15155,6 +15159,7 @@ Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
 Diethylphosphite	CCOP(O)OCC
 DMTMM	C[N+]1(CCOCC1)C2=NC(=NC(=N2)OC)OC.[Cl-]
+Hexadecene	CCCCCCCCCCCCCCC=C
 Dimethylphosphite	COP(O)OC
 Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
@@ -15202,4 +15207,7 @@ Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
 Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
 4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
+Phosphirane	C1PC1
+Phosphirene	C1=CP1
 Parasorbic acid	CC1OC(C=CC1)=O
+Matricin	CC1C2C(CC(=C3C=CC(C3C2OC1=O)(C)O)C)OC(=O)C
