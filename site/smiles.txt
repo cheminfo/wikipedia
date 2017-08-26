@@ -15210,4 +15210,5 @@ Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
 Phosphirane	C1PC1
 Phosphirene	C1=CP1
 Parasorbic acid	CC1OC(C=CC1)=O
-Matricin	CC1C2C(CC(=C3C=CC(C3C2OC1=O)(C)O)C)OC(=O)C
+Matricin	C[C@H]1[C@@H]2[C@H](CC(=C3C=C[C@@]([C@@H]3[C@H]2OC1=O)(C)O)C)OC(=O)C
+Phosphinane	C1CCPCC1
