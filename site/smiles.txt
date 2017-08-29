@@ -2064,6 +2064,7 @@ Butyramide	O=C(N)CCC
 Maltitol	OC[C@H](O)[C@@H](O)[C@]([C@H](O)CO)([H])O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
 Pregabalin	O=C(O)C[C@H](CC(C)C)CN
 Pentobarbital	O=C1NC(=O)NC(=O)C1(C(C)CCC)CC
+Methylprednisolone acetate	C[C@H]1CC2C3CC[C@@]([C@]3(C[C@@H](C2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)C)O
 Trimipramine	c1cc3c(cc1)CCc2c(cccc2)N3CC(C)CN(C)C
 Benazepril	O=C(OCC)[C@@H](N[C@@H]2C(=O)N(c1ccccc1CC2)CC(=O)O)CCc3ccccc3
 Betamethasone acetate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)F)C
@@ -2135,6 +2136,7 @@ Iodine heptafluoride	FI(F)(F)(F)(F)(F)F
 Quinethazone	O=S(=O)(c2c(Cl)cc1c(C(=O)NC(N1)CC)c2)N
 Pamidronic acid	O=P(O)(O)C(O)(CCN)P(=O)(O)O
 Beclometasone	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)Cl)C
+Dexamethasone acetate	C[C@@H]1CC2C3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)F)C
 Flunixin	CC1=C(C=CC=C1NC2=C(C=CC=N2)C(=O)O)C(F)(F)F
 Saquinavir	O=C(N)C[C@H](NC(=O)c1nc2c(cc1)cccc2)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN5[C@H](C(=O)NC(C)(C)C)C[C@@H]4CCCC[C@@H]4C5
 Isoprenaline	Oc1ccc(cc1O)C(O)CNC(C)C
@@ -3518,7 +3520,7 @@ Nitroxyl	N=O
 Dicarbon monoxide	[C]=C=O
 Benzo(c)cinnoline	C1=CC=C2C(=C1)C3=CC=CC=C3N=N2
 Hydrogen telluride	[TeH2]
-WIN 35428	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)F)C(=O)OC
+WIN-35428	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)F)C(=O)OC
 Hordenine	Oc1ccc(cc1)CCN(C)C
 Oxiconazole	Clc3ccc(/C(=N\OCc1ccc(Cl)cc1Cl)Cn2ccnc2)c(Cl)c3
 Triethyl orthoformate	CCOC(OCC)OCC
@@ -8226,6 +8228,7 @@ Triamcinolone benetonide	CC(CNC(=O)C1=CC=CC=C1)C(=O)OCC(=O)[C@@]23[C@@H](C[C@@H]
 Amanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Proamanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4CCC5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Clocortolone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)COC(=O)C(C)(C)C)C)O)Cl)C)F
+Dexamethasone acefurate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)OC(=O)C5=CC=CO5)C)O)F)C
 Epsilon-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)C)([H])N[C@@]4=O)=O
 Amanullinic acid	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Copper(I) hydroxide	[OH-].[Cu+]
@@ -14561,6 +14564,7 @@ Tetramethylurea	CN(C)C(=O)N(C)C
 Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
 Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
 Allopregnanediol	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C)O
+Dexamethasone phosphate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)(O)O)O)C)O)F)C
 Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
 Velneperit	CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
 Testosterone buciclate	CCCCC1CCC(CC1)C(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
