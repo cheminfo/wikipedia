@@ -10331,6 +10331,7 @@ Isobutyl cyanoacrylate	N#CC(=C)C(=O)OCC(C)C
 7,N,N-TMT	CC1=C(NC=C2CCN(C)C)C2=CC=C1
 4-MeO-DMT	CN(C)CCC1=CNC2=CC=CC(OC)=C21
 Dinaphthylene dioxide	O2c1cccc5c1c4c3c2ccc6c3c(Oc4cc5)ccc6
+Myricetin 3-O-rutinoside	CC1[C@@H]([C@@H](C([C@@H](O1)OCC2[C@H](C(C([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C(=C5)O)O)O)O)O)O)O)O)O
 2-Octyl cyanoacrylate	C=C(C#N)C(OC(C)CCCCCC)=O
 Glucogallin	CO[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC(=O)c2cc(c(c(c2)O)O)O)O)O)O
 Eugenin	O=C\1c2c(O/C(=C/1)C)cc(OC)cc2O
@@ -15223,3 +15224,5 @@ Panamesine	COC1=CC=C(C=C1)N2C[C@@H](OC2=O)CN3CCC(CC3)(C4=CC5=C(C=C4)OCO5)O
 Cloniprazepam	O=C1N(CC2CC2)C3=CC=C([N+]([O-])=O)C=C3C(C4=CC=CC=C4Cl)=NC1
 2,2'-Bipyrimidine	C1=CN=C(N=C1)C2=NC=CC=N2
 Yoda1	ClC1=C(CSC2=NN=C(C3=NC=CN=C3)S2)C(Cl)=CC=C1
+Pigment Yellow 12	CC(=O)C(C(=O)NC1=CC=CC=C1)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4)Cl)Cl
+Pigment Yellow 13	CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=C(C=C(C=C4)C)C)Cl)Cl)C
