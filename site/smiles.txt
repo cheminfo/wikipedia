@@ -11469,6 +11469,7 @@ WAY-161503	Clc1cc2NC(=O)C3CNCCN3c2cc1Cl
 SCH 900271	O=C1C=C(CCCC2(CC2)C)C(C(NC(N3)=O)=O)=C3O1
 Germanium tetrafluoride	[Ge+4].[F-].[F-].[F-].[F-]
 Germanium difluoride	F[Ge]F
+E-6837	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=CC4=C(C=C3)C(=CC=C4)Cl
 E-6801	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=C(N=C4N3C=CS4)Cl
 Ethyl protocatechuate	CCOC(=O)C1=CC(=C(C=C1)O)O
 Corosolic acid	O=C(O)[C@@]54[C@H](/C3=C/C[C@H]1[C@](CC[C@@H]2[C@]1(C)C[C@@H](O)[C@H](O)C2(C)C)(C)[C@]3(C)CC4)[C@@H](C)[C@H](C)CC5
@@ -12830,6 +12831,7 @@ Noroliveroline	C1CN[C@@H]2[C@H](C3=CC=CC=C3C4=C2C1=CC5=C4OCO5)O
 Vincoline	C[C@H]1[C@]23C[C@@](O1)([C@]4([C@@]5([C@H]2N(CC5)CC=C3)c6ccccc6N4)O)C(=O)OC
 Milataxel	O=C(OC(C)(C)C)N[C@@H](c1occc1)[C@@H](O)C(=O)O[C@@H]4C(=C3/[C@@H](O)C(=O)[C@]6([C@H]([C@H](OC(=O)c2ccccc2)[C@@](O)(C3(C)C)C4)[C@@]5(OC(=O)C)[C@H](OC5)C[C@@H]6OC(=O)CC)C)/C
 Polyfothine	CC1=C2C(=NC=C1)C3=CC(=C(C=C3C2=O)OC)OC
+Eburnamenine	CC[C@]12CCCN3[C@H]1c4c(c5ccccc5n4C=C2)CC3
 Eburnamine	CC[C@]12CCCN3[C@H]1C4=C(CC3)C5=CC=CC=C5N4[C@@H](C2)O
 Isooncodine	CC1=C2C(=C3C=C(C(=O)C=C3C2=O)OC)NC=C1
 Phakellistatin 13	C[C@H]([C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)NCC(=O)N3CCC[C@H]3C(=O)N1)CC4=CC=CC=C4)CC5=CNC6=CC=CC=C65)CC(C)C)O
@@ -15230,6 +15232,7 @@ Phosphoryl chloride difluoride	O=P(F)(F)Cl
 PF-04958242	CC(C)S(=O)(=O)N[C@H]1COC[C@H]1OC2=CC=C(C=C2)C3=CC=C(S3)C#N
 Mibampator	C[C@@H](CNS(=O)(=O)C(C)C)C1=CC=C(C=C1)C2=CC=C(C=C2)CCNS(=O)(=O)C
 Tulrampator	C1CC1N2COC3=C(C2=O)C=C4C(=C3)C(=O)N(N=N4)CCC5=CC(=CC=C5)F
+2,4-Dibromophenol	c1cc(c(cc1Br)Br)O
 Foliglurax	C1COCCN1CCCC2=CC3=C(C=C2)OC(=C4C=C5C(=CN4)C=CS5)C=C3N=O
 Solriamfetol	C1=CC=C(C=C1)C[C@H](COC(=O)N)N
 Ralaniten	CC(C)(C1=CC=C(C=C1)OC[C@@H](CO)O)C2=CC=C(C=C2)OC[C@@H](CCl)O
