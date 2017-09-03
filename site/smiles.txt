@@ -15209,6 +15209,7 @@ Tellimagrandin I	C1C2C(C(C(C(O2)O)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C
 1,4-Butane sultone	C1CCS(=O)(=O)OC1
 Naphthol AS	C1=CC=C(C=C1)NC(=O)C2=CC3=CC=CC=C3C=C2O
 3-Hydroxy-2-naphthoic acid	C1=CC=C2C=C(C(=CC2=C1)C(=O)O)O
+ADA (buffer)	C(C(=O)N)N(CC(=O)O)CC(=O)O
 Spirotetramat	CCOC(=O)OC1=C(C(=O)NC12CCC(CC2)OC)C3=C(C=CC(=C3)C)C
 Dibenzoxepin	C1=CC=C2C(=C1)C=C3C=CC=CC3=CO2
 Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
@@ -15232,7 +15233,9 @@ Phosphoryl chloride difluoride	O=P(F)(F)Cl
 PF-04958242	CC(C)S(=O)(=O)N[C@H]1COC[C@H]1OC2=CC=C(C=C2)C3=CC=C(S3)C#N
 Mibampator	C[C@@H](CNS(=O)(=O)C(C)C)C1=CC=C(C=C1)C2=CC=C(C=C2)CCNS(=O)(=O)C
 Tulrampator	C1CC1N2COC3=C(C2=O)C=C4C(=C3)C(=O)N(N=N4)CCC5=CC(=CC=C5)F
+Eprinomectin	CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC(=O)C)OC)OC)\C)C
 2,4-Dibromophenol	c1cc(c(cc1Br)Br)O
 Foliglurax	C1COCCN1CCCC2=CC3=C(C=C2)OC(=C4C=C5C(=CN4)C=CS5)C=C3N=O
 Solriamfetol	C1=CC=C(C=C1)C[C@H](COC(=O)N)N
 Ralaniten	CC(C)(C1=CC=C(C=C1)OC[C@@H](CO)O)C2=CC=C(C=C2)OC[C@@H](CCl)O
+Dipropyl peroxydicarbonate	CCCOC(=O)OOC(=O)OCCC
