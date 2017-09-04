@@ -222,6 +222,7 @@ Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
 Chloroform	ClC(Cl)Cl
+Paracetamol	CC(=O)Nc1ccc(O)cc1
 Sulfate	[O-]S(=O)(=O)[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
@@ -14072,7 +14073,7 @@ NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
 5-oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
 Diapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)C2=C(C(=CC(=C2)C(=O)C)OC)O
 1,6-Methano(10)annulene	c1ccc2ccccc(c1)C2
-Pentaheptafulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
+Sesquifulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
 Phosphoramide	NP(=O)(N)N
 Calicene	C1(C=CC=C1)=C2C=C2
 Cyclopropenone	c1cc1=O
