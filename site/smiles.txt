@@ -8119,7 +8119,7 @@ Immethridine	C1=CN=CC=C1CC2=CN=CN2
 VUF-8430	NC(=N)NCCSC(N)=N
 NNC 38-1049	Clc1ccc(cc1)C(=O)CCC(=O)N3CCN(C2CCCC2)CC3
 JNJ-5207852	O(c1ccc(cc1)CN2CCCCC2)CCCN3CCCCC3
-Pitolisant	Clc1ccc(cc1)CCCOCCCN2CCCCC2
+Pitolisant	C1CCN(CC1)CCCOCCCC2=CC=C(C=C2)Cl
 Gabaculine	O=C(O)\C1=C\C=C/C(N)C1
 Nipecotic acid	C1CC(CNC1)C(=O)O
 Phaclofen	C1=CC(=CC=C1C(CN)CP(=O)(O)O)Cl
@@ -11426,7 +11426,7 @@ Apixaban	O=C5N(c4ccc(N3C(=O)c1c(c(nn1c2ccc(OC)cc2)C(=O)N)CC3)cc4)CCCC5
 LY-2183240	CN(C)C(=O)n1nnnc1Cc2ccc(cc2)-c3ccccc3
 Acifluorfen	Clc2cc(ccc2Oc1cc(C(=O)O)c([N+]([O-])=O)cc1)C(F)(F)F
 ORG-25435	COc1cc(C)cc(OC)c1OC(=O)C(CC)N(CCOC)CCOC
-Org 25935	O=C(O)CN(C)C[C@@H]2[C@@H](c1c(cc(OC)cc1)CC2)c3ccccc3
+ORG-25935	O=C(O)CN(C)C[C@@H]2[C@@H](c1c(cc(OC)cc1)CC2)c3ccccc3
 Mazapertine	O=C(N1CCCCC1)c2cc(ccc2)CN4CCN(c3ccccc3OC(C)C)CC4
 Propyl hexanoate	CCCCCC(=O)OCCC
 Miquelianin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
@@ -12469,6 +12469,7 @@ Sterpuric acid	OC12C(=C3CC(CC3CC1(CC2)C)(C(=O)O)C)C
 Leelamine	CC(C)c1ccc2c(c1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)CN)C
 5-EAPB	CC(NCC)CC1=CC(C=CO2)=C2C=C1
 Palbociclib	O=C2N(c1nc(ncc1/C(=C2/C(=O)C)C)Nc3ncc(cc3)N4CCNCC4)C5CCCC5
+Trifluoromethylsulfur pentafluoride	FC(F)(F)S(F)(F)(F)(F)F
 4-Caffeoyl-1,5-quinide	c1cc(c(cc1/C=C/C(=O)O[C@@H]2[C@@H](C[C@@]3(C[C@H]2OC3=O)O)O)O)O
 Plantazolicin	CC[C@H](C)[C@@H](c1nc(co1)c2nc(co2)c3nc(co3)c4nc(co4)C5=N[C@@H](C(O5)C)C(=O)N[C@@H](Cc6ccccc6)C(=O)O)NC(=O)C([C@@H](C)CC)NC(=O)c7c(oc(n7)c8c(oc(n8)c9csc(n9)c1c(oc(n1)c1csc(n1)[C@H](CCCNC(=N)N)N(C)C)C)C)C
 Cyclopropanetrione	O=C1C(=O)C1=O
@@ -15249,3 +15250,5 @@ Solriamfetol	C1=CC=C(C=C1)C[C@H](COC(=O)N)N
 Ralaniten	CC(C)(C1=CC=C(C=C1)OC[C@@H](CO)O)C2=CC=C(C=C2)OC[C@@H](CCl)O
 Dipropyl peroxydicarbonate	CCCOC(=O)OOC(=O)OCCC
 Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
+N-N-Propyl-3-(3-hydroxyphenyl)piperidine	CCCN1CCCC(C1)C2=CC(=CC=C2)O
+Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
