@@ -7707,6 +7707,7 @@ Conessine	C[C@H]1[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CC=C5[C@@]4(CC[C@@H](C5)N(C
 Niperotidine	CN(C)Cc1ccc(o1)CSCCN/C(=C\[N+](=O)[O-])NCc2cc3OCOc3cc2
 Diphenylethylenediamine	N[C@@H](c1ccccc1)[C@H](c2ccccc2)N
 Dacemazine	O=C(N1c3c(Sc2c1cccc2)cccc3)CN(C)C
+VUF-5681	C1CNCCC1CCCC2=CN=CN2
 Ammonium hexafluorophosphate	F[P-](F)(F)(F)(F)F.[NH4+]
 Sodium hexafluorophosphate	F[P-](F)(F)(F)(F)F.[Na+]
 Arsenic triiodide	I[As](I)I
@@ -15250,5 +15251,5 @@ Solriamfetol	C1=CC=C(C=C1)C[C@H](COC(=O)N)N
 Ralaniten	CC(C)(C1=CC=C(C=C1)OC[C@@H](CO)O)C2=CC=C(C=C2)OC[C@@H](CCl)O
 Dipropyl peroxydicarbonate	CCCOC(=O)OOC(=O)OCCC
 Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
-N-N-Propyl-3-(3-hydroxyphenyl)piperidine	CCCN1CCCC(C1)C2=CC(=CC=C2)O
+3-PPP	CCCN1CCCC(C1)C2=CC(=CC=C2)O
 Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
