@@ -8224,7 +8224,7 @@ Diazonaphthoquinone	O=C(C(C=C2)=[N]=[N])C1=C2C=CC=C1
 P-Chlorocresol	Oc1ccc(Cl)c(C)c1
 N-Nitroso-N-methylurea	CN(N=O)C(N)=O
 Neratinib	O=C(/C=C/CN(C)C)Nc4cc1c(ncc(C#N)c1Nc3ccc(OCc2ncccc2)c(Cl)c3)cc4OCC
-Alazocine	C[C@H]1[C@H]2CC3=C([C@@]1(CCN2CC=C)C)C=C(C=C3)O
+Alazocine	CC1C2CC3=C(C1(CCN2CC=C)C)C=C(C=C3)O
 Tasimelteon	CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2
 Triamcinolone furetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)COC(=O)C5=CC6=CC=CC=C6O5)CCC7=CC(=O)C=C[C@@]73C)F)O
 Triamcinolone benetonide	CC(CNC(=O)C1=CC=CC=C1)C(=O)OCC(=O)[C@@]23[C@@H](C[C@@H]4[C@@]2(C[C@@H]([C@]5([C@H]4CCC6=CC(=O)C=C[C@@]65C)F)O)C)OC(O3)(C)C
@@ -13826,6 +13826,7 @@ Molybdenum ditelluride	[Te]=[Mo]=[Te]
 Dimethyl adipate	COC(=O)CCCCC(=O)OC
 Bisacurone	C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@@](C=C1)(C)O)O
 Fluorotriiodomethane	C(F)(I)(I)I
+Alcohol (drug)	CCO
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
 Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
@@ -14894,7 +14895,7 @@ Ralimetinib	C12C(=CC=C(N=1)C1=C(N=C(N1)C(C)(C)C)C1C=CC(=CC=1)F)N=C(N2CC(C)(C)C)N
 Galunisertib	N1=CC=C(C2=CC(=CC=C12)C(=O)N)C1=C2N(N=C1C1C=CC=C(N=1)C)CCC2
 Tris(trimethylsilyl)amine	C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
 Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
-Alcohol (medical use)	CCO
+Alcohol (medicine)	CCO
 Opicapone	CC1=[N+]([O-])C(Cl)=C(C2=NOC(C3=CC([N+]([O-])=O)=C(O)C(O)=C3)=N2)C(C)=C1Cl
 Lorlatinib	C[C@H]1Oc2cc(cnc2N)c3c(CN(C)C(=O)c4ccc(F)cc14)nn(C)c3C#N
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
@@ -15255,3 +15256,4 @@ Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
 Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
 Norclomipramine	CNCCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
 Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
+DPDPE	CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C
