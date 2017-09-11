@@ -13714,7 +13714,7 @@ PPPA (drug)	c1ccc(cc1)C(CCN)Oc2ccccc2
 N-Methyl-PPPA	CNCCC(Oc1ccccc1)c2ccccc2
 Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CO)OP(=O)(O)OP(=O)(O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)NC(=O)C
 Cyanoform	C(#N)C(C#N)C#N
-Finafloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C(=C32)C#N)N4C[C@H]5[C@H](C4)OCCN5)F)C(=O)O
+Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 7,8-Dihydroxyflavone	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
@@ -15256,4 +15256,5 @@ Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
 Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
 Norclomipramine	CNCCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
 Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
+Triethyltin	CC[Sn](CC)CC
 DPDPE	CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C
