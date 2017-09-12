@@ -9790,7 +9790,7 @@ ORG-21465	O=S(=O)(OCC(=O)[C@H]5CC[C@@H]1[C@]5(C)CC(=O)[C@H]3[C@H]1CC[C@H]4C[C@H]
 5-Fluoro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)F
 Eritoran	CCCCCCCCCCCC(=O)CC(=O)NC1C(C(C(OC1OP(=O)(O)O)COC2C(C(C(C(O2)COC)OP(=O)(O)O)OCCC(CCCCCCC)OC)NC(=O)CCCCCCCCCC=CCCCCCC)O)OCCCCCCCCCC
 Cephaeline	CC[C@H]1CN2CCc3cc(c(cc3[C@@H]2C[C@@H]1C[C@@H]4c5cc(c(cc5CCN4)O)OC)OC)OC
-Org 37,684	O(c1c(OC)ccc2c1CCC2)[C@H]3CCNC3
+ORG-37684	O(c1c(OC)ccc2c1CCC2)[C@H]3CCNC3
 Myrcenol	C=CC(=C)CC\C=C(\C)CO
 Fenclofenac	OC(=O)Cc1ccccc1Oc2ccc(Cl)cc2Cl
 Ethylenetetracarboxylic dianhydride	O=C(C(C(O2)=O)=C1C2=O)OC1=O
@@ -10814,7 +10814,7 @@ Diphenyldichloromethane	c1ccc(cc1)C(c2ccccc2)(Cl)Cl
 GSK1360707F	COC[C@@]12C[C@@]1(CCNC2)c3ccc(c(c3)Cl)Cl
 Tetraphenylethylene	c1ccc(cc1)C(=C(c2ccccc2)c3ccccc3)c4ccccc4
 Sodium bisulfite	[Na+].[O-]S(=O)O
-Org 12962	C2CNCCN2c(nc1Cl)ccc1C(F)(F)F
+ORG-12962	C2CNCCN2c(nc1Cl)ccc1C(F)(F)F
 D-161	Oc2ccc(cc2)CNC(CC3)COC3C(c1ccccc1)c4ccccc4
 Tributyltin azide	CCCC[Sn](CCCC)(CCCC)N=[N+]=[N-]
 BRL-32872	[O-][N+](=O)c1ccc(cc1)C(=O)N(c2cc(OC)c(OC)cc2)CCCN(CCc3ccc(OC)c(OC)c3)C
@@ -15256,5 +15256,9 @@ Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
 Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
 Norclomipramine	CNCCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
 Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
+Γ-Octalactone	CCCCC1CCC(=O)O1
+4-Mercapto-4-methyl-2-pentanone	CC(=O)CC(C)(C)S
 Triethyltin	CC[Sn](CC)CC
 DPDPE	CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C
+Pirenperone	CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F
+Triazoledione	C1CN(CCN1CCCN2C(=O)N(C(=O)N2)CCOC3=CC=CC=C3)C4=CC(=CC=C4)Cl
