@@ -2571,7 +2571,7 @@ Scandium(III) trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(
 Cocamidopropyl betaine	CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC([O-])=O
 Dimethylglyoxime	C\C(=N\O)\C(\C)=N\O
 Iproniazid	O=C(NNC(C)C)c1ccncc1
-Novobiocin	C[C@@]4(C)O[C@@H](Oc3ccc2C(\O)=C(\NC(=O)c1ccc(O)c(C\C=C(/C)C)c1)C(=O)Oc2c3C)[C@H](O)[C@H](OC(N)=O)[C@H]4OC
+Novobiocin	CC(C)=CCc1c(O)ccc(c1)C(=O)NC=2C(=O)Oc3c(C2O)ccc(c3C)O[C@@H]4OC(C)(C)[C@H](OC)[C@H]([C@H]4O)OC(=O)N
 Mitomycin C	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N
 Retene	Cc1cccc3c1ccc2cc(C(C)C)ccc23
 Ethylenediamine	NCCN
@@ -12643,7 +12643,7 @@ Clavanin B	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC1=CN=CN1)C(=
 Gymnochrome E	CCC[C@H](Cc1c2c3c(c(c(c4c3c5c6c(c(cc(c6c4=O)O)O)c7c(cc(c8c7c5c2c(c8=O)c(c1Br)O)O)O)O)Br)C[C@H](C)O)O
 Arylomycin A2	C[C@H]1C(=O)N[C@@H](Cc2ccc(c(c2)-c3cc(ccc3O)[C@@H](C(=O)N1)N(C)C(=O)CNC(=O)[C@@H](C)NC(=O)[C@@H](CO)N(C)C(=O)C)O)C(=O)O
 Avibactam	[C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
-Nemonoxacin	C[C@H]1C[C@@H](CN(C1)c2ccc3c(c2OC)n(cc(c3=O)C(=O)O)C4CC4)N
+Nemonoxacin	C[C@H]1C[C@H](N)CN(C1)c2ccc3c(c2OC)n(C4CC4)cc(c3=O)C(=O)O
 Omadacycline	CC(C)(C)CNCc1cc(c2c(c1O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)N(C)C
 Plazomicin	CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3OC(=CC[C@H]3N)CNCCO)[C@@H](N)C[C@H]2NC(=O)[C@@H](O)CCN)OC[C@]1(C)O
 Sutezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(c(c2)F)N3CCSCC3
@@ -15229,6 +15229,7 @@ Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
 Direct Blue 15	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)NN=C3C(=CC4=CC(=CC(=C4C3=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-])OC)NN=C5C(=CC6=CC(=CC(=C6C5=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
 Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
+Dimethyloctadecyl(3-trimethoxysilylpropyl)ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCC[Si](OC)(OC)OC
 4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
 Phosphirane	C1PC1
