@@ -13453,6 +13453,7 @@ Coelogin	COC1=C(C(=C2COC3=C4C2=C1CCC4=CC(=C3)O)O)OC
 Coeloginin	c4c1CCc3c2c1c(cc4O)oc(=O)c2c(O)c(OC)c3OC
 Juncusol	CC1=C(C=CC2=C1CCC3=CC(=C(C(=C32)C=C)C)O)O
 Coeloginanthrin	Oc3cc(O)c2c1c(c(OC)c(OC)c(O)c1)ccc2c3
+Alcohol (drug)	CCO
 Confusarin	COc3c2c(ccc1c(OC)c(O)ccc12)cc(O)c3OC
 Benzamidenafil	COC1=C(OC)C=C(CNC(=O)C2=CC(=CC=C2NC(C)CO)[N+]([O-])=O)C=C1
 Iminosuccinic acid	C(C(=N)C(=O)O)C(=O)O
@@ -13828,7 +13829,6 @@ Molybdenum ditelluride	[Te]=[Mo]=[Te]
 Dimethyl adipate	COC(=O)CCCCC(=O)OC
 Bisacurone	C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@@](C=C1)(C)O)O
 Fluorotriiodomethane	C(F)(I)(I)I
-Alcohol (drug)	CCO
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
 Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
