@@ -738,7 +738,6 @@ Acetone peroxide	CC1(C)OOC(C)(C)OO1
 Acetone peroxide	CC1(C)OOC(C)(C)OOC(C)(C)OO1
 Beta-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Strontium titanate	[Sr++].[O-][Ti]([O-])=O
-Sulfur trioxide	O=S(=O)=O
 Alpha-Carotene	C\C2=C\CCC(C)(C)C2/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Brompheniramine	Brc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
@@ -4798,6 +4797,7 @@ Nalmefene	OC(C1=C2[C@@]34[C@H]5O1)=CC=C2C[C@@H](N(CC4)CC6CC6)[C@]3(O)CCC5=C
 Histrelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CN(C=N2)CC3=CC=CC=C3)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CNC=N7)NC(=O)[C@@H]8CCC(=O)N8
 Cyclooctadiene rhodium chloride dimer	Cl[Rh].Cl[Rh].C=1CC\C=C/CCC=1.C/1C\C=C/CC\C=C\1
 Strontium carbonate	[Sr+2].[O-]C([O-])=O
+3,5-Xylidine	Cc1cc(cc(c1)N)C
 3,4-Xylidine	Cc1ccc(N)cc1C
 2,6-Xylidine	Nc1c(cccc1C)C
 2,5-Xylidine	Cc1ccc(C)c(N)c1
@@ -14102,6 +14102,7 @@ Propadienone	C=C=C=O
 Propadienone	C=[C-]C#[O+]
 Propynal	C#CC=O
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
+2,3-Xylidine	Cc1cccc(c1C)N
 3-Methylfuran	CC1=COC=C1
 Cyclononatetraene	C\1/C=C\C=C/C=C\C=C1
 Pregna-4,20-dien-3,6-dione	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C=C)CC(=O)C4=CC(=O)CC[C@]34C
@@ -14901,7 +14902,6 @@ Ralimetinib	C12C(=CC=C(N=1)C1=C(N=C(N1)C(C)(C)C)C1C=CC(=CC=1)F)N=C(N2CC(C)(C)C)N
 Galunisertib	N1=CC=C(C2=CC(=CC=C12)C(=O)N)C1=C2N(N=C1C1C=CC=C(N=1)C)CCC2
 Tris(trimethylsilyl)amine	C[Si](C)(C)N([Si](C)(C)C)[Si](C)(C)C
 Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(CC1)C1=C2[C@H](C)C[C@@H](O)C2=NC=N1)C1=CC=C(Cl)C=C1
-Alcohol (medicine)	CCO
 Opicapone	CC1=[N+]([O-])C(Cl)=C(C2=NOC(C3=CC([N+]([O-])=O)=C(O)C(O)=C3)=N2)C(C)=C1Cl
 Lorlatinib	C[C@H]1Oc2cc(cnc2N)c3c(CN(C)C(=O)c4ccc(F)cc14)nn(C)c3C#N
 Gandotinib	C12C(=CC(=NN1C(=C(N=2)C)CC1C(=CC(=CC=1)Cl)F)NC1=NNC(=C1)C)CN1CCOCC1
