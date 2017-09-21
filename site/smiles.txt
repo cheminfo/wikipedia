@@ -6488,7 +6488,7 @@ Camptothecin	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(cc3C4)cccc5
 N-Nitrosodiethylamine	CCN(CC)N=O
 Merocyanine	CCCCN1C(=O)C(=C/C=C/C=C\2/N(c3ccccc3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=O)CCCC.[Na+]
 Isomaltol	O=C(c1occc1O)C
-1,5-Pentanediol	C(CCO)CCO
+1,5-Pentanediol	OCCCCCO
 Uranyl formate	O=CO.O=CO.O=[U]=O
 Lactaldehyde	O=CC(O)C
 Benzocyclobutadiene	C12=CC=CC=C1C=C2
@@ -15275,3 +15275,4 @@ Oritin	C1C(C(OC2=C1C=CC(=C2O)O)C3=CC=C(C=C3)O)O
 4-Fluorophenibut	C1=CC(=CC=C1C(CC(=O)O)CN)F
 Imepitoin	C1COCCN1C2=NC(=O)N(C2)C3=CC=C(C=C3)Cl
 Ortho-Methylphenylpiperazine	CC1=CC=CC=C1N2CCNCC2
+Lithium hexafluorogermanate	[Li+].[Li+].F[Ge-2](F)(F)(F)(F)F
