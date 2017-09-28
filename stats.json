@@ -940,5 +940,6 @@
 {"date":"2017-09-24T04:07:11.595Z","molecules":15279,"errors":432,"nogood":335,"notfound":2193,"dup":581},
 {"date":"2017-09-25T03:40:40.414Z","molecules":15280,"errors":432,"nogood":335,"notfound":2195,"dup":581},
 {"date":"2017-09-26T03:41:32.173Z","molecules":15280,"errors":432,"nogood":335,"notfound":2195,"dup":581},
-{"date":"2017-09-27T03:40:02.997Z","molecules":15284,"errors":432,"nogood":335,"notfound":2192,"dup":581}
+{"date":"2017-09-27T03:40:02.997Z","molecules":15284,"errors":432,"nogood":335,"notfound":2192,"dup":581},
+{"date":"2017-09-28T03:40:15.895Z","molecules":15294,"errors":424,"nogood":328,"notfound":2192,"dup":581}
 ]

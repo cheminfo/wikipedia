@@ -3916,6 +3916,7 @@ Triethyloxonium tetrafluoroborate	F[B-](F)(F)F.CC[O+](CC)CC
 Posaconazole	O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OCC3C[C@@](OC3)(c4ccc(F)cc4F)Cn5ncnc5)cc6)CC7)[C@@H](CC)[C@@H](O)C
 Lopinavir	O=C(N[C@@H](Cc1ccccc1)[C@@H](O)C[C@@H](NC(=O)[C@@H](N2C(=O)NCCC2)C(C)C)Cc3ccccc3)COc4c(cccc4C)C
 Cetrimonium chloride	CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+Sulfathiazole	O=S(=O)(Nc1nccs1)c2ccc(N)cc2
 Thallium azide	[Tl+].[N-]=[N+]=[N-]
 Hypoglycin A	O=C(O)[C@@H](N)C[C@@H]1C(=C)C1
 Bifluoride	F[H][F-]
@@ -11021,6 +11022,7 @@ Imazapic	O=C(O)c1c(ncc(c1)C)/C2=N/C(C(=O)N2)(C(C)C)C
 Potassium salicylate	[K+].O=C([O-])c1ccccc1O
 Picramic acid	c1c(cc(c(c1N)O)[N+](=O)[O-])[N+](=O)[O-]
 Ferric ammonium oxalate	[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O.[NH4+].[NH4+].[NH4+]
+Cinnamtannin B1	Oc1cc(O)c2c(c1)O[C@@]1([C@@H]([C@H]2c2c(O1)cc(c1c2O[C@H](c2ccc(c(c2)O)O)[C@@H]([C@H]1c1c(O)cc(c2c1O[C@@H]([C@@H](C2)O)c1ccc(c(c1)O)O)O)O)O)O)c1ccc(c(c1)O)O
 Danielone	COC1=CC(=CC(=C1O)OC)C(=O)CO
 Actinium(III) oxide	[O--].[O--].[O--].[Ac+3].[Ac+3]
 Cadmium stearate	[Cd+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
@@ -12384,6 +12386,7 @@ Glucuronamide	C(=O)[C@@H]([C@H]([C@@H]([C@@H](C(=O)N)O)O)O)O
 Trenbolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Forasartan	CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
 ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
+Mezerein	OC[C@]12O[C@H]1[C@H]1[C@H]3O[C@]4(O[C@]1([C@H]1[C@@]([C@@H]2O)(O)C(=O)C(=C1)C)[C@@H]([C@H]([C@@]3(O4)C(=C)C)OC(=O)/C=C/C=C/c1ccccc1)C)c1ccccc1
 Delamanid	FC(F)(F)Oc5ccc(OC4CCN(c3ccc(OC[C@@]2(Oc1nc(cn1C2)[N+]([O-])=O)C)cc3)CC4)cc5
 O-1602	CC1=C[C@@H](C2=C(C)C=C(O)C=C2O)[C@H](C(C)=C)CC1
 O-1918	CC1=C[C@@H](C2=C(OC)C=C(C)C=C2OC)[C@H](C(C)=C)CC1
@@ -13253,6 +13256,7 @@ Monacolin J	C[C@@H]1C[C@H](O)[C@@H]2[C@@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H](C)
 Glufosfamide	C(CCl)NP(=O)(NCCCl)OC1C(C(C(C(O1)CO)O)O)O
 Balanophotannin D	C1[C@@H](C2=C(C1=O)OC(=O)C3=CC(=C(C(=C32)O)O)O)C(=O)OC[C@@H]4[C@H]([C@@H]([C@H]([C@@H](O4)OC(=O)/C=C/C5=CC(=C(C=C5)O)O)O)O)O
 Juglanin	OCC(O1)C(O)C(O)C1OC(C(=O)2)=C(c(c4)ccc(O)c4)Oc(c3)c(c(O)cc(O)3)2
+Pigment Yellow 16	Clc1cc(Cl)ccc1/N=N/C(C(=O)C)C(=O)Nc2ccc(cc2C)-c3cc(C)c(cc3)NC(=O)C(C(=O)C)/N=N/c4ccc(Cl)cc4Cl
 Carboxycyclophosphamide	C(COP(=O)(N)N(CCCl)CCCl)C(=O)O
 Taxillusin	Oc1cc(cc(O)c1O)C(=O)OC[C@H]5O[C@@H](O[C@H]2C(=O)c4c(O)cc(O)cc4O[C@@H]2c3ccc(O)c(O)c3)[C@H](O)[C@@H](O)[C@@H]5O
 Acetoacetanilide	CC(=O)CC(=O)NC1=CC=CC=C1
@@ -14013,6 +14017,7 @@ Jiadifenolide	O=C1OC[C@@]2(C)[C@@]3(OC4=O)[C@@]([C@H](C)CC3)([C@]4(O)O5)C[C@]5([
 Sandalore	CC1=CCC(C1(C)C)CCC(C)C(C)O
 D5SICS	OCC3OC(N2C=Cc1cc(ccc1C2=S)C)CC3(O)
 D5SICS	Cc1ccc2c(c1)ccn(c2=S)[C@H]3C[C@@H]([C@H](O3)CO)O
+Tetramethyldiborane	C[B]1(C)[H][B](C)(C)[H]1
 Pachymic acid	CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O
 Pelargonin	c1cc(ccc1c2c(cc3c([o+]2)cc(cc3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O
 3,3,4,4-Tetramethyltetrahydrofuran	CC1(C)COCC1(C)C
@@ -14035,7 +14040,9 @@ Ulimorelin	C[C@@H]1CN[C@H](C(=O)N([C@@H](C(=O)N[C@@H](C(=O)NCCCC2=CC=CC=C2O1)CC3
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
 1P-LSD	CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3cn(C(=O)CC)c4cccc(C2=C1)c34
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
+Trimethyldiborane	C[B]1(C)[H][BH](C)[H]1
 Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
+Methyldiborane	C[BH]1[H][BH2][H]1
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
 20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
@@ -15282,3 +15289,6 @@ Metanil Yellow	C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)[O-].[Na+]
 Amesergide	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)NC4CCCCC4)C5=C2C1=CC=C5
 Neohexene	CC(C)(C)C=C
 Decernotinib	CC[C@](C)(C(=O)NCC(F)(F)F)NC1=NC(=NC=C1)C2=CNC3=C2C=CC=N3
+Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
+1,5-Hexadiene	C=CCCC=C
+Perlapine	CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42
