@@ -3774,6 +3774,7 @@ Perindopril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCCC[C@H]12)C)CCC
 Allylamine	C=CCN
 Sodium methoxide	[Na+].[O-]C
 Trichloroisocyanuric acid	ClN1C(=O)N(Cl)C(=O)N(Cl)C1=O
+Methylcobalamin	[CH3-].CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co+3]
 Tetrahydroharmol	CC1C2=C(CCN1)C3=C(N2)C=C(C=C3)O
 Sulconazole	Clc1ccc(c(Cl)c1)C(SCc2ccc(Cl)cc2)Cn3ccnc3
 Estropipate	O=S(=O)(O)Oc1cc4c(cc1)[C@@H]3[C@H]([C@@H]2CCC(=O)[C@@]2(C)CC3)CC4.N1CCNCC1
@@ -6608,6 +6609,7 @@ Xantocillin	[C-]#[N+]C(=CC1=CC=C(C=C1)O)C(=CC2=CC=C(C=C2)O)[N+]#[C-]
 Adenosine 3',5'-bisphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)OP(=O)(O)O)O)N
 Dihydrobiopterin	CC(C(C1=NC2=C(NC1)NC(=NC2=O)N)O)O
 Vitamin B12	NC(=O)C[C@@]8(C)[C@H](CCC(N)=O)C=2/N=C8/C(/C)=C1/[C@@H](CCC(N)=O)[C@](C)(CC(N)=O)[C@@](C)(N1[Co+]C#N)[C@@H]7/N=C(C(\C)=C3/N=C(/C=2)C(C)(C)[C@@H]3CCC(N)=O)[C@](C)(CCC(=O)NCC(C)OP([O-])(=O)O[C@@H]6[C@@H](CO)O[C@H](n5cnc4cc(C)c(C)cc45)[C@@H]6O)[C@H]7CC(N)=O
+Cyanocobalamin	CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
 Barium bromide	[Ba+2].[Br-].[Br-]
 Bevirimat	CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)OC(=O)CC(C)(C)C(=O)O)C)C(=O)O
 Nealbarbital	O=C1NC(=O)NC(=O)C1(CC(C)(C)C)C\C=C
@@ -6731,7 +6733,8 @@ Dienogest	C[C@]12CCC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(CC#N)O
 Magnesium citrate (3:2)	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Mg].[Mg].[Mg]
 2-Heptanone	O=C(C)CCCCC
 Imidazolidinyl urea	O=C2N(CO)C(NC(=O)NCNC(=O)NC1C(=O)NC(=O)N1CO)C(=O)N2
-Cyclooctene	C\1=C\CCCCCC/1
+Trans-Cyclooctene	C1CCC/C=C/CC1
+Cis-Cyclooctene	C\1=C\CCCCCC/1
 Orcinol	CC1=CC(=CC(=C1)O)O
 Β-Santalol	C/C(CO)=C\CCC2(C)C(=C)C1CC2CC1
 Α-Santalol	C/C(CO)=C\CCC3(C)C1CC2C(C1)C23C
