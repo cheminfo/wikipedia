@@ -3299,7 +3299,7 @@ Pinazepam	Clc3cc\1c(N(C(=O)C/N=C/1c2ccccc2)CC#C)cc3
 Ketazolam	ClC1=CC2=C(N(C)C(CN3C(C=C(C)OC32C4=CC=CC=C4)=O)=O)C=C1
 Camazepam	ClC1=CC2=C(C=C1)N(C)C(C(N=C2C3=CC=CC=C3)OC(N(C)C)=O)=O
 2-Undecanone	O=C(CCCCCCCCC)C
-ThioTEPA	S=P(N1CC1)(N2CC2)N3CC3
+Thiotepa	S=P(N1CC1)(N2CC2)N3CC3
 Bafilomycin	O[C@@]1(C[C@@H](O)[C@H](C)[C@H](O1)C(C)C)[C@@H](C)[C@H](O)[C@H](C)[C@H]2OC(=O)C(\OC)=C\C(\C)=C\[C@@H](C)[C@@H](O)[C@H](C)CC(\C)=C\C=C\[C@@H]2OC
 Bafilomycin	C[C@H]1C/C(=C/C=C/[C@@H]([C@H](OC(=O)/C(=C/C(=C/[C@H]([C@H]1O)C)/C)/OC)[C@@H](C)[C@H]([C@H](C)[C@]2(C[C@H]([C@@H]([C@H](O2)C(C)C)C)O)O)O)OC)/C
 Isometheptene	CNC(C)CCC=C(C)C
@@ -4114,7 +4114,6 @@ Etoperidone	Clc3cccc(N2CCN(CCCN1/N=C(\N(C1=O)CC)CC)CC2)c3
 Betulinic acid	O=C(O)[C@@]54[C@@H]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)[C@@H](O)CC2)CC3)C)(C)CC4)[C@H](C(=C)C)CC5
 Pendimethalin	CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
 Dichlorvos	O=P(O\C=C(/Cl)Cl)(OC)OC
-Methorphan	CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
 Phenoxyethanol	c1ccc(cc1)OCCO
 Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@H](C4)O)C
 Neurotensin	CC[C@H](C)[C@@H](/C(=N/[C@@H](CC(C)C)C(=O)O)/O)/N=C(/[C@H](Cc1ccc(cc1)O)/N=C(/[C@@H]2CCCN2C(=O)[C@H](CCCNC(=N)N)/N=C(/[C@H](CCCNC(=N)N)/N=C(/[C@@H]3CCCN3C(=O)[C@H](CCCCN)/N=C(/[C@H](CC(=N)O)/N=C(/[C@H](CCC(=O)O)/N=C(/[C@H](Cc4ccc(cc4)O)/N=C(\[C@H](CC(C)C)/N=C(\[C@@H]5CCC(=N5)O)/O)/O)\O)\O)\O)\O)\O)\O)\O
