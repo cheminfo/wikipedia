@@ -506,7 +506,7 @@ Sevoflurane	FC(F)(F)C(OCF)C(F)(F)F
 Carbamoyl phosphate	C(=O)(N)OP(=O)(O)O
 Creatine	CN(CC(O)=O)C(N)=N
 Kepone	ClC54C(=O)C1(Cl)C2(Cl)C5(Cl)C3(Cl)C4(Cl)C1(Cl)C2(Cl)C3(Cl)Cl
-Anastrozole	N#CC(c1cc(cc(c1)C(C#N)(C)C)Cn2ncnc2)(C)C
+Anastrozole	N#CC(C)(C)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N
 Dexamethasone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@H]3C)C)C
 Mesitylene	Cc1cc(cc(c1)C)C
 Digoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
@@ -943,7 +943,7 @@ Gamma-Linolenic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/CCCCC
 Pyran	C1=CC=CCO1
 Pyran	C1=CCC=CO1
 Chlorpyrifos	Clc1c(OP(=S)(OCC)OCC)nc(Cl)c(Cl)c1
-Fluconazole	Fc1ccc(c(F)c1)C(O)(Cn2ncnc2)Cn3ncnc3
+Fluconazole	Fc1cc(F)ccc1C(O)(Cn2cncn2)Cn3cncn3
 5-MeO-aMT	N[C@@H](C)CC1=CNC(C=C2)=C1C=C2OC
 Cefazolin	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cn3nnnc3)CSc4nnc(s4)C)C(=O)O
 Perfluorooctanoic acid	FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
@@ -1102,7 +1102,7 @@ Retinal	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C
 Bleomycin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H](C(C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O
 Potassium iodide	[K+].[I-]
 Ammonium lauryl sulfate	[O-]S(=O)(=O)OCCCCCCCCCCCC.[NH4+]
-Mannitol	OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+Mannitol	O[C@H]([C@H](O)CO)[C@H](O)[C@H](O)CO
 Thiocyanate	[S-]C#N
 Lipoxin	O=C(O)CCC[C@H](O)/C=C/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCCC
 Cimetidine	N#CN=C(NC)NCCSCc1nc[nH]c1CN#CN\C(=N/C)NCCSCc1nc[nH]c1C
@@ -6973,7 +6973,6 @@ Cinchonine	n2c1c(cccc1)c(cc2)[C@H](O)[C@H]3N4CC[C@@H](C3)[C@@H](C=C)C4
 Benidipine	[O-][N+](=O)c1cccc(c1)[C@@H]4C(/C(=O)OC)=C(\N\C(=C4\C(=O)O[C@@H]3CCCN(Cc2ccccc2)C3)C)C
 Gapicomine	n1ccc(cc1)CNCc2ccncc2
 Linsidomine	C1COCCN1[N+]2=NOC(=C2)[NH-]
-Cloridarol	C1=CC=C2C(=C1)C=C(O2)C(C3=CC=C(C=C3)Cl)O
 Cinepazet	CCOC(=O)CN1CCN(CC1)C(=O)\C=C\c2cc(OC)c(OC)c(OC)c2
 Efloxate	CCOC(=O)COc1ccc2c(=O)cc(oc2c1)c3ccccc3
 Trapidil	CCN(CC)c1cc(nc2n1ncn2)C
@@ -10666,7 +10665,7 @@ Sulfoaildenafil	CCCc1c2c(c(=S)nc([nH]2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)
 Aildenafil	O=S(=O)(c3cc(C\1=N\C(=O)c2c(N/1)c(nn2C)CCC)c(OCC)cc3)N4C[C@H](N[C@@H](C)C4)C
 CGS-15943	ClC1=CC=C2N=C(N)N3N=C(C4=CC=CO4)N=C3C2=C1
 Curculigoside A	O=C(OCc2c(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)ccc(O)c2)c3c(OC)cccc3OC
-Epoxiconazole	c1ccc(c(c1)[C@@H]2[C@@](O2)(Cn3cncn3)c4ccc(cc4)F)Cl.c1ccc(c(c1)[C@H]2[C@](O2)(Cn3cncn3)c4ccc(cc4)F)Cl
+Epoxiconazole	Clc1ccccc1C2OC2(Cn3cncn3)c4ccc(F)cc4
 Dimethyl chlorendate	COC(=O)[C@H]1[C@H]([C@@]2(C(=C([C@]1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)OC
 Barium azide	[Ba+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 2,5-Bis(hydroxymethyl)furan	OCc1oc(cc1)CO
