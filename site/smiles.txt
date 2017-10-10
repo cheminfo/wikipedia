@@ -11429,6 +11429,7 @@ Tetrabarbital	O=C1NC(=O)NC(=O)C1(C(CC)CCC)CC
 Narceine	CN(C)CCC1=CC2=C(C(=C1CC(=O)C3=C(C(=C(C=C3)OC)OC)C(=O)O)OC)OCO2
 Heptobarbital	O=C1NC(=O)NC(=O)C1(c2ccccc2)C
 4-Acetoxy-MiPT	CC(N(CCC1=CNC2=C1C(OC(C)=O)=CC=C2)C)C
+Methylpropyltryptamine	CCCN(C)CCC1=CNC2=C1C=CC=C2
 Quisqualamine	O=C1NC(=O)ON1CCN
 Tiazesim	CN(C)CCN1C(=O)CC(SC2=CC=CC=C21)C3=CC=CC=C3
 Alletorphine	C[C@](O)(CCC)[C@H]6C[C@]42/C=C/[C@]6(OC)[C@@H]3Oc5c1c(C[C@H]4N(CC[C@@]123)CC=C)ccc5O
@@ -14297,6 +14298,7 @@ Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
 Pentazine	C1=NN=NN=N1
 Ravidasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C2=NC3=C(N2)C=C(C=C3)C4=CC5=C(C=C4)C=C(C=C5)C6=CN=C(N6)[C@@H]7CCCN7C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
+L-Streptose	C[C@H]1[C@@]([C@H]([C@@H](O1)O)O)(C=O)O
 Pentafluorothiophenol	c1(c(c(c(c(c1F)F)S)F)F)F
 Phenethyl acetate	CC(=O)OCCc1ccccc1
 Delta-Nonalactone	CCCCC1CCCC(=O)O1
@@ -15302,3 +15304,5 @@ Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 Perlapine	CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42
 Nordoxepin	CNCCC=C1C2=CC=CC=C2COC3=CC=CC=C31
 Sarcophagine	C1CNCC2CNCCNCC(CN1)CNCCNC2
+2,2,4,4-Tetramethylcyclobutanedione	CC1(C(=O)C(C1=O)(C)C)C
+3-Penten-2-one	CC=CC(=O)C
