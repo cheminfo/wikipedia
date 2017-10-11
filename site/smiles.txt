@@ -8990,7 +8990,7 @@ Mepindolol	CC1=CC2=C(N1)C=CC=C2OCC(CNC(C)C)O
 Pyrrolnitrin	C1=CC(=C(C(=C1)Cl)[N+](=O)[O-])C2=CNC=C2Cl
 Pecilocin	CCCC[C@H](/C=C(\C)/C=C/C=C/C(=O)N1CCCC1=O)O
 Edoxudine	O=C/1NC(=O)N(\C=C\1CC)[C@@H]2O[C@@H]([C@@H](O)C2)CO
-Ibacitabine	IC=1\C(=N/C(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)C2)CO)\N
+Ibacitabine	OCC1[C@@H](O)C[C@@H](O1)N2C=C(I)C(N)=NC2=O
 Motretinide	CCNC(=O)/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C(=C(C=C1C)OC)C)C
 Mesulfen	CC1=CC2=C(C=C1)SC3=C(S2)C=C(C=C3)C
 Tioxolone	C1=CC2=C(C=C1O)OC(=O)S2
@@ -10014,7 +10014,7 @@ Stannole	[SnH2]1C=CC=C1
 2-Fluoromethamphetamine	CC(CC1=CC=CC=C1F)NC
 Stizolobic acid	c1c(cc(=O)oc1C(=O)O)C[C@@H](C(=O)O)N
 Adimolol	O=C2Nc1ccccc1N2CCC(NCC(O)COc4c3ccccc3ccc4)(C)C
-Yohimban	C1CCC2CN3CCC4=C(NC5=C4C=CC=C5)C3CC2C1
+Yohimban	[H][C@@]12CCCC[C@@]1([H])C[C@]1([H])N(CCC3=C1NC1=CC=CC=C31)C2
 1-Ethyl-3-methylimidazolium chloride	CCn1cc[n+](c1)C.[Cl-]
 Casuarictin	c1c(cc(c(c1O)O)O)C(=O)O[C@H]2[C@H]3[C@H]([C@H]4[C@H](O2)COC(=O)c5cc(c(c(c5-c6c(cc(c(c6O)O)O)C(=O)O4)O)O)O)OC(=O)c7cc(c(c(c7-c8c(cc(c(c8O)O)O)C(=O)O3)O)O)O
 Umespirone	O=C1N(C(=O)C2C(=O)N(C(=O)C1C2(C)C)CCCCN4CCN(c3ccccc3OC)CC4)CCCC
