@@ -5579,7 +5579,7 @@ Methylenedioxydimethylamphetamine	CC(Cc1ccc2c(c1)OCO2)N(C)C
 Narcotoline	CN1CCC2=CC3=C(C(=C2[C@@H]1[C@@H]4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)O)OCO3
 Dibromodifluoromethane	C(F)(F)(Br)Br
 Tribromofluoromethane	BrC(Br)(Br)F
-D-chiro-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+1D-chiro-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Lithium carbide	[Li+].[Li+].[C-]#[C-]
 Bromodifluoromethane	BrC(F)F
 N-Acetylserotonin	CC(=O)NCCC1=CNC2=C1C=C(C=C2)O
@@ -9557,7 +9557,7 @@ Procyanidin A1	O[C@@H]1[C@@H](C2=C(O[C@H](C3=CC(O)=C(O)C=C3)[C@@H](O)C4)C4=C(O)C
 Procyanidin A2	O[C@@H]1[C@@H](C2=C(O[C@H](C3=CC(O)=C(O)C=C3[C@H](O)C4)C4=C(O)C=C2O5)C6=C(C=C(O)C=C6O)O[C@]15C7=CC(O)=C(O)C=C7
 Neo-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@H](O)[C@H]1O
 Muco-Inositol	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
-L-chiro-Inositol	O[C@@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
+1L-chiro-Inositol	O[C@@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Epi-Inositol	O[C@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Cis-Inositol	O[C@@H]1[C@H](O)[C@H](O)[C@H](O)[C@H](O)[C@@H]1O
 Allo-Inositol	O[C@@H]1[C@H](O)[C@H](O)[C@H](O)[C@@H](O)[C@H]1O
@@ -13755,6 +13755,7 @@ Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
 Benzhydrocodone	CN1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
 Camalexin	c1ccc2c(c1)c(c[nH]2)c3nccs3
+Serpentine (alkaloid)	C[C@H]1[C@H]2C[n+]3ccc4c5ccccc5[n-]c4c3C[C@@H]2C(=CO1)C(=O)OC
 Strictosidine	COC(=O)C1=CO[C@H]([C@@H]([C@@H]1C[C@H]2C3=C(CCN2)C4=CC=CC=C4N3)C=C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Tabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccccc5N3)C(=O)OC
 16-Hydroxytabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)O)C(=O)OC
