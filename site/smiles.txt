@@ -14421,6 +14421,7 @@ Lefamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C
 Azamulin	CC[C@@]1(C[C@H]([C@@]2([C@@H](CC[C@@]3([C@H]2C(=O)CC3)[C@H]([C@@H]1O)C)C)C)OC(=O)CSc4nc([nH]n4)N)C
 1-Bromonaphthalene	c1ccc2c(c1)cccc2Br
 Thiouric acid	c12c([nH]c(=O)[nH]1)[nH]c(=O)[nH]c2=S
+Epacadostat	c1cc(c(cc1N/C(=N\O)/c2c(non2)NCCNS(=O)(=O)N)Br)F
 Benzyl isothiocyanate	c1ccc(cc1)CN=C=S
 Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
 Estradiol phenylpropionate	CC12CCC3C(C1CCC2OC(=O)CCC4=CC=CC=C4)CCC5=C3C=CC(=C5)O
