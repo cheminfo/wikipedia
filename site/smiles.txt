@@ -645,7 +645,6 @@ Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
 ENU	CCN(N=O)C(N)=O
 Silver sulfide	[S-2].[Ag+].[Ag+]
 Furfural	c1cc(oc1)C=O
-Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
 Propofol	CC(C)c1cccc(c1O)C(C)C
 Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
@@ -12423,7 +12422,7 @@ Elafibranor	O=C(O)C(Oc1c(cc(cc1C)\C=C\C(=O)c2ccc(SC)cc2)C)(C)C
 GW0742	FC(F)(F)c3c(F)cc(c1nc(c(s1)CSc2cc(c(OCC(=O)O)cc2)C)C)cc3
 Azaspiracid	C[C@@H]1C[C@H]2[C@H]3[C@H](C[C@@]4(O3)[C@@H](C[C@@H](CN4)C)C)O[C@@](C1)(O2)CC(=C)[C@H]5[C@@H](C[C@@H]([C@](O5)([C@H]([C@H]6C[C@H]7[C@@H](O6)C[C@@H]([C@]8(O7)CC[C@]9(O8)CC=C[C@@H](O9)/C=C/CCC(=O)O)C)O)O)C)C
 Glycerol phenylbutyrate	C1=CC=C(C=C1)CCCC(=O)OCC(COC(=O)CCCC2=CC=CC=C2)OC(=O)CCCC3=CC=CC=C3
-MBX-8025	FC(F)(F)c1ccc(cc1)n2nc(c(n2)CSc3cc(c(OCC(=O)O)cc3)C)C
+MBX-8025	CCO[C@H](COc1ccc(cc1)C(F)(F)F)CSc2ccc(c(c2)C)OCC(=O)O
 L-165041	CCCc1c(ccc(c1O)C(=O)C)OCCCOc2ccc(cc2)OCC(=O)O
 ADBICA	CCCCCN1C=C(C2=CC=CC=C21)C(=O)NC(C(=O)N)C(C)(C)C
 ADB-FUBINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
