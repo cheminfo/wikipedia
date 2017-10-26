@@ -4081,7 +4081,7 @@ Darunavir	O=S(=O)(c1ccc(N)cc1)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]3OCC
 Rasagiline	C#CCN[C@H]2c1ccccc1CC2
 Pantethine	O=C(NCCSSCCNC(=O)CCNC(=O)C(O)C(C)(C)CO)CCNC(=O)C(O)C(C)(C)CO
 Bezafibrate	O=C(c1ccc(Cl)cc1)NCCc2ccc(OC(C(=O)O)(C)C)cc2
-Fructose 1,6-bisphosphate	O=P(OC[C@]1(O)O[C@@H]([C@@H](O)[C@@H]1O)COP(=O)(O)O)(O)O
+Fructose 1,6-bisphosphate	C([C@@H]1[C@H]([C@@H]([C@](O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O
 Fructose 6-phosphate	O=P(O)(O)OC[C@H]1O[C@@](O)(CO)[C@@H](O)[C@@H]1O
 2-Phosphoglyceric acid	O=P(O)(O)OC(C(=O)O)CO
 2,2-Dichloro-1,1,1-trifluoroethane	ClC(Cl)C(F)(F)F
@@ -15316,3 +15316,4 @@ Nickel bis(dimethyldithiocarbamate)	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Ni+2]
 Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
+Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
