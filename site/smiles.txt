@@ -645,6 +645,7 @@ Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
 ENU	CCN(N=O)C(N)=O
 Silver sulfide	[S-2].[Ag+].[Ag+]
 Furfural	c1cc(oc1)C=O
+Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
 Propofol	CC(C)c1cccc(c1O)C(C)C
 Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
@@ -11971,6 +11972,7 @@ Bucetin	O=C(Nc1ccc(OCC)cc1)CC(O)C
 RU-58642	O=C1N(CC#N)C(C)(C)C(=O)N1c(cc2C(F)(F)F)ccc2C#N
 SL-164	ClC1=CC(C)=C(N2C(C)=NC3=CC=CC(Cl)=C3C2=O)C=C1
 Fluo-3	O=C(O)CN(c5ccc(cc5OCCOc4c(N(CC(=O)O)CC(=O)O)ccc(C=1c3c(OC=2C=1\C=C(\Cl)C(=O)C=2)cc(O)c(Cl)c3)c4)C)CC(=O)O
+Endothall	C1CC2C(C(C1O2)C(=O)O)C(=O)O
 Rimazolium	O=C1C(=C/[N+](=C2\N1C(CCC2)C)C)\C(=O)OCC
 Glafenine	O=C(OCC(O)CO)c1ccccc1Nc2c3ccc(Cl)cc3ncc2
 Bolandiol	O[C@@H]4/C=C2\[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)CC4
@@ -15314,6 +15316,6 @@ Triphenylmethanethiol	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)S
 N-Methyl-2-thiazolidinethione	CN1CCSC1=S
 Nickel bis(dimethyldithiocarbamate)	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Ni+2]
 Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
-Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[Bi+3]
+Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
