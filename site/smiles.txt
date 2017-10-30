@@ -10003,6 +10003,7 @@ Chrysosplenetin	O=C1c3c(O)c(OC)c(OC)cc3O/C(=C1/OC)c2ccc(O)c(OC)c2
 Kumatakenin	COC1=CC(=C2C(=C1)OC(=C(C2=O)OC)C3=CC=C(C=C3)O)O
 Axillarin	COC1=C(C=C2C(=C1O)C(=O)C(=C(O2)C3=CC(=C(C=C3)O)O)OC)O
 Diaziridine	N1NC1
+Paramethasone acetate	[H][C@@]1(C)C[C@@]2([H])[C@]3([H])C[C@]([H])(F)C4=CC(=O)C=C[C@]4(C)[C@@]3([H])[C@@]([H])(O)C[C@]2(C)[C@@]1(O)C(=O)COC(C)=O
 Estriol succinate	C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1C[C@@H](OC(=O)CCC(O)=O)[C@@H]2OC(=O)CCC(O)=O
 Testosterone ketolaurate	CCCCCCCCCC(=O)CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Gantacurium chloride	C[N@+]1(CCC2=CC(=C(C=C2[C@H]1CC3=CC(=C(C(=C3)OC)OC)OC)OC)OC)CCCOC(=O)/C(=C/C(=O)OCCC[N@+]4(CCC5=CC(=C(C=C5[C@@H]4C6=CC(=C(C(=C6)OC)OC)OC)OC)OC)C)/Cl.[Cl-].[Cl-]
@@ -15231,6 +15232,7 @@ Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@
 2-Quinolone	C1=CC=C2C(=C1)C=CC(=O)N2
 Cholamine chloride hydrochloride	C[N+](C)(C)CCN.Cl.[Cl-]
 HEPBS	C1CN(CCN1CCCCS(=O)(=O)O)CCO
+Pemafibrate	CC[C@H](C(=O)O)Oc1cccc(c1)CN(CCCOc2ccc(cc2)OC)c3nc4ccccc4o3
 4-Quinolone	C1=CC=C2C(=C1)C(=O)C=CN2
 3β-Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C
 Tetramethoxymethane	COC(OC)(OC)OC
@@ -15320,4 +15322,5 @@ Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
+Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
