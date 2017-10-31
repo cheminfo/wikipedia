@@ -12709,6 +12709,7 @@ Alnetin	O=C\1c3c(O/C(=C/1)c2ccccc2)c(OC)c(OC)c(OC)c3O
 Linderone	COC1=C(C(=O)C(=C(/C=C/c2ccccc2)O)C1=O)OC
 Methyllinderone	COC1=C(C(=O)C(=C(/C=C/C2=CC=CC=C2)OC)C1=O)OC
 Hispidulin	COc1c(O)cc2oc(cc(=O)c2c1O)-c1ccc(O)cc1
+Lithium aspartate	[H+].[Li+].C([C@@H](C(=O)[O-])N)C(=O)[O-]
 Cynaropicrin	C=C1C[C@@H]([C@@H]2[C@@H]([C@@H]3[C@H]1C[C@@H](C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO
 5'-Methoxyhydnocarpin	COC1=CC(=CC2=C1O[C@@H]([C@H](O2)C3=CC(=C(C=C3)O)OC)CO)C4=CC(=O)C5=C(C=C(C=C5O4)O)O
 Norbadione A	O=C(O)C(\c1ccc(O)cc1)=C7\OC(\O)=C(\c2cc(O)c4OC(=O)c3cc(cc2c34)\C6=C(/O)O\C(=C(/c5ccc(O)cc5)C(=O)O)C6=O)C7=O
@@ -14703,6 +14704,7 @@ Stenbolone acetate	CC1=C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4OC(=
 Metenolone acetate	CC1=CC(=O)C[C@H]2[C@]1([C@H]3CC[C@]4([C@H]([C@@H]3CC2)CC[C@@H]4OC(=O)C)C)C
 Bolazine capronate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C\C(=N\N=C5/C[C@@H]6CC[C@H]7[C@@H]8CC[C@H](OC(=O)CCCCC)[C@@]8(C)CC[C@@H]7[C@@]6(C)C[C@H]5C)[C@H](C)C[C@]4(C)[C@H]3CC[C@]12C
 2-Methylglutaronitrile	CC(CCC#N)C#N
+Tesevatinib	CN1C[C@H]2C[C@H](C[C@H]2C1)COc3cc4c(cc3OC)c(ncn4)Nc5ccc(c(c5F)Cl)Cl
 Clostebol acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
 Mericitabine	CC(C)C(=O)OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=NC2=O)N)(C)F)OC(=O)C(C)C
 GS-5734	Nc3ncnn2c3ccc2C(C#N)(C1O)OC(C1O)CO[P](=O)(NC(C)C(=O)OCC(CC)CC)Oc4ccccc4
