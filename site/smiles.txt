@@ -3505,7 +3505,7 @@ Iodotrifluoroethylene	F/C(F)=C(\F)I
 Trifluoromethylisocyanide	[C-]#[N+]C(F)(F)F
 Bromodifluoroacetyl chloride	C(=O)(C(F)(F)Br)Cl
 Prilocaine	O=C(Nc1ccccc1C)C(NCCC)C
-Oxacillin	Cc1c(c(no1)c2ccccc2)/C(N/[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O)=O
+Oxacillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1)C(O)=O
 Etidocaine	O=C(Nc1c(C)cccc1C)C(CC)N(CC)CCC
 Chloroprocaine	O=C(OCCN(CC)CC)c1ccc(cc1Cl)N
 Trimethobenzamide	O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
@@ -15326,3 +15326,4 @@ N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
+Carbon tetraastatide	C([At])([At])([At])[At]
