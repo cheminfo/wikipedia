@@ -38,6 +38,8 @@ Flunitrazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3F)=O)=O
 Glycine	C(C(=O)O)N
 Guanosine	c1nc2c(=O)[nH]c(nc2n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
 Guanine	c1[nH]c2c(n1)c(=O)[nH]c(n2)N
+Glucose	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+Glucose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
 Gamma-Hydroxybutyric acid	O=C(O)CCCO
 Hydroxide	[OH-]
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
@@ -15325,3 +15327,5 @@ Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
 Carbon tetraastatide	C([At])([At])([At])[At]
+Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
+Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
