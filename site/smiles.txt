@@ -2084,6 +2084,8 @@ Dimethyl sulfide	CSC
 Methyl iodide	CI
 Tin(II) oxide	O=[Sn]
 Naphazoline	N\1=C(\NCC/1)Cc2cccc3c2cccc3
+Prednisolone sodium phosphate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COP(=O)([O-])[O-])O)CCC4=CC(=O)C=C[C@]34C)O.[Na+].[Na+]
+Prednisolone tebutate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CC(C)(C)C)O)CCC4=CC(=O)C=C[C@]34C)O
 Isosorbide	O[C@@H]1[C@H]2OC[C@@H](O)[C@H]2OC1
 Methyl isobutyl ketone	CC(C)CC(=O)C
 Selenic acid	O=[Se](=O)(O)O
