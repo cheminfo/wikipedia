@@ -864,7 +864,6 @@ Roxithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](
 Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
 Methyltestosterone	O=C4\C=C3/[C@]([C@H]2CC[C@]1([C@@H](CC[C@@]1(O)C)[C@@H]2CC3)C)(C)CC4
-Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
 Thorium dioxide	O=[Th]=O
 Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
@@ -15334,3 +15333,7 @@ Platinum(II) sulfide	S=[Pt]
 Platinum disulfide	S=[Pt]=S
 Dithiobenzoic acid	C1=CC=C(C=C1)C(=S)S
 Diamidophosphate	NP(=O)(N)[O-]
+Methoxyacetylfentanyl	c3ccccc3N(C(=O)COC)C1CCN(CC1)CCc2ccccc2
+Tetrahydrofuranylfentanyl	c1ccccc1CCN3CCC(CC3)N(C(=O)C2CCCO2)c4ccccc4
+Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
+Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
