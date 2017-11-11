@@ -864,6 +864,7 @@ Roxithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](
 Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
 Methyltestosterone	O=C4\C=C3/[C@]([C@H]2CC[C@]1([C@@H](CC[C@@]1(O)C)[C@@H]2CC3)C)(C)CC4
+Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
 Thorium dioxide	O=[Th]=O
 Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
@@ -1073,7 +1074,7 @@ Gefitinib	C1COCCN1CCCOc2c(OC)cc3ncnc(c3c2)Nc4cc(Cl)c(F)cc4
 Sodium metabisulfite	[O-]S(=O)S(=O)(=O)[O-].[Na+].[Na+]
 CR gas	N\1=C\c3c(Oc2c/1cccc2)cccc3
 Benzo(a)pyrene	c1ccc2c(c1)cc3ccc4cccc5c4c3c2cc5
-Methylcholanthrene	c32cc1cccc5c1c(c2ccc4ccccc34)C(C)C5
+Methylcholanthrene	CC1=C2CCC3=C2C(=CC4=C3C=CC5=CC=CC=C54)C=C1
 Nadolol	OC(CNC(C)(C)C)COc1cccc2c1C[C@H](O)[C@H](O)C2
 Ceric ammonium nitrate	[Ce+4].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[NH4+].[NH4+]
 Ceftriaxone	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sc3)N)CS\C4=N\C(=O)C(=O)NN4C)C(=O)O
@@ -2083,6 +2084,7 @@ Dimethyl sulfide	CSC
 Methyl iodide	CI
 Tin(II) oxide	O=[Sn]
 Naphazoline	N\1=C(\NCC/1)Cc2cccc3c2cccc3
+Prednisolone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)O
 Prednisolone sodium phosphate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COP(=O)([O-])[O-])O)CCC4=CC(=O)C=C[C@]34C)O.[Na+].[Na+]
 Prednisolone tebutate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CC(C)(C)C)O)CCC4=CC(=O)C=C[C@]34C)O
 Isosorbide	O[C@@H]1[C@H]2OC[C@@H](O)[C@H]2OC1
@@ -15336,4 +15338,5 @@ Diamidophosphate	NP(=O)(N)[O-]
 Methoxyacetylfentanyl	c3ccccc3N(C(=O)COC)C1CCN(CC1)CCc2ccccc2
 Tetrahydrofuranylfentanyl	c1ccccc1CCN3CCC(CC3)N(C(=O)C2CCCO2)c4ccccc4
 Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
+Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
