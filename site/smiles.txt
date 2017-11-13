@@ -2192,6 +2192,7 @@ Quinupristin	CC[C@@H]1C(=O)N2CCC[C@H]2C(=O)N([C@H](C(=O)N3C[C@H](C(=O)C[C@H]3C(=
 Quinestrol	O(c1ccc2c(c1)CC[C@H]3[C@@H]4CC[C@](C#C)(O)[C@@]4(C)CC[C@H]23)C5CCCC5
 Triamcinolone acetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@@]53C)F)O
 Triamcinolone hexacetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)COC(=O)CC(C)(C)C)CCC5=CC(=O)C=C[C@@]53C)F)O
+Triamcinolone diacetate	CC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)OC(=O)C)O
 Ganciclovir	O=C2/N=C(\Nc1n(cnc12)COC(CO)CO)N
 Valganciclovir	O=C(OCC(OCn1c2N\C(=N/C(=O)c2nc1)N)CO)[C@@H](N)C(C)C
 Timolol	O[C@H](COc1nsnc1N2CCOCC2)CNC(C)(C)C
@@ -15340,3 +15341,4 @@ Tetrahydrofuranylfentanyl	c1ccccc1CCN3CCC(CC3)N(C(=O)C2CCCO2)c4ccccc4
 Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
+Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
