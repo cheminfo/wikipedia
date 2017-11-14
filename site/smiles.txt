@@ -7346,6 +7346,7 @@ Olpadronic acid	CN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O
 Tolrestat	CN(CC(=O)O)C(=S)C1=CC=CC2=C1C=CC(=C2C(F)(F)F)OC
 Allithiamine	O=CN(/C(=C(\SSC\C=C)CCO)C)Cc1cnc(nc1N)C
 Zwittermicin A	C([C@H]([C@H](CO)N)O)[C@H]([C@H]([C@H]([C@@H](C(=O)N[C@@H](CNC(=O)N)C(=O)N)O)O)N)O
+Ulobetasol propionate	CCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)CCl
 Prazitone	C1CCNC(C1)CC2(C(=O)NC(=O)NC2=O)C3=CC=CC=C3
 Menthoxypropanediol	CC(C)C1CCC(C)CC1OCC(O)CO
 Tiropramide	CCCN(CCC)C(=O)C(Cc1ccc(cc1)OCCN(CC)CC)NC(=O)c2ccccc2
@@ -14257,7 +14258,7 @@ Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
 Bicalicene	C1=CC2=C3C=C3C4=CC=CC4=C5C=C5C2=C1
 Siponimod	O=C(O)C4CN(C4)Cc2ccc(cc2CC)\C(\C)=N\OCc(cc1C(F)(F)F)ccc1C3CCCCC3
 Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
-Anagestone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CCCC4)C
+Anagestone acetate	C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CCCC4)C
 Ethynerone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(C#CCl)O
 Deoxygedunin	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)OC(C4(CC3)C)C5=COC=C5)C)C)(C)C
 ANA-12	C1CCNC(=O)C(C1)NC(=O)C2=CC=CC=C2NC(=O)C3=CC4=CC=CC=C4S3
@@ -15342,3 +15343,4 @@ Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
 Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
+Bis(trimethylsilyl) peroxide	C[Si](C)(C)OO[Si](C)(C)C
