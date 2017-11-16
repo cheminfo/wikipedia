@@ -9411,7 +9411,7 @@ Smitilbin	Cc1cc(c2c(c1)O[C@@H]([C@@H](C2=O)O[C@H]3[C@@H]([C@@H]([C@H]([C@@H](O3)
 Xeractinol	c1c(cc(cc1O)O)[C@@H]2[C@H](C(=O)c3c(cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O2)O
 Hyperoside	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O
 Ampelopsin	Oc1cc(cc(O)c1O)[C@@H]3Oc2cc(O)cc(O)c2C(=O)[C@H]3O
-Fustin	C1=CC(=C(C=C1C2C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O
+Fustin	C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(O2)C=C(C=C3)O)O)O)O
 Butin (molecule)	O=C2c3c(O[C@H](c1ccc(O)c(O)c1)C2)cc(O)cc3
 Butin (molecule)	C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC(=C(C=C3)O)OC1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC(=C(C=C3)O)O
 Dihydromorin	C1=CC(=C(C=C1O)O)[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O
@@ -10535,6 +10535,7 @@ Beryllium nitrate	[Be+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Manganese(II) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Mn+2]
 Selenoyl fluoride	O=[Se](=O)(F)F
 Dichlorofluorescein	Clc5cc4c(Oc1cc(O)c(Cl)cc1C34OC(=O)c2c3cccc2)cc5O
+Phosphorothioc chloride difluoride	FP(=S)(F)Cl
 Superphane	C1Cc2c3CCc4c1c1CCc2c2CCc1c1CCc2c3CCc41
 Methoxetamine	O=C1CCCCC1(C2=CC=CC(OC)=C2)NCC
 Dichloromethyl methyl ether	ClC(Cl)OC
@@ -15345,3 +15346,4 @@ Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
 Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
 Bis(trimethylsilyl) peroxide	C[Si](C)(C)OO[Si](C)(C)C
 Hexafluoroisobutylene	C=C(C(F)(F)F)C(F)(F)F
+Tiplaxtinin	c2ccccc2Cn(cc1C(=O)C(O)=O)c4c1cc(cc4)-c(cc3)ccc3OC(F)(F)F
