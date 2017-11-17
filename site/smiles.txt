@@ -438,6 +438,7 @@ Phosphine	P
 Arachidonic acid	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O
 Stearin	CCCCCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCC
 Monomethylhydrazine	CNN
+Tetrazene	N/N=N/N
 Carnitine	C[N+](C)(C)CC(CC(=O)[O-])O
 Camphor	CC1(C)C2CCC1(C)C(=O)C2
 Benzphetamine	N(C)(Cc1ccccc1)[C@@H](C)Cc2ccccc2
@@ -15346,4 +15347,5 @@ Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
 Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
 Bis(trimethylsilyl) peroxide	C[Si](C)(C)OO[Si](C)(C)C
 Hexafluoroisobutylene	C=C(C(F)(F)F)C(F)(F)F
-Tiplaxtinin	c2ccccc2Cn(cc1C(=O)C(O)=O)c4c1cc(cc4)-c(cc3)ccc3OC(F)(F)F
+Tiplasinin	c2ccccc2Cn(cc1C(=O)C(O)=O)c4c1cc(cc4)-c(cc3)ccc3OC(F)(F)F
+Indoxyl sulfate	C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O
