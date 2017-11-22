@@ -5749,7 +5749,7 @@ Otera's catalyst	CCCC[Sn]1([N](=C=S)[Sn]2(O1[Sn]3(O2[Sn]([N]3=C=S)(CCCC)(CCCC)C=
 Periplanone B	O=C2[C@]1(OC1)[C@@H]3O[C@@H]3CC(\C=C\[C@H](C(C)C)C2)=C
 Acetyl iodide	CC(I)=O
 Mafosfamide	O=P1(N[C@@H](CCO1)SCCS(O)(=O)=O)N(CCCl)CCCl
-Abiraterone acetate	O[C@@H]2C/C1=C/C[C@@H]4[C@@H]([C@@]1(C)CC2)CC[C@@]3(C(=C/C[C@H]34)\c5cccnc5)C
+Abiraterone acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4C5=CN=CC=C5)C)C
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
@@ -14390,6 +14390,7 @@ Dimethylphosphine	CPC
 Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
 Portentol	C[C@@H]1[C@H](O[C@@]2([C@@H]([C@@H]1O)C)[C@H]([C@@H]3[C@H](C(=O)[C@]2(C(=O)O3)C)C)C)C
+Bisphenol F	c1cc(ccc1Cc2ccc(cc2)O)O
 Arglabin	CC1=CCC23C1C4C(CCC2(O3)C)C(=C)C(=O)O4
 Dimepregnen	CC1CC2C3CC(C4=CC(CCC4(C3CCC2(C1C(=O)C)C)C)O)C
 Cioteronel	CCC(CCCCC1CCC2C1CC(=O)C2)OC
