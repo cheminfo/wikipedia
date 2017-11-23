@@ -9711,6 +9711,7 @@ Histamine dihydrochloride	C1=C(NC=N1)CCN.Cl.Cl
 3-Hydroxybenzaldehyde	O=Cc1cc(O)ccc1
 4-Hydroxybenzaldehyde	O=Cc1ccc(O)cc1
 Ulipristal acetate	CC(=O)OC4(C(C)=O)CCC3C1CCC2=CC(=O)CCC2=C1C(CC34C)c5ccc(N(C)C)cc5
+Aminocandin	CCCCCCCCOc1ccc(cc1)c2ccc(cc2)C(=O)NC3CC(CNC(=O)[C@@H]4[C@H]([C@H](CN4C(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H]5C[C@H](CN5C(=O)[C@@H](NC3=O)[C@@H](C)O)O)[C@@H](Cc6ccccc6)O)CO)C)O)NCCN
 Norleucine	CCCCC(N)C(O)=O
 Pholedrine	Oc1ccc(cc1)CC(NC)C
 L-Deoxyribose	O=CC[C@@H](O)[C@@H](O)CO
@@ -12257,6 +12258,7 @@ Barium manganate	[O-][Mn](=O)(=O)[O-].[Ba+2]
 Phloretic acid	C1=CC(=CC=C1CCC(=O)O)O
 Umbellic acid	C1=CC(=C(C=C1O)O)C=CC(=O)O
 5-Hydroxyferulic acid	O=C(O)\C=C\c1cc(O)c(O)c(OC)c1
+Bismuth vanadate	[O-2].[O-2].[O-2].[O-2].[V].[Bi+3]
 Trametinib	Ic1ccc(c(F)c1)N\C3=C\2/C(=O)N(C(=O)N(C/2=C(\C(=O)N3C)C)c4cccc(NC(=O)C)c4)C5CC5
 2,3-Dihydroxycinnamic acid	c1cc(c(c(c1)O)O)/C=C/C(=O)O
 3,5-Dihydroxycinnamic acid	c1c(cc(cc1O)O)/C=C/C(=O)O
@@ -13592,6 +13594,7 @@ BIT225	CN1C=C(C=N1)C2=CC=CC3=C2C=CC(=C3)C(=O)NC(=N)N
 L-Photo-Leucine	CC1(C[C@H](N)C(O)=O)N=N1
 Dicyclohexylamine	C1CCC(CC1)NC2CCCCC2
 Lomerizine	COC1=C(C(=C(C=C1)CN2CCN(CC2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F)OC)OC
+Bis(cyclooctatetraene)iron	C\1=C\C=C/C=C\C=C1.C\1=C\C=C/C=C\C=C1.[Fe]
 Decynium-22	CCN1C(=CC2=[N+](C3=CC=CC=C3C=C2)CC)C=CC4=CC=CC=C41.[I-]
 5-Chloromethylfurfural	c1cc(oc1CCl)C=O
 Ceftolozane	CC(C)(C(=O)O)O/N=C(/c1nc(sn1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[n+]4cc(c(n4C)N)NC(=O)NCCN)C(=O)[O-]
@@ -14200,6 +14203,7 @@ Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)
 Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
 5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
 Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
+Bismuth titanate	O=[Ti]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O
 SB-200646	Cn1ccc2c1ccc(c2)NC(=O)Nc3cccnc3
 Phenylbiguanide	c1ccc(cc1)NC(=N)NC(=N)N
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
@@ -15141,6 +15145,7 @@ Tetrahydroxydiboron	B(B(O)O)(O)O
 Voxilaprevir	CC[C@@H]1[C@@H]2CN([C@@H]1C(=O)N[C@@]3(C[C@H]3C(F)F)C(=O)NS(=O)(=O)C4(CC4)C)C(=O)[C@@H](NC(=O)O[C@@H]5C[C@H]5CCCCC(c6c(nc7cc(ccc7n6)OC)O2)(F)F)C(C)(C)C
 Androstanolone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
 Methylarsonic acid	C[As](=O)(O)O
+Hexanoyl chloride	CCCCCC(=O)Cl
 5α-Dihydronorethisterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
 19-Noretiocholanolone	C[C@]12CC[C@@H]3[C@H]4CC[C@H](C[C@H]4CC[C@H]3[C@@H]1CCC2=O)O
 9α-Fluorocortisone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)F
@@ -15356,3 +15361,6 @@ Trenbolone undecanoate	O(C(CCCCCCCCCC)=O)[C@]1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC
 Mesterolone cipionate	[H][C@@]12CC[C@H](OC(=O)CCC3CCCC3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2(C)CC(=O)C[C@H](C)[C@]12C
 Europium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Eu+3]
 N-Acetyltaurine	CC(=O)NCCS(=O)(=O)O
+Malonyl chloride	C(C(=O)Cl)C(=O)Cl
+Methyl ricinoleate	CCCCCCC(CC=CCCCCCCCC(=O)OC)O
+Heptanedioyl dichloride	C(CCC(=O)Cl)CCC(=O)Cl
