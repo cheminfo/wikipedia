@@ -3189,7 +3189,7 @@ TSQ	O=S(=O)(c1ccc(cc1)C)Nc2cc(OC)cc3cccnc23
 Sunitinib	CCN(CC)CCNC(=O)c1c(c([nH]c1C)/C=C\2/c3cc(ccc3NC2=O)F)C
 Uranium tetrafluoride	[U+2].[U+2].[F-].[F-].[F-].[F-]
 Norbornane	C1CC2CCC1C2
-Tangeritin	O=C2C1=C(OC)C(OC)=C(OC)C(OC)=C1OC(C3=CC=C(OC)C=C3)=C2
+Tangeretin	O=C2C1=C(OC)C(OC)=C(OC)C(OC)=C1OC(C3=CC=C(OC)C=C3)=C2
 Boron trichloride	[BH6+3].[Cl-].[Cl-].[Cl-]
 D-DOPA	O=C(O)[C@H](N)Cc1cc(O)c(O)cc1
 2-Pyrrolidone	O=C1NCCC1
@@ -14928,6 +14928,7 @@ Estramustine	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl
 Uniconazole	CC(C)(C)C(C(=CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
 N-Iodosuccinimide	C1CC(=O)N(C1=O)I
 Syrosingopine	CCOC(=O)Oc1c(cc(cc1OC)C(=O)O[C@@H]2C[C@@H]3CN4CCc5c6ccc(cc6[nH]c5[C@H]4C[C@@H]3[C@@H]([C@H]2OC)C(=O)OC)OC)OC
+Bisnorhopane	CCC1CCC2C1CCC3(C2CCC4C3(CCC5C4(CCCC5(C)C)C)C)C
 Vaborbactam	B1([C@H](CC[C@H](O1)CC(=O)O)NC(=O)CC2=CC=CS2)O
 Trifluoroperacetic acid	C(=O)(C(F)(F)F)OO
 Diprogulic acid	CC1(OC[C@H]2[C@@H](O1)[C@H]3[C@@](O2)(OC(O3)(C)C)C(=O)O)C
