@@ -12102,6 +12102,7 @@ Thiofanox	O=C(ON=C(C(C)(C)C)CSC)NC
 Thionazin	S=P(Oc1nccnc1)(OCC)OCC
 (2-Chlorophenyl)thiourea	Clc1ccccc1NC(=S)N
 O-Tolylthiourea	S=C(Nc1ccccc1C)N
+Calcium nitrite	N(=O)[O-].N(=O)[O-].[Ca+2]
 Altoqualine	CCOC1=C(C(=C(C2=C1[C@H](OC2=O)[C@H]3C4=C(C(=C(C=C4CCN3C)OC)OC)OC)N)OCC)OCC
 Ethylhexylglycerin	OC(COCC(CCCC)CC)CO
 Ameltolide	O=C(Nc1c(cccc1C)C)c2ccc(N)cc2
@@ -14295,6 +14296,7 @@ JNJ-42165279	c3c1OC(F)(F)Oc1ccc3CN4CCN(CC4)C(=O)Nc2cnccc2Cl
 Cericlamine	CC(CC1=CC(=C(C=C1)Cl)Cl)(CO)N(C)C
 LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
 QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
+Calcium hydroxyphosphate	[OH-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Miravirsen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(OC5COP(=S)(O)OC6C7C(OC6(CO7)CO)N8C=CC(=NC8=O)N)N9C=CC(=NC9=O)N)N1C=NC2=C1N=CN=C2N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC12COC(C1OP(=S)(O)OCC13COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=CC(=NC1=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC4=C1N=CN=C4N)OP(=S)(O)OCC14COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=NC5=C1N=CN=C5N)OP(=S)(O)OCC15COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC16COC(C1OP(=S)(O)OCC17COC(C1O)C(O7)N1C=CC(=NC1=O)N)C(O6)N1C=CC(=NC1=O)N)C(O5)N1C=CC(=NC1=O)N)C(O4)N1C=CC(=NC1=O)N)C(O3)N1C=C(C(=O)NC1=O)C)C(O2)N1C=NC2=C1N=C(NC2=O)N
 Ethyl hexanoate	CCCCCC(=O)OCC
 Cyclotene	CC1C(=O)C(=O)CC1
@@ -15030,7 +15032,7 @@ Nitromifene	COC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)[N+](=O)[O-])C3=CC=C(C=C3)OCCN4CCCC4
 Viridicatumtoxin A	CC1=CCC[C@@]([C@]12c3c4c(c(c5c(c4C2)[C@@H]([C@@]6([C@](C5=O)(C(=O)C(=C(C6)O)C(=O)N)O)O)O)O)c(cc3OC)O)(C)C
 2,2',2''-Nitrilotriacetonitrile	C(C#N)N(CC#N)CC#N
 MIBE	C(OC(/C=C(/OC1=CC=C2C(C(/C(/C)=C/C(OCC)=O)=CN2C)=C1)\C)=O)C
-ZB716	O[C@H]1CC[C@@]2([H])[C@]3([H])[C@H](CCCCCCCCCS(CCCC(F)(C(F)(F)F)F)=O)CC4=CC(B(O)O)=CC=C4[C@@]3([H])CC[C@@]21C
+ZB716	B(C1=CC2=C(C=C1)[C@H]3CC[C@]4([C@H]([C@@H]3[C@@H](C2)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F)CC[C@@H]4O)C)(O)O
 4'-Hydroxynorendoxifen	CCC(=C(C1=CC=C(O)C=C1)C1=CC=C(OCCN)C=C1)C1=CC=C(O)C=C1
 Endrisone	C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)C(=O)C
 6-Methylisoxanthopterin	CC1=NC2=C(NC1=O)NC(=NC2=O)N
