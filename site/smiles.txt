@@ -12655,7 +12655,7 @@ Sclerotiorin	CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C)Cl
 Topopyrone C	CC1=CC(=O)C2=C(C=C3C(=C2O1)C(=O)C4=C(C=C(C=C4C3=O)O)O)O
 Methylenolactocin	CCCCCC1C(C(=C)C(=O)O1)C(=O)O
 Dehydroaltenusin	CC12C=C(C(=O)C=C1C3=CC(=CC(=C3C(=O)O2)O)OC)O
-Chrysophanic acid	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O
+Chrysophanol	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O
 Duclauxin	CC1=CC(=C2C3=C1C(=O)C4C(C3(COC2=O)C5C4(C6=C7C(=COC(=O)C7=C(C=C6C)O)C5=O)OC)OC(=O)C)O
 Bisvertinolone	C/C=C/C=C/C(=O)C1=C[C@]2([C@H]3/C(=C(\C=C\C=C\C)/O)/C(=C(C(=O)[C@]3(O[C@]2([C@@](C1=O)(C)O)O)C)C)O)C
 Hadacidin	C(C(=O)O)N(C=O)O
@@ -15382,3 +15382,4 @@ Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C(C(C(=O)O)N)[TeH]
 Trans-dichlorodiammineplatinum(II)	N.N.Cl[Pt]Cl
+Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
