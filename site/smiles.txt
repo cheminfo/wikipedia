@@ -3141,7 +3141,7 @@ Oxybuprocaine	O=C(OCCN(CC)CC)c1cc(OCCCC)c(cc1)N
 Tetracaine	O=C(OCCN(C)C)c1ccc(NCCCC)cc1
 Proxymetacaine	O=C(OCCN(CC)CC)c1ccc(OCCC)c(c1)N
 9,10-Bis(phenylethynyl)anthracene	C(#Cc1ccccc1)c4c2ccccc2c(C#Cc3ccccc3)c5ccccc45
-Cyclopentadienyl	[CH]1C=CC=C1
+Cyclopentadienyl radical	[CH]1C=CC=C1
 Isopropyl acetate	CC(OC(C)C)=O
 URB597	O=C(NC1CCCCC1)OC2=CC=CC(C3=CC=CC(C(N)=O)=C3)=C2
 Spiperone	c1ccc(cc1)N2CNC(=O)C23CCN(CC3)CCCC(=O)c4ccc(cc4)F
@@ -4473,7 +4473,6 @@ Hydroxycitric acid	O=C(O)C(O)C(O)(C(=O)O)CC(=O)O
 Triphenyltin hydride	[H][Sn](C2=CC=CC=C2)(C3=CC=CC=C3)C1=CC=CC=C1
 Triphenyltin hydride	c1c(cccc1)[Sn](c2ccccc2)c3ccccc3
 Doripenem	O=S(=O)(N)NC[C@H]3NC[C@@H](S\C2=C(\N1C(=O)[C@H]([C@H](O)C)[C@H]1[C@H]2C)C(=O)O)C3
-Cyclopentadienyl anion	[cH-]1cccc1
 4,4'-Biphenol	Oc2ccc(c1ccc(O)cc1)cc2
 Manganese(II) sulfate	[Mn+2].[O-]S([O-])(=O)=O
 Karanjin	C1(=C(OC2=C(C1=O)C=CC3=C2C=CO3)C4=CC=CC=C4)OC
@@ -15384,3 +15383,5 @@ Tellurocysteine	C(C(C(=O)O)N)[TeH]
 Trans-dichlorodiammineplatinum(II)	N.N.Cl[Pt]Cl
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
+Daprodustat	C3CCCCC3n(c(=O)c1C(=O)NCC(=O)O)c(=O)n(c1O)C2CCCCC2
+Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
