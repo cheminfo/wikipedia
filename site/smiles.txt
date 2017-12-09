@@ -5015,6 +5015,7 @@ Sulfamide	O=S(=O)(N)N
 Carboxyfluorescein succinimidyl ester	O=C(C5=C4C=C(C(ON6C(CCC6=O)=O)=O)C=C5)OC24C3=C(C=C(O)C=C3)OC1=CC(O)=CC=C12
 Radafaxine	Clc1cccc(c1)[C@]2(O)OCC(N[C@H]2C)(C)C
 Brassinolide	O=C3OC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]2[C@@]4(C)C[C@@H](O)[C@@H](O)C[C@H]34)[C@H](C)[C@@H](O)[C@H](O)[C@@H](C)C(C)C
+Fulvic acid	CC1(CC2=C(CO1)C(=O)C3=C(C(=C(C=C3O2)O)O)C(=O)O)O
 Cyclopentobarbital	O=C1NC(=O)NC(=O)C1(C2/C=C\CC2)C\C=C
 Hexethal	[Na+].O=C1/N=C(/[O-])NC(=O)C1(CCCCCC)CC
 Probarbital	O=C1NC(=O)NC(=O)C1(C(C)C)CC
@@ -15385,3 +15386,4 @@ Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
 Daprodustat	C3CCCCC3n(c(=O)c1C(=O)NCC(=O)O)c(=O)n(c1O)C2CCCCC2
 Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
+2,6-Dichloroaniline	C1=CC(=C(C(=C1)Cl)N)Cl
