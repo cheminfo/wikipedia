@@ -5015,7 +5015,6 @@ Sulfamide	O=S(=O)(N)N
 Carboxyfluorescein succinimidyl ester	O=C(C5=C4C=C(C(ON6C(CCC6=O)=O)=O)C=C5)OC24C3=C(C=C(O)C=C3)OC1=CC(O)=CC=C12
 Radafaxine	Clc1cccc(c1)[C@]2(O)OCC(N[C@H]2C)(C)C
 Brassinolide	O=C3OC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]2[C@@]4(C)C[C@@H](O)[C@@H](O)C[C@H]34)[C@H](C)[C@@H](O)[C@H](O)[C@@H](C)C(C)C
-Fulvic acid	CC1(CC2=C(CO1)C(=O)C3=C(C(=C(C=C3O2)O)O)C(=O)O)O
 Cyclopentobarbital	O=C1NC(=O)NC(=O)C1(C2/C=C\CC2)C\C=C
 Hexethal	[Na+].O=C1/N=C(/[O-])NC(=O)C1(CCCCCC)CC
 Probarbital	O=C1NC(=O)NC(=O)C1(C(C)C)CC
@@ -12904,6 +12903,7 @@ Isoteolin	CN1CCC2=CC(=C(C3=C2[C@@H]1CC4=CC(=C(C=C43)OC)O)O)OC
 ST-1936	CC1=C(CCN(C)C)C2=CC(Cl)=CC=C2N1
 LY-215,840	CN1[C@]([C@]2([H])C[C@@H](C(N[C@@H]3[C@H](O)CCC3)=O)C1)([H])CC4=CN(C(C)C)C5=CC=CC2=C54
 LY-367,265	FC1=CC=C2C(NC=C2C3=CCN(CCN(S4(=O)=O)C5=C6C(CCCN46)=CC=C5)CC3)=C1
+Friedelin	C[C@H]1C(=O)CC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C
 Hibifolin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O)O
 Koaburaside	COC1=CC(=CC(=C1O)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Pseurotin A	CC/C=C\[C@@H]([C@@H](C1=C(C(=O)[C@@]2(O1)[C@H]([C@@](NC2=O)(C(=O)C3=CC=CC=C3)OC)O)C)O)O
@@ -15312,6 +15312,7 @@ Dipropyl peroxydicarbonate	CCCOC(=O)OOC(=O)OCCC
 Colterol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)O
 3-PPP	CCCN1CCCC(C1)C2=CC(=CC=C2)O
 Opiranserin	O=C(NCC1(N(C)C)CCOCC1)C2=CC(OC)=C(OCCCC)C(OC)=C2
+1-Octanethiol	CCCCCCCCS
 Norclomipramine	CNCCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
 Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
 Γ-Octalactone	CCCCC1CCC(=O)O1
