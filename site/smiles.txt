@@ -2003,7 +2003,7 @@ Fucose	O[C@@H]1[C@H](O)[C@@H](OC(O)[C@H]1O)C
 Okadaic acid	O=C(O)[C@@](O)(C)C[C@H]7O[C@]/1(O[C@@H](CC(=C\1)\C)[C@@H](/C=C/[C@@H]6O[C@@]3(O[C@H]2[C@H](O)/C(=C)[C@H](O[C@@H]2CC3)[C@@H](O)C[C@H](C)[C@H]5O[C@]4(OCCCC4)CC[C@H]5C)CC6)C)[C@H](O)CC7
 Diminazene	C1=CC(=CC=C1C(=N)N)N/N=N/C2=CC=C(C=C2)C(=N)N
 Azimilide	Clc4ccc(c3oc(\C=N\N1C(=O)N(C(=O)C1)CCCCN2CCN(C)CC2)cc3)cc4
-Adams's catalyst	O=[Pt]=O
+Adams' catalyst	O=[Pt]=O
 Tribendimidine	N(=C/c2ccc(\C=N\c1ccc(/N=C(/N(C)C)C)cc1)cc2)\c3ccc(\N=C(\N(C)C)C)cc3
 Delphinidin	Oc1cc2c(O)cc(O)cc2[o+]c1c3cc(O)c(O)c(O)c3
 Hyoscine butylbromide	[Br-].OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@@H]3[C@H]4O[C@H]4[C@H](C2)[N+]3(C)CCCC
@@ -14308,7 +14308,7 @@ Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
 Fluoroethyl-L-tyrosine (18F)	C1=CC(=CC=C1C[C@@H](C(=O)O)N)OCC[18F]
-3'-Fluoro-3'-deoxythymidine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H]([18F])C2)CO
+Fluorothymidine F-18	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H]([18F])C2)CO
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
