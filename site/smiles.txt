@@ -5434,6 +5434,7 @@ Radicicol	C[C@@H]1C[C@@H]2[C@H](O2)/C=C\C=C\C(=O)Cc3c(c(cc(c3Cl)O)O)C(=O)O1
 Neopentyllithium	CC(C)(C)C[Li]
 1,3-Dichloropropene	Cl[C@H]=CCCl
 Thioproscaline	COc1cc(cc(OC)c1SCCC)CCN
+4EGI-1	OC(=O)C(\CC1=CC=CC=C1[N+]([O-])=O)=N/NC1=NC(=CS1)C1=CC(Cl)=C(Cl)C=C1
 Dibenzylpiperazine	C1CN(CCN1CC2=CC=CC=C2)CC3=CC=CC=C3
 Methylenedioxybenzylpiperazine	c1cc2c(cc1CN3CCNCC3)OCO2
 Dibutyltryptamine	CCCCN(CCCC)CCC1=CNC2=CC=CC=C21
@@ -14308,6 +14309,7 @@ Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
 Fluoroethyl-L-tyrosine (18F)	C1=CC(=CC=C1C[C@@H](C(=O)O)N)OCC[18F]
+Succinylacetone	CC(=O)CC(=O)CCC(=O)O
 Fluorothymidine F-18	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H]([18F])C2)CO
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
@@ -14361,7 +14363,7 @@ Trinitroethylorthoformate	C(C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OC(OCC([N+
 Trinitroethylorthocarbonate	C(C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OC(OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])(OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
 Carmoterol	COc1ccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c3NC(=O)C=Cc23)cc1
 Vonoprazan	Fc1ccccc1-c2cc(CNC)cn2S(=O)(=O)c3cccnc3
-Emixustat hydrochloride	c1cc(cc(c1)OCC2CCCCC2)[C@@H](CCN)O.Cl
+Emixustat	C1CCC(CC1)COC2=CC=CC(=C2)[C@@H](CCN)O
 Allyl mercaptan	C=CCS
 Girinimbine	CC1=C2C(=C3C(=C1)C4=CC=CC=C4N3)C=CC(O2)(C)C
 Adenylthiomethylpentose	CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12
@@ -15258,7 +15260,7 @@ Isoxerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
 Androsterone sulfate	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O
 Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
 2-Aminobenzaldehyde	C1=CC=C(C(=C1)C=O)N
-2,3,3,3-Tetrafluoro-2-(heptafluoropropoxy)propanoic acid	C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O
+FRD-903	C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O
 2-Quinolone	C1=CC=C2C(=C1)C=CC(=O)N2
 Cholamine chloride hydrochloride	C[N+](C)(C)CCN.Cl.[Cl-]
 Glycinamide	C(C(=O)N)N
@@ -15417,3 +15419,4 @@ Eurycomanone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3C45[C@@H]2[C@@]([C@@H](C(=C)[C@
 Gutolactone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)C=C(C)C)(OC5)C)O)O)C)O
 Toxopyrimidine	Cc1ncc(c(n1)N)CO
 Vinyl norbornene	C=CC1CC2CC1C=C2
+Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
