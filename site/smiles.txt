@@ -14661,7 +14661,7 @@ Estradiol mustard	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=C(C=C4)N(CCC
 FERb 033	c1cc(c(cc1c2ccc(c(c2Cl)O)/C=N/O)F)O
 WAY-166818	OC1=CC=C(C=C1)C1=NC2=CC(O)=CC=C2O1
 Estradiol butyrate benzoate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5)C
-Dimethyltrienolone	O([H])[C@]12C[C@@]11C=CC3=C4CCC(C=C4C[C@@](C)[C@@]3([H])[C@]1([H])CC2)=O
+Dimethyltrienolone	C[C@@H]1CC2=CC(=O)CCC2=C3[C@@H]1[C@@H]4CC[C@]([C@]4(C=C3)C)(C)O
 2-Ethylhexyl acrylate	CCCCC(CC)COC(=O)C=C
 Hydroxylamine-O-sulfonic acid	NOS(=O)(=O)O
 8,9-Dehydroestradiol	Oc4cc3c(/C1=C(/[C@@H]2CC[C@H](O)[C@]2(CC1)C)CC3)cc4
@@ -15421,3 +15421,4 @@ Toxopyrimidine	Cc1ncc(c(n1)N)CO
 Vinyl norbornene	C=CC1CC2CC1C=C2
 Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
+Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
