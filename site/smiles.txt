@@ -12538,6 +12538,7 @@ IDFP	O=P(F)(CCCCCCCCCCCC)OC(C)C
 Sodium bifluoride	[H-](F)F.[Na+]
 Lead tetrafluoride	F[Pb](F)(F)F
 Lanthanum trifluoride	F[La](F)F
+Carborane acid	[H].[CH]1234[B]([Cl])56%10[B]([Cl])17%11[B]([Cl])28%12[B]([Cl])39%13[B]([Cl])415[B]([Cl])620[B]([Cl])37%10[B]([Cl])48%11[B]([Cl])59%12[B]([Cl])01%13[B]([Cl])2345
 Ro4938581	FC(F)C(N=C1)=C(N1C2=C3C=C(Br)C=C2)CN4C3=NC=N4
 ISRIB	O=C(COC1=CC=C(Cl)C=C1)N[C@@H]2CC[C@@H](NC(COC3=CC=C(Cl)C=C3)=O)CC2
 5-Geranyloxy-7-methoxycoumarin	CC(=CCC/C(=C/COC1=C2C=CC(=O)OC2=CC(=C1)OC)/C)C
@@ -14754,7 +14755,7 @@ Methoxydienone	CC[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3CC=C(C4)OC
 Methylhydroxynandrolone	CC12CCC3C(C1CCC2(C)O)CCC4=C(C(=O)CCC34)O
 Chlorodehydromethylandrostenediol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CCC4=C([C@H](C=C[C@]34C)O)Cl
 Chloromethylandrostenediol	C[C@]12CCC(C(=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)Cl)O
-Methandriol dipropionate	CCC(=O)OC1CCC2(C3CCC4(C(C3CC=C2C1)CCC4(C)OC(=O)CC)C)C
+Methandriol dipropionate	CCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@]4(C)OC(=O)CC)C)C
 Methandriol propionate	CCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@]4(C)O)C)C
 Methandriol bisenanthoyl acetate	CCCCCCC(=O)CC(=O)OC1CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@@]4(C)OC(=O)CC(=O)CCCCCC)[C@@H]3CC=C2C1
 Methandriol diacetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC[C@]4(C)OC(=O)C)C)C
@@ -15422,3 +15423,4 @@ Vinyl norbornene	C=CC1CC2CC1C=C2
 Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
 Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
+Dimethomorph	O=C(\C=C(/c1ccc(Cl)cc1)c2ccc(OC)c(OC)c2)N3CCOCC3
