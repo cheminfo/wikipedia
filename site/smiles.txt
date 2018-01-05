@@ -279,7 +279,7 @@ Chlorpromazine	CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
 Alpha-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
-Hydrogen sulfide	S
+Hydrogen sulfide	[H]S[H]
 Ibuprofen	CC(C)Cc1ccc(cc1)[C@@H](C)C(=O)O
 Fluoride	[F-]
 Sodium bicarbonate	[Na+].OC([O-])=O
@@ -7687,7 +7687,7 @@ Amezinium metilsulfate	COC1=[N+](N=CC(=C1)N)C2=CC=CC=C2.COS(=O)(=O)[O-]
 Chavicine	O=C(N1CCCCC1)\C=C/C=C\c2ccc3OCOc3c2
 Alacepril	C[C@H](CSC(=O)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)O
 4-NEMD	CC(C1=CC=CC2=CC=CC=C21)C3=CN=CN3
-Pericine	C\C=C/1\CN2CC[C@H]1C(=C)C3=C(CC2)C4=CC=CC=C4N3
+Pericine	C/C=C\1/CN2CCc3c4ccccc4[nH]c3C(=C)[C@@H]1CC2
 Nafamostat	C1=CC(=CC=C1C(=O)OC2=CC3=C(C=C2)C=C(C=C3)C(=N)N)N=C(N)N
 Enocitabine	O=C(N/C/1=N/C(=O)N(\C=C\1)[C@@H]2O[C@@H]([C@@H](O)[C@@H]2O)CO)CCCCCCCCCCCCCCCCCCCCC
 Enviomycin	C1CN=C(NC1C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CO)CO)NC(=O)CC(C(CCN)O)N)N
@@ -15268,6 +15268,7 @@ Glycinamide	C(C(=O)N)N
 HEPBS	C1CN(CCN1CCCCS(=O)(=O)O)CCO
 Pemafibrate	CC[C@H](C(=O)O)Oc1cccc(c1)CN(CCCOc2ccc(cc2)OC)c3nc4ccccc4o3
 4-Quinolone	C1=CC=C2C(=C1)C(=O)C=CN2
+Hypercubane	C12(C(C=6)(C9)C%11)C3(C(C6)(C=7)C%13)C4(C(C7)(C=8)C%16)C1(C(C8)(C=9)C=0)C5(C(C0)(C=%10)C%15)C2(C(C%10)(C=%11)C=%12)C3(C(C%12)(C=%13)C=%14)C45(C(C%14)(C=%15)C=%16)
 3β-Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C
 Tetramethoxymethane	COC(OC)(OC)OC
 N-Butylsodium	CCC[CH2].[Na]
