@@ -554,7 +554,6 @@ Aldosterone	O=C(CO)[C@@H]4[C@@]3(C=O)C[C@H](O)[C@@H]2[C@@]1(/C(=C\C(=O)CC1)CC[C@
 Glyceraldehyde	O=CC(O)CO
 Cyanogen	N#CC#N
 Lead(II) sulfate	[O-]S(=O)(=O)[O-].[PbH4+2]
-Bupropion	O=C(C(C)NC(C)(C)C)C1=CC=CC(Cl)=C1
 Nitrous acid	O=NO
 Nitrite	N(=O)[O-]
 HEPES	OCCN1CC[NH+](CCS(=O)([O-])=O)CC1
@@ -591,7 +590,6 @@ Oxcarbazepine	O=C3c1c(cccc1)N(c2ccccc2C3)C(=O)N
 Silicon tetrachloride	[Si](Cl)(Cl)(Cl)Cl
 Loratadine	O=C(OCC)N4CC/C(=C2/c1ccc(Cl)cc1CCc3cccnc23)CC4
 Loxapine	Clc2ccc1Oc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
-Tranylcypromine	c1cccc(c1)[C@@H]2C[C@H]2N
 Cubane	C12C3C4C1C5C2C3C45
 Ecdysone	O=C1\C=C3/[C@@H]([C@]2(C[C@H](O)[C@H](O)C[C@@H]12)C)CC[C@]4([C@@]3(O)CC[C@@H]4[C@H](C)[C@H](O)CCC(O)(C)C)C
 Linezolid	O=C1O[C@@H](CNC(=O)C)CN1c3cc(F)c(N2CCOCC2)cc3
@@ -864,7 +862,6 @@ Potassium bitartrate	[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O.[K+]
 Roxithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](O)(C)[C@H](O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)[C@H]([C@H](O[C@@H]2O[C@H]([C@H](O)[C@](OC)(C2)C)C)[C@H]3C)C)C
 Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
-Methyltestosterone	O=C4\C=C3/[C@]([C@H]2CC[C@]1([C@@H](CC[C@@]1(O)C)[C@@H]2CC3)C)(C)CC4
 Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
 Thorium dioxide	O=[Th]=O
 Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
@@ -1314,7 +1311,6 @@ Felodipine	O=C(OCC)\C1=C(\N/C(=C(/C(=O)OC)C1c2cccc(Cl)c2Cl)C)C
 Formoterol	O=CNc1cc(ccc1O)[C@@H](O)CN[C@H](C)Cc2ccc(OC)cc2
 Selegiline	C#CCN([C@@H](Cc1ccccc1)C)C
 Goserelin	CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O
-Bicalutamide	O=C(Nc1cc(c(C#N)cc1)C(F)(F)F)C(O)(C)CS(=O)(=O)c2ccc(F)cc2
 Tamoxifen	CN(C)CCOc1ccc(cc1)/C(c2ccccc2)=C(/CC)c3ccccc3
 Fulvestrant	FC(F)(F)C(F)(F)CCCS(=O)CCCCCCCCCC3Cc1c(ccc(O)c1)[C@H]2CC[C@]4([C@H]([C@@H]23)CC[C@@H]4O)C
 Meropenem	O=C3N2\C(=C(\S[C@H]1C[C@@H](C(=O)N(C)C)NC1)[C@H](C)[C@@H]2[C@H]3[C@H](O)C)C(=O)O
@@ -2320,7 +2316,6 @@ Actinidine	n1cc(c2c(c1)[C@H](CC2)C)C
 Miroprofen	O=C(O)C(c3ccc(c1nc2ccccn2c1)cc3)C
 Cyclobutene	C\1=C\CC/1
 (E)-Stilbene	c2(\C=C\c1ccccc1)ccccc2
-Beta-Hydroxy beta-methylbutyric acid	CC(C)(CC(=O)O)O
 1-Butyne	C#CCC
 Rubidium nitrate	[Rb+].[O-][N+]([O-])=O
 Oxandrolone	O=C3OC[C@@]2([C@H]1CC[C@@]4(C)[C@H]([C@@H]1CC[C@H]2C3)CC[C@@]4(O)C)C
