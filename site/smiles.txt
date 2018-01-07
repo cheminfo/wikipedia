@@ -554,6 +554,7 @@ Aldosterone	O=C(CO)[C@@H]4[C@@]3(C=O)C[C@H](O)[C@@H]2[C@@]1(/C(=C\C(=O)CC1)CC[C@
 Glyceraldehyde	O=CC(O)CO
 Cyanogen	N#CC#N
 Lead(II) sulfate	[O-]S(=O)(=O)[O-].[PbH4+2]
+Bupropion	O=C(C(C)NC(C)(C)C)C1=CC=CC(Cl)=C1
 Nitrous acid	O=NO
 Nitrite	N(=O)[O-]
 HEPES	OCCN1CC[NH+](CCS(=O)([O-])=O)CC1
@@ -3712,7 +3713,6 @@ Tralomethrin	CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C(C(Br)(B
 Calcium lactate gluconate	[Ca+2].[O-]C(=O)C(O)C.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Bretylium	Brc1ccccc1C[N+](CC)(C)C
 2-Nitrodiphenylamine	[O-][N+](=O)c2ccccc2Nc1ccccc1
-Vanadyl sulfate	[O-]S(=O)(=O)[O-].O=[V+2]
 4-Androstene-3,6,17-trione	O=C4\C1=C\C(=O)CC[C@@]1([C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3C4)C)C
 Xenic acid	O[Xe](=O)(=O)O
 Tetramethylethylenediamine	CN(C)CCN(C)C
@@ -10664,6 +10664,7 @@ Pinoresinol	COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O
 Eusiderin	O1c3c(O[C@@H]([C@H]1c2cc(OC)c(OC)c(OC)c2)C)c(OC)cc(c3)C\C=C
 Mannoheptulose	O=C([C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)CO
 Bistramide A	C\C=C\C(=O)C[C@H]1CC[C@H](C)[C@H](CC(=O)NC[C@H](O)[C@H](C)C(=O)NCCC[C@H]2O[C@@]3(CCC[C@H](CC[C@H](C)\C=C(/C)\[C@H](C)O)O3)CC[C@@H]2C)O1
+Lead picrate	C1=C(C=C(C(=C1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].C1=C(C=C(C(=C1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].[Pb+2]
 Etanidazole	O=[N+]([O-])c1nccn1CC(=O)NCCO
 Cerotic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCC
 Tridecylic acid	O=C(O)CCCCCCCCCCCC
