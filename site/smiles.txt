@@ -1458,7 +1458,7 @@ Caprolactam	O=C1NCCCCC1
 Sulfuryl fluoride	FS(F)(=O)=O
 Nitroimidazole	c1cn(cn1)[N+](=O)[O-]
 Sodium bromide	[Na+].[Br-]
-Nitrofural	O=[N+]([O-])c1oc(/C=N/NC(=O)N)cc1
+Nitrofurazone	O=[N+]([O-])c1oc(/C=N/NC(=O)N)cc1
 Cellobiose	O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H](OC(O)[C@@H]2O)CO
 Benzocyclobutene	C12=CC=CC=C1CC2
 3,3'-Diindolylmethane	C1=CC=C2C(=C1)C(=CN2)CC3=CNC4=CC=CC=C43
@@ -15403,6 +15403,7 @@ Dihydrofluoxymesterone	[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([
 Oxofluoxymesterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@]4(C)O)C)F
 Ferric edta	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Fe+3]
 Fertirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
+Myo-inositol trispyrophosphate	C12C(C3C(C4C1OP(=O)(OP(=O)(O4)O)O)OP(=O)(OP(=O)(O3)O)O)OP(=O)(OP(=O)(O2)O)O
 Leflutrozole	C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)(N3C=NC=N3)F
 Dimethylcurcumin	COC1=C(C=C(C=C1)/C=C/C(=C/C(=O)/C=C/C2=CC(=C(C=C2)OC)OC)/O)OC
 Ozarelix	CCCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(=O)N)NC(=O)[C@@H](CCCCNC(=O)N)NC(=O)[C@H](CC2=CC=C(C=C2)O)N(C)C(=O)[C@H](CO)NC(=O)[C@@H](CC3=CN=CC=C3)NC(=O)[C@@H](CC4=CC=C(C=C4)Cl)NC(=O)[C@@H](CC5=CC6=CC=CC=C6C=C5)NC(=O)C
@@ -15422,3 +15423,4 @@ Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
 Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
 Dimethomorph	O=C(\C=C(/c1ccc(Cl)cc1)c2ccc(OC)c(OC)c2)N3CCOCC3
+4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
