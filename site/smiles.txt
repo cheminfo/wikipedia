@@ -8797,6 +8797,7 @@ Propyl benzoate	O=C(OCCC)c1ccccc1
 Benocyclidine	C1(SC(C2(CCCCC2)N3CCCCC3)=C4)=C4C=CC=C1
 2-Aminoindane	C1C(CC2=CC=CC=C21)N
 Benzanilide	c1ccc(cc1)C(=O)Nc2ccccc2
+Pentamethylcyclopentadienyl iridium dichloride dimer	c1(C)=c(C)c(C)=c(C)c1(C)[Ir](Cl)(Cl1)Cl[Ir](Cl)1C1(C)C(C)=C(C)C(C)=C1C
 Aminopropionitrile	NCCC#N
 Resiquimod	CCOCC1=NC2=C(N1CC(C)(C)O)C3=CC=CC=C3N=C2N
 Hydroxypyruvic acid	O=C(O)C(=O)CO
@@ -15142,6 +15143,7 @@ Methyl perchlorate	COCl(=O)(=O)=O
 Pentamethylarsenic	C[As](C)(C)(C)C
 Pentamethylantimony	C[Sb](C)(C)(C)C
 Pentamethylbismuth	C[Bi](C)(C)(C)C
+Pentamethylcyclopentadienyl rhodium dichloride dimer	c1(C)=c(C)c(C)=c(C)c1(C)[Rh](Cl)(Cl1)Cl[Rh](Cl)1C1(C)C(C)=C(C)C(C)=C1C
 Yttrium phosphide	P#[Y]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
@@ -15359,6 +15361,7 @@ N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
+Ivosidenib	C1CC(=O)N([C@@H]1C(=O)N(C2=CC(=CN=C2)F)[C@@H](C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N
 Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
 Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
 Platinum(II) sulfide	S=[Pt]
@@ -15423,4 +15426,7 @@ Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
 Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
 Dimethomorph	O=C(\C=C(/c1ccc(Cl)cc1)c2ccc(OC)c(OC)c2)N3CCOCC3
+Vanadium(II) sulfate	[O-]S(=O)(=O)[O-].[V+2]
+Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
 4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
+17α-Methyl-19-norprogesterone	O=C(C)[C@](C)1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4C3CC[C@@]21C)=O
