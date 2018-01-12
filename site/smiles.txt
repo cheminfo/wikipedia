@@ -817,7 +817,7 @@ Amiodarone	CCN(CC)CCOc1c(I)cc(cc1I)C(=O)c2c3ccccc3oc2CCCC
 Anthraquinone	O=C1c2ccccc2C(=O)c3ccccc13
 Dapsone	O=S(=O)(c1ccc(N)cc1)c2ccc(N)cc2
 Pentane	CCCCC
-Doxycycline	O.CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@H](C)[C@H]2[C@H](O)[C@@H]34
+Doxycycline	CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@H](C)[C@H]2[C@H](O)[C@@H]34
 Oleic acid	CCCCCCCC\C=C/CCCCCCCC(O)=O
 Carbaryl	CNC(=O)Oc1c2ccccc2ccc1
 Chlorphenamine	Clc1ccc(cc1)C(c2ncccc2)CCN(C)C
@@ -15430,3 +15430,4 @@ Vanadium(II) sulfate	[O-]S(=O)(=O)[O-].[V+2]
 Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
 4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 17α-Methyl-19-norprogesterone	O=C(C)[C@](C)1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4C3CC[C@@]21C)=O
+Phenyl(trichloromethyl)mercury	C1=CC=C(C=C1)[Hg]C(Cl)(Cl)Cl
