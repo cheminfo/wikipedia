@@ -9131,7 +9131,7 @@ Chloranil	ClC=1C(=O)C(\Cl)=C(\Cl)C(=O)C=1Cl
 2,3,3-Trimethylpentane	CCC(C)(C)C(C)C
 RTI-113	CN1C2CCC1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC4=CC=CC=C4
 RTI-112	CC1=C(C=CC(=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3C)Cl
-Omberacetam	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
+N-Phenylacetyl-L-prolylglycine ethyl ester	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
 MMPIP	COc3ccc(cc3)C2CC(C1C(=O)N2C)ON=C1c4ccncc4
 LY-404,039	C1[C@]([C@@H]2[C@H]([C@@H]2S1(=O)=O)C(=O)O)(C(=O)O)N
 ADX-47273	FC1=CC=C(C(N2CCC[C@@H](C2)C3=NC(C4=CC=C(F)C=C4)=NO3)=O)C=C1
@@ -15430,3 +15430,4 @@ Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
 4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 17α-Methyl-19-norprogesterone	O=C(C)[C@](C)1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4C3CC[C@@]21C)=O
 Phenyl(trichloromethyl)mercury	C1=CC=C(C=C1)[Hg]C(Cl)(Cl)Cl
+Thiocoraline	CN1[C@H]2CSSC[C@@H](C(=O)N([C@H](C(=O)SC[C@H](C(=O)NCC1=O)NC(=O)C3=NC4=CC=CC=C4C=C3O)CSC)C)N(C(=O)CNC(=O)[C@@H](CSC(=O)[C@@H](N(C2=O)C)CSC)NC(=O)C5=NC6=CC=CC=C6C=C5O)C
