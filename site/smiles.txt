@@ -297,7 +297,7 @@ Cantharidin	O=C2OC([C@@]1(C)[C@@H]3CC[C@@H](O3)[C@]12C)=O
 Styrene	c1ccccc1C=C
 Thujone	O=C1[C@H](C)[C@@H]2[C@](C(C)C)(C1)C2
 Thujone	C[C@@H]([C@@H](C2)[C@]2([C@@H](C)C)C1)C1=O
-Hydroxylysine	NCCCCC(NO)C(O)=O
+Hydroxylysine	C(C[C@@H](C(=O)O)N)[C@H](CN)O
 CS gas	Clc1ccccc1\C=C(/C#N)C#N
 Lactic acid	CC(O)C(=O)O
 Glycerol	C(C(CO)O)O
@@ -3002,7 +3002,7 @@ Ascaridole	O1OC2(\C=C/C1(C)CC2)C(C)C
 Retinoic acid	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C
 Bis-HPPP	OCC(O)COc1ccc(cc1)C(C)(C)c2ccc(OCC(O)CO)cc2
 Sodium oxybate	[Na+].[O-]C(=O)CCCO
-Diazodinitrophenol	C1(=O)C(=N=N)CC[N+](=O)[O-]CC1[N+](=O)[O-]
+Diazodinitrophenol	[N]=[N]=C(C=C([N+]([O-])=O)C=C1[N+]([O-])=O)C1=O
 Sinapinic acid	COc1cc(cc(c1O)OC)/C=C/C(=O)O
 Thiazine	C\1=C\N\C=C/S/1
 Cembrene A	C1(=C\CC/C(=C/C[C@H](C(=C)\C)CCC(=C\CC1)\C)C)\C
@@ -3895,7 +3895,7 @@ Calcium fumarate	O=C1O[Ca]OC(=O)\C=C\1
 Potassium fumarate	[K+].[K+].[O-]C(=O)\C=C\C([O-])=O
 Sodium fumarate	[Na+].[Na+].[O-]C(=O)\C=C\C([O-])=O
 Monopotassium glutamate	[K+].O=C([O-])C(N)CCC(=O)O
-Calcium diglutamate	C(CC(=O)[O-])C(C(=O)[O-])N.C(CC(=O)[O-])C(C(=O)[O-])N.[CaH2]
+Calcium diglutamate	C(CC(=O)[O-])C(C(=O)[O-])N.C(CC(=O)[O-])C(C(=O)[O-])N.[Ca+2]
 Monoammonium glutamate	O=C([O-])CCC(N)C(=O)O.[NH4+]
 Magnesium diglutamate	[Mg+2].O=C([O-])CCC(N)C(=O)O.[O-]C(=O)CCC(N)C(=O)O
 Ethylestrenol	O[C@]2(CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4)CC
@@ -8651,7 +8651,6 @@ Retigabine	O=C(OCC)Nc1ccc(cc1N)NCc2ccc(F)cc2
 Hydrogen disulfide	SS
 Cobalt(II) hydroxide	[Co+2].[OH-].[OH-]
 Musk xylene	CC1=C(C(=C(C(C)=C1N(=O)=O)N(=O)=O)C(C)(C)C)N(=O)=O
-Musk xylene	C[C]1[C]([C](C)[C]([C]([C]1[N++]([O-])[O-])C(C)(C)C)[N++]([O-])[O-])[N++]([O-])[O-]
 Cadmium acetate	[Cd+2].[O-]C(=O)C.[O-]C(=O)C
 MDAI	C1C(CC2=CC3=C(C=C21)OCO3)N
 Eplivanserin	c2cc(O)ccc2\C=C\C(=N\OCCN(C)C)\c1ccccc1F
@@ -10642,7 +10641,7 @@ Cariprazine	CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(CC2)c2cccc(Cl)c2Cl)CC1
 Eudesmic acid	COC1=CC(=CC(=C1OC)OC)C(=O)O
 PRX-08066	s3c2ncnc(c2cc3Cl)NC4CCN(CC4)Cc(ccc1F)cc1C#N
 4-Dimethylaminophenylpentazole	CN(C)c1ccc(cc1)n2nnnn2
-HHTDD	O=C2N([N](=O)=O)C3C(N2[N](=O)=O)N([N](=O)=O)C1C(N3[N](=O)=O)N([N](=O)=O)C(=O)N1[N](=O)=O
+HHTDD	C12C(N(C3C(N1[N+](=O)[O-])N(C(=O)N3[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])N(C(=O)N2[N+](=O)[O-])[N+](=O)[O-]
 Protoanemonin	C=C1C=CC(=O)O1
 Ranunculin	C1=CC(=O)OC1COC2C(C(C(C(O2)CO)O)O)O
 Anemonin	O=C\1OC3(/C=C/1)C/2(OC(=O)\C=C\2)CC3
@@ -10755,7 +10754,7 @@ SER-601	CC(C)c5ccc(c1c5)n(CCCCC)cc(c1=O)C(=O)NC4(C2)CC(CC2C3)CC3C4
 Beta-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(O)=O)=O)=O)=O)=O)=O)=O)=O)=O
 Alpha-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(N[C@H](C(O)=O)CCCCN)=O)=O)=O)=O)=O)=O)=O)=O)=O
 Nitrosylazide	[N-]=[N+]=NN=O
-AM-1221	c5ccc2ccccc2c5C(=O)c(c4ccc([N](=O)=O)cc14)c(C)n1CC3CCCCN3C
+AM-1221	CN1CCCCC1CN2C=C(C3=C2C=C(C=C3)[N+](=O)[O-])C(=O)C4=CC=CC5=CC=CC=C54
 AM-630	C4COCCN4CCn(c1C)c2cc(I)ccc2c1C(=O)c3ccc(OC)cc3
 4-Methyl-1-pentene	CC(C)CC=C
 Zaprinast	O=C1C2=C(N=NN2)NC(C3=CC=CC=C3OCCC)=N1
@@ -14371,7 +14370,7 @@ Niraparib	c1cc2cn(nc2c(c1)C(=O)N)c3ccc(cc3)[C@@H]4CCCNC4
 Biliatresone	O=C(C(C1=C(O)C=CC=C1)=C)C2=C(OC)C3=C(OCO3)C=C2OC
 Coibamide	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
-PR-104	OP(=O)(O)OCCNC(=O)c(cc([N](=O)=O)cc1[N](=O)=O)c1N(CCBr)CCOS(=O)(C)=O
+PR-104	CS(=O)(=O)OCCN(CCBr)c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])C(=O)NCCOP(=O)(O)O
 Dapivirine	Cc1cc(c(c(c1)C)Nc2ccnc(n2)Nc3ccc(cc3)C#N)C
 Larazotide	CC(C)C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)CN
 Nicotinamide mononucleotide	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)[O-])O)O)C(=O)N
@@ -15431,3 +15430,6 @@ Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
 17α-Methyl-19-norprogesterone	O=C(C)[C@](C)1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4C3CC[C@@]21C)=O
 Phenyl(trichloromethyl)mercury	C1=CC=C(C=C1)[Hg]C(Cl)(Cl)Cl
 Thiocoraline	CN1[C@H]2CSSC[C@@H](C(=O)N([C@H](C(=O)SC[C@H](C(=O)NCC1=O)NC(=O)C3=NC4=CC=CC=C4C=C3O)CSC)C)N(C(=O)CNC(=O)[C@@H](CSC(=O)[C@@H](N(C2=O)C)CSC)NC(=O)C5=NC6=CC=CC=C6C=C5O)C
+2-Naphthalenethiol	C1=CC=C2C=C(C=CC2=C1)S
+3-Dimethylaminoacrolein	CN(C)/C=C/C=O
+2-Methyleneglutaronitrile	C=C(CCC#N)C#N
