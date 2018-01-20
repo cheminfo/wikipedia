@@ -4369,6 +4369,7 @@ Rufinamide	O=C(c1nnn(c1)Cc2c(F)cccc2F)N
 Mesuximide	O=C2N(C(=O)CC2(c1ccccc1)C)C
 Pheneturide	O=C(N)NC(=O)C(c1ccccc1)CC
 Lofexidine	Clc2c(OC(C/1=N/CCN\1)C)c(Cl)ccc2
+Chloro(triphenylphosphine)gold(I)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Au]
 Erbium(III) oxide	O=[Er]O[Er]=O
 Sodium hypophosphite	[O-][PH2]=O.[Na+]
 Dichlorophenolindophenol	Cl\C2=CC(=N/c1ccc(O)cc1)/C=C(/Cl)C2=O
@@ -13782,6 +13783,7 @@ Octalene	c1/cc\c/2=c(/cc\cc/cc2)/cc\c1
 Desacetoxyvindoline	CC[C@]12C[C@@]([C@H]3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3C)OC)(C(=O)OC)O
 16-Methoxytabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)OC)C(=O)OC
 Deacetylvindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4[C@]([C@@H]2O)(C(=O)OC)O)C)OC
+Chlorobis(cyclooctene)iridium dimer	C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.[Cl-].[Cl-].[Ir].[Ir]
 4,21-Dehydrogeissoschizine	[H][C@@]12C[C@H](\C(=C\O)C(=O)OC)\C(=C/C)C=[N+]1CCC1=C2NC2=CC=CC=C12
 Preakuammicine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1[C@](C3=Nc5c4cccc5)(CO)C(=O)OC
 Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
@@ -15386,7 +15388,7 @@ Europium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O
 N-Acetyltaurine	CC(=O)NCCS(=O)(=O)O
 Malonyl chloride	C(C(=O)Cl)C(=O)Cl
 Methyl ricinoleate	CCCCCCC(CC=CCCCCCCCC(=O)OC)O
-Heptanedioyl dichloride	C(CCC(=O)Cl)CCC(=O)Cl
+Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C(C(C(=O)O)N)[TeH]
@@ -15399,6 +15401,7 @@ Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
 Desidustat	C1CC1CON2C3=CC=CC=C3C(=C(C2=O)C(=O)NCC(=O)O)O
 2,6-Dichloroaniline	C1=CC(=C(C(=C1)Cl)N)Cl
 Bis(benzonitrile)palladium dichloride	C1=CC=C(C=C1)C#N.C1=CC=C(C=C1)C#N.Cl[Pd]Cl
+Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
 RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Dihydrofluoxymesterone	[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2CC(=O)CC[C@]12C
@@ -15435,3 +15438,5 @@ Thiocoraline	CN1[C@H]2CSSC[C@@H](C(=O)N([C@H](C(=O)SC[C@H](C(=O)NCC1=O)NC(=O)C3=
 2-Naphthalenethiol	C1=CC=C2C=C(C=CC2=C1)S
 3-Dimethylaminoacrolein	CN(C)/C=C/C=O
 2-Methyleneglutaronitrile	C=C(CCC#N)C#N
+O-Dianisidine	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N
+O-Nitroanisole	COC1=CC=CC=C1[N+](=O)[O-]
