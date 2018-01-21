@@ -10493,6 +10493,7 @@ PSI-6130	C[C@]1([C@@H]([C@H](O[C@H]1n2ccc(nc2=O)N)CO)O)F
 Tafamidis	O=C(O)c3ccc1nc(oc1c3)-c2cc(Cl)cc(Cl)c2
 Cipargamin	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
 Eckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C=C(C=C4O3)O)O)O)O)O
+Chlorophyll f	[H]C(=O)c1c(C=C)c2\C=C3/N=C(C=c4c(C)c5C(=O)[C@H](C(=O)OC)C6=c5n4[Mg]n2c1\C=C1/N=C6[C@@H](CCC(=O)OC\C=C(/C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)[C@@H]1C)C(CC)=C/3C
 Terflavin B	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)O)O)O)OC(=O)C3=CC(=C(C(=C3C4=C(C(=C5C6=C4C(=O)OC7=C6C(=CC(=C7O)O)C(=O)O5)O)O)O)O)O
 Hexahydroxydiphenic acid	O=C(O)c2cc(O)c(O)c(O)c2c1c(O)c(O)c(O)cc1C(=O)O
 Sialyl-Lewis A	O=C(O)[C@@]1(O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O[C@H]3[C@H](O[C@H]4[C@@H](O)[C@H](O)[C@H](O)[C@H](C)O4)[C@@H](CO)OC(O)[C@@H]3NC(C)=O)[C@@H]2O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O1
@@ -13783,7 +13784,9 @@ Octalene	c1/cc\c/2=c(/cc\cc/cc2)/cc\c1
 Desacetoxyvindoline	CC[C@]12C[C@@]([C@H]3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3C)OC)(C(=O)OC)O
 16-Methoxytabersonine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)c5ccc(cc5N3)OC)C(=O)OC
 Deacetylvindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4[C@]([C@@H]2O)(C(=O)OC)O)C)OC
+Chlorobis(cyclooctene)rhodium dimer	C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.[Cl-].[Cl-].[Rh].[Rh]
 Chlorobis(cyclooctene)iridium dimer	C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.[Cl-].[Cl-].[Ir].[Ir]
+Chlorobis(ethylene)rhodium dimer	C=C.C=C.C=C.C=C.[Cl-].[Cl-].[Rh].[Rh]
 4,21-Dehydrogeissoschizine	[H][C@@]12C[C@H](\C(=C\O)C(=O)OC)\C(=C/C)C=[N+]1CCC1=C2NC2=CC=CC=C12
 Preakuammicine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1[C@](C3=Nc5c4cccc5)(CO)C(=O)OC
 Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
