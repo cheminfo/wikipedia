@@ -14218,6 +14218,7 @@ SB-200646	Cn1ccc2c1ccc(c2)NC(=O)Nc3cccnc3
 Phenylbiguanide	c1ccc(cc1)NC(=N)NC(=N)N
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
 Indirubin	c1ccc2c(c1)/C(=C/3\C(=O)c4ccccc4N3)/C(=O)N2
+Cinepazic acid	COC1=CC(=CC(=C1OC)OC)C=CC(=O)N2CCN(CC2)CC(=O)O
 Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
@@ -15411,6 +15412,7 @@ Dihydrofluoxymesterone	[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([
 9-Me-BC	CN1C2=CC=CC=C2C3=C1C=NC=C3
 Oxofluoxymesterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@]4(C)O)C)F
 Ferric edta	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Fe+3]
+Chevreul’s salt	[O-]S(=O)[O-].[O-]S(=O)[O-].[Cu+].[Cu+].[Cu+2]
 Fertirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
 Myo-inositol trispyrophosphate	C12C(C3C(C4C1OP(=O)(OP(=O)(O4)O)O)OP(=O)(OP(=O)(O3)O)O)OP(=O)(OP(=O)(O2)O)O
 Leflutrozole	C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)(N3C=NC=N3)F
@@ -15443,3 +15445,4 @@ Thiocoraline	CN1[C@H]2CSSC[C@@H](C(=O)N([C@H](C(=O)SC[C@H](C(=O)NCC1=O)NC(=O)C3=
 2-Methyleneglutaronitrile	C=C(CCC#N)C#N
 O-Dianisidine	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N
 O-Nitroanisole	COC1=CC=CC=C1[N+](=O)[O-]
+1,1,3,3-Tetramethoxypropane	COC(CC(OC)OC)OC
