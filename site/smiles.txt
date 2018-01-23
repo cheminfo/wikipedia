@@ -1654,6 +1654,7 @@ Monopotassium phosphate	[K+].OP(O)([O-])=O
 Diammonium phosphate	[NH4+].[NH4+].OP([O-])([O-])=O
 Cerium(IV) oxide	[O-2]=[Ce+4]=[O-2]
 Vaska's complex	c1ccc(cc1)P(c2ccccc2)(c3ccccc3)[Ir](C#O)(P(c4ccccc4)(c5ccccc5)c6ccccc6)Cl
+Grubbs' catalyst	Cl[Ru](Cl)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
 Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
 Thymidine monophosphate	Cc1cn(C2CC(O)C(COP([O-])([O-])=O)O2)c(:o)[nH]c1:o
@@ -15412,7 +15413,7 @@ Dihydrofluoxymesterone	[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([
 9-Me-BC	CN1C2=CC=CC=C2C3=C1C=NC=C3
 Oxofluoxymesterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@]4(C)O)C)F
 Ferric edta	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Fe+3]
-Chevreul’s salt	[O-]S(=O)[O-].[O-]S(=O)[O-].[Cu+].[Cu+].[Cu+2]
+Chevreul’s salt	O.O.[O-]S(=O)[O-].[O-]S(=O)[O-].[Cu+].[Cu+].[Cu+2]
 Fertirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
 Myo-inositol trispyrophosphate	C12C(C3C(C4C1OP(=O)(OP(=O)(O4)O)O)OP(=O)(OP(=O)(O3)O)O)OP(=O)(OP(=O)(O2)O)O
 Leflutrozole	C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)(N3C=NC=N3)F
