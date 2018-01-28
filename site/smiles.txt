@@ -13024,6 +13024,7 @@ Nerolic acid	CC(=CCC/C(=C/C(=O)O)/C)C
 Furonazide	C/C(=N/NC(=O)c1ccncc1)/c2ccco2
 Dimethylbenzimidazole	CC1=CC2=C(C=C1C)N=CN2
 Hydrofuramide	C1=COC(=C1)/C=N/C(/N=C/C2=CC=CO2)C3=CC=CO3
+O-Cresolphthalein	CC1=C(C=CC(=C1)C2(C3=CC=CC=C3C(=O)O2)C4=CC(=C(C=C4)O)C)O
 Tungsten diselenide	[Se]=[W]=[Se]
 Vinylphosphonic acid	C=CP(=O)(O)O
 Sodium nitroprusside	[Na+].[Na+].O=N[Fe--](C#N)(C#N)(C#N)(C#N)C#N
@@ -15460,3 +15461,6 @@ O-Nitroanisole	COC1=CC=CC=C1[N+](=O)[O-]
 Flufenoxuron	C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=C(C=C(C=C2)OC3=C(C=C(C=C3)C(F)(F)F)Cl)F)F
 Nucleocidin	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@](O3)(COS(=O)(=O)N)F)O)O)N
 Ethyl levulinate	CCOC(=O)CCC(=O)C
+Bicyclohexyl	C1CCC(CC1)C2CCCCC2
+Phytantriol	CC(C)CCCC(C)CCCC(C)CCCC(C)(C(CO)O)O
+MDPHP	CCCCC(N1CCCC1)C(=O)c2ccc3OCOc3c2
