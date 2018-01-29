@@ -4577,6 +4577,7 @@ Beta-Methylamino-L-alanine	CNC[C@@H](C(=O)O)N
 Lithium tetrafluoroborate	[Li+].F[B-](F)(F)F
 Sodium aurothiomalate	[Au+].[Na+].[O-]C(=O)C([S-])CC(=O)O
 Helenalin	O=C/2O[C@@H]3C[C@H]([C@@H]1/C=C\C(=O)[C@@]1(C)[C@@H](O)[C@@H]3C\2=C)C
+Halocarban	C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)C(F)(F)F)Cl
 Saccharopine	NC(CCCCNC(CCC(O)=O)C(O)=O)C(O)=O
 Vanillylmandelic acid	COC1=C(C=CC(=C1)C(C(=O)O)O)O
 Mycolactone	O=C1O[C@H](C/C=C(/C[C@@H]([C@@H](OC(=O)\C=C\C(=C\C(=C\C=C\C(=C\[C@H](O)[C@@H](O)C[C@@H](O)C)C)C)C)CCC1)C)C)[C@@H](C)CC(=C/[C@@H](C)[C@H](O)C[C@H](O)C)/C
@@ -15464,3 +15465,4 @@ Ethyl levulinate	CCOC(=O)CCC(=O)C
 Bicyclohexyl	C1CCC(CC1)C2CCCCC2
 Phytantriol	CC(C)CCCC(C)CCCC(C)CCCC(C)(C(CO)O)O
 MDPHP	CCCCC(N1CCCC1)C(=O)c2ccc3OCOc3c2
+Benzoguanamine	C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N
