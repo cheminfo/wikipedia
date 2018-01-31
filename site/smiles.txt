@@ -10632,6 +10632,7 @@ Bisabolene	CC(CC/1)=CCC1=C(C)/CC/C=C(C)/C
 2-Iodobenzoic acid	O=C(O)c1ccccc1I
 Cadmium hydride	[H-].[H-].[Cd+2]
 Tris(tert-butoxy)silanethiol	CC(C)(C)O[Si](S)(OC(C)(C)C)OC(C)(C)C
+Beryllium azide	[Be+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Isoeugenol	C/C=C/C1=CC(=C(C=C1)O)OC
 Methyl eugenol	COc1cc(ccc1OC)CC=C
 Dienedione	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2=O
@@ -10821,6 +10822,7 @@ Chloral betaine	C[N+](C)(C)CC(=O)[O-].C(C(Cl)(Cl)Cl)(O)O
 SRT2183	c1ccc2cc(ccc2c1)C(=O)Nc3ccccc3c4cn5c(csc5n4)CN6CC[C@H](C6)O
 SRT1460	COc1cc(cc(c1OC)OC)C(=O)Nc2ccccc2c3cn4c(csc4n3)CN5CCNCC5
 Methoxymethylfurfural	O=Cc1oc(cc1)COC
+Acetylferrocene	CC(=O)[C]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Fe]
 Elinogrel	CNC1=C(C=C2C(=C1)NC(=O)N(C2=O)C3=CC=C(C=C3)NC(=O)NS(=O)(=O)C4=CC=C(S4)Cl)F
 2,2-Diphenylpropylamine	CC(CN)(C1=CC=CC=C1)C2=CC=CC=C2
 3,3-Diphenylpropylamine	C1=CC=C(C=C1)C(CCN)C2=CC=CC=C2
