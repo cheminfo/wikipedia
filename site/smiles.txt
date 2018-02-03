@@ -12785,6 +12785,7 @@ Pregomisin	C[C@H](Cc1cc(c(c(c1)OC)OC)O)[C@@H](C)Cc2cc(c(c(c2)OC)OC)O
 Daphnoretin	COC1=C(C=C2C(=C1)C=C(C(=O)O2)OC3=CC4=C(C=C3)C=CC(=O)O4)O
 Cryptopine	CN1CCc2cc(c(cc2C(=O)Cc3ccc4c(c3C1)OCO4)OC)OC
 Fangchinoline	C12=CC(=C3C=C1[C@@H](N(CC2)C)CC4=CC=C(C=C4)OC5=CC(C[C@]6(C=7C(=C(C(=CC7CCN6C)OC)O)O3)[H])=CC=C5OC)OC
+Isopavine	COC1=C(C=C2C3CNC(CC2=C1)C4=CC(=C(C=C34)OC)OC)OC
 Acetylcorynoline	CC(=O)O[C@H]1CC2=CC3=C(C=C2[C@@H]4[C@]1(C5=C(CN4C)C6=C(C=C5)OCO6)C)OCO3
 Corydaline	C[C@@H]1[C@@H]2C3=CC(=C(C=C3CCN2CC4=C1C=CC(=C4OC)OC)OC)OC
 Corynoline	O1c2c(OC1)c3c(cc2)[C@@]5([C@H](N(C3)C)c4cc6OCOc6cc4C[C@@H]5O)C
@@ -13045,6 +13046,7 @@ Tetrahydro-2-furoic acid	C1CC(OC1)C(=O)O
 Davallialactone	CC(=O)/C=C\1/C2C(OC(=O)C2=C(C=C(O1)/C=C/C3=CC(=C(C=C3)O)O)O)C4=CC(=C(C=C4)O)O
 Bottromycin	C[C@@H]1CCN2[C@@H]1C(=O)N[C@H](C(=O)N[C@H](/C(=N/[C@H](C(=O)N[C@@H]([C@@H](C)C3=CC=CC=C3)C(=O)N[C@H](CC(=O)OC)C4=NC=CS4)C(C)(C)C)/NCC2=O)C(C)(C)C)C(C)C
 Avicularin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H](O4)CO)O)O)O)O
+Delsoline	CCN1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H]([C@@]([C@H]31)([C@]5(C[C@@H]([C@H]6CC4[C@@H]5[C@H]6OC)OC)O)O)OC)O)COC
 Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
 Majdine	C[C@H]1[C@@H]2CN3CC[C@]4([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=C(C(=C(C=C5)OC)OC)NC4=O
 Hirsutine	CC[C@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=CC=CC=C34
