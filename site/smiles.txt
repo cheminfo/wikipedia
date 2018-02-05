@@ -2165,7 +2165,6 @@ Glycolic acid	C(C(=O)O)O
 Glutathione disulfide	C(CC(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
 Glucuronic acid	O=C(O)[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Alizarine Yellow R	[Na+].O=C([O-])c1cc(ccc1O)/N=N/c2ccc(cc2)[N+]([O-])=O
-Calcium cyanamide	[Ca+2].N#CN
 Calcium cyanamide	[Ca+2].[N-2]C#N
 Stachyose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)O[C@]4([C@H]([C@@H]([C@H](O4)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O
 Luteolin	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
@@ -15395,7 +15394,7 @@ Platinum disulfide	S=[Pt]=S
 Dithiobenzoic acid	C1=CC=C(C=C1)C(=S)S
 Diamidophosphate	NP(=O)(N)[O-]
 Methoxyacetylfentanyl	c3ccccc3N(C(=O)COC)C1CCN(CC1)CCc2ccccc2
-Tetrahydrofuranylfentanyl	c1ccccc1CCN3CCC(CC3)N(C(=O)C2CCCO2)c4ccccc4
+Tetrahydrofuranylfentanyl	C1(=CC=CC=C1)N(C(=O)C1OCCC1)C1CCN(CC1)CCC1=CC=CC=C1
 Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
@@ -15425,6 +15424,7 @@ Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
 Desidustat	C1CC1CON2C3=CC=CC=C3C(=C(C2=O)C(=O)NCC(=O)O)O
 2,6-Dichloroaniline	C1=CC(=C(C(=C1)Cl)N)Cl
 Bis(benzonitrile)palladium dichloride	C1=CC=C(C=C1)C#N.C1=CC=C(C=C1)C#N.Cl[Pd]Cl
+Bemethyl	CCSC1=NC2=CC=CC=C2N1.Br
 Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
 RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
@@ -15478,6 +15478,8 @@ Dirubidium	[Rb][Rb]
 Rubidium azide	[N-]=[N+]=[N-].[Rb+]
 Bornyl acetate	CC(=O)OC1CC2CCC1(C2(C)C)C
 Copper(II) chlorate	O.O.O.O.[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Cu+2]
+Angeli's salt	N(=O)[N+](=O)[O-].[Na+].[Na+]
 Valerylfentanyl	c2ccccc2N(C(=O)CCCC)C(CC1)CCN1CCc3ccccc3
 Isobutyrylfentanyl	c3ccccc3N(C(=O)C(C)C)C(CC2)CCN2CCc1ccccc1
 4-Chloroisobutyrylfentanyl	c3ccccc3CCN(CC1)CCC1N(C(=O)C(C)C)c(cc2)ccc2Cl
+Thiafentanil	COCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)C(=O)OC
