@@ -15096,7 +15096,7 @@ Tetrolic acid	CC#CC(=O)O
 1,2-Difluoroethylene	C(=C/F)\F
 Proxalutamide	CC1(C(=O)N(C(=S)N1C2=CN=C(C=C2)CCCC3=NC=CO3)C4=C(C(=C(C=C4)C#N)C(F)(F)F)F)C
 Blebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=CC=C4)O
-Thiazyl chloride trimer	ClS1=NS(Cl)=NS(Cl)=N1
+Trithiazyl trichloride	ClS1=NS(Cl)=NS(Cl)=N1
 Pentakis(dimethylamido)tantalum	C[N-]C.C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ta+5]
 Succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate	O=C(C1CCC(CN2C(C=CC2=O)=O)CC1)ON3C(CCC3=O)=O
 Adenosine 5'-tetraphosphate	Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
@@ -15483,3 +15483,7 @@ Valerylfentanyl	c2ccccc2N(C(=O)CCCC)C(CC1)CCN1CCc3ccccc3
 Isobutyrylfentanyl	c3ccccc3N(C(=O)C(C)C)C(CC2)CCN2CCc1ccccc1
 4-Chloroisobutyrylfentanyl	c3ccccc3CCN(CC1)CCC1N(C(=O)C(C)C)c(cc2)ccc2Cl
 Thiafentanil	COCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)C(=O)OC
+Cyclopropylfentanyl	c3ccccc3N(C(=O)C2CC2)C(CC4)CCN4CCc1ccccc1
+Benzoylfentanyl	c4ccccc4CCN(CC1)CCC1N(c3ccccc3)C(=O)c2ccccc2
+Tetramethylcyclopropylfentanyl	c2ccccc2CCN4CCC(CC4)N(C(=O)C1C(C)(C)C1(C)C)c3ccccc3
+Benzodioxolefentanyl	c3cc1OCOc1cc3C(=O)N(c4ccccc4)C2CCN(CC2)CCc5ccccc5
