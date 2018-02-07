@@ -11982,7 +11982,7 @@ Pantoic acid	O=C(O)[C@H](O)C(C)(C)CO
 PHBV	CCC(CC(=O)O)O.CC(CC(=O)O)O
 MAM-2201	FCCCCCn(c4)c2ccccc2c4C(=O)c3ccc(C)c1ccccc13
 APINACA	C3C4CC2CC3CC(C4)(C2)NC(=O)c(nn1CCCCC)c5c1cccc5
-XLR-11 (drug)	CC1(C(C1(C)C)C(=O)c2cn(c3c2cccc3)CCCCCF)C
+XLR-11	CC1(C(C1(C)C)C(=O)c2cn(c3c2cccc3)CCCCCF)C
 Dibutylhexamethylenediamine	CCCCNCCCCCCNCCCC
 HA-966	O=C1C(CCN1O)N
 Liquiritigenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3
@@ -15487,3 +15487,6 @@ Cyclopropylfentanyl	c3ccccc3N(C(=O)C2CC2)C(CC4)CCN4CCc1ccccc1
 Benzoylfentanyl	c4ccccc4CCN(CC1)CCC1N(c3ccccc3)C(=O)c2ccccc2
 Tetramethylcyclopropylfentanyl	c2ccccc2CCN4CCC(CC4)N(C(=O)C1C(C)(C)C1(C)C)c3ccccc3
 Benzodioxolefentanyl	c3cc1OCOc1cc3C(=O)N(c4ccccc4)C2CCN(CC2)CCc5ccccc5
+3-Phenylpropanoylfentanyl	c2ccccc2CCN1CCC(CC1)N(c3ccccc3)C(=O)CCc4ccccc4
+Potassium dicyanoaurate	[C-]#N.[C-]#N.[K+].[Au+]
+4-Methylphenethylacetylfentanyl	Cc1ccc(cc1)CCN2CCC(CC2)N(C(=O)C)c3ccccc3
