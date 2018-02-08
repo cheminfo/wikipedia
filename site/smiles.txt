@@ -11007,6 +11007,8 @@ Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O
 Chlormerodrin	COC(CNC(=O)N)C[Hg]Cl
 Rhoeadine	CN1CCC2=CC3=C(C=C2[C@@H]4[C@H]1C5=C([C@H](O4)OC)C6=C(C=C5)OCO6)OCO3
 Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
+Metaboric acid	O=BO
+Metaboric acid	OB1OB(O)OB(O)O1
 Quebecol	COC1=C(C=CC(=C1)C(CO)C(C2=CC(=C(C=C2)O)OC)C3=CC(=C(C=C3)O)OC)O
 Slaframine	CC(=O)OC1CCN2C1CCC(C2)N
 Divicine	OC1=C(O)C(N)=NC(N)=N1
@@ -12040,6 +12042,7 @@ Lactic acid O-carboxyanhydride	O=C1OC(=O)OC1C
 Bitopertin	CC(C(F)(F)F)Oc1ccc(cc1C(=O)N2CCN(CC2)c3c(cc(cn3)C(F)(F)F)F)S(=O)(=O)C
 Nickel boride	[B].[Ni].[Ni]
 Indacrinone	CC1(Cc2cc(c(c(c2C1=O)Cl)Cl)OCC(=O)O)c3ccccc3
+Borane–tetrahydrofuran	[B].C1CCOC1
 Oxyresveratrol	C1=CC(=C(C=C1O)O)C=CC2=CC(=CC(=C2)O)O
 Borane tert-butylamine	NC(C)(C)C.B
 Mulberroside A	C1=CC(=C(C=C1OC2C(C(C(C(O2)CO)O)O)O)O)C=CC3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)O
@@ -13032,6 +13035,7 @@ O-Cresolphthalein	CC1=C(C=CC(=C1)C2(C3=CC=CC=C3C(=O)O2)C4=CC(=C(C=C4)O)C)O
 Tungsten diselenide	[Se]=[W]=[Se]
 Vinylphosphonic acid	C=CP(=O)(O)O
 Sodium nitroprusside	[Na+].[Na+].O=N[Fe--](C#N)(C#N)(C#N)(C#N)C#N
+Bis(triphenylphosphine)platinum chloride	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Pt]Cl
 Methional	CSCCC=O
 3-Bromothiophene	C1=CSC=C1Br
 SB-243213	CC1=C(C(F)(F)F)C=C(N(C(NC2=CN=C(OC3=C(C)N=CC=C3)C=C2)=O)CC4)C4=C1
@@ -15490,3 +15494,4 @@ Benzodioxolefentanyl	c3cc1OCOc1cc3C(=O)N(c4ccccc4)C2CCN(CC2)CCc5ccccc5
 3-Phenylpropanoylfentanyl	c2ccccc2CCN1CCC(CC1)N(c3ccccc3)C(=O)CCc4ccccc4
 Potassium dicyanoaurate	[C-]#N.[C-]#N.[K+].[Au+]
 4-Methylphenethylacetylfentanyl	Cc1ccc(cc1)CCN2CCC(CC2)N(C(=O)C)c3ccccc3
+Cyanoalanine	C(C#N)C(C(=O)O)N
