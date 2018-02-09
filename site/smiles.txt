@@ -14103,6 +14103,7 @@ Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
 3β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@H](CC[C@]34C)O)C
+Sirius Red	C1=CC(=CC=C1N=NC2=CC(=C(C=C2)N/N=C/3\C(=O)C4=C(C=C3S(=O)(=O)[O-])C=C(C=C4)NC(=O)NC5=CC6=C(C(=O)/C(=N\NC7=C(C=C(C=C7)N=NC8=CC=C(C=C8)S(=O)(=O)[O-])S(=O)(=O)[O-])/C(=C6)S(=O)(=O)[O-])C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
 Hydroxyprogesterone heptanoate	CCCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
@@ -14134,6 +14135,7 @@ Apalutamide	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CN=C(C(=C4)C(F)(F)F)C#
 Ixazomib	B([C@H](CC(C)C)NC(=O)CNC(=O)c1cc(ccc1Cl)Cl)(O)O
 2-Butoxyethanol acetate	CCCCOCCOC(=O)C
 Vosoritide	CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)CC(=O)O)CC(C)C)CCCCN)CC(C)C)Cc2ccccc2)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc3ccc(cc3)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@@H]6CCCN6)C(=O)O)CC(C)C)CO)CCSC)CO
+Biotin hydrazide	C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)NN)NC(=O)N2
 4-Oxo-2-nonenal	CCCCCC(=O)/C=C/C=O
 Flumetasone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C(C)(C)C)O)C)O)F)C)F
 Modafinil sulfone	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)(=O)CC(=O)N
@@ -15495,3 +15497,4 @@ Benzodioxolefentanyl	c3cc1OCOc1cc3C(=O)N(c4ccccc4)C2CCN(CC2)CCc5ccccc5
 Potassium dicyanoaurate	[C-]#N.[C-]#N.[K+].[Au+]
 4-Methylphenethylacetylfentanyl	Cc1ccc(cc1)CCN2CCC(CC2)N(C(=O)C)c3ccccc3
 Cyanoalanine	C(C#N)C(C(=O)O)N
+Isofentanyl	c2ccccc2N(C(=O)CC)C1CCN(CC1C)Cc3ccccc3
