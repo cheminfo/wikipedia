@@ -14713,6 +14713,7 @@ Incarvillateine	C[C@@H]1[C@H]2[C@H]([C@@H]([C@@H](C2)OC(=O)[C@H]3[C@@H]([C@@H]([
 5-MBPB	CCC(CC1=CC2=C(OC=C2)C=C1)NC
 Truxinic acid	c1ccc(cc1)C2C(C(C2C(=O)O)C(=O)O)c3ccccc3
 Pungenin	CC(=O)c1ccc(c(c1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O
+Δ4-Tibolone	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
 Valbenazine	CC(C)C[C@@H]1CN2CCc3cc(c(cc3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC
 Isopropenyl acetate	CC(=C)OC(=O)C
 2-Ethyl-2-oxazoline	CCC1=NCCO1
@@ -15510,3 +15511,5 @@ Levonorgestrel acetate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C)CCC4=CC(
 Baloxavir marboxil	O=C(OCOC(C(C=C1)=O)=C(N1N([C@@H]2C3=CC=CC=C3SCC4=C(F)C(F)=CC=C24)[C@@]5([H])N6CCOC5)C6=O)OC
 JNJ-39393406	CN(C)C(=O)CCN1C(=NC(=N1)NC2=CC3=C(C=C2)OC(O3)(F)F)C4=CC=NC=C4
 EVT-101	CC1=NC=CN1CC2=NN=CC(=C2)C3=CC(=C(C=C3)F)C(F)F
+3α-Hydroxytibolone	C[C@@H]1CC2=C(CC[C@H](C2)O)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
+3β-Hydroxytibolone	C[C@@H]1CC2=C(CC[C@@H](C2)O)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
