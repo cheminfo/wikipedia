@@ -3750,6 +3750,7 @@ AEBSF	FS(=O)(=O)c1ccc(cc1)CCN
 Grandisol	OCC[C@]1(C)[C@H](C(=C)C)CC1
 Mexiletine	O(c1c(cccc1C)C)CC(N)C
 Zinc hydroxide	[Zn+2].[OH-].[OH-]
+Zinc nitride	[N-]=[Zn].[N-]=[Zn].[Zn+2]
 Yttrium(III) fluoride	F[Y](F)F
 Yttrium(III) chloride	Cl[Y](Cl)Cl
 Yttrium(III) bromide	Br[Y](Br)Br
@@ -3960,6 +3961,7 @@ Dimethyl phthalate	O=C(OC)c1ccccc1C(=O)OC
 Hypoglycin B	O=C(N[C@H](C(=O)O)C[C@H]1C(=C)C1)CC[C@@H](C(=O)O)N
 Nateglinide	O=C(N[C@H](Cc1ccccc1)C(O)=O)[C@H]2CC[C@@H](CC2)C(C)C
 Zirconium disulfide	[S-2].[S-2].[Zr+4]
+Zinc antimonide	[Zn].[Zn+2].[Zn+2].[Zn+2].[Sb].[Sb].[Sb]
 Zinc chlorate	[Zn+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Mangafodipir	[H+].[H+].[H+].[H+].[H+].[H+].Cc1c(c(c(cn1)COP(=O)([O-])[O-])CN(CCN(Cc2c(cnc(c2[O-])C)COP(=O)([O-])[O-])CC(=O)[O-])CC(=O)[O-])[O-].[Mn+2]
 Zinc phosphate	[Zn+2].[Zn+2].[Zn+2].[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O
