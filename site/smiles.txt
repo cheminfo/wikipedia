@@ -13784,6 +13784,7 @@ Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
+17α-Estradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
 7,8-Dihydroxyflavone	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
@@ -15527,7 +15528,6 @@ Diethyl lutidinate	CCOC(=O)C1=CC(=NC=C1)C(=O)OCC
 (Butadiene)iron tricarbonyl	C=CC=C.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Fe]
 Phosphetane	C1CPC1
 N-Desmethylapalutamide	C1CC2(C1)C(=O)N(C(=S)N2C3=CC(=C(C=C3)C(=O)N)F)C4=CN=C(C(=C4)C(F)(F)F)C#N
-Lead magnesium niobate	O=[Mg].O=[Nb]12O[Nb](=O)(O1)O2.O=[Pb].O=[Pb].O=[Pb]
 Morantel	CC1=C(SC=C1)C=CC2=NCCCN2C
 Phomoxanthone A	CC1CC(=O)C2=C(C3=C(C=CC(=C3OC2(C1OC(=O)C)COC(=O)C)C4=C5C(=C(C=C4)O)C(=C6C(=O)CC(C(C6(O5)COC(=O)C)OC(=O)C)C)O)O)O
 Phomoxanthone B	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C5C(=C(C=C4)O)C(=C6C(=O)CC(C(C6(O5)COC(=O)C)OC(=O)C)C)O)OC2(C1OC(=O)C)COC(=O)C)O
