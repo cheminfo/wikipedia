@@ -33,7 +33,6 @@ Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
 Ethanol	CCO
 Erythromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
-Epinephrine	CNC[C@H](O)C1=CC=C(O)C(O)=C1
 Flunitrazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3F)=O)=O
 Glycine	C(C(=O)O)N
 Guanosine	c1nc2c(=O)[nH]c(nc2n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
@@ -3029,6 +3028,7 @@ Ethyl isopropyl ketone	O=C(CC)C(C)C
 Imiquimod	n3c1ccccc1c2c(ncn2CC(C)C)c3N
 Fluoroantimonic acid	[FH2+].F[Sb-](F)(F)(F)(F)F
 Pyrimethamine	Clc2ccc(c1c(nc(nc1CC)N)N)cc2
+Uranium dioxide	[O-2].[O-2].[U+4]
 Palladium on carbon	[Pd]
 Isopentenyl pyrophosphate	CC(=C)CCOP(=O)([O-])OP(=O)([O-])[O-]
 Geranyl pyrophosphate	O=P(O)(O)OP(=O)(OC/C=C(/CC\C=C(/C)C)C)O
@@ -6785,6 +6785,7 @@ P-Menthane-3,8-diol	OC(C1CCC(CC1O)C)(C)C
 Acibenzolar	SC(=O)c1cccc2nnsc12
 Caldarchaeol	CC1CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCCC(CCCC(CCCC(CCOCC(OCCC(CCCC(CCCC(CCCC(CCC(CCC1)C)C)C)C)C)CO)C)C)C)C)C)C)C)C)CO)C)C
 Gadobutrol	C1CN(CCN(CCN(CCN1CC(=O)[O-])CC(=O)[O-])[C@@H](CO)[C@H](CO)O)CC(=O)[O-].[Gd+3]
+Adrenaline	CNC[C@H](O)C1=CC=C(O)C(O)=C1
 12-Crown-4	C1COCCOCCOCCO1
 15-Crown-5	C1COCCOCCOCCOCCO1
 Apricitabine	O=C1/N=C(/N)\C=C/N1[C@@H]2S[C@@H](OC2)CO
@@ -11914,7 +11915,10 @@ Beta-Tocotrienol	CC1=CC(=C(C2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C)O
 Uranium trifluoride	F[U](F)F
 Astatine monobromide	[At+].[Br-]
 4-Ethylmethcathinone	C(C(C)NC)(=O)C1=CC=C(C=C1)CC
+Uranium hexachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U]
+Uranium disulfide	[S-2].[S-2].[U+4]
 Uranium pentaiodide	[I-].[I-].[I-].[I-].[I-].[U+5]
+Uranium diselenide	[Se-2].[Se-2].[U+4]
 BD1031	c1cc(c(cc1CCN2CCN3CCC[C@@H]3C2)Cl)Cl
 LR132	c1cc(c(cc1CCN[C@H]2CCCC[C@H]2N3CCCC3)Cl)Cl
 BD1063	CN1CCN(CC1)CCc2ccc(c(c2)Cl)Cl
@@ -12461,7 +12465,7 @@ Elafibranor	O=C(O)C(Oc1c(cc(cc1C)\C=C\C(=O)c2ccc(SC)cc2)C)(C)C
 GW0742	FC(F)(F)c3c(F)cc(c1nc(c(s1)CSc2cc(c(OCC(=O)O)cc2)C)C)cc3
 Azaspiracid	C[C@@H]1C[C@H]2[C@H]3[C@H](C[C@@]4(O3)[C@@H](C[C@@H](CN4)C)C)O[C@@](C1)(O2)CC(=C)[C@H]5[C@@H](C[C@@H]([C@](O5)([C@H]([C@H]6C[C@H]7[C@@H](O6)C[C@@H]([C@]8(O7)CC[C@]9(O8)CC=C[C@@H](O9)/C=C/CCC(=O)O)C)O)O)C)C
 Glycerol phenylbutyrate	C1=CC=C(C=C1)CCCC(=O)OCC(COC(=O)CCCC2=CC=CC=C2)OC(=O)CCCC3=CC=CC=C3
-MBX-8025	CCO[C@H](COc1ccc(cc1)C(F)(F)F)CSc2ccc(c(c2)C)OCC(=O)O
+Seladelpar	CCO[C@H](COC1=CC=C(C=C1)C(F)(F)F)CSC2=CC(=C(C=C2)OCC(=O)O)C
 L-165041	CCCc1c(ccc(c1O)C(=O)C)OCCCOc2ccc(cc2)OCC(=O)O
 ADBICA	CCCCCN1C=C(C2=CC=CC=C21)C(=O)NC(C(=O)N)C(C)(C)C
 ADB-FUBINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
@@ -15533,3 +15537,4 @@ Phomoxanthone A	CC1CC(=O)C2=C(C3=C(C=CC(=C3OC2(C1OC(=O)C)COC(=O)C)C4=C5C(=C(C=C4
 Phomoxanthone B	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C5C(=C(C=C4)O)C(=C6C(=O)CC(C(C6(O5)COC(=O)C)OC(=O)C)C)O)OC2(C1OC(=O)C)COC(=O)C)O
 Dicerandrol C	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)OC6(C(C(CC(=O)C6=C5O)C)OC(=O)C)COC(=O)C)O)OC2(C1OC(=O)C)COC(=O)C)O
 Acetozone	CC(=O)OOC(=O)c1ccccc1
+5α-Dihydrolevonorgestrel	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
