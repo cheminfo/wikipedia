@@ -9024,7 +9024,6 @@ Thioproperazine	CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C
 Butaperazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4)CCC
 Pipotiazine	CN(C)S(=O)(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
 Moperone	CC1=CC=C(C=C1)C2(CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)O
-Levosulpiride	CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC
 Prothipendyl	CN(C)CCCN1C2=CC=CC=C2SC3=C1N=CC=C3
 Clotiapine	Clc2ccc1Sc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
 Oxaflozane	O1CCN(C(C)C)CC1c2cc(C(F)(F)F)ccc2
@@ -15540,3 +15539,4 @@ Acetozone	CC(=O)OOC(=O)c1ccccc1
 5α-Dihydrolevonorgestrel	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
 Flonicamid	C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N
 CUMYL-4CN-BINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CCCCC#N)C3=C2C=CC=C3
+1P-ETH-LAD	CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC)C(=O)N(CC)CC)C4=C2C1=CC=C4
