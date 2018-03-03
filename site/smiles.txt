@@ -10135,7 +10135,7 @@ Acetolactic acid	O=C(C)[C@](O)(C(=O)O)C
 Denaverine	CCC(CC)COC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OCCN(C)C
 Nomegestrol	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](O)(C(=O)C)CC[C@@H]12)C)[C@H]3CC4)C
 Quingestanol	O(\C4=C\C3=C\C[C@@H]2[C@H](CC[C@]1(C)[C@@](C#C)(O)CC[C@H]12)[C@H]3CC4)C5CCCC5
-Proligestone	CCC1O[C@@]23CC[C@]([C@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@H]45)C)(O1)C(=O)C
+Proligestone	CCC1O[C@@]23CC[C@]([C@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C)(O1)C(=O)C
 Delmadinone	O=C\1\C=C/[C@]4(C(=C/1)C(\Cl)=C/[C@@H]2[C@@H]4CC[C@@]3([C@@](O)(C(=O)C)CC[C@@H]23)C)C
 Altrenogest	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(CC=C)O
 Allylestrenol	O[C@]2(CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4)C\C=C
@@ -15539,3 +15539,7 @@ Acetozone	CC(=O)OOC(=O)c1ccccc1
 Flonicamid	C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N
 CUMYL-4CN-BINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CCCCC#N)C3=C2C=CC=C3
 1P-ETH-LAD	CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC)C(=O)N(CC)CC)C4=C2C1=CC=C4
+Ethylpropyltryptamine	CCCN(CC)CCC1=CNC2=CC=CC=C12
+4-HO-EPT	CCCN(CC)CCC1=CNC2=CC=CC(O)=C12
+Althiomycin	COC1=CC(=O)N(C1)C(=O)[C@H]1CSC(=N1)[C@H](CO)NC(=O)C1=CSC(\C=N\O)=N1
+N-Formylmorpholine	C1COCCN1C=O
