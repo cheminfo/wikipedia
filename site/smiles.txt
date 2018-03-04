@@ -8604,7 +8604,6 @@ Chlorophetanol	Clc1ccc(OCCO)cc1
 Allyl methyl sulfide	CSCC=C
 Linoleyl alcohol	CCCCC/C=C\C/C=C\CCCCCCCCO
 2-Methylisoborneol	OC2(C)CC1CCC2(C1(C)C)C
-Nicoracetam	COC1=NC=C(C=C1)C(=O)N2CCCC2=O
 Diphenylsilanediol	c1ccc(cc1)[Si](c2ccccc2)(O)O
 Diisodecyl phthalate	O=C(OCCCCCCCC(C)C)C1=CC=CC=C1C(OCCCCCCCC(C)C)=O
 Antiarin	CC1C(C(C(C(O1)OC2CCC3(C4CC(C5(C(CCC5(C4CCC3(C2)O)O)C6=CC(=O)OC6)C)O)C=O)O)O)O
@@ -13540,6 +13539,7 @@ Hydroxybupropion	O=C(c1cc(Cl)ccc1)C(NC(C)(C)CO)C
 Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
 Funapide	C1C2(C3=CC=CC=C3N(C2=O)CC4=CC=C(O4)C(F)(F)F)C5=CC6=C(C=C5O1)OCO6
 Fluopicolide	C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
+Fosetyl-Al	CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3]
 Vixotrigine	C1CC(NC1C2=CC=C(C=C2)OCC3=CC=CC=C3F)C(=O)N
 PF-05089771	C1=CC(=C(C=C1Cl)C2=C(NN=C2)N)OC3=CC(=C(C=C3Cl)S(=O)(=O)NC4=CSC=N4)F
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
@@ -14293,6 +14293,7 @@ PHTPP	C1=CC=C(C=C1)C2=NN3C(=CC(=NC3=C2C4=CC=C(C=C4)O)C(F)(F)F)C(F)(F)F
 Triphenylethylene	C1=CC=C(C=C1)C=C(C2=CC=CC=C2)C3=CC=CC=C3
 Ethamoxytriphetol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)OC)(C3=CC=CC=C3)O
 Duvelisib	C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5
+Hydroxycitronellal	CC(CCCC(C)(C)O)CC=O
 WAY-200070	C1=CC(=O)C=CC1=C2NC3=CC(=CC(=C3O2)Br)O
 (S)-Equol	C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O
 SC-5233	CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC45CCC(=O)O5)C
@@ -15543,3 +15544,4 @@ Ethylpropyltryptamine	CCCN(CC)CCC1=CNC2=CC=CC=C12
 4-HO-EPT	CCCN(CC)CCC1=CNC2=CC=CC(O)=C12
 Althiomycin	COC1=CC(=O)N(C1)C(=O)[C@H]1CSC(=N1)[C@H](CO)NC(=O)C1=CSC(\C=N\O)=N1
 N-Formylmorpholine	C1COCCN1C=O
+Formanilide	C1=CC=C(C=C1)NC=O
