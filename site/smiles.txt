@@ -1774,6 +1774,7 @@ Tolterodine	Cc1ccc(c(c1)[C@H](CCN(C(C)C)C(C)C)c2ccccc2)O
 Phorone	O=C(C=C(C)C)C=C(C)C
 3,3'-Diaminobenzidine	c2(c1cc(N)c(N)cc1)ccc(N)c(N)c2
 Tinidazole	[O-][N+](=O)c1cnc(n1CCS(=O)(=O)CC)C
+CX717	C1COCCN1C(=O)C2=CC3=NON=C3C=C2
 Lithium tetramethylpiperidide	[Li]N1C(C)(C)CCCC1(C)C
 Potassium superoxide	[O-][O-].[K+].[K+]
 2,2,6,6-Tetramethylpiperidine	N1C(C)(CCCC1(C)C)C
@@ -15554,3 +15555,7 @@ Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[
 Lusutrombopag	CCCCCCOC(C)C1=CC=CC(=C1OC)C2=CSC(=N2)NC(=O)C3=CC(=C(C(=C3)Cl)C=C(C)C(=O)O)Cl
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
 CUMYL-5F-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
+N-Methyltaurine	CNCCS(=O)(=O)O
+Cymegesolate	CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=C[C@H](CC4)OC(=O)CCC5CCCC5)C
+Megestrol caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)C)C)C(=O)C
+Cyclopentyne	C1CC#CC1
