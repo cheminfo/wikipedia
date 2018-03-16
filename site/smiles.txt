@@ -13892,7 +13892,7 @@ DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)OO
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
-Ammonium hexachloroiridate	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
+Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
 Methylselenocysteine	C[Se]C[C@@H](C(=O)O)N
 Cassaine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCN(C)C)[C@]3(CC[C@@H](C([C@@H]3CC2=O)(C)C)O)C
 Ammonium pertechnetate	[O-][Tc](=O)(=O)=O.[NH4+]
@@ -15561,3 +15561,5 @@ Megestrol caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)
 Cyclopentyne	C1CC#CC1
 Ethylenedinitramine	C(CN[N+](=O)[O-])N[N+](=O)[O-]
 1,3-Dichloropropan-2-ol	C(C(CCl)O)Cl
+Actinium(III) chloride	[Cl-].[Cl-].[Cl-].[Ac]
+Yttrium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Y+3].[Y+3]
