@@ -2330,6 +2330,7 @@ Lawesson's reagent	S=P1(SP(=S)(S1)c2ccc(OC)cc2)c3ccc(OC)cc3
 Seminaphtharhodafluor	O=C(O1)C2=C(C=CC=C2)C31C4=CC=C(N)C=C4OC5=C3C=CC6=C5C=CC(O)=C6
 Bis-tris propane	OCC(CO)(CO)NCCCNC(CO)(CO)CO
 Texas Red	ClS(=O)(=O)c8ccc(C=1c5c(OC=3C=1\C=C2/C\4=[N+](\CCC2)CCCC=3/4)c7c6c(c5)CCCN6CCC7)c(c8)S([O-])(=O)=O
+Ferrovanadium	[V].[Fe]
 Fluocinonide	O=C(OCC(=O)[C@]45OC(O[C@@H]5C[C@@H]2[C@@]4(C[C@H](O)[C@]3(F)[C@]/1(/C=C\C(=O)\C=C\1[C@@H](F)C[C@@H]23)C)C)(C)C)C
 Uranyl nitrate	[N+](=O)([O-])O[U-2](=O)(=O)O[N+](=O)[O-]
 Psoralen	O=C1/C=C\c2cc3ccoc3cc2O1
@@ -15295,6 +15296,7 @@ ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
 LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
 Xerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
+Para-diethynylbenzene dianion	[C-]#Cc1ccc(cc1)C#[C-]
 Methyl propiolate	COC(=O)C#C
 Ethyl propiolate	CCOC(=O)C#C
 Cortobenzolone	C[C@]12C[C@@H](C3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)COC(=O)C4=CC=CC=C4O)O)O)CCC5=CC(=O)C=C[C@@]53C)F)O
@@ -15568,3 +15570,5 @@ A-234 (nerve agent)	CCOP(F)(=O)\N=C(/C)\N(CC)CC
 Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=CC=C97)C1=CC=CC=C1C1=C8C4=C(C2=CC=CC=C23)C2=CC=CC=C21
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
+T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
+19-Nordehydroepiandrosterone	O=C1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@]([H])3CC[C@@](CC3=CC[C@]12[H])O[H]
