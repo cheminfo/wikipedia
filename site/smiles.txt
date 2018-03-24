@@ -15296,7 +15296,7 @@ ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
 LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
 Xerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
-Para-diethynylbenzene dianion	[C-]#Cc1ccc(cc1)C#[C-]
+Para-Diethynylbenzene dianion	[C-]#Cc1ccc(cc1)C#[C-]
 Methyl propiolate	COC(=O)C#C
 Ethyl propiolate	CCOC(=O)C#C
 Cortobenzolone	C[C@]12C[C@@H](C3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)COC(=O)C4=CC=CC=C4O)O)O)CCC5=CC(=O)C=C[C@@]53C)F)O
@@ -15571,4 +15571,5 @@ Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=C
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
 T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
+Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
 19-Nordehydroepiandrosterone	O=C1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@]([H])3CC[C@@](CC3=CC[C@]12[H])O[H]
