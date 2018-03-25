@@ -13906,7 +13906,7 @@ Fluorotriiodomethane	C(F)(I)(I)I
 Bromochlorofluoromethane	C(F)(Cl)Br
 Brunfelsamidine	c1c[nH]cc1C(=N)N
 Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
-LY-2940094	Cc1c(cn(n1)c2c(cccn2)CO)CN3CCC4(CC3)c5c(cc(s5)Cl)C(CO4)(F)F
+BTRX-246040	Cc1c(cn(n1)c2c(cccn2)CO)CN3CCC4(CC3)c5c(cc(s5)Cl)C(CO4)(F)F
 Furanylfentanyl	O=C(N(C1CCN(CC1)CCc2ccccc2)c3ccccc3)c4occc4
 Ammonium dimolybdate	[NH4+].[O-][Mo](=O)(=O)[O-].[O-][Mo](=O)(=O)[O-]
 Argpyrimidine	O=C([C@@H](C)CCCNC1=NC(C)=C(O)C(C)=N1)O
@@ -15573,3 +15573,4 @@ Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
 T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
 19-Nordehydroepiandrosterone	O=C1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@]([H])3CC[C@@](CC3=CC[C@]12[H])O[H]
+Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
