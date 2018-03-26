@@ -4955,6 +4955,7 @@ Phenyl salicylate	O=C(Oc2ccccc2)c1c(O)cccc1
 Decabromodiphenyl ether	Brc2c(Oc1c(Br)c(Br)c(Br)c(Br)c1Br)c(Br)c(Br)c(Br)c2Br
 Methylenedioxypyrovalerone	O=C(C(CCC)N1CCCC1)C2=CC=C3C(OCO3)=C2
 Pyrovalerone	O=C(C(CCC)N1CCCC1)C2=CC=C(C)C=C2
+Alpha-Pyrrolidinopropiophenone	O=C(C(C)N1CCCC1)C2=CC=CC=C2
 Para-Methoxyphenylpiperazine	C1=CC(=CC=C1N2CCNCC2)OC
 Niaprazine	Fc3ccc(N2CCN(CCC(NC(=O)c1cccnc1)C)CC2)cc3
 Antrafenine	FC(F)(F)c5ccc1c(nccc1Nc2ccccc2C(=O)OCCN4CCN(c3cc(ccc3)C(F)(F)F)CC4)c5
@@ -14298,7 +14299,6 @@ Ethamoxytriphetol	CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)OC)(C3=CC=CC=C3)O
 Duvelisib	C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5
 Hydroxycitronellal	CC(CCCC(C)(C)O)CC=O
 WAY-200070	C1=CC(=O)C=CC1=C2NC3=CC(=CC(=C3O2)Br)O
-(S)-Equol	C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O
 SC-5233	CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC45CCC(=O)O5)C
 Dimethyl dithiophosphoric acid	COP(=S)(OC)S
 Methylestradiol	CC12CCC3C(C1CCC2(C)O)CCC4=C3C=CC(=C4)O
@@ -15574,3 +15574,8 @@ T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
 19-Nordehydroepiandrosterone	O=C1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@]([H])3CC[C@@](CC3=CC[C@]12[H])O[H]
 Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
+Fluorophosphoric acid	OP(=O)(O)F
+Trendione	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
+5α-Dihydronormethandrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
+Butocarboxim	CC(C(=NOC(=O)NC)C)SC
+Difluorophosphoric acid	OP(=O)(F)F
