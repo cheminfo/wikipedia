@@ -2538,7 +2538,6 @@ Suberic acid	O=C(O)CCCCCCC(=O)O
 Santonin	C[C@H]1[C@@H]2CC[C@]3(C=CC(=O)C(=C3[C@H]2OC1=O)C)C
 Picloram	ClC1=C(Cl)C(N)=C(Cl)C(C(O)=O)=N1
 Clomethiazole	ClCCC1=C(C)N=CS1
-Sodium polyacrylate	[Na+].[O-]C(=O)C=C
 Ethylene glycol dinitrate	C(CO[N+](=O)[O-])O[N+](=O)[O-]
 Sodium sulfide	[Na+].[Na+].[S-2]
 DMDNB	CC(C)(C(C)(C)[N+](=O)[O-])[N+](=O)[O-]
@@ -15579,3 +15578,4 @@ Trendione	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
 5α-Dihydronormethandrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
 Butocarboxim	CC(C(=NOC(=O)NC)C)SC
 Difluorophosphoric acid	OP(=O)(F)F
+Pentaerythritol tetrakis(3,5-di-tert-butyl-4-hydroxyhydrocinnamate)	CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CCC(=O)OCC(COC(=O)CCC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C)(COC(=O)CCC3=CC(=C(C(=C3)C(C)(C)C)O)C(C)(C)C)COC(=O)CCC4=CC(=C(C(=C4)C(C)(C)C)O)C(C)(C)C
