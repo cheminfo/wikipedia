@@ -4189,7 +4189,7 @@ Carboprost	O=C(O)CCC/C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@](O)(C)CCCCC
 Enprostil	COC(=O)CCC=C=CC[C@@H]1[C@H]([C@@H](CC1=O)O)/C=C/[C@H](COc2ccccc2)O
 Gold(I) chloride	[Au]Cl
 Salicin	c1ccc(c(c1)CO)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
-DNQX	[O-][N+](=O)C=2\C(=C/C1=N/C(=O)C(=O)/N=C1C=2)[N+]([O-])=O
+DNQX	O=c2[nH]c1cc(N(=O)=O)c(N(=O)=O)cc1[nH]c2=O
 2-Deoxy-D-glucose	O[C@H](C(CO)O[C@H](O)C1)[C@H]1O
 Zolazepam	FC1=CC=CC=C1C2=NCC(N(C)C3=C2C(C)=NN3C)=O
 Tetrazepam	Clc3cc\1c(N(C(=O)C/N=C/1/C2=C/CCCC2)C)cc3
@@ -12634,6 +12634,7 @@ Pencolide	C/C=C(/C(=O)O)\N1C(=O)C=C(C1=O)C
 Viscumamide	O=C1NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC1C(C)CC)CC(C)C)C(C)CC)CC(C)C)CC(C)C
 Yunnanin A	C1C[C@H]2C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N2C1)CC4=CC=C(C=C4)O)CC5=CC=CC=C5
 Hymenistatin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N[C@H](C(=O)N1)CC(C)C)C(C)C)Cc5ccc(cc5)O)[C@@H](C)CC
+3-Aminophthalate	O=C([O-])c1c(cccc1N)C([O-])=O
 Populin	C1=CC=C(C=C1)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC=CC=C3CO)O)O)O
 Fumigaclavine A	C[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2[C@H]1OC(=O)C)C
 Fumigaclavine C	C[C@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2[C@H]1OC(=O)C)C(C)(C)C=C)C
@@ -15446,7 +15447,6 @@ Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
 Desidustat	C1CC1CON2C3=CC=CC=C3C(=C(C2=O)C(=O)NCC(=O)O)O
 2,6-Dichloroaniline	C1=CC(=C(C(=C1)Cl)N)Cl
 Bis(benzonitrile)palladium dichloride	C1=CC=C(C=C1)C#N.C1=CC=C(C=C1)C#N.Cl[Pd]Cl
-Bemethyl	CCSC1=NC2=CC=CC=C2N1
 Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
 RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
@@ -15578,4 +15578,7 @@ Trendione	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
 5α-Dihydronormethandrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
 Butocarboxim	CC(C(=NOC(=O)NC)C)SC
 Difluorophosphoric acid	OP(=O)(F)F
+Verbenol	CC1=CC(C2CC1C2(C)C)O
 Pentaerythritol tetrakis(3,5-di-tert-butyl-4-hydroxyhydrocinnamate)	CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CCC(=O)OCC(COC(=O)CCC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C)(COC(=O)CCC3=CC(=C(C(=C3)C(C)(C)C)O)C(C)(C)C)COC(=O)CCC4=CC(=C(C(=C4)C(C)(C)C)O)C(C)(C)C
+HCTU	CN(C)C(=[N+](C)C)ON1C2=C(C=CC(=C2)Cl)N=N1.F[P-](F)(F)(F)(F)F
+5α-Dihydronorethandrolone	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@H]3CCC(=O)C4)C)O
