@@ -11614,6 +11614,7 @@ Pindobind	BrCC(=O)NC1(C)CCC(CC1)C(NCC(O)COc2cccc3c2cc[nH]3)(C)C
 Butinoline	C1CCN(C1)CC#CC(C2=CC=CC=C2)(C3=CC=CC=C3)O
 Petunidin-3-O-glucoside	COC1=CC(=CC(=C1O)O)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O
 Peonidin-3-O-glucoside	COC1=C(C=CC(=C1)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
+Copper naphthenate	C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].[Cu+2]
 Dimethyl trisulfide	S(SSC)C
 Miyabenol C	c1cc(ccc1/C=C/c2cc(cc3c2[C@@H]([C@H](O3)c4ccc(cc4)O)c5cc(cc6c5[C@H]([C@@H](O6)c7ccc(cc7)O)c8cc(cc(c8)O)O)O)O)O
 Flexuosol A	OC1=CC([C@H]2[C@H](C3=CC=C(O)C=C3)OC4=CC5=C([C@@](C6=CC=CC7=C6[C@@H](C8=CC(O)=CC(O)=C8)[C@H](C9=CC=C(O)C=C9)O7)([H])[C@@H](C%10=CC=C(O)C=C%10)O5)C(/C=C/C%11=CC=C(O)C=C%11)=C42)=CC(O)=C1
@@ -15557,6 +15558,7 @@ Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[
 Lusutrombopag	CCCCCCOC(C)C1=CC=CC(=C1OC)C2=CSC(=N2)NC(=O)C3=CC(=C(C(=C3)Cl)C=C(C)C(=O)O)Cl
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
 CUMYL-5F-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
+Cinnamyl acetate	CC(=O)OC/C=C/c1ccccc1
 N-Methyltaurine	CNCCS(=O)(=O)O
 Cymegesolate	CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=C[C@H](CC4)OC(=O)CCC5CCCC5)C
 Megestrol caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)C)C)C(=O)C
@@ -15582,3 +15584,9 @@ Verbenol	CC1=CC(C2CC1C2(C)C)O
 Pentaerythritol tetrakis(3,5-di-tert-butyl-4-hydroxyhydrocinnamate)	CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CCC(=O)OCC(COC(=O)CCC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C)(COC(=O)CCC3=CC(=C(C(=C3)C(C)(C)C)O)C(C)(C)C)COC(=O)CCC4=CC(=C(C(=C4)C(C)(C)C)O)C(C)(C)C
 HCTU	CN(C)C(=[N+](C)C)ON1C2=C(C=CC(=C2)Cl)N=N1.F[P-](F)(F)(F)(F)F
 5α-Dihydronorethandrolone	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@H]3CCC(=O)C4)C)O
+RU-16117	C[C@]12C[C@H]([C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O)OC
+Pyribenzoxim	COc1cc(nc(n1)Oc2cccc(c2C(=O)ON=C(c3ccccc3)c4ccccc4)Oc5nc(cc(n5)OC)OC)OC
+Nivalenol	CC1=C[C@H]2O[C@@H]3[C@H](O)[C@@H](O)[C@@](C)([C@]34CO4)[C@@]2(CO)[C@H](O)C1=O
+RU-2309	CC[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(C)O
+Dimethyldienolone	O([H])[C@](C)1CC[C@]([H])2[C@@]([H])3[C@](C)CC4=CC(CCC4=C3CC[C@@]21C)=O
+7α-Methylestradiol	O([H])[C@]1CC[C@]([H])2[C@@]([H])3[C@](C)CC4C=C(C=CC=4[C@@]3([H])CC[C@@]21C)O[H]
