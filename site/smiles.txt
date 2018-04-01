@@ -3276,7 +3276,7 @@ Altretamine	n1c(nc(nc1N(C)C)N(C)C)N(C)C
 Rubidium chloride	[Rb+].[Cl-]
 Geldanamycin	NC(=O)O[C@H]1C(/C)=C/[C@H](C)[C@@H](O)[C@@H](OC)C[C@H](C)C\C2=C(/OC)C(=O)\C=C(\NC(=O)C(\C)=C\C=C/[C@@H]1OC)C2=O
 Heptanitrocubane	[O-][N+](=O)C14C3C2([N+]([O-])=O)C1([N+]([O-])=O)C5([N+]([O-])=O)C2([N+]([O-])=O)C3([N+]([O-])=O)C45[N+]([O-])=O
-Mirex (insecticide)	ClC12C(C3(Cl)Cl)(Cl)C4(Cl)C1(Cl)C(Cl)(Cl)C5(Cl)C4(Cl)C3(Cl)C52Cl
+Mirex	ClC12C(C3(Cl)Cl)(Cl)C4(Cl)C1(Cl)C(Cl)(Cl)C5(Cl)C4(Cl)C3(Cl)C52Cl
 Clorgiline	Clc1cc(Cl)ccc1OCCCN(CC#C)C
 Sanguinarine	O1c3c(OC1)c2c[n+](c5c(c2cc3)ccc6cc4OCOc4cc56)C
 Brivudine	Br[C@H]=CC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
@@ -8238,7 +8238,6 @@ Lonidamine	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)O
 Mitoguazone	C\C(\C=N\NC(N)=N)=N/NC(N)=N
 Triethylenemelamine	C1CN1c2nc(nc(n2)N3CC3)N4CC4
 Ortataxel	CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@]5(C2(C)C)[C@H]([C@@H]1OC(=O)[C@@H]([C@H](CC(C)C)NC(=O)OC(C)(C)C)O)OC(=O)O5)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)OC(=O)C
-Tesetaxel	CC1=C2[C@@H]3[C@H]([C@@]4(CC[C@@H]5[C@]([C@H]4[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C6=C(C=CC=N6)F)NC(=O)OC(C)(C)C)O)O)OC(=O)C7=CC=CC=C7)(CO5)OC(=O)C)C)O[C@@H](O3)CN(C)C
 Belotecan	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(c(c3C4)CCNC(C)C)cccc5
 Elsamitrucin	Cc1ccc2c3c1c(=O)oc4c3c(c(c5c4c(ccc5)O[C@H]6[C@@H]([C@@]([C@H]([C@H](O6)C)O)(C)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)C)O)OC)N)O)c(=O)o2
 Aleuritic acid	O=C(O)CCCCCCC[C@H](O)[C@H](O)CCCCCCO
@@ -13873,6 +13872,7 @@ Perillyl alcohol	CC(=C)C1CCC(=CC1)CO
 Binimetinib	CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
 Acetylpropionyl	CCC(=O)C(=O)C
 Octamethylcyclotetrasiloxane	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C
+Dicycloplatin	C1CC(C1)(C(=O)O)C(=O)O.C1CC(C1)(C(=O)[O-])C(=O)[O-].N.N.[Pt+2]
 Bismuth(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Bi+3]
 Cyclohexylmethanol	C1CCC(CC1)CO
 Cyclohexanethiol	C1CCC(CC1)S
@@ -15595,3 +15595,4 @@ Triisopropylsilane	CC(C)[Si](C(C)C)C(C)C
 Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
+Alpha-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
