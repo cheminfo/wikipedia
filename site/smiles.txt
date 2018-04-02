@@ -14111,7 +14111,7 @@ Trimethyldiborane	C[B]1(C)[H][BH](C)[H]1
 Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
 Methyldiborane	C[BH]1[H][BH2][H]1
 Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
-20-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
+20α-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
 Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
@@ -15596,3 +15596,11 @@ Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
 Alpha-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
+Histidine methyl ester	COC(=O)[C@H](Cc1c[nH]cn1)N
+Progesterone 3-acetyl enol ether	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CCC(=C4)OC(=O)C)C)C
+EIDD-1723	C/C([C@H]1CC[C@@]2([H])[C@]3([H])CCC4=CC(CC[C@]4(C)[C@@]3([H])CC[C@]12C)=O)=N\OCOP([O-])([O-])=O.[Na+].[Na+]
+EIDD-036	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+20α-Dihydrotrengestone	O([H])[C@@](C)[C@]([H])1CC[C@]([H])2[C@@]([H])3C=C(Cl)C4=CC(C=C[C@@]4(C)[C@]3([H])CC[C@@]21C)=O
+20α-Dihydrodydrogesterone	CC([C@H]1CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=CC4=CC(=O)CC[C@@]34C)C)O
+Potassium amyl xanthate	CCCCCOC(=S)[S-].[K+]
+Hydrocortisone hemisuccinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC(=O)O)O)C)O
