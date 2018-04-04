@@ -5555,7 +5555,7 @@ Para-Nitrophenylphosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
 Cobalt(II) naphthenate	c1ccc2cc(ccc2c1)C(=O)[O-].c1ccc2cc(ccc2c1)C(=O)[O-].[Co+2]
 Potassium hexafluorophosphate	[K+].F[P-](F)(F)(F)(F)F
 Diethylene glycol dinitrate	C(CO[N+](=O)[O-])OCCO[N+](=O)[O-]
-HEPPS (molecule)	O=S(=O)(O)CCCN1CCN(CCO)CC1
+HEPPS (buffer)	O=S(=O)(O)CCCN1CCN(CCO)CC1
 Epigallocatechin gallate	O=C(O[C@@H]2Cc3c(O[C@@H]2c1cc(O)c(O)c(O)c1)cc(O)cc3O)c4cc(O)c(O)c(O)c4
 3-Nitrobenzyl alcohol	[O-][N+](=O)c1cccc(c1)CO
 MPM (psychedelic)	COc1cc(OC)c(cc1OCCC)CC(C)N
@@ -15604,3 +15604,4 @@ EIDD-036	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 20α-Dihydrodydrogesterone	CC([C@H]1CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=CC4=CC(=O)CC[C@@]34C)C)O
 Potassium amyl xanthate	CCCCCOC(=S)[S-].[K+]
 Hydrocortisone hemisuccinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC(=O)O)O)C)O
+Diacetyl monoxime	CC(=NO)C(=O)C
