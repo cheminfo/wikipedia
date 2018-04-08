@@ -15606,3 +15606,6 @@ Hydrocortisone hemisuccinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H
 Diacetyl monoxime	CC(=NO)C(=O)C
 2-Diphenylphosphinobenzoic acid	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C(=O)O
 Nitroxinil	C1=C(C=C(C(=C1[N+](=O)[O-])O)I)C#N
+TBPS	CC(C)(C)C12COP(=S)(OC1)OC2
+IPTBO	CC(C)C12COP(=O)(OC1)OC2
+Lithium diphenylphosphide	[Li+].C1=CC=C(C=C1)[P-]C2=CC=CC=C2
