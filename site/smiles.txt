@@ -1220,7 +1220,7 @@ Baclofen	ClC1=CC=C(C(CC(O)=O)CN)C=C1
 Triphenylmethane	c1c(cccc1)C(c2ccccc2)c3ccccc3
 Silver(I) fluoride	[Ag+].[F-]
 Piperine	O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2
-Phthalocyanine	C1=CC=C2C(=C1)C3=NC4=C5C=CC=CC5=C(N4)N=C6C7=CC=CC=C7C(=N6)N=C8C9=CC=CC=C9C(=N8)N=C2N3
+Phthalocyanine	C12=CC=CC=C1/C3=N/C4=C5C=CC=CC5=C(/N=C6C7=CC=CC=C7C(/N=C8C9=C(/C(N/8)=N/C2=N3)C=CC=C9)=N/6)N4
 Ammonium carbonate	O=C(O)O.N.N
 Procainamide	O=C(c1ccc(N)cc1)NCCN(CC)CC
 Aluminium nitride	[Al]#N
@@ -15609,3 +15609,5 @@ Nitroxinil	C1=C(C=C(C(=C1[N+](=O)[O-])O)I)C#N
 TBPS	CC(C)(C)C12COP(=S)(OC1)OC2
 IPTBO	CC(C)C12COP(=O)(OC1)OC2
 Lithium diphenylphosphide	[Li+].C1=CC=C(C=C1)[P-]C2=CC=CC=C2
+EBOB	CCCC12COC(OC1)(OC2)c3ccc(cc3)C#C
+Niobium diboride	[B].[B].[Nb]
