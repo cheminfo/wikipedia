@@ -15597,7 +15597,7 @@ Pyribenzoxim	COc1cc(nc(n1)Oc2cccc(c2C(=O)ON=C(c3ccccc3)c4ccccc4)Oc5nc(cc(n5)OC)O
 Nivalenol	CC1=C[C@H]2O[C@@H]3[C@H](O)[C@@H](O)[C@@](C)([C@]34CO4)[C@@]2(CO)[C@H](O)C1=O
 RU-2309	CC[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(C)O
 Dimethyldienolone	O([H])[C@](C)1CC[C@]([H])2[C@@]([H])3[C@](C)CC4=CC(CCC4=C3CC[C@@]21C)=O
-7α-Methylestradiol	O([H])[C@]1CC[C@]([H])2[C@@]([H])3[C@](C)CC4C=C(C=CC=4[C@@]3([H])CC[C@@]21C)O[H]
+7α-Methylestradiol	[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3C[C@@H](C)[C@@]21[H]
 Triisopropylsilane	CC(C)[Si](C(C)C)C(C)C
 Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
@@ -15609,7 +15609,7 @@ Progesterone 3-acetyl enol ether	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4
 EIDD-1723	C/C([C@H]1CC[C@@]2([H])[C@]3([H])CCC4=CC(CC[C@]4(C)[C@@]3([H])CC[C@]12C)=O)=N\OCOP([O-])([O-])=O.[Na+].[Na+]
 EIDD-036	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 20α-Dihydrotrengestone	O([H])[C@@](C)[C@]([H])1CC[C@]([H])2[C@@]([H])3C=C(Cl)C4=CC(C=C[C@@]4(C)[C@]3([H])CC[C@@]21C)=O
-20α-Dihydrodydrogesterone	CC([C@H]1CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=CC4=CC(=O)CC[C@@]34C)C)O
+20α-Dihydrodydrogesterone	[H][C@@]1(CC[C@@]2([H])[C@]3([H])C=CC4=CC(=O)CC[C@]4(C)[C@]3([H])CC[C@]12C)[C@H](C)O
 Potassium amyl xanthate	CCCCCOC(=S)[S-].[K+]
 Hydrocortisone hemisuccinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC(=O)O)O)C)O
 Diacetyl monoxime	CC(=NO)C(=O)C
