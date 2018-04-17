@@ -13889,6 +13889,7 @@ BU09059	CCOC(=O)C(CN1CC[C@](C)([C@@H](C)C1)c2cccc(O)c2)NC(=O)[C@H]3Cc4ccc(O)cc4C
 Samatasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]c3ccc(cc3n2)c4csc5c4scc5c6ccc(cc6)c7c[nH]c(n7)[C@@H]8CCCN8C(=O)[C@@H](c9ccccc9)NC(=O)OC)NC(=O)OC
 Omaveloxolone	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(NC(=O)C(F)(F)C)CCC(C)(C)C[C@H]12)(C)[C@]3(C)CC[C@H]5C4(C)C)C
 Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
+Involutin	O[C@H]1[C@H](C(=O)C(=C1O)C1=CC=C(O)C=C1)C1=CC=C(O)C(O)=C1
 Cyclobis(paraquat-p-phenylene)	c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2
 Trimethylhexamethylenediamine	CC(CC(C)(C)CCN)CN
 Anabaseine	C1CCC(=NC1)c1cccnc1
@@ -15454,6 +15455,7 @@ Molidustat	C1COCCN1C2=NC=NC(=C2)N3C(=O)C(=CN3)N4C=CN=N4
 Desidustat	C1CC1CON2C3=CC=CC=C3C(=C(C2=O)C(=O)NCC(=O)O)O
 2,6-Dichloroaniline	C1=CC(=C(C(=C1)Cl)N)Cl
 Bis(benzonitrile)palladium dichloride	C1=CC=C(C=C1)C#N.C1=CC=C(C=C1)C#N.Cl[Pd]Cl
+Bemethyl	CCSC1=NC2=CC=CC=C2N1
 Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
 RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
