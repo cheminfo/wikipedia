@@ -6871,7 +6871,7 @@ Nickel chromate	[O-][Cr](=O)(=O)[O-].[Ni+2]
 Gabexate	O=C(Oc1ccc(cc1)C(=O)OCC)CCCCC/N=C(\N)N
 Carbohydrazide	O=C(NN)NN
 2-Methylpyridine	Cc1ccccn1
-WAY-100,635	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
+WAY-100635	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
 Alpha-Furil	O=C(C(=O)c1occc1)c2occc2
 Salutaridine	CN1CC[C@]23C=C(C(=O)C=C2[C@H]1CC4=C3C(=C(C=C4)OC)O)OC
 Verdamicin	C[C@@H](C1=CC[C@H]([C@H](O1)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@](CO3)(C)O)NC)O)N)N)N)N
@@ -8779,7 +8779,7 @@ Dasotraline	C1C[C@H](C2=CC=CC=C2[C@@H]1C3=CC(=C(C=C3)Cl)Cl)N
 Cadmium hydroxide	[Cd+2].[OH-].[OH-]
 Amfonelic acid	CCN1C=C(C(=O)C2=C1N=C(C=C2)CC3=CC=CC=C3)C(=O)O
 Adhyperforin	CCC(C)C(=O)C12C(=C(C(=O)C(C1=O)(CC(C2(C)CCC=C(C)C)CC=C(C)C)CC=C(C)C)CC=C(C)C)O
-WAY-100,135	c2ccccc2C(C(=O)NC(C)(C)C)CN(CC3)CCN3c1ccccc1OC
+WAY-100135	c2ccccc2C(C(=O)NC(C)(C)C)CN(CC3)CCN3c1ccccc1OC
 Riociguat	c14ncccc4c(-c(nc2N)nc(N)c2N(C)C(=O)OC)nn1Cc3ccccc3F
 Cinaciguat	c4ccccc4CCc3ccc(cc3)COc1ccccc1CCN(CCCCC(O)=O)Cc2ccc(C(=O)O)cc2
 Cyclopentadienylcobalt dicarbonyl	[C-]#[O+].[C-]#[O+].[cH-]1cccc1.[Co]
@@ -10082,7 +10082,7 @@ Benzvalene	C1=CC2C3C1C23
 Claus' benzene	C12C3C4C2C3C41
 Bicyclopropenyl	C\1=C\C/1C\2/C=C/2
 1-Nonyl-4-phenol	CCCCCCCCCC1=CC=C(C=C1)O
-WAY-317,538	C3COCCN3CCCCC(=O)Nc1ccc(cc1)-c2cccnc2
+WAY-317538	C3COCCN3CCCCC(=O)Nc1ccc(cc1)-c2cccnc2
 Gallocatechin gallate	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
 Sclareol	CC1(C)CCC[C@@]2(C)[C@@]1([H])CC[C@@](C)(O)[C@@H]2CC[C@](O)(C)C=C
 Guibourtinidol	Oc1ccc(cc1)[C@H]3Oc2cc(O)ccc2C[C@@H]3O
@@ -10126,8 +10126,9 @@ Doxpicomine	CN(C)C(C1COCOC1)C2=CN=CC=C2
 RH-34	O=c1[nH]c2ccccc2c(=O)n1CCNCc3ccccc3OC
 LSD-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
 AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
-WAY-181,187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
+WAY-181187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
 Elzasonan	Clc4c(Cl)cc(N1C(=O)C(\SCC1)=C\c3ccccc3N2CCN(C)CC2)cc4
+WAY-208466	CN(C)CCN1C=C(C2=C1N=CC=C2)S(=O)(=O)C3=CC=CC(=C3)F
 Eutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NCC
 4,4'-Dichlorobenzophenone	O=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2
 Acetolactic acid	O=C(C)[C@](O)(C(=O)O)C
@@ -12585,6 +12586,7 @@ Liquiritin	C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]
 Xanthotoxol	C1=CC(=O)OC2=C(C3=C(C=CO3)C=C21)O
 Fraxetin	COC1=C(C(=C2C(=C1)C=CC(=O)O2)O)O
 Sulfoxaflor	CC(c1ccc(nc1)C(F)(F)F)S(=NC#N)(=O)C
+Brutieridin	CC1C(C(C(C(O1)OC2C(C(C(OC2C3=CC4=C(C(=O)CC(O4)C5=CC(=C(C=C5)OC)O)C(=C3)O)COC(=O)CC(C)(CC(=O)O)O)O)O)O)O)O
 Perfluoroheptane	C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
 6-MAPB	CC(NC)CC1=CC(OC=C2)=C2C=C1
 25D-NBOMe	COC1=C(C=C(C(=C1)C)OC)CCNCC2=C(C=CC=C2)OC
@@ -15626,3 +15628,4 @@ Rhenium diselenide	[Se]=[Re]=[Se]
 Rhenium disulfide	S=[Re]=S
 Rhenium ditelluride	[Te]=[Re]=[Te]
 Deoxyadenosyl radical	[CH2]C1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
+AGH-107	CCn1cncc1-c1c[nH]c2ccc(I)cc12
