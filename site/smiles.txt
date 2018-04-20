@@ -3269,6 +3269,7 @@ Nociceptin	C[C@H]([C@@H](C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@
 Norbuprenorphine	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O)O4)OC)(C(C)(C)C)O
 Biguanide	NC(=N)NC(N)=N
 1,4-Dimethoxybenzene	COc1ccc(OC)cc1
+Boron trifluoride etherate	B(F)(F)F.CCOCC
 Penbutolol	O[C@@H](CNC(C)(C)C)COc1ccccc1C2CCCC2
 Prazepam	Clc4cc\1c(N(C(=O)C/N=C/1c2ccccc2)CC3CC3)cc4
 Altretamine	n1c(nc(nc1N(C)C)N(C)C)N(C)C
@@ -6449,6 +6450,7 @@ Metofoline	ClC1=CC=C(CCC2C3=CC(OC)=C(OC)C=C3CCN2C)C=C1
 Oxilorphan	Oc3ccc4C[C@H]1N(CC[C@@]2(CCCC[C@@]12O)c4c3)CC5CC5
 Vesamicol	OC1CCCCC1N2CCC(CC2)c3ccccc3
 Oxotremorine	C1CCN(C1)CC#CCN2CCCC2=O
+Bromopentacarbonylrhenium(I)	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].Br[Re]
 Dirhenium decacarbonyl	[Re].[Re].[C-]#[O+].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-]
 4-Chloroaniline	C1=CC(=CC=C1N)Cl
 SN-38	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(c(c3C4)CC)cc(O)cc5
@@ -15633,3 +15635,4 @@ AGH-107	CCn1cncc1-c1c[nH]c2ccc(I)cc12
 Methyldichlorophosphine	CP(Cl)Cl
 Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
+Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
