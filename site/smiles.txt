@@ -13770,6 +13770,7 @@ Fanapanel	c1c(c(cc2c1[nH]c(=O)c(=O)n2CP(=O)(O)O)N3CCOCC3)C(F)(F)F
 Dasolampanel	c1cc(c(c(c1)Cl)c2[nH]nnn2)O[C@H]3CC[C@H]4CN[C@@H](C[C@H]4C3)C(=O)O
 Thioacetone	CC(=S)C
 Selepressin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCCC(=O)N
+Cyclooctadiene iridium chloride dimer	C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1.[Cl].[Cl].[Ir].[Ir]
 Barusiban	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCSCCC(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)C(=O)N(C)[C@@H](CCCN)CO)CC(=O)N)[C@H](C)CC
 Homoquinolinic acid	c1cc(c(nc1)C(=O)O)CC(=O)O
 Seltorexant	c4c(C)nc(nc4C)N5CC2CN(CC2C5)C(=O)c1c(cccc1F)-n3nccn3
@@ -14872,6 +14873,7 @@ AA560	CC(C)(C(=O)NC1=CC(=C(C(=C1)Cl)Cl)Cl)O
 15β-Hydroxycyproterone acetate	CC(=O)[C@]1(CC([C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O)OC(=O)C
 RU-22930	CN1OCCN(C1=O)C1=CC=C(C(=C1)C(F)(F)F)N(=O)=O
 Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
+Cycloheptatrienemolybdenum tricarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].C1C=CC=CC=C1.[Mo]
 1,1-Diphenylethylene	C=C(C1=CC=CC=C1)C2=CC=CC=C2
 Propalene	C1=C2C1=C2
 Epinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CNC
@@ -15639,3 +15641,4 @@ Methyldichlorophosphine	CP(Cl)Cl
 Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
+Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
