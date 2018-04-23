@@ -2320,6 +2320,7 @@ Actinidine	n1cc(c2c(c1)[C@H](CC2)C)C
 Miroprofen	O=C(O)C(c3ccc(c1nc2ccccn2c1)cc3)C
 Cyclobutene	C\1=C\CC/1
 (E)-Stilbene	c2(\C=C\c1ccccc1)ccccc2
+Beta-Hydroxy beta-methylbutyric acid	CC(C)(CC(=O)O)O
 Rubidium nitrate	[Rb+].[O-][N+]([O-])=O
 Oxandrolone	O=C3OC[C@@]2([C@H]1CC[C@@]4(C)[C@H]([C@@H]1CC[C@H]2C3)CC[C@@]4(O)C)C
 Methylone	CC(NC)C(=O)C1=CC=C(OCO2)C2=C1
@@ -13359,6 +13360,7 @@ Plakoridine A	O=C(/C=C2/N(CCc1ccc(O)cc1)[C@H]([C@H](C(=O)OC)[C@H]2O)CCC)CCCCCCCC
 Hydrogen thioperoxide	OS
 Benz(e)acephenanthrylene	C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1
 Berkeleytrione	C[C@]12CC=C3[C@]([C@@H]1C[C@@]4(C(=C)[C@]2(C(=O)[C@@](C4=O)(C)O)C(=O)OC)C)([C@@H](CC(=O)C3(C)C)O)C
+Aluminium diethyl phosphinate	CCP(=O)(CC)[O-].CCP(=O)(CC)[O-].CCP(=O)(CC)[O-].[Al+3]
 9-Deacetoxyfumigaclavine C	[H][C@@]12CC3=C(NC4=C3C(=CC=C4)[C@@]1([H])C[C@@H](C)CN2C)C(C)(C)C=C
 1,1,1-Trichloro-2,2,2-trifluoroethane	FC(F)(F)C(Cl)(Cl)Cl
 Acid Blue 25	C1=CC=C(C=C1)NC2=CC(=C(C3=C2C(=O)C4=CC=CC=C4C3=O)N)S(=O)(=O)[O-].[Na+]
@@ -15322,6 +15324,7 @@ Tris(2,4-di-tert-butylphenyl)phosphite	CC(C)(C)C1=CC(=C(C=C1)OP(OC2=C(C=C(C=C2)C
 MK-386	C[C@H]1C[C@@H]2[C@](CCC(=O)N2C)([C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)[C@H](C)CCCC(C)C)C
 Isoxerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
 Androsterone sulfate	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O
+Cyclovariegatin	C1=CC(=O)C(=O)C=C1C2=C(C3=C(C4=CC(=C(C=C4O3)O)O)C(=C2O)O)O
 Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
 2-Aminobenzaldehyde	C1=CC=C(C(=C1)C=O)N
 FRD-903	C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O
