@@ -8773,6 +8773,7 @@ CTN-986	OC1=CC(O)=C(C(C(O[C@H]2[C@H](O[C@@]3([H])[C@H](O)[C@@](O)(CO)CO3)[C@@H](
 Promoxolane	CC(C)C1(OCC(O1)CO)C(C)C
 Eletefine	O(c4c2c3c(C=1O\C(=C/CC(O)CC=1)c3ncc2)c(OC)c4OC)C
 Nitrotyrosine	O=[N+]([O-])c1cc(ccc1O)C[C@@H](C(=O)O)N
+Amavadin	CC(C(=O)[O-])N(C(C)C(=O)[O-])[O-].CC(C(=O)[O-])N(C(C)C(=O)[O-])[O-].[V+4]
 Dibenzyl ketone	O=C(Cc1ccccc1)Cc2ccccc2
 Propachlor	CC(C)N(c1ccccc1)C(=O)CCl
 Cadmium cyanide	[Cd+2].[C-]#N.[C-]#N
@@ -11026,6 +11027,7 @@ Quebecol	COC1=C(C=CC(=C1)C(CO)C(C2=CC(=C(C=C2)O)OC)C3=CC(=C(C=C3)O)OC)O
 Slaframine	CC(=O)OC1CCN2C1CCC(C2)N
 Divicine	OC1=C(O)C(N)=NC(N)=N1
 Divicine	O=C1C(O)=C(N)NC(N)=N1
+2,5-Diaminotoluene	CC1=C(C=CC(=C1)N)N
 Dimethylol ethylene urea	C1CN(C(=O)N1CO)CO
 Isocoproporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)O)CC(=O)O)CCC(=O)O)C(=C3C)CCC(=O)O)C
 Dolutegravir	C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O
@@ -12797,7 +12799,6 @@ Hydroxymatairesinol	COC1=C(C=CC(=C1)C[C@@H]2[C@H](COC2=O)[C@@H](C3=CC(=C(C=C3)O)
 Angustific acid	CC(=C)[C@H]1C[C@@H]2[C@H]3[C@@]4(CC=C([C@]4(CC[C@@]35[C@@]1(C5)CCC(=O)O2)C)C(=C)CC/C=C(/C)\C(=O)O)C
 Angustific acid	CC(=C)[C@@H]1C[C@@H]([C@H]2[C@@]3([C@H](C=C([C@]3(CC[C@@]24[C@@]1(C4)CCC(=O)O)C)[C@](C)(CC/C=C(/C)\C(=O)O)O)O)C)O
 Angustifodilactone	C[C@@]12CC[C@@H]([C@]1([C@H](C[C@]34[C@H]2C[C@@H]([C@@H]5[C@]3(C4)C=CC(=O)OC5(C)C)O)O)C)[C@](C)([C@H]6CC=C(C(=O)O6)CO)O
-Angustifodilactone	CC1=CCC(OC1=O)C(C)(C2CCC3(C2(C(CC45C3CC(C6C4(C5)C=CC(=O)OC6(C)C)O)O)C)C)O
 Kadsurin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C4=C(C=C3[C@@H]([C@@H]1C)OC(=O)C)OCO4)OC)OC)OC)OC
 Smoothened agonist	ClC1=C(C(N([C@H]2CC[C@H](NC)CC2)CC3=CC=CC(C4=CC=NC=C4)=C3)=O)SC5=CC=CC=C51
 Deoxyschizandrin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3C[C@@H]1C)OC)OC)OC)OC)OC)OC
@@ -13936,6 +13937,7 @@ RP-5063	C1CN(CCN1CCCCOC2=CC3=C(C=C2)OCC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Propylene glycol methyl ether	CC(O)COC
+Di(propylene glycol) methyl ether	CCC(O)OCCCOC
 Boron monofluoride monoxide	B(=O)F
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
 Lemborexant	CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
@@ -15645,3 +15647,4 @@ Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
+Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
