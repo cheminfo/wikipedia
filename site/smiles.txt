@@ -1221,7 +1221,6 @@ Triphenylmethane	c1c(cccc1)C(c2ccccc2)c3ccccc3
 Silver(I) fluoride	[Ag+].[F-]
 Piperine	O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2
 Phthalocyanine	C12=CC=CC=C1/C3=N/C4=C5C=CC=CC5=C(/N=C6C7=CC=CC=C7C(/N=C8C9=C(/C(N/8)=N/C2=N3)C=CC=C9)=N/6)N4
-Ammonium carbonate	O=C(O)O.N.N
 Procainamide	O=C(c1ccc(N)cc1)NCCN(CC)CC
 Aluminium nitride	[Al]#N
 Cefuroxime	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)\c3occc3)COC(=O)N)C(=O)O
@@ -1826,6 +1825,7 @@ Indium nitride	[In]#N
 Prasugrel	CC(=O)Oc1cc2c(s1)CCN(C2)C(c3ccccc3F)C(=O)C4CC4
 Cyanogen iodide	IC#N
 Sulfamic acid	O=S(=O)(O)N
+Yttrium(III) oxide	O=[Y]O[Y]=O
 Tetramethylsilane	C[Si](C)(C)C
 Enoxolone	O=C(O)[C@]5(C)C[C@H]4/C3=C/C(=O)[C@H]1[C@](CC[C@@H]2[C@]1(C)CC[C@H](O)C2(C)C)(C)[C@]3(C)CC[C@@]4(C)CC5
 Phenazone	O=C1C=C(C)N(C)N1c2ccccc2
