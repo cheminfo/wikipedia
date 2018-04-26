@@ -1221,6 +1221,7 @@ Triphenylmethane	c1c(cccc1)C(c2ccccc2)c3ccccc3
 Silver(I) fluoride	[Ag+].[F-]
 Piperine	O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2
 Phthalocyanine	C12=CC=CC=C1/C3=N/C4=C5C=CC=CC5=C(/N=C6C7=CC=CC=C7C(/N=C8C9=C(/C(N/8)=N/C2=N3)C=CC=C9)=N/6)N4
+Ammonium carbonate	O=C(O)O.N.N
 Procainamide	O=C(c1ccc(N)cc1)NCCN(CC)CC
 Aluminium nitride	[Al]#N
 Cefuroxime	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)\c3occc3)COC(=O)N)C(=O)O
@@ -15648,3 +15649,4 @@ BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
 Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
+2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
