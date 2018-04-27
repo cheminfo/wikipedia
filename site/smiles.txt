@@ -14802,6 +14802,7 @@ Clostebol propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[
 Camicinal	C[C@H]1CN(CCN1)CC2=CC=C(C=C2)CC(=O)N3CCC(CC3)NC4=CC(=CC=C4)F
 N-Oleoylsarcosine	CCCCCCCC/C=C\CCCCCCCC(=O)N(C)CC(=O)O
 2-Nitrobenzoic acid	O=[N+]([O-])c1c(C(=O)O)cccc1
+Spathulenol	C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O
 Uvitonic acid	CC1=NC=C(C(O)=O)C(=C1)C(O)=O
 Testosterone valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Buciclic acid	CCCCC1CCC(CC1)C(=O)O
@@ -15650,3 +15651,4 @@ Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
 Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
 2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
+Methylphosphinic acid	CP(=O)O
