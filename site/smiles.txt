@@ -31,7 +31,6 @@ DDT	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
-Ethanol	CCO
 Erythromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
 Flunitrazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3F)=O)=O
 Glycine	C(C(=O)O)N
@@ -6819,7 +6818,7 @@ Iron(II) lactate	[Fe+2].[O-]C(=O)C(O)C.[O-]C(=O)C(O)C
 Hopane	[C@@H]54[C@]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)CCC2)CC3)C)(C)CC4)(C)CC[C@@H]5C(C)C
 Clotrimazole	Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4
 Nefopam	CN1CCOC(C2=CC=CC=C2C1)C3=CC=CC=C3
-Estrone sulfate	O=S(=O)(O)Oc1cc4c(cc1)[C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3CC4)C
+Estrone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 8-Hydroxyguanosine	O=C3/N=C(/N)NC\1=C3\NC(=O)N/1C2OC(C(O)C2O)CO
 Barium ferrate	[Ba++].[O-][Fe]([O-])(=O)=O
 Sarmentose (chemistry)	CO[C@@H]1CC(O)O[C@@H](C)[C@H]1O
@@ -15652,3 +15651,4 @@ Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
 Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
 2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
 Methylphosphinic acid	CP(=O)O
+Estrone sulfate (medication)	O=S(=O)(O)Oc1cc4c(cc1)[C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3CC4)C
