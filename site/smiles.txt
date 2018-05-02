@@ -9967,8 +9967,8 @@ Furantetracarboxylic acid	C1(=C(OC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
 Benzoquinonetetracarboxylic dianhydride	O=C(C(C(O3)=O)=C1C3=O)C2=C(C(OC2=O)=O)C1=O
 3-Methyl-3-octanol	OC(CC)(CCCCC)C
 Tetrahydroxy-1,4-benzoquinone biscarbonate	C12=C(C(=O)C3=C(C1=O)OC(=O)O3)OC(=O)O2
-Hexahydroxybenzene trisoxalate	O=C1OC2=C3OC(=O)C(=O)OC3=C3OC(=O)C(=O)OC3=C2OC1=O
-Hexahydroxybenzene triscarbonate	O=C2Oc3c4OC(=O)Oc4c1OC(=O)Oc1c3O2
+Benzenehexol trisoxalate	O=C1OC2=C3OC(=O)C(=O)OC3=C3OC(=O)C(=O)OC3=C2OC1=O
+Benzenehexol triscarbonate	O=C2Oc3c4OC(=O)Oc4c1OC(=O)Oc1c3O2
 Herbacetin	C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O
 Empenthrin	CCC=C(C)C(C#C)OC(=O)C1C(C1(C)C)C=C(C)C
 Ayanin	O=C1c3c(O/C(=C1/OC)c2ccc(OC)c(O)c2)cc(OC)cc3O
@@ -13335,6 +13335,7 @@ Iodite	[O-]I=O
 Veronicastroside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O
 Pigment yellow 83	COc1cc(Cl)c(OC)cc1NC(=O)C(C(=O)C)/N=Nc2ccc(cc2Cl)-c3cc(Cl)c(cc3)/N=N/C(C(=O)C)C(=O)Nc4cc(OC)c(Cl)cc4OC
 Topiroxostat	C1=CN=CC=C1C2=NC(=NN2)C3=CC(=NC=C3)C#N
+Taxine	CC1=C2C(C(=O)C3(CC(=CC(C(C2(C)C)CC1OC(=O)C)OC(=O)C)C(CC3O)OC(=O)C(C(C4=CC=CC=C4)N(C)C)O)C)O
 Antrocamphin B	CC1=C(C(=CC(=C1OC)OC)OC)C#CC(=O)C
 Pigment Yellow 81	Cc1cc(C)ccc1NC(=O)C(C(=O)C)/N=N/c2cc(Cl)c(cc2Cl)-c3cc(Cl)c(cc3Cl)/N=N/C(C(=O)C)C(=O)Nc4ccc(C)cc4C
 Nonahydroxytriphenic acid	Oc2c(c1c(cc(O)c(O)c1O)C(=O)O)c(c(c(O)c2O)c3c(cc(O)c(O)c3O)C(=O)O)C(=O)O
@@ -14390,6 +14391,7 @@ Gamma-Nonalactone	CCCCCC1CCC(=O)O1
 Ethyl isovalerate	CC(C)CC(=O)OCC
 Oxycarboxin	CC1=C(S(=O)(=O)CCO1)/C(=N\c2ccccc2)/O
 4-Pyridone	c1c[nH]ccc1=O
+2,4-Dimethylpentane	CC(C)CC(C)C
 Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
 Indolepropionamide	c1ccc2c(c1)c(c[nH]2)CCC(=O)N
