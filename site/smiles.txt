@@ -3771,6 +3771,7 @@ Hypobromite	[O-]Br
 Harmalol	OC1=CC=C(C(CCN=C3C)=C3N2)C2=C1
 Varenicline	n1c2cc3c(cc2ncc1)[C@@H]4CNC[C@H]3C4
 Cadmium iodide	[Cd+2].[I-].[I-]
+Cadmium tungstate	[O-][W](=O)(=O)[O-].[Cd+2]
 Chlorbenside	ClC1=CC=C(SCC2=CC=C(Cl)C=C2)C=C1
 Dexchlorpheniramine	Clc1ccc(cc1)[C@@H](c2ncccc2)CCN(C)C
 Dexbrompheniramine	Brc1ccc(cc1)[C@@H](c2ncccc2)CCN(C)C
@@ -9118,7 +9119,7 @@ Bis(triphenylphosphine)palladium chloride	[Pd+2].[Cl-].[Cl-].c3c(P(c1ccccc1)c2cc
 ATC-0175	Fc1ccc(cc1F)C(=O)NC3CCC(CC3)Nc(nc4N(C)C)nc2ccccc24
 Benzenehexol	c1(c(c(c(c(c1O)O)O)O)O)O
 SNAP-94847	Fc1ccc(cc1F)Oc(cc4)ccc4CN(CC3)CCC3c2cc(NC(=O)C(C)C)ccc2C
-1,4-benzoquinonetetraol	O=C(C(O)=C1O)C(O)=C(O)C1=O
+Tetrahydroxy-1,4-benzoquinone	O=C(C(O)=C1O)C(O)=C(O)C1=O
 GW-803430	C5CCCN5CCOc3ccc(cc3OC)-n1cnc2cc(sc2c1=O)-c(cc4)ccc4Cl
 SNAP-7941	CC(C)C(=O)Nc(c4)cccc4C3CCN(CC3)CCCNC(=O)N(C(=O)NC=1COC)C(C=1C(=O)OC)c(cc2F)ccc2F
 NGD-4715	Brc1ccc(nc1OC)N3CCN(CC3)Cc(cc2OC)ccc2OC
@@ -9926,7 +9927,7 @@ Zinc L-aspartate	[Zn+2].[O-]C(=O)[C@@H](N)CC(=O)O.[O-]C(=O)[C@H](N)CC(=O)O
 3-Methylhexane	CCCC(C)CC
 Arterolane	C2C1CC5CC2CC(C5)C1(O3)OOC3(CC4)CCC4CC(=O)NCC(C)(C)N
 Copper(II) tetrafluoroborate	[Cu+2].F[B-](F)(F)F.F[B-](F)(F)F.O
-1,4-benzoquinonetetraol bisoxalate	O=C1C(OC2=O)=C(OC2=O)C(C3=C1OC(C(O3)=O)=O)=O
+Tetrahydroxy-1,4-benzoquinone bisoxalate	O=C1C(OC2=O)=C(OC2=O)C(C3=C1OC(C(O3)=O)=O)=O
 Threonic acid	C([C@H]([C@@H](C(=O)O)O)O)O
 Threonic acid	C([C@@H]([C@H](C(=O)O)O)O)O
 Iron(II) oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
@@ -9967,8 +9968,8 @@ Furantetracarboxylic acid	C1(=C(OC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
 Benzoquinonetetracarboxylic dianhydride	O=C(C(C(O3)=O)=C1C3=O)C2=C(C(OC2=O)=O)C1=O
 3-Methyl-3-octanol	OC(CC)(CCCCC)C
 Tetrahydroxy-1,4-benzoquinone biscarbonate	C12=C(C(=O)C3=C(C1=O)OC(=O)O3)OC(=O)O2
-Benzenehexol trisoxalate	O=C1OC2=C3OC(=O)C(=O)OC3=C3OC(=O)C(=O)OC3=C2OC1=O
-Benzenehexol triscarbonate	O=C2Oc3c4OC(=O)Oc4c1OC(=O)Oc1c3O2
+Hexahydroxybenzene trisoxalate	O=C1OC2=C3OC(=O)C(=O)OC3=C3OC(=O)C(=O)OC3=C2OC1=O
+Hexahydroxybenzene triscarbonate	O=C2Oc3c4OC(=O)Oc4c1OC(=O)Oc1c3O2
 Herbacetin	C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O
 Empenthrin	CCC=C(C)C(C#C)OC(=O)C1C(C1(C)C)C=C(C)C
 Ayanin	O=C1c3c(O/C(=C1/OC)c2ccc(OC)c(O)c2)cc(OC)cc3O
@@ -13335,7 +13336,7 @@ Iodite	[O-]I=O
 Veronicastroside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O
 Pigment yellow 83	COc1cc(Cl)c(OC)cc1NC(=O)C(C(=O)C)/N=Nc2ccc(cc2Cl)-c3cc(Cl)c(cc3)/N=N/C(C(=O)C)C(=O)Nc4cc(OC)c(Cl)cc4OC
 Topiroxostat	C1=CN=CC=C1C2=NC(=NN2)C3=CC(=NC=C3)C#N
-Taxine	CC1=C2C(C(=O)C3(CC(=CC(C(C2(C)C)CC1OC(=O)C)OC(=O)C)C(CC3O)OC(=O)C(C(C4=CC=CC=C4)N(C)C)O)C)O
+Taxine Alkaloids	CC1=C2C(C(=O)C3(CC(=CC(C(C2(C)C)CC1OC(=O)C)OC(=O)C)C(CC3O)OC(=O)C(C(C4=CC=CC=C4)N(C)C)O)C)O
 Antrocamphin B	CC1=C(C(=CC(=C1OC)OC)OC)C#CC(=O)C
 Pigment Yellow 81	Cc1cc(C)ccc1NC(=O)C(C(=O)C)/N=N/c2cc(Cl)c(cc2Cl)-c3cc(Cl)c(cc3Cl)/N=N/C(C(=O)C)C(=O)Nc4ccc(C)cc4C
 Nonahydroxytriphenic acid	Oc2c(c1c(cc(O)c(O)c1O)C(=O)O)c(c(c(O)c2O)c3c(cc(O)c(O)c3O)C(=O)O)C(=O)O
@@ -14391,6 +14392,7 @@ Gamma-Nonalactone	CCCCCC1CCC(=O)O1
 Ethyl isovalerate	CC(C)CC(=O)OCC
 Oxycarboxin	CC1=C(S(=O)(=O)CCO1)/C(=N\c2ccccc2)/O
 4-Pyridone	c1c[nH]ccc1=O
+4,5-Dihydroxy-2,3-pentanedione	CC(=O)C(=O)C(CO)O
 2,4-Dimethylpentane	CC(C)CC(C)C
 Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
@@ -15053,6 +15055,7 @@ Enasidenib	CC(C)(CNC1=NC(=NC(=N1)NC2=CC(=NC=C2)C(F)(F)F)C3=NC(=CC=C3)C(F)(F)F)O
 Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc2cnn3ccc(nc23)N4CCC[C@@H]4c5cc(F)ccc5F
 Tucatinib	CC1=C(OC2=CC3=NC=NN3C=C2)C=CC(NC2=C3C=C(NC4=NC(C)(C)CO4)C=CC3=NC=N2)=C1
 Savolitinib	C[C@@H](C1=CN2C=CN=C2C=C1)N3C4=NC(=CN=C4N=N3)C5=CN(N=C5)C
+Erdafitinib	CC(C)NCCN(C1=CC2=NC(=CN=C2C=C1)C3=CN(N=C3)C)C4=CC(=CC(=C4)OC)OC
 Sapanisertib	CC(C)N1C2=C(C(=N1)C3=CC4=C(C=C3)OC(=N4)N)C(=NC=N2)N
 CBD-DMH	CCCCCCC(C)(C)c1cc(c(c(c1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F
