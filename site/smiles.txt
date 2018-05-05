@@ -5454,7 +5454,7 @@ Nabitan	O=C(Oc2cc(cc1OC(C\3=C(/c12)CN(CC/3)CC#C)(C)C)C(C)C(C)CCCCC)CCCN4CCCCC4
 THC-O-acetate	O=C(Oc2cc(cc1OC([C@@H]3CC/C(=C\[C@H]3c12)C)(C)C)CCCCC)C
 Dichlorodiphenyldichloroethane	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)Cl
 11-Hydroxy-THC	Oc2cc(cc1OC(C3CC/C(=C\C3c12)CO)(C)C)CCCCC
-Ajulemic acid	CC(C)(CCCCCC)c2cc1OC(C)(C)[C@@H]3/C=C\C(C[C@H]3c1c(O)c2)C(O)=O
+Ajulemic acid	OC(C1=CC[C@](C(C)(C)OC2=C3C(O)=CC(C(C)(C)CCCCCC)=C2)([H])[C@@]3([H])C1)=O
 2,3-Oxidosqualene	CC(=CCC/C(=C/CC/C(=C/CC/C=C(\C)/CC/C=C(\C)/CCC1C(O1)(C)C)/C)/C)C
 2,3-Oxidosqualene	O1C(C)(C)C1CC/C(=C/CC/C(=C/CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C)C)C
 Mesocarb	O=C(\N=C1/C=[N+](\[N-]O1)C(C)Cc2ccccc2)Nc3ccccc3
@@ -15048,6 +15048,7 @@ Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
 Glucotropaeolin	c1ccc(cc1)C/C(=N\OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Dimethylaminoisopropanol	CC(CN(C)C)O
+Poseltinib	C=CC(NC1=CC=CC(OC2=C(OC=C3)C3=NC(NC4=CC=C(N5CCN(C)CC5)C=C4)=N2)=C1)=O
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Tris(dimethylamino)methane	CN(C)C(N(C)C)N(C)C
 Acetryptine	CC(=O)C1=CC2=C(C=C1)NC=C2CCN
@@ -15403,6 +15404,7 @@ Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
 Triethyltin	CC[Sn](CC)CC
 DPDPE	CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C
 Pirenperone	CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F
+Gedatolisib	CN(C)C1CCN(CC1)C(=O)C2=CC=C(C=C2)NC(=O)NC3=CC=C(C=C3)C4=NC(=NC(=N4)N5CCOCC5)N6CCOCC6
 Triazoledione	C1CN(CCN1CCCN2C(=O)N(C(=O)N2)CCOC3=CC=CC=C3)C4=CC(=CC=C4)Cl
 Hydroxynefazodone	CC(C1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl)O
 Oritin	C1C(C(OC2=C1C=CC(=C2O)O)C3=CC=C(C=C3)O)O
@@ -15661,3 +15663,5 @@ Estrone sulfate (medication)	O=S(=O)(O)Oc1cc4c(cc1)[C@H]3CC[C@@]2(C(=O)CC[C@H]2[
 Dibenzoylhydrazine	C1=CC=C(C=C1)C(=O)NNC(=O)C2=CC=CC=C2
 Barettin	C1=CC2=C(C=C1Br)NC=C2C=C3C(=O)NC(C(=O)N3)CCCN=C(N)N
 Aluminium dihydrogenphosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].[Al+3]
+Dimethyl selenide	C[Se]C
+Aplysioviolin	CC=C1C(C(=O)N=C1C=C2C(=C(C(=CC3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)CCC(=O)OC)N2)CCC(=O)O)C)C
