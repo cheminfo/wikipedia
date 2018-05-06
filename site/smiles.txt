@@ -1622,6 +1622,7 @@ Cadmium chloride	[Cd+2].[Cl-].[Cl-]
 Cyclophosphamide	O=P1(OCCCN1)N(CCCl)CCCl
 Nitrosoproline	O=C(O)[C@H]1N(N=O)CCC1
 Ethionine	O=C(O)C(N)CCSCC
+1-Butyl-3-methylimidazolium tetrachloroferrate	CCCCN1C=C[N+](=C1)C.Cl[Fe-](Cl)(Cl)Cl
 Ethylmorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OCC)ccc3C4)C
 Wilkinson's catalyst	[Rh+](P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3)(P(C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6)P(C7=CC=CC=C7)(C8=CC=CC=C8)C9=CC=CC=C9.[Cl-]
 Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
@@ -15664,4 +15665,7 @@ Dibenzoylhydrazine	C1=CC=C(C=C1)C(=O)NNC(=O)C2=CC=CC=C2
 Barettin	C1=CC2=C(C=C1Br)NC=C2C=C3C(=O)NC(C(=O)N3)CCCN=C(N)N
 Aluminium dihydrogenphosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].[Al+3]
 Dimethyl selenide	C[Se]C
+Manganese pentacarbonyl bromide	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Br-]
 Aplysioviolin	CC=C1C(C(=O)N=C1C=C2C(=C(C(=CC3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)CCC(=O)OC)N2)CCC(=O)O)C)C
+C-1027	CC1(C(C(C(C(O1)OC23C=CC=C2C#CC4=CC#CC3OC5=C(C=C(C=C5Cl)C(CC(=O)OCC4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
+C-1027	CC1([C@H]([C@H]([C@H]([C@@H](O1)O[C@]23C=CC=C2C#C/C/4=C\C#C[C@H]3OC5=C(C=C(C=C5Cl)[C@H](CC(=O)OC[C@@H]4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
