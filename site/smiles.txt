@@ -12321,7 +12321,6 @@ Fucophlorethol A	C1=C(C=C(C(=C1O)C2=C(C=C(C=C2O)OC3=C(C=C(C=C3O)O)O)O)O)O
 Bifuhalol	C1=C(C=C(C(=C1O)OC2=CC(=C(C(=C2)O)O)O)O)O
 Trifucol	C1=C(C(=C(C(=C1O)C2=C(C=C(C=C2O)O)O)O)C3=C(C=C(C=C3O)O)O)O
 Teduglutide	CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CC(O)=O)NC(=O)CNC(=O)[C@@H](N)Cc1cnc[nH]1)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(O)=O)C(O)=O
-Flavaspidic acid BB	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)C)O
 Dihydrophloroglucinol	C1C(CC(=O)C=C1O)O
 Dabrafenib	CC(C)(C)c1nc(c(s1)c2ccnc(n2)N)c3cccc(c3F)NS(=O)(=O)c4c(cccc4F)F
 Nitrogen monofluoride	FN
@@ -15669,3 +15668,6 @@ Manganese pentacarbonyl bromide	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+
 Aplysioviolin	CC=C1C(C(=O)N=C1C=C2C(=C(C(=CC3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)CCC(=O)OC)N2)CCC(=O)O)C)C
 C-1027	CC1(C(C(C(C(O1)OC23C=CC=C2C#CC4=CC#CC3OC5=C(C=C(C=C5Cl)C(CC(=O)OCC4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
 C-1027	CC1([C@H]([C@H]([C@H]([C@@H](O1)O[C@]23C=CC=C2C#C/C/4=C\C#C[C@H]3OC5=C(C=C(C=C5Cl)[C@H](CC(=O)OC[C@@H]4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
+Dichloro(1,5‐cyclooctadiene)palladium	C1CC=CCCC=C1.Cl[Pd]Cl
+Calotropin	CC1CC(C2(C(O1)OC3CC4CCC5C(C4(CC3O2)C=O)CCC6(C5(CCC6C7=CC(=O)OC7)O)C)O)O
+Filicin	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)CC3=C(C(C(=O)C(=C3O)C(=O)CCC)(C)C)O)O
