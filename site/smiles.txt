@@ -4323,7 +4323,6 @@ Naftidrofuryl	O=C(OCCN(CC)CC)C(Cc2c1ccccc1ccc2)CC3OCCC3
 Methyl pentanoate	O=C(OC)CCCC
 Decamethylcyclopentasiloxane	C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
 Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
-Creatine ethyl ester	O=C(OCC)CN(C(=[N@H])N)C
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
 Gallium trichloride	Cl[Ga](Cl)Cl
 Glutaconic acid	O=C(O)\C=C\CC(=O)O
@@ -15671,3 +15670,5 @@ C-1027	CC1([C@H]([C@H]([C@H]([C@@H](O1)O[C@]23C=CC=C2C#C/C/4=C\C#C[C@H]3OC5=C(C=
 Dichloro(1,5‐cyclooctadiene)palladium	C1CC=CCCC=C1.Cl[Pd]Cl
 Calotropin	CC1CC(C2(C(O1)OC3CC4CCC5C(C4(CC3O2)C=O)CCC6(C5(CCC6C7=CC(=O)OC7)O)C)O)O
 Filicin	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)CC3=C(C(C(=O)C(=C3O)C(=O)CCC)(C)C)O)O
+Hydantoic acid	NC(=O)NCC(O)=O
+Shishijimicin A	CC1C(C(C(C(O1)OC2C#CC=CC#CC3(CC(=O)C(=C2C3=CCSSSC)NC(=O)OC)O)OC4CC(C(CO4)NC(C)C)OC)O)(C(=O)C5=NC=CC6=C5NC7=C6C=C(C=C7)O)SC
