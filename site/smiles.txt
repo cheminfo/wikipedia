@@ -646,6 +646,7 @@ Furfural	c1cc(oc1)C=O
 Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
 Propofol	CC(C)c1cccc(c1O)C(C)C
+Gibberellin	O=C1O[C@@]52\C=C/[C@H](O)[C@]1([C@H]5[C@H](C(=O)O)[C@]43[C@H]2CC[C@@](O)(C(=C)C3)C4)C
 Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
@@ -15673,3 +15674,4 @@ Filicin	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)CC3=C(C(C
 Hydantoic acid	NC(=O)NCC(O)=O
 Shishijimicin A	CC1C(C(C(C(O1)OC2C#CC=CC#CC3(CC(=O)C(=C2C3=CCSSSC)NC(=O)OC)O)OC4CC(C(CO4)NC(C)C)OC)O)(C(=O)C5=NC=CC6=C5NC7=C6C=C(C=C7)O)SC
 Dihydropicrotoxinin	CC(C)C1[C@@H]2C(=O)OC1[C@@H]3[C@@]4([C@]2(CC5C4(O5)C(=O)O3)O)C
+Pentamethylmolybdenum	C[Mo](C)(C)(C)C
