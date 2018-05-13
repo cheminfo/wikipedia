@@ -1398,7 +1398,6 @@ Cefixime	O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\OCC(=O)O)/c3nc(sc3)N)C(=O)O
 Fuchsine	[Cl-].[NH2+]=C\1/C=C\C(C=C/1)=C(\c2ccc(N)c(C)c2)c3ccc(N)cc3
 Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
-Silicic acid	O[Si](O)(O)O
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Cisplatin	[NH3][Pt+2](Cl)(Cl)[NH3]
 Pyrene	c1cc2cccc3ccc4cccc1c4c32
@@ -2113,6 +2112,7 @@ Guanidine	NC(N)=N
 Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(ccc2c3ccc(cc3c1c4ccccc4)N)N.[I-].[I-]
 Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
+Orthosilicic acid	O[Si](O)(O)O
 Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
 Lithium nitride	[Li+].[Li][N-][Li]
 Nandrolone decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
@@ -15675,3 +15675,6 @@ Hydantoic acid	NC(=O)NCC(O)=O
 Shishijimicin A	CC1C(C(C(C(O1)OC2C#CC=CC#CC3(CC(=O)C(=C2C3=CCSSSC)NC(=O)OC)O)OC4CC(C(CO4)NC(C)C)OC)O)(C(=O)C5=NC=CC6=C5NC7=C6C=C(C=C7)O)SC
 Dihydropicrotoxinin	CC(C)C1[C@@H]2C(=O)OC1[C@@H]3[C@@]4([C@]2(CC5C4(O5)C(=O)O3)O)C
 Pentamethylmolybdenum	C[Mo](C)(C)(C)C
+Pentanenitrile	CCCCC#N
+Cis-Butene-1,4-diol	C(/C=C\CO)O
+Metasilicic acid	O[Si](=O)O
