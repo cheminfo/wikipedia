@@ -3502,6 +3502,7 @@ Etidronic acid	O=P(O)(O)C(O)(C)P(=O)(O)O
 Torasemide	CC(C)NC(=O)NS(=O)(=O)c1cnccc1Nc2cc(C)ccc2
 Spirapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)CC1(SCCS1)C2)C)CCc3ccccc3
 Phorbol	OCC1=C[C@]([C@@](C(C)4C)([H])[C@]4(O)[C@H](O)[C@H]2C)([H])[C@]2(O)[C@@](C=C(C)C3=O)([H])[C@@]3(O)C1
+Sodium metasilicate	[O-][Si](=O)[O-].[Na+].[Na+]
 Nedocromil	O=C\1c3c(N(/C(C(=O)O)=C/1)CC)c(c2O/C(=C\C(=O)c2c3)C(=O)O)CCC
 2-Mercaptoethanol	OCCS
 FCE-28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
@@ -8325,6 +8326,7 @@ BAY 60–6583	N#Cc1c(SCC(N)=O)nc(N)c(C#N)c1-c3ccc(cc3)OCC2CC2
 SCH-442,416	n1n3c(nc4c(c3nc1c2occc2)cnn4CCCc5ccc(OC)cc5)N
 Vitamin D5	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CC[C@H](CC)C(C)C)C
 Sodium fluorosilicate	[Na+].[Na+].F[Si--](F)(F)(F)(F)F
+Nitrogen monohydride	[NH]
 Methyl cyanoacrylate	N#C/C(=C)C(=O)OC
 Butyl cyanoacrylate	N#CC(=C)C(=O)OCCCC
 Octyl cyanoacrylate	N#CC(C(OCCCCCCCC)=O)=C
@@ -10664,7 +10666,6 @@ Mannose 1-phosphate	O=P(O)(OC1O[C@@H]([C@@H](O)[C@H](O)[C@@H]1O)CO)O
 Tetrakis(methylammonium) hexachloroferrate(III) chloride	C[NH3+].C[NH3+].C[NH3+].C[NH3+].[Cl-].Cl[Fe-3](Cl)(Cl)(Cl)(Cl)Cl
 Acetosyringone	O=C(c1cc(OC)c(O)c(OC)c1)C
 Benzyltrimethylammonium hydroxide	C[N+](C)(C)Cc1ccccc1.[OH-]
-Imidogen	[NH]
 Cariprazine	CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(CC2)c2cccc(Cl)c2Cl)CC1
 Eudesmic acid	COC1=CC(=CC(=C1OC)OC)C(=O)O
 PRX-08066	s3c2ncnc(c2cc3Cl)NC4CCN(CC4)Cc(ccc1F)cc1C#N
@@ -15678,3 +15679,6 @@ Pentamethylmolybdenum	C[Mo](C)(C)(C)C
 Pentanenitrile	CCCCC#N
 Cis-Butene-1,4-diol	C(/C=C\CO)O
 Metasilicic acid	O[Si](=O)O
+Sodium orthosilicate	[O-][Si]([O-])([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+Tibric acid	C[C@@H]1C[C@@H](CN(C1)S(=O)(=O)C2=CC(=C(C=C2)Cl)C(=O)O)C
+3-Mercaptopropionic acid	C(CS)C(=O)O
