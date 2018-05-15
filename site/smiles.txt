@@ -8326,7 +8326,6 @@ BAY 60–6583	N#Cc1c(SCC(N)=O)nc(N)c(C#N)c1-c3ccc(cc3)OCC2CC2
 SCH-442,416	n1n3c(nc4c(c3nc1c2occc2)cnn4CCCc5ccc(OC)cc5)N
 Vitamin D5	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CC[C@H](CC)C(C)C)C
 Sodium fluorosilicate	[Na+].[Na+].F[Si--](F)(F)(F)(F)F
-Nitrogen monohydride	[NH]
 Methyl cyanoacrylate	N#C/C(=C)C(=O)OC
 Butyl cyanoacrylate	N#CC(=C)C(=O)OCCCC
 Octyl cyanoacrylate	N#CC(C(OCCCCCCCC)=O)=C
@@ -10666,6 +10665,7 @@ Mannose 1-phosphate	O=P(O)(OC1O[C@@H]([C@@H](O)[C@H](O)[C@@H]1O)CO)O
 Tetrakis(methylammonium) hexachloroferrate(III) chloride	C[NH3+].C[NH3+].C[NH3+].C[NH3+].[Cl-].Cl[Fe-3](Cl)(Cl)(Cl)(Cl)Cl
 Acetosyringone	O=C(c1cc(OC)c(O)c(OC)c1)C
 Benzyltrimethylammonium hydroxide	C[N+](C)(C)Cc1ccccc1.[OH-]
+Imidogen	[NH]
 Cariprazine	CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(CC2)c2cccc(Cl)c2Cl)CC1
 Eudesmic acid	COC1=CC(=CC(=C1OC)OC)C(=O)O
 PRX-08066	s3c2ncnc(c2cc3Cl)NC4CCN(CC4)Cc(ccc1F)cc1C#N
@@ -15415,6 +15415,7 @@ Imepitoin	C1COCCN1C2=NC(=O)N(C2)C3=CC=C(C=C3)Cl
 Ortho-Methylphenylpiperazine	CC1=CC=CC=C1N2CCNCC2
 Lithium hexafluorogermanate	[Li+].[Li+].F[Ge-2](F)(F)(F)(F)F
 1,1-Dimethyldiborane	C[B]1(C)[H][BH2][H]1
+Benzophenone imine	C1=CC=C(C=C1)C(=N)C2=CC=CC=C2
 1,2,4,5-Tetrabromobenzene	C1=C(C(=CC(=C1Br)Br)Br)Br
 Metanil Yellow	C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)[O-].[Na+]
 2-Carboxybenzaldehyde	C1=CC=C(C(=C1)C=O)C(=O)O
@@ -15639,6 +15640,7 @@ EIDD-036	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 20α-Dihydrodydrogesterone	[H][C@@]1(CC[C@@]2([H])[C@]3([H])C=CC4=CC(=O)CC[C@]4(C)[C@]3([H])CC[C@]12C)[C@H](C)O
 Potassium amyl xanthate	CCCCCOC(=S)[S-].[K+]
 Hydrocortisone hemisuccinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC(=O)O)O)C)O
+Kanamienamide	CCC(=CC(=O)N(C)C=CCCCC1CCC(CC(C(=O)N(C(C(=O)O1)CC(C)C)C)C)C)OC
 Diacetyl monoxime	CC(=NO)C(=O)C
 2-Diphenylphosphinobenzoic acid	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C(=O)O
 Nitroxinil	C1=C(C=C(C(=C1[N+](=O)[O-])O)I)C#N
