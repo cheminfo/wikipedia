@@ -6704,7 +6704,6 @@ Ethenone	O=C=C
 1-Pentyne	C#CCCC
 CLD chromophore	CC1(CC(=C/C(=C/C=C/C2=C(C(=C(C#N)C#N)OC2(C)C)C#N)/C1)/C=C/C3=CC=C(C=C3)N(CCO[Si](C)(C)C(C)(C)C)CCO[Si](C)(C)C(C)(C)C)C
 Ethcathinone	O=C(c1ccccc1)C(NCC)C
-1-Methyl-5-methoxy-diisopropyltryptamine	COc1ccc2n(C)cc(CCN(C(C)C)C(C)C)c2c1
 Tetrahydrocannabinol-C4	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
 Laudanosine	CN1CCc2cc(c(cc2[C@@H]1Cc3ccc(c(c3)OC)OC)OC)OC
 Dalbavancin	CC(C)CCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1Oc2c3cc4cc2Oc5ccc(cc5Cl)[C@H]([C@H]6C(=O)N[C@@H](c7cc(cc(c7-c8cc(ccc8O)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]9c1cc(cc(c1Cl)O)Oc1ccc(cc1O)[C@H](C(=O)N[C@H](Cc1ccc(cc1)O3)C(=O)N9)NC)O[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O)C(=O)NCCCN(C)C)O)C(=O)O)O)O
@@ -15609,7 +15608,6 @@ Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
 T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
-19-Nordehydroepiandrosterone	O=C1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@]([H])3CC[C@@](CC3=CC[C@]12[H])O[H]
 Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
 Fluorophosphoric acid	OP(=O)(O)F
 Trendione	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
@@ -15685,3 +15683,5 @@ Sodium orthosilicate	[O-][Si]([O-])([O-])[O-].[Na+].[Na+].[Na+].[Na+]
 Tibric acid	C[C@@H]1C[C@@H](CN(C1)S(=O)(=O)C2=CC(=C(C=C2)Cl)C(=O)O)C
 3-Mercaptopropionic acid	C(CS)C(=O)O
 Flupropadine	CC(C)(C)C1CCN(CC1)CC#Cc2cc(cc(c2)C(F)(F)F)C(F)(F)F
+Vinyl propionate	CCC(=O)OC=C
+Cobamide	CC1=C2C(C(C([N-]2)C3(C(C(C(=N3)C(=C4C(C(C(=N4)C=C5C(C(C1=N5)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)OP(=O)(O)OC6C(OC(C6O)O)CO.[Co]
