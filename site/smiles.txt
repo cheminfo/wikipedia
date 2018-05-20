@@ -801,7 +801,7 @@ Amlodipine	Clc1ccccc1C2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC
 Fenvalerate	Clc1ccc(cc1)C(C(=O)OC(C#N)c3cccc(Oc2ccccc2)c3)C(C)C
 Atomoxetine	CC1=C(C=CC=C1)O[C@H](CCNC)C2=CC=CC=C2
 Midazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
-Estriol	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
+Estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O
 Phenanthrene	c1ccc2c3ccccc3ccc2c1
 Rofecoxib	O=C2OCC(=C2\c1ccccc1)\c3ccc(cc3)S(=O)(=O)C
 Celecoxib	O=S(=O)(c3ccc(n1nc(cc1c2ccc(cc2)C)C(F)(F)F)cc3)N
@@ -15433,6 +15433,7 @@ Zirconium acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)
 1,1,1-Trifluoroacetylacetone	CC(=O)CC(=O)C(F)(F)F
 Triphenylmethanethiol	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)S
 N-Methyl-2-thiazolidinethione	CN1CCSC1=S
+Koningic acid	CC(C)[C@H]1CC[C@@]2(CO2)[C@@H]3[C@@H]1C=C(COC3=O)C(=O)O
 Nickel bis(dimethyldithiocarbamate)	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Ni+2]
 Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
@@ -15628,6 +15629,7 @@ Triisopropylsilane	CC(C)[Si](C(C)C)C(C)C
 Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
+Estriol (medication)	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
 Alpha-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
 Nickel bis(dimethylglyoximate)	CC(=C(C)N=O)NO.CC(=C(C)N=O)NO.[Ni]
 Histidine methyl ester	COC(=O)[C@H](Cc1c[nH]cn1)N
@@ -15686,3 +15688,7 @@ Flupropadine	CC(C)(C)C1CCN(CC1)CC#Cc2cc(cc(c2)C(F)(F)F)C(F)(F)F
 Vinyl propionate	CCC(=O)OC=C
 Cobamide	CC1=C2C(C(C([N-]2)C3(C(C(C(=N3)C(=C4C(C(C(=N4)C=C5C(C(C1=N5)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)OP(=O)(O)OC6C(OC(C6O)O)CO.[Co]
 Tetrahydrobenzaldehyde	C1CC(CC=C1)C=O
+SKF-91488	[H]/N=C(/N)\SCCCCN(C)C
+Methyl fluoroacetate	COC(=O)CF
+Tetramethylthiourea	CN(C)C(=S)N(C)C
+Carbomethoxymethylenetriphenylphosphorane	COC(=O)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
