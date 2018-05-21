@@ -15687,8 +15687,10 @@ Tibric acid	C[C@@H]1C[C@@H](CN(C1)S(=O)(=O)C2=CC(=C(C=C2)Cl)C(=O)O)C
 Flupropadine	CC(C)(C)C1CCN(CC1)CC#Cc2cc(cc(c2)C(F)(F)F)C(F)(F)F
 Vinyl propionate	CCC(=O)OC=C
 Cobamide	CC1=C2C(C(C([N-]2)C3(C(C(C(=N3)C(=C4C(C(C(=N4)C=C5C(C(C1=N5)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)OP(=O)(O)OC6C(OC(C6O)O)CO.[Co]
+IMP-1088	CC1=NN(C)C(=C1CCOC2=C(C=CC(=C2F)F)C3=CC=C4C(=C3)C(=NN4C)CN(C)C)C
 Tetrahydrobenzaldehyde	C1CC(CC=C1)C=O
 SKF-91488	[H]/N=C(/N)\SCCCCN(C)C
 Methyl fluoroacetate	COC(=O)CF
 Tetramethylthiourea	CN(C)C(=S)N(C)C
 Carbomethoxymethylenetriphenylphosphorane	COC(=O)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+Vinylene carbonate	C1=COC(=O)O1
