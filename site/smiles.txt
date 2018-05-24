@@ -8441,7 +8441,7 @@ Aurantinidin	Oc1ccc(cc1)c3[o+]c2cc(O)c(O)c(O)c2cc3O
 Ornithine oxoglutarate	C(C[C@@H](C(=O)O)N)CN.C(CC(=O)O)C(=O)C(=O)O
 Epomediol	OC1CC2C(OC1(C)C(O)C2)(C)C
 Cyclobutyrol	CCC(C(=O)O)C1(CCCCC1)O
-Hymecromone	O=C/2Oc1cc(O)ccc1\C(=C\2)C
+Hymecromone	CC1=CC(=O)OC2=C1C=CC(=C2)O
 Nicotinyl methylamide	CNC(=O)C1=CN=CC=C1
 Trimethylolethane trinitrate	CC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O
 Triethylene glycol dinitrate	C(CO[N+](=O)[O-])OCCOCCO[N+](=O)[O-]
