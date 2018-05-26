@@ -8725,7 +8725,7 @@ Hydrocortisone 17-butyrate	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](OC(=O)CCC
 3-Hydroxybutanal	CC(O)CC=O
 LGD-3303	CCC1=C(C2=C(N1CC(F)(F)F)C=CC3=C2C(=CC(=O)N3)Cl)C
 CGP-7930	CC(C)(C)c1cc(CC(C)(C)CO)cc(C(C)(C)C)c1O
-Hipposudoric acid	c1cc(=O)c-2c(c3=c(c2c1O)c(=O)c(cc3=O)C(=O)O)C(=O)O
+Hipposudoric acid	c1cc(=O)c-2c(c3=c(c2c1O)c(=O)c(cc3=O)CC(=O)O)C(=O)O
 L-371,257	O=C1OCc3ccccc3N1C(CC4)CCN4C(=O)c2ccc(cc2OC)OC5CCN(C(C)=O)CC5
 GS-39783	C3CCCC3Nc1nc(SC)nc(c1N(=O)=O)NC2CCCC2
 BHFF	FC(F)(F)C2(O)c1cc(C(C)(C)C)cc(C(C)(C)C)c1OC2=O
