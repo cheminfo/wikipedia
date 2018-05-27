@@ -442,7 +442,6 @@ Camphor	CC1(C)C2CCC1(C)C(=O)C2
 Benzphetamine	N(C)(Cc1ccccc1)[C@@H](C)Cc2ccccc2
 Chloral hydrate	ClC(Cl)(Cl)C(O)O
 Melatonin	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
-Sodium silicate	[Na+].[Na+].[O-][Si]([O-])=O
 Methotrexate	O=C([C@H](CCC(O)=O)NC(C1=CC=C(N(CC2=CN=C(N=C(N)N=C3N)C3=N2)C)C=C1)=O)O
 Benzophenone	O=C(c1ccccc1)c2ccccc2
 Maprotiline	CNCCC[C@@]12C3=CC=CC=C3[C@@H](C4=CC=CC=C14)CC2
@@ -3502,7 +3501,7 @@ Etidronic acid	O=P(O)(O)C(O)(C)P(=O)(O)O
 Torasemide	CC(C)NC(=O)NS(=O)(=O)c1cnccc1Nc2cc(C)ccc2
 Spirapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)CC1(SCCS1)C2)C)CCc3ccccc3
 Phorbol	OCC1=C[C@]([C@@](C(C)4C)([H])[C@]4(O)[C@H](O)[C@H]2C)([H])[C@]2(O)[C@@](C=C(C)C3=O)([H])[C@@]3(O)C1
-Sodium metasilicate	[O-][Si](=O)[O-].[Na+].[Na+]
+Sodium metasilicate	[Na+].[Na+].[O-][Si]([O-])=O
 Nedocromil	O=C\1c3c(N(/C(C(=O)O)=C/1)CC)c(c2O/C(=C\C(=O)c2c3)C(=O)O)CCC
 2-Mercaptoethanol	OCCS
 FCE-28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
@@ -15698,3 +15697,5 @@ Carbomethoxymethylenetriphenylphosphorane	COC(=O)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3
 Vinylene carbonate	C1=COC(=O)O1
 Avatrombopag	C1CCC(CC1)N2CCN(CC2)C3=C(N=C(S3)NC(=O)C4=CC(=C(N=C4)N5CCC(CC5)C(=O)O)Cl)C6=CC(=CS6)Cl
 Hydrogen ditelluride	[TeH][TeH]
+Pyrosilicic acid	O[Si](O)(O)O[Si](O)(O)O
+Pyrosilicate	[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
