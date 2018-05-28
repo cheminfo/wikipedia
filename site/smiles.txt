@@ -3,8 +3,8 @@ Aspirin	O=C(C)Oc1ccccc1C(=O)O
 Acetylene	C#C
 Adenosine triphosphate	O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
 Ampicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
-Ascorbic acid (molecular aspects)	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
-Ascorbic acid (molecular aspects)	OC=1C(OC(=O)C=1O)[C@@H](O)CO
+Chemistry of ascorbic acid	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+Chemistry of ascorbic acid	OC=1C(OC(=O)C=1O)[C@@H](O)CO
 Amphetamine	NC(CC1=CC=CC=C1)C
 Aspartame	O=C(O)C[C@H](N)C(=O)N[C@H](C(=O)OC)Cc1ccccc1
 Amoxicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccc(O)cc1)N)[C@H]3SC2(C)C
@@ -5218,7 +5218,6 @@ Dinitolmide	O=[N+]([O-])c1cc(cc(C(=O)N)c1C)[N+]([O-])=O
 Tetraphenylphosphonium chloride	[Cl-].c1c(cccc1)[P+](c2ccccc2)(c3ccccc3)c4ccccc4
 1,1'-Bis(diphenylphosphino)ferrocene	c1ccc(cc1)P(c2ccccc2)C34C5[Fe]3678912(C5C6C74)C3C8C9C1(C23)P(c1ccccc1)c1ccccc1
 1,1'-Bis(diphenylphosphino)ferrocene	C1=CC=C(C=C1)P([C-]2C=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P([C-]2C=CC=C2)C3=CC=CC=C3.[Fe+2]
-Aconitic acid	O=C(O)CC(=CC(=O)O)C(=O)O
 Isocitric acid	O=C(O)C(CC(=O)O)C(O)C(=O)O
 Oxalosuccinic acid	C(C(C(=O)C(=O)O)C(=O)O)C(=O)O
 Cyclopropylmescaline	COc2cc(cc(OC)c2OCC1CC1)CCN
@@ -15594,6 +15593,7 @@ Lusutrombopag	CCCCCCOC(C)C1=CC=CC(=C1OC)C2=CSC(=N2)NC(=O)C3=CC(=C(C(=C3)Cl)C=C(C
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
 CUMYL-5F-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
 Cinnamyl acetate	CC(=O)OC/C=C/c1ccccc1
+CUMYL-PEGACLONE	CC(C1=CC=CC=C1)(C)N2C=CC(N(CCCCC)C3=C4C=CC=C3)=C4C2=O
 N-Methyltaurine	CNCCS(=O)(=O)O
 Cymegesolate	CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=C[C@H](CC4)OC(=O)CCC5CCCC5)C
 Megestrol caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)C)C)C(=O)C
