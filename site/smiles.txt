@@ -15590,7 +15590,7 @@ Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[
 1,3-Dithiole	C1SC=CS1
 Lusutrombopag	CCCCCCOC(C)C1=CC=CC(=C1OC)C2=CSC(=N2)NC(=O)C3=CC(=C(C(=C3)Cl)C=C(C)C(=O)O)Cl
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
-CUMYL-5F-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
+5F-CUMYL-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
 Cinnamyl acetate	CC(=O)OC/C=C/c1ccccc1
 CUMYL-PEGACLONE	CC(C1=CC=CC=C1)(C)N2C=CC(N(CCCCC)C3=C4C=CC=C3)=C4C2=O
 N-Methyltaurine	CNCCS(=O)(=O)O
@@ -15698,3 +15698,4 @@ Avatrombopag	C1CCC(CC1)N2CCN(CC2)C3=C(N=C(S3)NC(=O)C4=CC(=C(N=C4)N5CCC(CC5)C(=O)
 Hydrogen ditelluride	[TeH][TeH]
 Pyrosilicic acid	O[Si](O)(O)O[Si](O)(O)O
 Pyrosilicate	[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
+Zetekitoxin AB	[H]/N=C/1\N2[C@@]34N/C(=N/[H])/N([C@H]3[C@@H](N1)C(=O)N5OC[C@@H]([C@@H]5C[C@@](C2)([C@]4(O)O)OS(=O)(=O)O)CO)COC(=O)NO
