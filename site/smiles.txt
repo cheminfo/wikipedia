@@ -15384,6 +15384,7 @@ Pigment Yellow 12	CC(=O)C(C(=O)NC1=CC=CC=C1)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(
 Pigment Yellow 13	CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=C(C=C(C=C4)C)C)Cl)Cl)C
 Phosphoryl chloride difluoride	O=P(F)(F)Cl
 PF-04958242	CC(C)S(=O)(=O)N[C@H]1COC[C@H]1OC2=CC=C(C=C2)C3=CC=C(S3)C#N
+Adegramotide	CC(C)CC(C(=O)NC(CC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C)C(=O)N2CCCC2C(=O)N3CCCC3C(=O)NCC(=O)NC(C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CC4=CC=C(C=C4)O)C(=O)NCC(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C(C)C)NC(=O)C5CCCN5C(=O)C(C)NC(=O)C(CC6=CNC7=CC=CC=C76
 Mibampator	C[C@@H](CNS(=O)(=O)C(C)C)C1=CC=C(C=C1)C2=CC=C(C=C2)CCNS(=O)(=O)C
 Tulrampator	C1CC1N2COC3=C(C2=O)C=C4C(=C3)C(=O)N(N=N4)CCC5=CC(=CC=C5)F
 Eprinomectin	CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC(=O)C)OC)OC)\C)C
@@ -15704,3 +15705,4 @@ Glycerol 2-phosphate	C(C(CO)OP(=O)(O)O)O
 Nicotinonitrile	C1=CC(=CN=C1)C#N
 Tricholomic acid	C1[C@H](ONC1=O)[C@@H](C(=O)O)N
 Zaltoprofen	CC(C1=CC2=C(C=C1)SC3=CC=CC=C3C(=O)C2)C(=O)O
+Prodiamine	CCCN(CCC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
