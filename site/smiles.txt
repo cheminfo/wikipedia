@@ -1943,6 +1943,7 @@ Sodium aluminate	O=[Al-]=O.[Na+]
 Merbromin	[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)C(/Br)=C\C=1\2
 Phenyltoloxamine	O(c1ccccc1Cc2ccccc2)CCN(C)C
 Perrhenic acid	[OH2][Re](=O)(=O)(=O)([OH2])O[Re](=O)(=O)=O
+Levocetirizine	Clc1ccc(cc1)[C@H](N2CCN(CCOCC(=O)O)CC2)c3ccccc3
 Nafarelin	CC(C)C[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](CC2=CC3=CC=CC=C3C=C2)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CNC=N7)NC(=O)[C@@H]8CCC(=O)N8
 Sodium iodide	[Na+].[I-]
 Buserelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc2ccc(cc2)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@@H]6CCC(=O)N6
@@ -6101,7 +6102,7 @@ Dimethyldichlorosilane	C[Si](C)(Cl)Cl
 Methyltrichlorosilane	C[Si](Cl)(Cl)Cl
 Phenylmercury acetate	CC(=O)O[Hg]C1=CC=CC=C1
 Oxalyldiaminopropionic acid	C([C@@H](C(=O)O)N)NC(=O)C(=O)O
-Vomitoxin	O=C4\C(=C/[C@H]3O[C@H]2[C@]1(OC1)[C@](C[C@H]2O)([C@@]3(CO)[C@@H]4O)C)C
+Vomitoxin	CC1=C[C@H]2O[C@@H]3[C@H](O)C[C@]([C@]2([C@H](O)C1=O)CO)([C@]13OC1)C
 Xantphos	O6c1c(cccc1P(c2ccccc2)c3ccccc3)C(c7cccc(P(c4ccccc4)c5ccccc5)c67)(C)C
 Hydroxylammonium chloride	[Cl-].O[NH3+]
 Acephate	O=C(NP(=O)(OC)SC)C
@@ -15707,3 +15708,6 @@ Nicotinonitrile	C1=CC(=CN=C1)C#N
 Tricholomic acid	C1[C@H](ONC1=O)[C@@H](C(=O)O)N
 Zaltoprofen	CC(C1=CC2=C(C=C1)SC3=CC=CC=C3C(=O)C2)C(=O)O
 Prodiamine	CCCN(CCC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
+Pyoluteorin	C1=CC(=C(C(=C1)O)C(=O)C2=CC(=C(N2)Cl)Cl)O
+Maklamicin	C[C@H]1CC[C@@H]2[C@@H](C1)C=C[C@@H]3[C@]2(C(=C4C(=O)[C@@]5(C[C@H](C(=C[C@]5(C/C=C/[C@H]3C)C)CO)C[C@@H](C)O)OC4=O)O)C
+Ornibactin	CCCC(CC(=O)N(CCCC(C(=O)NC(C(C(=O)O)O)C(=O)NC(CO)C(=O)NC(CCCN(C=O)O)C(=O)NCCCCN)N)O)O
