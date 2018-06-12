@@ -14463,6 +14463,7 @@ Nusinersen	Cc1cn(c(=O)[nH]c1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)OP(=S)(O)OC[C@@H]
 Tribromoethanol	C(C(Br)(Br)Br)O
 4-Amino-3-hydrazino-5-mercapto-1,2,4-triazole	c1(=S)[nH]nc(n1N)NN
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
+Naphthalene-1,5-dione	C1=CC(=O)C2=CC=CC(=O)C2=C1
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
 Α-Hederin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H](CO[C@H]2O[C@H]3CC[C@]4([C@H]([C@]3(C)CO)CC[C@@]5([C@@H]4CC=C6[C@]5(CC[C@@]7([C@H]6CC(CC7)(C)C)C(=O)O)C)C)C)O)O)O)O)O
 Dimethylphosphine	CPC
@@ -15723,3 +15724,8 @@ Triethylphosphine	CCP(CC)CC
 4-Aminophenylmercuric acetate	CC(=O)O[Hg]C1=CC=C(C=C1)N
 Cembratrienol	C/C/1=C\CCC(/C=C/[C@@H](CC/C(=C/CC1)/C)C(C)C)(C)O
 Vancosamine	CC(C(C(C)(CC=O)N)O)O
+4-Hydroxyphenylglycine	C1=CC(=CC=C1C(C(=O)O)N)O
+Sterculic acid	CCCCCCCCC1=C(C1)CCCCCCCC(=O)O
+Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
+Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
+VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
