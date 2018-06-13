@@ -323,7 +323,7 @@ Quetiapine	N\1=C(\c3c(Sc2c/1cccc2)cccc3)N4CCN(CCOCCO)CC4
 Ziprasidone	O=C1Cc2c(N1)cc(Cl)c(c2)CCN3CCN(CC3)c4nsc5ccccc45
 Olanzapine	CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
 Benzatropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
-Propranolol	CC(NCC(O)COC1=C(C=CC=C2)C2=CC=C1)C
+Propranolol	OC(COC1=C2C=CC=CC2=CC=C1)CNC(C)C
 Dinitrogen tetroxide	[O-][N+](=O)[N+]([O-])=O
 Clarithromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
 Mefloquine	FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3
@@ -3921,6 +3921,7 @@ Grepafloxacin	O=C(O)\C2=C\N(c1cc(c(F)c(c1C2=O)C)N3CC(NCC3)C)C4CC4
 Brown HT	[Na+].[Na+].Oc3c(cc(CO)c(O)c3N=Nc2ccc(c1ccccc12)S([O-])(=O)=O)N=Nc5ccc(c4ccccc45)S([O-])(=O)=O
 Tert-Butylhydroquinone	Oc1ccc(O)cc1C(C)(C)C
 Hexanitrohexaazaisowurtzitane	[O-][N+](=O)N1C2C3N(C4C(N3[N+]([O-])=O)N(C(C1N4[N+]([O-])=O)N2[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
+9-Crown-3	C1COCCOCCO1
 Rosaramicin	O=CC[C@@H]2[C@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@H](C)[C@H](O)CC(=O)O[C@H](CC)[C@@H](C)[C@@H]3O[C@]3(\C=C\C(=O)[C@H](C)C2)C
 Amylmetacresol	CCCCCC1=C(C=C(C=C1)C)O
 17α-Hydroxypregnenolone	CC[C@@]2(O)CC[C@H]1[C@@H]3CCC4CC(O)C(=O)C[C@]4(C)[C@H]3CC[C@@]12C
@@ -15728,4 +15729,5 @@ Vancosamine	CC(C(C(C)(CC=O)N)O)O
 Sterculic acid	CCCCCCCCC1=C(C1)CCCCCCCC(=O)O
 Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
 Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
+Chloroeremomycin	CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)OC1CC(C(C(O1)C)O)(C)N)NC7=O)C(=O)O)O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
 VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
