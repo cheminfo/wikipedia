@@ -588,6 +588,7 @@ Oxcarbazepine	O=C3c1c(cccc1)N(c2ccccc2C3)C(=O)N
 Silicon tetrachloride	[Si](Cl)(Cl)(Cl)Cl
 Loratadine	O=C(OCC)N4CC/C(=C2/c1ccc(Cl)cc1CCc3cccnc23)CC4
 Loxapine	Clc2ccc1Oc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
+Tranylcypromine	c1cccc(c1)[C@@H]2C[C@H]2N
 Cubane	C12C3C4C1C5C2C3C45
 Ecdysone	O=C1\C=C3/[C@@H]([C@]2(C[C@H](O)[C@H](O)C[C@@H]12)C)CC[C@]4([C@@]3(O)CC[C@@H]4[C@H](C)[C@H](O)CCC(O)(C)C)C
 Linezolid	O=C1O[C@@H](CNC(=O)C)CN1c3cc(F)c(N2CCOCC2)cc3
@@ -8882,6 +8883,7 @@ PSN-375,963	C3CC(CCCC)CCC3c(on1)nc1-c2ccncc2
 Docosatetraenoylethanolamide	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCCCC(=O)NCCO
 Sodium butyrate	CCCC(=O)[O-].[Na+]
 Nitroarginine	OC([C@@H](N)CCCNC(N[N+]([O-])=O)=N)=O
+Halazone	C1=CC(=CC=C1C(=O)O)S(=O)(=O)N(Cl)Cl
 1,2-Benzenedithiol	Sc1ccccc1S
 Trifluoromethyltrimethylsilane	C[Si](C)(C)C(F)(F)F
 Isoguvacine	O=C(O)/C1=C/CNCC1
@@ -15506,6 +15508,7 @@ Gosogliptin	c1cnc(nc1)N2CCN(CC2)[C@H]3C[C@H](NC3)C(=O)N4CCC(C4)(F)F
 Vinylferrocene	C=C[C-]1C=CC=C1.C=C[C-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2].[Fe+2]
 3-Methylhistidine	CN1C=NC=C1CC(C(=O)O)N
 Azeloprazole	Cc1cnc(c(c1OCC2COC(OC2)(C)C)C)CS(=O)c3[nH]c4ccccc4n3
+Ertugliflozin	CCOc1ccc(cc1)Cc2cc(ccc2Cl)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O
 Latanoprostene bunod	C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
 Ethylenediaminediacetic acid	C(CNCC(=O)O)NCC(=O)O
 Bruceolide	CC1=C(C(=O)C[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)O)(OC5)C(=O)OC)O)O)C)O
@@ -15737,3 +15740,7 @@ Ubrogepant	C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)c2cc3c(nc2)C[C@@]4(C3)c
 Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
 3,5-Dinitrobenzoyl chloride	C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)Cl
 Glufimet	COC(=O)CC(C1=CC=CC=C1)C(C(=O)OC)N.Cl
+BMS-641988	CCS(=O)(=O)N[C@@H]1C[C@@]2([C@@H]3[C@H]([C@]1(O2)C)C(=O)N(C3=O)C4=CC(=C(C=C4)C#N)C(F)(F)F)C
+EM-5854	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC4=CC=[N+](C=C4)[O-])O)CCC5=C3C=CC(=C5F)C#N
+MK-434	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)C4=CC=CC=C4)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
+Dinalbuphine sebacate	C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)OC(=O)CCCCCCCCC(=O)OC7=C8C9=C(C[C@@H]1[C@]2([C@]9(CCN1CC1CCC1)[C@@H](O8)[C@H](CC2)O)O)C=C7)O5)O)O
