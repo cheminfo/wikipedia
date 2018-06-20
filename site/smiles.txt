@@ -15737,6 +15737,7 @@ Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
 Chloroeremomycin	CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)OC1CC(C(C(O1)C)O)(C)N)NC7=O)C(=O)O)O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
 VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
 Ubrogepant	C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)c2cc3c(nc2)C[C@@]4(C3)c5cccnc5NC4=O)c6ccccc6
+BI 99179	CCC(=O)N[C@H]1CC[C@H](C1)C(=O)N(C)C2=CC=C(C=C2)C3=NC4=CC=CC=C4O3
 Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
 3,5-Dinitrobenzoyl chloride	C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)Cl
 Glufimet	COC(=O)CC(C1=CC=CC=C1)C(C(=O)OC)N.Cl
@@ -15744,3 +15745,6 @@ BMS-641988	CCS(=O)(=O)N[C@@H]1C[C@@]2([C@@H]3[C@H]([C@]1(O2)C)C(=O)N(C3=O)C4=CC(
 EM-5854	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC4=CC=[N+](C=C4)[O-])O)CCC5=C3C=CC(=C5F)C#N
 MK-434	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)C4=CC=CC=C4)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
 Dinalbuphine sebacate	C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)OC(=O)CCCCCCCCC(=O)OC7=C8C9=C(C[C@@H]1[C@]2([C@]9(CCN1CC1CCC1)[C@@H](O8)[C@H](CC2)O)O)C=C7)O5)O)O
+Nemorexant	CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl
+Methyldiazinol	C[C@]12CCC3(C[C@@H]1CC[C@@H]4[C@@H]2CC[C@]5([C@H]4CC[C@]5(C)O)C)N=N3
+Para-Aminoblebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=C(C=C4)N)O
