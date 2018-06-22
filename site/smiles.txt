@@ -8245,6 +8245,7 @@ Lonidamine	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)O
 Mitoguazone	C\C(\C=N\NC(N)=N)=N/NC(N)=N
 Triethylenemelamine	C1CN1c2nc(nc(n2)N3CC3)N4CC4
 Ortataxel	CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@]5(C2(C)C)[C@H]([C@@H]1OC(=O)[C@@H]([C@H](CC(C)C)NC(=O)OC(C)(C)C)O)OC(=O)O5)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)OC(=O)C
+Tesetaxel	CC1=C2[C@@H]3[C@H]([C@@]4(CC[C@@H]5[C@]([C@H]4[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C6=C(C=CC=N6)F)NC(=O)OC(C)(C)C)O)O)OC(=O)C7=CC=CC=C7)(CO5)OC(=O)C)C)O[C@@H](O3)CN(C)C
 Belotecan	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(c(c3C4)CCNC(C)C)cccc5
 Elsamitrucin	Cc1ccc2c3c1c(=O)oc4c3c(c(c5c4c(ccc5)O[C@H]6[C@@H]([C@@]([C@H]([C@H](O6)C)O)(C)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)C)O)OC)N)O)c(=O)o2
 Aleuritic acid	O=C(O)CCCCCCC[C@H](O)[C@H](O)CCCCCCO
@@ -15638,6 +15639,7 @@ Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
 Estriol (medication)	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
+Estrone (medication)	O=C4[C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3CC4)C
 Alpha-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
 Nickel bis(dimethylglyoximate)	CC(=C(C)N=O)NO.CC(=C(C)N=O)NO.[Ni]
 Histidine methyl ester	COC(=O)[C@H](Cc1c[nH]cn1)N
@@ -15705,6 +15707,7 @@ Vinylene carbonate	C1=COC(=O)O1
 Avatrombopag	C1CCC(CC1)N2CCN(CC2)C3=C(N=C(S3)NC(=O)C4=CC(=C(N=C4)N5CCC(CC5)C(=O)O)Cl)C6=CC(=CS6)Cl
 Hydrogen ditelluride	[TeH][TeH]
 Pyrosilicic acid	O[Si](O)(O)O[Si](O)(O)O
+Sodium pyrosilicate	[Si](O[Si]([O-])([O-])[O-])([O-])([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Pyrosilicate	[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
 Zetekitoxin AB	[H]/N=C/1\N2[C@@]34N/C(=N/[H])/N([C@H]3[C@@H](N1)C(=O)N5OC[C@@H]([C@@H]5C[C@@](C2)([C@]4(O)O)OS(=O)(=O)O)CO)COC(=O)NO
 1,3-Dichloro-2-nitrobenzene	C1=CC(=C(C(=C1)Cl)[N+](=O)[O-])Cl
@@ -15750,3 +15753,8 @@ Methyldiazinol	C[C@]12CCC3(C[C@@H]1CC[C@@H]4[C@@H]2CC[C@]5([C@H]4CC[C@]5(C)O)C)N
 Para-Aminoblebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=C(C=C4)N)O
 Mesitol	Cc1cc(c(c(c1)C)O)C
 IDPN (chemical)	C(CNCCC#N)C#N
+Estriol dipropionate	CCC(=O)O[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)CC)C)O
+Estriol dihexanoate	CCCCCC(=O)O[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)CCCCC)C)O
+Estrone benzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5
+Ethinylestradiol benzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5
+N-Isopropyl-N'-phenyl-1,4-phenylenediamine	CC(C)NC1=CC=C(C=C1)NC2=CC=CC=C2
