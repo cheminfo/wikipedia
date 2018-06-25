@@ -15618,6 +15618,7 @@ Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
 T-1123	[Cl-]C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
+19-Nordehydroepiandrosterone	C[C@]12CC[C@@H]3[C@H]4CC[C@@H](CC4=CC[C@H]3[C@@H]1CCC2=O)O
 Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
 Fluorophosphoric acid	OP(=O)(O)F
 Trendione	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
@@ -15764,5 +15765,12 @@ Estrone methyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OC
 Metapristone	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)NC)C)O
 ERX-11	CC(C)COC1=C(C=CC(=C1)C(=O)N)NC(=O)C2=CC(=C(C=C2)NC(=O)C3=CC(=C(C=C3)[N+](=O)[O-])OCCO)OCC(C)C
 Chlorophenylsilatrane	c1cc(ccc1[Si]23OCCN(CCO2)CCO3)Cl
+Bathocuproine	CC1=NC2=C(C=CC3=C2N=C(C=C3C4=CC=CC=C4)C)C(=C1)C5=CC=CC=C5
 Trans-Dichlorobis(ethylenediamine)cobalt(III) chloride	C(CN)N.C(CN)N.Cl[Co](Cl)Cl
 21-Crown-7	C1COCCOCCOCCOCCOCCOCCO1
+Saccharinylmethylestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OCN5C(=O)C6=CC=CC=C6S5(=O)=O
+Estradiol acetylsalicylate	CC(=O)OC1=CC=CC=C1C(=O)OC2=CC3=C(C=C2)[C@H]4CC[C@]5([C@H]([C@@H]4CC3)CC[C@@H]5O)C
+Estradiol salicylate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5O
+Estradiol anthranilate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5N
+Estradiol benzoate cyclooctenyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O/C/4=C/CCCCCC4)CCC5=C3C=CC(=C5)OC(=O)C6=CC=CC=C6
+R13 (drug)	CNC(=O)OC1=C(C2=C(C=C1)C(=O)C=C(O2)C3=CC=CC=C3)OC(=O)NC
