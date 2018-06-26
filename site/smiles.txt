@@ -2173,7 +2173,7 @@ Stachyose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@
 Luteolin	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
 Maleic anhydride	C1=CC(=O)OC1=O
 Bismuth(III) oxide	O=[Bi]O[Bi]=O
-Tin dioxide	O=[Sn]=O
+Tin(IV) Oxide	O=[Sn]=O
 Temefos	S=P(OC)(OC)Oc2ccc(Sc1ccc(OP(=S)(OC)OC)cc1)cc2
 Hexanitrostilbene	O=[N+]([O-])c1c(ccc(c1[N+]([O-])=O)[N+]([O-])=O)/C=C/c2ccc([N+]([O-])=O)c([N+]([O-])=O)c2[N+]([O-])=O
 Tetrafluoromethane	FC(F)(F)F
@@ -4803,7 +4803,6 @@ Formyl fluoride	FC=O
 Hexafluorophosphoric acid	[H+].F[P-](F)(F)(F)(F)F
 Amifampridine	c1cncc(c1N)N
 Trimethylindium	C[In](C)C
-Nitisinone	O=C(c1ccc(cc1[N+]([O-])=O)C(F)(F)F)C2C(=O)CCCC2=O
 Hexatriynyl radical	C#CC#CC#[C]
 Wedelolactone	O=C3Oc4cc(OC)cc(O)c4c2oc1c(cc(O)c(O)c1)c23
 Colitose	O=C[C@@H](O)C[C@H](O)[C@@H](O)C
@@ -13564,6 +13563,7 @@ Fluopicolide	C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
 Fosetyl-Al	CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3]
 Vixotrigine	C1CC(NC1C2=CC=C(C=C2)OCC3=CC=CC=C3F)C(=O)N
 PF-05089771	C1=CC(=C(C=C1Cl)C2=C(NN=C2)N)OC3=CC(=C(C=C3Cl)S(=O)(=O)NC4=CSC=N4)F
+DSP-2230	FC1=CC(OC2=CC=C(N=C3CN([C@@H](C(N([H])[H])=O)C)[H])C(N3C4CCC4)=N2)=CC(F)=C1F
 Zyklophin	CC[C@H](C)[C@H]1C(=O)N[C@@H](CNC(=O)C[C@@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)[C@H](CC3=CC=C(C=C3)O)NCC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N5CCC[C@H]5C(=O)N[C@@H](CCCCN)C(=O)N
 4-Methylphenethylamine	CC1=CC=C(C=C1)CCN
 2,4,5-Trimethoxypropiophenone	CCC(=O)C1=CC(=C(C(=C1)OC)OC)OC
@@ -15196,6 +15196,7 @@ Dacuronium bromide	CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1[N+]4(CCCC
 Taraxasterol	O[C@H]1CC[C@@]2(C)[C@](CC[C@]3(C)[C@]2([H])CC[C@@]4([H])[C@@]3(C)CC[C@](CC5)(C)[C@]4([H])[C@H](C)C5=C)([H])C1(C)C
 Murodermin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N2)CC4=CC=C(C=C4)O)CC(=O)O)CC5=CC=C(C=C5)O)CO)CO)NC(=O)CNC(=O)[C@@H]6CCCN6C(=O)[C@H](CC7=CC=C(C=C7)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)N)C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC8=CN=CN8)CCSC)C(C)C)CC(=O)N)CC(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@H]9CSSC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC9=O)C(C)C)[C@@H](C)CC)CC1=CC=C(C=C1)O)CO)CC(=O)O)CCCNC(=N)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)[C@@H](C)O)CC1=CC=C(C=C1)O)CO)CC(=O)O)CC(C)C)CO)CCC(=O)O
 Nepidermin	CC[C@H](C)[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CS)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CC4=CNC5=CC=CC=C54)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CS)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CS)NC(=O)[C@H](C)NC(=O)[C@H](CC7=CC=C(C=C7)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC8=CC=C(C=C8)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CS)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC9=CN=CN9)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CS)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)N
+NNI-351	CCOC1=CC2=C(C=C1)N=C(C(=C2)C#N)N3CCCN(CC3)C(=S)NC4=CC=CC=C4F
 Estrin (compound)	C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC=CC=C4[C@H]3CC2
 Trifluoroacetone	CC(=O)C(F)(F)F
 Trifluoromethanol	C(O)(F)(F)F
@@ -15774,3 +15775,8 @@ Estradiol salicylate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=
 Estradiol anthranilate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5N
 Estradiol benzoate cyclooctenyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O/C/4=C/CCCCCC4)CCC5=C3C=CC(=C5)OC(=O)C6=CC=CC=C6
 R13 (drug)	CNC(=O)OC1=C(C2=C(C=C1)C(=O)C=C(O2)C3=CC=CC=C3)OC(=O)NC
+NNC 45-0095	CCC1=C(C2=CC=C3N2C1=CC=C3)C4=CC=C(C=C4)O
+Β-LGND2	C1=CC(=CC=C1N2C=C(C3=CC(=CC(=C3C2=O)O)O)Br)O
+WAY-204688	C[C@@](C#N)([C@H](C1=CC=CC=C1OC)C2=CC=CC3=CC=CC=C32)C(=O)N4CCC(CC4)C5=CC(=CC=C5)C(F)(F)F
+EC508	O=C([C@H]1N(C(C2=CC=C(S(=O)(N)=O)C=C2)=O)CCC1)O[C@H]3CC[C@@]4([H])[C@]5([H])CCC6=CC(O)=CC=C6[C@@]5([H])CC[C@]34C
+EC586	O=C1CC[C@]2(C)[C@@]3([H])CC[C@]4(C)[C@@H](OC([C@@H]5CCCN5C(C6=CC=C(S(N([H])[H])(=O)=O)C=N6)=O)=O)CC[C@@]4([H])[C@]3([H])CCC2=C1
