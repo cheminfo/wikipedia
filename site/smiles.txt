@@ -8550,6 +8550,7 @@ Tezacitabine	OC[C@H]1O[C@@H](N2C=CC(N)=NC2=O)/C([C@@H]1O)=C/F
 Starlicide	Clc1cc(N)ccc1C
 Chlorine perchlorate	ClO[Cl](=O)(=O)=O
 Psymberin	O[C@@H](C[C@H]1O[C@H]([C@H](OC)NC([C@@H](O)[C@H](CC(C)=C)OC)=O)C[C@@H](O)C1(C)C)[C@@H](C)[C@@H](CC2=C(C)C(O)=CC(O)=C23)OC3=O
+Prostanozol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CC[C@@H]5[C@@]3(CC6=C(C5)NN=C6)C
 Muzolimine	O=C1CC(N)=NN1C(C)c2cc(Cl)c(Cl)cc2
 Glyceric acid	C(C(C(=O)O)O)O
 SB-216641	CN(C)CCOc1cc(ccc1OC)NC(=O)c3ccc(cc3)-c2ccc(cc2C)-c4noc(C)n4
@@ -15783,3 +15784,6 @@ EC508	O=C([C@H]1N(C(C2=CC=C(S(=O)(N)=O)C=C2)=O)CCC1)O[C@H]3CC[C@@]4([H])[C@]5([H
 EC586	O=C1CC[C@]2(C)[C@@]3([H])CC[C@]4(C)[C@@H](OC([C@@H]5CCCN5C(C6=CC=C(S(N([H])[H])(=O)=O)C=N6)=O)=O)CC[C@@]4([H])[C@]3([H])CCC2=C1
 Progesterone carboxymethyloxime	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/OCC(=O)O)/CC[C@]34C)C
 Progesterone dioxime	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O)/CC[C@]34C)C
+5α-Dihydroethisterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C
+Ricinine	Cn1ccc(c(c1=O)C#N)OC
+Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC4=C/C(CC[C@]34C)=N/O
