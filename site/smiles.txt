@@ -15728,7 +15728,7 @@ Ornibactin	CCCC(CC(=O)N(CCCC(C(=O)NC(C(C(=O)O)O)C(=O)NC(CO)C(=O)NC(CCCN(C=O)O)C(
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)OC
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(CC(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)O)O)C)O)OC
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)O
-Ferrichrome A	CC(=CC(=O)N(CCCC1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)N1)CO)CO)CCCN(C(=O)C=C(C)CC(=O)O)O)CCCN(C(=O)C=C(C)CC(=O)O)O)O)CC(=O)O
+Ferrichrome A	C/C(=C\C(=O)N(CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N1)CO)CO)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)O)/CC(=O)O
 Methionine sulfoximine	CS(=N)(=O)CCC(C(=O)O)N
 Undecylprodigiosin	CCCCCCCCCCCC1=CC=C(N1)C=C2C(=CC(=C3C=CC=N3)N2)OC
 Cobalt(III) hydroxide	[OH-].[OH-].[OH-].[Co+3]
@@ -15788,3 +15788,4 @@ Progesterone dioxime	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O
 Ricinine	Cn1ccc(c(c1=O)C#N)OC
 Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC4=C/C(CC[C@]34C)=N/O
 2-Methylbut-3-yn-2-ol	CC(C)(C#C)O
+Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
