@@ -1980,6 +1980,7 @@ Bromate	OBr(=O)=O
 Tetraphenylene	C1=CC=C2C(=C1)C3=CC=CC=C3C4=CC=CC=C4C5=CC=CC=C25
 Toxaphene	C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
 Heptachlor	ClC1/C=C\C2C3(Cl)C(\Cl)=C(\Cl)C(Cl)(C12)C3(Cl)Cl
+Niobium(V) chloride	Cl[Nb](Cl)(Cl)(Cl)Cl
 Zimelidine	Brc2ccc(C(=C/CN(C)C)/c1cccnc1)cc2
 Epirubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3cccc(OC)c23)C[C@@](O)(C(=O)CO)C[C@@H]5O[C@@H]4O[C@H]([C@H](O)[C@@H](N)C4)C
 Prontosil	NS(=O)(=O)c2ccc(/N=N/c1ccc(N)cc1N)cc2
@@ -9841,6 +9842,7 @@ Cephaeline	CC[C@H]1CN2CCc3cc(c(cc3[C@@H]2C[C@@H]1C[C@@H]4c5cc(c(cc5CCN4)O)OC)OC)
 ORG-37684	O(c1c(OC)ccc2c1CCC2)[C@H]3CCNC3
 Myrcenol	C=CC(=C)CC\C=C(\C)CO
 Fenclofenac	OC(=O)Cc1ccccc1Oc2ccc(Cl)cc2Cl
+Niobium(V) fluoride	F[Nb](F)(F)(F)F
 Ethylenetetracarboxylic dianhydride	O=C(C(C(O2)=O)=C1C2=O)OC1=O
 Pentazenium	N#[N+][N-][N+]#N
 Ethylenetetracarboxylic acid	O=C(O)/C(C(O)=O)=C(C(O)=O)\C(O)=O
@@ -14822,7 +14824,7 @@ Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC
 9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
 Vinyltriethoxysilane	CCO[Si](C=C)(OCC)OCC
 Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
-Estradiol (medication)	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
+Estradiol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
 P-Dioxanone	C1COC(=O)CO1
 Progesterone (medication)	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Mecigestone	C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2C[C@@H]4[C@]3(CCCC4)C(=O)C)C)[C@@]5(C1=CC(=O)CC5)C
@@ -15788,4 +15790,6 @@ Progesterone dioxime	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O
 Ricinine	Cn1ccc(c(c1=O)C#N)OC
 Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC4=C/C(CC[C@]34C)=N/O
 2-Methylbut-3-yn-2-ol	CC(C)(C#C)O
+1-Naphthalenethiol	C1=CC=C2C(=C1)C=CC=C2S
 Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
+Naphthalene-2-sulfonic acid	C1=CC=C2C=C(C=CC2=C1)S(=O)(=O)O
