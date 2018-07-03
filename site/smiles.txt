@@ -4935,7 +4935,6 @@ EDDS	OC(=O)CC(NCCNC(CC(O)=O)C(O)=O)C(O)=O
 Caesium bromide	[Cs+].[Br-]
 Magnesium bromide	[Mg+2].[Br-].[Br-]
 Calendic acid	O=C(O)CCCCCC\C=C\C=C\C=C/CCCCC
-Sodium pyruvate	[Na+].[O-]C(=O)C(=O)C
 Tafenoquine	FC(F)(F)c3cc(Oc1c(OC)cc(NC(C)CCCN)c2nc(OC)cc(c12)C)ccc3
 Rumenic acid	CCCCCC\C=C/C=C/CCCCCCCC(=O)O
 Nootkatone	O=C2\C=C1\CC[C@@H](C(=C)C)C[C@@]1(C)[C@H](C)C2
@@ -13989,6 +13988,7 @@ Relamorelin	c1ccc(cc1)C[C@@H](C(=O)NC2(CCNCC2)C(=O)N)NC(=O)[C@@H](Cc3c[nH]c4c3cc
 Ipamorelin	CC(C)(C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@H](CC2=CC3=CC=CC=C3C=C2)C(=O)N[C@H](CC4=CC=CC=C4)C(=O)N[C@@H](CCCCN)C(=O)N)N
 Almecillin	CC1(C)S[C@@H]2[C@H](NC(=O)CSCC=C)C(=O)N2[C@H]1C(=O)O
 Drimane	C[C@H]1CC[C@@H]2[C@@]([C@H]1C)(CCCC2(C)C)C
+Onnamide A	C[C@H]1[C@H](O[C@](CC1=C)([C@@H](C(=O)N[C@@H]2[C@@H]3[C@@H]([C@H](C([C@H](O3)C[C@@H](CCC/C=C/C=C/C=C/C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)O)(C)C)OC)OCO2)O)OC)C
 Examorelin	CC1=C(C2=CC=CC=C2N1)C[C@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC6=CNC=N6)N
 Hentriacontanonaene	CC\C=C/C\C=C/C\C=C/C\C=C/CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC
 6-EAPB	CCNC(CC1=CC2=C(C=CO2)C=C1)C
@@ -15793,3 +15793,4 @@ Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC
 1-Naphthalenethiol	C1=CC=C2C(=C1)C=CC=C2S
 Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
 Naphthalene-2-sulfonic acid	C1=CC=C2C=C(C=CC2=C1)S(=O)(=O)O
+Aflatoxin B1 exo-8,9-epoxide	COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5[C@@H]6[C@@H](O6)O[C@@H]5O2
