@@ -15794,3 +15794,5 @@ Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC
 Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
 Naphthalene-2-sulfonic acid	C1=CC=C2C=C(C=CC2=C1)S(=O)(=O)O
 Aflatoxin B1 exo-8,9-epoxide	COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5[C@@H]6[C@@H](O6)O[C@@H]5O2
+Cyclodiol	C[C@]12CC[C@H]3[C@H](C14CCC2(CC4)O)CCC5=C3C=CC(=C5)O
+Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
