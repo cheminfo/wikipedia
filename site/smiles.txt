@@ -3090,7 +3090,7 @@ Methidathion	O=C1SC(=N/N1CSP(=S)(OC)OC)\OC
 Methamidophos	O=P(OC)(SC)N
 Metalaxyl	CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
 Chlorothalonil	Clc1c(C#N)c(Cl)c(C#N)c(Cl)c1Cl
-Deltamethrin	Br/C(Br)=C/[C@H]3[C@@H](C(=O)O[C@H](C#N)c2cccc(Oc1ccccc1)c2)C3(C)C
+Deltamethrin	N#C[C@H](c1cccc(c1)Oc1ccccc1)OC(=O)[C@@H]1[C@@H](C1(C)C)C=C(Br)Br
 Iprodione	O=C2N(c1cc(Cl)cc(Cl)c1)C(=O)CN2C(=O)NC(C)C
 Fenthion	S=P(OC)(OC)Oc1ccc(SC)c(c1)C
 Aliquat 336	CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[Cl-]
@@ -15799,3 +15799,6 @@ Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
 Estradiol 17β-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CCC5=C3C=CC(=C5)O
 Estradiol 3-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC5CCCCO5
 Estriol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
+Nonafluoro-tert-butyl alcohol	OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F
+Ethinylestradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
+Ethinylestradiol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
