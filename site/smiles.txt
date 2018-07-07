@@ -926,7 +926,7 @@ Buprenorphine	Oc7ccc5c1c7O[C@H]3[C@]6(OC)[C@H](C[C@@]2([C@H](N(CC[C@@]123)CC4CC4
 Bremelanotide	O=C(C)N[C@@H](CCCC)C(N[C@@H]1C(N[C@@H](CC2=CNC=N2)C(N[C@H](CC3=CC=CC=C3)C(N[C@@H](CCC/N=C(N)\N)C(N[C@@H](CC4=CNC5C=CC=CC45)C(N[C@@H](CCCCNC(C1)=O)C(O)=O)=O)=O)=O)=O)=O)=O
 Ketoconazole	O=C(N5CCN(c4ccc(OC[C@@H]1O[C@](OC1)(c2ccc(Cl)cc2Cl)Cn3ccnc3)cc4)CC5)C
 Succinyl-CoA	O=C(O)CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
-5-Methoxy-diisopropyltryptamine	CC(C)N(C(C)C)CCC1=C[NH]C(C=C2)=C1C=C2OC
+5-Methoxy-N,N-diisopropyltryptamine	CC(C)N(C(C)C)CCC1=C[NH]C(C=C2)=C1C=C2OC
 1,4-Butanediol	C(CCO)CO
 Isosorbide dinitrate	[O-][N+](=O)O[C@H]1[C@H]2OC[C@H](O[N+]([O-])=O)[C@H]2OC1
 Desmopressin	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSCCC(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)C(=O)N4CCC[C@H]4C(=O)N[C@H](CCCNC(=N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
@@ -1104,7 +1104,6 @@ Ammonium lauryl sulfate	[O-]S(=O)(=O)OCCCCCCCCCCCC.[NH4+]
 Mannitol	O[C@H]([C@H](O)CO)[C@H](O)[C@H](O)CO
 Thiocyanate	[S-]C#N
 Lipoxin	O=C(O)CCC[C@H](O)/C=C/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCCC
-Cimetidine	N#CN=C(NC)NCCSCc1nc[nH]c1CN#CN\C(=N/C)NCCSCc1nc[nH]c1C
 Imipramine	c1cc3c(cc1)CCc2c(cccc2)N3CCCN(C)C
 Ximelagatran	O=C(NCc1ccc(C(=N\O)\N)cc1)[C@H]3N(C(=O)[C@H](NCC(=O)OCC)C2CCCCC2)CC3
 Malachite green	CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]
@@ -15500,7 +15499,7 @@ Dihydrofluoxymesterone	[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([
 9-Methyl-β-carboline	CN1C2=CC=CC=C2C3=C1C=NC=C3
 Oxofluoxymesterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@]4(C)O)C)F
 Ferric edta	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Fe+3]
-Chevreul’s salt	O.O.[O-]S(=O)[O-].[O-]S(=O)[O-].[Cu+].[Cu+].[Cu+2]
+Chevreul's salt	O.O.[O-]S(=O)[O-].[O-]S(=O)[O-].[Cu+].[Cu+].[Cu+2]
 Fertirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
 Myo-inositol trispyrophosphate	C12C(C3C(C4C1OP(=O)(OP(=O)(O4)O)O)OP(=O)(OP(=O)(O3)O)O)OP(=O)(OP(=O)(O2)O)O
 Linzagolix	O=C(C1=C(C(N2C3=CC(OCC4=C(OC)C=CC(F)=C4F)=C(OC)C=C3F)=O)C(NC2=O)=CS1)O
@@ -15799,6 +15798,9 @@ Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
 Estradiol 17β-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CCC5=C3C=CC(=C5)O
 Estradiol 3-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC5CCCCO5
 Estriol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
+Silicon monohydride	[SiH]
 Nonafluoro-tert-butyl alcohol	OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F
 Ethinylestradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
 Ethinylestradiol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
+DU-41164	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=C(C4=CC(=O)[C@H]5C[C@H]5[C@@]34C)F)C)OC(=O)C
+DU-41165	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=C(C4=CC(=O)CC[C@@]34C)F)C)OC(=O)C
