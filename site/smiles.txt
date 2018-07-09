@@ -14136,9 +14136,9 @@ Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
 Trimethyldiborane	C[B]1(C)[H][BH](C)[H]1
 Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
 Methyldiborane	C[BH]1[H][BH2][H]1
-Epipregnanolone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+Epipregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@@H](C4)O)C)C
 20α-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
-5β-Dihydroprogesterone	CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(=O)C4)C)C
+5β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCC(=O)C4)C)C
 Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
@@ -15804,3 +15804,9 @@ Ethinylestradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC
 Ethinylestradiol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 DU-41164	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=C(C4=CC(=O)[C@H]5C[C@H]5[C@@]34C)F)C)OC(=O)C
 DU-41165	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=C(C4=CC(=O)CC[C@@]34C)F)C)OC(=O)C
+Oxiranol	C1OC1O
+Methyldioxirane	CC1OO1
+Pregnanediol glucuronide	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O)C)C)O
+Tungsten(II) chloride	[Cl-].[Cl-].[W+2]
+20β-Dihydroprogesterone	C[C@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Tungsten(III) chloride	Cl[W](Cl)Cl
