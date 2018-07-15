@@ -5598,6 +5598,7 @@ Methylenedioxybenzylamphetamine	C1=C3C(=CC=C1CC(C)NCC2=CC=CC=C2)OCO3
 Methylenedioxycyclopropylmethylamphetamine	C3OC1C(C=CC(=C1)CC(C)NCC2CC2)O3
 Methylenedioxydimethylamphetamine	CC(Cc1ccc2c(c1)OCO2)N(C)C
 Narcotoline	CN1CCC2=CC3=C(C(=C2[C@@H]1[C@@H]4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)O)OCO3
+Thallium triiodide	[Tl+].I[I-]I
 Dibromodifluoromethane	C(F)(F)(Br)Br
 Tribromofluoromethane	BrC(Br)(Br)F
 1D-chiro-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
@@ -15815,3 +15816,7 @@ Tungsten(III) chloride	Cl[W](Cl)Cl
 1,1-Dihydroxyethene	C=C(O)O
 Etiocholanedione	C[C@]12CCC(=O)C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
 Trinitrogen	[N-]=[N+]=[N]
+Molybdenum(VI) chloride	Cl[Mo](Cl)(Cl)(Cl)(Cl)Cl
+Vanadium(V) chloride	Cl[V](Cl)(Cl)(Cl)Cl
+Rhenium(VI) chloride	Cl[Re](Cl)(Cl)(Cl)(Cl)Cl
+Rhenium(IV) chloride	[Cl].[Cl].[Cl].[Cl].[Re]
