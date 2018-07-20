@@ -5204,7 +5204,6 @@ Ketazocine	O=C2c1c(cc(O)cc1)[C@]3([C@H]([C@@H]2N(CC3)CC4CC4)C)C
 Dinonylnaphthylsulfonic acid	O=S(=O)(O)c2c1ccccc1cc(c2CCCCCCCCC)CCCCCCCCC
 U0126	c1cc(c(cc1)S/C(=C(/C(=C(/Sc2c(cccc2)N)\N)/C#N)\C#N)/N)N
 Diiodotyrosine	Ic1cc(cc(I)c1O)C[C@@H](C(=O)O)N
-Monoiodotyrosine	c1cc(c(cc1C[C@@H](C(=O)O)N)I)O
 Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
 3,4-Methylenedioxyphentermine	NC(C)(C)CC1=CC(OCO2)=C2C=C1
 S-Nitroso-N-acetylpenicillamine	O=C(N[C@@H](C(=O)O)C(SN=O)(C)C)C
@@ -8921,7 +8920,7 @@ Benmoxin	O=C(NNC(c1ccccc1)C)c2ccccc2
 2-Acetylaminofluorene	CC(=O)Nc1ccc2c(Cc3ccccc23)c1
 PHCCC	c4ccccc4NC(=O)C1(CC1C2=NO)Oc3ccccc23
 Phlorizin	c1cc(ccc1CCC(=O)c2c(cc(cc2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O
-3-Iodotyrosine	Ic1cc(ccc1O)C[C@@H](C(=O)O)N
+3-Iodotyrosine	c1cc(c(cc1C[C@@H](C(=O)O)N)I)O
 U46619	CCCCC[C@H](O)/C=C/[C@H]1[C@@H]2OC[C@@H](C2)[C@@H]1C/C=C\CCCC(O)=O
 CataCXium F sulf	c1ccc2c(c1)-c3ccc(cc3C2(CCCc4ccc(cc4)S(=O)(=O)O)[PH+](C5CCCCC5)C6CCCCC6)S(=O)(=O)O.OS(=O)(=O)[O-]
 Suosan	C1=CC(=CC=C1NC(=O)NCCC(=O)O)[N+](=O)[O-]
@@ -15821,3 +15820,7 @@ Vanadium(V) chloride	Cl[V](Cl)(Cl)(Cl)Cl
 Rhenium(VI) chloride	Cl[Re](Cl)(Cl)(Cl)(Cl)Cl
 Rhenium(IV) chloride	[Cl].[Cl].[Cl].[Cl].[Re]
 Hexaphenylcarbodiphosphorane	C1=CC=C(C=C1)P(=C=P(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6
+Hexamethylcyclotrisiloxane	C[Si]1(O[Si](O[Si](O1)(C)C)(C)C)C
+Butroxydim	CCCC(=O)C1=C(C(=C(C=C1C)C)C2CC(=O)C(=C(CC)NOCC)C(=O)C2)C
+Bindone	C1C(=C2C(=O)C3=CC=CC=C3C2=O)C4=CC=CC=C4C1=O
+Lunatin	COC1=CC(=C2C(=C1)C(=O)C3=CC(=CC(=C3C2=O)O)O)O
