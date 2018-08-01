@@ -13923,6 +13923,7 @@ DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)OO
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
+Ruthenium pentafluoride	[F-].[F-].[F-].[F-].[F-].[Ru+5]
 Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
 Methylselenocysteine	C[Se]C[C@@H](C(=O)O)N
 Cassaine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCN(C)C)[C@]3(CC[C@@H](C([C@@H]3CC2=O)(C)C)O)C
@@ -14300,6 +14301,7 @@ Butyl acrylate	CCCCOC(=O)C=C
 Iodopindolol	CC(C)NC[C@@H](COc1cccc2c1c(c[nH]2)[125I])O
 Buparlisib	NC1=NC=C(C2=CC(=NC(=N2)N2CCOCC2)N2CCOCC2)C(=C1)C(F)(F)F
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
+Roluperidone	C1CN(CCC1CN2CC3=CC=CC=C3C2=O)CC(=O)C4=CC=C(C=C4)F
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
 Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
@@ -15839,4 +15841,6 @@ Lecirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@
 Peforelin	C1C[C@H](N(C1)C(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC4=CN=CN4)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CN=CN7)NC(=O)[C@@H]8CCC(=O)N8)C(=O)NCC(=O)N
 Azagly-nafarelin	CC(C[C@H](NC([C@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H]1CCC(N1)=O)=O)CC2=CN=CN2)=O)CC3=CNC4=CC=CC=C43)=O)CO)=O)CC5=CC=C(O)C=C5)=O)CC6=CC7=CC=CC=C7C=C6)=O)C(N[C@H](C(N8CCC[C@H]8C(NNC(N)=O)=O)=O)CCC/N=C(N)\N)=O)C
 Pregnenolone (medication)	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+Tetramethylammonium fluoride	C[N+](C)(C)C.[F-]
 Dihydrotestosterone undecanoate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
+Trestolone enanthate	CCCCCCC(O[C@]1(CC[C@]2([C@@]3([C@@H](CC4=CC(CC[C@@]4([C@]3(CC[C@@]21C)[H])[H])=O)C)[H])[H])[H])=O
