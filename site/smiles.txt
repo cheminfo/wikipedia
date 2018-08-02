@@ -1720,6 +1720,7 @@ Falcarinol	C(#CC#C[C@@H](O)\C=C)C\C=C/CCCCCCC
 Cacodyl	[As]([As](C)C)(C)C
 Acetone	CC(=O)C
 Eriochrome Black T	C1=CC=C2C(=C1)C=CC(=C2O)/N=N/C3=C4C=CC(=CC4=C(C=C3O)S(=O)(=O)[O-])[N+](=O)[O-].[Na+]
+Fulminate	[C-]#[N+][O-]
 Triphenylphosphine	c3c(P(c1ccccc1)c2ccccc2)cccc3
 Metamfepramone	CC(C(=O)C1=CC=CC=C1)N(C)C
 Imperatorin	O=C/3Oc2c(OC\C=C(/C)C)c1occc1cc2\C=C\3
@@ -2093,6 +2094,7 @@ Prednisolone sodium phosphate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO
 Prednisolone tebutate	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CC(C)(C)C)O)CCC4=CC(=O)C=C[C@]34C)O
 Isosorbide	O[C@@H]1[C@H]2OC[C@@H](O)[C@H]2OC1
 Methyl isobutyl ketone	CC(C)CC(=O)C
+Selenate	[O-][Se](=O)(=O)[O-]
 Selenic acid	O=[Se](=O)(O)O
 Prazosin	O=C(N3CCN(c2nc1cc(OC)c(OC)cc1c(n2)N)CC3)c4occc4
 Dimethylacetamide	CN(C)C(C)=O
@@ -15402,7 +15404,7 @@ Yoda1	ClC1=C(CSC2=NN=C(C3=NC=CN=C3)S2)C(Cl)=CC=C1
 Pigment Yellow 12	CC(=O)C(C(=O)NC1=CC=CC=C1)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4)Cl)Cl
 Pigment Yellow 13	CC1=CC(=C(C=C1)NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=C(C=C(C=C4)C)C)Cl)Cl)C
 Phosphoryl chloride difluoride	O=P(F)(F)Cl
-PF-04958242	CC(C)S(=O)(=O)N[C@H]1COC[C@H]1OC2=CC=C(C=C2)C3=CC=C(S3)C#N
+BIIB-104	CC(C)S(=O)(=O)N[C@H]1COC[C@H]1OC2=CC=C(C=C2)C3=CC=C(S3)C#N
 Adegramotide	CC(C)CC(C(=O)NC(CC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C)C(=O)N2CCCC2C(=O)N3CCCC3C(=O)NCC(=O)NC(C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CC4=CC=C(C=C4)O)C(=O)NCC(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C(C)C)NC(=O)C5CCCN5C(=O)C(C)NC(=O)C(CC6=CNC7=CC=CC=C76
 Mibampator	C[C@@H](CNS(=O)(=O)C(C)C)C1=CC=C(C=C1)C2=CC=C(C=C2)CCNS(=O)(=O)C
 Tulrampator	C1CC1N2COC3=C(C2=O)C=C4C(=C3)C(=O)N(N=N4)CCC5=CC(=CC=C5)F
@@ -15844,3 +15846,4 @@ Pregnenolone (medication)	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(
 Tetramethylammonium fluoride	C[N+](C)(C)C.[F-]
 Dihydrotestosterone undecanoate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Trestolone enanthate	CCCCCCC(O[C@]1(CC[C@]2([C@@]3([C@@H](CC4=CC(CC[C@@]4([C@]3(CC[C@@]21C)[H])[H])=O)C)[H])[H])[H])=O
+Tetramethylphosphonium bromide	C[P+](C)(C)C.[Br-]
