@@ -5410,6 +5410,7 @@ Hygromycin B	O1[C@H]4[C@@H](OC12O[C@@H]([C@H](O)[C@@H](O)[C@H]2O)[C@@H](N)CO)[C@
 Cyclopropanone	O=C1CC1
 8-Hydroxyquinoline	c1cc2cccnc2c(c1)O
 Diphenylprolinol	OC(c1ccccc1)(c2ccccc2)C3NCCC3
+Rhenium diboride	B#[Re]#B
 Herbimycin	NC(=O)O[C@H]1C(/C)=C/[C@H](C)[C@@H](OC)[C@@H](OC)C[C@H](C)[C@@H](OC)C\2=C\C(=O)\C=C(\NC(=O)C(\C)=C\C=C/[C@@H]1OC)C/2=O
 Troparil	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=CC=C3)C(=O)OC
 Anatoxin-a	CC(=O)C1=CCCC2CCC1N2
@@ -8465,6 +8466,7 @@ MPPF	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4=CC=C(C=C4)F
 Bicine	O=C(O)CN(CCO)CCO
 Alpha-Methylstyrene	CC(=C)c1ccccc1
 Xanthinol	O=C2N(c1ncn(c1C(=O)N2C)CC(O)CN(CCO)C)C
+Vanadium(III) iodide	[V](I)(I)I
 Epiandrosterone	O=C2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4C[C@@H](O)CC[C@]34C)C
 Benzododecinium bromide	[Br-].c1ccccc1C[N+](C)(CCCCCCCCCCCC)C
 Nutlin	CC(C)OC1=C(C=CC(=C1)OC)C2=NC(C(N2C(=O)N3CCNC(=O)C3)C4=CC=C(C=C4)Cl)C5=CC=C(C=C5)Cl
@@ -15847,3 +15849,5 @@ Tetramethylammonium fluoride	C[N+](C)(C)C.[F-]
 Dihydrotestosterone undecanoate	CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Trestolone enanthate	CCCCCCC(O[C@]1(CC[C@]2([C@@]3([C@@H](CC4=CC(CC[C@@]4([C@]3(CC[C@@]21C)[H])[H])=O)C)[H])[H])[H])=O
 Tetramethylphosphonium bromide	C[P+](C)(C)C.[Br-]
+Bis-oxadiazole	[O-][N+](=O)OCC1=NC(=NO1)C1=NOC(CO[N+]([O-])=O)=N1
+Tert-Butyldimethylsilyl chloride	CC(C)(C)[Si](C)(C)Cl
