@@ -12737,7 +12737,7 @@ OSU-03012	C1=CC=C2C(=C1)C=CC3=C2C=CC(=C3)C4=CC(=NN4C5=CC=C(C=C5)NC(=O)CN)C(F)(F)
 E1210	c1ccnc(c1)OCc2ccc(cc2)Cc3cc(on3)c4cccnc4N
 3-Deazaneplanocin A	n3ccc1c(ncn1[C@@H]2/C=C(/CO)[C@@H](O)[C@H]2O)c3N
 CMV423	c1cc(cnc1)c2c(c(c3n2CCCC3)C(=O)N)Cl
-BAY 57-1293	Cc1c(sc(n1)N(C)C(=O)Cc2ccc(cc2)c3ccccn3)S(=O)(=O)N
+Pritelivir	Cc1c(sc(n1)N(C)C(=O)Cc2ccc(cc2)c3ccccn3)S(=O)(=O)N
 PMDTT	CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](CO2)OCP(=O)(O)O
 ODE-CDV	CCCCCCCCCCCCCCCCCCOCCOP(=O)(CO[C@@H](Cn1ccc(nc1=O)N)CO)O
 HPMPA	c1nc(c2c(n1)n(cn2)C[C@@H](CO)OCP(=O)(O)O)N
@@ -15851,3 +15851,4 @@ Trestolone enanthate	CCCCCCC(O[C@]1(CC[C@]2([C@@]3([C@@H](CC4=CC(CC[C@@]4([C@]3(
 Tetramethylphosphonium bromide	C[P+](C)(C)C.[Br-]
 Bis-oxadiazole	[O-][N+](=O)OCC1=NC(=NO1)C1=NOC(CO[N+]([O-])=O)=N1
 Tert-Butyldimethylsilyl chloride	CC(C)(C)[Si](C)(C)Cl
+Amenamevir	CC1=C(C(=CC=C1)C)N(CC(=O)NC2=CC=C(C=C2)C3=NOC=N3)C(=O)C4CCS(=O)(=O)CC4
