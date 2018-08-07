@@ -8707,7 +8707,7 @@ UH-232	CC2C(N(CCC)CCC)CCc1c2cccc1OC
 9-Aminomethyl-9,10-dihydroanthracene	c3cccc1c3Cc2ccccc2C1CN
 Silver bromate	[Ag+].[O-]Br(=O)=O
 Pimavanserin	CC(C)COc3ccc(cc3)CNC(=O)N(C(CC2)CCN2C)Cc(cc1)ccc1F
-Bisulepine	s1ccc2c1SCc3c(C2=CCCN(C)C)cccc3
+Bisulepine	CN(C)CC\C=C1\c2ccsc2SCc2ccccc12
 Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
@@ -15853,3 +15853,4 @@ Bis-oxadiazole	[O-][N+](=O)OCC1=NC(=NO1)C1=NOC(CO[N+]([O-])=O)=N1
 Tert-Butyldimethylsilyl chloride	CC(C)(C)[Si](C)(C)Cl
 Amenamevir	CC1=C(C(=CC=C1)C)N(CC(=O)NC2=CC=C(C=C2)C3=NOC=N3)C(=O)C4CCS(=O)(=O)CC4
 Fosravuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=C(C=C4)F)F)OCOP(=O)(O)O
+Carbonyl selenide	C(=O)=[Se]
