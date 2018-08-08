@@ -2526,7 +2526,7 @@ Sinigrin	C=CCC(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O.[K+]
 Sinigrin	C=CC/C(=N/OS(=O)(=O)[O-])/S[C@@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O.[K+]
 Amidol	Oc1ccc(N)cc1N
 Dyclonine	O=C(c1ccc(OCCCC)cc1)CCN2CCCCC2
-Calcium hypochlorite	[Ca+2]Cl.[O-].Cl
+Calcium hypochlorite	Cl[O-].[Ca+2].Cl[O-]
 Acetaldehyde ammonia trimer	N1C(NC(NC1C)C)C
 Bosentan	CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc2c(c(nc(n2)c3ncccn3)OCCO)Oc4ccccc4OC
 Sodium sorbate	[Na+].[O-]C(=O)\C=C\C=C\C
@@ -3246,6 +3246,7 @@ Trihexyphenidyl	OC(c1ccccc1)(CCN2CCCCC2)C3CCCCC3
 Stearidonic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/C\C=C/CC
 Tritiated water	[3H]O[3H]
 Coniferyl alcohol	Oc1ccc(cc1OC)/C=C/CO
+Scandium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sc+3]
 Scandium fluoride	F[Sc](F)F
 Faropenem	O=C2N1/C(=C(\S[C@@H]1[C@H]2[C@H](O)C)[C@@H]3OCCC3)C(=O)O
 Mecamylamine	N([C@@]2([C@@H]1CC[C@@H](C1)C2(C)C)C)C
@@ -8707,7 +8708,7 @@ UH-232	CC2C(N(CCC)CCC)CCc1c2cccc1OC
 9-Aminomethyl-9,10-dihydroanthracene	c3cccc1c3Cc2ccccc2C1CN
 Silver bromate	[Ag+].[O-]Br(=O)=O
 Pimavanserin	CC(C)COc3ccc(cc3)CNC(=O)N(C(CC2)CCN2C)Cc(cc1)ccc1F
-Bisulepine	CN(C)CC\C=C1\c2ccsc2SCc2ccccc12
+Bisulepin	CN(C)CC\C=C1\c2ccsc2SCc2ccccc12
 Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
@@ -13035,6 +13036,7 @@ Teneligliptin	CC1=NN(C(=C1)N2CCN(CC2)[C@H]3C[C@H](NC3)C(=O)N4CCSC4)C5=CC=CC=C5
 Thiosulfurous acid	OS(S)=O
 4-Hydroxyphenylacetone	CC(=O)CC1=CC=C(C=C1)O
 Metadoxine	Cc1c(c(c(cn1)CO)CO)O.C1CC(=O)N[C@@H]1C(=O)O
+Scandium triiodide	[Sc](I)(I)I
 Dazomet	CN1CN(C(=S)SC1)C
 Arcapillin	COC1=C(C=C(C(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O)O
 Morelloflavone	c1cc(ccc1[C@@H]2[C@H](C(=O)c3c(cc(cc3O2)O)O)c4c(cc(c5c4oc(cc5=O)c6ccc(c(c6)O)O)O)O)O
@@ -15757,6 +15759,7 @@ Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
 Chloroeremomycin	CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)OC1CC(C(C(O1)C)O)(C)N)NC7=O)C(=O)O)O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
 VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
 Ubrogepant	C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)c2cc3c(nc2)C[C@@]4(C3)c5cccnc5NC4=O)c6ccccc6
+TDBzcholine	C[N+](C)(C)CCOC(C1=CC=C(C2(C(F)(F)F)N=N2)C=C1)=O
 BI 99179	CCC(=O)N[C@H]1CC[C@H](C1)C(=O)N(C)C2=CC=C(C=C2)C3=NC4=CC=CC=C4O3
 Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
 3,5-Dinitrobenzoyl chloride	C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)Cl
@@ -15854,3 +15857,4 @@ Tert-Butyldimethylsilyl chloride	CC(C)(C)[Si](C)(C)Cl
 Amenamevir	CC1=C(C(=CC=C1)C)N(CC(=O)NC2=CC=C(C=C2)C3=NOC=N3)C(=O)C4CCS(=O)(=O)CC4
 Fosravuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=C(C=C4)F)F)OCOP(=O)(O)O
 Carbonyl selenide	C(=O)=[Se]
+TBPO	CC(C)(C)C12COP(=O)(OC1)OC2
