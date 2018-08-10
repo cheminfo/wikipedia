@@ -11272,7 +11272,7 @@ Fluorocitric acid	O=C(O)C(O)(CC(=O)O)C(F)C(=O)O
 Phosphorus heptabromide	Br[P+](Br)(Br)Br.Br[Br-]Br
 Hesperadin	CCS(=O)(=O)NC1=CC2=C(C=C1)NC(=O)C2=C(C3=CC=CC=C3)NC4=CC=C(C=C4)CN5CCCCC5
 ZM447439	COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)NC(=O)C4=CC=CC=C4)OCCCN5CCOCC5
-VX-680	CC1=CC(=NN1)NC2=NC(=NC(=C2)N3CCN(CC3)C)SC4=CC=C(C=C4)NC(=O)C5CC5
+Tozasertib	CC1=CC(=NN1)NC2=NC(=NC(=C2)N3CCN(CC3)C)SC4=CC=C(C=C4)NC(=O)C5CC5
 Orteronel	O=C(NC)c2ccc1cc(ccc1c2)C4(O)c3cncn3CC4
 1-Chloropentane	CCCCCCl
 Neochlorogenic acid	O=C(O)[C@@]2(O)C[C@@H](O)[C@H](O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)C2
@@ -15858,3 +15858,4 @@ Amenamevir	CC1=C(C(=CC=C1)C)N(CC(=O)NC2=CC=C(C=C2)C3=NOC=N3)C(=O)C4CCS(=O)(=O)CC
 Fosravuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=C(C=C4)F)F)OCOP(=O)(O)O
 Carbonyl selenide	C(=O)=[Se]
 TBPO	CC(C)(C)C12COP(=O)(OC1)OC2
+1,8-Dibromooctane	C(CCCCBr)CCCBr
