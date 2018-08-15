@@ -14172,7 +14172,7 @@ Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
 Etelcalcetide	C[C@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@@H](CSSC[C@@H](C(=O)O)N)NC(=O)C
 3,5-Diiodothyronine	C1=CC(=CC=C1O)OC2=C(C=C(C=C2I)CC(C(=O)O)N)I
 Aripiprazole lauroxil	CCCCCCCCCCCC(=O)OCN1C(=O)CCC2=C1C=C(C=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
-Dihydrotanshinone	O=C2c3c(C=1OCC(C=1C2=O)C)ccc4c(cccc34)C
+Dihydrotanshinone I	O=C2c3c(C=1OCC(C=1C2=O)C)ccc4c(cccc34)C
 Imidazolate	c1cnc[n-]1
 Myxoxanthophyll	C/C(=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(C)/C=C/[C@@H](O[C@@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O)C(C)(C)O)/C=C/C2=C(C)C[C@@H](O)CC2(C)C
 Cyclopentyl methyl ether	COC1CCCC1
@@ -15860,7 +15860,10 @@ Amenamevir	CC1=C(C(=CC=C1)C)N(CC(=O)NC2=CC=C(C=C2)C3=NOC=N3)C(=O)C4CCS(=O)(=O)CC
 Fosravuconazole	C[C@@H](C1=NC(=CS1)C2=CC=C(C=C2)C#N)[C@](CN3C=NC=N3)(C4=C(C=C(C=C4)F)F)OCOP(=O)(O)O
 Carbonyl selenide	C(=O)=[Se]
 TBPO	CC(C)(C)C12COP(=O)(OC1)OC2
+Pyrrocaine	Cc1cccc(c1NC(=O)CN2CCCC2)C
 1,8-Dibromooctane	C(CCCCBr)CCCBr
 1,4-Dinitrobenzene	C1=CC(=CC=C1[N+](=O)[O-])[N+](=O)[O-]
 1,2-Dinitrobenzene	C1=CC=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-]
 Acetylthiocholine	CC(=O)SCC[N+](C)(C)C
+Fosdevirine	CC1=CC(=CC(=C1)/C=C/C#N)[P@](=O)(C2=C(NC3=C2C=C(C=C3)Cl)C(=O)N)OC
+Lotrifen	C1=CC=C2C(=C1)C=CN3C2=NC(=N3)C4=CC=C(C=C4)Cl
