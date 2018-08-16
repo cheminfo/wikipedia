@@ -6243,6 +6243,7 @@ MK-9470	CCOc1ccc(C[C@H]([C@H](C)NC(=O)C(C)(C)Oc2ccc(C)cn2)c3cccc(c3)C#N)cc1
 Caesium dodecaborate	B(BBBBBB[Cs])BBBBB[Cs]
 POPOP	C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C4=NC=C(O4)C5=CC=CC=C5
 Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C@H]3CC[C@@]4([C@H]5CC[C@@H]6[C@H]7[C@@](C[C@@H](O[C@@]78C[C@]6([C@@]5(CC[C@H]4C3(C)C)C)CO8)C=C(C)C)(C)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)OC(=O)C)OC(=O)C)C)O)O)O
+Disodium octaborate tetrahydrate	B(=O)OB1OB2OB(OB(OB(O2)OB(O1)OB=O)[O-])[O-].O.O.O.O.[Na+].[Na+]
 Gadolinium(III) nitrate	[Gd+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Bixin	O=C(O)\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(/C=C/C(=O)OC)C)C)C)C
 Dimaprit	CN(C)CCCSC(=N)N
@@ -15867,3 +15868,4 @@ Pyrrocaine	Cc1cccc(c1NC(=O)CN2CCCC2)C
 Acetylthiocholine	CC(=O)SCC[N+](C)(C)C
 Fosdevirine	CC1=CC(=CC(=C1)/C=C/C#N)[P@](=O)(C2=C(NC3=C2C=C(C=C3)Cl)C(=O)N)OC
 Lotrifen	C1=CC=C2C(=C1)C=CN3C2=NC(=N3)C4=CC=C(C=C4)Cl
+Fluorotabun	CCOP(=O)(N(C)C)F
