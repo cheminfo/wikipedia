@@ -5101,6 +5101,7 @@ Disodium hydrogen phosphite	O=P([O-])([O-])[H].[Na+].[Na+]
 Disodium phosphate	[Na+].[Na+].[O-]P([O-])([O-])=O
 Reverse triiodothyronine	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)I)OC2=CC(=C(C(=C2)I)O)I
 3,3'-Diiodothyronine	O=C(O)C(N)Cc2ccc(Oc1cc(I)c(O)cc1)c(I)c2
+Lead(IV) sulfide	[S-2].[S-2].[Pb]
 N-Butylamine	CCCCN
 Cholesteryl nonanoate	O=C(O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4)CCCCCCCC
 Quinuclidine	N12CCC(CC1)CC2
@@ -15869,3 +15870,4 @@ Acetylthiocholine	CC(=O)SCC[N+](C)(C)C
 Fosdevirine	CC1=CC(=CC(=C1)/C=C/C#N)[P@](=O)(C2=C(NC3=C2C=C(C=C3)Cl)C(=O)N)OC
 Lotrifen	C1=CC=C2C(=C1)C=CN3C2=NC(=N3)C4=CC=C(C=C4)Cl
 Fluorotabun	CCOP(=O)(N(C)C)F
+Chinese VX	CCCCOP(C)(=O)SCCN(CC)CC
