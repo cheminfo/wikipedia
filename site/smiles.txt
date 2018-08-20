@@ -528,7 +528,7 @@ Chloromethyl chloroformate	ClC(=O)OCCl
 Diphosgene	ClC(=O)OC(Cl)(Cl)Cl
 Lamotrigine	NC1=NC(N)=NN=C1C2=CC=CC(Cl)=C2Cl
 Potassium sodium tartrate	[K+].[Na+].O=C([O-])C(O)C(O)C([O-])=O
-Zolpidem	O=C(CC1=C(C2=CC=C(C)C=C2)N=C3C=CC(C)=CN13)N(C)C
+Zolpidem	CN(C)C(=O)Cc1c(nc2ccc(C)cn12)c3ccc(C)cc3
 Diclofenac	O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl
 Aristolochic acid	[O-][N+](=O)c1cc4c(c2c1c(C(=O)O)cc3OCOc23)cccc4OC
 Acetylcysteine	C/C(=N/[C@@H](CS)C(=O)O)/O
@@ -3129,7 +3129,7 @@ Gallium antimonide	[Ga]#[Sb]
 Lactucin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)CO
 Lactucopicrin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)COC(=O)Cc4ccc(cc4)O
 Tricarbon	[C]=C=[C]
-Alpidem	Clc3ccc(c1nc2ccc(Cl)cn2c1CC(=O)N(CCC)CCC)cc3
+Alpidem	CCCN(CCC)C(=O)Cc1c(nc2ccc(Cl)cn12)c3ccc(Cl)cc3
 Filipin	CCCCC[C@H](O)[C@H]1C(=O)O[C@H](C)[C@@H](O)\C=C\C=C\C=C\C=C\C=C(/C)[C@@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@@H]1O
 1,2-Dichlorotetrafluoroethane	ClC(F)(F)C(F)FCl
 Copper(II) arsenate	[Cu+2].[Cu+2].[Cu+2].[O-][As]([O-])(=O)[O-].[O-][As]([O-])([O-])=O
@@ -7582,7 +7582,7 @@ Alvocidib	Clc4ccccc4C=2Oc1c(c(O)cc(O)c1C(=O)C=2)[C@H]3CCN(C)C[C@H]3O
 Carindacillin	[Na+].O=C([O-])[C@@H]4N5C(=O)[C@@H](NC(=O)C(c1ccccc1)C(=O)Oc2cc3c(cc2)CCC3)[C@H]5SC4(C)C
 Cobalt(II,III) oxide	[Co]=O.O=[Co]O[Co]=O
 Kahweol	OC[C@@]5(O)C[C@@]43[C@H]([C@@]2(/C=C\c1occc1[C@H]2CC3)C)CC[C@@H]5C4
-ROD-188	CC1=CC=C(S(=O)(N2CCC3=CC=CC=C3[C@@H]2[C@@H](O4)CCC4=O)=O)C=C1
+ROD-188	Cc1ccc(cc1)S(=O)(=O)N2CCc4ccccc4[C@@H]2[C@@H]3CCC(=O)O3
 SB-205,384	CC#CCOC(=O)c1c(C)nc2sc3CC(O)CCc3c2c1N
 U-89843A	CC1=CC2=C(N1C)N=C(N=C2N3CCCC3)N4CCCC4
 Ganaxolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@](C4)(C)O)C)C
