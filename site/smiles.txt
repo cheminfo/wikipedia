@@ -9587,6 +9587,7 @@ Thiopyrylium	[s+]1ccccc1
 Dimethoxymethamphetamine	COc1cc(CC(C)NC)ccc1OC
 Conhydrine	O[C@H](CC)[C@H]1NCCCC1
 H-89	c1cc2cnccc2c(c1)S(=O)(=O)NCCNC/C=C/c3ccc(cc3)Br
+1,5-Anhydroglucitol	C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Divaplon	CCC1=C(N2C=C(N=C2N=C1OC)C(=O)C3=CC=CC=C3)C
 Procyanidin B1	O[C@H]1Cc2c(O)cc(O)c([C@@H]3[C@@H](O)[C@H](Oc4cc(O)cc(O)c34)c3ccc(O)c(O)c3)c2O[C@@H]1c1ccc(O)c(O)c1
 Procyanidin B3	O[C@H]1Cc2c(O)cc(O)c([C@H]3[C@H](O)[C@H](Oc4cc(O)cc(O)c34)c3ccc(O)c(O)c3)c2O[C@@H]1c1ccc(O)c(O)c1
@@ -15875,3 +15876,4 @@ Fluorotabun	CCOP(=O)(N(C)C)F
 Isophorone diamine	CC1(CC(CC(C1)(C)CN)N)C
 Chinese VX	CCCCOP(C)(=O)SCCN(CC)CC
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
+Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
