@@ -15077,6 +15077,7 @@ Dimethylaminoisopropanol	CC(CN(C)C)O
 Poseltinib	C=CC(NC1=CC=CC(OC2=C(OC=C3)C3=NC(NC4=CC=C(N5CCN(C)CC5)C=C4)=N2)=C1)=O
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Tris(dimethylamino)methane	CN(C)C(N(C)C)N(C)C
+Ethyl cyanohydroxyiminoacetate	CCOC(=O)/C(=N\O)/C#N
 Acetryptine	CC(=O)C1=CC2=C(C=C1)NC=C2CCN
 Enasidenib	CC(C)(CNC1=NC(=NC(=N1)NC2=CC(=NC=C2)C(F)(F)F)C3=NC(=CC=C3)C(F)(F)F)O
 Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc2cnn3ccc(nc23)N4CCC[C@@H]4c5cc(F)ccc5F
@@ -15878,3 +15879,4 @@ Chinese VX	CCCCOP(C)(=O)SCCN(CC)CC
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
+Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
