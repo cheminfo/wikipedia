@@ -1243,7 +1243,7 @@ Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
 Sodium fluoroacetate	[Na+].[O-]C(=O)CF
 Adamantane	C1C3CC2CC(CC1C2)C3
 3-Pentanone	O=C(CC)CC
-Pentaborane	[H]1[BH]2[H][BH]3[BH]24[BH]1[H][BH]4[H]3
+Pentaborane(9)	[H]1[BH]2[H][BH]3[BH]24[BH]1[H][BH]4[H]3
 Dizocilpine	C[C@]1(C2=C(C[C@H]3N1)C=CC=C2)C4=C3C=CC=C4
 Picrotoxin	CC(=C)[C@H]1[C@@H]2C(=O)O[C@H]1[C@H]3OC(=O)[C@@]54O[C@@H]5C[C@]2(O)[C@@]34C.CC(C)(O)[C@H]5[C@@H]1C(=O)O[C@H]5[C@H]2OC(=O)[C@@]43O[C@@H]4C[C@]1(O)[C@@]23C
 CNQX	[O-][N+](=O)c1c(C#N)cc2c(c1)NC(=O)C(=O)N2
@@ -5934,7 +5934,6 @@ Tandospirone	O=C1N(C(=O)[C@H]3[C@@H]1[C@@H]2CC[C@H]3C2)CCCCN5CCN(c4ncccn4)CC5
 Benzoctamine	c1ccc3c(c1)C4c2ccccc2C3(CC4)CNC
 Mebutamate	CCC(C)C(C)(COC(=O)N)COC(=O)N
 Captodiame	S(c1ccc(cc1)C(SCCN(C)C)c2ccccc2)CCCC
-Ammonium sulfide	[S-2].[NH4+].[NH4+]
 Clofibride	Clc1ccc(OC(C(=O)OCCCC(=O)N(C)C)(C)C)cc1
 Etofibrate	O=C(OCCOC(=O)C(Oc1ccc(Cl)cc1)(C)C)c2cccnc2
 Ciprofibrate	ClC2(Cl)CC2c1ccc(OC(C(=O)O)(C)C)cc1
@@ -14261,6 +14260,7 @@ Mexedrone	COCC(C(=O)C1=CC=C(C=C1)C)NC
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
 RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
+Hexaborane(12)	[BH3]1[BH3][BH2]1[BH2]2[BH3][BH3]2
 ML-154	[Br-].C1(=CC=CC=C1)[P](=S)(C2=C([N+](=C3C=CC=C[N]23)C\C=C\C4=CC=CC=C4)C)C5=CC=CC=C5
 Apoatropine	CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3
 Belladonnine	CN1C2CCC1CC(C2)OC(=O)[C@H]3CC[C@@](C4=CC=CC=C34)(C5=CC=CC=C5)C(=O)OC6CC7CCC(C6)N7C
@@ -14270,6 +14270,7 @@ Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 Finerenone	NC(=O)C1=C(C)Nc2c(C)cnc(OCC)c2[C@@H]1c3ccc(C#N)cc3OC
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
 Tebufenpyrad	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl
+Hexaborane(10)	[BH2]1[BH2][BH]123[BH2][BH]2[BH2]3
 Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Granadaene	C[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](O1)OC(C)C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)N[C@@H](CCCN)C(=O)O
 Indenone	c1ccc2c(c1)C=CC2=O
@@ -15880,3 +15881,4 @@ Chinese VX	CCCCOP(C)(=O)SCCN(CC)CC
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
 Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
+Trithionate	[O-]S(=O)(=O)SS(=O)(=O)[O-]
