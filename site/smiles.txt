@@ -101,6 +101,7 @@ Sildenafil	CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Niacin	OC(=O)c1cccnc1
+Phenylalanine	N[C@@H](CC1=CC=CC=C1)C(O)=O
 Nicotine	CN1CCC[C@H]1C1=CC=CN=C1
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	NC1=NC=NC2=C1N=C[NH]2
@@ -7159,7 +7160,7 @@ M-Anisidine	Nc1cccc(OC)c1
 P-Anisidine	COc1ccc(cc1)N
 Etafedrine	O[C@H](c1ccccc1)[C@@H](N(CC)C)C
 Pirimicarb	CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C
-TPPTS	C1=CC(=CC(=C1)S(=O)(=O)[O-])P(C2=CC(=CC=C2)S(=O)(=O)[O-])C3=CC(=CC=C3)S(=O)(=O)[O-].[Na+].[Na+].[Na+]
+TPPTS	c1cc(cc(c1)S(=O)(=O)[O-])P(c2cccc(c2)S(=O)(=O)[O-])c3cccc(c3)S(=O)(=O)[O-].[Na+].[Na+].[Na+]
 BML-190	C4COCCN4C(=O)Cc(c(c1cc2)cc2OC)c(C)n1C(=O)c3ccc(Cl)cc3
 NESS-0327	Clc3cc(Cl)ccc3-n4c2-c1ccc(Cl)cc1CCCc2c(n4)C(=O)NN5CCCCC5
 Surinabant	O=C(NN1CCCCC1)c4nn(c2ccc(Cl)cc2Cl)c(c3ccc(Br)cc3)c4CC
