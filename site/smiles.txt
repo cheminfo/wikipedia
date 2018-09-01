@@ -2284,7 +2284,7 @@ Trimyristin	CCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC
 Phenylacetone	O=C(C)Cc1ccccc1
 Norbornadiene	C1C2C=CC1C=C2
 Quadricyclane	C1C2C3C2C4C1C34
-Copper(I)-thiophene-2-carboxylate	[Cu+].[O-]C(=O)c1sccc1
+Copper(I) thiophene-2-carboxylate	[Cu+].[O-]C(=O)c1sccc1
 NNK	CN(CCCC(=O)c1cccnc1)N=O
 Dichlorocarbene	[C](Cl)Cl
 Corannulene	C1=CC2=CC=C3C=CC4=C5C6=C(C2=C35)C1=CC=C6C=C4
@@ -15884,3 +15884,5 @@ Trithionate	[O-]S(=O)(=O)SS(=O)(=O)[O-]
 Francium nitrate	[Fr+].[O-][N+]([O-])=O
 Bromopentafluorobenzene	C1(=C(C(=C(C(=C1F)F)Br)F)F)F
 Imidazole salicylate	C1=CC=C(C(=C1)C(=O)O)O.C1=CN=CN1
+Morpholine salicylate	C1COCCN1.C1=CC=C(C(=C1)C(=O)O)O
+Neocitrullamon	C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)CCCC(C(=O)O)N)C3=CC=CC=C3
