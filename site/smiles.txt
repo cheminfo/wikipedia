@@ -13511,6 +13511,7 @@ Fluorine azide	[N-]=[N+]=NF
 Ethyl palmitate	CCCCCCCCCCCCCCCC(=O)OCC
 2-Acetyl-5-methylfuran	CC1=CC=C(O1)C(=O)C
 Acetylpyrazine	CC(=O)C1=NC=CN=C1
+K-Ras(G12C) inhibitor 6	SCCCC(=O)NC1CCN(CC1)C(=O)COC1=CC=C(Cl)C=C1Cl
 10-Hydroxydecanoic acid	C(CCCCC(=O)O)CCCCO
 Urolithin B	C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O
 6-Hydroxykynurenic acid	C1=CC2=C(C=C1O)C(=CC(=N2)C(=O)O)O
@@ -15886,3 +15887,4 @@ Bromopentafluorobenzene	C1(=C(C(=C(C(=C1F)F)Br)F)F)F
 Imidazole salicylate	C1=CC=C(C(=C1)C(=O)O)O.C1=CN=CN1
 Morpholine salicylate	C1COCCN1.C1=CC=C(C(=C1)C(=O)O)O
 Neocitrullamon	C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)CCCC(C(=O)O)N)C3=CC=CC=C3
+17α-Bromoprogesterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)Br
