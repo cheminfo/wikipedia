@@ -688,7 +688,7 @@ Bradykinin	O=C(N[C@H](C(=O)N[C@H](C(=O)O)CCC/N=C(\N)N)Cc1ccccc1)[C@H]5N(C(=O)[C@
 Alpha-Aminobutyric acid	O=C(O)C(N)CC
 Aminolevulinic acid	O=C(CN)CCC(=O)O
 Lindane	Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
-Misoprostol	CCCC[C@](C)(O)C/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC
+Misoprostol	O=C1C[C@@H](O)[C@H](/C=C/CC(O)(C)CCCC)[C@H]1CCCCCCC(=O)OC
 Oxytetracycline	CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@@](C)(O)[C@H]2[C@H](O)[C@@H]34
 Chrysoine resorcinol	[Na+].Oc2cc(O)ccc2/N=N/c1ccc(cc1)S([O-])(=O)=O.Oc1cccc(O)c1
 Chrysoine resorcinol	[Na+].Oc2cc(O)ccc2/N=N/c1ccc(cc1)S([O-])(=O)=O
@@ -826,7 +826,7 @@ Erythritol	C([C@H]([C@H](CO)O)O)O
 Abscisic acid	OC(=O)\C=C(\C)/C=C/[C@@]1(O)C(C)=CC(=O)CC1(C)C
 Azulene	c1cccc2cccc2c1
 Cytarabine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@@H]2O)CO
-Levonorgestrel	[H][C@]12CCC(=O)C=C1CC[C@]1([H])[C@]2([H])CC[C@@]2(CC)[C@@]1([H])CC[C@@]2(O)C#C
+Levonorgestrel	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34
 Azithromycin	CN(C)[C@H]3C[C@@H](C)O[C@@H](O[C@@H]2[C@@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@@H](C)C(=O)O[C@H](CC)[C@@](C)(O)[C@H](O)[C@@H](C)N(C)C[C@H](C)C[C@@]2(C)O)[C@@H]3O
 Trisodium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Na+].[Na+].[Na+]
 Calcium citrate	[Ca+2].[Ca+2].[Ca+2].O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-].[O-]C(=O)C(O)(CC([O-])=O)CC([O-])=O
@@ -4447,7 +4447,7 @@ Mesterolone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)[C@
 Fluoxymesterone	O=C4\C=C3/[C@]([C@@]2(F)[C@@H](O)C[C@]1([C@@H](CC[C@@]1(O)C)[C@@H]2CC3)C)(C)CC4
 Norgestrienone	O=C4\C=C3/C(=C2/C=C\[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)C)CC4
 Lynestrenol	C#C[C@]2(O)CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4
-Ethisterone	O=C4\C=C3/[C@]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)C)(C)CC4
+Ethisterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C
 Tentoxin	O=C1N[C@H](C(=O)N(/C(C(=O)NCC(=O)N(C)[C@H]1C)=C\c2ccccc2)C)CC(C)C
 Acridine carboxamide	CN(C)CCNC(=O)C1=CC=CC2=CC3=CC=CC=C3N=C21
 Clobenzorex	Clc1ccccc1CNC(C)Cc2ccccc2
@@ -9539,7 +9539,7 @@ Pyrimidinylpiperazine	n1cccnc1N2CCNCC2
 3-Methylamphetamine	c1ccc(C)cc1CC(C)N
 3-Fluoroamphetamine	Fc1cccc(c1)CC(C)N
 2-Fluoroamphetamine	CC(CC1=CC=CC=C1F)N
-9-nor-9β-Hydroxyhexahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C[C@@H](CC3)O)(C)C)O
+9-Nor-9β-hydroxyhexahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C[C@@H](CC3)O)(C)C)O
 3-Methoxyamphetamine	NC(C)CC1=CC=CC(OC)=C1
 3-Methoxymethamphetamine	CNC(C)Cc(c1)cccc1OC
 Sakuranin	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
@@ -11875,7 +11875,7 @@ Olympicene	C1C=C2C=CC3=C4C2=C5C1=CC=CC5=CC4=CC=C3
 3β-Androstanediol	O[C@H]4CC[C@]3([C@@H](CC[C@H]2[C@@H]1CC[C@H](O)[C@@]1(C)CC[C@@H]23)C4)C
 Megestrol	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](O)(C(=O)C)CC[C@@H]12)C)[C@@]3(C)CC4)C
 6-Hydroxymellein	O=C1OC(Cc2cc(O)cc(O)c12)C
-Cyproterone acetate	O=C4\C=C3\C(\Cl)=C/[C@@H]1[C@H](CC[C@@]2([C@@](OC(=O)C)(C(=O)C)CC[C@@H]12)C)[C@@]3(C)[C@H]5C[C@@H]45
+Cyproterone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)OC(=O)C
 Cyproterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O
 Tetrahydrocannabinolic acid	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1C(=O)O)O
 Ciprefadol	C1CC[C@]2(CCN(C[C@@H]2C1)CC3CC3)C4=CC(=CC=C4)O
@@ -15891,4 +15891,7 @@ Neocitrullamon	C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)CCCC(C(=O)O)N)C3=CC=CC=C3
 Pentafluorophenol	C1(=C(C(=C(C(=C1F)F)F)F)F)O
 EA-2192	CC(C)N(CCSP(=O)(C)O)C(C)C
 AT-121	CC(C)[C@H]1CC[C@H](CC1)N1CCC2(CC1)C(=O)N(CCNS(N)(=O)=O)CC1=CC=CC=C21
+Cobalt(III) chloride	Cl[Co](Cl)Cl
+Chloroalanine	C(C(C(=O)O)N)Cl
 Estradiol 17β-sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=C3C=CC(=C4)O
+CR-4056	C1(C2=CC=CC=C2)=NC=C3C=C(N4C=CN=C4)C=CC3=N1
