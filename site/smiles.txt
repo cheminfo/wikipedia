@@ -4850,6 +4850,7 @@ PAC-1	C=CCc3cccc(/C=N\NC(=O)CN2CCN(Cc1ccccc1)CC2)c3O
 Silver acetylide	[Ag+].[Ag+].[C-]#[C-]
 Potassium tetraphenylborate	[K+].c1c(cccc1)[B-](c2ccccc2)(c3ccccc3)c4ccccc4
 Perosamine	C[C@H]([C@H]([C@@H]([C@@H](C=O)O)O)N)O
+Nickel oxide hydroxide	O[Ni]=O
 Triclofos	ClC(Cl)(Cl)COP(=O)(O)O
 Xylenol orange	O=C(O)CN(CC(=O)O)Cc1c(O)c(cc(c1)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(c4)CN(CC(=O)O)CC(=O)O)C)C
 Cinchonidine	n2c1c(cccc1)c(cc2)[C@@H](O)[C@H]3N4CC[C@@H](C3)[C@@H](C=C)C4
@@ -11799,6 +11800,7 @@ Iferanserin	O=C(\C=C\c1ccccc1)Nc2ccccc2CC[C@H]3N(C)CCCC3
 Lidanserin	Fc1ccc(cc1)C(=O)C4CCN(CCCOc2cc(ccc2OC)C3CC(=O)NC3)CC4
 Neosaxitoxin	C1CN2C(=N)N([C@H]([C@H]3[C@]2(C1(O)O)NC(=N)N3)COC(=O)N)O
 Tedalinab	CC(C)(C)NC(=O)C1=NN(C2=C1[C@@H]3CC[C@H]2C3)C4=C(C=C(C=C4)F)F
+Cofactor F430	CC12CC(=O)NC13CC4C(C(C(=N4)CC5C(C6CCC(=O)C(=C7C(C(C(=CC(=N3)C2CCC(=O)O)[N-]7)CC(=O)O)CCC(=O)O)C6=N5)CC(=O)O)(C)CC(=O)N)CCC(=O)O.[Ni]
 2,4-Bis(4-hydroxybenzyl)phenol	c2cc(O)ccc2Cc1cc(ccc1O)Cc3ccc(O)cc3
 5-Methylcytidine	O=C1/N=C(/N)\C(=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)C
 Asunaprevir	O=C(N5[C@H](C(=O)N[C@@]2(C(=O)NS(=O)(=O)C1CC1)[C@H](\C=C)C2)C[C@@H](Oc3ncc(OC)c4c3cc(Cl)cc4)C5)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C
@@ -15895,3 +15897,4 @@ Cobalt(III) chloride	Cl[Co](Cl)Cl
 Chloroalanine	C(C(C(=O)O)N)Cl
 Estradiol 17β-sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=C3C=CC(=C4)O
 CR-4056	C1(C2=CC=CC=C2)=NC=C3C=C(N4C=CN=C4)C=CC3=N1
+V-sub x	CCOP(=O)(C)SCCSCC
