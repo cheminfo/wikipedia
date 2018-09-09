@@ -688,7 +688,7 @@ Bradykinin	O=C(N[C@H](C(=O)N[C@H](C(=O)O)CCC/N=C(\N)N)Cc1ccccc1)[C@H]5N(C(=O)[C@
 Alpha-Aminobutyric acid	O=C(O)C(N)CC
 Aminolevulinic acid	O=C(CN)CCC(=O)O
 Lindane	Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
-Misoprostol	O=C1C[C@@H](O)[C@H](/C=C/CC(O)(C)CCCC)[C@H]1CCCCCCC(=O)OC
+Misoprostol	CCCC[C@](C)(O)C/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC
 Oxytetracycline	CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@@](C)(O)[C@H]2[C@H](O)[C@@H]34
 Chrysoine resorcinol	[Na+].Oc2cc(O)ccc2/N=N/c1ccc(cc1)S([O-])(=O)=O.Oc1cccc(O)c1
 Chrysoine resorcinol	[Na+].Oc2cc(O)ccc2/N=N/c1ccc(cc1)S([O-])(=O)=O
