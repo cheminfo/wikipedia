@@ -7973,6 +7973,7 @@ Combretastatin A-4	COC1=C(C=C(C=C1)C=CC2=CC(=C(C(=C2)OC)OC)OC)O
 Arbekacin	O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@H](O)[C@H](O[C@H]2O[C@H](CN)CC[C@H]2N)[C@@H](N)C3)[C@@H](O)CCN
 Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Prasterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
+Fluoric acid	O=F(=O)O
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
 Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
@@ -8511,7 +8512,7 @@ Potassium picrate	c1c(cc(c(c1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].[K+]
 Dichlorophen	C1=CC(=C(C=C1Cl)CC2=C(C=CC(=C2)Cl)O)O
 Oltipraz	CC1=C(SSC1=S)C2=NC=CN=C2
 Niridazole	C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-]
-Bephenium hydroxynaphthoate	O(c1ccccc1)CC[N+](Cc2ccccc2)(C)C
+Bephenium hydroxynaphthoate	C[N+](C)(CCOc1ccccc1)Cc2ccccc2.c1ccc2cc(c(cc2c1)C(=O)[O-])O
 Pyrvinium	CC1=CC(=C(N1C2=CC=CC=C2)C)/C=C/C3=[N+](C4=C(C=C3)C=C(C=C4)N(C)C)C
 Oxantel	CN1CCCN=C1/C=C/C2=CC(=CC=C2)O
 Flubendazole	COC(=O)Nc1[nH]c2ccc(cc2n1)C(=O)c3ccc(cc3)F
