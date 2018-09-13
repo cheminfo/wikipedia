@@ -9716,6 +9716,7 @@ Alpha-Naphthoflavone	O=C\1c4c(O/C(=C/1)c2ccccc2)c3ccccc3cc4
 Potassium azide	[N-]=[N+]=[N-].[K+]
 Actinidiolide	CC12OC(=O)C=C1C(C)(C)CC=C2
 JWH-398	c14ccccc1n(CCCCC)cc4C(=O)c(cc3)c2ccccc2c3Cl
+Clerici solution	C(C(=O)[O-])C(=O)OC(=O)[O-].[Tl+].[Tl+]
 6-Diazo-5-oxo-L-norleucine	O=C(CC[C@H](N)C(O)=O)\C=[N+]=[N-]
 Azocine	N=1\C=C/C=C\C=C/C=1
 Azocane	N1CCCCCCC1
@@ -12768,6 +12769,7 @@ Vineridine	C[C@H]1[C@@H]2CN3CC[C@@]4([C@H]3C[C@@H]2C(=CO1)C(=O)OC)c5ccc(cc5NC4=O
 Akuammicine	C123C(=C(C4CC1N(CC3)CC4=CC)C(OC)=O)Nc1c2cccc1
 Boonein	O=C1OCC[C@H]2C[C@H](O)[C@H](C)[C@@H]12
 Loganin	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
+Alschomine	C/C=C\1/C=[N+]([C@H]2C[C@@H]1C([C@@]34[C@@]2(Nc5c3cccc5)O[C@H](C4)OC)C(=O)OC)[O-]
 Picrinine	C/C=C\1/CN2C3CC1C(C45C3(NC6=CC=CC=C64)OC2C5)C(=O)OC
 Scholarine	C[C@@H]([C@@H]1CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3Nc5c4cccc5OC)C(=O)OC)O
 Rhazine	C/C=C/1\CN2[C@H]3C[C@@H]1C([C@@H]2CC4C3Nc5c4cccc5)(CO)C(=O)OC
@@ -15702,6 +15704,7 @@ Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
 Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
 2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
+Hydrazinium azide	N[NH3+].[N-]=[N+]=[N-]
 Methylphosphinic acid	CP(=O)O
 Estrone sulfate (medication)	O=S(=O)(O)Oc1cc4c(cc1)[C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3CC4)C
 Dibenzoylhydrazine	C1=CC=C(C=C1)C(=O)NNC(=O)C2=CC=CC=C2
@@ -15901,3 +15904,4 @@ CR-4056	C1(C2=CC=CC=C2)=NC=C3C=C(N4C=CN=C4)C=CC3=N1
 V-sub x	CCOP(=O)(C)SCCSCC
 7α-Thiomethylspironolactone sulfoxide	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)S(=O)C
 Sodium hydrogenoxalate	[Na+].[O-]C(=O)C(=O)O
+Vanadium(III) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[V]
