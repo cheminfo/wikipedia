@@ -14389,6 +14389,7 @@ MK-4409	c3nc(C(O)(C)C)ccc3-c1nc(-c4ccc(F)cc4)oc1Sc(nc2)ccc2Cl
 Oxonine	C1=CC=COC=CC=C1
 JNJ-42165279	c3c1OC(F)(F)Oc1ccc3CN4CCN(CC4)C(=O)Nc2cnccc2Cl
 Cericlamine	CC(CC1=CC(=C(C=C1)Cl)Cl)(CO)N(C)C
+PH10 (drug)	C[C@]12CC[C@H]3[C@@H](CCC4C[C@H](O)CC[C@]34C)[C@@H]1CCC2=C
 LY-2459989	NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c4cccnc4)cc2)c(F)c1
 QMPSB	Cc1ccc(cc1[S](=O)(=O)N2CCCCC2)C(=O)Oc3cccc4cccnc34
 Calcium hydroxyphosphate	[OH-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
@@ -15905,3 +15906,5 @@ V-sub x	CCOP(=O)(C)SCCSCC
 7α-Thiomethylspironolactone sulfoxide	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)S(=O)C
 Sodium hydrogenoxalate	[Na+].[O-]C(=O)C(=O)O
 Vanadium(III) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[V]
+Olorinab	CC(C)(C)[C@@H](CO)NC(=O)C1=NN(C2=C1C[C@H]3[C@@H]2C3)C4=NC=C[N+](=C4)[O-]
+Dimethylstilbestrol	C/C(=C(/C)\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O
