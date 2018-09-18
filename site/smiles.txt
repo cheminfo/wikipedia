@@ -15741,6 +15741,7 @@ Carbomethoxymethylenetriphenylphosphorane	COC(=O)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3
 Vinylene carbonate	C1=COC(=O)O1
 Avatrombopag	C1CCC(CC1)N2CCN(CC2)C3=C(N=C(S3)NC(=O)C4=CC(=C(N=C4)N5CCC(CC5)C(=O)O)Cl)C6=CC(=CS6)Cl
 Hydrogen ditelluride	[TeH][TeH]
+Chlorosoman	CC(C(C)(C)C)OP(=O)(C)Cl
 Pyrosilicic acid	O[Si](O)(O)O[Si](O)(O)O
 Sodium pyrosilicate	[Si](O[Si]([O-])([O-])[O-])([O-])([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Pyrosilicate	[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
@@ -15914,3 +15915,10 @@ Methenmadinone	CC(=O)[C@H]1C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=CC4=CC(=O)CC[C@]3
 Chlormethenmadinone acetate	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C
 Methenmadinone caproate	O(C(CCCCC)=O)[C@@](C(C)=O)1C(=C)C[C@]([H])2[C@@]([H])3C=CC4=CC(CC[C@]4(C)[C@@]3([H])CC[C@@]21C)=O
 16-Methylene-17α-hydroxyprogesterone acetate	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)OC(=O)C
+Salpn ligand	OC1=CC=CC=C1/C=N/CC(C)/N=C/C2=CC=CC=C2O
+Chlormadinone caproate	O(C(CCCCC)=O)[C@@](C(C)=O)1CC[C@]([H])2[C@@]([H])3C=C(Cl)C4=CC(CC[C@]4(C)[C@@]3([H])CC[C@@]21C)=O
+Lynestrenol phenylpropionate	O(C(CCC1C=CC=CC=1)=O)[C@](C#C)1CC[C@]([H])2[C@@]([H])3CCC4=CCCC[C@]4([H])[C@@]3([H])CC[C@@]21C
+Medroxyprogesterone caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C)C)C(=O)C
+Bromethenmadinone acetate	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Br)C)OC(=O)C
+Levonorgestrel cyclobutylcarboxylate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C4CCC4)CCC5=CC(=O)CC[C@H]35
+Levonorgestrel cyclopropylcarboxylate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C4CC4)CCC5=CC(=O)CC[C@H]35
