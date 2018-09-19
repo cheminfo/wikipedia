@@ -13596,7 +13596,7 @@ Glutamate-5-semialdehyde	C(C[C@@H](C(=O)O)N)C=O
 Ovothiol A	CN1C=NC(=C1C[C@@H](C(=O)O)N)S
 1-Tridecanol	CCCCCCCCCCCCCO
 Silver sulfite	[O-]S(=O)[O-].[Ag+].[Ag+]
-Balovaptan	CN(C)CCN1C=C(C2=C1C=C(C=C2)Cl)C(=O)N3CCC4(CC3)C5=CC=CC=C5CO4
+Balovaptan	CN1CC2=NN=C([C@H]3CC[C@@H](CC3)OC3=CC=CC=N3)N2C2=C(C1)C=C(Cl)C=C2
 TC OT 39	Cc1cc(ccc1CNC(=O)N2CCC[C@H]2C(=S)N3CCCN(CC3)C)C(=O)N4Cc5cnn(c5Nc6c4cccc6)C
 Basimglurant	Clc3nccc(C#Cc2nc(n(c1ccc(F)cc1)c2C)C)c3
 Decoglurant	C1=CC(=CC=C1C2=NC3=C(C=NN3C(=C2)C(F)(F)F)C#CC4=CN=C(C=C4)N)C(F)(F)F
@@ -14941,7 +14941,7 @@ Piketoprofen	Cc1ccnc(c1)NC(=O)C(C)c2cccc(c2)C(=O)c3ccccc3
 6,6-Difluoronorethisterone	C[C@]12CC[C@H]3[C@@H](CC(F)(F)C4=CC(=O)CC[C@H]34)[C@@H]1CC[C@]2(O)C#C
 6,6-Difluoronorethisterone acetate	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3CC(F)(F)C4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C
 11-Ketoprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
-9α-Bromo-11-ketoprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)C3([C@H]2CCC4=CC(=O)CC[C@@]43C)Br)C
+Bromoketoprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)C3([C@H]2CCC4=CC(=O)CC[C@@]43C)Br)C
 Butolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCCO)CCC4=C3C=CC(=C4)O
 Prolame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCO)CCC4=C3C=CC(=C4)O
 Prodiame	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCN)CCC4=C3C=CC(=C4)O
@@ -15922,3 +15922,4 @@ Medroxyprogesterone caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C
 Bromethenmadinone acetate	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Br)C)OC(=O)C
 Levonorgestrel cyclobutylcarboxylate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C4CCC4)CCC5=CC(=O)CC[C@H]35
 Levonorgestrel cyclopropylcarboxylate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C4CC4)CCC5=CC(=O)CC[C@H]35
+Dimethylcarbamoyl fluoride	CN(C)C(=O)F
