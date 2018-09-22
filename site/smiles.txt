@@ -3613,6 +3613,7 @@ Sodium metavanadate	[O-][V](=O)=O.[Na+]
 Lithium sulfate	[Li+].[Li+].[O-]S(=O)(=O)[O-]
 Coprostanol	O[C@H]4CC[C@]3([C@H](CC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]23)[C@H](C)CCCC(C)C)C4)C
 Ethylone	CC(NCC)C(=O)c1ccc2OCOc2c1
+Artemisin	C=1C(=O)C(C)=C2[C@@](C1)(C[C@@H]([C@H]1[C@@H](C(O[C@H]21)=O)C)O)C
 Sodium hydrosulfide	[Na+].[SH-]
 Dialin	c2ccc1c(\C=C/CC1)c2
 Bretazenil	O=C(OC(C)(C)C)c1ncn2c4c(C(=O)N3[C@H](c12)CCC3)c(Br)ccc4
@@ -14399,7 +14400,7 @@ Reichardt's dye	C1=CC=C(C=C1)C2=CC(=[N+](C(=C2)C3=CC=CC=C3)C4=CC(=C(C(=C4)C5=CC=
 Miravirsen	CC1=CN([C@H]2CC(OP(O)(=S)OC[C@H]3O[C@H](CC3OP(O)(=S)OC[C@@]34COC([C@@H](O3)N3C=NC5=C3N=C(N)NC5=O)C4OP(O)(=S)OC[C@@]34COC([C@@H](O3)N3C=C(C)C(=O)NC3=O)C4OP(O)(=S)OC[C@H]3O[C@H](CC3OP(O)(=S)OC[C@H]3O[C@H](CC3OP(O)(=S)OC[C@@]34COC([C@@H](O3)N3C=CC(N)=NC3=O)C4OP(O)(=S)OC[C@H]3O[C@H](CC3OP(O)(=S)OC[C@@]34COC([C@@H](O3)N3C=CC(N)=NC3=O)C4OP(O)(=S)OC[C@H]3O[C@H](CC3OP(O)(=S)OC[C@@]34COC([C@@H](O3)N3C=CC(N)=NC3=O)C4OP(O)(=S)OC[C@]34COC(C3O)[C@@H](O4)N3C=CC(N)=NC3=O)N3C=C(C)C(=O)NC3=O)N3C=NC4=C3N=CN=C4N)N3C=NC4=C3N=CN=C4N)N3C=CC(N)=NC3=O)N3C=C(C)C(=O)NC3=O)[C@@H](COP(O)(=S)OC3C4OC[C@]3(COP(O)(=S)OC3C[C@@H](O[C@@H]3COP(O)(=S)OC3C5OC[C@]3(CO)O[C@H]5N3C=CC(N)=NC3=O)N3C=CC(N)=NC3=O)O[C@H]4N3C=NC4=C3N=CN=C4N)O2)C(=O)NC1=O
 Ethyl hexanoate	CCCCCC(=O)OCC
 Cyclotene	CC1C(=O)C(=O)CC1
-Ortho-iodohippurate	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
+Ortho-Iodohippuric acid	C1=CC=C(C(=C1)C(=O)NCC(=O)O)I
 Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
@@ -15927,3 +15928,4 @@ Levonorgestrel cyclopropylcarboxylate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O
 Dimethylcarbamoyl fluoride	CN(C)C(=O)F
 5β-Pregnane	CC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
 Bromofenofos	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2OP(=O)(O)O)Br)Br)Br
+Methallyl chloride	CC(=C)CCl
