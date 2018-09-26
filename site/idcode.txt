@@ -83,6 +83,7 @@ eMCAjiAdHz@	Radon difluoride
 daD@D@BHBDBLBBBJBFBNBDiUVzjj`@	Sulfur
 deTL@@QdfygFV``@@@	Salicylic acid
 gNxhMVDQI[jihd@	Selenocysteine
+gNxhmVDSR~RVzjZI@	Selenocysteine
 dk]H@ALLbbRfTJiaf@Bfh`@	Serotonin
 ffs`P@@`QjjSKLrj|nvC{LTijuUPUATUELqBHtlhiL@@	Hyoscine
 fhaPaBDXXH@PGPYpYrJIJKSQHbgFfijjh@@	Sodium thiopental
@@ -94,6 +95,7 @@ gOp@DjWkB@@@	Toluene
 fjc@`@@ErJIJZIPiSQJcEZ]zNVfjjjjjjfLPejVgeE@@	Testosterone
 dk\d@DsmB\bbbTrQXUujjUj`@	Theobromine
 dknL@BACR[me]]Zj@BHr@@	Tyrosine
+dknLABACSbeInvUuujh@HcH@	Tyrosine
 fn{a`@J`xkIEEEDhhdddobLexrPyKV`jBZbjjakBHqY`@	Thebaine
 gCe@E`dsP@	Urea
 dcll@DhUCmrJIQQHlLjuMTm@@	Uric acid
@@ -103,6 +105,7 @@ ggqF@x@@OPCahBYJaqxBaXaQhmdTTbbbfTTbabbbVTMfalTRtQfTTRtVVLQOAQH\z_MSklnOWfjjjijj
 eMXYCjTfp@	Nitrous oxide
 difD@FADfyWaZ@@@@	Niacin
 dcND@BADf{YU]Zj@@cH@	Phenylalanine
+dcNDABADxiR[meUujh@BL`@	Phenylalanine
 dcm@@@{IDeCEDUSh@UUECP@	Nicotine
 flePR@MA`cA@^FRRXqQJJMJJMjsU@QCUQ@@@	Psilocybin
 dev`@@rfeJY{ZxYBBFH@@	Adenine
@@ -162,11 +165,13 @@ ffma`@D@\gHhddhddiddX[sUTDECUPBGh	Capsaicin
 dedD@@QInUVjj`@	Valproate
 eFJHtHp@	Sodium hydroxide
 foAP`@BZ@aInvYWejsfjiB@bFH@	Tryptophan
+foAP`BBZ@aGDeInvYWejsfjiB@bFH@	Tryptophan
 dmUL@NDDYIm[Yjfj@@	Daminozide
 dieD@DpFrJIJFnZii@@	Thymine
 eFAB@hBL@	Liquid hydrogen
 fgA`@@@ISLrotyHvk@@@@@@@@	Acridine
 diFD`JxPBDivzjihI@@	Methionine
+diFDaJxPBJd^Rg[jjf`d@	Methionine
 egRxM@@O`DMHlnk`X]S\bbTTRTbbLtVRTTLRTQbRVJJ`UgcbUTrqvINHkTEAUQUUUTuUUUUQUTxQNHHcHyOHeBeTeimCebaT@@	Aconitine
 ek\xM@@O`DMHlnk`XU]\bbTTRTbbLtVRTTLRTQbRSVTBl|\RjfVNqIqEZ`hJjJjjjfjjjjhjjlx`bLcd|bTJeRfRtvfJEP@	Aconitine
 dmT@c@V@VnWlBbPLRJiT@@@@@	Ferrocene
@@ -177,6 +182,7 @@ diDB@@IaRUnvjjSER@	Deoxyribose
 dedJ@@rneI[nvjjlQDfP@	Ribose
 dmfBaJcITM@IsdEnufjihJ@@	Monosodium glutamate
 fdiq`@DT\@L\bbTRTURf`iMUSUUMXpfRr@@	Pyrrolysine
+fdiq`BDT\@LWSGlbbTRTURf`iMUSUUMXpfRr@@	Pyrrolysine
 gKiheLQDJSrBsP@	Aqua regia
 dk\d@Dq]@\bbbbfJZ]MjjZe`@	Theophylline
 gGX`BDdwMT@@	Alanine
@@ -187,16 +193,25 @@ diFB@BANEInvZjX@@	Aspartic acid
 diFBABANENJTf{Yji`@	Aspartic acid
 diFBCBANENJQyInvZjX@@	Aspartic acid
 defB@BAAeInufji`@	Glutamic acid
+defBABAAeNJTf{VZjf@@	Glutamic acid
+defBCBAAeNJYyInufji`@	Glutamic acid
 dmwD@ByPQInvVUZjejL`@	Histidine
+dmwDAByPQNJTf{YYUjjVhr@@	Histidine
+dmwDCByPQNJ^eInvVUZjejL`@	Histidine
 diFD@BADf{ejjdrT`@	Isoleucine
 diFDABADxiR[nVjjSIR@	Isoleucine
 deeD@BdDR[mUjjh@@	Lysine
+deeDABdDSbeInuVjj`@	Lysine
+deeDCBdDSbfYR[mUjjh@@	Lysine
 diFD@BADf{Yjjhr@@	Leucine
 diFDABADxiR[mfjjcH@	Leucine
 diEL@BDDyInvZjZL`@	Asparagine
 diELABDDyNJTf{Yjihr@@	Asparagine
 deeL@BdDEInufji`@	Glutamine
+deeLABdDENJTf{VZjf@@	Glutamine
 dctd@BE]ADf{UYjji`@	Arginine
+dctdABE]ADxiR[mUfjjf@@	Arginine
+dctdCBE]ADxiVTf{UYjji`@	Arginine
 gNy`BDtf{Zjf`@	Serine
 gNy`bDuqeInvjih@	Serine
 dazL@BAFR[nZjdrT`@	Threonine

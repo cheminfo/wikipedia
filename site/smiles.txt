@@ -83,6 +83,7 @@ Radon difluoride	F[Rn]F
 Sulfur	S1SSSSSSS1
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
+Selenocysteine	O=C([O-])[C@@H]([NH3+])C[SeH]
 Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
 Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
@@ -94,6 +95,7 @@ Toluene	Cc1ccccc1
 Testosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Theobromine	Cn1cnc2c1c(=O)[nH]c(=O)n2C
 Tyrosine	N[C@@H](Cc1ccc(O)cc1)C(O)=O
+Tyrosine	[NH3+][C@@H](Cc1ccc(O)cc1)C([O-])=O
 Thebaine	COC1=CC=C2[C@@H](C3)N(C)CC[C@@]24C5=C3C=CC(OC)=C5O[C@@H]14
 Urea	C(=O)(N)N
 Uric acid	OC1Nc2nc(=O)nc2C(=O)N1
@@ -103,6 +105,7 @@ Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@
 Nitrous oxide	N#[N+][O-]
 Niacin	OC(=O)c1cccnc1
 Phenylalanine	N[C@@H](CC1=CC=CC=C1)C(O)=O
+Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
 Nicotine	CN1CCC[C@H]1C1=CC=CN=C1
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	NC1=NC=NC2=C1N=C[NH]2
@@ -162,11 +165,13 @@ Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
 Sodium hydroxide	O[Na]
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
+Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)[O-])[NH3+]
 Daminozide	CN(C)NC(=O)CCC(O)=O
 Thymine	Cc1c[nH]c(=O)[nH]c1=O
 Liquid hydrogen	[H][H]
 Acridine	c1ccc2c(c1)cc3ccccc3n2
 Methionine	CSCC[C@H](N)C(=O)O
+Methionine	CSCC[C@H]([NH3+])C(=O)[O-]
 Aconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)([C@@H](O)[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccccc7
 Aconitine	COC[C@]12CN(C)[C@@H]3[C@H]4[C@H](OC)C1[C@@]3([C@H](C[C@H]2O)OC)[C@@H]5C[C@]6(O)[C@@H](OC)[C@H](O)[C@@]4(OC(C)=O)[C@H]5C6OC(=O)c7ccccc7
 Ferrocene	[cH-]1cccc1.[cH-]1cccc1.[Fe+2]
@@ -177,6 +182,7 @@ Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
 Monosodium glutamate	[Na+].O=C([O-])[C@@H](N)CCC(=O)O
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)O)N)[C@@H]1/N=C\C[C@H]1C
+Pyrrolysine	O=C(NCCCC[C@@H](C(=O)[O-])[NH3+])[C@@H]1/N=C\C[C@H]1C
 Aqua regia	[N+](=O)(O)[O-].Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
 Alanine	O=C(O)C(N)C
@@ -187,16 +193,25 @@ Aspartic acid	O=C(O)CC(N)C(=O)O
 Aspartic acid	O=C(O)CC([NH3+])C(=O)[O-]
 Aspartic acid	O=C([O-])CC([NH3+])C(=O)[O-]
 Glutamic acid	C(CC(=O)O)C(C(=O)O)N
+Glutamic acid	C(CC(=O)O)C(C(=O)[O-])[NH3+]
+Glutamic acid	C(CC(=O)[O-])C(C(=O)[O-])[NH3+]
 Histidine	O=C([C@H](CC1=CNC=N1)N)O
+Histidine	O=C([C@H](CC1=CNC=N1)[NH3+])[O-]
+Histidine	O=C([C@H](CC1=CNC=[NH1+]1)[NH3+])[O-]
 Isoleucine	CC[C@H](C)[C@@H](C(=O)O)N
 Isoleucine	CC[C@H](C)[C@@H](C(=O)[O-])[NH3+]
 Lysine	C(CCN)CC(C(=O)O)N
+Lysine	C(CCN)CC(C(=O)[O-])[NH3+]
+Lysine	C(CC[NH3+])CC(C(=O)[O-])[NH3+]
 Leucine	CC(C)C[C@@H](C(=O)O)N
 Leucine	CC(C)C[C@@H](C(=O)[O-])[NH3+]
 Asparagine	O=C(N)C[C@H](N)C(=O)O
 Asparagine	O=C(N)C[C@H]([NH3+])C(=O)[O-]
 Glutamine	O=C(N)CCC(N)C(=O)O
+Glutamine	O=C(N)CCC([NH3+])C(=O)[O-]
 Arginine	NC(CCCNC(N)=N)C(O)=O
+Arginine	[NH3+]C(CCCNC(N)=N)C([O-])=O
+Arginine	[NH3+]C(CCCNC(N)=[NH2+])C([O-])=O
 Serine	C([C@@H](C(=O)O)N)O
 Serine	C([C@@H](C(=O)[O-])[NH3+])O
 Threonine	C[C@H]([C@@H](C(=O)O)N)O
