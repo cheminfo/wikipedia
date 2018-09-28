@@ -647,6 +647,7 @@ Magnesium diboride	[B].[B].[Mg]
 2C-T-2	CCSc1cc(OC)c(cc1OC)CCN
 Bromothymol blue	Brc1c(O)c(cc(c1C)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4C)C(C)C)C(C)C
 Salbutamol	OCc1cc(ccc1O)C(O)CNC(C)(C)C
+5-MeO-DMT	COc2ccc1[nH]cc(CCN(C)C)c1c2
 1,3-Butadiene	C=CC=C
 Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
 Gallium nitride	[Ga]#N
@@ -790,6 +791,7 @@ Coniine	N1[C@@H](CCC)CCCC1
 Rosiglitazone	O=C1NC(=O)SC1Cc3ccc(OCCN(c2ncccc2)C)cc3
 Pioglitazone	O=C1NC(=O)SC1Cc3ccc(OCCc2ncc(cc2)CC)cc3
 Tyramine	Oc1ccc(cc1)CCN
+Beta-Carboline	c1ccc3c(c1)[nH]c2cnccc23
 Cathine	O[C@@H](c1ccccc1)[C@@H](N)C
 Cathinone	O=C(c1ccccc1)[C@@H](N)C
 Perchlorate	[O-][Cl](=O)(=O)=O
@@ -980,6 +982,7 @@ Propene	C=CC
 Cyclopropene	C1C=C1
 Ethyl butyrate	CCCC(=O)OCC
 Alpha-Ethyltryptamine	c1cccc2c1c(c[nH]2)CC(N)CC
+N-Ethyltryptamine	CCNCCc1c[nH]c2ccccc12
 Propargyl chloride	C#CCCl
 Allyl chloride	C=CCCl
 Iron(II) fumarate	[Fe+2].[O-]C(=O)/C=C/C([O-])=O
@@ -1034,6 +1037,7 @@ Tetraoctylammonium bromide	CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
 Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
+Psilocin	CN(C)CCc1c[nH]c2cccc(O)c12
 Thiamine pyrophosphate	[Cl-].Cc2ncc(C[n+]1csc(CCOOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
@@ -1077,6 +1081,7 @@ Nebracetam	O=C2N(Cc1ccccc1)CC(C2)CN
 Fasoracetam	O=C(N1CCCCC1)[C@@H]2NC(=O)CC2
 Carfentanil	O=C(C1(CCN(CC1)CCC2=CC=CC=C2)N(C(CC)=O)C3=CC=CC=C3)OC
 Pyritinol	Oc1c(c(cnc1C)CSSCc2c(c(O)c(nc2)C)CO)CO
+Carbendazim	COC(=O)Nc2nc1ccccc1[nH]2
 Bilobalide	CC(C)(C)[C@@]1(C[C@H]2[C@@]3([C@]14[C@H](C(=O)O[C@H]4OC3=O)O)CC(=O)O2)O
 Pyroglutamic acid	O=C(O)[C@H]1NC(=O)CC1
 Carboxyglutamic acid	O=C(O)C(C(=O)O)CC(N)C(=O)O
@@ -1218,6 +1223,7 @@ Ectocarpene	CC/C=C\[C@H]1CC=CCC=C1
 Sebacic acid	OC(=O)CCCCCCCCC(=O)O
 Chlorophyll a	CCC1=C(C2=NC1=CC3=C(C4=C([N-]3)C(=C5[C@H]([C@@H](C(=N5)C=C6C(=C(C(=C2)[N-]6)C=C)C)C)CCC(=O)OC/C=C(\C)/CCCC(C)CCCC(C)CCCC(C)C)[C@H](C4=O)C(=O)OC)C)C.[Mg+2]
 Coluracetam	Cc1c(oc2c1c(c3c(n2)CCCC3)NC(=O)CN4CCCC4=O)C
+Bufotenin	CN(C)CCc1c[nH]c2ccc(O)cc12
 Amiloride	Clc1nc(C(=O)\N=C(/N)N)c(nc1N)N
 2-Pentanone	O=C(C)CCC
 Amantadine	NC13CC2CC(CC(C1)C2)C3
@@ -1626,6 +1632,7 @@ Synephrine	OC(c1ccc(O)cc1)CNC
 Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
 Mannitol hexanitrate	C([C@H]([C@H]([C@@H]([C@@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Boron trifluoride	FB(F)F
+2-Methylindole	Cc2cc1ccccc1[nH]2
 7-Methylindole	Cc1cccc2c1[nH]cc2
 1-Methylindole	Cn1ccc2c1cccc2
 Olopatadine	O=C(O)Cc2ccc1OCc3c(C(\c1c2)=C\CCN(C)C)cccc3
