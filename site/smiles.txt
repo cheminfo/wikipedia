@@ -2521,6 +2521,7 @@ Hexazinone	O=C(N1C2CCCCC2)N=C(N(C)C)N(C)C1=O
 Nitrogen trifluoride	FN(F)F
 Copper(II) hydroxide	[Cu+2].[OH-].[OH-]
 Ethyl acetoacetate	CCOC(=O)CC(=O)C
+Cyclooctadecanonaene	C1=CC=CC=CC=CC=CC=CC=CC=CC=C1
 Digitonin	O[C@@H]%11[C@@H](O)[C@H](O)[C@H](O[C@H]%11O[C@@H]1[C@@H](O)[C@@H](O[C@H](CO)[C@@H]1O)O[C@@H]%10[C@@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)C(O)[C@H](O[C@H]%10O[C@@H]3[C@H](O)[C@@H](O)[C@@H](O[C@@H]3CO)O[C@H]9[C@H](O)C[C@@]8(C)[C@@H](CC[C@@H]6[C@@H]8CC[C@@]7([C@@H]5[C@@H](O[C@@]4(OC[C@@H](CC4)C)[C@H]5C)[C@@H](O)[C@@H]67)C)C9)CO)CO
 ABTS	O=S(=O)(O)c1ccc2N(C(\Sc2c1)=N\N=C4\Sc3cc(ccc3N4CC)S(=O)(=O)O)CC
 ABTS	CCN1/C(Sc2cc(ccc12)S(O)(=O)=O)=N/N=C/3Sc4cc(ccc4N3CC)S(O)(=O)=O
@@ -2761,6 +2762,7 @@ Methylglyoxal	CC(=O)C=O
 TMPTA	CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Triptycene	C12=CC=CC=C1C3C5=C(C=CC=C5)C2C4=C3C=CC=C4
 Chlorophyll d	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCCC(\C)=C\COC(=O)CC[C@H]6[C@H](C)C=5/C=C/2\N\1[Mg]n4c(\C=C\3/N=C(/C=C/1C(\C=O)=C\2\C)C(/C)=C/3/CC)c(C)c7c4\C(=C6/N=5)[C@@H](C(=O)OC)C7=O
+Chlorophyll b	CCC1=C(C2=NC1=CC3=C(C4=C([C@@H](C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)[C@H]([C@@H]5CCC(=O)OC/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C)C(=O)OC)[O-])C)C=O.[Mg+2]
 3-Dehydroquinic acid	O=C1[C@@H](O)[C@H](O)C[C@](O)(C(=O)O)C1
 Nanocar	CCCCCCCCCCOc1cc(c(cc1C#Cc2cc(ccc2C#Cc3cc(c(cc3OCCCCCCCCCC)C#CC45c6c7c8c9c1c2c3c%10c%11c%12c%13c3c1c1c8c3c6c6c4c4c8c%14c%15c%16c(c%11c%11c%10c%10c2c2c9c7c7c9c2c%10c2c%11c%16c%10c2c9c(c4c%10%14)C57)c2c%12c4c%13c1c3c1c4c(c2%15)c8c16)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#Cc1cc(ccc1C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC
 Tiletamine	O=C2C(c1sccc1)(NCC)CCCC2
@@ -5011,6 +5013,7 @@ Ethylene carbonate	C1COC(=O)O1
 Lithium hexafluorophosphate	[Li+].F[P-](F)(F)(F)(F)F
 Florfenicol	ClC(Cl)C(=O)N[C@@H]([C@H](O)c1ccc(cc1)S(=O)(=O)C)CF
 Phenothrin	O=C(OCc2cccc(Oc1ccccc1)c2)C3C(/C=C(/C)C)C3(C)C
+Dithionate	[O-]S(=O)(=O)-S([O-])(=O)=O
 Lubiprostone	FC(F)(CCCC)[C@]2(O)O[C@@H]1CC(=O)[C@@H]([C@H]1CC2)CCCCCCC(=O)O
 Bulbocapnine	O1c4c(OC1)c3c2c(O)c(OC)ccc2C[C@H]5c3c(c4)CCN5C
 Pterostilbene	O(c1cc(cc(OC)c1)\C=C\c2ccc(O)cc2)C
@@ -10212,7 +10215,6 @@ Tabernanthine	CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC
 Acotiamide	O=C(Nc1nc(C(=O)NCCN(C(C)C)C(C)C)cs1)c2cc(OC)c(OC)cc2O
 Alinidine	Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
 6-Fluoro-DMT	CN(CCC1=CNC2=C1C=CC(F)=C2)C
-2-(Dicyanomethylene)croconate	[O-][C]1C(=O)C(=O)[C]([O-])C1=C(C#N)C#N
 2-(Dicyanomethylene)croconate	C(#N)C(=C1C(=O)C(=C(C1=O)[O-])[O-])C#N
 3-Ethylpentan-3-ol	OC(CC)(CC)CC
 Jatrorrhizine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC
@@ -11338,6 +11340,7 @@ Dimethylol ethylene urea	C1CN(C(=O)N1CO)CO
 Isocoproporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)O)CC(=O)O)CCC(=O)O)C(=C3C)CCC(=O)O)C
 Dolutegravir	C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O
 Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4([H])[C@H](C)[C@]6(NC[C@@H](CO[C@H]7[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O7)C[C@@H]6OC(C)=O)O5)([H])C[C@@H](O[C@]8([H])O[C@H](CO)[C@H](O[C@@]9([H])[C@H](O[C@@]%10([H])[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O%10)[C@@H](O[C@@]%11([H])[C@H](O)[C@@H](O)[C@H](O)CO%11)[C@H](O)[C@@H](CO)O9)[C@H](O)[C@H]8O)CC1
+Acid red 88	[Na+].O=S(=O)([O-])c3ccc(N=Nc1c(O)ccc2ccccc12)c4ccccc34
 Gephyrotoxin	C#C\C=C/C[C@@H]3[C@H]2CC[C@H]1N([C@H](CC1)CCO)[C@H]2CCC3
 Tauroursodeoxycholic acid	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Sophoraflavanone G	[H][C@@](CC=C(C)C)(Cc1c(O)cc(O)c2C(=O)C[C@H](Oc12)c1ccc(O)cc1O)C(C)=C
@@ -11606,6 +11609,7 @@ Mesotrione	O=C(c1ccc(cc1[N+]([O-])=O)S(=O)(=O)C)C2C(=O)CCCC2=O
 Furan-2-ylmethanethiol	SCc1ccco1
 Amino radical	[NH2]
 Pinotin A	COc1cc(cc(c1O)OC)c2c(c3c4c([o+]2)cc(cc4OC(=C3)c5ccc(c(c5)O)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O
+3-Methoxy-4-hydroxyhippuric acid	COc1cc(C(=O)NCC(=O)O)ccc1O
 Dithionous acid	O=S(O)S(=O)O
 4-Methylpregabalin	O=C(O)CC(CN)C(C)C(C)C
 Zucapsaicin	Oc1ccc(cc1OC)CNC(CCCC\C=C/C(C)C)=O
@@ -12949,7 +12953,7 @@ Hafnium acetylacetonate	[Hf+4].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C
 Indium acetylacetonate	CC(=CC(=O)C)O[In](OC(=CC(=O)C)C)OC(=CC(=O)C)C
 Silver arsenate	[O-][As](=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 4-AcO-DALT	CC(=O)Oc1cccc2c1c(c[nH]2)CCN(CC=C)CC=C
-4-HO-DSBT	OC1=C2C(NC=C2CCN(C(C)CC)C(C)CC)=CC=C1
+4-HO-DSBT	CCC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)CC
 Silver nitrite	N(=O)[O-].[Ag+]
 6-Fluoro-AMT	NC(C)CC1=CNC2=CC(F)=CC=C21
 5-HO-DiPT	CC(C)N(CCC1=CNC2=C1C=C(C=C2)O)C(C)C
@@ -13019,6 +13023,7 @@ Sclerotiorin	CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C)Cl
 Topopyrone C	CC1=CC(=O)C2=C(C=C3C(=C2O1)C(=O)C4=C(C=C(C=C4C3=O)O)O)O
 Methylenolactocin	CCCCCC1C(C(=C)C(=O)O1)C(=O)O
 Dehydroaltenusin	CC12C=C(C(=O)C=C1C3=CC(=CC(=C3C(=O)O2)O)OC)O
+Hyrtinadine A	Oc5ccc4[nH]cc(C3C=NC(c1c[nH]c2ccc(O)cc12)N=C3)c4c5
 Chrysophanol	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O
 Duclauxin	CC1=CC(=C2C3=C1C(=O)C4C(C3(COC2=O)C5C4(C6=C7C(=COC(=O)C7=C(C=C6C)O)C5=O)OC)OC(=O)C)O
 Bisvertinolone	C/C=C/C=C/C(=O)C1=C[C@]2([C@H]3/C(=C(\C=C\C=C\C)/O)/C(=C(C(=O)[C@]3(O[C@]2([C@@](C1=O)(C)O)O)C)C)O)C
@@ -16234,6 +16239,7 @@ Chloroalanine	C(C(C(=O)O)N)Cl
 Estradiol 17β-sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=C3C=CC(=C4)O
 CR-4056	C1(C2=CC=CC=C2)=NC=C3C=C(N4C=CN=C4)C=CC3=N1
 V-sub x	CCOP(=O)(C)SCCSCC
+Butirosin	C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@@H](CCN)O)O)O[C@@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)N)N
 7α-Thiomethylspironolactone sulfoxide	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)S(=O)C
 Sodium hydrogenoxalate	[Na+].[O-]C(=O)C(=O)O
 Vanadium(III) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[V]
@@ -16266,3 +16272,4 @@ Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(
 4-Vinylpyridine	C=CC1=CC=NC=C1
 Thiocarbonyldiimidazole	C1=CN(C=N1)C(=S)N2C=CN=C2
 Sodium bromite	[O-]Br=O.[Na+]
+Crotylsarin	C/C=C/COP(=O)(C)F
