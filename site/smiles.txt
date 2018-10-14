@@ -2362,6 +2362,7 @@ Platinum hexafluoride	F[Pt-4](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
 Sulforidazine	O=S(=O)(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
+Verteporfin	COC(=O)CCC=1C(C)=C2C=C6N=C(C=C4NC(=CC3=NC(=CC=1N2)C(CCC(O)=O)=C3C)C(C=C)=C4C)C5=CC=C(C(=O)OC)[C@@H](C(=O)OC)[C@]56C
 Hydralazine	n2nc(c1ccccc1c2)NN
 Tobramycin	C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N
 Erlotinib	COCCOc1cc2c(cc1OCCOC)ncnc2Nc3cccc(c3)C#C
@@ -3235,6 +3236,7 @@ Tricarbon	[C]=C=[C]
 Alpidem	CCCN(CCC)C(=O)Cc1c(nc2ccc(Cl)cn12)c3ccc(Cl)cc3
 Filipin	CCCCC[C@H](O)[C@H]1C(=O)O[C@H](C)[C@@H](O)\C=C\C=C\C=C\C=C\C=C(/C)[C@@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@@H]1O
 1,2-Dichlorotetrafluoroethane	ClC(F)(F)C(F)(F)Cl
+Porphine	C1=CC2=CC5=CC=C(C=C4C=CC(C=C3C=CC(=CC1=N2)N3)=N4)N5
 Copper(II) arsenate	[Cu+2].[Cu+2].[Cu+2].[O-][As]([O-])(=O)[O-].[O-][As]([O-])([O-])=O
 Monosodium methyl arsonate	C[As](=O)(O)[O-].[Na+]
 TASF reagent	F[Si-](F)(C)(C)C.N([S+](N(C)C)N(C)C)(C)C
@@ -4552,6 +4554,7 @@ Fotemustine	O=P(OCC)(OCC)C(NC(=O)N(N=O)CCCl)C
 Pipobroman	O=C(N1CCN(C(=O)CCBr)CC1)CCBr
 Raltitrexed	O=C(c3sc(N(C)Cc2cc1C(=O)\N=C(/Nc1cc2)C)cc3)N[C@H](C(=O)O)CCC(=O)O
 Vindesine	O=C(OC)[C@]4(c2c(c1ccccc1[nH]2)CCN3C[C@](O)(CC)C[C@@H](C3)C4)c5c(OC)cc6c(c5)[C@@]89[C@@H](N6C)[C@@](O)(C(=O)N)[C@H](O)[C@@]7(/C=C\CN([C@@H]78)CC9)CC
+Porfimer sodium	[Na+].CC(O)C1=C(C)C=2C=C5NC(=CC4=NC(=CC=3NC(C=C1N=2)=C(C)C=3CCC(O)=O)C(CCC(O)=O)=C4C)C(C)=C5C(C)OC(C)C6=C(C)C=7C=C%10NC(=CC9=NC(=CC=8NC(C=C6N=7)=C(C)C=8CCC(O)=O)C(CCC(O)=O)=C9C)C(C)=C%10C(C)O
 Methyl aminolevulinate	O=C(CC(N)C(=O)OC)C
 Amsacrine	O=S(=O)(Nc1ccc(c(OC)c1)Nc2c4c(nc3c2cccc3)cccc4)C
 Masoprocol	Oc1ccc(cc1O)C[C@H](C)[C@H](C)Cc2ccc(O)c(O)c2
@@ -9319,6 +9322,7 @@ Lodoxamide	C1=C(C=C(C(=C1NC(=O)C(=O)O)Cl)NC(=O)C(=O)O)C#N
 BRL-44408	N2CCN=C2CN(C1C)Cc3c1cccc3
 Phenylsilatrane	C1C[N+]23CCO[Si-]2(O1)(OCC3)C1=CC=CC=C1
 Heptafluorobutyric acid	OC(C(F)(F)C(F)(F)C(F)(F)F)=O
+Tetraphenylporphyrin	C=9C=CC(C7=C1C=CC(=N1)C(C=2C=CC=CC=2)=C3C=CC(N3)=C(C=4C=CC=CC=4)C=5C=CC(N=5)=C(C=6C=CC=CC=6)C8=CC=C7N8)=CC=9
 Oxapium iodide	C[N+]1(CCCCC1)CC2COC(O2)(C3CCCCC3)C4=CC=CC=C4.[I-]
 Salvinorin B methoxymethyl ether	C[C@@]12CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]1C(=O)[C@H](C[C@H]2C(=O)OC)OCOC)C)C4=COC=C4
 Afegostat	C1[C@@H]([C@H]([C@@H](CN1)O)O)CO
@@ -11675,6 +11679,7 @@ HU-320	O=C(O)/C2=C/[C@H](c1c(O)cc(cc1O)C(C)(C)CCCCCC)[C@@H](\C(=C)C)CC2
 HU-336	O=C\2C=1OC([C@H]3[C@H](C=1C(=O)/C=C/2CCCCC)C/C(=C\C3)C)(C)C
 HU-345	O=C2\C(=C/C(=O)C=3c1c(ccc(c1)C)C(OC2=3)(C)C)CCCCC
 Nimbin (chemical)	O=C1\C=C/[C@@](C(=O)OC)([C@H]4[C@]1([C@H]([C@@]3(\C5=C(/C)[C@H](c2ccoc2)C[C@H]5O[C@@H]3[C@@H]4OC(=O)C)C)CC(=O)OC)C)C
+Porphyrazine	C1=CC3=NC1=NC5=CC=C(N=C2C=CC(=N2)N=C4C=CC(=N3)N4)N5
 Doxercalciferol	O[C@@H]1CC(\C(=C)[C@@H](O)C1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@@H](/C=C/[C@H](C)C(C)C)C)C
 1-(4-(Trifluoromethyl)phenyl)piperazine	FC(F)(F)c1ccc(cc1)N2CCNCC2
 JWH-175	c3cccc2c3cccc2Cc(cn4CCCCC)c1ccccc14
