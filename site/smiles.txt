@@ -101,7 +101,7 @@ Thebaine	COC1=CC=C2[C@@H](C3)N(C)CC[C@@]24C5=C3C=CC(OC)=C5O[C@@H]14
 Urea	C(=O)(N)N
 Uric acid	OC1Nc2nc(=O)nc2C(=O)N1
 Vitamin C	OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
-Sildenafil	CCCC1=NN(C2=C1NC(=NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
+Sildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Niacin	OC(=O)c1cccnc1
@@ -2248,6 +2248,7 @@ Kanamycin A	O([C@@H]2[C@@H](O)[C@H](O[C@H]1O[C@H](CN)[C@@H](O)[C@H](O)[C@H]1O)[C
 Diethyl sulfate	O=S(=O)(OCC)OCC
 Diethyl sulfite	O=S(OCC)OCC
 Decanoic acid	O=C(O)CCCCCCCCC
+Pinene	CC1=CCC2CC1C2(C)C
 Tetrakis(triphenylphosphine)palladium(0)	[Pd]([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1
 Cyclooctatetraene	C1=C\C=C/C=C\C=C1
 Ethyl cinnamate	CCOC(=O)/C=C/c1ccccc1
@@ -10468,6 +10469,7 @@ Cafaminol	O=C2N(c1nc(n(c1C(=O)N2C)C)N(CCO)C)C
 Ciladopa	O=C3/C=C\C=C/C=C3/N2CCN(C[C@@H](O)c1ccc(OC)c(OC)c1)CC2
 Iodobenzene dichloride	Cl[I](c1ccccc1)Cl
 Meta-Hydroxyphenylhydracrylic acid	OCC(C(O)=O)c1cccc(O)c1
+Fluparoxan	C1[C@H]2[C@H](CN1)OC3=C(O2)C=CC=C3F
 Meseclazone	Clc2cc1C(=O)N3OC(CC3Oc1cc2)C
 Pirolate	O=C(OCC)C/1=N/C(=O)c2cc3cc(OC)c(OC)cc3nc2N\1
 Quazinone	Clc1cccc3c1CN2/C(=N\C(=O)[C@H]2C)N3
@@ -10601,6 +10603,7 @@ Tolpiprazole	Cc3cccc(N2CCN(CCc1cc(C)[nH]n1)CC2)c3
 Sonepiprazole	O=S(=O)(N)c1ccc(cc1)N2CCN(CC2)CC[C@@H]4OCCc3ccccc34
 Methyl hypochlorite	COCl
 Sodium 2-anthraquinonesulfonate	O=C1C2=C(C=CC(S(=O)([O-])=O)=C2)C(C3=CC=CC=C31)=O.[Na+]
+Tazolol	CC(C)NCC(COC1=NC=CS1)O
 6-Methyl-MDA	O1c2cc(c(cc2OC1)CC(N)C)C
 4-Chlorophenylisobutylamine	Clc1ccc(cc1)CC(N)CC
 Haematopodin	O=C3/C=C2/N4CCCO[C@@H]4Cc1c[nH]c(c12)C3=O
@@ -10630,6 +10633,7 @@ Antimony telluride	[SbH3+3].[SbH3+3].[TeH2-2].[TeH2-2].[TeH2-2]
 Mordant Brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
 2-Mercaptopyridine	S=C1/C=C\C=C/N1
 2-Chloropyridine	Clc1ncccc1
+Hydracarbazine	C1=CC(=NN=C1C(=O)N)NN
 Rogletimide	O=C1NC(=O)CCC1(c2ccncc2)CC
 Bufotenidine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)[O-]
 Neoconvalloside	C[C@@]12[C@@](CC[C@@H]2C3=CC(OC3)=O)(O)[C@]4([H])CC[C@]5(O)C[C@@H](O[C@]6([H])O[C@@H](O)[C@H](O)[C@@H](O)[C@H]6O[C@]7([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)CC[C@]5(C=O)[C@@]4([H])CC1
@@ -16291,3 +16295,4 @@ Thiocarbonyldiimidazole	C1=CN(C=N1)C(=S)N2C=CN=C2
 Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
+Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
