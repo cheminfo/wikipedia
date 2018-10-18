@@ -1583,7 +1583,8 @@ Demeton-S-methyl	O=P(OC)(SCCSCC)OC
 Quinacridone	O=C4c5ccccc5Nc3cc2C(=O)c1c(cccc1)Nc2cc34
 Ethyl tert-butyl ether	O(C(C)(C)C)CC
 Selenomethionine	C[Se]CCC(C(=O)O)N
-Acetylacetone	CC(=O)CC(=O)C
+Acetylacetone	O=C(C)CC(=O)C
+Acetylacetone	CC(O)=CC(=O)C
 Phosalone	Clc2ccc1c(OC(=O)N1CSP(=S)(OCC)OCC)c2
 Nickel(II) chloride	Cl[Ni]Cl
 Iron(II) chloride	Cl[Fe]Cl
@@ -16296,3 +16297,4 @@ Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
 Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
+Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
