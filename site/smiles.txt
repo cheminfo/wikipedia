@@ -9173,6 +9173,7 @@ Aluminium(II) oxide	O=[Al]
 Aluminium(I) oxide	[Al]O[Al]
 Aluminium(I) oxide	[O--].[Al+].[Al+]
 Phenylethylidenehydrazine	N/N=C/CC1=CC=CC=C1
+Safrazine	CC(CCc2ccc1OCOc1c2)NN
 CX157	FC(F)(F)COc2cc3Oc1cc(F)ccc1S(=O)(=O)c3cc2
 Benmoxin	O=C(NNC(c1ccccc1)C)c2ccccc2
 8-Oxo-2'-deoxyguanosine	C1[C@@H]([C@H](O[C@H]1n2c3c(c(=O)nc([nH]3)N)[nH]c2=O)CO)O
@@ -16005,7 +16006,7 @@ Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=C
 Chlorphenacemide	C1=CC=C(C=C1)C(C(=O)NC(=O)N)Cl
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
-T-1123	[Cl-].C(=O)(Oc1cc(ccc1)[N+](C)(CC)CC)NC
+T-1123	CC[N+](C)(CC)c1cccc(c1)OC(=O)NC.[Cl-]
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
 19-Nordehydroepiandrosterone	C[C@]12CC[C@@H]3[C@H]4CC[C@@H](CC4=CC[C@H]3[C@@H]1CCC2=O)O
 Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
@@ -16122,6 +16123,7 @@ Undecylprodigiosin	CCCCCCCCCCCC1=CC=C(N1)C=C2C(=CC(=C3C=CC=N3)N2)OC
 Cobalt(III) hydroxide	[OH-].[OH-].[OH-].[Co+3]
 Triethylphosphine	CCP(CC)CC
 4-Aminophenylmercuric acetate	CC(=O)O[Hg]C1=CC=C(C=C1)N
+Butyrolactol A	CC(C/C=C/C=C/CC/C=C\C=C\CCC(C)(C)C)C(C(C(C(C(C1C(C(C(=O)O1)O)O)O)O)O)O)O
 Mirubactin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H](CCCN=C(N)N)C(=O)N[C@H](CCCN(C=O)OC(=O)C2=C(C(=CC=C2)O)O)C(=O)O
 Cembratrienol	C/C/1=C\CCC(/C=C/[C@@H](CC/C(=C/CC1)/C)C(C)C)(C)O
 Vancosamine	CC(C(C(C)(CC=O)N)O)O
@@ -16298,3 +16300,4 @@ Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
 Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
 Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
+Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
