@@ -28,6 +28,7 @@ Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
 DDT	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
+N,N-Dimethyltryptamine	CN(CCC1=CNC2=C1C=CC=C2)C
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -15539,6 +15540,7 @@ Pentakis(dimethylamido)tantalum	C[N-]C.C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ta+5]
 Succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate	O=C(C1CCC(CN2C(C=CC2=O)=O)CC1)ON3C(CCC3=O)=O
 Adenosine 5'-tetraphosphate	Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
 2-Carboxy-D-arabitinol 1-phosphate	OC[C@@H](O)[C@@H](O)[C@](O)(COP(O)(O)=O)C(O)=O
+GKT-831	CN1C(=O)C=C2C(=C1C3=CC(=CC=C3)N(C)C)C(=O)N(N2)C4=CC=CC=C4Cl
 Ferric sodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3]
 Propynyllithium	[Li+].CC#[C-]
 Capillin	CC#CC#CC(=O)C1=CC=CC=C1
@@ -16301,3 +16303,4 @@ Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)
 Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
 Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
 Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
+Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c(Cl)c1)C(C)(C)C
