@@ -1302,6 +1302,7 @@ Potassium dichromate	[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Bendroflumethiazide	FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N
 Canthaxanthin	CC(CC1)(C)C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C(C)(C)CC2)=C(C)C2=O)=C(C)C1=O
 Indanthrone blue	O=C6c5c4Nc3c(c2C(=O)c1ccccc1C(=O)c2cc3)Nc4ccc5C(=O)c7ccccc67
+Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
 2C-T-4	CC(C)Sc1cc(OC)c(cc1OC)CCN
 Sodium fluoroacetate	[Na+].[O-]C(=O)CF
 Adamantane	C1C3CC2CC(CC1C2)C3
@@ -6074,6 +6075,7 @@ Metacycline	NC(=O)C=3C(=O)[C@@]4(O)C(\O)=C2\C(=O)c1c(O)cccc1C(=C)[C@H]2[C@H](O)[
 Clomocycline	Clc1c4c(c(O)cc1)C(\O)=C3\C(=O)[C@]2(O)C(=O)/C(C(=O)[C@@H](N(C)C)[C@@H]2C[C@@H]3[C@@]4(O)C)=C(\O)NCO
 Lumefantrine	Clc1ccc(cc1)\C=C3\c4c(c2c(cc(Cl)cc23)C(O)CN(CCCC)CCCC)ccc(Cl)c4
 Cycloguanil	Clc1ccc(cc1)N2C(=N/C(=N\C2(C)C)N)\N
+Gold(III) oxide	[O-2].[O-2].[O-2].[Au+3].[Au+3]
 Iridium(IV) oxide	[Ir+4].[O-2].[O-2]
 Chrysanthemic acid	CC(=CC1C(C1(C)C)C(=O)O)C
 Ammonium formate	C(=O)O.N
@@ -16306,3 +16308,5 @@ Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
 Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c(Cl)c1)C(C)(C)C
 1,4-Bis(diphenylphosphino)butane	C1=CC=C(C=C1)P(CCCCP(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
+GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
+Cefiderocol	CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
