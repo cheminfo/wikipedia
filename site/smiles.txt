@@ -10918,7 +10918,7 @@ Olesoxime	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N\O)/CC[
 O-Anisic acid	COc1ccccc1C(=O)O
 Ammonium sulfite	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].O=S([O-])[O-]
 Terbequinil	CCCNC(=O)C1=CN(C2=CC=CC=C2C1=O)COC
-Cyclotetradecaheptaene	c1ccccccccccccc1
+Cyclotetradecaheptaene	C1C=CC=CC=CC=CC=CC=CC=1
 Dipotassium cyclooctatetraenide	[cH-]/1/cc\cc/[cH-]/cc1.[K+].[K+]
 Ilomastat	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
@@ -15909,6 +15909,7 @@ Eurycomanone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3C45[C@@H]2[C@@]([C@@H](C(=C)[C@
 Gutolactone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)C=C(C)C)(OC5)C)O)O)C)O
 Toxopyrimidine	Cc1ncc(c(n1)N)CO
 Vinyl norbornene	C=CC1CC2CC1C=C2
+3-Chlorobenzoic acid	C1=CC(=CC(=C1)Cl)C(=O)O
 Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
 Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
@@ -16310,3 +16311,4 @@ Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
 GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
 Cefiderocol	CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
+Cerdulatinib	CCS(=O)(=O)N1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4CC4)C(=O)N
