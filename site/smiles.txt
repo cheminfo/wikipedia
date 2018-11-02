@@ -14301,7 +14301,7 @@ Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl
 BTRX-246040	Cc1c(cn(n1)c2c(cccn2)CO)CN3CCC4(CC3)c5c(cc(s5)Cl)C(CO4)(F)F
 Furanylfentanyl	O=C(N(C1CCN(CC1)CCc2ccccc2)c3ccccc3)c4occc4
 Ammonium dimolybdate	[NH4+].[O-][Mo](=O)(=O)[O-].[O-][Mo](=O)(=O)[O-]
-Argpyrimidine	O=C([C@@H](C)CCCNC1=NC(C)=C(O)C(C)=N1)O
+Argpyrimidine	CC1=C(C(=NC(=N1)NCCC[C@@H](C(=O)O)N)C)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
 Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
