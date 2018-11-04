@@ -1910,7 +1910,7 @@ Tetramethylsilane	C[Si](C)(C)C
 Enoxolone	O=C(O)[C@]5(C)C[C@H]4/C3=C/C(=O)[C@H]1[C@](CC[C@@H]2[C@]1(C)CC[C@H](O)C2(C)C)(C)[C@]3(C)CC[C@@]4(C)CC5
 Phenazone	O=C1C=C(C)N(C)N1c2ccccc2
 Flavin mononucleotide	Cc1cc2c(cc1C)n(c-3nc(=O)[nH]c(=O)c3n2)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
-Triphenylene	C1(C=CC=C3)=C3C(C=CC=C4)=C4C2=C1C=CC=C2
+Triphenylene	c1(cccc3)c3c(cccc4)c4c2c1cccc2
 Peroxymonosulfuric acid	OOS(O)(=O)=O
 Peroxymonosulfuric acid	[O].[O].OOSO
 Neosalvarsan	[Na+].[O-]S(=O)CNc2cc(/[As]=[As]/c1ccc(O)c(N)c1)ccc2O
@@ -14724,6 +14724,7 @@ Azonine	C1=CC=CNC=CC=C1
 Talazoparib	Cn1c(ncn1)[C@H]2c3c4c(cc(cc4N[C@@H]2c5ccc(cc5)F)F)c(=O)[nH]n3
 Nitrazolam	Cc1nnc2CN=C(c3ccccc3)c4cc(ccc4n12)[N+]([O-])=O
 Fructoselysine	C(CCNCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)C[C@@H](C(=O)O)N
+Butalene	C=1C=C2C=CC=12
 Bicyclo(6.2.0)decapentaene	C1=CC=CC2=C(C=C1)C=C2
 Cannabinodiol	CCCCCC1=CC(=C(C(=C1)O)C2=C(C=CC(=C2)C)C(=C)C)O
 Coronaric acid	CCCCC/C=C\CC1C(O1)CCCCCCCC(=O)O
@@ -16309,9 +16310,12 @@ Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
 Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c(Cl)c1)C(C)(C)C
 1,4-Bis(diphenylphosphino)butane	C1=CC=C(C=C1)P(CCCCP(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
+Tetramethylxylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
 GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
 Cefiderocol	CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
 Cerdulatinib	CCS(=O)(=O)N1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4CC4)C(=O)N
 Methylene imine	C=N
 Vilsmeier reagent	C[N+](=CCl)C.[Cl-]
 4-Chlorobenzoic acid	C1=CC(=CC=C1C(=O)O)Cl
+2-Chloroethyl ethyl sulfide	CCSCCCl
+EA-4352	CC(C)OP(=O)(C#N)N(C)C
