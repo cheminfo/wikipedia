@@ -1344,5 +1344,6 @@
 {"date":"2018-11-03T03:38:24.771Z","molecules":16317,"errors":1,"nogood":1,"notfound":2292,"dup":585},
 {"date":"2018-11-04T04:13:09.860Z","molecules":16321,"errors":1,"nogood":0,"notfound":2290,"dup":585},
 {"date":"2018-11-05T03:38:32.296Z","molecules":16321,"errors":1,"nogood":0,"notfound":2290,"dup":585},
-{"date":"2018-11-06T03:40:15.293Z","molecules":16323,"errors":1,"nogood":0,"notfound":2289,"dup":585}
+{"date":"2018-11-06T03:40:15.293Z","molecules":16323,"errors":1,"nogood":0,"notfound":2289,"dup":585},
+{"date":"2018-11-07T03:38:22.130Z","molecules":16324,"errors":1,"nogood":0,"notfound":2290,"dup":585}
 ]
