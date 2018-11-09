@@ -3851,6 +3851,7 @@ Zinc stearate	[Zn+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
 Sertaconazole	Clc1ccc(c(Cl)c1)C(OCc2c3cccc(Cl)c3sc2)Cn4ccnc4
 Vanadium(III) bromide	[V+3].[Br-].[Br-].[Br-]
 Vanadium(II) chloride	Cl[V]Cl
+Dibutyl sebacate	CCCCOC(=O)CCCCCCCCC(=O)OCCCC
 Propylene glycol dinitrate	O=[N+]([O-])OC(C)CO[N+](=O)[O-]
 Tralomethrin	CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C(C(Br)(Br)Br)Br)C
 Calcium lactate gluconate	[Ca+2].[O-]C(=O)C(O)C.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
@@ -5937,7 +5938,7 @@ Tiludronic acid	c1cc(ccc1SC(P(=O)(O)O)P(=O)(O)O)Cl
 Clodronic acid	ClC(Cl)(P(=O)(O)O)P(=O)(O)O
 Erythritol tetranitrate	C(C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Fenbufen	O=C(O)CCC(=O)c2ccc(c1ccccc1)cc2
-IBMX	CC(C)Cn2c(=O)n(C)c(=O)c1[nH]cnc12
+IBMX	CC(C)Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
 Spirotryprostatin B	O=C1C=3N(C(=O)[C@H]2N1CCC2)[C@@H](\C=C(/C)C)[C@]5(C=3)c4ccccc4NC5=O
 Spirotryprostatin A	CC(=C[C@H]1[C@]2(C[C@@H]3N1C(=O)[C@@H]4CCCN4C3=O)C5=C(C=C(C=C5)OC)NC2=O)C
 Xylopropamine	c1c(ccc(c1C)C)CC(N)C
@@ -7363,6 +7364,7 @@ Carbutamide	O=S(=O)(c1ccc(N)cc1)NC(=O)NCCCC
 Fenspiride	c1ccc(cc1)CCN2CCC3(CC2)CN=C(O3)O
 5,10-Methenyltetrahydrofolate	O=C(O)C(NC(=O)c1ccc(cc1)N4/C=[N+]3/C2=C(/N\C(=N/C2=O)N)NCC3C4)CCC(=O)O
 Aluminium monochloride	[Al]Cl
+Dichlorotetrakis(dimethylsulfoxide)ruthenium(II)	CS(=O)C.CS(=O)C.CS(=O)C.CS(=O)C.Cl[Ru]Cl
 Pyrimidone	O=C1NC=NC=C1
 11-Nor-9-carboxy-THC	CCCCCc1cc(c2c(c1)OC(C3C2C=C(CC3)C(=O)O)(C)C)O
 JWH-051	CCCCCCC(C)(C)C1=CC2=C(C=C1)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO
@@ -8804,6 +8806,7 @@ Diethylmercury	CC[Hg]CC
 Nolatrexed	CC1=C(C2=C(C=C1)NC(=NC2=O)N)SC3=CC=NC=C3
 Tezacitabine	OC[C@H]1O[C@@H](N2C=CC(N)=NC2=O)/C([C@@H]1O)=C/F
 Starlicide	Clc1cc(N)ccc1C
+Dichlorine hexoxide	O=[Cl](=O)O[Cl](=O)(=O)=O
 Chlorine perchlorate	ClO[Cl](=O)(=O)=O
 Psymberin	O[C@@H](C[C@H]1O[C@H]([C@H](OC)NC([C@@H](O)[C@H](CC(C)=C)OC)=O)C[C@@H](O)C1(C)C)[C@@H](C)[C@@H](CC2=C(C)C(O)=CC(O)=C23)OC3=O
 Prostanozol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CC[C@@H]5[C@@]3(CC6=C(C5)NN=C6)C
@@ -13473,6 +13476,7 @@ Surotomycin	CCCCCc1ccc(cc1)/C(=C/C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@H](CC(=
 Tabilautide	CCCCCCCCCCCC(=O)N[C@H](C)C(=O)N[C@H](CCC(=O)N[C@@H](CCC[C@H](N)C(N)=O)C(O)=O)C(O)=O
 Solpecainol	C[C@@H](COC1=CC=CC=C1)N[C@@H](CO)[C@H](O)C1=CC=CC=C1
 Cefsumide	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3cccc(NS(=O)(=O)C)c3)N)C)C(=O)O
+Dichlorobis(triphenylphosphine)nickel(II)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Ni]Cl
 Allyl iodide	C=CCI
 9,10-Dihydroanthracene	c1ccc2c(c1)Cc3ccccc3C2
 Filanesib	CN(C(=O)N1[C@](SC(=N1)C2=C(C=CC(=C2)F)F)(CCCN)C3=CC=CC=C3)OC
@@ -15600,6 +15604,7 @@ Benzyl iodide	C1=CC=C(C=C1)CI
 Pentafluorobenzene	C1=C(C(=C(C(=C1F)F)F)F)F
 Cholesterol sulfate	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C)C
 Pentachlorobenzenethiol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)S
+1,2-Dibromoethylene	C(=CBr)Br
 Hexadecanethiol	CCCCCCCCCCCCCCCCS
 Estriol 3-glucuronide	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1C[C@H]([C@@H]2O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 Estradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
@@ -15616,6 +15621,7 @@ Pentamethylantimony	C[Sb](C)(C)(C)C
 Pentamethylbismuth	C[Bi](C)(C)(C)C
 Pentamethylcyclopentadienyl rhodium dichloride dimer	c1(C)=c(C)c(C)=c(C)c1(C)[Rh](Cl)(Cl1)Cl[Rh](Cl)1C1(C)C(C)=C(C)C(C)=C1C
 Yttrium phosphide	P#[Y]
+Dicarbonyl(acetylacetonato)rhodium(I)	CC(=CC(=O)C)O.[C-]#[O+].[C-]#[O+].[Rh]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
@@ -16324,3 +16330,5 @@ Ethylsarin	CCP(=O)(OC(C)C)F
 2,3-Dimethylpentane	CCC(C)C(C)C
 Methyl p-toluate	CC1=CC=C(C=C1)C(=O)OC
 Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
+(2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
+2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
