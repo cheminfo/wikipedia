@@ -64,7 +64,6 @@ Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
 Nitronium ion	O=[N+]=O
 Ozone	[O-][O+]=O
-Ozone	[O-][O+][O-]
 Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
@@ -2213,6 +2212,7 @@ Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 Borazine	B1NBNBN1
 Potassium peroxymonosulfate	[K+].[O-]S(=O)(=O)OO
 Ozonide	[O-]O[O]
+Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
 Losartan	CCCCC(=O)N(Cc3ccc(C1C=CC=CC1c2nn[nH]n2)cc3)[C@H](C(=O)O)C(C)C
@@ -6751,6 +6751,7 @@ Dimethylheptylpyran	CCCCCC(C)C(C)c1cc(c2c(c1)OC(C3=C2CC(CC3)C)(C)C)O
 Dimedone	O=C1CC(=O)CC(C)(C)C1
 Mercury(IV) fluoride	[Hg+4].[F-].[F-].[F-].[F-]
 Dihydropyran	O1\C=C/CCC1
+Dihydropyran	C1\C=C/CCO1
 Lurtotecan	O=C2OCC=1C(=O)N6/C(=C\C=1[C@@]2(O)CC)c5nc4cc3OCCOc3cc4c(c5C6)CN7CCN(C)CC7
 Exatecan	Fc2c(c6c1c(c5c(nc1c2)C=3N(C(=O)\C4=C(/C=3)[C@](O)(C(=O)OC4)CC)C5)[C@@H](N)CC6)C
 Exatecan	CCC1(C2=C(COC1=O)C(=O)N3CC4=C5C(CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)N)O
@@ -15234,6 +15235,7 @@ Dimethandrolone dodecylcarbonate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C
 11β-Methyl-19-nortestosterone dodecylcarbonate	CCCCCCCCCCCCOC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3[C@@H](C)C[C@]12C
 11β-Methyl-19-nortestosterone	C[C@H]1C[C@]2(C)[C@@H](O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@@H]13
 Crocetane	CC(C)CCCC(C)CCCCC(C)CCCC(C)C
+Dinosterane	CC1CCCC2(C1CCC3C2CCC4(C3CCC4C(C)CC(C)C(C)C(C)C)C)C
 1-Phenylethanol	CC(C1=CC=CC=C1)O
 11β-Hydroxyandrostenedione	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CCC4=O)C)O
 11-Ketodihydrotestosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CC[C@@H]4O)C
@@ -16334,4 +16336,5 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 (2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
-Chromium(III) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
+Basic chromium acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
+TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
