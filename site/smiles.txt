@@ -14006,7 +14006,7 @@ Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
 Pentaborane(11)	[BH3]1[BH2]2[BH]13[BH2]2[BH3]3
 Zirconium perchlorate	[Zr](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 2,4,5-Trihydroxycinnamic acid	OC(=O)\C=C\c(cc1O)c(O)cc1O
-BCX4430	O[C@H]3[C@H](c2c1ncnc(N)c1[nH]c2)N[C@H](CO)[C@H]3O
+Galidesivir	O[C@H]3[C@H](c2c1ncnc(N)c1[nH]c2)N[C@H](CO)[C@H]3O
 Cyclohexene oxide	C1CCC2C(C1)O2
 Hydroxydanaidal	O=Cc1ccn2CC[C@@H](O)c12
 Dibenzopyrenes	c1ccc2c(c1)cc3c4ccccc4c5cccc6c5c3c2cc6
@@ -16339,3 +16339,4 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
 Chromium(III) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
+Prop-1-en-2-ol	C=C(O)-C
