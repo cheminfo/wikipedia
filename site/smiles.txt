@@ -13195,7 +13195,6 @@ N-Acetylmescaline	O=C(NCCc1cc(OC)c(OC)c(OC)c1)C
 Tetramethylpyrazine	CC1=C(N=C(C(=N1)C)C)C
 Altemicidin	O=S(=O)(N)CC(=O)N[C@@]2(C(=O)O)[C@@H](O)C[C@H]1C(=C/N(C[C@H]12)C)\C(=O)N
 Kettapeptin	O=C1O[C@@H](C(C)C)[C@@H](C(=O)N3NCCC[C@@H]3C(=O)N(O)[C@H](C(=O)N(C)[C@@H](C(=O)N2NCCC[C@@H]2C(=O)N[C@@H]1[C@@H](O)C)C)COC)NC(=O)[C@@](O)([C@]4(O)OC(/C(=C/C(C(=O)/C(=C/C)C)C)C)[C@H](CC4)C)CC
-Helquinoline	CC1CC(C2=CC=CC(=C2N1)C(=O)O)OC
 MC21-A	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2O)Br)Br)Br
 Debromomarinone	O=C2C=1O[C@@]([C@H]4[C@@H](C=1C(=O)c3cc(O)cc(O)c23)/C=C(\CC4)C)(C)CC\C=C(/C)C
 25C-NBOH	COc1cc(Cl)c(OC)cc1CCNCc2ccccc2O
@@ -14164,7 +14163,7 @@ Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H
 Endomorphin-2	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)N
 Naltalimide	c1ccc2c(c1)C(=O)N(C2=O)[C@@H]3CC[C@]4([C@H]5Cc6ccc(c7c6[C@]4([C@H]3O7)CCN5CC8CC8)O)O
 Nexeridine	CC(CN(C)C)C1(CCCCC1C2=CC=CC=C2)OC(=O)C
-Androstadienol	CC12CCC3C(C1CC=C2)CC=C4C3(CCC(C4)O)C
+Androstadienol	C[C@@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]2CC=C1
 Ralfinamide	C[C@@H](C(=O)N)NCc1ccc(cc1)OCc2ccccc2F
 Haloprogesterone	CC(=O)[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)F)C)Br
 Hydromadinone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)Cl)C)O
