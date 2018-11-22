@@ -477,7 +477,7 @@ Benzophenone	O=C(c1ccccc1)c2ccccc2
 Maprotiline	CNCCC[C@@]12C3=CC=CC=C3[C@@H](C4=CC=CC=C14)CC2
 Oxybenzone	O=C(c1ccc(OC)cc1O)c2ccccc2
 Dioxybenzone	O=C(c1ccc(OC)cc1O)c2ccccc2O
-Anthracene	c3ccc2cc1ccccc1cc2c3
+Anthracene	c1ccc=2cc3ccccc3cc2c1
 Topiramate	O=S(=O)(OC[C@@]21OC(O[C@H]1[C@@H]3OC(O[C@@H]3CO2)(C)C)(C)C)N
 Bromochlorodifluoromethane	BrC(Cl)(F)F
 Methcathinone	O=C(c1ccccc1)C(NC)C
@@ -841,7 +841,7 @@ Fenvalerate	Clc1ccc(cc1)C(C(=O)OC(C#N)c3cccc(Oc2ccccc2)c3)C(C)C
 Atomoxetine	CC1=C(C=CC=C1)O[C@H](CCNC)C2=CC=CC=C2
 Midazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
 Estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O
-Phenanthrene	c1ccc2c3ccccc3ccc2c1
+Phenanthrene	c1=ccc2c3cc=ccc3ccc2c1
 Rofecoxib	O=C2OCC(=C2\c1ccccc1)\c3ccc(cc3)S(=O)(=O)C
 Celecoxib	O=S(=O)(c3ccc(n1nc(cc1c2ccc(cc2)C)C(F)(F)F)cc3)N
 Valdecoxib	O=S(=O)(N)c3ccc(c2c(onc2c1ccccc1)C)cc3
