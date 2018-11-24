@@ -2330,7 +2330,6 @@ Norelgestromin	ON=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)C
 Norgestimate	O=C(O[C@@]2(C#C)CC[C@H]1[C@H]4[C@H](CC[C@@]12CC)[C@@H]3/C(=C\C(=N\O)CC3)CC4)C
 Norgestrel	O=C\1CC[C@H]4C(=C/1)/CC[C@@H]3[C@@H]4CC[C@@]2(CC)[C@H]3CCC2(O)C#C
 Flunisolide	O=C\1\C=C/[C@]2(/C(=C/1)[C@@H](F)C[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)(C)C)C(=O)CO)C)C
-N,N-Diisopropylethylamine	CCN(C(C)C)C(C)C
 Stiripentol	O1c2ccc(cc2OC1)/C=C/C(O)C(C)(C)C
 Aziridine	C1CN1
 Plutonium(IV) oxide	[O--].[O--].[Pu+4]
@@ -16307,6 +16306,7 @@ Hydrogen trithionate	[H]OS(=O)(=O)SS([O-])(=O)=O
 3-Methylsalicylic acid	CC1=CC=CC(=C1O)C(=O)O
 5-Methylsalicylic acid	CC1=CC(=C(C=C1)O)C(=O)O
 Levoglucosenone	C1[C@@H]2C=CC(=O)[C@H](O1)O2
+Magnesocene	[cH-]1cccc1.[cH-]1cccc1.[Mg+2]
 Haloxon	CC1=C(Cl)C(=O)Oc2cc(OP(=O)(OCCCl)OCCCl)ccc12
 Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(=O)(=O)O)CO)O[C@@H]2C[C@@]([C@@H]3[C@@](C2)([C@H]4[C@@]5([C@H](C(=C)[C@@H](C5)CC4)O)CC3)C)(C(=O)O)C(=O)O)C
 4-Vinylpyridine	C=CC1=CC=NC=C1
