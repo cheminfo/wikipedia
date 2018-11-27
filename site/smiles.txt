@@ -2526,7 +2526,8 @@ Diazald	Cc1ccc(cc1)S(=O)(=O)N(C)N=O
 Pentyl group	[CH2]CCCC
 Pittsburgh compound B	[11CH3]NC1=CC=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O
 Fluorosulfuric acid	OS(F)(=O)=O
-Isocyanic acid	O=C=[N@H]
+Isocyanic acid	O=C=N
+Isocyanic acid	OC#N
 Dacarbazine	CN(C)N=Nc1[nH]cnc1C(N)=O
 Nitrosonium	N#[O+]
 Sodium molybdate	[O-][Mo](=O)(=O)[O-].[Na+].[Na+]
