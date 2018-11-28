@@ -281,7 +281,7 @@ Naloxone	O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(CC=C)[C@@H]5C4
 Soman	FP(=O)(OC(C)C(C)(C)C)C
 Ethylene glycol	C(CO)O
 Salvinorin A	O=C(OC)[C@H]2[C@@]3(CC[C@H]4C(=O)O[C@H](c1ccoc1)C[C@@]4([C@H]3C(=O)[C@@H](OC(=O)C)C2)C)C
-Gallium arsenide	[Ga-].[As+]
+Gallium arsenide	[Ga][As]12[Ga][As]3([Ga])[Ga][As]([Ga])([Ga]1)[Ga][As]([Ga])([Ga]2)[Ga]3
 Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
 Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
@@ -2694,7 +2694,7 @@ Copper(II) acetate	[Cu+2].[O-]C(=O)C.[O-]C(=O)C
 Endosulfan	Cl[C@@]3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@H]2[C@@H2]OS(=O)O[C@@H2][C@H]12
 Triacetin	CC(=O)OC(COC(=O)C)COC(C)=O
 Calcium acetate	[Ca+2].[O-]C(=O)C.[O-]C(=O)C
-Chromium(II) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
+Chromium(II) acetate	CC(=O)[O-].CC(=O)[O-].O.[Cr+2].[Cr+2].O.CC(=O)[O-].CC(=O)[O-]
 Metamizole	c1ccccc1N2N(C)C(C)=C(C2=O)N(C)CS(=O)(=O)O
 Butyl acetate	CCCCOC(=O)C
 Rhodamine B	CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-]
@@ -3612,6 +3612,8 @@ Asymmetric dimethylarginine	CN(C)C(=N)NCCC[C@H](N)C(=O)O
 Monocrotophos	O=P(O/C(=C/C(=O)NC)C)(OC)OC
 Lumisterol	O[C@@H]4C/C3=C/C=C1\[C@@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)C(C)C)C)C)[C@]3(C)CC4
 Citrinin	O=C2C(C(O)=O)=C(O)C1=CO[C@H](C)[C@@H](C)C1=C2C
+Methanium	[C+H5]
+Methanium	[C+H3]-[H2]
 Tetraphenylmethane	c1ccccc1C(c2ccccc2)(c3ccccc3)c4ccccc4
 Hexaphenylethane	c1ccc(cc1)C(c2ccccc2)(c3ccccc3)C(c4ccccc4)(c5ccccc5)c6ccccc6
 URB754	CC1=CC=C(C=C1)NC2=NC3=C(C=C(C=C3)C)C(=O)O2
@@ -16287,3 +16289,7 @@ Chromium(III) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 1,2-Epoxybutane	CCC1CO1
 Prop-1-en-2-ol	CC(=C)O
+Theasinensin A	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
+Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)O
+Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
+Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
