@@ -5652,7 +5652,7 @@ Rhenium pentachloride	Cl[Re](Cl)(Cl)(Cl)Cl
 Prostaglandin H2	O=C(O)CCC/C=C\C[C@H]2[C@H]1OO[C@H](C1)[C@@H]2/C=C/[C@@H](O)CCCCC
 Arachidonic acid 5-hydroperoxide	O=C(O)CCCC(OO)/C=C/C=C\C\C=C/C\C=C/CCCCC
 Ruthenocene	[cH-]1cccc1.[cH-]1cccc1.[Ru+2]
-Uridine diphosphate glucuronic acid	OC(=O)[C@@H](O)[C@@H](O)[C@H](OP([O-])([O-])=O)[C@H](C=O)OP([O-])([O-])=O.O=C\1NC(=O)N(/C=C/1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+Uridine diphosphate glucuronic acid	O[C@@H]1[C@@H](O)[C@H](O[C@@H]([C@H]1O)C(O)=O)O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)[N]3C=C[C](=O)[NH][C]3=O
 Uridine diphosphate galactose	[H]OC([H])([H])[C@]1([H])O[C@]([H])(O[P@@](=O)(O[H])O[P@](=O)(O[H])OC([H])([H])[C@]2([H])O[C@@]([H])(N3C([H])=C([H])C(=O)N([H])C3=O)[C@]([H])(O[H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@]([H])(O[H])[C@@]1([H])O[H]
 Galactose 1-phosphate	O=P(O)(O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO)O
 2-Hydroxybutyric acid	O=C(O)C(O)CC
@@ -16295,4 +16295,4 @@ Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C
 Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
 Bisphenol Z	C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
-Ibogaline	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC
+Beta-Isophorone	CC1=CC(CC(=O)C1)(C)C
