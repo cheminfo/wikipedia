@@ -283,7 +283,6 @@ Ethylene glycol	C(CO)O
 Salvinorin A	O=C(OC)[C@H]2[C@@]3(CC[C@H]4C(=O)O[C@H](c1ccoc1)C[C@@]4([C@H]3C(=O)[C@@H](OC(=O)C)C2)C)C
 Gallium arsenide	[Ga][As]12[Ga][As]3([Ga])[Ga][As]([Ga])([Ga]1)[Ga][As]([Ga])([Ga]2)[Ga]3
 Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
-Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
 Heptane	CCCCCCC
 Calcium oxide	[Ca]=O
@@ -10722,7 +10721,7 @@ BRL-54443	Oc3ccc1c(c(c[nH]1)C2CCN(C)CC2)c3
 Chlorophenylbiguanide	c1ccc(Cl)cc1NC(=N)NC(=N)N
 Purpurogallin	C1=CC(=O)C(=C2C(=C1)C=C(C(=C2O)O)O)O
 CY-208,243	c15c4[nH]cc5CC2C(c1ccc4)c3ccccc3CN2C
-Nitrogen monosulfide	[N+][S-]
+Sulfur mononitride	[N+][S-]
 Delta-Carotene	CC1=CCCC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C)C)C)(C)C
 Silver phosphate	[O-]P(=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 Glycine propionyl-L-carnitine	[NH3+]CC([O-])=O.CCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
@@ -16297,3 +16296,4 @@ Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=
 Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
 Bisphenol Z	C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
 Beta-Isophorone	CC1=CC(CC(=O)C1)(C)C
+Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
