@@ -238,6 +238,7 @@ Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Chloroform	ClC(Cl)Cl
 Paracetamol	CC(=O)Nc1ccc(O)cc1
+Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
 Cytidine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
@@ -16293,6 +16294,7 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
 Chromium(III) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
+Tulipalin A	C=C1CCOC1=O
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 1,2-Epoxybutane	CCC1CO1
 Prop-1-en-2-ol	CC(=C)O
