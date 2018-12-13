@@ -2196,7 +2196,8 @@ Fosphenytoin	O=C3N(C(=O)C(c1ccccc1)(c2ccccc2)N3)COP(=O)(O)O
 Piperacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)C(=O)N(CC)CC2)[C@H]4SC3(C)C
 Sitaxentan	Cc1cc2OCOc2cc1CC(=O)c3sccc3S(=O)(=O)Nc4onc(C)c4Cl
 Trazodone	Clc4cccc(N3CCN(CCCN1/N=C2/C=C\C=C/N2C1=O)CC3)c4
-Fluorescein isothiocyanate	S=C=Nc5cc1c(C(=O)OC13c4ccc(O)cc4Oc2cc(O)ccc23)cc5
+Fluorescein isothiocyanate	c1cc2c(cc1N=C=S)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
+Fluorescein isothiocyanate	c1cc2c(cc1N=C=S)C3(c4ccc(cc4Oc5c3ccc(c5)O)O)OC2=O
 Theanine	CCNC(=O)CC[C@H](N)C(=O)O
 Theanine	CCNC(=O)CCC(N)C(O)=O
 Pentene	CCCC=C
@@ -3972,6 +3973,7 @@ Lithium molybdate	[Li+].[Li+].[O-][Mo]([O-])(=O)=O
 Lithium oxide	[Li+].[Li+].[O-2]
 Lithium peroxide	[Li+].[Li+].[O-][O-]
 Barrelene	C\1=C\C\2/C=C\C/1/C=C/2
+Coumalic acid	C1=CC(=O)OC=C1C(=O)O
 Methyl vinyl ketone	CC(=O)C=C
 Palladium(II) oxide	[Pd+2].[O-2]
 Platinum(IV) chloride	[Pt+2].[Pt+2].[Cl-].[Cl-].[Cl-].[Cl-]
@@ -9467,7 +9469,7 @@ Thiomalic acid	C(C(C(=O)O)S)C(=O)O
 Monolinuron	Clc1ccc(NC(=O)N(OC)C)cc1
 Siamenoside I	C[C@H](CC[C@H](C(C)(C)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)[C@H]4CC[C@@]5([C@@]4(C[C@H]([C@@]6([C@@H]5CC=C7[C@H]6CC[C@@H](C7(C)C)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C)O)C)C
 Rhodizonic acid	C1(=C(C(=O)C(=O)C(=O)C1=O)O)O
-Ethyl glucuronide	CCO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O
+Ethyl glucuronide	CCOC1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O
 DCG-IV	[C@@H]1([C@@H](C1[C@@H](C(=O)O)N)C(=O)O)C(=O)O
 HYDIA	C1[C@H]2[C@@H]([C@H]2[C@@]([C@@H]1O)(C(=O)O)N)C(=O)O
 LY-379,268	C1[C@]([C@@H]2[C@H]([C@@H]2O1)C(=O)O)(C(=O)O)N
@@ -10340,7 +10342,6 @@ Gamfexine	c1ccccc1C(CCN(C)C)C2CCCCC2
 Ethylnorepinephrine	Oc1ccc(cc1O)C(O)C(N)CC
 Protokylol	O1c2ccc(cc2OC1)CC(NCC(O)c3ccc(O)c(O)c3)C
 Laudexium metilsulfate	C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)OC)OC)OC)CCCCCCCCCC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C=C6)OC)OC)OC)OC)C.COS(=O)(=O)[O-].COS(=O)(=O)[O-]
-Borole	C1=CC=CB1
 Xanthohumol	O=C(c1c(OC)cc(O)c(c1O)C/C=C(\C)C)\C=C\c2ccc(O)cc2
 Butein	C1=CC(=C(C=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O)O
 Okanin	C1=CC(=C(C=C1C=CC(=O)C2=C(C(=C(C=C2)O)O)O)O)O
