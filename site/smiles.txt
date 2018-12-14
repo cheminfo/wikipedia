@@ -238,7 +238,6 @@ Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Chloroform	ClC(Cl)Cl
 Paracetamol	CC(=O)Nc1ccc(O)cc1
-Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
 Cytidine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
@@ -3160,6 +3159,7 @@ Calcium propanoate	CCC(=O)[O-].CCC(=O)[O-].[Ca+2]
 Tetramethylsuccinonitrile	CC(C)(C#N)C(C)(C)C#N
 Acamprosate	[Ca+2].O=C(NCCCS(=O)(=O)[O-])C.[O-]S(=O)(=O)CCCNC(=O)C
 Seyferth–Gilbert homologation	O=P(OC)(OC)C(C(C)=O)=[N+]=[N-]
+Triton X-100	CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO
 Dichlorodiphenyldichloroethylene	Clc2ccc(\C(=C(/Cl)Cl)c1ccc(Cl)cc1)cc2
 Methidathion	O=C1SC(=N/N1CSP(=S)(OC)OC)\OC
 Methamidophos	O=P(OC)(SC)N
@@ -15805,6 +15805,7 @@ Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
+Dichlone	C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
 Folpet	C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
