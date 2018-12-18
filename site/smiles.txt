@@ -4268,6 +4268,7 @@ Hydroxymethylbilane	O=C(O)Cc1c(c[nH]c1Cc2c(c(c([nH]2)Cc3[nH]c(c(c3CCC(=O)O)CC(=O
 Perfluorohexane	FC(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F
 Metipranolol	O=C(Oc1c(c(c(OCC(O)CNC(C)C)cc1C)C)C)C
 Methylscopolamine bromide	OC[C@H](c1ccccc1)C(=O)O[C@H]2C[C@@H]3[N+](C)(C)[C@H](C2)[C@H]4O[C@@H]34
+Tetrasodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].O.[Na+].[Na+].[Na+].[Na+]
 Mometasone furoate	O=C(O[C@]2(C(=O)CCl)[C@H](C)C[C@H]3[C@@H]4CCC\1=C\C(=O)\C=C/[C@]/1(C)[C@@]4(Cl)[C@@H](O)C[C@]23C)c5occc5
 Mometasone	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)O)C)O)Cl)C
 Lomefloxacin	Fc1c(c(F)c2c(c1)C(=O)C(\C(=O)O)=C/N2CC)N3CC(NCC3)C
@@ -8028,7 +8029,7 @@ Astromicin	O=C(N(C)[C@@H]2[C@@H](OC)[C@@H](O)[C@H](N)[C@@H](O[C@H]1O[C@H]([C@@H]
 Micronomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H](C([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CNC)N)N)N)O
 TP-13	C5CCC5c3cc2nnc(-c4ccccc4)n2nc3OCc1ncnn1C
 TP-003	N#Cc4cc(F)ccc4-c1cc(ccc1F)-c2cnc3n2ccc(C(C)(O)C)c3F
-Disulfur	[S][S]
+Disulfur	[S]=[S]
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
 Isobromindione	c1ccc(cc1)C2C(=O)c3ccc(cc3C2=O)Br
