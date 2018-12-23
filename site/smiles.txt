@@ -3565,7 +3565,7 @@ Disopyramide	O=C(N)C(c1ncccc1)(c2ccccc2)CCN(C(C)C)C(C)C
 Aminorex	NC1=NCC(C2=CC=CC=C2)O1
 Vinpocetine	O=C(OCC)C=4n1c3c(c2ccccc12)CCN5[C@H]3[C@](C=4)(CCC5)CC
 Isomaltulose	O=C(CO)[C@@H](O)[C@H](O)[C@H](O)CO[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO
-Ammonia borane	[BH3][NH3]
+Ammonia borane	[BH3-][NH3+]
 4-Ethylphenol	Oc1ccc(cc1)CC
 Cyclobarbital	O=C1NC(=O)NC(=O)C1(/C2=C/CCCC2)CC
 Ethallobarbital	O=C1NC(=O)NC(=O)C1(CC)C\C=C
@@ -16381,4 +16381,6 @@ THBC-spiro	COC1=CC2=C(C=C1)NC3=C2CCNC34CCCCC4
 Methylhippuric acid	CC1=CC=CC=C1C(=O)NCC(=O)O
 Methylhippuric acid	CC1=CC=CC(=C1)C(=O)NCC(=O)O
 Methylhippuric acid	CC1=CC=C(C=C1)C(=O)NCC(=O)O
+Isodiazomethane	[C-]#[N+]N
 Mipafox	CC(C)NP(=O)(NC(C)C)F
+Rostafuroxin	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@]4(C5=COC=C5)O)O)C)O
