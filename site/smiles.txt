@@ -5702,6 +5702,7 @@ Rhenium pentachloride	Cl[Re](Cl)(Cl)(Cl)Cl
 Prostaglandin H2	O=C(O)CCC/C=C\C[C@H]2[C@H]1OO[C@H](C1)[C@@H]2/C=C/[C@@H](O)CCCCC
 Arachidonic acid 5-hydroperoxide	O=C(O)CCCC(OO)/C=C/C=C\C\C=C/C\C=C/CCCCC
 Ruthenocene	[cH-]1cccc1.[cH-]1cccc1.[Ru+2]
+CA19-9	O=C(O)[C@@]1(O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O[C@H]3[C@H](O[C@H]4[C@@H](O)[C@H](O)[C@H](O)[C@H](C)O4)[C@@H](CO)OC(O)[C@@H]3NC(C)=O)[C@@H]2O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O1
 Uridine diphosphate glucuronic acid	O[C@@H]1[C@@H](O)[C@H](O[C@@H]([C@H]1O)C(O)=O)O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)[N]3C=C[C](=O)[NH][C]3=O
 Uridine diphosphate galactose	[H]OC([H])([H])[C@]1([H])O[C@]([H])(O[P@@](=O)(O[H])O[P@](=O)(O[H])OC([H])([H])[C@]2([H])O[C@@]([H])(N3C([H])=C([H])C(=O)N([H])C3=O)[C@]([H])(O[H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@]([H])(O[H])[C@@]1([H])O[H]
 Galactose 1-phosphate	O=P(O)(O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO)O
@@ -10846,7 +10847,6 @@ Eckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C=C(C=C4O3)O)O)O)O)O
 Chlorophyll f	[H]C(=O)c1c(C=C)c2\C=C3/N=C(C=c4c(C)c5C(=O)[C@H](C(=O)OC)C6=c5n4[Mg]n2c1\C=C1/N=C6[C@@H](CCC(=O)OC\C=C(/C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)[C@@H]1C)C(CC)=C/3C
 Terflavin B	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)O)O)O)OC(=O)C3=CC(=C(C(=C3C4=C(C(=C5C6=C4C(=O)OC7=C6C(=CC(=C7O)O)C(=O)O5)O)O)O)O)O
 Hexahydroxydiphenic acid	O=C(O)c2cc(O)c(O)c(O)c2c1c(O)c(O)c(O)cc1C(=O)O
-Sialyl-Lewis A	O=C(O)[C@@]1(O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O[C@H]3[C@H](O[C@H]4[C@@H](O)[C@H](O)[C@H](O)[C@H](C)O4)[C@@H](CO)OC(O)[C@@H]3NC(C)=O)[C@@H]2O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O1
 Cefoselis	CO/N=C(\C1=CSC(=N1)N)/C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=C(N4CCO)N)C(=O)[O-]
 Cefluprenam	O=C2N1/C(=C(/C=C/C[N+](CC(=O)N)(CC)C)CS[C@@H]1[C@@H]2NC(=O)C(=N\OCF)/c3nc(sn3)N)C([O-])=O
 Cefclidin	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sn3)N)C[N+]45CCC(C(=O)N)(CC4)CC5)C([O-])=O
@@ -16384,3 +16384,9 @@ Methylhippuric acid	CC1=CC=C(C=C1)C(=O)NCC(=O)O
 Isodiazomethane	[C-]#[N+]N
 Mipafox	CC(C)NP(=O)(NC(C)C)F
 Rostafuroxin	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@]4(C5=COC=C5)O)O)C)O
+5α-Dihydrocortisol	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
+5α-Dihydroaldosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C=O)O
+Phenylmercuric nitrate	C1=CC=C(C=C1)[Hg]O[N+](=O)[O-]
+Collidinic acid	C1=C(C=C(N=C1C(=O)O)C(=O)O)C(=O)O
+Berberonic acid	C1=C(C(=CN=C1C(=O)O)C(=O)O)C(=O)O
+Dinicotinic acid	C1=C(C=NC=C1C(=O)O)C(=O)O
