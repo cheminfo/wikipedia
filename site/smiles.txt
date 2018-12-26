@@ -16390,3 +16390,7 @@ Phenylmercuric nitrate	C1=CC=C(C=C1)[Hg]O[N+](=O)[O-]
 Collidinic acid	C1=C(C=C(N=C1C(=O)O)C(=O)O)C(=O)O
 Berberonic acid	C1=C(C(=CN=C1C(=O)O)C(=O)O)C(=O)O
 Dinicotinic acid	C1=C(C=NC=C1C(=O)O)C(=O)O
+Potassium tellurite	[O-][Te](=O)[O-].[K+].[K+]
+RU-56187	CC1(C(=O)N(C(=S)N1C)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
+RU-57073	CC1(C(=O)N(C(=S)N1CCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
+Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
