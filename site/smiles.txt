@@ -16383,6 +16383,7 @@ Methylhippuric acid	CC1=CC=CC(=C1)C(=O)NCC(=O)O
 Methylhippuric acid	CC1=CC=C(C=C1)C(=O)NCC(=O)O
 Isodiazomethane	[C-]#[N+]N
 Mipafox	CC(C)NP(=O)(NC(C)C)F
+Tetrakis(dimethylamino)ethylene	CN(C)C(=C(N(C)C)N(C)C)N(C)C
 Rostafuroxin	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@]4(C5=COC=C5)O)O)C)O
 5α-Dihydrocortisol	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
 5α-Dihydroaldosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C=O)O
@@ -16395,3 +16396,4 @@ RU-56187	CC1(C(=O)N(C(=S)N1C)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Lutidinic acid	C1=CN=C(C=C1C(=O)O)C(=O)O
 RU-57073	CC1(C(=O)N(C(=S)N1CCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
+SN 35210	Clc1ccccc1C2(NCCCCC(=O)OC)CCCCC2=O
