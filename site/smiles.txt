@@ -2131,6 +2131,7 @@ Cycloleucine	O=C(O)C1(N)CCCC1
 Rubidium hydroxide	[Rb+].[OH-]
 Diisobutylaluminium hydride	CC(C)C[AlH]CC(C)C
 Phosphorus pentoxide	O=P13OP2(=O)OP(=O)(O1)OP(=O)(O2)O3
+Phosphorus pentoxide	P12(=O)OP3(=O)OP4(=O)OP5(=O)OP6(=O)OP(=O)(O1)OP7(=O)OP(=O)OP(=O)OP(=O)(O2)OP(=O)OP(=O)OP(=O)(O3)OP(=O)OP(=O)OP(=O)(O4)OP(=O)OP(=O)OP(=O)(O5)OP(=O)OP(=O)OP(=O)(O6)OP(=O)OP(=O)(O7)O
 Azobisisobutyronitrile	CC(C)(C#N)/N=N/C(C)(C)C#N
 Lutein	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C
 Tazarotene	O=C(OCC)c1ccc(nc1)C#Cc3ccc2SCCC(c2c3)(C)C
@@ -2736,7 +2737,6 @@ Copper(II) acetate	[Cu+2].[O-]C(=O)C.[O-]C(=O)C
 Endosulfan	Cl[C@@]3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@H]2[C@@H2]OS(=O)O[C@@H2][C@H]12
 Triacetin	CC(=O)OC(COC(=O)C)COC(C)=O
 Calcium acetate	[Ca+2].[O-]C(=O)C.[O-]C(=O)C
-Chromium(II) acetate	CC(=O)[O-].CC(=O)[O-].O.[Cr+2].[Cr+2].O.CC(=O)[O-].CC(=O)[O-]
 Metamizole	c1ccccc1N2N(C)C(C)=C(C2=O)N(C)CS(=O)(=O)O
 Butyl acetate	CCCCOC(=O)C
 Rhodamine B	CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-]
@@ -10578,6 +10578,7 @@ Beta-Lysine	C(CC(CC(=O)O)N)CN
 3-Deoxyglucosone	O=C(C=O)C[C@H](O)[C@H](O)CO
 3-Deoxyglucosone	C(C(C(CO)O)O)C(=O)C=O
 Iron tetracarbonyl hydride	[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[Fe]
+Triphenylmethyl hexafluorophosphate	c1ccc(cc1)[C+](c1ccccc1)c1ccccc1.F[P-](F)(F)(F)(F)F
 Isobenzan	ClC1C2C3(Cl)C(Cl)=C(Cl)C(C3(Cl)Cl)(Cl)C2C(Cl)O1
 Lithium tetrakis(pentafluorophenyl)borate	[Li+].Fc1c(c(F)c(F)c(F)c1F)[B-](c2c(F)c(F)c(F)c(F)c2F)(c3c(F)c(F)c(F)c(F)c3F)c4c(F)c(F)c(F)c(F)c4F
 Allyl acetate	C=CCOC(C)=O
@@ -16400,4 +16401,5 @@ RU-57073	CC1(C(=O)N(C(=S)N1CCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 SN 35210	Clc1ccccc1C2(NCCCCC(=O)OC)CCCCC2=O
 Tris(o-tolyl)phosphine	CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C
-EA-3966	CN(C)C(=O)OC1C(=NC=CC=1)C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C.[Br-].[Br-]
+EA-3966	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C
+Triphosphono phosphate	OP(=O)(O)OP(=O)(OP(=O)(O)O)OP(=O)(O)O
