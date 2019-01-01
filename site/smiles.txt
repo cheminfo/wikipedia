@@ -16083,6 +16083,7 @@ Kanamienamide	CCC(=CC(=O)N(C)C=CCCCC1CCC(CC(C(=O)N(C(C(=O)O1)CC(C)C)C)C)C)OC
 Diacetyl monoxime	CC(=NO)C(=O)C
 2-Diphenylphosphinobenzoic acid	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C(=O)O
 Nitroxinil	C1=C(C=C(C(=C1[N+](=O)[O-])O)I)C#N
+RB-3007	C[C@H](NC(=O)[C@H](CC1=CC=C(C=C1)C1=CC=CC=C1)CP(=O)(OCCSC(C)=O)[C@@H](N)C1=CC=CC=C1)C(=O)OCC1=CC=CC=C1
 TBPS	CC(C)(C)C12COP(=S)(OC1)OC2
 IPTBO	CC(C)C12COP(=O)(OC1)OC2
 Lithium diphenylphosphide	[Li+].C1=CC=C(C=C1)[P-]C2=CC=CC=C2
@@ -16402,4 +16403,8 @@ Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 SN 35210	Clc1ccccc1C2(NCCCCC(=O)OC)CCCCC2=O
 Tris(o-tolyl)phosphine	CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C
 EA-3966	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C
+4,4′-(Hexafluoroisopropylidene)diphthalic anhydride	C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O
 Triphosphono phosphate	OP(=O)(O)OP(=O)(OP(=O)(O)O)OP(=O)(O)O
+Gestonorone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)OC(=O)C
+Methanedithiol	SCS
+Pentahydroxybenzene	C1=C(C(=C(C(=C1O)O)O)O)O
