@@ -1457,6 +1457,7 @@ Aminopterin	O=C(O)C(NC(=O)c1ccc(cc1)NCc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
 Hafnium diboride	B\1=B\[Hf]/1
 HT-0712	O=C3NC[C@H](c2cc(OC1CCCC1)c(OC)cc2)C[C@H]3Cc4cccc(c4)C
 Aluminium chloride	Cl[Al](Cl)Cl
+Aluminium chloride	Cl[Al-]1(Cl)[Cl+][Al-]([Cl+]1)(Cl)Cl
 Mepacrine	CCN(CC)CCCC(C)Nc1c2ccc(cc2nc3c1cc(cc3)OC)Cl
 Dibenzo-1,4-dioxin	O1c3c(Oc2c1cccc2)cccc3
 Eugenol	Oc1ccc(cc1OC)CC=C
@@ -16371,7 +16372,6 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 (2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
-Chromium(III) acetate	[Cr+2].[O-]C(=O)C.[O-]C(=O)C
 Tulipalin A	C=C1CCOC1=O
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 1,2-Epoxybutane	CCC1CO1
