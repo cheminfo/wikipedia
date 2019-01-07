@@ -2519,6 +2519,7 @@ Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
+Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
 Thulium(III) oxide	[O-2].[O-2].[O-2].[Tm+3].[Tm+3]
 Amisulpride	O=S(=O)(c1cc(c(OC)cc1N)C(=O)NCC2N(CC)CCC2)CC
@@ -13941,6 +13942,7 @@ Coeloginin	c4c1CCc3c2c1c(cc4O)oc(=O)c2c(O)c(OC)c3OC
 Juncusol	CC1=C(C=CC2=C1CCC3=CC(=C(C(=C32)C=C)C)O)O
 Coeloginanthrin	Oc3cc(O)c2c1c(c(OC)c(OC)c(O)c1)ccc2c3
 Alcohol (drug)	CCO
+Lanthanum aluminate	O=[Al]O[La]=O
 Confusarin	COc3c2c(ccc1c(OC)c(O)ccc12)cc(O)c3OC
 Benzamidenafil	COC1=C(OC)C=C(CNC(=O)C2=CC(=CC=C2NC(C)CO)[N+]([O-])=O)C=C1
 Iminosuccinic acid	C(C(=N)C(=O)O)C(=O)O
@@ -16431,3 +16433,5 @@ Methanedithiol	SCS
 Pentahydroxybenzene	C1=C(C(=C(C(=C1O)O)O)O)O
 Methyl pyruvate	CC(=O)C(=O)OC
 SN-22	CN1CCC(CC1)c1c[nH]c2c1cccc2
+Choline m-bromophenyl ether	C[N+](C)(C)CCOc1cccc(c1)Br
+Isoflurothyl	COC(C(F)(F)F)C(F)(F)F
