@@ -8120,7 +8120,7 @@ Fluvalinate	CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F
 Coumaphos	S=P(OCC)(OCC)Oc2ccc\1c(OC(=O)C(/Cl)=C/1C)c2
 Metisazone	CN1C2=CC=CC=C2C(=NNC(=S)N)C1=O
 Hexaphenylbenzene	c1cc(ccc1)c3c(c(c(c(c3c2ccccc2)c4ccccc4)c5ccccc5)c6ccccc6)c7ccccc7
-NEFA (drug)	CCNC12CC=CCC1CC3=CC=CC=C23
+NEFA (drug)	CCN[C@]12CC=CC[C@H]1CC3=CC=CC=C23
 Benzthiazide	O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)/N=C(\N2)CSCc3ccccc3)N
 8A-PDHQ	C1([C@]23CCCC[C@H]2CCCN3)=CC=CC=C1
 Cerium(III) bromide	[Ce+3].[Br-].[Br-].[Br-]
@@ -10266,7 +10266,7 @@ Acotiamide	O=C(Nc1nc(C(=O)NCCN(C(C)C)C(C)C)cs1)c2cc(OC)c(OC)cc2O
 Alinidine	Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
 6-Fluoro-DMT	CN(CCC1=CNC2=C1C=CC(F)=C2)C
 2-(Dicyanomethylene)croconate	C(#N)C(=C1C(=O)C(=C(C1=O)[O-])[O-])C#N
-3-Ethylpentan-3-ol	OC(CC)(CC)CC
+3-Ethyl-3-pentanol	OC(CC)(CC)CC
 Jatrorrhizine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC
 BDTH2	O=C(NCCS)c1cccc(c1)C(=O)NCCS
 Corilagin	c1c(cc(c(c1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)c3cc(c(c(c3)O)O)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O
@@ -15214,7 +15214,7 @@ Difluorodisulfanedifluoride	S(SF)(F)(F)F
 Trenbolone hexahydrobenzylcarbonate	C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)OCC5CCCCC5
 Trifluoramine oxide	[N+]([O-])(F)(F)F
 Tricarbon monoxide	[C-]#CC#[O+]
-AP-237	CCCC(=O)N1CCN(CC1)C/C=C/C2=CC=CC=C2
+Bucinnazine	CCCC(=O)N1CCN(CC1)C/C=C/C2=CC=CC=C2
 Endoxifen	CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3
 Testosterone (medication)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Potassium thioacetate	CC(=S)[O-].[K+]
