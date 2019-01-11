@@ -5159,7 +5159,7 @@ Aprobarbital	O=C1NC(=O)NC(=O)C1(C(C)C)C\C=C
 Chlorphentermine	Clc1ccc(cc1)CC(N)(C)C
 Nicomorphine	O=C(O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OC(=O)c3cccnc3)ccc4C5)C)c7cccnc7
 Nicocodeine	O=C(O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C)c6cccnc6
-Nicodicodine	O=C(O[C@@H]4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C)c6cccnc6
+Nicodicodine	CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(CC4)OC(=O)C6=CN=CC=C6
 Acetyldihydrocodeine	O=C(O[C@@H]4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C)C
 Diacetyldihydromorphine	O=C(O[C@@H]4[C@@H]5Oc1c2c(ccc1OC(=O)C)C[C@H]3N(CC[C@]25[C@H]3CC4)C)C
 Dipropanoylmorphine	CCC(=O)c3c1C[C@H]4N(C)CC[C@@]25[C@@H](Oc(c12)c(O)c3C(=O)CC)[C@@H](O)\C=C/[C@@H]45
@@ -7929,7 +7929,6 @@ Perzinfotel	C1CNC2=C(C(=O)C2=O)N(C1)CCP(=O)(O)O
 Amosulalol	CC1=C(C=C(C=C1)C(CNCCOC2=CC=CC=C2OC)O)S(=O)(=O)N
 Itopride	CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C=C2)OC)OC
 Piroheptine	CCN1CCC(=C2C3=CC=CC=C3CCC4=CC=CC=C42)C1C
-Tranilast	COC1=C(C=C(C=C1)C=CC(=O)NC2=CC=CC=C2C(=O)O)OC
 EA-3167	C1CCC(C1)C(C2=CC=CC=C2)(C(=O)OC3CN4CCC3CC4)O
 Vesnarinone	COC1=C(C=C(C=C1)C(=O)N2CCN(CC2)C3=CC4=C(C=C3)NC(=O)CC4)OC
 Mozavaptan	Cc1ccccc1C(=O)Nc2ccc(cc2)C(=O)N3c4ccccc4C(CCC3)N(C)C
@@ -16438,3 +16437,4 @@ SN-22	CN1CCC(CC1)c1c[nH]c2c1cccc2
 Choline m-bromophenyl ether	C[N+](C)(C)CCOc1cccc(c1)Br
 Isoflurothyl	COC(C(F)(F)F)C(F)(F)F
 Armine (chemical)	CCOP(=O)(CC)Oc1ccc(cc1)[N+](=O)[O-]
+Molybdenum oxytetrachloride	[O-2].[Cl-].[Cl-].[Cl-].[Cl-].[Mo]
