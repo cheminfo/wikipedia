@@ -1901,6 +1901,7 @@ Phosphorus triiodide	IP(I)I
 Brilliant Blue FCF	CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+]
 P-Toluic acid	O=C(O)c1ccc(cc1)C
 Arsanilic acid	O=[As](O)(O)c1ccc(N)cc1
+Arsanilic acid	O=[As]([O-])(O)c1ccc([NH3+])cc1
 Proflavine	n1c3c(cc2c1cc(N)cc2)ccc(c3)N
 Homoserine	O=C(O)C(N)CCO
 Hydrogen iodide	I
@@ -3327,7 +3328,7 @@ Almotriptan	CN(C)CCc2c[nH]c3ccc(CS(=O)(=O)N1CCCC1)cc23
 Eletriptan	CN1CCC[C@@H]1Cc3c[nH]c4ccc(CCS(=O)(=O)c2ccccc2)cc34
 Norbornane	C1CC2CCC1C2
 Tangeretin	O=C2C1=C(OC)C(OC)=C(OC)C(OC)=C1OC(C3=CC=C(OC)C=C3)=C2
-Boron trichloride	[BH6+3].[Cl-].[Cl-].[Cl-]
+Boron trichloride	ClB(Cl)Cl
 D-DOPA	O=C(O)[C@H](N)Cc1cc(O)c(O)cc1
 2-Pyrrolidone	O=C1NCCC1
 Androstenediol	O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@@]2([C@@H](O)CC[C@@H]12)C)[C@@]3(C)CC4
@@ -14120,6 +14121,7 @@ Gamma-Hydroxybutyraldehyde	C(CC=O)CO
 Trans-4,5-Epoxy-(E)-2-decenal	CCCCCC1OC1\C=C\C=O
 Lanierone	CC1=CC(C=C(C1=O)O)(C)C
 Disodium 4,4'-dinitrostilbene-2,2'-disulfonate	c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)[O-])/C=C/c2ccc(cc2S(=O)(=O)[O-])[N+](=O)[O-].[Na+].[Na+]
+Cyclooctatetraenide anion	c1=c[cH-]c=c[cH-]c=c1
 2-Octyne	CC#CCCCCC
 Americium(III) fluoride	F[Am](F)F
 Americium(III) bromide	[Br-].[Br-].[Br-].[Am]
