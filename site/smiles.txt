@@ -2375,6 +2375,7 @@ Dihydroactinidiolide	O=C\1O[C@]2(/C(=C/1)C(CCC2)(C)C)C
 Anserine	O=C(O)[C@@H](NC(=O)CCN)Cc1cncn1C
 Chromium(III) oxide	O=[Cr]O[Cr]=O
 Aluminium bromide	Br[Al](Br)Br
+Aluminium bromide	Br[Al-]1(Br)[Br+][Al-]([Br+]1)(Br)Br
 Platinum hexafluoride	F[Pt-4](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
@@ -3015,7 +3016,6 @@ Aluminium arsenide	[Al]#[As]
 Lanosterol	C[C@H](CCC=C(C)C)[C@H]1CC[C@]2(C)C1CCC3=C2CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C
 Aluminium isopropoxide	CC(C)[O-].CC(C)[O-].CC(C)[O-].[Al+3]
 5-MeO-AET	CCC(N)Cc2c[nH]c1ccc(cc12)OC
-Aluminium monofluoride	F[Al](F)F
 Aluminium monofluoride	F[Al]
 Ethylisopropyltryptamine	CCN(C(C)C)CCc1c[nH]c2ccccc12
 2,4,5-Trimethoxyphenethylamine	O(c1cc(c(OC)cc1OC)CCN)C
@@ -3853,7 +3853,9 @@ Silicon tetrafluoride	F[Si](F)(F)F
 Tetrazolium chloride	[Cl-].c4ccc(c3nn(c1ccccc1)[n+](c2ccccc2)n3)cc4
 Silver acetate	CC(=O)[O-].[Ag+]
 Aluminium fluoride	F[Al](F)F
+Aluminium fluoride	F[Al](F[Al]0(F)(F)(F)F)(F[Al]1(F)(F)(F)F)(F[Al]2(F)(F)(F)F)(F[Al]3(F)(F)(F)F)F[Al](F[Al](F[Al]4(F)(F)(F)F)(F[Al]5(F)(F)(F)F)(F[Al]6(F)(F)(F)F)(F0)F)(F[Al](F[Al]7(F)(F)(F)F)(F[Al]8(F)(F)(F)F)(F1)(F4)F)(F[Al](F[Al]9(F)(F)(F)F)(F[Al]0(F)(F)(F)F)(F5)(F7)F)(F[Al](F[Al]1(F)(F)(F)F)(F2)(F8)(F9)F)F[Al](F3)(F6)(F0)(F1)F
 Aluminium iodide	I[Al](I)I
+Aluminium iodide	I[Al-]1(I)[I+][Al-]([I+]1)(I)I
 Aluminium phosphate	O=P12O[Al](O1)O2
 Aluminium phosphate	[Al+3].[O-]P([O-])([O-])=O
 Aluminium sulfide	[Al+3].[Al+3].[S-2].[S-2].[S-2]
@@ -5421,6 +5423,8 @@ Isocitric acid	O=C(O)C(CC(=O)O)C(O)C(=O)O
 Oxalosuccinic acid	C(C(C(=O)C(=O)O)C(=O)O)C(=O)O
 Cyclopropylmescaline	COc2cc(cc(OC)c2OCC1CC1)CCN
 Beryllium chloride	[Be+2].[Cl-].[Cl-]
+Beryllium chloride	Cl[Be]Cl
+Beryllium chloride	Cl[Be-2](Cl)([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1(Cl)Cl
 Cediranib	COc4cc3c(Oc2ccc1[nH]c(C)cc1c2F)ncnc3cc4OCCCN5CCCC5
 Thiobarbituric acid	O=C(NC(N1)=S)CC1=O
 Isoindole	c1cccc2c1c[nH]c2
@@ -6920,8 +6924,8 @@ Magnesium iodide	[Mg+2].[I-].[I-]
 Strontium iodide	[Sr+2].[I-].[I-]
 Mephedrone	CC1=CC=C(C(C(NC)C)=O)C=C1
 Phthalimidopropiophenone	CC(C(=O)c1ccccc1)N2C(=O)c3ccccc3C2=O
-Beryllium bromide	[Be+2].[Br-].[Br-]
-Beryllium iodide	[Be+2].[I-].[I-]
+Beryllium bromide	Br[Be-2](Br)([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1([Br+]1)[Br+][Be-2]1(Br)Br
+Beryllium iodide	I[Be-2](I)([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1([I+]1)[I+][Be-2]1(I)I
 Bibrocathol	O[Bi]1Oc2c(Br)c(Br)c(Br)c(Br)c2O1
 Hexachlorocyclohexa-2,5-dien-1-one	ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C(Cl)C1=O
 1,4-Cyclohexanedione	C1CC(=O)CCC1=O
@@ -16457,3 +16461,5 @@ Rabacfosadine	CCOC(=O)[C@H](C)NP(=O)(COCCN1C=NC2=C1N=C(N=C2NC3CC3)N)N[C@@H](C)C(
 Tetrahydrofurfuryl alcohol	C1CC(OC1)CO
 GD-42	CCOP(=O)(C)SCC[S+](C)CC.COS(=O)(=O)[O-]
 Revefenacin	CN(CCN1CCC(CC1)OC(=O)NC2=CC=CC=C2C3=CC=CC=C3)C(=O)C4=CC=C(C=C4)CN5CCC(CC5)C(=O)N
+Iridium disulfide	[S].[S].[Ir]
+Tetracyanomethane	C(#N)C(C#N)(C#N)C#N
