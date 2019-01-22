@@ -12895,6 +12895,7 @@ Methyl gallate	COC(=O)C1=CC(=C(C(=C1)O)O)O
 Geranin A	Oc4cc3OC(C2O)(c(cc6)ccc6O)Oc5cc(O)cc(O)c5C2c3c(c4CC1O)OC1c(cc7)ccc7O
 3-Hexanone	O=C(CC)CCC
 Epimerox	Clc1ccc(cc1Cl)-c(cc4)oc4\C=C(/C2=O)\NC(=S)N2C(C(O)=O)Cc3ccccc3
+Potassium osmate	[K+].[K+].[O-][Os](O)(O)(O)(O)[O-]
 Flumethrin	ClC(=CC3C(C(=O)OC(C#N)c2ccc(F)c(Oc1ccccc1)c2)C3(C)C)c4ccc(Cl)cc4
 Isocupressic acid	O=C(O)[C@]1(CCC[C@@]2([C@H](/C(=C)CC[C@@H]12)CCC(=C/CO)/C)C)C
 Hexylamine	CCCCCCN
@@ -13162,7 +13163,7 @@ Alnetin	O=C\1c3c(O/C(=C/1)c2ccccc2)c(OC)c(OC)c(OC)c3O
 Linderone	COC1=C(C(=O)C(=C(/C=C/c2ccccc2)O)C1=O)OC
 Methyllinderone	COC1=C(C(=O)C(=C(/C=C/C2=CC=CC=C2)OC)C1=O)OC
 Hispidulin	COc1c(O)cc2oc(cc(=O)c2c1O)-c1ccc(O)cc1
-Lithium aspartate	[H+].[Li+].C([C@@H](C(=O)[O-])N)C(=O)[O-]
+Lithium aspartate	[Li+].N[C@@H](CC(O)=O)C([O-])=O
 Cynaropicrin	C=C1C[C@@H]([C@@H]2[C@@H]([C@@H]3[C@H]1C[C@@H](C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO
 5'-Methoxyhydnocarpin	COC1=CC(=CC2=C1O[C@@H]([C@H](O2)C3=CC(=C(C=C3)O)OC)CO)C4=CC(=O)C5=C(C=C(C=C5O4)O)O
 Norbadione A	O=C(O)C(\c1ccc(O)cc1)=C7\OC(\O)=C(\c2cc(O)c4OC(=O)c3cc(cc2c34)\C6=C(/O)O\C(=C(/c5ccc(O)cc5)C(=O)O)C6=O)C7=O
