@@ -5985,7 +5985,7 @@ Nifuroxazide	c1cc(O)ccc1C(=O)N/N=C/c2ccc(o2)[N+](=O)[O-]
 Iodoacetic acid	C(C(=O)O)I
 Maslinic acid	CC1(C)[C@@H](O)[C@H](O)C[C@@]2(C)[C@]([H])1CC[C@]3(C)[C@@]([H])2CC=C4[C@](C)3CC[C@]5([C@](O)=O)[C@]([H])4CC(C)(C)CC5
 Methylmagnesium chloride	[Cl-].[Mg+]C
-Otera's catalyst	CCCC[Sn]1([N](=C=S)[Sn]2(O1[Sn]3(O2[Sn]([N]3=C=S)(CCCC)(CCCC)C=C=S)(CCCC)CCCC)(CCCC)CCCC)(CCCC)C=C=S
+Otera's catalyst	CCCC[Sn]1(N(=C=S)[Sn]2(O1[Sn]3(O2[Sn](N3=C=S)(CCCC)(CCCC)N=C=S)(CCCC)CCCC)(CCCC)CCCC)(CCCC)N=C=S
 Periplanone B	O=C2[C@]1(OC1)[C@@H]3O[C@@H]3CC(\C=C\[C@H](C(C)C)C2)=C
 Acetyl iodide	CC(I)=O
 Mafosfamide	O=P1(N[C@@H](CCO1)SCCS(O)(=O)=O)N(CCCl)CCCl
@@ -14677,6 +14677,7 @@ Belladonnine	CN1C2CCC1CC(C2)OC(=O)[C@H]3CC[C@@](C4=CC=CC=C34)(C5=CC=CC=C5)C(=O)O
 Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 4'-Fluoro-α-pyrrolidinooctanophenone	FC1=CC=C(C=C1)C(C(CCCCCC)N2CCCC2)=O
 4'-Fluoro-α-pyrrolidinopentiophenone	FC1=CC=C(C=C1)C(C(CCC)N2CCCC2)=O
+1,5-Methano(10)annulene	c1cc2cccccc(c1)C2
 Finerenone	NC(=O)C1=C(C)Nc2c(C)cnc(OCC)c2[C@@H]1c3ccc(C#N)cc3OC
 DPHP	CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC
 Tebufenpyrad	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl
@@ -16464,3 +16465,4 @@ GD-42	CCOP(=O)(C)SCC[S+](C)CC.COS(=O)(=O)[O-]
 Revefenacin	CN(CCN1CCC(CC1)OC(=O)NC2=CC=CC=C2C3=CC=CC=C3)C(=O)C4=CC=C(C=C4)CN5CCC(CC5)C(=O)N
 Iridium disulfide	[S].[S].[Ir]
 Tetracyanomethane	C(#N)C(C#N)(C#N)C#N
+Isodiazene	[NH2+]=[N-]
