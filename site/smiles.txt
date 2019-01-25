@@ -268,7 +268,6 @@ Deoxyuridine	O=C/1NC(=O)N(\C=C\1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
 Acetaldehyde	O=CC
 Thymidine	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)CO)O
 Methyl radical	[CH3]
-Adenosine diphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
 Adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 5-Methylcytosine	Cc1cnc(=O)[nH]c1N
 Ornithine	O=C(O)[C@@H](N)CCCN
@@ -2222,7 +2221,7 @@ Aminophylline	Cn2c(=O)c1nc[nH]c1n(C)c2=O.Cn2c(=O)c1nc[nH]c1n(C)c2=O.NCCN
 Stilbestrol	C1=CC(=CC=C1C=CC2=CC=C(C=C2)O)O
 Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 1,2,4-Trihydroxyanthraquinone	O=C2c1ccccc1C(=O)c3c2c(O)cc(O)c3O
-Borazine	B1NBNBN1
+Borazine	[BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1
 Potassium peroxymonosulfate	[K+].[O-]S(=O)(=O)OO
 Ozonide	[O-]O[O]
 Ozonide	[O-][O+][O-]
