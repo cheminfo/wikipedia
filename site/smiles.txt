@@ -268,6 +268,7 @@ Deoxyuridine	O=C/1NC(=O)N(\C=C\1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
 Acetaldehyde	O=CC
 Thymidine	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)CO)O
 Methyl radical	[CH3]
+Adenosine diphosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
 Adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
 5-Methylcytosine	Cc1cnc(=O)[nH]c1N
 Ornithine	O=C(O)[C@@H](N)CCCN
@@ -6481,6 +6482,8 @@ Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C
 Disodium octaborate tetrahydrate	B(=O)OB1OB2OB(OB(OB(O2)OB(O1)OB=O)[O-])[O-].O.O.O.O.[Na+].[Na+]
 Gadolinium(III) nitrate	[Gd+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Bixin	O=C(O)\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(/C=C/C(=O)OC)C)C)C)C
+Capsanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C(=O)[C@@]2(C[C@H](CC2(C)C)O)C)/C)/C
+Capsorubin	C/C(=C\C=C\C=C(\C=C\C=C(\C=C\C(=O)[C@]1(C(C[C@@H](C1)O)(C)C)C)/C)/C)/C=C/C=C(/C=C/C(=O)[C@]2(C(C[C@@H](C2)O)(C)C)C)\C
 Medetomidine	n1cc([nH]c1)C(c2c(c(ccc2)C)C)C
 Dimaprit	CN(C)CCCSC(=N)N
 1,4,6-Androstatriene-3,17-dione	O=C\4\C=C/[C@]3(C(/C=C\[C@H]2[C@H]1[C@@](C(=O)CC1)(CC[C@@H]23)C)=C/4)C
