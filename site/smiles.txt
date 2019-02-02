@@ -5303,7 +5303,7 @@ N-Butylamine	CCCCN
 Cholesteryl nonanoate	O=C(O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4)CCCCCCCC
 Quinuclidine	N12CCC(CC1)CC2
 Barium chlorate	[Ba+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
-Bromoanisole	COc1ccc(cc1)Br
+4-Bromoanisole	COc1ccc(cc1)Br
 1,2,4-Trichlorobenzene	Clc1ccc(Cl)c(Cl)c1
 Lysophosphatidic acid	CCCCCCCC\C=C/CCCCCCCC(=O)OCC(COP(=O)(O)O)O
 Pentoxyverine	O=C(OCCOCCN(CC)CC)C2(c1ccccc1)CCCC2
@@ -15698,6 +15698,7 @@ Dicarbonyl(acetylacetonato)rhodium(I)	CC(=CC(=O)C)O.[C-]#[O+].[C-]#[O+].[Rh]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
+1,2-Butadiene	CC=C=C
 1,4-Diazacycloheptane	C1CNCCNC1
 1,5-Dithiacyclooctane	C1CSCCCSC1
 Methaniazide	C1=CN=CC=C1C(=O)NNCS(=O)(=O)O
@@ -16482,3 +16483,4 @@ Iridium disulfide	[S].[S].[Ir]
 Tetracyanomethane	C(#N)C(C#N)(C#N)C#N
 Isodiazene	[NH2+]=[N-]
 Methylfluorophosphonylcholine	C[N+](C)(C)CCOP(=O)(C)F
+Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
