@@ -655,7 +655,7 @@ Magnesium diboride	[B].[B].[Mg]
 Bromothymol blue	Brc1c(O)c(cc(c1C)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4C)C(C)C)C(C)C
 Salbutamol	OCc1cc(ccc1O)C(O)CNC(C)(C)C
 5-MeO-DMT	COc2ccc1[nH]cc(CCN(C)C)c1c2
-1,3-Butadiene	C=CC=C
+Butadiene	C=CC=C
 Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
 Triiodothyronine	c1cc(c(cc1Oc2c(cc(cc2I)C[C@@H](C(=O)O)N)I)I)O
 Gallium nitride	[Ga]#N
@@ -1849,6 +1849,8 @@ Platelet-activating factor	CCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)O
 Biliverdin	CC\1=C(/C(=C/C2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)/N/C1=C\C4=NC(=O)C(=C4C)C=C)CCC(=O)O
 Stibine	[Sb]
 Decalin	C1CCC2CCCCC2C1
+Decalin	C1CC[C@H]2CCCC[C@H]2C1
+Decalin	C1CC[C@H]2CCCC[C@@H]2C1
 Raffinose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O)O)O)O
 Efavirenz	FC(F)([C@]1(OC(NC2=CC=C(C=C21)Cl)=O)C#CC3CC3)F
 Ciclopirox	O=C1/C=C(\C=C(/N1O)C2CCCCC2)C
@@ -3767,7 +3769,7 @@ Coprostanol	O[C@H]4CC[C@]3([C@H](CC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]23)[C@
 Ethylone	CC(NCC)C(=O)c1ccc2OCOc2c1
 Artemisin	C=1C(=O)C(C)=C2[C@@](C1)(C[C@@H]([C@H]1[C@@H](C(O[C@H]21)=O)C)O)C
 Sodium hydrosulfide	[Na+].[SH-]
-Dialin	c2ccc1c(\C=C/CC1)c2
+Dialin	c2ccc1c(C=CCC1)c2
 Bretazenil	O=C(OC(C)(C)C)c1ncn2c4c(C(=O)N3[C@H](c12)CCC3)c(Br)ccc4
 Pagoclone	Clc1nc2nc(ccc2cc1)N4C(=O)c3ccccc3C4CC(=O)CCC(C)C
 Caesium chromate	[Cs+].[Cs+].[O-][Cr]([O-])(=O)=O
@@ -5293,6 +5295,7 @@ Thiamine triphosphate	Cc1c(sc[n+]1Cc2cnc(nc2N)C)CCOP(=O)(O)OP(=O)(O)OP(=O)(O)[O-
 Nitazoxanide	O=C(Nc1ncc(s1)[N+]([O-])=O)c2ccccc2OC(=O)C
 Mannosamine	C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)N)O)O)O
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@@]2(F)C1(F)F
+Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@]2(F)C1(F)F
 Disodium hydrogen phosphite	[H+].[Na+].[Na+].[O-]P([O-])[O-]
 Disodium hydrogen phosphite	O=P([O-])([O-])[H].[Na+].[Na+]
 Disodium phosphate	[Na+].[Na+].[O-]P([O-])([O-])=O
