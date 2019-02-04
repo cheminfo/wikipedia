@@ -2565,6 +2565,7 @@ Phenoxybenzamine	ClCCN(C(COc1ccccc1)C)Cc2ccccc2
 4-Fluoroamphetamine	Fc1ccc(cc1)CC(N)C
 Choline chloride	[Cl-].OCC[N+](C)(C)C
 Phosphoryl chloride	O=P(Cl)(Cl)Cl
+Phosphoryl chloride	[O-][P+](Cl)(Cl)Cl
 Naringin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)C)cc5O[C@H](c3ccc(O)cc3)C4
 IAEDANS	O=S(=O)(O)c1cccc2c1cccc2NCCNC(=O)CI
 Uranium sulfate	[U+2].[O-]S([O-])(=O)=O
@@ -12000,6 +12001,7 @@ Joro toxin	O=C(NCCCCCNC(=O)[C@@H](NC(=O)Cc1ccc(O)cc1O)CC(=O)N)CCNCCCCNCCCN
 Dimethylamidophosphoric dicyanide	CN(C)P(=O)(C#N)C#N
 O-774	N#CCCCCCC(c2cc1OC([C@@H]3C/C=C(\C[C@H]3c1c(O)c2)C)(C)C)(C)C
 Cyclopentadienyl nickel nitrosyl	[CH-]1C=CC=C1.N#[O+].[Ni]
+Phosphoryl fluoride	F[P+](F)(F)[O-]
 Phosphoryl fluoride	FP(F)(F)=O
 Tetranitratoxycarbon	N(O1)(O2)OC12C(C(O1)(O2)ON12)(C(O1)(O2)ON12)C(O1)(O2)ON12
 Delta-Viniferin	C1=CC(=CC=C1[C@H]2[C@@H](C3=C(O2)C=CC(=C3)/C=C/C4=CC(=CC(=C4)O)O)C5=CC(=CC(=C5)O)O)O
@@ -16300,8 +16302,10 @@ Tungsten(III) chloride	Cl[W](Cl)Cl
 1,1-Dihydroxyethene	C=C(O)O
 Etiocholanedione	C[C@]12CCC(=O)C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
 Trinitrogen	[N-]=[N+]=[N]
+Trinitrogen	N1=N[N]1
 Molybdenum(VI) chloride	Cl[Mo](Cl)(Cl)(Cl)(Cl)Cl
 Vanadium(V) chloride	Cl[V](Cl)(Cl)(Cl)Cl
+Vanadium(V) chloride	Cl[V-]1(Cl)(Cl)(Cl)[Cl+][V-]([Cl+]1)(Cl)(Cl)(Cl)Cl
 Rhenium(VI) chloride	Cl[Re](Cl)(Cl)(Cl)(Cl)Cl
 Rhenium(IV) chloride	[Cl].[Cl].[Cl].[Cl].[Re]
 Hexaphenylcarbodiphosphorane	C1=CC=C(C=C1)P(=C=P(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6
