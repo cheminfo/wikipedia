@@ -3801,6 +3801,9 @@ Ethyl diazoacetate	CCOC(=O)C=[N+]=[N-]
 Triazabicyclodecene	N\2=C1/NCCCN1CCC/2
 Emedastine	O(CC)CCn1c(nc2ccccc12)N3CCCN(C)CC3
 Levosalbutamol	OCc1cc(ccc1O)[C@@H](O)CNC(C)(C)C
+Molybdopterin	NC(=N1)NC(=O)C2=C1N[C@H]3[C@@H](N2)C(S)=C(S)[C@H](O3)COP([O-])([O-])=O
+Molybdopterin	C(C1C(=C(C2C(O1)NC3=C(N2)C(=O)NC(=N3)N)S)S)OP(=O)(O)O
+Molybdopterin	NC(=N1)NC(=O)C2=C1N[C@H]3[C@@H](N2)C(S4)=C(S[Mo]4(=O)(=O)O)[C@H](O3)COP([O-])([O-])=O
 Pranlukast	O=C(Nc2cccc3c(=O)cc(c1nn[nH]n1)oc23)c5ccc(OCCCCc4ccccc4)cc5
 Arimoclomol	O[C@H](CN1CCCCC1)CO\N=C(\Cl)c2ccc[n+]([O-])c2
 Nicorandil	O=C(NCCO[N+]([O-])=O)c1cccnc1
