@@ -551,7 +551,7 @@ Chloramine	NCl
 Stearic acid	CCCCCCCCCCCCCCCCCC(=O)O
 Ethyl carbamate	CCOC(N)=O
 Sodium stearoyl lactylate	O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.[Na+]
-Resveratrol	Oc2ccc(C=Cc1cc(O)cc(O)c1)cc2
+Resveratrol	Oc1ccc(cc1)\C=C\c2cc(O)cc(O)c2
 Phthalic acid	C1=CC=C(C(=C1)C(=O)O)C(=O)O
 DEET	O=C(c1cc(ccc1)C)N(CC)CC
 Phthalic anhydride	O=c1oc(=O)c2ccccc12
@@ -3738,7 +3738,6 @@ Nitroacetanilide	O=C(Nc1ccc(cc1)[N+]([O-])=O)C
 Delavirdine	CC(C)Nc1cccnc1N4CCN(C(=O)c3cc2cc(NS(C)(=O)=O)ccc2[nH]3)CC4
 Amprenavir	O=C(O[C@H]1CCOC1)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3
 Myricetin	Oc1cc(O)c2c(=O)c(O)c(oc2c1)c3cc(O)c(O)c(O)c3
-Tetrahydrothiophene	S1CCCC1
 Methoxychlor	ClC(Cl)(Cl)C(c1ccc(OC)cc1)c2ccc(OC)cc2
 Caesium acetate	[Cs+].[O-]C(=O)C
 Bisacodyl	O=C(Oc1ccc(cc1)C(c2ccc(OC(=O)C)cc2)c3ncccc3)C
@@ -6847,6 +6846,7 @@ Sodium aluminium sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Na+].[Al+3]
 Catecholborane	[B]1OC2=CC=CC=C2O1
 Catecholborane	c1cccc2OBOc12
 Dithiete	c1css1
+Sydnone	C1=NNOC1=O
 Necopidem	O=C(N(C)Cc1c(nc2ccc(cn12)C)c3ccc(cc3)CC)CC(C)C
 Palladium black	[Pd]
 2,6-Dichlorobenzonitrile	N#Cc1c(Cl)cccc1Cl
@@ -13899,6 +13899,7 @@ Sodium germanate	[O-][Ge](=O)[O-].[Na+].[Na+]
 Rhazinilam	CC[C@]12CCCN3C1=C(C=C3)C4=CC=CC=C4NC(=O)CC2
 Advantame	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O
 Sodium hyponitrite	N(=N[O-])[O-].[Na+].[Na+]
+Sodium hyponitrite	[Na+].[O-]\N=N/[O-].[Na+]
 Amiloxate	CC(C)CCOC(=O)/C=C/C1=CC=C(C=C1)OC
 Fostemsavir	O=C(c1ccccc1)N5CCN(C(=O)C(=O)c4c2c(c(ncc2OC)n3nc(nc3)C)n(c4)COP(=O)(O)O)CC5
 Spectinabilin	CC1=C(OC(=C(C1=O)C)OC)[C@H]2C/C(=C/C(=C/C(=C/C(=C/C3=CC=C(C=C3)[N+](=O)[O-])/C)/C)/C)/CO2
@@ -16287,6 +16288,7 @@ Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC
 Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
 Naphthalene-2-sulfonic acid	C1=CC=C2C=C(C=CC2=C1)S(=O)(=O)O
 Aflatoxin B1 exo-8,9-epoxide	COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5[C@@H]6[C@@H](O6)O[C@@H]5O2
+Parthenin	C[C@H]1CC[C@@H]2[C@H]([C@]3([C@]1(C=CC3=O)O)C)OC(=O)C2=C
 Cyclodiol	C[C@]12CC[C@H]3[C@H](C14CCC2(CC4)O)CCC5=C3C=CC(=C5)O
 Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
 Estradiol 17β-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CCC5=C3C=CC(=C5)O
