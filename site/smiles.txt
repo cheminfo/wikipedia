@@ -15024,6 +15024,7 @@ Alestramustine	CC(C(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl)C)N
 Edogestrone	CC1=C2CC3(CCC2(C4CCC5(C(C4C1)CCC5(C(=O)C)OC(=O)C)C)C)OCCO3
 11-Aminoundecanoic acid	C(CCCCCN)CCCCC(=O)O
 Velpatasvir	C[C@H]1CC[C@H](N1C(=O)[C@H](C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=CC5=C(C=C43)OCC6=C5C=CC(=C6)C7=CN=C(N7)[C@@H]8C[C@@H](CN8C(=O)[C@@H](C9=CC=CC=C9)NC(=O)OC)COC
+Galegine	CC(=CCN=C(N)N)C
 Thiophanate-methyl	COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC
 Lucitanib	CNC(=O)c1cccc2c1ccc(c2)Oc3ccnc4c3cc(c(c4)OCC5(CC5)N)OC
 Furostilbestrol	CCC(=C(CC)C1=CC=C(C=C1)OC(=O)C2=CC=CO2)C3=CC=C(C=C3)OC(=O)C4=CC=CO4
@@ -16498,6 +16499,6 @@ Tetracyanomethane	C(#N)C(C#N)(C#N)C#N
 Isodiazene	[NH2+]=[N-]
 Methylfluorophosphonylcholine	C[N+](C)(C)CCOP(=O)(C)F
 Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
-15O-water	[15OH2]
+Oxygen-15 labelled water	[15OH2]
 1,1'-Binaphthyl	C1=CC=C2C(=C1)C=CC=C2C3=CC=CC4=CC=CC=C43
 Sulfine	C=S=O
