@@ -1742,7 +1742,7 @@ Monopotassium phosphate	[K+].OP(O)([O-])=O
 Diammonium phosphate	[NH4+].[NH4+].OP([O-])([O-])=O
 Cerium(IV) oxide	[O-2]=[Ce+4]=[O-2]
 Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-3](C#[O+])([P+](c4ccccc4)(c5ccccc5)c6ccccc6)Cl
-Grubbs' catalyst	Cl[Ru](Cl)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
+Grubbs catalyst	Cl[Ru](Cl)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
 Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
 Thymidine monophosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O
@@ -10616,6 +10616,7 @@ Sumanirole	CN[C@@H]1Cc2cccc3[nH]c(=O)n(C1)c23
 Beta-Lysine	C(CC(CC(=O)O)N)CN
 3-Deoxyglucosone	O=C(C=O)C[C@H](O)[C@H](O)CO
 3-Deoxyglucosone	C(C(C(CO)O)O)C(=O)C=O
+Pentacarbonylhydridomanganese	O=C=[MnH](=C=O)(=C=O)(=C=O)=C=O
 Iron tetracarbonyl hydride	O=C=[FeH2](=C=O)(=C=O)=C=O
 Triphenylmethyl hexafluorophosphate	c1ccc(cc1)[C+](c1ccccc1)c1ccccc1.F[P-](F)(F)(F)(F)F
 Isobenzan	ClC1C2C3(Cl)C(Cl)=C(Cl)C(C3(Cl)Cl)(Cl)C2C(Cl)O1
@@ -11980,7 +11981,7 @@ Ethyl decanoate	O=C(OCC)CCCCCCCCC
 2-Furonitrile	N#Cc1occc1
 O-1269	CCCCCNC(=O)c2nn(c(c2C)-c(cc3)ccc3Cl)-c1ccc(Cl)cc1Cl
 Dichlofluanid	CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl
-Antimony potassium tartrate	[K+].[K+].[H]O[H].[H]O[H].[H]O[H].O=C1O[Sb-]23OC1C1O[Sb-]4(OC(C(O2)C(=O)O3)C(=O)O4)OC1=O
+Antimony potassium tartrate	[K+].[K+].O.O.O.O=C1O[Sb-]23OC1C1O[Sb-]4(OC(C(O2)C(=O)O3)C(=O)O4)OC1=O
 Pentamethylbenzene	Cc1cc(C)c(C)c(C)c1C
 N,N-Dimethylsphingosine	CCCCCCCCCCCCC/C=C/[C@@H]([C@@H](CO)N(C)C)O
 FL3 (flavagline)	O[C@@]12[C@@]([C@H](C3=CC=CC=C3)C[C@H]2O)(C4=CC=C(Br)C=C4)OC5=CC(OC)=CC(OC)=C51
@@ -12307,6 +12308,7 @@ Antheraxanthin	O[C@H]1CC(C(=C(/C)C1)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/[C@
 Epsilon-Carotene	C1(=C/CCC(C)(C)C1\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C2C(=C/CCC2(C)C)\C)C)C)C)C)\C
 Zeta-Carotene	C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(\C)CC\C=C(/C)CC\C=C(/C)C)C)C)(\CC/C=C(/CC/C=C(\C)C)C)C
 Methylazoxymethanol acetate	CC(=O)OC/N=[N+](/C)\[O-]
+Methylazoxymethanol	C[N+](=NCO)[O-]
 Rubicordifolin	O=C(OC)c2c(O)c1ccccc1c3oc(cc23)[C@@]7(Oc4c6c(c(O)c5c4cccc5)C(=O)O[C@H]([C@@H]6C7)C(O)(C)C)C
 Baricitinib	CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
 Elymoclavine	OCC\2=C\[C@@H]3c4cccc1c4c(c[nH]1)C[C@H]3N(C/2)C
