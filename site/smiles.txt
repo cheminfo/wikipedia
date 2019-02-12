@@ -10981,7 +10981,7 @@ Ammonium sulfite	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].O=S([O-])[O-]
 Disulfur monoxide	O=S=S
 Terbequinil	CCCNC(=O)C1=CN(C2=CC=CC=C2C1=O)COC
 Cyclotetradecaheptaene	C1C=CC=CC=CC=CC=CC=CC=1
-Dipotassium cyclooctatetraenide	[cH-]/1/cc\cc/[cH-]/cc1.[K+].[K+]
+Dipotassium cyclooctatetraenide	[K+].c1=c[cH-]c=c[cH-]c=c1.[K+]
 Ilomastat	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
 Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
@@ -16504,3 +16504,4 @@ Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
 Oxygen-15 labelled water	[15OH2]
 1,1'-Binaphthyl	C1=CC=C2C(=C1)C=CC=C2C3=CC=CC4=CC=CC=C43
 Sulfine	C=S=O
+Estradiol 3-glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
