@@ -13323,6 +13323,7 @@ Aposcopolamine	O=C(O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23)C(\c4ccccc4)=C
 Meteloidine	C/C=C(\C)/C(=O)OC1CC2[C@@H]([C@@H](C(C1)N2C)O)O
 Diclazepam	CN1C2=C(C=C(C=C2)Cl)C(C3=C(Cl)C=CC=C3)=NCC1=O
 Eleutherobin	CC1=CC[C@@H]([C@@H]/2[C@H]1C[C@@H]([C@@]3(C=C[C@@](O3)(/C(=C2)/CO[C@H]4[C@H]([C@@H]([C@@H](CO4)O)O)OC(=O)C)OC)C)OC(=O)/C=C/C5=CN(C=N5)C)C(C)C
+Saudin	C[C@@H]1C2C[C@@]3(O[C@@]4([C@]2([C@@]5(O3)COC(=O)[C@]5(CC4)C)C)OC1=O)C6=COC=C6
 Neotripterifordin	C[C@@]12CCC[C@@]3([C@@H]1CC[C@]45[C@H]3CC[C@H](C4)[C@](C5)(C)O)C(=O)OC2
 Terpestacin	C/C/1=C\CC/C(=C/C[C@]2([C@H](C/C=C(/[C@H](CC1)O)\C)C(=C(C2=O)O)[C@H](C)CO)C)/C
 Retigeric acid B	CC(C)[C@H]1CC[C@@H]2[C@@]1(CC[C@]3([C@]2(CC=C4[C@@H]3CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)C(=O)O)O)O)C(=O)O)C)C)C
@@ -16508,3 +16509,5 @@ Sulfine	C=S=O
 Estradiol 3-glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 4-Chlorophenol	C1=CC(=CC=C1O)Cl
 Dibutylchloromethyltin chloride	CCCC[Sn](CCCC)(CCl)Cl
+2-Bromothiophene	C1=CSC(=C1)Br
+Amabiline	C[C@@H]([C@@](C(C)C)(C(=O)OCC1=CCN2[C@H]1CCC2)O)O
