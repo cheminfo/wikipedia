@@ -3013,6 +3013,7 @@ Nerolidol	OC(\C=C)(CCC=C(CC/C=C(\C)C)C)C
 Nerolidol	OC(\C=C)(CC\C=C(/CC/C=C(\C)C)C)C
 Nerolidol	CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C
 Farnesene	C(=C/C/C=C(/CC/C=C(\C)C)C)(\C=C)C
+Phosphinate	[O-][PH2]=O
 Methylergometrine	CC[C@@H](CO)NC(=O)[C@@H]2/C=C1/c3cccc4N\C=C(\C[C@H]1N(C)C2)c34
 Orange G	[Na+].[Na+].[O-]S(=O)(=O)c3cc2ccc(O)c(/N=N/c1ccccc1)c2c(c3)S([O-])(=O)=O
 Ethyl maltol	CCC1=C(C(=O)C=CO1)O
@@ -12285,7 +12286,7 @@ Methacrylonitrile	C=C(C)C#N
 EGIS-7625	CC1=CC(=C(C=C1N)N2CCN(CC2)CC3=CC=CC=C3)[N+](=O)[O-]
 Daclatasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]c(cn2)c3ccc(cc3)c4ccc(cc4)c5cnc([nH]5)[C@@H]6CCCN6C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Octadecylphosphonic acid	CCCCCCCCCCCCCCCCCCP(=O)(O)O
-Diethyl chlorophosphate	CCOP(=O)(OCC)Cl
+Diethyl phosphorochloridate	CCOP(=O)(OCC)Cl
 Aminomethylphosphonic acid	O=P(O)(O)CN
 PNU-142633	NC(C(C=C1)=CC=C1N2CCN(CC[C@@H]3OCCC4=C3C=CC(C(NC)=O)=C4)CC2)=O
 Lividomycin	O([C@H]4[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@H]2O[C@@H](CN)[C@@H](O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O)[C@H](O)[C@H]2N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]4N)[C@H]5O[C@@H]([C@@H](O)C[C@H]5N)CO
@@ -15816,6 +15817,7 @@ Hexadecene	CCCCCCCCCCCCCCC=C
 Dimethylphosphite	COP(O)OC
 Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
+Lithium monoxide anion	[Li]-[O-]
 Iridium tetrachloride	Cl[Ir](Cl)(Cl)Cl
 ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
