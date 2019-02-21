@@ -14099,7 +14099,7 @@ Lomerizine	COC1=C(C(=C(C=C1)CN2CCN(CC2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F)OC)OC
 Bis(cyclooctatetraene)iron	C\1=C\C=C/C=C\C=C1.C\1=C\C=C/C=C\C=C1.[Fe]
 Decynium-22	CCN1C(=CC2=[N+](C3=CC=CC=C3C=C2)CC)C=CC4=CC=CC=C41.[I-]
 5-Chloromethylfurfural	c1cc(oc1CCl)C=O
-Ceftolozane	CC(C)(C(=O)O)O/N=C(/c1nc(sn1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[n+]4cc(c(n4C)N)NC(=O)NCCN)C(=O)[O-]
+Ceftolozane/tazobactam	CC(C)(C(=O)O)O/N=C(/c1nc(sn1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[n+]4cc(c(n4C)N)NC(=O)NCCN)C(=O)[O-]
 ERDRP-0519	Cn1c(cc(n1)C(F)(F)F)C(=O)Nc2ccc(cc2)S(=O)(=O)N3CCCC[C@H]3CCN4CCOCC4
 Methoctramine	COC1=CC=CC=C1CNCCCCCCNCCCCCCCCNCCCCCCNCC2=CC=CC=C2OC
 Filorexant	C[C@@H]1CC[C@H](CN1C(=O)C2=C(C=CC(=C2)C)C3=NC=CC=N3)COC4=NC=C(C=C4)F
@@ -16516,3 +16516,5 @@ Amabiline	C[C@@H]([C@@](C(C)C)(C(=O)OCC1=CCN2[C@H]1CCC2)O)O
 Thiophene-2-carboxaldehyde	C1=CSC(=C1)C=O
 2-Methylbenzaldehyde	CC1=CC=CC=C1C=O
 Formaldoxime	C=NO
+2-Methylsuccinic acid	CC(CC(=O)O)C(=O)O
+N1-Methyl-2-pyridone-5-carboxamide	CN1C=C(C=CC1=O)C(=O)N
