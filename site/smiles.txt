@@ -8370,6 +8370,7 @@ Coumermycin A1	CO[C@@H]1[C@H](OC(=O)c2ccc(C)[nH]2)[C@@H](O)[C@H](Oc2ccc3c(O)c(NC
 MS-245	COc2cc1c(CCN(C)C)cn(c1cc2)S(=O)(=O)c3ccccc3
 5,7-Dihydroxytryptamine	Oc1cc2c(c(O)c1)[nH]cc2CCN
 Autoinducer-2	O[C@@H]1[C@]2(O[B-](O[C@]2(OC1)C)(O)O)O
+Copper usnate	Cc1c(c(c2c(c1[O-])C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)[O-].[Cu+2]
 Nifuratel	CSCC1CN(C(=O)O1)/N=C/C2=CC=C(O2)[N+](=O)[O-]
 Chlordantoin	O=C1NC(C(=O)N1SC(Cl)(Cl)Cl)C(CC)CCCC
 AL-34662	CC(N)Cn1ncc2ccc(O)cc12
@@ -14713,6 +14714,7 @@ Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Granadaene	C[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](O1)OC(C)C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)N[C@@H](CCCN)C(=O)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
+Copper peroxide	[Cu+2].[O-]-[O-]
 Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
 Napthalenetetracarboxylic diimide	c1cc2c3c(ccc4c3c1C(=O)NC4=O)C(=O)NC2=O
 Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
