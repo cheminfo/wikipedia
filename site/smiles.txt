@@ -16518,5 +16518,9 @@ Amabiline	C[C@@H]([C@@](C(C)C)(C(=O)OCC1=CCN2[C@H]1CCC2)O)O
 Thiophene-2-carboxaldehyde	C1=CSC(=C1)C=O
 2-Methylbenzaldehyde	CC1=CC=CC=C1C=O
 Formaldoxime	C=NO
+2-Methylthiophene	CC1=CC=CS1
+3-Methylthiophene	CC1=CSC=C1
 2-Methylsuccinic acid	CC(CC(=O)O)C(=O)O
 N1-Methyl-2-pyridone-5-carboxamide	CN1C=C(C=CC1=O)C(=O)N
+N-(2-Carboxyethyl)iminodiacetic acid	C(CN(CC(=O)O)CC(=O)O)C(=O)O
+Trisodium dicarboxymethyl alaninate	CC(C(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+]
