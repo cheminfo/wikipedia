@@ -638,7 +638,7 @@ Minoxidil	Nc1cc(nc(N)[n+]1[O-])N2CCCCC2
 Granisetron	CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23
 2C-T-7	COc1cc(SCCC)c(cc1CCN)OC
 Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
-Xenon hexafluoroplatinate	[Xe].F[Pt-1](F)(F)(F)(F)F
+Xenon hexafluoroplatinate	[Xe+].F[Pt-1](F)(F)(F)(F)F
 2C-E	COc1cc(CC)c(cc1CCN)OC
 Iron(III) chloride	Cl[Fe](Cl)Cl
 Silver iodide	[Ag]I
@@ -651,6 +651,7 @@ Semiheavy water	[2H]O
 Chlorine dioxide	O=[Cl]=O
 Chlorine dioxide	O=Cl[O]
 Magnesium diboride	[B].[B].[Mg]
+Magnesium diboride	[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[B-]1=[B-][B-]2=[B-][B-]=[B-]3[B-]=[B-][B-]4=[B-][B-]=[B-]5[B-]=[B-][B-]6=[B-][B-]=[B-]1[B-]7=[B-]2[B-]3=[B-]4[B-]5=[B-]67.[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2]
 2C-T-2	CCSc1cc(OC)c(cc1OC)CCN
 Bromothymol blue	Brc1c(O)c(cc(c1C)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4C)C(C)C)C(C)C
 Salbutamol	OCc1cc(ccc1O)C(O)CNC(C)(C)C
@@ -1742,7 +1743,7 @@ Monopotassium phosphate	[K+].OP(O)([O-])=O
 Diammonium phosphate	[NH4+].[NH4+].OP([O-])([O-])=O
 Cerium(IV) oxide	[O-2]=[Ce+4]=[O-2]
 Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-3](C#[O+])([P+](c4ccccc4)(c5ccccc5)c6ccccc6)Cl
-Grubbs catalyst	Cl[Ru](Cl)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
+Grubbs catalyst	Cl[Ru-2](Cl)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
 Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
 Thymidine monophosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O
@@ -4440,8 +4441,8 @@ Bisbenzimide	CCOc1ccc(cc1)c2[nH]c3cc(ccc3n2)c4[nH]c5cc(ccc5n4)N6CCN(CC6)C
 Nilotinib	Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)C(=O)Nc4cc(cc(c4)n5cc(nc5)C)C(F)(F)F
 Dasatinib	Cc1cccc(c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CC4)CCO)Cl
 Diiron nonacarbonyl	O=C1[Fe-3]2(C#[O+])(C#[O+])(C#[O+])C(=O)[Fe-3]1(C#[O+])(C#[O+])(C#[O+])C2=O
-Dicobalt octacarbonyl	[O+]#C[Co-3]1(C#[O+])(C#[O+])C(=O)[Co-3](C#[O+])(C#[O+])(C#[O+])C1=O
-Dicobalt octacarbonyl	[O+]#C[Co-4](C#[O+])(C#[O+])(C#[O+])[Co-4](C#[O+])(C#[O+])(C#[O+])(C#[O+])
+Dicobalt octacarbonyl	O=C=[Co]1(=C=O)(=C=O)C(=O)[Co](=C=O)(=C=O)(=C=O)C1=O
+Dicobalt octacarbonyl	O=C=[Co-4](=C=O)(=C=O)(=C=O)[Co-4](=C=O)(=C=O)(=C=O)=C=O
 Dimanganese decacarbonyl	[Mn].[Mn].[C-]#[O+].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-]
 Menthyl isovalerate	C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)CC(C)C)C(C)C
 Ammonium dichromate	[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O.[NH4+].[NH4+]
@@ -5009,6 +5010,7 @@ Formyl fluoride	FC=O
 Hexafluorophosphoric acid	[H+].F[P-](F)(F)(F)(F)F
 Amifampridine	c1cncc(c1N)N
 Tetrairidium dodecacarbonyl	[O+]#C[Ir-3]12(C#[O+])(C#[O+])[Ir-3]3(C#[O+])(C#[O+])(C#[O+])[Ir-3]1(C#[O+])(C#[O+])(C#[O+])[Ir-3]23(C#[O+])(C#[O+])C#[O+]
+Tetrakis(triphenylphosphine)platinum(0)	c0ccccc0[P+](c0ccccc0)(c0ccccc0)[Pt-4]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)[P+](c0ccccc0)(c0ccccc0)c0ccccc0
 Trimethylindium	C[In](C)C
 Nitisinone	O=C(c1ccc(cc1[N+]([O-])=O)C(F)(F)F)C2C(=O)CCCC2=O
 Hexatriynyl radical	C#CC#CC#[C]
@@ -14388,6 +14390,8 @@ DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)OO
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
+Dictyophorine	CC1=CC(=O)C[C@@]2([C@]13[C@H](O3)[C@H](CC2)C(=C)C)C
+Dictyophorine	[H][C@]12C(C)=CC(=O)C[C@@]1(C)CC[C@H](C(C)C)C2=O
 Platinum pentafluoride	F[Pt-]1(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-]([F+]1)(F)(F)(F)F
 Ruthenium pentafluoride	[F-].[F-].[F-].[F-].[F-].[Ru+5]
 Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
@@ -15960,6 +15964,7 @@ Sarcophagine	C1CNCC2CNCCNCC(CN1)CNCCNC2
 3-Penten-2-one	CC=CC(=O)C
 Risdiplam	CC1=CC(=NN2C1=NC(=C2)C)C3=CC(=O)N4C=C(C=CC4=N3)N5CCNC6(C5)CC6
 Titanium bis(acetylacetonate)dichloride	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Cl-].[Cl-].[Ti+4]
+Titanium bis(acetylacetonate)dichloride	Cl[Ti-2]12(Cl)(OC(C)=CC(C)=[O+]1)OC(C)=CC(C)=[O+]2
 Zirconium acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Zr]
 1,1,1-Trifluoroacetylacetone	CC(=O)CC(=O)C(F)(F)F
 Triphenylmethanethiol	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)S
@@ -16560,3 +16565,6 @@ Neodymium fluoride	F[Nd](F)F
 Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4)O[H])([H])CC1)[C@H]2OP(O[H])(O[H])=O
 1-Methylcytosine	CN1C=CC(=NC1=O)N
 2,4,6-Tribromoaniline	C1=C(C=C(C(=C1Br)N)Br)Br
+5-Aza-7-deazaguanine	C1=CN2C(=O)NC(=NC2=N1)N
+6-Amino-5-nitropyridin-2-ol	C1=CC(=O)NC(=C1[N+](=O)[O-])N
+7-Methylguanine	CN1C=NC2=C1C(=O)N=C(N2)N
