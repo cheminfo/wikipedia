@@ -919,7 +919,6 @@ Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
 Famotidine	NS(=O)(=O)/N=C(\N)CCSCc1csc(n1)N=C(N)N
 Artemisinin	O=C3O[C@@H]4O[C@@]1(OO[C@@]42[C@@H](CC1)[C@H](C)CC[C@H]2[C@H]3C)C
-Fluticasone	O=C(SCF)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C
 Donepezil	O=C2c1cc(OC)c(OC)cc1CC2CC4CCN(Cc3ccccc3)CC4
 Benzonitrile	c1ccc(cc1)C#N
 Nandrolone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)CC4
@@ -1190,7 +1189,6 @@ Chitosan	COC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C
 Clobetasol propionate	ClCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C
 Nitrogen trichloride	ClN(Cl)Cl
 Clobetasol	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)O)C)O)F)C
-Pentalene	c1cc2cccc2c1
 Silver fulminate	[C-]#[N+][O-].[Ag+]
 Zafirlukast	Cc1ccccc1S(=O)(=O)NC(=O)c2cc(OC)c(cc2)Cc3cn(C)c4ccc(cc43)NC(=O)OC5CCCC5
 Zileuton	O=C(N)N(O)C(c2sc1ccccc1c2)C
@@ -2886,6 +2884,7 @@ Omigapil	C=3c1ccccc1Oc2ccccc2C=3CN(C)CC#C
 Mandelic acid	O=C(O)C(O)c1ccccc1
 Mesoxalic acid	O=C(O)C(=O)C(=O)O
 Murexide	[O-]\C2=C(/N=C1\C(=O)NC(=O)NC1=O)C(=O)NC(=O)N2.[NH4+]
+Hydrazinium nitroformate	N[NH3+].[O-][N+](=O)[C-]([N+]([O-])=O)[N+]([O-])=O
 1,1,1,2,3,3,3-Heptafluoropropane	FC(F)(F)C(F)C(F)(F)F
 Quinoxaline	c1cccc2nccnc12
 Copper(II) fluoride	[Cu+2].[F-].[F-]
@@ -12931,6 +12930,7 @@ Homoisocitric acid	O=C(O)CCC(C(=O)O)C(O)C(=O)O
 Homoaconitic acid	O=C(O)C(=CC(=O)O)CCC(=O)O
 Isopropylmalic acid	O=C(O)C(O)(CC(=O)O)C(C)C
 Isopropylmalic acid	O=C(O)C(O)C(C(=O)O)C(C)C
+24-Epibrassinolide	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2COC(=O)[C@@H]4[C@@]3(C[C@H]([C@H](C4)O)O)C)C)[C@H]([C@@H]([C@H](C)C(C)C)O)O
 BMS-906024	CN1c2ccccc2C(=N[C@@H](C1=O)NC(=O)[C@H](CCC(F)(F)F)[C@H](CCC(F)(F)F)C(=O)N)c3ccccc3
 Encorafenib	C[C@@H](CNc1nccc(n1)c2cn(nc2c3cc(cc(c3F)NS(=O)(=O)C)Cl)C(C)C)NC(=O)OC
 AZD-5423	C[C@@H]([C@@H](c1cccc(c1)OC)Oc2ccc3c(c2)cnn3c4ccc(cc4)F)NC(=O)C(F)(F)F
@@ -16473,7 +16473,6 @@ Trioctylamine	CCCCCCCCN(CCCCCCCC)CCCCCCCC
 2,3-Dimethylpentane	CCC(C)C(C)C
 Methyl p-toluate	CC1=CC=C(C=C1)C(=O)OC
 Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
-(2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
 Tulipalin A	C=C1CCOC1=O
@@ -16569,3 +16568,4 @@ Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4
 5-Aza-7-deazaguanine	C1=CN2C(=O)NC(=NC2=N1)N
 6-Amino-5-nitropyridin-2-ol	C1=CC(=O)NC(=C1[N+](=O)[O-])N
 7-Methylguanine	CN1C=NC2=C1C(=O)N=C(N2)N
+Beta-DPEA	C1=CC=CC(=C1)C(CN)C2=CC=CC=C2
