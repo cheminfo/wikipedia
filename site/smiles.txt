@@ -300,7 +300,7 @@ Naloxone	O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(CC=C)[C@@H]5C4
 Soman	FP(=O)(OC(C)C(C)(C)C)C
 Ethylene glycol	C(CO)O
 Salvinorin A	O=C(OC)[C@H]2[C@@]3(CC[C@H]4C(=O)O[C@H](c1ccoc1)C[C@@]4([C@H]3C(=O)[C@@H](OC(=O)C)C2)C)C
-Gallium arsenide	[Ga][As]12[Ga][As]3([Ga])[Ga][As]([Ga])([Ga]1)[Ga][As]([Ga])([Ga]2)[Ga]3
+Gallium arsenide	[GaH-][As+]12[Ga-][As+]3([GaH-])[Ga-][As+]([GaH-])([Ga-]1)[Ga-][As+]([GaH-])([Ga-]2)[Ga-]3
 Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
 Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
@@ -919,6 +919,7 @@ Indapamide	O=S(=O)(N)c1c(Cl)ccc(c1)C(=O)NN3c2ccccc2CC3C
 Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
 Famotidine	NS(=O)(=O)/N=C(\N)CCSCc1csc(n1)N=C(N)N
 Artemisinin	O=C3O[C@@H]4O[C@@]1(OO[C@@]42[C@@H](CC1)[C@H](C)CC[C@H]2[C@H]3C)C
+Fluticasone	O=C(SCF)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C
 Donepezil	O=C2c1cc(OC)c(OC)cc1CC2CC4CCN(Cc3ccccc3)CC4
 Benzonitrile	c1ccc(cc1)C#N
 Nandrolone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)CC4
@@ -16570,3 +16571,5 @@ Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4
 6-Amino-5-nitropyridin-2-ol	C1=CC(=O)NC(=C1[N+](=O)[O-])N
 7-Methylguanine	CN1C=NC2=C1C(=O)N=C(N2)N
 Beta-DPEA	C1=CC=CC(=C1)C(CN)C2=CC=CC=C2
+Isopropylmagnesium chloride	C[CH-]C.[Mg+2].[Cl-]
+N-Butylbenzene	CCCCC1=CC=CC=C1
