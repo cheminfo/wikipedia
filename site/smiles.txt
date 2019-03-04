@@ -2799,6 +2799,7 @@ Cefadroxil	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccc(O)cc3)N)C)C(=O)O.O
 Quinbolone	O=C\1\C=C/[C@]5(/C(=C/1)CC[C@@H]3[C@@H]5CC[C@@]4([C@@H](O/C2=C/CCC2)CC[C@@H]34)C)C
 Pyridazine	c1ccnnc1
 Methyl benzoate	O=C(OC)c1ccccc1
+Silicotungstic acid	[W]18%21%24(O[W]%16%18%23(O[W]56(O1)(O[W]247(O[W]9%22(O[W]%12%13(O2)(O[W]3%11%14(O[W]%17%19(O[W](O3)(O4)(O5)([O++]67[Si]%15%20[O++]89[W]%10(O[W](O[W](O%10)(O%11)(O%12)([O++]%13%14%15)[O-])(O%16)(O%17)([O++]%18%19%20)[O-])(O%21)(O%22)[O-])O)(O%23)[O-])[O-])[O-])(O%24)O)[O-])O)[O-])O
 Bis(2-ethylhexyl) phthalate	O=C(OCC(CC)CCCC)C1=CC=CC=C1C(OCC(CC)CCCC)=O
 Huperzine A	C/C=C/1\[C@@H]2CC3=C([C@]1(CC(=C2)C)N)C=CC(=O)N3
 Cacodyl oxide	C[As](C)O[As](C)C
@@ -16475,6 +16476,7 @@ Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(
 4-Vinylpyridine	C=CC1=CC=NC=C1
 Thiocarbonyldiimidazole	C1=CN(C=N1)C(=S)N2C=CN=C2
 Tellurophenes	C1=C[Te]C=C1
+2-Ethoxycarbonyl-1-methylvinyl cyclohexyl methylphosphonate	C1CCCCC1OP(C)(=O)OC(C)=CC(=O)OCC
 Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
@@ -16597,5 +16599,6 @@ Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4
 Beta-DPEA	C1=CC=CC(=C1)C(CN)C2=CC=CC=C2
 Isopropylmagnesium chloride	C[CH-]C.[Mg+2].[Cl-]
 N-Butylbenzene	CCCCC1=CC=CC=C1
+Propanephosphonic acid anhydride	CCCP1(=O)OP(=O)(OP(=O)(O1)CCC)CCC
 2,3-Dichlorobutadiene	C=C(C(=C)Cl)Cl
 DAPT (chemical)	C[C@@H](C(=O)N[C@@H](C1=CC=CC=C1)C(=O)OC(C)(C)C)NC(=O)CC2=CC(=CC(=C2)F)F
