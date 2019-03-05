@@ -9199,6 +9199,7 @@ Pentachloronitrobenzene	O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
 2,2,4,4-Tetramethyl-1,3-cyclobutanediol	OC1C(C)(C)C(O)C1(C)C
 Phthalonitrile	N#Cc1ccccc1C#N
 (Benzene)chromium tricarbonyl	[Cr].[O+]#[C-].[O+]#[C-].[O+]#[C-].c1ccccc1
+Difluorocarbene	[C](F)F
 Methyl isocyanide	[C-]#[N+]C
 Cyclopentadienylthallium	[cH-]1cccc1.[Tl+]
 Dimethylphenylphosphine	P(c1ccccc1)(C)C
@@ -11999,6 +12000,7 @@ Sophoricoside	O=C/1c4c(O)cc(O)cc4O\C=C\1c3ccc(O[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[
 Beryllium sulfite	[Be+2].[O-]S([O-])=O
 Beryllium borohydride	[Be+2].[BH4-].[BH4-]
 (R)-2-Methyl-CBS-oxazaborolidine	O2B(N1CCC[C@@H]1C2(c3ccccc3)c4ccccc4)C
+18,19-Dehydrobuprenorphine	C[C@]([C@H]1C[C@]23C=CC1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O
 Benfluralin	[O-][N+](=O)c1cc(cc([N+]([O-])=O)c1N(CCCC)CC)C(F)(F)F
 Nitrofen	Clc2cc(Cl)ccc2Oc1ccc([N+]([O-])=O)cc1
 L-694247	CS(=O)(=O)Nc1ccc(cc1)Cc2nc(on2)c3ccc4c(c3)c(c[nH]4)CCN
@@ -12410,6 +12412,7 @@ JWH-184	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)C
 JWH-185	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)OC
 JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
 Xenon monochloride	Cl[Xe]
+Diarsenic tetraiodide	I[As](I)[As](I)I
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
 Digermane	[Ge][Ge]
 Iodosilane	I[SiH3]
@@ -13600,6 +13603,7 @@ Solpecainol	C[C@@H](COC1=CC=CC=C1)N[C@@H](CO)[C@H](O)C1=CC=CC=C1
 Cefsumide	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3cccc(NS(=O)(=O)C)c3)N)C)C(=O)O
 Dichlorobis(triphenylphosphine)nickel(II)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Ni]Cl
 Allyl iodide	C=CCI
+Diiron propanedithiolate hexacarbonyl	O=[C][Fe]12([C]=O)([C]=O)[S]3CCC[S]1[Fe]23([C]=O)([C]=O)[C]=O
 9,10-Dihydroanthracene	c1ccc2c(c1)Cc3ccccc3C2
 Filanesib	CN(C(=O)N1[C@](SC(=N1)C2=C(C=CC(=C2)F)F)(CCCN)C3=CC=CC=C3)OC
 Fluridone	FC(F)(F)c1cccc(c1)-c2cn(C)cc(c2=O)-c3ccccc3
@@ -14377,6 +14381,7 @@ Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CC
 Etomoxir	CCOC(=O)[C@]1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 Aldoxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=NNC(=O)CCCCCN6C(=O)C=CC6=O)CO)O)N)O
 Crisaborole	B1(c2ccc(cc2CO1)Oc3ccc(cc3)C#N)O
+Caesium hydrogen sulfate	OS(=O)(=O)[O-].[Cs+]
 1,2-Diformylhydrazine	O=CNNC=O
 Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
 3,4-Epoxycyclohexanecarboxylate methyl ester	COC(=O)C1CCC2C(C1)O2
@@ -14658,6 +14663,9 @@ Ipragliflozin	S1C(=CC2=C1C=CC=C2)CC=2C=C(C=CC2F)[C@H]2[C@H](O)[C@@H](O)[C@H](O)[
 Para-Chloromethamphetamine	ClC1=CC=C(C=C1)CC(C)NC
 1-Hydroxypyrene	C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
 9-Hydroxyoctadecadienoic acid	CCCCC/C=C\C=C\[C@H](CCCCCCCC(=O)O)O
+Dibromine monoxide	O(Br)Br
+Dibromine pentoxide	O=[Br](=O)O[Br](=O)=O
+Dibromine trioxide	BrO[Br](=O)=O
 Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
 6,14-Endoethenotetrahydrooripavine	[H][C@]12OC3=C4C(C[C@H]5N(C)CC[C@@]14[C@@]51CC[C@]2(OC)C=C1)=CC=C3O
 Etelcalcetide	C[C@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@@H](CSSC[C@@H](C(=O)O)N)NC(=O)C
@@ -16476,7 +16484,7 @@ Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(
 4-Vinylpyridine	C=CC1=CC=NC=C1
 Thiocarbonyldiimidazole	C1=CN(C=N1)C(=S)N2C=CN=C2
 Tellurophenes	C1=C[Te]C=C1
-2-Ethoxycarbonyl-1-methylvinyl cyclohexyl methylphosphonate	C1CCCCC1OP(C)(=O)OC(C)=CC(=O)OCC
+2-Ethoxycarbonyl-1-methylvinyl cyclohexyl methylphosphonate	CCOC(=O)C=C(C)O[P](C)(=O)OC1CCCCC1
 Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
