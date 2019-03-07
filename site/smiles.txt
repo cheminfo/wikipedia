@@ -5243,6 +5243,7 @@ Fenoprop	Clc1cc(OC(C(=O)O)C)c(Cl)cc1Cl
 Dihydropteroate	O=C(O)c1ccc(cc1)NCC/2=N/C=3C(=O)\N=C(/NC=3NC\2)N
 Pivalamide	O=C(N)C(C)(C)C
 Dimethyl oxalate	O=C(OC)C(=O)OC
+Tricalcium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Ca+2].[Ca+2].[Ca+2]
 Deuterated acetone	[2H]C([2H])([2H])C(=O)C([2H])([2H])[2H]
 Deuterated benzene	[2H]c1c([2H])c([2H])c([2H])c([2H])c1[2H]
 Deuterated DMF	[2H]C(=O)N(C([2H])([2H])[2H])C([2H])([2H])[2H]
@@ -12994,7 +12995,6 @@ Methadone intermediate	CC(CC(C#N)(C1=CC=CC=C1)C2=CC=CC=C2)N(C)C
 (C9)-CP 47,497	OC1=CC(C(C)(C)CCCCCCCC)=CC=C1[C@@H]2C[C@H](O)CCC2
 Thujopsene	C\2=C(\[C@H]3[C@@]1([C@](CCCC1(C)C)(C)C/2)C3)C
 Neryl acetate	O=C(OC\C=C(/CC/C=C(\C)C)C)C
-2,3-Dihydroxysuccinohydrazide	O=C(NN)C(O)C(O)C(=O)NN
 Truxillic acid	OC(C1C(C2=CC=CC=C2)C(C(O)=O)C1C3=CC=CC=C3)=O
 VNI (molecule)	c1ccc(cc1)c2nnc(o2)c3ccc(cc3)C(=O)N[C@@H](Cn4ccnc4)c5ccc(cc5Cl)Cl
 Arsonic acid	O[As](=O)O
@@ -16619,3 +16619,4 @@ N-Butylbenzene	CCCCC1=CC=CC=C1
 Propanephosphonic acid anhydride	CCCP1(=O)OP(=O)(OP(=O)(O1)CCC)CCC
 2,3-Dichlorobutadiene	C=C(C(=C)Cl)Cl
 DAPT (chemical)	C[C@@H](C(=O)N[C@@H](C1=CC=CC=C1)C(=O)OC(C)(C)C)NC(=O)CC2=CC(=CC(=C2)F)F
+Viridiflorol	C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O
