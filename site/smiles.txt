@@ -195,7 +195,8 @@ Alanine	O=C([O-])[C@@H]([NH3+])C
 Aspartic acid	O=C(O)CC(N)C(=O)O
 Aspartic acid	O=C(O)CC([NH3+])C(=O)[O-]
 Aspartic acid	O=C([O-])CC([NH3+])C(=O)[O-]
-Glutamic acid	C(CC(=O)O)C(C(=O)O)N
+Glutamic acid	C(CC(=O)O)[C@@H](C(=O)O)N
+Glutamic acid	C(CC(=O)O)[C@H](C(=O)O)N
 Glutamic acid	C(CC(=O)O)C(C(=O)[O-])[NH3+]
 Glutamic acid	C(CC(=O)[O-])C(C(=O)[O-])[NH3+]
 Histidine	O=C([C@H](CC1=CNC=N1)N)O
@@ -5837,6 +5838,9 @@ Tyrothricin	CC(C)C[C@H]1C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@@H](C(
 Drostanolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@H](C(=O)C4)C)C)C
 Oenanthotoxin	CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO
 MEDA	NC(CC1=CC2=C(OCCO2)C(OC)=C1)C
+Glycerine acetate	CC(=O)OCC(CO)O
+Glycerine acetate	CC(=O)OCC(CO)OC(=O)C
+Glycerine acetate	CC(=O)OCC(COC(=O)C)OC(=O)C
 Dehydroandrosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@H](C4)O)C
 Honokiol	Oc1ccc(cc1C/C=C)c2cc(ccc2O)C\C=C
 Palonosetron	O=C5N([C@H]2C1CCN(CC1)C2)C[C@@H]4c3c5cccc3CCC4
@@ -10373,6 +10377,7 @@ Empenthrin	CCC=C(C)C(C#C)OC(=O)C1C(C1(C)C)C=C(C)C
 Ayanin	O=C1c3c(O/C(=C1/OC)c2ccc(OC)c(O)c2)cc(OC)cc3O
 Enterolactone	C1[C@@H]([C@H](C(=O)O1)CC2=CC(=CC=C2)O)CC3=CC(=CC=C3)O
 Enterodiol	C1=CC(=CC(=C1)O)C[C@@H](CO)[C@@H](CC2=CC(=CC=C2)O)CO
+Ap4A	C1=NC2=C(C(=N1)N)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C5N=CN=C6N)O)O)O)O
 L-Arginine ethyl ester	O=C(OCC)[C@@H](N)CCCNC(N)=N
 L-Arginine L-pyroglutamate	O=C(O)C1NC(=O)CC1.O=C(O)[C@@H](N)CCC/N=C(\N)N
 Rhodanine	O=C1NC(=S)SC1
@@ -12373,6 +12378,10 @@ Zeta-Carotene	C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(\C)CC\C=C(/C)CC\C=C(/C)C)C)C)(\CC/C
 Methylazoxymethanol acetate	CC(=O)OC/N=[N+](/C)\[O-]
 Methylazoxymethanol	C[N+](=NCO)[O-]
 Rubicordifolin	O=C(OC)c2c(O)c1ccccc1c3oc(cc23)[C@@]7(Oc4c6c(c(O)c5c4cccc5)C(=O)O[C@H]([C@@H]6C7)C(O)(C)C)C
+Germicidin	CCC1=C(C=C(OC1=O)[C@@H](C)CC)O
+Germicidin	CCC1=C(C=C(OC1=O)C(C)C)O
+Germicidin	CCC1=C(C=C(OC1=O)C(C)CC)O
+Germicidin	CC1=C(C=C(OC1=O)C(C)C)O
 Baricitinib	CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
 Elymoclavine	OCC\2=C\[C@@H]3c4cccc1c4c(c[nH]1)C[C@H]3N(C/2)C
 Polonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Po]
@@ -12585,6 +12594,7 @@ Demephion	S=P(OC)(OCCSC)OC
 Demephion	O=P(OC)(OC)SCCSC
 BAY-29952	S=P(Oc1ccc(SC)cc1)(OCC)C
 CP-40294	S=P(Oc1ccc(cc1)[N+]([O-])=O)(Oc2ccccc2)C
+Germanium monosulfide	S=[Ge]
 Segesterone acetate	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@](OC(=O)C)(C(=C)\C[C@H]3[C@@H]1CC2)C(=O)C)C)CC4
 19-Norprogesterone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](C(=O)C)CC[C@H]3[C@@H]1CC2)C)CC4
 Prothoate	O=C(NC(C)C)CSP(=S)(OCC)OCC
@@ -13398,6 +13408,7 @@ Retigeric acid B	CC(C)[C@H]1CC[C@@H]2[C@@]1(CC[C@]3([C@]2(CC=C4[C@@H]3CC[C@@H]5[
 Cucurbitacin D	C[C@@]12C[C@H]([C@@H]([C@]1(CC(=O)[C@@]3([C@H]2CC=C4[C@H]3C[C@@H](C(=O)C4(C)C)O)C)C)[C@](C)(C(=O)/C=C/C(C)(C)O)O)O
 Blazein	CC(C)C(C)/C=C/C(C)[C@H]1CCC2[C@@]1(CC[C@H]3C2=C[C@H]([C@@]4([C@@]3(CC[C@@H](C4)O)C)O)OC)C
 Eritadenine	c1nc(c2c(n1)n(cn2)C[C@H]([C@H](C(=O)O)O)O)N
+Methylidenecarbene	[C]=C
 Coprinol	CC1=C2CC(CC2=C(C(=C1CCO)C)O)(C)C
 Sparassol	CC1=CC(=CC(=C1C(=O)OC)O)OC
 Phanephos	C1CC2=C(C=C(CCC3=C(C=C1C=C3)P(C4=CC=CC=C4)C5=CC=CC=C5)C=C2)P(C6=CC=CC=C6)C7=CC=CC=C7
@@ -15720,6 +15731,7 @@ Tetrolic acid	CC#CC(=O)O
 1,2-Difluoroethylene	C(=C/F)\F
 Proxalutamide	CC1(C(=O)N(C(=S)N1C2=CN=C(C=C2)CCCC3=NC=CO3)C4=C(C(=C(C=C4)C#N)C(F)(F)F)F)C
 Blebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=CC=C4)O
+Bromazolam	Brc1cc2C(=NCc3nnc(C)n3c2cc1)c4ccccc4
 Trithiazyl trichloride	ClS1=NS(Cl)=NS(Cl)=N1
 Pentakis(dimethylamido)tantalum	C[N-]C.C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ta+5]
 Succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate	O=C(C1CCC(CN2C(C=CC2=O)=O)CC1)ON3C(CCC3=O)=O
@@ -16634,3 +16646,6 @@ DAPT (chemical)	C[C@@H](C(=O)N[C@@H](C1=CC=CC=C1)C(=O)OC(C)(C)C)NC(=O)CC2=CC(=CC
 Viridiflorol	C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O
 Blumeatin	COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC(=CC(=C3)O)O)O
 2,5-Bis(hydroxymethyl)pyrrole	C1=C(NC(=C1)CO)CO
+Hexahydroporphine	C1C2=CC=C(N2)CC3=CC=C(N3)CC4=CC=C(N4)CC5=CC=C1N5
+SH-I-048A	Fc3ccccc3C2=N[C@@H](C)C(=O)Nc1ccc(Br)cc12
+Flualprazolam	Fc4ccccc4C1=NCc3nnc(C)n3c2ccc(Cl)cc12
