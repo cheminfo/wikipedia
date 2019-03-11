@@ -2091,7 +2091,7 @@ Pentoxifylline	O=C2N(c1ncn(c1C(=O)N2CCCCC(=O)C)C)C
 Iodic acid	O[I+2]([O-])[O-]
 Periodic acid	OI(=O)(O)(O)(O)O
 Periodic acid	O[I+3]([O-])([O-])[O-]
-Molybdenum hexacarbonyl	[O]#C[Mo](C#[O])(C#[O])(C#[O])(C#[O])C#[O]
+Molybdenum hexacarbonyl	O=C=[Mo](=C=O)(=C=O)(=C=O)(=C=O)=C=O
 Bromate	[O-][Br+2]([O-])[O-]
 Tetraphenylene	C1=CC=C2C(=C1)C3=CC=CC=C3C4=CC=CC=C4C5=CC=CC=C25
 Toxaphene	C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
@@ -4510,7 +4510,7 @@ Phenoperidine	OC(C1=CC=CC=C1)CCN(CC2)CCC2(C3=CC=CC=C3)OC(CC)=O
 Pizotifen	s1c3c(cc1)C(\c2c(cccc2)CC3)=C4/CCN(C)CC4
 Prodigiosin	CCCCCc3cc(=Cc2[nH]c(c1ccc[nH]1)cc2OC)nc3C
 1,2-Dibromo-3-chloropropane	BrC(CBr)CCl
-Tungsten hexacarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[W]
+Tungsten hexacarbonyl	O=C=[W](=C=O)(=C=O)(=C=O)(=C=O)=C=O
 Malvin	COC1=CC(=CC(=C1O)OC)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Malvin	[Cl-].O[C@@H]5[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]5Oc2cc(O)cc3[o+]c(c(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)cc23)c4cc(OC)c(O)c(OC)c4
 Anisindione	O=C2c1ccccc1C(=O)C2c3ccc(OC)cc3
@@ -5504,6 +5504,7 @@ Loviride	Clc1cccc(Cl)c1C(Nc2cc(ccc2C(=O)C)C)C(=O)N
 Buscaline	COc1cc(cc(OC)c1OCCCC)CCN
 Phenescaline	COc2cc(cc(OC)c2OCCc1ccccc1)CCN
 Metaescaline	COc1c(cc(cc1OCC)CCN)OC
+Bilane	C1=CNC(=C1)CC2=CC=C(N2)CC3=CC=C(N3)CC4=CC=CN4
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
@@ -9609,7 +9610,7 @@ Oxetene	O1\C=C/C1
 Undecylic acid	O=C(O)CCCCCCCCCC
 ICI-190,622	CC#CCCN1C2=NC=C(C(=C2C=N1)N)C(=O)NCC=C
 2,3,7,8-Tetrachlorodibenzodioxin	Clc2cc1Oc3c(Oc1cc2Cl)cc(Cl)c(Cl)c3
-Croconic acid	c1(c(c(=O)c(=O)c1=O)O)O
+Croconic acid	O=C1C(O)=C(O)C(=O)C1=O
 Pyrethrin II	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)CC=CC=C
 Pyrethrin I	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=CC=C
 Thiomalic acid	C(C(C(=O)O)S)C(=O)O
@@ -10351,7 +10352,9 @@ Tabernanthine	CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC
 Acotiamide	O=C(Nc1nc(C(=O)NCCN(C(C)C)C(C)C)cs1)c2cc(OC)c(OC)cc2O
 Alinidine	Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
 6-Fluoro-DMT	CN(CCC1=CNC2=C1C=CC(F)=C2)C
-2-(Dicyanomethylene)croconate	C(#N)C(=C1C(=O)C(=C(C1=O)[O-])[O-])C#N
+2-(Dicyanomethylene)croconate	N#CC(C#N)=C1C(=O)C([O-])=C([O-])C1=O
+2-(Dicyanomethylene)croconate	N#CC(C#N)=C1C([O-])=C([O-])C(=O)C1=O
+2-(Dicyanomethylene)croconate	N#C[C-](C#N)C1=C([O-])C(=O)C(=O)C1=O
 3-Ethyl-3-pentanol	OC(CC)(CC)CC
 Jatrorrhizine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC
 BDTH2	O=C(NCCS)c1cccc(c1)C(=O)NCCS
@@ -12173,6 +12176,7 @@ Punicacortein B	Oc1cc(cc(O)c1O)C(=O)OC[C@@H](O)[C@@H](O)[C@@H]5OC(=O)c2cc(O)c(O)
 Punicafolin	Oc4c(O)cc(cc4O)C(=O)OC6C(OC(=O)c(cc1O)c-5c(O)c1O)C(OC(=O)c(cc7O)cc(O)c7O)C(OC(=O)c(cc3O)cc(O)c3O)OC6COC(=O)c(cc(O)c2O)c-5c2O
 Iodous acid	O[I+][O-]
 Granatin A	C1C2C3C(C(C(O2)C(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)OC(=O)C6=CC(=O)C7(C(C6C8=C(O7)C(=C(C=C8C(=O)O3)O)O)(O)O)O)O
+Granatin B	C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=O)C(C6(C5C7=C(O6)C(=C(C=C7C(=O)O3)O)O)O)(O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
 N-(1-Naphthyl)ethylenediamine	c1cccc2cccc(NCCN)c12
 Carnosol	CC(C)C1=CC2=C(C(=C1O)O)[C@@]34CCCC([C@@H]3C[C@@H]2OC4=O)(C)C
 Pachyphyllone	CC(C)C1=CC23CCC4C(CCCC4(C2=C(C1=O)O)CO3)(C)C
@@ -16557,6 +16561,10 @@ Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC
 Tulipalin A	C=C1CCOC1=O
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 1,2-Epoxybutane	CCC1CO1
+2,3-Epoxybutane	CC1C(O1)C
+2,3-Epoxybutane	C[C@@H]1[C@@H](O1)C
+2,3-Epoxybutane	C[C@H]1[C@@H](O1)C
+2,3-Epoxybutane	C[C@@H]1[C@H](O1)C
 Prop-1-en-2-ol	CC(=C)O
 Theasinensin A	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)O
@@ -16667,3 +16675,4 @@ GL-II-73	CN(C)C(=O)c4ncn2c4[C@@H](C)N=C(c1cc(C#C)ccc12)c3ccccc3F
 Fluclotizolam	Fc4ccccc4C2=NCc1nnc(C)n1c3sc(Cl)cc23
 Nitemazepam	O=[N+](O)c1ccc2c(c1)C(=NC(O)C(=O)N2C)c3ccccc3
 Cyclohexanehexathione	C1(=S)C(=S)C(=S)C(=S)C(=S)C1=S
+Fluomine	c12c(cccc1[O-][Co+2]13[N](=C2)CC[N]1=Cc1c(cccc1[O-]3)F)F
