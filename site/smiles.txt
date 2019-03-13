@@ -1728,6 +1728,7 @@ Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Quaternium-15	C1N2CN3CN1C[N+](C2)(C3)CC=CCl.[Cl-]
 Oxygen difluoride	FOF
 Trimethylaluminium	C[Al-](C)([CH3+]1)[CH3+][Al-]1(C)C
+Trimethylaluminium	C[Al](C)C
 Pseudaconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)(C[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccc(OC)c(OC)c7
 Cyclopentanone	C1CCC(=O)C1
 Bromethalin	Brc2cc(Br)cc(Br)c2N(c1c([N+]([O-])=O)cc([N+]([O-])=O)cc1C(F)(F)F)C
@@ -4548,6 +4549,7 @@ Decamethylcyclopentasiloxane	C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(
 Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
 Gallium trichloride	Cl[Ga](Cl)Cl
+Gallium trichloride	Cl[Ga-]1(Cl)[Cl+][Ga-]([Cl+]1)(Cl)Cl
 Glutaconic acid	O=C(O)\C=C\CC(=O)O
 Chlordiazepoxide	ClC1=CC2=C(N=C(NC)C[N+]([O-])=C2C3=CC=CC=C3)C=C1
 Oleoyl-estrone	CCCCCCCC\C=C/CCCCCCCC(=O)c3cc(O)cc4CC[C@@H]2[C@H](CC[C@]1(C)C(=O)CC[C@H]12)c34
@@ -11680,6 +11682,8 @@ Thunberginol E	COC1=C(C=C(C=C1)C2CC3=CC(=CC(=C3C(=O)O2)O)O)O
 Thunberginol F	c1cc\2c(c(c1)O)C(=O)O/C2=C/c3ccc(c(c3)O)O
 Fluorine nitrate	FON(O)O
 Thunberginol G	C1C(OC(=O)C2=C1C=CC=C2O)C3=CC(=C(C=C3)O)O
+Tris(dimethylamino)aluminium dimer	CN(C)[Al-]1(N(C)C)[N+](C)(C)[Al-]([N+]1(C)C)(N(C)C)N(C)C
+Tris(dimethylamino)gallium dimer	CN(C)[Ga-]1(N(C)C)[N+](C)(C)[Ga-]([N+]1(C)C)(N(C)C)N(C)C
 Norbergenin	Oc1cc3c([C@H]2[C@H](OC3=O)[C@@H](O)[C@H](O)[C@@H](CO)O2)c(O)c1O
 Ethylferrocene	[Fe+2].[C-]1(CC)C=CC=C1.[CH-]1C=CC=C1
 Valoneic acid dilactone	Oc1cc5c(=O)oc3c(O)c(Oc4c(C(=O)O)cc(O)c(O)c4O)cc2c3c5c(c1O)oc2=O
@@ -14409,6 +14413,7 @@ Anol	CC=CC1=CC=C(C=C1)O
 Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
 Filgotinib	O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
 GR-196,429	c23c1CCOc1ccc2CCN3CCNC(=O)C
+TEX (explosive)	C12C3N(C4C(N1[N+](=O)[O-])OC(O4)C(O2)O3)[N+](=O)[O-]
 Bisindolylmaleimide	O=C5C(\c2cc1ccccc1[nH]2)=C(\c4cc3ccccc3[nH]4)C(=O)N5
 N-Acetyllactosamine	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O
 Bis(triethoxysilylpropyl)tetrasulfide	CCO[Si](CCCSSSSCCC[Si](OCC)(OCC)OCC)(OCC)OCC
@@ -16024,6 +16029,7 @@ Norclomipramine	CNCCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
 Northiaden	CNCC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
 Γ-Octalactone	CCCCC1CCC(=O)O1
 4-Mercapto-4-methyl-2-pentanone	CC(=O)CC(C)(C)S
+Hydridotetrakis(triphenylphosphine)rhodium(I)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Rh][H]
 Triethyltin	CC[Sn](CC)CC
 DPDPE	CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C
 Pirenperone	CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F
