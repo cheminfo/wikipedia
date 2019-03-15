@@ -105,6 +105,7 @@ Vitamin C	OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
 Sildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
+Nitrous oxide	[N-]=[N+]=O
 Niacin	OC(=O)c1cccnc1
 Phenylalanine	N[C@@H](CC1=CC=CC=C1)C(O)=O
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
@@ -1754,7 +1755,7 @@ Myristic acid	CCCCCCCCCCCCCC(=O)O
 Monopotassium phosphate	[K+].OP(O)([O-])=O
 Diammonium phosphate	[NH4+].[NH4+].OP([O-])([O-])=O
 Cerium(IV) oxide	[O-2]=[Ce+4]=[O-2]
-Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-3](C#[O+])([P+](c4ccccc4)(c5ccccc5)c6ccccc6)Cl
+Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-2](=C=O)([P+](c4ccccc4)(c5ccccc5)c6ccccc6)Cl
 Grubbs catalyst	Cl[Ru-2](Cl)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
 Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
@@ -4471,7 +4472,7 @@ Dasatinib	Cc1cccc(c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CC4)CCO)Cl
 Diiron nonacarbonyl	O=C1[Fe-3]2(C#[O+])(C#[O+])(C#[O+])C(=O)[Fe-3]1(C#[O+])(C#[O+])(C#[O+])C2=O
 Dicobalt octacarbonyl	O=C=[Co]1(=C=O)(=C=O)C(=O)[Co](=C=O)(=C=O)(=C=O)C1=O
 Dicobalt octacarbonyl	O=C=[Co-4](=C=O)(=C=O)(=C=O)[Co-4](=C=O)(=C=O)(=C=O)=C=O
-Dimanganese decacarbonyl	[Mn].[Mn].[C-]#[O+].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-].[O+]#[C-]
+Dimanganese decacarbonyl	O=C=[Mn](=C=O)(=C=O)(=C=O)(=C=O)[Mn](=C=O)(=C=O)(=C=O)(=C=O)=C=O
 Menthyl isovalerate	C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)CC(C)C)C(C)C
 Ammonium dichromate	[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O.[NH4+].[NH4+]
 Flunarizine	Fc1ccc(cc1)C(c2ccc(F)cc2)N3CCN(CC3)C\C=C\c4ccccc4
@@ -9543,7 +9544,7 @@ Befiradol	n2cc(C)ccc2CNCC(F)(CC3)CCN3C(=O)c(cc1Cl)ccc1F
 Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
 Licarbazepine	NC(=O)N1c2ccccc2CC(O)c3ccccc13
 Aflatoxin B1	O=C5C=4C(=O)Oc3c1c(OC2O\C=C/C12)cc(OC)c3C=4CC5
-Deltic acid	O=C1C(/O)=C1/O
+Deltic acid	O=C1C(O)=C1O
 Acetylenediol	OC#CO
 Para-Ethoxyamphetamine	O(c1ccc(cc1)CC(N)C)CC
 1,1-Dichloro-1-fluoroethane	ClC(Cl)(F)C
@@ -10118,6 +10119,7 @@ Acetylenedicarboxylic acid	O=C(O)C#CC(=O)O
 Potassium hydrogenoxalate	[K+].[O-]C(=O)C(=O)O
 Mifamurtide	CCCCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCCNC(=O)[C@H](C)NC(=O)CC[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]1C(O)[C@@H](CO)O[C@@H](O)[C@@H]1NC(C)=O)C(N)=O)OC(=O)CCCCCCCCCCCCCCC
 Quinolizidine	C1CCN2CCCCC2C1
+Methanetetracarboxylate	C(=O)(C(C(=O)[O-])(C(=O)[O-])C(=O)[O-])[O-]
 Kasugamycin	OC(=O)C(=N)N[C@H]2C[C@H](N)[C@@H](O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O)O[C@@H]2C
 Dioxosuccinic acid	C(=O)(C(=O)C(=O)O)C(=O)O
 Harmane	CC1=NC=CC2=C1NC3=CC=CC=C23
@@ -16650,10 +16652,9 @@ Revefenacin	CN(CCN1CCC(CC1)OC(=O)NC2=CC=CC=C2C3=CC=CC=C3)C(=O)C4=CC=C(C=C4)CN5CC
 Iridium disulfide	[S].[S].[Ir]
 Tetracyanomethane	C(#N)C(C#N)(C#N)C#N
 Isodiazene	[NH2+]=[N-]
-4-Amino-5-hydroxymethyl-2-methylpyrimidine phosphate	CC1=NC=C(C=N1)CO
-4-Amino-5-hydroxymethyl-2-methylpyrimidine phosphate	CC1=NC=C(C(=N1)N)COP(=O)(O)[O-]
-4-Amino-5-hydroxymethyl-2-methylpyrimidine phosphate	CC1=NC=C(C(=N1)N)CO
-4-Amino-5-hydroxymethyl-2-methylpyrimidine phosphate	CC1=NC=C(C(=N1)N)COP(=O)([O-])OP(=O)(O)[O-]
+4-Amino-5-hydroxymethyl-2-methylpyrimidine	CC1=NC=C(C(=N1)N)CO
+4-Amino-5-hydroxymethyl-2-methylpyrimidine	CC1=NC=C(C(=N1)N)COP(=O)(O)[O-]
+4-Amino-5-hydroxymethyl-2-methylpyrimidine	CC1=NC=C(C(=N1)N)COP(=O)([O-])OP(=O)(O)[O-]
 Methylfluorophosphonylcholine	C[N+](C)(C)CCOP(=O)(C)F
 Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
 Oxygen-15 labelled water	[15OH2]
@@ -16707,3 +16708,4 @@ Magnesium anthracene	C1CCOCC1.C1CCOCC1.C1CCOCC1.C1=CC=C2C=C3C=CC=CC3=CC2=C1.[Mg]
 Magnesium anthracene	C1=CC=C2C=C3C=CC=CC3=CC2=C1.[Mg]
 Parathion S	CCOP(=O)(OCC)Sc1ccc(cc1)[N+](=O)[O-]
 2,4,6-Trichloroaniline	C1=C(C=C(C(=C1Cl)N)Cl)Cl
+Bempedoic acid	CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O
