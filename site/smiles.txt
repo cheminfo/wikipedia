@@ -1991,7 +1991,6 @@ Ethyl methanesulfonate	O=S(=O)(OCC)C
 Pyrazolopyrimidine	n1cccn2nccc12
 Glutaric acid	C(CC(=O)O)CC(=O)O
 Cafestol	OC[C@@]5(O)C[C@@]31C[C@@H]5CC[C@H]1[C@]4(C)CCc2occc2[C@H]4CC3
-Gold(III) chloride	[Cl-]1.[Cl-]2.[Cl-]([Au+3]1)2
 Pyrrolidine	C1CCNC1
 Xylene cyanol	[Na+].CCNc1ccc(cc1C)/C(=C2/C=C\C(=[NH+]\CC)C(=C2)C)c3ccc(OS([O-])=O)cc3OS([O-])=O
 Tin(II) chloride	Cl[Sn]Cl
@@ -4780,7 +4779,7 @@ Pyriproxyfen	O(c1ncccc1)C(COc3ccc(Oc2ccccc2)cc3)C
 Chlorophyllin	CCC1=CC2=NC1=CC3=C(C4=C(C(C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)C(C5CCC(=O)[O-])C)C(=O)[O-])[O-])C.[Cu+2].[Cu+2]
 Globoidnan A	c1cc(c(cc1C[C@H](C(=O)O)OC(=O)c2cc3cc(c(cc3c(c2)c4ccc(c(c4)O)O)O)O)O)O
 Queuine	C1=C[C@@H]([C@@H]([C@H]1NCC2=CNC3=C2C(=O)NC(=N3)N)O)O
-Tetraxenonogold(II)	[Xe][Au+2]([Xe])([Xe])[Xe]
+Tetraxenonogold(II)	[Xe+][Au-2]([Xe+])([Xe+])[Xe+]
 Metirosine	O=C(O)[C@@](N)(Cc1ccc(O)cc1)C
 Ammonium sulfamate	[O-]S(=O)(=O)N.[NH4+]
 Chlorodehydromethyltestosterone	O=C1\C=C/[C@]4(/C(=C1/Cl)CC[C@@H]3[C@@H]4CC[C@]2([C@H]3CC[C@@]2(O)C)C)C
@@ -5839,7 +5838,6 @@ Ubiquinol	CC1=C(C(C(=C(C1O)OC)OC)O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC
 Silodosin	FC(F)(F)COc3ccccc3OCCN[C@H](C)Cc1cc2c(c(c1)C(=O)N)N(CC2)CCCO
 7-Aminoactinomycin D	O=C3C(C)=C2OC1=C(C)C(N)=CC(C(N[C@H](C(N[C@@H](C7=O)[C@H](C)C)=O)[C@@H](C)OC([C@H]([C@H](C)C)N(C)C(CN(C)[C@]([C@H]6N7CCC6)=O)=O)=O)=O)=C1N=C2C(C(N[C@H](C(N[C@H]([C@H](C)C)C4=O)=O)[C@@H](C)OC([C@H]([C@@H](C)C)N(C)C(CN(C)[C@@]([C@H]5N4CCC5)=O)=O)=O)=O)=C3N
 Methoxyethane	COCC
-Tyrothricin	CC(C)C[C@H]1C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@@H](C(=O)[C@@H](NC(=O)[C@@H](N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN)C(C)C)Cc3ccc(cc3)O)CCC(=O)O)CC(=O)N)Cc4ccccc4)Cc5ccccc5)Cc6ccccc6
 Drostanolone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@H](C(=O)C4)C)C)C
 Oenanthotoxin	CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO
 MEDA	NC(CC1=CC2=C(OCCO2)C(OC)=C1)C
@@ -6125,7 +6123,7 @@ Monastrol	CCOC(=O)C1=C(NC(=S)NC1C2=CC(=CC=C2)O)C
 1,1,1,2-Tetrachloroethane	ClCC(Cl)(Cl)Cl
 Delorazepam	ClC1=CC=CC=C1C2=NCC(NC3=C2C=C(C=C3)Cl)=O
 Dihydroxymalonic acid	C(=O)(C(C(=O)O)(O)O)O
-Thiouracil	O=C1\C=C/NC(=S)N1
+2-Thiouracil	O=C1\C=C/NC(=S)N1
 Methyl acrylate	C=CC(OC)=O
 Seletracetam	F\C(F)=C/[C@H]1CC(=O)N([C@H](C(=O)N)CC)C1
 Flumedroxone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)O
@@ -16724,3 +16722,5 @@ Yttrium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Y
 1,3,5-Triethylbenzene	CCC1=CC(=CC(=C1)CC)CC
 Niravoline	CN([C@@H]1[C@H](CC2=CC=CC=C12)N3CCCC3)C(=O)CC4=CC(=CC=C4)[N+](=O)[O-]
 Terbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Tb+3]
+Niobium disulfide	S=[Nb]=S
+4-Thiouracil	O=C1\C=C/NC(=S)N1
