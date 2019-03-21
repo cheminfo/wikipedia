@@ -1061,6 +1061,7 @@ Acetamide	O=C(N)C
 Benzyl alcohol	c1ccc(cc1)CO
 Ritonavir	CC(C)c4nc(CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc1ccccc1)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)cs4
 Linoleic acid	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O
+Technetium (99mTc) sestamibi	[99Tc-5](C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)C#[N+]CC(C)(C)OC
 Oxymorphone	O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(C)[C@@H]5C4
 Coomassie Brilliant Blue	CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC.[Na+]
 Bromophenol blue	Brc1cc(cc(Br)c1O)C3(OS(=O)(=O)c2ccccc23)c4cc(Br)c(O)c(Br)c4
@@ -2967,7 +2968,6 @@ Psicose	O=C([C@H](O)[C@H](O)[C@H](O)CO)CO
 N-Methyltryptamine	CNCCc1c[nH]c2ccccc12
 Benzyl acetate	c1ccccc1COC(=O)C
 Myrcene	CC(=CCCC(=C)C=C)C
-Flucloxacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c(onc2c1c(F)cccc1Cl)C)[C@H]4SC3(C)C
 P-Cymene	c1cc(ccc1C(C)C)C
 Barium titanate	[Ba+2].[Ba+2].[O-][Ti]([O-])([O-])[O-]
 Isopropylthioxanthone	CC(C)C1=CC=CC2=C1SC3=CC=CC=C3C2=O
@@ -3139,7 +3139,8 @@ Nilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)C
 Triptorelin	CC(C)C[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc5c[nH]c6c5cccc6)NC(=O)[C@H](Cc7cnc[nH]7)NC(=O)[C@@H]8CCC(=O)N8
 Dibenzepin	O=C2c1c(cccc1)N(c3c(N2CCN(C)C)cccc3)C
 Diproteverine	O(c1ccc(cc1OCC)CC/2=N/CCc3cc(OC(C)C)c(OC(C)C)cc\23)CC
-Samarium (153Sm) lexidronam	C(CN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])N(CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[153Sm]
+Samarium (153Sm) lexidronam	C(CN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])N(CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[153Sm+3]
+Samarium (153Sm) lexidronam	C(CN(CP(=O)([O-])O[153Sm-]123)CP(=O)([O-])O1)N(CP(=O)([O-])O2)CP(=O)([O-])O3.[Na+].[Na+].[Na+].[Na+].[Na+]
 Mevastatin	O=C(O[C@@H]1[C@H]3C(=C/CC1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)[C@@H](C)CC
 Estragole	COc1ccc(CC=C)cc1
 Chavicol	C=CCC1=CC=C(C=C1)O
@@ -4206,6 +4207,7 @@ Thorium tetrafluoride	F[Th](F)(F)F
 Thorium(IV) iodide	[I-].[I-].[I-].[I-].[Th+4]
 Thorium(IV) orthosilicate	[Th+4].[O-][Si]([O-])([O-])[O-]
 Thorium(IV) sulfide	S=[Th]=S
+Technetium hexafluoride	F[Tc](F)(F)(F)(F)F
 Titanium(II) oxide	O=[Ti]
 Titanium tetrafluoride	[Ti+4].[F-].[F-].[F-].[F-]
 Titanium disilicide	[Si]=[Ti]=[Si]
@@ -16724,3 +16726,4 @@ Niravoline	CN([C@@H]1[C@H](CC2=CC=CC=C12)N3CCCC3)C(=O)CC4=CC(=CC=C4)[N+](=O)[O-]
 Terbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Tb+3]
 Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
+Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
