@@ -4321,6 +4321,7 @@ Geranyl acetate	O=C(OC/C=C(/CC/C=C(\C)C)C)C
 Levormeloxifene	O(c1ccc(cc1)[C@@H]3c4c(OC([C@H]3c2ccccc2)(C)C)cc(OC)cc4)CCN5CCCC5
 Beta-Hydroxybutyric acid	CC(CC(=O)O)O
 Iron(II) bromide	[Fe+2].[Br-].[Br-]
+Sodium trichloroacetate	C(C(=O)[O-])(Cl)(Cl)Cl.[Na+]
 4-Aminophenol	c1cc(ccc1N)O
 3-Aminophenol	Oc1cccc(N)c1
 Radium bromide	Br[Ra]Br
@@ -16213,7 +16214,7 @@ TCMTB	C1=CC=C2C(=C1)N=C(S2)SCSC#N
 Isofentanyl	c2ccccc2N(C(=O)CC)C1CCN(CC1C)Cc3ccccc3
 Divinyl sulfide	C=CSC=C
 2,2'-Difluorofentanyl	Fc1ccccc1N(C(=O)CC)C3CCN(CC3)CCc2ccccc2F
-SAGE-217	O=C(CN1N=CC(C#N)=C1)[C@H]2CC[C@@]3([H])[C@]4([H])CC[C@]5([H])C[C@](C)(O)CC[C@]5([H])[C@@]4([H])CC[C@@]32C
+Zuranolone	O=C(CN1N=CC(C#N)=C1)[C@H]2CC[C@@]3([H])[C@]4([H])CC[C@]5([H])C[C@](C)(O)CC[C@]5([H])[C@@]4([H])CC[C@@]32C
 Ethylestradiol	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C)O
 Levonorgestrel acetate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C)CCC4=CC(=O)CC[C@H]34
 Baloxavir marboxil	O=C(OCOC(C(C=C1)=O)=C(N1N([C@@H]2C3=CC=CC=C3SCC4=C(F)C(F)=CC=C24)[C@@]5([H])N6CCOC5)C6=O)OC
@@ -16727,3 +16728,4 @@ Terbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[T
 Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
+Tonka Amine	CC(C1=CC2=CC=CC=C2O1)NC
