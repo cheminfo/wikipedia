@@ -2169,6 +2169,7 @@ Rubidium hydroxide	[Rb+].[OH-]
 Diisobutylaluminium hydride	CC(C)C[AlH]CC(C)C
 Phosphorus pentoxide	O=P13OP2(=O)OP(=O)(O1)OP(=O)(O2)O3
 Phosphorus pentoxide	P12(=O)OP3(=O)OP4(=O)OP5(=O)OP6(=O)OP(=O)(O1)OP7(=O)OP(=O)OP(=O)OP(=O)(O2)OP(=O)OP(=O)OP(=O)(O3)OP(=O)OP(=O)OP(=O)(O4)OP(=O)OP(=O)OP(=O)(O5)OP(=O)OP(=O)OP(=O)(O6)OP(=O)OP(=O)(O7)O
+Pyridinium chloride	C1=CC=[NH+]C=C1.[Cl-]
 Azobisisobutyronitrile	CC(C)(C#N)/N=N/C(C)(C)C#N
 Lutein	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C
 Tazarotene	O=C(OCC)c1ccc(nc1)C#Cc3ccc2SCCC(c2c3)(C)C
@@ -13681,6 +13682,7 @@ Magnesium monoperoxyphthalate	[Mg++].OOC(=O)C1=CC=CC=C1C([O-])=O.OOC(=O)C1=CC=CC
 Dibenzopentalene	C1=C2C(=CC3=C2C=CC=C3)C2=CC=CC=C12
 Perillene	o1ccc(c1)CC\C=C(/C)C
 Thiomuscimol	C1=C(SN=C1O)CN
+2,4-Dinitroaniline	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])N
 1-Nitropropane	CCC[N+](=O)[O-]
 SL-75102	c1cc(ccc1/C(=N\CCCC(=O)O)/c2cc(ccc2O)F)Cl
 Arofylline	CCCN1C(=O)C2=C(N=CN2)N(C1=O)C3=CC=C(C=C3)Cl
@@ -16729,3 +16731,4 @@ Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
 Tonka Amine	CC(C1=CC2=CC=CC=C2O1)NC
+P-Phenetidine	CCOC1=CC=C(C=C1)N
