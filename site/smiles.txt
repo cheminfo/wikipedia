@@ -6890,7 +6890,7 @@ Elfazepam	O=S(CC)(CCN1C(CN=C(C2=CC=CC=C2F)C3=C1C=CC(Cl)=C3)=O)=O
 Meclonazepam	O=N(C1=CC2=C(NC([C@H](C)N=C2C3=CC=CC=C3)=O)C=C1)=O
 Girisopam	Clc3cccc(C\2=N\N=C(/Cc1c/2cc(OC)c(OC)c1)C)c3
 Triflubazam	FC(F)(C1=CC(N(C2=CC=CC=C2)C(CC(N3C)=O)=O)=C3C=C1)F
-Beta-Alanine ethyl ester	O=C(OCC)CCN
+Β-Alanine ethyl ester	O=C(OCC)CCN
 2,4,6-Trichlorophenol	OC1=C(C=C(C=C1Cl)Cl)Cl
 2,2'-Bis(2-indenyl) biphenyl	C1(C2=C(C3=CC(C=CC=C5)=C5C3)C=CC=C2)=C(C4=CC(C=CC=C6)=C6C4)C=CC=C1
 6-Methylenedihydrodesoxymorphine	Oc2c1O[C@H]5\C(=C)CC[C@H]4[C@@H]3N(CC[C@@]45c1c(cc2)C3)C
@@ -16616,7 +16616,6 @@ Glyceryl diacetate	CC(=O)OCC(CO)OC(=O)C
 Azanide	[NH2-]
 Azanide	[N-]
 5-Nonanone	CCCCC(=O)CCCC
-THBC-spiro	COC1=CC2=C(C=C1)NC3=C2CCNC34CCCCC4
 Methylhippuric acid	CC1=CC=CC=C1C(=O)NCC(=O)O
 Methylhippuric acid	CC1=CC=CC(=C1)C(=O)NCC(=O)O
 Methylhippuric acid	CC1=CC=C(C=C1)C(=O)NCC(=O)O
@@ -16694,7 +16693,6 @@ Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4
 5-Aza-7-deazaguanine	C1=CN2C(=O)NC(=NC2=N1)N
 6-Amino-5-nitropyridin-2-one	C1=CC(=O)NC(=C1[N+](=O)[O-])N
 7-Methylguanine	CN1C=NC2=C1C(=O)N=C(N2)N
-Beta-DPEA	C1=CC=CC(=C1)C(CN)C2=CC=CC=C2
 Isopropylmagnesium chloride	C[CH-]C.[Mg+2].[Cl-]
 N-Butylbenzene	CCCCC1=CC=CC=C1
 Propanephosphonic acid anhydride	CCCP1(=O)OP(=O)(OP(=O)(O1)CCC)CCC
@@ -16730,5 +16728,4 @@ Terbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[T
 Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
-Tonka Amine	CC(C1=CC2=CC=CC=C2O1)NC
 P-Phenetidine	CCOC1=CC=C(C=C1)N
