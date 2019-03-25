@@ -100,7 +100,10 @@ Tyrosine	N[C@@H](Cc1ccc(O)cc1)C(O)=O
 Tyrosine	[NH3+][C@@H](Cc1ccc(O)cc1)C([O-])=O
 Thebaine	COC1=CC=C2[C@@H](C3)N(C)CC[C@@]24C5=C3C=CC(OC)=C5O[C@@H]14
 Urea	C(=O)(N)N
-Uric acid	OC1Nc2nc(=O)nc2C(=O)N1
+Uric acid	O=C1Nc2nc(=O)nc2C(=O)N1
+Uric acid	Oc0nc(O)nc1c0NC(=O)N1
+Uric acid	Oc0nc(O)nc1c0N=C(O)N1
+Uric acid	Oc0nc(O)nc1c0N=C([O-])N1
 Vitamin C	OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
 Sildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
@@ -3576,6 +3579,8 @@ Kaempferol	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
 Reinecke's salt	[NH4+].S=C=N/[Cr-3]([NH3+])([NH3+])(/N=C=S)(/N=C=S)/N=C=S.O
 P-Coumaric acid	c1cc(ccc1/C=C/C(=O)O)O
 Rubidium bromide	[Rb+].[Br-]
+Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au]
+Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au]
 DBDMH	O=C1N(Br)C(=O)N(Br)C1(C)C
 Calcium ascorbate	[Ca+2].O=C1C(\O)=C(\[O-])O[C@@H]1[C@@H](O)CO.O=C1C(\O)=C(\[O-])O[C@@H]1[C@@H](O)CO.O.O
 Sodium ascorbate	OC1=C([O-])[C@]([C@@H](O)CO)([H])OC1=O.[Na+]
@@ -4613,6 +4618,7 @@ Mesuximide	O=C2N(C(=O)CC2(c1ccccc1)C)C
 Pheneturide	O=C(N)NC(=O)C(c1ccccc1)CC
 Lofexidine	Clc2c(OC(C/1=N/CCN\1)C)c(Cl)ccc2
 Chloro(triphenylphosphine)gold(I)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Au]
+Chloro(triphenylphosphine)gold(I)	Cl[Au-][P+](c0ccccc0)(c0ccccc0)c0ccccc0
 Erbium(III) oxide	O=[Er]O[Er]=O
 Sodium hypophosphite	[O-][PH2]=O.[Na+]
 Dichlorophenolindophenol	Cl\C2=CC(=N/c1ccc(O)cc1)/C=C(/Cl)C2=O
@@ -8787,7 +8793,6 @@ Bensulide	CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1
 Chlorethoxyfos	ClC(OP(=S)(OCC)OCC)C(Cl)(Cl)Cl
 Disulfoton	S=P(OCC)(SCCSCC)OCC
 Dicrotophos	C/C(=C\C(=O)N(C)C)/OP(=O)(OC)OC
-Ethoprop	O=P(SCCC)(OCC)SCCC
 Fenamiphos	O=P(OCC)(Oc1ccc(SC)c(c1)C)NC(C)C
 Panobinostat	O=C(NO)\C=C\c1ccc(cc1)CNCCc3c2ccccc2[nH]c3C
 Talampicillin	O=C(OC2OC(=O)c1ccccc12)[C@@H]4N5C(=O)[C@@H](NC(=O)[C@@H](c3ccccc3)N)[C@H]5SC4(C)C
@@ -10787,7 +10792,8 @@ Baccatin III	CC1=C2[C@@H](C(=O)[C@@]3([C@@H](C[C@H]4[C@]([C@H]3[C@H]([C@@](C2(C)
 Safingol	OC[C@H](N)[C@@H](O)CCCCCCCCCCCCCCC
 Hexatriacontanoic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Acedoben	O=C(Nc1ccc(cc1)C(=O)O)C
-Chloro(dimethyl sulfide)gold(I)	[Au]Cl.S(C)C
+Chloro(dimethyl sulfide)gold(I)	[Au]Cl.CSC
+Chloro(dimethyl sulfide)gold(I)	Cl[Au-][S+](C)C
 Ibrolipim	Brc2cc(C#N)c(NC(=O)c1ccc(cc1)CP(=O)(OCC)OCC)cc2
 VDM-11	O=C(Nc1c(cc(O)cc1)C)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
 Ceroplastic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
@@ -10867,6 +10873,7 @@ Benzobarbital	CCC1(C(=O)NC(=O)N(C1=O)C(=O)C2=CC=CC=C2)C3=CC=CC=C3
 Carbubarb	CCCCC1(C(=O)NC(=O)NC1=O)CCOC(=O)N
 Kekulene	C1=CC2=CC3=C4C=C2C5=CC6=C(C=CC7=CC8=C(C=C76)C9=CC2=C(C=CC6=C2C=C2C(=C6)C=CC6=C2C=C4C(=C6)C=C3)C=C9C=C8)C=C51
 2CD-5EtO	CCOC1=CC(=C(C=C1C)OC)CCN
+Chloro(tetrahydrothiophene)gold(I)	C0CCC[S+]0[Au-]Cl
 Pivalonitrile	CC(C)(C)C#N
 Oxymorphol	CN1CC[C@]23c4c5ccc(c4O[C@H]2C(CC[C@]3([C@H]1C5)O)O)O
 1,3,5-Trichlorobenzene	Clc1cc(Cl)cc(Cl)c1
@@ -11069,7 +11076,7 @@ Dipotassium cyclooctatetraenide	[K+].c1=c[cH-]c=c[cH-]c=c1.[K+]
 Ilomastat	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
 Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
-Bromo(tetrahydrothiophene)gold(I)	Br[Au][S]1CCCC1
+Bromo(tetrahydrothiophene)gold(I)	Br[Au-][S+]1CCCC1
 Tetrabromoauric acid	[H+].Br[Au-](Br)(Br)Br
 Tropylium tetrafluoroborate	F[B-](F)(F)F.c1[cH+]ccccc1
 9,10-Dihydroxyanthracene	Oc2c1c(cccc1)c(O)c3c2cccc3
@@ -11774,6 +11781,7 @@ Plicatin B	O=C(OC)\C=C\c1ccc(O)c(c1)C/C=C(\C)C
 Agmatidine	c1cn(c(nc1=N)NCCCCNC(=N)N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Bakuchiol	Oc1ccc(/C=C/[C@@](\C=C)(C)CC\C=C(/C)C)cc1
 Caesium auride	[Cs][Au]
+Caesium auride	[Cs+].[Au-]
 Sinapine	O=C(/C=C/C1=CC(OC)=C(C(OC)=C1)O)OCC[N+](C)(C)C
 Raphanin	S=C=N/CC\C=C\S(=O)C
 Vapreotide	CC(C)[C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccc(cc4)O)NC(=O)[C@@H](Cc5ccccc5)N)C(=O)N[C@@H](Cc6c[nH]c7c6cccc7)C(=O)N
@@ -12441,6 +12449,7 @@ NE-100	CCCN(CCC)CCC1=CC(=C(C=C1)OC)OCCC2=CC=CC=C2
 Psoralidin	OC1=CC(O2)=C(C=C1)C3=C2C(C=C(C/C=C(C)/C)C(O)=C4)=C4OC3=O
 2-Chloroethanesulfonyl chloride	C(CCl)S(=O)(=O)Cl
 1,2-Dichloroethyl acetate	CC(=O)OC(CCl)Cl
+Ethoprophos	O=P(SCCC)(OCC)SCCC
 Ethyl thiocyanate	CCSC#N
 Alnusiin	C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)OC(=O)C6=CC(=C(C7=C6C8=C(C(=C(C=C8C(=O)O7)O)OC9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
 Bicornin	c1c(cc(c(c1O)O)O)C(=O)O[C@@H]2[C@H]3[C@@H](COC(=O)c4cc(c(c(c4Oc5c(cc6c(c5O)c7c(cc(c(c7oc6=O)O)O)C(=O)O3)O)O)O)O)O[C@H]([C@@H]2OC(=O)c8cc(c(c(c8)O)O)O)OC(=O)c9cc(c(c(c9)O)O)O
@@ -16728,4 +16737,5 @@ Terbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[T
 Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
+Cyanazine	CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N
 P-Phenetidine	CCOC1=CC=C(C=C1)N
