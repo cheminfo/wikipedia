@@ -2889,6 +2889,7 @@ Mellitic acid	O=C(O)c1c(c(c(c(c1C(=O)O)C(=O)O)C(=O)O)C(=O)O)C(=O)O
 1,1-Dichloroethane	ClC(Cl)C
 Olmesartan	CCCc2nc(C(C)(C)O)c(C(=O)OCc1oc(=O)oc1C)n2Cc5ccc(C3C=CC=CC3c4nn[nH]n4)cc5
 Isosafrole	CC=Cc1ccc2OCOc2c1
+Isosafrole	C/C=C\C1=CC2=C(C=C1)OCO2
 Pentyl propanoate	O=C(OCCCCC)CC
 Anidulafungin	CCCCCOc1ccc(cc1)c2ccc(cc2)c3ccc(cc3)C(=O)N[C@H]6C[C@@H](O)[C@@H](O)NC(=O)C4[C@@H](O)[C@@H](C)CN4C(=O)C(NC(=O)C(NC(=O)C5C[C@@H](O)CN5C(=O)C(NC6=O)[C@@H](C)O)[C@@H](O)[C@H](O)c7ccc(O)cc7)[C@@H](C)O
 Trimethylsilyldiazomethane	C[Si](C)(C)[CH-][N+]#N
@@ -14519,7 +14520,7 @@ Dimethyl adipate	COC(=O)CCCCC(=O)OC
 Bisacurone	C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@@](C=C1)(C)O)O
 Fluorotriiodomethane	C(F)(I)(I)I
 Bromochlorofluoromethane	C(F)(Cl)Br
-Brunfelsamidine	c1c[nH]cc1C(=N)N
+Brunfelsamidine	C1=CNC=C1C(=N)N
 Pentyl nitrite	CCCCCON=O
 Dysidenin	C[C@@H](C[C@@H](C(=O)N[C@@H](C)C1=NC=CS1)N(C)C(=O)C[C@H](C)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 BTRX-246040	Cc1c(cn(n1)c2c(cccn2)CO)CN3CCC4(CC3)c5c(cc(s5)Cl)C(CO4)(F)F
@@ -16584,6 +16585,7 @@ Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S
 Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
 Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
 Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c(Cl)c1)C(C)(C)C
+Metonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OC
 1,4-Bis(diphenylphosphino)butane	C1=CC=C(C=C1)P(CCCCP(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
 Tetramethylxylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
@@ -16740,5 +16742,6 @@ Niobium disulfide	S=[Nb]=S
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
 Cyanazine	CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N
 P-Phenetidine	CCOC1=CC=C(C=C1)N
+Trans-Propenylbenzene	CC=CC1=CC=CC=C1
 Glycitin	COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
