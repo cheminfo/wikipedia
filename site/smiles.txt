@@ -16321,6 +16321,7 @@ Kanamienamide	CCC(=CC(=O)N(C)C=CCCCC1CCC(CC(C(=O)N(C(C(=O)O1)CC(C)C)C)C)C)OC
 Diacetyl monoxime	CC(=NO)C(=O)C
 2-Diphenylphosphinobenzoic acid	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C(=O)O
 Nitroxinil	C1=C(C=C(C(=C1[N+](=O)[O-])O)I)C#N
+RB-120	C[C@@H](C(=O)OCC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)CSSC[C@H](CCSC)N
 RB-3007	C[C@H](NC(=O)[C@H](CC1=CC=C(C=C1)C1=CC=CC=C1)CP(=O)(OCCSC(C)=O)[C@@H](N)C1=CC=CC=C1)C(=O)OCC1=CC=CC=C1
 TBPS	CC(C)(C)C12COP(=S)(OC1)OC2
 IPTBO	CC(C)C12COP(=O)(OC1)OC2
@@ -16745,4 +16746,6 @@ P-Phenetidine	CCOC1=CC=C(C=C1)N
 Trans-Propenylbenzene	CC=CC1=CC=CC=C1
 Glycitin	COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
+1,5-Diazacyclooctane	C1CNCCCNC1
 Perfluorodecanoic acid	C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
+Nebraskanic acid	CCCCCC[C@H](C/C=C\CCCCCCC[C@H](CCCCCC(=O)O)O)O
