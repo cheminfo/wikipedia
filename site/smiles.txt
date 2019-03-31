@@ -2973,6 +2973,7 @@ Psicose	O=C([C@H](O)[C@H](O)[C@H](O)CO)CO
 N-Methyltryptamine	CNCCc1c[nH]c2ccccc12
 Benzyl acetate	c1ccccc1COC(=O)C
 Myrcene	CC(=CCCC(=C)C=C)C
+Flucloxacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c(onc2c1c(F)cccc1Cl)C)[C@H]4SC3(C)C
 P-Cymene	c1cc(ccc1C(C)C)C
 Barium titanate	[Ba+2].[Ba+2].[O-][Ti]([O-])([O-])[O-]
 Isopropylthioxanthone	CC(C)C1=CC=CC2=C1SC3=CC=CC=C3C2=O
@@ -16626,6 +16627,7 @@ Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
 Calcium ferrocyanide	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Ca+2].[Ca+2].[Fe+2]
 Glyceryl diacetate	CC(=O)OCC(CO)OC(=O)C
+Tert-Amyl ethyl ether	CCC(C)(C)OCC
 Azanide	[NH2-]
 Azanide	[N-]
 5-Nonanone	CCCCC(=O)CCCC
@@ -16749,3 +16751,5 @@ N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
 1,5-Diazacyclooctane	C1CNCCCNC1
 Perfluorodecanoic acid	C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Nebraskanic acid	CCCCCC[C@H](C/C=C\CCCCCCC[C@H](CCCCCC(=O)O)O)O
+LDN193189	C1(C2=C3N=CC(C4=CC=C(N5CCNCC5)C=C4)=CN3N=C2)=CC=NC6=CC=CC=C16
+CHIR99021	N#CC1=CN=C(NCCNC2=NC=C(C3=NC(C)=CN3)C(C4=CC=C(Cl)C=C4Cl)=N2)C=C1
