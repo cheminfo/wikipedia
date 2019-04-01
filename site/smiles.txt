@@ -158,7 +158,7 @@ Folate	n1c2C(=O)NC(N)=Nc2ncc1CNc3ccc(cc3)C(=O)N[C@H](C(O)=O)CCC(O)=O
 Biotin	O=C1N[C@@H]2[C@@H](SC[C@@H]2N1)CCCCC(=O)O
 Sodium dodecyl sulfate	CCCCCCCCCCCCOS(=O)([O-])=O.[Na+]
 Citric acid	OC(=O)CC(O)(C(=O)O)CC(=O)O
-Buckminsterfullerene	c12c3c4c5c1c6c7c8c2c9c1c3c2c3c4c4c%10c5c5c6c6c7c7c%11c8c9c8c9c1c2c1c2c3c4c3c4c%10c5c5c6c6c7c7c%11c8c8c9c1c1c2c3c2c4c5c6c3c7c8c1c23
+Buckminsterfullerene	C13=C4C9=C8C%26=C1C2=C%27C7=C6C%29=C2C3=C%30C5=C4C%10=C%11C%21=C5C%31=C%20C%17=C(C6=C%16C%23=C7C%28=C%24C%14=C(C8=C%13C(=C9%10)C%12=C%11C%22=C%18C%15=C%12C%13=C%14C%25=C%15C%19=C(C%16=C%17C(=C%18%19)C%20=C%21%22)C%23=C%24%25)C%26=C%27%28)C%29=C%30%31
 Acrylamide	C=CC(=O)N
 Sorbitol	OC([C@H](O)[C@@H](O)[C@H](O)CO)CO
 Galactose	O[C@H]1[C@@H](O)[C@H](O[C@H](O)[C@@H]1O)CO
@@ -1520,8 +1520,6 @@ Sodium chlorate	[Na+].[O-]Cl(=O)=O
 2C-P	COC1=C(CCN)C=C(OC)C(CCC)=C1
 Polyglycolide	*C(=O)CO*
 Acetic anhydride	O=C(OC(=O)C)C
-Artemether	C[C@@H]1CC[C@@H]3C42OO[C@](C)(CC[C@@H]12)O[C@H]4O[C@H](OC)[C@@H]3C
-Artesunate	[H][C@@]12CC[C@@]3(C)OO[C@@]11[C@@]([H])(CC[C@H]2C)[C@@H](C)[C@H](OC(=O)CCC(O)=O)O[C@]1([H])O3
 Strontium chloride	[Sr+2].[Cl-].[Cl-]
 Octreotide	C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccccc4)NC(=O)[C@@H](Cc5ccccc5)N)C(=O)N[C@H](CO)[C@@H](C)O)O
 Montelukast	O=C(O)CC1(CC1)CS[C@@H](c2cccc(c2)\C=C\c3nc4cc(Cl)ccc4cc3)CCc5ccccc5C(O)(C)C
@@ -5929,7 +5927,6 @@ Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
 3-Dehydrocarnitine	[O-]C(=O)CC(=O)C[N+](C)(C)C
 3-Dehydrocarnitine	C[N+](C)(C)CC(=O)CC(=O)O
 GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6c[nH]cn6)N
-Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
 Pretomanid	[O-][N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
@@ -15673,7 +15670,6 @@ Zinc sulfate (medical use)	[O-]S(=O)(=O)[O-].[Zn+2]
 Elisabethatriene	CC1CCC(C2=CC(=C)CCC12)C(C)CCC=C(C)C
 Pseudoisoeugenol	CC=CC1=C(C=CC(=C1)OC)O
 Magnesium sulfate (medical use)	[O-]S(=O)(=O)[O-].[Mg+2]
-Fluorescein (medical use)	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
 2,5-Dimethoxy-p-cymene	CC1=CC(=C(C=C1OC)C(C)C)OC
 Glasdegib	CN1CC[C@H](C[C@@H]1c2[nH]c3ccccc3n2)NC(=O)Nc4ccc(cc4)C#N
@@ -16751,5 +16747,6 @@ N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
 1,5-Diazacyclooctane	C1CNCCCNC1
 Perfluorodecanoic acid	C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Nebraskanic acid	CCCCCC[C@H](C/C=C\CCCCCCC[C@H](CCCCCC(=O)O)O)O
+Wuhanic acid	CC\C=C/CC[C@@H](O)C\C=C/CCCCCCC[C@@H](O)CCCCCC(O)=O
 LDN193189	C1(C2=C3N=CC(C4=CC=C(N5CCNCC5)C=C4)=CN3N=C2)=CC=NC6=CC=CC=C16
 CHIR99021	N#CC1=CN=C(NCCNC2=NC=C(C3=NC(C)=CN3)C(C4=CC=C(Cl)C=C4Cl)=N2)C=C1
