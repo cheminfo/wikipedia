@@ -11181,6 +11181,7 @@ Barium azide	[Ba+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Diacetyl peroxide	O=C(OOC(=O)C)C
 Thallium(III) nitrate	[Tl+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Momordicin-28	C[C@H]1[C@H](C)CC[C@]2(COC)CC[C@@]3(C)[C@]4(C)CC[C@@]5([H])C(C)(C)C(CC[C@]5(C)[C@@]4([H])C=C[C@]3(O)[C@@]21[H])=O
+Momordicilin	CC/C=C/C(C)(O)OC[C@@]1([C@@H]2CC[C@@]3([C@@H]([C@]2(CCC1=O)C)CC[C@H]4[C@]3(CC[C@@]5([C@H]4[C@H]([C@@H](CC5)C)C)C)C)C)C
 Momordol	CCC(CO)C(O)CC(O)C(C)CCC(C)CCCC1(C)C(CC)C(=O)C=CC1(C)O
 RCS-4	CCCCCn1cc(c2c1cccc2)C(=O)c3ccc(cc3)OC
 RCS-8	COc1ccccc1CC(=O)c2cn(c3c2cccc3)CCC4CCCCC4
@@ -16393,7 +16394,7 @@ Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(CC(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)O)O)C)O)OC
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)O
 Ferrichrome A	C/C(=C\C(=O)N(CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N1)CO)CO)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)O)/CC(=O)O
-Methionine sulfoximine	CS(=N)(=O)CCC(C(=O)O)N
+Methionine sulfoximine	CS(=N)(=O)CC[C@@H](C(=O)O)N
 Undecylprodigiosin	CCCCCCCCCCCC1=CC=C(N1)C=C2C(=CC(=C3C=CC=N3)N2)OC
 Cobalt(III) hydroxide	[OH-].[OH-].[OH-].[Co+3]
 Triethylphosphine	CCP(CC)CC
