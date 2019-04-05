@@ -8272,6 +8272,7 @@ Metocurine	C[N+]1(CCC2=CC(=C3C=C2[C@@H]1CC4=CC=C(C=C4)OC5=C6[C@@H](CC7=CC(=C(C=C
 Almorexant	CNC(=O)[C@@H](C1=CC=CC=C1)N2CCC3=CC(=C(C=C3[C@@H]2CCC4=CC=C(C=C4)C(F)(F)F)OC)OC
 Ammonium benzoate	[O-]C(=O)c1ccccc1.[NH4+]
 Tetradifon	C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl
+Potassium dideuterium phosphate	[2H]OP(=O)([O-])O[2H].[K+]
 Bradanicline	C1CN2CCC1[C@@H]([C@@H]2CC3=CN=CC=C3)NC(=O)C4=CC5=CC=CC=C5O4
 Silver trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].[Ag+]
 Tert-Butyl hydroperoxide	CC(C)(C)OO
@@ -14998,7 +14999,6 @@ Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
 Magnesium taurate	C(CS(=O)(=O)[O-])N.C(CS(=O)(=O)[O-])N.[Mg+2]
-O-acylpseudotropine	CN1C2CCC1CC(C2)OC(=O)C
 Meso-zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
@@ -16756,3 +16756,7 @@ Wuhanic acid	CC\C=C/CC[C@@H](O)C\C=C/CCCCCCC[C@@H](O)CCCCCC(O)=O
 LDN193189	C1(C2=C3N=CC(C4=CC=C(N5CCNCC5)C=C4)=CN3N=C2)=CC=NC6=CC=CC=C16
 CHIR99021	N#CC1=CN=C(NCCNC2=NC=C(C3=NC(C)=CN3)C(C4=CC=C(Cl)C=C4Cl)=N2)C=C1
 Sotagliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl
+Γ-Oryzanol	CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
+Γ-Oryzanol	CC(C)C(=C)CCC(C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
+Γ-Oryzanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)/C=C/C5=CC(=C(C=C5)O)OC)C)C
+Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
