@@ -118,6 +118,7 @@ Adenine	NC1=NC=NC2=C1N=C[NH]2
 Proline	OC(=O)C1CCCN1
 Proline	[O-]C(=O)C1CCC[NH2+]1
 Uracil	O=C1NC=CC(=O)N1
+Uracil	Oc1nccc(O)n1
 Lead(II) azide	[N-]=[N+]=N[Pb]N=[N+]=[N-]
 Mescaline	O(c1cc(cc(OC)c1OC)CCN)C
 Hydrogen cyanide	C#N
@@ -3676,6 +3677,7 @@ Petasis reagent	[Ti](C)(C).c1[cH-]ccc1.c2[cH-]ccc2
 Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
 Cytochalasin E	C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C
+Urea phosphate	C(=O)(N)N.OP(=O)(O)O
 Dimethyldioctadecylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
 Veratridine	O=C(O[C@H]7CC[C@@]1([C@@]65O[C@@]7(O)[C@H]1CC[C@H]6[C@@]2(O)[C@](O)([C@H]4[C@](O)([C@@H](O)C2)[C@@](O)(C)[C@H]3N(C[C@@H](C)CC3)C4)C5)C)c8ccc(OC)c(OC)c8
 Triphenylmethyl radical	c1ccc(cc1)[C](c1ccccc1)c1ccccc1
@@ -6134,7 +6136,7 @@ Monastrol	CCOC(=O)C1=C(NC(=S)NC1C2=CC(=CC=C2)O)C
 1,1,1,2-Tetrachloroethane	ClCC(Cl)(Cl)Cl
 Delorazepam	ClC1=CC=CC=C1C2=NCC(NC3=C2C=C(C=C3)Cl)=O
 Dihydroxymalonic acid	C(=O)(C(C(=O)O)(O)O)O
-2-Thiouracil	O=C1\C=C/NC(=S)N1
+2-Thiouracil	O=C1C=CNC(=S)N1
 Methyl acrylate	C=CC(OC)=O
 Seletracetam	F\C(F)=C/[C@H]1CC(=O)N([C@H](C(=O)N)CC)C1
 Flumedroxone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)O
@@ -16762,3 +16764,4 @@ Cyclopentadienyl magnesium bromide	C1C=CC=[C-]1.[Mg+2].[Br-]
 Γ-Oryzanol	CC(C)C(=C)CCC(C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
 Γ-Oryzanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)/C=C/C5=CC(=C(C=C5)O)OC)C)C
 Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
+4-Hydroxyazobenzene	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
