@@ -4290,7 +4290,7 @@ Hexylresorcinol	Oc1cc(O)ccc1CCCCCC
 Fenethylline	O=C2N(c1ncn(c1C(=O)N2C)CCNC(C)Cc3ccccc3)C
 Linolein	CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C\C/C=C\CCCCC)COC(=O)CCCCCCC/C=C\C/C=C\CCCCC
 Dihydropyridine	C1C=CNC=C1
-Tetracyanoethylene	C(#N)C(=C(C#N)C#N)C#N
+Tetracyanoethylene	N#CC(C#N)=C(C#N)C#N
 Isonicotinic acid	c1cnccc1C(=O)O
 Thiepine	S1C=CC=CC=C1
 1,4-Thiazepine	C\1=C\C=N/C=C\S/1
@@ -4902,7 +4902,7 @@ EHNA	CCCCCCC(C(C)O)n1cnc2c1ncnc2N
 Iodixanol	Ic1c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c(I)c1N(C(=O)C)CC(O)CN(C(=O)C)c2c(I)c(c(I)c(c2I)C(=O)NCC(O)CO)C(=O)NCC(O)CO
 2,4,6-Trinitroaniline	c1c(cc(c(c1[N+](=O)[O-])N)[N+](=O)[O-])[N+](=O)[O-]
 Picryl chloride	C1=C(C=C(C(=C1[N+](=O)[O-])Cl)[N+](=O)[O-])[N+](=O)[O-]
-Tetrathiafulvalene	C1=CSC(=C2SC=CS2)S1
+Tetrathiafulvalene	S1C=CSC1=C2SC=CS2
 Butaxamine	Cl.O(c1ccc(OC)cc1C(O)C(NC(C)(C)C)C)C
 Isobutylgermane	CC(C)C[Ge]
 GV (nerve agent)	FP(=O)(N(C)C)CCN(C)C
