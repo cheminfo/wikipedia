@@ -400,7 +400,7 @@ Disodium inosinate	C1=NC(=O)C2=C(N1)N(C=N2)C3C(C(C(O3)COP(=O)([O-])[O-])O)O.[Na+
 Iron(III) oxide	O1[Fe]2O[Fe]1O2
 Quinoline Yellow WS	[Na+].[Na+].[O-]S(=O)(=O)c1cc(cc2ccc(nc12)C4C(=O)c3ccccc3C4=O)S([O-])(=O)=O
 Titanium dioxide	O=[Ti]=O
-Xylitol	O[C@H](CO)[C@H](O)[C@@H](O)CO
+Xylitol	OC[C@@H](O)[C@H](O)[C@@H](O)CO
 Thiomersal	[Na+].[O-]C(=O)c1ccccc1S[Hg]CC
 Vasopressin	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Oxytocin	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O
@@ -10359,7 +10359,6 @@ Copper(II) tetrafluoroborate	[Cu+2].F[B-](F)(F)F.F[B-](F)(F)F.O
 Tetrahydroxy-1,4-benzoquinone bisoxalate	O=C1C(OC2=O)=C(OC2=O)C(C3=C1OC(C(O3)=O)=O)=O
 Threonic acid	C([C@H]([C@@H](C(=O)O)O)O)O
 Threonic acid	C([C@@H]([C@H](C(=O)O)O)O)O
-Iron(II) oxalate	[Fe+2].O=C([O-])-C([O-])=O
 SU6656	O=S(=O)(c1cc\2c(cc1)NC(=O)C/2=C/c3cc4c([nH]3)CCCC4)N(C)C
 Uranium hydride	[UH3]
 Uranium hydride	[H-].[H-].[H-].[U+3]
