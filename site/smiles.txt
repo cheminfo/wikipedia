@@ -6282,7 +6282,7 @@ Lofentanil	O=C(OC)[C@]3(N(c1ccccc1)C(=O)CC)CCN(CCc2ccccc2)C[C@H]3C
 Minaxolone	CCO[C@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2[C@@H](C[C@]4([C@H]3CC[C@@H]4C(=O)C)C)N(C)C)C[C@@H]1O)C
 Esketamine	CN[C@](C1=C(Cl)C=CC=C1)(CCCC2)C2=O
 Alfaxalone	O=C2[C@H]3[C@H]([C@@H]1CC[C@H](C(=O)C)[C@@]1(C)C2)CC[C@H]4C[C@H](O)CC[C@]34C
-Vinyl ether	O(\C=C)\C=C
+Divinyl ether	O(\C=C)\C=C
 Tinyatoxin	C[C@@H]1C[C@]2([C@H]3[C@H]4[C@]1([C@@H]5C=C(C(=O)[C@]5(CC(=C4)COC(=O)Cc6ccc(cc6)O)O)C)O[C@](O3)(O2)Cc7ccccc7)C(=C)C
 Sulfonmethane	O=S(=O)(C(C)(C)S(=O)(=O)CC)CC
 Xylobiose	C1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H](CO)[C@@H]([C@H](C=O)O)O)O)O)O
@@ -13348,6 +13348,7 @@ Galtamycin B	O=C1\C=C/[C@@H](O[C@H]1C)O[C@H]2CC[C@@H](O[C@H]2C)O[C@@H]8[C@@H](O[
 Asphodelin A	C1=CC(=C(C=C1O)O)C2=C(C3=C(C=C(C=C3)O)OC2=O)O
 Lobivine	CN(C)CCc1ccc2c(c1)OCO2
 Isoemericellin	C/C(C)=C\Cc3ccc2Oc1cc(C)c(OC\C=C(/C)C)c(CO)c1C(=O)c2c3O
+Arugosin C	CC1=CC(=C2C3=C1OCC(C3OC4=C(C2=O)C(=C(C=C4)CC=C(C)C)O)C(C)(C)O)O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
 Shamixanthone	C/C(C)=C\Cc4ccc(O)c3C(=O)c2c(cc(C)c1OC[C@H]([C@H](O)c12)C(C)=C)Oc34
 Macromomycin B	O=C(OC)c2cc(OC)cc1O/C(C(=O)Nc12)=C
@@ -16765,3 +16766,4 @@ Cyclopentadienyl magnesium bromide	C1C=CC=[C-]1.[Mg+2].[Br-]
 Γ-Oryzanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)/C=C/C5=CC(=C(C=C5)O)OC)C)C
 Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
 4-Hydroxyazobenzene	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
+Succinyl chloride	ClC(=O)CCC(Cl)=O
