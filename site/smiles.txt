@@ -9967,7 +9967,7 @@ Tecovirimat	FC(F)(F)c1ccc(cc1)C(=O)NN1C(=O)C2C(C3C=CC2C2CC32)C1=O
 Isosaccharinic acid	OC[C@@H](O)C[C@@](CO)(O)C(O)=O
 Coelenteramide	C1=CC=C(C=C1)CC2=C(N=CC(=C3C=CC(=O)C=C3)N2)NC(=O)CC4=CC=C(C=C4)O
 Coelenteramine	C1=CC=C(C=C1)CC2=C(N=CC(=C3C=CC(=O)C=C3)N2)N
-Regorafenib	CNC(=O)c1cc(ccn1)Oc2ccc(c(c2)F)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl.O
+Regorafenib	CNC(=O)c1cc(ccn1)Oc2ccc(c(c2)F)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl
 8-OH-PBZI	CCCN1CC[C@H]2[C@@H]1CCC3=C2C=C(C=C3)O
 2-OH-NPA	c4c3c2c(cc4O)-c1c(ccc(O)c1O)CC2N(CC3)CCC
 Sodium silox	[Na+].CC(C)(C)[Si]([O-])(C(C)(C)C)C(C)(C)C
@@ -16770,3 +16770,5 @@ Succinyl chloride	ClC(=O)CCC(Cl)=O
 3-Hydroxyasparagine	[C@H](C(C(=O)N)O)(C(=O)O)N
 Methyl phenyl sulfoxide	CS(=O)C1=CC=CC=C1
 Glutaryl chloride	C(CC(=O)Cl)CC(=O)Cl
+Suberoyl chloride	C(CCCC(=O)Cl)CCC(=O)Cl
+Azelaoyl chloride	C(CCCC(=O)Cl)CCCC(=O)Cl
