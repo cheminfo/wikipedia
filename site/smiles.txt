@@ -9534,7 +9534,7 @@ SNAP-94847	Fc1ccc(cc1F)Oc(cc4)ccc4CN(CC3)CCC3c2cc(NC(=O)C(C)C)ccc2C
 Tetrahydroxy-1,4-benzoquinone	O=C(C(O)=C1O)C(O)=C(O)C1=O
 GW-803430	C5CCCN5CCOc3ccc(cc3OC)-n1cnc2cc(sc2c1=O)-c(cc4)ccc4Cl
 SNAP-7941	CC(C)C(=O)Nc(c4)cccc4C3CCN(CC3)CCCNC(=O)N(C(=O)NC=1COC)C(C=1C(=O)OC)c(cc2F)ccc2F
-NGD-4715	Brc1ccc(nc1OC)N3CCN(CC3)Cc(cc2OC)ccc2OC
+NGD-4715	[H][C@@]12CCC[C@@H](N1CCN(C2)C(=O)C1=CC=C(N=C1)C(F)(F)F)C1=CC=C(OCCO)C(C)=C1C
 SHA-68	c4ccccc4C1(c5ccccc5)OC(=O)N3C1CN(CC3)C(=O)NCc(cc2)ccc2F
 SB-215505	CC1=C(C=C2C(=C1)CCN2C(=O)NC3=CC=NC4=CC=CC=C43)Cl
 Meclinertant	c7cc3c(cc7Cl)nccc3-n4nc(cc4-c1c(OC)cccc1OC)C(=O)NC2(C(O)=O)C5CC(C6)CC2CC6C5
@@ -16772,3 +16772,4 @@ Glutaryl chloride	C(CC(=O)Cl)CC(=O)Cl
 Suberoyl chloride	C(CCCC(=O)Cl)CCC(=O)Cl
 Azelaoyl chloride	C(CCCC(=O)Cl)CCCC(=O)Cl
 Triacetonamine	O=C1CC(NC(C)(C)C1)(C)C
+4-Amino-2,2,6,6-tetramethylpiperidine	CC1(CC(CC(N1)(C)C)N)C
