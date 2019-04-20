@@ -4978,6 +4978,7 @@ Gamma-Glutamylmethylamide	O=C(NC)CC[C@H](N)C(=O)O
 Triphenylarsine	C1=CC=C(C=C1)[As](C1=CC=CC=C1)C1=CC=CC=C1
 Ambucetamide	O=C(N)C(c1ccc(OC)cc1)N(CCCC)CCCC
 Boromycin	CC(C)C([NH3+])C(=O)O[C@H](C)[C@H]7OC(=O)C4O[B-]25O[C@@H](C(=O)O[C@H]1C[C@H](O[C@@H]1C)CCC[C@@H](O)C(C)(C)[C@@H]3CC[C@@H](C)[C@@]4(O2)O3)[C@]6(O5)O[C@@H](CC[C@H]6C)C(C)(C)[C@@H](O)CC\C=C/C7
+Triacetonamine	O=C1CC(NC(C)(C)C1)(C)C
 DMCM	CCC1=C2C3=CC(=C(C=C3NC2=CN=C1C(=O)OC)OC)OC
 Diphenylketene	O=C=C(c1ccccc1)c2ccccc2
 Rintatolimod	O=P(O)(O)OC[C@H]3O[C@@H](n1c2N\C=N/C(=O)c2nc1)[C@H](O)[C@@H]3O.O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O.O=C/1NC(=O)N(\C=C\1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP(=O)(O)O
@@ -16771,5 +16772,5 @@ Methyl phenyl sulfoxide	CS(=O)C1=CC=CC=C1
 Glutaryl chloride	C(CC(=O)Cl)CC(=O)Cl
 Suberoyl chloride	C(CCCC(=O)Cl)CCC(=O)Cl
 Azelaoyl chloride	C(CCCC(=O)Cl)CCCC(=O)Cl
-Triacetonamine	O=C1CC(NC(C)(C)C1)(C)C
+Vaginol	CC(C)([C@@H]1[C@@H](c2c(ccc3c2oc(=O)cc3)O1)O)O
 4-Amino-2,2,6,6-tetramethylpiperidine	CC1(CC(CC(N1)(C)C)N)C
