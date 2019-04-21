@@ -12212,7 +12212,6 @@ Chloro(pyridine)cobaloxime	CO[H]O\N1=C(/C)\C(\C)=N2\O[H]O\N3=C(/C)\C(\C)=N/[Co]1
 Punicacortein C	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C9C(C1=C(C(=C(C(=C1C(=O)O9)C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)O)O
 Punicacortein B	Oc1cc(cc(O)c1O)C(=O)OC[C@@H](O)[C@@H](O)[C@@H]5OC(=O)c2cc(O)c(O)c(O)c2c3c(O)c(O)c(O)c4[C@H](O)[C@@H]5OC(=O)c34
 Punicafolin	Oc4c(O)cc(cc4O)C(=O)OC6C(OC(=O)c(cc1O)c-5c(O)c1O)C(OC(=O)c(cc7O)cc(O)c7O)C(OC(=O)c(cc3O)cc(O)c3O)OC6COC(=O)c(cc(O)c2O)c-5c2O
-Iodous acid	O[I+][O-]
 Granatin A	C1C2C3C(C(C(O2)C(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)OC(=O)C6=CC(=O)C7(C(C6C8=C(O7)C(=C(C=C8C(=O)O3)O)O)(O)O)O)O
 Granatin B	C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=O)C(C6(C5C7=C(O6)C(=C(C=C7C(=O)O3)O)O)O)(O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
 N-(1-Naphthyl)ethylenediamine	c1cccc2cccc(NCCN)c12
@@ -16774,3 +16773,4 @@ Suberoyl chloride	C(CCCC(=O)Cl)CCC(=O)Cl
 Azelaoyl chloride	C(CCCC(=O)Cl)CCCC(=O)Cl
 Vaginol	CC(C)([C@@H]1[C@@H](c2c(ccc3c2oc(=O)cc3)O1)O)O
 4-Amino-2,2,6,6-tetramethylpiperidine	CC1(CC(CC(N1)(C)C)N)C
+Bobbitt's salt	[B-](F)(F)(F)F.CC(=O)NC1CC([N+](=O)C(C1)(C)C)(C)C
