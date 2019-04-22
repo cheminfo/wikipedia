@@ -1629,6 +1629,7 @@ Nalidixic acid	O=C\2c1c(nc(cc1)C)N(/C=C/2C(=O)O)CC
 Chloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CC
 Isopropyl β-D-1-thiogalactopyranoside	CC(C)S[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O
 Hydrazoic acid	[N-]=[N+]=N
+Hydrazoic acid	N#[N+][N-H]
 Di-tert-butyl ether	O(C(C)(C)C)C(C)(C)C
 Diisopropyl ether	O(C(C)C)C(C)C
 1,4-Dioxane	O1CCOCC1
@@ -10051,6 +10052,7 @@ Apiforol	C1C(C2=C(C=C(C=C2OC1C3=CC=C(C=C3)O)O)O)O
 Luteoforol	C1C(C2=C(C=C(C=C2OC1C3=CC(=C(C=C3)O)O)O)O)O
 Afzelechin	Oc1ccc(cc1)[C@H]3Oc2cc(O)cc(O)c2C[C@H]3O
 Afzelechin	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC=C(C=C3)O)O
+Polonium hydride	[PoH2]
 Benzyl mercaptan	SCc1ccccc1
 Carbon tetroxide	O=C1OOO1
 Iodoresiniferatoxin	O=C1C(C)=C[C@@]([C@]1(O)CC(COC(CC2=CC(OC)=C(O)C(I)=C2)=O)=C[C@]([H])3[C@H]4OC5(CC6=CC=CC=C6)O7)([H])[C@@]37[C@H](C)C[C@@]4(O5)C(C)=C
@@ -16650,7 +16652,7 @@ Berberonic acid	C1=C(C(=CN=C1C(=O)O)C(=O)O)C(=O)O
 Dinicotinic acid	C1=C(C=NC=C1C(=O)O)C(=O)O
 Potassium tellurite	[O-][Te](=O)[O-].[K+].[K+]
 RU-56187	CC1(C(=O)N(C(=S)N1C)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
-Lutidinic acid	C1=CN=C(C=C1C(=O)O)C(=O)O
+Lutidinic acid	O=C(O)c(c0)nccc0C(O)=O
 RU-57073	CC1(C(=O)N(C(=S)N1CCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 SN 35210	Clc1ccccc1C2(NCCCCC(=O)OC)CCCCC2=O
