@@ -2661,7 +2661,6 @@ Aminocaproic acid	C(CCC(=O)O)CCN
 Isomalt	O(C[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO
 Potassium manganate	[O-][Mn](=O)(=O)[O-].[K+].[K+]
 Chromium(III) picolinate	c1ccnc(c1)C(=O)[O-].c1ccnc(c1)C(=O)[O-].c1ccnc(c1)C(=O)[O-].[Cr+3]
-Chromium(III) picolinate	c0ccc[n+]1c0C(=O)O[Cr-3]123(OC(=O)c0[n+]2cccc0)OC(=O)c0[n+]3cccc0
 Tetrapropylammonium perruthenate	CCC[N+](CCC)(CCC)CCC.O=[Ru](=O)([O-])=O
 N-Methylmorpholine N-oxide	C[N+]1(CCOCC1)[O-]
 Tetrafluoroethylene	FC(F)=C(F)F
@@ -3778,6 +3777,7 @@ Nitroacetanilide	O=C(Nc1ccc(cc1)[N+]([O-])=O)C
 Delavirdine	CC(C)Nc1cccnc1N4CCN(C(=O)c3cc2cc(NS(C)(=O)=O)ccc2[nH]3)CC4
 Amprenavir	O=C(O[C@H]1CCOC1)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3
 Myricetin	Oc1cc(O)c2c(=O)c(O)c(oc2c1)c3cc(O)c(O)c(O)c3
+Tetrahydrothiophene	S1CCCC1
 Methoxychlor	ClC(Cl)(Cl)C(c1ccc(OC)cc1)c2ccc(OC)cc2
 Caesium acetate	[Cs+].[O-]C(=O)C
 Bisacodyl	O=C(Oc1ccc(cc1)C(c2ccc(OC(=O)C)cc2)c3ncccc3)C
@@ -16778,3 +16778,4 @@ Vaginol	CC(C)([C@@H]1[C@@H](c2c(ccc3c2oc(=O)cc3)O1)O)O
 Bobbitt's salt	[B-](F)(F)(F)F.CC(=O)NC1CC([N+](=O)C(C1)(C)C)(C)C
 Tris(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)[Si](C)(C)C
 Tetrakis(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C
+Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
