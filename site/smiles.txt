@@ -16771,6 +16771,7 @@ N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
 Perfluorodecanoic acid	C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Nebraskanic acid	CCCCCC[C@H](C/C=C\CCCCCCC[C@H](CCCCCC(=O)O)O)O
 Wuhanic acid	CC\C=C/CC[C@@H](O)C\C=C/CCCCCCC[C@@H](O)CCCCCC(O)=O
+Vinyl neodecanoate	CC(C)(C)CCCCCC(=O)OC=C
 LDN193189	C1(C2=C3N=CC(C4=CC=C(N5CCNCC5)C=C4)=CN3N=C2)=CC=NC6=CC=CC=C16
 CHIR99021	N#CC1=CN=C(NCCNC2=NC=C(C3=NC(C)=CN3)C(C4=CC=C(Cl)C=C4Cl)=N2)C=C1
 Sotagliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl
@@ -16792,3 +16793,5 @@ Bobbitt's salt	[B-](F)(F)(F)F.CC(=O)NC1CC([N+](=O)C(C1)(C)C)(C)C
 Tris(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)[Si](C)(C)C
 Tetrakis(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C
 Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
+2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
+2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
