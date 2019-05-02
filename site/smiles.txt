@@ -233,7 +233,7 @@ Acetonitrile	CC#N
 Potassium nitrate	[K+].[O-][N+]([O-])=O
 Boric acid	[OH+]=[B-](O)O
 Boric acid	OB(O)O
-Borax	[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2.O.O.O.O.O.O.O.O.O.O
+Borax	[Na+].[Na+].O0B(O)O[B-]1(O)OB(O)O[B-]0(O)O1.O.O.O.O.O.O.O.O
 Creatinine	CN1CC(=O)N=C1N
 Creatinine	CN1CC(=O)NC1=N
 Picric acid	O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1O)[N+]([O-])=O
@@ -4100,6 +4100,7 @@ Samarium(III) fluoride	F[Sm](F)F
 Selenium tetrafluoride	F[Se](F)(F)F
 Silicon tetraiodide	I[Si](I)(I)I
 Silicon disulfide	S=[Si]=S
+Silicon disulfide	S=[Si](S0)S[Si]0(S0)S[Si]0(S0)S[Si]0(S0)S[Si]0(S0)S[Si]0(S0)S[Si]0=S
 Sodium hexafluoroaluminate	[Na+].[Na+].[Na+].F[Al-3](F)(F)(F)(F)F
 Sodium telluride	[Na][Te][Na]
 Sodium metatitanate	[O-][Ti](=O)O[Ti](=O)O[Ti](=O)[O-].[Na+].[Na+]
@@ -5272,7 +5273,7 @@ Fenoprop	Clc1cc(OC(C(=O)O)C)c(Cl)cc1Cl
 Dihydropteroate	O=C(O)c1ccc(cc1)NCC/2=N/C=3C(=O)\N=C(/NC=3NC\2)N
 Pivalamide	O=C(N)C(C)(C)C
 Dimethyl oxalate	O=C(OC)C(=O)OC
-Tricalcium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Ca+2].[Ca+2].[Ca+2]
+Tricalcium aluminate	[O-][Al-]0([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O0.[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Deuterated acetone	[2H]C([2H])([2H])C(=O)C([2H])([2H])[2H]
 Deuterated benzene	[2H]c1c([2H])c([2H])c([2H])c([2H])c1[2H]
 Deuterated DMF	[2H]C(=O)N(C([2H])([2H])[2H])C([2H])([2H])[2H]
@@ -8578,7 +8579,7 @@ Diamantane	C1C5CC2C3C(C4C1C2CC(C3)C4)C5
 AR-A000002	C5COCCN5c(cc4)ccc4C(=O)NC2CCc1c(C2)c(ccc1C)N3CCN(C)CC3
 Phenylethylmalonamide	CCC(c1ccccc1)(C(=O)N)C(=O)N
 2-Dimethylaminoethylazide	CN(C)CCN=[N+]=[N-]
-Pyrrolidonyl-beta-naphthylamide	O=C(Nc2cc1ccccc1cc2)C3NC(=O)CC3
+Pyrrolidonyl-β-naphthylamide	O=C(Nc2cc1ccccc1cc2)C3NC(=O)CC3
 Cyclopropenylidene	C1=C[C]1
 Vulpinic acid	COC(=O)/C(=C/1\C(=O)C(=C(O1)O)C2=CC=CC=C2)/C3=CC=CC=C3
 A-372159	FC(F)(C1=C(C2=CC3=C4C(OCCCN4[C@@]5([H])CCNC[C@@]35[H])=C2)C=CC(OC(C)C)=C1)F
