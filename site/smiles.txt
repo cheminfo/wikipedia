@@ -2098,7 +2098,6 @@ Iodic acid	O[I+2]([O-])[O-]
 Periodic acid	OI(=O)(O)(O)(O)O
 Periodic acid	O[I+3]([O-])([O-])[O-]
 Molybdenum hexacarbonyl	O=C=[Mo](=C=O)(=C=O)(=C=O)(=C=O)=C=O
-Bromate	[O-][Br+2]([O-])[O-]
 Tetraphenylene	C1=CC=C2C(=C1)C3=CC=CC=C3C4=CC=CC=C4C5=CC=CC=C25
 Toxaphene	C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
 Heptachlor	ClC1/C=C\C2C3(Cl)C(\Cl)=C(\Cl)C(Cl)(C12)C3(Cl)Cl
@@ -16794,5 +16793,6 @@ Bobbitt's salt	[B-](F)(F)(F)F.CC(=O)NC1CC([N+](=O)C(C1)(C)C)(C)C
 Tris(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)[Si](C)(C)C
 Tetrakis(trimethylsilyl)silane	C[Si](C)(C)[Si]([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C
 Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
+Tetraethylenepentamine	C(CNCCNCCNCCN)N
 2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
 2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
