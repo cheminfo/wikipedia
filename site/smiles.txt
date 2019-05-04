@@ -13318,10 +13318,12 @@ Myrmicacin	CCCCCCCC(CC(=O)O)O
 4-Methyl-3-thiosemicarbazide	CNC(=S)NN
 Tridemorph	CCCCCCCCCCCCCN1CC(OC(C1)C)C
 Vincaminol	CC[C@@]12CCCN3[C@@H]1c4c(c5ccccc5n4[C@](C2)(CO)O)CC3
+Strictamine	C/C=C\1/CN2CCC34[C@H]([C@H]1C[C@H]2C3=NC5=CC=CC=C45)C(=O)OC
 Vineridine	C[C@H]1[C@@H]2CN3CC[C@@]4([C@H]3C[C@@H]2C(=CO1)C(=O)OC)c5ccc(cc5NC4=O)OC
 Akuammicine	C123C(=C(C4CC1N(CC3)CC4=CC)C(OC)=O)Nc1c2cccc1
 Boonein	O=C1OCC[C@H]2C[C@H](O)[C@H](C)[C@@H]12
 Loganin	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
+Echitamidine	C[C@@H]([C@@H]1CN2CCC34[C@@H]2C[C@@H]1C(=C3NC5=CC=CC=C45)C(=O)OC)O
 Alschomine	C/C=C\1/C=[N+]([C@H]2C[C@@H]1C([C@@]34[C@@]2(Nc5c3cccc5)O[C@H](C4)OC)C(=O)OC)[O-]
 Picrinine	C/C=C\1/CN2C3CC1C(C45C3(NC6=CC=CC=C64)OC2C5)C(=O)OC
 Scholarine	C[C@@H]([C@@H]1CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3Nc5c4cccc5OC)C(=O)OC)O
@@ -13352,6 +13354,7 @@ Durantin A	CC(=O)OC[C@@H]1[C@H](OC2=C(C=C3C=CC(=O)OC3=C2O1)OC)C4=CC(=C(C=C4)O)OC
 Auranthine	C1CC2=NC3=CC=CC=C3C(=O)N2C4=NC5=CC=CC=C5C(=O)NC41
 Curvularin	C[C@H]1CCCCCC(=O)c2c(cc(cc2O)O)CC(=O)O1
 Dehydrocurvularin	C[C@H]1CCC/C=C/C(=O)c2c(cc(cc2O)O)CC(=O)O1
+Villalstonine	C/C=C/1\CN2CCC34CC5C6CC7C8=C(CC(C6COC5(OC39C2CC1C(N9C1=CC=CC=C41)C(=O)OC)C)N7C)C1=CC=CC=C1N8C
 Niphimycin	CC1CCC(C(C(CC(C(/C=C/C(C(C(=O)O[C@@H](C(/C=C/C=C/C(C(C(CC(CC(CC2CC(C(C(O2)(CC1O)O)O)O)OC(=O)CC(=O)O)O)O)C)O)C)[C@@H](C)C[C@@H](C)CCC/C=C/CCCNC(=NC)N)C)O)C)O)O)C)O
 Spiculisporic acid	CCCCCCCCCCC(C(=O)O)C1(CCC(=O)O1)C(=O)O
 Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H](C(C)(C)O)OC=O)O
@@ -13421,6 +13424,7 @@ Bacillibactin	C[C@@H]1[C@@H](C(=O)O[C@@H]([C@@H](C(=O)O[C@@H]([C@@H](C(=O)O1)NC(
 PNU-181731	C12=CC=CC=C1N3C(CCNCC3)=C2
 Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
+Vinorine	C/C=C\1/CN2[C@H]3C[C@@H]1C4[C@@H]2C[C@]5([C@@H]4OC(=O)C)C3=NC6=CC=CC=C56
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
 Rosiridin	CC(=CC[C@@H](/C(=C/CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)/C)O)C
 Dihydrocuscohygrine	OC(C[C@H]1N(C)CCC1)C[C@H]2N(C)CCC2
@@ -16256,6 +16260,7 @@ EVT-101	CC1=NC=CN1CC2=NN=CC(=C2)C3=CC(=C(C=C3)F)C(F)F
 3α-Hydroxytibolone	C[C@@H]1CC2=C(CC[C@H](C2)O)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
 3β-Hydroxytibolone	C[C@@H]1CC2=C(CC[C@@H](C2)O)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
 Malacidin	CC(NC([C@@H]1C[C@@H](CN1C([C@H](NC([C@@H](NC(CNC([C@H](NC([C@H](NC([C@H](NC([C@@H](N2)C(C)C)=O)CCCCN)=O)C(C(O)=O)O)=O)CC(O)=O)=O)=O)C(C)C(O)=O)=O)C(C)C)=O)C)=O)[C@@H](NC([C@H](NC(/C=C/C=C\CCC(C)C)=O)C(C)C(O)=O)=O)C2=O
+1-Diazidocarbamoyl-5-azidotetrazole	N(=[N+]=[N-])C1=NN=NN1N=C(N=[N+]=[N-])N=[N+]=[N-]
 A22 (antibiotic)	C1=CC(=C(C=C1CSC(=N)N)Cl)Cl
 Diethyl lutidinate	CCOC(=O)C1=CC(=NC=C1)C(=O)OCC
 (Butadiene)iron tricarbonyl	C=CC=C.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Fe]
@@ -16796,3 +16801,6 @@ Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
 Tetraethylenepentamine	C(CNCCNCCNCCN)N
 2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
 2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
+Nickel silicide	[Si](=[Ni])=[Ni]
+Decyl(triphenyl)phosphonium	CCCCCCCCCCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+Isotonitazene	CCN(CCn1c(Cc2ccc(cc2)OC(C)C)nc2c1ccc(c2)N(=O)=O)CC
