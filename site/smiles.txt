@@ -15,6 +15,7 @@ Boron nitride	[NH+]12[B-][NH+]3[B-][NH+]([BH-]14)[BH-]1[N+]5([BH-]38)[B-]26[NH+]
 Boron nitride	[N+]7[BH-]2[N+][BH-]3[NH+]8[BH-]4[N+][BH-]5[N+][B-]78[N+]90[B-][NH+]5[B-][NH+]4[BH-]9[NH+]3[B-][NH+]2[B-]0
 Bicarbonate	OC([O-])=O
 Benzoic acid	O=C(O)c1ccccc1
+Bakelite	Oc0ccccc0Cc0cc(C1)c(O)c(c0)Cc0c(O)ccc(c0)Cc0ccc(O)c(c0)Cc0c(O)ccc(c0)Cc0c(O)ccc(c0)Cc0c(O)c(C2)cc(c0)Cc0c(O)ccc(c0)Cc(c0O)cc2cc0Cc0cc(Cc2ccc(O)cc2)c(O)c(c0)Cc0c(O)ccc(c0)C1
 Carbon dioxide	O=C=O
 Cyanide	[C-]#N
 Carbonate	C(=O)([O-])[O-]
@@ -562,7 +563,6 @@ Sodium stearoyl lactylate	O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.[Na+]
 Resveratrol	Oc1ccc(cc1)\C=C\c2cc(O)cc(O)c2
 Phthalic acid	C1=CC=C(C(=C1)C(=O)O)C(=O)O
 DEET	O=C(c1cc(ccc1)C)N(CC)CC
-Phthalic anhydride	O=c1oc(=O)c2ccccc12
 Tetrahydrogestrinone	O=C1C=C2C(CC1)=C3C=C[C@@]4(CC)[C@@]([C@]3([H])CC2)([H])CC[C@]4(CC)O
 Glycyrrhizin	O=C(O)[C@H]7O[C@@H](O[C@@H]6[C@@H](O)[C@H](O)[C@H](O[C@@H]6O[C@@H]2C(C)(C)[C@@H]3CC[C@@]1(C)[C@]5(C(=C/C(=O)[C@@H]1[C@@]3(C)CC2)\[C@@H]4C[C@](C(=O)O)(C)CC[C@]4(C)CC5)C)C(=O)O)[C@H](O)[C@@H](O)[C@@H]7O
 Calcium chloride	[Ca+2].[Cl-].[Cl-]
@@ -789,6 +789,7 @@ Acetone peroxide	CC1(C)OOC(C)(C)OOC(C)(C)OO1
 Beta-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Strontium titanate	[Sr++].[O-][Ti]([O-])=O
 Sulfur trioxide	O=S(=O)=O
+Sulfur trioxide	O=S0(=O)OS(=O)(=O)OS(=O)(=O)O0
 Alpha-Carotene	C\C2=C\CCC(C)(C)C2/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Brompheniramine	Brc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
@@ -16804,3 +16805,4 @@ Tetraethylenepentamine	C(CNCCNCCNCCN)N
 Nickel silicide	[Si](=[Ni])=[Ni]
 Decyl(triphenyl)phosphonium	CCCCCCCCCCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Isotonitazene	CCN(CCn1c(Cc2ccc(cc2)OC(C)C)nc2c1ccc(c2)N(=O)=O)CC
+KB-16	COC(=O)N(CCCl)N=O
