@@ -790,6 +790,7 @@ Beta-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\
 Strontium titanate	[Sr++].[O-][Ti]([O-])=O
 Sulfur trioxide	O=S(=O)=O
 Sulfur trioxide	O=S0(=O)OS(=O)(=O)OS(=O)(=O)O0
+Sulfur trioxide	OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)O
 Alpha-Carotene	C\C2=C\CCC(C)(C)C2/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Brompheniramine	Brc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
@@ -1498,7 +1499,9 @@ Pyrene	c1cc2cccc3ccc4cccc1c4c32
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
 Sodium thiosulfate	[Na+].[Na+].[O-]S([O-])(=O)=S
-Lithium diisopropylamide	[Li+].[N-](C(C)C)C(C)C
+Lithium diisopropylamide	[Li+].CC(C)[N-]C(C)C
+Lithium diisopropylamide	CC(C)N([Li])C(C)C
+Lithium diisopropylamide	C1CCC[O+]1[Li-2]0[N+](C(C)C)(C(C)C)[Li-2]([O+]1CCCC1)[N+]0(C(C)C)C(C)C
 Linalool	CC(O)(C=C)CCC=C(C)C
 Dulcin	CCOC1=CC=C(C=C1)NC(=O)N
 Alitame	O=C(NC1C(SC1(C)C)(C)C)[C@H](NC(=O)[C@@H](N)CC(=O)O)C
@@ -1890,6 +1893,7 @@ Tinidazole	[O-][N+](=O)c1cnc(n1CCS(=O)(=O)CC)C
 Heneicosane	CCCCCCCCCCCCCCCCCCCCC
 CX717	C1COCCN1C(=O)C2=CC3=NON=C3C=C2
 Lithium tetramethylpiperidide	[Li]N1C(C)(C)CCCC1(C)C
+Lithium tetramethylpiperidide	CC1(C)CCCC(C)(C)[N+]01[Li-][N+]1(C(C)(C)CCCC1(C)C)[Li-][N+]1(C(C)(C)CCCC1(C)C)[Li-][N+]1([Li-]0)C(C)(C)CCCC1(C)C
 Potassium superoxide	[O-][O-].[K+].[K+]
 2,2,6,6-Tetramethylpiperidine	N1C(C)(CCCC1(C)C)C
 Telluride (chemistry)	[Te--]
@@ -5514,6 +5518,7 @@ Cardenolide	CC12CCCCC1CCC3C2CCC4(C3C=CC4C5CC(=O)OC5)C
 Bufadienolide	CC14CCC3C2(C)CCCCC2CCC3C1CCC4c5ccc(=O)oc5
 Isomescaline	O(c1ccc(c(OC)c1OC)CCN)C
 Lithium bis(trimethylsilyl)amide	C[Si](C)(C)[N-][Si](C)(C)C.[Li+]
+Lithium bis(trimethylsilyl)amide	C[Si](C)(C)[N+]0([Si](C)(C)C)[Li-][N+]([Si](C)(C)C)([Si](C)(C)C)[Li-][N+]([Si](C)(C)C)([Si](C)(C)C)[Li-]0
 Potassium bis(trimethylsilyl)amide	C[Si](C)(C)N([K])[Si](C)(C)C
 Asymbescaline	O(c1c(OC)cc(cc1OCC)CCN)CC
 Symbescaline	COc1c(cc(cc1OCC)CCN)OCC
