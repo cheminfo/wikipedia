@@ -11008,8 +11008,7 @@ Sodium hexachloroplatinate	[Na+].[Na+].Cl[Pt-2](Cl)(Cl)(Cl)(Cl)Cl
 Epoxomicin	O=C([C@@]1(C)CO1)[C@H](CC(C)C)NC([C@@H](NC([C@H]([C@@H](C)CC)NC([C@H]([C@@H](C)CC)N(C)C(C)=O)=O)=O)[C@H](O)C)=O
 Carfilzomib	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[C@@]1(OC1)C)CC(C)C)Cc2ccccc2)CC(C)C)CCc3ccccc3)CN4CCOCC4
 Sodium bismuthate	[O-][Bi](=O)=O.[Na+]
-Ammonium phosphomolybdate	O.O=[Mo](=O)(OP(=O)(O[Mo](=O)(=O)O[Mo](=O)(=O)O[Mo](=O)(=O)O[Mo]([O-])(=O)=O)O[Mo](=O)(=O)O[Mo](=O)(=O)O[Mo](=O)(=O)O[Mo]([O-])(=O)=O)O[Mo](=O)(=O)O[Mo](=O)(=O)O[Mo]([O-])(=O)=O.[NH4+].[NH4+].[NH4+]
-Ammonium phosphomolybdate	[Mo]18%21%24(O[Mo]%16%18%23(O[Mo]56(O1)(O[Mo]247(O[Mo]9%22(O[Mo]%12%13(O2)(O[Mo]3%11%14(O[Mo]%17%19(O[Mo](O3)(O4)(O5)([O++]67[P+]%15%20[O++]89[Mo]%10(O[Mo](O[Mo](O%10)(O%11)(O%12)([O++]%13%14%15)[O-])(O%16)(O%17)([O++]%18%19%20)[O-])(O%21)(O%22)[O-])[O-])(O%23)[O-])[O-])[O-])(O%24)[O-])[O-])[O-])[O-])[O-].[NH4+].[NH4+].[NH4+]
+Ammonium phosphomolybdate	[NH4+].[NH4+].[NH4+].[O-]P(=O)([O-])[O-].O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O
 DOTA-TATE	C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)[C@@H](CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)O)CC(=O)O)CC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)O
 Vemurafenib	CCCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(Cl)cc4
 Aluminium diacetate	CC(=O)O[Al](O)OC(C)=O
@@ -13985,7 +13984,6 @@ Basic Black 2	CCN(CC)C1=CC2=[N+](C3=C(C=CC(=C3)NN=C4C=CC(=O)C=C4)N=C2C=C1)C5=CC=
 Vat Green 9	[O-][N+](=O)c3c2c1ccc9c7c1c(c6c2c5c(c3)c4ccccc4C(=O)c5cc6)ccc7C(=O)c8ccccc89
 Vat Green 1	COC1=C2C3=C(C=CC4=C3C(=C1)C5=CC=CC=C5C4=O)C6=C7C2=C(C=C8C7=C(C=C6)C(=O)C9=CC=CC=C98)OC
 Vat Yellow 1	C1=CC=C2C(=C1)C3=NC4=C5C6=C(C=C4)C(=O)C7=CC=CC=C7C6=NC8=C5C3=C(C2=O)C=C8
-Pigment Violet 29	c1cc2c3c(ccc4c3c1-c5ccc6c7c5C4C=CC7C(=O)NC6=O)C(=O)NC2=O
 Monomethyl auristatin F	O=C(N2[C@H]([C@H](OC)[C@H](C(=O)N[C@H](C(=O)O)Cc1ccccc1)C)CCC2)C[C@@H](OC)[C@@H](N(C(=O)[C@@H](NC(=O)[C@@H](NC)C(C)C)C(C)C)C)[C@@H](C)CC
 Vat Blue 36	Cc1c(cc(c2c1C(=O)C(=C3C(=O)c4cc(cc(c4S3)Cl)Cl)N2)OC)Cl
 Ritalinic acid	C1CCNC(C1)C(C2=CC=CC=C2)C(=O)O
@@ -16554,6 +16552,7 @@ Lotrifen	C1=CC=C2C(=C1)C=CN3C2=NC(=N3)C4=CC=C(C=C4)Cl
 Fluorotabun	CCOP(=O)(N(C)C)F
 Isophorone diamine	CC1(CC(CC(C1)(C)CN)N)C
 Chinese VX	CCCCOP(=O)(C)SCCN(CC)CC
+Aflatoxin M1	COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5)O
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
