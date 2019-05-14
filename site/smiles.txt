@@ -15354,6 +15354,7 @@ Propylene chlorohydrin	CC(CCl)O
 Tetramethylurea	CN(C)C(=O)N(C)C
 Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
 Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
+Argonium	[ArH+]
 Allopregnanediol	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C)O
 Dexamethasone phosphate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)(O)O)O)C)O)F)C
 Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
@@ -16815,3 +16816,5 @@ KB-16	COC(=O)N(CCCl)N=O
 2-Aminothiazoline-4-carboxylic acid	C1C(N=C(S1)N)C(=O)O
 Bilirubin glucuronide	CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)/C=C\5/C(=C(C(=O)N5)C=C)C
 Phototrexate	C1(=NC(=NC2=C1C=C(C=C2)N=NC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)N)N
+Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
+1-Indanone	C1CC(=O)C2=CC=CC=C21
