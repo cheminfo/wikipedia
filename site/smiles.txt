@@ -11083,7 +11083,9 @@ Lomevactone	Clc1ccc(cc1)C2C(C(=O)OC(C)C2)c3ccccc3
 Metostilenol	OC(\C=C\c1ccc(OC)cc1)CN2CCOCC2
 Potassium trispyrazolylborate	[H][B-](N1N=CC=C1)(N2N=CC=C2)N3N=CC=C3.[K+]
 Meclizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)Cc4cccc(c4)C
-Boron monofluoride	[B]F
+Boron monofluoride	[BH0]F
+Boron monofluoride	[B-]=[F+]
+Boron monofluoride	[B-2]#[F+2]
 Bergenin	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H]2[C@@H]1c3c(O)c(OC)c(O)cc3C(=O)O2
 Crenolanib	O(c5cc4ncn(c1nc3c(cc1)cccc3N2CCC(N)CC2)c4cc5)CC6(COC6)C
 Zibotentan	O=S(=O)(Nc1ncc(nc1OC)C)c4cccnc4c3ccc(c2nnco2)cc3
@@ -12671,11 +12673,11 @@ Germanium monosulfide	S=[Ge]
 Segesterone acetate	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@](OC(=O)C)(C(=C)\C[C@H]3[C@@H]1CC2)C(=O)C)C)CC4
 19-Norprogesterone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](C(=O)C)CC[C@H]3[C@@H]1CC2)C)CC4
 Prothoate	O=C(NC(C)C)CSP(=S)(OCC)OCC
-Falcarindiol	O[C@@H](C#CC#C[C@@H](O)\C=C/CCCCCCC)\C=C
+Falcarindiol	CCCCCCC/C=C\[C@H](O)C#CC#C[C@H](O)C=C
 Mercury(II) hydride	[H][Hg][H]
 Candicine	Oc1ccc(cc1)CC[N+](C)(C)C
 Tetradecylthioacetic acid	O=C(O)CSCCCCCCCCCCCCCC
-Hexabenzocoronene	C12=C3C4=C5C(C6=C7C8=CC=C9)=C1C8=C9C%10=CC=CC(C%11=C3C(C%12=C4C(C(C5%13)=CC=CC%13=C6CC=C7)=CC=C%12)=CC=C%11)=C%102
+Hexabenzocoronene	c0cc1c2c3c4c5c1cccc5c6cccc1c6c4c7c8c1cccc8c9cccc1c9c7c3c5c1cccc5c2c0
 3,4′-Dihydroxystilbene	Oc2cc(/C=C/c1ccc(O)cc1)ccc2
 Avoparcin	CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)cc6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
 Avoparcin	CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)c(Cl)c6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
@@ -12893,7 +12895,7 @@ Trifucol	C1=C(C(=C(C(=C1O)C2=C(C=C(C=C2O)O)O)O)C3=C(C=C(C=C3O)O)O)O
 Teduglutide	CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CC(O)=O)NC(=O)CNC(=O)[C@@H](N)Cc1cnc[nH]1)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(O)=O)C(O)=O
 Dihydrophloroglucinol	C1C(CC(=O)C=C1O)O
 Dabrafenib	CC(C)(C)c1nc(c(s1)c2ccnc(n2)N)c3cccc(c3F)NS(=O)(=O)c4c(cccc4F)F
-Nitrogen monofluoride	FN
+Nitrogen monofluoride	[F+]=[N-]
 Benvitimod	CC(C)c1c(cc(cc1O)/C=C/c2ccccc2)O
 Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
 Silver dichromate	[Ag+].[Ag+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
