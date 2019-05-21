@@ -2559,6 +2559,7 @@ Thallium(I) sulfate	[Tl+].[Tl+].[O-]S([O-])(=O)=O
 Selenium dioxide	O=[Se]=O
 Copper chromite	O=[Cr]O[Cr]=O.O=[Cu].O=[Cu]
 Pramlintide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)N)NC(=O)[C@@H]4CCCN4C(=O)CNC(=O)[C@H](Cc5ccccc5)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](Cc6cnc[nH]6)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc7ccccc7)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@@H]8CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N8)[C@@H](C)O)C)[C@@H](C)O)CC(=O)N)NC(=O)[C@H](CCCCN)N
+Trihydrogen cation	[H+]1[H][H]1
 Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
@@ -4018,6 +4019,7 @@ Glucosepane	C1[C@@H]([C@@H](CN(C2=NC(=NC21)NCCC[C@@H](C(=O)O)N)CCCC[C@@H](C(=O)O
 Balsalazide	O=C(O)c1cc(ccc1O)/N=N/c2ccc(cc2)C(=O)NCCC(O)=O
 Olsalazine	O=C(O)c1cc(ccc1O)/N=N/c2cc(C(O)=O)c(O)cc2
 Beta-Propiolactone	O=C1OCC1
+Desoxycorticosterone pivalate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)COC(=O)C(C)(C)C)CCC4=CC(=O)CC[C@]34C
 Azelastine	Clc1ccc(cc1)CC\3=N\N(C(=O)c2ccccc2/3)C4CCCN(C)CC4
 2,3-Bisphosphoglyceric acid	O=P(O)(OC(C(=O)O)COP(=O)(O)O)O
 Dimethoxymethane	COCOC
@@ -10853,6 +10855,7 @@ Isobutyl cyanoacrylate	N#CC(=C)C(=O)OCC(C)C
 5-Methoxy-7,N,N-trimethyltryptamine	CC1=C(NC=C2CCN(C)C)C2=CC(OC)=C1
 7,N,N-TMT	CC1=C(NC=C2CCN(C)C)C2=CC=C1
 4-MeO-DMT	CN(C)CCC1=CNC2=CC=CC(OC)=C21
+Sodium tetrachloroaurate	[Na+].Cl[Au-](Cl)(Cl)Cl
 Dinaphthylene dioxide	O2c1cccc5c1c4c3c2ccc6c3c(Oc4cc5)ccc6
 Myricetin 3-O-rutinoside	CC1[C@@H]([C@@H](C([C@@H](O1)OCC2[C@H](C(C([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C(=C5)O)O)O)O)O)O)O)O)O
 2-Octyl cyanoacrylate	C=C(C#N)C(OC(C)CCCCCC)=O
@@ -12969,6 +12972,7 @@ EPI-001	ClCC(O)COc1ccc(cc1)C(c2ccc(OCC(O)CO)cc2)(C)C
 Streptolidine	C(C(C1C(N=C(N1)N)C(=O)O)O)N
 (S)-Ipsdienol	CC(=CC(CC(=C)C=C)O)C
 Butyrfentanyl	CCCC(=O)N(C2CCN(CCc1ccccc1)CC2)c3ccccc3
+Methenium	[CH3+]
 PipISB	O=S(N1C2=CC=CC=C2C(N3CCCCC3)=C1)(C4=CC=C(C(NCC5=CC=C(F)C=C5)=O)C=C4)=O
 Molybdenum trisulfide	S=[Mo](=S)=S
 Cerium(III) hydroxide	[Ce+3].[OH-].[OH-].[OH-]
