@@ -2048,7 +2048,6 @@ Capecitabine	FC=1\C(=N/C(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)C)\NC(=O)OCCCC
 Methocarbamol	O=C(OCC(O)COc1ccccc1OC)N
 Disulfuric acid	OS(=O)(=O)OS(O)(=O)=O
 2-Butoxyethanol	OCCOCCCC
-Chlorosilane	[SiH3]Cl
 Dodecanol	OCCCCCCCCCCCC
 Cadmium telluride	[Cd]=[Te]
 Cadmium telluride	[TeH+2]12[CdH2-2][TeH+2]3[CdH2-2][TeH+2]([CdH-2]14)[CdH-2]1[Te+2]5([CdH-2]38)[Cd-2]26[TeH+2]2[CdH-2]([Te+2]4)[TeH+2]1[CdH2-2][TeH+2]3[CdH-2]2[Te+2][CdH-2]([TeH+2]6[CdH-2]([TeH+2])[TeH+2]68)[TeH+2]([CdH2-2]6)[CdH-2]35
@@ -15681,6 +15680,7 @@ N-Iodosuccinimide	C1CC(=O)N(C1=O)I
 Syrosingopine	CCOC(=O)Oc1c(cc(cc1OC)C(=O)O[C@@H]2C[C@@H]3CN4CCc5c6ccc(cc6[nH]c5[C@H]4C[C@@H]3[C@@H]([C@H]2OC)C(=O)OC)OC)OC
 Bisnorhopane	CCC1CCC2C1CCC3(C2CCC4C3(CCC5C4(CCCC5(C)C)C)C)C
 Vaborbactam	B1([C@H](CC[C@H](O1)CC(=O)O)NC(=O)CC2=CC=CS2)O
+P4-t-Bu	CC(C)(C)N=P(N=P(N(C)C)(N(C)C)N(C)C)(N=P(N(C)C)(N(C)C)N(C)C)N=P(N(C)C)(N(C)C)N(C)C
 Trifluoroperacetic acid	C(=O)(C(F)(F)F)OO
 Diprogulic acid	CC1(OC[C@H]2[C@@H](O1)[C@H]3[C@@](O2)(OC(O3)(C)C)C(=O)O)C
 2-Chloro-1,1,1-trifluoroethane	C(C(F)(F)F)Cl
@@ -16293,7 +16293,7 @@ Ethylpropyltryptamine	CCCN(CC)CCC1=CNC2=CC=CC=C12
 Althiomycin	COC1=CC(=O)N(C1)C(=O)[C@H]1CSC(=N1)[C@H](CO)NC(=O)C1=CSC(\C=N\O)=N1
 N-Formylmorpholine	C1COCCN1C=O
 Formanilide	C1=CC=C(C=C1)NC=O
-Alpha-galactosylceramide	CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O
+Alpha-Galactosylceramide	CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O
 Phytosphingosine	CCCCCCCCCCCCCC[C@H]([C@H]([C@H](CO)N)O)O
 Tetrahydrophthalic anhydride	C1C=CCC2C1C(=O)OC2=O
 Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)O)N
@@ -16661,6 +16661,7 @@ Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
 Bisphenol Z	C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
 Ibogaline	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC
 Beta-Isophorone	CC1=CC(CC(=O)C1)(C)C
+Isobutylbenzene	CC(C)CC1=CC=CC=C1
 Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
 Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
