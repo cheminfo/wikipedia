@@ -11517,7 +11517,7 @@ Helional	CC(CC1=CC2=C(C=C1)OCO2)C=O
 Tetraethylmethane	CCC(CC)(CC)CC
 Chloroacetamide	ClCC(=O)N
 Methaphenilene	CN(C)CCN(Cc1cccs1)c2ccccc2
-Methylhomatropine	C[N+]1(C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O)C.[Br-]
+Homatropine methylbromide	C[N+]1(C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O)C.[Br-]
 Dimefox	CN(C)P(=O)(N(C)C)F
 Ammonium perfluorononanoate	FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.N
 Thiobenzophenone	S=C(C1=CC=CC=C1)C2=CC=CC=C2
@@ -13217,6 +13217,7 @@ Anthracimycin	C[C@@H]1/C=C\C=C\[C@H](OC(=O)[C@@H](C(=O)/C=C(/[C@H]2[C@@H]1C=C[C@
 Razupenem	[H][C@]12N(C(C(O)=O)=C(SC3=NC(C4=C[C@H](C)NC4)=CS3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
 Tebipenem	[H][C@]12N(C(C(OCOC(C(C)(C)C)=O)=O)=C(SC3CN(C4=NCCS4)C3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
 Pyrazolam	CC1=NN=C2CN=C(C3=NC=CC=C3)C3=CC(Br)=CC=C3N12
+Tetraethyl dithiopyrophosphate	CCOP(=S)(OCC)OP(=S)(OCC)OCC
 Scopolin	COC1=C(C=C2C(=C1)C=CC(=O)O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Skimmin	c1cc(cc2c1ccc(=O)o2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Fraxin	COc1cc2ccc(=O)oc2c(c1O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
