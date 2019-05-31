@@ -8182,7 +8182,6 @@ Tetratriacontanoic acid	O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Pronethalol	CC(C)NCC(C1=CC2=CC=CC=C2C=C1)O
 Nimorazole	C1COCCN1CCN2C=NC=C2[N+](=O)[O-]
 Ethylhexyl triazone	O=C(OCC(CC)CCCC)c1ccc(cc1)Nc2nc(nc(n2)Nc3ccc(C(=O)OCC(CC)CCCC)cc3)Nc4ccc(C(=O)OCC(CC)CCCC)cc4
-Diethylamino hydroxybenzoyl hexyl benzoate	O=C(c1ccc(cc1O)N(CC)CC)c2ccccc2C(=O)OCCCCCC
 Diethylamino hydroxybenzoyl hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1C(=O)C2=C(C(=CC=C2)N(CC)CC)O
 Safinamide	O=C(N)[C@@H](NCc2ccc(OCc1cccc(F)c1)cc2)C
 Lurasidone	C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]7CC[C@@H](C7)[C@H]6C5=O
@@ -10017,7 +10016,6 @@ Procyanidin B8	O[C@@H]1Cc2c(O[C@@H]1c1ccc(O)c(O)c1)cc(O)c([C@H]1[C@H](O)[C@H](Oc
 Procyanidin A1	O[C@@H]1[C@@H](C2=C(O[C@H](C3=CC(O)=C(O)C=C3)[C@@H](O)C4)C4=C(O)C=C2O5)C6=C(C=C(O)C=C6O)O[C@]15C7=CC(O)=C(O)C=C7
 Procyanidin A2	C1[C@H]([C@H](OC2=C3[C@@H]4[C@H]([C@@](OC5=CC(=CC(=C45)O)O)(OC3=CC(=C21)O)C6=CC(=C(C=C6)O)O)O)C7=CC(=C(C=C7)O)O)O
 Neo-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@H](O)[C@H]1O
-Muco-Inositol	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 1L-chiro-Inositol	O[C@@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Epi-Inositol	O[C@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Cis-Inositol	O[C@@H]1[C@H](O)[C@H](O)[C@H](O)[C@H](O)[C@@H]1O
@@ -14358,7 +14356,6 @@ Dinitrobisphenol A	CC(C)(C1=CC(=C(C=C1)O)[N+](=O)[O-])C2=CC(=C(C=C2)O)[N+](=O)[O
 Nitroapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)[N+](=O)[O-]
 4-Bromofluorobenzene	c1cc(ccc1F)Br
 Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2]
-Platinum fulminate	[C-]#[N+][O-].[Pt+].[C-]#[N+][O-]
 Lactocillin	C/C=C\1/c2nc(cs2)C(=O)NC(C3=NC(CS3)C(=O)NC(c4nc(cs4)-c5c(ccc(n5)c6nc(cs6)c7nc(cs7)C(=O)NC(C)C(=O)O)-c8nc(cs8)C(=O)NC(C(=O)N1)C(C)O)CSC(=O)c9c[nH]c1c9cccc1)C(C)O
 Lanabecestat	CC#Cc1cncc(c1)c2cc3c(cc2)C[C@@]4([C@@]35N=C(C(=N5)C)N)CC[C@H](CC4)OC
 4-Methylpentanoic acid	CC(C)CCC(=O)O
