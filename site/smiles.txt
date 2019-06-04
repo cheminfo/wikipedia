@@ -1734,7 +1734,7 @@ Nitrosoproline	O=C(O)[C@H]1N(N=O)CCC1
 Ethionine	O=C(O)C(N)CCSCC
 1-Butyl-3-methylimidazolium tetrachloroferrate	CCCCN1C=C[N+](=C1)C.Cl[Fe-](Cl)(Cl)Cl
 Ethylmorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OCC)ccc3C4)C
-Wilkinson's catalyst	[Rh+](P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3)(P(C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6)P(C7=CC=CC=C7)(C8=CC=CC=C8)C9=CC=CC=C9.[Cl-]
+Wilkinson's catalyst	Cl[Rh-3]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)[P+](c0ccccc0)(c0ccccc0)c0ccccc0
 Sudan IV	Cc4ccccc4/N=N/c3ccc(/N=N/c1c2ccccc2ccc1O)c(C)c3
 Quaternium-15	C1N2CN3CN1C[N+](C2)(C3)CC=CCl.[Cl-]
 Oxygen difluoride	FOF
@@ -2555,7 +2555,7 @@ Isethionic acid	O=S(=O)(O)CCO
 Hafnium tetrachloride	Cl[Hf](Cl)(Cl)Cl
 Erbium(III) chloride	Cl[Er](Cl)Cl
 Gadolinium(III) chloride	Cl[Gd](Cl)Cl
-Germanium tetrachloride	[Ge+4].[Cl-].[Cl-].[Cl-].[Cl-]
+Germanium tetrachloride	Cl[Ge](Cl)(Cl)Cl
 Thallium(I) sulfate	[Tl+].[Tl+].[O-]S([O-])(=O)=O
 Selenium dioxide	O=[Se]=O
 Selenium dioxide	O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O[Se](=O)O
@@ -12076,7 +12076,7 @@ WIN-2299	O=C(OCCN(CC)CC)C(O)(C1CCCC1)C2=CC=CS2
 PRX-03140	CC(C)N1C(=O)\C(=C(\O)c2ccsc12)C(=O)NCCCN3CCCCC3
 WAY-161503	Clc1cc2NC(=O)C3CNCCN3c2cc1Cl
 SCH 900271	O=C1C=C(CCCC2(CC2)C)C(C(NC(N3)=O)=O)=C3O1
-Germanium tetrafluoride	[Ge+4].[F-].[F-].[F-].[F-]
+Germanium tetrafluoride	F[Ge](F)(F)F
 Germanium difluoride	F[Ge]F
 E-6837	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=CC4=C(C=C3)C(=CC=C4)Cl
 E-6801	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=C(N=C4N3C=CS4)Cl
@@ -16453,6 +16453,7 @@ Butyrolactol A	CC(C/C=C/C=C/CC/C=C\C=C\CCC(C)(C)C)C(C(C(C(C(C1C(C(C(=O)O1)O)O)O)
 Mirubactin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H](CCCN=C(N)N)C(=O)N[C@H](CCCN(C=O)OC(=O)C2=C(C(=CC=C2)O)O)C(=O)O
 Cembratrienol	C/C/1=C\CCC(/C=C/[C@@H](CC/C(=C/CC1)/C)C(C)C)(C)O
 Vancosamine	CC(C(C(C)(CC=O)N)O)O
+Bis(triphenylphosphine)rhodium carbonyl chloride	Cl[Rh-2]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)=C=O
 4-Hydroxyphenylglycine	C1=CC(=CC=C1C(C(=O)O)N)O
 Sterculic acid	CCCCCCCCC1=C(C1)CCCCCCCC(=O)O
 Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
@@ -16810,6 +16811,7 @@ Cyclopentadienyl magnesium bromide	C1C=CC=[C-]1.[Mg+2].[Br-]
 Γ-Oryzanol	CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
 Γ-Oryzanol	CC(C)C(=C)CCC(C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
 Γ-Oryzanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)/C=C/C5=CC(=C(C=C5)O)OC)C)C
+24-Norcholestane	C[C@H](CCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
 Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
 Crenarchaeol	CC1CCCC(C2CCC(C2)CCCC(COCC(OCC(CCCC3CCC(C3)C4CCCC(C4)(CCC(CCCC(C5CCC(C5)CCCC(COCC(OCC(CCCC6CCC(C6)C(CCCC(CC1)C)C)C)CO)C)C)C)C)C)CO)C)C
 Solvent Yellow 7	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
@@ -16852,3 +16854,5 @@ UV-328	CCC(C)(C)C1=CC(=C(C(=C1)N2N=C3C=CC=CC3=N2)O)C(C)(C)CC
 Tetrahymanol	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)(C)C
 3-Aminobiphenyl	C1=CC=C(C=C1)C2=CC(=CC=C2)N
 Isoarborinol	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC=C4[C@H]3CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)C
+1,3-Diphenyltriazene	C1=CC=C(C=C1)NN=NC2=CC=CC=C2
+Ro 3-0412	C[N+](C)(C)c1cccc(c1)OP(=O)(OC)OC.COS(=O)(=O)[O-]
