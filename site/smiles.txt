@@ -10966,6 +10966,7 @@ Lasmiditan	CN3CCC(CC3)C(=O)c(n2)cccc2NC(=O)c1c(F)cc(F)cc1F
 Vitamin A2	CC1=C(C(CC=C1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C
 Triglycine sulfate	O=C(O)CN.O=S(=O)(O)O.O=C(O)CN.O=C(O)CN
 2,2-Dimethoxy-2-phenylacetophenone	O=C(c1ccccc1)C(OC)(OC)c2ccccc2
+Dioxalin	OCC1COC(=O)C(=O)O1
 Alpha-Phenylcinnamic acid	O=C(O)\C(=C\c1ccccc1)c2ccccc2
 Alpha-Phenylcinnamic acid	OC(=O)C(=C/C1=CC=CC=C1)/C2=CC=CC=C2
 Thionyl tetrafluoride	O=S(F)(F)(F)F
@@ -16855,4 +16856,5 @@ Tetrahymanol	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC
 3-Aminobiphenyl	C1=CC=C(C=C1)C2=CC(=CC=C2)N
 Isoarborinol	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC=C4[C@H]3CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)C
 1,3-Diphenyltriazene	C1=CC=C(C=C1)NN=NC2=CC=CC=C2
+Ossamycin	CC[C@H](C[C@H]1CCC[C@]2(O1)C[C@H]3[C@@H]([C@@H](O2)C[C@]4([C@@H](CC(O4)(C)C)/C=C/CCCCC[C@@]([C@@H]([C@H]([C@@H]([C@H]([C@@H]([C@](/C=C/C(=O)O3)(C)O)O)C)O)OC5CCC(C(O5)C)N(C)C)O)(C)O)O)C)O
 Ro 3-0412	C[N+](C)(C)c1cccc(c1)OP(=O)(OC)OC.COS(=O)(=O)[O-]
