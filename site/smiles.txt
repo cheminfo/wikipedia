@@ -2935,7 +2935,7 @@ Thiodiglycol	OCCSCCO
 2-Chloroethanol	OCCCl
 Copper(I) cyanide	[Cu+].[C-]#N
 Antimycin A	O=CNc1cccc(c1O)C(=O)N[C@@H]2C(=O)O[C@H]([C@H](OC(=O)CC(C)C)[C@H](C(=O)O[C@@H]2C)CCCCCC)C
-Chromium carbide	[Cr]#C[Cr]C#[Cr]
+Chromium(II) carbide	[Cr]#C[Cr]C#[Cr]
 Hexamethonium	C(CCCC[N+](C)(C)C)C[N+](C)(C)C
 Fluorometholone	O=C(C)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](C)C[C@H]4[C@@H]2CC3)C)C
 Methylisopropyltryptamine	CC(C)N(C)CCc1c[nH]c2ccccc12
@@ -4453,7 +4453,7 @@ Cardanolide	CC12CCCCC1CCC3C2CCC4(C3CCC4C5CC(=O)OC5)C
 Docosatetraenoic acid	OC(CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O
 Aluminium hydride	[AlH3]
 Aurothioglucose	O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1S[Au]
-Auranofin	CC(=O)O[C@H]1O[C@@H](S[Au]P(CC)(CC)CC)[C@H](OC(C)=O)[C@@H](OC(C)=O)C1OC(C)=O
+Auranofin	CCP(=[Au]S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C)(CC)CC
 Phenprocoumon	OC=1c3ccccc3OC(=O)C=1C(CC)c2ccccc2
 Phenindione	O=C2c1ccccc1C(=O)C2c3ccccc3
 Acenocoumarol	[O-][N+](=O)c1ccc(cc1)C(CC(C)=O)C\2=C(/O)c3ccccc3OC/2=O
