@@ -4335,7 +4335,6 @@ Fructose 6-phosphate	O=P(O)(O)OC[C@H]1O[C@@](O)(CO)[C@@H](O)[C@@H]1O
 2-Phosphoglyceric acid	O=P(O)(O)OC(C(=O)O)CO
 2,2-Dichloro-1,1,1-trifluoroethane	ClC(Cl)C(F)(F)F
 1,2-Dichlorobenzene	c1ccc(c(c1)Cl)Cl
-Oleanane	[C@]54([C@H]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)CCC2)CC3)C)(C)CC4)CC(C)(C)CC5)C
 Lomustine	O=C(NC1CCCCC1)N(N=O)CCCl
 Phenylhydrazine	NNc1ccccc1
 Aporphine	c12c(cccc1)CC4c3c(cccc23)CCN4C
@@ -8691,7 +8690,7 @@ Tetraphenylborate	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4
 Iodine trifluoride	FI(F)F
 Adafenoxate	Clc4ccc(cc4)OCC(=O)OCCNC12CC3CC(C1)CC(C2)C3
 Suritozole	Cn1c(=S)n(C)nc1-c2cccc(F)c2
-Cichoric acid	O=C(O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)[C@@H](OC(=O)\C=C\c2cc(O)c(O)cc2)C(=O)O
+Chicoric acid	O=C(O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)[C@@H](OC(=O)\C=C\c2cc(O)c(O)cc2)C(=O)O
 BAY 73-6691	C[C@H](CC1=NC(=O)C2=CNN(C2=N1)C3=CC=CC=C3Cl)C(F)(F)F
 Twistane	C1CC2CC3CCC2CC13
 Estradiol benzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5
