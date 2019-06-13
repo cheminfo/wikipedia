@@ -9727,7 +9727,7 @@ Norethisterone enanthate	CCCCCCC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC
 Oxazoline	N\1=C\OCC/1
 Fencamine	O=C2N(c1nc(n(c1C(=O)N2C)C)NCCN(C(C)Cc3ccccc3)C)C
 Laninamivir	O=C(O)C=1O[C@@H]([C@H](OC)[C@H](O)CO)[C@H](NC(=O)C)[C@@H](/N=C(\N)N)C=1
-PRC200	O[C@H](c1ccccc1)[C@H](CNC)c2cc3ccccc3cc2
+PRC200-SS	O[C@H](c1ccccc1)[C@H](CNC)c2cc3ccccc3cc2
 FGI-104	c4cnc1cc(Cl)ccc1c4Nc(cc2CN(CC)CC)cc(c2O)-c(cc3OC)ccc3CO
 Igmesine	N(C(c1ccccc1)(CC)C\C=C\c2ccccc2)(C)CC3CC3
 Metabutoxycaine	CCCCOC1=C(C=CC=C1N)C(=O)OCCN(CC)CC
@@ -16859,6 +16859,7 @@ Isoarborinol	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC=C4[C@H]3CC[C@@H]5[C@@]
 Ossamycin	CC[C@H](C[C@H]1CCC[C@]2(O1)C[C@H]3[C@@H]([C@@H](O2)C[C@]4([C@@H](CC(O4)(C)C)/C=C/CCCCC[C@@]([C@@H]([C@H]([C@@H]([C@H]([C@@H]([C@](/C=C/C(=O)O3)(C)O)O)C)O)OC5CCC(C(O5)C)N(C)C)O)(C)O)O)C)O
 Ro 3-0412	C[N+](C)(C)c1cccc(c1)OP(=O)(OC)OC.COS(=O)(=O)[O-]
 Chromium(III) telluride	[Te].[Cr]=[Te].[Cr]=[Te]
+Skimmianine	COC1=C(C2=C(C=C1)C(=C3C=COC3=N2)OC)OC
 Allopregnane	CC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4)C)C
 Alizarin Red S	[Na+].Oc1c(O)c2C(=O)c3ccccc3C(=O)c2cc1S([O-])(=O)=O
 Estradiol undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=C3C=CC(=C4)O
