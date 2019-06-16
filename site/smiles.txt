@@ -713,6 +713,7 @@ Copper(I) oxide	[Cu+].[Cu+].[O-2]
 Janus Green B	CCN(CC)C1=CC2=[N+](C3=C(C=CC(=C3)N=NC4=CC=C(C=C4)N(C)C)N=C2C=C1)C5=CC=CC=C5.[Cl-]
 Doxapram	O=C4N(CC)CC(CCN1CCOCC1)C4(c2ccccc2)c3ccccc3
 Lithium aluminium hydride	[Li+].[AlH4-]
+Zinc oxide	[Zn]=O
 Fluorescein	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Iodide	[I-]
 Venlafaxine	OC2(C(c1ccc(OC)cc1)CN(C)C)CCCCC2
@@ -3963,6 +3964,7 @@ Sodium iodate	[Na+].[O-]I(=O)=O
 Sodium persulfate	[Na+].[Na+].O=S(=O)([O-])OOS([O-])(=O)=O
 Sodium thiocyanate	[Na+].[S-]C#N
 Nickel(II) carbonate	[Ni+2].[O-]C([O-])=O
+Zinc peroxide	[Zn+2].[O-][O-]
 Zirconium(IV) silicate	[Zr+4].[O-][Si]([O-])([O-])[O-]
 Zirconium(IV) bromide	Br[Zr](Br)(Br)Br
 Zirconium tetrafluoride	F[Zr](F)(F)F
@@ -15561,7 +15563,7 @@ Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)C
 Cycloheptatrienemolybdenum tricarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].C1C=CC=CC=C1.[Mo]
 1,1-Diphenylethylene	C=C(C1=CC=CC=C1)C2=CC=CC=C2
 Propalene	C1=C2C1=C2
-Epinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CNC
+Adrenaline (medication)	Oc1ccc(cc1O)[C@@H](O)CNC
 P1-185	CC(C)[C@@H](C(=O)O/N=C/1\CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@@H]4C(=O)C)C)C)N
 3β-Methoxypregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC)C)C
 Pyrithione	c1ccn(c(=S)c1)O
