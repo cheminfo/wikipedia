@@ -10709,7 +10709,7 @@ Englitazone	O=C1NC(=O)SC1Cc4ccc3OC(Cc2ccccc2)CCc3c4
 3-MeO-PCP	COc3cccc(c3)C1(CCCCC1)N2CCCCC2
 Azacyclonol	OC(c1ccccc1)(c2ccccc2)C3CCNCC3
 4-MeO-PCP	COc1ccc(cc1)C2(CCCCC2)N3CCCCC3
-Phencyclamine	N(CCC)C2(c1ccccc1)CCCCC2
+PCPr	N(CCC)C2(c1ccccc1)CCCCC2
 Benzomorphan	C1CNC2CC1C3=CC=CC=C3C2
 Benzazocine	c1cccc2\C=C/N=C\C=C/c12
 Dextrallorphan	Oc1ccc3c(c1)[C@]24[C@@H]([C@H](N(CC2)C\C=C)C3)CCCC4
@@ -14578,7 +14578,7 @@ Lumateperone	c3cc(F)ccc3C(=O)CCCN5CC2C(CC5)N1CCN(C)c4c1c2ccc4
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 MIN-117	CC1=NN=C(O1)C2=CC3=C(O2)C=CC=C3OC[C@H](CN4CCC(CC4)C5=CC(=C(C=C5)Cl)Cl)O
-RP-5063	C1CN(CCN1CCCCOC2=CC3=C(C=C2)OCC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
+Brilaroxazine	C1CN(CCN1CCCCOC2=CC3=C(C=C2)OCC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
 2,3-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 2,3-Dinitrophenol	C1=CC(=C(C(=C1)O)[N+](=O)[O-])[N+](=O)[O-]
 Propylene glycol methyl ether	CC(O)COC
@@ -16871,3 +16871,4 @@ Monalazone	C1=CC(=CC=C1C(=O)O)S(=O)(=O)NCl
 Testosterone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C)CCC4=CC(=O)CC[C@]34C
 Alpha-Tocopherol palmitate	CCCCCCCCCCCCCCCC(=O)OC1=C(C(=C2C(=C1C)CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)C
 Lithium triflate	[Li+].C(F)(F)(F)S(=O)(=O)[O-]
+Golexanolone	C[C@]12CC[C@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]\4([C@H]3CC/C4=N\O)C)(C#C)O
