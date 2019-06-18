@@ -5596,7 +5596,7 @@ Clostebol	O=C4C(\Cl)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 DME (psychedelic)	O(c1ccc(cc1OC)C(O)CN)C
 DMMDA	CC(N)Cc1cc(OC)c2OCOc2c1OC
 IDNNA	Ic1cc(OC)c(cc1OC)CC(N(C)C)C
-Iris (psychedelic)	COc1cc(C)c(cc1CC(C)N)OCC
+IRIS (psychedelic)	COc1cc(C)c(cc1CC(C)N)OCC
 1,3-Benzodioxolylbutanamine	CCC(CC1=CC2=C(C=C1)OCO2)N
 EEE (psychedelic)	CCOc1cc(OCC)c(cc1OCC)CC(C)N
 EEM (psychedelic)	CCOc1cc(OCC)c(cc1OC)CC(C)N
@@ -11412,6 +11412,7 @@ Phaseolin (pterocarpan)	[H][C@]12C3=CC=C(O)C=C3OC[C@@]1([H])C4=C(C(C=CC(C)(C)O5)
 Sodium ethyl xanthate	CCOC(=S)[S-].[Na+]
 Thallous acetate	CC(=O)[O-].[Tl+]
 N-Glycolylneuraminic acid	C1[C@@H]([C@H]([C@@H](O[C@@]1(C(=O)O)O)[C@@H]([C@@H](CO)O)O)NC(=O)CO)O
+1,2-Dioxane	C1CCOOC1
 1,3-Dioxane	C1COCOC1
 2,4-Diacetylphloroglucinol	CC(=O)C1=C(C(=C(C=C1O)O)C(=O)C)O
 Ivacaftor	O=C\2c1c(cccc1)N/C=C/2C(=O)Nc3cc(O)c(cc3C(C)(C)C)C(C)(C)C
