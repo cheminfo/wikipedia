@@ -1808,7 +1808,7 @@ Dimercaptosuccinic acid	O=C(O)[C@@H](S)[C@@H](S)C(=O)O
 Phosphorus pentachloride	ClP(Cl)(Cl)(Cl)Cl
 Phosphorus trichloride	ClP(Cl)Cl
 Atrazine	Clc1nc(nc(n1)NC(C)C)NCC
-Indium antimonide	[SbH+]12[In-][SbH+]3[In-][SbH+]([InH-]14)[InH-]1[Sb+]5([InH-]38)[In-]26[SbH+]2[InH-]([Sb+]4)[SbH+]1[In-][SbH+]3[InH-]2[Sb+][InH-]([SbH+]6[InH-]([SbH+])[SbH+]68)[SbH+]([In-]6)[InH-]35
+Indium antimonide	[In]#[Sb]
 Benserazide	O=C(NNCc1c(O)c(O)c(O)cc1)C(N)CO
 Chlormethine	CN(CCCl)CCCl
 Phosphorus tribromide	BrP(Br)Br
@@ -6074,6 +6074,7 @@ TAN-1057 C	O=C1N(C)[C@@H](C(=O)N[C@H](C1)CCC/N=C(\N)N)CNN\C=N\C(=O)N
 Isomigrastatin	C[C@H]([C@H](/[C@@](C)=C/[C@@H](C(CCCC2CC(NC(C2)=O)=O)=O)C)O1)[C@H](O)[C@@H](OC)/C=C/CC/C=C/C1=O
 Migrastatin	C[C@@H]1/C=C(\[C@H](OC(=O)/C=C/CC/C=C/[C@@H]([C@H]1O)OC)[C@H](C)C(=O)CCCC2CC(=O)NC(=O)C2)/C
 Dithiolane	S1SCCC1
+Dithiolane	C1CSCS1
 Isovaleramide	CC(C)CC(=O)N
 Nifuroxazide	c1cc(O)ccc1C(=O)N/N=C/c2ccc(o2)[N+](=O)[O-]
 Iodoacetic acid	C(C(=O)O)I
@@ -10673,7 +10674,7 @@ CP-39,332	CNC1Cc2ccccc2C(C1)c3ccccc3
 PIM-35	CC/1(N)/C=C2/C=C(\C=C/C2=N\1)OC
 Fezolamine	n1c(c(cn1CCCN(C)C)c2ccccc2)c3ccccc3
 Ifoxetine	O(c1cccc(c1C)C)[C@H]2CCNC[C@H]2O
-Tampramine	O=C(O)\C=C\C(=O)O.N\3=C(/c1ccccc1)c2ccccc2N(c4ncccc/34)CCCN(C)C
+Tampramine	CN(C)CCCN1c2ccccc2C(=Nc3c1nccc3)c4ccccc4
 Indantadol	NCC(=O)NC1Cc2ccccc2C1
 Barbigerone	O=C3C(=C/Oc2c1\C=C/C(Oc1ccc23)(C)C)\c4cc(OC)c(OC)cc4OC
 Mepiprazole	Cc3cc(CCN2CCN(c1cccc(Cl)c1)CC2)n[nH]3
@@ -16874,3 +16875,4 @@ Testosterone undecylenate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C
 Alpha-Tocopherol palmitate	CCCCCCCCCCCCCCCC(=O)OC1=C(C(=C2C(=C1C)CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)C
 Lithium triflate	[Li+].C(F)(F)(F)S(=O)(=O)[O-]
 Golexanolone	C[C@]12CC[C@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]\4([C@H]3CC/C4=N\O)C)(C#C)O
+Vanadium oxydichloride	[O-2].[Cl-].[Cl-].[V+4]
