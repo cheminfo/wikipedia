@@ -2790,6 +2790,7 @@ Rhamnose	O=C[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)C
 Triphosphoric acid	OP(=O)(O)OP(=O)(O)OP(=O)(O)O
 Felypressin	NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@@H]1CCCN1C(=O)[C@H]4NC(=O)[C@@H](NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc3ccccc3)NC(=O)[C@@H](N)CSSC4)CC(N)=O
 Amineptine	O=C(CCCCCCNC1C2=C(CCC3=C1C=CC=C3)C=CC=C2)O
+Copper(II) acetate	[O+]1C(C)O[Cu-3]23([OH2+])[O+]C(C)O[Cu-3]1([OH2+])(OC(C)[O+]2)OC(C)[O+]3
 Endosulfan	Cl[C@@]3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@H]2[C@@H2]OS(=O)O[C@@H2][C@H]12
 Triacetin	CC(=O)OC(COC(=O)C)COC(C)=O
 Calcium acetate	[Ca+2].[O-]C(=O)C.[O-]C(=O)C
@@ -10382,6 +10383,7 @@ Copper(II) tetrafluoroborate	[Cu+2].F[B-](F)(F)F.F[B-](F)(F)F.O
 Tetrahydroxy-1,4-benzoquinone bisoxalate	O=C1C(OC2=O)=C(OC2=O)C(C3=C1OC(C(O3)=O)=O)=O
 Threonic acid	C([C@H]([C@@H](C(=O)O)O)O)O
 Threonic acid	C([C@@H]([C@H](C(=O)O)O)O)O
+Iron(II) oxalate	[Fe+2].O=C([O-])-C([O-])=O
 SU6656	O=S(=O)(c1cc\2c(cc1)NC(=O)C/2=C/c3cc4c([nH]3)CCCC4)N(C)C
 Uranium hydride	[UH3]
 Uranium hydride	[H-].[H-].[H-].[U+3]
@@ -16880,3 +16882,4 @@ Golexanolone	C[C@]12CC[C@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]\4([C@H]3CC/C4=N\O)C)(C
 Vanadium oxydichloride	[O-2].[Cl-].[Cl-].[V+4]
 Trifluoromethyldeschloroketamine	CNC1(CCCCC1=O)C2=CC=CC=C2C(F)(F)F
 Eticyclidone	CCNC1(CCCCC1=O)C2=CC=CC=C2
+Fluoroethyl fluoroacetate	C(CF)OC(=O)CF
