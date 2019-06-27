@@ -14041,6 +14041,7 @@ Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
 Thiothinone	CC(C(=O)C1=CC=CS1)NC
 EMA401	COC1=C(C2=C(CN(C(C2)C(=O)O)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4)C=C1)OCC5=CC=CC=C5
+Loteprednol etabonate	CCOC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C(=O)OCCl
 Paritaprevir	Cc1cnc(cn1)C(=O)N[C@H]2CCCCC/C=C\[C@@H]3C[C@]3(NC(=O)[C@@H]4C[C@H](CN4C2=O)Oc5c6ccccc6c7ccccc7n5)C(=O)NS(=O)(=O)C8CC8
 2-Hydroxyisocaproic acid	CC(C)CC(C(=O)O)O
 3-Methylmethcathinone	CC1=CC=CC(C(C(C)NC)=O)=C1
@@ -15568,7 +15569,7 @@ Oxytocin (medication)	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)C
 Cycloheptatrienemolybdenum tricarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].C1C=CC=CC=C1.[Mo]
 1,1-Diphenylethylene	C=C(C1=CC=CC=C1)C2=CC=CC=C2
 Propalene	C1=C2C1=C2
-Adrenaline (medication)	Oc1ccc(cc1O)[C@@H](O)CNC
+Epinephrine	Oc1ccc(cc1O)[C@@H](O)CNC
 P1-185	CC(C)[C@@H](C(=O)O/N=C/1\CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@@H]4C(=O)C)C)C)N
 3β-Methoxypregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC)C)C
 Pyrithione	c1ccn(c(=S)c1)O
