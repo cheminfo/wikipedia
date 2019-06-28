@@ -316,7 +316,7 @@ Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
 Heptane	CCCCCCC
 Calcium oxide	[Ca]=O
-Chlorpromazine	CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl
+Chlorpromazine	CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
 Alpha-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
@@ -16884,3 +16884,5 @@ Vanadium oxydichloride	[O-2].[Cl-].[Cl-].[V+4]
 Trifluoromethyldeschloroketamine	CNC1(CCCCC1=O)C2=CC=CC=C2C(F)(F)F
 Eticyclidone	CCNC1(CCCCC1=O)C2=CC=CC=C2
 Fluoroethyl fluoroacetate	C(CF)OC(=O)CF
+Lecanoric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O
+Umbilicaric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)OC3=CC(=C(C(=C3)C)C(=O)O)O)O)OC)O
