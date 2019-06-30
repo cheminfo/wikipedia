@@ -3369,7 +3369,7 @@ SKF-38,393	C1CNCC(C2=CC(=C(C=C21)O)O)C3=CC=CC=C3
 SKF-82,958	C=CCN1CCC2=C(C(=C(C=C2C(C1)C3=CC=CC=C3)O)O)Cl
 Dicloxacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c(onc2c1c(Cl)cccc1Cl)C)[C@H]4SC3(C)C
 Leflunomide	O=C(Nc1ccc(cc1)C(F)(F)F)c2c(onc2)C
-2-Pyridone	Oc1cccnc1
+2-Pyridone	Oc1ccccn1
 2-Pyridone	C1=CC=CNC(=O)1
 Biperiden	OC(c1ccccc1)(CCN2CCCCC2)C4C3\C=C/C(C3)C4
 Sodium dichloroisocyanurate	[Na+].ClN1C(=O)[N-]C(=O)N(Cl)C1=O
@@ -11218,7 +11218,9 @@ Barium azide	[Ba+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Diacetyl peroxide	O=C(OOC(=O)C)C
 Thallium(III) nitrate	[Tl+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Momordicin-28	C[C@H]1[C@H](C)CC[C@]2(COC)CC[C@@]3(C)[C@]4(C)CC[C@@]5([H])C(C)(C)C(CC[C@]5(C)[C@@]4([H])C=C[C@]3(O)[C@@]21[H])=O
+Momordicinin	C[C@@H]1CC[C@]23CC[C@]4([C@@]5(CC[C@@H]6[C@@]([C@H]5C=C[C@@]4([C@@H]2[C@H]1C)OC3)(CCC(=O)C6(C)C)C)C)C
 Momordicilin	CC/C=C/C(C)(O)OC[C@@]1([C@@H]2CC[C@@]3([C@@H]([C@]2(CCC1=O)C)CC[C@H]4[C@]3(CC[C@@]5([C@H]4[C@H]([C@@H](CC5)C)C)C)C)C)C
+Momordenol	CC[C@H](CC[C@@H](C)[C@H]1C(=O)C=C2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C
 Momordol	CCC(CO)C(O)CC(O)C(C)CCC(C)CCCC1(C)C(CC)C(=O)C=CC1(C)O
 RCS-4	CCCCCn1cc(c2c1cccc2)C(=O)c3ccc(cc3)OC
 RCS-8	COc1ccccc1CC(=O)c2cn(c3c2cccc3)CCC4CCCCC4
