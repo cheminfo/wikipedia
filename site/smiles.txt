@@ -3686,6 +3686,7 @@ Bronidox	O=[N+]([O-])C1(Br)COCOC1
 Petasis reagent	[Ti](C)(C).c1[cH-]ccc1.c2[cH-]ccc2
 Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
+Melanotan II	CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC1=O)CC2=CN=CN2)CC3=CC=CC=C3)CCCN=C(N)N)CC4=CNC5=CC=CC=C54)C(=O)N)NC(=O)C
 Cytochalasin E	C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C
 Urea phosphate	C(=O)(N)N.OP(=O)(O)O
 Dimethyldioctadecylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
@@ -4497,7 +4498,7 @@ Calcein	c1ccc2c(c1)C(=O)OC23c4cc(c(cc4Oc5c3cc(c(c5)O)CN(CC(=O)O)CC(=O)O)O)CN(CC(
 Bisbenzimide	CCOc1ccc(cc1)c2[nH]c3cc(ccc3n2)c4[nH]c5cc(ccc5n4)N6CCN(CC6)C
 Nilotinib	Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)C(=O)Nc4cc(cc(c4)n5cc(nc5)C)C(F)(F)F
 Dasatinib	Cc1cccc(c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CC4)CCO)Cl
-Diiron nonacarbonyl	O=C1[Fe-3]2(C#[O+])(C#[O+])(C#[O+])C(=O)[Fe-3]1(C#[O+])(C#[O+])(C#[O+])C2=O
+Diiron nonacarbonyl	O=C1[Fe]2(=C=O)(=C=O)(=C=O)C(=O)[Fe]1(=C=O)(=C=O)(=C=O)C2=O
 Dicobalt octacarbonyl	O=C=[Co]1(=C=O)(=C=O)C(=O)[Co](=C=O)(=C=O)(=C=O)C1=O
 Dicobalt octacarbonyl	O=C=[Co-4](=C=O)(=C=O)(=C=O)[Co-4](=C=O)(=C=O)(=C=O)=C=O
 Dimanganese decacarbonyl	O=C=[Mn](=C=O)(=C=O)(=C=O)(=C=O)[Mn](=C=O)(=C=O)(=C=O)(=C=O)=C=O
@@ -7059,6 +7060,7 @@ CLD chromophore	CC1(CC(=C/C(=C/C=C/C2=C(C(=C(C#N)C#N)OC2(C)C)C#N)/C1)/C=C/C3=CC=
 Ethcathinone	O=C(c1ccccc1)C(NCC)C
 Tetrahydrocannabinol-C4	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
 Laudanosine	CN1CCc2cc(c(cc2[C@@H]1Cc3ccc(c(c3)OC)OC)OC)OC
+TRISPHAT	O1c0c(Cl)c(Cl)c(Cl)c(Cl)c0O[P-]123(Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O2)Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O3.CCCC[N+H](CCCC)CCCC
 Dalbavancin	CC(C)CCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1Oc2c3cc4cc2Oc5ccc(cc5Cl)[C@H]([C@H]6C(=O)N[C@@H](c7cc(cc(c7-c8cc(ccc8O)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]9c1cc(cc(c1Cl)O)Oc1ccc(cc1O)[C@H](C(=O)N[C@H](Cc1ccc(cc1)O3)C(=O)N9)NC)O[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O)C(=O)NCCCN(C)C)O)C(=O)O)O)O
 Isopropyl iodide	CC(C)I
 Idazoxan	C1CN=C(N1)C2COC3=CC=CC=C3O2
@@ -7214,7 +7216,6 @@ Sclareolide	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC(=O)O3)C)(C)C
 Chlorodiphenylphosphine	ClP(c1ccccc1)c2ccccc2
 Roussin's black salt	[K+].[Fe-3]12([N+]#[O+])S3[Fe-4]([N+]#[O+])([N+]#[O+])S1[Fe-4]([N+]#[O+])([N+]#[O+])S2[Fe-4]3([N+]#[O+])[N+]#[O+]
 2-Aminophenol	Oc1ccccc1N
-EuFOD	CC(C)(C)C(=CC(=O)C(C(C(F)(F)F)(F)F)(F)F)O.CC(C)(C)C(=CC(=O)C(C(C(F)(F)F)(F)F)(F)F)O.CC(C)(C)C(=CC(=O)C(C(C(F)(F)F)(F)F)(F)F)O.[Eu]
 6-APA	O=C(O)[C@@H]1N2C(=O)[C@@H](N)[C@H]2SC1(C)C
 Phenylphosphine	C1=CC=C(C=C1)P
 SPANphos	CC1=CC(=C2C(=C1)C(CC3(O2)CC(C4=CC(=CC(=C4O3)P(C5=CC=CC=C5)C6=CC=CC=C6)C)(C)C)(C)C)P(C7=CC=CC=C7)C8=CC=CC=C8
@@ -10853,7 +10854,7 @@ Butyl PBD	CC(C)(C)c1ccc(cc1)c2nnc(o2)c3ccc(cc3)c4ccccc4
 Glycolonitrile	OCC#N
 Iron oxychloride	O=[Fe]Cl
 Acetone thiosemicarbazone	S=C(N)N/N=C(\C)C
-Chromium(VI) oxide peroxide	[O-2].[O-][Cr]([O-])(=O)=O
+Chromium(VI) oxide peroxide	O0O[Cr]01(=O)OO1
 Palladium(II) iodide	[Pd](I)I
 Palladium(II) bromide	Br[Pd]Br
 Azinphos-ethyl	CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1
@@ -11509,6 +11510,7 @@ Tert-Butylphosphaacetylene	P#CC(C)(C)C
 Alpha-Ketovaleric acid	O=C(C(=O)O)CCC
 Bromodiphenylmethane	BrC(c1ccccc1)c2ccccc2
 Ethylaluminium sesquichloride	CC[Al](CC)Cl.CC[Al](Cl)Cl
+Ethylaluminium sesquichloride	CC[Al-]1(Cl)[Cl+][Al-]([Cl+]1)(CC)CC
 Idoxifene	CC/C(=C(/C1=CC=C(C=C1)OCCN2CCCC2)\C3=CC=C(C=C3)I)/C4=CC=CC=C4
 Actinonin	O=C(N1[C@H](CO)CCC1)[C@@H](NC(=O)[C@H](CCCCC)CC(=O)NO)C(C)C
 Agroclavine	c2c3c1c(cccc1[nH]2)[C@H]4\C=C(/CN([C@@H]4C3)C)C
@@ -16034,7 +16036,9 @@ Hexadecene	CCCCCCCCCCCCCCC=C
 Dimethylphosphite	COP(O)OC
 Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
+Ortho-Diethynylbenzene dianion	[C-]#Cc0ccccc0C#[C-]
 Lithium monoxide anion	[Li]-[O-]
+Meta-Diethynylbenzene dianion	[C-]#Cc0cccc(c0)C#[C-]
 Iridium tetrachloride	Cl[Ir](Cl)(Cl)Cl
 ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
@@ -16890,5 +16894,7 @@ Fluoroethyl fluoroacetate	C(CF)OC(=O)CF
 Lecanoric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O
 Umbilicaric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)OC3=CC(=C(C(=C3)C)C(=O)O)O)O)OC)O
 Cis,cis-1,3,5-Triaminocyclohexane	C1[C@@H](C[C@@H](C[C@@H]1N)N)N
+Bispidine	C1C2CNCC1CNC2
 Alpha-Eucaine	CC1(CC(CC(N1C)(C)C)(C(=O)OC)OC(=O)C2=CC=CC=C2)C
 Perfluorobutane sulfonamide	C(C(C(F)(F)S(=O)(=O)N)(F)F)(C(F)(F)F)(F)F
+Methyl 2-acetamidoacrylate	CC(=O)NC(=C)C(=O)OC
