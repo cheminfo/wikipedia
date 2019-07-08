@@ -16851,6 +16851,9 @@ Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
 Tetraethylenepentamine	C(CNCCNCCNCCN)N
 2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
 2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
+Deflectin	CCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
+Deflectin	CCCCCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
+Deflectin	CCCCCCCCCC[C@H](C)C(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Nickel silicide	[Si](=[Ni])=[Ni]
 Decyl(triphenyl)phosphonium	CCCCCCCCCCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Isotonitazene	CCN(CCn1c(Cc2ccc(cc2)OC(C)C)nc2c1ccc(c2)N(=O)=O)CC
@@ -16902,3 +16905,4 @@ Methyl 2-acetamidoacrylate	CC(=O)NC(=C)C(=O)OC
 Isoxazoline	C1CON=C1
 Isoxazoline	C1CONC=1
 Isoxazoline	C1=CONC1
+Selinexor	C1=CN=C(C=N1)NNC(=O)/C=C\N2C=NC(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
