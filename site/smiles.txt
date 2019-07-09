@@ -16906,3 +16906,5 @@ Isoxazoline	C1CON=C1
 Isoxazoline	C1CONC=1
 Isoxazoline	C1=CONC1
 Selinexor	C1=CN=C(C=N1)NNC(=O)/C=C\N2C=NC(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
+3-Mercaptopropionitrile	C(CS)C#N
+Pseudohypericin	CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C6C7=C(C1=C25)C(=CC(=O)C7=C(C8=C(C=C(C4=C86)O)O)O)CO)O)O)O
