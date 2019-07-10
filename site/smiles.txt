@@ -2318,7 +2318,7 @@ Stachyose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@
 Luteolin	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
 Maleic anhydride	C1=CC(=O)OC1=O
 Bismuth(III) oxide	O=[Bi]O[Bi]=O
-Tin(IV) Oxide	O=[Sn]=O
+Tin(IV) oxide	O=[Sn]=O
 Temefos	S=P(OC)(OC)Oc2ccc(Sc1ccc(OP(=S)(OC)OC)cc1)cc2
 Hexanitrostilbene	O=[N+]([O-])c1c(ccc(c1[N+]([O-])=O)[N+]([O-])=O)/C=C/c2ccc([N+]([O-])=O)c([N+]([O-])=O)c2[N+]([O-])=O
 Tetrafluoromethane	FC(F)(F)F
@@ -5442,6 +5442,7 @@ Neurokinin B	CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=
 Lanreotide	C[C@H]([C@@H](C(=O)N)NC(=O)[C@@H]1CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C(C)C)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccc(cc4)O)NC(=O)[C@@H](Cc5ccc6ccccc6c5)N)O
 Plerixafor	N1CCNCCCN(CCNCCC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3
 3,4-Methylenedioxy-N-hydroxyamphetamine	CC(CC1=CC2=C(C=C1)OCO2)NO
+Bismuth subcarbonate	[Bi+H0]=O.[Bi+H0]=O.O=C([O-])[O-]
 Acetone cyanohydrin	CC(C)(O)C#N
 Adenosine thiamine triphosphate	O=P(O)(OC[C@H]3O[C@@H](n1c2ncnc(N)c2nc1)[C@H](O)[C@@H]3O)OP(=O)(O)OP(=O)(O)OCCc4sc[n+](c4C)Cc5c(nc(nc5)C)N
 Cefquinome	O=C4[C@@H](NC(=O)C(=N\OC)/c1csc(N)n1)[C@H]5SC\C(C[n+]3cccc2CCCCc23)=C(/N45)C([O-])=O
