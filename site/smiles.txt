@@ -526,7 +526,7 @@ Pimozide	Fc1ccc(cc1)C(c2ccc(F)cc2)CCCN5CCC(N4c3ccccc3NC4=O)CC5
 Ethylene oxide	C1CO1
 Perphenazine	Clc2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4
 Thioridazine	S(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
-Acrylonitrile	C=CC#N
+Acrylonitrile	N#CC=C
 Trisodium phosphate	[O-]P(=O)([O-])[O-].[Na+].[Na+].[Na+]
 Phenelzine	N(N)CCc1ccccc1
 Aripiprazole	Clc4cccc(N3CCN(CCCCOc2ccc1c(NC(=O)CC1)c2)CC3)c4Cl
@@ -3350,6 +3350,8 @@ Repaglinide	O=C(O)c1ccc(cc1OCC)CC(=O)N[C@H](c2ccccc2N3CCCCC3)CC(C)C
 Indinavir	CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@H](C[C@@H](Cc2ccccc2)C(=O)N[C@H]3c4ccccc4C[C@H]3O)O)Cc5cccnc5
 Dipalmitoylphosphatidylcholine	O=C(OC[C@@H](OC(=O)CCCCCCCCCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C)CCCCCCCCCCCCCCC
 Phosphatidylinositol 4,5-bisphosphate	O=P([O-])([O-])O[C@@H]1[C@@H](O)[C@H](OP([O-])(=O)OCC(COC(=O)CCCCCCCCCCCCCCCCC)OC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)[C@H](O)[C@H](O)[C@H]1OP([O-])([O-])=O
+Pifithrin	CC1=CC=C(C=C1)C(=O)CN2C3=C(CCCC3)SC2=N
+Pifithrin	CC1=CC=C(C=C1)C2=CN3C4=C(CCCC4)SC3=N2
 Pifithrin	[Br-].Cc1ccc(cc1)C(=O)Cn2[c+](N)sc3CCCCc23
 Transfluthrin	Cl/C(Cl)=C/[C@@H]2[C@@H](C(=O)OCc1c(F)c(F)cc(F)c1F)C2(C)C
 Zotepine	Clc2cc1C(/OCCN(C)C)=C\c3c(Sc1cc2)cccc3
@@ -9578,7 +9580,7 @@ Copper(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cu+2].[Cu+2].[Cu+2
 Ammonium dihydrogen phosphate	[O-]P(=O)(O)O.[NH4+]
 Echinomycin	C[C@H]1C(=O)N([C@H]2CSC([C@@H](C(=O)N([C@H](C(=O)OC[C@H](C(=O)N1)NC(=O)c3cnc4ccccc4n3)C(C)C)C)N(C(=O)[C@@H](NC(=O)[C@@H](COC(=O)[C@@H](N(C2=O)C)C(C)C)NC(=O)c5cnc6ccccc6n5)C)C)SC)C
 Eslicarbazepine acetate	CC(=O)OC2Cc1ccccc1N(C(N)=O)c3c2cccc3
-Befiradol	n2cc(C)ccc2CNCC(F)(CC3)CCN3C(=O)c(cc1Cl)ccc1F
+Befiradol	Cc1ccc(nc1)CNCC2(CCN(CC2)C(=O)c3ccc(c(c3)Cl)F)F
 3,4-Methylenedioxy-N-ethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
 3-Oxetanone	O=C1COC1
 Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
@@ -14848,7 +14850,7 @@ PF-3845	O=C(NC1=CN=CC=C1)N(CC2)CCC2CC3=CC=CC(OC4=NC=C(C(F)(F)F)C=C4)=C3
 Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
 NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
-5-oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
+5-Oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
 Diapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)C2=C(C(=CC(=C2)C(=O)C)OC)O
 1,6-Methano(10)annulene	c1ccc2ccccc(c1)C2
 Sesquifulvalene	C1=CC=CC(=C2C=CC=C2)C=C1
@@ -16207,8 +16209,8 @@ Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C(C(C(=O)O)N)[TeH]
-Trans-dichlorodiammineplatinum(II)	N.N.Cl[Pt]Cl
-Trans-dichlorodiammineplatinum(II)	Cl[Pt](Cl)([NH3+])[NH3+]
+Trans-Dichlorodiammineplatinum(II)	N.N.Cl[Pt]Cl
+Trans-Dichlorodiammineplatinum(II)	Cl[Pt](Cl)([NH3+])[NH3+]
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
@@ -16914,3 +16916,4 @@ Isoxazoline	C1=CONC1
 Selinexor	C1=CN=C(C=N1)NNC(=O)/C=C\N2C=NC(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 3-Mercaptopropionitrile	C(CS)C#N
 Pseudohypericin	CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C6C7=C(C1=C25)C(=CC(=O)C7=C(C8=C(C=C(C4=C86)O)O)O)CO)O)O)O
+Gold(III) sulfide	[S-2].[S-2].[S-2].[Au+3].[Au+3]
