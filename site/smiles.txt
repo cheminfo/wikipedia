@@ -5225,6 +5225,7 @@ Oxindole	c1ccc2c(c1)CC(=O)N2
 Andrographolide	O=C3OCC(O)C3=CCC1\C(=C)CCC2C(C)(CO)C(O)CCC12C
 Andrographolide	OC3COC(=O)\C3=C\C[C@@H]1C(=C)CC[C@@H]2C(C)(CO)[C@H](O)CC[C@@]12C
 FC-75	C1(C(C(OC1(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)F)(F)F)(F)F)(F)F
+Manganese(IV) fluoride	[F-].[F-].[F-].[F-].[Mn]
 Molindone	O=C2c1c(c([nH]c1CCC2CN3CCOCC3)C)CC
 Suprofen	O=C(c1ccc(cc1)C(C(=O)O)C)c2sccc2
 Bismuth subgallate	OC(=O)c2cc1O[Bi](O)Oc1c(O)c2
@@ -15794,6 +15795,7 @@ Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
 Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
+Manganese(II) hydroxide	[OH-].[OH-].[Mn+2]
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
 Tecarfarin	CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
@@ -16917,3 +16919,4 @@ Selinexor	C1=CN=C(C=N1)NNC(=O)/C=C\N2C=NC(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 3-Mercaptopropionitrile	C(CS)C#N
 Pseudohypericin	CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C6C7=C(C1=C25)C(=CC(=O)C7=C(C8=C(C=C(C4=C86)O)O)O)CO)O)O)O
 Gold(III) sulfide	[S-2].[S-2].[S-2].[Au+3].[Au+3]
+Scandium nitride	N#[Sc]
