@@ -16608,6 +16608,7 @@ Isophorone diamine	CC1(CC(CC(C1)(C)CN)N)C
 Chinese VX	CCCCOP(=O)(C)SCCN(CC)CC
 Aflatoxin M1	COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5)O
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
+Dioctyl maleate	CCCCC(CC)COC(=O)/C=C\C(=O)OCC(CC)CCCC
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
 Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
@@ -16928,3 +16929,4 @@ Tungsten pentafluoride	F[W](F)(F)(F)F
 Β-Butyrolactone	CC1CC(=O)O1
 Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
+Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
