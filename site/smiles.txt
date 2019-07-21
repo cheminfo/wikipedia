@@ -13022,7 +13022,7 @@ Neurosporene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C
 Alpha-Chlorocodide	Cl[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
-Xylindein	CCC[C@H]1CC2=C3OC4=CC(=O)C5=C6C(OC7=CC(=O)C(C(O)=C2C(=O)O1)=C3C7=C46)=C1C[C@H](CCC)OC(=O)C1=C5O
+Xylindein	CCC[C@@H](C0)OC(=O)c(c1O)c0c2OC3=CC(=O)c4c5C3=C6c2c1C(=O)C=C6Oc5c7c(c4O)C(=O)O[C@H](C7)CCC
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
 Lapyrium	O=C(NCCOC(=O)CCCCCCCCCCC)C[n+]1ccccc1
 Doravirine	Cn1c(n[nH]c1=O)Cn2ccc(c(c2=O)Oc3cc(cc(c3)Cl)C#N)C(F)(F)F
@@ -13348,6 +13348,7 @@ Stearoylethanolamide	CCCCCCCCCCCCCCCCCC(=O)NCCO
 Cis-2-Decenoic acid	O=C(O)\C=C/CCCCCCC
 Indane-5-sulfonamide	c1cc2c(cc1S(=O)(=O)N)CCC2
 Queen bee acid	C(CCC/C=C/C(=O)O)CCCO
+Isopropylparaben	CC(C)OC(=O)C1=CC=C(C=C1)O
 3-Hydroxyoctanoic acid	CCCCCC(CC(=O)O)O
 Myrmicacin	CCCCCCCC(CC(=O)O)O
 3,11-Dihydroxydodecanoic acid	O=C(O)CC(O)CCCCCCCC(O)C
@@ -16930,3 +16931,4 @@ Tungsten pentafluoride	F[W](F)(F)(F)F
 Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
+BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
