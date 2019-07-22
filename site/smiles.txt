@@ -2234,6 +2234,7 @@ Selenate	[O-][Se+2]([O-])([O-])[O-]
 Selenic acid	O[Se+2]([O-])([O-])O
 Prazosin	O=C(N3CCN(c2nc1cc(OC)c(OC)cc1c(n2)N)CC3)c4occc4
 Dimethylacetamide	CN(C)C(C)=O
+FMRFamide	CSCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N)NC(=O)[C@H](CC2=CC=CC=C2)N
 Tris(benzyltriazolylmethyl)amine	c1ccc(cc1)Cn2cc(nn2)CN(Cc3cn(nn3)Cc4ccccc4)Cc5cn(nn5)Cc6ccccc6
 Zonisamide	O=S(=O)(N)Cc2noc1ccccc12
 Zinc acetate	[Zn+2].[O-]C(=O)C.[O-]C(=O)C
@@ -12075,7 +12076,7 @@ C16 (drug)	O=c3[nH]c2ccc1ncsc1c2c3=Cc4c[nH]cn4
 Betaenone A	OC12C(O)(C)C(C(C)CC)C(C)(C(=O)\C2=C\O)C3C1CC(O)(C)CC3C
 Betaenone C	CC2CC(C)(O)CC(C(=O)C1(C)O)C2C(C)(C(=O)\C=C/O)C1C(C)CC
 Trans-Resveratrol-3-O-glucuronide	O=C(O)[C@H]3O[C@@H](Oc2cc(O)cc(\C=C\c1ccc(O)cc1)c2)[C@H](O)[C@@H](O)[C@@H]3O
-Lanthionine Ketimine	C1C(N=C(CS1)C(=O)O)C(=O)O
+Lanthionine ketimine	C1C(N=C(CS1)C(=O)O)C(=O)O
 Monoctanoin	O=C(OCC(O)CO)CCCCCCC
 IBNtxA	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1NC(=O)C7=CC(=CC=C7)I)OC5=C(C=C4)O)O
 OSU-6162	CCCN1CCC[C@H](C1)C2=CC(=CC=C2)S(=O)(=O)C
@@ -13399,6 +13400,7 @@ Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H]
 Glionitrin A	CN1C(=O)C23CC4=C(N2C(=O)C1(SS3)CO)C=C(C=C4)[N+](=O)[O-]
 Mayamycin	Cc1cc2c(c(c1)O)c3c(c(c2[C@H]4C[C@H]([C@@H]([C@H](O4)C)O)NC)O)C(=O)c5c(cccc5O)C3=O
 Cosmomycin B	CC[C@]1(CCc2c(c(c3c(c2O)C(=O)c4c(cccc4O)C3=O)O)[C@H]1O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@@H]([C@@H](O6)C)O[C@H]7CC[C@@H]([C@@H](O7)C)O)O)N(C)C)O
+Justicidin A	COC1=C(C=C2C(=C1)C(=C3C(=C2OC)COC3=O)C4=CC5=C(C=C4)OCO5)OC
 Galtamycin B	O=C1\C=C/[C@@H](O[C@H]1C)O[C@H]2CC[C@@H](O[C@H]2C)O[C@@H]8[C@@H](O[C@@H](O[C@H]3[C@H](O)C[C@@H](O[C@@H]3C)c7ccc6C(=O)c5c(O)c4cc(cc(O)c4cc5C(=O)c6c7O)C)C[C@@H]8O)C
 Asphodelin A	C1=CC(=C(C=C1O)O)C2=C(C3=C(C=C(C=C3)O)OC2=O)O
 Lobivine	CN(C)CCc1ccc2c(c1)OCO2
@@ -13620,7 +13622,7 @@ Flubromazepam	BrC1=CC(C(C2=CC=CC=C2F)=NC3)=C(C=C1)NC3=O
 Hexachlorodisilane	[Si]([Si](Cl)(Cl)Cl)(Cl)(Cl)Cl
 Ganodermanontriol	C[C@@H]([C@@H]1[C@@]2([C@](C3=CC[C@@H]4[C@@](C3=CC2)(CCC(=O)[C@]4(C)C)C)(CC1)C)C)CC[C@H](O)[C@](O)(CO)C
 Lucidadiol	C[C@H](CC/C=C(\C)/CO)[C@H]1CC[C@@]2([C@@]1(CCC3=C2C(=O)C[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
-Ganodermadiol	C[C@H](CC/C=C(\C)/CO)[C@@H]1CC[C@@]2([C@@]1(CC=C3C2=CCC4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
+Ganodermadiol	C[C@H](CC/C=C(\C)/CO)[C@H]1CC[C@@]2([C@@]1(CC=C3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 VIR-576	CC[C@H](C)[C@H]1C(=O)N2CCC[C@H]2C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)N4CCC[C@H]4C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N5CCC[C@H]5C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C)CCC(=O)O)CC(C)C)Cc6ccccc6)C(C)C)Cc7ccccc7)CCCCN)Cc8ccccc8)CC(C)C)Cc9ccccc9)CCC(=O)O)[C@@H](C)CC)CO)NC(=O)[C@@H]1CCCN1C(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)N)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
 Laurdan	CCCCCCCCCCCC(=O)c1ccc2cc(ccc2c1)N(C)C
 Idelalisib	CC[C@H](Nc1ncnc2nc[nH]c12)c4nc3cccc(F)c3c(=O)n4c5ccccc5
@@ -16932,3 +16934,4 @@ Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
 BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
+Solanesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)/C)/C)/C)/C)C

@@ -1601,5 +1601,6 @@
 {"date":"2019-07-18T03:39:21.103Z","molecules":16930,"errors":65,"nogood":39,"notfound":2220,"dup":587},
 {"date":"2019-07-19T03:38:43.034Z","molecules":16932,"errors":65,"nogood":39,"notfound":2223,"dup":587},
 {"date":"2019-07-20T03:38:42.984Z","molecules":16932,"errors":65,"nogood":39,"notfound":2223,"dup":587},
-{"date":"2019-07-21T04:07:31.251Z","molecules":16934,"errors":65,"nogood":39,"notfound":2223,"dup":587}
+{"date":"2019-07-21T04:07:31.251Z","molecules":16934,"errors":65,"nogood":39,"notfound":2223,"dup":587},
+{"date":"2019-07-22T03:38:42.771Z","molecules":16937,"errors":66,"nogood":40,"notfound":2223,"dup":587}
 ]
