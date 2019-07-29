@@ -1038,7 +1038,7 @@ Methylenecyclopropene	C=C1C=C1
 Xylose	C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
 Reboxetine	CCOC1=C(C=CC=C1)O[C@@H]([C@@H]2OCCNC2)C3=CC=CC=C3
 Atazanavir	O=C(OC)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)CN(NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)Cc3ccc(c2ncccc2)cc3)C(C)(C)C
-Hypericin	Cc1cc(c2c3c1c4c(cc(c5c4c6c3c7c(c(cc(c7c2=O)O)O)c8c6c(c5=O)c(cc8O)O)O)C)O
+Hypericin	Cc0cc(O)c1C(=O)c2c(O)cc(O)c3c2c4c1c0c5c6c4c7c3c(O)cc(O)c7C(=O)c6c(O)cc5C
 Benzoyl peroxide	c1ccc(cc1)C(=O)OOC(=O)c2ccccc2
 Hexanitrobenzene	c1(c(c(c(c(c1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Buspirone	O=C1N(CCCCN2CCN(CC2)C3=NC=CC=N3)C(CC4(CCCC4)C1)=O
@@ -13023,7 +13023,6 @@ Neurosporene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C
 Alpha-Chlorocodide	Cl[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
-Xylindein	CCC[C@@H](C0)OC(=O)c(c1O)c0c2OC3=CC(=O)c4c5C3=C6c2c1C(=O)C=C6Oc5c7c(c4O)C(=O)O[C@H](C7)CCC
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
 Lapyrium	O=C(NCCOC(=O)CCCCCCCCCCC)C[n+]1ccccc1
 Doravirine	Cn1c(n[nH]c1=O)Cn2ccc(c(c2=O)Oc3cc(cc(c3)Cl)C#N)C(F)(F)F
@@ -16944,3 +16943,6 @@ Solanesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/C
 1,2,3,4,5-Cyclopentanepentol	C1(C(C(C(C1O)O)O)O)O
 Cannflavin	CC(=CCC/C(=C/CC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)OC)O)/C)C
 Cannflavin	CC(=CCC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)OC)O)C
+1,2,3,4-Cyclohexanetetrol	C1CC(C(C(C1O)O)O)O
+1,2,4,5-Cyclohexanetetrol	C1C(C(CC(C1O)O)O)O
+Copper(II) glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Cu+2]
