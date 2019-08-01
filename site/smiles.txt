@@ -13321,6 +13321,7 @@ Etamycin	C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2C[C@@H](C[C@@H]2C(=O)N(CC(=O)N(C(C(=
 Clavanin B	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC2=CN=CN2)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC4=CN=CN4)C(=O)NCC(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC6=CN=CN6)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC7=CC=CC=C7)C(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC8=CC=CC=C8)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC9=CC=CC=C9)NC(=O)[C@H](C(C)C)N
 Gymnochrome E	CCC[C@H](Cc1c2c3c(c(c(c4c3c5c6c(c(cc(c6c4=O)O)O)c7c(cc(c8c7c5c2c(c8=O)c(c1Br)O)O)O)O)Br)C[C@H](C)O)O
 Arylomycin A2	C[C@H]1C(=O)N[C@@H](Cc2ccc(c(c2)-c3cc(ccc3O)[C@@H](C(=O)N1)N(C)C(=O)CNC(=O)[C@@H](C)NC(=O)[C@@H](CO)N(C)C(=O)C)O)C(=O)O
+Mannopeptimycin glycopeptide	CC(C)CC(=O)O[C@H]1[C@H](O)[C@@H](CO)O[C@H](O[C@H]2[C@H](O)[C@H](O)[C@@H](Oc3ccc(C[C@H]4NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](NC(=O)[C@@H](NC4=O)[C@@H](O)[C@@H]5CN=C(N)N5)[C@@H](O)[C@@H]6CN=C(N)N6[C@H]7O[C@H](O)[C@@H](O)[C@H](O)[C@@H]7O)[C@@H](C)c8ccccc8)cc3)O[C@@H]2CO)[C@H]1O
 Avibactam	[C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
 Nemonoxacin	C[C@H]1C[C@H](N)CN(C1)c2ccc3c(c2OC)n(C4CC4)cc(c3=O)C(=O)O
 Omadacycline	CC(C)(C)CNCc1cc(c2c(c1O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)N(C)C
@@ -16946,3 +16947,5 @@ Cannflavin	CC(=CCC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC(=C(C=C3)O)OC)O)C
 1,2,4,5-Cyclohexanetetrol	C1C(C(CC(C1O)O)O)O
 Copper(II) glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Cu+2]
 Α-Pyrrolidinoheptaphenone	CCCCCC(C(=O)C1=CC=CC=C1)N2CCCC2
+TL-599	CC(C)c1cc(ccc1[N+](C)(C)C)OC(=O)N(C)C.[I-]
+4-Methyl-α-ethylaminopentiophenone	CC1=CC=C(C(C(CCC)NCC)=O)C=C1
