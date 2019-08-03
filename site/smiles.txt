@@ -5694,6 +5694,7 @@ Sec-Butylamine	CCC(C)N
 Isobutylamine	CC(C)CN
 Alpha-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
 3-Hydroxypicolinic acid	c1cc(c(nc1)C(=O)O)O
+Thiotrisescaline	CCOc1cc(cc(c1OCC)SCC)CCN
 Trisescaline	CCOc1c(cc(cc1OCC)CCN)OCC
 Clofedanol	Clc1ccccc1C(O)(c2ccccc2)CCN(C)C
 Temafloxacin	Fc1ccc(c(F)c1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CC(NCC4)C
@@ -16950,3 +16951,4 @@ Copper(II) glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Cu+2]
 TL-599	CC(C)c1cc(ccc1[N+](C)(C)C)OC(=O)N(C)C.[I-]
 4-Methyl-α-ethylaminopentiophenone	CC1=CC=C(C(C(CCC)NCC)=O)C=C1
 Chromium(II) acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Cr+2]
+5F-MDMB-PICA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=CN(CCCCCF)C2=C1C=CC=C2
