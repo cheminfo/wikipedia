@@ -16951,4 +16951,6 @@ Copper(II) glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Cu+2]
 TL-599	CC(C)c1cc(ccc1[N+](C)(C)C)OC(=O)N(C)C.[I-]
 4-Methyl-α-ethylaminopentiophenone	CC1=CC=C(C(C(CCC)NCC)=O)C=C1
 Chromium(II) acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Cr+2]
-5F-MDMB-PICA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=CN(CCCCCF)C2=C1C=CC=C2
+5F-MDMB-PICA	CC(C)[C@@H](C(=O)OC)NC(=O)C1=CN(C2=CC=CC=C21)CCCCCF
+5F-EDMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
+MMB-CHMICA	CC(C)[C@@H](C(=O)OC)NC(=O)c1cn(c2c1cccc2)CC3CCCCC3
