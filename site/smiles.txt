@@ -5549,6 +5549,7 @@ Metaescaline	COc1c(cc(cc1OCC)CCN)OC
 Bilane	C1=CNC(=C1)CC2=CC=C(N2)CC3=CC=C(N3)CC4=CC=CN4
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
+TME (psychedelics)	CCSC1=CC(=CC(=C1OC)OC)CCN
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
 TOMSO	COC1=C(C=C(C(=C1)C)S(=O)C)CC(C)N
 Azaserine	O=C(OC[C@H](N)C(O)=O)/C=[N+]=[N-]
@@ -5659,6 +5660,7 @@ Lipstatin	O=C(O[C@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)C\C=C/C\C=C/CCCCC)[C@@H](NC=O)CC
 Monopotassium phosphite	OP(O)[O-].[K+]
 2,3,4,5-Tetramethoxyamphetamine	CC(Cc1cc(c(c(c1OC)OC)OC)OC)N
 F-22 (psychedelic)	O(c2cc1c(OC(C1)(C)C)cc2CC(N)C)C
+Thioescaline	CCOc1c(cc(cc1SC)CCN)OC
 Tartronic acid	O=C(O)C(O)C(=O)O
 Coptisine	O1c3c(OC1)c2c[n+]6c(cc2cc3)c5cc4OCOc4cc5CC6
 Methylcyclopentadiene	C\1=C\C=C(\C)C/1
@@ -7921,7 +7923,7 @@ Muramic acid	CC(OC1C(N)C(O)OC(CO)C1O)C(O)=O
 ICRF 193	O=C2NC(=O)CN(C(C(N1CC(=O)NC(=O)C1)C)C)C2
 Terguride	CCN(CC)C(=O)N[C@H]1C[C@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 Nifekalant	CN1C(=CC(=O)N(C1=O)C)NCCN(CCCC2=CC=C(C=C2)[N+](=O)[O-])CCO
-Pentylamine	CCCCCN
+1-Aminopentane	CCCCCN
 Deoxyepinephrine	Oc1ccc(cc1O)CCNC
 Oxidopamine	c1c(c(cc(c1O)O)O)CCN
 Cysteinyldopa	O=C(O)C(N)Cc1cc(SCC(C(=O)O)N)c(O)c(O)c1
@@ -15396,7 +15398,6 @@ Methylepitiostanol	CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5C(C4)S5)C
 Dimethandrolone	CC1CC2=CC(=O)CCC2C3C1C4CCC(C4(CC3C)C)O
 Argonium	[ArH+]
 Allopregnanediol	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C)O
-Dexamethasone phosphate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)(O)O)O)C)O)F)C
 Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
 Velneperit	CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
 Testosterone buciclate	CCCCC1CCC(CC1)C(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
@@ -16951,6 +16952,8 @@ Copper(II) glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Cu+2]
 TL-599	CC(C)c1cc(ccc1[N+](C)(C)C)OC(=O)N(C)C.[I-]
 4-Methyl-α-ethylaminopentiophenone	CC1=CC=C(C(C(CCC)NCC)=O)C=C1
 Chromium(II) acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Cr+2]
-5F-MDMB-PICA	CC(C)[C@@H](C(=O)OC)NC(=O)C1=CN(C2=CC=CC=C21)CCCCCF
+5F-MDMB-PICA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=CN(CCCCCF)C2=C1C=CC=C2
+Sulcatone	CC(=CCCC(=O)C)C
 5F-EDMB-PINACA	O=C(N[C@H](C(OCC)=O)C(C)(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
 MMB-CHMICA	CC(C)[C@@H](C(=O)OC)NC(=O)c1cn(c2c1cccc2)CC3CCCCC3
+3-Aminopentane	CCC(CC)N
