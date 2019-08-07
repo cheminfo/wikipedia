@@ -13241,7 +13241,6 @@ Anthracimycin	C[C@@H]1/C=C\C=C\[C@H](OC(=O)[C@@H](C(=O)/C=C(/[C@H]2[C@@H]1C=C[C@
 Razupenem	[H][C@]12N(C(C(O)=O)=C(SC3=NC(C4=C[C@H](C)NC4)=CS3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
 Tebipenem	[H][C@]12N(C(C(OCOC(C(C)(C)C)=O)=O)=C(SC3CN(C4=NCCS4)C3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
 Pyrazolam	CC1=NN=C2CN=C(C3=NC=CC=C3)C3=CC(Br)=CC=C3N12
-Tetraethyl dithiopyrophosphate	CCOP(=S)(OCC)OP(=S)(OCC)OCC
 Scopolin	COC1=C(C=C2C(=C1)C=CC(=O)O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Skimmin	c1cc(cc2c1ccc(=O)o2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Fraxin	COc1cc2ccc(=O)oc2c(c1O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
@@ -13406,6 +13405,7 @@ Justicidin A	COC1=C(C=C2C(=C1)C(=C3C(=C2OC)COC3=O)C4=CC5=C(C=C4)OCO5)OC
 Galtamycin B	O=C1\C=C/[C@@H](O[C@H]1C)O[C@H]2CC[C@@H](O[C@H]2C)O[C@@H]8[C@@H](O[C@@H](O[C@H]3[C@H](O)C[C@@H](O[C@@H]3C)c7ccc6C(=O)c5c(O)c4cc(cc(O)c4cc5C(=O)c6c7O)C)C[C@@H]8O)C
 Asphodelin A	C1=CC(=C(C=C1O)O)C2=C(C3=C(C=C(C=C3)O)OC2=O)O
 Lobivine	CN(C)CCc1ccc2c(c1)OCO2
+Elaiomycin	CCCCCC/C=C\[N+](=N\[C@@H](COC)[C@H](C)O)\[O-]
 Isoemericellin	C/C(C)=C\Cc3ccc2Oc1cc(C)c(OC\C=C(/C)C)c(CO)c1C(=O)c2c3O
 Arugosin C	CC1=CC(=C2C3=C1OCC(C3OC4=C(C2=O)C(=C(C=C4)CC=C(C)C)O)C(C)(C)O)O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
@@ -14979,7 +14979,7 @@ Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
 Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
 3,3-Dimethyl-1-butanol	CC(C)(C)CCO
-Pexidartinib	c1cc(ncc1Cc2c[nH]c3c2cc(cn3)Cl)NCc4ccc(nc4)C(F)(F)F
+Pexidartinib	ClC=1C=C2C(=NC1)NC=C2CC=2C=CC(=NC2)NCC=2C=NC(=CC2)C(F)(F)F
 Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
 Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
