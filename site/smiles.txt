@@ -4475,6 +4475,7 @@ Perflubron	FC(F)(C(F)(F)C(Br)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
 Methazolamide	O=S(=O)(C\1=N\N(C(=N/C(=O)C)/S/1)C)N
 Lercanidipine	[O-][N+](=O)c1cccc(c1)C4C(=C(/N\C(=C4\C(=O)OC(C)(C)CN(CCC(c2ccccc2)c3ccccc3)C)C)C)\C(=O)OC
 Isradipine	O=C(OC)\C3=C(\N\C(=C(\C(=O)OC(C)C)C3c1cccc2nonc12)C)C
+Nisoldipine	CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)c2ccccc2[N+](=O)[O-])C(=O)OC
 Mezlocillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)N(S(=O)(=O)C)CC2)[C@H]4SC3(C)C
 Cefpiramide	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccc(O)cc3)NC(=O)C\4=C\N\C(=C/C/4=O)C)CSc5nnnn5C)C(=O)O
 Cefmenoxime	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sc3)N)CSc4nnnn4C)C(=O)O
