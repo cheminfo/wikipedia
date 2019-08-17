@@ -4516,6 +4516,9 @@ Flunarizine	Fc1ccc(cc1)C(c2ccc(F)cc2)N3CCN(CC3)C\C=C\c4ccccc4
 Cinnamyl alcohol	c1ccc(cc1)/C=C/CO
 3,4-Xylenol	CC1=C(C=C(C=C1)O)C
 Iron(II) carbonate	C(=O)([O-])[O-].[Fe+2]
+Carbon trioxide	O=[C]O[O]
+Carbon trioxide	O=C([O])[O]
+Carbon trioxide	O=C1OO1
 CHAPS detergent	[O-]S(=O)(=O)CCC[N+](C)(C)CCCNC(=O)CC[C@@H](C)[C@H]4CC[C@H]3[C@H]2[C@@H]([C@@]1([C@@H](C[C@H](O)CC1)C[C@H]2O)C)C[C@H](O)[C@@]34C
 CHAPS detergent	CC(CCC(=O)NCCC[N+](C)(C)CCCS([O-])(=O)=O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C
 Aceprometazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CC(N(C)C)C)C
@@ -9581,6 +9584,7 @@ GR-127935	n5oc(C)nc5-c(cc2C)ccc2-c(cc3)ccc3C(=O)Nc(ccc1OC)cc1N4CCN(C)CC4
 CCG-4986	O=[N](=O)c1ccc(cc1)\S(\OC)=N\S(=O)(=O)c(cc2)ccc2Cl
 Tetracarbon dioxide	O=C=C=C=C=O
 1,3-Dioxetanedione	O=C1OC(=O)O1
+1,3,5-Trioxanetrione	O=C0OC(=O)OC(=O)O0
 Cyclobutanetetrone	O=C1C(=O)C(=O)C1=O
 Halichondrin B	OCC(O)CC(O)[C@@H]1C[C@@H]2O[C@@]3(C[C@H](C)[C@@H]2O1)C[C@H](C)[C@@H]4O[C@]%10(C[C@@H]4O3)C[C@H]%11O[C@H]%12[C@H](C)[C@H]%13OC(=O)C[C@H]8CC[C@@H]9O[C@H]7[C@H]6O[C@]5(O[C@H]([C@@H]7O[C@@H]6C5)[C@H]9O8)CC[C@H]%15C/C(=C)[C@H](CC[C@H]%14C[C@@H](C)\C(=C)[C@@H](C[C@@H]%13O[C@H]%12C[C@H]%11O%10)O%14)O%15
 Copper(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
@@ -13150,10 +13154,12 @@ Sterpuric acid	OC12C(=C3CC(CC3CC1(CC2)C)(C(=O)O)C)C
 Leelamine	CC(C)c1ccc2c(c1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)CN)C
 5-EAPB	CC(NCC)CC1=CC(C=CO2)=C2C=C1
 Palbociclib	O=C2N(c1nc(ncc1/C(=C2/C(=O)C)C)Nc3ncc(cc3)N4CCNCC4)C5CCCC5
+Carbon pentoxide	O=C1OOOO1
 Trifluoromethylsulfur pentafluoride	FC(F)(F)S(F)(F)(F)(F)F
 4-Caffeoyl-1,5-quinide	c1cc(c(cc1/C=C/C(=O)O[C@@H]2[C@@H](C[C@@]3(C[C@H]2OC3=O)O)O)O)O
 Plantazolicin	CC[C@H](C)[C@@H](c1nc(co1)c2nc(co2)c3nc(co3)c4nc(co4)C5=N[C@@H](C(O5)C)C(=O)N[C@@H](Cc6ccccc6)C(=O)O)NC(=O)C([C@@H](C)CC)NC(=O)c7c(oc(n7)c8c(oc(n8)c9csc(n9)c1c(oc(n1)c1csc(n1)[C@H](CCCNC(=N)N)N(C)C)C)C)C
 Cyclopropanetrione	O=C1C(=O)C1=O
+Carbon hexoxide	O=C1OOOOO1
 Mebicar	CN1C2C(N(C1=O)C)N(C(=O)N2C)C
 Ipidacrine	C1CCc2c(c(c3c(n2)CCC3)N)C1
 PSB-SB-487	OC1=C(CC2=CC3=C(C=C(C(C)(C)CCCCCCC)C=C3O)OC2=O)C=CC=C1
@@ -14066,7 +14072,6 @@ Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
 Thiothinone	CC(C(=O)C1=CC=CS1)NC
 EMA401	COC1=C(C2=C(CN(C(C2)C(=O)O)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4)C=C1)OCC5=CC=CC=C5
-Loteprednol etabonate	CCOC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C(=O)OCCl
 Paritaprevir	Cc1cnc(cn1)C(=O)N[C@H]2CCCCC/C=C\[C@@H]3C[C@]3(NC(=O)[C@@H]4C[C@H](CN4C2=O)Oc5c6ccccc6c7ccccc7n5)C(=O)NS(=O)(=O)C8CC8
 2-Hydroxyisocaproic acid	CC(C)CC(C(=O)O)O
 3-Methylmethcathinone	CC1=CC=CC(C(C(C)NC)=O)=C1
@@ -16972,3 +16977,5 @@ Copper(II) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Cu]
 4-Hydroxyphenylacetaldehyde	C1=CC(=CC=C1CC=O)O
 7-Methyl-1,5,7-triazabicyclo(4.4.0)dec-5-ene	CN1CCCN2C1=NCCC2
 (Norbornadiene)molybdenum tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1C2C=CC1C=C2.[Mo]
+4-Methoxybenzylthiol	COc1ccc(cc1)CS
+Cyclo(18)carbon	C1#CC#CC#CC#CC#CC#CC#CC#CC#C1
