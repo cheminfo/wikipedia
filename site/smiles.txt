@@ -1667,6 +1667,7 @@ Clomipramine	ClC1=CC(N(CCCN(C)C)C2=C(CC3)C=CC=C2)=C3C=C1
 Nortriptyline	c3cc2c(/C(c1c(cccc1)CC2)=C/CCNC)cc3
 Xylazine	N\1=C(\SCCC/1)Nc2c(cccc2C)C
 Wortmannin	O=C\3c2occ1C(=O)O[C@@H]([C@@](c12)(/C5=C/3[C@H]4[C@](C(=O)CC4)(C)C[C@H]5OC(=O)C)C)COC
+Methylcyclopentadienyl manganese tricarbonyl	CC1=C[CH-]C=C1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn]
 Zosuquidar	Cl.Cl.Cl.FC4(F)[C@@H]3c1ccccc1C(c2c(cccc2)[C@@H]34)N5CCN(CC5)C[C@@H](O)COc7c6cccnc6ccc7
 Gemcitabine	c1cn(c(=O)nc1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
 Trolamine salicylate	O=C(O)c1ccccc1O.OCCN(CCO)CCO
@@ -9388,6 +9389,7 @@ Kendomycin	C[C@H]\1CC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)C3=C(C(=O)C(=C4C3=C[C@
 AGN-2979	O=C1NC(=O)CC(C1(c2cccc(OC)c2)CCCN(C)C)(C)C
 Apaziquone	Cn1c(c(c2c1C(=O)C=C(C2=O)N3CC3)CO)/C=C/CO
 DBL-583	CCCCCCCCCC(=O)OC(CCN1CCN(CC1)CCOC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)C4=CC=CC=C4
+Momilactone B	C[C@]1(CC[C@@H]2C(=CC3[C@@H]4[C@]25CCC([C@@]4(C(=O)O3)C)(OC5)O)C1)C=C
 Brevianamide	O=C1[C@@]2(NC3=O)C[C@@]4(C(C)(C)[C@]2([H])C[C@]53N1CCC5)C(C6=CC=CC=C6N4)=O
 Brevianamide	O=C1[C@@]2(NC3=O)C[C@]4(C(C)(C)[C@]2([H])C[C@]53N1CCC5)C(C6=CC=CC=C6N4)=O
 Lubazodone	C1CC2=C(C=CC(=C2C1)F)OC[C@@H]3CNCCO3
@@ -15482,6 +15484,8 @@ Ammonium iodate	[NH4+].[O-]I(=O)=O
 Beta-Funaltrexamine	COC(=O)/C=C/C(=O)N[C@@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC6CC6)O)O
 Beta-Fuoxymorphamine	O=C(OC)\C=C\C(=O)N[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Uvitic acid	Cc1cc(cc(c1)C(=O)O)C(=O)O
+Molybdenum carbide	C(=[Mo])=[Mo]
+Molybdenum carbide	[C]=[Mo]
 16α-Hydroxy-DHEA sulfate	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3C[C@H](C4=O)O)C)OS(=O)(=O)O
 Afoxolaner	FC(F)(F)CNC(=O)CNC(=O)c1ccc(C2=NOC(C2)(c3cc(Cl)cc(c3)C(F)(F)F)C(F)(F)F)c4ccccc14
 Buprofezin	CC(C)N1\C(=N\C(C)(C)C)\SCN(C1=O)c2ccccc2
@@ -16992,3 +16996,4 @@ MgCu2	[Mg].[Cu].[Cu]
 Isoindenone	C1=CC2=CC(=O)C=C2C=C1
 Propetamphos	O([P@@](NCC)(OC)=S)\C(=C/C(OC(C)C)=O)C
 1-Pentadecanol	CCCCCCCCCCCCCCCO
+3-Acetylcoumarin	CC(=O)C1=CC2=CC=CC=C2OC1=O
