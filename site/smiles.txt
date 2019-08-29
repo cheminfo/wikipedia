@@ -3254,6 +3254,7 @@ Quinoline Yellow SS	O=C(c3ccccc3C4=O)/C4=C2Nc1ccccc1C=C\2
 Oil Blue 35	O=C2c1ccccc1C(c3c2c(NCCCC)ccc3NCCCC)=O
 Oil Blue A	O=C2c1ccccc1C(c3c2c(NC(C)C)ccc3NC(C)C)=O
 Solvent Yellow 124	N(=N/c1ccc(N(CCOC(OCC(C)C)C)CC)cc1)\c2ccccc2
+Nd:YAB	B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].[Al+3].[Al+3].[Al+3].[Y+3]
 Arsenic pentoxide	O=[As](=O)O[As](=O)=O
 Glufosinate	O=P(O)(CCC(C(=O)O)N)C
 Sodium stearate	[Na+].[O-]C(=O)CCCCCCCCCCCCCCCCC
@@ -9080,6 +9081,7 @@ Sulfoquinovose	O=S(=O)(O)C[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Para-Chloroamphetamine	Clc1ccc(cc1)CC(N)C
 Bromine dioxide	O=Br=O
 Caesium oxide	[Cs+].[Cs+].[O-2]
+Neodymium(III) oxide	O=[Nd]O[Nd]=O
 Manzanate	CCCC(C)C(=O)OCC
 Xylonic acid	C([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
 S-Aminoethyl-L-cysteine	OC([C@@H](N)CSCCN)=O
@@ -10038,6 +10040,7 @@ Conhydrine	O[C@H](CC)[C@H]1NCCCC1
 H-89	c1cc2cnccc2c(c1)S(=O)(=O)NCCNC/C=C/c3ccc(cc3)Br
 1,5-Anhydroglucitol	C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Divaplon	CCC1=C(N2C=C(N=C2N=C1OC)C(=O)C3=CC=CC=C3)C
+Mycena sanguinolenta	c1c2c3c([nH]1)C(=O)C4=NCN[C@@H]5C4=C3N(CC5)C(C2)C(=O)O
 Procyanidin B1	O[C@H]1Cc2c(O)cc(O)c([C@@H]3[C@@H](O)[C@H](Oc4cc(O)cc(O)c34)c3ccc(O)c(O)c3)c2O[C@@H]1c1ccc(O)c(O)c1
 Procyanidin B3	O[C@H]1Cc2c(O)cc(O)c([C@H]3[C@H](O)[C@H](Oc4cc(O)cc(O)c34)c3ccc(O)c(O)c3)c2O[C@@H]1c1ccc(O)c(O)c1
 Procyanidin B4	O[C@@H]1Cc2c(O)cc(O)c([C@H]3[C@H](O)[C@H](Oc4cc(O)cc(O)c34)c3ccc(O)c(O)c3)c2O[C@@H]1c1ccc(O)c(O)c1
@@ -12152,6 +12155,7 @@ Quinalphos	CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1
 Silver permanganate	[Ag+].[O-][Mn](=O)(=O)=O
 Barium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ba+2]
 Epicriptine	CCC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@@H]4C[C@H]5[C@@H](CC6=CNC7=CC=CC5=C67)N(C4)C)O
+Dibenzyl ether	C1=CC=C(C=C1)COCC2=CC=CC=C2
 SoRI-20041	c2ccccc2C(c3ccccc3)CCNc(nc4-c5ccccc5)c1ccccc1n4
 N-Methylephedrine	O[C@H](c1ccccc1)[C@@H](N(C)C)C
 Ethyl decanoate	O=C(OCC)CCCCCCCCC
@@ -16693,7 +16697,6 @@ Tellurophenes	C1=C[Te]C=C1
 Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
-Diethynylbenzene dianion	[C-]#Cc0ccccc0C#[C-]
 Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
 Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
 Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
