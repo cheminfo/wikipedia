@@ -15874,6 +15874,8 @@ Actinium fluoride	F[Ac](F)F
 Curium(III) fluoride	F[Cm](F)F
 Promethium(III) fluoride	F[Pm](F)F
 Neptunium(III) fluoride	F[Np](F)F
+Neptunium(IV) fluoride	F[Np](F)(F)F
+Neptunium(V) fluoride	F[Np](F)(F)(F)F
 Wolffram's red salt	Cl[Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)Cl.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O
 Fezolinetant	C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C
 Vinyllithium	[Li]C=C
@@ -16915,6 +16917,7 @@ Trifluoromethyl cation	[C+](F)(F)F
 Hexaamminenickel chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
+Adhansia XR	COC(=O)C(c1ccccc1)C2CCCCN2
 2-Aminobiphenyl	C1=CC=C(C=C1)C2=CC=CC=C2N
 Trisporic acid	CCCC/C=C(\C)/C=C/C1=C(C(=O)CC[C@]1(C)C(=O)O)C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CCC(=O)C)/C
@@ -17000,3 +17003,4 @@ Isoindenone	C1=CC2=CC(=O)C=C2C=C1
 Propetamphos	O([P@@](NCC)(OC)=S)\C(=C/C(OC(C)C)=O)C
 1-Pentadecanol	CCCCCCCCCCCCCCCO
 3-Acetylcoumarin	CC(=O)C1=CC2=CC=CC=C2OC1=O
+Fagaramide	CC(C)CNC(=O)/C=C/C1=CC2=C(C=C1)OCO2
