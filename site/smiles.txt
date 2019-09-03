@@ -4540,6 +4540,7 @@ Sugammadex	[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].O=C([O-])CCSC[C@H]8O[
 Doxacurium chloride	[Cl-].[Cl-].O=C(OCCC[N@+]2(C)[C@H](c1c(OC)c(OC)c(OC)cc1CC2)Cc3cc(OC)c(OC)c(OC)c3)CCC(=O)OCCC[N@+]5([C@@H](c4c(cc(OC)c(OC)c4OC)CC5)Cc6cc(OC)c(OC)c(OC)c6)C
 Cisatracurium besilate	[O-]S(=O)(=O)c1ccccc1.[O-]S(=O)(=O)c1ccccc1.O=C(OCCCCCOC(=O)CC[N@@+]2([C@@H](c1c(cc(OC)c(OC)c1)CC2)Cc3ccc(OC)c(OC)c3)C)CC[N@+]5(C)[C@@H](c4cc(OC)c(OC)cc4CC5)Cc6ccc(OC)c(OC)c6
 Chlormezanone	O=S1(CCC(N(C)C1C2=CC=C(C=C2)Cl)=O)=O
+Chlorzoxazone	Clc2cc1c(OC(=O)N1)cc2
 Alcuronium chloride	[Cl-].[Cl-].OC\C=C6\C[N@+]4(CC=C)CC[C@@]58c%11ccccc%11N7\C=C9\[C@H]1C[C@H]2[C@@]%10(CC[N@@+]2(CC=C)C\C1=C\CO)c3ccccc3N(/C=C(/[C@H]6C[C@H]45)[C@H]78)[C@@H]9%10
 Mephenesin	O(c1ccccc1C)CC(O)CO
 Tolperisone	C1CCCN(C1)CC(C(C2=CC=C(C=C2)C)=O)C
