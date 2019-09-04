@@ -696,7 +696,6 @@ Furfural	c1cc(oc1)C=O
 Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
 Propofol	CC(C)c1cccc(c1O)C(C)C
-Gibberellin	O=C1O[C@@]52\C=C/[C@H](O)[C@]1([C@H]5[C@H](C(=O)O)[C@]43[C@H]2CC[C@@](O)(C(=C)C3)C4)C
 Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
@@ -16085,7 +16084,7 @@ Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
 Lithium monoxide anion	[Li]-[O-]
 Iridium tetrachloride	Cl[Ir](Cl)(Cl)Cl
-ORM-15341	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
+Ketodarolutamide	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)C
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
 LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
 Xerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
