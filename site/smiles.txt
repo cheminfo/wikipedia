@@ -5738,7 +5738,7 @@ Methylcyclohexane	CC1CCCCC1
 Methylenecyclohexane	C=C1CCCCC1
 Propylamphetamine	NC(C)Cc1ccccc1CCC
 Naphthylaminopropane	CC(N)Cc2ccc1ccccc1c2
-Palladium(II) acetylacetonate	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
+Palladium(II) bis(acetylacetonate)	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
 Phenadoxone	O=C(C(c1ccccc1)(c2ccccc2)CC(N3CCOCC3)C)CC
 Helium hydride ion	[HeH+]
 Benzylmorphine	O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OCc3ccccc3)ccc4C5)C
@@ -16908,6 +16908,7 @@ Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
 Tetraethylenepentamine	C(CNCCNCCNCCN)N
 2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
 2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
+Methylpiperazine	CN1CCNCC1
 Deflectin	CCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Deflectin	CCCCCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Deflectin	CCCCCCCCCC[C@H](C)C(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
