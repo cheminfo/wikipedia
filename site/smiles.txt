@@ -10118,7 +10118,7 @@ Bay K8644	CC1=C(C(C(=C(N1)C)[N+](=O)[O-])C2=CC=CC=C2C(F)(F)F)C(=O)OC
 Binedaline	c1cccc2c1c(cn2N(CCN(C)C)C)c3ccccc3
 1-Amino-3-phenylindole	Nn2cc(c1ccccc12)c3ccccc3
 Isopimaric acid	[H][C@]12[C@](C)(C(O)=O)CCC[C@]1(C)[C@]3([H])C(C[C@](C=C)(C)CC3)=CC2
-Apatinib	Cc1ccncc1[NH2+]c2c(cccn2)C(=O)Nc3ccc(cc3)C4(CCCC4)C#N.CS(=O)(=O)[O-]
+Apatinib	C1CCC(C1)(C#N)C2=CC=C(C=C2)NC(=O)C3=C(N=CC=C3)NCC4=CC=NC=C4
 Lanthanum barium copper oxide	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Cu+2].[Cu+2].[Cu+2].[Ba+2].[Ba+2].[La+3]
 Levoglucosan	OC1C2COC(O2)C(O)C1O
 4-Chlorophthalic anhydride	Clc1ccc2C(=O)OC(=O)c2c1
@@ -17029,3 +17029,4 @@ Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C
 Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.O.Cl[Ru]Cl
 Cocaine reverse ester	CC(=O)O[C@H]1[C@H](CC2CCC1N2C)OC(=O)C3=CC=CC=C3
 Martin's sulfurane	C1=CC=C(C=C1)C(C(F)(F)F)(C(F)(F)F)OS(C2=CC=CC=C2)(C3=CC=CC=C3)OC(C4=CC=CC=C4)(C(F)(F)F)C(F)(F)F
+Platinum(II) bis(acetylacetonate)	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Pt]
