@@ -3946,7 +3946,7 @@ Antimony pentoxide	O=[Sb](=O)O[Sb](=O)=O
 Antimony trichloride	Cl[Sb](Cl)Cl
 Zinc stearate	[Zn+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
 Sertaconazole	Clc1ccc(c(Cl)c1)C(OCc2c3cccc(Cl)c3sc2)Cn4ccnc4
-Vanadium(III) bromide	[V+3].[Br-].[Br-].[Br-]
+Vanadium(III) bromide	Br[V](Br)Br
 Vanadium(II) chloride	Cl[V]Cl
 Dibutyl sebacate	CCCCOC(=O)CCCCCCCCC(=O)OCCCC
 Propylene glycol dinitrate	O=[N+]([O-])OC(C)CO[N+](=O)[O-]
@@ -4246,7 +4246,7 @@ Thorium(IV) orthosilicate	[Th+4].[O-][Si]([O-])([O-])[O-]
 Thorium(IV) sulfide	S=[Th]=S
 Technetium hexafluoride	F[Tc](F)(F)(F)(F)F
 Titanium(II) oxide	O=[Ti]
-Titanium tetrafluoride	[Ti+4].[F-].[F-].[F-].[F-]
+Titanium tetrafluoride	F[Ti](F)(F)F
 Titanium disilicide	[Si]=[Ti]=[Si]
 Titanium(III) phosphide	P#[Ti]
 Acrivastine	O=C(O)\C=C\c3nc(\C(=C\CN1CCCC1)c2ccc(cc2)C)ccc3
@@ -5135,6 +5135,7 @@ Perosamine	C[C@H]([C@H]([C@@H]([C@@H](C=O)O)O)N)O
 Nickel oxide hydroxide	O[Ni]=O
 Triclofos	ClC(Cl)(Cl)COP(=O)(O)O
 Xylenol orange	O=C(O)CN(CC(=O)O)Cc1c(O)c(cc(c1)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(c4)CN(CC(=O)O)CC(=O)O)C)C
+Platinum(II) bromide	Br[Pt]Br
 Cinchonidine	n2c1c(cccc1)c(cc2)[C@@H](O)[C@H]3N4CC[C@@H](C3)[C@@H](C=C)C4
 Tetranitromethane	C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
 Steviol	O=C(O)[C@]4([C@H]3CC[C@@]21C[C@](O)(\C(=C)C1)CC[C@H]2[C@]3(C)CCC4)C
@@ -7554,7 +7555,7 @@ VCHSR	C4CCCCC4C=Cc(c(C)c1-c(cc3)ccc3Cl)nn1-c2ccc(Cl)cc2Cl
 LY-320,135	c3cc(OC)ccc3-c2oc1cc(OC)ccc1c2C(=O)c4ccc(C#N)cc4
 Bismuth trifluoride	[F-].[F-].[F-].[BiH3+3]
 Nickel(II) bromide	[Ni+2].[Br-].[Br-]
-Mercury(I) iodide	[I]1=[Hg]2[I]=[Hg]12
+Mercury(I) iodide	I[Hg][Hg]I
 Chromium nitride	[Cr]#N
 Bismuth(III) sulfide	[BiH3+3].[BiH3+3].[S-2].[S-2].[S-2]
 Tin(II) sulfide	S=[Sn]
@@ -7656,6 +7657,7 @@ Beefy meaty peptide	CC(C)CC(C(=O)NC(C)C(=O)O)NC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C
 HBT (explosive)	N(Nc1nn[nH]n1)c1nn[nH]n1
 HBT (explosive)	C1(NNC2=NN=NN2)=NN=NN1
 Butyltolylquinuclidine	C3CC1CCN3C(CCCC)C1c(cc2)ccc2C
+Mercury(I) bromide	Br[Hg][Hg]Br
 Benzbromarone	Brc1cc(cc(Br)c1O)C(=O)c2c3ccccc3oc2CC
 Monolaurin	O=C(OCC(O)CO)CCCCCCCCCCC
 Zinc ricinoleate	CCCCCC[C@@H](O)C/C=C\CCCCCCCC(=O)[O-].CCCCCC[C@@H](O)C/C=C\CCCCCCCC(=O)[O-].[Zn+2]
@@ -7779,6 +7781,7 @@ Papulacandin B	CCC(C)CC/C=C/C=C(\C)/C(C/C=C/C=C/C(=O)O[C@H]1[C@@H]([C@H](O[C@]2(
 Afamelanotide	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N1[C@H](C(=O)N[C@H](C(=O)N)C(C)C)CCC1)CCCCN)Cc3c2ccccc2[nH]c3)CCCNC(=[N@H])N)Cc4ccccc4)Cc5[nH]cnc5)CCC(=O)O)CCCC)CO)Cc6ccc(O)cc6)[C@@H](NC(=O)C)CO
 Hodgkinsine	CN1CC[C@]2([C@@H]1NC3=CC=CC=C32)C4=C5C(=CC=C4)[C@]6(CCN([C@H]6N5)C)[C@@]78CCN([C@@H]7NC9=CC=CC=C89)C
 VR (nerve agent)	CCN(CC)CCSP(=O)(C)OCC(C)C
+Mercury(I) fluoride	F[Hg][Hg]F
 Thallium(I) fluoride	F[Tl]
 Sodium chromate	[O-][Cr](=O)(=O)[O-].[Na+].[Na+]
 Tin(IV) bromide	Br[Sn](Br)(Br)Br
@@ -7789,6 +7792,7 @@ Fluoran	O=C2OC4(c1ccccc12)c5ccccc5Oc3ccccc34
 Manganese(II) bromide	[Mn](Br)Br
 Thiambutenes	s1cccc1C(=CC(N)C)c2sccc2
 Acetyl hexapeptide-3	CSCC[C@H](NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CCC(O)=O)NC(C)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(N)=O
+Platinum(IV) bromide	Br[Pt](Br)(Br)Br
 Bismuth(III) iodide	[I-].[I-].[I-].[BiH3+3]
 Piperidylthiambutene	C1CCCCN1C(C)C=C(c3cccs3)c2sccc2
 Pyrrolidinylthiambutene	C2CCCN2C(C)C=C(c1sccc1)c3sccc3
@@ -13414,6 +13418,7 @@ Ethacizine	CCN(CC)CCC(=O)N1C2=CC=CC=C2SC3=C1C=C(C=C3)NC(=O)OCC
 Yaequinolone J1	O=C4Nc2c(c1O[C@@](/C=C\c1cc2)(C)CC\C=C(/C)C)[C@](O)(c3ccc(OC)cc3)[C@H]4OC
 Lavendamycin	Cc1c2c3ccccc3[nH]c2c(nc1C(=O)O)c4ccc5c(n4)C(=O)C(=CC5=O)N
 Molybdenum(III) chloride	Cl[Mo](Cl)Cl
+Molybdenum(III) bromide	Br[Mo](Br)Br
 Molybdenum(III) iodide	[Mo](I)(I)I
 Molybdenum(II) bromide	Br[Mo]Br
 Beta-Nitropropionic acid	C(C[N+](=O)[O-])C(=O)O
@@ -13622,7 +13627,7 @@ Asimilobine	COC1=C(C=C2CCN[C@@H]3C2=C1C4=CC=CC=C4C3)O
 Arisugacin A	C[C@@]12CC[C@@]3([C@@]([C@]1(CC4=C(O2)C=C(OC4=O)C5=CC(=C(C=C5)OC)OC)O)(C(=O)C=CC3(C)C)C)O
 Tortuosamine	CNCC[C@@]1(CCC2=C(C1)C=CC=N2)C3=CC(=C(C=C3)OC)OC
 Diphenidine	c1ccc(cc1)CC(c2ccccc2)N3CCCCC3
-Vanadium(II) bromide	[V+2].[Br-].[Br-]
+Vanadium(II) bromide	Br[V]Br
 Liberine	CN1C2=C(C(=O)N(C(=N2)OC)C)NC1=O
 Methylliberine	CN1C2=C(N=C(N(C2=O)C)OC)N(C1=O)C
 3,4-Dimethoxycinnamic acid	COC1=C(C=C(C=C1)/C=C/C(=O)O)OC
@@ -14606,6 +14611,8 @@ Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
 Dictyophorine	CC1=CC(=O)C[C@@]2([C@]13[C@H](O3)[C@H](CC2)C(=C)C)C
 Dictyophorine	[H][C@]12C(C)=CC(=O)C[C@@]1(C)CC[C@H](C(C)C)C2=O
+Platinum tetrafluoride	F[Pt](F)(F)F
+Platinum pentafluoride	F[Pt](F)(F)(F)F
 Platinum pentafluoride	F[Pt-]1(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-]([F+]1)(F)(F)(F)F
 Ruthenium pentafluoride	[F-].[F-].[F-].[F-].[F-].[Ru+5]
 Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
@@ -14703,7 +14710,7 @@ PyAOP reagent	C1CCN(C1)[P+](N2CCCC2)(N3CCCC3)ON4C5=C(C=CC=N5)N=N4.F[P-](F)(F)(F)
 Quinfamide	C1CC2=C(C=CC(=C2)OC(=O)C3=CC=CO3)N(C1)C(=O)C(Cl)Cl
 5F-AMB	O=C(N[C@H](C(OC)=O)C(C)C)C1=NN(CCCCCF)C2=C1C=CC=C2
 FUBIMINA	O=C(C1=NC2=C(C=CC=C2)N1CCCCCF)C3=CC=CC4=CC=CC=C43
-MEPIRAPIM	CCCCCN1C=C(C2=CC=CC=C21)C(=O)N3CCN(CC3)C
+Mepirapim	CCCCCN1C=C(C2=CC=CC=C21)C(=O)N3CCN(CC3)C
 Merotocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)O)C(=O)N(Cc3ccc(cc3)F)CC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 3-HO-PCP	c1cc(cc(c1)O)C2(CCCCC2)N3CCCCC3
 5F-SDB-006	FCCCCCN1C=C(C(NCC2=CC=CC=C2)=O)C3=C1C=CC=C3
@@ -15716,6 +15723,7 @@ Methyltestosterone 3-hexyl ether	CCCCCCOC1=CC2=CC[C@@H]3[C@@H]([C@]2(CC1)C)CC[C@
 Testosterone enantate benzilic acid hydrazone	CCCCCCC(=O)OC1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N\NC(=O)C(C5=CC=CC=C5)(C6=CC=CC=C6)O)/CC[C@]34C)C
 Ovandrotone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)[C@@H](CC1=CC(=O)CC[C@]31C)SCCC(O)=O
 Triflidic acid	[H]C(S(=O)(C(F)(F)F)=O)(S(=O)(C(F)(F)F)=O)S(=O)(C(F)(F)F)=O
+Titanium(III) iodide	I[Ti](I)I
 Riligustilide	CCC/C=C\1/C2=C([C@@H]3[C@H](CC2)[C@@H]([C@@]34C5=C(C=CCC5)C(=O)O4)CCC)C(=O)O1
 ORG-2058	CC[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]2([C@H]1C(=O)CO)C
 Androstenediol 17β-acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
@@ -17030,3 +17038,4 @@ Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C
 Cocaine reverse ester	CC(=O)O[C@H]1[C@H](CC2CCC1N2C)OC(=O)C3=CC=CC=C3
 Martin's sulfurane	C1=CC=C(C=C1)C(C(F)(F)F)(C(F)(F)F)OS(C2=CC=CC=C2)(C3=CC=CC=C3)OC(C4=CC=CC=C4)(C(F)(F)F)C(F)(F)F
 Platinum(II) bis(acetylacetonate)	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Pt]
+Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
