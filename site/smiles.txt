@@ -1367,6 +1367,7 @@ Tosyl phenylalanyl chloromethyl ketone	Cc1ccc(cc1)S(=O)(=O)N[C@@H](Cc2ccccc2)C(=
 Neodymium(III) chloride	Cl[Nd](Cl)Cl
 Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
 Adipic acid	O=C(O)CCCCC(=O)O
+Basic lead acetate	CC(=O)[O-].CC(=O)[O-].[OH-].[OH-].[OH-].[OH-].[Pb+2].[Pb+2].[Pb+2]
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
 Adrafinil	O=S(C(c1ccccc1)c2ccccc2)CC(=O)NO
 Cannabidiol	Oc1c(c(O)cc(c1)CCCCC)[C@@H]2\C=C(/CC[C@H]2\C(=C)C)C
@@ -17038,4 +17039,5 @@ Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C
 Cocaine reverse ester	CC(=O)O[C@H]1[C@H](CC2CCC1N2C)OC(=O)C3=CC=CC=C3
 Martin's sulfurane	C1=CC=C(C=C1)C(C(F)(F)F)(C(F)(F)F)OS(C2=CC=CC=C2)(C3=CC=CC=C3)OC(C4=CC=CC=C4)(C(F)(F)F)C(F)(F)F
 Platinum(II) bis(acetylacetonate)	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Pt]
+Bis(trifluoromethanesulfonyl)aniline	C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
 Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
