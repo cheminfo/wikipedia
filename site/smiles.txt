@@ -5612,9 +5612,7 @@ Dimethyl malonate	COC(=O)CC(=O)OC
 2,5-Dimethoxy-4-propylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCC)C
 3,4-Dimethoxyphenethylamine	O(c1ccc(cc1OC)CCN)C
 2,5-Dimethoxy-4-amylamphetamine	COc1cc(CCCCC)c(cc1CC(C)N)OC
-Dimethoxyamphetamine	O(c1c(cccc1OC)CC(N)C)C
-Dimethoxyamphetamine	C1(=CC(=CC=C1CC(C)N)OC)OC
-4-Methyl-2,5-methoxyphenylcyclopropylamine	O(c1c(cc(OC)c(c1)C2CC2N)C)C
+2,5-Dimethoxy-4-methylphenylcyclopropylamine	O(c1c(cc(OC)c(c1)C2CC2N)C)C
 Clostebol	O=C4C(\Cl)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 DME (psychedelic)	O(c1ccc(cc1OC)C(O)CN)C
 DMMDA	CC(N)Cc1cc(OC)c2OCOc2c1OC
@@ -13942,7 +13940,7 @@ Acetone oxime	CC(=NO)C
 Obeticholic acid	CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O
 Palovarotene	CC1(CCC(C2=C1C=C(C(=C2)/C=C/C3=CC=C(C=C3)C(=O)O)CN4C=CC=N4)(C)C)C
 4-Methylcyclohexanemethanol	CC1CCC(CC1)CO
-Caramboxin	COc1cc(c(c(c1)O)C(=O)O)CC(C(=O)O)N
+Caramboxin	COC1=CC(=C(C(=C1)O)C(=O)O)C[C@@H](C(=O)O)N
 Chromium(II) bromide	[Cr+2].[Br-].[Br-]
 Ergometrinine	C[C@@H](CO)NC(=O)[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Chromium(IV) fluoride	[Cr+4].[F-].[F-].[F-].[F-]
