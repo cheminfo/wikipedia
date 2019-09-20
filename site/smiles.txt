@@ -6556,7 +6556,7 @@ Sodium methylparaben	O=C([O-])C1=CC=C(O)C=C1.[Na+]
 Succinic semialdehyde	O=CCCC(=O)O
 Imidazenil	Brc4ccccc4C/2=N/Cc1c(ncn1c3c\2cc(F)cc3)C(=O)N
 Suproclone	O=C(N5CCN(C(=O)OC4C=1SCCSC=1C(=O)N4c2nc3nc(Cl)ccc3cc2)CC5)CC
-1-Amino-2-propanol	OC(C)CN
+1-Amino-propan-2-ol	OC(C)CN
 Urea nitrate	C(=O)(N)N.[N+](=O)(O)[O-]
 QH-II-66	O=C1N(C)C2=C(C(C3=CC=CC=C3)=NC1)C=C(C=C2)C#C
 Zapizolam	Clc4ccccc4C/3=N/Cc1nncn1c2c\3nc(Cl)cc2
@@ -10378,7 +10378,6 @@ Cyclohexanone oxime	C1CCC(=NO)CC1
 Neoflavan	O3c1ccccc1C(c2ccccc2)CC3
 Psychotridine	CN1CCC2(C1NC1=CC=CC=C21)C1=CC=CC2=C1NC1N(C)CCC21C1=CC=CC2=C1NC1N(C)CCC21C12CCN(C)C1NC1=C2C=CC=C1C12CCN(C)C1NC1=CC=CC=C21
 Eupatolitin	O=C1c3c(O)c(OC)c(OC)cc3O/C(=C1/O)c2ccc(O)c(O)c2
-Iron(II) citrate	C(C(=O)O)C(CC(=O)[O-])(C(=O)[O-])O.[Fe+2]
 Tropic acid	C1=CC=C(C=C1)C(CO)C(=O)O
 Dibenzoylmorphine	CN1CC[C@]23c4c5ccc(c4O[C@H]2[C@H](C=C[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC(=O)c7ccccc7
 Acetylpropionylmorphine	CN4CCC23c1c(cc5)CC4C2C=CC(OC(=O)CC)C3Oc1c5OC(=O)C
@@ -17039,3 +17038,5 @@ Martin's sulfurane	C1=CC=C(C=C1)C(C(F)(F)F)(C(F)(F)F)OS(C2=CC=CC=C2)(C3=CC=CC=C3
 Platinum(II) bis(acetylacetonate)	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Pt]
 Bis(trifluoromethanesulfonyl)aniline	C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
 Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
+2,2'-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
+2-Chloroquinoline	C1=CC=C2C(=C1)C=CC(=N2)Cl
