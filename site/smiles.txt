@@ -7797,7 +7797,7 @@ Piperidylthiambutene	C1CCCCN1C(C)C=C(c3cccs3)c2sccc2
 Pyrrolidinylthiambutene	C2CCCN2C(C)C=C(c1sccc1)c3sccc3
 Pilsicainide	CC1=C(C(=CC=C1)C)NC(=O)CC23CCCN2CCC3
 Azilsartan	CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)N5)C(=O)O
-Azasetron	CN1C(=O)COC2=C1C=C(C=C2C(=O)NC3CN4CCC3CC4)Cl
+Azasetron	CN1C(=O)COc2c1cc(Cl)cc2C(=O)NC3CN4CCC3CC4
 Plutonium(III) fluoride	[F-].[F-].[F-].[Pu+3]
 (E,E)-2,4-Decadienal	CCCCC\C=C\C=C\C=O
 Phenylacetaldehyde	O=CCc1ccccc1
@@ -15836,6 +15836,7 @@ Sarafotoxin	CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(=
 Diaminomaleonitrile	C(#N)/C(=C(\C#N)/N)/N
 4-Ipomeanol	CC(CCC(=O)C1=COC=C1)O
 Glybuzole	CC(C)(C)C1=NN=C(S1)NS(=O)(=O)C2=CC=CC=C2
+Zygacine	[H][C@@]12C[C@]34O[C@]5(O)[C@H](CC[C@@]3(C)[C@]5([H])CC[C@@]4([H])[C@]1(O)[C@@H](O)[C@H](O)[C@@]1([H])[C@@]2([H])CN2C[C@@H](C)CC[C@@]2([H])[C@@]1(C)O)OC(C)=O
 Decarbamoylsaxitoxin	NC1=N[C@H]2[C@H](CO)N=C(N)N3CCC(O)(O)[C@]23N1
 Platinum diselenide	[Se]=[Pt]=[Se]
 Heptachlorodibenzo-p-dioxin	C1=C2C(=C(C(=C1Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl
@@ -17040,3 +17041,4 @@ Bis(trifluoromethanesulfonyl)aniline	C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C
 Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
 2,2'-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
 2-Chloroquinoline	C1=CC=C2C(=C1)C=CC(=N2)Cl
+Δ-Decalactone	CCCCCC1CCCC(=O)O1
