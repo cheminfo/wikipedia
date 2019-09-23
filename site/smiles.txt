@@ -1380,7 +1380,7 @@ Metaldehyde	CC1OC(C)OC(C)OC(C)O1
 4-Hydroxynonenal	CCCCCC(O)C=CC=O
 Triamcinolone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@H]3O)C)C
 Samarium(III) chloride	Cl[Sm](Cl)Cl
-Dextrorphan	OC1=CC2=C(C[C@@H]3N(CC[C@@]42CCCC[C@H]34)C)C=C1
+Dextrorphan	CN1CC[C@@]23CCCC[C@@H]2[C@@H]1Cc4c3cc(O)cc4
 Hydantoin	O=C1NC(=O)NC1
 Succinimide	O=C1NC(=O)CC1
 Oxazolidine	C1COCN1
@@ -3891,7 +3891,7 @@ Mesoridazine	O=S(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
 Nilvadipine	CC1=C(C(C(=C(N1)C#N)C(=O)OC)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC(C)C
 Hexylcaine	O=C(OC(CNC1CCCCC1)C)c2ccccc2
 4-Hydroxyamphetamine	Oc1ccc(cc1)CC(N)C
-Levorphanol	CN1CC[C@]23CCCC[C@H]2[C@H]1CC4=C3C=C(O)C=C4
+Levorphanol	CN1CC[C@]23CCCC[C@H]2[C@H]1Cc4c3cc(O)cc4
 DESOXY	Cc1c(cc(cc1OC)CCN)OC
 3,3',5,5'-Tetramethylbenzidine	Cc1cc(cc(c1N)C)c2cc(c(c(c2)C)N)C
 Titanium tetraiodide	[Ti](I)(I)(I)I
@@ -4801,7 +4801,7 @@ Triphenylphosphine oxide	O=P(c1ccccc1)(c2ccccc2)c3ccccc3
 BIMU8	Cl.O=C2N(c1ccccc1N2C(=O)NC4C[C@H]3N(C)[C@H](CC3)C4)C(C)C
 Orotidine	O=C(O)C=1N(C(=O)NC(=O)C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
 Hexamethyldisiloxane	O([Si](C)(C)C)[Si](C)(C)C
-Ketobemidone	O=C(CC)C1(CCN(CC1)C)C2=CC(O)=CC=C2
+Ketobemidone	O=C(CC)C1(CCN(C)CC1)c2cc(O)ccc2
 Gemeprost	O=C1C[C@@H](O)[C@H](/C=C/[C@@H](O)C(C)(C)CCCC)[C@H]1CCCC\C=C\C(=O)OC
 Diosgenin	O1[C@@H]4[C@H]([C@@H]([C@]12OC[C@@H](CC2)C)C)[C@@]5(C)CC[C@@H]3[C@@]6(C(=C/C[C@H]3[C@@H]5C4)\C[C@@H](O)CC6)C
 Dibutyl phthalate	CCCCOC(=O)c1ccccc1C(=O)OCCCC
@@ -5542,7 +5542,7 @@ Fluoxetine	CNCCC(c1ccccc1)Oc2ccc(cc2)C(F)(F)F
 Estratetraenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C3C=CC(=C4)O
 Androstadienone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C
 Indium(I) bromide	[In+].[Br-]
-Ohmefentanyl	CCC(=O)N(C1CCN(CC1C)CC(C2=CC=CC=C2)O)C3=CC=CC=C3
+Ohmefentanyl	CCC(=O)N(c1ccccc1)C2CCN(CC2C)CC(O)c3ccccc3
 Cardenolide	C[C@]52/C=C\CCC5CC[C@H]1[C@H]3CC[C@@H]([C@@]3(C)CC[C@@H]12)[C@H]4CC(=O)OC4
 Cardenolide	CC12CCCCC1CCC3C2CCC4(C3C=CC4C5CC(=O)OC5)C
 Bufadienolide	CC14CCC3C2(C)CCCCC2CCC3C1CCC4c5ccc(=O)oc5
@@ -5743,7 +5743,7 @@ Phenadoxone	O=C(C(c1ccccc1)(c2ccccc2)CC(N3CCOCC3)C)CC
 Helium hydride ion	[HeH+]
 Benzylmorphine	O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OCc3ccccc3)ccc4C5)C
 Para-Cresidine	CC1=CC(=C(C=C1)OC)N
-3-Methylfentanyl	CC(C1)C(N(C(CC)=O)C2=CC=CC=C2)CCN1CCC3=CC=CC=C3
+3-Methylfentanyl	CCC(=O)N(c1ccccc1)C2CCN(CC2C)CCc3ccccc3
 Apocynin	Oc1ccc(cc1OC)C(C)=O
 Hexazine	n1nnnnn1
 Lithium triethylborohydride	[Li+].CC[BH-](CC)CC
@@ -6319,7 +6319,7 @@ Bornaprine	O=C(OCCCN(CC)CC)C2(c1ccccc1)CC3CCC2C3
 Mazaticol	CC1(CC[C@@H]2C[C@H](C[C@H]1N2C)OC(=O)C(c3cccs3)(c4cccs4)O)C
 Phenglutarimide	CCN(CC)CC[C@]1(CCC(=O)NC1=O)c1ccccc1
 Tropine	CN1[C@@H]2CC[C@H]1C[C@H](C2)O
-Lofentanil	O=C(OC)[C@]3(N(c1ccccc1)C(=O)CC)CCN(CCc2ccccc2)C[C@H]3C
+Lofentanil	O=(CC)N(c1ccccc1)[C@@]2(C(OC)=O)CCN(C[C@H]2C)CCc3ccccc3
 Minaxolone	CCO[C@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2[C@@H](C[C@]4([C@H]3CC[C@@H]4C(=O)C)C)N(C)C)C[C@@H]1O)C
 Esketamine	CN[C@](C1=C(Cl)C=CC=C1)(CCCC2)C2=O
 Alfaxalone	O=C2[C@H]3[C@H]([C@@H]1CC[C@H](C(=O)C)[C@@]1(C)C2)CC[C@H]4C[C@H](O)CC[C@]34C
@@ -6556,7 +6556,7 @@ Sodium methylparaben	O=C([O-])C1=CC=C(O)C=C1.[Na+]
 Succinic semialdehyde	O=CCCC(=O)O
 Imidazenil	Brc4ccccc4C/2=N/Cc1c(ncn1c3c\2cc(F)cc3)C(=O)N
 Suproclone	O=C(N5CCN(C(=O)OC4C=1SCCSC=1C(=O)N4c2nc3nc(Cl)ccc3cc2)CC5)CC
-1-Amino-propan-2-ol	OC(C)CN
+1-Aminopropan-2-ol	OC(C)CN
 Urea nitrate	C(=O)(N)N.[N+](=O)(O)[O-]
 QH-II-66	O=C1N(C)C2=C(C(C3=CC=CC=C3)=NC1)C=C(C=C2)C#C
 Zapizolam	Clc4ccccc4C/3=N/Cc1nncn1c2c\3nc(Cl)cc2
@@ -6576,7 +6576,7 @@ Befunolol	O=C(c2oc1c(OCC(O)CNC(C)C)cccc1c2)C
 Paraoxon	[O-][N+](=O)c1ccc(OP(=O)(OCC)OCC)cc1
 Dapiprazole	n1nc(n2c1CCCC2)CCN4CCN(c3ccccc3C)CC4
 2-Nonenal	O=C/C=C/CCCCCC
-Dezocine	OC1=CC=C2C([C@]3(CCCCC[C@](C2)([H])[C@@]3([H])N)C)=C1
+Dezocine	Oc1ccc2c(c1)[C@@]3(C)CCCCC[C@@H](C2)[C@H]3N
 Lacidipine	CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2/C=C/C(=O)OC(C)(C)C)C(=O)OCC)C)C
 Abecarnil	COCc3c(C(=O)OC(C)C)ncc4[nH]c2ccc(OCc1ccccc1)cc2c34
 RS-67,333	C(CCC1CCN(CC1)CCCC)(=O)c1c(cc(c(c1)Cl)N)OC
@@ -11113,6 +11113,7 @@ Trimethylborane	CB(C)C
 Fasiplon	CC1=NC(C2=CN3C(N=C(OC)C(CC)=C3C)=N2)=NO1
 Taniplon	CC1=NC(C2=CN3C(N=C(OC)C4=C3CCCC4)=N2)=NO1
 Lirequinil	CCO[C@H]1CCN(C1)C(=O)C2=C3C4=C(CCN3C(=O)C(=C2)C5=CC=CC=C5)C=CC(=C4)Cl
+Benzyl carbamate	C1=CC=C(C=C1)COC(=O)N
 Edoxaban	CN1CCC2=C(C1)SC(=N2)C(=O)N[C@@H]3C[C@H](CC[C@@H]3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C
 Betrixaban	CN(C)C(=N)C1=CC=C(C=C1)C(=O)NC2=C(C=C(C=C2)OC)C(=O)NC3=NC=C(C=C3)Cl
 Lixisenatide	CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2c1cccc2)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NCC(=O)NCC(=O)N3CCCC3C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N4CCCC4C(=O)N5CCCC5C(=O)NC(CO)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)N)NC(=O)C(Cc6ccccc6)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(Cc7ccccc7)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(Cc8cnc[nH]8)N
@@ -14701,7 +14702,7 @@ Alpha-Pyrrolidinohexiophenone	C1(=CC=CC=C1)C(C(CCCC)N2CCCC2)=O
 GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
 5-MeO-DiBF	COC1=CC=C(OC=C2CCN(C(C)C)C(C)C)C2=C1
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
-3-Methylbutyrfentanyl	CC1C(CCN(C1)CCC2=CC=CC=C2)N(C(CCC)=O)C3=CC=CC=C3
+3-Methylbutyrfentanyl	CCCC(=O)N(c1ccccc1)C2CCN(CC2C)CCc3ccccc3
 3-MeO-PCMo	COC1=CC(C2(N3CCOCC3)CCCCC2)=CC=C1
 5α-Dihydrocorticosterone	CC12CCC(=O)CC1CCC3C2C(CC4(C3CCC4C(=O)CO)C)O
 PyAOP reagent	C1CCN(C1)[P+](N2CCCC2)(N3CCCC3)ON4C5=C(C=CC=N5)N=N4.F[P-](F)(F)(F)(F)F
