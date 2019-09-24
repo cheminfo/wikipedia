@@ -557,7 +557,6 @@ Digitoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)CC[C@H]7[C@H]8CC[C@H]6[C@]7(C)
 Cortisol	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Glucuronolactone	O=C[C@H](O)[C@H]1OC(=O)[C@@H](O)[C@H]1O
 Sertindole	Fc1ccc(cc1)n3c2ccc(Cl)cc2c(c3)C5CCN(CCN4C(=O)NCC4)CC5
-Chloramine	NCl
 Stearic acid	CCCCCCCCCCCCCCCCCC(=O)O
 Ethyl carbamate	CCOC(N)=O
 Sodium stearoyl lactylate	O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.[Na+]
@@ -3619,6 +3618,7 @@ Rubidium-82 chloride	[Cl-].[82Rb+]
 Famciclovir	O=C(OCC(COC(=O)C)CCn1c2nc(ncc2nc1)N)C
 Ortho-Nitrophenyl-β-galactoside	O=[N+]([O-])C1=CC=CC=C1O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O
 Leptomycin	OC(=O)\C=C(/C)C[C@H](C)[C@@H](O)[C@H](C)C(=O)[C@H](C)/C=C(\C)/C=C/C[C@@H](C)\C=C(/CC)\C=C\[C@@H]1OC(=O)/C=C\[C@@H]1C
+Monochloramine	NCl
 Betazole	n1ccc([nH]1)CCN
 2-Phenylphenol	Oc2ccccc2c1ccccc1
 Perillaldehyde	O=C\C1=C\CC(\C(=C)C)CC1
