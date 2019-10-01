@@ -83,7 +83,6 @@ Phenothiazine	c1ccc2c(c1)Nc3ccccc3S2
 Quinine	[H][C@@]1([C@@H](C2=CC=NC3=CC=C(C=C23)OC)O)C[C@@H]4CC[N@]1C[C@@H]4C=C
 Riboflavin	c12cc(C)c(C)cc1N=C3C(=O)NC(=O)N=C3N2C[C@H](O)[C@H](O)[C@H](O)CO
 Radon difluoride	F[Rn]F
-Sulfur	S1SSSSSSS1
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Selenocysteine	O=C([O-])[C@@H]([NH3+])C[SeH]
@@ -14071,6 +14070,7 @@ Ferrous tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[Fe+2]
 Florbetaben (18F)	CNC1=CC=C(C=C1)/C=C/C2=CC=C(C=C2)OCCOCCOCC[18F]
 Novaluron	C1=CC(=C(C(=C1)F)C(NC(NC2=CC(=C(C=C2)OC([C@@H](F)OC(F)(F)F)(F)F)Cl)=O)=O)F
 Diallyl trisulfide	C=CCSSSCC=C
+Sulfur (pharmacy)	S1SSSSSSS1
 Zabofloxacin	Fc1c(nc2c(c1)C(=O)C(\C(=O)O)=C/N2C3CC3)N5C\C(=N\OC)C4(CNC4)C5
 2,3-Diaminopropionic acid	C([C@@H](C(=O)O)N)N
 Ozenoxacin	O=C\3c1c(c(c(cc1)c2cc(c(nc2)NC)C)C)N(/C=C/3C(=O)O)C4CC4
@@ -17048,3 +17048,4 @@ Tert-Butyl hypochlorite	CC(C)(C)OCl
 Phenylcarbylamine chloride	c1ccc(cc1)N=C(Cl)Cl
 N-Chloropiperidine	C1CCN(CC1)Cl
 Vanadyl isopropoxide	CC(C)O.CC(C)O.CC(C)O.O=[V]
+Ethylene episulfoxide	C1CS1=O
