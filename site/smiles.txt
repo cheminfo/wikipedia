@@ -17049,3 +17049,9 @@ Phenylcarbylamine chloride	c1ccc(cc1)N=C(Cl)Cl
 N-Chloropiperidine	C1CCN(CC1)Cl
 Vanadyl isopropoxide	CC(C)O.CC(C)O.CC(C)O.O=[V]
 Ethylene episulfoxide	C1CS1=O
+Fluoroaspirin	c1ccc(c(c1)C(=O)O)OC(=O)CF
+Anthrol	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2O
+Anthrol	C1=CC=C2C=C3C=C(C=CC3=CC2=C1)O
+Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC=C3O
+Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC(=C3O)O
+Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=C(C(=C3O)O)O
