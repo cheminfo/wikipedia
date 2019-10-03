@@ -1558,6 +1558,7 @@ Sulfuryl fluoride	FS(F)(=O)=O
 Nitroimidazole	c1cn(cn1)[N+](=O)[O-]
 Sodium bromide	[Na+].[Br-]
 Nitrofurazone	O=[N+]([O-])c1oc(/C=N/NC(=O)N)cc1
+Gramicidin	C[C@@H](C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC7=CNC8=CC=CC=C87)C(=O)NCCO)NC(=O)CNC(=O)[C@H](C(C)C)NC=O
 Cellobiose	O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H](OC(O)[C@@H]2O)CO
 Benzocyclobutene	C12=CC=CC=C1CC2
 3,3'-Diindolylmethane	c4ccc3c(Cc1c[nH]c2ccccc12)c[nH]c3c4
@@ -17023,6 +17024,8 @@ MgCu2	[Mg].[Cu].[Cu]
 Isoindenone	C1=CC2=CC(=O)C=C2C=C1
 Propetamphos	O([P@@](NCC)(OC)=S)\C(=C/C(OC(C)C)=O)C
 1-Pentadecanol	CCCCCCCCCCCCCCCO
+Go 6976	O=C1NCC2=C3C(N(CCC#N)C4=CC=CC=C43)=C5C(C6=CC=CC=C6N5C)=C21
+BX-912	BrC1=C(NCCC2=CN=CN2)N=C(NC2=CC=CC(NC(=O)N3CCCC3)=C2)N=C1
 3-Acetylcoumarin	CC(=O)C1=CC2=CC=CC=C2OC1=O
 1-Bromo-3-chloropropane	C(CCl)CBr
 Fagaramide	CC(C)CNC(=O)/C=C/C1=CC2=C(C=C1)OCO2
