@@ -8418,6 +8418,7 @@ Pentamorphone	CCCCCN[C@@]12C=CC(=O)[C@H]3[C@@]14CCN([C@@H]2CC5=C4C(=C(C=C5)O)O3)
 Flurothyl	C(C(F)(F)F)OCC(F)(F)F
 Phenpromethamine	CC(CNC)C1=CC=CC=C1
 Amiphenazole	C1=CC=C(C=C1)C2=C(N=C(S2)N)N
+Octyldodecanol	CCCCCCCCCCC(CCCCCCCC)CO
 Tin(IV) fluoride	[F-].[F-].[F-].[F-].[Sn+4]
 Methyldihydromorphine	C[C@@]1(CC[C@H]2[C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3C)O)O
 Methyldesorphine	CC1=CC[C@H]2[C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)O)CCN3C
@@ -17058,3 +17059,4 @@ Anthrol	C1=CC=C2C=C3C=C(C=CC3=CC2=C1)O
 Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC=C3O
 Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC(=C3O)O
 Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=C(C(=C3O)O)O
+2-Methylanthraquinone	Cc1ccc2c(c1)C(=O)c3ccccc3C2=O
