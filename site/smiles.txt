@@ -443,7 +443,7 @@ Tetrahydrofuran	C1CCOC1
 Carbon tetrachloride	ClC(Cl)(Cl)Cl
 1,4-Dichlorobenzene	ClC1=CC=C(Cl)C=C1
 Nitrogen triiodide	IN(I)I
-Tetrachloroethylene	Cl/C(Cl)=C(/Cl)Cl
+Tetrachloroethylene	Cl(Cl)C=CCl(Cl)
 Bromomethane	CBr
 1,2-Dibromoethane	BrCCBr
 Carbon disulfide	C(=S)=S
@@ -10020,8 +10020,8 @@ ABT-670	[O-][n+]1ccccc1C(CC3)CCN3CNC(=O)c(c2)cccc2C
 Tecovirimat	FC(F)(F)c1ccc(cc1)C(=O)NN1C(=O)C2C(C3C=CC2C2CC32)C1=O
 2-Diphenylmethylpyrrolidine	c1cc(ccc1)C(c2ccccc2)C3NCCC3
 Isosaccharinic acid	OC[C@@H](O)C[C@@](CO)(O)C(O)=O
-Coelenteramide	C1=CC=C(C=C1)CC2=C(N=CC(=C3C=CC(=O)C=C3)N2)NC(=O)CC4=CC=C(C=C4)O
-Coelenteramine	C1=CC=C(C=C1)CC2=C(N=CC(=C3C=CC(=O)C=C3)N2)N
+Coelenteramide	C1=CC=C(C=C1)CC2=NC(=CN=C2NC(=O)CC3=CC=C(C=C3)O)C4=CC=C(C=C4)O
+Coelenteramine	C1=CC=C(C=C1)CC2=NC(=CN=C2N)C3=CC=C(C=C3)O
 Regorafenib	CNC(=O)c1cc(ccn1)Oc2ccc(c(c2)F)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl
 8-OH-PBZI	CCCN1CC[C@H]2[C@@H]1CCC3=C2C=C(C=C3)O
 2-OH-NPA	c4c3c2c(cc4O)-c1c(ccc(O)c1O)CC2N(CC3)CCC
@@ -11462,7 +11462,7 @@ JWH-424	c4cccc1c4n(CCCCC)cc1C(=O)c(c2c3Br)cccc2ccc3
 Thymidine triphosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
 Isomethadone	O=C(CC)C(C1=CC=CC=C1)(C(C)CN(C)C)C2=CC=CC=C2
 Carnosic acid	CC(C)C1=C(C(=C2C(=C1)CCC3C2(CCCC3(C)C)C(=O)O)O)O
-Tetrabromoethylene	C(=C(Br)Br)(Br)Br
+Tetrabromoethylene	Br(Br)C=CBr(Br)
 AM-1248	CN1CCCCC1Cn(c6)c2ccccc2c6C(=O)C5(C3)CC(CC3C4)CC4C5
 Perifosine	[O-]P(=O)(OCCCCCCCCCCCCCCCCCC)OC1CC[N+](C)(C)CC1
 Edelfosine	[O-]P(=O)(OCC(OC)COCCCCCCCCCCCCCCCCCC)OCC[N+](C)(C)C
@@ -11639,6 +11639,7 @@ Cardamomin	COC1=CC(=CC(=C1C(=O)C=CC2=CC=CC=C2)O)O
 1,2,3-Trichloropropane	ClCC(Cl)CCl
 Cyclohexanedimethanol	C1CC(CCC1CO)CO
 Selenourea	NC(N)=[Se]
+Sulfur chloride pentafluoride	S(Cl)(F)(F)(F)(F)F
 Isopropyl methoxy pyrazine	CC(C)C1=NC=CN=C1OC
 N-Methylaniline	CNC1=CC=CC=C1
 Imazapic	O=C(O)c1c(ncc(c1)C)/C2=N/C(C(=O)N2)(C(C)C)C
@@ -16488,6 +16489,7 @@ Aplysioviolin	CC=C1C(C(=O)N=C1C=C2C(=C(C(=CC3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)
 C-1027	CC1(C(C(C(C(O1)OC23C=CC=C2C#CC4=CC#CC3OC5=C(C=C(C=C5Cl)C(CC(=O)OCC4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
 C-1027	CC1([C@H]([C@H]([C@H]([C@@H](O1)O[C@]23C=CC=C2C#C/C/4=C\C#C[C@H]3OC5=C(C=C(C=C5Cl)[C@H](CC(=O)OC[C@@H]4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
 Dichloro(1,5‐cyclooctadiene)palladium	C1CC=CCCC=C1.Cl[Pd]Cl
+Cyclopentasilane	[SiH2]1[SiH2][SiH2][SiH2][SiH2]1
 Calotropin	CC1CC(C2(C(O1)OC3CC4CCC5C(C4(CC3O2)C=O)CCC6(C5(CCC6C7=CC(=O)OC7)O)C)O)O
 Filicin	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)CC3=C(C(C(=O)C(=C3O)C(=O)CCC)(C)C)O)O
 Hydantoic acid	NC(=O)NCC(O)=O
@@ -17029,6 +17031,8 @@ Propetamphos	O([P@@](NCC)(OC)=S)\C(=C/C(OC(C)C)=O)C
 1-Pentadecanol	CCCCCCCCCCCCCCCO
 Go 6976	O=C1NCC2=C3C(N(CCC#N)C4=CC=CC=C43)=C5C(C6=CC=CC=C6N5C)=C21
 BX-912	BrC1=C(NCCC2=CN=CN2)N=C(NC2=CC=CC(NC(=O)N3CCCC3)=C2)N=C1
+CP-944629	CC(C)(C)C1=NN=C2N1C=C(C=C2)C3=C(N=CO3)C4=CC(=C(C=C4F)F)F
+Sulmazole	COC1=C(C=CC(=C1)S(=O)C)C2=NC3=C(N2)C=CC=N3
 3-Acetylcoumarin	CC(=O)C1=CC2=CC=CC=C2OC1=O
 1-Bromo-3-chloropropane	C(CCl)CBr
 Fagaramide	CC(C)CNC(=O)/C=C/C1=CC2=C(C=C1)OCO2
@@ -17062,3 +17066,6 @@ Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC=C3O
 Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=CC(=C3O)O
 Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=C(C(=C3O)O)O
 2-Methylanthraquinone	Cc1ccc2c(c1)C(=O)c3ccccc3C2=O
+Diethylsuccinoylsuccinate	CCOC(=O)C1=C(CC(=C(C1)O)C(=O)OCC)O
+Acedianthrone	C1=CC=C2C(=C1)C3=C4C5=C6C(=CC=C5)C(=O)C7=CC=CC=C7C6=C4C8=C3C(=CC=C8)C2=O
+3-Chloromethcathinone	CC(NC)C(C1=CC=CC(Cl)=C1)=O
