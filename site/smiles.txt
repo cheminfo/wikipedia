@@ -3422,7 +3422,6 @@ Hexafluoropropylene	F/C(F)=C(/F)C(F)(F)F
 Hexachloroacetone	ClC(Cl)(Cl)C(=O)C(Cl)(Cl)Cl
 Hexafluoroacetone	FC(F)(F)C(=O)C(F)(F)F
 Articaine	O=C(Nc1c(scc1C)C(=O)OC)C(NCCC)C
-7,14-Dibenzpyrenequinone	O=C2c1ccccc1c6c5c2ccc4c3ccccc3C(=O)c(c45)cc6
 Solvent Violet 13	O=C2c1ccccc1C(=O)c3c2c(ccc3O)Nc4ccc(cc4)C
 Victoria blue BO	[Cl-].CCNc1ccc(c2ccccc12)C(c3ccc(cc3)N(CC)CC)=C4C=CC(C=C4)=[N+](CC)CC
 Urobilin	CCC1=C(C(=O)N[C@H]1CC2=C(C(=C(N2)/C=C\3/C(=C(C(=N3)C[C@H]4C(=C(C(=O)N4)CC)C)C)CCC(=O)O)CCC(=O)O)C)C
@@ -14559,7 +14558,7 @@ Pseudoginsenoside F11	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([
 Pigment yellow 139	O=C1NC(=O)NC(=O)C1=C2c3ccccc3C(N2)=C4C(=O)NC(=O)NC4=O
 Pigment yellow 185	CNC(=O)/C(C#N)=C1/c2ccccc2C(N1)=C3C(=O)NC(=O)NC3=O
 1,3-Dimethylbutylamine	CC(C)CC(C)N
-Anthanthrone	c1cc2ccc3c-4c2c(c1)c(=O)c5c4c6c(cccc6c3=O)cc5
+Anthanthrone	O=C2c1ccccc1c6c5c2ccc4c3ccccc3C(=O)c(c45)cc6
 Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 SRX246	O=C1[C@@H](N2C(OC[C@@H]2C3=CC=CC=C3)=O)[C@@H](/C=C/C4=CC=CC=C4)N1[C@@H](C(N[C@H](C)C5=CC=CC=C5)=O)CC(N6CCC(N7CCCCC7)CC6)=O
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
