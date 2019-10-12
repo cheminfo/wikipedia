@@ -854,7 +854,7 @@ Cerivastatin	O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(nc(c(c1c2ccc(F)cc2)COC)C(C)C)C(C)C
 Tretinoin	O=C(O)\C=C(\C=C\C=C(\C=C\C1=C(\CCCC1(C)C)C)C)C
 Quinidine	O(c4cc1c(nccc1[C@H](O)[C@@H]2N3CC[C@@H](C2)[C@@H](/C=C)C3)cc4)C
 Omethoate	O=C(NC)CSP(=O)(OC)OC
-Amlodipine	Clc1ccccc1C2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC
+Amlodipine	Clc1ccccc1C2/C(C(=O)OC)=C(/C)N/C(COCCN)=C2/C(=O)OCC
 Fenvalerate	Clc1ccc(cc1)C(C(=O)OC(C#N)c3cccc(Oc2ccccc2)c3)C(C)C
 Atomoxetine	CC1=C(C=CC=C1)O[C@H](CCNC)C2=CC=CC=C2
 Midazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
@@ -17073,3 +17073,5 @@ CE-123	O=S(Cc1cncs1)C(c2ccccc2)c3ccccc3
 3-Methyluridine	CN1C(=O)C=CN(C1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Stigmastane	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C)C(C)C
 Prymnesin-B1	Cl/C=C/C#CCCCC/C=C/C=C/CC(C/C=C/C=C/[C@@H]1O[C@@H]2C[C@H]3[C@H](O[C@H]2CC1)C[C@H]1[C@H](O3)C[C@@H]([C@H]2[C@H](O1)CC[C@H](O2)[C@@H]1[C@H](C)C[C@@H]2[C@@H](O1)CC[C@@H](O2)C(C[C@H]1C[C@@H]([C@H]2[C@H](O1)C[C@H]([C@H](O2)[C@H]1CC[C@H]2[C@H](O1)[C@@H](O)[C@H]([C@H](O2)[C@H]1[C@H]([C@H](O)[C@@H]([C@H](O1)CC(C(C(CC(C(C(C(C(CCC#CC#C)O)O)O)O)O)O)O[C@@H]1[C@@H]([C@@H](O)[C@H]([C@H](O1)CO)O)O)O)O)O)O)O)O)O)O)N
+Protostane	C[C@H](CCCC(C)C)[C@H]1CC[C@]2([C@H]1CC[C@@H]3[C@@]2(CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
+Cyclopentadienylchromium tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Cr].[Cr]
