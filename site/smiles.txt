@@ -17077,3 +17077,8 @@ Protostane	C[C@H](CCCC(C)C)[C@H]1CC[C@]2([C@H]1CC[C@@H]3[C@@]2(CC[C@@H]4[C@@]3(C
 Devimistat	C1=CC=C(C=C1)CSCCC(CCCCC(=O)O)SCC2=CC=CC=C2
 Cyclopentadienylchromium tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Cr].[Cr]
 PNU-91356A	CCCNC1CC2=C3C(=CC=C2)NC(=O)N3C1
+Gorgostane	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C)[C@H]5C[C@]5(C)[C@H](C)C(C)C
+Campestane	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
+Poriferastane	CC[C@@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C)C(C)C
+Fusidane	C[C@@H]1CCC[C@]2([C@H]1CC[C@]3([C@H]2CC[C@@H]4[C@@]3(CC[C@@H]4[C@H](C)CCCC(C)C)C)C)C
+Coprostane	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
