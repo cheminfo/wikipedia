@@ -314,7 +314,7 @@ Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
 Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
 Heptane	CCCCCCC
-Calcium oxide	[Ca]=O
+Calcium oxide	O=[Ca]
 Chlorpromazine	CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
@@ -7055,6 +7055,7 @@ Hexachlorocyclohexa-2,5-dien-1-one	ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C(Cl)C1=O
 1,4-Cyclohexanedione	C1CC(=O)CCC1=O
 Selectfluor	[B-](F)(F)(F)F.[B-](F)(F)(F)F.C1C[N+]2(CC[N+]1(CC2)CCl)F
 Sodium tetrafluoroborate	[B-](F)(F)(F)F.[Na+]
+Nitronium tetrafluoroborate	[B-](F)(F)(F)F.[N+](=O)=O
 Sigmodal	CCCC(C)C1(C(=O)NC(=O)NC1=O)CC(=C)Br
 Petrichloral	ClC(Cl)(Cl)C(O)OCC(COC(O)C(Cl)(Cl)Cl)(COC(O)C(Cl)(Cl)Cl)COC(O)C(Cl)(Cl)Cl
 Pentosidine	C1=CN(C2=NC(=NC2=C1)NCCC[C@@H](C(=O)O)N)CCCC[C@@H](C(=O)O)N
@@ -8905,6 +8906,7 @@ Nutlin	CC(C)OC1=C(C=CC(=C1)OC)C2=NC(C(N2C(=O)N3CCNC(=O)C3)C4=CC=C(C=C4)Cl)C5=CC=
 AL-38022A	c13CCCOc3ccc(cn2)c1n2CC(C)N
 Esperamicin	O=C(C(\OC)=C)Nc1cc(OC)c(OC)cc1C(=O)OC2CC(OC(C)C2O)OC7C(=O)C(\NC(=O)OC)=C6/C(=C\CSSSC)C7(O)C#C\C=C/C#CC6OC5OC(C)C(NOC3OC(C)C(SC)C(O)C3)C(O)C5OC4OCC(NC(C)C)C(OC)C4
 Ammonium permanganate	[O-][Mn](=O)(=O)=O.[NH4+]
+Nitronium perchlorate	[N+](=O)=O.[O-]Cl(=O)(=O)=O
 Lithium tetrachloroaluminate	[Li+].Cl[Al-](Cl)(Cl)Cl
 Episterol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
 5-Dehydroepisterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCC(=C)/C(C)C)C)[C@@]3(C)CC4
@@ -17082,3 +17084,4 @@ Campestane	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]
 Poriferastane	CC[C@@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C)C(C)C
 Fusidane	C[C@@H]1CCC[C@]2([C@H]1CC[C@]3([C@H]2CC[C@@H]4[C@@]3(CC[C@@H]4[C@H](C)CCCC(C)C)C)C)C
 Coprostane	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
+Cycloartane	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CCCC5(C)C)C)C
