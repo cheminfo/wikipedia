@@ -4075,6 +4075,7 @@ Cytidine triphosphate	OP(O)(=O)O.OP(O)(=O)O.OP(O)(=O)O.N/C1=N/C(=O)N(/C=C1)[C@@H
 Cytidine triphosphate	c1cn(c(=O)nc1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O
 Epichlorohydrin	ClCC1CO1
 Ampyrone	O=C2\C(=C(/N(N2c1ccccc1)C)C)N
+Zeise's salt	C=C.O.[Cl-].[Cl-].[Cl-].[K+].[Pt+2]
 Cyclododecatriene	C1C\C=C\CC\C=C/CC\C=C\1
 Diglyme	COCCOCCOC
 Tarenflurbil	Fc2cc(ccc2c1ccccc1)[C@H](C(=O)O)C
@@ -8051,6 +8052,7 @@ Methane	C
 C4mim	CCCC[n+]1ccn(C)c1
 Zatosetron	CC1(Cc2cc(cc(c2O1)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C)Cl)C
 Gacyclidine	C[C@@H](CCCC1)[C@@]1(N2CCCCC2)C3=CC=CS3
+Lithium titanate	[Li+].[Li+].[O-2].[O-2].[O-2].[Ti+4]
 Remacemide	CC(CC1=CC=CC=C1)(C2=CC=CC=C2)NC(=O)CN
 Rhynchophylline	CC[C@H]1CN2CC[C@]3([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)C4=CC=CC=C4NC3=O
 Bemesetron	CN3[C@@H]1CC[C@H]3C[C@H](C1)OC(=O)c2cc(Cl)cc(Cl)c2
@@ -17085,3 +17087,5 @@ Poriferastane	CC[C@@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3
 Fusidane	C[C@@H]1CCC[C@]2([C@H]1CC[C@]3([C@H]2CC[C@@H]4[C@@]3(CC[C@@H]4[C@H](C)CCCC(C)C)C)C)C
 Coprostane	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
 Cycloartane	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CCCC5(C)C)C)C
+Euphane	C[C@H](CCCC(C)C)[C@@H]1CC[C@]2([C@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
+Tirucallane	C[C@@H](CCCC(C)C)[C@@H]1CC[C@]2([C@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
