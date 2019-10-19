@@ -7441,7 +7441,7 @@ Norcodeine	COC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4)[C@@H](O2)[C@H](C=C5)O)C=C1
 Lysergic acid methyl ester	O=C(OC)[C@@H]3/C=C2/c4cccc1c4c(c[nH]1)C[C@H]2N(C3)C
 Zofenopril	O=C(N2[C@H](C(=O)O)C[C@H](Sc1ccccc1)C2)[C@H](C)CSC(=O)c3ccccc3
 Veralipride	COC1=CC(=CC(=C1OC)C(=O)NCC2CCCN2CC=C)S(=O)(=O)N
-Diazaborine	O=S(=O)(N2/N=C\c1c(cccc1)B2O)c3ccc(cc3)C
+Diazaborine B	O=S(=O)(N2/N=C\c1c(cccc1)B2O)c3ccc(cc3)C
 Delapril	O=C(OCC)[C@@H](N[C@H](C(=O)N(CC(=O)O)C2Cc1ccccc1C2)C)CCc3ccccc3
 Imidapril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)OCC)CCc1ccccc1)C)C(=O)N(C)C2
 Temocapril	CCOC(=O)[C@H](CCc1ccccc1)NC2CS[C@@H](CN(C2=O)CC(=O)O)c3cccs3
@@ -17091,3 +17091,6 @@ Euphane	C[C@H](CCCC(C)C)[C@@H]1CC[C@]2([C@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4
 Tirucallane	C[C@@H](CCCC(C)C)[C@@H]1CC[C@]2([C@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
 2,5-Dimethylthiophene	CC1=CC=C(S1)C
 Cyanophosphaethyne	C(#N)C#P
+27-Norcholestane	CCCCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
+21-Norcholestane	CC(C)CCCC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
+19-Norcholestane	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@H]3CCCC4)C
