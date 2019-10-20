@@ -5057,6 +5057,7 @@ Mosher's acid	COC(C(O)=O)(c1ccccc1)C(F)(F)F
 Maltotriose	O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]3O[C@@H]2[C@@H](CO)O[C@H](O[C@H]1[C@H](O)[C@@H](O)C(O)O[C@@H]1CO)[C@H](O)[C@H]2O
 Mebeverine	O=C(OCCCCN(C(C)Cc1ccc(OC)cc1)CC)c2cc(OC)c(OC)cc2
 Deracoxib	O=S(=O)(c3ccc(n1nc(cc1c2ccc(OC)c(F)c2)C(F)F)cc3)N
+NP-40	CCCCCCCCCC1=CC=C(C=C1)OCCOCCO
 Dioxathion	S=P(SC1OCCOC1SP(=S)(OCC)OCC)(OCC)OCC
 Bis(trimethylsilyl)sulfide	C[Si](C)(C)S[Si](C)(C)C
 Sodium diethyldithiocarbamate	[Na+].[S-]C(=S)N(CC)CC
@@ -9186,6 +9187,7 @@ BHF-177	C4CC2CC4CC2Nc1nc(C)ncc1-c3ccc(C(F)(F)F)cc3
 Tuberculostearic acid	O=C(O)CCCCCCCCC(C)CCCCCCCC
 4-Iodopropofol	Oc1c(C(C)C)cc(I)cc1C(C)C
 3-Methoxy-4-methylamphetamine	COc1cc(CC(N)C)ccc1C
+NR58-3.14.3	CC[C@H](C)[C@@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCCC2C(=O)NC(C(=O)N[C@@H](C(=O)N[C@H](CSSC[C@@H](C(=O)N[C@@H](C(=O)N1)CCC(=O)N)N)C(=O)O)CC(C)C)CC(=O)O)CCCCN)CCC(=O)N)CCCCN)CC3=CNC4=CC=CC=C43
 2-Fluoroethanol	FCCO
 CPHPC	O=C(O)[C@@H]2N(C(=O)CCCCC(=O)N1[C@@H](C(=O)O)CCC1)CCC2
 Tedizolid	O=C4O[C@H](CN4c3cc(F)c(c1ccc(nc1)c2nn(nn2)C)cc3)CO
@@ -14761,6 +14763,7 @@ NM-2201	FCCCCCN1C=C(C(OC2=C(C=CC=C3)C3=CC=C2)=O)C4=CC=CC=C41
 5F-CUMYL-PINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
 CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	CCCCCN1N=C(C(=O)NC(C)(C)C2=CC=CC=C2)C2=CC=CC=C12
+Nourseothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCN)N)O
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
 Abiraterone	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C)O
 MDMB-CHMINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3
@@ -17093,4 +17096,6 @@ Tirucallane	C[C@@H](CCCC(C)C)[C@@H]1CC[C@]2([C@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(
 Cyanophosphaethyne	C(#N)C#P
 27-Norcholestane	CCCCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
 21-Norcholestane	CC(C)CCCC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
+21-Norcholestane	CC(C)CCCC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
 19-Norcholestane	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@H]3CCCC4)C
+1,3,5-Triaza-7-phosphaadamantane	C1N2CN3CN1CP(C2)C3
