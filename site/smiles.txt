@@ -17101,5 +17101,9 @@ DFDT	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)C(Cl)(Cl)Cl)F
 Carborazine	B1=CN=BC=N1
 1,3,5-Triaza-7-phosphaadamantane	C1N2CN3CN1CP(C2)C3
 Prodan (dye)	CCC(=O)C1=CC2=C(C=C1)C=C(C=C2)N(C)C
+Mixotiazol	C[C@H]([C@H](/C=C/c1csc(n1)c2csc(n2)C(C)/C=C/C=C/C(C)C)OC)/C(=C\C(=O)N)/OC
 Α-PCYP	O=C(C(C1CCCCC1)N2CCCC2)c3ccccc3
 Α-PHiP	CC(C)CC(C(=O)c1ccccc1)N2CCCC2
+Fluorodeoxyuridylate	C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)COP(=O)(O)[O-])O.[Na+]
+Fluorodeoxyuridylate	C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)COP(=O)(O)O)O
+Methoxymethanol	COCO
