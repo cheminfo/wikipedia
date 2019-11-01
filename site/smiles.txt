@@ -9319,6 +9319,7 @@ Cumene hydroperoxide	OOC(c1ccccc1)(C)C
 5-Hydroxymethylcytosine	O=C1/N=C\C(=C(\N)N1)CO
 Carpanone	CC1C=C2C3C(C1C)c4cc5c(cc4OC36C(=CC2=O)OCO6)OCO5
 Complanine	CC/C=C\C/C=C\CC[C@H](CNC(=O)CCC[N+](C)(C)C)O
+Lactivicin	CC(=O)NC1CON(C1=O)C2(CCC(=O)O2)C(=O)O
 Trimethylsilylpropanoic acid	O=C(O)CC[Si](C)(C)C
 Indolizine	c1ccc2ccccn12
 AM-694	Ic2ccccc2C(=O)c1cn(CCCCCF)c3ccccc13
@@ -9751,7 +9752,7 @@ Panaxatriol	C[C@@]1(CCCC(O1)(C)C)[C@H]2CC[C@@]3([C@@H]2[C@@H](C[C@H]4[C@]3(C[C@H
 Protopanaxadiol	CC(=CCC[C@@](C)([C@H]1CC[C@@]2([C@@H]1[C@@H](C[C@H]3[C@]2(CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)O)C)O)C
 ANNINE-6plus	C[N+](C)(C)CCC[N+]1=CC(C=C2)=C(C=C1)C3=C2C(C=C4)=C(C=C3)C5=C4C6=CC=C(N(CCCC)CCCC)C=C6C=C5.[Br-].[Br-]
 RTI-51	Brc1ccc(cc1)[C@H]2C[C@@H]3N(C)[C@H]([C@H]2C(=O)OC)CC3
-BDPC	Brc1ccc(cc1)[C@]2(N(C)C)CC[C@](O)(CC2)CCc3ccccc3
+BDPC	CN(C)C1(CCC(CC1)(CCC2=CC=CC=C2)O)C3=CC=C(C=C3)Br
 Protopanaxatriol	O[C@H]4[C@@H]1[C@H](CC[C@]1([C@]2([C@@H]([C@]3(C)[C@@H]([C@@H](O)C2)C(C)(C)[C@@H](O)CC3)C4)C)C)[C@@](O)(C)CC\C=C(/C)C
 Dammarane	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@H]1CC[C@H]3[C@]2(CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
 Noribogaine	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)O
