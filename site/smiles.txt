@@ -8998,6 +8998,7 @@ Muzolimine	O=C1CC(N)=NN1C(C)c2cc(Cl)c(Cl)cc2
 Glyceric acid	C(C(C(=O)O)O)O
 SB-216641	CN(C)CCOc1cc(ccc1OC)NC(=O)c3ccc(cc3)-c2ccc(cc2C)-c4noc(C)n4
 SeHCAT	C[C@H](C[75Se]CC(NCCS(O)(=O)=O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@@]21C
+OSI-7904	CC1=NC2=C(C3=C(C=CC(=C3)CNC4=CC5=C(C=C4)C(=O)N(C5)[C@@H](CCC(=O)O)C(=O)O)C=C2)C(=O)N1
 Dichloro(cycloocta-1,5-diene)platinum(II)	Cl[Pt]Cl.C\1=C\CC/C=C\CC/1
 Hydroxymetronidazole	C1=C(N(C(=N1)CO)CCO)[N+](=O)[O-]
 Zirconocene dichloride	[cH-]1cccc1.[cH-]1cccc1.[Cl-].[Cl-].[Zr+4]
@@ -11182,6 +11183,7 @@ Lithium azide	[Li+].[N-]=[N+]=[N-]
 Bis(acetonitrile)palladium dichloride	CC#N.CC#N.Cl[Pd]Cl
 Bis(acetonitrile)palladium dichloride	Cl[Pd-2](Cl)([N+]#CC)[N+]#CC
 Diphenylzinc	C1([Zn]C2=CC=CC=C2)=CC=CC=C1
+Manganocene	C1C=CC=[C-]1.C1C=CC=[C-]1.[Mn+2]
 Candoxatril	O=C(NC1CCC(C(=O)O)CC1)C4(CC(C(=O)Oc2cc3c(cc2)CCC3)COCCOC)CCCC4
 Osmocene	[cH-]1cccc1.[cH-]1cccc1.[Os+2]
 Alkannin	O=C\2c1c(O)ccc(O)c1C(=O)/C(=C/2)[C@@H](O)CC=C(C)C
@@ -11561,6 +11563,7 @@ DiFMDA	CC(Cc1ccc2c(c1)OC(O2)(F)F)N
 3,4-Ethylidenedioxyamphetamine	CC(N)Cc2ccc1OC(C)Oc1c2
 Potassium ethyl xanthate	[K+].[S-]C(=S)OCC
 Denufosol	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O
+F15845	C[C@@H](CN[C@@H]1COC2=CC=CC=C2SC1)CSC3=CC=CC=C3OC
 Haemanthamine	CO[C@H]1C[C@H]2[C@@]3(C=C1)[C@H](CN2CC4=CC5=C(C=C34)OCO5)O
 Stigmastanol	O[C@H]1CC[C@@]2(C)[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@@H](CC[C@@H](CC)C(C)C)C)([H])C1
 Thallium hydride	[TlH3]
@@ -11607,6 +11610,7 @@ Divicine	OC1=C(O)C(N)=NC(N)=N1
 Divicine	O=C1C(O)=C(N)NC(N)=N1
 2,5-Diaminotoluene	CC1=C(C=CC(=C1)N)N
 Dimethylol ethylene urea	C1CN(C(=O)N1CO)CO
+AH-1058	COC1=CC=CC(=C1[N+](=O)[O-])/C=C/CN2CCC(=C3C4=CC=CC=C4C=CC5=CC=CC=C53)CC2
 Isocoproporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)O)CC(=O)O)CCC(=O)O)C(=C3C)CCC(=O)O)C
 Dolutegravir	C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O
 Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4([H])[C@H](C)[C@]6(NC[C@@H](CO[C@H]7[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O7)C[C@@H]6OC(C)=O)O5)([H])C[C@@H](O[C@]8([H])O[C@H](CO)[C@H](O[C@@]9([H])[C@H](O[C@@]%10([H])[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O%10)[C@@H](O[C@@]%11([H])[C@H](O)[C@@H](O)[C@H](O)CO%11)[C@H](O)[C@@H](CO)O9)[C@H](O)[C@H]8O)CC1
@@ -17121,3 +17125,4 @@ Methoxymethanol	COCO
 Neopentylene fluorophosphate	CC1(COP(=O)(OC1)F)C
 Chlorine trifluoride oxide	O=Cl(F)(F)F
 4,4'-Bis(dimethylamino)benzhydrol	CN(C)C1=CC=C(C=C1)C(C2=CC=C(C=C2)N(C)C)O
+3,5-Dimethylpyrazole	CC1=CC(=NN1)C
