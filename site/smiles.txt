@@ -7097,6 +7097,7 @@ Sulforhodamine 101	[O-]S(C(C=C(S(O)(=O)=O)C=C1)=C1C2=C(C=C3C4=C5CCCN4CCC3)C5=[O+
 Lead(II) bromide	Br[Pb]Br
 3-Methoxy-4-hydroxyphenylglycol	Oc1ccc(cc1OC)C(O)CO
 Disodium malonate	[Na+].[Na+].[O-]C(=O)CC([O-])=O
+1-Methylnicotinamide	C[N+]1=CC=CC(=C1)C(=O)N
 Naproxcinod	C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)OCCCCO[N+](=O)[O-]
 Homotaurine	O=S(=O)(O)CCCN
 Pyranine	C1=CC2=C3C(=C(C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])C=CC4=C(C=C(C1=C43)O)S(=O)(=O)[O-].[Na+].[Na+].[Na+]
@@ -14631,6 +14632,7 @@ Platinum pentafluoride	F[Pt](F)(F)(F)F
 Platinum pentafluoride	F[Pt-]1(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-]([F+]1)(F)(F)(F)F
 Ruthenium pentafluoride	[F-].[F-].[F-].[F-].[F-].[Ru+5]
 Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
+Helium trimer	[He].[He].[He]
 Methylselenocysteine	C[Se]C[C@@H](C(=O)O)N
 Cassaine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCN(C)C)[C@]3(CC[C@@H](C([C@@H]3CC2=O)(C)C)O)C
 Ammonium pertechnetate	[O-][Tc](=O)(=O)=O.[NH4+]
@@ -17127,3 +17129,4 @@ Chlorine trifluoride oxide	O=Cl(F)(F)F
 4,4'-Bis(dimethylamino)benzhydrol	CN(C)C1=CC=C(C=C1)C(C2=CC=C(C=C2)N(C)C)O
 3,5-Dimethylpyrazole	CC1=CC(=NN1)C
 Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
+(Pentamethylclopentadienyl)titanium trichloride	CC1=C([C](C(=C1C)C)C)C.Cl[Ti](Cl)Cl
