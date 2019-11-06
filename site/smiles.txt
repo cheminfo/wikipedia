@@ -8683,7 +8683,7 @@ Tiron (chemical)	c1c(cc(c(c1O)O)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
 4-Toluenesulfonyl chloride	O=S(Cl)(=O)c1ccc(cc1)C
 JZL184	c1cc(ccc1[N+](=O)[O-])OC(=O)N2CCC(CC2)C(c3ccc4c(c3)OCO4)(c5ccc6c(c5)OCO6)O
 Evoxine	CC(C)(C(COC1=C(C2=C(C=C1)C(=C3C=COC3=N2)OC)OC)O)O
-ANG1005	CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)OC(=O)CCC(=O)NCCCC[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC7=CC=CC=C7)C(=O)NCC(=O)N[C@@H](CCCCNC(=O)CCC(=O)O[C@H]([C@H](C8=CC=CC=C8)NC(=O)C9=CC=CC=C9)C(=O)O[C@H]1C[C@]2([C@H]([C@H]3[C@@]([C@H](C[C@@H]5[C@]3(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C1C)C2(C)C)OC(=O)C)C)OC(=O)C1=CC=CC=C1)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CO)NC(=O)CNC(=O)CNC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C(C(C)O)NC(=O)CCC(=O)O[C@H]([C@H](C1=CC=CC=C1)NC(=O)C1=CC=CC=C1)C(=O)O[C@H]1C[C@]2([C@H]([C@H]3[C@@]([C@H](C[C@@H]5[C@]3(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C1C)C2(C)C)OC(=O)C)C)OC(=O)C1=CC=CC=C1)O)O)OC(=O)C1=CC=CC=C1)(CO4)OC(=O)C)O)C)OC(=O)C
+Paclitaxel trevatide	CC1=C2[C@@H](C(=O)[C@]3([C@@H](C[C@H]4[C@@]([C@@H]3[C@H]([C@](C2(C)C)(C[C@H]1OC(=O)[C@H]([C@@H](c5ccccc5)NC(=O)c6ccccc6)OC(=O)CCC(=O)NCCCC[C@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](Cc7ccccc7)C(=O)N[C@H](CCCCNC(=O)CCC(=O)O[C@@H]([C@@H](c8ccccc8)NC(=O)c9ccccc9)C(=O)O[C@@H]1C[C@@]2([C@@H]([C@@H]3[C@]([C@@H](C[C@H]5[C@@]3(CO5)OC(=O)C)O)(C(=O)[C@H](C(=C1C)C2(C)C)OC(=O)C)C)OC(=O)c1ccccc1)O)C(=O)N[C@H]([C@H](C)O)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)CNC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CO)NC(=O)CNC(=O)CNC(=O)[C@@H](Cc1ccc(cc1)O)NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@H]([C@@H](C)O)NC(=O)CCC(=O)O[C@H]([C@H](c1ccccc1)NC(=O)c1ccccc1)C(=O)O[C@H]1C[C@]2([C@H]([C@H]3[C@@]([C@H](C[C@@H]5[C@]3(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C1C)C2(C)C)OC(=O)C)C)OC(=O)c1ccccc1)O)O)OC(=O)c1ccccc1)(CO4)OC(=O)C)O)C)OC(=O)C
 Disodium methyl arsonate	C[As](=O)([O-])[O-].[Na+].[Na+]
 GBR-12935	C1CN(CCN1CCCC2=CC=CC=C2)CCOC(C3=CC=CC=C3)C4=CC=CC=C4
 Magnesium malate	C(C(C(=O)[O-])O)C(=O)[O-].[Mg+2]
@@ -17130,3 +17130,4 @@ Chlorine trifluoride oxide	O=Cl(F)(F)F
 3,5-Dimethylpyrazole	CC1=CC(=NN1)C
 Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 (Pentamethylclopentadienyl)titanium trichloride	CC1=C([C](C(=C1C)C)C)C.Cl[Ti](Cl)Cl
+Zinc(II) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
