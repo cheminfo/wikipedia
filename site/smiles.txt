@@ -8563,7 +8563,7 @@ Thiorphan	C1=CC=C(C=C1)CC(CS)C(=O)NCC(=O)O
 Glycochenodeoxycholic acid	C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Glycodeoxycholic acid	C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Allylglycine	O=C(O)C(N)CC=C
-Tropoxane	COC(=O)[C@@H]1[C@H]2CC[C@H](O2)C[C@@H]1C3=CC(=C(C=C3)Cl)Cl
+Tropoxane	Clc1ccc(cc1Cl)[C@H]2C[C@H]3O[C@@H]([C@H]2C(=O)OC)CC3
 O-2172	Clc1ccc(cc1Cl)C(C(=O)OC)C2CCCC2
 AMN082	Cl.Cl.N(CCNC(c1ccccc1)c2ccccc2)C(c3ccccc3)c4ccccc4
 Trolox	CC1=C(C(=C2CCC(OC2=C1C)(C)C(=O)O)C)O
@@ -17131,3 +17131,5 @@ Chlorine trifluoride oxide	O=Cl(F)(F)F
 Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 (Pentamethylclopentadienyl)titanium trichloride	CC1=C([C](C(=C1C)C)C)C.Cl[Ti](Cl)Cl
 Zinc(II) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
+O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
+Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
