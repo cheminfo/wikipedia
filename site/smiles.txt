@@ -171,7 +171,7 @@ Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
-Sodium hydroxide	O[Na]
+Sodium hydroxide	[OH-].[Na+]
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
 Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)[O-])[NH3+]
 Daminozide	CN(C)NC(=O)CCC(O)=O
@@ -17132,3 +17132,5 @@ Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 Zinc azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
 O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
 Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
+1-Methyl-3-propyl-4-(p-chlorophenyl)piperidine	CCC[C@@H]1CN(CC[C@@H]1C2=CC=C(C=C2)Cl)C
+Tetrabenzylzirconium	[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[Zr+4]
