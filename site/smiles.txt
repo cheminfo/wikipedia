@@ -3716,7 +3716,7 @@ Phorbol	OCC1=C[C@]([C@@](C(C)4C)([H])[C@]4(O)[C@H](O)[C@H]2C)([H])[C@]2(O)[C@@](
 Sodium metasilicate	[Na+].[Na+].[O-][Si]([O-])=O
 Nedocromil	O=C\1c3c(N(/C(C(=O)O)=C/1)CC)c(c2O/C(=C\C(=O)c2c3)C(=O)O)CCC
 2-Mercaptoethanol	OCCS
-FCE-28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
+FCE 28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
 1,2-Ethanedithiol	SCCS
 Dichlorodifluoroethylene	ClC(Cl)=C(F)F
 Dichlorodifluoroethylene	Cl/C(F)=C(\Cl)F
@@ -15448,7 +15448,7 @@ Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 3-Nitrooxypropanol	C(CO)CO[N+](=O)[O-]
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
 (2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
-KAF156	CC1(c2nc(c(n2CCN1C(=O)CN)Nc3ccc(cc3)F)c4ccc(cc4)F)C
+Ganaplacide	CC1(c2nc(c(n2CCN1C(=O)CN)Nc3ccc(cc3)F)c4ccc(cc4)F)C
 Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
 Propylene chlorohydrin	CC(CCl)O
 Tetramethylurea	CN(C)C(=O)N(C)C
@@ -17133,4 +17133,7 @@ Zinc azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
 O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
 Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
 1-Methyl-3-propyl-4-(p-chlorophenyl)piperidine	CCC[C@@H]1CN(CC[C@@H]1C2=CC=C(C=C2)Cl)C
+Decamethyltitanocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.[Cl-].Cl[Cl-][Ti+4]
+Decamethylzirconocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.Cl[Zr+2]Cl
 Tetrabenzylzirconium	[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[Zr+4]
+S-Methylcysteine	CSC[C@@H](C(=O)O)N
