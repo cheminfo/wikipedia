@@ -126,7 +126,7 @@ Potassium ferrocyanide	[K+].[K+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[K+].[K+]
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
-Sulfur mustard	ClCCSCCCl
+Mustard gas	ClCCSCCCl
 Phosgene	ClC(Cl)=O
 Phenytoin	O=C2NC(=O)NC2(c1ccccc1)c3ccccc3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
@@ -7040,7 +7040,7 @@ Calcium iodide	[Ca+2].[I-].[I-]
 Biphenylene	c1ccc-2c(c1)-c3c2cccc3
 Embutramide	O=C(NCC(c1cc(OC)ccc1)(CC)CC)CCCO
 4-Fluoromethamphetamine	Fc1ccc(cc1)CC(NC)C
-Bromsulphthalein	[Na+].[Na+].[O-]S(=O)(=O)c1c(O)ccc(c1)C3(OC(=O)c2c(Br)c(Br)c(Br)c(Br)c23)c4ccc(O)c(c4)S([O-])(=O)=O
+Bromsulfthalein	[Na+].[Na+].[O-]S(=O)(=O)c1c(O)ccc(c1)C3(OC(=O)c2c(Br)c(Br)c(Br)c(Br)c23)c4ccc(O)c(c4)S([O-])(=O)=O
 Aplysiatoxin	C[C@@H](O)C(CC(O1)=O)OC(C[C@@]2(O)[C@H](C)CC(C)(C)[C@@]3(C[C@H]1[C@H](C)[C@@H]([C@@H](C)CCC(OC)C4=C(Br)C=CC(O)=C4)O3)O2)=O
 Nodularin	C/C=C\1/C(=O)N[C@H]([C@@H](C(=O)N[C@H](C(=O)N[C@H]([C@@H](C(=O)N[C@H](CCC(=O)N1C)C(=O)O)C)/C=C/C(=C/[C@H](C)[C@H](CC2=CC=CC=C2)OC)/C)CCCNC(=N)N)C)C(=O)O
 Magnesium iodide	[Mg+2].[I-].[I-]
@@ -17137,3 +17137,4 @@ Decamethyltitanocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.
 Decamethylzirconocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.Cl[Zr+2]Cl
 Tetrabenzylzirconium	[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[Zr+4]
 S-Methylcysteine	CSC[C@@H](C(=O)O)N
+2-Methylthioethylamine	CSCCN
