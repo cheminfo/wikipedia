@@ -250,7 +250,7 @@ Acetophenone	CC(=O)c1ccccc1
 Hydrazine	NN
 Adrenochrome	O=C1\C=C2/C(=C\C1=O)N(CC2O)C
 Ribavirin	OC[C@@H](O1)[C@@H](O)[C@@H](O)[C@@H]1N2N=C(C(N)=O)N=C2
-Methyl isocyanate	O=C=N/C
+Methyl isocyanate	O=C=NC
 Tartaric acid	O=C(O)C(O)C(O)C(=O)O
 Sodium chloride	[Na+].[Cl-]
 Coenzyme A	O=C(NCCS)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
@@ -16322,6 +16322,7 @@ Azeloprazole	Cc1cnc(c(c1OCC2COC(OC2)(C)C)C)CS(=O)c3[nH]c4ccccc4n3
 Ertugliflozin	CCOc1ccc(cc1)Cc2cc(ccc2Cl)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O
 Latanoprostene bunod	C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
 Ethylenediaminediacetic acid	C(CNCC(=O)O)NCC(=O)O
+Stains-all	CCN1/C(=C/C(=C/C2=[N+](C3=C(S2)C=CC4=CC=CC=C43)CC)/C)/SC5=C1C6=CC=CC=C6C=C5.[Br-]
 Bruceolide	CC1=C(C(=O)C[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)O)(OC5)C(=O)OC)O)O)C)O
 Eurycomanone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3C45[C@@H]2[C@@]([C@@H](C(=C)[C@@]4([C@H](C(=O)O3)O)O)O)(OC5)O)C)O
 Gutolactone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)C=C(C)C)(OC5)C)O)O)C)O
@@ -16581,7 +16582,8 @@ BMS-641988	CCS(=O)(=O)N[C@@H]1C[C@@]2([C@@H]3[C@H]([C@]1(O2)C)C(=O)N(C3=O)C4=CC(
 EM-5854	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC4=CC=[N+](C=C4)[O-])O)CCC5=C3C=CC(=C5F)C#N
 MK-434	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)C4=CC=CC=C4)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
 Dinalbuphine sebacate	C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)OC(=O)CCCCCCCCC(=O)OC7=C8C9=C(C[C@@H]1[C@]2([C@]9(CCN1CC1CCC1)[C@@H](O8)[C@H](CC2)O)O)C=C7)O5)O)O
-Nemorexant	CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl
+NV-5138	CC(C)(CC(C(=O)O)N)C(F)F
+Daridorexant	CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl
 Methyldiazinol	C[C@]12CCC3(C[C@@H]1CC[C@@H]4[C@@H]2CC[C@]5([C@H]4CC[C@]5(C)O)C)N=N3
 Para-Aminoblebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=C(C=C4)N)O
 Mesitol	Cc1cc(c(c(c1)C)O)C
@@ -16690,6 +16692,7 @@ Aflatoxin M1	COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5)O
 Dioctyl maleate	CCCCC(CC)COC(=O)/C=C\C(=O)OCC(CC)CCCC
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
+3,3,5-Trimethylcyclohexyl 3-pyridyl methylphosphonate	CC2CC(OP(C)(=O)Oc1cccnc1)CC(C)(C)C2
 Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
 Trithionate	[O-][S+2]([O-])([O-])S[S+2]([O-])([O-])[O-]
 Bromopentafluorobenzene	C1(=C(C(=C(C(=C1F)F)Br)F)F)F
