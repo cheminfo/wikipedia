@@ -6105,7 +6105,7 @@ Otera's catalyst	CCCC[Sn]1(N(=C=S)[Sn]2(O1[Sn]3(O2[Sn](N3=C=S)(CCCC)(CCCC)N=C=S)
 Periplanone B	O=C2[C@]1(OC1)[C@@H]3O[C@@H]3CC(\C=C\[C@H](C(C)C)C2)=C
 Acetyl iodide	CC(I)=O
 Mafosfamide	O=P1(N[C@@H](CCO1)SCCS(O)(=O)=O)N(CCCl)CCCl
-Abiraterone acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4C5=CN=CC=C5)C)C
+Abiraterone	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4C5=CN=CC=C5)C)C
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
@@ -14771,7 +14771,6 @@ CUMYL-THPINACA	O=C(NC(C)(C)C1=CC=CC=C1)C2=NN(CC3CCOCC3)C4=C2C=CC=C4
 CUMYL-PINACA	CCCCCN1N=C(C(=O)NC(C)(C)C2=CC=CC=C2)C2=CC=CC=C12
 Nourseothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCN)N)O
 MDMB-FUBINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3
-Abiraterone	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C)O
 MDMB-CHMINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3
 4-Fluorobutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 PX-1	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=CN(CCCCCF)C3=C2C=CC=C3
@@ -17143,3 +17142,5 @@ Tetrabenzylzirconium	[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-]C1=CC=CC=C1.[CH2-
 S-Methylcysteine	CSC[C@@H](C(=O)O)N
 2-Methylthioethylamine	CSCCN
 Tris(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)[Si](C)(C)C
+4-Dimethylamino-4-(p-tolyl)cyclohexanone	CC1=CC=C(C=C1)C2(CCC(=O)CC2)N(C)C
+Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1
