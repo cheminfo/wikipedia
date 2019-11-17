@@ -11570,6 +11570,7 @@ Thallium hydride	[TlH3]
 Propazepine	CN(C)CCCN1CC2=CC=CC=C2CC3=CC=CC=C31
 Helional	CC(CC1=CC2=C(C=C1)OCO2)C=O
 7α-Hydroxy-4-cholesten-3-one	O=C4\C=C2/[C@]([C@H]1CC[C@]3([C@H]([C@@H]1[C@H](O)C2)CC[C@@H]3[C@H](C)CCCC(C)C)C)(C)CC4
+Aliskiren/amlodipine/hydrochlorothiazide	CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN.CC(C)C(CC1=CC(=C(C=C1)OC)OCCCOC)CC(C(CC(C(C)C)C(=O)NCC(C)(C)C(=O)N)O)N.C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
 Tetraethylmethane	CCC(CC)(CC)CC
 Chloroacetamide	ClCC(=O)N
 Methaphenilene	CN(C)CCN(Cc1cccs1)c2ccccc2
@@ -17144,3 +17145,4 @@ S-Methylcysteine	CSC[C@@H](C(=O)O)N
 Tris(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)[Si](C)(C)C
 4-Dimethylamino-4-(p-tolyl)cyclohexanone	CC1=CC=C(C=C1)C2(CCC(=O)CC2)N(C)C
 Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1
+AMG 510	CC(C)c1nccc(C)c1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)c4cc(F)c(nc24)c5c(O)cccc5F
