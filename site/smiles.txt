@@ -15537,6 +15537,7 @@ Verubecestat	C[C@]1(CS(=O)(=O)N(C(=N1)N)C)c2cc(ccc2F)NC(=O)c3ccc(cn3)F
 5β-Dihydrotestosterone	C[C@]12CCC(=O)C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C
 Etiocholane	C[C@@]12CCC[C@H]1[C@@H]3CC[C@@H]4CCCC[C@@]4([C@H]3CC2)C
 Epietiocholanolone	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O
+Tris(4-bromophenyl)ammoniumyl hexachloroantimonate	C1=CC(=CC=C1[N+](C2=CC=C(C=C2)Br)C3=CC=C(C=C3)Br)Br.Cl[Sb-](Cl)(Cl)(Cl)(Cl)Cl
 Diiminoisoindole	C1=CC=C2C(=C1)C(=NC2=N)N
 Tetrahydropapaveroline	C1CNC(C2=CC(=C(C=C21)O)O)CC3=CC(=C(C=C3)O)O
 Difluorodisulfanedifluoride	S(SF)(F)(F)F
@@ -17146,3 +17147,4 @@ Tris(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)[Si](C)(C)C
 4-Dimethylamino-4-(p-tolyl)cyclohexanone	CC1=CC=C(C=C1)C2(CCC(=O)CC2)N(C)C
 Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1
 AMG 510	CC(C)c1nccc(C)c1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)c4cc(F)c(nc24)c5c(O)cccc5F
+Estradiol distearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCCCCCCCCCC)C
