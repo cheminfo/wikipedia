@@ -17148,3 +17148,7 @@ Tris(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)[Si](C)(C)C
 Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1
 AMG 510	CC(C)c1nccc(C)c1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)c4cc(F)c(nc24)c5c(O)cccc5F
 Estradiol distearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCCCCCCCCCC)C
+3-Methyl-PCPy	CC1=CC(=CC=C1)C2(CCCCC2)N3CCCC3
+Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.C1=CC=C(C=C1)C(=O)O
+Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.CN1CCC[C@H]1C2=CN=CC=C2.OS(=O)(=O)O
+Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.Cl
