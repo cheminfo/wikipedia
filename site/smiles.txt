@@ -187,7 +187,6 @@ Cyclopentadiene	C1C=CC=C1
 Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
 Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
-Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
 Monosodium glutamate	[Na+].O=C([O-])[C@@H](N)CCC(=O)O
 Pyrrolysine	C[C@@H]1CC=N[C@H]1C(=O)NCCCC[C@@H](C(=O)O)N
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)[O-])[NH3+])[C@@H]1/N=C\C[C@H]1C
@@ -2944,6 +2943,7 @@ Antimycin A	O=CNc1cccc(c1O)C(=O)N[C@@H]2C(=O)O[C@H]([C@H](OC(=O)CC(C)C)[C@H](C(=
 Chromium(II) carbide	[Cr]#C[Cr]C#[Cr]
 Hexamethonium	C(CCCC[N+](C)(C)C)C[N+](C)(C)C
 Fluorometholone	O=C(C)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](C)C[C@H]4[C@@H]2CC3)C)C
+Peroxynitrite	N(=O)O[O-]
 Methylisopropyltryptamine	CC(C)N(C)CCc1c[nH]c2ccccc12
 Exemestane	O=C\1\C=C/[C@]3(C(=C/1)/C(=C)C[C@H]4[C@@H]2CCC(=O)[C@]2(CC[C@H]34)C)C
 Chlortoluron	Clc1cc(NC(=O)N(C)C)ccc1C
@@ -17096,6 +17096,7 @@ Anthrol	C1=CC=C2C=C3C(=CC2=C1)C=C(C(=C3O)O)O
 Diethylsuccinoylsuccinate	CCOC(=O)C1=C(CC(=C(C1)O)C(=O)OCC)O
 Acedianthrone	C1=CC=C2C(=C1)C3=C4C5=C6C(=CC=C5)C(=O)C7=CC=CC=C7C6=C4C8=C3C(=CC=C8)C2=O
 3-Chloromethcathinone	CC(NC)C(C1=CC=CC(Cl)=C1)=O
+Ribose	C([C@H]([C@H]([C@H](C=O)O)O)O)O
 Cyclopentadienyltungsten tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[W].[W]
 CE-123	O=S(Cc1cncs1)C(c2ccccc2)c3ccccc3
 3-Methyluridine	CN1C(=O)C=CN(C1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
@@ -17154,3 +17155,4 @@ Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.CN1CCC[C@H]1C2=CN=CC=C2.OS(=O)(=O)O
 Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.Cl
 Trifarotene	CC(C)(C)C1=C(C=CC(=C1)C2=C(C=CC(=C2)C3=CC=C(C=C3)C(=O)O)OCCO)N4CCCC4
 Dimethyl chlorothiophosphate	COP(=S)(OC)Cl
+2-(Ethylamino)-1,2-diphenylethanone	CCNC(C1=CC=CC=C1)C(=O)C2=CC=CC=C2
