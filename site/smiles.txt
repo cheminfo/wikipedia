@@ -12147,7 +12147,7 @@ C70 fullerene	C12=C3C4=C5C6=C7C8=C9C%10=C%11C%12=C%13C%10=C%10C8=C5C1=C%10C1=C%1
 Bullatacin	O=C\1O[C@H](/C=C/1C[C@H](O)CCCCCCCCCC[C@@H](O)[C@@H]3O[C@@H]([C@@H]2O[C@H](CC2)[C@@H](O)CCCCCCCCCC)CC3)C
 Rhenium hexafluoride	F[Re](F)(F)(F)(F)F
 Difluoroacetylene	FC#CF
-Bromine monofluoride	[F-].[Br]
+Bromine monofluoride	FBr
 Atromentin	C1=CC(=CC=C1C2=C(C(=O)C(=C(C2=O)O)C3=CC=C(C=C3)O)O)O
 Diethyl dithiophosphoric acid	CCOP(=S)(OCC)S
 N,N-Diisopropylaminoethanol	CC(C)N(CCO)C(C)C
@@ -16975,6 +16975,7 @@ Trisporic acid	CCCC/C=C(\C)/C=C/C1=C(C(=O)CC[C@]1(C)C(=O)O)C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CCC(=O)C)/C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CC[C@@H](C)O)/C
 Diphenpipenol	COc4ccccc4N1CCN(CC1)C(Cc2cccc(O)c2)c3ccccc3
+Grapiprant	CCC1=NC2=C(C)N=C(C)C=C2N1C1=CC=C(CCNC(=O)NS(=O)(=O)C2=CC=C(C)C=C2)C=C1
 UV-328	CCC(C)(C)C1=CC(=C(C(=C1)N2N=C3C=CC=CC3=N2)O)C(C)(C)CC
 Tetrahymanol	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)(C)C
 3-Aminobiphenyl	C1=CC=C(C=C1)C2=CC(=CC=C2)N
