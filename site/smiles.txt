@@ -6513,7 +6513,7 @@ Naltrindole	Oc4c3O[C@H]7c2c(c1ccccc1[nH]2)C[C@@]6(O)[C@H]5N(CC[C@@]67c3c(cc4)C5)
 Tyropanoic acid	CCCC(=O)NC1=C(C=C(C(=C1I)CC(CC)C(=O)O)I)I
 Dicoronylene	C1=CC2=C3C4=C1C=CC5=C4C6=C(C=C5)C=C7C8=CC9=C1C4=C(C=CC5=C4C4=C(C=C5)C=CC5=CC(=C8C1=C54)C1=C7C6=C3C(=C1)C=C2)C=C9
 6-MeO-THH	CC1NCCC2=C1NC(C=C3)=C2C=C3OC
-Trioxsalen	O=C/3Oc2c(c1oc(cc1cc2\C(=C\3)C)C)C
+Trioxsalen	Cc1cc2c(o1)c(C)c1c(c2)c(C)cc(=O)o1
 Dimethylzinc	C[Zn]C
 Suriclone	Clc4nc5nc(N3C(=O)C=1SCCSC=1C3OC(=O)N2CCN(C)CC2)ccc5cc4
 Alimemazine	S2c1ccccc1N(c3c2cccc3)CC(C)CN(C)C
@@ -15163,6 +15163,7 @@ Cyclobuxine	C[C@@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)
 Glycidamide	C1C(O1)C(=O)N
 Ribociclib	CN(C)C(=O)c1cc2cnc(nc2n1C3CCCC3)Nc4ccc(cn4)N5CCNCC5
 Flubendiamide	CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C
+Alpelisib	CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
 AMG319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
 Etoxazole	CCOc1cc(ccc1C2COC(=N2)c3c(cccc3F)F)C(C)(C)C
 Entospletinib	C1COCCN1C2=CC=C(C=C2)NC3=NC(=CN4C3=NC=C4)C5=CC6=C(C=C5)C=NN6
@@ -17160,3 +17161,5 @@ Dimethyl chlorothiophosphate	COP(=S)(OC)Cl
 Givosiran	C[C@@H]1C[C@H](CN1C(=O)CCCCCCCCCCC(=O)NC(COCCC(=O)NCCCNC(=O)CCCCO[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)NC(=O)C)(COCCC(=O)NCCCNC(=O)CCCCO[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)COCCC(=O)NCCCNC(=O)CCCCO[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)NC(=O)C)O
 Cenobamate	C1=CC=C(C(=C1)C(CN2N=CN=N2)OC(=O)N)Cl
 4-HO-McPeT	CN(CCC1=CNC2=C1C(=CC=C2)O)C3CCCC3
+Cyclohexylbenzene	C1CCC(CC1)C2=CC=CC=C2
+Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3]
