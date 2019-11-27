@@ -2269,7 +2269,6 @@ Ozonide	[O-]O[O]
 Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
-Losartan	CCCCC(=O)N(Cc3ccc(C1C=CC=CC1c2nn[nH]n2)cc3)[C@H](C(=O)O)C(C)C
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
@@ -16796,7 +16795,7 @@ Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
 Calcium ferrocyanide	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Ca+2].[Ca+2].[Fe+2]
 Glyceryl diacetate	CC(=O)OCC(CO)OC(=O)C
-Voxelotor	CC(C)n1c(ccn1)c2c(cccn2)COc3cccc(c3C=O)O
+Voxelotor	CC(C)N1C(=CC=N1)C2=C(C=CC=N2)COC3=CC=CC(=C3C=O)O
 Tert-Amyl ethyl ether	CCC(C)(C)OCC
 Azanide	[NH2-]
 Azanide	[N-]
