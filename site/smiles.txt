@@ -13452,6 +13452,7 @@ Elaiomycin	CCCCCC/C=C\[N+](=N\[C@@H](COC)[C@H](C)O)\[O-]
 Isoemericellin	C/C(C)=C\Cc3ccc2Oc1cc(C)c(OC\C=C(/C)C)c(CO)c1C(=O)c2c3O
 Arugosin C	CC1=CC(=C2C3=C1OCC(C3OC4=C(C2=O)C(=C(C=C4)CC=C(C)C)O)C(C)(C)O)O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
+Neopluramycin	C/C=C(\C)/c1cc(=O)c2c(cc3c(c2o1)C(=O)c4c(c(cc(c4O)C5CC(C(C(O5)C)OC(=O)C)(C)N(C)C)C6CC(C(C(O6)C)O)N(C)C)C3=O)C
 Shamixanthone	C/C(C)=C\Cc4ccc(O)c3C(=O)c2c(cc(C)c1OC[C@H]([C@H](O)c12)C(C)=C)Oc34
 Evariquinone	COC1=C2C(=O)C3=C(O)C(O)=C(O)C=C3C(=O)C2=CC(C)=C1
 Macromomycin B	O=C(OC)c2cc(OC)cc1O/C(C(=O)Nc12)=C
@@ -17163,4 +17164,5 @@ Cenobamate	C1=CC=C(C(=C1)C(CN2N=CN=N2)OC(=O)N)Cl
 Cyclohexylbenzene	C1CCC(CC1)C2=CC=CC=C2
 Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3]
 ETFELA	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC(F)(F)F
+Darobactin	NCCC[C@@H]1[C@H](NC(=O)[C@H](CO)NC(=O)[C@H]2NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CC3=CNC4=C3C=CC=C4O[C@@H]2C2=CNC3=CC=C1C=C23)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
 Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
