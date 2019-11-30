@@ -16367,7 +16367,7 @@ Valerylfentanyl	c2ccccc2N(C(=O)CCCC)C(CC1)CCN1CCc3ccccc3
 Isobutyrylfentanyl	c3ccccc3N(C(=O)C(C)C)C(CC2)CCN2CCc1ccccc1
 4-Chloroisobutyrylfentanyl	c3ccccc3CCN(CC1)CCC1N(C(=O)C(C)C)c(cc2)ccc2Cl
 Thiafentanil	COCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)C(=O)OC
-Cyclopropylfentanyl	c3ccccc3N(C(=O)C2CC2)C(CC4)CCN4CCc1ccccc1
+Cyclopropylfentanyl	C1CC1C(=O)N(C2CCN(CC2)CCC3=CC=CC=C3)C4=CC=CC=C4
 Benzoylfentanyl	c4ccccc4CCN(CC1)CCC1N(c3ccccc3)C(=O)c2ccccc2
 Tetramethylcyclopropylfentanyl	c2ccccc2CCN4CCC(CC4)N(C(=O)C1C(C)(C)C1(C)C)c3ccccc3
 Benzodioxolefentanyl	c3cc1OCOc1cc3C(=O)N(c4ccccc4)C2CCN(CC2)CCc5ccccc5
@@ -17166,3 +17166,4 @@ Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].
 ETFELA	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC(F)(F)F
 Darobactin	NCCC[C@@H]1[C@H](NC(=O)[C@H](CO)NC(=O)[C@H]2NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CC3=CNC4=C3C=CC=C4O[C@@H]2C2=CNC3=CC=C1C=C23)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
 Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
+2F-QMPSB	FC1(F)CCN(CC1)S(=O)(=O)c2cc(ccc2C)C(=O)Oc4cccc3cccnc34
