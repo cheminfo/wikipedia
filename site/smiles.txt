@@ -14018,6 +14018,7 @@ Balanophotannin D	C1[C@@H](C2=C(C1=O)OC(=O)C3=CC(=C(C(=C32)O)O)O)C(=O)OC[C@@H]4[
 Juglanin	OCC(O1)C(O)C(O)C1OC(C(=O)2)=C(c(c4)ccc(O)c4)Oc(c3)c(c(O)cc(O)3)2
 Pigment Yellow 16	Clc1cc(Cl)ccc1/N=N/C(C(=O)C)C(=O)Nc2ccc(cc2C)-c3cc(C)c(cc3)NC(=O)C(C(=O)C)/N=N/c4ccc(Cl)cc4Cl
 Carboxycyclophosphamide	C(COP(=O)(N)N(CCCl)CCCl)C(=O)O
+3-Methyl-3-penten-2-one	C/C=C(\C)/C(=O)C
 Taxillusin	Oc1cc(cc(O)c1O)C(=O)OC[C@H]5O[C@@H](O[C@H]2C(=O)c4c(O)cc(O)cc4O[C@@H]2c3ccc(O)c(O)c3)[C@H](O)[C@@H](O)[C@@H]5O
 Acetoacetanilide	CC(=O)CC(=O)NC1=CC=CC=C1
 Callistephin	C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O
@@ -15039,6 +15040,7 @@ Difluoroamino sulfur pentafluoride	FN(F)S(F)(F)(F)(F)F
 Lesinurad	c1ccc2c(c1)c(ccc2n3c(nnc3Br)SCC(=O)O)C4CC4
 Pipethiaden	CN1CCC(=C2c3ccccc3CSc4c2ccs4)CC1
 Fenleuton	CC(C#Cc1cccc(c1)Oc2ccc(cc2)F)N(C(=O)N)O
+11C ME@HAPTHI	[11CH3]NC[C@@H](O)CCN1C2=C(C=CC=C2)N(C2=CC=CC=C2)S1(=O)=O
 Piperylone	CCC1=C(NN(C1=O)C2CCN(CC2)C)C3=CC=CC=C3
 BzODZ-EPyr	C(C1=CC=CC=C1)C2=NOC(=N2)C3=C[N](C4=CC=CC=C34)CCN5CCCC5
 Broparestrol	CCc1ccc(cc1)/C(=C(\c2ccccc2)/Br)/c3ccccc3
