@@ -1360,7 +1360,7 @@ Geranic acid	O=C(O)/C=C(/CC\C=C(/C)C)C
 Rhodinol	C[C@H](CCO)CCCC(C)=C
 Tosyl phenylalanyl chloromethyl ketone	Cc1ccc(cc1)S(=O)(=O)N[C@@H](Cc2ccccc2)C(=O)CCl
 Neodymium(III) chloride	Cl[Nd](Cl)Cl
-Sulfasalazine	O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3
+Sulfasalazine	C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
 Adipic acid	O=C(O)CCCCC(=O)O
 Basic lead acetate	CC(=O)[O-].CC(=O)[O-].[OH-].[OH-].[OH-].[OH-].[Pb+2].[Pb+2].[Pb+2]
 Cannabinol	Oc2cc(cc1OC(c3c(c12)cc(cc3)C)(C)C)CCCCC
@@ -16761,7 +16761,7 @@ Metonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OC
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
 Tetramethylxylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
 GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
-Cefiderocol	CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
+Cefiderocol	CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
 Cerdulatinib	CCS(=O)(=O)N1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4CC4)C(=O)N
 Methylene imine	C=N
 Vilsmeier reagent	C[N+](=CCl)C.[Cl-]
@@ -17104,7 +17104,7 @@ Cyclopentadienyltungsten tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O
 CE-123	O=S(Cc1cncs1)C(c2ccccc2)c3ccccc3
 3-Methyluridine	CN1C(=O)C=CN(C1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Stigmastane	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C)C(C)C
-Prymnesin-B1	Cl/C=C/C#CCCCC/C=C/C=C/CC(C/C=C/C=C/[C@@H]1O[C@@H]2C[C@H]3[C@H](O[C@H]2CC1)C[C@H]1[C@H](O3)C[C@@H]([C@H]2[C@H](O1)CC[C@H](O2)[C@@H]1[C@H](C)C[C@@H]2[C@@H](O1)CC[C@@H](O2)C(C[C@H]1C[C@@H]([C@H]2[C@H](O1)C[C@H]([C@H](O2)[C@H]1CC[C@H]2[C@H](O1)[C@@H](O)[C@H]([C@H](O2)[C@H]1[C@H]([C@H](O)[C@@H]([C@H](O1)CC(C(C(CC(C(C(C(C(CCC#CC#C)O)O)O)O)O)O)O[C@@H]1[C@@H]([C@@H](O)[C@H]([C@H](O1)CO)O)O)O)O)O)O)O)O)O)O)N
+Prymnesin-B1	[H][C@@]([C@@]1([H])[C@@H](O)[C@@H]([C@H](O)[C@](CC(O)C(O[C@@H]2[C@H](O)[C@H]([C@@H](O)[C@@H](CO)O2)O)C(O)CC(O)C(O)C(O)C(O)C(O)CCC#CC#C)([H])O1)O)([C@@H]([C@@H]([C@]3(O[C@]([C@](O4)([H])[C@H](O)C[C@]5([H])[C@]4([H])[C@@H](O)C[C@@](CC([C@@]([H])(CC[C@](O[C@@]6([C@@](O[C@]7([C@H](C8)O)[H])(CC[C@@]7([H])O[C@](C[C@]([H])9O[C@]%10(CC[C@@]%11(/C=C/C=C/CC(C/C=C/C=C/C#CCCC#C/C=C/Cl)N)[H])[H])([H])[C@]8([H])O[C@]9(C[C@@](O%11)%10[H])[H])[H])[H])%12[H])O[C@@]%12(C[C@H]6C)[H])O)([H])O5)([H])CC%13)[H])O)O)O[C@]3%13[H]
 Protostane	C[C@H](CCCC(C)C)[C@H]1CC[C@]2([C@H]1CC[C@@H]3[C@@]2(CC[C@@H]4[C@@]3(CCCC4(C)C)C)C)C
 Devimistat	C1=CC=C(C=C1)CSCCC(CCCCC(=O)O)SCC2=CC=CC=C2
 Cyclopentadienylchromium tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Cr].[Cr]
@@ -17172,3 +17172,5 @@ Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
 IBF5MAP	CNC(Cc1ccc2c(c1)COC2)C
 Lotilaner	CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F
 2'-Oxo-PCE	CCNC1(CCCCC1=O)C2=CC=CC=C2
+1-Bromododecane	CCCCCCCCCCCCBr
+3-Chloromethamphetamine	CNC(Cc1cccc(c1)Cl)C
