@@ -1565,7 +1565,7 @@ Pirolazamide	O=C(N)C(c1ccccc1)(c2ccccc2)CCN4CC3N(CCC3)CC4
 BINAP	c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c6ccccc6ccc5P(c7ccccc7)c8ccccc8
 HU-210	CCCCCCC(C)(C)C1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO)C(=C1)O
 Forskolin	CC(=O)O[C@H]1[C@H]([C@@H]2[C@]([C@H](CCC2(C)C)O)([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O
-Fingolimod	OCC(N)(CCc1ccc(cc1)CCCCCCCC)CO
+Fingolimod	CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N
 Nonylphenol	Oc1ccccc1CCCCCCCCC
 Dimethylallyl pyrophosphate	O=P(OP(=O)(OC(C)(C)C=C)OC(C)(C)C=C)(OC(C)(C)C=C)OC(C)(C)C=C
 Dimethylallyl pyrophosphate	CC(=CCOP(=O)(O)OP(=O)(O)O)C
@@ -8692,7 +8692,7 @@ CI-988	C[C@@](Cc1c[nH]c2c1cccc2)(C(=O)NC[C@@H](c3ccccc3)NC(=O)CCC(=O)O)NC(=O)OC4
 Diazonaphthoquinone	O=C(C(C=C2)=[N]=[N])C1=C2C=CC=C1
 P-Chlorocresol	Oc1ccc(Cl)c(C)c1
 N-Nitroso-N-methylurea	CN(N=O)C(N)=O
-Neratinib	O=C(/C=C/CN(C)C)Nc4cc1c(ncc(C#N)c1Nc3ccc(OCc2ncccc2)c(Cl)c3)cc4OCC
+Neratinib	CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)C=CCN(C)C
 Alazocine	CC1C2CC3=C(C1(CCN2CC=C)C)C=C(C=C3)O
 Tasimelteon	CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2
 Triamcinolone furetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)COC(=O)C5=CC6=CC=CC=C6O5)CCC7=CC(=O)C=C[C@@]73C)F)O
