@@ -1918,7 +1918,7 @@ Benomyl	O=C(n1c2ccccc2nc1NC(=O)OC)NCCCC
 Proguanil	Clc1ccc(NC(=N/C(=N/C(C)C)N)N)cc1
 Clamoxyquine	Clc1cc(c(O)c2ncccc12)CNCCCN(CC)CC
 Clioquinol	Ic1c(O)c2ncccc2c(Cl)c1
-Cinacalcet	FC(F)(F)c1cccc(c1)CCCN[C@@H](c3c2ccccc2ccc3)C
+Cinacalcet	CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F
 Beclometasone	O=C(OCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(Cl)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C)CC
 Sodium chlorite	[Na+].[O-]Cl=O
 Acenaphthoquinone	O=C3c2cccc1cccc(c12)C3=O
@@ -17176,3 +17176,4 @@ Lotilaner	CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(
 3-Chloromethamphetamine	CNC(Cc1cccc(c1)Cl)C
 4-EA-NBOMe	CCC1=CC=C(C=C1)CC(C)NCC2=CC=CC=C2OC
 4-Ethylamphetamine	CCC1=CC=C(C=C1)CC(C)N
+TH-PVP	CCCC(C(=O)C1=CC2=C(CCCC2)C=C1)N3CCCC3
