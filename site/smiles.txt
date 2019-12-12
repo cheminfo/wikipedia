@@ -4757,6 +4757,7 @@ Hydroxycitric acid	O=C(O)C(O)C(O)(C(=O)O)CC(=O)O
 Triphenyltin hydride	[H][Sn](C2=CC=CC=C2)(C3=CC=CC=C3)C1=CC=CC=C1
 Triphenyltin hydride	c1c(cccc1)[Sn](c2ccccc2)c3ccccc3
 Doripenem	O=S(=O)(N)NC[C@H]3NC[C@@H](S\C2=C(\N1C(=O)[C@H]([C@H](O)C)[C@H]1[C@H]2C)C(=O)O)C3
+Cyclopentadienyl anion	[cH-]1cccc1
 4,4'-Biphenol	Oc2ccc(c1ccc(O)cc1)cc2
 Manganese(II) sulfate	[Mn+2].[O-]S([O-])(=O)=O
 Karanjin	C1(=C(OC2=C(C1=O)C=CC3=C2C=CO3)C4=CC=CC=C4)OC
@@ -11064,6 +11065,7 @@ Carfilzomib	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)[C@@]1(OC1)C)CC(
 Sodium bismuthate	[O-][Bi](=O)=O.[Na+]
 Ammonium phosphomolybdate	[NH4+].[NH4+].[NH4+].[O-]P(=O)([O-])[O-].O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O
 DOTA-TATE	C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)[C@@H](CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)O)CC(=O)O)CC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)O
+DOTA-TATE	CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)NC(C(C)O)C(=O)O)O.[Lu+3]
 Vemurafenib	CCCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(Cl)cc4
 Aluminium diacetate	CC(=O)O[Al](O)OC(C)=O
 Ammonium hexafluoroaluminate	[NH4+].[NH4+].[NH4+].F[Al-3](F)(F)(F)(F)F
