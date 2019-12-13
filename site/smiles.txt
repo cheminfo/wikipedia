@@ -1969,7 +1969,6 @@ Benzoin (organic compound)	c1ccc(cc1)C(C(=O)c2ccccc2)O
 Daunorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)C)O)N)O
 Desonide	O=C\1\C=C/[C@]2(/C(=C/1)CC[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)(C)C)C(=O)CO)C)C
 2,2,4-Trimethylpentane	CC(C)CC(C)(C)C
-Mitragynine	CC[C@@H]1CN2CCC3=C([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
 N,N'-Dicyclohexylcarbodiimide	N(=C=N\C1CCCCC1)\C2CCCCC2
 Orphenadrine	O(CCN(C)C)C(c1ccccc1)c2ccccc2C
 Bupivacaine	O=C(C1N(CCCC1)CCCC)NC2=C(C)C=CC=C2C
@@ -16899,7 +16898,7 @@ Xylylene dichloride	C1=CC=C(C(=C1)CCl)CCl
 2,5-Bis(hydroxymethyl)pyrrole	C1=C(NC(=C1)CO)CO
 Hexahydroporphine	C1C2=CC=C(N2)CC3=CC=C(N3)CC4=CC=C(N4)CC5=CC=C1N5
 SH-I-048A	Fc3ccccc3C2=N[C@@H](C)C(=O)Nc1ccc(Br)cc12
-Flualprazolam	Fc4ccccc4C1=NCc3nnc(C)n3c2ccc(Cl)cc12
+Flualprazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F
 Difludiazepam	Fc3cccc(F)c3C2=NCC(=O)N(C)c1ccc(Cl)cc12
 GL-II-73	CN(C)C(=O)c4ncn2c4[C@@H](C)N=C(c1cc(C#C)ccc12)c3ccccc3F
 Fluclotizolam	Fc4ccccc4C2=NCc1nnc(C)n1c3sc(Cl)cc23
@@ -17187,3 +17186,4 @@ TH-PVP	CCCC(C(=O)C1=CC2=C(CCCC2)C=C1)N3CCCC3
 Bis(diethylamino)chlorophosphine	C1=CC=C(C(=C1)P(Cl)Cl)P(Cl)Cl
 Dimethylaminophosphorus dichloride	CN(C)P(Cl)Cl
 Sulfachlorpyridazine	C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl
+Tris(dimethylamino)phosphine	CN(C)P(N(C)C)N(C)C
