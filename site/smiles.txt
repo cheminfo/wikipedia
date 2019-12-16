@@ -11416,7 +11416,7 @@ Cycrimine	OC(CCN1CCCCC1)(C2CCCC2)c3ccccc3
 Desacetylmetipranolol	O(c1c(c(c(O)c(c1)C)C)C)CC(O)CNC(C)C
 N-Desalkylflurazepam	Fc1ccccc1C2=NCC(=O)Nc3ccc(Cl)cc23
 Nooglutyl	O=C(c1cncc(O)c1)N[C@H](C(=O)O)CCC(=O)O
-Tofacitinib	CC2CCN(C(=O)CC#N)CC2N(C)c3ncnc1[nH]ccc13
+Tofacitinib	CC1CCN(CC1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N
 Iofetamine (123I)	CC(C)NC(C)Cc1ccc(cc1)I
 Benzo(a)fluoranthene	c4cccc5cc1c3c(ccc1)c2ccccc2c3c45
 Dibenz(a,h)anthracene	c1ccc2c(c1)ccc3c2cc4ccc5ccccc5c4c3
@@ -17186,5 +17186,7 @@ TH-PVP	CCCC(C(=O)C1=CC2=C(CCCC2)C=C1)N3CCCC3
 Bis(diethylamino)chlorophosphine	C1=CC=C(C(=C1)P(Cl)Cl)P(Cl)Cl
 Dimethylaminophosphorus dichloride	CN(C)P(Cl)Cl
 Sulfachlorpyridazine	C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl
+Barium carbide	[C-]#[C-].[Ba+2]
 Tris(dimethylamino)phosphine	CN(C)P(N(C)C)N(C)C
 Dihydrocaffeic acid	C1=CC(=C(C=C1CCC(=O)O)O)O
+Verkade base	CN1CCN2CCN(P1N(CC2)C)C
