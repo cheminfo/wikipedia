@@ -16265,7 +16265,7 @@ Dichlone	C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
 Folpet	C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
-Ivosidenib	C1CC(=O)N([C@@H]1C(=O)N(C2=CC(=CN=C2)F)[C@@H](C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N
+Ivosidenib	C1CC(=O)N(C1C(=O)N(C2=CC(=CN=C2)F)C(C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N
 Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
 Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
 Platinum(II) sulfide	S=[Pt]
@@ -17191,3 +17191,4 @@ Barium carbide	[C-]#[C-].[Ba+2]
 Tris(dimethylamino)phosphine	CN(C)P(N(C)C)N(C)C
 Dihydrocaffeic acid	C1=CC(=C(C=C1CCC(=O)O)O)O
 Verkade base	CN1CCN2CCN(P1N(CC2)C)C
+Vinyl tributyltin	CCCC[Sn](CCCC)(CCCC)C=C
