@@ -23,7 +23,7 @@ Cytosine	c1cnc(=O)[nH]c1N
 Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
 Cholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
-Ciprofloxacin	c1c2c(cc(c1F)N3CCNCC3)n(cc(c2=O)C(=O)O)C4CC4
+Ciprofloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
 Caffeine	CN1C=NC2=C1C(=O)N(C(=O)N2C)C
 Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
@@ -461,6 +461,7 @@ Phenolphthalein	O=C1OC(c2ccccc12)(c3ccc(O)cc3)c4ccc(O)cc4
 Magnesium sulfate	[Mg+2].[O-]S([O-])(=O)=O
 Minocycline	CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C
 Sodium cyclamate	[Na+].O=S([O-])(=O)NC1CCCCC1
+Herapathite	COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.I[I-]I.I[I-]I.I[I-]I.I[I-]I
 Potassium bromide	[K+].[Br-]
 Tramadol	CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O
 Stercobilin	CC[C@@H]1[C@H](C(=O)N[C@H]1Cc2c(c(c([nH]2)/C=C\3/C(=C(C(=N3)C[C@H]4[C@@H]([C@H](C(=O)N4)CC)C)C)CCC(=O)O)CCC(=O)O)C)C
@@ -17192,3 +17193,5 @@ Tris(dimethylamino)phosphine	CN(C)P(N(C)C)N(C)C
 Dihydrocaffeic acid	C1=CC(=C(C=C1CCC(=O)O)O)O
 Verkade base	CN1CCN2CCN(P1N(CC2)C)C
 Vinyl tributyltin	CCCC[Sn](CCCC)(CCCC)C=C
+Inotersen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3CC(OC3COP(=S)(O)OC4CC(OC4COP(=S)(O)OC5C(OC(C5OCCOC)N6C=NC7=C6N=C(NC7=O)N)COP(=S)(O)OC8C(OC(C8OCCOC)N9C=C(C(=O)NC9=O)C)COP(=S)(O)OC1C(OC(C1OCCOC)N1C=C(C(=O)NC1=O)C)COP(=O)(OC1C(OC(C1OCCOC)N1C=C(C(=NC1=O)N)C)COP(=S)(O)OC1C(OC(C1OCCOC)N1C=C(C(=O)NC1=O)C)CO)S)N1C=NC2=C1N=C(NC2=O)N)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=NC1=O)N)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C1N=C(NC2=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(C(C(O1)N1C=NC2=C(N=CN=C21)N)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=O)NC1=O)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)O
+MDMB-4en-PINACA	O=C(N[C@@H](C(C)(C)C)C(OC)=O)C1=NN(CCCC=C)C2=C1C=CC=C2
