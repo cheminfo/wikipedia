@@ -16275,7 +16275,7 @@ Dithiobenzoic acid	C1=CC=C(C=C1)C(=S)S
 Diamidophosphate	NP(=O)(N)[O-]
 Methoxyacetylfentanyl	c3ccccc3N(C(=O)COC)C1CCN(CC1)CCc2ccccc2
 Tetrahydrofuranylfentanyl	C1(=CC=CC=C1)N(C(=O)C1OCCC1)C1CCN(CC1)CCC1=CC=CC=C1
-Orthofluorofentanyl	c2ccccc2CCN(CC3)CCC3N(C(=O)CC)c1ccccc1F
+Orthofluorofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
 Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
