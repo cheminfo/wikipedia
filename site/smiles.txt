@@ -659,7 +659,7 @@ Magnesium diboride	[B].[B].[Mg]
 Magnesium diboride	[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[B-]1=[B-][B-]2=[B-][B-]=[B-]3[B-]=[B-][B-]4=[B-][B-]=[B-]5[B-]=[B-][B-]6=[B-][B-]=[B-]1[B-]7=[B-]2[B-]3=[B-]4[B-]5=[B-]67.[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2]
 2C-T-2	CCSc1cc(OC)c(cc1OC)CCN
 Bromothymol blue	Brc1c(O)c(cc(c1C)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4C)C(C)C)C(C)C
-Salbutamol	OCc1cc(ccc1O)C(O)CNC(C)(C)C
+Salbutamol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O
 5-MeO-DMT	COc2ccc1[nH]cc(CCN(C)C)c1c2
 Butadiene	C=CC=C
 Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
@@ -713,7 +713,8 @@ Fluorescein	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
 Iodide	[I-]
 Venlafaxine	OC2(C(c1ccc(OC)cc1)CN(C)C)CCCCC2
 Sodium hydride	[H-].[Na+]
-Indium phosphide	[PH+]12[In-][PH+]3[In-][PH+]([InH-]14)[InH-]1[P+]5([InH-]38)[In-]26[PH+]2[InH-]([P+]4)[PH+]1[In-][PH+]3[InH-]2[P+][InH-]([PH+]6[InH-]([PH+])[PH+]68)[PH+]([In-]6)[InH-]35
+Indium phosphide	[In+3].[P-3]
+Indium phosphide	[In]#P
 Sorbose	C([C@@H]([C@H]([C@@H](C(=O)CO)O)O)O)O
 Oxalic acid	C(=O)(C(=O)O)O
 Pyridinium	c1cc[nH+]cc1
@@ -961,7 +962,7 @@ Tungsten carbide	[C-]#[W+]
 Dicycloverine	O=C(OCCN(CC)CC)C1(CCCCC1)C2CCCCC2
 Flavoxate	O=C(OCCN1CCCCC1)c4cccc2c4O/C(=C(\C2=O)C)c3ccccc3
 Zinc chloride	Cl[Zn]Cl
-Ipratropium bromide	CC(C)[N+]1([C@@H]2CC[C@H]1C[C@H](C2)OC(=O)C(CO)C3=CC=CC=C3)C.[Br-]
+Ipratropium bromide	CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C.[Br-]
 Fosinopril	O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
 Irbesartan	O=C1N(\C(=N/C12CCCC2)CCCC)Cc5ccc(c3ccccc3c4n[nH]nn4)cc5
 Cadmium arsenide	[Cd+2].[Cd+2].[Cd+2].[AsH6-3].[AsH6-3]
@@ -1402,6 +1403,7 @@ Ramipril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@H]12)C)CCc3cccc
 Mercury(I) chloride	Cl[Hg][Hg]Cl
 Candesartan	CCOc2nc1cccc(C(=O)O)c1n2Cc5ccc(c3ccccc3c4nn[nH]n4)cc5
 Felodipine	O=C(OCC)\C1=C(\N/C(=C(/C(=O)OC)C1c2cccc(Cl)c2Cl)C)C
+Budesonide/formoterol	CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C.CC(CC1=CC=C(C=C1)OC)NCC(C2=CC(=C(C=C2)O)NC=O)O
 Formoterol	O=CNc1cc(ccc1O)[C@@H](O)CN[C@H](C)Cc2ccc(OC)cc2
 Selegiline	C#CCN([C@@H](Cc1ccccc1)C)C
 Goserelin	CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O
@@ -1943,8 +1945,8 @@ Hydrogen iodide	I
 Arsenide	[As-3]
 Diethyl azodicarboxylate	O=C(/N=N/C(=O)OCC)OCC
 Gonadorelin	CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
-Indium nitride	[InH2-]1[N+]47[InH-]2[N+][InH-]3[N+]8([InH2-][NH+]([InH2-]4)[InH2-]6)[InH-]4[N+][InH-]5[N+]6([InH2-]6)[In-]78[N+]78[InH-]([NH+]69)[NH+]5[InH2-][NH+]4[InH-]7[NH+]3[InH2-][NH+]2[InH-]8[NH+]1[InH2-]9
-Indium nitride	[InH2-]1[NH+]([InH2-]6)[InH2-][NH+]7[InH-]2[N+][In-]3([N+][InH-]9[N+]5)[N+]18[In-]45[N+][InH-]5[NH+]6[In-]78[N+]78[InH2-][NH+]5[InH2-][N+]4([InH2-][NH+]9[InH2-]4)[InH-]7[N+]34[InH2-][NH+]2[InH2-]8
+Indium nitride	[In+3].[N-3]
+Indium nitride	[In]#N
 Prasugrel	CC(=O)Oc1cc2c(s1)CCN(C2)C(c3ccccc3F)C(=O)C4CC4
 Cyanogen iodide	IC#N
 Sulfamic acid	O=S(=O)(O)N
@@ -2164,7 +2166,7 @@ Tetrazole	[nH]1nnnc1
 Pentazole	n1nn[nH]n1
 Carbon suboxide	O=C=C=C=O
 Hydrogen selenide	[SeH2]
-Calcium phosphide	[Ca+2].[Ca+2].[Ca+2].[PH6-3].[PH6-3]
+Calcium phosphide	[Ca+2].[Ca+2].[Ca+2].[P-3].[P-3]
 Procarbazine	O=C(c1ccc(cc1)CNNC)NC(C)C
 Beryllium oxide	[Be]=[O]
 Beryllium oxide	[Be-]#[O+]
@@ -3098,7 +3100,8 @@ Testosterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=
 Testosterone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Tolcapone	[O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
 Cortisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
-Indium arsenide	[AsH+]12[In-][AsH+]3[In-][AsH+]([InH-]14)[InH-]1[As+]5([InH-]38)[In-]26[AsH+]2[InH-]([As+]4)[AsH+]1[In-][AsH+]3[InH-]2[As+][InH-]([AsH+]6[InH-]([AsH+])[AsH+]68)[AsH+]([In-]6)[InH-]35
+Indium arsenide	[In+3].[As-3]
+Indium arsenide	[In]#[As]
 Exenatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc8ccccc8)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](Cc9cnc[nH]9)N
 Aluminium monostearate	CCCCCCCCCCCCCCCCCC(O[Al](O)O)=O
 O-Toluic acid	O=C(O)c1ccccc1C
@@ -3446,7 +3449,7 @@ Guanfacine	Clc1cccc(Cl)c1CC(=O)\N=C(/N)N
 SB-649868	CC1=NC(=C(S1)C2=CC=C(C=C2)F)C(=O)N3CCCC[C@H]3CNC(=O)C4=C5C=COC5=CC=C4
 Uranyl hydroxide	O[U](O)(=O)=O
 Pramipexole	n1c2c(sc1N)C[C@@H](NCCC)CC2
-Sodium phosphide	[Na+].[Na+].[Na+].[PH6-3]
+Sodium phosphide	[Na+].[Na+].[Na+].[P-3]
 N-Formylmethionine	CSCC[C@H](NC=O)C(O)=O
 Di-tert-butyl peroxide	O(OC(C)(C)C)C(C)(C)C
 Diphenyl oxalate	O=C(Oc1ccccc1)C(=O)Oc2ccccc2
@@ -3896,7 +3899,8 @@ Tricine	O=C(O)CNC(CO)(CO)CO
 Cyclobutyne	C1#CCC1
 Thallium(I) oxide	O([Tl])[Tl]
 Rongalite	[Na+].[O-]S(=O)CO
-Boron phosphide	[PH+]12[B-][PH+]3[B-][PH+]([BH-]14)[BH-]1[P+]5([BH-]38)[B-]26[PH+]2[BH-]([P+]4)[PH+]1[B-][PH+]3[BH-]2[P+][BH-]([PH+]6[BH-]([PH+])[PH+]68)[PH+]([B-]6)[BH-]35
+Boron phosphide	[B+3].[P-3]
+Boron phosphide	B#P
 Fosamprenavir	O=C(O[C@H]1CCOC1)N[C@@H](Cc2ccccc2)[C@H](OP(=O)(O)O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3
 Ethyl lactate	CCOC(=O)C(C)O
 Rimexolone	CCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C)C
@@ -9082,6 +9086,7 @@ Hexanitrodiphenylamine	C1=C(C=C(C(=C1[N+](=O)[O-])NC2=C(C=C(C=C2[N+](=O)[O-])[N+
 Calcium permanganate	[Ca+2].O=[Mn](=O)(=O)[O-].[O-][Mn](=O)(=O)=O
 Potassium cobaltinitrite	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co]
 3-Hexyne	CCC#CCC
+Phenolates	C1=CC=C(C=C1)[O-]
 Salicylanilide	C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2O
 Rafoxanide	C1=CC(=CC=C1OC2=C(C=C(C=C2)NC(=O)C3=CC(=CC(=C3O)I)I)Cl)Cl
 Oxyclozanide	C1=C(C=C(C(=C1Cl)O)NC(=O)C2=C(C(=CC(=C2Cl)Cl)Cl)O)Cl
@@ -17195,3 +17200,6 @@ Verkade base	CN1CCN2CCN(P1N(CC2)C)C
 Vinyl tributyltin	CCCC[Sn](CCCC)(CCCC)C=C
 Inotersen	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3CC(OC3COP(=S)(O)OC4CC(OC4COP(=S)(O)OC5C(OC(C5OCCOC)N6C=NC7=C6N=C(NC7=O)N)COP(=S)(O)OC8C(OC(C8OCCOC)N9C=C(C(=O)NC9=O)C)COP(=S)(O)OC1C(OC(C1OCCOC)N1C=C(C(=O)NC1=O)C)COP(=O)(OC1C(OC(C1OCCOC)N1C=C(C(=NC1=O)N)C)COP(=S)(O)OC1C(OC(C1OCCOC)N1C=C(C(=O)NC1=O)C)CO)S)N1C=NC2=C1N=C(NC2=O)N)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=NC1=O)N)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C1N=C(NC2=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OCC1C(C(C(O1)N1C=NC2=C(N=CN=C21)N)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=O)NC1=O)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)OP(=S)(O)OCC1C(C(C(O1)N1C=C(C(=NC1=O)N)C)OCCOC)O
 MDMB-4en-PINACA	O=C(N[C@@H](C(C)(C)C)C(OC)=O)C1=NN(CCCC=C)C2=C1C=CC=C2
+2,2'-Biphenylene phosphorochloridite	C1=CC=C2C(=C1)C3=CC=CC=C3OP(O2)Cl
+BiPhePhos	CC(C)(C)C1=CC(=CC(=C1OP2OC3=CC=CC=C3C4=CC=CC=C4O2)C5=C(C(=CC(=C5)OC)C(C)(C)C)OP6OC7=CC=CC=C7C8=CC=CC=C8O6)OC
+2,2'-Biphenol	C1=CC=C(C(=C1)C2=CC=CC=C2O)O
