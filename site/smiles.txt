@@ -16592,7 +16592,7 @@ Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
 Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
 Chloroeremomycin	CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)OC1CC(C(C(O1)C)O)(C)N)NC7=O)C(=O)O)O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
 VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
-Ubrogepant	C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)c2cc3c(nc2)C[C@@]4(C3)c5cccnc5NC4=O)c6ccccc6
+Ubrogepant	CC1C(CC(C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(CC4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=CC=CC=C6
 TDBzcholine	C[N+](C)(C)CCOC(C1=CC=C(C2(C(F)(F)F)N=N2)C=C1)=O
 BI 99179	CCC(=O)N[C@H]1CC[C@H](C1)C(=O)N(C)C2=CC=C(C=C2)C3=NC4=CC=CC=C4O3
 Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
@@ -17181,6 +17181,7 @@ Cenobamate	C1=CC=C(C(=C1)C(CN2N=CN=N2)OC(=O)N)Cl
 Cyclohexylbenzene	C1CCC(CC1)C2=CC=CC=C2
 Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3]
 ETFELA	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC(F)(F)F
+Cannabichromevarin	CCCC1=CC(=C2C=CC(OC2=C1)(C)CCC=C(C)C)O
 Darobactin	NCCC[C@@H]1[C@H](NC(=O)[C@H](CO)NC(=O)[C@H]2NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CC3=CNC4=C3C=CC=C4O[C@@H]2C2=CNC3=CC=C1C=C23)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
 Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
 2F-QMPSB	FC1(F)CCN(CC1)S(=O)(=O)c2cc(ccc2C)C(=O)Oc4cccc3cccnc34
