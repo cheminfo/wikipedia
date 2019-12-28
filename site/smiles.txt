@@ -1104,6 +1104,7 @@ Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
 Bismuth subsalicylate	O[Bi]1OC(=O)c2ccccc2O1
 Adapalene	O=C(O)c2ccc1cc(ccc1c2)c3cc(c(OC)cc3)C46CC5CC(CC(C4)C5)C6
 Cinnamic acid	O=C(O)\C=C\c1ccccc1
+Rifamycin	CC1C=CC=C(C(=O)NC2=CC(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
 Rifampicin	CN1CCN(CC1)/N=C/c2c(O)c3c5C(=O)[C@@]4(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc2c(O)c3c(O)c(C)c5O4
 Cyclobenzaprine	c3cc\2c(\C=C/c1c(cccc1)C/2=C/CCN(C)C)cc3
 Lithium nitrate	[Li+].[N+](=O)([O-])[O-]
@@ -17211,3 +17212,4 @@ MDMB-4en-PINACA	O=C(N[C@@H](C(C)(C)C)C(OC)=O)C1=NN(CCCC=C)C2=C1C=CC=C2
 BiPhePhos	CC(C)(C)C1=CC(=CC(=C1OP2OC3=CC=CC=C3C4=CC=CC=C4O2)C5=C(C(=CC(=C5)OC)C(C)(C)C)OP6OC7=CC=CC=C7C8=CC=CC=C8O6)OC
 2,2'-Biphenol	C1=CC=C(C(=C1)C2=CC=CC=C2O)O
 Tris(cyanoethyl)phosphine	C(CP(CCC#N)CCC#N)C#N
+Tetraphenyldiphosphine	C1=CC=C(C=C1)P(C2=CC=CC=C2)P(C3=CC=CC=C3)C4=CC=CC=C4
