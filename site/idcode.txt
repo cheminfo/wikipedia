@@ -697,7 +697,7 @@ fjmQb@M^IIPJqIf^v_YgYrNXHBfjjjJCh@	Iodobenzamide
 gFPUecP|PHBgkrCTm@@	Zinc sulfate
 fjma`@K@PiIeefe]Y|TLVjhJhJhH@@	Cyclopentolate
 fj}qb@C^BqNPAFRJIRqISIYSDijsoUJpAETuB@@	Nocodazole
-fhiA`@@H|dwMkZ{IUgMT@@APPp`@	Naproxen
+fhiA`@@H|dwMkZ{IUgMT@@AP@@@	Naproxen
 fluxbBLTDZs`qR@HMJ^rQQQJJJIHrSeV|F`dbjJXT@@	Azathioprine
 dev@@@RfUWJzZABH@@	Skatole
 gKPH@DIRxtl@@	Thiophene
@@ -948,6 +948,7 @@ fI@C~J@	Hydroxyl radical
 gFPUecPNPHBgkrCTm@@	Barium sulfate
 eFJHGHh@	Barium oxide
 eLCphiAdA[g`@	Calcium fluoride
+eMC@hiAdHz@	Calcium fluoride
 dmUDBLxDzTf^^fjjh@@	Bethanechol
 dmeDaBzLBHCneAYuijjh@@	Carbachol
 f`aP`DLZ@cTyEDhhTiiEFZj@Hj@@@	Neostigmine
@@ -1312,6 +1313,7 @@ flu@@@DjUgfuWhItPiBB`@@@@@@	Triphenylmethane
 eDASti@fx@@	Silver(I) fluoride
 fj}a`@D@bUIfUWvUmDhJ\eZijf@HjHBJRh	Piperine
 gGe`CPldpM@@	Ammonium carbonate
+gGe`SPlnwF[JS@t@@	Ammonium carbonate
 fhqq@@DJ\AIeeUyVVfhHHjh@@	Procainamide
 eki[@@khDLBHdlbjfnai`KBbpXlNK@RpdlEKCRpLlKKArp|l@kAZpvlCk@ChIPgBRIhycnNDzSeNtxskN\{s`nbeJ\iJfjVizdZYiV{[cnJHbDbDbDbDbDaHRDQASAHiDmLmNcBkIgJgAoF`ilejmfcjjjjjjjjjjjjjj@@_pau@t@	Aluminium nitride
 egeW@@ghDLBO@hdlbjfnk`KBbpXlNK@RpdlEKCRpLlKKArpFlIkAZpvlCk@ChIPgBRIhycnNDzSeNtxskN\{rPibeJ\iJfjVizd[inV{[cnndhbHRHRHRDaHaHaLQhqHDSpQKPKQhrjsJsirhiYh[kYZxzzjjjjjjjjjjjjjh@AA@TQQeAT@	Aluminium nitride
@@ -1423,6 +1425,7 @@ flehR@IF]ELDXhCprRRiQZJIKJs`qZjjhDBbCH@	Tenofovir disoproxil
 elRZEH@LcghTXDLNAIO@hd`OCIILdddeEED\hhhhflkg`XVjjjjYjjj`PJHEH@@	Tenofovir disoproxil
 fdipr@ENcAFJRlCprRRiQKQQ[^BuUUTruAb@@	Cidofovir
 fdyhR@AZlFLDXhCprRRiIQQIYFmxKUUTBAP@@	Adefovir
+eFBRRInc`@	Tantalum carbide
 fdep@@@\TeLsK[kleXOhaD@@@@@@@	Terpyridine
 eDARHl@zd@@	Lithium chloride
 gCa@@dkH@	Acrolein
@@ -10857,7 +10860,8 @@ fbmPB@FQ@DISJ|jjXhIS`tsMQAET@@@	Tienopramine
 f`iP@@@FrRJEJZIK\dhsoUUTa@T@@@	Ciclindole
 fdePA@B^AHJdLbbbRbRJrcI\EYtDEEUUC@@@	Flucindole
 fhiPR@AFIsPPRBSL{sNiFV]UUULtubBPfP@	Alovudine
-gJ@KPVPlQYlpy`ZLfvgP@_qPTIEfK@	Antimony telluride
+gJPJ@VSLQYlpebRkR@@	Antimony telluride
+gJ@KPVPlQYlpy`ZLfvgP@@	Antimony telluride
 fishqANZMZlDXbwh@`^acjswasddebbrRrbbrtDeYJmA@UMLlq@aZ@	Mordant Brown 33
 gOxHD@aIeZviX@	2-Mercaptopyridine
 gOxHDHaIeZx@@@	2-Chloropyridine
@@ -16341,6 +16345,7 @@ fec@AC@KDE`BpUgVxoS{@MDlahedMD`XeQakYJNXAHAH@@@@@@	Vinylferrocene
 dcOD@B{PQInvYgVjijP@	3-Methylhistidine
 egh\BH@BJIHLie`@cIIhdeDdhdeUeDeipHxdEDmltuP@DAUUUPD@@@	Azeloprazole
 eghPNH@CKLaiem`HcHhhdlhiDdeEhTebqpEUDdTu@PTEPUQUUPUQIGEEBdt`@	Ertugliflozin
+edZ\L@@FnhPDJlbbTRbTQRQTTVtRTrRegdQupLKTDP@DUMP@@@A@d`@	Netarsudil
 ebZXA@DH@DLAEBamhIp{HhlddidddhhhUeLeDeTtcbuUTuSUUUUT@DTQQJYIjKRAq@	Latanoprostene bunod
 dcuB@BxDWTfuUYjji`@	Ethylenediaminediacetic acid
 el^T@LDFF`LR@HjB@NZg@hhhddieDmmLhddhTbFICDbnakghTZBPhI`bZ``@H@@DJFr@	Stains-all
@@ -17184,6 +17189,7 @@ fc{AJAHTDit\}VAXAmN]w^pIQQZBjJKPUQQZ\DFLumRtuKSTmU@@@	Ferric maltol
 fmoqC@JNFHD`bPqHYEHUEEidheEhmDxIV}fM]UTuSUADPtRIHJ@@	ETFELA
 fjm@`@@FrQQRJKZYEIRdeVhJbJJfi@@@	Cannabichromevarin
 gfIgPX@@DECQDJKJWJMvg@E@RYlYB`py\~YEDhieDieEDhUhhcihheDd\eeEdheD]EDXddaSilFWLUITZuVbMEjjijY`jAjJZBZBJfjjZjZ@BbHdXHPWaMD|VjVifVy@@	Darobactin
+gNTMlq\PHHPEgGdEMnp@	Copper(II) thiocyanate
 ffchb@LZ]dlD@BLddJTRJbfTRPeQrVjuUUT@QLP@@	Abrocitinib
 eodTBL@LAhDLb`@bJPRdLddLTRTRvTtjbbRfT\l|VnN^VjBbHjZ@@@`@@@	2F-QMPSB
 dg~@@@Rf~UmeSnj`@jH@@	5-MAPDI

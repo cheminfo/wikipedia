@@ -697,7 +697,7 @@ Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
 Nocodazole	O=C(C2=CC=CS2)C1=CC=C(N=C(NC(OC)=O)N3)C3=C1
-Naproxen	C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen	CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
 Azathioprine	Cn1cnc(N(=O)=O)c1Sc2ncnc3nc[nH]c23
 Skatole	Cc1c[nH]c2ccccc12
 Thiophene	c1ccsc1
@@ -948,6 +948,7 @@ Hydroxyl radical	[OH]
 Barium sulfate	[Ba+2].[O-]S([O-])(=O)=O
 Barium oxide	[Ba]=O
 Calcium fluoride	[Ca+2].[F-].[F-]
+Calcium fluoride	F[Ca]F
 Bethanechol	O=C(OC(C)C[N+](C)(C)C)N
 Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
 Neostigmine	O=C(Oc1cccc(c1)[N+](C)(C)C)N(C)C
@@ -1312,6 +1313,7 @@ Triphenylmethane	c1c(cccc1)C(c2ccccc2)c3ccccc3
 Silver(I) fluoride	[Ag+].[F-]
 Piperine	O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2
 Ammonium carbonate	O=C(O)O.N.N
+Ammonium carbonate	[NH4+].[NH4+].[O-]C(=O)[O-]
 Procainamide	O=C(c1ccc(N)cc1)NCCN(CC)CC
 Aluminium nitride	[AlH2-]1[N+]47[AlH-]2[N+][AlH-]3[N+]8([AlH2-][NH+]([AlH2-]4)[AlH2-]6)[AlH-]4[N+][AlH-]5[N+]6([AlH2-]6)[Al-]78[N+]78[AlH-]([NH+]69)[NH+]5[AlH2-][NH+]4[AlH-]7[NH+]3[AlH2-][NH+]2[AlH-]8[NH+]1[AlH2-]9
 Aluminium nitride	[AlH2-]1[NH+]([AlH2-]6)[AlH2-][NH+]7[AlH-]2[N+][Al-]3([N+][AlH-]9[N+]5)[N+]18[Al-]45[N+][AlH-]5[NH+]6[Al-]78[N+]78[AlH2-][NH+]5[AlH2-][N+]4([AlH2-][NH+]9[AlH2-]4)[AlH-]7[N+]34[AlH2-][NH+]2[AlH2-]8
@@ -1423,6 +1425,7 @@ Tenofovir disoproxil	O=P(O)(O)CO[C@H](C)Cn1c2ncnc(c2nc1)N
 Tenofovir disoproxil	C[C@H](Cn1cnc2c1ncnc2N)OCP(=O)(OCOC(=O)OC(C)C)OCOC(=O)OC(C)C
 Cidofovir	O=C1/N=C(\C=C/N1C[C@H](OCP(=O)(O)O)CO)N
 Adefovir	O=P(O)(O)COCCn1c2ncnc(c2nc1)N
+Tantalum carbide	[Ta+]#[C-]
 Terpyridine	c1ccnc(c1)c2cccc(n2)c3ccccn3
 Lithium chloride	[Li+].[Cl-]
 Acrolein	O=CC=C
@@ -10857,7 +10860,8 @@ Tienopramine	s1ccc2N(c3c(\C=C/c12)cccc3)CCCN(C)C
 Ciclindole	c21c(cccc1)[nH]c3c2CC(N(C)C)CC3
 Flucindole	CN(C)C1CCC2=C(C1)C3=CC(=CC(=C3N2)F)F
 Alovudine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
-Antimony telluride	[SbH3+3].[SbH3+3].[TeH2-2].[TeH2-2].[TeH2-2]
+Antimony telluride	[Te]=[Sb][Te][Sb]=[Te]
+Antimony telluride	[Sb+3].[Sb+3].[Te-2].[Te-2].[Te-2]
 Mordant Brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
 2-Mercaptopyridine	S=C1/C=C\C=C/N1
 2-Chloropyridine	Clc1ncccc1
@@ -16341,6 +16345,7 @@ Vinylferrocene	C=C[C-]1C=CC=C1.C=C[C-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2
 3-Methylhistidine	CN1C=NC=C1CC(C(=O)O)N
 Azeloprazole	Cc1cnc(c(c1OCC2COC(OC2)(C)C)C)CS(=O)c3[nH]c4ccccc4n3
 Ertugliflozin	CCOc1ccc(cc1)Cc2cc(ccc2Cl)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O
+Netarsudil	Cc1ccc(c(c1)C)C(=O)OCc2ccc(cc2)[C@@H](CN)C(=O)Nc3ccc4cnccc4c3
 Latanoprostene bunod	C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
 Ethylenediaminediacetic acid	C(CNCC(=O)O)NCC(=O)O
 Stains-all	CCN1/C(=C/C(=C/C2=[N+](C3=C(S2)C=CC4=CC=CC=C43)CC)/C)/SC5=C1C6=CC=CC=C6C=C5.[Br-]
@@ -17184,6 +17189,7 @@ Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].
 ETFELA	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC(F)(F)F
 Cannabichromevarin	CCCC1=CC(=C2C=CC(OC2=C1)(C)CCC=C(C)C)O
 Darobactin	NCCC[C@@H]1[C@H](NC(=O)[C@H](CO)NC(=O)[C@H]2NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CC3=CNC4=C3C=CC=C4O[C@@H]2C2=CNC3=CC=C1C=C23)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
+Copper(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Cu+2]
 Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
 2F-QMPSB	FC1(F)CCN(CC1)S(=O)(=O)c2cc(ccc2C)C(=O)Oc4cccc3cccnc34
 5-MAPDI	CNC(Cc1ccc2c(c1)CCC2)C
