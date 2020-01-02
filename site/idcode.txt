@@ -2352,7 +2352,7 @@ efUPNH@AJfaeg`PICHiEHhhhblXdiliibieHiyiXyDdTMMUUUSMUSUMUMUUTI@dEaBDiOHeBd@@	Tria
 edZPAH@AJfaick`PICHiEHhhhblXdicEeDXiyiXyDdUUUUSMUSTuMMUBPIAXPaJSrIPi@@	Triamcinolone diacetate
 fdyhP@DTxIPCAcdTRbbURTRYrRffZZjjh@@	Ganciclovir
 fikYP@DTxIUPFCGNQQJJIUIQIZZZLyISSMMUUSUUPK@@	Valganciclovir
-fjmIb@HHXFeo@BLdRRRbRTQrdpPwjVjjjjjjBh@	Timolol
+fjmIb@HHXFeo@BLdRRRbRTQrdpPwjVjjjjjh@@	Timolol
 dg^L@BAKR[kyWtvjh@H@@	AMPT
 diFBaDinDLQI[dffVjZ`@	Bronopol
 gC`BAbQXVIlQIj`@	Iron(III) bromide
@@ -4279,6 +4279,7 @@ gCahHlDRNj@@	Selenium trioxide
 f`a@X`HHpS`iJtYw`HeDQbIYDrRPiRJPvFlmTlmK@@@	Selenium trioxide
 gCaLLLRHbqDfi@@	Selenium oxybromide
 eMCA|habHz@	Samarium(II) chloride
+gJQdHbGsObUkR@@	Samarium(III) oxide
 gJAeUbGrO`vZfsE`@@	Samarium(III) oxide
 gJ@KP~Q|PQ``a@vZfsE`@@	Samarium(III) sulfide
 eMCALlQqHz@	Tin(II) bromide
@@ -14455,7 +14456,7 @@ gCP@H|TuU@@	Bicyclobutane
 dg}@`ALHcHhdieBiSCL@EMTP@@	5-Chloro-αMT
 fncPpAHI@aaZmaJNSM^rJZJKKRJEJZHThyZB@j`BF`@@	Dinitrobisphenol A
 do~JAHAFfxeNR[f^WaUhHHi`@@	Nitroapocynin
-daD@P@qNdDfUzZ@B@@	4-Bromofluorobenzene
+daD@P@qNdDfUzZ@B@@	4-Fluorobromobenzene
 gKaiibK`KnOHKM@@	Copper(II) carbonate
 gNTiuXPyBYrg\^lodEMnp@	Platinum fulminate
 ghjvphx@LC@pDF_JQhMN@t]NbqTf[BSYSyB`@chDX`ctDQ``\DDPcIEEhdeEChheEEEBkLdhbhhheDeUhihdhlehlbieELEBx|QXkPYtf}Ycuy|Apl^HffYjYjjjffjYfhJHfFffZB`djZijhfDA@XP	Lactocillin
@@ -15731,7 +15732,8 @@ eMCCDdQqDf`@	Selenium dibromide
 gC`BAnSDVIlROT@@	Praseodymium(III) bromide
 gC`B@^SDVIlROT@@	Neodymium(III) bromide
 eMCA|lQqHz@	Samarium(II) bromide
-de@FHbinFP_HqDqLq@vNSlx@@	Samarium(III) bromide
+gC`B@~SDVIlROT@@	Samarium(III) bromide
+gB@BP~SDVIlP[NW[`@@	Samarium(III) bromide
 eMCC|lQqHz@	Europium(II) bromide
 gB@BQ~SDVIlPKNW[`@@	Europium(III) bromide
 gB@BPASDVIlP[NW[`@@	Gadolinium(III) bromide
@@ -17220,3 +17222,4 @@ eapAD@HDLK`RV^POBGprRIIQQQIIQQ[QZPqJjIJZQYNJIIK\RNUAMYS_Hnaymu}uU@@@DD@ETEEUUU@
 dg|D@@WHhheEhbtg\D@D@@@@	2,2'-Biphenol
 dkO@`Etp|DjUUUjjj@@	Tris(cyanoethyl)phosphine
 few@A@@^DOAJfYfYUUWsX}rNlzj@@@@@@@@@@	Tetraphenyldiphosphine
+daD@P@qBqDfYvzB@@@	1,2-Dibromobenzene
