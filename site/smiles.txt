@@ -7793,7 +7793,7 @@ Neridronic acid	C(CCC(O)(P(=O)(O)O)P(=O)(O)O)CCN
 Incadronic acid	O=P(O)(O)C(NC1CCCCCC1)P(=O)(O)O
 Echinocandin B	CCCCC/C=C\C/C=C\CCCCCCCC(=O)N[C@@H]1C[C@H]([C@H](NC(=O)[C@@H]2C[C@H](CN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](c4ccc(cc4)O)O)O)[C@@H](C)O)C)O)O
 Papulacandin B	CCC(C)CC/C=C/C=C(\C)/C(C/C=C/C=C/C(=O)O[C@H]1[C@@H]([C@H](O[C@]2([C@@H]1O)c3c(cc(cc3O)O)CO2)CO)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)COC(=O)/C=C/C=C/C=C/C(CC)O)O)O)O)O
-Afamelanotide	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N1[C@H](C(=O)N[C@H](C(=O)N)C(C)C)CCC1)CCCCN)Cc3c2ccccc2[nH]c3)CCCNC(=[N@H])N)Cc4ccccc4)Cc5[nH]cnc5)CCC(=O)O)CCCC)CO)Cc6ccc(O)cc6)[C@@H](NC(=O)C)CO
+Afamelanotide	CCCCC(C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NCC(=O)NC(CCCCN)C(=O)N5CCCC5C(=O)NC(C(C)C)C(=O)N)NC(=O)C(CO)NC(=O)C(CC6=CC=C(C=C6)O)NC(=O)C(CO)NC(=O)C
 Hodgkinsine	CN1CC[C@]2([C@@H]1NC3=CC=CC=C32)C4=C5C(=CC=C4)[C@]6(CCN([C@H]6N5)C)[C@@]78CCN([C@@H]7NC9=CC=CC=C89)C
 VR (nerve agent)	CCN(CC)CCSP(=O)(C)OCC(C)C
 Mercury(I) fluoride	F[Hg][Hg]F
@@ -10061,7 +10061,7 @@ Entinostat	C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC(=O)OCC3=CN=CC=C3
 Disuccinimidyl suberate	C1CC(=O)N(C1=O)OC(=O)CCCCCCC(=O)ON2C(=O)CCC2=O
 Protopine	c15cc3OCOc3cc5CCN(C)Cc2c(CC1=O)ccc4c2OCO4
 Thiopyrylium	[s+]1ccccc1
-2-Phenylethylbromide	BrCCc1ccccc1
+2-Phenylethyl bromide	BrCCc1ccccc1
 Dimethoxymethamphetamine	COc1cc(CC(C)NC)ccc1OC
 N-Methylconiine	CCCC1CCCCN1C
 Conhydrine	O[C@H](CC)[C@H]1NCCCC1
@@ -17223,3 +17223,4 @@ BiPhePhos	CC(C)(C)C1=CC(=CC(=C1OP2OC3=CC=CC=C3C4=CC=CC=C4O2)C5=C(C(=CC(=C5)OC)C(
 Tris(cyanoethyl)phosphine	C(CP(CCC#N)CCC#N)C#N
 Tetraphenyldiphosphine	C1=CC=C(C=C1)P(C2=CC=CC=C2)P(C3=CC=CC=C3)C4=CC=CC=C4
 1,2-Dibromobenzene	C1=CC=C(C(=C1)Br)Br
+2,2,4,4,6,6-Hexamethyl-1,3,5-trithiane	C1(SC(SC(S1)(C)C)(C)C)(C)C
