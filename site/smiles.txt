@@ -287,7 +287,7 @@ Succinic acid	C(CC(=O)O)C(=O)O
 Isoprene	CC(=C)C=C
 Coenzyme Q10	O=C1/C(=C(\C(=O)C(\OC)=C1\OC)C)C\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C
 Haematoxylin	Oc2cc3C[C@]4(O)COc1c(O)c(O)ccc1C4c3cc2O
-Naphthalene	c1ccc2ccccc2c1
+Naphthalene	c1=cc=c2c=cc=cc2=c1
 Trimethoprim	Nc1nc(N)ncc1Cc(cc2OC)cc(OC)c2OC
 Cystine	C(C(C(=O)O)N)SSCC(C(=O)O)N
 Anandamide	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)NCCO
@@ -12208,6 +12208,7 @@ FL3 (flavagline)	O[C@@]12[C@@]([C@H](C3=CC=CC=C3)C[C@H]2O)(C4=CC=C(Br)C=C4)OC5=C
 Rocaglamide	CN(C)C(=O)[C@@H]1[C@H]([C@]2([C@@]([C@@H]1O)(C3=C(C=C(C=C3O2)OC)OC)O)C4=CC=C(C=C4)OC)C5=CC=CC=C5
 Salicyluric acid	c1ccc(c(c1)C(=O)NCC(=O)O)O
 Rosefuran	o1c(c(cc1)C)C\C=C(/C)C
+Sacubitril/valsartan	CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NN=N[N-]3)C(C(C)C)C(=O)[O-].CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NN=N[N-]3)C(C(C)C)C(=O)[O-].CCOC(=O)C(C)CC(CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)[O-].CCOC(=O)C(C)CC(CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)[O-].O.O.O.O.O.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Retosiban	CC[C@H](C)[C@@H]1C(=O)N[C@@H](C(=O)N1[C@H](C2=COC(=N2)C)C(=O)N3CCOCC3)C4CC5=CC=CC=C5C4
 PF-4800567	c4c(Cl)cccc4OCc(c1c3N)nn(c1ncn3)C2CCOCC2
 Bis(chloroethyl) ether	ClCCOCCCl
