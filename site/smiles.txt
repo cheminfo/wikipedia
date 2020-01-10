@@ -1138,7 +1138,7 @@ Methyl formate	O=COC
 2C-N	[O-][N+](=O)c1cc(OC)c(cc1OC)CCN
 Cetirizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCC(=O)O
 Zanamivir	O=C(O)C=1O[C@@H]([C@H](O)[C@H](O)CO)[C@H](NC(=O)C)[C@@H](/N=C(\N)N)C=1
-Oseltamivir	O=C(OCC)/C1=C/[C@@H](OC(CC)CC)[C@H](NC(=O)C)[C@@H](N)C1
+Oseltamivir	CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC
 Cyclobutane	C1CCC1
 Nitrous oxide (medication)	[N-]=[N+]=O
 Glycol stearate	O=C(OCCO)CCCCCCCCCCCCCCCCC
@@ -1683,6 +1683,7 @@ Levothyroxine	NC(Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(O)=O
 Hexafluoro-2-propanol	C(C(F)(F)F)(C(F)(F)F)O
 Oxalyl chloride	ClC(=O)C(=O)Cl
 Trimethylamine	CN(C)C
+Calcium bicarbonate	OC(=O)O[Ca]OC(=O)O
 Calcium bicarbonate	[Ca+2].[O-]C(=O)O.[O-]C(=O)O
 Harmine	COc1ccc2c(c1)[nH]c3c(C)nccc23
 Harmaline	COc3ccc2c1CCN=C(C)c1[nH]c2c3
@@ -2799,6 +2800,7 @@ Amineptine	O=C(CCCCCCNC1C2=C(CCC3=C1C=CC=C3)C=CC=C2)O
 Copper(II) acetate	[O+]1C(C)O[Cu-3]23([OH2+])[O+]C(C)O[Cu-3]1([OH2+])(OC(C)[O+]2)OC(C)[O+]3
 Endosulfan	Cl[C@@]3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@H]2[C@@H2]OS(=O)O[C@@H2][C@H]12
 Triacetin	CC(=O)OC(COC(=O)C)COC(C)=O
+Calcium acetate	CC(=O)O[Ca]OC(=O)C
 Calcium acetate	[Ca+2].[O-]C(=O)C.[O-]C(=O)C
 Metamizole	c1ccccc1N2N(C)C(C)=C(C2=O)N(C)CS(=O)(=O)O
 Butyl acetate	CCCCOC(=O)C
@@ -9438,6 +9440,7 @@ Aucubin	O2\C=C/[C@@H]1[C@@H](C(=C/[C@H]1O)\CO)[C@@H]2O[C@@H]3O[C@@H]([C@@H](O)[C
 Beta-2-Thienylalanine	c1cc(sc1)CC(C(=O)O)N
 Dansyl amide	O=S(=O)(c1cccc2c1cccc2N(C)C)N
 Juvabione	O=C(C[C@@H](C)[C@]1([H])CCC(C(OC)=O)=CC1)CC(C)C
+Magnesium acetate	CC(=O)O[Mg]OC(=O)C
 Magnesium acetate	[Mg+2].[O-]C(=O)C.[O-]C(=O)C
 Elenolic acid	O=C[C@H]1[C@@H](C(=C\O[C@H]1C)/C(=O)OC)CC(=O)O
 Elenolic acid	CC1C(C(C(=CO1)C(=O)OC)CC(=O)O)C=O
@@ -12824,6 +12827,8 @@ Dimethylbutadiene	CC(=C)C(=C)C
 Glyceryl hydroxystearate	O=C(OC(CO)CO)C(O)CCCCCCCCCCCCCCCC
 Strontium oxalate	[Sr+2].[O-]C(=O)C([O-])=O
 Manganese(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mn+2].[Mn+2].[Mn+2]
+Nickel sulfide	[Ni]=S
+Nickel sulfide	[Ni+2].[S-2]
 E-52862	CC1=CC(OCCN2CCOCC2)=NN1C1=CC=C2C=CC=CC2=C1
 Methylglucoside	O[C@@H]1[C@@H](O)[C@H](O)[C@H](OC1OC)CO
 Linsitinib	C[C@]1(C[C@@H](C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=CC(=N5)C6=CC=CC=C6)C=C4)O
@@ -12909,7 +12914,8 @@ Pyr1	O=C(C1=CC=CC=C1)OC(C=C2)=CC3=C2NC4=C3C(C)=C5C(C=CNC5=O)=C4C
 Iguratimod	O=S(=O)(Nc3c(Oc1ccccc1)cc2c(O/C=C(\C2=O)NC=O)c3)C
 Ethiofencarb	O=C(Oc1ccccc1CSCC)NC
 Eldecalcitol	O[C@H]1CC(\C(=C)[C@H](O)[C@H]1OCCCO)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CCCC(O)(C)C)C
-Magnesium bicarbonate	[Mg++].OC([O-])=O.OC([O-])=O
+Magnesium bicarbonate	OC(=O)O[Mg]OC(=O)O
+Magnesium bicarbonate	[Mg+2].OC([O-])=O.OC([O-])=O
 Pentyl hexanoate	CCCCCC(=O)OCCCCC
 STS-135 (drug)	FCCCCCn1cc(c2c1cccc2)C(=O)NC12CC3CC(C2)CC(C1)C3
 Nitroethylene	C=C[N+](=O)[O-]
@@ -16641,6 +16647,7 @@ NNC 45-0095	CCC1=C(C2=CC=C3N2C1=CC=C3)C4=CC=C(C=C4)O
 Β-LGND2	C1=CC(=CC=C1N2C=C(C3=CC(=CC(=C3C2=O)O)O)Br)O
 WAY-204688	C[C@@](C#N)([C@H](C1=CC=CC=C1OC)C2=CC=CC3=CC=CC=C32)C(=O)N4CCC(CC4)C5=CC(=CC=C5)C(F)(F)F
 EC508	O=C([C@H]1N(C(C2=CC=C(S(=O)(N)=O)C=C2)=O)CCC1)O[C@H]3CC[C@@]4([H])[C@]5([H])CCC6=CC(O)=CC=C6[C@@]5([H])CC[C@]34C
+Lucibufagin	C=1(C=CC(OC1)=O)[C@@H]2[C@]3(C([C@H]([C@@]4([C@]5(C[C@@H]([C@@H](C[C@]5(CC[C@]4([C@]3(CC2)O)[H])O)OC(=O)C)OC(=O)C)C)[H])O)=O)C
 EC586	O=C1CC[C@]2(C)[C@@]3([H])CC[C@]4(C)[C@@H](OC([C@@H]5CCCN5C(C6=CC=C(S(N([H])[H])(=O)=O)C=N6)=O)=O)CC[C@@]4([H])[C@]3([H])CCC2=C1
 Progesterone carboxymethyloxime	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/OCC(=O)O)/CC[C@]34C)C
 Progesterone dioxime	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O)/CC[C@]34C)C

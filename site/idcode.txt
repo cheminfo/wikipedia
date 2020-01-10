@@ -1138,7 +1138,7 @@ fdy`b@Hll@HrQQJIQIUKBMIUAPUEUD@@	2C-T-8
 f`aPPBH^@afhRcdfyeWWDihHHjh@@	2C-N
 fmwQb@AI[MXHaIe]fYU_uVhsrXy`@jhJBJjX`@@	Cetirizine
 fn}Ip@EZSdBBFBUjS\kJr|s_AMSUUSUSUQbyARRl`@	Zanamivir
-ffmPP@CN@aQTfVUyWeVeijZjjjjZpJRfh@	Oseltamivir
+ffmPP@CN@aQTfVUyWeVeijZjjjjZ@@	Oseltamivir
 gBP@DiVj`@	Cyclobutane
 eMXYJWdeP@	Nitrous oxide (medication)
 fnmA`@@HDdrjnjjjjuUUUUUU@@@	Glycol stearate
@@ -1683,6 +1683,7 @@ fas`P`@djwhJpUXflKVYEEDeDhTeEEifR}fBBbBBhf`@@	Levothyroxine
 dedHXJBPRPrPzPFPfPrJPsRUUU@@	Hexafluoro-2-propanol
 gGPdEQDFHR[ii@@	Oxalyl chloride
 gCh@AGj@@	Trimethylamine
+diDF`HRfxPJDiVZjY`@	Calcium bicarbonate
 diXFcHpjxPJ@TnGlBTATZZ@@	Calcium bicarbonate
 f`iQ@@NV@eMkZkKARU[u@DTA@@@@	Harmine
 f`iQ@@NV@eMkZkKARU[u@DUSPp@@	Harmaline
@@ -2799,6 +2800,7 @@ fi{``@I@QdTrRRRbbbbTRJZyzt[UUUP@PPD@@@	Amineptine
 fbm@i@hHpRbcNCdEpfxATIQNIiHYSVYJHbHQDSHRDaHRSI\dJZjjjjjjh@G|DaBHq@X@	Copper(II) acetate
 fluAc`OARBHIDLbIQFh`tQDHrJJJSSQXiZgAJCFZjjjjfhfIRBRd@	Endosulfan
 do\F@@Savtf^UVYjjjY`@	Triacetin
+diDB`HRn@hReYjif@@	Calcium acetate
 diXBcHrn@hA\{npIPEQih@@	Calcium acetate
 fjmpR@JZMAFE@BLddjbfbfVfRt[IUjjVj`@`@@	Metamizole
 daxD@@QIgUjj@@	Butyl acetate
@@ -9438,6 +9440,7 @@ fakAH@@DTxJZmzeKJkLk_^tYHt\tuUTuUUUUIDiFKbeMKtblh@	Aucubin
 dmvD`NePBDig{ljfZf`@	Beta-2-Thienylalanine
 fhiPb@LV``@QddebbTVadmF\m@@AE@@@	Dansyl amide
 flyA`@@H\drvnsvpiMSUUSURIQT@@	Juvabione
+diDB`HRn@pReYjif@@	Magnesium acetate
 diXBcHrn@pA\{npIPEQih@@	Magnesium acetate
 fhq@p@@Hx{pTfVvUUaJZfjjekCDJJP@	Elenolic acid
 fhq@p@@Hx{pTfVvUUaJZfjjeh@@	Elenolic acid
@@ -12824,6 +12827,8 @@ deV@`NBlRYWZf`@j@@	4-Iodo-N,N-dimethylaniline
 fesAP@@HhkVQQJJYIEIIIIIIjjjjjjjj@@	Glyceryl hydroxystearate
 gOPYijprA]syA[ff@@	Strontium oxalate
 dkDAjRine]LIbIaIcO@_@EaTVn[ny^wc{@@YHGIFij@@	Manganese(II) phosphate
+eFA@x`bJ@	Nickel sulfide
+eDAPx``VX@@	Nickel sulfide
 figp`@JJL@RTkjljmkZdhZvR}GUUTtt@@AP@@@	E-52862
 dklF@@pUt|dTTRbQjZjjjhdaJeJ@	Methylglucoside
 e`ZZH@@NAHdj`LbdQTRbRTTrLrTtrVEDbcdQSPrswuUSUT`p@D@AL@aAJD@@	Linsitinib
@@ -12909,6 +12914,7 @@ ekhTL@@DG@BfdfVUn_mW[eZNIMGODlmcfhDHj@Bf@BH@@@	Pyr1
 fegPr@L]``Ubs@DYIH]EDdeDdeL\eFcWKUjBBHJAbdP@@	Iguratimod
 do~D`KxpBLdRTtRVagZhHHZ@@	Ethiofencarb
 elZPJ@@@FAK@\dTRbbtJJTTRdVlVRddtjzZfjjjifZjjjjjjnHEaBIELhtehaY^P	Eldecalcitol
+diDF`HRfxPLDiVZjY`@	Magnesium bicarbonate
 diXFcHpjxPL@TnGlBTATZZ@@	Magnesium bicarbonate
 dkLD@@QIeUUVjjj`@	Pentyl hexanoate
 ec`THH@FH``ICHddeEDdehUHdeEIiYyuLLlMmUUPHPuUUUEP@@	STS-135 (drug)
@@ -16641,6 +16647,7 @@ fb}a@@E@RYWYfUWhqQg^Sf@BfZijIP@@	NNC 45-0095
 fj}`R@FZLxhLSHhheDdheFef\eYNZPhIb@B`@@	Β-LGND2
 ei[TDL@OFhk`IABPpdLbdLRTLRVTtbTLTTRbRtSDd\|~IQiyEj`@jjfjz@H@H@B@PRQR@@	WAY-204688
 enSTFH@LCHDMDlfP@cIIKDeeMEDiUEHdcLeLeaI@hneck`XRZUh@IjjZjjjj@BJhhlQRzftnP@	EC508
+efUPE@@@DG@degodR\bbRrbdRbefrTfbJRRbeCFedVSWQusTmUTuUUUUUSMURgBDfd|dTreRzatnP@	Lucibufagin
 ea[\FH@LNCHDMDlnP@cIIKDeeMEDiUEHdcLeIelIHEEtl]\CCRrm@AMUSUUUUUSRUUqXbeTnimKe|`@	EC586
 fc`P@J@PQ^QSIJIJZIPiSQHqVoArUhvjZZjjjjijifeYAbXUMTJP	Progesterone carboxymethyloxime
 figP`@HM@OHeDeMDhTihdXf\t[pTeffjjjjjZjf\TdZN`TeHaUP	Progesterone dioxime
