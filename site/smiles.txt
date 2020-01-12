@@ -1005,7 +1005,7 @@ Desloratadine	Clc4cc2c(C(/c1ncccc1CC2)=C3/CCNCC3)cc4
 Ribitol	O[C@H](CO)[C@@H](O)[C@@H](O)CO
 Cyclosarin	O=P(F)(OC1CCCCC1)C
 Hydroxycarbamide	O=C(N)NO
-Rabeprazole	n1c2ccccc2[nH]c1S(=O)Cc3nccc(c3C)OCCCOC
+Rabeprazole	CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCCCOC
 Gamma-Linolenic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/CCCCC
 Pyran	C1=CC=CCO1
 Pyran	C1=CCC=CO1
@@ -16533,6 +16533,7 @@ Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
+Iridium trihydride	[IrH3]
 Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
 2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
 Hydrazinium azide	N[NH3+].[N-]=[N+]=[N-]
@@ -17239,3 +17240,4 @@ Pinacolborane	[B]1OC(C(O1)(C)C)(C)C
 Tetramethylethylene	CC(=C(C)C)C
 Thexylborane	[B]C(C)(C)C(C)C
 Avapritinib	CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
+Molybdenum(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Mo+4]
