@@ -16360,6 +16360,7 @@ Netarsudil	Cc1ccc(c(c1)C)C(=O)OCc2ccc(cc2)[C@@H](CN)C(=O)Nc3ccc4cnccc4c3
 Latanoprostene bunod	C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
 Ethylenediaminediacetic acid	C(CNCC(=O)O)NCC(=O)O
 Stains-all	CCN1/C(=C/C(=C/C2=[N+](C3=C(S2)C=CC4=CC=CC=C43)CC)/C)/SC5=C1C6=CC=CC=C6C=C5.[Br-]
+Sofosbuvir/velpatasvir/voxilaprevir	CCC1C2CN(C1C(=O)NC3(CC3C(F)F)C(=O)NS(=O)(=O)C4(CC4)C)C(=O)C(NC(=O)OC5CC5CCCCC(C6=NC7=C(C=C(C=C7)OC)N=C6O2)(F)F)C(C)(C)C.CC1CCC(N1C(=O)C(C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=CC5=C(C=C43)OCC6=C5C=CC(=C6)C7=CN=C(N7)C8CC(CN8C(=O)C(C9=CC=CC=C9)NC(=O)OC)COC.CC(C)OC(=O)C(C)NP(=O)(OCC1C(C(C(O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3
 Bruceolide	CC1=C(C(=O)C[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)O)(OC5)C(=O)OC)O)O)C)O
 Eurycomanone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3C45[C@@H]2[C@@]([C@@H](C(=C)[C@@]4([C@H](C(=O)O3)O)O)O)(OC5)O)C)O
 Gutolactone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)C=C(C)C)(OC5)C)O)O)C)O
@@ -17241,3 +17242,9 @@ Tetramethylethylene	CC(=C(C)C)C
 Thexylborane	[B]C(C)(C)C(C)C
 Avapritinib	CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
 Molybdenum(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Mo+4]
+Dibenzylaniline	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C3=CC=CC=C3
+Benzyl sulfide	C1=CC=C(C=C1)CSCC2=CC=CC=C2
+Dibromoacetylene	C(#CBr)Br
+9,10-Dibromoanthracene	C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2Br)Br
+Dibromodiethyl sulfide	C(CBr)SCCBr
+Dibromodiethyl sulfone	C(CBr)[S](=O)(=O)CCBr
