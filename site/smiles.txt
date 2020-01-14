@@ -17248,3 +17248,11 @@ Dibromoacetylene	C(#CBr)Br
 9,10-Dibromoanthracene	C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2Br)Br
 Dibromodiethyl sulfide	C(CBr)SCCBr
 Dibromodiethyl sulfone	C(CBr)[S](=O)(=O)CCBr
+Dibromoiodoethylene	C(=C(/Br)\I)\Br
+Dibromoiodoethylene	C(=C(\Br)/I)\Br
+Dibromoiodoethylene	C(=C(Br)Br)I
+Dibromodiethyl sulfoxide	C(CBr)S(=O)CCBr
+2-Bromoethyl ether	C(CBr)OCCBr
+2,6-Dibromoquinonechlorimide	C1=C(C(=O)C(=CC1=NCl)Br)Br
+Dibutoxy ethyl phthalate	CCCCOCCOC(=O)C1=CC=CC=C1C(=O)OCCOCCCC
+Dibutoxymethane	CCCCOCOCCCC
