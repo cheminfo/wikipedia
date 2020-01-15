@@ -7916,6 +7916,7 @@ Mepitiostane	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4(CCCC4)OC)CC[C@@H]5[C@@]3(C
 Periciazine	C1CN(CCC1O)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C#N
 Croconazole	Clc1cccc(c1)COc3c(\C(=C)n2ccnc2)cccc3
 Oxazepine	C1=CC=NOC=C1
+Oxazepine	C1=COC=CN=C1
 Dimetotiazine	CC(CN1C2=CC=CC=C2SC3=C1C=C(C=C3)S(=O)(=O)N(C)C)N(C)C
 Efonidipine	O=P1(OCC(CO1)(C)C)C/4=C(/N\C(=C(\C(=O)OCCN(c2ccccc2)Cc3ccccc3)C\4c5cccc([N+]([O-])=O)c5)C)C
 Chlormadinone	O=C4\C=C3\C(\Cl)=C/[C@@H]1[C@H](CC[C@@]2([C@@](O)(C(=O)C)CC[C@@H]12)C)[C@@]3(C)CC4
@@ -13425,6 +13426,7 @@ Myrmicacin	CCCCCCCC(CC(=O)O)O
 3,11-Dihydroxydodecanoic acid	O=C(O)CC(O)CCCCCCCC(O)C
 3,10-Dihydroxydecanoic acid	O=C(O)CC(O)CCCCCCCO
 4-Methyl-3-thiosemicarbazide	CNC(=S)NN
+Oxalyldihydrazide	C(=O)(C(=O)NN)NN
 Tridemorph	CCCCCCCCCCCCCN1CC(OC(C1)C)C
 Vincaminol	CC[C@@]12CCCN3[C@@H]1c4c(c5ccccc5n4[C@](C2)(CO)O)CC3
 Strictamine	C/C=C\1/CN2CCC34[C@H]([C@H]1C[C@H]2C3=NC5=CC=CC=C45)C(=O)OC
@@ -17083,6 +17085,7 @@ Copper(II) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Cu]
 3-Aminopentane	CCC(CC)N
 4-Hydroxyphenylacetaldehyde	C1=CC(=CC=C1CC=O)O
 7-Methyl-1,5,7-triazabicyclo(4.4.0)dec-5-ene	CN1CCCN2C1=NCCC2
+1,3-BAC	C1CC(CC(C1)CN)CN
 (Norbornadiene)molybdenum tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1C2C=CC1C=C2.[Mo]
 4-Methoxybenzylthiol	COc1ccc(cc1)CS
 Cyclo(18)carbon	C1#CC#CC#CC#CC#CC#CC#CC#CC#C1
@@ -17256,3 +17259,5 @@ Dibromodiethyl sulfoxide	C(CBr)S(=O)CCBr
 2,6-Dibromoquinonechlorimide	C1=C(C(=O)C(=CC1=NCl)Br)Br
 Dibutoxy ethyl phthalate	CCCCOCCOC(=O)C1=CC=CC=C1C(=O)OCCOCCCC
 Dibutoxymethane	CCCCOCOCCCC
+Diphosphorus tetrafluoride	FP(F)P(F)F
+2-Picolylamine	C1=CC=NC(=C1)CN
