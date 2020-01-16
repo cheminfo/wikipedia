@@ -8055,7 +8055,7 @@ Triphenylmethyl chloride	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)Cl
 Lurosetron	CC1=C(N=CN1)CN2CCC3=C(C2=O)C4=C(N3C)C(=CC=C4)F
 SB-242084	Cc1cc2CCN(c2cc1Cl)C(=O)Nc(cc4)cnc4Oc3cccnc3C
 Acetonedicarboxylic acid	O=C(O)CC(=O)CC(=O)O
-Lorcaserin	Clc1cc2c(cc1)CCNC[C@@H]2C
+Lorcaserin	CC1CNCCC2=C1C=C(C=C2)Cl
 5-Carboxamidotryptamine	C1=CC2=C(C=C1C(=O)N)C(=CN2)CCN
 Zacopride	COC1=CC(=C(C=C1C(=O)NC2CN3CCC2CC3)Cl)N
 Copper(I) sulfide	[Cu+].[Cu+].[S-2]
@@ -17261,3 +17261,7 @@ Dibutoxy ethyl phthalate	CCCCOCCOC(=O)C1=CC=CC=C1C(=O)OCCOCCCC
 Dibutoxymethane	CCCCOCOCCCC
 Diphosphorus tetrafluoride	FP(F)P(F)F
 2-Picolylamine	C1=CC=NC(=C1)CN
+Dibutyl tartrate	CCCCOC(=O)C(C(C(=O)OCCCC)O)O
+Dichloramine-T	CC1=CC=C(C=C1)S(=O)(=O)N(Cl)Cl
+Cyanuric bromide	C1(=NC(=NC(=N1)Br)Br)Br
+24S-hydroxycholesterol	C[C@H](CC[C@@H](C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
