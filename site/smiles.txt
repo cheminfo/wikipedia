@@ -2281,6 +2281,7 @@ Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
+Bromine trifluoride	FBr(F)F
 Bromine pentafluoride	FBr(F)(F)(F)F
 Iron(II) hydroxide	[Fe+2].[OH-].[OH-]
 Acryloyl chloride	ClC(=O)C=C
@@ -4575,6 +4576,7 @@ Tungsten hexacarbonyl	O=C=[W](=C=O)(=C=O)(=C=O)(=C=O)=C=O
 Malvin	COC1=CC(=CC(=C1O)OC)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Malvin	[Cl-].O[C@@H]5[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]5Oc2cc(O)cc3[o+]c(c(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)cc23)c4cc(OC)c(O)c(OC)c4
 Anisindione	O=C2c1ccccc1C(=O)C2c3ccc(OC)cc3
+Boron sulfide	S=BSB=S
 Furazabol	O[C@@]5([C@@]4([C@H]([C@H]3[C@@H]([C@]2(Cc1nonc1C[C@@H]2CC3)C)CC4)CC5)C)C
 Iduronic acid	[O-]C(=O)[C@@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Terpinen-4-ol	CC1=CCC(CC1)(C(C)C)O
@@ -15879,7 +15881,6 @@ Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)C
 10-Methacryloyloxydecyl dihydrogen phosphate	CC(=C)C(=O)OCCCCCCCCCCOP(=O)(O)O
 Triangulene	C1C2=C3C(=CC=C2)CC4=CC=CC5=C4C3=C6C1=CC=CC6=C5
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
-Anatoxin-a(S)	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
 Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
 Sulfoxylic acid	OSO
 Danoprevir	CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
@@ -17265,3 +17266,11 @@ Dibutyl tartrate	CCCCOC(=O)C(C(C(=O)OCCCC)O)O
 Dichloramine-T	CC1=CC=C(C=C1)S(=O)(=O)N(Cl)Cl
 Cyanuric bromide	C1(=NC(=NC(=N1)Br)Br)Br
 24S-hydroxycholesterol	C[C@H](CC[C@@H](C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+Tetra-n-butylammonium iodide	[I-].CCCC[N+](CCCC)(CCCC)CCCC
+Niobium(III) chloride	[Cl-].[Cl-].[Cl-].[Nb+3]
+Niobium(III) chloride	COCCOC.Cl[Nb](Cl)Cl
+Guanitoxin	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
+4F-MDMB-BINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)c1c2ccccc2n(n1)CCCCF
+Crotonylfentanyl	O=C(/C=C/C)N(c1ccccc1)C3CCN(CCc2ccccc2)CC3
+Tantalum(III) chloride	Cl[Ta](Cl)Cl
+Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
