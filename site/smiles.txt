@@ -850,7 +850,7 @@ Rosuvastatin	OC(=O)C[C@H](O)C[C@H](O)\C=C\c1c(C(C)C)nc(N(C)S(=O)(=O)C)nc1c2ccc(F
 Pravastatin	O=C(O)C[C@H](O)C[C@H](O)CC[C@H]2[C@H](/C=C\C1=C\[C@@H](O)C[C@H](OC(=O)[C@@H](C)CC)[C@@H]12)C
 Lovastatin	O=C(O[C@@H]1[C@H]3C(=C/[C@H](C)C1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)[C@@H](C)CC
 Cerivastatin	O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(nc(c(c1c2ccc(F)cc2)COC)C(C)C)C(C)C
-Tretinoin	O=C(O)\C=C(\C=C\C=C(\C=C\C1=C(\CCCC1(C)C)C)C)C
+Tretinoin	CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
 Quinidine	O(c4cc1c(nccc1[C@H](O)[C@@H]2N3CC[C@@H](C2)[C@@H](/C=C)C3)cc4)C
 Omethoate	O=C(NC)CSP(=O)(OC)OC
 Amlodipine	Clc1ccccc1C2/C(C(=O)OC)=C(/C)N/C(COCCN)=C2/C(=O)OCC
@@ -7399,7 +7399,7 @@ Phenanthridine	C1=CC=C2C(=C1)C=NC3=CC=CC=C23
 Allylnorpethidine	O=C(OCC)C2(c1ccccc1)CCN(C\C=C)CC2
 Levophenacylmorphan	C1CC[C@@]23CCN([C@@H]([C@@H]2C1)CC4=C3C=C(C=C4)O)CC(=O)C5=CC=CC=C5
 Centalun	OC(c1ccccc1)C(C#C)(O)C
-Cinchonine	n2c1c(cccc1)c(cc2)[C@H](O)[C@H]3N4CC[C@@H](C3)[C@@H](C=C)C4
+Cinchonine	O[C@H]([C@H]1C[C@@H]2CC[N@]1C[C@@H]2C=C)c1ccnc2ccccc12
 Benidipine	[O-][N+](=O)c1cccc(c1)[C@@H]4C(/C(=O)OC)=C(\N\C(=C4\C(=O)O[C@@H]3CCCN(Cc2ccccc2)C3)C)C
 Gapicomine	n1ccc(cc1)CNCc2ccncc2
 Linsidomine	C1COCCN1[N+]2=NOC(=C2)[NH-]
@@ -14378,7 +14378,7 @@ FGI-103	N=C(N)c4ccc3oc(C=Cc2nc1cc(C(=N)N)ccc1[nH]2)cc3c4
 Glycoluril	C12C(NC(=O)N1)NC(=O)N2
 Zirconium nitrate	[Zr+4].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
 BIT225	CN1C=C(C=N1)C2=CC=CC3=C2C=CC(=C3)C(=O)NC(=N)N
-L-Photo-Leucine	CC1(C[C@H](N)C(O)=O)N=N1
+L-Photo-leucine	CC1(C[C@H](N)C(O)=O)N=N1
 Dicyclohexylamine	C1CCC(CC1)NC2CCCCC2
 Lomerizine	COC1=C(C(=C(C=C1)CN2CCN(CC2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F)OC)OC
 Bis(cyclooctatetraene)iron	C\1=C\C=C/C=C\C=C1.C\1=C\C=C/C=C\C=C1.[Fe]
@@ -17247,7 +17247,7 @@ Thexylborane	[B]C(C)(C)C(C)C
 Avapritinib	CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
 Molybdenum(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Mo+4]
 Dibenzylaniline	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C3=CC=CC=C3
-Benzyl sulfide	C1=CC=C(C=C1)CSCC2=CC=CC=C2
+Dibenzyl sulfide	C1=CC=C(C=C1)CSCC2=CC=CC=C2
 Dibromoacetylene	C(#CBr)Br
 9,10-Dibromoanthracene	C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2Br)Br
 Dibromodiethyl sulfide	C(CBr)SCCBr
