@@ -6800,7 +6800,7 @@ CX-546	C1CCN(CC1)C(=O)C2=CC3=C(C=C2)OCCO3
 Asulam	O=S(=O)(c1ccc(N)cc1)NC(=O)OC
 Prodine	O=C(CC)O[C@]1(CCN(C[C@H]1C)C)C2=CC=CC=C2
 Mead acid	CCCCCCCCC=CCC=CCC=CCCCC(=O)O
-Plumbagin	O=C\2c1c(O)cccc1C(=O)/C(=C/2)C
+Plumbagin	O=C1C(C)=CC(C2=C1C=CC=C2O)=O
 Iron(III) sulfate	[Fe+3].[Fe+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Ataluren	Fc3ccccc3c1nc(no1)c2cc(ccc2)C(=O)O
 Chromium(III) sulfate	[Cr+3].[Cr+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.O.O.O.O.O.O.O.O.O.O.O.O
@@ -17274,3 +17274,5 @@ Guanitoxin	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
 Crotonylfentanyl	O=C(/C=C/C)N(c1ccccc1)C3CCN(CCc2ccccc2)CC3
 Tantalum(III) chloride	Cl[Ta](Cl)Cl
 Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
+Dichlorodiethyl sulfone	C(CCl)S(=O)(=O)CCCl
+1,4-Oxathiane	C1CSCCO1
