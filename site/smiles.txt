@@ -2015,7 +2015,7 @@ Xylene cyanol	[Na+].CCNc1ccc(cc1C)/C(=C2/C=C\C(=[NH+]\CC)C(=C2)C)c3ccc(OS([O-])=
 Tin(II) chloride	Cl[Sn]Cl
 Aldicarb	CNC(=O)O/N=C/C(C)(C)SC
 Bortezomib	O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
-1,1'-Bi-2-naphthol	c1ccc2c(c1)ccc(c2c3c4ccccc4ccc3O)O
+1,1'-Bi-2-naphthol	C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O
 Benzothiazole	n1c2ccccc2sc1
 Alloxan	C1(=O)C(=O)NC(=O)NC1=O
 Cavicularin	c1cc2ccc1CCc3cc(ccc3-c4cc-5c(cc4O)CCc6c5c(c(cc6)O)O2)O
@@ -10940,6 +10940,8 @@ Isoceteth-20	CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCC
 Cyclic ozone	O1OO1
 Mangiferin	C1=C2C(=CC(=C1O)O)OC3=C(C2=O)C(=C(C(=C3)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O
 Tert-Butanesulfinamide	O=S(N)C(C)(C)C
+Tert-Butanesulfinamide	O=[S@@](N)C(C)(C)C
+Tert-Butanesulfinamide	O=[S@](N)C(C)(C)C
 Chloryl	O=[Cl+]=O
 Crizotinib	C1(=C(C=CC(=C1[C@H](OC2=C(N=CC(=C2)C3=C[N](N=C3)C4CCNCC4)N)C)Cl)F)Cl
 Cynarine	C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)OC(=O)/C=C/C3=CC(=C(C=C3)O)O)O)O
@@ -12209,6 +12211,8 @@ Ethyl decanoate	O=C(OCC)CCCCCCCCC
 2-Furonitrile	N#Cc1occc1
 O-1269	CCCCCNC(=O)c2nn(c(c2C)-c(cc3)ccc3Cl)-c1ccc(Cl)cc1Cl
 Dichlofluanid	CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl
+Prehnitene	CC1=C(C(=C(C=C1)C)C)C
+Isodurene	CC1=CC(=C(C(=C1)C)C)C
 Antimony potassium tartrate	[K+].[K+].O.O.O.O=C1O[Sb-]23OC1C1O[Sb-]4(OC(C(O2)C(=O)O3)C(=O)O4)OC1=O
 Pentamethylbenzene	Cc1cc(C)c(C)c(C)c1C
 N,N-Dimethylsphingosine	CCCCCCCCCCCCC/C=C/[C@@H]([C@@H](CO)N(C)C)O
@@ -14539,6 +14543,7 @@ Fexaramine	CN(C)C1=CC=C(C=C1)C2=CC=C(C=C2)CN(C3=CC=CC(=C3)/C=C/C(=O)OC)C(=O)C4CC
 PPPA (drug)	c1ccc(cc1)C(CCN)Oc2ccccc2
 N-Methyl-PPPA	CNCCC(Oc1ccccc1)c2ccccc2
 Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CO)OP(=O)(O)OP(=O)(O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)NC(=O)C
+Carbon monophosphide	[C]#P
 Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
@@ -17264,6 +17269,7 @@ Diphosphorus tetrafluoride	FP(F)P(F)F
 2-Picolylamine	C1=CC=NC(=C1)CN
 Dibutyl tartrate	CCCCOC(=O)C(C(C(=O)OCCCC)O)O
 Dichloramine-T	CC1=CC=C(C=C1)S(=O)(=O)N(Cl)Cl
+Phosphorus monoxide	O=[P]
 Cyanuric bromide	C1(=NC(=NC(=N1)Br)Br)Br
 24S-hydroxycholesterol	C[C@H](CC[C@@H](C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Tetra-n-butylammonium iodide	[I-].CCCC[N+](CCCC)(CCCC)CCCC
@@ -17276,3 +17282,4 @@ Tantalum(III) chloride	Cl[Ta](Cl)Cl
 Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
 Dichlorodiethyl sulfone	C(CCl)S(=O)(=O)CCCl
 1,4-Oxathiane	C1CSCCO1
+1,5-Diaminonaphthalene	C1=CC2=C(C=CC=C2N)C(=C1)N
