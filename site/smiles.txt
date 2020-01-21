@@ -4450,6 +4450,7 @@ Trimetrexate	n3c1c(c(c(cc1)CNc2cc(OC)c(OC)c(OC)c2)C)c(nc3N)N
 Dithiane	C1CCSSC1
 Dithiane	C1CSCSC1
 Dithiane	C1CSCCS1
+Benzoxazines	C1C2=CC=CC=C2OCN1C3=CC=CC=C3
 Iodosobenzene	c1ccc(cc1)I=O
 Aminoethylethanolamine	OCCNCCN
 Dicyanoacetylene	N#CC#CC#N
@@ -7496,7 +7497,9 @@ DPI-221	O=C(N(CC)CC)c1ccc(cc1)[C@@H](N3C[C@H](N(Cc2cc(F)ccc2)C[C@@H]3C)C)c4ccccc
 DPI-287	CCN(CC)C(=O)c2ccc(cc2)C(c(ccc4)cc4O)N(CC1C)C(C)CN1Cc3ccccc3
 DPI-3290	C[C@H]1CN([C@@H](CN1[C@@H](C2=CC(=CC=C2)O)C3=CC=CC(=C3)C(=O)N(C)C4=CC(=CC=C4)F)C)CC=C
 N-Phenethyl-14-ethoxymetopon	CCO[C@@]12CCC(=O)[C@]3([C@@]14CCN([C@@H]2CC5=C4C(=C(C=C5)O)O3)CCC6=CC=CC=C6)C
-1-Phenylethylamine	CC(c1ccccc1)N
+1-Phenylethylamine	CC(C1=CC=CC=C1)N
+1-Phenylethylamine	C[C@H](C1=CC=CC=C1)N
+1-Phenylethylamine	C[C@@H](C1=CC=CC=C1)N
 Dimethyl fumarate	O=C(OC)\C=C\C(=O)OC
 3-Methylpyridine	Cc1cccnc1
 2-Phenethyl propionate	O=C(OC(c1ccccc1)C)CC
@@ -8574,6 +8577,7 @@ Ro64-6198	C1C[C@H]2CC[C@@H](C3=CC=CC(=C23)C1)N4CCC5(CC4)C(=O)NCN5C6=CC=CC=C6
 Acetylcarnosine	O=C(NCCC(=O)N[C@H](C(=O)O)Cc1c[nH]cn1)C
 T-HCA	O=C(O)\C=C\CO
 Mycothiol	CC(=O)N[C@@H](CS)C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O[C@@H]2[C@@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)O)O)O)CO)O)O
+Ethyldichloroarsine	CC[As](Cl)Cl
 Clovoxamine	COCCCCC(=NOCCN)C1=CC=C(C=C1)Cl
 Nitroxazepine	[O-][N+](=O)c2ccc1Oc3c(N(C(=O)c1c2)CCCN(C)C)cccc3
 Talopram	CC1(C2=CC=CC=C2C(O1)(CCCNC)C3=CC=CC=C3)C
@@ -16925,6 +16929,8 @@ Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4
 5-Aza-7-deazaguanine	C1=CN2C(=O)NC(=NC2=N1)N
 6-Amino-5-nitropyridin-2-one	C1=CC(=O)NC(=C1[N+](=O)[O-])N
 7-Methylguanine	CN1C=NC2=C1C(=O)N=C(N2)N
+O-Cymene	CC1=CC=CC=C1C(C)C
+M-Cymene	CC1=CC(=CC=C1)C(C)C
 Isopropylmagnesium chloride	C[CH-]C.[Mg+2].[Cl-]
 N-Butylbenzene	CCCCC1=CC=CC=C1
 Propanephosphonic acid anhydride	CCCP1(=O)OP(=O)(OP(=O)(O1)CCC)CCC
