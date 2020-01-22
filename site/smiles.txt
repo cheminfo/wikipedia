@@ -950,7 +950,7 @@ Calcium fluoride	[Ca+2].[F-].[F-]
 Calcium fluoride	F[Ca]F
 Bethanechol	O=C(OC(C)C[N+](C)(C)C)N
 Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
-Neostigmine	O=C(Oc1cccc(c1)[N+](C)(C)C)N(C)C
+Neostigmine	CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C
 Physostigmine	O=C(Oc1cc2c(cc1)N([C@H]3N(CC[C@@]23C)C)C)NC
 Anisomycin	O=C(O[C@@H]1[C@@H](NC[C@H]1O)Cc2ccc(OC)cc2)C
 Teriparatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN/C(=N/[H])/N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3cnc[nH]3)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc4ccccc4)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](Cc6cnc[nH]6)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CO)N
@@ -2209,7 +2209,7 @@ Hygrine	CC(=O)C[C@H]1CCCN1C
 Propanamide	CCC(=O)N
 Butyramide	O=C(N)CCC
 Maltitol	OC[C@H](O)[C@@H](O)[C@]([C@H](O)CO)([H])O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
-Pregabalin	O=C(O)C[C@H](CC(C)C)CN
+Pregabalin	CC(C)CC(CC(=O)O)CN
 Pentobarbital	O=C1NC(=O)NC(=O)C1(C(C)CCC)CC
 Methylprednisolone acetate	C[C@H]1CC2C3CC[C@@]([C@]3(C[C@@H](C2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)C)O
 Methylprednisolone sodium succinate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)[O-])O.[Na+]
@@ -15181,7 +15181,9 @@ Ethyl isovalerate	CC(C)CC(=O)OCC
 Oxycarboxin	CC1=C(S(=O)(=O)CCO1)/C(=N\c2ccccc2)/O
 4-Pyridone	c1c[nH]ccc1=O
 4,5-Dihydroxy-2,3-pentanedione	CC(=O)C(=O)C(CO)O
+2,2-Dimethylpentane	CCCC(C)(C)C
 2,4-Dimethylpentane	CC(C)CC(C)C
+3,3-Dimethylpentane	CCC(C)(C)CC
 Sedaxane	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
 Ru360	C(=O)O.C(=O)O.[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].O.[Cl-].[Cl-].[Cl-].[Ru+5].[Ru+5]
 Wrightiadione	O=C/1c4c(O\C2=C\1c3c(C2=O)cccc3)cccc4
@@ -17289,3 +17291,4 @@ Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
 Dichlorodiethyl sulfone	C(CCl)S(=O)(=O)CCCl
 1,4-Oxathiane	C1CSCCO1
 1,5-Diaminonaphthalene	C1=CC2=C(C=CC=C2N)C(=C1)N
+Color Developing Agent 2	CCN(CC)C1=CC=CC=C1C
