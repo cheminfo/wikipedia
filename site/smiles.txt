@@ -1278,7 +1278,7 @@ Coluracetam	Cc1c(oc2c1c(c3c(n2)CCCC3)NC(=O)CN4CCCC4=O)C
 Bufotenin	CN(C)CCc1c[nH]c2ccc(O)cc12
 Amiloride	Clc1nc(C(=O)\N=C(/N)N)c(nc1N)N
 2-Pentanone	O=C(C)CCC
-Amantadine	NC13CC2CC(CC(C1)C2)C3
+Amantadine	C1C2CC3CC1CC(C2)(C3)N
 Acarbose	O([C@H]1[C@H](O)[C@@H](O)[C@H](O)O[C@@H]1CO)[C@H]4O[C@@H]([C@@H](O[C@H]3O[C@H](C)[C@@H](N[C@H]2/C=C(/CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]3O)[C@H](O)[C@H]4O)CO
 Chlorpropamide	O=S(=O)(c1ccc(Cl)cc1)NC(=O)NCCC
 Chlortalidone	O=S(=O)(N)c1c(Cl)ccc(c1)C2(O)c3ccccc3C(=O)N2
@@ -3906,7 +3906,6 @@ Levorphanol	CN1CC[C@]23CCCC[C@H]2[C@H]1Cc4c3cc(O)cc4
 DESOXY	Cc1c(cc(cc1OC)CCN)OC
 3,3',5,5'-Tetramethylbenzidine	Cc1cc(cc(c1N)C)c2cc(c(c(c2)C)N)C
 Titanium tetraiodide	[Ti](I)(I)(I)I
-Carbon tetraiodide	IC(I)(I)I
 Milrinone	c1cnccc1-c2c(C)[nH]c(=O)c(C#N)c2
 Tricine	O=C(O)CNC(CO)(CO)CO
 Cyclobutyne	C1#CCC1
@@ -16989,6 +16988,8 @@ Cyclopentadienyl magnesium bromide	C1C=CC=[C-]1.[Mg+2].[Br-]
 24-Norcholestane	C[C@H](CCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
 Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
 Crenarchaeol	CC1CCCC(C2CCC(C2)CCCC(COCC(OCC(CCCC3CCC(C3)C4CCCC(C4)(CCC(CCCC(C5CCC(C5)CCCC(COCC(OCC(CCCC6CCC(C6)C(CCCC(CC1)C)C)C)CO)C)C)C)C)C)CO)C)C
+Color Developing Agent 3	CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O
+Color Developing Agent 4	CCN(CCO)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O
 Solvent Yellow 7	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
 Succinyl chloride	ClC(=O)CCC(Cl)=O
 3-Hydroxyasparagine	[C@H](C(C(=O)N)O)(C(=O)O)N
@@ -17291,4 +17292,9 @@ Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
 Dichlorodiethyl sulfone	C(CCl)S(=O)(=O)CCCl
 1,4-Oxathiane	C1CSCCO1
 1,5-Diaminonaphthalene	C1=CC2=C(C=CC=C2N)C(=C1)N
-Color Developing Agent 2	CCN(CC)C1=CC=CC=C1C
+Color Developing Agent 2	CCN(CC)C1=CC(=C(C=C1)N)C
+Color Developing Agent 2	CC[NH+](CC)C1=CC(=C(C=C1)N)C.[Cl-]
+Color Developing Agent 1	CCN(CC)C1=CC=C(C=C1)N
+Zotiraciclib	CN1C/C=C\CCOc2cccc(c2)-c3ccnc(n3)Nc4cccc(c4)C1
+Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
+Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
