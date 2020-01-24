@@ -15113,7 +15113,7 @@ Anordrin	CCC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@](C4)(C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
 Bicalicene	C1=CC2=C3C=C3C4=CC=CC4=C5C=C5C2=C1
-Siponimod	O=C(O)C4CN(C4)Cc2ccc(cc2CC)\C(\C)=N\OCc(cc1C(F)(F)F)ccc1C3CCCCC3
+Siponimod	CCC1=C(C=CC(=C1)C(=NOCC2=CC(=C(C=C2)C3CCCCC3)C(F)(F)F)C)CN4CC(C4)C(=O)O
 Anagestone	CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CCCC4)C
 Anagestone acetate	C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CCCC4)C
 Ethynerone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(C#CCl)O
@@ -16906,6 +16906,7 @@ Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
 Oxygen-15 labelled water	[15OH2]
 1,1'-Binaphthyl	C1=CC=C2C(=C1)C=CC=C2C3=CC=CC4=CC=CC=C43
 Sulfine	C=S=O
+SF-6847	CC(C)(C)c1cc(cc(c1O)C(C)(C)C)C=C(C#N)C#N
 Estradiol 3-glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 4-Chlorophenol	C1=CC(=CC=C1O)Cl
 Dibutylchloromethyltin chloride	CCCC[Sn](CCCC)(CCl)Cl
@@ -17298,3 +17299,4 @@ Color Developing Agent 1	CCN(CC)C1=CC=C(C=C1)N
 Zotiraciclib	CN1C/C=C\CCOc2cccc(c2)-c3ccnc(n3)Nc4cccc(c4)C1
 Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
 Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
+Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
