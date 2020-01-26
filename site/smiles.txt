@@ -2,7 +2,7 @@ Ammonia	N
 Aspirin	O=C(C)Oc1ccccc1C(=O)O
 Acetylene	C#C
 Adenosine triphosphate	O=P(O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
-Ampicillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
+Ampicillin	CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C
 Chemistry of ascorbic acid	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
 Chemistry of ascorbic acid	OC=1C(OC(=O)C=1O)[C@@H](O)CO
 Amphetamine	NC(CC1=CC=CC=C1)C
@@ -803,7 +803,7 @@ Stevioside	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]
 Calcium sulfate	[Ca+2].[O-]S([O-])(=O)=O
 S-Adenosyl methionine	O=C(O)C(N)CC[S+](C)C[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
 Troglitazone	O=C1NC(=O)SC1Cc4ccc(OCC3(Oc2c(c(c(O)c(c2CC3)C)C)C)C)cc4
-Isoniazid	O=C(NN)c1ccncc1
+Isoniazid	C1=CN=CC=C1C(=O)NN
 Sumatriptan	O=S(=O)(NC)Cc1cc2c(cc1)[nH]cc2CCN(C)C
 Propylene oxide	CC1CO1
 Barium hydroxide	[Ba+2].[OH-].[OH-]
@@ -17301,3 +17301,4 @@ Zotiraciclib	CN1C/C=C\CCOc2cccc(c2)-c3ccnc(n3)Nc4cccc(c4)C1
 Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
 Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
 Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
+TMTFA	C[N+](C)(C)C1=CC=CC(=C1)C(=O)C(F)(F)F
