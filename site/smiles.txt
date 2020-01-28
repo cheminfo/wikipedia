@@ -11038,7 +11038,7 @@ Staphyloxanthin	O=C(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)\C(=C\C=C\C(C)(C\
 Toxoflavin	O=C2\N=C1C(=N/C=N\N1C)\C(=O)N2C
 Triflunordazepam	C1C(=O)NC2=C(C=C(C=C2)C(F)(F)F)C(=N1)C3=CC=CC=C3
 Rhodocene	[cH-]1cccc1.[cH-]1cccc1.[Rh+2]
-Lasmiditan	CN3CCC(CC3)C(=O)c(n2)cccc2NC(=O)c1c(F)cc(F)cc1F
+Lasmiditan	CN1CCC(CC1)C(=O)C2=NC(=CC=C2)NC(=O)C3=C(C=C(C=C3F)F)F
 Vitamin A2	CC1=C(C(CC=C1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C
 Triglycine sulfate	O=C(O)CN.O=S(=O)(O)O.O=C(O)CN.O=C(O)CN
 2,2-Dimethoxy-2-phenylacetophenone	O=C(c1ccccc1)C(OC)(OC)c2ccccc2
@@ -17302,3 +17302,4 @@ Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
 Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
 Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
 TMTFA	C[N+](C)(C)C1=CC=CC(=C1)C(=O)C(F)(F)F
+Ethyl acetoxy butanoate	CCOC(=O)CCCOC(=O)C
