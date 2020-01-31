@@ -12314,7 +12314,7 @@ Dimethyl carbate	O=C(OC)[C@@H]2[C@H](C(=O)OC)[C@H]\1C[C@@H]2/C=C/1
 MK-212	Clc1nc(cnc1)N2CCNCC2
 Bitoscanate	C1=CC(=CC=C1N=C=S)N=C=S
 2-(2-Methoxyethoxy)ethanol	COCCOCCO
-Astatine monoiodide	[I-].[At+]
+Astatine iodide	[I-].[At+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(C)=C[C@]23[C@]1(O)[C@H](O)C(CO)=C[C@H](C3=O)[C@H]4[C@H](C4(C)C)C[C@H]2C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
 Beta-Aminobutyric acid	O=C(O)CC(N)C
@@ -12587,7 +12587,7 @@ Alnusiin	C1C2C(C3C(C(O2)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O3)O)O)O)O)O)O)
 Bicornin	c1c(cc(c(c1O)O)O)C(=O)O[C@@H]2[C@H]3[C@@H](COC(=O)c4cc(c(c(c4Oc5c(cc6c(c5O)c7c(cc(c(c7oc6=O)O)O)C(=O)O3)O)O)O)O)O[C@H]([C@@H]2OC(=O)c8cc(c(c(c8)O)O)O)OC(=O)c9cc(c(c(c9)O)O)O
 Beta-Tocotrienol	CC1=CC(=C(C2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C)O
 Uranium trifluoride	F[U](F)F
-Astatine monobromide	[At+].[Br-]
+Astatine bromide	[At+].[Br-]
 4-Ethylmethcathinone	C(C(C)NC)(=O)C1=CC=C(C=C1)CC
 Uranium hexachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U]
 Uranium disulfide	[S-2].[S-2].[U+4]
@@ -17304,3 +17304,4 @@ Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
 Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
 TMTFA	C[N+](C)(C)C1=CC=CC(=C1)C(=O)C(F)(F)F
 Ethyl acetoxy butanoate	CCOC(=O)CCCOC(=O)C
+Chrome Azurol S	CC1=CC(=CC(=C1[O-])C(=O)[O-])C(=C2C=C(C(=O)C(=C2)C(=O)O)C)C3=C(C=CC(=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+].[Na+]
