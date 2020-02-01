@@ -2041,7 +2041,7 @@ N-Butyllithium	CCCC[Li]
 1,2-Dichloroethane	ClCCCl
 Chlorine pentafluoride	FCl(F)(F)(F)F
 Chlorine monofluoride	ClF
-Fluticasone propionate	O=C(SCF)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C
+Fluticasone propionate	CCC(=O)OC1(C(CC2C1(CC(C3(C2CC(C4=CC(=O)C=CC43C)F)F)O)C)C)C(=O)SCF
 Ecamsule	O=S(=O)(O)CC45C(=O)\C(=C/c1ccc(cc1)/C=C2\C(=O)C3(CCC2C3(C)C)CS(=O)(=O)O)C(CC4)C5(C)C
 Caesium chloride	[Cs+].[Cl-]
 Palladium(II) chloride	Cl[Pd]Cl
