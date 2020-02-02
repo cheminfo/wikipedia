@@ -2270,6 +2270,7 @@ Pyrogallol	Oc1cccc(O)c1O
 Alfuzosin	O=C(NCCCN(c2nc1cc(OC)c(OC)cc1c(n2)N)C)C3OCCC3
 Aminophylline	Cn2c(=O)c1nc[nH]c1n(C)c2=O.Cn2c(=O)c1nc[nH]c1n(C)c2=O.NCCN
 Stilbestrol	C1=CC(=CC=C1C=CC2=CC=C(C=C2)O)O
+Tungsten(III) oxide	O=[W]O[W]=O
 Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 1,2,4-Trihydroxyanthraquinone	O=C2c1ccccc1C(=O)c3c2c(O)cc(O)c3O
 Borazine	[BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1
@@ -4239,9 +4240,9 @@ Tungsten(V) bromide	Br[W](Br)(Br)(Br)Br
 Tungsten(V) chloride	Cl[W](Cl)(Cl)(Cl)Cl
 Tungsten(V) chloride	Cl1[W](Cl)(Cl)(Cl)(Cl)Cl[W]1(Cl)(Cl)(Cl)Cl
 Tungsten dichloride dioxide	[O-2].[O-2].[Cl-].[Cl-].[W]
-Tungsten(VI) oxytetrabromide	O=[W].Br.Br.Br.Br
-Tungsten(VI) oxytetrachloride	[O-2].[Cl-].[Cl-].[Cl-].[Cl-].[W]
-Tungsten(VI) oxytetrafluoride	O=[W].F.F.F.F
+Tungsten(VI) oxytetrabromide	O=[W](Br)(Br)(Br)Br
+Tungsten(VI) oxytetrachloride	O=[W](Cl)(Cl)(Cl)Cl
+Tungsten(VI) oxytetrafluoride	O=[W](F)(F)(F)F
 Phenibut	O=C(O)CC(c1ccccc1)CN
 Tantalum(IV) sulfide	S=[Ta]=S
 Tantalum trialuminide	[Al].[Al].[Al].[Ta]
@@ -12865,6 +12866,7 @@ Tantalum(V) ethoxide	[Ta+5].[O-]CC.[O-]CC.[O-]CC.[O-]CC.[O-]CC
 Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
+Tungsten(IV) fluoride	F[W](F)(F)F
 1-Dodecene	CCCCCCCCCCC=C
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
