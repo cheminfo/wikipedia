@@ -15613,7 +15613,7 @@ Bolazine capronate	CCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C\C(=N\N=C5/C[C@@H]6C
 Tesevatinib	CN1C[C@H]2C[C@H](C[C@H]2C1)COc3cc4c(cc3OC)c(ncn4)Nc5ccc(c(c5F)Cl)Cl
 Clostebol acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@]34C)Cl)C
 Mericitabine	CC(C)C(=O)OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=NC2=O)N)(C)F)OC(=O)C(C)C
-Remdesivir	Nc3ncnn2c3ccc2C(C#N)(C1O)OC(C1O)CO[P](=O)(NC(C)C(=O)OCC(CC)CC)Oc4ccccc4
+Remdesivir	Nc1ncnn2c1ccc2C3(C#N)C(O)C(O)C(O3)COP(=O)(Oc4ccccc4)NC(C)C(=O)OCC(CC)CC
 Emricasan	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)COc1c(c(cc(c1F)F)F)F)NC(=O)C(=O)Nc2ccccc2C(C)(C)C
 Methylclostebol	C[C@]12CCC(=O)C(=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)Cl
 Testosterone formate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC=O)CCC4=CC(=O)CC[C@]34C
@@ -16313,6 +16313,7 @@ Folpet	C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
 Ivosidenib	C1CC(=O)N(C1C(=O)N(C2=CC(=CN=C2)F)C(C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N
 Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
 Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
+Rhodium(III) sulfide	S=[Rh]S[Rh]=S
 Platinum(II) sulfide	S=[Pt]
 Platinum disulfide	S=[Pt]=S
 Dithiobenzoic acid	C1=CC=C(C=C1)C(=S)S
@@ -17307,3 +17308,6 @@ Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
 TMTFA	C[N+](C)(C)C1=CC=CC(=C1)C(=O)C(F)(F)F
 Ethyl acetoxy butanoate	CCOC(=O)CCCOC(=O)C
 Chrome Azurol S	CC1=CC(=CC(=C1[O-])C(=O)[O-])C(=C2C=C(C(=O)C(=C2)C(=O)O)C)C3=C(C=CC(=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+].[Na+]
+1,8-Naphthalic anhydride	C1=CC2=C3C(=C1)C(=O)OC(=O)C3=CC=C2
+Pimodivir	C1CC2CCC1[C@@H]([C@H]2NC3=NC(=NC=C3F)C4=CNC5=C4C=C(C=N5)F)C(=O)O
+Presatovir	CC1=CN2C(=CC(=N2)[C@@H]3CCCCN3C(=O)C4=C(C=CC(=C4)Cl)NS(=O)(=O)C)N=C1N5CC[C@@H](C5)N
