@@ -1011,7 +1011,7 @@ Gamma-Linolenic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/CCCCC
 Pyran	C1=CC=CCO1
 Pyran	C1=CCC=CO1
 Chlorpyrifos	Clc1c(OP(=S)(OCC)OCC)nc(Cl)c(Cl)c1
-Fluconazole	Fc1cc(F)ccc1C(O)(Cn2cncn2)Cn3cncn3
+Fluconazole	C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O
 5-MeO-aMT	N[C@@H](C)CC1=CNC(C=C2)=C1C=C2OC
 5-Hydroxytryptophan	O=C(O)[C@@H](N)Cc2c1cc(O)ccc1[nH]c2
 Cefazolin	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cn3nnnc3)CSc4nnc(s4)C)C(=O)O
