@@ -4401,6 +4401,7 @@ Pendimethalin	CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
 Dichlorvos	O=P(O\C=C(/Cl)Cl)(OC)OC
 Methorphan	CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
 Phenoxyethanol	c1ccc(cc1)OCCO
+Holothurin	C[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H]([C@@H](CO[C@H]4O[C@H]5CC[C@]6([C@H](C5(C)C)CC[C@@H]7C6=C[C@@H]([C@@]89[C@]7(CC[C@@]8([C@](OC9=O)(C)[C@@H]1CCC(O1)(C)C)O)C)O)C)OS(=O)(=O)[O-])O)C)C)O)O)OC)O.[Na+]
 Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@H](C4)O)C
 Neurotensin	CC[C@H](C)[C@@H](/C(=N/[C@@H](CC(C)C)C(=O)O)/O)/N=C(/[C@H](Cc1ccc(cc1)O)/N=C(/[C@@H]2CCCN2C(=O)[C@H](CCCNC(=N)N)/N=C(/[C@H](CCCNC(=N)N)/N=C(/[C@@H]3CCCN3C(=O)[C@H](CCCCN)/N=C(/[C@H](CC(=N)O)/N=C(/[C@H](CCC(=O)O)/N=C(/[C@H](Cc4ccc(cc4)O)/N=C(\[C@H](CC(C)C)/N=C(\[C@@H]5CCC(=N5)O)/O)/O)\O)\O)\O)\O)\O)\O)\O
 Picamilon	O=C(NCCCC(=O)O)c1cccnc1
@@ -8943,7 +8944,7 @@ Episterol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(C
 Hyodeoxycholic acid	O=C(O)CC[C@@H](C)[C@@H]4[C@]3(CC[C@H]1[C@@H](C[C@H](O)[C@@H]2C[C@H](O)CC[C@]12C)[C@@H]3CC4)C
 Carbethopendecinium bromide	[Br-].O=C(OCC)C(CCCCCCCCCCCCCC)[N+](C)(C)C
 Isobenzofuran	o2cc1ccccc1c2
-Fluticasone furoate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)SCF)OC(=O)C5=CC=CO5)C)O)F)C)F
+Fluticasone furoate	CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)SCF)OC(=O)C5=CC=CO5)C)O)F)C)F
 Diflucortolone valerate	O=C(OCC(=O)[C@@H]3[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C)CCCC
 Amprolium	[Cl-].n1c(c(cnc1CCC)C[n+]2ccccc2C)N
 Arprinocid	C1=CC(=C(C(=C1)Cl)CN2C=NC3=C2N=CN=C3N)F
@@ -14699,7 +14700,7 @@ Argpyrimidine	CC1=C(C(=NC(=N1)NCCC[C@@H](C(=O)O)N)C)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
 Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
-Lumateperone	c3cc(F)ccc3C(=O)CCCN5CC2C(CC5)N1CCN(C)c4c1c2ccc4
+Lumateperone	[H][C@]12CCN(CCCC(=O)C3=CC=C(F)C=C3)C[C@@]1([H])C1=CC=CC3=C1N2CCN3C
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 MIN-117	CC1=NN=C(O1)C2=CC3=C(O2)C=CC=C3OC[C@H](CN4CCC(CC4)C5=CC(=C(C=C5)Cl)Cl)O
@@ -17311,3 +17312,8 @@ Chrome Azurol S	CC1=CC(=CC(=C1[O-])C(=O)[O-])C(=C2C=C(C(=O)C(=C2)C(=O)O)C)C3=C(C
 1,8-Naphthalic anhydride	C1=CC2=C3C(=C1)C(=O)OC(=O)C3=CC=C2
 Pimodivir	C1CC2CCC1[C@@H]([C@H]2NC3=NC(=NC=C3F)C4=CNC5=C4C=C(C=N5)F)C(=O)O
 Presatovir	CC1=CN2C(=CC(=N2)[C@@H]3CCCCN3C(=O)C4=C(C=CC(=C4)Cl)NS(=O)(=O)C)N=C1N5CC[C@@H](C5)N
+Diphenic acid	C1=CC=C(C(=C1)C2=CC=CC=C2C(=O)O)C(=O)O
+Ziresovir	CC1=CC2=C(C=C1)N=C(N=C2NCC3(COC3)N)N4CCS(=O)(=O)C5=CC=CC=C5C4
+Xenon tetrachloride	Cl[Xe](Cl)(Cl)Cl
+Copper(II) cyanurate	[Cu+2].[O-]c1nc(O)nc([O-])n1
+Lumicitabine	CC(C)C(=O)OC[C@@]1([C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)N)F)OC(=O)C(C)C)CCl
