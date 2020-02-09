@@ -577,7 +577,7 @@ Acetylcysteine	C/C(=N/[C@@H](CS)C(=O)O)/O
 Radium chloride	Cl[Ra]Cl
 Diacetyl	CC(=O)C(=O)C
 Dipropyltryptamine	CCCN(CCC)CCC1=CNC2=C1C=CC=C2
-Ethidium bromide	CC[n+]1c2cc(ccc2c3ccc(cc3c1c4ccccc4)N)N.[Br-]
+Ethidium bromide	CC[n+]1c2cc(N)ccc2c3ccc(N)cc3c1c4ccccc4.[Br-]
 Nicotinamide adenine dinucleotide	O=C(N)c1ccc[n+](c1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP([O-])(=O)OP(=O)([O-])OC[C@H]5O[C@@H](n4cnc3c(ncnc34)N)[C@H](O)[C@@H]5O
 Nicotinamide adenine dinucleotide	O=C(N)C1CC=C[N](C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP([O-])(=O)OP(=O)([O-])OC[C@H]5O[C@@H](n4cnc3c(ncnc34)N)[C@H](O)[C@@H]5O
 Colchicine	O=C(N[C@@H]3C\1=C\C(=O)C(\OC)=C/C=C/1c2c(cc(OC)c(OC)c2OC)CC3)C
@@ -2277,7 +2277,6 @@ Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 Borazine	[BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1
 Potassium peroxymonosulfate	[K+].[O-]S(=O)(=O)OO
 Ozonide	[O-]O[O]
-Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
@@ -5022,6 +5021,7 @@ Saredutant	Clc1ccc(cc1Cl)[C@H](CCN3CCC(c2ccccc2)(NC(=O)C)CC3)CN(C(=O)c4ccccc4)C
 Stemarene	CC1=CC2CCC3C(CCCC3(C24CCC1C4)C)(C)C
 Stemodene	[H][C@@]12CC[C@@]3([H])C(C)(C)CCC[C@]3(C)[C@]1(CCC4=C)C[C@@H]4C2
 Dimethoate	O=C(NC)CSP(=S)(OC)OC
+SYBR Green I	CN(C)CCCN(CCC)c1n(-c2ccccc2)c3ccccc3c(c1)=Cc4sc5ccccc5[n+]4C
 Slotoxin	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]1CSSC[C@H]2C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H]3CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@@H](NC3=O)CCCCN)C(=O)N[C@@H](Cc5ccc(cc5)O)C(=O)N[C@@H](C(C)C)C(=O)O)C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N2)CCCCN)CCCNC(=N)N)CC(=O)O)C(C)C)Cc6ccccc6)C)C)CCCCN)C)Cc7c[nH]c8c7cccc8)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC1=O)[C@@H](C)O)C(C)C)CO)CCCCN)CCC(=O)O)CCCCN)CCCCN)CCSC)NC(=O)[C@H](Cc9ccccc9)NC(=O)[C@H]([C@@H](C)O)N
 Triethylammonium acetate	O=C([O-])C.CC[N+H](CC)CC
 Guggulsterone	O=C1C[C@@]2([H])[C@]3([H])CCC4=CC(CC[C@]4(C)[C@@]3([H])CC[C@]2(C)/C1=C\C)=O
@@ -17320,3 +17320,4 @@ Copper(II) cyanurate	[Cu+2].[O-]c1nc(O)nc([O-])n1
 Lumicitabine	CC(C)C(=O)OC[C@@]1([C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)N)F)OC(=O)C(C)C)CCl
 Oxyprothepin decanoate	CCCCCCCCCC(=O)OCCCN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)SC
 Silvestrol	CO[C@H]1[C@@H](O[C@H](CO1)[C@@H](CO)O)OC2=CC3=C(C(=C2)OC)[C@@]4([C@@H]([C@@H]([C@H]([C@@]4(O3)C5=CC=C(C=C5)OC)C6=CC=CC=C6)C(=O)OC)O)O
+Apilimod	CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
