@@ -2256,7 +2256,7 @@ Phenmetrazine	CC1C(C2=CC=CC=C2)OCCN1
 Technetium(VII) oxide	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Tc+7].[Tc+7]
 Valnoctamide	CCC(C)C(CC)C(N)=O
 Guanidine	NC(N)=N
-Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(ccc2c3ccc(cc3c1c4ccccc4)N)N.[I-].[I-]
+Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(N)ccc2c3ccc(N)cc3c1c4ccccc4.[I-].[I-]
 Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
 Orthosilicic acid	O[Si](O)(O)O
@@ -10263,6 +10263,7 @@ Carbonyl bromide	BrC(Br)=O
 Basketene	C2=CC5C1C4C3C1C2C3C45
 Dibutylamine	CCCCNCCCC
 Praseodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Pr+3].[Pr+3]
+Calcium monophosphide	[Ca][P]
 Imiprothrin	O=C(OCN1C(=O)CN(C1=O)CC#C)C2C(\C=C(/C)C)C2(C)C
 Gold(I) bromide	Br[Au]
 Pyriprole	Clc2cc(C(F)(F)F)cc(Cl)c2-n(nc(C#N)c1SC(F)F)c1NCc3ncccc3
@@ -11861,7 +11862,7 @@ Ammonium thiosulfate	[O-]S([O-])(=O)=S.[NH4+].[NH4+]
 Calcium cyanide	[Ca+2].[C-]#N.[C-]#N
 Carbosulfan	O=C(Oc2cccc1c2OC(C1)(C)C)N(SN(CCCC)CCCC)C
 Metofluthrin	Fc1c(F)c(c(F)c(F)c1COC(=O)C2C(C=CC)C2(C)C)COC
-Tefluthrin	Cl\C(=C/[C@@H]2[C@H](C(=O)OCc1c(F)c(F)c(c(F)c1F)C)C2(C)C)C(F)(F)F
+Tefluthrin	CC1=C(C(=C(C(=C1F)F)COC(=O)[C@@H]2[C@@H](C2(C)C)/C=C(/C(F)(F)F)\Cl)F)F
 Silafluofen	Fc2ccc(cc2Oc1ccccc1)CCC[Si](c3ccc(OCC)cc3)(C)C
 Diborane(4)	[H]1[BH]2[H][BH]12
 Phorate	S=P(OCC)(SCSCC)OCC
@@ -12956,7 +12957,7 @@ Cyclopropyl cyanide	N#CC1CC1
 1,1-Ethanedithiol	SC(S)C
 Triacetic acid lactone	C/C1=CC(\O)=C/C(=O)O1
 LY-235959	[H][C@]12[C@](CC[C@H](CP(O)(O)=O)C2)([H])CN[C@H](C(O)=O)C1
-GelRed	NC1=CC2=C(C(C=CC(N)=C3)=C3C(C4=CC=CC=C4)=[N+]2CCCCCC(NCCCOCCOCCOCCCNC(CCCCC[N+]5=C(C6=CC=CC=C6)C7=C(C=CC(N)=C7)C8=C5C=C(N)C=C8)=O)=O)C=C1.[I-].[I-]
+GelRed	c1ccccc1-c2c3cc(N)ccc3c4ccc(N)cc4[n+]2CCCCCC(=O)NCCCOCCOCCOCCCNC(=O)CCCCC[n+]5c6cc(N)ccc6c7ccc(N)cc7c5-c8ccccc8.[I-].[I-]
 GelGreen	O=C(NCCCOCCOCCOCCCNC(CCCCC[N+]1=C2C(C=CC(N(C)C)=C2)=CC3=C1C=C(N(C)C)C=C3)=O)CCCCC[N+]4=C5C(C=CC(N(C)C)=C5)=CC6=C4C=C(N(C)C)C=C6.[I-].[I-]
 2,6-Diacetylpyridine	CC(=O)c1cccc(n1)C(=O)C
 Phlorofucofuroeckol A	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=CC(=C5C(=C43)OC6=C(O5)C(=C(C=C6O)O)OC7=CC(=CC(=C7)O)O)O)O)O)O
