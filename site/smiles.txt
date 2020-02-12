@@ -390,7 +390,7 @@ Enfuvirtide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[
 Methylphenidate	O=C(OC)C(C1CCCCN1)C2=CC=CC=C2
 Diacetylene	C#CC#C
 Lewisite	Cl[As](Cl)\C=C\Cl
-Streptomycin	C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O
+Streptomycin	CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O
 Sodium hypochlorite	[Na+].[O-]Cl
 Hydrogen chloride	Cl
 Maltose	O([C@H]1[C@H](O)[C@@H](O)C(O)O[C@@H]1CO)[C@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
@@ -1863,6 +1863,7 @@ Mercaptopurine	S=c1nc[nH]c2nc[nH]c12
 Chromium trioxide	O=[Cr](=O)=O
 Methylprednisolone	O=C\1\C=C/[C@]4(/C(=C/1)[C@@H](C)C[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C
 Amyl acetate	O=C(OCCCCC)C
+Adalimumab	CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC1=CC=CC=C1C(=O)NCC(O)=O
 Lead(II,IV) oxide	O1[Pb]O[Pb]11O[Pb]O1
 Phosphorus trifluoride	FP(F)F
 Ethylmercury	CC[Hg+]
@@ -12793,7 +12794,7 @@ Malvidin-3-O-(6-p-coumaroyl)glucoside	O[C@@H]4[C@@H](O)[C@H](O)[C@@H](OC2=CC=1C(
 Chloropentamminecobalt chloride	[Cl-].Cl[Co-3]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+].[Cl-]
 Littorine	CN1[C@@H]2C[C@@H](OC([C@@H](CC3=CC=CC=C3)O)=O)C[C@H]1CC2
 Tetraethylammonium chloride	[Cl-].CC[N+](CC)(CC)CC
-Empagliflozin	C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl
+Empagliflozin	C1COCC1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)C4C(C(C(C(O4)CO)O)O)O)Cl
 Lunularin	c1cc(cc(c1)O)CCc2ccc(cc2)O
 Alicaforsen	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=S)(O)O[C@H]3C[C@@H](O[C@@H]3COP(=S)(O)O[C@H]4C[C@@H](O[C@@H]4COP(=S)(O)O[C@H]5C[C@@H](O[C@@H]5COP(=S)(O)O[C@H]6C[C@@H](O[C@@H]6COP(=S)(O)O[C@H]7C[C@@H](O[C@@H]7COP(=S)(O)O[C@H]8C[C@@H](O[C@@H]8COP(=S)(O)O[C@H]9C[C@@H](O[C@@H]9COP(=S)(O)O[C@H]1C[C@@H](O[C@@H]1CO)n1cnc2c1nc([nH]c2=O)N)n1ccc(nc1=O)N)n1ccc(nc1=O)N)n1ccc(nc1=O)N)n1cnc2c1ncnc2N)n1cnc2c1ncnc2N)n1cnc2c1nc([nH]c2=O)N)n1ccc(nc1=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1nc([nH]c2=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1nc([nH]c2=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1ccc(nc1=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1ncnc2N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1ccc(nc1=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1ccc(nc1=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1nc([nH]c2=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1ccc(nc1=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1ncnc2N)O
 Scopine	O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23
@@ -14575,6 +14576,7 @@ Tipiracil	C1CC(=N)N(C1)Cc2c(c(=O)[nH]c(=O)[nH]2)Cl
 Ripasudil	O=S(=O)(c2c1c(F)cncc1ccc2)N3[C@H](CNCCC3)C
 Testosterone isocaproate	CC(C)CCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
 Methylene cyclopropyl acetic acid	OC(=O)CC1CC1=C
+Empagliflozin/linagliptin	CC#CCN1C2=C(N=C1N3CCCC(C3)N)N(C(=O)N(C2=O)CC4=NC5=CC=CC=C5C(=N4)C)C.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O
 Benzhydrocodone	CN1CC[C@]23c4c5ccc(c4O[C@H]2C(=CC[C@H]3[C@H]1C5)OC(=O)c6ccccc6)OC
 Helium dimer	[He][He]
 Camalexin	c1ccc2c(c1)c(c[nH]2)c3nccs3
@@ -17086,6 +17088,7 @@ Tungsten pentafluoride	F[W](F)(F)(F)F
 Β-Butyrolactone	CC1CC(=O)O1
 Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
+Empagliflozin/metformin	CN(C)C(=N)N=C(N)N.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O.Cl
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
 BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
 Boron monohydride	[2H][B]
