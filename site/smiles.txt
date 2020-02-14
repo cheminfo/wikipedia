@@ -2351,7 +2351,7 @@ Glibenclamide	O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)CCNC(=O)c3cc(Cl)ccc3OC
 Umbelliferone	c1cc(cc2c1ccc(=O)o2)O
 Quinupristin	CC[C@@H]1C(=O)N2CCC[C@H]2C(=O)N([C@H](C(=O)N3C[C@H](C(=O)C[C@H]3C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CS[C@@H]6CN7CCC6CC7)CC8=CC=C(C=C8)N(C)C)C
 Quinestrol	O(c1ccc2c(c1)CC[C@H]3[C@@H]4CC[C@](C#C)(O)[C@@]4(C)CC[C@H]23)C5CCCC5
-Valsartan	O=C(O)[C@@H](N(C(=O)CCCC)Cc3ccc(c1ccccc1c2n[nH]nn2)cc3)C(C)C
+Valsartan	CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O
 Triamcinolone acetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@@]53C)F)O
 Triamcinolone hexacetonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)COC(=O)CC(C)(C)C)CCC5=CC(=O)C=C[C@@]53C)F)O
 Triamcinolone diacetate	CC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)OC(=O)C)O
