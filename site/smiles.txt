@@ -11763,6 +11763,8 @@ Anthramycin	Cc1ccc2C(=O)N3C=C(C[C@H]3[C@H](O)Nc2c1O)\C=C\C(=O)N
 Argadin	O=C1N2[C@H](O)C[C@@H]1NC(=O)[C@@H]4N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]2Cc3c[nH]cn3)CCCC(=O)O)CCC/N=C(\N)NC(=O)C)CCC4
 Apratoxin A	[H]N1[C@@H](Cc2ccc(OC)cc2)C(=O)N(C)[C@@H](C)C(=O)N(C)[C@@H]([C@@H](C)CC)C(=O)N2CCC[C@H]2C(=O)O[C@@H](C[C@@H](C)C[C@H](O)[C@H](C)C2=N[C@H](CS2)\C=C(C)\C1=O)C(C)(C)C
 Dimethyl tetrachloroterephthalate	Clc1c(C(=O)OC)c(Cl)c(Cl)c(C(=O)OC)c1Cl
+Quinone methide	C=C1C=CC=CC1=O
+Quinone methide	C=C1C=CC(=O)C=C1
 BSTFA	C[Si](C)(C)O\C(\C(F)(F)F)=N\[Si](C)(C)C
 Prinomastat	CC1([C@@H](N(CCS1)S(=O)(=O)C2=CC=C(C=C2)OC3=CC=NC=C3)C(=O)NO)C
 Methylene green	O=[N+](c1c([s+]c(cc(N(C)C)cc2)c2n3)c3ccc1N(C)C)[O-].[Cl-]
@@ -17326,3 +17328,4 @@ Oxyprothepin decanoate	CCCCCCCCCC(=O)OCCCN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)
 Silvestrol	CO[C@H]1[C@@H](O[C@H](CO1)[C@@H](CO)O)OC2=CC3=C(C(=C2)OC)[C@@]4([C@@H]([C@@H]([C@H]([C@@]4(O3)C5=CC=C(C=C5)OC)C6=CC=CC=C6)C(=O)OC)O)O
 Apilimod	CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
 Brequinar	CC1=C(C2=C(C=CC(=C2)F)N=C1C3=CC=C(C=C3)C4=CC=CC=C4F)C(=O)O
+Cyclooctasulfur monoxide	O=S1SSSSSSS1
