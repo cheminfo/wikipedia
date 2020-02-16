@@ -685,7 +685,7 @@ Calcium silicate	[Ca++].[Ca++].[O-][Si]([O-])([O-])[O-]
 Pentazocine	Oc1ccc3c(c1)[C@]2([C@H]([C@H](N(CC2)C\C=C(/C)C)C3)C)C
 Gabapentin	O=C(O)CC1(CN)CCCCC1
 Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
-Omeprazole	COc3ccc2[nH]c(S(=O)Cc1ncc(C)c(OC)c1C)nc2c3
+Omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
 5-Bromouracil	Br/C1=C/NC(=O)NC1=O
 ENU	CCN(N=O)C(N)=O
 Silver sulfide	[S-2].[Ag+].[Ag+]
@@ -17329,3 +17329,7 @@ Silvestrol	CO[C@H]1[C@@H](O[C@H](CO1)[C@@H](CO)O)OC2=CC3=C(C(=C2)OC)[C@@]4([C@@H
 Apilimod	CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
 Brequinar	CC1=C(C2=C(C=CC(=C2)F)N=C1C3=CC=C(C=C3)C4=CC=CC=C4F)C(=O)O
 Cyclooctasulfur monoxide	O=S1SSSSSSS1
+Mozenavir	C1=CC=C(C=C1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2CC3=CC(=CC=C3)N)CC4=CC(=CC=C4)N)CC5=CC=CC=C5)O)O
+Lobucavir	C1[C@@H]([C@H]([C@@H]1N2C=NC3=C2N=C(NC3=O)N)CO)CO
+Apoptozole	COC1=CC=C(C=C1)C2=C(N(C(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)CC4=CC=C(C=C4)C(=O)N)C5=CC=C(C=C5)OC
+Pyrazofurin	C([C@@H]1[C@H]([C@H]([C@@H](O1)C2=NNC(=C2O)C(=O)N)O)O)O
