@@ -2497,7 +2497,7 @@ Bis-tris propane	OCC(CO)(CO)NCCCNC(CO)(CO)CO
 Texas Red	C1CC2=C3C(=C4C(=C2)C(=C5C=C6CCC[N+]7=C6C(=C5O4)CCC7)C8=C(C=C(C=C8)S(=O)(=O)Cl)S(=O)(=O)[O-])CCCN3C1
 Ferrovanadium	[V].[Fe]
 Fluocinonide	O=C(OCC(=O)[C@]45OC(O[C@@H]5C[C@@H]2[C@@]4(C[C@H](O)[C@]3(F)[C@]/1(/C=C\C(=O)\C=C\1[C@@H](F)C[C@@H]23)C)C)(C)C)C
-Uranyl nitrate	[N+](=O)([O-])O[U-2](=O)(=O)O[N+](=O)[O-]
+Uranyl nitrate	[N+](=O)([O-])[O-].[U+2](=O)(=O).[O-][N+](=O)[O-]
 Psoralen	O=C1/C=C\c2cc3ccoc3cc2O1
 Scandium oxide	O=[Sc]O[Sc]=O
 Sodium bromate	[Na+].[O-]Br(=O)=O
@@ -3668,6 +3668,7 @@ X-gal	Brc3ccc2c(c(O[C@@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO)c[nH]2)c3Cl
 Tantalum telluride	[Te]=[Ta]=[Te]
 Octocrylene	N#C/C(C(=O)OCC(CC)CCCC)=C(/c1ccccc1)c2ccccc2
 Octyl salicylate	CCCCC(CC)COC(=O)C1=CC=CC=C1O
+Uranyl chloride	[Cl-].O=[U+2]=O.[Cl-]
 Caffeine citrate	O=C(O)C(O)(CC(=O)O)CC(=O)O.O=C2N(c1ncn(c1C(=O)N2C)C)C
 Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
@@ -5001,6 +5002,7 @@ Endo-Norborneol	O[C@H]1C[C@@H]2CC[C@H]1C2
 Cyclopropatriene	C=1=C=C=1
 Adjudin	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)NN
 Khellin	O(C)c1c2C=COc2c(OC)c3OC(C)=CC(=O)c13
+HPTE	C1=CC(=CC=C1C(C2=CC=C(C=C2)O)C(Cl)(Cl)Cl)O
 Bismuth chloride	Cl[Bi](Cl)Cl
 Meta-Chlorophenylpiperazine	Clc1cc(ccc1)N2CCNCC2
 4-Hydroxy-4-methylpentanoic acid	OC(CCC(C)(O)C)=O
