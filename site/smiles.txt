@@ -16686,6 +16686,7 @@ Progesterone dioxime	C/C(=N/O)/[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C/C(=N/O
 Ricinine	Cn1ccc(c(c1=O)C#N)OC
 Progesterone 3-oxime	O=C(C)[C@H]1CC[C@]2([H])[C@]1(C)CC[C@@]3([H])[C@@]2([H])CCC4=C/C(CC[C@]34C)=N/O
 2-Methylbut-3-yn-2-ol	CC(C)(C#C)O
+Darunavir/cobicistat	CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N.CC(C)C1=NC(=CS1)CN(C)C(=O)NC(CCN2CCOCC2)C(=O)NC(CCC(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)CC5=CC=CC=C5
 1-Naphthalenethiol	C1=CC=C2C(=C1)C=CC=C2S
 Naphthalene-1-sulfonic acid	C1=CC=C2C(=C1)C=CC=C2S(=O)(=O)O
 Naphthalene-2-sulfonic acid	C1=CC=C2C=C(C=CC2=C1)S(=O)(=O)O
@@ -17335,6 +17336,9 @@ Mozenavir	C1=CC=C(C=C1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2CC3=CC(=CC=C3)N)CC4=C
 Lobucavir	C1[C@@H]([C@H]([C@@H]1N2C=NC3=C2N=C(NC3=O)N)CO)CO
 Apoptozole	COC1=CC=C(C=C1)C2=C(N(C(=N2)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)CC4=CC=C(C=C4)C(=O)N)C5=CC=C(C=C5)OC
 Pyrazofurin	C([C@@H]1[C@H]([C@H]([C@@H](O1)C2=NNC(=C2O)C(=O)N)O)O)O
+Dapagliflozin/metformin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)C3C(C(C(C(O3)CO)O)O)O)Cl.CN(C)C(=N)N=C(N)N.Cl
 Ferric derisomaltose	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC(C(C(C(CO)O)O)O)O)O)O)O)O)O)O)O.[Fe+3]
 Tetraethylammonium hydroxide	CC[N+](CC)(CC)CC.[OH-]
 2-Decenal	CCCCCCC/C=C/C=O
+Uprifosbuvir	C[C@H](C(=O)OC(C)C)N[P@@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)Cl)O)OC3=CC=CC=C3
+(Z)-6-dodecen-4-olide	CCCCC/C=C\CC1CCC(=O)O1
