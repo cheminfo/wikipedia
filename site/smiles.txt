@@ -1103,7 +1103,7 @@ Guaifenesin	O(c1ccccc1OC)CC(O)CO
 Potassium alum	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
 Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
 Bismuth subsalicylate	O[Bi]1OC(=O)c2ccccc2O1
-Adapalene	O=C(O)c2ccc1cc(ccc1c2)c3cc(c(OC)cc3)C46CC5CC(CC(C4)C5)C6
+Adapalene	COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5
 Cinnamic acid	O=C(O)\C=C\c1ccccc1
 Rifamycin	CC1C=CC=C(C(=O)NC2=CC(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
 Rifampicin	CN1CCN(CC1)/N=C/c2c(O)c3c5C(=O)[C@@]4(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc2c(O)c3c(O)c(C)c5O4
@@ -1527,6 +1527,7 @@ Triphosgene	ClC(Cl)(Cl)OC(=O)OC(Cl)(Cl)Cl
 Valeric acid	CCCCC(O)=O
 Cobalt(II) chloride	Cl[Co]Cl
 Lactitol	O([C@@H]([C@H](O)[C@@H](O)CO)[C@H](O)CO)[C@@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO
+Lactitol	C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O
 Pemetrexed	Nc3nc2[nH]cc(CCc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)c2c(=O)[nH]3
 Bromoform	BrC(Br)Br
 Sodium chlorate	[Na+].[O-]Cl(=O)=O
@@ -17350,3 +17351,4 @@ Persicarin	COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OS(=O)(=O)O)O
 BTRX-335140	CCC1=CC2=C(C(=C(N=C2C(=C1)F)N3CCC(CC3)NC4CCOCC4)C5=NC(=NO5)C)C
 Stannocene	[cH-]1cccc1.[cH-]1cccc1.[Sn+2]
 EICAR (antiviral)	C#CC1=C(N=CN1C2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
+N-Nitrosoglyphosate	C(C(=O)O)N(CP(=O)(O)O)N=O
