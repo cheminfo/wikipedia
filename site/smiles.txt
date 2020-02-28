@@ -1402,7 +1402,7 @@ Vecuronium bromide	CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1N4CCCCC4)C
 Salmeterol	OCc1cc(ccc1O)[C@H](O)CNCCCCCCOCCCCc2ccccc2
 Ranitidine	[O-][N+](=O)C=C(NC)NCCSCc1ccc(o1)CN(C)C
 Saxitoxin	O=C(OC[C@@H]2/N=C(/N)N3[C@]1(/N=C(\N[C@H]12)N)C(O)(O)CC3)N
-Lisinopril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)O)CCc1ccccc1)CCCCN)CCC2
+Lisinopril	C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O
 Ramipril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@H]12)C)CCc3ccccc3
 Mercury(I) chloride	Cl[Hg][Hg]Cl
 Candesartan	CCOc2nc1cccc(C(=O)O)c1n2Cc5ccc(c3ccccc3c4nn[nH]n4)cc5
@@ -3838,6 +3838,7 @@ Rotigotine	Oc1cccc3c1CCC(N(CCC)CCc2sccc2)C3
 Hydroxymethylpentylcyclohexenecarboxaldehyde	O=CC1C/C=C(/CCCC(O)(C)C)CC1
 Verbenone	CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C
 Cyclopiazonic acid	CC(=O)C1=C(O)[C@H]5N(C1=O)[C@@](C)(C)[C@@H]4Cc2cccc3[nH]cc(c23)[C@@H]45
+Dihydrogen phosphate	OP(=O)(O)[O-]
 Ammonium metavanadate	[NH4+].O=[V-](=O)=O
 Sodium metavanadate	[O-][V](=O)=O.[Na+]
 Lithium sulfate	[Li+].[Li+].[O-]S(=O)(=O)[O-]
