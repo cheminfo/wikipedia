@@ -16004,7 +16004,7 @@ Setanaxib	CN1C(=O)C=C2C(=C1C3=CC(=CC=C3)N(C)C)C(=O)N(N2)C4=CC=CC=C4Cl
 Ferric sodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3]
 Propynyllithium	[Li+].CC#[C-]
 Capillin	CC#CC#CC(=O)C1=CC=CC=C1
-Rimegepant	C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
+Rimegepant	C1CC(C2=C(C=CC=N2)C(C1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
 Tetrachlorocyclopropene	ClC1=C(Cl)C1(Cl)Cl
 Upadacitinib	CCC1CN(CC1C2=CN=C3N2C4=C(NC=C4)N=C3)C(=O)NCC(F)(F)F
 1,1-Diiodoethane	CC(I)I
@@ -17355,3 +17355,4 @@ EICAR (antiviral)	C#CC1=C(N=CN1C2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
 N-Nitrosoglyphosate	C(C(=O)O)N(CP(=O)(O)O)N=O
 Bempedoic acid/ezetimibe	CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O
 Bempedoic acid/ezetimibe	C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
+Gefapixant	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)S(=O)(=O)N)OC
