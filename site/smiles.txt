@@ -2231,7 +2231,7 @@ Betamethasone valerate	CCCCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]
 Sodium propionate	[Na+].[O-]C(=O)CC
 Potassium propanoate	CCC(=O)[O-].[K+]
 Dimethyl sulfide	CSC
-Methyl iodide	CI
+Iodomethane	CI
 Tin(II) oxide	O=[Sn]
 Naphazoline	N\1=C(\NCC/1)Cc2cccc3c2cccc3
 Prednisolone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)O
@@ -2402,6 +2402,7 @@ Aziridine	C1CN1
 Plutonium(IV) oxide	[O--].[O--].[Pu+4]
 Tantalum(V) chloride	Cl[Ta](Cl)(Cl)(Cl)Cl
 Voriconazole	Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C
+TATB	c1(c(c(c(c(c1[N+](=O)[O-])N)[N+](=O)[O-])N)[N+](=O)[O-])N
 Octafluoropropane	FC(F)(F)C(F)(F)C(F)(F)F
 1-Bromobutane	CCCCBr
 Etacrynic acid	O=C(O)COc1c(Cl)c(Cl)c(cc1)C(=O)C(=C)CC
@@ -17214,6 +17215,7 @@ Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 Zinc azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
 O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
 Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
+Phenylacetyl-CoA	CC(C)(COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC(=O)CC4=CC=CC=C4)O
 1-Methyl-3-propyl-4-(p-chlorophenyl)piperidine	CCC[C@@H]1CN(CC[C@@H]1C2=CC=C(C=C2)Cl)C
 Decamethyltitanocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.[Cl-].Cl[Cl-][Ti+4]
 Decamethylzirconocene dichloride	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.Cl[Zr+2]Cl
@@ -17355,4 +17357,8 @@ EICAR (antiviral)	C#CC1=C(N=CN1C2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
 N-Nitrosoglyphosate	C(C(=O)O)N(CP(=O)(O)O)N=O
 Bempedoic acid/ezetimibe	CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O
 Bempedoic acid/ezetimibe	C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
+2,2'-Dipyridylamine	C1=CC=NC(=C1)NC2=CC=CC=N2
 Gefapixant	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)S(=O)(=O)N)OC
+BRL-37344	C[C@H](CC1=CC=C(C=C1)OCC(=O)O)NC[C@@H](C2=CC(=CC=C2)Cl)O
+Hydrogen diselenide	[SeH][SeH]
+1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
