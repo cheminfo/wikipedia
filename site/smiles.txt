@@ -17353,12 +17353,17 @@ GS-6620	C[C@@H](C(=O)OC(C)C)NP(=O)(OC[C@@H]1[C@H]([C@@]([C@](O1)(C#N)C2=CC=C3N2N
 Persicarin	COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OS(=O)(=O)O)O
 BTRX-335140	CCC1=CC2=C(C(=C(N=C2C(=C1)F)N3CCC(CC3)NC4CCOCC4)C5=NC(=NO5)C)C
 Stannocene	[cH-]1cccc1.[cH-]1cccc1.[Sn+2]
-EICAR (antiviral)	C#CC1=C(N=CN1C2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
+EICAR (antiviral)	NC(=O)c1ncn(c1C#C)C2[C@H](O)[C@H](O)[C@H](O2)CO
 N-Nitrosoglyphosate	C(C(=O)O)N(CP(=O)(O)O)N=O
 Bempedoic acid/ezetimibe	CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O
 Bempedoic acid/ezetimibe	C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
+Cyclooctadiene iridium methoxide dimer	CO1[Ir](O([Ir]1(C)C)C)(C)C.C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1
 2,2'-Dipyridylamine	C1=CC=NC(=C1)NC2=CC=CC=N2
 Gefapixant	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)S(=O)(=O)N)OC
 BRL-37344	C[C@H](CC1=CC=C(C=C1)OCC(=O)O)NC[C@@H](C2=CC(=CC=C2)Cl)O
 Hydrogen diselenide	[SeH][SeH]
+2-Methyltetrahydroquinoline	CC1CCC2=CC=CC=C2N1
+2-Methyltetrahydroquinoline	C[C@@H]1CCC2=CC=CC=C2N1
+2-Methyltetrahydroquinoline	C[C@H]1CCC2=CC=CC=C2N1
+1,8-Naphthyridine	C1=CC2=C(N=C1)N=CC=C2
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
