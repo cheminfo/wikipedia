@@ -16216,7 +16216,7 @@ HEPBS	C1CN(CCN1CCCCS(=O)(=O)O)CCO
 Pemafibrate	CC[C@H](C(=O)O)Oc1cccc(c1)CN(CCCOc2ccc(cc2)OC)c3nc4ccccc4o3
 4-Quinolone	C1=CC=C2C(=C1)C(=O)C=CN2
 Tricarbon monosulfide	[CH0]=C=C=S
-Hypercubane	C12(C(C=6)(C9)C%11)C3(C(C6)(C=7)C%13)C4(C(C7)(C=8)C%16)C1(C(C8)(C=9)C=0)C5(C(C0)(C=%10)C%15)C2(C(C%10)(C=%11)C=%12)C3(C(C%12)(C=%13)C=%14)C45(C(C%14)(C=%15)C=%16)
+Hypercubane	C/1=C/C\28/C=C\C\39\C=C/C\46/C=C\C17/C=C\C/5%15\C=C/C%13(/C=C2)\C=C/C%11(/C=C3)\C=C/C(/C=C4)(\C=C5)C%12%17C6%10C7%16C8%14C9%10C%11%12C%13%14C%15%16%17
 3β-Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C
 Tetramethoxymethane	COC(OC)(OC)OC
 N-Butylsodium	CCC[CH2].[Na]
@@ -17367,3 +17367,4 @@ Hydrogen diselenide	[SeH][SeH]
 2-Methyltetrahydroquinoline	C[C@H]1CCC2=CC=CC=C2N1
 1,8-Naphthyridine	C1=CC2=C(N=C1)N=CC=C2
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
+Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
