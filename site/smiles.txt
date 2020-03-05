@@ -1215,7 +1215,7 @@ Clobetasol	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C
 Silver fulminate	[C-]#[N+][O-].[Ag+]
 Zafirlukast	Cc1ccccc1S(=O)(=O)NC(=O)c2cc(OC)c(cc2)Cc3cn(C)c4ccc(cc43)NC(=O)OC5CCCC5
 Zileuton	O=C(N)N(O)C(c2sc1ccccc1c2)C
-Tetrahydrobiopterin	O=C2\N=C(/NC=1NC[C@@H](NC=12)[C@@H](O)[C@@H](O)C)N
+Tetrahydrobiopterin	CC(C(C1CNC2=C(N1)C(=O)N=C(N2)N)O)O
 Barium chloride	[Ba+2].[Cl-].[Cl-]
 Fulminic acid	[O-][N+]#C
 Ticlopidine	Clc1ccccc1CN3Cc2c(scc2)CC3
@@ -2279,6 +2279,7 @@ Hydroxychloroquine	Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO
 Borazine	[BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1
 Potassium peroxymonosulfate	[K+].[O-]S(=O)(=O)OO
 Ozonide	[O-]O[O]
+Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
@@ -17336,6 +17337,7 @@ N,N-diethylmethylamine	CCN(C)CC
 Silvestrol	CO[C@H]1[C@@H](O[C@H](CO1)[C@@H](CO)O)OC2=CC3=C(C(=C2)OC)[C@@]4([C@@H]([C@@H]([C@H]([C@@]4(O3)C5=CC=C(C=C5)OC)C6=CC=CC=C6)C(=O)OC)O)O
 Apilimod	CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
 Brequinar	CC1=C(C2=C(C=CC(=C2)F)N=C1C3=CC=C(C=C3)C4=CC=CC=C4F)C(=O)O
+1,6-Hexanediol diacrylate	C=CC(=O)OCCCCCCOC(=O)C=C
 Cyclooctasulfur monoxide	O=S1SSSSSSS1
 Mozenavir	C1=CC=C(C=C1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2CC3=CC(=CC=C3)N)CC4=CC(=CC=C4)N)CC5=CC=CC=C5)O)O
 Lobucavir	C1[C@@H]([C@H]([C@@H]1N2C=NC3=C2N=C(NC3=O)N)CO)CO
@@ -17369,3 +17371,4 @@ Hydrogen diselenide	[SeH][SeH]
 1,8-Naphthyridine	C1=CC2=C(N=C1)N=CC=C2
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
 Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
+Strontium hydride	[SrH2]
