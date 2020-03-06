@@ -14117,7 +14117,7 @@ Aluminium diethyl phosphinate	CCP(=O)(CC)[O-].CCP(=O)(CC)[O-].CCP(=O)(CC)[O-].[A
 9-Deacetoxyfumigaclavine C	[H][C@@]12CC3=C(NC4=C3C(=CC=C4)[C@@]1([H])C[C@@H](C)CN2C)C(C)(C)C=C
 1,1,1-Trichloro-2,2,2-trifluoroethane	FC(F)(F)C(Cl)(Cl)Cl
 Acid Blue 25	C1=CC=C(C=C1)NC2=CC(=C(C3=C2C(=O)C4=CC=CC=C4C3=O)N)S(=O)(=O)[O-].[Na+]
-Brincidofovir	CCCCCCCCCCCCCCCCOCCCOP(=O)(CO[C@@H](CN1C=CC(=NC1=O)N)CO)O
+Brincidofovir	CCCCCCCCCCCCCCCCOCCCOP(=O)(O)CO[C@H](CO)CN1C=CC(N)=NC1=O
 Disperse Yellow 26	c1ccc(cc1)Nc2ccc(cc2[N+](=O)[O-])Cl
 Isobutylidenediurea	CC(C)C(NC(=O)N)NC(=O)N
 Potassium selenate	[K+].[K+].[O-][Se]([O-])(=O)=O
@@ -17372,3 +17372,6 @@ Hydrogen diselenide	[SeH][SeH]
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
 Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
 Strontium hydride	[SrH2]
+Resatorvid	CCOC(=O)C1=CCCC[C@H]1S(=O)(=O)NC2=C(C=C(C=C2)F)Cl
+Monobenzyl phthalate	C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2C(=O)O
+Filociclovir	C1/C(=C/N2C=NC3=C2N=C(NC3=O)N)/C1(CO)CO
