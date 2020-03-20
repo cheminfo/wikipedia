@@ -2845,7 +2845,7 @@ Idose	O[C@@H]1[C@@H](O)[C@H](OC(O)[C@H]1O)CO
 Cumene	CC(C)c1ccccc1
 Palmitoleic acid	O=C(O)CCCCCCC\C=C/CCCCCC
 Methylglyoxal	CC(=O)C=O
-TMPTA	CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+Trimethylolpropane triacrylate	CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Triptycene	C12=CC=CC=C1C3C5=C(C=CC=C5)C2C4=C3C=CC=C4
 Chlorophyll d	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCCC(\C)=C\COC(=O)CC[C@H]6[C@H](C)C=5/C=C/2\N\1[Mg]n4c(\C=C\3/N=C(/C=C/1C(\C=O)=C\2\C)C(/C)=C/3/CC)c(C)c7c4\C(=C6/N=5)[C@@H](C(=O)OC)C7=O
 Chlorophyll b	CCC1=C(C2=NC1=CC3=C(C4=C([C@@H](C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)[C@H]([C@@H]5CCC(=O)OC/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C)C(=O)OC)[O-])C)C=O.[Mg+2]
@@ -10278,7 +10278,7 @@ Pyriprole	Clc2cc(C(F)(F)F)cc(Cl)c2-n(nc(C#N)c1SC(F)F)c1NCc3ncccc3
 MDAT	C3Cc1cc2OCOc2cc1CC3N
 6-CAT	C1CC2=C(CC1N)C=CC(=C2)Cl
 Medronic acid	O=P(O)(O)CP(=O)(O)O
-Phenylisobutylamine	NC(Cc1ccccc1)CC
+Phenylisobutylamine	CCC(CC1=CC=CC=C1)N
 Saflufenacil	CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(=C(C=C1Cl)F)N2C(=O)C=C(N(C2=O)C)C(F)(F)F
 2,4,6-Trihydroxyacetophenone	O=C(c1c(O)cc(O)cc1O)C
 Terpin	CC1(CCC(CC1)C(C)(C)O)O
@@ -13471,7 +13471,6 @@ Linderone	COC1=C(C(=O)C(=C(/C=C/c2ccccc2)O)C1=O)OC
 Methyllinderone	COC1=C(C(=O)C(=C(/C=C/C2=CC=CC=C2)OC)C1=O)OC
 Hispidulin	COc1c(O)cc2oc(cc(=O)c2c1O)-c1ccc(O)cc1
 Lithium aspartate	[Li+].N[C@@H](CC(O)=O)C([O-])=O
-Cynaropicrin	C=C1C[C@@H]([C@@H]2[C@@H]([C@@H]3[C@H]1C[C@@H](C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO
 5'-Methoxyhydnocarpin	COC1=CC(=CC2=C1O[C@@H]([C@H](O2)C3=CC(=C(C=C3)O)OC)CO)C4=CC(=O)C5=C(C=C(C=C5O4)O)O
 Norbadione A	O=C(O)C(\c1ccc(O)cc1)=C7\OC(\O)=C(\c2cc(O)c4OC(=O)c3cc(cc2c34)\C6=C(/O)O\C(=C(/c5ccc(O)cc5)C(=O)O)C6=O)C7=O
 Sibiricine	CN1CCC2=CC3=C(C=C2C14C(C5=C(C4=O)C=CC6=C5OCO6)O)OCO3
@@ -17385,3 +17384,6 @@ Methanedisulfonic acid	C(S(=O)(=O)O)S(=O)(=O)O
 Selenium tetrabromide	Br[Se](Br)(Br)Br
 Azvudine	C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@](O2)(CO)N=[N+]=[N-])O)F
 Borazocine	[BH-]\1=[NH+]\[BH-]=[NH+]/[BH-]=[NH+]\[BH-]=[NH+]1
+Pentaerythritol tetraacrylate	C=CC(=O)OCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+Ethane dimethanesulfonate	CS(=O)(=O)OCCOS(=O)(=O)C
+Rupintrivir	CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC2=CC=C(C=C2)F)CC(=O)[C@H](C(C)C)NC(=O)C3=NOC(=C3)C
