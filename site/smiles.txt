@@ -2150,7 +2150,6 @@ Azimilide	Clc4ccc(c3oc(\C=N\N1C(=O)N(C(=O)C1)CCCCN2CCN(C)CC2)cc3)cc4
 Adams' catalyst	O=[Pt]=O
 Tribendimidine	N(=C/c2ccc(\C=N\c1ccc(/N=C(/N(C)C)C)cc1)cc2)\c3ccc(\N=C(\N(C)C)C)cc3
 Delphinidin	C1=C(C=C(C(=C1O)O)O)C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)O.[Cl-]
-Hyoscine butylbromide	[Br-].OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@@H]3[C@H]4O[C@H]4[C@H](C2)[N+]3(C)CCCC
 4-Aminopyridine	n1ccc(N)cc1
 Lithium hydride	[H-].[Li+]
 Tiabendazole	[nH]1c2ccccc2nc1c3cscn3
@@ -17387,4 +17386,11 @@ Borazocine	[BH-]\1=[NH+]\[BH-]=[NH+]/[BH-]=[NH+]\[BH-]=[NH+]1
 Pentaerythritol tetraacrylate	C=CC(=O)OCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Ethane dimethanesulfonate	CS(=O)(=O)OCCOS(=O)(=O)C
 Rupintrivir	CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC2=CC=C(C=C2)F)CC(=O)[C@H](C(C)C)NC(=O)C3=NOC(=C3)C
+Rubidium cyanide	[C-]#N.[Rb+]
+Caesium cyanide	[C-]#N.[Cs+]
 L-163,491	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(C=C1)CC2=CC(=CC=C2)OC)C3=CC=C(C=C3)CN4C(=NC5=C4N=C(C=C5C)C)CC
+Chloroacetophenone oxime	C1=CC=C(C=C1)C(=NO)CCl
+Americium(III) hydroxide	[OH-].[OH-].[OH-].[Am]
+Diflomotecan	O=C1N2C(C3=NC(C=C(F)C(F)=C4)=C4C=C3C2)=CC([C@@](O)(CC)C5)=C1COC5=O
+3CLpro-1	C1CNC(=O)[C@@H]1C[C@@H](C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)/C=C/C3=C(C=C(C=C3)Cl)F
+GC376	CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)[O-])NC(=O)OCC2=CC=CC=C2.[Na+]
