@@ -17041,7 +17041,7 @@ Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
 Tropifexor	C1C[C@H]2CC(C[C@@H]1N2C3=NC4=C(C=C(C=C4S3)C(=O)O)F)OCC5=C(ON=C5C6=CC=CC=C6OC(F)(F)F)C7CC7
 Trifluoromethyl cation	[C+](F)(F)F
-Hexaamminenickel chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
+Hexaamminenickel(II) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Adhansia XR	COC(=O)C(c1ccccc1)C2CCCCN2
@@ -17398,3 +17398,4 @@ Diflomotecan	O=C1N2C(C3=NC(C=C(F)C(F)=C4)=C4C=C3C2)=CC([C@@](O)(CC)C5)=C1COC5=O
 3CLpro-1	C1CNC(=O)[C@@H]1C[C@@H](C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)/C=C/C3=C(C=C(C=C3)Cl)F
 GC376	CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)[O-])NC(=O)OCC2=CC=CC=C2.[Na+]
 Acyline	C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCNC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CC=C(C=C2)NC(=O)C)NC(=O)[C@H](CC3=CC=C(C=C3)NC(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CC4=CN=CC=C4)NC(=O)[C@@H](CC5=CC=C(C=C5)Cl)NC(=O)[C@@H](CC6=CC7=CC=CC=C7C=C6)NC(=O)C
+Praseodymium(III,IV) oxide	O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]O[Pr]=O
