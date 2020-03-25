@@ -17387,6 +17387,10 @@ Borazocine	[BH-]\1=[NH+]\[BH-]=[NH+]/[BH-]=[NH+]\[BH-]=[NH+]1
 Pentaerythritol tetraacrylate	C=CC(=O)OCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Ethane dimethanesulfonate	CS(=O)(=O)OCCOS(=O)(=O)C
 Rupintrivir	CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC2=CC=C(C=C2)F)CC(=O)[C@H](C(C)C)NC(=O)C3=NOC(=C3)C
+Naphthostyril	C1=CC2=C3C(=C1)C(=O)NC3=CC=C2
+Diazinane	C1CCNNC1
+Diazinane	C1CNCNC1
+Diazinane	C1CNCCN1
 Rubidium cyanide	[C-]#N.[Rb+]
 Caesium cyanide	[C-]#N.[Cs+]
 1-Naphthoic acid	C1=CC=C2C(=C1)C=CC=C2C(=O)O
@@ -17395,7 +17399,9 @@ L-163,491	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(C=C1)CC2=CC(=CC=C2)OC)C3=CC=C(C=C3)CN4C(=
 Chloroacetophenone oxime	C1=CC=C(C=C1)C(=NO)CCl
 Americium(III) hydroxide	[OH-].[OH-].[OH-].[Am]
 Diflomotecan	O=C1N2C(C3=NC(C=C(F)C(F)=C4)=C4C=C3C2)=CC([C@@](O)(CC)C5)=C1COC5=O
+Acid orange 19	CC1=C(C=C(C=C1)N=NC2=C(C3=CC=CC=C3C(=C2)S(=O)(=O)[O-])O)S(=O)(=O)NC4=CC=CC=C4.[Na+]
 3CLpro-1	C1CNC(=O)[C@@H]1C[C@@H](C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)/C=C/C3=C(C=C(C=C3)Cl)F
 GC376	CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)[O-])NC(=O)OCC2=CC=CC=C2.[Na+]
 Acyline	C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCNC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CC=C(C=C2)NC(=O)C)NC(=O)[C@H](CC3=CC=C(C=C3)NC(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CC4=CN=CC=C4)NC(=O)[C@@H](CC5=CC=C(C=C5)Cl)NC(=O)[C@@H](CC6=CC7=CC=CC=C7C=C6)NC(=O)C
-Praseodymium(III,IV) oxide	O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]O[Pr]=O
+Benzophosphole	P1C=CC=C1
+Estrone phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OP(=O)(O)O
