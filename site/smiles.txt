@@ -15877,7 +15877,7 @@ Fluorescein (medical use)	C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)
 Tetrahydrofurfuryl acetate	CC(=O)OCC1CCCO1
 Cimlanod	CC1=CC=C(O1)S(=O)(=O)NO
 2,5-Dimethoxy-p-cymene	CC1=CC(=C(C=C1OC)C(C)C)OC
-Glasdegib	CN1CC[C@H](C[C@@H]1c2[nH]c3ccccc3n2)NC(=O)Nc4ccc(cc4)C#N
+Glasdegib	CN1CCC(CC1C2=NC3=CC=CC=C3N2)NC(=O)NC4=CC=C(C=C4)C#N
 Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4C3)F)F
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
