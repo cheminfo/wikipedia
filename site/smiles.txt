@@ -2614,7 +2614,7 @@ Phosphoryl chloride	O=P(Cl)(Cl)Cl
 Phosphoryl chloride	[O-][P+](Cl)(Cl)Cl
 Naringin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)C)cc5O[C@H](c3ccc(O)cc3)C4
 IAEDANS	O=S(=O)(O)c1cccc2c1cccc2NCCNC(=O)CI
-Uranium sulfate	[U+2].[O-]S([O-])(=O)=O
+Uranium(IV) sulfate	[U+2].[O-]S([O-])(=O)=O
 Tellurite (ion)	[O-][Te+]([O-])[O-]
 Ellagic acid	O=C1Oc3c2c4c1cc(O)c(O)c4OC(=O)c2cc(O)c3O
 Manganese(II) carbonate	[Mn+2].[O-]C([O-])=O
@@ -17409,4 +17409,7 @@ GC376	CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)[O-])NC(=O)OCC2=CC=CC=C2
 Acyline	C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCNC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CC=C(C=C2)NC(=O)C)NC(=O)[C@H](CC3=CC=C(C=C3)NC(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CC4=CN=CC=C4)NC(=O)[C@@H](CC5=CC=C(C=C5)Cl)NC(=O)[C@@H](CC6=CC7=CC=CC=C7C=C6)NC(=O)C
 Benzophosphole	P1C=CC=C1
 Estrone phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OP(=O)(O)O
+Potassium selenide	[K+].[K+].[Se-2]
 4α-methylfecosterol	C[C@H]1[C@@H]2CCC3=C([C@]2(CC[C@@H]1O)C)CC[C@]4([C@H]3CC[C@@H]4[C@H](C)CCC(=C)C(C)C)C
+Calconcarboxylic acid	C1=CC=C2C(=C1)C=C(C(=C2N=NC3=C(C=C(C4=CC=CC=C43)S(=O)(=O)O)O)O)C(=O)O
+North-methanocarbathymidine	CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@]3([C@@H]2C3)CO)O
