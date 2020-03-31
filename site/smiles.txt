@@ -11933,7 +11933,7 @@ Ammonium nonanoate	[NH4+].[O-]C(=O)CCCCCCCC
 Idrocilamide	O=C(\C=C\c1ccccc1)NCCO
 3,5-Dihydroxybenzoic acid	C1=C(C=C(C=C1O)O)C(=O)O
 2,6-Dihydroxybenzoic acid	C1=CC(=C(C(=C1)O)C(=O)O)O
-Mesotrione	O=C(c1ccc(cc1[N+]([O-])=O)S(=O)(=O)C)C2C(=O)CCCC2=O
+Mesotrione	CS(=O)(=O)c1ccc(c(c1)[N+](=O)[O-])C(=O)C2C(=O)CCCC2=O
 Furan-2-ylmethanethiol	SCc1ccco1
 Amino radical	[NH2]
 Pinotin A	COc1cc(cc(c1O)OC)c2c(c3c4c([o+]2)cc(cc4OC(=C3)c5ccc(c(c5)O)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O
@@ -12772,7 +12772,7 @@ Menthofuran	o1c2c(c(c1)C)CCC(C2)C
 Para-tert-Butylbenzoic acid	O=C(O)c1ccc(cc1)C(C)(C)C
 Apremilast	O=S(=O)(C)C[C@H](c1ccc(OC)c(OCC)c1)N3C(=O)c2cccc(c2C3=O)NC(=O)C
 Diodone	O=C(O)CN/1/C=C(/I)C(=O)C(\I)=C\1
-JQ1	Cc3sc1-n2c(C)nnc2C(CC(=O)OC(C)(C)C)N=C(c1c3C)c4ccc(Cl)cc4
+JQ1	O=C(C[C@H]1C2=NN=C(N2C3=C(C(C4=CC=C(C=C4)Cl)=N1)C(C)=C(S3)C)C)OC(C)(C)C
 Phosfolan	O=P(OCC)(/N=C1\SCCS1)OCC
 Dimethyl 4-(methylthio)phenyl phosphate	O=P(Oc1ccc(SC)cc1)(OC)OC
 Promecarb	O=C(Oc1cc(cc(c1)C(C)C)C)NC
