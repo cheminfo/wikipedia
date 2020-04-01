@@ -11643,6 +11643,7 @@ Nickel(II) acetate	O=C(C)O[Ni]OC(C)=O
 Nickel(II) acetate	O=C(C)O[Ni-4](OC(C)=O)([O+H2])([O+H2])([O+H2])[O+H2]
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
 4,4'-Methylenedianiline	c1cc(N)ccc1Cc2ccc(N)cc2
+Intravenous sodium bicarbonate	C(=O)(O)[O-].[Na+]
 Chlormerodrin	COC(CNC(=O)N)C[Hg]Cl
 Rhoeadine	CN1CCC2=CC3=C(C=C2[C@@H]4[C@H]1C5=C([C@H](O4)OC)C6=C(C=C5)OCO6)OCO3
 Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
@@ -17414,3 +17415,5 @@ Potassium selenide	[K+].[K+].[Se-2]
 Calconcarboxylic acid	C1=CC=C2C(=C1)C=C(C(=C2N=NC3=C(C=C(C4=CC=CC=C43)S(=O)(=O)O)O)O)C(=O)O
 North-methanocarbathymidine	CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@]3([C@@H]2C3)CO)O
 Aloxistatin	CCOC(=O)[C@@H]1[C@H](O1)C(=O)N[C@@H](CC(C)C)C(=O)NCCC(C)C
+Hinokinin	C1C(C(C(=O)O1)CC2=CC3=C(C=C2)OCO3)CC4=CC5=C(C=C4)OCO5
+Nitensidine D	CC(=CCC/C(=C/CN=C(N)N)/C)C
