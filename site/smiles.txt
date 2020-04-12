@@ -13015,7 +13015,7 @@ Bifuhalol	C1=C(C=C(C(=C1O)OC2=CC(=C(C(=C2)O)O)O)O)O
 Trifucol	C1=C(C(=C(C(=C1O)C2=C(C=C(C=C2O)O)O)O)C3=C(C=C(C=C3O)O)O)O
 Teduglutide	CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CC(O)=O)NC(=O)CNC(=O)[C@@H](N)Cc1cnc[nH]1)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(O)=O)C(O)=O
 Dihydrophloroglucinol	C1C(CC(=O)C=C1O)O
-Dabrafenib	CC(C)(C)c1nc(c(s1)c2ccnc(n2)N)c3cccc(c3F)NS(=O)(=O)c4c(cccc4F)F
+Dabrafenib	CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
 Nitrogen monofluoride	[F+]=[N-]
 Benvitimod	CC(C)c1c(cc(cc1O)/C=C/c2ccccc2)O
 Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
@@ -17429,4 +17429,6 @@ Isofucosterol	C/C=C(/CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(
 1,3-Cyclopentanedione	C1CC(=O)CC1=O
 Prenylated flavin mononucleotide	CC1=CC2=C3C(=C1C)C(CCN3C4=C(N2C[C@@H]([C@@H]([C@@H](COP(=O)([O-])[O-])O)O)O)NC(=O)NC4=O)(C)C
 EG-018	CCCCCN1C2=C(C=C(C=C2)C(=O)C3=CC=CC4=CC=CC=C43)C5=CC=CC=C51
+Tris(acetylacetonato)cobalt(III)	C/C(=C\C(=O)C)/[O-].C/C(=C\C(=O)C)/[O-].C/C(=C\C(=O)C)/[O-].[Co+3]
+Ethyl 3-bromopropionate	CCOC(=O)CCBr
 TMC-310911	CC(C)CN(C[C@H]([C@H](CC1=CC=CC=C1)NC(=O)O[C@H]2CO[C@@H]3[C@H]2CCO3)O)S(=O)(=O)C4=CC5=C(C=C4)N=C(S5)NC6CCN(CC6)C7CCCC7
