@@ -1168,6 +1168,7 @@ Rimantadine	NC(C)C13CC2CC(CC(C1)C2)C3
 Titanium tetrachloride	Cl[Ti](Cl)(Cl)Cl
 Methyldopa	C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N
 Promethazine	S2c1ccccc1N(c3c2cccc3)CC(N(C)C)C
+Amoxicillin/clavulanic acid	CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C.C1C2N(C1=O)C(C(=CCO)O2)C(=O)[O-].[K+]
 Folinic acid	O=C(O)[C@@H](NC(=O)c1ccc(cc1)NCC3N(/C2=C(/N/C(=N\C2=O)N)NC3)C=O)CCC(=O)O
 Mesna	[Na+].[O-]S(=O)(=O)CCS
 Magnesium fluoride	[Mg+2].[F-].[F-]
@@ -6981,7 +6982,7 @@ GYKI-52895	O1c2c(OC1)cc3c(c2)C(=N/NC(C3)C)\c4ccc(N)cc4
 Nerisopam	O(c1c(OC)cc/2c(c1)C/C(=N\N=C\2c3ccc(N)cc3)C)C
 Feprosidnine	n1oc([NH-])c[n+]1C(Cc2ccccc2)C
 Rubidium carbonate	[Rb+].[Rb+].[O-]C([O-])=O
-Sodium aluminium sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Na+].[Al+3]
+Sodium alum	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Na+].[Al+3]
 Catecholborane	[B]1OC2=CC=CC=C2O1
 Catecholborane	c1cccc2OBOc12
 Dithiete	c1css1
