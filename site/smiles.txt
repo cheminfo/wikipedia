@@ -15919,7 +15919,7 @@ Sulfoxylic acid	OSO
 Danoprevir	CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
 Glecaprevir	CC1(CC1)S(=O)(=O)NC(=O)[C@]2(C[C@H]2C(F)F)NC(=O)[C@@H]3C[C@@H]4CN3C(=O)[C@@H](NC(=O)O[C@@H]5CCC[C@H]5OC/C=C/C(C6=NC7=CC=CC=C7N=C6O4)(F)F)C(C)(C)C
 Dihydroxydisulfane	OSSO
-Telotristat ethyl	CCOC(=O)[C@@H](N)Cc1ccc(cc1)c2cc(O[C@H](c3ccc(Cl)cc3n4ccc(C)n4)C(F)(F)F)nc(N)n2
+Telotristat ethyl	CCOC(=O)C(CC1=CC=C(C=C1)C2=CC(=NC(=N2)N)OC(C3=C(C=C(C=C3)Cl)N4C=CC(=N4)C)C(F)(F)F)N
 Ceronapril	C1C[C@H](N(C1)C(=O)[C@H](CCCCN)OP(=O)(CCCCC2=CC=CC=C2)O)C(=O)O
 NFEPP	CCC(=O)N(c1ccccc1)[C@H]2CCN(C[C@H]2F)CCc3ccccc3
 Distamycin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)c3cc(cn3C)NC=O)\N
