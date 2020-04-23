@@ -13012,6 +13012,7 @@ Norvinisterone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@](O)(\C=C)CC[C@H]3[C@@H]1CC2)C
 Gelsemine	CN1C(C2CO3)[C@@H]4[C@]5(C(C=CC=C6)=C6NC5=O)[C@H]3C[C@H]2[C@]4(C=C)C1
 BQ-788	CCCC[C@H](C(=O)[O-])NC(=O)[C@@H](CC1=CN(C2=CC=CC=C21)C(=O)OC)NC(=O)[C@H](CC(C)(C)C)NC(=O)N3[C@@H](CCC[C@@H]3C)C.[Na+]
 Difucol	Oc1cc(O)cc(O)c1-c2c(O)cc(O)cc2O
+Phenylsodium	[Na]C1=CC=CC=C1
 Diphlorethol	c2c(O)cc(O)cc2Oc1c(O)cc(O)cc1O
 7-Phloroeckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C=C(C=C4O3)OC5=C(C=C(C=C5O)O)O)O)O)O)O
 Fucophlorethol A	C1=C(C=C(C(=C1O)C2=C(C=C(C=C2O)OC3=C(C=C(C=C3O)O)O)O)O)O
@@ -14921,6 +14922,7 @@ Methyldiborane	C[BH]1[H][BH2][H]1
 Epipregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@@H](C4)O)C)C
 20α-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
 5β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCC(=O)C4)C)C
+Sacituzumab govitecan	CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)OC(=O)OCC5=CC=C(C=C5)NC(=O)C(CCCCN)NC(=O)COCC(=O)NCCOCCOCCOCCOCCOCCOCCOCCOCCN6C=C(N=N6)CNC(=O)C7CCC(CC7)CN8C(=O)CC(C8=O)SCC(C(=O)O)N)C2=NC9=C1C=C(C=C9)O
 Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
@@ -17459,3 +17461,4 @@ Allyl phenylacetate	C=CCOC(=O)CC1=CC=CC=C1
 Disperse Yellow 42	C1=CC=C(C=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC3=CC=CC=C3)[N+](=O)[O-]
 Disperse Red 60	C1=CC=C(C=C1)OC2=C(C3=C(C(=C2)O)C(=O)C4=CC=CC=C4C3=O)N
 Lewisite 3	C(=C[As](C=CCl)C=CCl)Cl
+Thulium(III) fluoride	F[Tm](F)F
