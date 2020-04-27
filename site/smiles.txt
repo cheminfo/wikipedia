@@ -3880,7 +3880,7 @@ Dichloroisoprenaline	Clc1ccc(cc1Cl)C(O)CNC(C)C
 Seliciclib	CC[C@H](CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=CC=C3
 Thiophosgene	ClC(Cl)=S
 Genistein	Oc1ccc(cc1)C\3=C\Oc2cc(O)cc(O)c2C/3=O
-6-Monoacetylmorphine	CC(=O)c3cc(O)c1O[C@@H]4[C@]25CCN(C)[C@H](Cc3c12)[C@@H]5/C=C\[C@@H]4O
+6-Monoacetylmorphine	CC(=O)O[C@H]1/C=C\[C@H]2[C@H]3Cc4ccc(O)c5O[C@@H]1[C@]2(CCN3C)c45
 Ethyl diazoacetate	CCOC(=O)C=[N+]=[N-]
 Triazabicyclodecene	N\2=C1/NCCCN1CCC/2
 Levosalbutamol	OCc1cc(ccc1O)[C@@H](O)CNC(C)(C)C
@@ -17462,3 +17462,5 @@ Disperse Yellow 42	C1=CC=C(C=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC3=CC=CC=C3)[N+](=O)[O-
 Disperse Red 60	C1=CC=C(C=C1)OC2=C(C3=C(C(=C2)O)C(=O)C4=CC=CC=C4C3=O)N
 Lewisite 3	C(=C[As](C=CCl)C=CCl)Cl
 Thulium(III) fluoride	F[Tm](F)F
+Zincophorin	CCC[C@@H](C)/C=C(\C)/[C@@H]([C@H](C)/C=C/CC[C@H]([C@H](C)[C@@H]([C@H](C)[C@@H]([C@H](C)[C@@H]1[C@H](CC[C@H](O1)[C@H](C)C(=O)O)C)O)O)O)O
+Terbium(IV) oxide	[O-2].[O-2].[Tb+4]
