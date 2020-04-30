@@ -11786,7 +11786,7 @@ Betacetylmethadol	O=C(O[C@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC)C
 1,6-Hexanediol	OCCCCCCO
 Tosyl azide	O=S(=O)([N-][N+]#N)c1ccc(cc1)C
 Sodium tert-butoxide	CC(C)(C)[O-].[Na+]
-Ferric oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
+Iron(III) oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
 O-1812	C[C@H](CO)NC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\C(C)(C)CCCCC#N
 Acivicin	Cl\C1=N\O[C@H]([C@@H](C(=O)O)N)C1
 4-Hydroxy-TEMPO	CC1(C)CC(O)CC(C)(C)N1[O]
@@ -17469,3 +17469,6 @@ Vanadium(II) iodide	[V+2].[I-].[I-]
 Terbium(III) fluoride	F[Tb](F)F
 EIDD-2801	CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)NO)O)O
 Titanium(II) iodide	[Ti](I)I
+TMC-647055	CN1CCOCCN(S(=O)(=O)NC(=O)C2=CC3=C(C=C2)C(=C4N3CC(=CC5=C4C=CC(=C5)OC)C1=O)C6CCCCC6)C
+Merimepodib	COC1=C(C=CC(=C1)NC(=O)NC2=CC=CC(=C2)CNC(=O)O[C@H]3CCOC3)C4=CN=CO4
+Cyclophellitol	C([C@@H]1[C@H]([C@@H]([C@H]([C@H]2[C@@H]1O2)O)O)O)O
