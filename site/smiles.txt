@@ -341,7 +341,7 @@ Thujone	C[C@@H]([C@@H](C2)[C@]2([C@@H](C)C)C1)C1=O
 Hydroxylysine	C(C[C@@H](C(=O)O)N)[C@H](CN)O
 CS gas	Clc1ccccc1\C=C(/C#N)C#N
 Lactic acid	CC(O)C(=O)O
-Glycerol	C(C(CO)O)O
+Glycerol	OCC(O)CO
 Poly(methyl methacrylate)	CCC(C)(C(=O)OC)CC(C)(C(=O)OC)CC(C)(C(=O)OC)CC(C)(C(=O)OC)CC(C)(C(=O)OC)C
 Isobutane	CC(C)C
 Strychnine	O=C7N2c1ccccc1[C@@]64[C@@H]2[C@@H]3[C@@H](OC/C=C5\[C@@H]3C[C@@H]6N(CC4)C5)C7
@@ -7383,6 +7383,7 @@ Lucifer yellow	c1c(cc2c3c1c(c(cc3c(=O)n(c2=O)C(=O)NN)S(=O)(=O)[O-])N)S(=O)(=O)[O
 Mibefradil	CC(C)[C@H]1C2=C(CC[C@@]1(CCN(C)CCCC3=NC4=CC=CC=C4N3)OC(=O)COC)C=C(C=C2)F
 EDANS	c1cc2c(cccc2S(=O)(=O)O)c(c1)NCCN
 Beryllium hydride	[BeH2]
+JWH-018	CCCCCN1C=C(C(C2=CC=CC3=CC=CC=C32)=O)C4=CC=CC=C41
 JWH-081	CCCCCn3c1ccccc1c(c3)C(=O)c4c2ccccc2c(OC)cc4
 JWH-073	CCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43
 O-2545	CC1=CC[C@H]2[C@@](Oc3c(c(cc(c3)C(CCCCn4cncc4)(C)C)O)[C@@H]2C1)(C)C
@@ -17476,3 +17477,5 @@ Merimepodib	COC1=C(C=CC(=C1)NC(=O)NC2=CC=CC(=C2)CNC(=O)O[C@H]3CCOC3)C4=CN=CO4
 Cyclophellitol	C([C@@H]1[C@H]([C@@H]([C@H]([C@H]2[C@@H]1O2)O)O)O)O
 Monomethyl fumarate	COC(=O)C=CC(=O)O
 Cyclodecene	C\1=C\CCCCCCCC/1
+CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
+GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
