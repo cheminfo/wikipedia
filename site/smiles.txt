@@ -3225,6 +3225,7 @@ Mevalonic acid	C[C@@](O)(CCO)CC(=O)O
 Tert-Butyllithium	[Li]C(C)(C)C
 Agomelatine	O=C(NCCc1c2c(ccc1)ccc(OC)c2)C
 Triazene	NN=N
+Penam	C1CSC2N1C(=O)C2
 Ethyl isopropyl ketone	O=C(CC)C(C)C
 Imiquimod	n3c1ccccc1c2c(ncn2CC(C)C)c3N
 Carvedilol	COc1ccccc1OCCNCC(O)COc3cccc4[nH]c2ccccc2c34
@@ -17479,3 +17480,4 @@ Monomethyl fumarate	COC(=O)C=CC(=O)O
 Cyclodecene	C\1=C\CCCCCCCC/1
 CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
 GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
+SAFit2	COC1=C(C=C(C=C1)CC[C@H](C2=CC(=CC=C2)OCCN3CCOCC3)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H](C5CCCCC5)C6=CC(=C(C(=C6)OC)OC)OC)OC
