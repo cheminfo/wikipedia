@@ -2900,7 +2900,7 @@ Ethinylestradiol/norethisterone acetate	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)
 Levomethamphetamine	N([C@@H](Cc1ccccc1)C)C
 1,2-Naphthoquinone	O=C1c2ccccc2\C=C/C1=O
 Itaconic acid	O=C(O)C(=C)CC(=O)O
-Chromium trifluoride	[Cr+3].[F-].[F-].[F-]
+Chromium(III) fluoride	[Cr+3].[F-].[F-].[F-]
 Cobalt(III) fluoride	F[Co](F)F
 Isatin	O=C2c1ccccc1NC2=O
 Cyclamic acid	O=S(=O)(O)NC1CCCCC1
@@ -7780,6 +7780,7 @@ Damascenone	O=C(\C1=C(\C=C/CC1(C)C)C)/C=C/C
 Damascone	O=C(/C1=C(/CCCC1(C)C)C)/C=C/C
 3-Oxopentanoic acid	O=C(CC)CC(=O)O
 3-Hydroxypentanoic acid	O=C(O)CC(O)CC
+Thiosemicarbazide	C(=S)(N)NN
 Brecanavir	O=S(=O)(c2ccc1OCOc1c2)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H]3[C@@H]4CCO[C@@H]4OC3)Cc6ccc(OCc5nc(sc5)C)cc6
 Calcium guanylate	O[C@H]1[C@@H](O)[C@H](N2C=NC3=C2NC(N)=NC3=O)O[C@@H]1COP([O-])([O-])=O.[Ca+2]
 Dipotassium guanylate	O[C@H]1[C@@H](O)[C@H](N2C=NC3=C2NC(N)=NC3=O)O[C@@H]1COP([O-])([O-])=O.[K+].[K+]
@@ -11789,7 +11790,7 @@ Betacetylmethadol	O=C(O[C@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC)C
 1,6-Hexanediol	OCCCCCCO
 Tosyl azide	O=S(=O)([N-][N+]#N)c1ccc(cc1)C
 Sodium tert-butoxide	CC(C)(C)[O-].[Na+]
-Iron(III) oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
+Ferric oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
 O-1812	C[C@H](CO)NC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\C(C)(C)CCCCC#N
 Acivicin	Cl\C1=N\O[C@H]([C@@H](C(=O)O)N)C1
 4-Hydroxy-TEMPO	CC1(C)CC(O)CC(C)(C)N1[O]
@@ -17476,8 +17477,11 @@ Titanium(II) bromide	[Ti+2].[Br-].[Br-]
 TMC-647055	CN1CCOCCN(S(=O)(=O)NC(=O)C2=CC3=C(C=C2)C(=C4N3CC(=CC5=C4C=CC(=C5)OC)C1=O)C6CCCCC6)C
 Merimepodib	COC1=C(C=CC(=C1)NC(=O)NC2=CC=CC(=C2)CNC(=O)O[C@H]3CCOC3)C4=CN=CO4
 Cyclophellitol	C([C@@H]1[C@H]([C@@H]([C@H]([C@H]2[C@@H]1O2)O)O)O)O
+Diphosphorus tetrachloride	P(P(Cl)Cl)(Cl)Cl
 Monomethyl fumarate	COC(=O)C=CC(=O)O
 Cyclodecene	C\1=C\CCCCCCCC/1
+Cyclodecene	C1CCCC/C=C/CCC1
 CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
 GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
 SAFit2	COC1=C(C=C(C=C1)CC[C@H](C2=CC(=CC=C2)OCCN3CCOCC3)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H](C5CCCCC5)C6=CC(=C(C(=C6)OC)OC)OC)OC
+LY-2452473	CC(C)OC(=O)N[C@H]1CC2=C(C1)N(C3=C2C=C(C=C3)C#N)CC4=CC=CC=N4
