@@ -16361,6 +16361,7 @@ Indole-3-carboxaldehyde	C1=CC=C2C(=C1)C(=CN2)C=O
 Trenbolone undecanoate	O(C(CCCCCCCCCC)=O)[C@]1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4=C3C=C[C@@]21C)=O
 Mesterolone cipionate	[H][C@@]12CC[C@H](OC(=O)CCC3CCCC3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2(C)CC(=O)C[C@H](C)[C@]12C
 Europium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Eu+3]
+Conjugated estrogens/medroxyprogesterone acetate	CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C.CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O.CC12CCC3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)O)C1CCC2=O.CC12CCC3=C(C1CCC2=O)C=CC4=C3C=CC(=C4)OS(=O)(=O)O
 N-Acetyltaurine	CC(=O)NCCS(=O)(=O)O
 Malonyl chloride	C(C(=O)Cl)C(=O)Cl
 Methyl ricinoleate	CCCCCCC(CC=CCCCCCCCC(=O)OC)O
@@ -17485,3 +17486,4 @@ CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
 GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
 SAFit2	COC1=C(C=C(C=C1)CC[C@H](C2=CC(=CC=C2)OCCN3CCOCC3)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H](C5CCCCC5)C6=CC(=C(C(=C6)OC)OC)OC)OC
 LY-2452473	CC(C)OC(=O)N[C@H]1CC2=C(C1)N(C3=C2C=C(C=C3)C#N)CC4=CC=CC=N4
+GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
