@@ -2142,7 +2142,7 @@ Potassium periodate	[K+].[O-]I(=O)(=O)=O
 Betahistine	n1ccccc1CCNC
 Maleic acid	O=C(O)\C=C/C(=O)O
 Viloxazine	O(c1ccccc1OCC)CC2OCCNC2
-Tetraamminecopper(II) sulfate	[OH2+][Co-3]([NH3+])([NH3+])([NH3+])[NH3+].[O-][S+2]([O-])([O-])[O-]
+Tetraamminecopper(II) sulfate	[OH2+][Cu-3]([NH3+])([NH3+])([NH3+])[NH3+].[O-][S+2]([O-])([O-])[O-]
 Pregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 4-Dimethylaminopyridine	n1ccc(N(C)C)cc1
 Beryllium fluoride	[Be+2].[F-].[F-]
@@ -8793,6 +8793,7 @@ Rentiapril	C1[C@H](N([C@H](S1)C2=CC=CC=C2O)C(=O)CCS)C(=O)O
 Brooker's merocyanine	O=C\2\C=C/C(=C\C=C1\C=C/N(/C=C1)C)/C=C/2
 ZD6126	CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=C1C=C(C=C3)OP(=O)(O)O)OC)OC)OC
 3-Methylpentane	CCC(C)CC
+Nitrogen trioxide	[N+](=O)([O-])[O]
 Pranidipine	CC1=C(C(C(=C(N1)C)C(=O)OCC=CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC
 Fendiline	CC(NCCC(c1ccccc1)c2ccccc2)c3ccccc3
 Relcovaptan	COC1=C(C=C(C=C1)S(=O)(=O)N2[C@H]([C@](C3=C2C=CC(=C3)Cl)(C4=CC=CC=C4Cl)O)C(=O)N5CCC[C@H]5C(=O)N)OC
@@ -17064,7 +17065,6 @@ Trifluoromethyl cation	[C+](F)(F)F
 Hexaamminenickel(II) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
-Adhansia XR	COC(=O)C(c1ccccc1)C2CCCCN2
 2-Aminobiphenyl	C1=CC=C(C=C1)C2=CC=CC=C2N
 Trisporic acid	CCCC/C=C(\C)/C=C/C1=C(C(=O)CC[C@]1(C)C(=O)O)C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CCC(=O)C)/C
@@ -17449,6 +17449,10 @@ Dysprosium(III) fluoride	F[Dy](F)F
 Prenylated flavin mononucleotide	CC1=CC2=C3C(=C1C)C(CCN3C4=C(N2C[C@@H]([C@@H]([C@@H](COP(=O)([O-])[O-])O)O)O)NC(=O)NC4=O)(C)C
 EG-018	CCCCCN1C2=C(C=C(C=C2)C(=O)C3=CC=CC4=CC=CC=C43)C5=CC=CC=C51
 Lewisite 2	C(=C[As](C=CCl)Cl)Cl
+Hoiamides	CCC[C@@H](C)[C@@H]([C@H](C)[C@@H]1[C@H]([C@H](CC2=NC(=CS2)C3=N[C@](CS3)(C4=N[C@](CS4)(C(=O)N[C@H]([C@H]([C@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O1)[C@@H](C)O)C(C)C)C)O)[C@@H](C)CC)C)C)OC)C)O
+Hoiamides	CCC[C@@H](C)[C@@H]([C@H](C)[C@@H]1[C@H]([C@H](CC2=NC(=CS2)C3=N[C@](CS3)(C4=N[C@](CS4)(C(=O)N[C@H]([C@H]([C@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O1)[C@@H](C)O)[C@@H](C)CC)C)O)[C@@H](C)CC)C)C)OC)C)O
+Hoiamides	CCC[C@@H](C)[C@@H]([C@H](C)[C@H]([C@@H](C)[C@H](CC1=NC(=CS1)C2=N[C@@](CS2)(C)C3=N[C@@](CS3)(C)C(=O)N[C@@H]([C@@H](C)CC)[C@H]([C@@H](C)C(=O)OCC)O)OC)O)O
+Hoiamides	CCC[C@@H](C)[C@@H]([C@H](C)[C@H]([C@@H](C)[C@H](CC1=NC(=CS1)C2=N[C@@](CS2)(C)C3=N[C@@](CS3)(C)C(=O)N[C@@H]([C@@H](C)CC)[C@H]([C@@H](C)C(=O)O)O)OC)O)O
 Tris(acetylacetonato)cobalt(III)	C/C(=C\C(=O)C)/[O-].C/C(=C\C(=O)C)/[O-].C/C(=C\C(=O)C)/[O-].[Co+3]
 Ethyl 3-bromopropionate	CCOC(=O)CCBr
 TMC-310911	CC(C)CN(C[C@H]([C@H](CC1=CC=CC=C1)NC(=O)O[C@H]2CO[C@@H]3[C@H]2CCO3)O)S(=O)(=O)C4=CC5=C(C=C4)N=C(S5)NC6CCN(CC6)C7CCCC7
@@ -17486,4 +17490,6 @@ CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
 GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
 SAFit2	COC1=C(C=C(C=C1)CC[C@H](C2=CC(=CC=C2)OCCN3CCOCC3)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H](C5CCCCC5)C6=CC(=C(C(=C6)OC)OC)OC)OC
 LY-2452473	CC(C)OC(=O)N[C@H]1CC2=C(C1)N(C3=C2C=C(C=C3)C#N)CC4=CC=CC=N4
+Erbium(III) fluoride	[F-].[F-].[F-].[Er+3]
 GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
+Sodium hydroselenide	[Na][SeH]
