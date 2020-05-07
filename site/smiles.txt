@@ -15453,6 +15453,7 @@ Triazinane	C1NCNCN1
 1,3,5-Trimethyl-1,3,5-triazacyclohexane	CN1CN(C)CN(C)C1
 MK-608	C[C@]1([C@@H]([C@H](O[C@H]1n2ccc3c2ncnc3N)CO)O)O
 Cyclohexadecanone	C1CCCCCCCC(=O)CCCCCCC1
+Capmatinib	CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F
 Cyclododecanone	C1CCCCCC(=O)CCCCC1
 Fevipiprant	CC1=C(C2=C(N1CC3=C(C=C(C=C3)S(=O)(=O)C)C(F)(F)F)N=CC=C2)CC(=O)O
 Neptunocene	[Np].C1=CC=CC=CC=C1.C1=CC=CC=CC=C1
@@ -17493,3 +17494,4 @@ LY-2452473	CC(C)OC(=O)N[C@H]1CC2=C(C1)N(C3=C2C=C(C=C3)C#N)CC4=CC=CC=N4
 Erbium(III) fluoride	[F-].[F-].[F-].[Er+3]
 GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
 Sodium hydroselenide	[Na][SeH]
+Dihydrolanosterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
