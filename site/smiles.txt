@@ -2075,6 +2075,7 @@ Ammonium nitrite	[O-]N=O.[NH4+]
 Ammonium phosphate	[O-]P([O-])([O-])=O.[NH4+].[NH4+].[NH4+]
 Ammonium persulfate	O=S(=O)([O-])OOS([O-])(=O)=O.[NH4+].[NH4+]
 Ammonium hydrosulfide	[SH-].[NH4+]
+Heptazine	C1=NC2=NC=NC3=NC=NC(=N1)N23
 Iron(II) sulfide	[Fe+2].[S-2]
 Sodium aluminate	O=[Al-]=O.[Na+]
 Merbromin	[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)C(/Br)=C\C=1\2
@@ -7060,6 +7061,7 @@ L-838,417	CN1N=CN=C1COC4=NN2C(C=C4C(C)(C)C)=NN=C2C3=CC(F)=CC=C3F
 RWJ-51204	Fc1ccccc1NC(=O)C=3C(=O)CCN4c2c(cc(F)cc2)N(C=34)COCC
 Heptanal	O=CCCCCCC
 Hexanal	O=CCCCCC
+Melem	C1(=NC2=NC(=N)N=C3N2C(=NC(=N3)N)N1)N
 Nonanal	CCCCCCCCC=O
 Penguinone	CC1=CC(=O)C=C(C1(C)C)C
 Eledoisin	O=C(NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)N)CCSC)CC(C)C)C(C)CC)Cc1ccccc1)C)CC(=O)O)CCCCN)CO)C3N(C(=O)C2NC(=O)CC2)CCC3
@@ -17495,3 +17497,5 @@ Erbium(III) fluoride	[F-].[F-].[F-].[Er+3]
 GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
 Sodium hydroselenide	[Na][SeH]
 Dihydrolanosterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
+Dichlorine pentoxide	O=Cl(=O)OCl(=O)=O
+Cyameluric acid	C1(=O)NC2=NC(=O)NC3=NC(=O)N=C(N23)N1
