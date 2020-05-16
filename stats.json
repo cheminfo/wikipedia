@@ -1900,5 +1900,6 @@
 {"date":"2020-05-12T03:38:54.078Z","molecules":17509,"errors":74,"nogood":48,"notfound":2247,"dup":587},
 {"date":"2020-05-13T03:38:52.227Z","molecules":17509,"errors":74,"nogood":48,"notfound":2247,"dup":587},
 {"date":"2020-05-14T03:38:42.689Z","molecules":17512,"errors":74,"nogood":48,"notfound":2247,"dup":587},
-{"date":"2020-05-15T03:38:47.918Z","molecules":17512,"errors":74,"nogood":48,"notfound":2250,"dup":586}
+{"date":"2020-05-15T03:38:47.918Z","molecules":17512,"errors":74,"nogood":48,"notfound":2250,"dup":586},
+{"date":"2020-05-16T03:39:08.377Z","molecules":17516,"errors":74,"nogood":48,"notfound":2250,"dup":586}
 ]

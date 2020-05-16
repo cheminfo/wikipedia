@@ -17510,3 +17510,7 @@ Ro05-4082	CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3Cl
 CM-4620	CC1=C(C(=CC=C1)F)C(=O)NC2=NC=C(N=C2)C3=CC4=C(C=C3Cl)OC(O4)(F)F
 XL-413	C1C[C@@H](NC1)C2=NC3=C(C(=O)N2)OC4=C3C=C(C=C4)Cl
 CPI-0610	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl
+Diethyl maleate	CCOC(=O)/C=C\C(=O)OCC
+2-(Diphenylphosphino)anisole	COc1ccccc1P(c2ccccc2)c3ccccc3
+Ripretinib	CCN1C(=O)C(=CC2=C1C=C(NC)N=C2)C1=C(Br)C=C(F)C(NC(=O)NC2=CC=CC=C2)=C1
+Gammacerane	[H][C@@]12CC[C@]3(C)[C@]([H])(CC[C@]4([H])[C@@]5(C)CCCC(C)(C)[C@]5([H])CC[C@@]34C)[C@@]1(C)CCCC2(C)C
