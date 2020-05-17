@@ -4599,7 +4599,7 @@ Terpinen-4-ol	CC1=CCC(CC1)(C(C)C)O
 Aldesulfone sodium	[Na+].[Na+].[O-]S(=O)CNc1ccc(cc1)S(=O)(=O)c2ccc(NCS([O-])=O)cc2
 Deoxycytidine triphosphate	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O
 Nitrosyl chloride	ClN=O
-Dabigatran	O=C(OCC)CCN(c1ncccc1)C(=O)c4ccc2c(nc(n2C)CNc3ccc(C(=N\C(=O)OCCCCCC)\N)cc3)c4
+Dabigatran	CCCCCCOC(=O)N=C(C1=CC=C(C=C1)NCC2=NC3=C(N2C)C=CC(=C3)C(=O)N(CCC(=O)OCC)C4=CC=CC=N4)N
 Ferric subsulfate solution	[OH-].[OH-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
 Hydroxybenzotriazole	n1nn(O)c2ccccc12
 4-Chloro-o-toluidine	Clc1cc(c(N)cc1)C
@@ -8795,7 +8795,7 @@ Rentiapril	C1[C@H](N([C@H](S1)C2=CC=CC=C2O)C(=O)CCS)C(=O)O
 Brooker's merocyanine	O=C\2\C=C/C(=C\C=C1\C=C/N(/C=C1)C)/C=C/2
 ZD6126	CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=C1C=C(C=C3)OP(=O)(O)O)OC)OC)OC
 3-Methylpentane	CCC(C)CC
-Nitrogen trioxide	[N+](=O)([O-])[O]
+Nitrate radical	[N+](=O)([O-])[O]
 Pranidipine	CC1=C(C(C(=C(N1)C)C(=O)OCC=CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC
 Fendiline	CC(NCCC(c1ccccc1)c2ccccc2)c3ccccc3
 Relcovaptan	COC1=C(C=C(C=C1)S(=O)(=O)N2[C@H]([C@](C3=C2C=CC(=C3)Cl)(C4=CC=CC=C4Cl)O)C(=O)N5CCC[C@H]5C(=O)N)OC
@@ -14492,9 +14492,9 @@ SB-236057	n5nc(C)oc5-c(cc2C)ccc2-c6ccc(cc6)C(=O)N(CCc1cc3OC7)c1cc3C7(CC4)CCN4CC
 CP-132,484	Cn1cc(c2c1ccc3c2CCCO3)CCN
 1-Methylpsilocin	CN(C)CCc(cn1C)c2c1cccc2O
 DR-4485	c4cc(Cl)ccc4C(CC5)=CCN5CCCCC2(CCC3)c1c3c(Cl)ccc1NC2=O
-CID-16020046	Cc5ccc(c3n[nH]c4C(=O)N(c1ccc(C(=O)O)cc1)C(c2cccc(O)c2)c34)cc5
+CID16020046	Cc5ccc(c3n[nH]c4C(=O)N(c1ccc(C(=O)O)cc1)C(c2cccc(O)c2)c34)cc5
 Lespedamine	O(n2c1ccccc1c(c2)CCN(C)C)C
-CID-85469571	Clc4ccc(cc4)COc(c2)cccc2\C=C(\C1=O)/N=C3N1CCCS3
+PSB-CB5	Clc4ccc(cc4)COc(c2)cccc2\C=C(\C1=O)/N=C3N1CCCS3
 Calcium monosilicide	[Si]=[Ca]
 WB-4101	COc1cccc(c1OCCNCC2COc3ccccc3O2)OC
 Norbuprenorphine-3-glucuronide	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)O4)OC)(C(C)(C)C)O
@@ -17507,10 +17507,13 @@ Clobromazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
 Selenophos	CCN(CC)CC[Se]P(=O)(CC)OCC
 Alprazolam triazolobenzophenone	CC1=NN=C(N1C2=C(C=C(C=C2)Cl)C(=O)C3=CC=CC=C3)CN
 Ro05-4082	CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3Cl
+Lithium orthosilicate	[Li+].[Li+].[Li+].[Li+].[O-][Si]([O-])([O-])[O-]
 CM-4620	CC1=C(C(=CC=C1)F)C(=O)NC2=NC=C(N=C2)C3=CC4=C(C=C3Cl)OC(O4)(F)F
 XL-413	C1C[C@@H](NC1)C2=NC3=C(C(=O)N2)OC4=C3C=C(C=C4)Cl
 CPI-0610	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl
 Diethyl maleate	CCOC(=O)/C=C\C(=O)OCC
+Gadolinium(III) fluoride	[F-].[F-].[F-].[Gd+3]
 2-(Diphenylphosphino)anisole	COc1ccccc1P(c2ccccc2)c3ccccc3
+Lutetium(III) fluoride	F[Lu](F)F
 Ripretinib	CCN1C(=O)C(=CC2=C1C=C(NC)N=C2)C1=C(Br)C=C(F)C(NC(=O)NC2=CC=CC=C2)=C1
 Gammacerane	[H][C@@]12CC[C@]3(C)[C@]([H])(CC[C@]4([H])[C@@]5(C)CCCC(C)(C)[C@]5([H])CC[C@@]34C)[C@@]1(C)CCCC2(C)C
