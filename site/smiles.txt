@@ -12719,7 +12719,7 @@ Rimazolium	O=C1C(=C/[N+](=C2\N1C(CCC2)C)C)\C(=O)OCC
 Glafenine	O=C(OCC(O)CO)c1ccccc1Nc2c3ccc(Cl)cc3ncc2
 Bolandiol	O[C@@H]4/C=C2\[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)CC4
 1-Androstenedione	O=C4\C=C/[C@]2([C@@H](CC[C@H]3[C@@H]1CCC(=O)[C@@]1(C)CC[C@H]23)C4)C
-Methyldienolone	O=C1C=C2C(CC1)=C3CC[C@]4(C)[C@@](C)(O)CC[C@@]4([H])[C@]3([H])CC2
+Methyldienolone	O=C1C=C2C(=C3CC[C@]4(C)[C@@](C)(O)CC[C@H]4[C@@H]3CC2)CC1
 Methyl-1-testosterone	O=C4\C=C/[C@]1([C@@H](CC[C@@H]2[C@@H]1CC[C@]3([C@H]2CC[C@@]3(O)C)C)C4)C
 Oxabolone	O=C4CC[C@H]3C(/CC[C@@H]1[C@@H]3CC[C@]2(C)[C@@H](O)CC[C@@H]12)=C4/O
 Morphine methylbromide	[H][C@]1([C@@H](O)C=C2)[C@]([C@]2([H])[C@H]3C4)(CC[N+]3(C)C)C5=C4C=CC(O)=C5O1.[Br-]
@@ -17520,5 +17520,8 @@ Gammacerane	[H][C@@]12CC[C@]3(C)[C@]([H])(CC[C@]4([H])[C@@]5(C)CCCC(C)(C)[C@]5([
 Tris(4-methoxyphenyl)phosphine	COC1=CC=C(C=C1)P(C2=CC=C(C=C2)OC)C3=CC=C(C=C3)OC
 Diphenylcarbazide	C1=CC=C(C=C1)NNC(=O)NNC2=CC=CC=C2
 Phoslactomycin B	CC[C@H]1C=CC(=O)O[C@H]1/C=C/[C@](CCN)([C@@H](C[C@H](/C=C\C=C/C2CCCCC2)O)OP(=O)(O)O)O
+Benzoylacetone	CC(=O)CC(=O)C1=CC=CC=C1
 Cerium(IV) fluoride	F[Ce](F)(F)F
 Sangivamycin	C1=C(C2=C(N=CN=C2N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N)C(=O)N
+Europium dichloride	Cl[Eu]Cl
+Bis(pentafluorophenyl)xenon	C1(=C(C(=C(C(=C1F)F)[Xe]C2=C(C(=C(C(=C2F)F)F)F)F)F)F)F
