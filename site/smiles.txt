@@ -10621,6 +10621,7 @@ Hematoporphyrin	CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)O)C)C(=C4CCC(=
 Butynamine	CC(C)(C)N(C)C(C)(C)C#C
 Aminometradine	O=C1N(/C(=C\C(=O)N1CC)N)C\C=C
 Pirfenidone	CC1=CN(C(=O)C=C1)C2=CC=CC=C2
+Glicaramide	C0CCCCC0NC(=O)NS(=O)(=O)c1ccc(cc1)CCNC(=O)c2cnc3n(CC)nc(C)c3c2OCCC(C)C
 Adatanserin	O=C(NCCN2CCN(c1ncccn1)CC2)C35CC4CC(CC(C3)C4)C5
 NBUMP	COc1ccccc1N2CCN(CC2)CCCCNC(=O)C34CC5CC(C3)CC(C5)C4
 CRL-40,941	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)NO)F
@@ -17525,3 +17526,6 @@ Cerium(IV) fluoride	F[Ce](F)(F)F
 Sangivamycin	C1=C(C2=C(N=CN=C2N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N)C(=O)N
 Europium dichloride	Cl[Eu]Cl
 Bis(pentafluorophenyl)xenon	C1(=C(C(=C(C(=C1F)F)[Xe]C2=C(C(=C(C(=C2F)F)F)F)F)F)F)F
+Tetra(pyridine)iron dichloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.Cl[Fe]Cl
+Upamostat	CCOC(=O)N1CCN(CC1)C(=O)[C@H](CC2=CC(=CC=C2)/C(=N\O)/N)NS(=O)(=O)C3=C(C=C(C=C3C(C)C)C(C)C)C(C)C
+Opaganib	C1C2CC3(CC1CC(C2)(C3)C(=O)NCC4=CC=NC=C4)C5=CC=C(C=C5)Cl
