@@ -15105,7 +15105,7 @@ Buparlisib	NC1=NC=C(C2=CC(=NC(=N2)N2CCOCC2)N2CCOCC2)C(=C1)C(F)(F)F
 Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Roluperidone	C1CN(CCC1CN2CC3=CC=CC=C3C2=O)CC(=O)C4=CC=C(C=C4)F
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
-Tert-Butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
+Di-tert-butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
 Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
 3,3-Dimethyl-1-butanol	CC(C)(C)CCO
 Pexidartinib	ClC=1C=C2C(=NC1)NC=C2CC=2C=CC(=NC2)NCC=2C=NC(=CC2)C(F)(F)F
@@ -17535,4 +17535,8 @@ Dichlorotetrakis(pyridine)rhodium(III) chloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC
 Uridine diphosphate N-acetylgalactosamine	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
 Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)F)CCC4=C3C=CC(=C4)O
 Iodine azide	IN=[N+]=[N-]
+Europium(II) fluoride	[F-].[F-].[Eu+2]
 Caesium azide	[N-]=[N+]=[N-].[Cs+]
+Dregamine	CCC1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
+Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C(=O)OC)(C2C(C1)O2)CC)C1=CC(=C(C(=C1N3)OC)OC)O)C(=O)OC
+Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
