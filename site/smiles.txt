@@ -797,6 +797,7 @@ Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
 Amitriptyline	c3cc2c(/C(c1c(cccc1)CC2)=C\CCN(C)C)cc3
 Dinitrogen pentoxide	[O-][N+](=O)O[N+]([O-])=O
 Clopidogrel	COC(=O)[C@H](c1ccccc1Cl)N2CCc3c(ccs3)C2
+Chlorate	O=Cl(=O)[O-]
 Xenon tetroxide	[O-][Xe+4]([O-])([O-])[O-]
 Itraconazole	O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OC[C@@H]3O[C@](OC3)(c4ccc(Cl)cc4Cl)Cn5ncnc5)cc6)CC7)C(C)CC
 Dihydrotestosterone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
@@ -17537,6 +17538,8 @@ Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)F)CCC4=C3C=CC(=C4)O
 Iodine azide	IN=[N+]=[N-]
 Europium(II) fluoride	[F-].[F-].[Eu+2]
 Caesium azide	[N-]=[N+]=[N-].[Cs+]
+Tabernaemontanine	CC[C@@H]1CN([C@H]2CC3=C(C(=O)C[C@@H]1[C@@H]2C(=O)OC)NC4=CC=CC=C34)C
+Isovoacangine	CCC1CC2CC3(C1N(C2)CCc4c3[nH]c5c4ccc(c5)OC)C(=O)OC
 Dregamine	CCC1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C(=O)OC)(C2C(C1)O2)CC)C1=CC(=C(C(=C1N3)OC)OC)O)C(=O)OC
 Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
