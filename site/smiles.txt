@@ -8866,6 +8866,7 @@ Ciclonicate	O=C(O[C@@H]1C[C@@H](C)CC(C)(C)C1)c2cccnc2
 Inositol nicotinate	O=C(O[C@H]6[C@H](OC(=O)c1cccnc1)[C@H](OC(=O)c2cccnc2)[C@H](OC(=O)c3cccnc3)[C@@H](OC(=O)c4cccnc4)[C@@H]6OC(=O)c5cccnc5)c7cccnc7
 Bamethan	OC(c1ccc(O)cc1)CNCCCC
 Phenylethanolamine	OC(c1ccccc1)CN
+Biological functions of nitric oxide	[N]=O
 24,25-Dihydroxycholecalciferol	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CCC(O)C(O)(C)C)C
 Rebaudioside A	[C@]123[C@]([C@]4([C@@]([C@](CCC4)(C)C(O[C@@H]5O[C@@H]([C@@H](O)[C@@H]([C@H]5O)O)CO)=O)(CC1)[H])C)(CC[C@@](C2)(O[C@H]6[C@H](O[C@@H]7O[C@@H]([C@@H](O)[C@@H]([C@H]7O)O)CO)[C@H]([C@H](O)[C@H](O6)CO)O[C@@H]8O[C@@H]([C@@H](O)[C@@H]([C@H]8O)O)CO)C(C3)=C)[H]
 Hydroxy alpha sanshool	CC=CC=CC=CCCC=CC(=O)NCC(C)(C)O
@@ -17546,3 +17547,6 @@ Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)
 Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 1cP-LSD	CCN(CC)C(=O)[C@@H]5C=C2[C@@H](Cc3cn(C(=O)C1CC1)c4cccc2c34)N(C)C5
 Californium(III) oxyfluoride	[O-2].[F-].[Cf+3]
+Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)F)NC4=C2C=NC=C4
+1B-LSD	CN1[C@](C2=C[C@@H](C(N(CC)CC)=O)C1)([H])CC3=CN(C(CCC)=O)C4=C3C2=CC=C4
+5-MeO-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)OC
