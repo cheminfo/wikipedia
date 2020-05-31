@@ -159,7 +159,6 @@ Folate	n1c2C(=O)NC(N)=Nc2ncc1CNc3ccc(cc3)C(=O)N[C@H](C(O)=O)CCC(O)=O
 Biotin	O=C1N[C@@H]2[C@@H](SC[C@@H]2N1)CCCCC(=O)O
 Sodium dodecyl sulfate	CCCCCCCCCCCCOS(=O)([O-])=O.[Na+]
 Citric acid	OC(=O)CC(O)(C(=O)O)CC(=O)O
-Buckminsterfullerene	C13=C4C9=C8C%26=C1C2=C%27C7=C6C%29=C2C3=C%30C5=C4C%10=C%11C%21=C5C%31=C%20C%17=C(C6=C%16C%23=C7C%28=C%24C%14=C(C8=C%13C(=C9%10)C%12=C%11C%22=C%18C%15=C%12C%13=C%14C%25=C%15C%19=C(C%16=C%17C(=C%18%19)C%20=C%21%22)C%23=C%24%25)C%26=C%27%28)C%29=C%30%31
 Acrylamide	C=CC(=O)N
 Sorbitol	OC([C@H](O)[C@@H](O)[C@H](O)CO)CO
 Galactose	O[C@H]1[C@@H](O)[C@H](O[C@H](O)[C@@H]1O)CO
@@ -17549,4 +17548,7 @@ Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 Californium(III) oxyfluoride	[O-2].[F-].[Cf+3]
 Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)F)NC4=C2C=NC=C4
 1B-LSD	CN1[C@](C2=C[C@@H](C(N(CC)CC)=O)C1)([H])CC3=CN(C(CCC)=O)C4=C3C2=CC=C4
+19,20-Dihydroervahanine A	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)[C@H]6C[C@@H]7[C@@H](CN([C@H](C7C(=O)OC)CC8=C6NC9=CC=CC=C89)C)CC)C(=O)OC
 5-MeO-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)OC
+Lergotrile	CN1C[C@@H](C[C@H]2[C@H]1CC3=C(NC4=CC=CC2=C34)Cl)CC#N
+Sergolexole	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)OC4CCC(CC4)OC)C5=C2C1=CC=C5
