@@ -2102,6 +2102,7 @@ Zinc selenide	[ZnH2-2]1[SeH+2]([ZnH2-2]6)[ZnH2-2][SeH+2]7[ZnH-2]2[Se+2][Zn-2]3([
 Oxaliplatin	O1C(=O)C(=O)O[Pt-2]12[NH2+]C0CCCCC0[NH2+]2
 Erythrosine	Ic5cc4c(Oc1c(cc(I)c(O)c1I)C43OC(=O)c2ccccc23)c(I)c5O
 Periodate	[O-][I+3]([O-])([O-])[O-]
+Periodate	[O-][I+]([O-])([O-])([O-])([O-])[O-]
 Talbutal	O=C1NC(=O)NC(=O)C1(C(C)CC)C\C=C
 Cefprozil	O=C2N1/C(=C(/C=C/C)CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccc(O)cc3)N)C(=O)O.O
 Terconazole	Clc1ccc(c(Cl)c1)[C@@]4(O[C@@H](COc3ccc(N2CCN(C(C)C)CC2)cc3)CO4)Cn5ncnc5
@@ -17507,7 +17508,7 @@ Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
 Eburicol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Lutetium (177Lu) chloride	[Cl-].[Cl-].[Cl-].[177Lu+3]
 Selpercatinib	CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O
-Clobromazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
+Phenazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
 Selenophos	CCN(CC)CC[Se]P(=O)(CC)OCC
 Alprazolam triazolobenzophenone	CC1=NN=C(N1C2=C(C=C(C=C2)Cl)C(=O)C3=CC=CC=C3)CN
 Ro05-4082	CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3Cl
