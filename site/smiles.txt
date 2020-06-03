@@ -6838,7 +6838,7 @@ Prosidol	O=C(OC2(c1ccccc1)CCN(CCOCC)CC2)CC
 Arabitol	OC[C@@H](O)C(O)[C@H](O)CO
 1,4-Dioxin	O\1/C=C\O/C=C/1
 Meprodine	CC[C@H]1CN(C)CC[C@@]1(OC(=O)CC)c2ccccc2
-1-Amino-2-propanone	O=C(C)CN
+Aminoacetone	O=C(C)CN
 1,2-Dioxin	O1OC=CC=C1
 Piminodine	O=C(OCC)C3(c1ccccc1)CCN(CCCNc2ccccc2)CC3
 Tunicamycin	CC(C)C\C=C\C(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)NC(=O)C)CC([C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O)O)O
@@ -16874,7 +16874,6 @@ TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 2,3-Epoxybutane	C[C@@H]1[C@@H](O1)C
 2,3-Epoxybutane	C[C@H]1[C@@H](O1)C
 2,3-Epoxybutane	C[C@@H]1[C@H](O1)C
-Prop-1-en-2-ol	CC(=C)O
 Theasinensin A	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)O
 Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
@@ -17535,7 +17534,7 @@ Upamostat	CCOC(=O)N1CCN(CC1)C(=O)[C@H](CC2=CC(=CC=C2)/C(=N\O)/N)NS(=O)(=O)C3=C(C
 Opaganib	C1C2CC3(CC1CC(C2)(C3)C(=O)NCC4=CC=NC=C4)C5=CC=C(C=C5)Cl
 Dichlorotetrakis(pyridine)rhodium(III) chloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Cl-].[Cl-].[Cl-].[Rh+3]
 Uridine diphosphate N-acetylgalactosamine	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
-Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)F)CCC4=C3C=CC(=C4)O
+Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)[18F])CCC4=C3C=CC(=C4)O
 Iodine azide	IN=[N+]=[N-]
 Europium(II) fluoride	[F-].[F-].[Eu+2]
 Caesium azide	[N-]=[N+]=[N-].[Cs+]
@@ -17547,10 +17546,11 @@ Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)
 Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 1cP-LSD	CCN(CC)C(=O)[C@@H]5C=C2[C@@H](Cc3cn(C(=O)C1CC1)c4cccc2c34)N(C)C5
 Californium(III) oxyfluoride	[O-2].[F-].[Cf+3]
-Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)F)NC4=C2C=NC=C4
+Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)[18F])NC4=C2C=NC=C4
 1B-LSD	CN1[C@](C2=C[C@@H](C(N(CC)CC)=O)C1)([H])CC3=CN(C(CCC)=O)C4=C3C2=CC=C4
 19,20-Dihydroervahanine A	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)[C@H]6C[C@@H]7[C@@H](CN([C@H](C7C(=O)OC)CC8=C6NC9=CC=CC=C89)C)CC)C(=O)OC
 5-MeO-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)OC
 Lergotrile	CN1C[C@@H](C[C@H]2[C@H]1CC3=C(NC4=CC=CC2=C34)Cl)CC#N
 Sergolexole	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)OC4CCC(CC4)OC)C5=C2C1=CC=C5
 Chlorotonil A	C[C@@H]1/C=C\C=C\[C@@H](OC(=O)[C@H](C(=O)C(C(=O)[C@@H]2[C@H]1C=C[C@H]3[C@H]2[C@@H](C=C(C3)C)C)(Cl)Cl)C)C
+6α-Methylprogesterone	C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(CC[C@@H]2[C@@]4(C1=CC(=O)CC4)C)C)C(=O)C
