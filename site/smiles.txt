@@ -12771,6 +12771,7 @@ Combretastatin B-1	COC1=C(C(=C(C=C1)CCC2=CC(=C(C(=C2)OC)OC)OC)O)O
 Dihydro-resveratrol	C1=CC(=CC=C1CCC2=CC(=CC(=C2)O)O)O
 Isonotholaenic acid	c2cc(OC)ccc2CCc1cc(O)cc(OC)c1C(O)=O
 Lunularic acid	C1=CC(=C(C(=C1)O)C(=O)O)CCC2=CC=C(C=C2)O
+Xenon hexafluororhodate	[Xe+].F[Rh-1](F)(F)(F)(F)F
 3,3-Bis(chloromethyl)oxetane	ClCC1(CCl)COC1
 Oxydisulfoton	O=S(CCSP(=S)(OCC)OCC)CC
 Chlorbisan	Clc2cc(c(Sc1c(cc(Cl)cc1O)C)c(O)c2)C
@@ -17554,3 +17555,6 @@ Lergotrile	CN1C[C@@H](C[C@H]2[C@H]1CC3=C(NC4=CC=CC2=C34)Cl)CC#N
 Sergolexole	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)OC4CCC(CC4)OC)C5=C2C1=CC=C5
 Chlorotonil A	C[C@@H]1/C=C\C=C\[C@@H](OC(=O)[C@H](C(=O)C(C(=O)[C@@H]2[C@H]1C=C[C@H]3[C@H]2[C@@H](C=C(C3)C)C)(Cl)Cl)C)C
 6α-Methylprogesterone	C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(CC[C@@H]2[C@@]4(C1=CC(=O)CC4)C)C)C(=O)C
+Cerium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Ce+4]
+Aminoacetaldehyde	C(C=O)N
+Aminoacetaldehyde diethylacetal	CCOC(CN)OCC
