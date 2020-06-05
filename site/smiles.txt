@@ -10618,6 +10618,7 @@ Capeserod	C1CN(CCC1N2C(=O)OC(=N2)C3=CC(=C(C4=C3OCCO4)N)Cl)CCC5=CC=CC=C5
 Intepirdine	C3CNCCN3c1cccc(c1nc4)cc4S(=O)(=O)c2ccccc2
 PRX-07034	COc2cc(Cl)cc(c2OC)C(C)Nc1cc(ccc1S(=O)(=O)C)N3CCNCC3
 Tellimagrandin II	C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O
+Bucindolol	N#Cc0ccccc0OCC(O)CNC(C)(C)Cc1c[nH]c2c1cccc2
 Dimethazan	O=C2N(c1ncn(c1C(=O)N2C)CCN(C)C)C
 Hematoporphyrin	CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)O)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C(C)O
 Butynamine	CC(C)(C)N(C)C(C)(C)C#C
@@ -16339,6 +16340,7 @@ N-Methyl-2-thiazolidinethione	CN1CCSC1=S
 Koningic acid	CC(C)[C@H]1CC[C@@]2(CO2)[C@@H]3[C@@H]1C=C(COC3=O)C(=O)O
 Nickel bis(dimethyldithiocarbamate)	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Ni+2]
 Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+Chlorophyllide	CCC1=C(C)C2=Cc3c(C=C)c(C)c4C=C5[C@@H](C)[C@H](CCC(O)=O)C6=[N+]5[Mg--]5(n34)n3c(=CC1=[N+]25)c(C)c1C(=O)[C@H](C(=O)OC)C6=c31
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
@@ -16402,6 +16404,7 @@ Myo-inositol trispyrophosphate	C12C(C3C(C4C1OP(=O)(OP(=O)(O4)O)O)OP(=O)(OP(=O)(O
 Linzagolix	O=C(C1=C(C(N2C3=CC(OCC4=C(OC)C=CC(F)=C4F)=C(OC)C=C3F)=O)C(NC2=O)=CS1)O
 Opigolix	C[C@H](/C(=N/S(=O)(=O)C1=C(C=CC(=C1)C(=O)C(=C2NC3=CC=CC=C3N2)C(=O)C4=C(C=CC(=C4)F)F)F)/N)O
 Leflutrozole	C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)(N3C=NC=N3)F
+Rhodoquinone	CC1=C(C(=O)C(=C(C1=O)N)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
 Dimethylcurcumin	COC1=C(C=C(C=C1)/C=C/C(=C/C(=O)/C=C/C2=CC(=C(C=C2)OC)OC)/O)OC
 Ozarelix	CCCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(=O)N)NC(=O)[C@@H](CCCCNC(=O)N)NC(=O)[C@H](CC2=CC=C(C=C2)O)N(C)C(=O)[C@H](CO)NC(=O)[C@@H](CC3=CN=CC=C3)NC(=O)[C@@H](CC4=CC=C(C=C4)Cl)NC(=O)[C@@H](CC5=CC6=CC=CC=C6C=C5)NC(=O)C
 Relacorilant	CN1C=C(C=N1)S(=O)(=O)N2CCC3=CC4=C(C[C@@]3(C2)C(=O)C5=NC=CC(=C5)C(F)(F)F)C=NN4C6=CC=C(C=C6)F
@@ -17439,7 +17442,7 @@ Calconcarboxylic acid	C1=CC=C2C(=C1)C=C(C(=C2N=NC3=C(C=C(C4=CC=CC=C43)S(=O)(=O)O
 North-methanocarbathymidine	CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@]3([C@@H]2C3)CO)O
 Aloxistatin	CCOC(=O)[C@@H]1[C@H](O1)C(=O)N[C@@H](CC(C)C)C(=O)NCCC(C)C
 Praseodymium(IV) oxide	O=[Pr]=O
-9-Anthracenecarboxaldehyde	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2C=O
+Anthracene-9-carbaldehyde	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2C=O
 9-Anthracenemethanol	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2CO
 Hinokinin	C1C(C(C(=O)O1)CC2=CC3=C(C=C2)OCO3)CC4=CC5=C(C=C4)OCO5
 Nitensidine D	CC(=CCC/C(=C/CN=C(N)N)/C)C
@@ -17558,3 +17561,4 @@ Chlorotonil A	C[C@@H]1/C=C\C=C\[C@@H](OC(=O)[C@H](C(=O)C(C(=O)[C@@H]2[C@H]1C=C[C
 Cerium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Ce+4]
 Aminoacetaldehyde	C(C=O)N
 Aminoacetaldehyde diethylacetal	CCOC(CN)OCC
+Potassium telluride	[K][Te][K]
