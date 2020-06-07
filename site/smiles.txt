@@ -972,6 +972,7 @@ Cadmium arsenide	[Cd+2].[Cd+2].[Cd+2].[AsH6-3].[AsH6-3]
 Nonane	CCCCCCCCC
 Calcium peroxide	[Ca+2].[O-][O-]
 Enalaprilat	C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N2CCC[C@H]2C(=O)O
+Bacteriochlorophyll	CC[C@@H]1[C@@H](C)C2=N/C/1=C\c3c(C)c4C(=O)[C@H](C(=O)OC)\C\5=C/6\N=C(\C=C\7/N([Mg]n3c45)\C(=C/2)\C(=C7C)C(=O)C)[C@@H](C)[C@@H]6CCC(=O)OC\C=C(/C)\CCC[C@H](C)CCC[C@H](C)CCCC(C)C
 Diethyl ether	CCOCC
 Magnesium peroxide	[Mg+2].[O-][O-]
 Lead(II) iodide	I[Pb]I
@@ -6146,7 +6147,7 @@ Otera's catalyst	CCCC[Sn]1(N(=C=S)[Sn]2(O1[Sn]3(O2[Sn](N3=C=S)(CCCC)(CCCC)N=C=S)
 Periplanone B	O=C2[C@]1(OC1)[C@@H]3O[C@@H]3CC(\C=C\[C@H](C(C)C)C2)=C
 Acetyl iodide	CC(I)=O
 Mafosfamide	O=P1(N[C@@H](CCO1)SCCS(O)(=O)=O)N(CCCl)CCCl
-Abiraterone	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4C5=CN=CC=C5)C)C
+Abiraterone acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4C5=CN=CC=C5)C)C
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
@@ -14860,6 +14861,7 @@ PX-2	O=C(N[C@@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CCCCCF)C3=C2C=CC=C3
 APP-FUBINACA	O=C(N[C@H](C(N)=O)CC1=CC=CC=C1)C2=NN(CC3=CC=C(F)C=C3)C4=C2C=CC=C4
 MMB-2201	CC(C)[C@@H](C(=O)OC)NC(=O)c1cn(c2c1cccc2)CCCCCF
 4-Methylbuphedrone	CC1=CC=C(C(C(CC)NC)=O)C=C1.Cl
+Benzyltriethylammonium hydroxide	CC[N+](CC)(CC)Cc1ccccc1.[OH-]
 2C-iP	COC1=C(C=C(C(=C1)C(C)C)OC)CCN
 Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 5F-ADB-PINACA	CC(C)(C)[C@@H](C(=O)N)NC(=O)c1c2ccccc2n(n1)CCCCCF
@@ -17568,6 +17570,10 @@ Chlorotonil A	C[C@@H]1/C=C\C=C\[C@@H](OC(=O)[C@H](C(=O)C(C(=O)[C@@H]2[C@H]1C=C[C
 Cerium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Ce+4]
 Aminoacetaldehyde	C(C=O)N
 Aminoacetaldehyde diethylacetal	CCOC(CN)OCC
+N-Nitrosodiphenylamine	C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O
 Potassium telluride	[K][Te][K]
 Aluminium cyanide	[C-]#N.[C-]#N.[C-]#N.[Al+3]
 3-Amino-1-propanol	C(CN)CO
+Alaninol	CC(CO)N
+Peroxymonophosphoric acid	OOP(=O)(O)O
+Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
