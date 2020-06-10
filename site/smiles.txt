@@ -3577,7 +3577,7 @@ Hesperidin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)
 Chromium(II) chloride	Cl[Cr]Cl
 Pralidoxime	O=[NH+]C=C1\C=C/C=C\N1C
 Silver(I,III) oxide	[Ag]O[Ag].O=[Ag]O[Ag]=O
-S-Allyl cysteine	O=C(O)[C@@H](N)CSC\C=C
+S-Allylcysteine	O=C(O)[C@@H](N)CSC\C=C
 Tellurium hexafluoride	F[Te](F)(F)(F)(F)F
 Boron arsenide	[AsH+]12[B-][AsH+]3[B-][AsH+]([BH-]14)[BH-]1[As+]5([BH-]38)[B-]26[AsH+]2[BH-]([As+]4)[AsH+]1[B-][AsH+]3[BH-]2[As+][BH-]([AsH+]6[BH-]([AsH+])[AsH+]68)[AsH+]([B-]6)[BH-]35
 Gentiobiose	O(C[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
@@ -17563,6 +17563,7 @@ Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)[18F])NC4=C2C=NC=C4
 1B-LSD	CN1[C@](C2=C[C@@H](C(N(CC)CC)=O)C1)([H])CC3=CN(C(CCC)=O)C4=C3C2=CC=C4
 19,20-Dihydroervahanine A	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)[C@H]6C[C@@H]7[C@@H](CN([C@H](C7C(=O)OC)CC8=C6NC9=CC=CC=C89)C)CC)C(=O)OC
 5-MeO-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)OC
+Lurbinectedin	CC1=CC2=C([C@@H]3[C@@H]4[C@H]5C6=C(C(=C7C(=C6[C@@H](N4[C@H]([C@H](C2)N3C)O)COC(=O)[C@@]8(CS5)C9=C(CCN8)C2=C(N9)C=CC(=C2)OC)OCO7)C)OC(=O)C)C(=C1OC)O
 Lergotrile	CN1C[C@@H](C[C@H]2[C@H]1CC3=C(NC4=CC=CC2=C34)Cl)CC#N
 Sergolexole	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)OC4CCC(CC4)OC)C5=C2C1=CC=C5
 Chlorotonil A	C[C@@H]1/C=C\C=C\[C@@H](OC(=O)[C@H](C(=O)C(C(=O)[C@@H]2[C@H]1C=C[C@H]3[C@H]2[C@@H](C=C(C3)C)C)(Cl)Cl)C)C
