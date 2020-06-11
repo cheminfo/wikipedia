@@ -782,7 +782,7 @@ Malonic acid	O=C(O)CC(O)=O
 Diethyl malonate	O=C(OCC)CC(=O)OCC
 N-Octyl beta-D-thioglucopyranoside	CCCCCCCCS[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Nonactin	C[C@@H]1C[C@H]2CC[C@H](O2)[C@@H](C(=O)O[C@H](C[C@@H]3CC[C@@H](O3)[C@H](C(=O)O[C@@H](C[C@H]4CC[C@H](O4)[C@@H](C(=O)O[C@H](C[C@@H]5CC[C@@H](O5)[C@H](C(=O)O1)C)C)C)C)C)C)C
-Hypochlorous acid	ClO
+Hypochlorous acid	OCl
 Acetone peroxide	CC1(C)OOC(C)(C)OO1
 Acetone peroxide	CC1(C)OOC(C)(C)OOC(C)(C)OO1
 Beta-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
@@ -4570,7 +4570,7 @@ Levobunolol	O=C2c1cccc(OC[C@@H](O)CNC(C)(C)C)c1CCC2
 Bimatoprost	CCNC(=O)CCCC=CCC1C(CC(C1C=CC(CCC2=CC=CC=C2)O)O)O
 Sulbutiamine	Nc2nc(C)ncc2CN(C=O)C(/C)=C(/CCOC(=O)C(C)C)SSC(/CCOC(=O)C(C)C)=C(/C)N(C=O)Cc1cnc(C)nc1N
 Sparfloxacin	C[C@@H]1CN(C[C@@H](N1)C)c2c(c(c3c(c2F)n(cc(c3=O)C(=O)O)C4CC4)N)F
-Sugammadex	[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].O=C([O-])CCSC[C@H]8O[C@@H]7O[C@H]1[C@H](O)[C@@H](O)[C@H](O[C@@H]1CSCCC(=O)[O-])O[C@H]2[C@H](O)[C@@H](O)[C@H](O[C@@H]2CSCCC(=O)[O-])O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CSCCC(=O)[O-])O[C@H]4[C@H](O)[C@@H](O)[C@H](O[C@@H]4CSCCC(=O)[O-])O[C@@H]9[C@H](O[C@H](O[C@H]5[C@H](O)[C@@H](O)[C@H](O[C@@H]5CSCCC(=O)[O-])O[C@H]6[C@H](O)[C@@H](O)[C@H](O[C@@H]6CSCCC([O-])=O)O[C@H]8[C@H](O)[C@H]7O)[C@H](O)[C@H]9O)CSCCC(=O)[O-]
+Sugammadex	C(CSCC1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CSCCC(=O)O)CSCCC(=O)O)CSCCC(=O)O)CSCCC(=O)O)CSCCC(=O)O)CSCCC(=O)O)CSCCC(=O)O)O)O)C(=O)O
 Doxacurium chloride	[Cl-].[Cl-].O=C(OCCC[N@+]2(C)[C@H](c1c(OC)c(OC)c(OC)cc1CC2)Cc3cc(OC)c(OC)c(OC)c3)CCC(=O)OCCC[N@+]5([C@@H](c4c(cc(OC)c(OC)c4OC)CC5)Cc6cc(OC)c(OC)c(OC)c6)C
 Cisatracurium besilate	[O-]S(=O)(=O)c1ccccc1.[O-]S(=O)(=O)c1ccccc1.O=C(OCCCCCOC(=O)CC[N@@+]2([C@@H](c1c(cc(OC)c(OC)c1)CC2)Cc3ccc(OC)c(OC)c3)C)CC[N@+]5(C)[C@@H](c4cc(OC)c(OC)cc4CC5)Cc6ccc(OC)c(OC)c6
 Chlormezanone	O=S1(CCC(N(C)C1C2=CC=C(C=C2)Cl)=O)=O
@@ -15955,6 +15955,7 @@ Sarafotoxin	CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(=
 2,2-Diethoxytetrahydrofuran	CCOC1(CCCO1)OCC
 Diaminomaleonitrile	C(#N)/C(=C(\C#N)/N)/N
 4-Ipomeanol	CC(CCC(=O)C1=COC=C1)O
+Proxicromil	CCCC1=C2C(=C(C3=C1CCCC3)O)C(=O)C=C(O2)C(=O)O
 Glybuzole	CC(C)(C)C1=NN=C(S1)NS(=O)(=O)C2=CC=CC=C2
 Zygacine	[H][C@@]12C[C@]34O[C@]5(O)[C@H](CC[C@@]3(C)[C@]5([H])CC[C@@]4([H])[C@]1(O)[C@@H](O)[C@H](O)[C@@]1([H])[C@@]2([H])CN2C[C@@H](C)CC[C@@]2([H])[C@@]1(C)O)OC(C)=O
 Decarbamoylsaxitoxin	NC1=N[C@H]2[C@H](CO)N=C(N)N3CCC(O)(O)[C@]23N1
@@ -17136,6 +17137,7 @@ Dimethylol propionic acid	CC(CO)(CO)C(=O)O
 Empagliflozin/metformin	CN(C)C(=N)N=C(N)N.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O.Cl
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
 BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
+Boron monohydride	[BH]
 Boron monohydride	[2H][B]
 Boron monohydride	[3H][B]
 Solanesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)/C)/C)/C)/C)C
@@ -17579,3 +17581,5 @@ Alaninol	CC(CO)N
 Lithium selenide	[Li][Se][Li]
 Peroxymonophosphoric acid	OOP(=O)(O)O
 Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
+Iodine tribromide	BrI(Br)Br
+Cyclobutanol	OC1CCC1
