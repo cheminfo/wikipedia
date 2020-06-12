@@ -8182,7 +8182,7 @@ Fludorex	CNCC(C1=CC(=CC=C1)C(F)(F)F)OC
 RTI-336	CC1=CC=C(C=C1)C2=NOC(=C2)[C@@H]3[C@H]4CC[C@H](N4C)C[C@@H]3C5=CC=C(C=C5)
 Alpha-Methylhistamine	CC(N)CC1=CNC=N1
 Drometrizole trisiloxane	CC(CC1=C(O)C(=CC(C)=C1)N1N=C2C=CC=CC2=N1)C[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C
-A-349,821	C[C@@H]1CC[C@H](N1CCCOC2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)N4CCOCC4)C
+A-349821	C[C@@H]1CC[C@H](N1CCCOC2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)N4CCOCC4)C
 Chlorisondamine	[Cl-].[Cl-].Clc1c2c(c(Cl)c(Cl)c1Cl)C[N+](C2)(C)CC[N+](C)(C)C
 4-Methylbenzaldehyde	O=Cc1ccc(C)cc1
 Imidafenacin	CC1=NC=CN1CCC(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N
@@ -8333,7 +8333,7 @@ L-655,708	CCOC(=O)c1c2n(cn1)-c3ccc(cc3C(=O)N4[C@H]2CCC4)OC
 Strontium sulfide	S=[Sr]
 Pyridine-N-oxide	c1cc[n+](cc1)[O-]
 2,4-Dinitrophenylmorphine	[O-][N+](=O)c6ccc(Oc2c1O[C@@H]4[C@@]35c1c(cc2)C[C@@H](N(CC3)C)[C@@H]5/C=C\[C@@H]4O)c([N+]([O-])=O)c6
-GSK-189,254	c4cc1CCN(C3CCC3)CCc1cc4Oc(cc2)ncc2C(=O)NC
+GSK-189254	c4cc1CCN(C3CCC3)CCc1cc4Oc(cc2)ncc2C(=O)NC
 Aplindore	c4ccccc4CNCC(CO2)Oc1c2ccc(N3)c1CC3=O
 Yttrium(III) phosphate	[O-]P(=O)([O-])[O-].[Y+3]
 Benzaldehyde	c1ccc(cc1)C=O
@@ -8644,7 +8644,7 @@ Nipecotic acid	C1CC(CNC1)C(=O)O
 Phaclofen	C1=CC(=CC=C1C(CN)CP(=O)(O)O)Cl
 Djenkolic acid	O=C(O)[C@@H](N)CSCSC[C@H](N)C(=O)O
 Veracevine	C[C@H]1CC[C@H]2[C@@]([C@]3([C@H](C[C@]4([C@@H]5CC[C@H]6[C@]7([C@]5(C[C@]4([C@@H]3CN2C1)O)O[C@@]6([C@H](CC7)O)O)C)O)O)O)(C)O
-A-423,579	CN(C)C1CCN(CCCOc2c(F)cc(cc2F):c2ccc(cc2)C#N)C1
+A-423579	CN(C)C1CCN(CCCOc2c(F)cc(cc2F):c2ccc(cc2)C#N)C1
 N4-Chloroacetylcytosine arabinoside	c1cn(c(=O)nc1NC(=O)CCl)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O
 (Z)-4-Amino-2-butenoic acid	O=C(O)\C=C/CN
 (1,2,5,6-Tetrahydropyridin-4-yl)methylphosphinic acid	CP(=O)(C1=CCNCC1)O
@@ -15350,7 +15350,7 @@ Estrone acetate	CC(=O)Oc1ccc2[C@H]3CC[C@@]4(C)[C@@H](CCC4=O)[C@@H]3CCc2c1
 Dienestrol diacetate	C\C=C(c1ccc(OC(C)=O)cc1)/C(=C/C)c2ccc(OC(C)=O)cc2
 Diethylstilbestrol dipropionate	CCC(=O)Oc1ccc(cc1)\C(CC)=C(/CC)c2ccc(OC(=O)CC)cc2
 M-Xylylenediamine	C1=CC(=CC(=C1)CN)CN
-Dalapon	CC(C(=O)O)(Cl)Cl
+2,2-Dichloropropionic acid	CC(C(=O)O)(Cl)Cl
 Tetramethyllead	C[Pb](C)(C)C
 Lefamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4CC[C@H](C[C@H]4O)N)C
 Azamulin	CC[C@@]1(C[C@H]([C@@]2([C@@H](CC[C@@]3([C@H]2C(=O)CC3)[C@H]([C@@H]1O)C)C)C)OC(=O)CSc4nc([nH]n4)N)C
@@ -17583,3 +17583,6 @@ Peroxymonophosphoric acid	OOP(=O)(O)O
 Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
 Iodine tribromide	BrI(Br)Br
 Cyclobutanol	OC1CCC1
+Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
+Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
+Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
