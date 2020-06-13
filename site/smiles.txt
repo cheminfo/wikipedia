@@ -8428,7 +8428,7 @@ Prasterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)OS
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
 Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
-UMB66	C(CCl)C(=O)O
+3-Chloropropanoic acid	C(CCl)C(=O)O
 Coelenterazine	C1=CC=C(C=C1)CC2=C3N=C(C(=O)N3C=C(N2)C4=CC=C(C=C4)O)CC5=CC=C(C=C5)O
 ZM-241,385	Oc1ccc(CCNc2nc3nc(c4ccco4)nn3c(N)n2)cc1
 N,N'-Methylenebisacrylamide	C=CC(=O)NCNC(=O)C=C
@@ -17586,3 +17586,4 @@ Cyclobutanol	OC1CCC1
 Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
 Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
 Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
+SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
