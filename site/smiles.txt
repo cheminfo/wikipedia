@@ -15252,7 +15252,7 @@ Glycidamide	C1C(O1)C(=O)N
 Ribociclib	CN(C)C(=O)c1cc2cnc(nc2n1C3CCCC3)Nc4ccc(cn4)N5CCNCC5
 Flubendiamide	CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C
 Alpelisib	CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
-AMG319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
+AMG 319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
 Etoxazole	CCOc1cc(ccc1C2COC(=N2)c3c(cccc3F)F)C(C)(C)C
 Entospletinib	C1COCCN1C2=CC=C(C=C2)NC3=NC(=CN4C3=NC=C4)C5=CC6=C(C=C5)C=NN6
 Tolibut	CC1=CC=C(C=C1)C(CC(=O)O)CN
@@ -17443,7 +17443,7 @@ Acid orange 19	CC1=C(C=C(C=C1)N=NC2=C(C3=CC=CC=C3C(=C2)S(=O)(=O)[O-])O)S(=O)(=O)
 3CLpro-1	C1CNC(=O)[C@@H]1C[C@@H](C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)/C=C/C3=C(C=C(C=C3)Cl)F
 GC376	CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)[O-])NC(=O)OCC2=CC=CC=C2.[Na+]
 Acyline	C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCNC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CC=C(C=C2)NC(=O)C)NC(=O)[C@H](CC3=CC=C(C=C3)NC(=O)C)NC(=O)[C@H](CO)NC(=O)[C@@H](CC4=CN=CC=C4)NC(=O)[C@@H](CC5=CC=C(C=C5)Cl)NC(=O)[C@@H](CC6=CC7=CC=CC=C7C=C6)NC(=O)C
-Benzophosphole	P1C=CC=C1
+Benzophosphole	C1=CC=C2C(=C1)C=CP2
 Estrone phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OP(=O)(O)O
 Potassium selenide	[K+].[K+].[Se-2]
 4α-methylfecosterol	C[C@H]1[C@@H]2CCC3=C([C@]2(CC[C@@H]1O)C)CC[C@]4([C@H]3CC[C@@H]4[C@H](C)CCC(=C)C(C)C)C
