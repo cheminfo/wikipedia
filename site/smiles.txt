@@ -6438,6 +6438,7 @@ Magnesium gluconate	[Mg+2].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.[O-]C(=O
 Tioclomarol	c1ccc2c(c1)c(c(c(=O)o2)C(CC(c3ccc(cc3)Cl)O)c4ccc(s4)Cl)O
 Diphenadione	O=C2c1ccccc1C(=O)C2C(=O)C(c3ccccc3)c4ccccc4
 Clorindione	Clc1ccc(cc1)C3C(=O)c2ccccc2C3=O
+Insulin lispro	CCC(C)C(C(=O)NC(C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CS)C(=O)NC(CS)C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CS)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)CN.CC(C)CC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(CS)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC2=CC=CC=C2)C(=O)NC(CC3=CC=CC=C3)C(=O)NC(CC4=CC=C(C=C4)O)C(=O)NC(C(C)O)C(=O)NC(CCCCN)C(=O)N5CCCC5C(=O)NC(C(C)O)C(=O)O)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC6=CN=CN6)NC(=O)C(CO)NC(=O)CNC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CC7=CN=CN7)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC8=CC=CC=C8)N
 Omoconazole	Clc3ccc(C(/OCCOc1ccc(Cl)cc1)=C(/n2ccnc2)C)c(Cl)c3
 Fenticonazole	c1ccc(cc1)Sc2ccc(cc2)COC(Cn3ccnc3)c4ccc(cc4Cl)Cl
 Bifonazole	n1ccn(c1)C(c3ccc(c2ccccc2)cc3)c4ccccc4
@@ -14662,7 +14663,7 @@ Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CC
 Etomoxir	CCOC(=O)[C@]1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 Aldoxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=NNC(=O)CCCCCN6C(=O)C=CC6=O)CO)O)N)O
 Crisaborole	B1(c2ccc(cc2CO1)Oc3ccc(cc3)C#N)O
-Caesium hydrogen sulfate	OS(=O)(=O)[O-].[Cs+]
+Caesium bisulfate	OS(=O)(=O)[O-].[Cs+]
 1,2-Diformylhydrazine	O=CNNC=O
 Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
 3,4-Epoxycyclohexanecarboxylate methyl ester	COC(=O)C1CCC2C(C1)O2
@@ -17514,6 +17515,7 @@ GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
 Sodium hydroselenide	[Na][SeH]
 E7070	C1=CC2=C(C(=C1)NS(=O)(=O)C3=CC=C(C=C3)S(=O)(=O)N)NC=C2Cl
 Dihydrolanosterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
+Dichlorine pentoxide	ClOOCl(=O)(=O)=O
 Cyameluric acid	C1(=O)NC2=NC(=O)NC3=NC(=O)N=C(N23)N1
 Hydromelonic acid	C(#N)NC1=NC2=NC(=NC#N)N=C3N2C(=N1)NC(=NC#N)N3
 Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
@@ -17587,3 +17589,4 @@ Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
 Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
 Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
 SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
+Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1OC(=O)CC)O[C@@]2(O[C@@H]([C@@H](OC(=O)CC)[C@@H]2OC(=O)CC)COC(=O)CC)COC(=O)CC)CC
