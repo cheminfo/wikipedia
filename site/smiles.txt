@@ -17590,3 +17590,11 @@ Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
 Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
 SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
 Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1OC(=O)CC)O[C@@]2(O[C@@H]([C@@H](OC(=O)CC)[C@@H]2OC(=O)CC)COC(=O)CC)COC(=O)CC)CC
+Guvacoline	COC(=O)C1=CCCNC1
+Pinacyanol	CC[n+]1c(ccc2c1cccc2)C=CC=C3C=Cc4ccccc4N3CC.[I-]
+16β-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H](C2=O)O)CCC4=C3C=CC(=C4)O
+16-Ketoestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)C2=O)CCC4=C3C=CC(=C4)O
+Butestrol	C[C@@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
+Meso-Butestrol	CCC(C1=CC=C(C=C1)O)C(C#N)C2=CC=C(C=C2)O
+16-Ketoestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)[C@@H]2O)CCC4=C3C=CC(=C4)O
+Ent-Estradiol	C[C@@]12CC[C@@H]3[C@@H]([C@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
