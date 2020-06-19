@@ -306,7 +306,7 @@ Trifluoperazine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4
 Halothane	C(C(F)(F)F)(Cl)Br
 Naloxone	O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(CC=C)[C@@H]5C4
 Soman	FP(=O)(OC(C)C(C)(C)C)C
-Ethylene glycol	C(CO)O
+Ethylene glycol	OCCO
 Salvinorin A	O=C(OC)[C@H]2[C@@]3(CC[C@H]4C(=O)O[C@H](c1ccoc1)C[C@@]4([C@H]3C(=O)[C@@H](OC(=O)C)C2)C)C
 Gallium arsenide	[Ga]#[As]
 Gallium arsenide	[Ga+3].[As-3]
@@ -17520,6 +17520,7 @@ Hydromelonic acid	C(#N)NC1=NC2=NC(=NC#N)N=C3N2C(=N1)NC(=NC#N)N3
 Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
 Eburicol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Lutetium (177Lu) chloride	[Cl-].[Cl-].[Cl-].[177Lu+3]
+Alpha-isomethyl ionones	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
 Selpercatinib	CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O
 Phenazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
 Selenophos	CCN(CC)CC[Se]P(=O)(CC)OCC
@@ -17592,9 +17593,12 @@ Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1
 Guvacoline	COC(=O)C1=CCCNC1
 Pinacyanol	CC[n+]1c(ccc2c1cccc2)C=CC=C3C=Cc4ccccc4N3CC.[I-]
 4-Methylenedioxy-4-imidazoline	N1CNC2=C1OCO2
+BAM15	C1=CC=C(C(=C1)NC2=NC3=NON=C3N=C2NC4=CC=CC=C4F)F
 16β-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H](C2=O)O)CCC4=C3C=CC(=C4)O
 16-Ketoestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)C2=O)CCC4=C3C=CC(=C4)O
 Butestrol	C[C@@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
 Meso-Butestrol	CCC(C1=CC=C(C=C1)O)C(C#N)C2=CC=C(C=C2)O
 16-Ketoestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)[C@@H]2O)CCC4=C3C=CC(=C4)O
 Ent-Estradiol	C[C@@]12CC[C@@H]3[C@@H]([C@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
+Fluorosulfite	[O-]S(=O)F
+Iron(II) cyanide	[C-]#N.[C-]#N.[Fe+2]
