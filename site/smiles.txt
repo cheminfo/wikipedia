@@ -548,7 +548,7 @@ Carbamoyl phosphate	C(=O)(N)OP(=O)(O)O
 Creatine	CN(CC(=O)O)C(=N)N
 Kepone	ClC54C(=O)C1(Cl)C2(Cl)C5(Cl)C3(Cl)C4(Cl)C1(Cl)C2(Cl)C3(Cl)Cl
 Anastrozole	N#CC(C)(C)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N
-Dexamethasone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@H]3C)C)C
+Dexamethasone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]1(C(=CC(=O)C=C1)CC[C@H]4[C@@H]2C[C@H]3C)C)C
 Mesitylene	Cc1cc(cc(c1)C)C
 Digoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
 Digitoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)CC[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](O)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
@@ -2221,18 +2221,18 @@ Maltitol	OC[C@H](O)[C@@H](O)[C@]([C@H](O)CO)([H])O[C@H]1O[C@H](CO)[C@@H](O)[C@H]
 Pregabalin	CC(C)CC(CC(=O)O)CN
 Pentobarbital	O=C1NC(=O)NC(=O)C1(C(C)CCC)CC
 Methylprednisolone acetate	C[C@H]1CC2C3CC[C@@]([C@]3(C[C@@H](C2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)C)O
-Methylprednisolone sodium succinate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)[O-])O.[Na+]
+Methylprednisolone succinate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)O)O
 Trimipramine	c1cc3c(cc1)CCc2c(cccc2)N3CC(C)CN(C)C
 Hydrocortisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)O)C)O
 Hydrocortisone cypionate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC5CCCC5)O)C)O
-Hydrocortisone sodium phosphate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COP(=O)([O-])[O-])O)C)O.[Na+].[Na+]
+Hydrocortisone phosphate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COP(=O)([O-])[O-])O)C)O.[Na+].[Na+]
 Hydrocortisone sodium succinate	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)COC(=O)CCC(=O)[O-])O)C)O.[Na+]
 Hydrocortisone valerate	CCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)O)C)C(=O)CO
 Benazepril	O=C(OCC)[C@@H](N[C@@H]2C(=O)N(c1ccccc1CC2)CC(=O)O)CCc3ccccc3
 Betamethasone acetate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)F)C
 Betamethasone benzoate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)OC(=O)c5ccccc5)C)O)F)C
 Betamethasone dipropionate	O=C(OCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C)CC
-Betamethasone sodium phosphate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)([O-])[O-])O)C)O)F)C.[Na+].[Na+]
+Betamethasone phosphate	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COP(=O)([O-])[O-])O)C)O)F)C.[Na+].[Na+]
 Betamethasone valerate	CCCCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)C)C(=O)CO
 Sodium propionate	[Na+].[O-]C(=O)CC
 Potassium propanoate	CCC(=O)[O-].[K+]
@@ -8754,7 +8754,7 @@ Amanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4C[C@@H](O)
 Proamanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4CCC5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Clocortolone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)COC(=O)C(C)(C)C)C)O)Cl)C)F
 Dexamethasone acefurate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)OC(=O)C5=CC=CO5)C)O)F)C
-Methylprednisolone suleptanate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCCCCCC(=O)N(C)CCS(=O)(=O)[O-])O.[Na+]
+Methylprednisolone suleptanate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCCCCCC(=O)N(C)CCS(=O)(=O)O)O
 Epsilon-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)C)([H])N[C@@]4=O)=O
 Amanullinic acid	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Copper(I) hydroxide	[OH-].[Cu+]
@@ -17520,7 +17520,7 @@ Hydromelonic acid	C(#N)NC1=NC2=NC(=NC#N)N=C3N2C(=N1)NC(=NC#N)N3
 Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
 Eburicol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Lutetium (177Lu) chloride	[Cl-].[Cl-].[Cl-].[177Lu+3]
-Alpha-isomethyl ionones	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
+Alpha-isomethyl ionone	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
 Selpercatinib	CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O
 Phenazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
 Selenophos	CCN(CC)CC[Se]P(=O)(CC)OCC
@@ -17559,7 +17559,9 @@ Isovoacangine	CCC1CC2CC3(C1N(C2)CCc4c3[nH]c5c4ccc(c5)OC)C(=O)OC
 Dregamine	CCC1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C(=O)OC)(C2C(C1)O2)CC)C1=CC(=C(C(=C1N3)OC)OC)O)C(=O)OC
 Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
+Conofoline	CC[C@]12CC[C@H]3[C@@]4([C@H]1N(CC4)C[C@@H]5[C@H]2O5)C6=C(N3C)C=CC(=C6)[C@@H]7[C@@H]8[C@@H](O8)[C@]9(CC(=C1[C@@]2([C@H]9N7CC2)C2=CC(=C(C(=C2N1)OC)OC)O)C(=O)OC)CC
 Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
+Voacristine	C[C@@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
 Diphenylcarbazone	C1=CC=C(C=C1)NNC(=O)N=NC2=CC=CC=C2
 1cP-LSD	CCN(CC)C(=O)[C@@H]5C=C2[C@@H](Cc3cn(C(=O)C1CC1)c4cccc2c34)N(C)C5
 Californium(III) oxyfluoride	[O-2].[F-].[Cf+3]
@@ -17602,3 +17604,6 @@ Meso-Butestrol	CCC(C1=CC=C(C=C1)O)C(C#N)C2=CC=C(C=C2)O
 Ent-Estradiol	C[C@@]12CC[C@@H]3[C@@H]([C@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
 Fluorosulfite	[O-]S(=O)F
 Iron(II) cyanide	[C-]#N.[C-]#N.[Fe+2]
+Pigment Orange 13	CC1=NN(C(=C1N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC4=C(N(N=C4C)C5=CC=CC=C5)O)Cl)Cl)O)C6=CC=CC=C6
+Praseodymium(III) hydroxide	[Pr+3].[OH-].[OH-].[OH-]
+M-alpha-HMCA	NC(C(O)(C)C(NC)=O)C1=CC(OCO2)=C2C=C1
