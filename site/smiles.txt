@@ -13574,6 +13574,7 @@ Anhalamine	COC1=C(C(=C2CNCCC2=C1)O)OC
 Anhalidine	OC1=C(C(OC)=CC2=C1CN(C)CC2)OC
 Anhalinine	COC1=C(C(=C2CNCCC2=C1)OC)OC
 N-Methylmescaline	CNCCC1=CC(=C(C(=C1)OC)OC)OC
+SIMes	Cc1cc(C)c(c(C)c1)N2CCN([C]2)c3c(C)cc(C)cc3C
 Dendrobine	CC(C)[C@H]1[C@H]2[C@@H]3CC[C@H]4[C@@]3([C@@H]([C@@H]1OC2=O)N(C4)C)C
 Variecolin	C[C@H]1CC(=O)[C@@H]/2[C@H]1C[C@]3(CC[C@@]4(CC[C@@H]([C@H]4[C@@H]3C/C=C2/C=O)C(=C)C)C)C
 N-Acetylmescaline	O=C(NCCc1cc(OC)c(OC)c(OC)c1)C
@@ -17488,6 +17489,7 @@ Obtusifoliol	C[C@@H]1[C@H](CC[C@]2(C1CCC3=C2CC[C@]4([C@]3(CC[C@@H]4[C@H](C)CCC(=
 Di-tert-butylcyclopentadiene	CC(C)(C)C1C=CC(=C1)C(C)(C)C
 Allyl phenylacetate	C=CCOC(=O)CC1=CC=CC=C1
 Disperse Yellow 42	C1=CC=C(C=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC3=CC=CC=C3)[N+](=O)[O-]
+Sulfate chloride	[O-]S(=O)(=O)[O-].[Cl-]
 Disperse Red 60	C1=CC=C(C=C1)OC2=C(C3=C(C(=C2)O)C(=O)C4=CC=CC=C4C3=O)N
 Lewisite 3	C(=C[As](C=CCl)C=CCl)Cl
 Thulium(III) fluoride	F[Tm](F)F
@@ -17607,3 +17609,8 @@ Iron(II) cyanide	[C-]#N.[C-]#N.[Fe+2]
 Pigment Orange 13	CC1=NN(C(=C1N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC4=C(N(N=C4C)C5=CC=CC=C5)O)Cl)Cl)O)C6=CC=CC=C6
 Praseodymium(III) hydroxide	[Pr+3].[OH-].[OH-].[OH-]
 M-alpha-HMCA	NC(C(O)(C)C(NC)=O)C1=CC(OCO2)=C2C=C1
+Neodymium(III) hydroxide	[Nd+3].[OH-].[OH-].[OH-]
+2-Methoxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=CC(=C(C=C34)OC)O
+2-Methoxyestradiol disulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)N)CCC4=CC(=C(C=C34)OC)OS(=O)(=O)N
+4-Fluoroestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4F)O
+4-Methoxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4OC)O
