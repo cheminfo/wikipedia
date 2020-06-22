@@ -3849,6 +3849,7 @@ Hydroxymethylpentylcyclohexenecarboxaldehyde	O=CC1C/C=C(/CCCC(O)(C)C)CC1
 Verbenone	CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C
 Cyclopiazonic acid	CC(=O)C1=C(O)[C@H]5N(C1=O)[C@@](C)(C)[C@@H]4Cc2cccc3[nH]cc(c23)[C@@H]45
 Dihydrogen phosphate	OP(=O)(O)[O-]
+Thiosulfate	[O-]S(=O)(=S)[O-]
 Ammonium metavanadate	[NH4+].O=[V-](=O)=O
 Sodium metavanadate	[O-][V](=O)=O.[Na+]
 Lithium sulfate	[Li+].[Li+].[O-]S(=O)(=O)[O-]
@@ -10117,6 +10118,7 @@ Procyanidin B8	O[C@@H]1Cc2c(O[C@@H]1c1ccc(O)c(O)c1)cc(O)c([C@H]1[C@H](O)[C@H](Oc
 Procyanidin A1	O[C@@H]1[C@@H](C2=C(O[C@H](C3=CC(O)=C(O)C=C3)[C@@H](O)C4)C4=C(O)C=C2O5)C6=C(C=C(O)C=C6O)O[C@]15C7=CC(O)=C(O)C=C7
 Procyanidin A2	C1[C@H]([C@H](OC2=C3[C@@H]4[C@H]([C@@](OC5=CC(=CC(=C45)O)O)(OC3=CC(=C21)O)C6=CC(=C(C=C6)O)O)O)C7=CC(=C(C=C7)O)O)O
 Neo-Inositol	O[C@H]1[C@@H](O)[C@H](O)[C@H](O)[C@H](O)[C@H]1O
+Muco-Inositol	O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 1L-chiro-Inositol	O[C@@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Epi-Inositol	O[C@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
 Cis-Inositol	O[C@@H]1[C@H](O)[C@H](O)[C@H](O)[C@H](O)[C@@H]1O
@@ -14868,7 +14870,7 @@ Profenofos	CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl
 AB-FUBICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CC2=CC=C(F)C=C2)C3=CC=CC=C31
 ADB-FUBICA	O=C(C1=CN(CC2=CC=C(F)C=C2)C3=C1C=CC=C3)N[C@@H](C(C)(C)C)C(N)=O
 AB-PICA	O=C(N[C@H](C(N)=O)C(C)C)C1=CN(CCCCC)C2=CC=CC=C21
-5F-ADBICA	FCCCCCn1cc(c2c1cccc2)C(=O)NC(C(C)(C)C)C(=O)N
+5F-ADBICA	CC(C)(C)[C@@H](C(=O)N)NC(=O)C1=CN(C2=CC=CC=C21)CCCCCF
 3-Amino-9-ethylcarbazole	CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31
 Pivaldehyde	CC(C)(C([H])=O)C
 Deschloroetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4)C
@@ -15098,7 +15100,7 @@ Phenylbiguanide	c1ccc(cc1)NC(=N)NC(=N)N
 A-971432	C1C(CN1CC2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)O
 Indirubin	c1ccc2c(c1)/C(=C/3\C(=O)c4ccccc4N3)/C(=O)N2
 Cinepazic acid	COC1=CC(=CC(=C1OC)OC)C=CC(=O)N2CCN(CC2)CC(=O)O
-Nickel phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
+Nickel(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2]
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
 Filibuvir	CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
