@@ -3719,6 +3719,7 @@ Maitotoxin	C[C@H](CC[C@@H]([C@@H]([C@H](C)C[C@H](C(=C)/C(=C/CO)/C)O)O)OS(=O)(=O)
 Eptifibatide	[H][C@@]14CCCN1C(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CC(=O)O)NC(=O)CNC(=O)[C@H](CCCCNC(=N)N)NC(=O)CCSSC[C@@H](C(N)=O)NC4=O
 Bronidox	O=[N+]([O-])C1(Br)COCOC1
 1,4,7-Triazacyclononane	C1CNCCNCCN1
+Ruthenium tetroxide	O=[Ru](=O)(=O)=O
 Petasis reagent	[Ti](C)(C).c1[cH-]ccc1.c2[cH-]ccc2
 Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
@@ -14403,6 +14404,7 @@ Hexaiodobenzene	C1(=C(C(=C(C(=C1I)I)I)I)I)I
 Hexabromobenzene	C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)Br
 PYR-41	CCOC(=O)C1=CC=C(C=C1)N2C(=O)/C(=C\C3=CC=C(O3)[N+](=O)[O-])/C(=O)N2
 Narciclasine	C1OC2=C(O1)C(=C3C(=C2)C4=C[C@@H]([C@H]([C@H]([C@@H]4NC3=O)O)O)O)O
+Promethium(III) chloride	Cl[Pm](Cl)Cl
 Y-320	O=C(C1=C(C)N(C2=CC=C(Cl)C=C2)N=C1)NC(C=C3)=CC(C#N)=C3N(CC4)CCC4N5CCOCC5
 Titanium nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
 Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
@@ -17616,3 +17618,11 @@ Neodymium(III) hydroxide	[Nd+3].[OH-].[OH-].[OH-]
 2-Methoxyestradiol disulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)N)CCC4=CC(=C(C=C34)OC)OS(=O)(=O)N
 4-Fluoroestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4F)O
 4-Methoxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4OC)O
+Samarium(III) hydroxide	[Sm+3].[OH-].[OH-].[OH-]
+Kalafungin	C[C@@H]1C2=C([C@@H]3[C@H](O1)CC(=O)O3)C(=O)c4cccc(c4C2=O)O
+Estradiol disulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
+Estradiol 3-glucuronide 17β-sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=C3C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
+Estradiol 17β-benzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4=CC=CC=C4)CCC5=C3C=CC(=C5)O
+Estradiol 17β-acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
+Estradiol diacetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C)C
+Thulium(II) chloride	Cl[Tm]Cl
