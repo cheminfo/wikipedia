@@ -2007,7 +2007,6 @@ Lithium acetate	[Li+].CC(=O)[O-]
 Geosmin	O[C@]12[C@H](CCC[C@]2(CCCC1)C)C
 Sodium oxide	[O-2].[Na+].[Na+]
 Sodium peroxide	[O-][O-].[Na+].[Na+]
-Sodium superoxide	O=O.[Na+]
 Potassium peroxide	[O-][O-].[K+].[K+]
 Oxetane	C1CCO1
 Sodium perchlorate	[Na+].[O-]Cl(=O)(=O)=O
@@ -3471,7 +3470,7 @@ Dimethyl telluride	C[Te]C
 Ramelteon	CCC(NCC[C@@H]1CCC2=CC=C3OCCC3=C12)=O
 Guanfacine	Clc1cccc(Cl)c1CC(=O)\N=C(/N)N
 SB-649868	CC1=NC(=C(S1)C2=CC=C(C=C2)F)C(=O)N3CCCC[C@H]3CNC(=O)C4=C5C=COC5=CC=C4
-Uranyl hydroxide	O[U](O)(=O)=O
+Uranyl hydroxide	O=[U+2]=O.[OH-].[OH-]
 Pramipexole	n1c2c(sc1N)C[C@@H](NCCC)CC2
 Sodium phosphide	[Na+].[Na+].[Na+].[P-3]
 N-Formylmethionine	CSCC[C@H](NC=O)C(O)=O
@@ -17601,7 +17600,6 @@ SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
 Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1OC(=O)CC)O[C@@]2(O[C@@H]([C@@H](OC(=O)CC)[C@@H]2OC(=O)CC)COC(=O)CC)COC(=O)CC)CC
 Guvacoline	COC(=O)C1=CCCNC1
 Pinacyanol	CC[n+]1c(ccc2c1cccc2)C=CC=C3C=Cc4ccccc4N3CC.[I-]
-4-Methylenedioxy-4-imidazoline	N1CNC2=C1OCO2
 BAM15	C1=CC=C(C(=C1)NC2=NC3=NON=C3N=C2NC4=CC=CC=C4F)F
 16β-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H](C2=O)O)CCC4=C3C=CC(=C4)O
 16-Ketoestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)C2=O)CCC4=C3C=CC(=C4)O
@@ -17628,3 +17626,5 @@ Estradiol 17β-acetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C
 Estradiol diacetate	CC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C)C
 Thulium(II) chloride	Cl[Tm]Cl
 Europium(III) hydroxide	[Eu+3].[OH-].[OH-].[OH-]
+Berzosertib	CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N
+Agglomerin	O=C(C1=C(O)C(OC1=O)=C)CCCCCCCCC
