@@ -8385,7 +8385,7 @@ Toxiferine	[H][C@@]12[C@@]3(CC[N+]2(C)C/C4=C/CO)[C@@]5([H])N(C6=C3C=CC=C6)/C=C7[
 Mardepodect	n3c1ccccc1ccc3COc5ccc(cc5)-c2nn(C)cc2-c4ccncc4
 Metam sodium	[Na+].[S-]C(=S)NC
 Icariin	O=C3C(\O[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)=C(/Oc4c(c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc(O)c34)C\C=C(/C)C)c5ccc(OC)cc5
-Propane-1,3-sultone	C1COS(=O)(=O)C1
+1,3-Propane sultone	C1COS(=O)(=O)C1
 Trifluralin	[O-][N+](=O)c1cc(cc([N+]([O-])=O)c1N(CCC)CCC)C(F)(F)F
 Propanil	Clc1ccc(NC(=O)CC)cc1Cl
 Iridium tetrafluoride	F[Ir](F)(F)F
@@ -17628,3 +17628,4 @@ Thulium(II) chloride	Cl[Tm]Cl
 Europium(III) hydroxide	[Eu+3].[OH-].[OH-].[OH-]
 Berzosertib	CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N
 Agglomerin	O=C(C1=C(O)C(OC1=O)=C)CCCCCCCCC
+Erbium(III) hydroxide	[Er+3].[OH-].[OH-].[OH-]
