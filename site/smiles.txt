@@ -11529,7 +11529,6 @@ N-Glycolylneuraminic acid	C1[C@@H]([C@H]([C@@H](O[C@@]1(C(=O)O)O)[C@@H]([C@@H](C
 1,2-Dioxane	C1CCOOC1
 1,3-Dioxane	C1COCOC1
 2,4-Diacetylphloroglucinol	CC(=O)C1=C(C(=C(C=C1O)O)C(=O)C)O
-Ivacaftor	O=C\2c1c(cccc1)N/C=C/2C(=O)Nc3cc(O)c(cc3C(C)(C)C)C(C)(C)C
 JWH-424	c4cccc1c4n(CCCCC)cc1C(=O)c(c2c3Br)cccc2ccc3
 Thymidine triphosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
 Isomethadone	O=C(CC)C(C1=CC=CC=C1)(C(C)CN(C)C)C2=CC=CC=C2
@@ -12762,6 +12761,7 @@ Malvidin glucoside-ethyl-catechin	OC1=C(OC)C=C(C2=[O+]C3=C(C(O)=CC(O)=C3C=C2O[C@
 Tetrakis(pyridine)silver(II) peroxydisulfate	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Ag]
 Zofenoprilat	C[C@H](CS)C(=O)N1C[C@H](C[C@H]1C(O)=O)SC1=CC=CC=C1
 Rhenium(VII) sulfide	S=[Re](=S)(=S)S[Re](=S)(=S)=S
+Paramenthane hydroperoxide	CC1CCC(C(C1)OO)C(C)C
 Trimethylene carbonate	O=C1OCCCO1
 Chromium pentafluoride	F[Cr](F)(F)(F)F
 Ethyl chloroacetate	ClCC(=O)OCC
@@ -17083,7 +17083,7 @@ Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
 Tropifexor	C1C[C@H]2CC(C[C@@H]1N2C3=NC4=C(C=C(C=C4S3)C(=O)O)F)OCC5=C(ON=C5C6=CC=CC=C6OC(F)(F)F)C7CC7
 Trifluoromethyl cation	[C+](F)(F)F
-Hexaamminenickel(II) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
+Hexaamminenickel chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 2-Aminobiphenyl	C1=CC=C(C=C1)C2=CC=CC=C2N
@@ -17628,4 +17628,4 @@ Thulium(II) chloride	Cl[Tm]Cl
 Europium(III) hydroxide	[Eu+3].[OH-].[OH-].[OH-]
 Berzosertib	CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N
 Agglomerin	O=C(C1=C(O)C(OC1=O)=C)CCCCCCCCC
-Erbium(III) hydroxide	[Er+3].[OH-].[OH-].[OH-]
+Erbium(III) hydroxide	[OH-].[OH-].[OH-].[Er+3]
