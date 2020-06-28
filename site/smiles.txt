@@ -503,6 +503,8 @@ Glyphosate	O=C(O)CNCP(=O)(O)O
 Bromotrifluoromethane	BrC(F)(F)F
 Diethylstilbestrol	Oc2ccc(/C(=C(/c1ccc(O)cc1)CC)CC)cc2
 Molybdenum disulfide	S=[Mo]=S
+Hydrofluoric acid	F
+Hydrofluoric acid	[F-].[OH3+]
 Trichlorosilane	Cl[SiH](Cl)Cl
 Procaine	O=C(OCCN(CC)CC)c1ccc(N)cc1
 Lidocaine	O=C(Nc1c(cccc1C)C)CN(CC)CC
@@ -12281,7 +12283,7 @@ Phosphoryl fluoride	F[P+](F)(F)[O-]
 Phosphoryl fluoride	FP(F)(F)=O
 Tetranitratoxycarbon	N(O1)(O2)OC12C(C(O1)(O2)ON12)(C(O1)(O2)ON12)C(O1)(O2)ON12
 Delta-Viniferin	C1=CC(=CC=C1[C@H]2[C@@H](C3=C(O2)C=CC(=C3)/C=C/C4=CC(=CC(=C4)O)O)C5=CC(=CC(=C5)O)O)O
-Molybdocene dichloride	[cH-]1cccc1.[cH-]1cccc1.Cl[Mo]Cl
+Molybdocene dichloride	[cH-]1cccc1.[cH-]1cccc1.Cl[Mo+2]Cl
 PF-00446687	C[C@@H]1CN(C[C@@H]([C@]1(c2ccccc2)O)C)C(=O)[C@@H]3CN(C[C@H]3c4ccc(cc4F)F)C(C)(C)C
 Xylosan	O[C@@H]1[C@@H](O)[C@H]2O[C@@H]1CO2
 Mavoglurant	O=C(OC)N3[C@@H]2CCC[C@@](O)(C#Cc1cccc(c1)C)[C@@H]2CC3
@@ -17629,3 +17631,4 @@ Europium(III) hydroxide	[Eu+3].[OH-].[OH-].[OH-]
 Berzosertib	CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N
 Agglomerin	O=C(C1=C(O)C(OC1=O)=C)CCCCCCCCC
 Erbium(III) hydroxide	[OH-].[OH-].[OH-].[Er+3]
+Dysprosium(III) hydroxide	[Dy+3].[OH-].[OH-].[OH-]
