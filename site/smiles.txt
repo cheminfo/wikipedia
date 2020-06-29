@@ -3986,6 +3986,7 @@ Calcium lactate gluconate	[Ca+2].[O-]C(=O)C(O)C.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](
 Bretylium	Brc1ccccc1C[N+](CC)(C)C
 2-Nitrodiphenylamine	[O-][N+](=O)c2ccccc2Nc1ccccc1
 Vanadium(IV) oxide	O=[V]=O
+Vanadium(III) oxide	[O-2][V+3][O-2][V+3][O-2]
 4-Androstene-3,6,17-trione	O=C4\C1=C\C(=O)CC[C@@]1([C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3C4)C)C
 Xenic acid	O[Xe](=O)(=O)O
 Tetramethylethylenediamine	CN(C)CCN(C)C
@@ -6639,7 +6640,6 @@ Rilmazafone	ClC1=C(C(C2=CC(Cl)=CC=C2N3C(CNC(CN)=O)=NC(C(N(C)C)=O)=N3)=O)C=CC=C1
 Copper(I) fluoride	F[Cu]
 Sodium ferrocyanide	[Na+].[Na+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[Na+].[Na+]
 MK-9470	CCOc1ccc(C[C@H]([C@H](C)NC(=O)C(C)(C)Oc2ccc(C)cn2)c3cccc(c3)C#N)cc1
-Caesium dodecaborate	B(BBBBBB[Cs])BBBBB[Cs]
 POPOP	C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C4=NC=C(O4)C5=CC=CC=C5
 Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C@H]3CC[C@@]4([C@H]5CC[C@@H]6[C@H]7[C@@](C[C@@H](O[C@@]78C[C@]6([C@@]5(CC[C@H]4C3(C)C)C)CO8)C=C(C)C)(C)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)OC(=O)C)OC(=O)C)C)O)O)O
 Disodium octaborate tetrahydrate	B(=O)OB1OB2OB(OB(OB(O2)OB(O1)OB=O)[O-])[O-].O.O.O.O.[Na+].[Na+]
