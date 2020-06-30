@@ -4694,6 +4694,7 @@ Lofexidine	Clc2c(OC(C/1=N/CCN\1)C)c(Cl)ccc2
 Chloro(triphenylphosphine)gold(I)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Au]
 Chloro(triphenylphosphine)gold(I)	Cl[Au-][P+](c0ccccc0)(c0ccccc0)c0ccccc0
 Erbium(III) oxide	O=[Er]O[Er]=O
+Erbium(III) oxide	[O-2].[Er+3].[O-2].[Er+3].[O-2]
 Sodium hypophosphite	[O-][PH2]=O.[Na+]
 Dichlorophenolindophenol	Cl\C2=CC(=N/c1ccc(O)cc1)/C=C(/Cl)C2=O
 O-Ethyl methylphosphonothioic acid	S=P(O)(OCC)C
@@ -5148,6 +5149,7 @@ Decitabine	O=C1/N=C(\N=C/N1[C@@H]2O[C@@H]([C@@H](O)C2)CO)N
 Nalmefene	OC(C1=C2[C@@]34[C@H]5O1)=CC=C2C[C@@H](N(CC4)CC6CC6)[C@]3(O)CCC5=C
 Histrelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC2=CN(C=N2)CC3=CC=CC=C3)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CNC=N7)NC(=O)[C@@H]8CCC(=O)N8
 Tetrarhodium dodecacarbonyl	[Rh-2]1235(C#[O+])(C#[O+])C(=O)[Rh-2]246(C#[O+])(C#[O+])C(=O)[Rh-2]34(C#[O+])(C#[O+])(C1=O)[Rh-3]56(C#[O+])(C#[O+])C#[O+]
+Cyclopentadienylmolybdenum tricarbonyl dimer	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.C1=C[CH]C=C1.[Mo].[Mo]
 Niobocene dichloride	[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.Cl[Nb]Cl
 Cyclooctadiene rhodium chloride dimer	Cl1[Rh]Cl[Rh]1.C=1CC\C=C/CCC=1.C/1C\C=C/CC\C=C\1
 Strontium carbonate	[Sr+2].[O-]C([O-])=O
@@ -12092,6 +12094,7 @@ Morphine-N-oxide	CN1(=O)CC[C@@]23[C@H]4Oc5c2c(C[C@@H]1[C@@H]3C=C[C@@H]4O)ccc5O
 Evacetrapib	O=C([C@H]1CC[C@H](CN2CCC[C@H](N(CC3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)C4=NN(C)N=N4)C5=CC(C)=CC(C)=C52)CC1)O
 Lesquerolic acid	O=C(O)CCCCCCCCC\C=C/C[C@H](O)CCCCCC
 Levopimaric acid	O=C(O)[C@]3([C@@H]2CCC\1=C\C(=C/C[C@@H]/1[C@@]2(C)CCC3)C(C)C)C
+Lithium imide	[Li+].[Li+].[NH-2]
 Epristeride	CC(C)(C)NC(=O)C1CCC2C3C\C=C4\C=C(/CCC4(C)C3CCC12C)C(O)=O
 Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC(C)C)OC3=CC=CC=C3
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
@@ -15813,7 +15816,7 @@ Europium(II) bromide	Br[Eu]Br
 Europium(III) bromide	[Eu+2].[Br-].[Br-].[Br-]
 Gadolinium(III) bromide	[Br-].[Br-].[Br-].[Gd+3]
 Holmium(III) bromide	Br[Ho](Br)B
-Ethynylandrostanediol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
+17α-Ethynyl-3α-androstanediol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
 Thulium(III) bromide	[Tm+3].[Br-].[Br-].[Br-]
 Lutetium(III) bromide	[Lu+3].[Br-].[Br-].[Br-]
 Volanesorsen	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O[C@H]3C[C@@H](O[C@@H]3COP(=O)(O[C@H]4C[C@@H](O[C@@H]4COP(=O)(O[C@@H]5[C@H](O[C@H]([C@@H]5OCCOC)n6cc(c(=O)[nH]c6=O)C)COP(=O)(O[C@@H]7[C@H](O[C@H]([C@@H]7OCCOC)n8cc(c(=O)[nH]c8=O)C)COP(=O)(O[C@@H]9[C@H](O[C@H]([C@@H]9OCCOC)n1cc(c(nc1=O)N)C)COP(=O)(O[C@@H]1[C@H](O[C@H]([C@@H]1OCCOC)n1cnc2c1nc([nH]c2=O)N)COP(=O)(O[C@@H]1[C@H](O[C@H]([C@@H]1OCCOC)n1cnc2c1ncnc2N)CO)S)S)S)S)S)n1cc(c(nc1=O)N)C)S)n1cc(c(=O)[nH]c1=O)C)S)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1nc([nH]c2=O)N)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(nc1=O)N)C)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(nc1=O)N)C)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1ncnc2N)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cnc2c1nc([nH]c2=O)N)OP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)n1cc(c(nc1=O)N)C)OP(=O)(OC[C@@H]1[C@H]([C@H]([C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OCCOC)OP(=O)(OC[C@@H]1[C@H]([C@H]([C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OCCOC)OP(=O)(OC[C@@H]1[C@H]([C@H]([C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OCCOC)OP(=O)(OC[C@@H]1[C@H]([C@H]([C@@H](O1)n1cnc2c1ncnc2N)OCCOC)OP(=O)(OC[C@@H]1[C@H]([C@H]([C@@H](O1)n1cc(c(=O)[nH]c1=O)C)OCCOC)O)S)S)S)S)S)S)S)S)S)S)S)S
@@ -17630,5 +17633,10 @@ Thulium(II) chloride	Cl[Tm]Cl
 Europium(III) hydroxide	[Eu+3].[OH-].[OH-].[OH-]
 Berzosertib	CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N
 Agglomerin	O=C(C1=C(O)C(OC1=O)=C)CCCCCCCCC
+Diethyl selenide	CC[Se]CC
 Erbium(III) hydroxide	[OH-].[OH-].[OH-].[Er+3]
 Dysprosium(III) hydroxide	[Dy+3].[OH-].[OH-].[OH-]
+Ethandrostate	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)OC(=O)CCC5CCCCC5
+17α-Ethynyl-3β-androstanediol	C[C@]12CCC(C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
+Ethinylandrostenediol	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
+Yttrium hydroxide	[OH-].[Y+3].[OH-].[OH-]
