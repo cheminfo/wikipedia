@@ -2589,6 +2589,7 @@ Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
 Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
+Lutetium(III) oxide	[Lu+3].[O-2].[O-2].[Lu+3].[O-2]
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
 Thulium(III) oxide	[O-2].[O-2].[O-2].[Tm+3].[Tm+3]
 Amisulpride	O=S(=O)(c1cc(c(OC)cc1N)C(=O)NCC2N(CC)CCC2)CC
@@ -11461,6 +11462,7 @@ N-Propyl azide	[N-]=[N+]=NCCC
 Orthoacetic acid	CC(O)(O)O
 4-Methylethcathinone	Cc1ccc(cc1)C(=O)C(C)NCC
 Methylenedioxycathinone	NC(C(=O)C1=CC2=C(C=C1)OCO2)C
+Chromium(III) 2-ethylhexanoate	CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cr+3]
 Piperacetazine	CC(=O)c1ccc2Sc3ccccc3N(CCCN4CCC(CCO)CC4)c2c1
 Quinaprilat	C[C@@H](C(=O)N1CC2=CC=CC=C2C[C@H]1C(=O)O)N[C@@H](CCC3=CC=CC=C3)C(=O)O
 Sulfabenzamide	Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2
@@ -17640,3 +17642,4 @@ Ethandrostate	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)
 17α-Ethynyl-3β-androstanediol	C[C@]12CCC(C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
 Ethinylandrostenediol	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
 Yttrium hydroxide	[OH-].[Y+3].[OH-].[OH-]
+Lutetium(III) hydroxide	[Lu+3].[OH-].[OH-].[OH-]
