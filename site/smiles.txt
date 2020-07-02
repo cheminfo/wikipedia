@@ -6156,6 +6156,7 @@ Abiraterone acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
+Decamethyldizincocene	Cc1c(C)[cH-](C)c(C)c1C.[Zn+][Zn+].Cc1c(C)[cH-](C)c(C)c1C
 Matairesinol	O=C2OC[C@H](Cc1cc(OC)c(O)cc1)[C@H]2Cc3ccc(O)c(OC)c3
 Piperylene	C/C=C/C=C
 Sorbitan	C1C([C@@H](C(O1)C(CO)O)O)O
@@ -9656,6 +9657,7 @@ Tetrahydroxy-1,4-benzoquinone	O=C(C(O)=C1O)C(O)=C(O)C1=O
 GW-803430	C5CCCN5CCOc3ccc(cc3OC)-n1cnc2cc(sc2c1=O)-c(cc4)ccc4Cl
 SNAP-7941	CC(C)C(=O)Nc(c4)cccc4C3CCN(CC3)CCCNC(=O)N(C(=O)NC=1COC)C(C=1C(=O)OC)c(cc2F)ccc2F
 NGD-4715	[H][C@@]12CCC[C@@H](N1CCN(C2)C(=O)C1=CC=C(N=C1)C(F)(F)F)C1=CC=C(OCCO)C(C)=C1C
+Polonium dichloride	Cl[Po]Cl
 SHA-68	c4ccccc4C1(c5ccccc5)OC(=O)N3C1CN(CC3)C(=O)NCc(cc2)ccc2F
 SB-215505	CC1=C(C=C2C(=C1)CCN2C(=O)NC3=CC=NC4=CC=CC=C43)Cl
 Meclinertant	c7cc3c(cc7Cl)nccc3-n4nc(cc4-c1c(OC)cccc1OC)C(=O)NC2(C(O)=O)C5CC(C6)CC2CC6C5
@@ -17358,7 +17360,7 @@ Tetra-n-butylammonium iodide	[I-].CCCC[N+](CCCC)(CCCC)CCCC
 Niobium(III) chloride	[Cl-].[Cl-].[Cl-].[Nb+3]
 Niobium(III) chloride	COCCOC.Cl[Nb](Cl)Cl
 Guanitoxin	CN(C)C[C@H]1CN=C(N1OP(=O)(O)OC)N
-4F-MDMB-BINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)c1c2ccccc2n(n1)CCCCF
+4F-MDMB-BINACA	O=C(N[C@H](C(OC)=O)C(C)(C)C)C1=NN(CCCCF)C2=C1C=CC=C2
 Crotonylfentanyl	O=C(/C=C/C)N(c1ccccc1)C3CCN(CCc2ccccc2)CC3
 Tantalum(III) chloride	Cl[Ta](Cl)Cl
 Azabon	c1cc(ccc1N)S(=O)(=O)N2CC3CCC(C2)CC3
@@ -17444,6 +17446,7 @@ Diazinane	C1CNCNC1
 Diazinane	C1CNCCN1
 Rubidium cyanide	[C-]#N.[Rb+]
 Caesium cyanide	[C-]#N.[Cs+]
+Glysobuzole	CC(C)CC1=NN=C(NS(=O)(=O)C2=CC=C(C=C2)OC)S1
 1-Naphthoic acid	C1=CC=C2C(=C1)C=CC=C2C(=O)O
 2-Naphthoic acid	C1=CC=C2C=C(C=CC2=C1)C(=O)O
 L-163,491	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(C=C1)CC2=CC(=CC=C2)OC)C3=CC=C(C=C3)CN4C(=NC5=C4N=C(C=C5C)C)CC
