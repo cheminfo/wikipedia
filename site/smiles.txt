@@ -8418,6 +8418,7 @@ Sodium pyrosulfate	[Na+].[Na+].[O-]S(=O)(=O)OS(=O)(=O)[O-]
 Dihydroxyphenylethylene glycol	Oc1ccc(cc1O)C(O)CO
 Nysted reagent	Br[Zn]C[Zn]C[Zn]Br.C1CCCO1
 Tetrabromoethane	BrC(Br)C(Br)Br
+Dibutyltin oxide	CCCC[Sn](=O)CCCC
 Nepicastat	Fc1cc3c(c(F)c1)CC[C@H](N2/C(=C\NC2=S)CN)C3
 Titan yellow	[Na+].[Na+].[O-]S(=O)(=O)c2c(ccc1nc(sc12)c6ccc(/N=N/Nc5ccc(c3nc4ccc(c(c4s3)S([O-])(=O)=O)C)cc5)cc6)C
 Darapladib	FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=C/4CCC5)CCN(CC)CC
@@ -11377,6 +11378,7 @@ Isobutyl formate	O=COCC(C)C
 3-Heptanol	OC(CC)CCCC
 4-Heptanone	O=C(CCC)CCC
 Mercury(I) oxide	O1[Hg][Hg]1
+Mercury(I) oxide	[O-2].[Hg+][Hg+]
 Acetic oxalic anhydride	CC(OC(C(OC(C)=O)=O)=O)=O
 Acetic formic anhydride	CC(=O)OC=O
 Mercury(II) hydroxide	[Hg+2].[OH-].[OH-]
@@ -11755,6 +11757,7 @@ Ranbezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(N3CCN(Cc4oc(cc4)[N+](=O)[O-])CC3)c(F)c
 Cryptolepine	N2=C1C(C=CC=C1)=C4C2=Cc3ccccc3N4C
 Cariporide	O=S(=O)(c1cc(ccc1C(C)C)C(=O)/N=C(\N)N)C
 Symplocamide A	CCCC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1[C@H](OC(=O)[C@@H](NC(=O)[C@@H](N(C(=O)[C@@H](N2[C@@H](CC[C@@H](C2=O)NC(=O)[C@@H](NC1=O)CCCNC(=O)N)O)[C@@H](C)CC)C)Cc3ccc(c(c3)Br)OC)C(C)C)C
+Tetranitrogen	N12N3N1N23
 VUAA1	CCN1C(C2=CN=CC=C2)=NN=C1SCC(NC3=CC=C(CC)C=C3)=O
 Sorbinil	Fc3ccc2OCC[C@@]1(C(=O)NC(=O)N1)c2c3
 Sabarubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@@H](O[C@H](C[C@@H]2O)O[C@H]3C[C@@](Cc4c3c(c5c(c4O)C(=O)c6ccccc6C5=O)O)(C(=O)CO)O)C)N)O
@@ -16292,6 +16295,7 @@ Selenophene	C1=C[Se]C=C1
 Methylidynetricobaltnonacarbonyl	[O+]#C[Co-3]12(C#[O+])(C#[O+])[Co-3]3(C#[O+])(C#[O+])(C#[O+])[Co-3]1(C#[O+])(C#[O+])(C#[O+])C23
 Dimethyloctadecyl(3-trimethoxysilylpropyl)ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCC[Si](OC)(OC)OC
 4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
+Thioxoethenylidene	[C+]#C[S-]
 Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
 Phosphirane	C1PC1
 Phosphirene	C1=CP1
@@ -16809,7 +16813,7 @@ Isophorone diamine	CC1(CC(CC(C1)(C)CN)N)C
 Chinese VX	CCCCOP(=O)(C)SCCN(CC)CC
 Aflatoxin M1	COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5)O
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
-Dioctyl maleate	CCCCC(CC)COC(=O)/C=C\C(=O)OCC(CC)CCCC
+Bis(2-ethylhexyl) maleate	CCCCC(CC)COC(=O)/C=C\C(=O)OCC(CC)CCCC
 Bouvardin	CC1C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)N(C2C(C3=CC=C(C=C3)OC4=C(C=CC(=C4)CC(C(=O)N1)N(C2=O)C)O)O)C)C)CC5=CC=C(C=C5)OC)C)C
 Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)C(=O)O
 3,3,5-Trimethylcyclohexyl 3-pyridyl methylphosphonate	CC2CC(OP(C)(=O)Oc1cccnc1)CC(C)(C)C2
@@ -17646,3 +17650,4 @@ Ethandrostate	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)
 Ethinylandrostenediol	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
 Yttrium hydroxide	[OH-].[Y+3].[OH-].[OH-]
 Lutetium(III) hydroxide	[Lu+3].[OH-].[OH-].[OH-]
+Rubidium sulfide	[S-2].[Rb+].[Rb+]
