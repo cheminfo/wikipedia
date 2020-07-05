@@ -12108,6 +12108,7 @@ Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
 1,2-Diaminopropane	CC(N)CN
 Pseudomorphine	CN1CCC23C4C1CC5=C2C(=C(C(=C5)C6=CC7=C8C(=C6O)OC9C81CCN(C(C7)C1C=CC9O)C)O)OC3C(C=C4)O
+Gold heptafluoride	F[Au](F)(F)(F)F.FF
 6β-Naltrexol-d4	O[C@@]1(C(C[C@@]2(O)[C@H]3Cc4ccc(O)c5O[C@@]1([C@]2(CCN3CC6CC6)c45)[2H])([2H])[2H])[2H]
 Elemene	C[C@]1(C=C)C(C(C)C)=C/C(CC1)=C(C)/C
 Elemene	C[C@]1(C=C)[C@H](C(C)=C)C[C@H](C(C)=C)CC1
@@ -12710,7 +12711,7 @@ Arsenic dioxide	O=[As][O]
 Fenarimol	Clc1ccc(cc1)C(O)(c2ccccc2Cl)c3cncnc3
 N-(2-Hydroxypropyl) methacrylamide	CC(CNC(=O)C(=C)C)O
 Cedrene	C[C@@H]1CC[C@@H]2[C@]13CC=C([C@H](C3)C2(C)C)C
-Polonium dibromide	[Br-].[Br-].[Po]
+Polonium dibromide	[Br-].[Br-].[Po+2]
 Geraniin	Oc1cc(cc(O)c1O)C(=O)O[C@@H]9O[C@@H]7COC(=O)c2cc(O)c(O)c(O)c2c3c(O)c(O)c(O)cc3C(=O)O[C@@H]8[C@H]9OC(=O)c4cc(O)c(O)c5O[C@@]6(O)C(=O)/C=C(\[C@@H](c45)C6(O)O)C(=O)O[C@H]78
 CBiPES	N#Cc1ccc(cc1)-c(ccc2)cc2N(S(=O)(=O)CC)Cc3cccnc3
 Cedrol	O[C@@]2(CC[C@]31[C@@H](CC[C@H]1C)C([C@H]2C3)(C)C)C
@@ -17654,3 +17655,6 @@ Lutetium(III) hydroxide	[Lu+3].[OH-].[OH-].[OH-]
 Rubidium sulfide	[S-2].[Rb+].[Rb+]
 Caesium sulfide	[S-2].[Cs+].[Cs+]
 Vobtusine	COC1=CC=CC2=C1N3C[C@]4(C[C@H]5[C@]3([C@]26CCN7[C@H]6[C@@]8(C5)CCO[C@H]8CC7)O)CN9CC[C@@]12[C@@H]9[C@@]3([C@H]4OCC3)CC(=C1NC1=CC=CC=C21)C(=O)OC
+Quinacillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)c3c(nc4ccccc4n3)C(=O)O)C(=O)O)C
+Scandium(III) hydroxide	[Sc+3].[OH-].[OH-].[OH-]
+Octachloropropane	C(C(Cl)(Cl)Cl)(C(Cl)(Cl)Cl)(Cl)Cl
