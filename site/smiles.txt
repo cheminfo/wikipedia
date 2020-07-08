@@ -12638,6 +12638,7 @@ Beta-Tocotrienol	CC1=CC(=C(C2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C)O
 Uranium trifluoride	F[U](F)F
 Uranium(III) iodide	I[U](I)I
 Astatine bromide	[At+].[Br-]
+Uranium(IV) iodide	I[U](I)(I)I
 4-Ethylmethcathinone	C(C(C)NC)(=O)C1=CC=C(C=C1)CC
 Uranium hexachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U]
 Uranium disulfide	[S-2].[S-2].[U+4]
@@ -17611,6 +17612,7 @@ Lithium selenide	[Li][Se][Li]
 Peroxymonophosphoric acid	OOP(=O)(O)O
 Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
 Iodine tribromide	BrI(Br)Br
+1-Trifluoromethyl-1,2-benziodoxol-3(1H)-one	C1=CC=C2C(=C1)C(=O)OI2C(F)(F)F
 Cyclobutanol	OC1CCC1
 Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
 Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
@@ -17662,3 +17664,8 @@ Quinacillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)c3c(nc4ccccc4n3)C(=O)O)C(=O)
 Scandium(III) hydroxide	[Sc+3].[OH-].[OH-].[OH-]
 Octachloropropane	C(C(Cl)(Cl)Cl)(C(Cl)(Cl)Cl)(Cl)Cl
 Promethium(III) hydroxide	[Pm+3].[OH-].[OH-].[OH-]
+Lead citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.O.O.O.[Pb+2].[Pb+2].[Pb+2]
+Lead citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Pb+2].[Pb+2].[Pb+2]
+Thulium(III) hydroxide	[OH-].[OH-].[OH-].[Tm+3]
+Hydroxyethylethylenediaminetriacetic acid	C(CN(CC(=O)O)CC(=O)O)N(CCO)CC(=O)O
+Terbium(III) hydroxide	[Tb+3].[OH-].[OH-].[OH-]
