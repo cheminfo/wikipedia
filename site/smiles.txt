@@ -7234,7 +7234,7 @@ Pyrantel	CN1CCCN=C1/C=C/c2cccs2
 Xipamide	CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N
 Nervonic acid	O=C(O)CCCCCCCCCCCCC\C=C/CCCCCCCC
 1-Methylcyclopropene	C\1=C(/C)C/1
-Eribulin	O=C1C[C@@H]2[C@H]([C@H](O[C@H]2C[C@H]3O[C@H](C[C@H](C3=C)C)CC[C@H]4C(C[C@@H](O4)CC[C@]5(O6)C[C@@H]([C@@H]7O5)O[C@H]([C@H]7O[C@]8(CC9)[H])[C@@H]6[C@@]8([H])O[C@H]9C1)=C)C[C@@H](CN)O)OC
+Eribulin	CC1CC2CCC3C(=C)CC(O3)CCC45CC6C(O4)C7C(O6)C(O5)C8C(O7)CCC(O8)CC(=O)CC9C(CC(C1=C)O2)OC(C9OC)CC(CN)O
 Oxepin	C1=CC=COC=C1
 Zaragozic acid	CC[C@H](C)C[C@H](C)/C=C/C(=O)O[C@@H]1[C@H]([C@]2(O[C@@H]([C@]([C@@]1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)[C@H]([C@H](C)CC3=CC=CC=C3)OC(=O)C)O
 Dimethyldioxirane	CC1(OO1)C
@@ -17671,3 +17671,5 @@ Hydroxyethylethylenediaminetriacetic acid	C(CN(CC(=O)O)CC(=O)O)N(CCO)CC(=O)O
 Terbium(III) hydroxide	[Tb+3].[OH-].[OH-].[OH-]
 Lochnericine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)C[C@H]5[C@@H]2O5)C6=CC=CC=C6N3)C(=O)OC
 19-Epivoacristine	C[C@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
+Trehalulose	C(C1C(C(C(C(O1)OCC(=O)C(C(C(CO)O)O)O)O)O)O)O
+Potassium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[K+].[K+]
