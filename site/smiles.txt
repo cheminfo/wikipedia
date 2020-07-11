@@ -12258,6 +12258,7 @@ Quinalphos	CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1
 Silver permanganate	[Ag+].[O-][Mn](=O)(=O)=O
 Barium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ba+2]
 Epicriptine	CCC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@@H]4C[C@H]5[C@@H](CC6=CNC7=CC=CC5=C67)N(C4)C)O
+Barium tungstate	[O-][W](=O)(=O)[O-].[Ba+2]
 Dibenzyl ether	C1=CC=C(C=C1)COCC2=CC=CC=C2
 SoRI-20041	c2ccccc2C(c3ccccc3)CCNc(nc4-c5ccccc5)c1ccccc1n4
 N-Methylephedrine	O[C@H](c1ccccc1)[C@@H](N(C)C)C
@@ -17673,3 +17674,6 @@ Lochnericine	CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)C[C@H]5[C@@H]2O5)C6=CC=CC=C6N3)C(=
 19-Epivoacristine	C[C@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
 Trehalulose	C(C1C(C(C(C(O1)OCC(=O)C(C(C(CO)O)O)O)O)O)O)O
 Potassium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[K+].[K+]
+Isobubbialine	C1C[C@@H]2[C@@]34C[C@@H]([C@@H](N2C1)CC3=CC(=O)O4)O
+Norsecurinine	C1C[C@@H]2[C@]34C[C@H](N2C1)C=CC3=CC(=O)O4
+Securinine	C1CCN2[C@H](C1)[C@]34C[C@H]2C=CC3=CC(=O)O4
