@@ -16304,6 +16304,7 @@ Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
 Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
 Selenophene	C1=C[Se]C=C1
 Methylidynetricobaltnonacarbonyl	[O+]#C[Co-3]12(C#[O+])(C#[O+])[Co-3]3(C#[O+])(C#[O+])(C#[O+])[Co-3]1(C#[O+])(C#[O+])(C#[O+])C23
+6-formyl-indolo(3,2-b)carbazole	C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C=O
 Dimethyloctadecyl(3-trimethoxysilylpropyl)ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCC[Si](OC)(OC)OC
 4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Thioxoethenylidene	[C+]#C[S-]
@@ -16785,7 +16786,7 @@ Molybdenum(VI) chloride	Cl[Mo](Cl)(Cl)(Cl)(Cl)Cl
 Vanadium(V) chloride	Cl[V](Cl)(Cl)(Cl)Cl
 Vanadium(V) chloride	Cl[V-]1(Cl)(Cl)(Cl)[Cl+][V-]([Cl+]1)(Cl)(Cl)(Cl)Cl
 Rhenium(VI) chloride	Cl[Re](Cl)(Cl)(Cl)(Cl)Cl
-Rhenium(IV) chloride	[Cl].[Cl].[Cl].[Cl].[Re]
+Rhenium(IV) chloride	[Cl-].[Cl-].[Cl-].[Cl-].[Re+4]
 Hexaphenylcarbodiphosphorane	C1=CC=C(C=C1)P(=C=P(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)(C5=CC=CC=C5)C6=CC=CC=C6
 Hexamethylcyclotrisiloxane	C[Si]1(O[Si](O[Si](O1)(C)C)(C)C)C
 Butroxydim	CCCC(=O)C1=C(C(=C(C=C1C)C)C2CC(=O)C(=C(CC)NOCC)C(=O)C2)C
