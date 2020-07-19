@@ -2534,6 +2534,7 @@ Caffeic acid	O=C(O)\C=C\c1cc(O)c(O)cc1
 Thiazolidine	C1CSCN1
 Ferulic acid	COc1cc(ccc1O)/C=C/C(=O)O
 Rutin	CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+Rubidium oxide	[Rb+].[O-2].[Rb+]
 Malondialdehyde	O=CCC=O
 Malondialdehyde	OC=CC=O
 Dianin's compound	Oc1ccc(cc1)C2(c3c(OC(C2)(C)C)cccc3)C
@@ -3872,6 +3873,7 @@ Antimony pentachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[SbH3+3]
 Disilane	[SiH3][SiH3]
 Xenon difluoride	F[Xe]F
 Neopentyl alcohol	CC(CO)(C)C
+Vanadocene dichloride	c1ccc[cH-]1.c2ccc[cH-]2.[V+4].[Cl-].[Cl-]
 Vanadium tetrachloride	Cl[V](Cl)(Cl)Cl
 Sodium cobaltinitrite	[Na+].[Na+].[Na+].O=[N+]([O-])[Co-3]([N+]([O-])=O)([N+](=O)[O-])([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
 Vanadium(III) chloride	[V+3].[Cl-].[Cl-].[Cl-]
@@ -11684,7 +11686,7 @@ Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Metaboric acid	O=BO
 Metaboric acid	OB1OB(O)OB(O)O1
 Quebecol	COC1=C(C=CC(=C1)C(CO)C(C2=CC(=C(C=C2)O)OC)C3=CC(=C(C=C3)O)OC)O
-Vanadocene	C1=CC=C[CH-]1.C2=CC=C[CH-]2.[V+2]
+Vanadocene	c1ccc[cH-]1.c2ccc[cH-]2.[V+2]
 Slaframine	CC(=O)OC1CCN2C1CCC(C2)N
 Divicine	OC1=C(O)C(N)=NC(N)=N1
 Divicine	O=C1C(O)=C(N)NC(N)=N1
@@ -12790,7 +12792,6 @@ Oxovitisin A	COC1=CC(=CC(=C1O)OC)C2=C(C3=C4C(=CC(=O)C=C4O2)OC(=C3)O)O[C@H]5[C@@H
 Saponarin	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O
 Lactic acid O-carboxyanhydride	O=C1OC(=O)OC1C
 Bitopertin	CC(C(F)(F)F)Oc1ccc(cc1C(=O)N2CCN(CC2)c3c(cc(cn3)C(F)(F)F)F)S(=O)(=O)C
-Nickel boride	[B].[Ni].[Ni]
 Indacrinone	CC1(Cc2cc(c(c(c2C1=O)Cl)Cl)OCC(=O)O)c3ccccc3
 Borane–tetrahydrofuran	[BH3-][O+]1CCCC1
 Oxyresveratrol	C1=CC(=C(C=C1O)O)C=CC2=CC(=CC(=C2)O)O
@@ -17688,3 +17689,6 @@ Nangibotide	C[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)
 1,2-Dichloro-1,1,2-trifluoroethane	C(C(F)(F)Cl)(F)Cl
 Desmethylchlorotrianisene	OC1=CC=C(/C(C2=CC=C(OC)C=C2)=C(Cl)/C3=CC=C(OC)C=C3)C=C1
 Nitrosyl cyanide	C(#N)N=O
+Terbium(IV) fluoride	[F-].[F-].[Tb+4].[F-].[F-]
+Dinickel boride	[B].[Ni].[Ni]
+Trinickel boride	[B].[Ni].[Ni].[Ni]
