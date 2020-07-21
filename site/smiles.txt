@@ -3688,7 +3688,7 @@ Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
 Xenon trioxide	[O-][Xe+3]([O-])[O-]
 Chlorosulfuric acid	ClS(=O)(=O)O
-Deferasirox	O=C4/C=C\C=C/C4=C2\N(N/C(=C1\C(=O)\C=C/C=C1)N2)c3ccc(C(=O)O)cc3
+Deferasirox	OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O
 Sulindac	O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
 2-Chlorophenol	Oc1ccccc1Cl
 Gadopentetic acid	[Gd+3].[O-]C(=O)CN(CCN(CC(=O)O)CC([O-])=O)CCN(CC([O-])=O)CC(=O)O.O[C@H]([C@@H](O)CNC)[C@H](O)[C@H](O)CO.O[C@@H](CNC)[C@@H](O)[C@H](O)[C@H](O)CO
