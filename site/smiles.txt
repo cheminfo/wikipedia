@@ -11736,7 +11736,6 @@ Potassium salicylate	[K+].O=C([O-])c1ccccc1O
 Picramic acid	c1c(cc(c(c1N)O)[N+](=O)[O-])[N+](=O)[O-]
 Cinnamtannin B1	Oc1cc(O)c2c(c1)O[C@@]1([C@@H]([C@H]2c2c(O1)cc(c1c2O[C@H](c2ccc(c(c2)O)O)[C@@H]([C@H]1c1c(O)cc(c2c1O[C@@H]([C@@H](C2)O)c1ccc(c(c1)O)O)O)O)O)O)c1ccc(c(c1)O)O
 Danielone	COC1=CC(=CC(=C1O)OC)C(=O)CO
-Actinium(III) oxide	[O--].[O--].[O--].[Ac+3].[Ac+3]
 Cadmium stearate	[Cd+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
 Protactinium(V) oxide	O=[Pa](=O)O[Pa](=O)=O
 Protactinium(V) oxide	O=[Pa]12O[Pa]3(=O)O[Pa](=O)(O1)O[Pa](=O)(O2)O3
@@ -17553,6 +17552,7 @@ Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
 Eburicol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Lutetium (177Lu) chloride	[Cl-].[Cl-].[Cl-].[177Lu+3]
 Alpha-isomethyl ionone	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
+Aluminium monoacetate	CC(=O)[O-].[OH-].[OH-].[Al+3]
 Selpercatinib	CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O
 Phenazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
 Selenophos	CCN(CC)CC[Se]P(=O)(CC)OCC
@@ -17692,3 +17692,4 @@ Terbium(IV) fluoride	[F-].[F-].[Tb+4].[F-].[F-]
 Dinickel boride	[B].[Ni].[Ni]
 Trinickel boride	[B].[Ni].[Ni].[Ni]
 Cyclopentadienylvanadium tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.[V]
+Elexacaftor	C[C@H]1CC(N(C1)C2=C(C=CC(=N2)N3C=CC(=N3)OCC(C)(C)C(F)(F)F)C(=O)NS(=O)(=O)C4=CN(N=C4C)C)(C)C
