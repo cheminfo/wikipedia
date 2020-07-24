@@ -10971,6 +10971,8 @@ Palladium(II) iodide	[Pd](I)I
 Palladium(II) bromide	Br[Pd]Br
 Azinphos-ethyl	CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1
 Isobutyl cyanoacrylate	N#CC(=C)C(=O)OCC(C)C
+Bufanolide	C[C@]12CC[C@H]3[C@H]([C@H]1CC[C@@H]2[C@H]4CCC(=O)OC4)CCC5[C@@]3(CCCC5)C
+Bufanolide	CC12CCCCC1CCC3C2CCC4(C3CCC4C5CCC(=O)OC5)C
 5-Benzyloxytryptamine	NCCC1=CNC2=CC=C(OCC3=CC=CC=C3)C=C21
 5-Methoxy-7,N,N-trimethyltryptamine	CC1=C(NC=C2CCN(C)C)C2=CC(OC)=C1
 7,N,N-TMT	CC1=C(NC=C2CCN(C)C)C2=CC=C1
@@ -13451,6 +13453,7 @@ Hadacidin	C(C(=O)O)N(C=O)O
 3-O-Methylfunicone	C/C=C/c1c(c(=O)c(co1)C(=O)c2c(cc(cc2OC)OC)C(=O)OC)OC
 Citromycin	CC1=CC(=O)C2=C(O1)C3=CC(=C(C=C3OC2)O)O
 Quinolacetic acid	O=C\1\C=C/C(O)(/C=C/1)CC(=O)O
+Penochalasin A	C[C@H]\1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@@]2(C5=CC=C(N5)C(=O)C(=O)/C(=C1)/C)C(=O)N[C@H]4CC6=CNC7=CC=CC=C76)C)C
 Rubratoxin B	CCCCCC[C@H]([C@H]1[C@H](C2=C(C[C@H](CC3=C1C(=O)OC3=O)[C@@H]([C@@H]4CC=CC(=O)O4)O)C(=O)OC2=O)O)O
 Verruculogen	CC(=CC1N2C3=C(C=CC(=C3)OC)C4=C2C(CC(OO1)(C)C)N5C(=O)C6CCCN6C(=O)C5(C4O)O)C
 Sch 642305	C[C@H]1CCCC[C@@H]2[C@@H](CC(=O)O1)[C@H](C=CC2=O)O
@@ -17386,6 +17389,7 @@ Dichlorodiethyl sulfone	C(CCl)S(=O)(=O)CCCl
 Color Developing Agent 2	CCN(CC)C1=CC(=C(C=C1)N)C
 Color Developing Agent 2	CC[NH+](CC)C1=CC(=C(C=C1)N)C.[Cl-]
 Color Developing Agent 1	CCN(CC)C1=CC=C(C=C1)N
+Pterobilin	CC1=C(CCC(=O)O)\C(=C\c2[nH]c(\C=C/3\N=C(\C=C\4/NC(=O)C(=C4C)CCC(=O)O)C(=C3C)C=C)c(C=C)c2C)\NC1=O
 Zotiraciclib	CN1C/C=C\CCOc2cccc(c2)-c3ccnc(n3)Nc4cccc(c4)C1
 Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
 Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
