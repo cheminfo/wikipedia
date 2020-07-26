@@ -11738,6 +11738,7 @@ Potassium salicylate	[K+].O=C([O-])c1ccccc1O
 Picramic acid	c1c(cc(c(c1N)O)[N+](=O)[O-])[N+](=O)[O-]
 Cinnamtannin B1	Oc1cc(O)c2c(c1)O[C@@]1([C@@H]([C@H]2c2c(O1)cc(c1c2O[C@H](c2ccc(c(c2)O)O)[C@@H]([C@H]1c1c(O)cc(c2c1O[C@@H]([C@@H](C2)O)c1ccc(c(c1)O)O)O)O)O)O)c1ccc(c(c1)O)O
 Danielone	COC1=CC(=CC(=C1O)OC)C(=O)CO
+Actinium(III) oxide	[O--].[O--].[O--].[Ac+3].[Ac+3]
 Cadmium stearate	[Cd+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
 Protactinium(V) oxide	O=[Pa](=O)O[Pa](=O)=O
 Protactinium(V) oxide	O=[Pa]12O[Pa]3(=O)O[Pa](=O)(O1)O[Pa](=O)(O2)O3
@@ -16798,7 +16799,7 @@ Lunatin	COC1=CC(=C2C(=C1)C(=O)C3=CC(=CC(=C3C2=O)O)O)O
 Fluoromedroxyprogesterone acetate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(CC[C@@]2([C@@]4(C1=CC(=O)CC4)C)F)C)(C(=O)C)OC(=O)C
 1,4,7-Trimethyl-1,4,7-triazacyclononane	CN1CCN(CCN(CC1)C)C
 Khusimol	CC1(C2CCC3(C2)C(CCC3C1=C)CO)C
-KD025	CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5
+Belumosudil	CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5
 1,3,3-Trinitroazetidine	C1C(CN1[N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
 Selenium dichloride	Cl[Se]Cl
 Lecirelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](C(C)(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6
@@ -17698,3 +17699,6 @@ Dinickel boride	[B].[Ni].[Ni]
 Trinickel boride	[B].[Ni].[Ni].[Ni]
 Cyclopentadienylvanadium tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.[V]
 Elexacaftor	C[C@H]1CC(N(C1)C2=C(C=CC(=N2)N3C=CC(=N3)OCC(C)(C)C(F)(F)F)C(=O)NS(=O)(=O)C4=CN(N=C4C)C)(C)C
+11β-Chloromethylestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)CCl
+11β-Methoxyestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)OC
+Abametapir	CC1=CN=C(C=C1)C2=NC=C(C=C2)C
