@@ -3117,6 +3117,7 @@ Ethyl salicylate	O=C(OCC)c1ccccc1O
 Jasmonic acid	CC/C=C\C[C@@H]1[C@H](CCC1=O)CC(=O)O
 Acetyldigitoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)CC[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@@H]([C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@@H](OC(=O)C)C3)[C@@H](O)C4)C)[C@@H](O)C5)C)C6
 Alclometasone dipropionate	CCC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2[C@@H](CC4=CC(=O)C=C[C@]34C)Cl)O)C)C)OC(=O)CC
+Platinum silicide	[Si].[Pt]
 Testosterone cypionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=CC(=O)CC[C@]35C
 Testosterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Testosterone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
@@ -17702,3 +17703,5 @@ Elexacaftor	C[C@H]1CC(N(C1)C2=C(C=CC(=N2)N3C=CC(=N3)OCC(C)(C)C(F)(F)F)C(=O)NS(=O
 11β-Chloromethylestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)CCl
 11β-Methoxyestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)OC
 Abametapir	CC1=CN=C(C=C1)C2=NC=C(C=C2)C
+Clozapine N-oxide	C[N+]1(CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42)[O-]
+5-Formylcytosine	C1=NC(=O)NC(=C1C=O)N
