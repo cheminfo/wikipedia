@@ -5371,6 +5371,8 @@ Ranolazine	O=C(Nc1c(cccc1C)C)CN3CCN(CC(O)COc2ccccc2OC)CC3
 Alphenal	O=C1NC(=O)NC(=O)C1(c2ccccc2)C\C=C
 Butallylonal	O=C1NC(=O)NC(=O)C1(C(C)CC)CC(\Br)=C
 Aminomethanol	OCN
+Pentabromodiphenyl ether	C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br
+Pentabromodiphenyl ether	C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br
 Magnesium citrate	C(C(=O)O)C(CC(=O)[O-])(C(=O)[O-])O.[Mg+2]
 Neurokinin A	C[C@H]([C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2cnc[nH]2)N)O
 Nitrazine	[O-][N+](=O)c1ccc(c([N+]([O-])=O)c1)N/N=C3/C(=C\c2c(ccc(c2)S(=O)(=O)O)C3=O)S(=O)(=O)O
@@ -13185,6 +13187,8 @@ Bromopyrogallol red	Brc5c(O)c(O)c4Oc1c(O)c(O)c(Br)cc1C3(OS(=O)(=O)c2ccccc23)c4c5
 Nicotianamine	C1CN([C@@H]1C(=O)O)CC[C@@H](C(=O)O)NCC[C@@H](C(=O)O)N
 Fimasartan	CCCCC1=NC(=C(C(=O)N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=NN4)CC(=S)N(C)C)C
 Oxymatrine	[O-][N+]43[C@@H]2[C@@H]([C@@H]1N(C(=O)CCC1)C[C@@H]2CCC3)CCC4
+Lithium polonide	[Li+].[Li+].[Po-2]
+Sodium polonide	[Na+].[Na+].[Po-2]
 Glucuronamide	C(=O)[C@@H]([C@H]([C@@H]([C@@H](C(=O)N)O)O)O)O
 Trenbolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Forasartan	CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
@@ -14240,6 +14244,7 @@ Efinaconazole	C[C@H]([C@](CN1C=NC=N1)(C2=C(C=C(C=C2)F)F)O)N3CCC(=C)CC3
 N,N-Dimethylethylamine	CCN(C)C
 Balapiravir	O=c1nc(N)ccn1C2OC(N=[N+]=[N-])(COC(=O)C(C)C)C(OC(=O)C(C)C)C2OC(=O)C(C)C
 Bis-choline tetrathiomolybdate	OCC[N+](C)(C)C.[S-][Mo]([S-])(=S)=S.C[N+](C)(C)CCO
+Pentamethylcyclopentadienyl ruthenium dichloride dimer	CC1=[C-]C(C(=C1C)C)(C)C.Cl[Ru]Cl
 Lithium metasilicate	[Li+].[Li+].[O-][Si](=O)[O-]
 Strictinin	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O
 Brevifolin	CC(=O)C1=C(C=C(C=C1OC)OC)O
@@ -16161,6 +16166,7 @@ Vinyldiphenylphosphine	C=CP(C1=CC=CC=C1)C2=CC=CC=C2
 (Diacetoxyiodo)benzene	CC(=O)OI(C1=CC=CC=C1)OC(=O)C
 Vasopressin (medication)	c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Tetrahydroxydiboron	B(B(O)O)(O)O
+Voxilaprevir	CC[C@@H]1[C@@H]2CN([C@@H]1C(=O)N[C@@]3(C[C@H]3C(F)F)C(=O)NS(=O)(=O)C4(CC4)C)C(=O)[C@@H](NC(=O)O[C@@H]5C[C@H]5CCCCC(c6c(nc7cc(ccc7n6)OC)O2)(F)F)C(C)(C)C
 Androstanolone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
 Propionyl chloride	CCC(=O)Cl
 Pentanoyl chloride	CCCCC(=O)Cl
@@ -17105,6 +17111,7 @@ Decyl(triphenyl)phosphonium	CCCCCCCCCCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C
 Isotonitazene	CCN(CCn1c(Cc2ccc(cc2)OC(C)C)nc2c1ccc(c2)N(=O)=O)CC
 KB-16	COC(=O)N(CCCl)N=O
 2-Aminothiazoline-4-carboxylic acid	C1C(N=C(S1)N)C(=O)O
+1,2,3,4,5-Pentakis(4-butylphenyl)-1,3-cyclopentadiene	CCCCC1=CC=C(C=C1)C2C(=C(C(=C2C3=CC=C(C=C3)CCCC)C4=CC=C(C=C4)CCCC)C5=CC=C(C=C5)CCCC)C6=CC=C(C=C6)CCCC
 Bilirubin glucuronide	CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)/C=C\5/C(=C(C(=O)N5)C=C)C
 Phototrexate	C1(=NC(=NC2=C1C=C(C=C2)N=NC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)N)N
 Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
