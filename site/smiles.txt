@@ -7549,6 +7549,7 @@ Lumirubin	CC1C2=CCC3(C(=NC(=C3CCC(=O)O)CC4=C(C(=C(N4)/C=C/5\C(=C(C(=O)N5)C=C)C)C
 Bosutinib	Clc1c(OC)cc(c(Cl)c1)Nc4c(C#N)cnc3cc(OCCCN2CCN(CC2)C)c(OC)cc34
 Indacaterol	O=C4/C=C\c1c(c(O)ccc1[C@@H](O)CNC3Cc2cc(c(cc2C3)CC)CC)N4
 Boceprevir	O=C(N3[C@H](C(=O)NC(C(=O)C(=O)N)CC1CCC1)[C@H]2C(C)([C@H]2C3)C)[C@@H](NC(=O)NC(C)(C)C)C(C)(C)C
+BODIPY	[B-]1(N2C=CC=C2C=C3[N+]1=CC=C3)(F)F
 GM2 (ganglioside)	CCCCCCCCCCCCCCCCCC(=O)N[C@H](CO[C@H]1[C@H]([C@@H]([C@H]([C@@H](O1)CO)O[C@@H]2[C@H]([C@@H]([C@@H]([C@@H](O2)CO)O[C@@H]3[C@H]([C@@H]([C@@H]([C@@H](O3)CO)O)O)NC(=O)C)OC[C@]4(C[C@H]([C@@H]([C@H](O4)[C@H]([C@H](CO)O)O)NC(=O)C)O)C(=O)O)O)O)O)[C@H](/C=C/CCCCCCCCCCCCC)O
 PMDTA	CN(C)CCN(C)CCN(C)C
 Oxotrichlorobis(triphenylphosphine)rhenium(V)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[O-2].[Cl-].[Cl-].[Cl-].[Re]
@@ -16908,6 +16909,7 @@ Methylene imine	C=N
 Vilsmeier reagent	C[N+](=CCl)C.[Cl-]
 4-Chlorobenzoic acid	C1=CC(=CC=C1C(=O)O)Cl
 Stibinin	C1=CC=[Sb]C=C1
+2,2'-Dipyrromethene	c1cc([nH]c1)C=C2C=CC=N2
 2-Chloroethyl ethyl sulfide	CCSCCCl
 EA-4352	CC(C)OP(=O)(C#N)N(C)C
 Ethylsarin	CCP(=O)(OC(C)C)F
@@ -17729,3 +17731,4 @@ Manganese monosilicide	[Si].[Mn]
 15α-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H](C[C@@H]2O)O)CCC4=C3C=CC(=C4)O
 Potassium octacyanomolybdate(IV)	O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(C#N)(C#N)(C#N)C#N
 Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.[K+].[K+].[K+].[K+].[Mo+4]
+CCRIS-1930	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
