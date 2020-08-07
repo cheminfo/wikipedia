@@ -459,7 +459,7 @@ Nitromethane	C[N+](=O)[O-]
 Cypermethrin	Cl/C(Cl)=C/C3C(C(=O)OC(C#N)c2cccc(Oc1ccccc1)c2)C3(C)C
 Phenolphthalein	O=C1OC(c2ccccc12)(c3ccc(O)cc3)c4ccc(O)cc4
 Magnesium sulfate	[Mg+2].[O-]S([O-])(=O)=O
-Minocycline	CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C
+Minocycline	CN(C)c1ccc(c2c1C[C@H]3C[C@H]4[C@@H](C(=C(C(=O)[C@]4(C(=C3C2=O)O)O)C(=O)N)O)N(C)C)O
 Sodium cyclamate	[Na+].O=S([O-])(=O)NC1CCCCC1
 Herapathite	COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.I[I-]I.I[I-]I.I[I-]I.I[I-]I
 Potassium bromide	[K+].[Br-]
@@ -15024,6 +15024,7 @@ Flumetasone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H
 1,2-Dioleoyl-sn-glycerophosphoethanolamine	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Modafinil sulfone	C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)(=O)CC(=O)N
 Salicyl alcohol	c1ccc(c(c1)CO)O
+Imetelstat	CCCCCCCCCCCCCCCC(=O)NCC(COP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N2C=C(C(=O)NC2=O)C)NP(=S)(O)OC[C@@H]3[C@H](C[C@@H](O3)N4C=NC5=C(N=CN=C54)N)NP(=S)(O)OC[C@@H]6[C@H](C[C@@H](O6)N7C=NC8=C7N=C(NC8=O)N)NP(=S)(O)OC[C@@H]9[C@H](C[C@@H](O9)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=O)NC1=O)C)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=O)NC1=O)C)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=CC(=NC1=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)N)S)O
 Metizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 20-Hydroxyeicosatetraenoic acid	C(CC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O)CCO
 Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
@@ -17732,3 +17733,5 @@ Manganese monosilicide	[Si].[Mn]
 Potassium octacyanomolybdate(IV)	O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(C#N)(C#N)(C#N)C#N
 Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.[K+].[K+].[K+].[K+].[Mo+4]
 CCRIS-1930	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
+Brorphine	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC=CC=C4NC3=O
+Etazen	CCOc1ccc(cc1)Cc3nc2ccccc2n3CCN(CC)CC
