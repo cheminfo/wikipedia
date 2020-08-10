@@ -357,7 +357,7 @@ Prussian blue	[Fe+3].[Fe+3].[Fe+3].[Fe+3].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.N#C[F
 Ephedrine	O[C@H](c1ccccc1)[C@@H](NC)C
 Thyrotropin-releasing hormone	C1C[C@H](N(C1)C(=O)[C@H](CC2=CN=CN2)NC(=O)[C@@H]3CCC(=O)N3)C(=O)N
 Titanic acid	O[Ti](O)(O)O
-Gamma-Aminobutyric acid	C(CC(=O)O)CN
+Gamma-Aminobutyric acid	NCCCC(=O)O
 Potassium ferricyanide	[K+].[K+].N#C[Fe-3](C#N)(C#N)(C#N)(C#N)C#N.[K+]
 Haloperidol	c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F
 Fluphenazine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4
@@ -700,7 +700,7 @@ Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
 Nocodazole	O=C(C2=CC=CS2)C1=CC=C(N=C(NC(OC)=O)N3)C3=C1
-Naproxen	CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen	COc1cc2ccc(cc2cc1)[C@H](C)C(=O)O
 Azathioprine	Cn1cnc(N(=O)=O)c1Sc2ncnc3nc[nH]c23
 Skatole	Cc1c[nH]c2ccccc12
 Thiophene	c1ccsc1
@@ -2214,7 +2214,7 @@ Methyl nitrate	[O-][N+](=O)OC
 Triethyl borate	O(B(OCC)OCC)CC
 Trimethyl borate	O(B(OC)OC)C
 Renzapride	Clc1cc(c(OC)cc1N)C(=O)N[C@@H]3CC[N@]2C[C@@H]3CCC2
-Diethylene glycol	C(COCCO)O
+Diethylene glycol	OCCOCCO
 Triethylene glycol	OCCOCCOCCO
 Sodium ferulate	[Na+].[O-]C(=O)\C=C\c1cc(OC)c(O)cc1
 Secobarbital	O=C1NC(NC(C1(CC=C)C(CCC)C)=O)=O
@@ -17737,7 +17737,7 @@ Manganese monosilicide	[Si].[Mn]
 15α-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H](C[C@@H]2O)O)CCC4=C3C=CC(=C4)O
 Potassium octacyanomolybdate(IV)	O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(C#N)(C#N)(C#N)C#N
 Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.[K+].[K+].[K+].[K+].[Mo+4]
-CCRIS-1930	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
+Rilmazolam	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
 Brorphine	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC=CC=C4NC3=O
 Etazen	CCOc1ccc(cc1)Cc3nc2ccccc2n3CCN(CC)CC
 5F-CUMYL-PEGACLONE	CC(C)(c1ccccc1)N4C=Cc3n(CCCCCF)c2ccccc2c3C4=O
