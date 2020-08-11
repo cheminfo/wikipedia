@@ -2997,7 +2997,7 @@ Longifolene	C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3C2=C)(C)C
 Longifolene	C[C@@]12CCCC([C@H]3[C@@H]1CC[C@H]3C2=C)(C)C
 Tributyltin oxide	CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC
 Dibutyl ether	CCCCOCCCC
-Glyoxal	C(=O)C=O
+Glyoxal	O=CC=O
 Glycin	O=C(O)CNc1ccc(O)cc1
 1-Propanol	CCCO
 Temocillin	O=C(O)[C@@H]2N3C(=O)[C@@](OC)(NC(=O)C(c1ccsc1)C(=O)O)[C@H]3SC2(C)C
@@ -17745,4 +17745,9 @@ CUMYL-CH-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCCCC2)c3ccccc3c4C5=O
 CUMYL-CBMINACA	CC(C)(NC(=O)c3nn(CC1CCC1)c2ccccc23)c4ccccc4
 Methoxpropamine	COc1cccc(c1)C2(NCCC)CCCCC2=O
 Bromoketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Br
-Gamma-carboline	C1=CC=C2C(=C1)C3=C(N2)C=CN=C3
+Gamma-Carboline	C1=CC=C2C(=C1)C3=C(N2)C=CN=C3
+4-Butylresorcinol	CCCCC1=C(C=C(C=C1)O)O
+Boron triazide	B(N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
+Morindin	CC1=C(C2=C(C=C1)C(=O)C3=C(C2=O)C=CC(=C3O)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O)O
+3-Chloro-4-fluorophenylpiperazine	C1CN(CCN1)C2=CC(=C(C=C2)F)Cl
+3-Methylbenzylpiperazine	CC1=CC(=CC=C1)CN2CCNCC2
