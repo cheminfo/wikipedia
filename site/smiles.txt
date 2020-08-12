@@ -17410,6 +17410,7 @@ Zotiraciclib	CN1C/C=C\CCOc2cccc(c2)-c3ccnc(n3)Nc4cccc(c4)C1
 Sec-Butylbenzene	CCC(C)C1=CC=CC=C1
 Tert-Butylbenzene	CC(C)(C)C1=CC=CC=C1
 Americium(III) oxide	[O-2].[O-2].[O-2].[Am+3].[Am+3]
+Tetramethyl bisphenol F	CC1=CC(=CC(=C1O)C)CC2=CC(=C(C(=C2)C)O)C
 TMTFA	C[N+](C)(C)C1=CC=CC(=C1)C(=O)C(F)(F)F
 Ethyl acetoxy butanoate	CCOC(=O)CCCOC(=O)C
 Chrome Azurol S	CC1=CC(=CC(=C1[O-])C(=O)[O-])C(=C2C=C(C(=O)C(=C2)C(=O)O)C)C3=C(C=CC(=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+].[Na+]
@@ -17751,3 +17752,6 @@ Boron triazide	B(N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Morindin	CC1=C(C2=C(C=C1)C(=O)C3=C(C2=O)C=CC(=C3O)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O)O
 3-Chloro-4-fluorophenylpiperazine	C1CN(CCN1)C2=CC(=C(C=C2)F)Cl
 3-Methylbenzylpiperazine	CC1=CC(=CC=C1)CN2CCNCC2
+2C-B-PP	COC1=CC(=C(C=C1N2CCNCC2)OC)Br
+MCHB-1	CCN(CC)C(=O)C1=CC2=C(C=C1)N(C(=N2)CC3=CC=C(C=C3)OCC)CC4CCCCC4
+JNJ-28330835	O=C([C@@]1(C)NN=C(C(F)(F)F)C1)NC2=CC=C(C#N)C(C(F)(F)F)=C2
