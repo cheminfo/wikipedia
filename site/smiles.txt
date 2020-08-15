@@ -17756,3 +17756,6 @@ Morindin	CC1=C(C2=C(C=C1)C(=O)C3=C(C2=O)C=CC(=C3O)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)
 MCHB-1	CCN(CC)C(=O)C1=CC2=C(C=C1)N(C(=N2)CC3=CC=C(C=C3)OCC)CC4CCCCC4
 Methyl hexanoate	CCCCCC(=O)OC
 JNJ-28330835	O=C([C@@]1(C)NN=C(C(F)(F)F)C1)NC2=CC=C(C#N)C(C(F)(F)F)=C2
+2-(2-(4-Methyl-3-cyclohexen-1-yl)propyl)cyclopentanone	CC1=CCC(CC1)C(C)CC2CCCC2=O
+1,1,1-Trichloroacetone	CC(=O)C(Cl)(Cl)Cl
+CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
