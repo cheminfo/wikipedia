@@ -844,7 +844,7 @@ Hydroiodic acid	I
 Potassium cyanide	[K+].[C-]#N
 Carnosine	c1c(nc[nH]1)C[C@@H](C(=O)O)NC(=O)CCN
 Carnosine	O=C(O)C(NC(=O)CCN)Cc1c[nH]cn1
-Sodium hexametaphosphate	[Na]OP1(=O)OP(=O)(O[Na])OP(=O)(O[Na])OP(=O)(O[Na])OP(=O)(O[Na])OP(=O)(O[Na])O1
+Sodium hexametaphosphate	[O-]P1(=O)OP(=O)([O-])OP(=O)([O-])OP(=O)(OP(=O)(OP(=O)(O1)[O-])[O-])[O-].O=C(OC(C)(C)C)NC(=O)OC(C)(C)C.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Dofetilide	O=S(=O)(Nc1ccc(cc1)CCN(CCOc2ccc(cc2)NS(=O)(=O)C)C)C
 Prednisolone	O=C\1\C=C/[C@]4(/C(=C/1)CC[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C
 Atorvastatin	O=C(O)C[C@H](O)C[C@H](O)CCn2c(c(c(c2c1ccc(F)cc1)c3ccccc3)C(=O)Nc4ccccc4)C(C)C
@@ -13162,6 +13162,7 @@ Hydrangeic acid	Oc2ccc(cc2)\C=C\c(c1C(O)=O)cccc1O
 Aspirin/paracetamol/caffeine	O=C(Nc1ccc(O)cc1)C.O=C(O)c1ccccc1OC(=O)C.O=C2N(c1ncn(c1C(=O)N2C)C)C
 Isocodeine	O[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Desocodeine	O(c2c1O[C@@H]5[C@@]34c1c(cc2)C[C@@H](N(CC3)C)[C@@H]4CCC5)C
+Phosphatrioxa-adamantane	C[C@@]12C[C@]3(O[C@@](O1)(C[C@@](O2)(P3)C)C)C
 Chlorohydroxyphenylglycine	Clc1ccc(O)cc1C(N)C(=O)O
 TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC
 TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
@@ -17136,6 +17137,7 @@ Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CCC(=O)C)/C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CC[C@@H](C)O)/C
 Diphenpipenol	COc4ccccc4N1CCN(CC1)C(Cc2cccc(O)c2)c3ccccc3
 Grapiprant	CCC1=NC2=C(C)N=C(C)C=C2N1C1=CC=C(CCNC(=O)NS(=O)(=O)C2=CC=C(C)C=C2)C=C1
+2F-Viminol	FC1=C(CN2C=CC=C2C(O)CN(C(CC)C)C(C)CC)C=CC=C1
 UV-328	CCC(C)(C)C1=CC(=C(C(=C1)N2N=C3C=CC=CC3=N2)O)C(C)(C)CC
 Tetrahymanol	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)(C)C
 3-Aminobiphenyl	C1=CC=C(C=C1)C2=CC(=CC=C2)N
@@ -17759,3 +17761,4 @@ JNJ-28330835	O=C([C@@]1(C)NN=C(C(F)(F)F)C1)NC2=CC=C(C#N)C(C(F)(F)F)=C2
 2-(2-(4-Methyl-3-cyclohexen-1-yl)propyl)cyclopentanone	CC1=CCC(CC1)C(C)CC2CCCC2=O
 1,1,1-Trichloroacetone	CC(=O)C(Cl)(Cl)Cl
 CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
+4-Thiouridine	C1=CN(C(=O)NC1=S)C2C(C(C(O2)CO)O)O
