@@ -813,7 +813,9 @@ Sumatriptan	O=S(=O)(NC)Cc1cc2c(cc1)[nH]cc2CCN(C)C
 Propylene oxide	CC1CO1
 Barium hydroxide	[Ba+2].[OH-].[OH-]
 Hydrobromic acid	Br
+Coniine	CCCC1CCCCN1
 Coniine	N1[C@@H](CCC)CCCC1
+Coniine	N1[C@H](CCC)CCCC1
 Rosiglitazone	O=C1NC(=O)SC1Cc3ccc(OCCN(c2ncccc2)C)cc3
 Pioglitazone	O=C1NC(=O)SC1Cc3ccc(OCCc2ncc(cc2)CC)cc3
 Tyramine	Oc1ccc(cc1)CCN
@@ -1253,6 +1255,7 @@ Pentagastrin	O=C(N)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CCNC(=O)O
 Chromotropic acid	O=S(=O)(O)c1cc(O)c2c(c1)cc(cc2O)S(=O)(=O)O
 Prostratin	O=C1\C(=C/[C@H]2[C@]3(O)[C@@H](/C=C(/CO)C[C@]12O)[C@H]4[C@@](OC(=O)C)(C[C@H]3C)C4(C)C)C
 Propylhexedrine	N(C(CC1CCCCC1)C)C
+Sterol	C1CC2CCC3C4CCC(CC4CCC3C2C1)O
 Dimercaprol	OCC(S)CS
 Phosphorine	C1=CC=PC=C1
 Zopiclone	O=C(OC3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
@@ -1338,6 +1341,7 @@ Copper(II) oxide	[Cu]=O
 Copper(II) oxide	[Cu+2].[O-2]
 Potassium dichromate	[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Bendroflumethiazide	FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N
+Cobalt blue	[O-][Al]=O.[O-][Al]=O.[Co+2]
 Canthaxanthin	CC(CC1)(C)C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C(C)(C)CC2)=C(C)C2=O)=C(C)C1=O
 Indanthrone blue	O=C6c5c4Nc3c(c2C(=O)c1ccccc1C(=O)c2cc3)Nc4ccc5C(=O)c7ccccc67
 Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
@@ -7774,7 +7778,7 @@ Tiglyl-CoA	C\C=C(/C)\C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C
 Alpha-Ketoadipic acid	C(CC(=O)C(=O)O)CC(=O)O
 CGP 52608	S=C(N\N=C1/SCC(=O)N1C\C=C)NC
 Chloroacetone	ClCC(=O)C
-Carumonam	O=S(=O)(O)N2C(=O)[C@@H](NC(=O)C(=N\OCC(=O)O)\c1nc(sc1)N)[C@H]2COC(=O)N
+Carumonam	C1=C(N=C(S1)N)/C(=N/OCC(=O)O)/C(=O)N[C@H]2[C@H](N(C2=O)S(=O)(=O)O)COC(=O)N
 Cefozopran	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sn3)N)Cn5c4cccn[n+]4cc5)C([O-])=O
 Flomoxef	CO[C@@]1([C@@H]2N(C1=O)C(=C(CO2)CSc3nnnn3CCO)C(=O)O)NC(=O)CSC(F)F
 Simmondsin	N#C\C=C2/[C@H](O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C[C@H](OC)[C@H](OC)[C@H]2O
