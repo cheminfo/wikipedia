@@ -13244,6 +13244,7 @@ Mallotochromene	CC1=C(C(=C(C(=C1O)C(=O)C)O)CC2=C(C3=C(C(=C2O)C(=O)C)OC(C=C3)(C)C
 Monomorine I	CCCC[C@@H]1CC[C@H]2N1[C@H](CCC2)C
 Mallotusinic acid	Oc2c(O)cc(cc2O)C(=O)OC5OC6COC(=O)c(cc(O)c(O)c4O)c4-c(c(O)c(O)c7Oc8c(C(O)=O)cc(O)c(O)c8O)cc7C(=O)OC(C5OC(=O)c3cc(O)c1O)C6OC(=O)C%10=CC(=O)C9(O)Oc1c3C%10C9(O)O
 Cyclic guanosine monophosphate–adenosine monophosphate	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3NC(=NC4=O)N)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C6N=CN=C7N)O)OP(=O)(O1)O)O)O
+Tellurium monoxide	[Te]=O
 Homoisocitric acid	O=C(O)CCC(C(=O)O)C(O)C(=O)O
 Homoaconitic acid	O=C(O)C(=CC(=O)O)CCC(=O)O
 Isopropylmalic acid	O=C(O)C(O)(CC(=O)O)C(C)C
@@ -16844,6 +16845,7 @@ Fosdevirine	CC1=CC(=CC(=C1)/C=C/C#N)[P@](=O)(C2=C(NC3=C2C=C(C=C3)Cl)C(=O)N)OC
 Lotrifen	C1=CC=C2C(=C1)C=CN3C2=NC(=N3)C4=CC=C(C=C4)Cl
 Fluorotabun	CCOP(=O)(N(C)C)F
 Isophorone diamine	CC1(CC(CC(C1)(C)CN)N)C
+Thorium monoxide	[Th]=O
 Chinese VX	CCCCOP(=O)(C)SCCN(CC)CC
 Aflatoxin M1	COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5)O
 3,3,5-Trimethylcyclohexanol	CC1CC(CC(C1)(C)C)O
@@ -17376,6 +17378,7 @@ Tetramethylethylene	CC(=C(C)C)C
 Thexylborane	[B]C(C)(C)C(C)C
 Avapritinib	CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
 Molybdenum(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Mo+4]
+Tetrahydrocannabiphorol	CCCCCCCc3cc2OC(C)(C)[C@@H]1CCC(C)=C[C@H]1c2c(O)c3
 Dibenzylaniline	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C3=CC=CC=C3
 Dibenzyl sulfide	C1=CC=C(C=C1)CSCC2=CC=CC=C2
 Dibromoacetylene	C(#CBr)Br
@@ -17769,3 +17772,4 @@ CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
 4-Thiouridine	C1=CN(C(=O)NC1=S)C2C(C(C(O2)CO)O)O
 1,3,5-Triheptylbenzene	CCCCCCCc1cc(CCCCCCC)cc(CCCCCCC)c1
 5-Methylmethiopropamine	CC1=CC=C(S1)CC(C)NC
+KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
