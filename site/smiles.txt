@@ -2299,6 +2299,7 @@ Molybdic acid	O=[Mo](=O)(O)O
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
+Selenium disulfide	S=[Se]=S
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
 Bromine trifluoride	FBr(F)F
 Bromine pentafluoride	FBr(F)(F)(F)F
@@ -14454,6 +14455,7 @@ Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl
 Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
+Vanadyl perchlorate	O=[V](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
 Pentaborane(11)	[BH3]1[BH2]2[BH]13[BH2]2[BH3]3
 Zirconium perchlorate	[Zr](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 2,4,5-Trihydroxycinnamic acid	OC(=O)\C=C\c(cc1O)c(O)cc1O
@@ -17775,3 +17777,4 @@ CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
 Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 5-Methylmethiopropamine	CC1=CC=C(S1)CC(C)NC
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
