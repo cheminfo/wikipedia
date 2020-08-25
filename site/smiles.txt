@@ -17759,6 +17759,7 @@ CUMYL-CBMINACA	CC(C)(NC(=O)c3nn(CC1CCC1)c2ccccc23)c4ccccc4
 Methoxpropamine	COc1cccc(c1)C2(NCCC)CCCCC2=O
 Bromoketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Br
 Gamma-Carboline	C1=CC=C2C(=C1)C3=C(N2)C=CN=C3
+Myrtecaine	CCN(CC)CCOCCC1=CCC2CC1C2(C)C
 4-Butylresorcinol	CCCCC1=C(C=C(C=C1)O)O
 Boron triazide	B(N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Morindin	CC1=C(C2=C(C=C1)C(=O)C3=C(C2=O)C=CC(=C3O)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O)O
@@ -17778,3 +17779,4 @@ Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 5-Methylmethiopropamine	CC1=CC=C(S1)CC(C)NC
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
+Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
