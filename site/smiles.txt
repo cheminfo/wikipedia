@@ -1833,6 +1833,7 @@ Indium antimonide	[In]#[Sb]
 Benserazide	O=C(NNCc1c(O)c(O)c(O)cc1)C(N)CO
 Chlormethine	CN(CCCl)CCCl
 Phosphorus tribromide	BrP(Br)Br
+Silver sulfadiazine	[Ag+].O=S(=O)([N-]c1ncccn1)c2ccc(N)cc2
 Citronellal	O=CCC(CC/C=C(/C)C)C
 Citral	O=CC=C(C)CCC=C(C)C
 Ionone	O=C(\C=C\C1\C(=C)CCCC1(C)C)C
@@ -3693,7 +3694,7 @@ Tantalum telluride	[Te]=[Ta]=[Te]
 Octocrylene	N#C/C(C(=O)OCC(CC)CCCC)=C(/c1ccccc1)c2ccccc2
 Octyl salicylate	CCCCC(CC)COC(=O)C1=CC=CC=C1O
 Uranyl chloride	[Cl-].O=[U+2]=O.[Cl-]
-Caffeine citrate	O=C(O)C(O)(CC(=O)O)CC(=O)O.O=C2N(c1ncn(c1C(=O)N2C)C)C
+Caffeine citrate	CN1C=NC2=C1C(=O)N(C(=O)N2C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
 Xenon trioxide	[O-][Xe+3]([O-])[O-]
@@ -17780,3 +17781,6 @@ Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
 Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
+Nereistoxin	CN(C)C1CSSC1
+Nereistoxin	CN(C)C(CSC(=O)N)CSC(=O)N
+PF-04479745	C[C@H]1CNCCC2=C1N=C(N=C2NC)CC3=CC=CC=C3
