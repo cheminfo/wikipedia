@@ -2863,6 +2863,7 @@ Palmitoleic acid	O=C(O)CCCCCCC\C=C/CCCCCC
 Methylglyoxal	CC(=O)C=O
 Trimethylolpropane triacrylate	CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
 Triptycene	C12=CC=CC=C1C3C5=C(C=CC=C5)C2C4=C3C=CC=C4
+Adamantanone	C1C2CC3CC1CC(C2)C3=O
 Chlorophyll d	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCCC(\C)=C\COC(=O)CC[C@H]6[C@H](C)C=5/C=C/2\N\1[Mg]n4c(\C=C\3/N=C(/C=C/1C(\C=O)=C\2\C)C(/C)=C/3/CC)c(C)c7c4\C(=C6/N=5)[C@@H](C(=O)OC)C7=O
 Chlorophyll b	CCC1=C(C2=NC1=CC3=C(C4=C([C@@H](C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)[C@H]([C@@H]5CCC(=O)OC/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C)C(=O)OC)[O-])C)C=O.[Mg+2]
 3-Dehydroquinic acid	O=C1[C@@H](O)[C@H](O)C[C@](O)(C(=O)O)C1
@@ -9814,7 +9815,6 @@ Bromocyclohexane	BrC1CCCCC1
 Butyryl chloride	ClC(=O)CCC
 Dieticyclidine	CCN(CC)C1(CCCCC1)C2=CC=CC=C2
 Cacotheline	[O-][N+](=O)C=1C(=O)C(=O)/C=C3\C=1N[C@H]4[C@H]2[C@@H]6/C(=C\CO[C@H]2CC(=O)O)CN5CC[C@]34[C@@H]5C6
-Cartap	[Cl-].O=C(SCC(CSC(=O)N)[NH+](C)C)N
 Chloranilic acid	Cl\C1=C(/O)C(=O)C(\Cl)=C(\O)C1=O
 2-Chloro-m-cresol	Clc1c(cccc1O)C
 2-Chlorostyrene	C=Cc1ccccc1Cl
@@ -17784,3 +17784,5 @@ Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
 Nereistoxin	CN(C)C1CSSC1
 Nereistoxin	CN(C)C(CSC(=O)N)CSC(=O)N
 PF-04479745	C[C@H]1CNCCC2=C1N=C(N=C2NC)CC3=CC=CC=C3
+LY-266,097	CC1=CC2=C(C=C1)NC3=C2CCNC3CC4=C(C(=C(C=C4)OC)OC)Cl
+CUMYL-CB-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCC2)c3ccccc3c4C5=O
