@@ -2549,6 +2549,7 @@ Potassium silicate	[K+].[K+].[O-][Si]([O-])=O
 Mesaconic acid	OC(/C(C)=C/C(O)=O)=O
 Dolasetron	[H]C35C[C@@]4([H])CC(OC(=O)c1c[nH]c2ccccc12)C[C@@]([H])(C3)N4CC5=O
 Ethyl sulfate	O=S(=O)(O)OCC
+Fusafungine	CC(C)[C@H]1C(=O)OC(C(=O)N([C@H](C(=O)OC(C(=O)N([C@H](C(=O)OC(C(=O)N1C)C(C)C)C(C)C)C)C(C)C)C(C)C)C)C(C)C
 Orthoformic acid	OC(O)O
 2,4-Dinitrotoluene	Cc1ccc(cc1[N+](=O)[O-])[N+](=O)[O-]
 Hydroxymethylfurfural	c1cc(oc1CO)C=O
@@ -16597,6 +16598,7 @@ Yttrium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Y+3]
 Praseodymium(III,IV) oxide	O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]O[Pr]=O
 Prymnesin-2	CC2CC1OC(CCC1OC2C7CCC6OC5CC4OC3CCC(OC3CC4OC5CC(O)C6O7)C=CC=CCC(N)CC=CC=CC#CCCC#CC=CCl)C9CC(O)C8OC(C(O)CC8O9)C%11CC(Cl)C%10OC(C(O)CC%10O%11)C%13CCC%12OC(C(O)C(O)C%12O%13)C%15OC(CC(O)C(OC%14OC(CO)C(O)C%14O)C(O)CC(O)C(O)C(O)C(O)C(O)C(Cl)CC#CC#C)C(O)C(O)C%15O
 Meso-Stilbene dibromide	C1=CC=C(C=C1)[C@H]([C@H](C2=CC=CC=C2)Br)Br
+A-232	CCN(CC)C(\C)=N\P(F)(=O)OC
 A-234 (nerve agent)	CCOP(F)(=O)\N=C(/C)\N(CC)CC
 Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=CC=C97)C1=CC=CC=C1C1=C8C4=C(C2=CC=CC=C23)C2=CC=CC=C21
 Chlorphenacemide	C1=CC=C(C=C1)C(C(=O)NC(=O)N)Cl
@@ -17794,6 +17796,8 @@ CUMYL-CB-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCC2)c3ccccc3c4C5=O
 Prenderol	CCC(CC)(CO)CO
 1-Ethynylcyclohexanol	C#CC1(CCCCC1)O
 2-Methyl-2-propyl-1,3-propanediol	CCCC(C)(CO)CO
-2-Methyldodecane	CC(C)CCCCCCCCCC
+2-Methyldodecane	CCCCCCCCCCC(C)C
 Pecazine	CN1CCCC(C1)CN2C3=CC=CC=C3SC4=CC=CC=C42
 A-230	CCN(CC)C(C)=N[P](C)(F)=O
+A-242	CCN(CC)C(=N[P](C)(F)=O)N(CC)CC
+5,6-Dihydro-5(α-thyminyl)thymine	Cc1cn(c(=O)[nH]c1=O)C2(CNC(=O)NC2=O)C
