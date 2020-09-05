@@ -2012,5 +2012,6 @@
 {"date":"2020-09-01T03:38:54.817Z","molecules":17795,"errors":77,"nogood":52,"notfound":2263,"dup":586},
 {"date":"2020-09-02T03:40:25.167Z","molecules":17796,"errors":77,"nogood":52,"notfound":2264,"dup":586},
 {"date":"2020-09-03T03:38:50.743Z","molecules":17799,"errors":77,"nogood":52,"notfound":2264,"dup":586},
-{"date":"2020-09-04T03:40:10.854Z","molecules":17803,"errors":77,"nogood":52,"notfound":2263,"dup":586}
+{"date":"2020-09-04T03:40:10.854Z","molecules":17803,"errors":77,"nogood":52,"notfound":2263,"dup":586},
+{"date":"2020-09-05T03:38:51.338Z","molecules":17805,"errors":77,"nogood":52,"notfound":2266,"dup":585}
 ]
