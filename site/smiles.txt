@@ -17787,6 +17787,7 @@ Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
 Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
+1,2,3-Benzothiadiazole	C1=CC=C2C(=C1)N=NS2
 Nereistoxin	CN(C)C1CSSC1
 Nereistoxin	CN(C)C(CSC(=O)N)CSC(=O)N
 PF-04479745	C[C@H]1CNCCC2=C1N=C(N=C2NC)CC3=CC=CC=C3
@@ -17811,3 +17812,5 @@ Dimethyl(trifluoromethylthio)arsine	C[As](C)SC(F)(F)F
 Anisyl acetate	CC(=O)OCC1=CC=C(C=C1)OC
 Copper Cu 64 dotatate	CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)O)C(=O)NC(C(C)O)C(=O)O)O.[Cu+2]
 SB-228357	COC1=C(C=C2C(=C1)CCN2C(=O)NC3=CC(=CC(=C3)C4=CN=CC=C4)F)C(F)(F)F
+WAY-163909	C1C[C@H]2[C@@H](C1)N3CCNCC4=C3C2=CC=C4
+Indolium	C1=CC=C2C(=C1)C=C[NH2+]2
