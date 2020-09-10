@@ -15586,7 +15586,7 @@ Estradiol 3-propionate	CCC(=O)Oc1ccc2c(c1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]
 Hexestrol dicaprylate	CCCCCCCC(=O)OC1=CC=C(C=C1)C(CC)C(CC)C2=CC=C(C=C2)OC(=O)CCCCCCC
 Mestilbol	CCC(=C(CC)C1=CC=C(C=C1)OC)C2=CC=C(C=C2)O
 N,N-Dimethylphenethylamine	CN(C)CCC1=CC=CC=C1
-1,2-Octanediol	CCCCCCOCCO
+1,2-Octanediol	CCCCCCC(CO)O
 Terfluranol	CC(C1=CC=C(C=C1)O)C(CC(F)(F)F)C2=CC=C(C=C2)O
 Pentafluranol	CC(C1=CC(=C(C=C1)O)F)C(CC(F)(F)F)C2=CC(=C(C=C2)O)F
 Norclostebol acetate	CC(=O)OC1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C(C(=O)CC[C@H]34)Cl)C
@@ -17524,6 +17524,7 @@ Anthracene-9-carbaldehyde	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2C=O
 9-Anthracenemethanol	C1=CC=C2C(=C1)C=C3C=CC=CC3=C2CO
 Hinokinin	C1C(C(C(=O)O1)CC2=CC3=C(C=C2)OCO3)CC4=CC5=C(C=C4)OCO5
 Nitensidine D	CC(=CCC/C(=C/CN=C(N)N)/C)C
+Silver diethyldithiocarbamate	CCN(CC)C(=S)[S-].[Ag+]
 Padeliporfin	CCC1C(C2=NC1=CC3=C(C(=C([N-]3)C(=C4C(C(C(=N4)C=C5C(=C(C(=C2)[N-]5)C(=O)C)C)C)CCC(=O)O)CC(=O)OC)C(=O)NCCS(=O)(=O)O)C)C.[Pd+2]
 Isophthalonitrile	C1=CC(=CC(=C1)C#N)C#N
 1,4-Dicyanobenzene	C1=CC(=CC=C1C#N)C#N
@@ -17814,3 +17815,5 @@ Copper Cu 64 dotatate	CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)C
 SB-228357	COC1=C(C=C2C(=C1)CCN2C(=O)NC3=CC(=CC(=C3)C4=CN=CC=C4)F)C(F)(F)F
 WAY-163909	C1C[C@H]2[C@@H](C1)N3CCNCC4=C3C2=CC=C4
 Indolium	C1=CC=C2C(=C1)C=C[NH2+]2
+Pralsetinib	CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)NC(C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC
+Galactogen	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)O)O)O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)O)O)O)O)O
