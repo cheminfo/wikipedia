@@ -173,8 +173,8 @@ Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
 Valproate	CCCC(CCC)C(=O)O.CCCC(CCC)C(=O)[O-].[Na+]
 Sodium hydroxide	[OH-].[Na+]
-Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N
-Tryptophan	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)[O-])[NH3+]
+Tryptophan	c1[nH]c2ccccc2c1C[C@H](N)C(=O)O
+Tryptophan	c1[nH]c2ccccc2c1C[C@H]([NH3+])C(=O)[O-]
 Daminozide	CN(C)NC(=O)CCC(O)=O
 Thymine	Cc1c[nH]c(=O)[nH]c1=O
 Liquid hydrogen	[H][H]
@@ -17817,3 +17817,5 @@ WAY-163909	C1C[C@H]2[C@@H](C1)N3CCNCC4=C3C2=CC=C4
 Indolium	C1=CC=C2C(=C1)C=C[NH2+]2
 Pralsetinib	CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)NC(C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC
 Galactogen	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)O)O)O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)O)O)O)O)O
+18-Hydroxy-11-deoxycorticosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CO)CO
+AGH-192	CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)I)F
