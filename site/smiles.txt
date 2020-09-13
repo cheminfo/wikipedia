@@ -3993,6 +3993,7 @@ Calcium arsenate	[O-][As](=O)([O-])[O-].[O-][As](=O)([O-])[O-].[Ca+2].[Ca+2].[Ca
 Antimony pentoxide	O=[Sb](=O)O[Sb](=O)=O
 Antimony trichloride	Cl[Sb](Cl)Cl
 Zinc stearate	[Zn+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
+Sesquimustard	C(CSCCCl)SCCCl
 Sertaconazole	Clc1ccc(c(Cl)c1)C(OCc2c3cccc(Cl)c3sc2)Cn4ccnc4
 Vanadium(III) bromide	Br[V](Br)Br
 Vanadium(II) chloride	Cl[V]Cl
@@ -17820,3 +17821,4 @@ Galactogen	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([
 18-Hydroxy-11-deoxycorticosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CO)CO
 AGH-192	CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)I)F
 JNJ-18038683	C1CNCCC2=C1C(=NN2CC3=CC=CC=C3)C4=CC=C(C=C4)Cl
+Selenium mustard	C(C[Se]CCCl)Cl
