@@ -17202,6 +17202,7 @@ Dimethylol propionic acid	CC(CO)(CO)C(=O)O
 Empagliflozin/metformin	CN(C)C(=N)N=C(N)N.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O.Cl
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
 BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
+Difluorosilane	F[SiH2]F
 Boron monohydride	[BH]
 Boron monohydride	[2H][B]
 Boron monohydride	[3H][B]
@@ -17822,3 +17823,4 @@ Galactogen	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([
 AGH-192	CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)I)F
 JNJ-18038683	C1CNCCC2=C1C(=NN2CC3=CC=CC=C3)C4=CC=C(C=C4)Cl
 Selenium mustard	C(C[Se]CCCl)Cl
+Phenylacetylrinvanil	CCCCCC[C@H](C/C=C\CCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC)C(=O)CC2=CC=CC=C2
