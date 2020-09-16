@@ -1473,6 +1473,7 @@ Phenylephrine	O[C@H](c1cc(O)ccc1)CNC
 Lactulose	O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O[C@]2(O)CO)CO
 Cromoglicic acid	O=C(O)C=4Oc3cccc(OCC(O)COc2cccc1O/C(=C\C(=O)c12)C(=O)O)c3C(=O)C=4
 Iron(II,III) oxide	O1[Fe]2O[Fe]O[Fe]1O2
+Iron(II,III) oxide	[O-2].[O-2].[O-2].[O-2].[Fe+2].[Fe+3].[Fe+3]
 Oxaprozin	O=C(O)CCc1nc(c(o1)c2ccccc2)c3ccccc3
 Formamide	O=CN
 Vinyl alcohol	OC=C
@@ -12444,6 +12445,7 @@ Kaempferol 3-O-rutinoside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@
 Laurolactam	C1CCCCCC(=O)NCCCCC1
 Sodium trifluoromethanesulfinate	[Na+].FC(F)(F)S([O-])=O
 Sodium ferric gluconate complex	O[C@H]([C@@H](O)C(O[Na])=O)[C@H](O)[C@H](O)CO.O[C@H]([C@@H](O)C(O1)=O)[C@H](O)[C@H](O)CO.[Fe]1(OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+Iron sucrose	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O.O.O.O.[OH-].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Na+].[Na+].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
 Valperinol	O1[C@@H](OC)[C@@H]2[C@@]3(O[C@H]1[C@@H]([C@H]2C[C@@H]3O)C)CN4CCCCC4
 Valorphin	C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](Cc1c[nH]c2c1cccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)N)O
 Leumorphin	C[C@H]([C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc2ccc(cc2)O)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc5ccccc5)NC(=O)CNC(=O)CNC(=O)[C@H](Cc6ccc(cc6)O)N)O
@@ -17825,3 +17827,7 @@ JNJ-18038683	C1CNCCC2=C1C(=NN2CC3=CC=CC=C3)C4=CC=C(C=C4)Cl
 Selenium mustard	C(C[Se]CCCl)Cl
 Phenylacetylrinvanil	CCCCCC[C@H](C/C=C\CCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC)C(=O)CC2=CC=CC=C2
 GRC-6211	C1CC2(C1)C[C@H](C3=C(O2)C=CC(=C3)F)NC(=O)NC4=CC=CC5=C4C=CN=C5
+Ammonia N-13	[13NH3]
+GSK1016790A	CC(C)C[C@H](NC(C1=CC2=CC=CC=C2S1)=O)C(N3CCN(CC3)C([C@H](CO)NS(=O)(C4=C(Cl)C=C(Cl)C=C4)=O)=O)=O
+2-Ethylhexyl diphenyl phosphate	CCCCC(CC)COP(=O)(OC1=CC=CC=C1)OC2=CC=CC=C2
+AH-494	CCn1cncc1-c1c[nH]c2ccc(cc12)C(N)=O
