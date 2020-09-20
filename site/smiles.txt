@@ -10449,7 +10449,7 @@ Nitroacetic acid	C(C(=O)O)[N+](=O)[O-]
 3-Hexanol	CCCC(CC)O
 3-Methyl-1-pentanol	OCCC(C)CC
 2-Methyl-1-pentanol	OCC(C)CCC
-4-Methyl-1-pentanol	OCCCC(C)C
+Isohexanol	OCCCC(C)C
 2,4,6-Tribromoanisole	COc1c(Br)cc(Br)cc1Br
 Methyl chloroformate	O=C(Cl)OC
 2,4,6-Tribromophenol	Brc1cc(Br)cc(Br)c1O
@@ -17836,3 +17836,5 @@ A-967079	CC/C(=N/O)/C(=C/C1=CC=C(C=C1)F)/C
 Hexa(tert-butoxy)dimolybdenum(III)	CC(C)(C)O[Mo](#[Mo](OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C
 Hexa(tert-butoxy)ditungsten(III)	CC(C)(C)O[W](#[W](OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C
 ASP-7663	CC(C)CN1C2=C(C=CC=C2F)/C(=C\C(=O)O)/C1=O
+Lithium tert-butoxide	[Li+].CC(C)(C)[O-]
+AMG-9810	CC(C)(C)C1=CC=C(C=C1)/C=C/C(=O)NC2=CC3=C(C=C2)OCCO3
