@@ -803,7 +803,7 @@ Chlorate	O=Cl(=O)[O-]
 Xenon tetroxide	[O-][Xe+4]([O-])([O-])[O-]
 Itraconazole	O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OC[C@@H]3O[C@](OC3)(c4ccc(Cl)cc4Cl)Cn5ncnc5)cc6)CC7)C(C)CC
 Dihydrotestosterone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
-Ammonia solution	[OH-].[NH4+]
+Ammonia solution	[OH2].[NH3]
 Stevioside	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
 Calcium sulfate	[Ca+2].[O-]S([O-])(=O)=O
 S-Adenosyl methionine	O=C(O)C(N)CC[S+](C)C[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3O
@@ -17335,7 +17335,7 @@ S-Methylcysteine	CSC[C@@H](C(=O)O)N
 Tris(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)[Si](C)(C)C
 4-Dimethylamino-4-(p-tolyl)cyclohexanone	CC1=CC=C(C=C1)C2(CCC(=O)CC2)N(C)C
 Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1
-AMG 510	CC(C)c1nccc(C)c1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)c4cc(F)c(nc24)c5c(O)cccc5F
+Sotorasib	CC(C)c1nccc(C)c1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)c4cc(F)c(nc24)c5c(O)cccc5F
 Estradiol distearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)CCCCCCCCCCCCCCCCC)C
 3-Methyl-PCPy	CC1=CC(=CC=C1)C2(CCCCC2)N3CCCC3
 Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.C1=CC=C(C=C1)C(=O)O
@@ -17838,3 +17838,4 @@ Hexa(tert-butoxy)ditungsten(III)	CC(C)(C)O[W](#[W](OC(C)(C)C)(OC(C)(C)C)OC(C)(C)
 ASP-7663	CC(C)CN1C2=C(C=CC=C2F)/C(=C\C(=O)O)/C1=O
 Lithium tert-butoxide	[Li+].CC(C)(C)[O-]
 AMG-9810	CC(C)(C)C1=CC=C(C=C1)/C=C/C(=O)NC2=CC3=C(C=C2)OCCO3
+Drofenine	CCN(CC)CCOC(=O)C(C1CCCCC1)C2=CC=CC=C2
