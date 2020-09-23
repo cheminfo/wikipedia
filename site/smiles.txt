@@ -17765,7 +17765,7 @@ Potassium octacyanomolybdate(IV)	O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(
 Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.[K+].[K+].[K+].[K+].[Mo+4]
 Rilmazolam	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
 Brorphine	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC=CC=C4NC3=O
-Desnitroetonitazene	CCOc1ccc(cc1)Cc3nc2ccccc2n3CCN(CC)CC
+Desnitroetonitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OCC
 5F-CUMYL-PEGACLONE	CC(C)(c1ccccc1)N4C=Cc3n(CCCCCF)c2ccccc2c3C4=O
 CUMYL-CH-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCCCC2)c3ccccc3c4C5=O
 CUMYL-CBMINACA	CC(C)(NC(=O)c3nn(CC1CCC1)c2ccccc23)c4ccccc4
@@ -17839,3 +17839,4 @@ ASP-7663	CC(C)CN1C2=C(C=CC=C2F)/C(=C\C(=O)O)/C1=O
 Lithium tert-butoxide	[Li+].CC(C)(C)[O-]
 AMG-9810	CC(C)(C)C1=CC=C(C=C1)/C=C/C(=O)NC2=CC3=C(C=C2)OCCO3
 Drofenine	CCN(CC)CCOC(=O)C(C1CCCCC1)C2=CC=CC=C2
+Allophanic acid	C(=O)(N)NC(=O)O
