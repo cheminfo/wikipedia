@@ -2901,7 +2901,7 @@ Malononitrile	N#CCC#N
 Succinonitrile	N#CCCC#N
 Glutaronitrile	N#CCCCC#N
 Adiponitrile	N#CCCCCC#N
-Fludeoxyglucose (18F)	OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
+Fluorodeoxyglucose (18F)	OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
 Glycolaldehyde	O=CCO
 Pentacene	c1ccc2cc3cc4cc5ccccc5cc4cc3cc2c1
 Rubrene	c5(c3c(c1ccccc1c(c2ccccc2)c3c(c4ccccc4)c6ccccc56)c7ccccc7)c8ccccc8
@@ -4053,6 +4053,7 @@ Ytterbium(III) chloride	Cl[Yb](Cl)Cl
 Ytterbium(III) bromide	Br[Yb](Br)Br
 Tungsten disulfide	S=[W]=S
 Vanadium(III) fluoride	[V+3].[F-].[F-].[F-]
+Vanadium(V) oxytrifluoride	O=[V](F)(F)F
 Titanium(II) chloride	[Ti+2].[Cl-].[Cl-]
 24-Ethyl coprostanol	O[C@H]1CC[C@@]2(C)[C@@](CC[C@]3([H])[C@@]([H])2CC[C@@]4(C)[C@]([H])3CC[C@@]([H])4[C@@H](CCC(CC)C(C)C)C)([H])C1
 Caesium carbonate	[Cs+].[Cs+].[O-]C([O-])=O
@@ -16175,6 +16176,7 @@ Pentamethylantimony	C[Sb](C)(C)(C)C
 Pentamethylbismuth	C[Bi](C)(C)(C)C
 Pentamethylcyclopentadienyl rhodium dichloride dimer	c1(C)=c(C)c(C)=c(C)c1(C)[Rh](Cl)(Cl1)Cl[Rh](Cl)1C1(C)C(C)=C(C)C(C)=C1C
 Yttrium phosphide	P#[Y]
+Yttrium oxyfluoride	[Y+3].[O-2].[F-]
 Dicarbonyl(acetylacetonato)rhodium(I)	CC(=CC(=O)C)O.[C-]#[O+].[C-]#[O+].[Rh]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
