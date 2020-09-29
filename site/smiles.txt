@@ -537,6 +537,7 @@ Hydroxylamine	NO
 Iodoform	IC(I)I
 Metronidazole	OCCn1c(C)ncc1[N+](=O)[O-]
 Propionic acid	CCC(=O)O
+Propionic acid	CCC(=O)[O-]
 Piperonyl butoxide	CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2
 Menthol	O[C@H]1[C@H](C(C)C)CC[C@@H](C)C1
 Hydromorphone	O=C4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@H]3CC4)C
@@ -2040,7 +2041,6 @@ Indole-3-acetic acid	O=C(O)Cc1c[nH]c2ccccc12
 Chlorobenzene	c1ccc(cc1)Cl
 Vinyl acetate	C=COC(C)=O
 Melezitose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]3(O[C@@H]([C@@H](O)[C@@H]3O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)CO)CO
-Propionate	CCC(=O)[O-]
 Aluminium sulfate	[Al+3].[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Ethacridine lactate	O=C(O)C(O)C.O(c2ccc1nc3c(c(c1c2)N)ccc(c3)N)CC
 Trimetazidine	O(c1ccc(c(OC)c1OC)CN2CCNCC2)C
