@@ -3732,7 +3732,7 @@ WIN 55,212-2	CC1=C(C2=C3N1[C@@H](COC3=CC=C2)CN4CCOCC4)C(=O)C5=CC=CC6=CC=CC=C65
 Methyl carbamate	O=C(OC)N
 DHA-clozapine	Clc1ccc2N(C(=O)CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC)c4ccccc4C(=N/c2c1)\N3CCN(C)CC3
 Hexafluorosilicic acid	[H+].[H+].F[Si-2](F)(F)(F)(F)F
-Palladium(II) cyanide	[Pd+2].[C-]#N.[C-]#N
+Palladium dicyanide	[Pd+2].[C-]#N.[C-]#N
 Uranium borohydride	[BH4-].[BH4-].[U+4].[BH4-].[BH4-]
 Maitotoxin	C[C@H](CC[C@@H]([C@@H]([C@H](C)C[C@H](C(=C)/C(=C/CO)/C)O)O)OS(=O)(=O)[O-])[C@H]([C@@H](C)[C@H]1[C@@H]([C@@H]([C@H]2[C@H](O1)[C@@H](C[C@]3([C@H](O2)C[C@H]4[C@H](O3)C[C@]5([C@H](O4)[C@H]([C@H]6[C@H](O5)C[C@H]([C@H](O6)[C@@H]([C@H](C[C@H]7[C@@H]([C@@H]([C@H]8[C@H](O7)C[C@H]9[C@H](O8)C[C@H]1[C@H](O9)[C@H]([C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)[C@H]1[C@@H]([C@H]([C@H]2[C@@H](O1)C[C@H]([C@@H](O2)[C@@H](C[C@H](C[C@H]1[C@@H]([C@H]([C@H]2[C@@H](O1)C[C@H]([C@@H](O2)[C@H]1[C@@H](C[C@]2([C@H](O1)[C@@H]([C@]1([C@H](O2)C[C@]2([C@H](O1)CC[C@]1([C@H](O2)C[C@]2([C@H](O1)C[C@H]1[C@H](O2)CC[C@H](O1)[C@]1([C@@H](C[C@H]2[C@](O1)(C[C@H]1[C@](O2)(CC[C@]2([C@H](O1)C[C@H]1[C@](O2)(C[C@H]2[C@H](O1)C/C=C\[C@H]1[C@H](O2)C[C@H]2[C@](O1)(C[C@]1([C@H](O2)C[C@H]2[C@](O1)(CC[C@H](O2)[C@H]([C@@H](C[C@@H](C)[C@@H](C)CC=C)O)O)C)C)C)C)C)C)C)O)C)C)C)C)C)O)C)O)O)O)O)O)O)O)O)O)O)O)O)O)OS(=O)(=O)[O-])O)O)O)O)C)C)O)O)O)O.[Na+].[Na+]
 Eptifibatide	[H][C@@]14CCCN1C(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CC(=O)O)NC(=O)CNC(=O)[C@H](CCCCNC(=N)N)NC(=O)CCSSC[C@@H](C(N)=O)NC4=O
@@ -17849,3 +17849,4 @@ Drofenine	CCN(CC)CCOC(=O)C(C1CCCCC1)C2=CC=CC=C2
 Allophanic acid	C(=O)(N)NC(=O)O
 SET2	O=C(CCSc1nc(cc(n1)N(C)CCC)C(F)(F)F)NCc2ccco2
 HC-067047	CC1=C(C=C(N1CCCN2CCOCC2)C3=CC=CC=C3)C(=O)NC4=CC=CC(=C4)C(F)(F)F
+ZINC17988990	C1C(=O)N(C2=CC=CC=C2O1)CCC(=O)OCC3=NC4=C(C(=CS4)C5=CC=CC=C5)C(=O)N3
