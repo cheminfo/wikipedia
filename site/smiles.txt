@@ -11472,6 +11472,7 @@ TM-38837	O=C(C1=NN(C2=CC=C(Cl)C=C2Cl)C(C3=CC=C(C#CC4=CC=C(C(F)(F)F)C=C4)S3)=C1CC
 POPC	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Cycloheptanone	O=C1CCCCCC1
 Midostaurin	C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC
+Telmisartan/hydrochlorothiazide	CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C.C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
 Methyl azide	[N-]=[N+]=N\C
 Traxoprodil	c2cc(O)ccc2C(O)C(C)N3CCC(O)(CC3)c1ccccc1
 SR-144,528	CC1=CC=C(C=C1)CN2C(=CC(=N2)C(=O)N[C@H]3[C@]4(CC[C@H](C4)C3(C)C)C)C5=CC(=C(C=C5)Cl)C
@@ -17512,7 +17513,7 @@ Diazinane	C1CNCNC1
 Diazinane	C1CNCCN1
 Rubidium cyanide	[C-]#N.[Rb+]
 Caesium cyanide	[C-]#N.[Cs+]
-PR-toxin	C[C@H]1[C@H]([C@@H]2[C@@H](O2)C3=CC(=O)[C@@]4(C[C@]13C)[C@@](O4)(C)C=O)OC(=O)C
+PR toxin	C[C@H]1[C@H]([C@@H]2[C@@H](O2)C3=CC(=O)[C@@]4(C[C@]13C)[C@@](O4)(C)C=O)OC(=O)C
 Glysobuzole	CC(C)CC1=NN=C(NS(=O)(=O)C2=CC=C(C=C2)OC)S1
 1-Naphthoic acid	C1=CC=C2C(=C1)C=CC=C2C(=O)O
 2-Naphthoic acid	C1=CC=C2C=C(C=CC2=C1)C(=O)O
