@@ -129,7 +129,7 @@ Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
 Mustard gas	ClCCSCCCl
 Phosgene	ClC(Cl)=O
-Phenytoin	O=C2NC(=O)NC2(c1ccccc1)c3ccccc3
+Phenytoin	C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
 Dopamine	C1=CC(=C(C=C1CCN)O)O
 Polyvinylpyrrolidone	N1(C(CCC1)=O)[C@@H](C*)*
@@ -17855,3 +17855,4 @@ HC-067047	CC1=C(C=C(N1CCCN2CCOCC2)C3=CC=CC=C3)C(=O)NC4=CC=CC(=C4)C(F)(F)F
 ZINC17988990	C1C(=O)N(C2=CC=CC=C2O1)CCC(=O)OCC3=NC4=C(C(=CS4)C5=CC=CC=C5)C(=O)N3
 Phosphonium iodide	[PH4+].[I-]
 A-262	CCN(CC)C(=NP(=O)(OC)F)N(CC)CC
+Forsythoside B	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@](CO4)(CO)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O
