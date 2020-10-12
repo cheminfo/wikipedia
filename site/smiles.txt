@@ -3899,6 +3899,7 @@ Tungsten hexachloride	Cl[W](Cl)(Cl)(Cl)(Cl)Cl
 Levobupivacaine	O=C([C@H]1N(CCCC1)CCCC)NC2=C(C)C=CC=C2C
 2-Hexanol	OC(C)CCCC
 Sulfur tetrafluoride	FS(F)(F)F
+P-Toluenesulfonyl hydrazide	CC1=CC=C(C=C1)S(=O)(=O)NN
 Disulfur dichloride	ClSSCl
 Trinitrotriazine	O=[N+]([O-])C1=NC([N+]([O-])=O)=NC([N+]([O-])=O)=N1
 Fumonisin B2	O=C(O)C[C@@H](C(=O)O)CC(=O)O[C@@H](C[C@@H](C)CCCCCC[C@@H](O)C[C@H](O)[C@@H](N)C)[C@H](OC(=O)C[C@H](C(=O)O)CC(=O)O)[C@H](C)CCCC
@@ -15118,7 +15119,7 @@ Pneumocandin B0	CCC(C)CC(C)CCCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H](C
 5-Methoxymethylone	CC(NC)C(C1=CC(OC)=C(OCO2)C2=C1)=O
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
-RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
+Testolone	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
 Hexaborane(12)	[BH3]1[BH3][BH2]1[BH2]2[BH3][BH3]2
 ML-154	[Br-].C1(=CC=CC=C1)[P](=S)(C2=C([N+](=C3C=CC=C[N]23)C\C=C\C4=CC=CC=C4)C)C5=CC=CC=C5
 Apoatropine	CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3
@@ -17856,3 +17857,4 @@ ZINC17988990	C1C(=O)N(C2=CC=CC=C2O1)CCC(=O)OCC3=NC4=C(C(=CS4)C5=CC=CC=C5)C(=O)N3
 Phosphonium iodide	[PH4+].[I-]
 A-262	CCN(CC)C(=NP(=O)(OC)F)N(CC)CC
 Forsythoside B	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@](CO4)(CO)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O
+2,6-Dichloroquinone-4-chloroimide	C1=C(C(=O)C(=CC1=NCl)Cl)Cl
