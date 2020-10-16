@@ -2332,7 +2332,7 @@ Ketotifen	O=C3c1sccc1C(\c2c(cccc2)C3)=C4/CCN(C)CC4
 Kanamycin A	O([C@@H]2[C@@H](O)[C@H](O[C@H]1O[C@H](CN)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)C[C@H]2N)[C@H]3O[C@@H]([C@@H](O)[C@H](N)[C@H]3O)CO
 Diethyl sulfate	O=S(=O)(OCC)OCC
 Diethyl sulfite	O=S(OCC)OCC
-Decanoic acid	O=C(O)CCCCCCCCC
+Capric acid	O=C(O)CCCCCCCCC
 Pinene	CC1=CCC2CC1C2(C)C
 Tetrakis(triphenylphosphine)palladium(0)	[Pd]([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1
 Cyclooctatetraene	C1=C\C=C/C=C\C=C1
@@ -3125,7 +3125,7 @@ Neutral red	Cl.n1c3c(nc2c1cc(c(c2)N)C)cc(N(C)C)cc3
 Xanthene	O1c2ccccc2Cc3ccccc31
 Fenofibrate	O=C(c1ccc(Cl)cc1)c2ccc(OC(C(=O)OC(C)C)(C)C)cc2
 Ethyl heptanoate	CCCCCCC(OCC)=O
-Heptanoic acid	O=C(O)CCCCCC
+Enanthic acid	O=C(O)CCCCCC
 Betanin	OCC1[C@@H](O)[C@@H](O)[C@H](O)[C@@H](OC2=C(O)C=C(/[N+]([C@@H]([C@]([O-])=O)C4)=C/C=C3\C[C@H]([C@](O)=O)NC(C(O)=O)=C3)C4=C2)O1
 Ethyl salicylate	O=C(OCC)c1ccccc1O
 Jasmonic acid	CC/C=C\C[C@@H]1[C@H](CCC1=O)CC(=O)O
@@ -3541,7 +3541,7 @@ Pyridoxal	O=Cc1c(O)c(C)ncc1CO
 Furoxan	[O-][N+]1=CC=NO1
 Rebamipide	Clc1ccc(cc1)C(=O)NC(C(=O)O)CC2=CC(=O)Nc3ccccc32
 1-Decanol	OCCCCCCCCCC
-Nonanoic acid	CCCCCCCCC(=O)O
+Pelargonic acid	CCCCCCCCC(=O)O
 Mephenytoin	O=C2N(C(=O)NC2(c1ccccc1)CC)C
 Cefradine	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](C/3=C/C\C=C/C\3)N)C)C(=O)O
 Silver cyanide	[C-]#N.[Ag+]
@@ -4357,6 +4357,9 @@ Benzamide	c1ccc(cc1)C(=O)N
 Benzothiadiazine	c1ccc2SN\N=C/c2c1
 Phosphorus trioxide	O1P3OP2OP(OP1O2)O3
 Germanium dioxide	O=[Ge]=O
+Nitrophenol	Oc1ccccc1[N+]([O-])=O
+Nitrophenol	Oc1cccc(c1)[N+]([O-])=O
+Nitrophenol	c1cc(ccc1[N+](=O)[O-])O
 Nitrosourea	NC(=O)N=NO
 Nitrosourea	C(=O)(N)NN=O
 Cyclohexanecarboxylic acid	O=C(O)C1CCCCC1
@@ -16913,7 +16916,6 @@ Bromofenofos	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2OP(=O)(O)O)Br)Br)Br
 Methallyl chloride	CC(=C)CCl
 6-Methylsalicylic acid	CC1=C(C(=CC=C1)O)C(=O)O
 Trithionic acid	OS(=O)(=O)SS(=O)(=O)O
-Hydrogen trithionate	[H]OS(=O)(=O)SS([O-])(=O)=O
 3-Methylsalicylic acid	CC1=CC=CC(=C1O)C(=O)O
 5-Methylsalicylic acid	CC1=CC(=C(C=C1)O)C(=O)O
 Levoglucosenone	C1[C@@H]2C=CC(=O)[C@H](O1)O2
@@ -17859,3 +17861,6 @@ A-262	CCN(CC)C(=NP(=O)(OC)F)N(CC)CC
 Forsythoside B	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@](CO4)(CO)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O
 2,6-Dichloroquinone-4-chloroimide	C1=C(C(=O)C(=CC1=NCl)Cl)Cl
 Vanadium(V) chloride chlorimide	ClN=[V](Cl)(Cl)Cl
+3-Chloropyridine	C1=CC(=CN=C1)Cl
+3-Bromopyridine	C1=CC(=CN=C1)Br
+C286	CC1=C2C=C(OC2=C(C=C1)C)C3=NC(=NO3)C4=CC=C(C=C4)C(=O)O
