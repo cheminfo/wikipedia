@@ -17423,7 +17423,7 @@ Dibutyl tartrate	CCCCOC(=O)C(C(C(=O)OCCCC)O)O
 Dichloramine-T	CC1=CC=C(C=C1)S(=O)(=O)N(Cl)Cl
 Phosphorus monoxide	O=[P]
 Cyanuric bromide	C1(=NC(=NC(=N1)Br)Br)Br
-24S-hydroxycholesterol	C[C@H](CC[C@@H](C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+24S-Hydroxycholesterol	C[C@H](CC[C@@H](C(C)C)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Tetra-n-butylammonium iodide	[I-].CCCC[N+](CCCC)(CCCC)CCCC
 Niobium(III) chloride	[Cl-].[Cl-].[Cl-].[Nb+3]
 Niobium(III) chloride	COCCOC.Cl[Nb](Cl)Cl
@@ -17861,9 +17861,13 @@ A-262	CCN(CC)C(=NP(=O)(OC)F)N(CC)CC
 Forsythoside B	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@](CO4)(CO)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O
 2,6-Dichloroquinone-4-chloroimide	C1=C(C(=O)C(=CC1=NCl)Cl)Cl
 Vanadium(V) chloride chlorimide	ClN=[V](Cl)(Cl)Cl
+Nickel monosilicide	[Si].[Ni]
 3-Chloropyridine	C1=CC(=CN=C1)Cl
 3-Bromopyridine	C1=CC(=CN=C1)Br
 C286	CC1=C2C=C(OC2=C(C=C1)C)C3=NC(=NO3)C4=CC=C(C=C4)C(=O)O
 JT-010	O=C(N(C1=NC(C2=CC=C(OC)C=C2)=CS1)CCCOC)CCl
 AM-0902	CN1C=NC2=C1C(=O)N(C=N2)CC3=NC(=NO3)CCC4=CC=C(C=C4)Cl
 HC-030031	CC(C)C1=CC=C(C=C1)NC(=O)CN2C=NC3=C2C(=O)N(C(=O)N3C)C
+Potassium tetracarbonyliron hydride	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[K+].[Fe][H-]
+CIM-0216	CC1=CC(=NO1)NC(=O)C(C2=CC=CC=C2)N3CCCC4=CC=CC=C43
+Ononetin	COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O
