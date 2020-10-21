@@ -17692,7 +17692,7 @@ BAM15	C1=CC=C(C(=C1)NC2=NC3=NON=C3N=C2NC4=CC=CC=C4F)F
 16β-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H](C2=O)O)CCC4=C3C=CC(=C4)O
 16-Ketoestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)C2=O)CCC4=C3C=CC(=C4)O
 Butestrol	C[C@@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
-Meso-Butestrol	CCC(C1=CC=C(C=C1)O)C(C#N)C2=CC=C(C=C2)O
+Meso-Butestrol	C[C@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
 16-Ketoestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)[C@@H]2O)CCC4=C3C=CC(=C4)O
 Ent-Estradiol	C[C@@]12CC[C@@H]3[C@@H]([C@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
 Fluorosulfite	[O-]S(=O)F
