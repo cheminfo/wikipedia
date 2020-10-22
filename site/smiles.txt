@@ -17391,6 +17391,7 @@ MDMB-4en-PINACA	O=C(N[C@@H](C(C)(C)C)C(OC)=O)C1=NN(CCCC=C)C2=C1C=CC=C2
 2,2'-Biphenylene phosphorochloridite	C1=CC=C2C(=C1)C3=CC=CC=C3OP(O2)Cl
 BiPhePhos	CC(C)(C)C1=CC(=CC(=C1OP2OC3=CC=CC=C3C4=CC=CC=C4O2)C5=C(C(=CC(=C5)OC)C(C)(C)C)OP6OC7=CC=CC=C7C8=CC=CC=C8O6)OC
 2,2'-Biphenol	C1=CC=C(C(=C1)C2=CC=CC=C2O)O
+Cannabidiollic Acid	CCCCCC1=CC(=C(C(=C1C(=O)O)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Tris(cyanoethyl)phosphine	C(CP(CCC#N)CCC#N)C#N
 Nickel(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Ni+2]
 Tetraphenyldiphosphine	C1=CC=C(C=C1)P(C2=CC=CC=C2)P(C3=CC=CC=C3)C4=CC=CC=C4
@@ -17873,3 +17874,7 @@ HC-030031	CC(C)C1=CC=C(C=C1)NC(=O)CN2C=NC3=C2C(=O)N(C(=O)N3C)C
 Potassium tetracarbonyliron hydride	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[K+].[Fe][H-]
 CIM-0216	CC1=CC(=NO1)NC(=O)C(C2=CC=CC=C2)N3CCCC4=CC=CC=C43
 Ononetin	COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O
+5α-Pregnan-17α-ol-3,20-dione	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C)O
+5α-Pregnane-3α,17α-diol-20-one	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)C)O
+11-Ketoandrosterone	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CCC4=O)C)O
+Hexaaza-18-crown-6	C1CNCCNCCNCCNCCNCCN1
