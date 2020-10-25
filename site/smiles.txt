@@ -17396,7 +17396,7 @@ Tris(cyanoethyl)phosphine	C(CP(CCC#N)CCC#N)C#N
 Nickel(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Ni+2]
 Tetraphenyldiphosphine	C1=CC=C(C=C1)P(C2=CC=CC=C2)P(C3=CC=CC=C3)C4=CC=CC=C4
 1,2-Dibromobenzene	C1=CC=C(C(=C1)Br)Br
-2,2,4,4,6,6-Hexamethyl-1,3,5-trithiane	C1(SC(SC(S1)(C)C)(C)C)(C)C
+Trithioacetone	C1(SC(SC(S1)(C)C)(C)C)(C)C
 Hexamethylcyclotrisilazane	C[Si]1(N[Si](N[Si](N1)(C)C)(C)C)C
 Pinacolborane	[B]1OC(C(O1)(C)C)(C)C
 Tetramethylethylene	CC(=C(C)C)C
@@ -17879,3 +17879,4 @@ Ononetin	COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O
 11-Ketoandrosterone	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CCC4=O)C)O
 Hexaaza-18-crown-6	C1CNCCNCCNCCNCCNCCN1
 Cacodyl cyanide	C[As](C)C#N
+Zinc diphosphide	[P-]=[P-].[Zn+2]
