@@ -1898,7 +1898,6 @@ Raloxifene	O=C(c1c3ccc(O)cc3sc1c2ccc(O)cc2)c5ccc(OCCN4CCCCC4)cc5
 Zoledronic acid	O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O
 Platelet-activating factor	CCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)C
 Biliverdin	CC\1=C(/C(=C/C2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)/N/C1=C\C4=NC(=O)C(=C4C)C=C)CCC(=O)O
-Stibine	[Sb]
 Decalin	C1CCC2CCCCC2C1
 Decalin	C1CC[C@H]2CCCC[C@H]2C1
 Decalin	C1CC[C@H]2CCCC[C@@H]2C1
@@ -9049,6 +9048,7 @@ Basketane	C2CC5C1C4C3C1C2C3C45
 Zinc hydride	[ZnH2]
 Lead(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Pb+2]
 Yamogenin	C[C@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)OC1
+Zinc arsenide	[Zn].[Zn]=[As].[Zn]=[As]
 Curium hydroxide	[OH-].[OH-].[OH-].[Cm+3]
 Dehydroemetine	O(c1cc2c(cc1OC)[C@H](NCC2)CC\5=C(/CC)CN4[C@H](c3c(cc(OC)c(OC)c3)CC4)C/5)C
 Tenonitrozole	c1cc(sc1)C(=O)Nc2ncc(s2)[N+](=O)[O-]
@@ -17883,3 +17883,5 @@ Zinc diphosphide	[P-]=[P-].[Zn+2]
 2C-EF	COC1=CC(=C(C=C1CCN)OC)CCF
 Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[PH6-3].[PH6-3]
 Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
+Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
+2C-TFE	COC1=CC(=C(C=C1CCN)OC)CC(F)(F)F
