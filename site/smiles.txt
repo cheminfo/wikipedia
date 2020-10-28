@@ -4259,7 +4259,7 @@ Ethyl pentanoate	O=C(OCC)CCCC
 Butyl butyrate	O=C(OCCCC)CCC
 Phenyl azide	[N-]=[N+]=NC1=CC=CC=C1
 Tetramethylenedisulfotetramine	O=S1(=O)N2CN3CN1CN(C2)S3(=O)=O
-1-butanol	CCCCO
+1-Butanol	CCCCO
 Mivacurium chloride	C[N+]1(CCc2cc(c(cc2[C@H]1Cc3cc(c(c(c3)OC)OC)OC)OC)OC)CCCOC(=O)CC/C=C/CCC(=O)OCCC[N+]4(CCc5cc(c(cc5[C@H]4Cc6cc(c(c(c6)OC)OC)OC)OC)OC)C.[Cl-].[Cl-]
 Dimethyl phthalate	O=C(OC)c1ccccc1C(=O)OC
 Hypoglycin B	O=C(N[C@H](C(=O)O)C[C@H]1C(=C)C1)CC[C@@H](C(=O)O)N
@@ -17885,3 +17885,4 @@ Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[PH6-3].[PH6-3]
 Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
 Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
 2C-TFE	COC1=CC(=C(C=C1CCN)OC)CC(F)(F)F
+AM-7438	CC1=CC[C@@H]2[C@@H](C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)C(=O)OCCCC#N)O
