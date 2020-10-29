@@ -87,7 +87,7 @@ Radon difluoride	F[Rn]F
 Salicylic acid	c1ccc(c(c1)C(=O)O)O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Selenocysteine	O=C([O-])[C@@H]([NH3+])C[SeH]
-Serotonin	c1cc2c(cc1O)c(c[nH]2)CCN
+Serotonin	C1=CC2=C(C=C1O)C(=CN2)CCN
 Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
@@ -17651,6 +17651,7 @@ Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C
 Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
 Californium(III) chloride	[Cl-].[Cl-].[Cl-].[Cf+3]
 Conofoline	CC[C@]12CC[C@H]3[C@@]4([C@H]1N(CC4)C[C@@H]5[C@H]2O5)C6=C(N3C)C=CC(=C6)[C@@H]7[C@@H]8[C@@H](O8)[C@]9(CC(=C1[C@@]2([C@H]9N7CC2)C2=CC(=C(C(=C2N1)OC)OC)O)C(=O)OC)CC
+Ervaticine	CC=C1CN2CCC1C(=O)C3=C(C2)C4=CC=CC=C4N3
 Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
 Voacristine	C[C@@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
 Diphenylcarbazone	C1=CC=C(C=C1)NNC(=O)N=NC2=CC=CC=C2
