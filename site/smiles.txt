@@ -425,7 +425,7 @@ Polyvinyl acetate	O([C@@H](C*)*)C(C)=O
 Alizarin	O=C2c1ccccc1C(=O)c3c2ccc(O)c3O
 Fenamidone	O=C2N(Nc1ccccc1)C(\SC)=N/[C@]2(c3ccccc3)C
 Famoxadone	O=C2OC(C(=O)N2Nc1ccccc1)(c4ccc(Oc3ccccc3)cc4)C
-Diazepam	CN1C2=C(C(C3=CC=CC=C3)=NCC1=O)C=C(Cl)C=C2
+Diazepam	c1ccccc1C2=NCC(=O)N(C)c3ccc(Cl)cc23
 Nitric oxide	[N]=O
 Potassium hydroxide	[K+].[OH-]
 Warfarin	CC(=O)CC(C\1=C(/O)c2ccccc2OC/1=O)c3ccccc3
@@ -1725,7 +1725,7 @@ Quinapril	O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)Cc1c(cccc1)C2)C)CCc3ccccc3
 Cis-3-Hexenal	O=CC\C=C/CC
 Safranin	[Cl-].n1c4c([n+](c2c1cc(c(N)c2)C)c3ccccc3)cc(c(c4)C)N
 Thionyl chloride	ClS(Cl)=O
-Meprobamate	O=C(OCC(COC(=O)N)(C)CCC)N
+Meprobamate	O=C(N)OCC(C)(CCC)COC(N)=O
 Synephrine	OC(c1ccc(O)cc1)CNC
 Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
 Mannitol hexanitrate	C([C@H]([C@H]([C@@H]([C@@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
@@ -17392,7 +17392,7 @@ MDMB-4en-PINACA	O=C(N[C@@H](C(C)(C)C)C(OC)=O)C1=NN(CCCC=C)C2=C1C=CC=C2
 2,2'-Biphenylene phosphorochloridite	C1=CC=C2C(=C1)C3=CC=CC=C3OP(O2)Cl
 BiPhePhos	CC(C)(C)C1=CC(=CC(=C1OP2OC3=CC=CC=C3C4=CC=CC=C4O2)C5=C(C(=CC(=C5)OC)C(C)(C)C)OP6OC7=CC=CC=C7C8=CC=CC=C8O6)OC
 2,2'-Biphenol	C1=CC=C(C(=C1)C2=CC=CC=C2O)O
-Cannabidiollic acid	CCCCCC1=CC(=C(C(=C1C(=O)O)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+Cannabidiolic acid	CCCCCC1=CC(=C(C(=C1C(=O)O)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Tris(cyanoethyl)phosphine	C(CP(CCC#N)CCC#N)C#N
 Nickel(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Ni+2]
 Tetraphenyldiphosphine	C1=CC=C(C=C1)P(C2=CC=CC=C2)P(C3=CC=CC=C3)C4=CC=CC=C4
@@ -17585,7 +17585,7 @@ Zincophorin	CCC[C@@H](C)/C=C(\C)/[C@@H]([C@H](C)/C=C/CC[C@H]([C@H](C)[C@@H]([C@H
 Terbium(IV) oxide	[O-2].[O-2].[Tb+4]
 Vanadium(II) iodide	[V+2].[I-].[I-]
 Terbium(III) fluoride	F[Tb](F)F
-MK-4482	CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)NO)O)O
+Molnupiravir	CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)NO)O)O
 Titanium(II) iodide	[Ti](I)I
 Titanium(II) bromide	[Ti+2].[Br-].[Br-]
 TMC-647055	CN1CCOCCN(S(=O)(=O)NC(=O)C2=CC3=C(C=C2)C(=C4N3CC(=CC5=C4C=CC(=C5)OC)C1=O)C6CCCCC6)C
@@ -17888,6 +17888,7 @@ Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
 Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
 2C-TFE	COC1=CC(=C(C=C1CCN)OC)CC(F)(F)F
 AM-7438	CC1=CC[C@@H]2[C@@H](C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)C(=O)OCCCC#N)O
-Ranitidine Bismuth citrate	CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Bi+3]
+Ranitidine bismuth citrate	CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Bi+3]
 Eganelisib	Cn1cc(cn1)C#Cc6cccc2c6C(=O)N(C(=C2)C(C)NC(=O)c4c3ncccn3nc4N)c5ccccc5
 Rezvilutamide	CC1(C(=O)N(C(=S)N1C2=CC=C(C=C2)OC[C@H](CO)O)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
+Olivetolic acid	CCCCCC1=C(C(=CC(=C1)O)O)C(=O)O
