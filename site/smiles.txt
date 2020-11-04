@@ -17882,7 +17882,7 @@ CIM-0216	CC1=CC(=NO1)NC(=O)C(C2=CC=CC=C2)N3CCCC4=CC=CC=C43
 Ononetin	COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O
 5α-Pregnan-17α-ol-3,20-dione	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C)O
 5α-Pregnane-3α,17α-diol-20-one	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)C)O
-11-Ketoandrosterone	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CCC4=O)C)O
+11-Ketoandrosterone	C[C@]12CC(=O)[C@H]3[C@@H](CC[C@H]4C[C@H](O)CC[C@]34C)[C@@H]1CCC2=O
 Hexaaza-18-crown-6	C1CNCCNCCNCCNCCNCCN1
 Cacodyl cyanide	C[As](C)C#N
 Zinc diphosphide	[P-]=[P-].[Zn+2]
