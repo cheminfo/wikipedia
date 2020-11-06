@@ -17600,6 +17600,7 @@ Cyclodecene	C\1=C\CCCCCCCC/1
 Cyclodecene	C1CCCC/C=C/CCC1
 CMX521	CC1=NC(=C2C(=CN(C2=N1)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)C(=O)N)N
 GS-441524	C1=C2C(=NC=NN2C(=C1)[C@]3([C@@H]([C@@H]([C@H](O3)CO)O)O)C#N)N
+Indium(II) selenide	[Se].[In]
 SAFit2	COC1=C(C=C(C=C1)CC[C@H](C2=CC(=CC=C2)OCCN3CCOCC3)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H](C5CCCCC5)C6=CC(=C(C(=C6)OC)OC)OC)OC
 LY-2452473	CC(C)OC(=O)N[C@H]1CC2=C(C1)N(C3=C2C=C(C=C3)C#N)CC4=CC=CC=N4
 Erbium(III) fluoride	[F-].[F-].[F-].[Er+3]
@@ -17898,3 +17899,4 @@ Rezvilutamide	CC1(C(=O)N(C(=S)N1C2=CC=C(C=C2)OC[C@H](CO)O)C3=CC(=C(C=C3)C#N)C(F)
 Olivetolic acid	CCCCCC1=C(C(=CC(=C1)O)O)C(=O)O
 11β-Hydroxytestosterone	C1C2=CC(CC[C@@]2([C@]3([C@H](C[C@]4([C@]([C@@]3(C1)[H])(CC[C@@H]4O)[H])C)O)[H])C)=O
 GSK1702934A	C1CCC2=C(CC1)SC(=C2)C(=O)N3CCC(CC3)N4C5=CC=CC=C5NC4=O
+Calcium hydrosulfide	[SH-].[SH-].[Ca+2]
