@@ -17900,3 +17900,9 @@ Olivetolic acid	CCCCCC1=C(C(=CC(=C1)O)O)C(=O)O
 11β-Hydroxytestosterone	C1C2=CC(CC[C@@]2([C@]3([C@H](C[C@]4([C@]([C@@]3(C1)[H])(CC[C@@H]4O)[H])C)O)[H])C)=O
 GSK1702934A	C1CCC2=C(CC1)SC(=C2)C(=O)N3CCC(CC3)N4C5=CC=CC=C5NC4=O
 Calcium hydrosulfide	[SH-].[SH-].[Ca+2]
+Indium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[In+3]
+Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O
+Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O
+Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
+Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
+18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
