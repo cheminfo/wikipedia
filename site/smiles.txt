@@ -2280,6 +2280,7 @@ Naringenin	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O
 Orthocarbonic acid	OC(O)(O)O
 Orthosilicic acid	O[Si](O)(O)O
 Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
+Lithium nitride	[Li]N([Li])[Li]
 Lithium nitride	[Li+].[Li][N-][Li]
 Nandrolone decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Uramustine	O=C1C(\N(CCCl)CCCl)=C/NC(=O)N1
@@ -3780,6 +3781,7 @@ Oxacillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1)C(O
 Etidocaine	O=C(Nc1c(C)cccc1C)C(CC)N(CC)CCC
 Chloroprocaine	O=C(OCCN(CC)CC)c1ccc(cc1Cl)N
 Trimethobenzamide	O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
+Barium fluoride	F[Ba]F
 Barium fluoride	[Ba+2].[F-].[F-]
 Asymmetric dimethylarginine	CN(C)C(=N)NCCC[C@H](N)C(=O)O
 Monocrotophos	O=P(O/C(=C/C(=O)NC)C)(OC)OC
@@ -11910,7 +11912,7 @@ Thunberginol C	C1C(OC(=O)C2=C(C=C(C=C21)O)O)C3=CC=C(C=C3)O
 Thunberginol D	c1cc(c(cc1C2Cc3cc(cc(c3C(=O)O2)O)O)O)O
 Thunberginol E	COC1=C(C=C(C=C1)C2CC3=CC(=CC(=C3C(=O)O2)O)O)O
 Thunberginol F	c1cc\2c(c(c1)O)C(=O)O/C2=C/c3ccc(c(c3)O)O
-Fluorine nitrate	FON(O)O
+Fluorine nitrate	FO[N+](=O)[O-]
 Thunberginol G	C1C(OC(=O)C2=C1C=CC=C2O)C3=CC(=C(C=C3)O)O
 Tris(dimethylamino)aluminium dimer	CN(C)[Al](N(C)C)N(C)C.CN(C)[Al](N(C)C)N(C)C
 Tris(dimethylamino)gallium dimer	CN(C)[Ga-]1(N(C)C)[N+](C)(C)[Ga-]([N+]1(C)C)(N(C)C)N(C)C
@@ -15876,6 +15878,7 @@ Samarium(III) bromide	Br[Sm](Br)Br
 Samarium(III) bromide	[Br-].[Br-].[Br-].[Sm+3]
 Europium(II) bromide	Br[Eu]Br
 Europium(III) bromide	[Eu+2].[Br-].[Br-].[Br-]
+Gadolinium(III) bromide	Br[Gd](Br)Br
 Gadolinium(III) bromide	[Br-].[Br-].[Br-].[Gd+3]
 Holmium(III) bromide	Br[Ho](Br)B
 17α-Ethynyl-3α-androstanediol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O
@@ -17628,7 +17631,7 @@ CM-4620	CC1=C(C(=CC=C1)F)C(=O)NC2=NC=C(N=C2)C3=CC4=C(C=C3Cl)OC(O4)(F)F
 XL-413	C1C[C@@H](NC1)C2=NC3=C(C(=O)N2)OC4=C3C=C(C=C4)Cl
 CPI-0610	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl
 Diethyl maleate	CCOC(=O)/C=C\C(=O)OCC
-Gadolinium(III) fluoride	[F-].[F-].[F-].[Gd+3]
+Gadolinium(III) fluoride	F[Gd](F)F
 2-(Diphenylphosphino)anisole	COc1ccccc1P(c2ccccc2)c3ccccc3
 Lutetium(III) fluoride	F[Lu](F)F
 Ripretinib	CCN1C(=O)C(=CC2=C1C=C(NC)N=C2)C1=C(Br)C=C(F)C(NC(=O)NC2=CC=CC=C2)=C1
@@ -17648,6 +17651,7 @@ Dichlorotetrakis(pyridine)rhodium(III) chloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC
 Uridine diphosphate N-acetylgalactosamine	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
 Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)[18F])CCC4=C3C=CC(=C4)O
 Iodine azide	IN=[N+]=[N-]
+Europium(II) fluoride	F[Eu]F
 Europium(II) fluoride	[F-].[F-].[Eu+2]
 Caesium azide	[N-]=[N+]=[N-].[Cs+]
 Tabernaemontanine	CC[C@@H]1CN([C@H]2CC3=C(C(=O)C[C@@H]1[C@@H]2C(=O)OC)NC4=CC=CC=C34)C
@@ -17890,6 +17894,7 @@ Zinc diphosphide	[P-]=[P-].[Zn+2]
 2C-EF	COC1=CC(=C(C=C1CCN)OC)CCF
 Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[PH6-3].[PH6-3]
 Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
+Neptunium(III) chloride	Cl[Np](Cl)Cl
 Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
 2C-TFE	COC1=CC(=C(C=C1CCN)OC)CC(F)(F)F
 AM-7438	CC1=CC[C@@H]2[C@@H](C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)C(=O)OCCCC#N)O
@@ -17906,3 +17911,4 @@ Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O
 Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
 Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
+Delta-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
