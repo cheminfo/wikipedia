@@ -458,7 +458,7 @@ Basic copper carbonate	C(=O)([O-])[O-].[OH-].[OH-].[Cu+2].[Cu+2]
 Lorazepam	ClC1=CC=CC=C1C2=NC(C(NC3=C2C=C(C=C3)Cl)=O)O
 Nitromethane	C[N+](=O)[O-]
 Cypermethrin	Cl/C(Cl)=C/C3C(C(=O)OC(C#N)c2cccc(Oc1ccccc1)c2)C3(C)C
-Phenolphthalein	O=C1OC(c2ccccc12)(c3ccc(O)cc3)c4ccc(O)cc4
+Phenolphthalein	O=C1OC(C2=C1C=CC=C2)(C3=CC=C(C=C3)O[H])C4=CC=C(C=C4)O[H]
 Magnesium sulfate	[Mg+2].[O-]S([O-])(=O)=O
 Minocycline	CN(C)c1ccc(c2c1C[C@H]3C[C@H]4[C@@H](C(=C(C(=O)[C@]4(C(=C3C2=O)O)O)C(=O)N)O)N(C)C)O
 Sodium cyclamate	[Na+].O=S([O-])(=O)NC1CCCCC1
@@ -17912,3 +17912,4 @@ Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
 Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
 Delta-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
+GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
