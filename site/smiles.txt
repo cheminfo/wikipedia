@@ -1540,7 +1540,6 @@ Benzimidazole	c1ccc2c(c1)[nH]cn2
 Triphosgene	ClC(Cl)(Cl)OC(=O)OC(Cl)(Cl)Cl
 Valeric acid	CCCCC(O)=O
 Cobalt(II) chloride	Cl[Co]Cl
-Lactitol	O([C@@H]([C@H](O)[C@@H](O)CO)[C@H](O)CO)[C@@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO
 Lactitol	C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O
 Pemetrexed	Nc3nc2[nH]cc(CCc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)c2c(=O)[nH]3
 Bromoform	BrC(Br)Br
@@ -17915,3 +17914,9 @@ Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 Delta-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
 GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
 HS665	C1CC(C1)CN(CCC2=CC=CC=C2)CCC3=CC(=CC=C3)O
+ML-SA1	CC1CC(N(C2=CC=CC=C12)C(=O)CN3C(=O)C4=CC=CC=C4C3=O)(C)C
+MK6-83	CC1=CC=C(S1)S(=O)(=O)NC2=CC=CC=C2N3CCCCC3
+WS-12	C[C@@H]1CC[C@H]([C@@H](C1)C(=O)NC2=CC=C(C=C2)OC)C(C)C
+ML-SI3	COC1=CC=CC=C1N2CCN(CC2)[C@H]3CCCC[C@@H]3NS(=O)(=O)C4=CC=CC=C4
+SN-2	CC1=CC(=C(C(=C1)C)C2=NOC3C2C4CCC3C4)C
+ML2-SA1	Clc4cccc(Cl)c4C3=NOC2C1CC(CC1)C23
