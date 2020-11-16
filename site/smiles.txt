@@ -17911,6 +17911,7 @@ Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O
 Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
 Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
+Iodine nitrate	[N+](=O)([O-])OI
 Delta-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
 GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
 HS665	C1CC(C1)CN(CCC2=CC=CC=C2)CCC3=CC(=CC=C3)O
@@ -17920,3 +17921,5 @@ WS-12	C[C@@H]1CC[C@H]([C@@H](C1)C(=O)NC2=CC=C(C=C2)OC)C(C)C
 ML-SI3	COC1=CC=CC=C1N2CCN(CC2)[C@H]3CCCC[C@@H]3NS(=O)(=O)C4=CC=CC=C4
 SN-2	CC1=CC(=C(C(=C1)C)C2=NOC3C2C4CCC3C4)C
 ML2-SA1	Clc4cccc(Cl)c4C3=NOC2C1CC(CC1)C23
+25E-NBOH	CCC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2O)OC
+Serdexmethylphenidate	COC(=O)[C@@H]([C@H]1CCCCN1C(=O)OC[N+]2=CC=CC(=C2)C(=O)N[C@@H](CO)C(=O)O)C3=CC=CC=C3.[Cl-]
