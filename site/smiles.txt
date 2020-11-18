@@ -191,7 +191,7 @@ Deoxyribose	C(C=O)[C@@H]([C@@H](CO)O)O
 Monosodium glutamate	[Na+].O=C([O-])[C@@H](N)CCC(=O)O
 Pyrrolysine	C[C@@H]1CC=N[C@H]1C(=O)NCCCC[C@@H](C(=O)O)N
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)[O-])[NH3+])[C@@H]1/N=C\C[C@H]1C
-Aqua regia	[N+](=O)(O)[O-].Cl
+Aqua regia	[N+](=O)(O)[O-].Cl.Cl.Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
 Alanine	O=C(O)C(N)C
 Alanine	O=C([O-])C([NH3+])C
@@ -2111,7 +2111,7 @@ Zinc selenide	[SeH+2]12[ZnH2-2][SeH+2]3[ZnH2-2][SeH+2]([ZnH-2]14)[ZnH-2]1[Se+2]5
 Zinc selenide	[ZnH2-2]1[Se+2]47[ZnH-2]2[Se+2][ZnH-2]3[Se+2]8([ZnH2-2][SeH+2]([ZnH2-2]4)[ZnH2-2]6)[ZnH-2]4[Se+2][ZnH-2]5[Se+2]6([ZnH2-2]6)[Zn-2]78[Se+2]78[ZnH-2]([SeH+2]69)[SeH+2]5[ZnH2-2][SeH+2]4[ZnH-2]7[SeH+2]3[ZnH2-2][SeH+2]2[ZnH-2]8[SeH+2]1[ZnH2-2]9
 Zinc selenide	[ZnH2-2]1[SeH+2]([ZnH2-2]6)[ZnH2-2][SeH+2]7[ZnH-2]2[Se+2][Zn-2]3([Se+2][ZnH-2]9[Se+2]5)[Se+2]18[Zn-2]45[Se+2][ZnH-2]5[SeH+2]6[Zn-2]78[Se+2]78[ZnH2-2][SeH+2]5[ZnH2-2][Se+2]4([ZnH2-2][SeH+2]9[ZnH2-2]4)[ZnH-2]7[Se+2]34[ZnH2-2][SeH+2]2[ZnH2-2]8
 Oxaliplatin	O1C(=O)C(=O)O[Pt-2]12[NH2+]C0CCCCC0[NH2+]2
-Erythrosine	Ic5cc4c(Oc1c(cc(I)c(O)c1I)C43OC(=O)c2ccccc23)c(I)c5O
+Erythrosine	[O-]C(=O)C1=CC=CC=C1C1=C2C=C(I)C(=O)C(I)=C2OC2=C1C=C(I)C([O-])=C2I.[Na].[Na]
 Periodate	[O-][I+3]([O-])([O-])[O-]
 Periodate	[O-][I+]([O-])([O-])([O-])([O-])[O-]
 Talbutal	O=C1NC(=O)NC(=O)C1(C(C)CC)C\C=C
@@ -9681,7 +9681,7 @@ Penicillic acid	CC(=C)C1(C=CC(=O)O1)O
 Gallacetophenone	O=C(c1c(O)c(O)c(O)cc1)C
 Tixocortol pivalate	CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CSC(=O)C(C)(C)C)O)C)O
 DAA-1097	CC(C)Oc2ccccc2CN(C(=O)C)c1ccc(Cl)cc1Oc3ccccc3
-DAA-1106	c3ccccc3Oc2ccc(F)cc2N(C(C)=O)Cc1cc(OC)ccc1OC
+DAA-1106	COC1=CC(CN(C(C)=O)C2=CC(F)=CC=C2OC3=CC=CC=C3)=C(O[11CH3])C=C1
 Bis(triphenylphosphine)palladium chloride	[Pd+2].[Cl-].[Cl-].c3c(P(c1ccccc1)c2ccccc2)cccc3.c1ccccc1P(c2ccccc2)c3ccccc3
 Bis(triphenylphosphine)palladium chloride	Cl[Pd-2](Cl)([P+](c0ccccc0)(c0ccccc0)(c0ccccc0))[P+](c0ccccc0)(c0ccccc0)(c0ccccc0)
 ATC-0175	Fc1ccc(cc1F)C(=O)NC3CCC(CC3)Nc(nc4N(C)C)nc2ccccc24
