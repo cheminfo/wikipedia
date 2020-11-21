@@ -65,7 +65,6 @@ Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
 Nicotinamide	c1cc(cnc1)C(=O)N
 Nitronium ion	O=[N+]=O
-Ozone	[O-][O+]=O
 Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
@@ -17925,3 +17924,4 @@ ML2-SA1	Clc4cccc(Cl)c4C3=NOC2C1CC(CC1)C23
 Serdexmethylphenidate	COC(=O)[C@@H]([C@H]1CCCCN1C(=O)OC[N+]2=CC=CC(=C2)C(=O)N[C@@H](CO)C(=O)O)C3=CC=CC=C3.[Cl-]
 Thapsic acid	C(CCCCCCCC(=O)O)CCCCCCC(=O)O
 N-t-BOC-MDMA	CC(CC1=CC2=C(C=C1)OCO2)N(C)C(=O)OC(C)(C)C
+1-(2-Chloro-N-methylbenzimidoyl)cyclopentanol	CN=C(C1=CC=CC=C1Cl)C2(CCCC2)O
