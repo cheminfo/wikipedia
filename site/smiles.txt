@@ -986,7 +986,6 @@ Phenylbutazone	O=C2N(c1ccccc1)N(C(=O)C2CCCC)c3ccccc3
 Chlorosarin	ClP(=O)(OC(C)C)C
 5,7-Dichlorokynurenic acid	C1=C(C=C2C(=C1Cl)C(=O)C=C(N2)C(=O)O)Cl
 Esomeprazole	COc1ccc2nc([nH]c2c1)S(=O)Cc1ncc(C)c(OC)c1C
-Pectic acid	O=C(O)[C@H]3OC(O[C@@H]1[C@H](O)[C@@H](O)C(O[C@@H]1C(=O)O)O[C@H]2[C@H](O[C@H](O)[C@H](O)[C@H]2O)C(=O)O)[C@H](O)[C@@H](O)[C@H]3O
 Didanosine	O=C3/N=C\Nc1c3ncn1[C@@H]2O[C@@H](CC2)CO
 Zalcitabine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H](CC2)CO
 Stavudine	O=C1/C(=C\N(C(=O)N1)[C@@H]/2O[C@@H](\C=C\2)CO)C
@@ -2055,7 +2054,7 @@ Thorin (chemistry)	[Na+].[Na+].O[As](O)(=O)C1=CC=CC=C1NN=C1C(=O)C(=CC2=C1C=CC(=C
 N-Butyllithium	CCCC[Li]
 1,2-Dichloroethane	ClCCCl
 Chlorine pentafluoride	FCl(F)(F)(F)F
-Chlorine monofluoride	ClF
+Chlorine monofluoride	FCl
 Fluticasone propionate	CCC(=O)OC1(C(CC2C1(CC(C3(C2CC(C4=CC(=O)C=CC43C)F)F)O)C)C)C(=O)SCF
 Ecamsule	O=S(=O)(O)CC45C(=O)\C(=C/c1ccc(cc1)/C=C2\C(=O)C3(CCC2C3(C)C)CS(=O)(=O)O)C(CC4)C5(C)C
 Caesium chloride	[Cs+].[Cl-]
@@ -6886,7 +6885,7 @@ Pyrazolidine	C1CNNC1
 Propiram	O=C(N(c1ncccc1)C(CN2CCCCC2)C)CC
 Phenampromide	CCC(N(C1=CC=CC=C1)[C@@H](CN2CCCCC2)C)=O
 Diampromide	CCC(=O)N(CC(C)N(C)CCc1ccccc1)c1ccccc1
-Dimenoxadol	Cl.CCOC(C(=O)OCCN(C)C)(c1ccccc1)c1ccccc1
+Dimenoxadol	CCOC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OCCN(C)C
 Dioxaphetyl butyrate	CCOC(=O)C(CCN1CCOCC1)(c1ccccc1)c1ccccc1
 Ethoheptazine	O=C(OCC)C2(c1ccccc1)CCN(C)CCC2
 Proheptazine	O=C(OC2(c1ccccc1)CCCN(C)CC2C)CC
@@ -17925,3 +17924,4 @@ Serdexmethylphenidate	COC(=O)[C@@H]([C@H]1CCCCN1C(=O)OC[N+]2=CC=CC(=C2)C(=O)N[C@
 Thapsic acid	C(CCCCCCCC(=O)O)CCCCCCC(=O)O
 N-t-BOC-MDMA	CC(CC1=CC2=C(C=C1)OCO2)N(C)C(=O)OC(C)(C)C
 1-(2-Chloro-N-methylbenzimidoyl)cyclopentanol	CN=C(C1=CC=CC=C1Cl)C2(CCCC2)O
+2-Imidazolidinethione	C1=CNC(=S)N1
