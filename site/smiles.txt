@@ -17680,6 +17680,7 @@ Aminoacetaldehyde	C(C=O)N
 Aminoacetaldehyde diethylacetal	CCOC(CN)OCC
 N-Nitrosodiphenylamine	C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O
 Potassium telluride	[K][Te][K]
+Silychristin	COC1=C(C=CC(=C1)[C@H]2[C@@H](C3=C(O2)C(=CC(=C3)[C@@H]4[C@H](C(=O)C5=C(C=C(C=C5O4)O)O)O)O)CO)O
 Aluminium cyanide	[C-]#N.[C-]#N.[C-]#N.[Al+3]
 3-Amino-1-propanol	C(CN)CO
 Alaninol	CC(CO)N
@@ -17925,3 +17926,6 @@ Thapsic acid	C(CCCCCCCC(=O)O)CCCCCCC(=O)O
 N-t-BOC-MDMA	CC(CC1=CC2=C(C=C1)OCO2)N(C)C(=O)OC(C)(C)C
 1-(2-Chloro-N-methylbenzimidoyl)cyclopentanol	CN=C(C1=CC=CC=C1Cl)C2(CCCC2)O
 2-Imidazolidinethione	C1=CNC(=S)N1
+Mercaptobenzimidazole	C1=CC=C2C(=C1)NC(=S)N2
+Fomesafen	CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+Piperolactam A	COC1=CC2=C3C(NC2=O)=CC2=C(C=CC=C2)C3=C1O
