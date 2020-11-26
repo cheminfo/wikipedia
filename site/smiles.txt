@@ -419,7 +419,7 @@ Calcium oxalate	C(=O)(C(=O)[O-])[O-].[Ca+2]
 Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
 Sulfurous acid	O[S+](O)[O-]
 Sulfurous acid	[O-][SH+2](O)[O-]
-Butyric acid	CCCC(=O)O
+Butyric acid	O=C(O)CCC
 Polyvinyl acetate	O([C@@H](C*)*)C(C)=O
 Alizarin	O=C2c1ccccc1C(=O)c3c2ccc(O)c3O
 Fenamidone	O=C2N(Nc1ccccc1)C(\SC)=N/[C@]2(c3ccccc3)C
@@ -613,7 +613,6 @@ Calcium hydroxide	[Ca+2].[OH-].[OH-]
 Nonoxynol-9	CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCO)cc1
 Sodium percarbonate	[Na+].[O-]C(=O)OO
 Methyl tert-butyl ether	O(C(C)(C)C)C
-Butyrate	[O-]C(=O)CCC
 Myristicin	O1c2cc(cc(OC)c2OC1)C\C=C
 Histamine	NCCc1c[nH]cn1
 Guanosine triphosphate	c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O)[nH]c(nc2=O)N
@@ -17930,3 +17929,5 @@ Mercaptobenzimidazole	C1=CC=C2C(=C1)NC(=S)N2
 Fomesafen	CS(=O)(=O)NC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
 2-Bromoanisole	COC1=CC=CC=C1Br
 Piperolactam A	COC1=CC2=C3C(NC2=O)=CC2=C(C=CC=C2)C3=C1O
+Oxaphosphetane	C1CPO1
+Oxaphosphetane	C1OCP1
