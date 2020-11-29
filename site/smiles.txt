@@ -4312,6 +4312,7 @@ Beta-Pinene	C1(=C)C2CC(CC1)C2(C)C
 Genipin	O=C(OC)\C1=C\O[C@@H](O)[C@@H]2\C(=C/C[C@H]12)CO
 DCMU	Clc1ccc(NC(=O)N(C)C)cc1Cl
 Lisofylline	O=C2N(c1ncn(c1C(=O)N2CCCC[C@H](O)C)C)C
+Dichlorobutane	C(CCCl)CCl
 Antimony tribromide	[Br-].[Br-].[Br-].[SbH3+3]
 Antimony tribromide	Br[Sb](Br)Br
 Antimony triiodide	I[Sb](I)I
@@ -17935,3 +17936,5 @@ Oxaphosphetane	C1OCP1
 4,5-Dichloro-1,2,3-dithiazolium chloride	C1(=NS[S+]=C1Cl)Cl.[Cl-]
 Bis(trimethylsilyl)sulfur diimide	C[Si](C)(C)N=S=N[Si](C)(C)C
 Chloroacetonitrile	C(C#N)Cl
+4-Fluorobutanol	C(CCF)CO
+Mercury oxycyanide	C(#N)[Hg]O[Hg]C#N
