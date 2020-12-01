@@ -417,8 +417,8 @@ Vanillin	c1(C=O)cc(OC)c(O)cc1
 Propylene glycol	CC(O)CO
 Calcium oxalate	C(=O)(C(=O)[O-])[O-].[Ca+2]
 Isotretinoin	O=C(O)\C=C(/C=C/C=C(/C=C/C1=C(/CCCC1(C)C)C)C)C
+Sulfurous acid	O[S](=O)O
 Sulfurous acid	O[S+](O)[O-]
-Sulfurous acid	[O-][SH+2](O)[O-]
 Butyric acid	O=C(O)CCC
 Polyvinyl acetate	O([C@@H](C*)*)C(C)=O
 Alizarin	O=C2c1ccccc1C(=O)c3c2ccc(O)c3O
@@ -1983,6 +1983,7 @@ Neosalvarsan	[Na+].[O-]S(=O)CNc2cc(/[As]=[As]/c1ccc(O)c(N)c1)ccc2O
 Chloropicrin	ClC(Cl)(Cl)[N+]([O-])=O
 Lead(II) acetate	CC(=O)[O-].CC(=O)[O-].[Pb+2]
 Phosphorous acid	OP(=O)O
+Phosphorous acid	OP(O)O
 Fumonisin B1	O=C(O)CC(C(=O)O)CC(=O)OC(C(C)CCCC)C(OC(=O)CC(C(=O)O)CC(=O)O)CC(C)CC(O)CCCCC(O)CC(O)C(N)C
 5-Nitro-2-propoxyaniline	[O-][N+](=O)c1ccc(OCCC)c(c1)N
 Palytoxin	NC[C@@H]1C[C@H]([C@H](O1)CC[C@H]1O[C@@H]2C[C@H](O[C@H]1C2)C[C@H]([C@@H](\C=C/[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@H]([C@H]([C@@H]([C@H](CCC(\C=C/C[C@H]([C@H]([C@@H](C/C=C/C=C\[C@H](C[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C[C@H]([C@@H](C[C@@H]2[C@H]([C@@H](C[C@H](O2)[C@@H]([C@@H](CC[C@@H](/C=C/[C@@H]([C@H](C[C@]2([C@@H]([C@@H]([C@H]([C@H](O2)C[C@H](CCCCCCC[C@]21C[C@H](C[C@]([C@H](O2)C[C@H](CCCCC[C@H]([C@@H]([C@@H]([C@H]([C@H](O)[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@@H]([C@@H](/C(=C/[C@@H](C[C@H]([C@@H](C(O)=N\C=C\C(=NCCCO)O)O)C)O)/C)O)O)O)O)O)O)O)O)O)C)(O1)C)C)O)O)O)O)O)O)C)O)O)O)O)O)O)O)O)O)O)O)O)O)O)=C)O)O)O)C)O)O)O)O)O)O
@@ -17938,3 +17939,4 @@ Bis(trimethylsilyl)sulfur diimide	C[Si](C)(C)N=S=N[Si](C)(C)C
 Chloroacetonitrile	C(C#N)Cl
 4-Fluorobutanol	C(CCF)CO
 Mercury oxycyanide	C(#N)[Hg]O[Hg]C#N
+2,4,5-Trichlorophenol	C1=C(C(=CC(=C1Cl)Cl)Cl)O
