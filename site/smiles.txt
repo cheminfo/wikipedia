@@ -5870,7 +5870,6 @@ Phosphomevalonic acid	CC(CCOP(=O)(O)O)(CC(=O)O)O
 Tetraethyl orthosilicate	CCO[Si](OCC)(OCC)OCC
 5-Diphosphomevalonic acid	O=P(OP(=O)(O)O)(OCCC(O)(C)CC(=O)O)O
 Motexafin gadolinium	CCC1=C(C2=CC3=NC(=CN=C4C=C(C(=CC4=NC=C5C(=C(C(=N5)C=C1[N-]2)CCCO)C)OCCOCCOCCOC)OCCOCCOCCOC)C(=C3CCCO)C)CC.CC(=O)[O-].CC(=O)[O-].[Gd+3]
-Dibromomethane	BrCBr
 Lasofoxifene	O(c1ccc(cc1)[C@@H]4c2ccc(O)cc2CC[C@@H]4c3ccccc3)CCN5CCCC5
 Diiodomethane	ICI
 4-Maleylacetoacetic acid	O=C(/C=C\C(=O)O)CC(=O)CC(=O)O
@@ -16818,7 +16817,7 @@ Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
 Estradiol 17β-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CCC5=C3C=CC(=C5)O
 Estradiol 3-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC5CCCCO5
 Estriol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
-Silicon monohydride	[SiH]
+Silylidyne	[SiH]
 Nonafluoro-tert-butyl alcohol	OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F
 Ethinylestradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
 Ethinylestradiol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
@@ -17501,7 +17500,7 @@ Hydrogen diselenide	[SeH][SeH]
 2-Methyltetrahydroquinoline	C[C@H]1CCC2=CC=CC=C2N1
 1,8-Naphthyridine	C1=CC2=C(N=C1)N=CC=C2
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
-Hexamethylenediimine	C=NCCCCCN=C
+Hexamethylenediimine	C=NCCCCCCN=C
 Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
 Strontium hydride	[SrH2]
 2-Phosphoglycolate	C(C(=O)[O-])OP(=O)([O-])[O-]
