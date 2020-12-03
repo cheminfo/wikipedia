@@ -17831,6 +17831,7 @@ Pecazine	CN1CCCC(C1)CN2C3=CC=CC=C3SC4=CC=CC=C42
 Pyroxasulfone	CC1(CC(=NO1)S(=O)(=O)CC2=C(N(N=C2C(F)(F)F)C)OC(F)F)C
 A-230	CCN(CC)C(C)=N[P](C)(F)=O
 A-242	CCN(CC)C(=N[P](C)(F)=O)N(CC)CC
+Hexaphosphabenzene	P1=PP=PP=P1
 5,6-Dihydro-5(α-thyminyl)thymine	Cc1cn(c(=O)[nH]c1=O)C2(CNC(=O)NC2=O)C
 Technetium trichloride	[Cl-].[Cl-].[Cl-].[Tc+3]
 O-Mustard	C(CSCCCl)OCCSCCCl
@@ -17939,3 +17940,4 @@ Chloroacetonitrile	C(C#N)Cl
 4-Fluorobutanol	C(CCF)CO
 Mercury oxycyanide	C(#N)[Hg]O[Hg]C#N
 2,4,5-Trichlorophenol	C1=C(C(=CC(=C1Cl)Cl)Cl)O
+Rhizoferrin	C(CCNC(=O)C[C@](CC(=O)O)(C(=O)O)O)CNC(=O)C[C@@](CC(=O)O)(C(=O)O)O
