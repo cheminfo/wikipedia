@@ -11243,9 +11243,9 @@ Lomevactone	Clc1ccc(cc1)C2C(C(=O)OC(C)C2)c3ccccc3
 Metostilenol	OC(\C=C\c1ccc(OC)cc1)CN2CCOCC2
 Potassium trispyrazolylborate	[H][B-](N1N=CC=C1)(N2N=CC=C2)N3N=CC=C3.[K+]
 Meclizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)Cc4cccc(c4)C
-Boron monofluoride	BF
+Boron monofluoride	[BH0]F
 Boron monofluoride	[B-]=[F+]
-Boron monofluoride	B#F
+Boron monofluoride	[B-2]#[F+2]
 Bergenin	OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H]2[C@@H]1c3c(O)c(OC)c(O)cc3C(=O)O2
 Crenolanib	O(c5cc4ncn(c1nc3c(cc1)cccc3N2CCC(N)CC2)c4cc5)CC6(COC6)C
 Zibotentan	O=S(=O)(Nc1ncc(nc1OC)C)c4cccnc4c3ccc(c2nnco2)cc3
@@ -17946,3 +17946,7 @@ Rhizoferrin	C(CCNC(=O)C[C@](CC(=O)O)(C(=O)O)O)CNC(=O)C[C@@](CC(=O)O)(C(=O)O)O
 PF-04745637	C1CCC(C1)(C2=CC=C(C=C2)Cl)C(=O)NC[C@@H](CC3=CC=CC=C3)N4CCC(CC4)(C(F)(F)F)O
 Cannabinor	CCCCCCC(C)(C)C1=CC(=C(C(=C1)OC(=O)/C=C/C(=O)O)[C@H]2CC(=O)[C@H]3C[C@@H]2C3(C)C)O
 RQ-00202730	CC(C)(C)CC1=NC2=C(N1CCN(C)C)C=CC(=C2)S(=O)(=O)C3CN(C3)CCO
+6PPD	CC(C)CC(C)NC1=CC=C(C=C1)NC2=CC=CC=C2
+Tetrahydrocannabiorcol	CC1=C[C@@H]2[C@@H](CC1)C(OC3=CC(=CC(=C23)O)C)(C)C
+Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
+S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
