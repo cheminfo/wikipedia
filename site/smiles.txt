@@ -90,7 +90,7 @@ Serotonin	C1=CC2=C(C=C1O)C(=CN2)CCN
 Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
-Thiamine	Cc1c(sc[n+]1Cc2cnc([nH]c2=N)C)CCO
+Thiamine	Cc2ncc(C[n+]1csc(CCO)c1C)c(N)n2
 Tetracycline	C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O
 TNT	Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Toluene	Cc1ccccc1
@@ -1089,7 +1089,7 @@ Tungsten hexafluoride	F[W](F)(F)(F)(F)F
 Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O1
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
 Psilocin	CN(C)CCc1c[nH]c2cccc(O)c12
-Thiamine pyrophosphate	[Cl-].Cc2ncc(C[n+]1csc(CCOOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
+Thiamine pyrophosphate	Cc2ncc(C[n+]1csc(CCOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
 Sodium amide	[NH2-].[Na+]
@@ -17950,3 +17950,4 @@ RQ-00202730	CC(C)(C)CC1=NC2=C(N1CCN(C)C)C=CC(=C2)S(=O)(=O)C3CN(C3)CCO
 Tetrahydrocannabiorcol	CC1=C[C@@H]2[C@@H](CC1)C(OC3=CC(=CC(=C23)O)C)(C)C
 Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
+CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
