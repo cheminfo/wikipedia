@@ -10322,6 +10322,7 @@ Ammonium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[NH4+].[NH4+]
 Abnormal cannabidiol	CCCCCC1=CC(=CC(=C1[C@H]2C=C(CC[C@H]2C(=C)C)C)O)O
 Scammonin I	O=C(CCCCCCCCC[C@H](CCCCC)O[C@H]1[C@@]2([H])[C@@H](O)[C@H](O)[C@@H](C)O1)O[C@H]([C@](O[C@@H]3O[C@H](C)[C@@H](OC(/C(C)=C/C)=O)[C@H](O)[C@H]3O)([H])[C@H](C)O4)[C@@H](OC([C@H](CC)C)=O)[C@@H]4O[C@@]5([H])[C@H](O2)O[C@H](CO)[C@@H](O)[C@@H]5O
 Octadecyltrimethoxysilane	CCCCCCCCCCCCCCCCCC[Si](OC)(OC)OC
+Dicarbonate	C(=O)([O-])OC(=O)[O-]
 Eupatolin	C[C@@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3O)OC)OC)oc2c4ccc(c(c4)O)O)O)O)O
 Carbonyl bromide	BrC(Br)=O
 Basketene	C2=CC5C1C4C3C1C2C3C45
@@ -17653,9 +17654,9 @@ Iodine azide	IN=[N+]=[N-]
 Europium(II) fluoride	F[Eu]F
 Europium(II) fluoride	[F-].[F-].[Eu+2]
 Caesium azide	[N-]=[N+]=[N-].[Cs+]
-Tabernaemontanine	CC[C@@H]1CN([C@H]2CC3=C(C(=O)C[C@@H]1[C@@H]2C(=O)OC)NC4=CC=CC=C34)C
+Tabernaemontanine	CC[C@@H]1CN([C@H]2Cc3c4ccccc4[nH]c3C(=O)C[C@@H]1[C@@H]2C(=O)OC)C
 Isovoacangine	CCC1CC2CC3(C1N(C2)CCc4c3[nH]c5c4ccc(c5)OC)C(=O)OC
-Dregamine	CCC1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
+Dregamine	CC[C@H]1CN([C@H]2Cc3c4ccccc4[nH]c3C(=O)C[C@@H]1[C@@H]2C(=O)OC)C
 Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C(=O)OC)(C2C(C1)O2)CC)C1=CC(=C(C(=C1N3)OC)OC)O)C(=O)OC
 Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
 Californium(III) chloride	[Cl-].[Cl-].[Cl-].[Cf+3]
@@ -17951,3 +17952,4 @@ Tetrahydrocannabiorcol	CC1=C[C@@H]2[C@@H](CC1)C(OC3=CC(=CC(=C23)O)C)(C)C
 Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
 CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
+Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
