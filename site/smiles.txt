@@ -17662,7 +17662,7 @@ Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)
 Californium(III) chloride	[Cl-].[Cl-].[Cl-].[Cf+3]
 Conofoline	CC[C@]12CC[C@H]3[C@@]4([C@H]1N(CC4)C[C@@H]5[C@H]2O5)C6=C(N3C)C=CC(=C6)[C@@H]7[C@@H]8[C@@H](O8)[C@]9(CC(=C1[C@@]2([C@H]9N7CC2)C2=CC(=C(C(=C2N1)OC)OC)O)C(=O)OC)CC
 Ervaticine	CC=C1CN2CCC1C(=O)C3=C(C2)C4=CC=CC=C4N3
-Vobasine	CC=C1CN(C2CC3=C(C(=O)CC1C2C(=O)OC)NC4=CC=CC=C34)C
+Vobasine	C/C=C\1/CN([C@H]2CC3=C(C(=O)C[C@@H]1[C@@H]2C(=O)OC)NC4=CC=CC=C34)C
 Voacristine	C[C@@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
 Diphenylcarbazone	C1=CC=C(C=C1)NNC(=O)N=NC2=CC=CC=C2
 1cP-LSD	CCN(CC)C(=O)[C@@H]5C=C2[C@@H](Cc3cn(C(=O)C1CC1)c4cccc2c34)N(C)C5
@@ -17953,3 +17953,4 @@ Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
 CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
+4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
