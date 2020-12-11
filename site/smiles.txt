@@ -17790,7 +17790,7 @@ Potassium octacyanomolybdate(IV)	O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(
 Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.[K+].[K+].[K+].[K+].[Mo+4]
 Rilmazolam	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
 Brorphine	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC=CC=C4NC3=O
-Desnitroetonitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OCC
+Etodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OCC
 5F-CUMYL-PEGACLONE	CC(C)(c1ccccc1)N4C=Cc3n(CCCCCF)c2ccccc2c3C4=O
 CUMYL-CH-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCCCC2)c3ccccc3c4C5=O
 CUMYL-CBMINACA	CC(C)(NC(=O)c3nn(CC1CCC1)c2ccccc23)c4ccccc4
@@ -17942,6 +17942,7 @@ Chloroacetonitrile	C(C#N)Cl
 4-Fluorobutanol	C(CCF)CO
 Mercury oxycyanide	C(#N)[Hg]O[Hg]C#N
 2,4,5-Trichlorophenol	C1=C(C(=CC(=C1Cl)Cl)Cl)O
+Radium carbonate	[Ra+2].[O-]C([O-])=O
 Lacto-N-tetraose	CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@H]2[C@H]([C@H](O[C@H]([C@@H]2O)O[C@@H]3[C@H](OC([C@@H]([C@H]3O)O)O)CO)CO)O)CO)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O
 Rhizoferrin	C(CCNC(=O)C[C@](CC(=O)O)(C(=O)O)O)CNC(=O)C[C@@](CC(=O)O)(C(=O)O)O
 PF-04745637	C1CCC(C1)(C2=CC=C(C=C2)Cl)C(=O)NC[C@@H](CC3=CC=CC=C3)N4CCC(CC4)(C(F)(F)F)O
