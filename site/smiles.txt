@@ -3561,7 +3561,7 @@ Bafilomycin	C[C@H]1C/C(=C/C=C/[C@@H]([C@H](OC(=O)/C(=C/C(=C/[C@H]([C@H]1O)C)/C)/
 Isometheptene	CNC(C)CCC=C(C)C
 Fura-2-acetoxymethyl ester	O=C(OCOC(=O)CN(c4ccc(cc4OCCOc3cc1c(oc(c1)c2ncc(o2)C(=O)OCOC(=O)C)cc3N(CC(=O)OCOC(=O)C)CC(=O)OCOC(=O)C)C)CC(=O)OCOC(=O)C)C
 Gidazepam	BrC1=CC2=C(C=C1)N(CC(NN)=O)C(CN=C2C3=CC=CC=C3)=O
-Bismuthine	[Bi]
+Bismuthine	[BiH3]
 Fludiazepam	O=C1CN=C(C2=CC=CC=C2F)C3=CC(Cl)=CC=C3N1C
 Ethyl loflazepate	FC1=CC=CC=C1C2=NC(C(OCC)=O)C(NC3=C2C=C(C=C3)Cl)=O
 Fluorometholone acetate	[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1(F)[C@@]2([H])C[C@]([H])(C)C2=CC(=O)C=C[C@]12C
@@ -5871,6 +5871,7 @@ Phosphomevalonic acid	CC(CCOP(=O)(O)O)(CC(=O)O)O
 Tetraethyl orthosilicate	CCO[Si](OCC)(OCC)OCC
 5-Diphosphomevalonic acid	O=P(OP(=O)(O)O)(OCCC(O)(C)CC(=O)O)O
 Motexafin gadolinium	CCC1=C(C2=CC3=NC(=CN=C4C=C(C(=CC4=NC=C5C(=C(C(=N5)C=C1[N-]2)CCCO)C)OCCOCCOCCOC)OCCOCCOCCOC)C(=C3CCCO)C)CC.CC(=O)[O-].CC(=O)[O-].[Gd+3]
+Dibromomethane	BrCBr
 Lasofoxifene	O(c1ccc(cc1)[C@@H]4c2ccc(O)cc2CC[C@@H]4c3ccccc3)CCN5CCCC5
 Diiodomethane	ICI
 4-Maleylacetoacetic acid	O=C(/C=C\C(=O)O)CC(=O)CC(=O)O
