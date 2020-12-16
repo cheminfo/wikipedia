@@ -147,9 +147,7 @@ Cadaverine	NCCCCCN
 Xanthine	c1[nH]c2c(n1)nc(nc2O)O
 7-Dehydrocholesterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Cysteine	C([C@@H](C(=O)O)N)S
-Cysteine	C([C@@H](C(=O)[O-])N)S
-Cysteine	C(C(C(=O)O)N)S
-Cysteine	C(C(C(=O)[O-])[NH3+])S
+Cysteine	C([C@@H](C(=O)[O-])[NH3+])S
 Sodium cyanide	[C-]#N.[Na+]
 Pantothenic acid	CC(C)(CO)C(C(=O)NCCC(=O)O)O
 Pantothenic acid	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O
@@ -17815,6 +17813,7 @@ JNJ-28330835	O=C([C@@]1(C)NN=C(C(F)(F)F)C1)NC2=CC=C(C#N)C(C(F)(F)F)=C2
 CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
 4-Thiouridine	C1=CN(C(=O)NC1=S)C2C(C(C(O2)CO)O)O
 1,3,5-Triheptylbenzene	CCCCCCCc1cc(CCCCCCC)cc(CCCCCCC)c1
+Laucysteinamide A	CC1=N[C@@H](CS1)/C=C/CCCCCCCCCCC(=O)N(C)/C=C/CC=C
 Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 5-Methylmethiopropamine	CC1=CC=C(S1)CC(C)NC
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
@@ -17963,3 +17962,5 @@ Daturaolone	CC1(CCC2(CCC3(C(=CCC4C3(CC(C5C4(CCC(=O)C5(C)C)C)O)C)C2C1)C)C)C
 LS-115509	CCOC1(CCN(CC1C)CCC2=CC=CC=C2)C3=CC=CO3
 Lutetium phthalocyanine	C15=CC=CC=C1C6=NC9=C2C=CC=CC2=C(N=C4C3=CC=CC=C3C(=N4)N=C7C8=C(C(=NC5=N6)[N-]7)C=CC=C8)[N-]9.C%10%14=CC=CC=C%10C%15=NC%18=C%11C=CC=CC%11=C(N=C%13C%12=CC=CC=C%12C(=N%13)N=C%16C%17=C(C(=NC%14=N%15)[N-]%16)C=CC=C%17)[N-]%18.[Lu+3]
 CD38-IN-78c	CN1C2=C(C=C(C=C2)C3=CN=CS3)C(=CC1=O)NC4CCC(CC4)OCCOC
+Methylbismuth dichloride	C[Bi](Cl)Cl
+Methylbismuth dichloride	C[Bi+2].[Cl-].[Cl-]
