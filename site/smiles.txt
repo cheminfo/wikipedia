@@ -12912,7 +12912,7 @@ Aderbasib	COC(=O)N1CC2(CC2)C[C@@H]([C@H]1C(=O)N3CCN(CC3)C4=CC=CC=C4)C(=O)NO
 Phenylpropanoic acid	OC(=O)CCc1ccccc1
 Alrestatin	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CC(=O)O
 Lythranidine	COC1=C2C=C(CCC(CC3CCCC(N3)CC(CCC4=CC2=C(C=C4)O)O)O)C=C1
-Lead tetrachloride	Cl[Pb](Cl)(Cl)Cl
+Lead(IV) chloride	Cl[Pb](Cl)(Cl)Cl
 Triamiphos	O=P(n1nc(nc1N)c2ccccc2)(N(C)C)N(C)C
 Triazofos	S=P(OCC)(OCC)Oc1ncn(n1)c2ccccc2
 Trichloronate	Clc1cc(OP(=S)(OCC)CC)c(Cl)cc1Cl
@@ -17973,3 +17973,5 @@ Distearoylphosphatidylcholine	O=C(OC[C@@H](OC(=O)CCCCCCCCCCCCCCCCC)COP([O-])(=O)
 NED-19	COC1=C(C=C(C=C1)[C@@H]2C3=C(C[C@H](N2)C(=O)O)C4=CC=CC=C4N3)CN5CCN(CC5)C6=CC=CC=C6F
 Voxtalisib	CCN1C2=NC(=NC(=C2C=C(C1=O)C3=CC=NN3)C)N
 4C-B	CCC(CC1=CC(=C(C=C1OC)Br)OC)N
+Mecysteine	COC(=O)C(CS)N
+NV-5440	CC1=CC(=C(C=C1CN2CCN(CC2)C3=CC=CC=C3C#N)C(=O)N4CCN(CC4)C5=CC=CC=C5S(=O)(=O)N)C
