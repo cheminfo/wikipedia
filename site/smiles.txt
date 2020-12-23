@@ -1921,6 +1921,7 @@ Lithium tetramethylpiperidide	CC1(C)CCCC(C)(C)[N+]01[Li-][N+]1(C(C)(C)CCCC1(C)C)
 Potassium superoxide	[K+].[O-]=O
 2,2,6,6-Tetramethylpiperidine	N1C(C)(CCCC1(C)C)C
 Telluride (chemistry)	[Te--]
+Mercury sulfide	[S]=[Hg]
 Dichlorine heptoxide	O=Cl(=O)(=O)OCl(=O)(=O)=O
 Dichlorine monoxide	ClOCl
 Dess–Martin periodinane	CC(=O)OI1(c2ccccc2C(=O)O1)(OC(=O)C)OC(=O)C
@@ -17979,3 +17980,4 @@ WYE-687	COC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCN(CC4)CC5=CN=CC=C5)C(=N2)N6CCOCC6
 XL-388	CC1=C(C=CC(=C1F)S(=O)(=O)C)C(=O)N2CCOC3=C(C2)C=C(C=C3)C4=CN=C(C=C4)N
 HY-124798	CN(C)C(=O)C1=CC=C(C=C1)CN2C(=CC3=C2C=C(C=C3Br)SC4=CC(=C(C=C4)Cl)Cl)C(=O)O
 BC-LI-0186	CC1=C(C(=O)N(N1C)C2=CC=C(C=C2)S(=O)(=O)NCCOC3=CC=CC=C3)C(C)C
+EF-24	C\1NC/C(=C\C2=CC=CC=C2F)/C(=O)/C1=C/C3=CC=CC=C3F
