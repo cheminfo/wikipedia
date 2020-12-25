@@ -12703,7 +12703,7 @@ JWH-116	CCCCCN1C2=CC=CC=C2C(=C1CC)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-184	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)C
 JWH-185	CCCCCn1cc(c2c1cccc2)Cc3ccc(c4c3cccc4)OC
 JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
-Gold triiodide	I[Au](I)I
+Gold(III) iodide	I[Au](I)I
 Xenon monochloride	Cl[Xe]
 Diarsenic tetraiodide	I[As](I)[As](I)I
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
@@ -16453,7 +16453,7 @@ Orthofluorofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C2CCCC2C(=O)N(c3ccccc3)C1CCN(CC1)CCc4ccccc4
 Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
-Bis(trimethylsilyl) peroxide	C[Si](C)(C)OO[Si](C)(C)C
+Bis(trimethylsilyl)peroxide	C[Si](C)(C)OO[Si](C)(C)C
 Hexafluoroisobutylene	C=C(C(F)(F)F)C(F)(F)F
 Tiplasinin	c2ccccc2Cn(cc1C(=O)C(O)=O)c4c1cc(cc4)-c(cc3)ccc3OC(F)(F)F
 Indoxyl sulfate	C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O
@@ -17980,10 +17980,13 @@ WYE-687	COC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCN(CC4)CC5=CN=CC=C5)C(=N2)N6CCOCC6
 XL-388	CC1=C(C=CC(=C1F)S(=O)(=O)C)C(=O)N2CCOC3=C(C2)C=C(C=C3)C4=CN=C(C=C4)N
 HY-124798	CN(C)C(=O)C1=CC=C(C=C1)CN2C(=CC3=C2C=C(C=C3Br)SC4=CC(=C(C=C4)Cl)Cl)C(=O)O
 BC-LI-0186	CC1=C(C(=O)N(N1C)C2=CC=C(C=C2)S(=O)(=O)NCCOC3=CC=CC=C3)C(C)C
+(Chloromethylene)triphenylphosphorane	C1=CC=C(C=C1)P(=CCl)(C2=CC=CC=C2)C3=CC=CC=C3
 EF-24	C\1NC/C(=C\C2=CC=CC=C2F)/C(=O)/C1=C/C3=CC=CC=C3F
 Dimyristoylphosphatidylethanolamine	CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCCCCCCCC
 Quinoline methiodide	C[N+]1=CC=CC2=CC=CC=C21.[I-]
 Dimyristoylphosphatidylcholine	CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCC
 SRT-2104	CC1=C(SC(=N1)C2=CN=CC=C2)C(=O)NC3=CC=CC=C3C4=CN5C(=CSC5=N4)CN6CCOCC6
+1-Nitronaphthalene	C1=CC=C2C(=C1)C=CC=C2[N+](=O)[O-]
 Vibegron	O=C(Nc1ccc(C[C@@H]2CC[C@H]([C@H](O)c3ccccc3)N2)cc1)[C@@H]1CCc2nccc(=O)n21
 SRT-3025	COCCCC1=C(N=C(S1)C2=CC=CC=C2)C(=O)NC3=CC=CC=C3C4=NC5=C(S4)N=CC(=C5)CN6CCCC6
+STAC-9	C1CN(C2=C1C=CC(=N2)C3=CC(=CC=C3)C(F)(F)F)C(=O)NC4=CC=NC=C4
