@@ -11865,6 +11865,7 @@ Farinomalein	CC(C)C1=CC(=O)N(C1=O)CCC(=O)O
 Carbophenothion	Clc1ccc(SCSP(=S)(OCC)OCC)cc1
 Melanocyte-inhibiting factor	NC(CNC([C@H](CC(C)C)NC([C@@H]1CCCN1)=O)=O)=O
 Thallous malonate	[Tl+].[Tl+].[O-]C(=O)CC([O-])=O
+Disperse dye	Nc1c(OC)cc(N)c(C(c2ccccc23)=O)c1C3=O
 Methyl thiocyanate	N#CSC
 Methanophenazine	C[C@@H](CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/C)CCOC1=CC2=NC3=CC=CC=C3N=C2C=C1
 Benzoyl-beta-D-glucoside	O=C(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c2ccccc2
@@ -17998,8 +17999,11 @@ Thiothionyl fluoride	FS(=S)F
 Torin-1	CCC(=O)N1CCN(CC1)C2=C(C=C(C=C2)N3C(=O)C=CC4=CN=C5C=CC(=CC5=C43)C6=CC7=CC=CC=C7N=C6)C(F)(F)F
 TRC-150094	CC1=CC(=C2CCCC2=C1O)CC3=C(N(N=C3C)CCC(=O)O)C
 Nidufexor	CN1C2=C(COC3=C2C=C(C=C3)Cl)C(=N1)C(=O)N(CC4=CC=CC=C4)CC5=CC=C(C=C5)C(=O)O
-TCS-7001	CC1=CNC2=NC=CC(=C12)OC3=C(C=C(C=C3F)NC4=CC(=NC(=N4)N)Cl)F
+TC-S 7001	CC1=CNC2=NC=CC(=C12)OC3=C(C=C(C=C3F)NC4=CC(=NC(=N4)N)Cl)F
 RKI-1447	C1=CC(=CC(=C1)O)CNC(=O)NC2=NC(=CS2)C3=CC=NC=C3
 Verosudil	CN(C)C(C1=CSC=C1)C(=O)NC2=CC3=C(C=C2)C(=O)NC=C3
 Thiazovivin	C1=CC=C(C=C1)CNC(=O)C2=CSC(=N2)NC3=NC=NC=C3
+N-(n-butyl)thiophosphoric triamide	CCCCNP(=S)(N)N
 N-Acetyl-L-tyrosine	CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+Tetrachlorodinitroethane	C(C([N+](=O)[O-])(Cl)Cl)([N+](=O)[O-])(Cl)Cl
+Koelsch radical	C1=CC=C(C=C1)C(=C2C3=CC=CC=C3C4=CC=CC=C42)[C]5C6=CC=CC=C6C7=CC=CC=C75
