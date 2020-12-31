@@ -2404,7 +2404,7 @@ Valrubicin	FC(F)(F)C(=O)N[C@@H]5[C@H](O)[C@@H](O[C@@H](O[C@@H]4c3c(O)c2C(=O)c1c(
 Mitoxantrone	O=C2c1c(c(NCCNCCO)ccc1NCCNCCO)C(=O)c3c2c(O)ccc3O
 Melphalan	c1cc(ccc1C[C@@H](C(=O)O)N)N(CCCl)CCCl
 Captan	ClC(Cl)(Cl)SN1C(=O)C2C/C=C\CC2C1=O
-Captan	Clc1ccccc1NC(=O)CCN2C(=O)[C@@H]3CCCC[C@H]3C2=O
+Captan	C1C=CC[C@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl
 Gingerol	O=C(C[C@@H](O)CCCCC)CCc1cc(OC)c(O)cc1
 Desogestrel	CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CCCC[C@H]34
 Drospirenone	O=C7O[C@@]6([C@@]3([C@H]([C@@H]2[C@@H]4[C@H](/C1=C/C(=O)CC[C@]1(C)[C@H]2CC3)C4)[C@@H]5C[C@@H]56)C)CC7
@@ -11865,7 +11865,6 @@ Farinomalein	CC(C)C1=CC(=O)N(C1=O)CCC(=O)O
 Carbophenothion	Clc1ccc(SCSP(=S)(OCC)OCC)cc1
 Melanocyte-inhibiting factor	NC(CNC([C@H](CC(C)C)NC([C@@H]1CCCN1)=O)=O)=O
 Thallous malonate	[Tl+].[Tl+].[O-]C(=O)CC([O-])=O
-Disperse dye	Nc1c(OC)cc(N)c(C(c2ccccc23)=O)c1C3=O
 Methyl thiocyanate	N#CSC
 Methanophenazine	C[C@@H](CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/C)CCOC1=CC2=NC3=CC=CC=C3N=C2C=C1
 Benzoyl-beta-D-glucoside	O=C(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c2ccccc2
@@ -16681,7 +16680,6 @@ Rhenium ditelluride	[Te]=[Re]=[Te]
 Deoxyadenosyl radical	[CH2]C1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
 AGH-107	CCn1cncc1-c1c[nH]c2ccc(I)cc12
 Methyldichlorophosphine	CP(Cl)Cl
-Cannabisol	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1CC4=C(C5=C(C=C4CCCCC)OC([C@H]6[C@H]5C=C(CC6)C)(C)C)O)O
 Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
@@ -18006,4 +18004,5 @@ Thiazovivin	C1=CC=C(C=C1)CNC(=O)C2=CSC(=N2)NC3=NC=NC=C3
 N-(n-butyl)thiophosphoric triamide	CCCCNP(=S)(N)N
 N-Acetyl-L-tyrosine	CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
 Tetrachlorodinitroethane	C(C([N+](=O)[O-])(Cl)Cl)([N+](=O)[O-])(Cl)Cl
+Phenyl phosphorodiamidate	C1=CC=C(C=C1)OP(=O)(N)N
 Koelsch radical	C1=CC=C(C=C1)C(=C2C3=CC=CC=C3C4=CC=CC=C42)[C]5C6=CC=CC=C6C7=CC=CC=C75
