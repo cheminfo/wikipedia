@@ -4331,7 +4331,7 @@ Tin(II) bromide	Br[Sn]Br
 Aluminium carbide	[Al+3].[Al+3].[Al+3].[Al+3].[C-4].[C-4].[C-4]
 Octadecyltrichlorosilane	CCCCCCCCCCCCCCCCCC[Si](Cl)(Cl)Cl
 Carbinoxamine	Clc1ccc(cc1)C(OCCN(C)C)c2ncccc2
-Ammonium aluminium sulfate	[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
+Ammonium alum	[Al+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
 Indole-3-carbinol	OCc2c1ccccc1[nH]c2
 Imidazolidine	N1CCNC1
 11-Deoxycorticosterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
@@ -8465,7 +8465,7 @@ Arbekacin	O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@H](O)[C
 Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Prasterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
-Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
+Acid Orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
 3-Chloropropanoic acid	C(CCl)C(=O)O
 Coelenterazine	C1=CC=C(C=C1)CC2=C3N=C(C(=O)N3C=C(N2)C4=CC=C(C=C4)O)CC5=CC=C(C=C5)O
@@ -17900,7 +17900,7 @@ Hexaaza-18-crown-6	C1CNCCNCCNCCNCCNCCN1
 Cacodyl cyanide	C[As](C)C#N
 Zinc diphosphide	[P-]=[P-].[Zn+2]
 2C-EF	COC1=CC(=C(C=C1CCN)OC)CCF
-Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[PH6-3].[PH6-3]
+Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[P-3].[P-3]
 Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
 Neptunium(III) chloride	Cl[Np](Cl)Cl
 Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
@@ -18006,3 +18006,5 @@ N-Acetyl-L-tyrosine	CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
 Tetrachlorodinitroethane	C(C([N+](=O)[O-])(Cl)Cl)([N+](=O)[O-])(Cl)Cl
 Phenyl phosphorodiamidate	C1=CC=C(C=C1)OP(=O)(N)N
 Koelsch radical	C1=CC=C(C=C1)C(=C2C3=CC=CC=C3C4=CC=CC=C42)[C]5C6=CC=CC=C6C7=CC=CC=C75
+Dimethylene triurea	C(NC(=O)N)NC(=O)NCNC(=O)N
+Crotonylidene diurea	CC1CC(NC(=O)N1)NC(=O)N
