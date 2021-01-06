@@ -4295,6 +4295,7 @@ Tantalum(V) bromide	Br[Ta](Br)(Br)(Br)Br
 Tantalum nitride	N#[Ta]
 Terbium(III) iodide	I[Tb](I)I
 Terbium(III) oxide	[O-2].[O-2].[O-2].[Tb+3].[Tb+3]
+Ditellurium bromide	[Te].[Te].[Br]
 Tellurium tetrabromide	Br[Te](Br)(Br)Br
 Tellurium tetraiodide	[Te](I)(I)(I)I
 Tellurium trioxide	O=[Te](=O)=O
@@ -16935,6 +16936,8 @@ Butirosin	C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@@H](CCN)O)O)O[C@@H]2[C@@H]
 7α-Thiomethylspironolactone sulfoxide	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)S(=O)C
 Sodium hydrogenoxalate	[Na+].[O-]C(=O)C(=O)O
 Vanadium(III) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[V]
+EA-2012	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CC(C)OP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCCOc6cccc(c6)[N+](C)(C)C
+EA-2054	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CC(C)OP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCOc6cccc(c6)[N+](C)(C)C
 Olorinab	CC(C)(C)[C@@H](CO)NC(=O)C1=NN(C2=C1C[C@H]3[C@@H]2C3)C4=NC=C[N+](=C4)[O-]
 Dimethylstilbestrol	C/C(=C(/C)\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O
 Estradiol dibutyrate	O(C(CCC)=O)[C@]1CC[C@]([H])2[C@@]([H])3CCC4C=C(C=CC=4[C@@]3([H])CC[C@@]21C)OC(=O)CCC
@@ -18060,3 +18063,6 @@ TRV734	C1CCC2(C1)C[C@](CCO2)(CCNCC3=CC(=CN=C3)F)C4=CC=CC=N4
 SHR9352	C1CCC2(C1)C[C@](CCO2)(CCN[C@H]3CCC4(C5=CC=CC=C35)SCCS4)C6=CC=CC=N6
 N-Desmethyltamoxifen	CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCNC)/C3=CC=CC=C3
 N,N-Didesmethyltamoxifen	CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN)/C3=CC=CC=C3
+CU-CPT4a	C1=CC=C(C=C1)C[C@H](C(=O)O)NC(=O)C2=C(C3=C(S2)C=C(C=C3)F)Cl
+TLR4-IN-C34	CC(C)O[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)NC(=O)C
+M62812	C1=CC=C(C(=C1)N)OC2=CC3=C(C=C2)C(=NS3)N
