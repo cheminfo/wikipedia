@@ -1838,6 +1838,7 @@ Silver sulfadiazine	[Ag+].O=S(=O)([N-]c1ncccn1)c2ccc(N)cc2
 Citronellal	O=CCC(CC/C=C(/C)C)C
 Citral	O=CC=C(C)CCC=C(C)C
 Ionone	O=C(\C=C\C1\C(=C)CCCC1(C)C)C
+Lead(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Pb+4]
 Para red	O=N(=O)c1ccc(cc1)/N=N/c2c3ccccc3ccc2O
 Diphenoxylate	N#CC(c1ccccc1)(c2ccccc2)CCN4CCC(c3ccccc3)(C(=O)OCC)CC4
 Lactisole	[Na+].[O-]C(=O)C(Oc1ccc(OC)cc1)C
@@ -2417,7 +2418,7 @@ Flunisolide	O=C\1\C=C/[C@]2(/C(=C/1)[C@@H](F)C[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)
 N,N-Diisopropylethylamine	CCN(C(C)C)C(C)C
 Stiripentol	O1c2ccc(cc2OC1)/C=C/C(O)C(C)(C)C
 Aziridine	C1CN1
-Plutonium(IV) oxide	[O--].[O--].[Pu+4]
+Plutonium(IV) oxide	[O-2].[O-2].[Pu+4]
 Tantalum(V) chloride	Cl[Ta](Cl)(Cl)(Cl)Cl
 Voriconazole	Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C
 TATB	c1(c(c(c(c(c1[N+](=O)[O-])N)[N+](=O)[O-])N)[N+](=O)[O-])N
@@ -11307,6 +11308,7 @@ Ecadotril	O=C(SC[C@H](C(=O)NCC(=O)OCc1ccccc1)Cc2ccccc2)C
 Pyrabactin	Brc2c1c(cccc1)c(cc2)S(=O)(=O)NCc3ncccc3
 Trimethyl orthoformate	O(C)C(OC)OC
 Perfluoropentacene	c12c(c(c3c(c1F)c(c4c(c3F)c(c(c(c4F)F)F)F)F)F)c(c5c(c2F)c(c(c(c5F)F)F)F)F
+Plumbocene	C1=CC(C=C1)[Pb]C2C=CC=C2
 Benthiocarb	Clc1ccc(cc1)CSC(=O)N(CC)CC
 Menadiol	Oc2c1ccccc1c(O)c(c2)C
 Lithium azide	[Li+].[N-]=[N+]=[N-]
@@ -12013,6 +12015,7 @@ AFDX-384	O=C1Nc2cccnc2N(c4c1cccc4)C(=O)NCCN3CCCCC3CN(CCC)CCC
 S-Ethylisothiouronium diethylphosphate	O=P(OCC)(O)OCC.[N@H]=C(SCC)N
 Rubrosterone	O[C@@H]1[C@H](O)C[C@](C(C=C2[C@]3([H])CC[C@@]4(C)[C@@]2(O)CCC4=O)=O)([H])[C@]3(C)C1
 Plicatin B	O=C(OC)\C=C\c1ccc(O)c(c1)C/C=C(\C)C
+Plicatin A	CC(=C)[C@@H](CC1=C(C=CC(=C1)/C=C/C(=O)OC)O)O
 3,4-Divanillyltetrahydrofuran	Oc1ccc(cc1OC)CC3COCC3Cc2cc(OC)c(O)cc2
 Agmatidine	c1cn(c(nc1=N)NCCCCNC(=N)N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Bakuchiol	Oc1ccc(/C=C/[C@@](\C=C)(C)CC\C=C(/C)C)cc1
@@ -12482,6 +12485,7 @@ Methoxyketamine	CNC1(CCCCC1=O)c2ccccc2OC
 Mexacarbate	CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC
 Kaempferol 3-O-rutinoside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O)O)O
 Laurolactam	C1CCCCCC(=O)NCCCCC1
+Magnesium nickel hydride	[H].[H].[H].[H].[Mg].[Mg].[Ni]
 Sodium trifluoromethanesulfinate	[Na+].FC(F)(F)S([O-])=O
 Sodium ferric gluconate complex	O[C@H]([C@@H](O)C(O[Na])=O)[C@H](O)[C@H](O)CO.O[C@H]([C@@H](O)C(O1)=O)[C@H](O)[C@H](O)CO.[Fe]1(OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Iron sucrose	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O.O.O.O.[OH-].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Na+].[Na+].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
@@ -12693,6 +12697,7 @@ Dinoterb	[O-][N+](=O)c1cc(cc(c1O)C(C)(C)C)[N+]([O-])=O
 Farinamycin	C1=CC2=C(C(=C1)O)N=C(NC2=O)C3=CC(=C(C=C3)O)N[C@@H]4[C@H]([C@@H](C(=C(C4=O)C(=O)N)N)O)O
 Dithiobiuret	NC(=S)NC(N)=S
 NE-100	CCCN(CCC)CCC1=CC(=C(C=C1)OC)OCCC2=CC=CC=C2
+Polonium monoxide	[Po+2].[O-2]
 Psoralidin	OC1=CC(O2)=C(C=C1)C3=C2C(C=C(C/C=C(C)/C)C(O)=C4)=C4OC3=O
 2-Chloroethanesulfonyl chloride	C(CCl)S(=O)(=O)Cl
 1,2-Dichloroethyl acetate	CC(=O)OC(CCl)Cl
@@ -18074,3 +18079,6 @@ CU-CPT4a	C1=CC=C(C=C1)C[C@H](C(=O)O)NC(=O)C2=C(C3=C(S2)C=C(C=C3)F)Cl
 TLR4-IN-C34	CC(C)O[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)NC(=O)C
 M62812	C1=CC=C(C(=C1)N)OC2=CC3=C(C=C2)C(=NS3)N
 VGX-1027	C1C(ON=C1C2=CC=CC=C2)CC(=O)O
+Diiodine oxide	O(I)I
+Stipitatic acid	C1=C(C=C(C(=CC1=O)O)O)C(=O)O
+Tropodithietic acid	C1=CC(=O)C(=C2C(=C1)SS2)C(=O)O
