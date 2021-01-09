@@ -71,7 +71,6 @@ Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	c1cncnc1
 Phosphate	[O-]P([O-])([O-])=O
 Phosphate	[O-][P+]([O-])([O-])[O-]
-Peroxide	[O-][O-]
 Pyridine	c1ccncc1
 Phenol	c1ccc(cc1)O
 Phencyclidine	C1(C2(N3CCCCC3)CCCCC2)=CC=CC=C1
@@ -190,10 +189,12 @@ Pyrrolysine	C[C@@H]1CC=N[C@H]1C(=O)NCCCC[C@@H](C(=O)O)N
 Pyrrolysine	O=C(NCCCC[C@@H](C(=O)[O-])[NH3+])[C@@H]1/N=C\C[C@H]1C
 Aqua regia	[N+](=O)(O)[O-].Cl.Cl.Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
-Alanine	O=C(O)C(N)C
-Alanine	O=C([O-])C([NH3+])C
-Alanine	O=C(O)[C@@H](N)C
-Alanine	O=C([O-])[C@@H]([NH3+])C
+Alanine	C[C@@H](C(=O)O)N
+Alanine	C[C@H](C(=O)O)N
+Alanine	CC(C(=O)O)N
+Alanine	C[C@@H](C(=O)[O-])[NH3+]
+Alanine	C[C@H](C(=O)[O-])[NH3+]
+Alanine	CC(C(=O)[O-])[NH3+]
 Aspartic acid	O=C(O)CC(N)C(=O)O
 Aspartic acid	O=C(O)CC([NH3+])C(=O)[O-]
 Aspartic acid	O=C([O-])CC([NH3+])C(=O)[O-]
@@ -1441,6 +1442,7 @@ Lithium chloride	[Li+].[Cl-]
 Acrolein	O=CC=C
 Memantine	NC12CC3(CC(C1)(CC(C2)C3)C)C
 Nizatidine	[O-][N+](=O)\C=C(/NC)NCCSCc1nc(sc1)CN(C)C
+Potassium ferrate	[O-2].[O-2].[O-2].[O-2].[K+].[K+].[Fe+6]
 Ethyl oleate	O=C(OCC)CCCCCCC\C=C/CCCCCCCC
 Cinchophen	O=C(O)c1c3ccccc3nc(c1)c2ccccc2
 Pralatrexate	O=C(O)[C@@H](NC(=O)c1ccc(cc1)C(CC#C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
@@ -3297,6 +3299,7 @@ Quinoline Yellow SS	O=C(c3ccccc3C4=O)/C4=C2Nc1ccccc1C=C\2
 Oil Blue 35	O=C2c1ccccc1C(c3c2c(NCCCC)ccc3NCCCC)=O
 Oil Blue A	O=C2c1ccccc1C(c3c2c(NC(C)C)ccc3NC(C)C)=O
 Solvent Yellow 124	N(=N/c1ccc(N(CCOC(OCC(C)C)C)CC)cc1)\c2ccccc2
+Potassium aluminium borate	[Al+3].[Al+3].[O-][B-]([O-])([O-])O[B-]([O-])([O-])[O-].[K+].[K+]
 Nd:YAB	B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].[Al+3].[Al+3].[Al+3].[Y+3]
 Arsenic pentoxide	O=[As](=O)O[As](=O)=O
 Glufosinate	O=P(O)(CCC(C(=O)O)N)C
@@ -3940,6 +3943,7 @@ Brimonidine	Brc2c1nccnc1ccc2N/C3=N/CCN3
 Vanoxerine	Fc1ccc(cc1)C(OCCN2CCN(CC2)CCCc3ccccc3)c4ccc(F)cc4
 Diosmin	O=C\4c5c(O)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)[C@@H](O)[C@H](O)[C@H]2O)cc5O/C(c3ccc(OC)c(O)c3)=C/4
 Indoxyl	Oc2c1ccccc1[nH]c2
+Potassium hypomanganate	O=[Mn-3](=O)(=O)=O.[K+].[K+].[K+]
 Manganese heptoxide	O=[Mn](=O)(=O)O[Mn](=O)(=O)=O
 Cyproheptadine	c43\C(=C1/CCN(C)CC1)c2ccccc2\C=C/c3cccc4
 Mesoridazine	O=S(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
@@ -4230,6 +4234,7 @@ Rosaramicin	O=CC[C@@H]2[C@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@H](C)[C@
 Amylmetacresol	CCCCCC1=C(C=C(C=C1)C)O
 17α-Hydroxypregnenolone	CC[C@@]2(O)CC[C@H]1[C@@H]3CCC4CC(O)C(=O)C[C@]4(C)[C@H]3CC[C@@]12C
 Diethylamine	CCNCC
+Potassium aluminate	[O-][Al]=O.[K+]
 Pitavastatin	O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(c3ccccc3nc1C2CC2)c4ccc(F)cc4
 Methyllithium	[Li]C
 Titanium tetrabromide	[Ti](Br)(Br)(Br)Br
@@ -11120,6 +11125,7 @@ Glycine propionyl-L-carnitine	[NH3+]CC([O-])=O.CCC(=O)O[C@H](CC([O-])=O)C[N+](C)
 Ferrocenium hexafluorophosphate	[CH]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.F[P-](F)(F)(F)(F)F.[Fe]
 Febrifugine	C1C[C@@H]([C@H](NC1)CC(=O)CN2C=NC3=CC=CC=C3C2=O)O
 Palladium(II) fluoride	F[Pd]F
+Potassium erythorbate	[K+].[O-]C=1[C@H](OC(=O)C=1O)[C@H](O)CO
 Calcium erythorbate	OC1=C([O-])[C@]([C@H](O)CO)([H])OC1=O.OC1=C([O-])[C@]([C@H](O)CO)([H])OC1=O.[Ca+2]
 Kadethrin	O=C(OCc2cc(Cc1ccccc1)oc2)[C@@H]4[C@H](\C=C3/CCSC3=O)C4(C)C
 Furanochromone	O=C\1c3c(O/C=C/1)cc2occc2c3
@@ -16052,6 +16058,7 @@ Timoprazole	n1ccccc1CS(=O)c2[nH]c3ccccc3n2
 3,9-Diethylidene-2,4,8,10-tetraoxaspiro(5.5)undecane	CC=C1OCC2(CO1)COC(=CC)OC2
 Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)CC)CC)C(=C3CC)CC)CC
 10-Methacryloyloxydecyl dihydrogen phosphate	CC(=C)C(=O)OCCCCCCCCCCOP(=O)(O)O
+Ponceau 3R	CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]
 Triangulene	C1C2=C3C(=CC=C2)CC4=CC=CC5=C4C3=C6C1=CC=CC6=C5
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
 Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
@@ -16109,6 +16116,7 @@ Endrisone	C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C
 1-Vinylimidazole	C=CN1C=CN=C1
 Formyl cyanide	C(=O)C#N
 MoOPH	c0cccc[n+]0[Mo-2]12(OO1)(OO2)(=O)[O+]=P(N(C)C)(N(C)C)N(C)C
+Potassium ferrooxalate	[K+].[K+].O=C(-C(=O)O1)O[Fe-2]12OC(-C(=O)O2)=O
 Bis(cyclopentadienyl)titanium(III) chloride	C1=C[CH]C=C1.C1=C[CH]C=C1.[Cl-].[Ti]
 25B-NBF	COC1=CC(CCNCC2=CC=CC=C2F)=C(OC)C=C1Br
 25G-NBOMe	CC1=C(C=C(C(=C1C)OC)CCNCC2=CC=CC=C2OC)OC
@@ -18075,6 +18083,7 @@ TRV734	C1CCC2(C1)C[C@](CCO2)(CCNCC3=CC(=CN=C3)F)C4=CC=CC=N4
 SHR9352	C1CCC2(C1)C[C@](CCO2)(CCN[C@H]3CCC4(C5=CC=CC=C35)SCCS4)C6=CC=CC=N6
 N-Desmethyltamoxifen	CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCNC)/C3=CC=CC=C3
 N,N-Didesmethyltamoxifen	CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN)/C3=CC=CC=C3
+Potassium dithioferrate	S=[Fe-]=S.[K+]
 CU-CPT4a	C1=CC=C(C=C1)C[C@H](C(=O)O)NC(=O)C2=C(C3=C(S2)C=C(C=C3)F)Cl
 TLR4-IN-C34	CC(C)O[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)NC(=O)C
 M62812	C1=CC=C(C(=C1)N)OC2=CC3=C(C=C2)C(=NS3)N
