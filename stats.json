@@ -2140,5 +2140,6 @@
 {"date":"2021-01-07T03:39:06.322Z","molecules":18076,"errors":84,"nogood":58,"notfound":2237,"dup":585},
 {"date":"2021-01-08T03:38:58.419Z","molecules":18084,"errors":84,"nogood":58,"notfound":2232,"dup":585},
 {"date":"2021-01-09T03:38:57.908Z","molecules":18093,"errors":85,"nogood":59,"notfound":2224,"dup":585},
-{"date":"2021-01-10T03:39:20.589Z","molecules":18101,"errors":85,"nogood":59,"notfound":2217,"dup":585}
+{"date":"2021-01-10T03:39:20.589Z","molecules":18101,"errors":85,"nogood":59,"notfound":2217,"dup":585},
+{"date":"2021-01-11T03:39:01.135Z","molecules":18104,"errors":85,"nogood":59,"notfound":2214,"dup":585}
 ]
