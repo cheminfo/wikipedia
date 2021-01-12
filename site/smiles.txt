@@ -1513,6 +1513,7 @@ Fuchsine	[Cl-].[NH2+]=C\1/C=C\C(C=C/1)=C(\c2ccc(N)c(C)c2)c3ccc(N)cc3
 New fuchsine	CC1=CC(=C(C2=CC(=C(C=C2)N)C)C3=CC(=C(C=C3)N)C)C=CC1=[NH2+].[Cl-]
 Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
+Methylmercury	C[Hg]
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Cisplatin	[NH3+]-[Pt-2](Cl)(Cl)[NH3+]
 Pyrene	c1cc2cccc3ccc4cccc1c4c32
@@ -3259,7 +3260,7 @@ Carvedilol	COc1ccccc1OCCNCC(O)COc3cccc4[nH]c2ccccc2c34
 Taxane	C[C@@H]1CCC[C@@]2([C@@H]1C[C@@H]3CC[C@H]([C@@H](C3(C)C)CC2)C)C
 Fluoroantimonic acid	[FH2+].F[Sb-](F)(F)(F)(F)F
 Pyrimethamine	Clc2ccc(c1c(nc(nc1CC)N)N)cc2
-Uranium dioxide	[O-2].[O-2].[U+4]
+Uranium dioxide	O=[U]=O
 Palladium on carbon	[Pd]
 Isopentenyl pyrophosphate	CC(=C)CCOP(=O)([O-])OP(=O)([O-])[O-]
 Geranyl pyrophosphate	O=P(O)(O)OP(=O)(OC/C=C(/CC\C=C(/C)C)C)O
@@ -3795,7 +3796,7 @@ Monocrotophos	O=P(O/C(=C/C(=O)NC)C)(OC)OC
 Lumisterol	O[C@@H]4C/C3=C/C=C1\[C@@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)C(C)C)C)C)[C@]3(C)CC4
 Citrinin	O=C2C(C(O)=O)=C(O)C1=CO[C@H](C)[C@@H](C)C1=C2C
 Methanium	[C+H5]
-Methanium	[CH3]-[HH+]
+Methanium	[CH3+].[HH]
 Tetraphenylmethane	c1ccccc1C(c2ccccc2)(c3ccccc3)c4ccccc4
 Hexaphenylethane	c1ccc(cc1)C(c2ccccc2)(c3ccccc3)C(c4ccccc4)(c5ccccc5)c6ccccc6
 URB754	CC1=CC=C(C=C1)NC2=NC3=C(C=C(C=C3)C)C(=O)O2
@@ -8099,6 +8100,7 @@ Efaproxiral	Cc1cc(cc(c1)NC(=O)Cc2ccc(cc2)OC(C)(C)C(=O)O)C
 Mannosulfan	CS(=O)(=O)OC[C@H]([C@H]([C@@H]([C@@H](COS(=O)(=O)C)OS(=O)(=O)C)O)O)OS(=O)(=O)C
 Trofosfamide	C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl
 Nitramide	N[N+](=O)[O-]
+Protactinium(V) chloride	Cl[Pa](Cl)(Cl)(Cl)Cl
 Surugatoxin	CC1(C(=O)N2C3=C(NCC2(C(C14C5=C(C=C(C=C5)Br)NC4=O)C(=O)OC6C(C(C(C(C6O)O)O)O)O)O)NC(=O)NC3=O)O
 Efaroxan	N\1=C(\NCC/1)C3(Oc2ccccc2C3)CC
 Amidephrine	O=S(=O)(Nc1cc(ccc1)C(O)CNC)C
@@ -13598,10 +13600,14 @@ Picrinine	C/C=C\1/CN2C3CC1C(C45C3(NC6=CC=CC=C64)OC2C5)C(=O)OC
 Scholarine	C[C@@H]([C@@H]1CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3Nc5c4cccc5OC)C(=O)OC)O
 Rhazine	C/C=C/1\CN2[C@H]3C[C@@H]1C([C@@H]2CC4C3Nc5c4cccc5)(CO)C(=O)OC
 Acetylcysteinamide	SC[C@H](C(=O)N)NC(=O)C
+Pseudopterosin E	C[C@H]1CC[C@@H]2[C@H](C[C@@H](C3=C(C(=C(C1=C23)O)O[C@H]4[C@H]([C@@H]([C@@H]([C@@H](O4)C)O)O)O)C)C=C(C)C)C
 Dihydrokanakugiol	COC1=C(C(=C(C(=C1C(=O)CCC2=CC=CC=C2)O)OC)OC)OC
 Alnetin	O=C\1c3c(O/C(=C/1)c2ccccc2)c(OC)c(OC)c(OC)c3O
 Linderone	COC1=C(C(=O)C(=C(/C=C/c2ccccc2)O)C1=O)OC
 Methyllinderone	COC1=C(C(=O)C(=C(/C=C/C2=CC=CC=C2)OC)C1=O)OC
+Psilostachyin	C[C@H]1CC[C@@H]2[C@H]([C@]([C@@]13CCC(=O)O3)(C)O)OC(=O)C2=C
+Psilostachyin	CC1=C2CCC(=O)O[C@]2([C@H]3[C@@H](CC1)C(=C)C(=O)O3)C
+Psilostachyin	C[C@H]1CC[C@@H]2[C@H]([C@]3([C@H]1CCC(=O)O3)C)OC(=O)C2=C
 Hispidulin	COc1c(O)cc2oc(cc(=O)c2c1O)-c1ccc(O)cc1
 Lithium aspartate	[Li+].N[C@@H](CC(O)=O)C([O-])=O
 5'-Methoxyhydnocarpin	COC1=CC(=CC2=C1O[C@@H]([C@H](O2)C3=CC(=C(C=C3)O)OC)CO)C4=CC(=O)C5=C(C=C(C=C5O4)O)O
@@ -14777,7 +14783,7 @@ SRX246	O=C1[C@@H](N2C(OC[C@@H]2C3=CC=CC=C3)=O)[C@@H](/C=C/C4=CC=CC=C4)N1[C@@H](C
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 Gepotidacin	c1cc(=O)n2c3c1ncc(=O)n3[C@@H](C2)CN4CCC(CC4)NCc5cc6c(cn5)OCCC6
-2-Octanol	c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=CCC(=C5)N)O)O)O)OP(=O)(O)O)N
+2-Octanol	CC(O)CCCCCC
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CCC7=CC(=C(CCC(=C5)C=C6)C=C7)C8=CC9=C(C=C8)N=C(N9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Etomoxir	CCOC(=O)[C@]1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
 Aldoxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=NNC(=O)CCCCCN6C(=O)C=CC6=O)CO)O)N)O
