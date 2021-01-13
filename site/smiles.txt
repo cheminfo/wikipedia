@@ -13452,7 +13452,7 @@ Ailanthone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@]([C@@H](C(=C)[C@
 Hexaethyl tetraphosphate	[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O.CC.CC.CC.CC.CC.CC.[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O
 Petroselinic acid	CCCCCCCCCCC\C=C/CCCCC(O)=O
 Barium acetylacetonate	[Ba+2].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C
-Cerium acetylacetonate	[Ce+3].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C.[O-]\C(=C/C(=O)C)C
+Cerium(III) acetylacetonate	[Ce+3].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C.[O-]\C(=C/C(=O)C)C
 Dysprosium acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Dy+3]
 Europium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Eu+3]
 Gadolinium acetylacetonate	[Gd+3].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
@@ -14199,7 +14199,7 @@ Antrodioxolanone	CC1=C(C(=CC(=C1OC)OC)OC)C#C[C@@]2([C@](OC(=O)O2)(C)C#CC3=C(C(=C
 Habenariol	c1cc(O)ccc1COC(=O)C(O)(CC(C)C)CC(=O)OCc(cc2)ccc2O
 Epicocconone	C/C=C/C=C/C=C/C(=O)/C=C(/C1=C2C=C3C[C@H](OC=C3C(=O)[C@]2(OC1=O)C)CO)\O
 Arabinopyranosyl-N-methyl-N-nitrosourea	CN(C(=O)NC1C(C(C(CO1)O)O)O)N=O
-Dehydrohexahydroxydiphenic acid	O=C(O)c2cc(O)c(O)c1OC3(O)C(=O)C=C(C(c12)C3(O)O)C(=O)O
+Dehydrohexahydroxydiphenic acid	C1=C(C2C3=C(C(=C(C=C3C(=O)O)O)O)OC(C1=O)(C2(O)O)O)C(=O)O
 Mallojaponin	Oc1cc(cc(O)c1O)C(=O)O[C@@H]9O[C@@H]%13COC(=O)c2cc(O)c(O)c(O)c2c4c(O)c(O)c(Oc3c(cc(O)c(O)c3O)C(O)=O)cc4C(=O)O[C@H]%10[C@@H]%13OC(=O)[C@@]7%11CC(=O)[C@@](O)(O[C@]75C(=O)O[C@@H]6[C@@H](O)CO[C@]56O)[C@]%12(O)Oc8c(c(cc(O)c8O)C(=O)O[C@@H]9%10)[C@H]%11%12
 Chromium(III) phosphate	[O-]P(=O)([O-])[O-].[Cr+3]
 Fagaronine	C[n+]2cc4cc(OC)c(cc4c1ccc3cc(O)c(OC)cc3c12)OC
@@ -14714,7 +14714,7 @@ Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 17α-Estradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
-7,8-Dihydroxyflavone	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
+Tropoflavin	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
 Erysodienone	COC1=C(C=C2CCN3CCC4=CC(=O)C(=C[C@@]43C2=C1)OC)O
@@ -15295,7 +15295,7 @@ Cyclotraxin B	CC(C1C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)N2CCCC2C(=O
 Abemaciclib	CCN1CCN(CC1)Cc2ccc(nc2)Nc3ncc(c(n3)c4cc5c(c(c4)F)nc(n5C(C)C)C)F
 R7 (drug)	CN(C)C(=O)OC1=C(C2=C(C=C1)C(=O)C=C(O2)C3=CC=CC=C3)OC(=O)N(C)C
 7,8,3'-Trihydroxyflavone	C1=CC(=CC(=C1)O)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O
-4'-Dimethylamino-7,8-dihydroxyflavone	CN(C)c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
+Eutropoflavin	CN(C)c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 UWA-001	CNC(Cc1ccc2OCOc2c1)c3ccccc3
 Prostanoic acid	CCCCCCCCC1CCCC1CCCCCCC(=O)O
 Sufotidine	CN1C(=NC(=N1)CS(=O)(=O)C)NCCCOC2=CC=CC(=C2)CN3CCCCC3
@@ -18080,6 +18080,7 @@ N-Acetyl-L-tyrosine	CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
 Tetrachlorodinitroethane	C(C([N+](=O)[O-])(Cl)Cl)([N+](=O)[O-])(Cl)Cl
 Phenyl phosphorodiamidate	C1=CC=C(C=C1)OP(=O)(N)N
 Koelsch radical	C1=CC=C(C=C1)C(=C2C3=CC=CC=C3C4=CC=CC=C42)[C]5C6=CC=CC=C6C7=CC=CC=C75
+Methylene diurea	C(NC(=O)N)NC(=O)N
 Dimethylene triurea	C(NC(=O)N)NC(=O)NCNC(=O)N
 Crotonylidene diurea	CC1CC(NC(=O)N1)NC(=O)N
 Methylol urea	C(NC(=O)N)O
@@ -18108,3 +18109,6 @@ Diiodine oxide	O(I)I
 Stipitatic acid	C1=C(C=C(C(=CC1=O)O)O)C(=O)O
 Tropodithietic acid	C1=CC(=O)C(=C2C(=C1)SS2)C(=O)O
 Dipalmitoylphosphatidylethanolamine	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+Dichlorooctylisothiazolinone	CCCCCCCCN1C(=O)C(=C(S1)Cl)Cl
+OPPPP	CCC(=O)OC1(CCN(CC1)CCC(=O)C2=CC=CC=C2)C3=CC=CC=C3
+LY-88329	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CCC(=O)C3=CC=CC=C3
