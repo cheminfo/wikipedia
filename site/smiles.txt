@@ -12464,6 +12464,7 @@ Punicacortein A	Oc1cc(cc(O)c1O)C(=O)O[C@H](CO)[C@@H](O)[C@@H]5OC(=O)c2cc(O)c(O)c
 Punicalin	c1c2c(c(c(c1O)O)O)-c3c4c5c6c(c(c(c(c6oc4=O)O)O)-c7c(cc(c(c7O)O)O)C(=O)O[C@@H]8[C@@H](COC2=O)OC([C@@H]([C@H]8O)O)O)c(=O)oc5c(c3O)O
 Chloro(pyridine)cobaloxime	CO[H]O\N1=C(/C)\C(\C)=N2\O[H]O\N3=C(/C)\C(\C)=N/[Co]123Cl.c1ccccn1
 Punicacortein C	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C9C(C1=C(C(=C(C(=C1C(=O)O9)C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)O)O
+Punicacortein D	c12[C@@H]([C@H]3OC(=O)c1c(c1c(cc(c(c1O)O)O)C(=O)O[C@@H]3[C@@H]1OC(=O)c3c(c4c5c6c7c(oc5=O)c(c(c(c7c(=O)oc6c(c4O)O)c4c(c(c(cc4C(=O)OC[C@@H]1O)O)O)O)O)O)c(c(c(c3)O)O)O)c(c(c2O)O)O)O
 Punicacortein B	Oc1cc(cc(O)c1O)C(=O)OC[C@@H](O)[C@@H](O)[C@@H]5OC(=O)c2cc(O)c(O)c(O)c2c3c(O)c(O)c(O)c4[C@H](O)[C@@H]5OC(=O)c34
 Punicafolin	Oc4c(O)cc(cc4O)C(=O)OC6C(OC(=O)c(cc1O)c-5c(O)c1O)C(OC(=O)c(cc7O)cc(O)c7O)C(OC(=O)c(cc3O)cc(O)c3O)OC6COC(=O)c(cc(O)c2O)c-5c2O
 Granatin A	C1C2C3C(C(C(O2)C(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)OC(=O)C6=CC(=O)C7(C(C6C8=C(O7)C(=C(C=C8C(=O)O3)O)O)(O)O)O)O
@@ -14449,6 +14450,7 @@ Heptasulfur imide	N1SSSSSSS1
 Tavaborole	B1(C2=C(CO1)C=C(C=C2)F)O
 Ammonium cyanate	C(#N)[O-].[NH4+]
 Triuret	C(=O)(N)NC(=O)NC(=O)N
+Pyromellitic dianhydride	C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O
 Hydroxybupropion	O=C(c1cc(Cl)ccc1)C(NC(C)(C)CO)C
 Fluazinam	C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
 Funapide	C1C2(C3=CC=CC=C3N(C2=O)CC4=CC=C(O4)C(F)(F)F)C5=CC6=C(C=C5O1)OCO6
@@ -14681,6 +14683,7 @@ Zonampanel	c1cn(cn1)c2cc3c(cc2[N+](=O)[O-])[nH]c(=O)c(=O)n3CC(=O)O
 Irampanel	CN(C)CCOc1ccccc1c2nc(no2)c3ccccc3
 Fanapanel	c1c(c(cc2c1[nH]c(=O)c(=O)n2CP(=O)(O)O)N3CCOCC3)C(F)(F)F
 Dasolampanel	c1cc(c(c(c1)Cl)c2[nH]nnn2)O[C@H]3CC[C@H]4CN[C@@H](C[C@H]4C3)C(=O)O
+Quinoxalinedione	C1=CC2=NC(=O)C(=O)N=C2C=C1
 Thioacetone	CC(=S)C
 Selepressin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)Cc2ccccc2)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCCC(=O)N
 Cyclooctadiene iridium chloride dimer	C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1.[Cl].[Cl].[Ir].[Ir]
@@ -17190,6 +17193,7 @@ N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
 Perfluorodecanoic acid	C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Nebraskanic acid	CCCCCC[C@H](C/C=C\CCCCCCC[C@H](CCCCCC(=O)O)O)O
 Wuhanic acid	CC\C=C/CC[C@@H](O)C\C=C/CCCCCCC[C@@H](O)CCCCCC(O)=O
+Ferrioxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Fe+3]
 Vinyl neodecanoate	CC(C)(C)CCCCCC(=O)OC=C
 LDN193189	C1(C2=C3N=CC(C4=CC=C(N5CCNCC5)C=C4)=CN3N=C2)=CC=NC6=CC=CC=C16
 CHIR99021	N#CC1=CN=C(NCCNC2=NC=C(C3=NC(C)=CN3)C(C4=CC=C(Cl)C=C4Cl)=N2)C=C1
@@ -18018,6 +18022,7 @@ Oxaphosphetane	C1OCP1
 4,5-Dichloro-1,2,3-dithiazolium chloride	C1(=NS[S+]=C1Cl)Cl.[Cl-]
 Bis(trimethylsilyl)sulfur diimide	C[Si](C)(C)N=S=N[Si](C)(C)C
 Chloroacetonitrile	C(C#N)Cl
+Uranyl oxalate	C(=O)(C(=O)[O-])[O-].O=[U+2]=O
 4-Fluorobutanol	C(CCF)CO
 Mercury oxycyanide	C(#N)[Hg]O[Hg]C#N
 2,4,5-Trichlorophenol	C1=C(C(=CC(=C1Cl)Cl)Cl)O
@@ -18112,3 +18117,5 @@ Dipalmitoylphosphatidylethanolamine	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)O
 Dichlorooctylisothiazolinone	CCCCCCCCN1C(=O)C(=C(S1)Cl)Cl
 OPPPP	CCC(=O)OC1(CCN(CC1)CCC(=O)C2=CC=CC=C2)C3=CC=CC=C3
 LY-88329	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CCC(=O)C3=CC=CC=C3
+Plutonium(III) bromide	[Br-].[Br-].[Br-].[Pu]
+4-AcO-DPT	CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
