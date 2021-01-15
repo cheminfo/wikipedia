@@ -2309,7 +2309,7 @@ Selenium disulfide	S=[Se]=S
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
 Bromine trifluoride	FBr(F)F
 Bromine pentafluoride	FBr(F)(F)(F)F
-Iron(II) hydroxide	[Fe+2].[OH-].[OH-]
+Iron(II) hydroxide	O[Fe]O
 Acryloyl chloride	ClC(=O)C=C
 Fosphenytoin	O=C3N(C(=O)C(c1ccccc1)(c2ccccc2)N3)COP(=O)(O)O
 Piperacillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)C(=O)N(CC)CC2)[C@H]4SC3(C)C
@@ -2521,7 +2521,7 @@ Bis-tris propane	OCC(CO)(CO)NCCCNC(CO)(CO)CO
 Texas Red	C1CC2=C3C(=C4C(=C2)C(=C5C=C6CCC[N+]7=C6C(=C5O4)CCC7)C8=C(C=C(C=C8)S(=O)(=O)Cl)S(=O)(=O)[O-])CCCN3C1
 Ferrovanadium	[V].[Fe]
 Fluocinonide	O=C(OCC(=O)[C@]45OC(O[C@@H]5C[C@@H]2[C@@]4(C[C@H](O)[C@]3(F)[C@]/1(/C=C\C(=O)\C=C\1[C@@H](F)C[C@@H]23)C)C)(C)C)C
-Uranyl nitrate	[N+](=O)([O-])[O-].[U+2](=O)(=O).[O-][N+](=O)[O-]
+Uranyl nitrate	[N+](=O)([O-])[O-].O=[U+2]=O.[O-][N+](=O)[O-]
 Psoralen	O=C1/C=C\c2cc3ccoc3cc2O1
 Scandium oxide	O=[Sc]O[Sc]=O
 Sodium bromate	[Na+].[O-]Br(=O)=O
@@ -3437,7 +3437,7 @@ Biperiden	OC(c1ccccc1)(CCN2CCCCC2)C4C3\C=C/C(C3)C4
 Sodium dichloroisocyanurate	[Na+].ClN1C(=O)[N-]C(=O)N(Cl)C1=O
 TSQ	O=S(=O)(c1ccc(cc1)C)Nc2cc(OC)cc3cccnc23
 Sunitinib	CCN(CC)CCNC(=O)c1c(c([nH]c1C)/C=C\2/c3cc(ccc3NC2=O)F)C
-Uranium tetrafluoride	[U+4].[F-].[F-].[F-].[F-]
+Uranium tetrafluoride	F[U](F)(F)F
 Uranyl acetate	O=C(C)[O-].[O+]#[U]#[O+].O=C(C)[O-]
 Almotriptan	CN(C)CCc2c[nH]c3ccc(CS(=O)(=O)N1CCCC1)cc23
 Eletriptan	CN1CCC[C@@H]1Cc3c[nH]c4ccc(CCS(=O)(=O)c2ccccc2)cc34
@@ -4294,7 +4294,7 @@ Tungsten ditelluride	[Te]=[W]=[Te]
 Tungsten(V) bromide	Br[W](Br)(Br)(Br)Br
 Tungsten(V) chloride	Cl[W](Cl)(Cl)(Cl)Cl
 Tungsten(V) chloride	Cl1[W](Cl)(Cl)(Cl)(Cl)Cl[W]1(Cl)(Cl)(Cl)Cl
-Tungsten dichloride dioxide	[O-2].[O-2].[Cl-].[Cl-].[W]
+Tungstyl chloride	[O-2].[O-2].[Cl-].[Cl-].[W]
 Tungsten(VI) oxytetrabromide	O=[W](Br)(Br)(Br)Br
 Tungsten(VI) oxytetrachloride	O=[W](Cl)(Cl)(Cl)Cl
 Tungsten(VI) oxytetrafluoride	O=[W](F)(F)(F)F
@@ -9508,7 +9508,7 @@ Suosan	C1=CC(=CC=C1NC(=O)NCCC(=O)O)[N+](=O)[O-]
 Pimagedine	NC(N)N=N
 Botrydial	O=C[C@]1(CC([C@@H]2[C@@H](OC(=O)C)C[C@H]([C@H](C=O)[C@]12O)C)(C)C)C
 Toceranib	Fc1ccc2c(c1)/C(C(=O)N2)=C/c4c(c(C(=O)NCCN3CCCC3)c([nH]4)C)C
-Bismuth pentafluoride	[F-].[F-].[F-].[F-].[F-].[BiH3+3]
+Bismuth pentafluoride	F[Bi](F)(F)(F)F
 Europium(III) oxide	O=[Eu]O[Eu]=O
 Nargenicin	O=C2O[C@H]([C@H](O)C)[C@@H](\C=C(/C)[C@]51O[C@H]4[C@H](\C=C/[C@@H]1C[C@@H]2OC)[C@H]5[C@H](O)[C@H]([C@H]4OC(=O)c3ccc[nH]3)C)C
 Dicyclohexylurea	O=C(NC1CCCCC1)NC2CCCCC2
@@ -15439,6 +15439,7 @@ Nusinersen	Cc1cn(c(=O)[nH]c1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)OP(=S)(O)OC[C@@H]
 8-Mercaptoquinoline	c1cc2cccnc2c(c1)S
 Tribromoethanol	C(C(Br)(Br)Br)O
 4-Amino-3-hydrazino-5-mercapto-1,2,4-triazole	c1(=S)[nH]nc(n1N)NN
+Ruthenium pentacarbonyl	C(=O)=[Ru](=C=O)(=C=O)(=C=O)=C=O
 Nitrophenyl pentadienal	c1cc(ccc1/C=C/C=C/C=O)[N+](=O)[O-]
 Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
 Α-Hederin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H](CO[C@H]2O[C@H]3CC[C@]4([C@H]([C@]3(C)CO)CC[C@@]5([C@@H]4CC=C6[C@]5(CC[C@@]7([C@H]6CC(CC7)(C)C)C(=O)O)C)C)C)O)O)O)O)O
@@ -15689,7 +15690,7 @@ Dienolone	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2O
 Velneperit	CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
 Testosterone buciclate	CCCCC1CCC(CC1)C(=O)O[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
 Ethyltestosterone	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
-Bismabenzene	C1=CC=[As]C=C1
+Bismabenzene	C1=CC=[Bi]C=C1
 Diethylstilbestrol diacetate	CC\C(=C(\CC)C1=CC=C(OC(C)=O)C=C1)C1=CC=C(OC(C)=O)C=C1
 Diethylstilbestrol dipalmitate	CCCCCCCCCCCCCCCC(=O)OC1=CC=C(C=C1)/C(=C(\CC)/C2=CC=C(C=C2)OC(=O)CCCCCCCCCCCCCCC)/CC
 Diethylstilbestrol dilaurate	CCCCCCCCCCCC(=O)OC1=CC=C(C=C1)C(\CC)=C(/CC)C1=CC=C(OC(=O)CCCCCCCCCCC)C=C1
@@ -18038,6 +18039,8 @@ Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
 CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
+L-Aspartate 4-semialdehyde	C(C=O)C(C(=O)O)N
+L-Aspartate 4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
 4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
 LLZO	[La+3].[La+3].[La+3].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4]
 Daturadiol	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)O)C)[C@@H]1CC(CC2)(C)C)C
@@ -18119,3 +18122,8 @@ OPPPP	CCC(=O)OC1(CCN(CC1)CCC(=O)C2=CC=CC=C2)C3=CC=CC=C3
 LY-88329	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CCC(=O)C3=CC=CC=C3
 Plutonium(III) bromide	[Br-].[Br-].[Br-].[Pu]
 4-AcO-DPT	CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
+1-O-acetyl-2,3,5-tri-O-benzoyl-beta-D-ribofuranose	CC(=O)O[C@H]1[C@@H]([C@@H]([C@H](O1)COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3)OC(=O)C4=CC=CC=C4
+Diiodoacetylene	C(#CI)I
+CUMYL-FUBINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4=CC=C(C=C4)F
+Huprine X	CCC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
+6-Chloronicotine	CN1CCC[C@H]1C2=CN=C(C=C2)Cl
