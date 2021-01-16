@@ -1619,7 +1619,7 @@ Amobarbital	O=C1NC(=O)NC(=O)C1(CCC(C)C)CC
 DAPI	[H]/N=C(/c1ccc(cc1)c2cc3ccc(cc3[nH]2)/C(=N/[H])/N)\N
 Aprepitant	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[C@H](O[C@H]4OCCN(CC/2=N/C(=O)NN\2)[C@H]4c3ccc(F)cc3)C
 Crystal violet	[Cl-].CN(C)c1ccc(cc1)[C+](c1ccc(cc1)N(C)C)c1ccc(cc1)N(C)C
-Chromium(III) chloride	[Cr+3].[Cl-].[Cl-].[Cl-]
+Chromium(III) chloride	Cl[Cr](Cl)Cl
 Mercury(II) oxide	[Hg]=O
 Desipramine	c1cc3c(cc1)CCc2c(cccc2)N3CCCNC
 Methyl butyrate	CCCC(=O)OC
@@ -4670,7 +4670,7 @@ Propargyl alcohol	C#CCO
 Lefetamine	CN([C@@H](C1=CC=CC=C1)CC2=CC=CC=C2)C
 Heptacene	c6c3cc2cc1ccccc1cc2cc3cc7cc5cc4ccccc4cc5cc67
 Thiirane	C1CS1
-Bis(benzene)chromium	c1ccccc1.c1ccccc1.[Cr]
+Bis(benzene)chromium	c1ccccc1.[Cr].c1ccccc1
 JWH-133	O3c1cc(ccc1[C@@H]2C\C(=C/C[C@H]2C3(C)C)C)C(C)(C)CCC
 Naftidrofuryl	O=C(OCCN(CC)CC)C(Cc2c1ccccc1ccc2)CC3OCCC3
 Methyl pentanoate	O=C(OC)CCCC
@@ -12558,6 +12558,7 @@ Casuarinin	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C4C5C(C6=
 Pedunculagin	c1c2c(c(c(c1O)O)O)-c3c(cc(c(c3O)O)O)C(=O)O[C@@H]4[C@@H](COC2=O)OC([C@H]5[C@H]4OC(=O)c6cc(c(c(c6-c7c(cc(c(c7O)O)O)C(=O)O5)O)O)O)O
 Lambertianin C	C1C2C(C3C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O3)O)O)O)O)O)O)OC7=C(C8=C(C(=C(C=C8O1)O)O)O)C(=C(C(=C7OC9=CC(=CC(=C9O)O)C(=O)OC1C2C(C3C(O1)COC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C(=C1O)O)O)OC1=CC(=CC(=C1O)O)C(=O)OC1C4C(C5C(O1)COC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O5)O)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O4)O)O)O)O)O)O)C(=O)O3)O)O)O)OC(=O)C1=CC(=C(C(=C1C1=C(C(=C(C=C1C(=O)O2)O)O)O)O)O)O)O)O)O
 Cyclopentadienyliron dicarbonyl iodide	[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.[Fe].[I-]
+Sanguiin H-6	C1[C@@H]2[C@H]([C@H]3[C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)OC5=C(C(=C(C6=C5C(=O)O[C@@H]7[C@@H](COC(=O)C8=CC(=C(C(=C86)O)O)O)O[C@@H]([C@H]9[C@H]7OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O9)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O3)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Bisdemethoxycurcumin	C1=CC(=CC=C1C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O
 EMPA (drug)	CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C
 Panicudine	CC(=O)O[C@H]1C[C@]2(CN([C@@H]3[C@H]4C(=O)[C@H]5C[C@H]6[C@]3(C1)[C@@H]2C(=O)C[C@]64CC5=C)C)C
@@ -13113,6 +13114,7 @@ Valinol	CC(C)[C@H](CO)N
 POCOP	O(c3cccc(OP(c1ccccc1)c2ccccc2)c3)P(c4ccccc4)c5ccccc5
 Dibutylone	CCC(C(=O)c1ccc2c(c1)OCO2)N(C)C
 Naphthalenetetracarboxylic dianhydride	C1=CC2=C3C(=CC=C4C3=C1C(=O)OC4=O)C(=O)OC2=O
+Samarium hexaboride	[B].[B].[B].[B].[B].[B].[Sm]
 Levamlodipine	Clc1ccccc1[C@H]2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC
 Lithium iodate	[Li+].[O-]I(=O)=O
 Potassium niobate	[O-][Nb](=O)=O.[K+]
@@ -18127,3 +18129,4 @@ Diiodoacetylene	C(#CI)I
 CUMYL-FUBINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4=CC=C(C=C4)F
 Huprine X	CCC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
 6-Chloronicotine	CN1CCC[C@H]1C2=CN=C(C=C2)Cl
+2C-T-3	CC(=C)CSC1=C(C=C(C(=C1)OC)CCN)OC
