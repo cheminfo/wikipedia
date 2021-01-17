@@ -8588,9 +8588,9 @@ Cyclazodone	C1CC1NC2=NC(=O)C(O2)C3=CC=CC=C3
 BTS 74,398	NCCN(CCN)CCCSCC(=O)C2(CCC2)c(cc1Cl)ccc1Cl
 Tafluprost	CC(C)OC(=O)CCC\C=C/CC(C(O)CC1O)C1\C=C\C(F)(F)COc2ccccc2
 SB-271046	C4CNCCN4c3cc(ccc3OC)NS(=O)(=O)c1sc2ccc(Cl)cc2c1C
-HCNH+	[CH0]=[NH2+]
-HCNH+	C=[NH0+]
-HCNH+	[H]/[C]=[N+]\[H]
+Protonated hydrogen cyanide	[CH0]=[NH2+]
+Protonated hydrogen cyanide	C=[NH0+]
+Protonated hydrogen cyanide	[H]/[C]=[N+]\[H]
 Embramine	CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Br)OCCN(C)C
 Moxastine	CC(C1=CC=CC=C1)(C2=CC=CC=C2)OCCN(C)C
 Cyclofenil	O=C(Oc3ccc(C(/c1ccc(OC(=O)C)cc1)=C2\CCCCC2)cc3)C
@@ -18130,3 +18130,6 @@ CUMYL-FUBINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4=CC=C(C=C4)F
 Huprine X	CCC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
 6-Chloronicotine	CN1CCC[C@H]1C2=CN=C(C=C2)Cl
 2C-T-3	CC(=C)CSC1=C(C=C(C(=C1)OC)CCN)OC
+Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)C2=O)N=NC5=CC=C(C=C5)O[C@@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O)O)O)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O)O
+Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C2=O)N=NC5=CC=C(C=C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+Cynthiaol	C(\C=C\CCC\C=C/CC)O
