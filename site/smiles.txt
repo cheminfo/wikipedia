@@ -4294,7 +4294,7 @@ Tungsten ditelluride	[Te]=[W]=[Te]
 Tungsten(V) bromide	Br[W](Br)(Br)(Br)Br
 Tungsten(V) chloride	Cl[W](Cl)(Cl)(Cl)Cl
 Tungsten(V) chloride	Cl1[W](Cl)(Cl)(Cl)(Cl)Cl[W]1(Cl)(Cl)(Cl)Cl
-Tungstyl chloride	[O-2].[O-2].[Cl-].[Cl-].[W]
+Tungsten dichloride dioxide	[O-2].[O-2].[Cl-].[Cl-].[W]
 Tungsten(VI) oxytetrabromide	O=[W](Br)(Br)(Br)Br
 Tungsten(VI) oxytetrachloride	O=[W](Cl)(Cl)(Cl)Cl
 Tungsten(VI) oxytetrafluoride	O=[W](F)(F)(F)F
@@ -4336,7 +4336,7 @@ Antimony tribromide	Br[Sb](Br)Br
 Antimony triiodide	I[Sb](I)I
 Antimony triiodide	[SbH3+3].[I-].[I-].[I-]
 Antimony triselenide	[SbH3+3].[SbH3+3].[Se-2].[Se-2].[Se-2]
-Scandium(III) sulfide	S=[Sc]S[Sc]=S
+Scandium(III) sulfide	[S-2].[S-2].[S-2].[Sc+3].[Sc+3]
 Selenium trioxide	O=[Se](=O)=O
 Selenium trioxide	O=[Se]0(=O)O[Se](=O)(=O)O[Se](=O)(=O)O[Se](=O)(=O)O0
 Selenium oxybromide	Br[Se](Br)=O
@@ -13341,6 +13341,7 @@ Zeocin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=
 Bupirimate	CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
 PRL-8-53	CN(CCc1cccc(c1)C(=O)OC)Cc2ccccc2
 Carbomycin	C[C@@H]1C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O[C@@H](C[C@H]2[C@@H](O2)/C=C/C1=O)C)OC(=O)C)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)C)O[C@H]4C[C@@]([C@H]([C@@H](O4)C)OC(=O)CC(C)C)(C)O)N(C)C)O)CC=O
+Scandium sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Sc+3].[Sc+3]
 3-(4-Hydroxymethylbenzoyl)-1-pentylindole	CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=C(C=C3)CO
 Moramide intermediate	O=C(O)C(c1ccccc1)(c2ccccc2)C(C)CN3CCOCC3
 Methadone intermediate	CC(CC(C#N)(C1=CC=CC=C1)C2=CC=CC=C2)N(C)C
