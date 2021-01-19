@@ -4337,6 +4337,8 @@ Antimony triiodide	I[Sb](I)I
 Antimony triiodide	[SbH3+3].[I-].[I-].[I-]
 Antimony triselenide	[SbH3+3].[SbH3+3].[Se-2].[Se-2].[Se-2]
 Scandium(III) sulfide	[S-2].[S-2].[S-2].[Sc+3].[Sc+3]
+Selenium hexasulfide	S1SSS[Se][Se]SS1
+Selenium hexasulfide	S1S[Se]SSS[Se]S1
 Selenium trioxide	O=[Se](=O)=O
 Selenium trioxide	O=[Se]0(=O)O[Se](=O)(=O)O[Se](=O)(=O)O[Se](=O)(=O)O0
 Selenium oxybromide	Br[Se](Br)=O
@@ -7381,6 +7383,7 @@ Trimagnesium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg
 Monomagnesium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Mg+2]
 Dimagnesium phosphate	O=P([O-])(O)[O-].[Mg+2]
 Fructone	CC1(OCCO1)CC(OCC)=O
+Sclarene	C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2CCC(=C)C=C)(C)C
 Pinacidil	CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1
 Parietin	Oc1cc(OC)cc(C2=O)c1C(=O)c3c2cc(C)cc3O
 Iceane	C1C2CC3CC1C4CC2CC3C4
@@ -10748,6 +10751,7 @@ Hemopressin	CC(C)C[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O)NC(=O)[
 JWH-122	CCCCCn1cc(c2c1cccc2)C(=O)c3ccc(c4c3cccc4)C
 4′-Fluorococaine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=C(C=C3)F)C(=O)OC
 JWH-007	c14ccccc4cccc1C(=O)c3c2ccccc2n(c3C)CCCCC
+Shvo catalyst	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=CC=C(C=C1)C2=C(C(=O)C(=C2C3=CC=CC=C3)C4=CC=CC=C4)C5=CC=CC=C5.C1=CC=C(C=C1)[C]2[C]([C]([C]([C]2C3=CC=CC=C3)O)C4=CC=CC=C4)C5=CC=CC=C5.[Ru].[Ru]
 A-836,339	Cc1c(sc(=NC(=O)C2C(C2(C)C)(C)C)n1CCOC)C
 Cloforex	Clc1ccc(cc1)CC(NC(=O)OCC)(C)C
 Difemetorex	OCCN1C(CCCC1)C(c2ccccc2)c3ccccc3
@@ -12754,6 +12758,7 @@ JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
 Gold(III) iodide	I[Au](I)I
 Xenon monochloride	Cl[Xe]
 Diarsenic tetraiodide	I[As](I)[As](I)I
+Silicon monosulfide	[Si]=S
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
 Digermane	[Ge][Ge]
 Iodosilane	I[SiH3]
@@ -14278,6 +14283,7 @@ Vat Green 1	COC1=C2C3=C(C=CC4=C3C(=C1)C5=CC=CC=C5C4=O)C6=C7C2=C(C=C8C7=C(C=C6)C(
 Vat Yellow 1	C1=CC=C2C(=C1)C3=NC4=C5C6=C(C=C4)C(=O)C7=CC=CC=C7C6=NC8=C5C3=C(C2=O)C=C8
 Monomethyl auristatin F	O=C(N2[C@H]([C@H](OC)[C@H](C(=O)N[C@H](C(=O)O)Cc1ccccc1)C)CCC2)C[C@@H](OC)[C@@H](N(C(=O)[C@@H](NC(=O)[C@@H](NC)C(C)C)C(C)C)C)[C@@H](C)CC
 Vat Blue 36	Cc1c(cc(c2c1C(=O)C(=C3C(=O)c4cc(cc(c4S3)Cl)Cl)N2)OC)Cl
+Silacyclobutane	C1C[SiH2]C1
 Ritalinic acid	C1CCNC(C1)C(C2=CC=CC=C2)C(=O)O
 Imperialin	C[C@H]1CC[C@H]2[C@@]([C@@H]3CC[C@@H]4[C@H]([C@@H]3CN2C1)C[C@H]5[C@H]4CC(=O)[C@@H]6[C@@]5(CC[C@@H](C6)O)C)(C)O
 Nitracaine	CCN(CC)CC(C)(C)COC(=O)C1=CC=C(C=C1)[N+](=O)[O-]
@@ -18042,8 +18048,8 @@ Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
 CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
-L-Aspartate 4-semialdehyde	C(C=O)C(C(=O)O)N
-L-Aspartate 4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
+L-Aspartate-4-semialdehyde	C(C=O)C(C(=O)O)N
+L-Aspartate-4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
 4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
 LLZO	[La+3].[La+3].[La+3].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4]
 Daturadiol	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)O)C)[C@@H]1CC(CC2)(C)C)C
@@ -18134,3 +18140,4 @@ Huprine X	CCC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
 Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)C2=O)N=NC5=CC=C(C=C5)O[C@@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O)O)O)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O)O
 Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C2=O)N=NC5=CC=C(C=C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
 Cynthiaol	C(\C=C\CCC\C=C/CC)O
+SM-102	CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO
