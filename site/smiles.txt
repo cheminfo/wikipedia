@@ -69,8 +69,6 @@ Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
 Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	c1cncnc1
-Phosphate	[O-]P([O-])([O-])=O
-Phosphate	[O-][P+]([O-])([O-])[O-]
 Pyridine	c1ccncc1
 Phenol	c1ccc(cc1)O
 Phencyclidine	C1(C2(N3CCCCC3)CCCCC2)=CC=CC=C1
@@ -3867,6 +3865,7 @@ Silver sulfate	[Ag+].[Ag+].[O-]S([O-])(=O)=O
 Beta-Sitosterol	O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CC[C@@H](CC)C(C)C)C)[C@@]3(C)CC4
 Octadecene	C=C\CCCCCCCCCCCCCCCC
 Etonitazene	CCOC1=CC=C(CC2=NC3=C(N2CCN(CC)CC)C=CC(N(=O)=O)=C3)C=C1
+Silver subfluoride	F[Ag].[Ag]
 Silver azide	[Ag+].[N-]=[N+]=[N-]
 Silver chlorate	[Ag+].[O-]Cl(=O)=O
 Silver chromate	[Ag+].[Ag+].[O-][Cr]([O-])(=O)=O
@@ -6374,6 +6373,9 @@ Tandospirone	O=C1N(C(=O)[C@H]3[C@@H]1[C@@H]2CC[C@H]3C2)CCCCN5CCN(c4ncccn4)CC5
 Benzoctamine	c1ccc3c(c1)C4c2ccccc2C3(CC4)CNC
 Mebutamate	CCC(C)C(C)(COC(=O)N)COC(=O)N
 Captodiame	S(c1ccc(cc1)C(SCCN(C)C)c2ccccc2)CCCC
+Sodium arsenate	[O-][As](=O)([O-])[O-].[Na+].[Na+].[Na+]
+Sodium arsenate	O.O.O.O.O.O.O.[O-][As](=O)([O-])[O-].[Na+].[Na+].[Na+]
+Sodium arsenate	O.O.O.O.O.O.O.O.O.O.O.O.[O-][As](=O)([O-])[O-].[Na+].[Na+].[Na+]
 Clofibride	Clc1ccc(OC(C(=O)OCCCC(=O)N(C)C)(C)C)cc1
 Etofibrate	O=C(OCCOC(=O)C(Oc1ccc(Cl)cc1)(C)C)c2cccnc2
 Ciprofibrate	ClC2(Cl)CC2c1ccc(OC(C(=O)O)(C)C)cc1
@@ -12166,6 +12168,7 @@ Guaiene	C[C@H]1CCC2=C(C)CC[C@@H](C(C)=C)C[C@]21[H]
 Julolidine	c13c2c(ccc1)CCCN2CCC3
 N-Phenylnaphthalen-1-amine	c3c(Nc1ccccc1)c2ccccc2cc3
 Umbellulone	O=C1\C=C(\C)C2C1(C(C)C)C2
+Sodium decavanadate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[V].[V].[V].[V].[V].[V].[V].[V].[V].[V]
 Mitratapide	CC[C@@H](C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@@H]5CO[C@@](O5)(CSC6=NN=CN6C)C7=CC=C(C=C7)Cl
 Phthalide	O=C1OCc2ccccc12
 Butylphthalide	O=C1OC(c2ccccc12)CCCC
@@ -15396,6 +15399,7 @@ Ribociclib	CN(C)C(=O)c1cc2cnc(nc2n1C3CCCC3)Nc4ccc(cn4)N5CCNCC5
 Flubendiamide	CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)NC(C)(C)CS(=O)(=O)C
 Alpelisib	CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
 AMG 319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
+Sodium arsenide	[Na][As]([Na])[Na]
 Etoxazole	CCOc1cc(ccc1C2COC(=N2)c3c(cccc3F)F)C(C)(C)C
 Entospletinib	C1COCCN1C2=CC=C(C=C2)NC3=NC(=CN4C3=NC=C4)C5=CC6=C(C=C5)C=NN6
 Tolibut	CC1=CC=C(C=C1)C(CC(=O)O)CN
@@ -15436,6 +15440,7 @@ PSNCBAM-1	Clc1ccc(NC(=O)Nc2cccc(c2)c3cccc(n3)N4CCCC4)cc1
 Dihydrokainic acid	CC(C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O
 Oprozomib	COC[C@H](NC(=O)[C@H](COC)NC(=O)c1cnc(C)s1)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@@]3(C)CO3
 DNaM	COc1cc2ccccc2cc1[C@H]3C[C@@H]([C@H](O3)CO)O
+Silver(III) fluoride	[F-].[F-].[F-].[Ag+3]
 XJB-5-131	CC(C)CC(C=CC(Cc1ccccc1)C(=O)N2CCCC2C(=O)NC(C(C)C)C(=O)NC(CCCNC(=O)OCc3ccccc3)C(=O)NC4CC(N(C(C4)(C)C)[O])(C)C)NC(=O)OC(C)(C)C
 Uridine triacetate	CC(=O)OCC1C(C(C(O1)N2C=CC(=O)NC2=O)OC(=O)C)OC(=O)C
 4-Chloro-alpha-pyrrolidinovalerophenone	CCCC(C(=O)c1ccc(cc1)Cl)N2CCCC2
@@ -16083,6 +16088,7 @@ Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6c
 Timoprazole	n1ccccc1CS(=O)c2[nH]c3ccccc3n2
 2,4,6-Tri-tert-butylphenol	CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
 3,9-Diethylidene-2,4,8,10-tetraoxaspiro(5.5)undecane	CC=C1OCC2(CO1)COC(=CC)OC2
+Silver(I) hyponitrite	N(=N[O-])[O-].[Ag+].[Ag+]
 Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)CC)CC)C(=C3CC)CC)CC
 10-Methacryloyloxydecyl dihydrogen phosphate	CC(=C)C(=O)OCCCCCCCCCCOP(=O)(O)O
 Ponceau 3R	CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]
@@ -18141,3 +18147,4 @@ Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@@H]4[C@@H]([C@H](
 Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C2=O)N=NC5=CC=C(C=C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
 Cynthiaol	C(\C=C\CCC\C=C/CC)O
 SM-102	CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO
+Hydrogenated MDI (H12MDI)	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
