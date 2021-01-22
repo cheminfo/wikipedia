@@ -1499,6 +1499,7 @@ Saline (medicine)	[Na+].[Cl-]
 Demeclocycline	NC(=O)C1C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@H]2C(C=1O)N(C)C
 Ursodeoxycholic acid	O=C(O)CC[C@H]([C@H]1CC[C@@H]2[C@]1(C)CC[C@H]4[C@H]2[C@@H](O)C[C@@H]3C[C@H](O)CC[C@@]34C)C
 Aminopterin	O=C(O)C(NC(=O)c1ccc(cc1)NCc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
+Strontium nitride	[N-3].[N-3].[Sr+2].[Sr+2].[Sr+2]
 Hafnium diboride	B\1=B\[Hf]/1
 HT-0712	O=C3NC[C@H](c2cc(OC1CCCC1)c(OC)cc2)C[C@H]3Cc4cccc(c4)C
 Aluminium chloride	Cl[Al](Cl)Cl
@@ -14600,6 +14601,7 @@ Pigment Red 149	Cc1cc(cc(c1)N2C(=O)c3ccc4c5ccc6c7c5c(ccc7C(=O)N(C6=O)c8cc(cc(c8)
 Pigment Red 178	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N3C(=O)C4=C5C(=CC=C6C5=C(C=C4)C7=C8C6=CC=C9C8=C(C=C7)C(=O)N(C9=O)C1=CC=C(C=C1)N=NC1=CC=CC=C1)C3=O
 Pigment Red 179	CN1C(=O)c2ccc3c4ccc5c6c4c(ccc6C(=O)N(C5=O)C)c7c3c2c(cc7)C1=O
 N-Succinimidyl 4-fluorobenzoate	FC1=CC=C(C(ON2C(CCC2=O)=O)=O)C=C1
+N-Succinimidyl 4-fluorobenzoate	C1CC(=O)N(C1=O)OC(=O)C2=CC=C(C=C2)[18F]
 Pentethylcyclanone	C1CC=C(C1)C2(CCCC2=O)CCN3CCOCC3
 Trepipam	CN1CCC2=CC(=C(C=C2C(C1)C3=CC=CC=C3)OC)OC
 Clocental	C#CC1(CCCCC1)OC(=O)NC(=O)N
