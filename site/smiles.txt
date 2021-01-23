@@ -8792,6 +8792,7 @@ Ioglycamic acid	O=C(Nc1c(I)c(c(I)cc1I)C(=O)O)COCC(=O)Nc2c(I)c(C(=O)O)c(I)cc2I
 Iobenzamic acid	Ic1c(c(I)c(N)c(I)c1)C(=O)N(c2ccccc2)CCC(=O)O
 Iopanoic acid	CCC(CC1=C(C(=C(C=C1I)I)N)I)C(=O)O
 Iocetamic acid	O=C(O)C(CN(C(=O)C)c1c(I)cc(I)c(c1I)N)C
+Gadoteric acid	[Gd+3].OC(=O)CN1CCN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)CC1
 Gadoxetic acid	CCOc1ccc(cc1)C[C@@H](CN(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Gd+3]
 Gadobenic acid	[H+].[H+].[Gd+3].[O-]C(=O)CN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)C(C([O-])=O)COCc1ccccc1
 Sapacitabine	CCCCCCCCCCCCCCCC(=O)NC1=NC(=O)N(C=C1)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)C#N
@@ -15960,7 +15961,7 @@ ERB-196	C1(=CC2=C(C(=C1)C#N)C=C(C=C2)O)C1=CC(=C(C=C1)O)F
 WAY-214156	C1C2=C(C=CC(=C2)O)C3=C(O1)C4=C(C=C(C=C4C#N)O)C(=C3)C#N
 Glabrene	CC1(C=CC2=C(C=CC(=C2O1)C3=CC4=C(C=C(C=C4)O)OC3)O)C
 Mirificin	C1[C@@]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)C3=C(C=CC4=C3OC=C(C4=O)C5=CC=C(C=C5)O)O)O)O)O)O)(CO)O
-Nyasol	C=CC(C=CC1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+Nyasol	OC1=CC=C(\C=C/[C@@H](C=C)C2=CC=C(O)C=C2)C=C1
 Triphenylchloroethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3
 Allenestrol	CCC(C1=CC2=C(C=C1)C=C(C=C2)O)C(C)(C)C(=O)O
 Triphenylbromoethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Br)C3=CC=CC=C3
@@ -16514,6 +16515,7 @@ Metanil Yellow	C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)[O-].[Na+]
 2-Carboxybenzaldehyde	C1=CC=C(C(=C1)C=O)C(=O)O
 Amesergide	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)NC4CCCCC4)C5=C2C1=CC=C5
 Neohexene	CC(C)(C)C=C
+Barium thiocyanate	C(#N)[S-].C(#N)[S-].[Ba+2]
 Decernotinib	CC[C@](C)(C(=O)NCC(F)(F)F)NC1=NC(=NC=C1)C2=CNC3=C2C=CC=N3
 Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 1,5-Hexadiene	C=CCCC=C
@@ -18170,3 +18172,6 @@ Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([
 Cynthiaol	C(\C=C\CCC\C=C/CC)O
 SM-102	CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO
 Hydrogenated MDI	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
+Neodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Nd+3].[Nd+3]
+Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
+Technetium(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Tc+4]
