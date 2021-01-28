@@ -841,6 +841,7 @@ Edrophonium	[Cl-].Oc1cccc(c1)[N+](C)(CC)C
 Pilocarpine	O=C2OC[C@H](Cc1n(cnc1)C)[C@@H]2CC
 Bromocriptine	BrC1=C(C[C@H]2N(C)C3)C4=C(C=CC=C4C2=C[C@H]3C(N[C@]5(C(C)C)O[C@@]6(N([C@@H](CC(C)C)C(N7CCC[C@H]76)=O)C5=O)O)=O)N1
 Pergolide	[H][C@]12C[C@@H](CSC)CN(CCC)[C@]1([H])Cc3c[nH]c4cccc2c34
+Hydroiodic acid	I
 Potassium cyanide	[K+].[C-]#N
 Carnosine	c1c(nc[nH]1)C[C@@H](C(=O)O)NC(=O)CCN
 Carnosine	O=C(O)C(NC(=O)CCN)Cc1c[nH]cn1
@@ -18186,3 +18187,4 @@ Bruceanol E	CC1CC(=O)C(C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C=C(C)C(C)C)(OC5)C(=
 Bruceanol F	CC1C=C(C(=O)C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C=C(C)C(C)C)(OC5)C(=O)OC)O)O)C)O
 Bruceanol G	C[C@@H]1CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)/C=C(\C)/C(C)(C)OC(=O)C)(OC5)C(=O)OC)O)O)C)O
 Bruceanol H	C[C@@H]1C[C@@H](C(=O)[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)/C=C(\C)/C(C)C)(OC5)C(=O)OC)O)O)C)O
+Osmium pentacarbonyl	C(=O)=[Os](=C=O)(=C=O)(=C=O)=C=O
