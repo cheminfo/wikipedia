@@ -9756,6 +9756,7 @@ Ammonium dihydrogen phosphate	[O-]P(=O)(O)O.[NH4+]
 Echinomycin	C[C@H]1C(=O)N([C@H]2CSC([C@@H](C(=O)N([C@H](C(=O)OC[C@H](C(=O)N1)NC(=O)c3cnc4ccccc4n3)C(C)C)C)N(C(=O)[C@@H](NC(=O)[C@@H](COC(=O)[C@@H](N(C2=O)C)C(C)C)NC(=O)c5cnc6ccccc6n5)C)C)SC)C
 Eslicarbazepine acetate	CC(=O)OC2Cc1ccccc1N(C(N)=O)c3c2cccc3
 Befiradol	Cc1ccc(nc1)CNCC2(CCN(CC2)C(=O)c3ccc(c(c3)Cl)F)F
+Sporolides	CC1=C2C3(C4C(C1=O)(O4)C(C(=O)OCC(C5=CC6=C(C(C7(C6(O3)C(CC7O)O)O2)O)C(=C5)Cl)O)OC)O
 3,4-Methylenedioxy-N-ethylamphetamine	CCNC(C)Cc1ccc2OCOc2c1
 3-Oxetanone	O=C1COC1
 Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
@@ -18162,7 +18163,7 @@ OPPPP	CCC(=O)OC1(CCN(CC1)CCC(=O)C2=CC=CC=C2)C3=CC=CC=C3
 LY-88329	C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)CCC(=O)C3=CC=CC=C3
 Plutonium(III) bromide	[Br-].[Br-].[Br-].[Pu]
 4-AcO-DPT	CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
-1-O-acetyl-2,3,5-tri-O-benzoyl-beta-D-ribofuranose	CC(=O)O[C@H]1[C@@H]([C@@H]([C@H](O1)COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3)OC(=O)C4=CC=CC=C4
+1-O-Acetyl-2,3,5-tri-O-benzoyl-beta-D-ribofuranose	CC(=O)O[C@H]1[C@@H]([C@@H]([C@H](O1)COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3)OC(=O)C4=CC=CC=C4
 Diiodoacetylene	C(#CI)I
 CUMYL-FUBINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4=CC=C(C=C4)F
 Huprine X	CCC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
@@ -18188,3 +18189,5 @@ Bruceanol F	CC1C=C(C(=O)C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C=C(C)C(C)C)(OC5)C(
 Bruceanol G	C[C@@H]1CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)/C=C(\C)/C(C)(C)OC(=O)C)(OC5)C(=O)OC)O)O)C)O
 Bruceanol H	C[C@@H]1C[C@@H](C(=O)[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)/C=C(\C)/C(C)C)(OC5)C(=O)OC)O)O)C)O
 Osmium pentacarbonyl	C(=O)=[Os](=C=O)(=C=O)(=C=O)=C=O
+Cobalt Ferrite	[O-2].[O-2].[O-2].[O-2].[Fe+3].[Fe+3].[Co+2]
+Phenylmethanediol	C1=CC=C(C=C1)C(O)O
