@@ -442,7 +442,7 @@ Tetrahydrofuran	C1CCOC1
 Carbon tetrachloride	ClC(Cl)(Cl)Cl
 1,4-Dichlorobenzene	ClC1=CC=C(Cl)C=C1
 Nitrogen triiodide	IN(I)I
-Tetrachloroethylene	Cl(Cl)C=CCl(Cl)
+Tetrachloroethylene	ClC(Cl)=C(Cl)Cl
 Bromomethane	CBr
 1,2-Dibromoethane	BrCCBr
 Carbon disulfide	C(=S)=S
@@ -1862,7 +1862,7 @@ Cacodyl	[As]([As](C)C)(C)C
 Acetone	CC(=O)C
 Eriochrome Black T	C1=CC=C2C(=C1)C=CC(=C2O)/N=N/C3=C4C=CC(=CC4=C(C=C3O)S(=O)(=O)[O-])[N+](=O)[O-].[Na+]
 Fulminate	[C-]#[N+][O-]
-Triphenylphosphine	c3c(P(c1ccccc1)c2ccccc2)cccc3
+Triphenylphosphine	c1ccccc1P(c2ccccc2)c3ccccc3
 Metamfepramone	CC(C(=O)C1=CC=CC=C1)N(C)C
 Imperatorin	O=C/3Oc2c(OC\C=C(/C)C)c1occc1cc2\C=C\3
 Saccharic acid	O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O
@@ -3722,7 +3722,7 @@ Deferasirox	OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O
 Sulindac	O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
 2-Chlorophenol	Oc1ccccc1Cl
 Gadopentetic acid	[Gd+3].[O-]C(=O)CN(CCN(CC(=O)O)CC([O-])=O)CCN(CC([O-])=O)CC(=O)O.O[C@H]([C@@H](O)CNC)[C@H](O)[C@H](O)CO.O[C@@H](CNC)[C@@H](O)[C@H](O)[C@H](O)CO
-Solketal	CC1(OCC(O1)CO)C
+Solketal	OCC1COC(C)(C)O1
 Magnesium diuranate	O=[U]1(=O)O[Mg]O[U](=O)(=O)O1
 Uranium tetrachloride	[U+4].[Cl-].[Cl-].[Cl-].[Cl-]
 Cefdinir	O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\O)/c3nc(sc3)N)C(=O)O
@@ -7026,7 +7026,7 @@ Pidotimod	O=C(O)[C@H]2N(C(=O)[C@H]1NC(=O)CC1)CSC2
 Thymopentin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccc(O)cc1)C(C)C)CC(=O)O)CCCCN)[C@@H](N)CCC/N=C(\N)N
 Roquinimex	CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O
 Triethyl phosphite	O(P(OCC)OCC)CC
-Trimethyl phosphite	O(P(OC)OC)C
+Trimethyl phosphite	COP(OC)OC
 8-OH-DPAT	CCCN(CCC)C1CCc2cccc(O)c2C1
 Cyclohexenone	C1CC=CC(=O)C1
 Muconic acid	OC(\C=C/C=C\C(O)=O)=O
@@ -8316,7 +8316,7 @@ Astromicin	O=C(N(C)[C@@H]2[C@@H](OC)[C@@H](O)[C@H](N)[C@@H](O[C@H]1O[C@H]([C@@H]
 Micronomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H](C([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CNC)N)N)N)O
 TP-13	C5CCC5c3cc2nnc(-c4ccccc4)n2nc3OCc1ncnn1C
 TP-003	N#Cc4cc(F)ccc4-c1cc(ccc1F)-c2cnc3n2ccc(C(C)(O)C)c3F
-Disulfur	[S]=[S]
+Disulfur	S=S
 Citrazinic acid	O=C(O)C=1\C=C(\O)NC(=O)C=1
 Sulisobenzone	O=S(=O)(O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
 Isobromindione	c1ccc(cc1)C2C(=O)c3ccc(cc3C2=O)Br
@@ -11819,7 +11819,7 @@ Cardamomin	COC1=CC(=CC(=C1C(=O)C=CC2=CC=CC=C2)O)O
 1,2,3-Trichloropropane	ClCC(Cl)CCl
 Cyclohexanedimethanol	C1CC(CCC1CO)CO
 Selenourea	NC(N)=[Se]
-Sulfur chloride pentafluoride	S(Cl)(F)(F)(F)(F)F
+Sulfur chloride pentafluoride	ClS(F)(F)(F)(F)F
 Isopropyl methoxy pyrazine	CC(C)C1=NC=CN=C1OC
 N-Methylaniline	CNC1=CC=CC=C1
 Imazapic	O=C(O)c1c(ncc(c1)C)/C2=N/C(C(=O)N2)(C(C)C)C
@@ -16462,7 +16462,7 @@ Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)
 Selenophene	C1=C[Se]C=C1
 Methylidynetricobaltnonacarbonyl	[O+]#C[Co-3]12(C#[O+])(C#[O+])[Co-3]3(C#[O+])(C#[O+])(C#[O+])[Co-3]1(C#[O+])(C#[O+])(C#[O+])C23
 Borane carbonyl	[BH3-]C#[O+]
-6-formyl-indolo(3,2-b)carbazole	C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C=O
+6-Formylindolo(3,2-b)carbazole	C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C=O
 Dimethyloctadecyl(3-trimethoxysilylpropyl)ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCC[Si](OC)(OC)OC
 4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Thioxoethenylidene	[C+]#C[S-]
