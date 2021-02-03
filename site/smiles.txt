@@ -14139,7 +14139,7 @@ Coclaurine	COC1=C(C=C2[C@@H](NCCC2=C1)CC3=CC=C(C=C3)O)O
 Dihydrochandonium	C[C@]12CC[C@@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC[N+]4(C)C)C)[N+]5(CCCC5)C
 Malouetine	C[C@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)[N+](C)(C)C)C)C)[N+](C)(C)C.[I-].[I-]
 Ungeremine	C1C[N+]2=CC3=CC4=C(C=C3C5=CC(=CC1=C52)O)OCO4
-1,2-Diiodoethane	C(CI)I
+1,2-Diiodoethane	ICCI
 Azastene	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC=C4[C@@]3(CC5=C(C4(C)C)ON=C5)C
 Benorterone	CC12CCC(=O)C=C1CC3C2CCC4(C3CCC4(C)O)C
 Cloxotestosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(C(Cl)(Cl)Cl)O)CCC4=CC(=O)CC[C@]34C
@@ -17404,9 +17404,9 @@ Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
 2,2'-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
 2-Chloroquinoline	C1=CC=C2C(=C1)C=CC(=N2)Cl
 Δ-Decalactone	CCCCCC1CCCC(=O)O1
-Tert-Butyl hypochlorite	CC(C)(C)OCl
+Tert-Butyl hypochlorite	ClOC(C)(C)C
 Phenylcarbylamine chloride	c1ccc(cc1)N=C(Cl)Cl
-N-Chloropiperidine	C1CCN(CC1)Cl
+N-Chloropiperidine	ClN1CCCCC1
 Vanadyl isopropoxide	CC(C)O.CC(C)O.CC(C)O.O=[V]
 Ethylene episulfoxide	C1CS1=O
 Fluoroaspirin	c1ccc(c(c1)C(=O)O)OC(=O)CF
@@ -18177,7 +18177,6 @@ Hydrogenated MDI	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
 Neodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Nd+3].[Nd+3]
 Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
 Technetium(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Tc+4]
-Americium(II) chloride	Cl[Am]Cl
 Potassium perbromate	[O-]Br(=O)(=O)=O.[K+]
 Sodium perbromate	[O-]Br(=O)(=O)=O.[Na+]
 Bruceanol A	CC1=CC(=O)C(C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C6=CC=CC=C6)(OC5)C(=O)OC)O)O)C)O
@@ -18191,5 +18190,7 @@ Bruceanol H	C[C@@H]1C[C@@H](C(=O)[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([
 Osmium pentacarbonyl	C(=O)=[Os](=C=O)(=C=O)(=C=O)=C=O
 Cobalt ferrite	[O-2].[O-2].[O-2].[O-2].[Fe+3].[Fe+3].[Co+2]
 Phenylmethanediol	C1=CC=C(C=C1)C(O)O
+Pyridine-3-carboxaldehyde	C1=CC(=CN=C1)C=O
 Davis reagent	C1=CC=C(C=C1)C2N(O2)S(=O)(=O)C3=CC=CC=C3
 TRPV3-74a	C[C@]1(C[C@@]([C@@H](C2=CC=CC=N2)O)(C3=CC(C(F)(F)F)=CC=N3)C1)O
+Diroximel fumarate	COC(=O)C=CC(=O)OCCN1C(=O)CCC1=O
