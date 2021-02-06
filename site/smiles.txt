@@ -562,7 +562,7 @@ Stearic acid	CCCCCCCCCCCCCCCCCC(=O)O
 Ethyl carbamate	CCOC(N)=O
 Sodium stearoyl lactylate	O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.[Na+]
 Resveratrol	Oc1ccc(cc1)\C=C\c2cc(O)cc(O)c2
-Phthalic acid	C1=CC=C(C(=C1)C(=O)O)C(=O)O
+Phthalic acid	OC(=O)c1ccccc1C(=O)O
 DEET	O=C(c1cc(ccc1)C)N(CC)CC
 Phthalic anhydride	O=C1OC(=O)c2ccccc12
 Tetrahydrogestrinone	O=C1C=C2C(CC1)=C3C=C[C@@]4(CC)[C@@]([C@]3([H])CC2)([H])CC[C@]4(CC)O
@@ -1561,7 +1561,7 @@ Diethyl pyrocarbonate	O=C(OCC)OC(=O)OCC
 Piroxicam	OC=2c1ccccc1S(=O)(=O)N(C)C=2C(=O)Nc3ccccn3
 Difluoromethane	FCF
 Bromobenzene	c1ccc(cc1)Br
-Terephthalic acid	c1cc(ccc1C(=O)O)C(=O)O
+Terephthalic acid	O=C(O)c1ccc(C(O)=O)cc1
 Phenol red	O=S2(=O)OC(c1ccccc12)(c3ccc(O)cc3)c4ccc(O)cc4
 Chlorine trifluoride	F[Cl](F)F
 Chlorine trifluoride	[F-].[F-].F[Cl++]
@@ -3059,7 +3059,7 @@ Cycloheptatriene	C1=C\C/C=C\C=C1
 Citronellol	C\C(C)=C\CCC(C)CCO
 Citronellol	OCC[C@@H](CC/C=C(/C)C)C
 Nerol	OC\C=C(/CC/C=C(/C)C)C
-Fluorone	O=C/2/C=C\C1=C\c3c(O/C1=C\2)cccc3
+Fluorone	O=C1C=CC2=Cc3ccccc3OC2=C1
 Eosin B	C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C(=C4OC5=C(C(=C(C=C35)[N+](=O)[O-])O)Br)Br)O)[N+](=O)[O-]
 Eosin Y	c1ccc(c(c1)c2c3cc(c(c(c3oc-4c(c(=O)c(cc24)Br)Br)Br)[O-])Br)C(=O)[O-].[Na+].[Na+]
 Pararosaniline	c1cc(ccc1C(=C2C=CC(=N)C=C2)c3ccc(cc3)N)N
@@ -6890,6 +6890,7 @@ CX614	C1CC2N(C1)C(=O)C3=CC4=C(C=C3O2)OCCO4
 CX-546	C1CCN(CC1)C(=O)C2=CC3=C(C=C2)OCCO3
 Asulam	O=S(=O)(c1ccc(N)cc1)NC(=O)OC
 Prodine	O=C(CC)O[C@]1(CCN(C[C@H]1C)C)C2=CC=CC=C2
+Pangamic acid	CN(C)CC(=O)OC[C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
 Mead acid	CCCCCCCCC=CCC=CCC=CCCCC(=O)O
 Plumbagin	O=C1C(C)=CC(C2=C1C=CC=C2O)=O
 Iron(III) sulfate	[Fe+3].[Fe+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
@@ -7578,7 +7579,6 @@ Naloxazone	C=CCN1CCC23C4C(=NN)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O
 2-Ethylanthraquinone	O=C2c1c(cccc1)C(=O)c3c2ccc(c3)CC
 1-Octacosanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Hexachlorobutadiene	Cl/C(Cl)=C(\Cl)C(\Cl)=C(/Cl)Cl
-1-Methylnaphthalene	c1cccc2cccc(c12)C
 Ukrain	C[N+]1(CC2=C(C=CC3=C2OCO3)C4C1C5=CC6=C(C=C5CC4O)OCO6)CCNP(=S)(NCC[N+]7(CC8=C(C=CC9=C8OCO9)C1C7C2=CC3=C(C=C2CC1O)OCO3)C)NCC[N+]1(CC2=C(C=CC3=C2OCO3)C2C1C1=CC3=C(C=C1CC2O)OCO3)C.[OH-].[OH-].[OH-]
 Medifoxamine	CN(C)CC(OC1=CC=CC=C1)OC2=CC=CC=C2
 Minaprine	CC1=CC(=NN=C1NCCN2CCOCC2)C3=CC=CC=C3
@@ -11734,7 +11734,7 @@ Denufosol	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=
 F15845	C[C@@H](CN[C@@H]1COC2=CC=CC=C2SC1)CSC3=CC=CC=C3OC
 Haemanthamine	CO[C@H]1C[C@H]2[C@@]3(C=C1)[C@H](CN2CC4=CC5=C(C=C34)OCO5)O
 Stigmastanol	O[C@H]1CC[C@@]2(C)[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@@H](CC[C@@H](CC)C(C)C)C)([H])C1
-Thallium hydride	[TlH3]
+Thallane	[TlH3]
 Propazepine	CN(C)CCCN1CC2=CC=CC=C2CC3=CC=CC=C31
 Helional	CC(CC1=CC2=C(C=C1)OCO2)C=O
 7α-Hydroxy-4-cholesten-3-one	O=C4\C=C2/[C@]([C@H]1CC[C@]3([C@H]([C@@H]1[C@H](O)C2)CC[C@@H]3[C@H](C)CCCC(C)C)C)(C)CC4
@@ -15180,7 +15180,7 @@ Cyclobutanone	O=C1CCC1
 Cyclopentadienone	C1=CC(=O)C=C1
 Triafulvalene	C=1C(C=1)=C2C=C2
 Parathion methyl	COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
-2-Methylnaphthalene	CC1=CC2=CC=CC=C2C=C1
+2-Methylnaphthalene	Cc1ccc2ccccc2c1
 Propadienone	C=C=C=O
 Propynal	C#CC=O
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
