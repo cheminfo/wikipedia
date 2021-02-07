@@ -82,7 +82,7 @@ Phenothiazine	c1ccc2c(c1)Nc3ccccc3S2
 Quinine	[H][C@@]1([C@@H](C2=CC=NC3=CC=C(C=C23)OC)O)C[C@@H]4CC[N@]1C[C@@H]4C=C
 Riboflavin	c12cc(C)c(C)cc1N=C3C(=O)NC(=O)N=C3N2C[C@H](O)[C@H](O)[C@H](O)CO
 Radon difluoride	F[Rn]F
-Salicylic acid	c1ccc(c(c1)C(=O)O)O
+Salicylic acid	O=C(O)c1ccccc1O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Selenocysteine	O=C([O-])[C@@H]([NH3+])C[SeH]
 Serotonin	C1=CC2=C(C=C1O)C(=CN2)CCN
@@ -2625,7 +2625,7 @@ Copper(I) iodide	[Cu]I
 1-Chloro-1,2,2,2-tetrafluoroethane	FC(F)(F)C(Cl)F
 Azelaic acid	O=C(O)CCCCCCCC(=O)O
 Butyraldehyde	O=CCCC
-4-Aminosalicylic acid	O=C(O)c1ccc(cc1O)N
+4-Aminosalicylic acid	OC(=O)c1ccc(N)cc1O
 Hexazinone	O=C(N1C2CCCCC2)N=C(N(C)C)N(C)C1=O
 Nitrogen trifluoride	FN(F)F
 Copper(II) hydroxide	[Cu+2].[OH-].[OH-]
@@ -16303,7 +16303,7 @@ Dicarbonyl(acetylacetonato)rhodium(I)	CC(=CC(=O)C)O.[C-]#[O+].[C-]#[O+].[Rh]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
-Umbralisib	C[C@@H](C1=C(C(=O)C2=C(O1)C=CC(=C2)F)C3=CC(=CC=C3)F)N4C5=NC=NC(=C5C(=N4)C6=CC(=C(C=C6)OC(C)C)F)N
+Umbralisib	CC(C)OC1=C(C=C(C=C1)C2=NN(C3=NC=NC(=C23)N)C(C)C4=C(C(=O)C5=C(O4)C=CC(=C5)F)C6=CC(=CC=C6)F)F
 1,2-Butadiene	CC=C=C
 1,4-Diazacycloheptane	C1CNCCNC1
 1,5-Dithiacyclooctane	C1CSCCCSC1
@@ -18203,3 +18203,4 @@ Diformylcresol	CC1=CC(=C(C(=C1)C=O)O)C=O
 Rubidium acetate	CC(=O)[O-].[Rb+]
 Diroximel fumarate	COC(=O)C=CC(=O)OCCN1C(=O)CCC1=O
 Kaurenoic acid	C=C1C[C@@]23CC[C@]4([H])[C@@](C(O)=O)(C)CCC[C@@]4(C)[C@]2([H])CC[C@@H]1C3
+Geranylacetone	CC(=CCC/C(=C/CCC(=O)C)/C)C
