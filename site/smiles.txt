@@ -19,7 +19,6 @@ Bakelite	Oc0ccccc0Cc0cc(C1)c(O)c(c0)Cc0c(O)ccc(c0)Cc0ccc(O)c(c0)Cc0c(O)ccc(c0)Cc
 Carbon dioxide	O=C=O
 Cyanide	[C-]#N
 Carbonate	C(=O)([O-])[O-]
-Cytosine	c1cnc(=O)[nH]c1N
 Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
 Cholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
@@ -172,7 +171,7 @@ Sodium hydroxide	[OH-].[Na+]
 Tryptophan	c1[nH]c2ccccc2c1C[C@H](N)C(=O)O
 Tryptophan	c1[nH]c2ccccc2c1C[C@H]([NH3+])C(=O)[O-]
 Daminozide	CN(C)NC(=O)CCC(O)=O
-Thymine	Cc1c[nH]c(=O)[nH]c1=O
+Thymine	O=C1NC(=O)NC=C1C
 Liquid hydrogen	[H][H]
 Acridine	c1ccc2c(c1)cc3ccccc3n2
 Methionine	CSCC[C@H](N)C(=O)O
@@ -18212,3 +18211,5 @@ Tetrahydroxozincate	[OH-].[OH-].[OH-].[OH-].[Zn+2]
 Beryllium chlorate	[Be+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Europium(II) iodide	I[Eu]I
 AMG-517	CC(=O)NC1=NC2=C(C=CC=C2S1)OC3=NC=NC(=C3)C4=CC=C(C=C4)C(F)(F)F
+SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
+2-aminoacetanilide	CC(=O)NC1=CC=CC=C1N
