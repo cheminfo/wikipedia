@@ -16402,7 +16402,7 @@ Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
 Diethylphosphite	CCOP(O)OCC
 DMTMM	C[N+]1(CCOCC1)C2=NC(=NC(=N2)OC)OC.[Cl-]
-Hexadecene	CCCCCCCCCCCCCCC=C
+1-Hexadecene	CCCCCCCCCCCCCCC=C
 Dimethylphosphite	COP(O)OC
 Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
 Diisopropylphosphite	CC(C)OP(O)OC(C)C
@@ -18204,7 +18204,7 @@ Kaurenoic acid	C=C1C[C@@]23CC[C@]4([H])[C@@](C(O)=O)(C)CCC[C@@]4(C)[C@]2([H])CC[
 Geranylacetone	CC(=CCC/C(=C/CCC(=O)C)/C)C
 Strontium acetate	CC(=O)[O-].CC(=O)[O-].[Sr+2]
 Potassium nitride	[K+].[K+].[K+].[N-3]
-4-aminoacetanilide	NC1=CC=C(NC(C)=O)C=C1
+4-Aminoacetanilide	NC1=CC=C(NC(C)=O)C=C1
 Tetrahydroxozincate	[OH-].[OH-].[OH-].[OH-].[Zn+2]
 Beryllium chlorate	[Be+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Europium(II) iodide	I[Eu]I
@@ -18213,5 +18213,7 @@ SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
 2-aminoacetanilide	CC(=O)NC1=CC=CC=C1N
 3-aminoacetanilide	C1(=CC=CC(=C1)N([H])[H])N(C(C)=O)[H]
 PF-05105679	C[C@H](C1=CC=C(C=C1)F)N(CC2=CC(=CC=C2)C(=O)O)C(=O)C3=CC4=CC=CC=C4N=C3
+Chromium(II) iodide	[Cr+2].[I-].[I-]
 RQ-00203078	C1=CC(=CC=C1CN(C2=C(C=C(C=N2)C(F)(F)F)Cl)S(=O)(=O)C3=CC=C(C=C3)C(=O)O)OC(F)(F)F
 AMG-333	C1=CC(=C(N=C1)[C@H](C2=CC(=C(C=C2)OC(F)(F)F)F)NC(=O)C3=NC=C(C=C3)C(=O)O)F
+TRPM4-IN-5	C1=CC=C(C(=C1)OCC(=O)NC2=C(C=CC(=C2)Cl)C(=O)O)Cl
