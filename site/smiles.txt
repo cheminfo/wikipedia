@@ -177,7 +177,7 @@ Methionine	CSCC[C@H](N)C(=O)O
 Methionine	CSCC[C@H]([NH3+])C(=O)[O-]
 Aconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@@H]2[C@@](OC(=O)C)([C@@H](O)[C@@H]3OC)[C@H]45)(COC)[C@H](O)C[C@@H]6OC)c7ccccc7
 Aconitine	COC[C@]12CN(C)[C@@H]3[C@H]4[C@H](OC)C1[C@@]3([C@H](C[C@H]2O)OC)[C@@H]5C[C@]6(O)[C@@H](OC)[C@H](O)[C@@]4(OC(C)=O)[C@H]5C6OC(=O)c7ccccc7
-Ferrocene	[cH-]1cccc1.[cH-]1cccc1.[Fe+2]
+Ferrocene	[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2]
 Cyclopentadiene	C1C=CC=C1
 Tetrahydrocannabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 Taurine	O=S(=O)(O)CCN
