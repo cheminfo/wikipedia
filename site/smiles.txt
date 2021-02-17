@@ -17245,7 +17245,7 @@ Cyclopentadienyl magnesium bromide	C1C=CC=[C-]1.[Mg+2].[Br-]
 Γ-Oryzanol	CC(C)C(=C)CCC(C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C
 Γ-Oryzanol	C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)/C=C/C5=CC(=C(C=C5)O)OC)C)C
 24-Norcholestane	C[C@H](CCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C
-Maleic acid dibutyl ester	CCCCOC(=O)/C=C\C(=O)OCCCC
+Dibutyl maleate	CCCCOC(=O)/C=C\C(=O)OCCCC
 Crenarchaeol	C[C@@H]1CCC[C@@H](C2CCC(C2)CCC[C@@H](COC[C@@H](OC[C@H](CCCC3CCC(C3)C4CCC[C@@](C4)(CC[C@@H](CCC[C@@H](C5CCC(C5)CCC[C@@H](COC[C@@H](OC[C@H](CCCC6CCC(C6)[C@H](CCC[C@H](CC1)C)C)C)CO)C)C)C)C)C)CO)C)C
 Color Developing Agent 3	CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O
 Color Developing Agent 4	CCN(CCO)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O
@@ -18082,6 +18082,7 @@ CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
 L-Aspartate-4-semialdehyde	C(C=O)C(C(=O)O)N
 L-Aspartate-4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
+Phenoxyacetic Acid	C1=CC=C(C=C1)OCC(=O)O
 4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
 LLZO	[La+3].[La+3].[La+3].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4]
 Daturadiol	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)O)C)[C@@H]1CC(CC2)(C)C)C
@@ -18217,3 +18218,4 @@ Chromium(II) iodide	[Cr+2].[I-].[I-]
 RQ-00203078	C1=CC(=CC=C1CN(C2=C(C=C(C=N2)C(F)(F)F)Cl)S(=O)(=O)C3=CC=C(C=C3)C(=O)O)OC(F)(F)F
 AMG-333	C1=CC(=C(N=C1)[C@H](C2=CC(=C(C=C2)OC(F)(F)F)F)NC(=O)C3=NC=C(C=C3)C(=O)O)F
 TRPM4-IN-5	C1=CC=C(C(=C1)OCC(=O)NC2=C(C=CC(=C2)Cl)C(=O)O)Cl
+RN-9893	CC(C)N1CCN(CC1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C3=C(C=C(C=C3)C(F)(F)F)[N+](=O)[O-]
