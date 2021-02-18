@@ -18082,7 +18082,7 @@ CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
 L-Aspartate-4-semialdehyde	C(C=O)C(C(=O)O)N
 L-Aspartate-4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
-Phenoxyacetic Acid	C1=CC=C(C=C1)OCC(=O)O
+Phenoxyacetic acid	C1=CC=C(C=C1)OCC(=O)O
 4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
 LLZO	[La+3].[La+3].[La+3].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4]
 Daturadiol	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)O)C)[C@@H]1CC(CC2)(C)C)C
@@ -18219,3 +18219,5 @@ RQ-00203078	C1=CC(=CC=C1CN(C2=C(C=C(C=N2)C(F)(F)F)Cl)S(=O)(=O)C3=CC=C(C=C3)C(=O)
 AMG-333	C1=CC(=C(N=C1)[C@H](C2=CC(=C(C=C2)OC(F)(F)F)F)NC(=O)C3=NC=C(C=C3)C(=O)O)F
 TRPM4-IN-5	C1=CC=C(C(=C1)OCC(=O)NC2=C(C=CC(=C2)Cl)C(=O)O)Cl
 RN-9893	CC(C)N1CCN(CC1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C3=C(C=C(C=C3)C(F)(F)F)[N+](=O)[O-]
+Moboceritinib	CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+Otenaproxesul	COC1=CC2=CC=C(C=C2C=C1)C(C)C(=O)OC3=CC=C(C=C3)C(N)=S
