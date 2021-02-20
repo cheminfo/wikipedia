@@ -18210,7 +18210,7 @@ Europium(II) iodide	I[Eu]I
 AMG-517	CC(=O)NC1=NC2=C(C=CC=C2S1)OC3=NC=NC(=C3)C4=CC=C(C=C4)C(F)(F)F
 SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
 2-aminoacetanilide	CC(=O)NC1=CC=CC=C1N
-3-aminoacetanilide	C1(=CC=CC(=C1)N([H])[H])N(C(C)=O)[H]
+3-Aminoacetanilide	C1(=CC=CC(=C1)N([H])[H])N(C(C)=O)[H]
 PF-05105679	C[C@H](C1=CC=C(C=C1)F)N(CC2=CC(=CC=C2)C(=O)O)C(=O)C3=CC4=CC=CC=C4N=C3
 Chromium(II) iodide	[Cr+2].[I-].[I-]
 RQ-00203078	C1=CC(=CC=C1CN(C2=C(C=C(C=N2)C(F)(F)F)Cl)S(=O)(=O)C3=CC=C(C=C3)C(=O)O)OC(F)(F)F
@@ -18218,7 +18218,8 @@ AMG-333	C1=CC(=C(N=C1)[C@H](C2=CC(=C(C=C2)OC(F)(F)F)F)NC(=O)C3=NC=C(C=C3)C(=O)O)
 TRPM4-IN-5	C1=CC=C(C(=C1)OCC(=O)NC2=C(C=CC(=C2)Cl)C(=O)O)Cl
 RN-9893	CC(C)N1CCN(CC1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C3=C(C=C(C=C3)C(F)(F)F)[N+](=O)[O-]
 Tin(IV) nitrate	[N+](=O)([O-])O[Sn](O[N+](=O)[O-])(O[N+](=O)[O-])O[N+](=O)[O-]
-Moboceritinib	CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+Mobocertinib	CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
 Otenaproxesul	COC1=CC2=CC=C(C=C2C=C1)C(C)C(=O)OC3=CC=C(C=C3)C(N)=S
 Cotadutide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)N)C(=O)O
 Nitryl chloride	[NH+](=O)[O-].[Cl-]
+4-anilino-N-phenethylpiperidine (ANPP)	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
