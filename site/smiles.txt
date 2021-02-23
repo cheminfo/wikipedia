@@ -3274,7 +3274,7 @@ Dextromoramide	C[C@@H](C(C1=CC=CC=C1)(C(N2CCCC2)=O)C3=CC=CC=C3)CN4CCOCC4
 Sodium orthovanadate	[O-][V](=O)([O-])[O-].[Na+].[Na+].[Na+]
 Copper(II) triflate	[Cu+2].FC(F)(F)S([O-])(=O)=O.FC(F)(F)S([O-])(=O)=O
 Tetramethrin	O=C1\C3=C(/C(=O)N1COC(=O)C2C(\C=C(/C)C)C2(C)C)CCCC3
-Sulpiride	O=S(=O)(N)c1cc(c(OC)cc1)C(=O)NCC2N(CC)CCC2
+Sulpiride	NS(=O)(=O)c1ccc(OC)c(c1)C(=O)NCC1CCCN1CC
 Cefacetrile	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)CC#N)COC(=O)C)C(=O)O
 Practolol	O=C(Nc1ccc(OCC(O)CNC(C)C)cc1)C
 Rivaroxaban	O=C1COCCN1c2ccc(cc2)N3C[C@@H](OC3=O)CNC(=O)c4ccc(s4)Cl
@@ -18223,3 +18223,5 @@ Otenaproxesul	COC1=CC2=CC=C(C=C2C=C1)C(C)C(=O)OC3=CC=C(C=C3)C(N)=S
 Cotadutide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)N)C(=O)O
 Nitryl chloride	[NH+](=O)[O-].[Cl-]
 4-ANPP	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
+Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
+Ammonium propionate	CCC(=O)[O-].[NH4+]
