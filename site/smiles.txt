@@ -84,7 +84,7 @@ Salicylic acid	O=C(O)c1ccccc1O
 Selenocysteine	O=C(O)[C@@H](N)C[SeH]
 Selenocysteine	O=C([O-])[C@@H]([NH3+])C[SeH]
 Serotonin	C1=CC2=C(C=C1O)C(=CN2)CCN
-Hyoscine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
+Scopolamine	OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34
 Sodium thiopental	[Na+].O=C1NC(=S)/N=C(/[O-])C1(C(C)CCC)CC
 Sulfuric acid	OS(=O)(=O)O
 Thiamine	Cc2ncc(C[n+]1csc(CCO)c1C)c(N)n2
@@ -7189,6 +7189,7 @@ Ethenone	O=C=C
 1-Pentyne	C#CCCC
 CLD chromophore	CC1(CC(=C/C(=C/C=C/C2=C(C(=C(C#N)C#N)OC2(C)C)C#N)/C1)/C=C/C3=CC=C(C=C3)N(CCO[Si](C)(C)C(C)(C)C)CCO[Si](C)(C)C(C)(C)C)C
 Ethcathinone	O=C(c1ccccc1)C(NCC)C
+Rilpivirine	Cc1cc(cc(c1Nc2ccnc(n2)Nc3ccc(cc3)C#N)C)/C=C/C#N
 Tetrahydrocannabinol-C4	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
 Laudanosine	CN1CCc2cc(c(cc2[C@@H]1Cc3ccc(c(c3)OC)OC)OC)OC
 TRISPHAT	O1c0c(Cl)c(Cl)c(Cl)c(Cl)c0O[P-]123(Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O2)Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O3.CCCC[N+H](CCCC)CCCC
@@ -18225,3 +18226,4 @@ Nitryl chloride	[NH+](=O)[O-].[Cl-]
 4-ANPP	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
 Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
 Ammonium propionate	CCC(=O)[O-].[NH4+]
+Xenon oxydifluoride	O=[Xe](F)F
