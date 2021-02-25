@@ -2843,7 +2843,7 @@ Barium ferrite	O=[Fe]O[Fe]=O.O=[Fe]O[Fe]=O.O=[Fe]O[Fe]=O.O=[Fe]O[Fe]=O.O=[Fe]O[F
 Benzoxazole	n1c2ccccc2oc1
 Allyl alcohol	C=CCO
 Benzisoxazole	n2oc1ccccc1c2
-Anthranil	C12=CON=C1C=CC=C2
+Anthranil	n1c2ccccc2co1
 Indican	C1=CC=C2C(=C1)C(=CN2)OC3C(C(C(C(O3)CO)O)O)O
 Isobutyl acetate	O=C(OCC(C)C)C
 Dichloroacetic acid	ClC(Cl)C(O)=O
@@ -18226,4 +18226,5 @@ Nitryl chloride	[NH+](=O)[O-].[Cl-]
 4-ANPP	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
 Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
 Ammonium propionate	CCC(=O)[O-].[NH4+]
+Alpha-Hydropxyetizolam	CC1=NN=C2N1C3=C(C=C(S3)C(C)O)C(=NC2)C4=CC=CC=C4Cl
 Xenon oxydifluoride	O=[Xe](F)F
