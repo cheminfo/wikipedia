@@ -112,8 +112,8 @@ Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
 Nicotine	CN1CCC[C@H]1C1=CC=CN=C1
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	NC1=NC=NC2=C1N=CN2
-Proline	OC(=O)C1CCCN1
-Proline	[O-]C(=O)C1CCC[NH2+]1
+Proline	C1C[C@H](NC1)C(=O)O
+Proline	[O-]C(=O)[C@H](CCC2)[NH2+]2
 Uracil	O=C1C=CNC(=O)N1
 Uracil	Oc1nccc(O)n1
 Lead(II) azide	[N-]=[N+]=N[Pb]N=[N+]=[N-]
@@ -17875,7 +17875,7 @@ Potassium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[K+].[K+]
 Isobubbialine	C1C[C@@H]2[C@@]34C[C@@H]([C@@H](N2C1)CC3=CC(=O)O4)O
 Norsecurinine	C1C[C@@H]2[C@]34C[C@H](N2C1)C=CC3=CC(=O)O4
 Securinine	C1CCN2[C@H](C1)[C@]34C[C@H]2C=CC3=CC(=O)O4
-Aluminium monohydroxide	[Al]O
+Hydroxyaluminium(I)	[Al]O
 Nangibotide	C[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCC(=O)N[C@@H](CS)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)N
 1,1,1,3,3,3-Hexachloropropane	C(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 1,2-Dichloro-1,1,2-trifluoroethane	C(C(F)(F)Cl)(F)Cl
@@ -18228,3 +18228,4 @@ Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
 Ammonium propionate	CCC(=O)[O-].[NH4+]
 Alpha-Hydropxyetizolam	CC1=NN=C2N1C3=C(C=C(S3)C(C)O)C(=NC2)C4=CC=CC=C4Cl
 Xenon oxydifluoride	O=[Xe](F)F
+Gougerotin	CNCC(=O)NC(CO)C(=O)NC1C(C(C(OC1C(=O)N)N2C=CC(=NC2=O)N)O)O
