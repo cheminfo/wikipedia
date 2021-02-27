@@ -5547,7 +5547,6 @@ Mebhydrolin	CN3Cc4c1ccccc1n(Cc2ccccc2)c4CC3
 3,4-Methylenedioxy-N-methoxyamphetamine	CC(NOC)Cc1ccc2OCOc2c1
 Maraviroc	Cc5nnc(n5[C@@H]1C[C@H]4CC[C@@H](C1)N4CC[C@H](NC(=O)C2CCC(F)(F)CC2)c3ccccc3)C(C)C
 Isocetane	C(C)(C)CC(C)CC(C)(C)CC(C)(C)C
-Benfotiamine	O=P(O)(O)OCCC(/SC(=O)c1ccccc1)=C(/N(C=O)Cc2cnc(nc2N)C)C
 (Hydroxyethyl)methacrylate	O=C(OCCO)\C(=C)C
 Adosterol	IC[C@H]2\C4=C(/[C@H]1CC[C@]3([C@H]([C@@H]1C2)CC[C@@H]3C(C)CCCC(C)C)C)CC[C@H](O)C4
 Triolein	O=C(OCC(OC(=O)CCCCCCC\C=C/CCCCCCCC)COC(=O)CCCCCCC\C=C/CCCCCCCC)CCCCCCC\C=C/CCCCCCCC
@@ -14667,6 +14666,7 @@ Calcium monosilicide	[Si]=[Ca]
 WB-4101	COc1cccc(c1OCCNCC2COc3ccccc3O2)OC
 Norbuprenorphine-3-glucuronide	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)O4)OC)(C(C)(C)C)O
 Buprenorphine-3-glucuronide	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3Cc6c5c(c(cc6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)O4)CC8CC8)OC)(C(C)(C)C)O
+Cebranopadol	CN(C)[C@@]1(c2ccccc2)CC[C@@]2(CC1)OCCc1c2[nH]c2ccc(F)cc12
 Trengestone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)Cl)C
 Bicyclobutane	C1C2C1C2
 5-Chloro-αMT	CC(Cc1c[nH]c2c1cc(cc2)Cl)N
@@ -17875,7 +17875,7 @@ Potassium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[K+].[K+]
 Isobubbialine	C1C[C@@H]2[C@@]34C[C@@H]([C@@H](N2C1)CC3=CC(=O)O4)O
 Norsecurinine	C1C[C@@H]2[C@]34C[C@H](N2C1)C=CC3=CC(=O)O4
 Securinine	C1CCN2[C@H](C1)[C@]34C[C@H]2C=CC3=CC(=O)O4
-Hydroxyaluminium(I)	[Al]O
+Aluminium monohydroxide	[Al]O
 Nangibotide	C[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCC(=O)N[C@@H](CS)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)N
 1,1,1,3,3,3-Hexachloropropane	C(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 1,2-Dichloro-1,1,2-trifluoroethane	C(C(F)(F)Cl)(F)Cl
@@ -18206,7 +18206,6 @@ Strontium acetate	CC(=O)[O-].CC(=O)[O-].[Sr+2]
 Potassium nitride	[K+].[K+].[K+].[N-3]
 4-Aminoacetanilide	NC1=CC=C(NC(C)=O)C=C1
 Tetrahydroxozincate	[OH-].[OH-].[OH-].[OH-].[Zn+2]
-Beryllium chlorate	[Be+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Europium(II) iodide	I[Eu]I
 AMG-517	CC(=O)NC1=NC2=C(C=CC=C2S1)OC3=NC=NC(=C3)C4=CC=C(C=C4)C(F)(F)F
 SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
@@ -18229,3 +18228,7 @@ Ammonium propionate	CCC(=O)[O-].[NH4+]
 Alpha-Hydropxyetizolam	CC1=NN=C2N1C3=C(C=C(S3)C(C)O)C(=NC2)C4=CC=CC=C4Cl
 Xenon oxydifluoride	O=[Xe](F)F
 Gougerotin	CNCC(=O)NC(CO)C(=O)NC1C(C(C(OC1C(=O)N)N2C=CC(=NC2=O)N)O)O
+1,6-Dichloro-1,6-dideoxyfructose	C([C@H]([C@H]([C@@H](C(=O)CCl)O)O)O)Cl
+Lanthanum(III) nitrate	[N+](=O)(O)[O-].[N+](=O)(O)[O-].[N+](=O)(O)[O-].[La+3]
+Citreoviridin	C[C@@H]1[C@]([C@H]([C@](O1)(C)/C=C(\C)/C=C/C=C/C=C/C2=C(C(=CC(=O)O2)OC)C)O)(C)O
+1-Hexyne	CCCCC#C
