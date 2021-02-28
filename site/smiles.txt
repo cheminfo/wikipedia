@@ -2725,7 +2725,7 @@ Ectoine	O=C(O)[C@H]1N\C(=N/CC1)C
 Ectoine	CC1=NCCC(N1)C(=O)O
 Ferrate(VI)	[O-][Fe]([O-])(=O)=O
 Sinigrin	C=CCC(=NOS(=O)(=O)[O-])SC1C(C(C(C(O1)CO)O)O)O.[K+]
-Sinigrin	C=CC/C(=N/OS(=O)(=O)[O-])/S[C@@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O.[K+]
+Sinigrin	C=CC/C(=N/OS(=O)(=O)[O-])/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O.[K+]
 Amidol	Oc1ccc(N)cc1N
 Dyclonine	O=C(c1ccc(OCCCC)cc1)CCN2CCCCC2
 Calcium hypochlorite	Cl[O-].[Ca+2].Cl[O-]
@@ -12878,7 +12878,7 @@ ATL-444	C#CCN1C=NC2=C1N=C(C#C[C@@]3(CCC[C@H](C3)C)O)N=C2N
 Methylmercuric dicyanamide	C[Hg]N=C(N)NC#N
 Metolcarb	O=C(Oc1cc(ccc1)C)NC
 Olcegepant	C1CN(CCC1N2CC3=CC=CC=C3NC2=O)C(=O)N[C@H](CC4=CC(=C(C(=C4)Br)O)Br)C(=O)N[C@@H](CCCCN)C(=O)N5CCN(CC5)C6=CC=NC=C6
-Malvidin glucoside-ethyl-catechin	OC1=C(OC)C=C(C2=[O+]C3=C(C(O)=CC(O)=C3C=C2O[C@H]4O[C@H]([C@@H]([C@H]([C@@H]4O)O)O)CO)C(C5=C6OC(C7=CC(O)=C(C=C7)O)C(CC6=C(C=C5O)O)O)C)C=C1OC
+Malvidin glucoside-ethyl-catechin	CC(c1c2[o+]c(c(cc2c(O)cc1O)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)-c1cc(OC)c(O)c(c1)OC)c1c2OC(C(O)Cc2c(O)cc1O)c1cc(O)c(O)cc1
 Tetrakis(pyridine)silver(II) peroxydisulfate	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Ag]
 Zofenoprilat	C[C@H](CS)C(=O)N1C[C@H](C[C@H]1C(O)=O)SC1=CC=CC=C1
 Rhenium(VII) sulfide	S=[Re](=S)(=S)S[Re](=S)(=S)=S
@@ -13749,6 +13749,7 @@ Borane	B
 Agosterol A	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(C[C@H]([C@H]3C2=C[C@@H]([C@@H]4[C@@]3(CC[C@@H]([C@@H]4OC(=O)C)OC(=O)C)C)OC(=O)C)O)C)[C@@H](CCC(C)C)O
 Fucosterol	C/C=C(\CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)/C(C)C
 Phaeochromycin A	CCCc1cc(c2c(c1c3cc(cc(=O)o3)O)cccc2O)O
+Vulgamycin	COC1=CC(=O)OC(=C1)[C@@H]2[C@@]3(C[C@@H]4C([C@]2([C@@H]([C@]3(C(=O)O4)O)C(=O)C5=CC=CC=C5)O)O)O
 Borinic acid	BO
 Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
@@ -15100,7 +15101,7 @@ Trimethyldiborane	C[B]1(C)[H][BH](C)[H]1
 Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
 Methyldiborane	C[BH]1[H][BH2][H]1
 Epipregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@@H](C4)O)C)C
-20α-Dihydroprogesterone	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@H](CC[C@H]3[C@@H]1CC2)[C@H](O)C)C)(C)CC4
+20α-Dihydroprogesterone	C[C@@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
 5β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCC(=O)C4)C)C
 Sacituzumab govitecan	CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)OC(=O)OCC5=CC=C(C=C5)NC(=O)C(CCCCN)NC(=O)COCC(=O)NCCOCCOCCOCCOCCOCCOCCOCCOCCN6C=C(N=N6)CNC(=O)C7CCC(CC7)CN8C(=O)CC(C8=O)SCC(C(=O)O)N)C2=NC9=C1C=C(C=C9)O
 Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
@@ -18232,3 +18233,5 @@ Gougerotin	CNCC(=O)NC(CO)C(=O)NC1C(C(C(OC1C(=O)N)N2C=CC(=NC2=O)N)O)O
 Lanthanum(III) nitrate	[N+](=O)(O)[O-].[N+](=O)(O)[O-].[N+](=O)(O)[O-].[La+3]
 Citreoviridin	C[C@@H]1[C@]([C@H]([C@](O1)(C)/C=C(\C)/C=C/C=C/C=C/C2=C(C(=CC(=O)O2)OC)C)O)(C)O
 1-Hexyne	CCCCC#C
+Globo H	CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O[C@H]3O[C@H](CO)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O[C@@H]5O[C@H](CO)[C@H](O)[C@H](O)[C@H]5O[C@@H]5O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]5O)[C@H]4NC(C)=O)[C@H]3O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O)NC(CCCCCCCCCCCCCCC)=O
+Fosdenopterin	NC1=NC(=O)C2=C(N[C@@H]3O[C@@H]4COP(=O)(O)O[C@@H]4C(O)(O)[C@@H]3N2)N1
