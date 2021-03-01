@@ -4760,7 +4760,7 @@ Bis(trimethylsilyl)mercury	C[Si](C)(C)[Hg][Si](C)(C)C
 Bis(trimethylsilyl)amine	C[Si](C)(C)N[Si](C)(C)C
 Hexamethyldisilane	C[Si](C)(C)[Si](C)(C)C
 Diisopropylamine	CC(C)NC(C)C
-Carmustine	ClCCNC(=O)N(CCCl)N=O
+Carmustine	C(CCl)NC(=O)N(CCCl)N=O
 Fotemustine	O=P(OCC)(OCC)C(NC(=O)N(N=O)CCCl)C
 Pipobroman	O=C(N1CCN(C(=O)CCBr)CC1)CCBr
 Raltitrexed	O=C(c3sc(N(C)Cc2cc1C(=O)\N=C(/Nc1cc2)C)cc3)N[C@H](C(=O)O)CCC(=O)O
@@ -16284,6 +16284,7 @@ Estradiol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OS(=O
 Estrone sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
 10β,17β-Dihydroxyestra-1,4-dien-3-one	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)C=C[C@]34O
 Hibarimicinone	CCC[C@@]1([C@H]([C@@H]([C@H]([C@@H]2[C@]1(C(=O)c3c(cc4c(c3O)c(c(c(c4OC)OC)C5=C(C(=O)c6c(c(c7c(c6O)[C@H]8[C@@H]9[C@@H]([C@H]([C@@H](C([C@@]9(C7=O)O)(O8)CCC)O)O)O)O)C5=O)OC)O)C2)O)O)O)O)O
+Methyl 2-bromoacetate	COC(=O)CBr
 Isoserine	C(C(C(=O)O)O)N
 N-Propylbenzene	CCCC1=CC=CC=C1
 Methyl perchlorate	COCl(=O)(=O)=O
@@ -18234,4 +18235,8 @@ Lanthanum(III) nitrate	[N+](=O)(O)[O-].[N+](=O)(O)[O-].[N+](=O)(O)[O-].[La+3]
 Citreoviridin	C[C@@H]1[C@]([C@H]([C@](O1)(C)/C=C(\C)/C=C/C=C/C=C/C2=C(C(=CC(=O)O2)OC)C)O)(C)O
 1-Hexyne	CCCCC#C
 Globo H	CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O[C@H]3O[C@H](CO)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O[C@@H]5O[C@H](CO)[C@H](O)[C@H](O)[C@H]5O[C@@H]5O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]5O)[C@H]4NC(C)=O)[C@H]3O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O)NC(CCCCCCCCCCCCCCC)=O
+Tris(acetylacetonato)titanium(III)	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Ti+3]
 Fosdenopterin	NC1=NC(=O)C2=C(N[C@@H]3O[C@@H]4COP(=O)(O)O[C@@H]4C(O)(O)[C@@H]3N2)N1
+2-Hexyne	CCCC#CC
+4-Pyrrolidinylpyridine	C1CCN(C1)C2=CC=NC=C2
+Fluazifop	C[C@H](C(=O)O)Oc1ccc(cc1)Oc2ccc(cn2)C(F)(F)F
