@@ -7,7 +7,7 @@ var config = require('./config.json');
 var fs = require('fs');
 
 var main = fs.readFileSync('../site/src/main.js', 'utf-8');
-var mainCDN = main.replace("baseUrl: 'lib/visualizer'", "baseUrl: 'http://www.lactame.com/visualizer/" + config.visualizer.cdn + "'");
+var mainCDN = main.replace("baseUrl: 'lib/visualizer'", "baseUrl: 'https://www.lactame.com/visualizer/" + config.visualizer.cdn + "'");
 fs.writeFileSync('../site/src/mainCDN.js', mainCDN);
 
 var index = fs.readFileSync('../site/index.html', 'utf-8');
