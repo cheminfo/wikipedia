@@ -547,7 +547,7 @@ Isoflurane	FC(F)(F)C(Cl)OC(F)F
 Sevoflurane	FC(F)(F)C(OCF)C(F)(F)F
 Carbamoyl phosphate	C(=O)(N)OP(=O)(O)O
 Creatine	CN(CC(=O)O)C(=N)N
-Kepone	ClC54C(=O)C1(Cl)C2(Cl)C5(Cl)C3(Cl)C4(Cl)C1(Cl)C2(Cl)C3(Cl)Cl
+Chlordecone	ClC54C(=O)C1(Cl)C2(Cl)C5(Cl)C3(Cl)C4(Cl)C1(Cl)C2(Cl)C3(Cl)Cl
 Anastrozole	N#CC(C)(C)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N
 Dexamethasone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]1(C(=CC(=O)C=C1)CC[C@H]4[C@@H]2C[C@H]3C)C)C
 Mesitylene	Cc1cc(cc(c1)C)C
@@ -1068,6 +1068,7 @@ Ezetimibe	Fc1ccc(cc1)[C@@H](O)CC[C@H]4C(=O)N(c2ccc(F)cc2)[C@@H]4c3ccc(O)cc3
 Inositol	[C@@H]1([C@@H]([C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O)O)O
 Deoxycholic acid	C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Dexmethylphenidate	O=C([C@@H]([C@@H]1NCCCC1)C2=CC=CC=C2)OC
+Dexmethylphenidate	Cl.[H][C@@](C(=O)OC)(C1=CC=CC=C1)[C@@]1([H])CCCCN1
 Acetamide	O=C(N)C
 Benzyl alcohol	c1ccc(cc1)CO
 Ritonavir	CC(C)c4nc(CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc1ccccc1)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)cs4
@@ -18244,3 +18245,5 @@ Neopentylamine	CC(C)(C)CN
 Toreforant	CC1=CC(=C2C(=C1)NC(=N2)C3=CN=C(N=C3C)NCCCC4CCN(CC4)C)C
 Clethodim	CC/C(=N\OC/C=C/Cl)/C1=C(CC(CC1=O)CC(C)SCC)O
 Praseodymium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pr+3]
+Tetrabutylammonium chloride	CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
+Danavorexton	COC(=O)N1CCCC(C1COC2CCC(CC2)C3=CC=CC=C3)NS(=O)(=O)C
