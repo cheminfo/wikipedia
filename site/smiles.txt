@@ -18142,7 +18142,7 @@ CU-CPT9a	CC1=C(C=CC(=C1)C2=C3C=CC(=CC3=NC=C2)OC)O
 Nufenoxole	CC1=NN=C(O1)C(CCN2CC3CCC2CC3)(C4=CC=CC=C4)C5=CC=CC=C5
 Lithium bicarbonate	[Li+].C(=O)(O)[O-]
 Archaeosine	C1=C(C2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N)C(=N)N
-BU72	C[C@@]12C[C@@]34C=C[C@@]1([C@H]([C@@]35CCN([C@@H]4CC6=C5C=C(C=C6)O)C)N[C@H]2C7=CC=CC=C7)OC
+BU72	CO[C@]12C=C[C@]34C[C@@]1(C)[C@H](N[C@H]2[C@@]35CCN(C)[C@@H]4Cc6ccc(O)cc56)c7ccccc7
 SR-16435	C1CC2CCCC(C1)C2N3CCC(CC3)N4C(=O)CC5=CC=CC=C54
 SR-17018	C1CN(CCC1N2C3=CC(=C(C=C3NC2=O)Cl)Cl)CC4=CC=C(C=C4)Cl
 BU08028	CCC(C)(C)[C@](C)([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
@@ -18179,7 +18179,6 @@ SM-102	CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO
 Hydrogenated MDI	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
 Neodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Nd+3].[Nd+3]
 Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
-Technetium(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Tc+4]
 Americium(II) chloride	Cl[Am]Cl
 Potassium perbromate	[O-]Br(=O)(=O)=O.[K+]
 Sodium perbromate	[O-]Br(=O)(=O)=O.[Na+]
@@ -18247,3 +18246,4 @@ Clethodim	CC/C(=N\OC/C=C/Cl)/C1=C(CC(CC1=O)CC(C)SCC)O
 Praseodymium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pr+3]
 Tetrabutylammonium chloride	CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
 Danavorexton	COC(=O)N1CCCC(C1COC2CCC(CC2)C3=CC=CC=C3)NS(=O)(=O)C
+Adagrasib	CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F
