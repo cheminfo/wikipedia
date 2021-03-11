@@ -18226,7 +18226,7 @@ Nitryl chloride	[NH+](=O)[O-].[Cl-]
 4-ANPP	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
 Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
 Ammonium propionate	CCC(=O)[O-].[NH4+]
-Alpha-Hydropxyetizolam	CC1=NN=C2N1C3=C(C=C(S3)C(C)O)C(=NC2)C4=CC=CC=C4Cl
+Alpha-Hydroxyetizolam	CC1=NN=C2N1C3=C(C=C(S3)C(C)O)C(=NC2)C4=CC=CC=C4Cl
 Xenon oxydifluoride	O=[Xe](F)F
 Gougerotin	CNCC(=O)NC(CO)C(=O)NC1C(C(C(OC1C(=O)N)N2C=CC(=NC2=O)N)O)O
 1,6-Dichloro-1,6-dideoxyfructose	C([C@H]([C@H]([C@@H](C(=O)CCl)O)O)O)Cl
@@ -18248,3 +18248,6 @@ Tetrabutylammonium chloride	CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
 Danavorexton	COC(=O)N1CCCC(C1COC2CCC(CC2)C3=CC=CC=C3)NS(=O)(=O)C
 Adagrasib	CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F
 1-Hydroxy-2,2,6,6-tetramethylpiperidine	CC1(CCCC(N1O)(C)C)C
+Isopropyl salicylate	CC(C)OC(=O)C1=CC=CC=C1O
+RTIOX-276	O=C(NCC1=CC=CN=C1)CN2C(CC3=CC(OC)=C(OC)C=C3)C4=CC(OCC(F)(F)F)=C(OC)C=C4CC2
+ACT-335827	COC1=CC(C[C@@H](C2=C3)N(CCC2=CC(OC)=C3OC)[C@@H](C(NC(C)C)=O)C4=CC=CC=C4)=CC=C1OC
