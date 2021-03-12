@@ -12795,6 +12795,7 @@ Undecanal	O=CCCCCCCCCCC
 Dodecanal	O=CCCCCCCCCCCC
 Phosphoryl bromide	O=P(Br)(Br)Br
 Trimethylsilane	C[SiH](C)C
+Methylammonium chloride	C[NH3+].[Cl-]
 Formetanate	O=C(Oc1cccc(\N=C\N(C)C)c1)NC
 Fluenetil	O=C(OCCF)Cc1ccc(cc1)c2ccccc2
 Formothion	O=C(N(C=O)C)CSP(=S)(OC)OC
@@ -14544,8 +14545,9 @@ INH1	CC1=CC(=C(C=C1)C2=CSC(=N2)NC(=O)C3=CC=CC=C3)C
 Cashmeran	CC1C(C2=C(C1(C)C)C(=O)CCC2)(C)C
 Homocitrulline	C(CCNC(=O)N)C[C@@H](C(=O)O)N
 TAPI-1	O=C(NCCN)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](CC(=O)NO)CC(C)C)Cc2ccc1c(cccc1)c2)C
-Methylammonium halide	C[NH3+].[Br-]
 Homolycorine	COc1cc2[C@@H]3[C@@H](CC=C4CCN(C)[C@@H]34)OC(=O)c2cc1OC
+Methylammonium bromide	C[NH3+].[Br-]
+Methylammonium iodide	C[NH3+].[I-]
 5-Hydroxy-2(5H)-furanone	C1=CC(=O)OC1O
 Flutemetamol (18F)	CNC1=C(C=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O)[18F]
 1,2-Dithiole	C1C=CSS1
@@ -18247,6 +18249,7 @@ Tetrabutylammonium chloride	CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
 2-Vinyl-4,6-diamino-1,3,5-triazine	C=CC1=NC(=NC(=N1)N)N
 Danavorexton	COC(=O)N1CCCC(C1COC2CCC(CC2)C3=CC=CC=C3)NS(=O)(=O)C
 Adagrasib	CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F
+1-Heptadecanol	CCCCCCCCCCCCCCCCCO
 1-Hydroxy-2,2,6,6-tetramethylpiperidine	CC1(CCCC(N1O)(C)C)C
 Isopropyl salicylate	CC(C)OC(=O)C1=CC=CC=C1O
 RTIOX-276	O=C(NCC1=CC=CN=C1)CN2C(CC3=CC(OC)=C(OC)C=C3)C4=CC(OCC(F)(F)F)=C(OC)C=C4CC2
