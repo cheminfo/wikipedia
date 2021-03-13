@@ -1232,7 +1232,7 @@ Brucine	O=C7N2c1cc(OC)c(OC)cc1[C@@]64[C@@H]2[C@@H]3[C@@H](OC/C=C5\[C@@H]3C[C@@H]
 Bismanol	[Mn].[Bi]
 Potassium sulfate	[K+].[K+].[O-]S([O-])(=O)=O
 Hyperforin	CC(C)C(=O)[C@@]21C(=O)[C@@](C[C@H](C\C=C(/C)C)[C@@]1(C)CC\C=C(/C)C)(C\C=C(/C)C)C(=O)C(\C\C=C(/C)C)=C2\O
-Triacontanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+1-Triacontanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Cyclohexa-1,3-diene	C\1=C\C=C/CC/1
 Catechin	Oc1ccc(cc1O)[C@H]3Oc2cc(O)cc(O)c2C[C@@H]3O
 Dextropropoxyphene	CCC(=O)O[C@](Cc1ccccc1)(c2ccccc2)[C@H](C)CN(C)C
@@ -6863,7 +6863,7 @@ Hydroxynaphthol blue	O=S(C(C=C4)=CC1=C4C(/N=N/C2=C3C(C=CC=C3)=C(S(=O)(O[Na])=O)C
 Glucal	C1=CO[C@@H]([C@H]([C@@H]1O)O)CO
 Tetrachloroaluminate	Cl[Al-](Cl)(Cl)Cl
 Anthrapurpurin	C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=CC(=C3O)O
-Docosanol	CCCCCCCCCCCCCCCCCCCCCCO
+1-Docosanol	CCCCCCCCCCCCCCCCCCCCCCO
 Anacetrapib	O=C2O[C@H](c1cc(cc(c1)C(F)(F)F)C(F)(F)F)[C@@H](N2Cc4c(c3cc(c(F)cc3OC)C(C)C)ccc(c4)C(F)(F)F)C
 Olympiadane	c1cc2c3cccc2OCCOCCOCCOCCOc4cccc5c4cccc5OCCOCCOCCOCCOc6cccc7c6cccc7OCCOCCOCCOCCOc3c1.c1cc2c3cccc2OCCOCCOCCOCCOc4cccc5c4cccc5OCCOCCOCCOCCOc6cccc7c6cccc7OCCOCCOCCOCCOc3c1.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F
 Valnemulin	O=C(NCC(SCC(=O)O[C@@H]2C[C@@](\C=C)([C@@H](O)[C@@H]([C@]31[C@@H](C(=O)CC1)[C@@]2(C)[C@H](C)CC3)C)C)(C)C)[C@H](N)C(C)C
@@ -18244,6 +18244,7 @@ Fluazifop	C[C@H](C(=O)O)Oc1ccc(cc1)Oc2ccc(cn2)C(F)(F)F
 Neopentylamine	CC(C)(C)CN
 Toreforant	CC1=CC(=C2C(=C1)NC(=N2)C3=CN=C(N=C3C)NCCCC4CCN(CC4)C)C
 Clethodim	CC/C(=N\OC/C=C/Cl)/C1=C(CC(CC1=O)CC(C)SCC)O
+Pyraclostrobin	COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC
 Praseodymium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pr+3]
 Tetrabutylammonium chloride	CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
 2-Vinyl-4,6-diamino-1,3,5-triazine	C=CC1=NC(=NC(=N1)N)N
@@ -18251,6 +18252,10 @@ Danavorexton	COC(=O)N1CCCC(C1COC2CCC(CC2)C3=CC=CC=C3)NS(=O)(=O)C
 Adagrasib	CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F
 1-Heptadecanol	CCCCCCCCCCCCCCCCCO
 1-Hydroxy-2,2,6,6-tetramethylpiperidine	CC1(CCCC(N1O)(C)C)C
+Broflanilide	CN(C1=CC=CC(=C1F)C(=O)NC2=C(C=C(C=C2Br)C(C(F)(F)F)(C(F)(F)F)F)C(F)(F)F)C(=O)C3=CC=CC=C3
 Isopropyl salicylate	CC(C)OC(=O)C1=CC=CC=C1O
 RTIOX-276	O=C(NCC1=CC=CN=C1)CN2C(CC3=CC(OC)=C(OC)C=C3)C4=CC(OCC(F)(F)F)=C(OC)C=C4CC2
 ACT-335827	COC1=CC(C[C@@H](C2=C3)N(CCC2=CC(OC)=C3OC)[C@@H](C(NC(C)C)=O)C4=CC=CC=C4)=CC=C1OC
+Methyl isonicotinate	COC(=O)C1=CC=NC=C1
+1-Nonadecanol	CCCCCCCCCCCCCCCCCCCO
+Rhodium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Rh+3]
