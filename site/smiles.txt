@@ -16144,6 +16144,7 @@ Motolimod	CCCN(CCC)C(=O)C1=CC2=C(C=C(C=C2)C3=CC=C(C=C3)C(=O)N4CCCC4)N=C(C1)N
 Lithium platinate	[Li+].O=[Pt]([O-])[O-].[Li+]
 Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
 Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
+Niobium diselenide	[Se]=[Nb]=[Se]
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
 Manganese(II) hydroxide	[OH-].[OH-].[Mn+2]
@@ -18264,3 +18265,6 @@ Terrein	C/C=C/C1=CC(=O)[C@@H]([C@H]1O)O
 Indaziflam	C[C@H]1CC2=C([C@@H]1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
 7-Hydroxycannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)CO)O
 Ammonium selenide	[NH4+].[NH4+].[Se-2]
+Lenacapavir	CC(C)(C#CC1=NC(=C(C=C1)C2=C3C(=C(C=C2)Cl)C(=NN3CC(F)F)NS(=O)(=O)C4CC4)[C@@H](CC5=CC(=CC(=C5)F)F)NC(=O)CN6C7=C([C@@H]8C[C@@H]8C7(F)F)C(=N6)C(F)F)S(=O)(=O)C
+Delta-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
+Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
