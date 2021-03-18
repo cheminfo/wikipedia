@@ -9961,7 +9961,7 @@ Ethyl dirazepate	CCOC(=O)C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3Cl
 Ciclotizolam	Clc5ccccc5C/2=N/Cc1nnc(n1c3sc(Br)cc\23)C4CCCCC4
 Zomebazam	O=C1N(c2c(N(C(=O)C1)C)n(nc2C)C)c3ccccc3
 Galnon	Cc3cc(=O)oc6cc(ccc36)NC(=O)C(CCCCN)NC(=O)C(CC5CCCCC5)NC(=O)OCC1c2ccccc2-c4c1cccc4
-Ethyldienolone	CC14CCC2=C3CCC(=O)C=C3CCC2C4CCC1(O)CC
+Ethyldienolone	CC[C@@]1(CC[C@@H]2[C@@H]1CCC3=C4CCC(=O)C=C4CC[C@@H]23)O
 Androisoxazole	O[C@@]5(C)CC[C@H]4[C@H]3[C@@H]([C@]2(Cc1c(noc1)C[C@@H]2CC3)C)CC[C@@]45C
 Dexanabinol	Oc2cc(cc1OC([C@H]3C/C=C(\C[C@@H]3c12)CO)(C)C)C(C)(C)CCCCCC
 Vitexin	O=C2\C=C(/Oc1c(c(O)cc(O)c12)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO)c4ccc(O)cc4
@@ -14601,6 +14601,7 @@ Fluxapyroxad	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
 Pigment Red 149	Cc1cc(cc(c1)N2C(=O)c3ccc4c5ccc6c7c5c(ccc7C(=O)N(C6=O)c8cc(cc(c8)C)C)c9c4c3c(cc9)C2=O)C
 Pigment Red 178	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N3C(=O)C4=C5C(=CC=C6C5=C(C=C4)C7=C8C6=CC=C9C8=C(C=C7)C(=O)N(C9=O)C1=CC=C(C=C1)N=NC1=CC=CC=C1)C3=O
 Pigment Red 179	CN1C(=O)c2ccc3c4ccc5c6c4c(ccc6C(=O)N(C5=O)C)c7c3c2c(cc7)C1=O
+TGBA01AD	OCC1OC(C(O)C1O)C2(O)NC=CC(=O)N2
 N-Succinimidyl 4-fluorobenzoate	FC1=CC=C(C(ON2C(CCC2=O)=O)=O)C=C1
 N-Succinimidyl 4-fluorobenzoate	C1CC(=O)N(C1=O)OC(=O)C2=CC=C(C=C2)[18F]
 Pentethylcyclanone	C1CC=C(C1)C2(CCCC2=O)CCN3CCOCC3
@@ -18268,3 +18269,8 @@ Ammonium selenide	[NH4+].[NH4+].[Se-2]
 Lenacapavir	CC(C)(C#CC1=NC(=C(C=C1)C2=C3C(=C(C=C2)Cl)C(=NN3CC(F)F)NS(=O)(=O)C4CC4)[C@@H](CC5=CC(=CC(=C5)F)F)NC(=O)CN6C7=C([C@@H]8C[C@@H]8C7(F)F)C(=N6)C(F)F)S(=O)(=O)C
 Delta-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
+Tetraethylammonium tetrachloroferrate	CC[N+](CC)(CC)CC.[Cl-].Cl[Fe](Cl)Cl
+Tetraethylammonium tetrachloronickelate	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Ni]([Cl-])([Cl-])Cl
+Delta-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
+Delta-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
+2-Methyloctane	CCCCCCCCC
