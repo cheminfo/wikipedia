@@ -2070,6 +2070,7 @@ Arsenic trioxide	O1[As]3O[As]2O[As](O3)O[As]1O2
 Antimony trioxide	O=[Sb]O[Sb]=O
 Brefeldin A	O=C/1O[C@H](CCC/C=C/[C@H]2[C@H]([C@H](O)/C=C\1)C[C@@H](O)C2)C
 Tröger's base	c1(ccc3c(c1)CN4c2ccc(cc2CN3C4)C)C
+Calamine	[O-2].[O-2].[O-2].[O-2].[Fe+3].[Fe+3].[Zn+2]
 Dimethyl sulfate	COS(=O)(=O)OC
 Dimethyl sulfite	O=S(OC)OC
 Carbonyl sulfide	O=C=S
@@ -5063,7 +5064,8 @@ Argon fluorohydride	F[ArH]
 Capromorelin	CC(C)(C(=O)N[C@H](COCC1=CC=CC=C1)C(=O)N2CCC3=NN(C(=O)[C@@]3(C2)CC4=CC=CC=C4)C)N
 Hyponitrous acid	ON=NO
 Calicheamicin	CCN[C@H]1CO[C@H](C[C@@H]1OC)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O[C@H]3C#C/C=C\C#C[C@]\4(CC(=O)C(=C3/C4=C\CSSSC)NC(=O)OC)O)C)NO[C@H]5C[C@@H]([C@@H]([C@H](O5)C)SC(=O)c6c(c(c(c(c6OC)OC)O[C@H]7[C@@H]([C@@H]([C@H]([C@@H](O7)C)O)OC)O)I)C)O)O
-Exo-Norborneol	C1CC2CC1CC2O
+Exo-Norborneol	O[C@@H]1C[C@@H]2C[C@H]1CC2
+Exo-Norborneol	O[C@H]1C[C@H]2C[C@@H]1CC2
 Endo-Norborneol	O[C@@H]1C[C@H]2CC[C@@H]1C2
 Endo-Norborneol	O[C@H]1C[C@@H]2CC[C@H]1C2
 Cyclopropatriene	C=1=C=C=1
@@ -6671,6 +6673,7 @@ Phenomorphan	Oc3ccc4C[C@H]1N(CC[C@@]2(CCCC[C@@H]12)c4c3)CCc5ccccc5
 Anethole trithione	S=C\2SS/C(c1ccc(OC)cc1)=C/2
 Nonivamide	CCCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
 Ritiometan	O=C(O)CSC(SCC(=O)O)SCC(=O)O
+Calcium hexamine thiocyanate	C1N2CN3CN1CN(C2)C3.C(#N)[S-].C(#N)[S-].[Ca+2]
 Antazoline	N\1=C(\NCC/1)CN(c2ccccc2)Cc3ccccc3
 Tymazoline	Cc1ccc(c2c1cccc2OCC3=NCCN3)C(C)C
 Fenoxazoline	CC(C)C1=CC=CC=C1OCC2=NCCN2
@@ -7224,6 +7227,7 @@ Miotine	CC(C1=CC(=CC=C1)OC(=O)NC)N(C)C
 Alpha-GPC	[O-]P(=O)(OC[C@H](O)CO)OCC[N+](C)(C)C
 Anacardic acids	C=CCC=CCC=CCCCCCCCC1=C(C(=CC=C1)O)C(=O)O
 Altanserin	Fc1ccc(cc1)C(=O)C4CCN(CCN3C(=O)c2ccccc2NC3=S)CC4
+2-Propanoyl-3-(4-isopropylphenyl)-tropane	CCC(=O)C1C2N(C)C(CC2)CC1c3ccc(C(C)C)cc3
 2β-Propanoyl-3β-(2-naphthyl)-tropane	CCC(=O)[C@H]1[C@H]2CC[C@@H](C[C@@H]1c3ccc4ccccc4c3)N2C
 Dioxirane	C1OO1
 Dimethocaine	NC1=CC=C(C(OCC(C)(C)CN(CC)CC)=O)C=C1
@@ -17815,7 +17819,7 @@ Peroxymonophosphoric acid	OOP(=O)(O)O
 Ginsenoside Rb1	CC(=CCC[C@@](C)([C@H]1CC[C@@]2([C@@H]1[C@@H](C[C@H]3[C@]2(CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)C)O)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O)C
 Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
 Iodine tribromide	BrI(Br)Br
-1-Trifluoromethyl-1,2-benziodoxol-3(1H)-one	C1=CC=C2C(=C1)C(=O)OI2C(F)(F)F
+Togni reagent II	C1=CC=C2C(=C1)C(=O)OI2C(F)(F)F
 Cyclobutanol	OC1CCC1
 Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
 Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
@@ -18274,3 +18278,4 @@ Tetraethylammonium tetrachloronickelate	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Ni]
 Delta-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
 Delta-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
 2-Methyloctane	CCCCCCCCC
+Aszonalenin	CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25
