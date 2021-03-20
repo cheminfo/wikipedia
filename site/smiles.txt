@@ -1091,6 +1091,7 @@ Psilocin	CN(C)CCc1c[nH]c2cccc(O)c12
 Thiamine pyrophosphate	Cc2ncc(C[n+]1csc(CCOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
+Sodium amide	[Na]N
 Sodium amide	[NH2-].[Na+]
 Tetraethylammonium	CC[N+](CC)(CC)CC
 Bicuculline	O=C1O[C@H](c3c1c2OCOc2cc3)[C@@H]5c4cc6OCOc6cc4CCN5C
@@ -6353,7 +6354,9 @@ Hexafluronium bromide	[Br-].[Br-].c1cccc3c1c2c(cccc2)C3[N+](CCCCCC[N+](C6c4ccccc
 Fazadinium bromide	Cc1c(n(c2[n+]1cccc2)N=Nn3c4cccc[n+]4c(c3c5ccccc5)C)c6ccccc6.[Br-].[Br-]
 Dimethyltubocurarinium chloride	C[N+]1(CCc2cc(c3cc2[C@@H]1Cc4ccc(cc4)Oc5c6c(cc(c5OC)OC)CC[N+]([C@@H]6Cc7ccc(c(c7)O3)OC)(C)C)OC)C.[Cl-].[Cl-]
 Nalorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(O)ccc3C4)C\C=C
+Sodium nitride	[Na]N([Na])[Na]
 Sodium nitride	[Na+].[Na+].[Na+].[N-3]
+Sodium nitride	[Na+].[Na][N-][Na]
 BOP reagent	F[P-](F)(F)(F)(F)F.n1nn(O[P+](N(C)C)(N(C)C)N(C)C)c2ccccc12
 Naratriptan	O=S(=O)(NC)CCc3ccc1c(c(c[nH]1)C2CCN(C)CC2)c3
 Sodium zincate	[OH-].[OH-].[OH-].[OH-].[Na+].[Na+].[Zn+2]
@@ -14879,6 +14882,7 @@ Dictyophorine	[H][C@]12C(C)=CC(=O)C[C@@]1(C)CC[C@H](C(C)C)C2=O
 Platinum tetrafluoride	F[Pt](F)(F)F
 Platinum pentafluoride	F[Pt](F)(F)(F)F
 Platinum pentafluoride	F[Pt-]1(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-]([F+]1)(F)(F)(F)F
+Ruthenium pentafluoride	F[Ru](F)(F)(F)F
 Ruthenium pentafluoride	[F-].[F-].[F-].[F-].[F-].[Ru+5]
 Ammonium hexachloroiridate(IV)	[NH4+].[NH4+].Cl[Ir-2](Cl)(Cl)(Cl)(Cl)Cl
 Helium trimer	[He].[He].[He]
@@ -16556,6 +16560,7 @@ Ivosidenib	C1CC(=O)N(C1C(=O)N(C2=CC(=CN=C2)F)C(C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)
 Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
 Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
 Rhodium(III) sulfide	S=[Rh]S[Rh]=S
+Iridium(III) sulfide	S=[Ir]S[Ir]=S
 Platinum(II) sulfide	S=[Pt]
 Platinum disulfide	S=[Pt]=S
 Dithiobenzoic acid	C1=CC=C(C=C1)C(=S)S
@@ -18189,6 +18194,7 @@ Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
 Americium(II) chloride	Cl[Am]Cl
 Potassium perbromate	[O-]Br(=O)(=O)=O.[K+]
 Sodium perbromate	[O-]Br(=O)(=O)=O.[Na+]
+Ammonium tetrafluoroborate	[B-](F)(F)(F)F.[NH4+]
 Bruceanol A	CC1=CC(=O)C(C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C6=CC=CC=C6)(OC5)C(=O)OC)O)O)C)O
 Bruceanol B	CC1=CC(=O)C(C2(C1CC3C45C2C(C(C(C4C(C(=O)O3)OC(=O)C6=CC=CC=C6)(OC5)C(=O)OC)O)O)C)O
 Bruceanol C	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3C45[C@@H]2[C@H]([C@@H]([C@@]([C@@H]4[C@H](C(=O)O3)C(=O)C(=O)/C=C(\C)/C(C)(C)OC(=O)C)(OC5)C(=O)OC)O)O)C)O
@@ -18279,3 +18285,5 @@ Delta-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
 Delta-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
 2-Methyloctane	CCCCCCCCC
 Aszonalenin	CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25
+Delta-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
+Butafenacil	CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
