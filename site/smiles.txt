@@ -843,7 +843,7 @@ Hydroiodic acid	I
 Potassium cyanide	[K+].[C-]#N
 Carnosine	c1c(nc[nH]1)C[C@@H](C(=O)O)NC(=O)CCN
 Carnosine	O=C(O)C(NC(=O)CCN)Cc1c[nH]cn1
-Sodium hexametaphosphate	[O-]P1(=O)OP(=O)([O-])OP(=O)([O-])OP(=O)(OP(=O)(OP(=O)(O1)[O-])[O-])[O-].O=C(OC(C)(C)C)NC(=O)OC(C)(C)C.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
+Sodium hexametaphosphate	[O-]P1(=O)OP(=O)([O-])OP(=O)([O-])OP(=O)(OP(=O)(OP(=O)(O1)[O-])[O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Dofetilide	O=S(=O)(Nc1ccc(cc1)CCN(CCOc2ccc(cc2)NS(=O)(=O)C)C)C
 Prednisolone	O=C\1\C=C/[C@]4(/C(=C/1)CC[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C
 Atorvastatin	O=C(O)C[C@H](O)C[C@H](O)CCn2c(c(c(c2c1ccc(F)cc1)c3ccccc3)C(=O)Nc4ccccc4)C(C)C
@@ -2010,6 +2010,9 @@ UBP-302	c1ccc(c(c1)Cn2c(=O)ccn(c2=O)C[C@@H](C(=O)O)N)C(=O)O
 Ceftazidime	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=NOC(C(=O)O)(C)C)c3nc(sc3)N)C[n+]4ccccc4)C([O-])=O
 Vinclozolin	O=C2OC(C(=O)N2c1cc(Cl)cc(Cl)c1)(C=C)C
 P-Xylene	CC1=CC=C(C)C=C1
+Calcium nitride	[Ca]=N[Ca]N=[Ca]
+Calcium nitride	[Ca+2].[Ca+2].[Ca+2].[N-3].[N-3]
+Calcium nitride	[Ca]=[N-].[Ca+2].[N-]=[Ca]
 Dimethylsulfoniopropionate	C[S+](C)CCC(=O)[O-]
 Caesium iodide	[Cs+].[I-]
 Bryostatin	CCC/C=C/C=C/C(=O)O[C@H]1/C(=C/C(=O)OC)/C[C@H]2C[C@@H](OC(=O)[C@@H](CC[C@@H]3C[C@@H](C([C@@](O3)(C[C@@H]4C/C(=C/C(=O)OC)/C[C@@H](O4)/C=C/C([C@@]1(O2)O)(C)C)O)(C)C)OC(=O)C)O)[C@@H](C)O
@@ -2477,6 +2480,9 @@ Dichlorocarbene	[C](Cl)Cl
 Corannulene	C1=CC2=CC=C3C=CC4=C5C6=C(C2=C35)C1=CC=C6C=C4
 Ticarcillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccsc1)C(=O)O)[C@H]3SC2(C)C
 Zirconium nitride	N#[Zr]
+Beryllium nitride	[Be]=N[Be]N=[Be]
+Beryllium nitride	[Be+2].[Be+2].[Be+2].[N-3].[N-3]
+Beryllium nitride	[Be]=[N-].[Be+2].[N-]=[Be]
 Deferoxamine	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN
 Phenylacetic acid	O=C(O)Cc1ccccc1
 Hetacillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)N3C(=O)[C@H](NC3(C)C)c4ccccc4)C(=O)O)C
@@ -3370,7 +3376,9 @@ Lactucin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)CO
 Lactucopicrin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)COC(=O)Cc4ccc(cc4)O
 Tricarbon	[C]=C=[C]
 Alpidem	CCCN(CCC)C(=O)Cc1n2cc(Cl)ccc2nc1-c3ccc(Cl)cc3
+Magnesium nitride	[Mg]=N[Mg]N=[Mg]
 Magnesium nitride	[Mg+2].[Mg+2].[Mg+2].[N-3].[N-3]
+Magnesium nitride	[Mg]=[N-].[Mg+2].[N-]=[Mg]
 Filipin	CCCCC[C@H](O)[C@H]1C(=O)O[C@H](C)[C@@H](O)\C=C\C=C\C=C\C=C\C=C(/C)[C@@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@@H]1O
 1,2-Dichlorotetrafluoroethane	ClC(F)(F)C(F)(F)Cl
 Porphine	C1=CC2=CC5=CC=C(C=C4C=CC(C=C3C=CC(=CC1=N2)N3)=N4)N5
@@ -11357,6 +11365,7 @@ Bisabolene	CC(CC/1)=CCC1=C(C)/CC/C=C(C)/C
 2-Iodobenzoic acid	O=C(O)c1ccccc1I
 Cadmium hydride	[H-].[H-].[Cd+2]
 Tris(tert-butoxy)silanethiol	CC(C)(C)O[Si](S)(OC(C)(C)C)OC(C)(C)C
+Beryllium azide	[N-]=[N+]=N[Be]N=[N+]=[N-]
 Beryllium azide	[Be+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Isoeugenol	C/C=C/C1=CC(=C(C=C1)O)OC
 Methyl eugenol	COc1cc(ccc1OC)CC=C
@@ -14413,6 +14422,7 @@ Dolichodial	CC1CCC(C1C=O)C(=C)C=O
 Penicilloic acid	CC1(C(NC(S1)C(C(=O)O)NC=O)C(=O)O)C
 Ethylmethylamine	CCNC
 Hamayne	C1[C@H](C=C[C@@]23[C@H]1N(C[C@@H]2O)CC4=CC5=C(C=C34)OCO5)O
+Calcium azide	[N-]=[N+]=N[Ca]N=[N+]=[N-]
 Calcium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ca+2]
 2,4-Diaminotoluene	CC1=C(C=C(C=C1)N)N
 3,4-Methylenedioxypropiophenone	CCC(=O)C1=CC2=C(C=C1)OCO2
@@ -17472,6 +17482,7 @@ Mitragynine	COC1=CC=CC2=C1C3=C([C@@](C[C@H](/C(C(OC)=O)=C\OC)[C@H](CC)C4)([H])N4
 3,5-Dimethylpyrazole	CC1=CC(=NN1)C
 Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 (Pentamethylclopentadienyl)titanium trichloride	CC1=C([C](C(=C1C)C)C)C.Cl[Ti](Cl)Cl
+Zinc azide	[N-]=[N+]=N[Zn]N=[N+]=[N-]
 Zinc azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
 O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
 Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
