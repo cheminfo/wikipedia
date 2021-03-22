@@ -4531,7 +4531,7 @@ Trimetrexate	n3c1c(c(c(cc1)CNc2cc(OC)c(OC)c(OC)c2)C)c(nc3N)N
 Dithiane	C1CCSSC1
 Dithiane	C1CSCSC1
 Dithiane	C1CSCCS1
-Benzoxazines	C1C2=CC=CC=C2OCN1C3=CC=CC=C3
+Polybenzoxazine	C1C2=CC=CC=C2OCN1C3=CC=CC=C3
 Iodosobenzene	c1ccc(cc1)I=O
 Aminoethylethanolamine	OCCNCCN
 Dicyanoacetylene	N#CC#CC#N
@@ -7781,6 +7781,7 @@ Tosufloxacin	NC1CCN(C1)c1nc2n(cc(C(O)=O)c(=O)c2cc1F)-c1ccc(F)cc1F
 Orbifloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)c(F)c(F)c(c3F)N4C[C@H](C)N[C@H](C)C4
 SEGPHOS	C1OC2=C(O1)C(=C(C=C2)P(C3=CC=CC=C3)C4=CC=CC=C4)C5=C(C=CC6=C5OCO6)P(C7=CC=CC=C7)C8=CC=CC=C8
 O-2694	O=C(N1CCOCC1)CCCCC(c3cc2OC([C@@H]4C/C=C(\C[C@H]4c2c(OC(=O)CCCN(C(C)C)C(C)C)c3)C)(C)C)(C)C
+Monohydrogen phosphate	OP(=O)([O-])[O-]
 Difloxacin	Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCN(C)CC4
 LR-5182	CN(C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
 LR-5182	[Cl-].C[NH+](C)C[C@@H]1C2CCC(CC2)[C@@H]1c3ccc(Cl)c(Cl)c3
@@ -11365,7 +11366,6 @@ Bisabolene	CC(CC/1)=CCC1=C(C)/CC/C=C(C)/C
 2-Iodobenzoic acid	O=C(O)c1ccccc1I
 Cadmium hydride	[H-].[H-].[Cd+2]
 Tris(tert-butoxy)silanethiol	CC(C)(C)O[Si](S)(OC(C)(C)C)OC(C)(C)C
-Beryllium azide	[N-]=[N+]=N[Be]N=[N+]=[N-]
 Beryllium azide	[Be+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Isoeugenol	C/C=C/C1=CC(=C(C=C1)O)OC
 Methyl eugenol	COc1cc(ccc1OC)CC=C
@@ -14422,7 +14422,6 @@ Dolichodial	CC1CCC(C1C=O)C(=C)C=O
 Penicilloic acid	CC1(C(NC(S1)C(C(=O)O)NC=O)C(=O)O)C
 Ethylmethylamine	CCNC
 Hamayne	C1[C@H](C=C[C@@]23[C@H]1N(C[C@@H]2O)CC4=CC5=C(C=C34)OCO5)O
-Calcium azide	[N-]=[N+]=N[Ca]N=[N+]=[N-]
 Calcium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ca+2]
 2,4-Diaminotoluene	CC1=C(C=C(C=C1)N)N
 3,4-Methylenedioxypropiophenone	CCC(=O)C1=CC2=C(C=C1)OCO2
@@ -14941,6 +14940,7 @@ Eluxadoline	CC1=CC(=CC(=C1CC(C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)C(C)C3=NC=C(N3)C4=C
 N-2′-Indolylnaltrexamine	c1ccc2c(c1)cc([nH]2)C(=O)N[C@@H]3CC[C@]4([C@H]5Cc6ccc(c7c6[C@]4([C@H]3O7)CCN5CC8CC8)O)O
 Magnesium formate	C(=O)[O-].C(=O)[O-].[Mg+2]
 Benzyl potassium	[K]Cc1ccccc1
+Silver diammine fluoride	F[Ag]([NH3])[NH3]
 Axelopran	C1CCC(CC1)CN(CCN2C3CCC2CC(C3)C4=CC=CC(=C4)C(=O)N)C(=O)C(CO)O
 Cyproconazole	CC(C1CC1)C(Cn2cncn2)(c3ccc(cc3)Cl)O
 Sec-Amyl acetate	CCCC(C)OC(C)=O
@@ -17482,7 +17482,6 @@ Mitragynine	COC1=CC=CC2=C1C3=C([C@@](C[C@H](/C(C(OC)=O)=C\OC)[C@H](CC)C4)([H])N4
 3,5-Dimethylpyrazole	CC1=CC(=NN1)C
 Desnitro-imidacloprid	C1CN(C(=N1)N)CC2=CN=C(C=C2)Cl
 (Pentamethylclopentadienyl)titanium trichloride	CC1=C([C](C(=C1C)C)C)C.Cl[Ti](Cl)Cl
-Zinc azide	[N-]=[N+]=N[Zn]N=[N+]=[N-]
 Zinc azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Zn+2]
 O-4210	CC1=NOC(=C1)[C@H]2[C@H](CC3CCC2S3)C4=CC=C(C=C4)F
 Midaflur	C1(=NC(NC1(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)N
@@ -18237,6 +18236,7 @@ AMG-517	CC(=O)NC1=NC2=C(C=CC=C2S1)OC3=NC=NC(=C3)C4=CC=C(C=C4)C(F)(F)F
 SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
 2-aminoacetanilide	CC(=O)NC1=CC=CC=C1N
 3-Aminoacetanilide	C1(=CC=CC(=C1)N([H])[H])N(C(C)=O)[H]
+Dihydrogen phosphate anion	OP(=O)(O)[O-]
 PF-05105679	C[C@H](C1=CC=C(C=C1)F)N(CC2=CC(=CC=C2)C(=O)O)C(=O)C3=CC4=CC=CC=C4N=C3
 Chromium(II) iodide	[Cr+2].[I-].[I-]
 RQ-00203078	C1=CC(=CC=C1CN(C2=C(C=C(C=N2)C(F)(F)F)Cl)S(=O)(=O)C3=CC=C(C=C3)C(=O)O)OC(F)(F)F
