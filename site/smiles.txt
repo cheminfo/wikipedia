@@ -12608,6 +12608,7 @@ Cofactor F430	CC12CC(=O)NC13CC4C(C(C(=N4)CC5C(C6CCC(=O)C(=C7C(C(C(=CC(=N3)C2CCC(
 5-Methylcytidine	O=C1/N=C(/N)\C(=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)C
 Asunaprevir	O=C(N5[C@H](C(=O)N[C@@]2(C(=O)NS(=O)(=O)C1CC1)[C@H](\C=C)C2)C[C@@H](Oc3ncc(OC)c4c3cc(Cl)cc4)C5)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C
 Menabitan	CCCCCC(C)C(C)C1=CC2=C(C3=C(CCN(C3)CC#C)C(O2)(C)C)C(=C1)OC(=O)C(C)CCN4CCCCC4C
+Gastrol	C1=CC(=CC=C1CC2=C(C=CC(=C2)COCC3=CC=C(C=C3)O)O)O
 Gastrodigenin	C1=CC(=CC=C1CO)O
 Cypionic acid	O=C(O)CCC1CCCC1
 Tetrahydrocorticosterone	OCC(=O)[C@H]4CC[C@H]3C2CCC1CC(O)CC[C@]1(C)[C@H]2C(O)C[C@@]34C
@@ -13677,6 +13678,7 @@ Auranthine	C1CC2=NC3=CC=CC=C3C(=O)N2C4=NC5=CC=CC=C5C(=O)NC41
 Curvularin	C[C@H]1CCCCCC(=O)c2c(cc(cc2O)O)CC(=O)O1
 Dehydrocurvularin	C[C@H]1CCC/C=C/C(=O)c2c(cc(cc2O)O)CC(=O)O1
 Villalstonine	C/C=C/1\CN2CCC34CC5C6CC7C8=C(CC(C6COC5(OC39C2CC1C(N9C1=CC=CC=C41)C(=O)OC)C)N7C)C1=CC=CC=C1N8C
+Gabunamine	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)[C@H]6C[C@@H]\7C([C@@H](CC8=C6NC9=CC=CC=C89)NC/C7=C/C)C(=O)OC)OC)C(=O)OC
 Niphimycin	CC1CCC(C(C(CC(C(/C=C/C(C(C(=O)O[C@@H](C(/C=C/C=C/C(C(C(CC(CC(CC2CC(C(C(O2)(CC1O)O)O)O)OC(=O)CC(=O)O)O)O)C)O)C)[C@@H](C)C[C@@H](C)CCC/C=C/CCCNC(=NC)N)C)O)C)O)O)C)O
 Spiculisporic acid	CCCCCCCCCCC(C(=O)O)C1(CCC(=O)O1)C(=O)O
 Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H](C(C)(C)O)OC=O)O
@@ -13754,6 +13756,7 @@ Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
 Vinorine	C/C=C\1/CN2[C@H]3C[C@@H]1C4[C@@H]2C[C@]5([C@@H]4OC(=O)C)C3=NC6=CC=CC=C56
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
+Geissolosimine	CC[C@@H]1CN2CC[C@@]34C2CC1[C@H]5C3N(C(OC5)C6[C@@H]\7CC8C9=C(CC6N8C/C7=C/C)C1=CC=CC=C1N9)C1=CC=CC=C41
 Rosiridin	CC(=CC[C@@H](/C(=C/CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)/C)O)C
 Dihydrocuscohygrine	OC(C[C@H]1N(C)CCC1)C[C@H]2N(C)CCC2
 Rosin (chemical)	C1=CC=C(C=C1)/C=C/CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
@@ -14001,6 +14004,7 @@ Delsoline	CC[N@]1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H](C([C@H]31)([C@]5(C[C@@H](
 Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
 Nostocarboline	C[N+]1=CC2=C(C=C1)C3=C(N2)C=CC(=C3)Cl
 Majdine	C[C@H]1[C@@H]2CN3CC[C@]4([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=C(C(=C(C=C5)OC)OC)NC4=O
+Girolline	C1=C(NC(=N1)N)C(C(CN)Cl)O
 Hirsutine	CC[C@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=CC=CC=C34
 Liriodenine	C1OC2=C(O1)C3=C4C(=C2)C=CN=C4C(=O)C5=CC=CC=C53
 Dragomabin	C[C@@H](CCCCC#C)C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](C)C(=O)N(C)[C@@H](C)C(=O)N(C)[C@@H](Cc2ccc(cc2)OC)C(=O)N
@@ -14074,7 +14078,7 @@ ICI-63197	CCCN1C(=O)C(=CN2C1=NC(=N2)N)C
 Adapromine	CCC(C12CC3CC(C1)CC(C3)C2)N
 GBR-12783	C1CN(CCN1CCOC(C2=CC=CC=C2)C3=CC=CC=C3)C/C=C/C4=CC=CC=C4
 GBR-13069	C1CN(CCN1CCOC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)C/C=C/C4=CC=CC=C4
-GBR-13098	C1CN(CCN1CCCC2=CC=C(C=C2)F)CCOC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F
+GBR-13098	CS(=O)(=O)O.CS(=O)(=O)O.C1CN(CCN1CCCC2=CC=C(C=C2)F)CCOC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F
 GBR-13119	C1CN(CCN1CCCC2=CC=C(C=C2)F)CCOC(C3=CC=CC=C3)C4=CC=CC=C4
 Mefexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)OC
 Leptacline	C1CCC(CC1)CN2CCCCC2
@@ -15663,6 +15667,7 @@ Capmatinib	CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F
 Cyclododecanone	C1CCCCCC(=O)CCCCC1
 Fevipiprant	CC1=C(C2=C(N1CC3=C(C=C(C=C3)S(=O)(=O)C)C(F)(F)F)N=CC=C2)CC(=O)O
 Neptunocene	[Np].C1=CC=CC=CC=C1.C1=CC=CC=CC=C1
+Plutonocene	[Pu].C1=CC=CC=CC=C1.C1=CC=CC=CC=C1
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
 4'-Fluorocannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
@@ -18298,3 +18303,4 @@ Delta-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C
 Aszonalenin	CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25
 Delta-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
 Butafenacil	CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
+Rhodium(III) bromide	[Br-].[Br-].[Br-].[Rh+3]
