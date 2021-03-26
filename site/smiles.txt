@@ -6143,6 +6143,7 @@ Salinosporamide A	C[C@]13OC(=O)C3(NC(=O)[C@@H]1CCCl)[C@@H](O)C2/C=C\CCC2
 4-MeO-MiPT	CC(N(CCC1=CNC2=C1C(OC)=CC=C2)C)C
 5-MeO-pyr-T	O(c3ccc1c(c(c[nH]1)CCN2CCCC2)c3)C
 Cirazoline	O(c1c(cccc1)C2CC2)CC/3=N/CCN\3
+MK-886	CC(C)C1=CC2=C(C=C1)N(C(=C2SC(C)(C)C)CC(C)(C)C(=O)O)CC3=CC=C(C=C3)Cl
 Antimony(III) acetate	O=C(C)O[Sb](OC(C)=O)OC(C)=O
 Potassium tetrachloroplatinate	[K+].[K+].Cl[Pt-2](Cl)(Cl)Cl
 3-Mercaptopropane-1,2-diol	OCC(O)CS
@@ -6469,6 +6470,7 @@ Terizidone	O=C3NOCC3/N=C/c2ccc(/C=N/C1C(=O)NOC1)cc2
 Prothionamide	CCCc1cc(ccn1)C(=S)N
 Morinamide	C1COCCN1CNC(=O)C2=NC=CN=C2
 Hernandulcin	CC1=CC(=O)[C@@H](CC1)[C@](C)(CCC=C(C)C)O
+Dysprosium titanate	[Dy+3].[Dy+3].[Ti+4].[Ti+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
 Hydroxymethyl group	[CH2]O
 Dibenzo-18-crown-6	O1c3c(OCCOCCOc2ccccc2OCCOCC1)cccc3
 Triflusal	CC(=O)Oc1cc(ccc1C(=O)O)C(F)(F)F
@@ -12628,7 +12630,7 @@ Menabitan	CCCCCC(C)C(C)C1=CC2=C(C3=C(CCN(C3)CC#C)C(O2)(C)C)C(=C1)OC(=O)C(C)CCN4C
 Gastrol	C1=CC(=CC=C1CC2=C(C=CC(=C2)COCC3=CC=C(C=C3)O)O)O
 Gastrodigenin	C1=CC(=CC=C1CO)O
 Cypionic acid	O=C(O)CCC1CCCC1
-Tetrahydrocorticosterone	OCC(=O)[C@H]4CC[C@H]3C2CCC1CC(O)CC[C@]1(C)[C@H]2C(O)C[C@@]34C
+Tetrahydrocorticosterone	C[C@]12C[C@H](O)[C@H]3[C@@H](CC[C@@H]4C[C@H](O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO
 GRN-529	O=C(N1CC(C=CC=N2)=C2C1)C3=CC(C#CC4=CC=CC=N4)=C(OC(F)F)C=C3
 Alimadol	O(C)C(c1ccccc1)(c2ccccc2)CCNC\C=C
 22R-Hydroxycholesterol	O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)C(O)CCC(C)C)C)[C@@]3(C)CC4
@@ -13973,6 +13975,8 @@ Dazomet	CN1CN(C(=S)SC1)C
 Arcapillin	COC1=C(C=C(C(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O)O
 Morelloflavone	c1cc(ccc1[C@@H]2[C@H](C(=O)c3c(cc(cc3O2)O)O)c4c(cc(c5c4oc(cc5=O)c6ccc(c(c6)O)O)O)O)O
 Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)C=O
+Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)CO
+Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)C(=O)C(C=C(C)C)O
 Isojacareubin	CC1(CCC2=C3C(=C(C=C2O1)O)C(=O)C4=C(O3)C(=C(C=C4)O)O)C
 Taraxerol	C[C@]12CCC(C[C@H]1C3(CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4(C3=CC2)C)(C)C)O)C)C)(C)C
 Thiotaurine	C(CS(=O)(=S)O)N
@@ -17733,7 +17737,7 @@ Isofucosterol	C/C=C(/CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(
 Dysprosium(III) fluoride	F[Dy](F)F
 1,2-Cyclopentanedione	C1CC(=O)C(=O)C1
 1,3-Cyclopentanedione	C1CC(=O)CC1=O
-Prenylated flavin mononucleotide	CC1=CC2=C3C(=C1C)C(CCN3C4=C(N2C[C@@H]([C@@H]([C@@H](COP(=O)([O-])[O-])O)O)O)NC(=O)NC4=O)(C)C
+Prenylated flavin mononucleotide	CC1=CC2=C3C(=C1C)C(CCN3C4=C(N2C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O)NC(=O)NC4=O)(C)C
 EG-018	CCCCCN1C2=C(C=C(C=C2)C(=O)C3=CC=CC4=CC=CC=C43)C5=CC=CC=C51
 Lewisite 2	C(=C[As](C=CCl)Cl)Cl
 Hoiamides	CCC[C@@H](C)[C@@H]([C@H](C)[C@@H]1[C@H]([C@H](CC2=NC(=CS2)C3=N[C@](CS3)(C4=N[C@](CS4)(C(=O)N[C@H]([C@H]([C@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O1)[C@@H](C)O)C(C)C)C)O)[C@@H](C)CC)C)C)OC)C)O
@@ -18010,7 +18014,7 @@ Pyroxasulfone	CC1(CC(=NO1)S(=O)(=O)CC2=C(N(N=C2C(F)(F)F)C)OC(F)F)C
 A-230	CCN(CC)C(C)=N[P](C)(F)=O
 A-242	CCN(CC)C(=N[P](C)(F)=O)N(CC)CC
 Hexaphosphabenzene	P1=PP=PP=P1
-5,6-Dihydro-5(α-thyminyl)thymine	Cc1cn(c(=O)[nH]c1=O)C2(CNC(=O)NC2=O)C
+5,6-Dihydro-5(α-thyminyl)thymine	CC1(CNC(=O)NC1=O)CC2=CNC(=O)NC2=O
 Technetium trichloride	[Cl-].[Cl-].[Cl-].[Tc+3]
 O-Mustard	C(CSCCCl)OCCSCCCl
 Hexafluorocyclobutene	C1(=C(C(C1(F)F)(F)F)F)F
@@ -18330,6 +18334,9 @@ Delta-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
 Butafenacil	CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
 Rhodium(III) bromide	[Br-].[Br-].[Br-].[Rh+3]
 Dasiglucagon	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)NC(C)(C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CNC=N7)N)O
-3-APPA	C(CN)C[P+](=O)O
+3-APPA	C(CN)CP(=O)O
 Diruthenium tetraacetate chloride	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.Cl[Ru].[Ru]
 Iron(II) perchlorate	O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+2]
+Monopotassium arsenate	O[As](=O)(O)[O-].[K+]
+Dysprosium stannate	[Dy+3].[Dy+3].[Sn+4].[Sn+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
+Fominoben	CN(CC1=C(C=CC=C1Cl)NC(=O)C2=CC=CC=C2)CC(=O)N3CCOCC3
