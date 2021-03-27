@@ -7962,7 +7962,6 @@ Enzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)NC)F)C3=CC(=C(C=C3)C#N)C(F)(F)
 Ramoplanin	C[C@@H]1C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N1)CC(C)C)c2ccc(cc2)O)[C@@H](C)O)c3ccc(cc3)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O[C@@H]5[C@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)CCCN)Cc6ccccc6)[C@H](C)O)c7ccc(cc7)O)c8ccc(cc8)O)[C@@H](C)O)CCCN)c9ccc(cc9)O)NC(=O)[C@H](CC(=O)N)NC(=O)/C=C\C=C\CC(C)C)C(=O)N)c1ccc(c(c1)Cl)O
 Azaprocin	CCC(N1[C@@H]2CC[C@H]1CN(C2)C/C=C/C3=CC=CC=C3)=O
 Etofamide	CCOCCN(CC1=CC=C(C=C1)OC2=CC=C(C=C2)[N+](=O)[O-])C(=O)C(Cl)Cl
-Aviptadil	CCC(C)C(C(=O)NC(CC(C)C)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)C(CO)NC(=O)C(CC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(Cc1ccc(cc1)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CCSC)NC(=O)C(CCC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)O)NC(=O)C(Cc2ccc(cc2)O)NC(=O)C(CC(=O)N)NC(=O)C(CC(=O)O)NC(=O)C(C(C)O)NC(=O)C(Cc3ccccc3)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(Cc4cnc[nH]4)N
 4-Diphosphocytidyl-2-C-methyl-D-erythritol 2-phosphate	C[C@](CO)([C@@H](COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)N)O)O)O)OP(=O)(O)O
 Cadmium(I) tetrachloroaluminate	[Cd+][Cd+].Cl[Al-](Cl)(Cl)Cl.Cl[Al-](Cl)(Cl)Cl
 Lafutidine	C1CCCCN1Cc2ccnc(c2)OC/C=C\CNC(=O)CS(=O)Cc3ccco3
@@ -8375,6 +8374,7 @@ Safinamide	O=C(N)[C@@H](NCc2ccc(OCc1cccc(F)c1)cc2)C
 Lurasidone	C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]7CC[C@@H](C7)[C@H]6C5=O
 Geiparvarin	CC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C3=CC(=O)C(O3)(C)C
 Stryker's reagent	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CuH].[CuH].[CuH].[CuH].[CuH].[CuH]
+Docusate	CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(O)(=O)=O
 Docusate	[Na+].[O-]S(=O)(=O)C(C(=O)OCC(CC)CCCC)CC(=O)OCC(CC)CCCC
 Clofilium	Clc1ccc(cc1)CCCC[N+](CC)(CC)CCCCCCC
 Sematilide	O=S(=O)(Nc1ccc(cc1)C(=O)NCCN(CC)CC)C
@@ -13706,6 +13706,7 @@ Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H]
 Glionitrin A	CN1C(=O)C23CC4=C(N2C(=O)C1(SS3)CO)C=C(C=C4)[N+](=O)[O-]
 Mayamycin	Cc1cc2c(c(c1)O)c3c(c(c2[C@H]4C[C@H]([C@@H]([C@H](O4)C)O)NC)O)C(=O)c5c(cccc5O)C3=O
 Cosmomycin B	CC[C@]1(CCc2c(c(c3c(c2O)C(=O)c4c(cccc4O)C3=O)O)[C@H]1O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@@H]([C@@H](O6)C)O[C@H]7CC[C@@H]([C@@H](O7)C)O)O)N(C)C)O
+Kidamycin	C/C=C(\C)/C1=CC(=O)C2=C(O1)C3=C(C=C2C)C(=O)C4=C(C3=O)C(=C(C=C4C5CC(C(C(O5)C)O)N(C)C)C6CC(C(C(O6)C)O)(C)N(C)C)
 Justicidin A	COC1=C(C=C2C(=C1)C(=C3C(=C2OC)COC3=O)C4=CC5=C(C=C4)OCO5)OC
 Hedamycin	CC1C(C(CC(O1)C2=CC(=C(C3=C2C(=O)C4=C(C3=O)C5=C(C(=C4)C)C(=O)C=C(O5)C6(C(O6)C7C(O7)C)C)O)C8CC(C(C(O8)C)O)(C)N(C)C)N(C)C)O
 Galtamycin B	O=C1\C=C/[C@@H](O[C@H]1C)O[C@H]2CC[C@@H](O[C@H]2C)O[C@@H]8[C@@H](O[C@@H](O[C@H]3[C@H](O)C[C@@H](O[C@@H]3C)c7ccc6C(=O)c5c(O)c4cc(cc(O)c4cc5C(=O)c6c7O)C)C[C@@H]8O)C
@@ -13776,6 +13777,7 @@ Bacillibactin	C[C@@H]1[C@@H](C(=O)O[C@@H]([C@@H](C(=O)O[C@@H]([C@@H](C(=O)O1)NC(
 PNU-181731	C12=CC=CC=C1N3C(CCNCC3)=C2
 Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
+Kopsanone	C1CC23CCC45C(C2)C(=O)C6C4(C3N(C1)C6)C7=CC=CC=C7N5
 Vinorine	C/C=C\1/CN2[C@H]3C[C@@H]1C4[C@@H]2C[C@]5([C@@H]4OC(=O)C)C3=NC6=CC=CC=C56
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
 Geissolosimine	CC[C@@H]1CN2CC[C@@]34C2CC1[C@H]5C3N(C(OC5)C6[C@@H]\7CC8C9=C(CC6N8C/C7=C/C)C1=CC=CC=C1N9)C1=CC=CC=C41
@@ -13815,6 +13817,7 @@ Stevensine	C1C=C(C2=C(C(=O)N1)NC(=C2Br)Br)C3=CN=C(N3)N
 Veratramine	Cc1c(ccc2c1C[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)[C@H](C)[C@H]5[C@@H](C[C@@H](CN5)C)O
 Cereulide	O=C1N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H]1C(C)C)C)CC(C)C)C(C)C)C(C)C)C)CC(C)C)C(C)C)C(C)C)C)CC(C)C)C(C)C
 Ergostine	CC[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)Cc4ccccc4)NC(=O)[C@H]5CN([C@@H]6Cc7c[nH]c8c7c(ccc8)C6=C5)C
+Lophophorine	CC1C2=C3C(=C(C=C2CCN1C)OC)OCO3
 Peyonine	COc1cc(cc(c1OC)OC)CCn2cccc2C(=O)O
 Dicentrine	CN1CCc2cc3c(c-4c2[C@@H]1Cc5c4cc(c(c5)OC)OC)OCO3
 Magnoflorine	C[N+]1(CCC2=CC(=C(C3=C2[C@@H]1CC4=C3C(=C(C=C4)OC)O)O)OC)C
@@ -15366,6 +15369,7 @@ Hydroxycitronellal	CC(CCCC(C)(C)O)CC=O
 WAY-200070	C1=CC(=CC=C1C2=NC3=CC(=CC(=C3O2)Br)O)O
 SC-5233	CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC45CCC(=O)O5)C
 Dimethyl dithiophosphoric acid	COP(=S)(OC)S
+Lanthanum ytterbium oxide	[La+3].[Yb+3].[O-2].[O-2].[O-2]
 Methylestradiol	CC12CCC3C(C1CCC2(C)O)CCC4=C3C=CC(=C4)O
 Fenestrel	CCC1C(C(CC=C1C2=CC=CC=C2)C(=O)O)C
 Carbestrol	CCC1=C(CCC(C1C)C(=O)O)C2=CC=C(C=C2)OC
@@ -18340,3 +18344,6 @@ Iron(II) perchlorate	O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+2]
 Monopotassium arsenate	O[As](=O)(O)[O-].[K+]
 Dysprosium stannate	[Dy+3].[Dy+3].[Sn+4].[Sn+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
 Fominoben	CN(CC1=C(C=CC=C1Cl)NC(=O)C2=CC=CC=C2)CC(=O)N3CCOCC3
+Deterenol	CC(C)NCC(C1=CC=C(C=C1)O)O
+Titanium(IV) acetate	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.[Ti]
+Cerium(III) sulfide	[S-2].[S-2].[S-2].[Ce+3].[Ce+3]
