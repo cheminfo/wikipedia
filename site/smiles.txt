@@ -8140,7 +8140,7 @@ Efaproxiral	Cc1cc(cc(c1)NC(=O)Cc2ccc(cc2)OC(C)(C)C(=O)O)C
 Mannosulfan	CS(=O)(=O)OC[C@H]([C@H]([C@@H]([C@@H](COS(=O)(=O)C)OS(=O)(=O)C)O)O)OS(=O)(=O)C
 Trofosfamide	C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl
 Nitramide	N[N+](=O)[O-]
-Protactinium(V) chloride	Cl[Pa](Cl)(Cl)(Cl)Cl
+Protactinium (V) chloride	Cl[Pa](Cl)(Cl)(Cl)Cl
 Surugatoxin	CC1(C(=O)N2C3=C(NCC2(C(C14C5=C(C=C(C=C5)Br)NC4=O)C(=O)OC6C(C(C(C(C6O)O)O)O)O)O)NC(=O)NC3=O)O
 Efaroxan	N\1=C(\NCC/1)C3(Oc2ccccc2C3)CC
 Amidephrine	O=S(=O)(Nc1cc(ccc1)C(O)CNC)C
@@ -16484,7 +16484,7 @@ Basic lead phosphite	O.OP([O-])[O-].OP([O-])[O-].O=[Pb].O=[Pb].O=[Pb].O=[Pb].[Pb
 Incensole	CC1=CCCC(=CCC2(CCC(O2)(C(CC1)O)C)C(C)C)C
 Tris(2,4-di-tert-butylphenyl)phosphite	CC(C)(C)C1=CC(=C(C=C1)OP(OC2=C(C=C(C=C2)C(C)(C)C)C(C)(C)C)OC3=C(C=C(C=C3)C(C)(C)C)C(C)(C)C)C(C)(C)C
 MK-386	C[C@H]1C[C@@H]2[C@](CCC(=O)N2C)([C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)[C@H](C)CCCC(C)C)C
-Isoxerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
+Isoxerocomic acid	C1=CC(=CC=C1C2=C(/C(=C(\C3=CC(=C(C=C3)O)O)/C(=O)O)/OC2=O)O)O
 Androsterone sulfate	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O
 Thelephantins	CCCC(=O)OC1=C(C(=C(C(=C1O)C2=CC=C(C=C2)O)OC(=O)C3=CC=C(C=C3)O)O)C4=CC=C(C=C4)O
 Cyclovariegatin	C1=CC(=O)C(=O)C=C1C2=C(C3=C(C4=CC(=C(C=C4O3)O)O)C(=C2O)O)O
@@ -18351,3 +18351,5 @@ Fominoben	CN(CC1=C(C=CC=C1Cl)NC(=O)C2=CC=CC=C2)CC(=O)N3CCOCC3
 Deterenol	CC(C)NCC(C1=CC=C(C=C1)O)O
 Titanium(IV) acetate	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.[Ti]
 Cerium(III) sulfide	[S-2].[S-2].[S-2].[Ce+3].[Ce+3]
+Einsteinium(III) chloride	[Cl-].[Cl-].[Cl-].[Es+3]
+Moguisteine	CCOC(=O)CC(=O)N1CCSC1COC2=CC=CC=C2OC
