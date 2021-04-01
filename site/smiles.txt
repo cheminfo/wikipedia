@@ -69,6 +69,7 @@ Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	n1cnccc1
 Phosphate	[O-]P([O-])([O-])=O
 Phosphate	[O-][P+]([O-])([O-])[O-]
+Peroxide	[O-][O-]
 Pyridine	c1ccncc1
 Phenol	Oc1ccccc1
 Phencyclidine	C1(C2(N3CCCCC3)CCCCC2)=CC=CC=C1
@@ -7031,7 +7032,6 @@ Tetrahydroisoquinoline	c1ccc2c(c1)CCNC2
 N-Propyl-L-arginine	CCCNC(=N)NCCCC(N)C(O)=O
 Bornane	CC1(C2CCC1(CC2)C)C
 Solanone	O=C(C)CC[C@H](/C=C/C(=C)C)C(C)C
-Sodium acetrizoate	[Na+].O=C(Nc1c(I)c(c(I)cc1I)C([O-])=O)C
 3,5-Dinitrobenzoic acid	O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1)C(=O)O
 Aloe emodin	O=C2c1cccc(O)c1C(=O)c3c2cc(cc3O)CO
 1,3-Butanediol	CC(O)CCO
