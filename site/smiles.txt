@@ -16585,6 +16585,7 @@ Barium thiocyanate	C(#N)[S-].C(#N)[S-].[Ba+2]
 Decernotinib	CC[C@](C)(C(=O)NCC(F)(F)F)NC1=NC(=NC=C1)C2=CNC3=C2C=CC=N3
 Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 1,5-Hexadiene	C=CCCC=C
+Iminoborane	B=N
 Perlapine	CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42
 Nordoxepin	CNCCC=C1C2=CC=CC=C2COC3=CC=CC=C31
 Sarcophagine	C1CNCC2CNCCNCC(CN1)CNCCNC2
@@ -18277,7 +18278,7 @@ Tetrahydroxozincate	[OH-].[OH-].[OH-].[OH-].[Zn+2]
 Europium(II) iodide	I[Eu]I
 AMG-517	CC(=O)NC1=NC2=C(C=CC=C2S1)OC3=NC=NC(=C3)C4=CC=C(C=C4)C(F)(F)F
 SB-705498	C1CN(C[C@@H]1NC(=O)NC2=CC=CC=C2Br)C3=NC=C(C=C3)C(F)(F)F
-2-aminoacetanilide	CC(=O)NC1=CC=CC=C1N
+2-Aminoacetanilide	CC(=O)NC1=CC=CC=C1N
 3-Aminoacetanilide	C1(=CC=CC(=C1)N([H])[H])N(C(C)=O)[H]
 PF-05105679	C[C@H](C1=CC=C(C=C1)F)N(CC2=CC(=CC=C2)C(=O)O)C(=O)C3=CC4=CC=CC=C4N=C3
 Chromium(II) iodide	[Cr+2].[I-].[I-]
@@ -18353,3 +18354,4 @@ Titanium(IV) acetate	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.[Ti]
 Cerium(III) sulfide	[S-2].[S-2].[S-2].[Ce+3].[Ce+3]
 Einsteinium(III) chloride	[Cl-].[Cl-].[Cl-].[Es+3]
 Moguisteine	CCOC(=O)CC(=O)N1CCSC1COC2=CC=CC=C2OC
+Tigloidine	CC=C(C)C(=O)OC1CC2CCC(C1)N2C
