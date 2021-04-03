@@ -2170,7 +2170,8 @@ Sodium periodate	[O-]I(=O)(=O)=O.[Na+]
 Potassium periodate	[K+].[O-]I(=O)(=O)=O
 Betahistine	n1ccccc1CCNC
 Maleic acid	O=C(O)\C=C/C(=O)O
-Viloxazine	O(c1ccccc1OCC)CC2OCCNC2
+Viloxazine	CCOC1=CC=CC=C1OCC1CNCCO1
+Viloxazine	Cl.CCOC1=CC=CC=C1OCC1CNCCO1
 Tetraamminecopper(II) sulfate	[OH2+][Cu-3]([NH3+])([NH3+])([NH3+])[NH3+].[O-][S+2]([O-])([O-])[O-]
 Lead hydrogen arsenate	O[As](=O)([O-])[O-].[Pb+2]
 Pregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
@@ -2298,6 +2299,7 @@ Orthosilicic acid	O[Si](O)(O)O
 Phenylpiracetam	C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N
 Lithium nitride	[Li]N([Li])[Li]
 Lithium nitride	[Li+].[Li][N-][Li]
+Iotrolan	CN(c1c(c(c(c(c1I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I)C(=O)CC(=O)N(C)c2c(c(c(c(c2I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I
 Nandrolone decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C
 Uramustine	O=C1C(\N(CCCl)CCCl)=C/NC(=O)N1
 Frémy's salt	N([O])(S(=O)(=O)[O-])S(=O)(=O)[O-].[K+].[K+]
@@ -14448,6 +14450,7 @@ Vicianose	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H](C(O2)O)O)O
 3-Octanone	CCCCCC(=O)CC
 Viridin	C[C@]12[C@@H]([C@@H](C(=O)C3=COC(=C31)C(=O)C4=C2C=CC5=C4CCC5=O)OC)O
 U-77891	CN1CCC[C@]12CCCC[C@H]2N(C)C(=O)c3ccc(Br)c(Br)c3
+Tambjamine	COC1=C(NC(=C1)C2=CC=CN2)C=O
 2-Methylphenethylamine	CC1=CC=CC=C1CCN
 Perinone	O=c1n2c3ccccc3nc2c4ccc5c(=O)n6c7ccccc7nc6c8c5c4c1cc8
 3-Methylphenethylamine	CC1=CC(=CC=C1)CCN
@@ -18354,4 +18357,6 @@ Titanium(IV) acetate	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.[Ti]
 Cerium(III) sulfide	[S-2].[S-2].[S-2].[Ce+3].[Ce+3]
 Einsteinium(III) chloride	[Cl-].[Cl-].[Cl-].[Es+3]
 Moguisteine	CCOC(=O)CC(=O)N1CCSC1COC2=CC=CC=C2OC
+Constipatic acid	CC(O)CCCCCCCCCCCCCC1OC(=O)C(=C1C(O)=O)C
 Tigloidine	CC=C(C)C(=O)OC1CC2CCC(C1)N2C
+CS-27349	CN1C2CCC1C(CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.Cl
