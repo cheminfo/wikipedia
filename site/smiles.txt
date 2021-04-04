@@ -11186,7 +11186,7 @@ Potassium erythorbate	[K+].[O-]C=1[C@H](OC(=O)C=1O)[C@H](O)CO
 Calcium erythorbate	OC1=C([O-])[C@]([C@H](O)CO)([H])OC1=O.OC1=C([O-])[C@]([C@H](O)CO)([H])OC1=O.[Ca+2]
 Kadethrin	O=C(OCc2cc(Cc1ccccc1)oc2)[C@@H]4[C@H](\C=C3/CCSC3=O)C4(C)C
 Furanochromone	O=C\1c3c(O/C=C/1)cc2occc2c3
-Pinitol	CO[C@H]1[C@@H]([C@H]([C@H]([C@@H]([C@@H]1O)O)O)O)O
+Pinitol	CO[C@@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@H]1O
 Quebrachitol	CO[C@H]1[C@@H]([C@H]([C@@H]([C@@H]([C@H]1O)O)O)O)O
 Rhein (molecule)	C1=CC2=C(C(=C1)O)C(=O)C3=C(C=C(C=C3C2=O)C(=O)O)O
 Benzo(a)fluorene	c4ccc3c2c(c1c(cccc1)C2)ccc3c4
@@ -15546,7 +15546,7 @@ Crufomate	CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl
 Dimethylphosphine	CPC
 Methylphosphine	CP
 Herboxidiene	C[C@H]1CC[C@@H](O[C@@H]1/C(=C/C=C/[C@@H](C)C[C@@]2([C@H](O2)[C@H](C)[C@H]([C@@H](C)O)OC)C)/C)CC(=O)O
-ANAVEX2-73	O3C(c1ccccc1)(c2ccccc2)C(CN(C)C)CC3
+Blarcamesine	O3C(c1ccccc1)(c2ccccc2)C(CN(C)C)CC3
 Portentol	C[C@@H]1[C@H](O[C@@]2([C@@H]([C@@H]1O)C)[C@H]([C@@H]3[C@H](C(=O)[C@]2(C(=O)O3)C)C)C)C
 Bisphenol F	c1cc(ccc1Cc2ccc(cc2)O)O
 Arglabin	CC1=CCC23C1C4C(CCC2(O3)C)C(=C)C(=O)O4
@@ -16645,8 +16645,8 @@ Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C(C(C(=O)O)N)[TeH]
-Trans-Dichlorodiammineplatinum(II)	N.N.Cl[Pt]Cl
-Trans-Dichlorodiammineplatinum(II)	Cl[Pt](Cl)([NH3+])[NH3+]
+Transplatin	N.N.Cl[Pt]Cl
+Transplatin	Cl[Pt](Cl)([NH3+])[NH3+]
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
