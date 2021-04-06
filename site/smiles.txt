@@ -16594,6 +16594,7 @@ Nordoxepin	CNCCC=C1C2=CC=CC=C2COC3=CC=CC=C31
 Sarcophagine	C1CNCC2CNCCNCC(CN1)CNCCNC2
 2,2,4,4-Tetramethylcyclobutanedione	CC1(C(=O)C(C1=O)(C)C)C
 3-Penten-2-one	CC=CC(=O)C
+3-Penten-2-one	C/C=C\C(=O)C
 Rhodium acetylacetonate	CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Rh+3]
 Risdiplam	CC1=CC(=NN2C1=NC(=C2)C)C3=CC(=O)N4C=C(C=CC4=N3)N5CCNC6(C5)CC6
 Titanium bis(acetylacetonate)dichloride	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Cl-].[Cl-].[Ti+4]
@@ -16949,6 +16950,7 @@ EM-5854	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC4=CC=[N+](C=C4)[O-])O)CCC5=C3C=CC(
 MK-434	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)C4=CC=CC=C4)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
 Dinalbuphine sebacate	C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)OC(=O)CCCCCCCCC(=O)OC7=C8C9=C(C[C@@H]1[C@]2([C@]9(CCN1CC1CCC1)[C@@H](O8)[C@H](CC2)O)O)C=C7)O5)O)O
 NV-5138	CC(C)(CC(C(=O)O)N)C(F)F
+Pen-Strep	C[C@H]1C([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CCO)O)O)CNC)(C=O)O.CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
 Daridorexant	CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl
 Methyldiazinol	C[C@]12CCC3(C[C@@H]1CC[C@@H]4[C@@H]2CC[C@]5([C@H]4CC[C@]5(C)O)C)N=N3
 Para-Aminoblebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=C(C=C4)N)O
@@ -18150,8 +18152,8 @@ Penta-2,3-dienedioic acid	O=C(O)C=C=CC(O)=O
 S-777,469	CCC1=C(C=C(C(=O)N1CC2=CC=C(C=C2)F)C(=O)NC3(CCCCC3)C(=O)O)C
 CUMYL-CBMICA	CC(C)(NC(=O)c3cn(CC1CCC1)c2ccccc23)c4ccccc4
 Meso-octamethylporphyrinogen	CC1(C2=CC=C(N2)C(C3=CC=C(N3)C(C4=CC=C(N4)C(C5=CC=C1N5)(C)C)(C)C)(C)C)C
-L-Aspartate-4-semialdehyde	C(C=O)C(C(=O)O)N
-L-Aspartate-4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
+L-Aspartic-4-semialdehyde	C(C=O)C(C(=O)O)N
+L-Aspartic-4-semialdehyde	C(C=O)[C@@H](C(=O)O)N
 Phenoxyacetic acid	C1=CC=C(C=C1)OCC(=O)O
 4-Aminodiphenylamine	C1=CC=C(C=C1)NC2=CC=C(C=C2)N
 LLZO	[La+3].[La+3].[La+3].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[Li+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4]
@@ -18362,4 +18364,7 @@ Tigloidine	CC=C(C)C(=O)OC1CC2CCC(C1)N2C
 CS-27349	CN1C2CC[C@H](C1CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.Cl
 CS-27349	CN1C2CCC1C(CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.Cl
 Nicotinic acid N-oxide	C1=CC(=C[N+](=C1)[O-])C(=O)O
+5-Ethyl-2-methylpyridine	CCC1=CN=C(C=C1)C
+2,6-Dichloropyridine	C1=CC(=NC(=C1)Cl)Cl
 Cloflubicyne	C1C2C(C(C1C(C2(C#N)C#N)(C(F)(F)F)C(F)(F)F)Cl)Cl
+Pregnanetriolone	CC(C1(CCC2C1(CC(=O)C3C2CCC4C3(CCC(C4)O)C)C)O)O
