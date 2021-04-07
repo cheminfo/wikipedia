@@ -6505,6 +6505,7 @@ Hexyl cinnamaldehyde	O=C\C(=C\c1ccccc1)CCCCCC
 Setiptiline	c42c(\C3=C(/c1ccccc1C2)CN(C)CC3)cccc4
 Brasofensine	Clc1ccc(cc1Cl)[C@H]3C[C@H]2N(C)[C@H](CC2)[C@@H]3\C=N\OC
 Oleuropein	O=C(OCCc1ccc(O)c(O)c1)C[C@H]2C(=C/C)\[C@@H](O\C=C2\C(=O)OC)O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO
+Ligstroside	C/C=C/1\[C@@H](C(=CO[C@H]1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)C(=O)OC)CC(=O)OCCC3=CC=C(C=C3)O
 Norfenfluramine	FC(F)(F)c1cccc(c1)CC(N)C
 Indalpine	c2(c1ccccc1[nH]c2)CCC3CCNCC3
 Femoxetine	O(c1ccc(OC)cc1)C[C@@H]3[C@@H](c2ccccc2)CCN(C)C3
@@ -6688,6 +6689,8 @@ Succinic semialdehyde	O=CCCC(=O)O
 Imidazenil	Brc4ccccc4C/2=N/Cc1c(ncn1c3c\2cc(F)cc3)C(=O)N
 Suproclone	O=C(N5CCN(C(=O)OC4C=1SCCSC=1C(=O)N4c2nc3nc(Cl)ccc3cc2)CC5)CC
 1-Aminopropan-2-ol	OC(C)CN
+1-Aminopropan-2-ol	O[C@H](C)CN
+1-Aminopropan-2-ol	O[C@@H](C)CN
 Urea nitrate	C(=O)(N)N.[N+](=O)(O)[O-]
 QH-II-66	O=C1N(C)C2=C(C(C3=CC=CC=C3)=NC1)C=C(C=C2)C#C
 Zapizolam	Clc4ccccc4C/3=N/Cc1nncn1c2c\3nc(Cl)cc2
