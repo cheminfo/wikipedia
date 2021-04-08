@@ -1746,7 +1746,7 @@ Olopatadine	O=C(O)Cc2ccc1OCc3c(C(\c1c2)=C\CCN(C)C)cccc3
 Behentrimonium chloride	[Cl-].C(CCCC[N+](C)(C)C)CCCCCCCCCCCCCCCCC
 Ajoene	O=S(C/C=C/SSC/C=C)C\C=C
 Ketorolac	O=C(c1ccc2n1CCC2C(=O)O)c3ccccc3
-Novec 1230	FC(F)(F)C(F)(C(=O)C(F)(F)C(F)(F)F)C(F)(F)F
+Novec 649/1230	FC(F)(F)C(F)(C(=O)C(F)(F)C(F)(F)F)C(F)(F)F
 Erythorbic acid	OC=1[C@H](OC(=O)C=1O)[C@H](O)CO
 Cyanuric acid	Oc1nc(O)nc(O)n1
 Cyanuric acid	O=C1NC(=O)NC(=O)N1
@@ -10103,7 +10103,7 @@ Chaconine	O([C@H]8[C@H](O[C@@H]4C/C3=C/C[C@H]2[C@@H]5C[C@@H]1N6[C@@H]([C@@H](C)[
 Thelephoric acid	c1c2c(cc(c1O)O)oc3c2C(=O)c4c(c5cc(c(cc5o4)O)O)C3=O
 L-Glucose	O[C@@H]1[C@@H](O)[C@@H](OC(O)[C@H]1O)CO
 Leucoanthocyanidin	C1=CC=C(C=C1)C2C(C(C3=CC=CC=C3O2)O)O
-Leucocyanidin	C1=CC(=C(C=C1C2C(C(C3=C(C=C(C=C3O2)O)O)O)O)O)O
+Leucocyanidin	C1=CC(=C(C=C1[C@@H]2[C@H]([C@H](C3=C(C=C(C=C3O2)O)O)O)O)O)O
 Leucopelargonidin	c1cc(ccc1[C@@H]2[C@H]([C@H](c3c(cc(cc3O2)O)O)O)O)O
 Leucopeonidin	OC1C(O)C2C(C=C(O)C=C2O)OC1c(cc3OC)ccc3O
 Lenvatinib	C4CC4NC(=O)Nc3ccc(cc3Cl)Oc1ccnc(cc2OC)c1cc2C(=O)N
@@ -18371,3 +18371,4 @@ Nicotinic acid N-oxide	C1=CC(=C[N+](=C1)[O-])C(=O)O
 2,6-Dichloropyridine	C1=CC(=NC(=C1)Cl)Cl
 Cloflubicyne	C1C2C(C(C1C(C2(C#N)C#N)(C(F)(F)F)C(F)(F)F)Cl)Cl
 Pregnanetriolone	CC(C1(CCC2C1(CC(=O)C3C2CCC4C3(CCC(C4)O)C)C)O)O
+2-Methylpentamethylenediamine	CC(CCCN)CN
