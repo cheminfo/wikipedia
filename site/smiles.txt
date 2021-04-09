@@ -11793,7 +11793,6 @@ Nitromersol	Cc1ccc(c2[Hg]Oc12)[N+]([O-])=O
 Dioctyl terephthalate	O=C(OCC(CC)CCCC)c1ccc(C(=O)OCC(CC)CCCC)cc1
 Isorenieratene	CC1=C(C(=C(C=C1)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C=CC(=C2C)C)C)\C)\C)/C)/C)C
 L-741,626	OC(CC1)(C2=CC=C(Cl)C=C2)CCN1CC3=CNC4=CC=CC=C43
-GSK-789,472	O=C1N(CC2NCCCC2)CCN1C3=CC=CC=C3
 L-368,899	CC1(C)[C@@]2(CS(N3CCN(C4=CC=CC=C4C)CC3)(=O)=O)CC[C@@H]1C[C@@H]2NC([C@H](CCS(C)(=O)=O)N)=O
 8-Carboxamidocyclazocine	C[C@H]1[C@H]2Cc3ccc(cc3[C@]1(CCN2CC4CC4)C)C(=O)N
 Biotin sulfoxide	C1[C@H]2[C@@H]([C@@H](S1=O)CCCCC(=O)O)NC(=O)N2
@@ -18372,3 +18371,11 @@ Nicotinic acid N-oxide	C1=CC(=C[N+](=C1)[O-])C(=O)O
 Cloflubicyne	C1C2C(C(C1C(C2(C#N)C#N)(C(F)(F)F)C(F)(F)F)Cl)Cl
 Pregnanetriolone	CC(C1(CCC2C1(CC(=O)C3C2CCC4C3(CCC(C4)O)C)C)O)O
 2-Methylpentamethylenediamine	CC(CCCN)CN
+Ketopantoic acid	CC(C)(CO)C(=O)C(=O)O
+Rhodium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Rh+3]
+Serazapine	O=C(OC)C1=C2N(C3=C1C=CC=C3)CC4=CC=CC=C4N5C2CN(C)CC5
+Francium hydroxide	[Fr+].[OH-]
+3C-AL	C=CCOc1c(OC)cc(cc1OC)CC(N)C
+Copper oxide selenite	[O-][Se](=O)[O-].[Cu+].[Cu+].[O-2]
+3C-MAL	CC(CC1=CC(=C(C(=C1)OC)OCC(=C)C)OC)N
+Batelapine	CC1=NN2C(=N1)CC3=CC=CC=C3N=C2N4CCN(CC4)C
