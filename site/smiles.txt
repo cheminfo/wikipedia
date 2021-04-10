@@ -8006,8 +8006,10 @@ Sulprostone	CS(=O)(=O)NC(=O)CCC/C=C\C[C@@H]1[C@H]([C@@H](CC1=O)O)/C=C/[C@H](COc2
 Mefruside	CC1(CCCO1)CN(C)S(=O)(=O)C2=CC(=C(C=C2)Cl)S(=O)(=O)N
 2-Benzylpiperidine	C1CCNC(C1)CC2=CC=CC=C2
 Pranoprofen	CC(C1=CC2=C(C=C1)OC3=C(C2)C=CC=N3)C(=O)O
-DIPAMP	O(c1ccccc1[P@](c2ccccc2)CC[P@@](c3ccccc3)c4ccccc4OC)C
-DIPAMP	O(c1ccccc1[P@@](c2ccccc2)CC[P@](c3ccccc3)c4ccccc4OC)C
+DIPAMP	COc1ccccc1P(CCP(c2ccccc2)c3ccccc3OC)c4ccccc4
+DIPAMP	COc1ccccc1[P@](CC[P@](c2ccccc2)c3ccccc3OC)c4ccccc4
+DIPAMP	COc1ccccc1[P@@](CC[P@@](c2ccccc2)c3ccccc3OC)c4ccccc4
+DIPAMP	O(c1ccccc1[P@@](c2ccccc2)CC[P@@](c3ccccc3)c4ccccc4OC)C
 Mofezolac	COC1=CC=C(C=C1)C2=C(ON=C2C3=CC=C(C=C3)OC)CC(=O)O
 Ranimustine	CO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CNC(=O)N(CCCl)N=O)O)O)O
 Ufenamate	CCCCOC(=O)C1=CC=CC=C1NC2=CC=CC(=C2)C(F)(F)F
@@ -14878,6 +14880,7 @@ Pigment yellow 185	CNC(=O)/C(C#N)=C1/c2ccccc2C(N1)=C3C(=O)NC(=O)NC3=O
 Anthanthrone	C1=CC2=C3C(=C1)C(=O)C4=C5C3=C(C=C2)C(=O)C6=CC=CC(=C65)C=C4
 Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 Ledipasvir/sofosbuvir	CC(C)C(C(=O)N1CC2(CC2)CC1C3=NC=C(N3)C4=CC5=C(C=C4)C6=C(C5(F)F)C=C(C=C6)C7=CC8=C(C=C7)N=C(N8)C9C1CCC(C1)N9C(=O)C(C(C)C)NC(=O)OC)NC(=O)OC.CC(C)OC(=O)C(C)NP(=O)(OCC1C(C(C(O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3
+Cyclic di-AMP	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
 SRX246	O=C1[C@@H](N2C(OC[C@@H]2C3=CC=CC=C3)=O)[C@@H](/C=C/C4=CC=CC=C4)N1[C@@H](C(N[C@H](C)C5=CC=CC=C5)=O)CC(N6CCC(N7CCCCC7)CC6)=O
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
@@ -16924,7 +16927,7 @@ Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C
 Ferrichrome A	C/C(=C\C(=O)N(CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N1)CO)CO)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)CCCN(C(=O)/C=C(\C)/CC(=O)O)O)O)/CC(=O)O
 Methionine sulfoximine	CS(=N)(=O)CC[C@@H](C(=O)O)N
 Annimycin	CC/C=C/C=C(\C)/C=C/C=C\C(CC(=O)NC1=C(CCC1=O)O)O
-Undecylprodigiosin	CCCCCCCCCCCC1=CC=C(N1)C=C2C(=CC(=C3C=CC=N3)N2)OC
+Undecylprodigiosin	CCCCCCCCCCCC1=CC=C(N1)/C=C\2/C(=CC(=N2)C3=CC=CN3)OC
 Cobalt(III) hydroxide	[OH-].[OH-].[OH-].[Co+3]
 Tepotinib	CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N
 Triethylphosphine	CCP(CC)CC
@@ -18372,10 +18375,13 @@ Cloflubicyne	C1C2C(C(C1C(C2(C#N)C#N)(C(F)(F)F)C(F)(F)F)Cl)Cl
 Pregnanetriolone	CC(C1(CCC2C1(CC(=O)C3C2CCC4C3(CCC(C4)O)C)C)O)O
 2-Methylpentamethylenediamine	CC(CCCN)CN
 Ketopantoic acid	CC(C)(CO)C(=O)C(=O)O
-Rhodium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Rh+3]
+Rhodium(III) sulfate	O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Rh+3].[Rh+3]
+Rhodium(III) sulfate	O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Rh+3].[Rh+3]
 Serazapine	O=C(OC)C1=C2N(C3=C1C=CC=C3)CC4=CC=CC=C4N5C2CN(C)CC5
 Francium hydroxide	[Fr+].[OH-]
 3C-AL	C=CCOc1c(OC)cc(cc1OC)CC(N)C
 Copper oxide selenite	[O-][Se](=O)[O-].[Cu+].[Cu+].[O-2]
 3C-MAL	CC(CC1=CC(=C(C(=C1)OC)OCC(=C)C)OC)N
 Batelapine	CC1=NN2C(=N1)CC3=CC=CC=C3N=C2N4CCN(CC4)C
+Tenilapine	CN1CCN(CC1)C2=NC3=CSC=C3/C(=C/C#N)/C4=CSC=C42
+Chloracyzine	CCN(CC)CCC(=O)N1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
