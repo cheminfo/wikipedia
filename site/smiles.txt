@@ -506,7 +506,7 @@ Hydrofluoric acid	F
 Hydrofluoric acid	[F-].[OH3+]
 Trichlorosilane	Cl[SiH](Cl)Cl
 Procaine	O=C(OCCN(CC)CC)c1ccc(N)cc1
-Lidocaine	O=C(Nc1c(cccc1C)C)CN(CC)CC
+Lidocaine	CCN(CC)CC(=O)NC1=C(C)C=CC=C1C
 Aniline	Nc1ccccc1
 4-Aminobenzoic acid	O=C(O)c1ccc(N)cc1
 Dichloromethane	ClCCl
@@ -18389,3 +18389,4 @@ Chromium(IV) silicide	[Si].[Cr]
 Trichromium silicide	[Si].[Cr].[Cr].[Cr]
 Manganese arsenide	[As].[Mn]
 AC-42	O=C(C=1C=CC=CC1C)CCCN2CCC(CC2)CCCC
+Bromerguride	CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
