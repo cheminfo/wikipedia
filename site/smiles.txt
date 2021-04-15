@@ -13776,6 +13776,7 @@ Altemicidin	O=S(=O)(N)CC(=O)N[C@@]2(C(=O)O)[C@@H](O)C[C@H]1C(=C/N(C[C@H]12)C)\C(
 Kettapeptin	O=C1O[C@@H](C(C)C)[C@@H](C(=O)N3NCCC[C@@H]3C(=O)N(O)[C@H](C(=O)N(C)[C@@H](C(=O)N2NCCC[C@@H]2C(=O)N[C@@H]1[C@@H](O)C)C)COC)NC(=O)[C@@](O)([C@]4(O)OC(/C(=C/C(C(=O)/C(=C/C)C)C)C)[C@H](CC4)C)CC
 MC21-A	C1=C(C=C(C(=C1Br)O)C2=CC(=CC(=C2O)Br)Br)Br
 Debromomarinone	O=C2C=1O[C@@]([C@H]4[C@@H](C=1C(=O)c3cc(O)cc(O)c23)/C=C(\CC4)C)(C)CC\C=C(/C)C
+Marinone	CC1=C[C@H]2[C@@H](CC1)[C@](OC3=C2C(=O)C4=C(C3=O)C(=CC(=C4Br)O)O)(C)CCC=C(C)C
 25C-NBOH	COc1cc(Cl)c(OC)cc1CCNCc2ccccc2O
 Harmol	CC1=C2C(=C3C=CC(=O)C=C3N2)C=CN1
 Vasicine	C1CN2CC3=CC=CC=C3N=C2C1O
@@ -18390,3 +18391,4 @@ Manganese arsenide	[As].[Mn]
 AC-42	O=C(C=1C=CC=CC1C)CCCN2CCC(CC2)CCCC
 Bromerguride	CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
 4-Chloro-4-deoxygalactose	C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)Cl)O)O
+Hydroxyphenamate	CCC(COC(=O)N)(C1=CC=CC=C1)O
