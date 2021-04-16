@@ -10378,6 +10378,7 @@ Potassium hydrogenoxalate	[K+].[O-]C(=O)C(=O)O
 Mifamurtide	CCCCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCCNC(=O)[C@H](C)NC(=O)CC[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]1C(O)[C@@H](CO)O[C@@H](O)[C@@H]1NC(C)=O)C(N)=O)OC(=O)CCCCCCCCCCCCCCC
 Quinolizidine	C1CCN2CCCCC2C1
 Methanetetracarboxylate	C(=O)(C(C(=O)[O-])(C(=O)[O-])C(=O)[O-])[O-]
+Methanetetracarboxylate	C(=O)(C(C(=O)O)(C(=O)O)C(=O)O)O
 Kasugamycin	OC(=O)C(=N)N[C@H]2C[C@H](N)[C@@H](O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O)O[C@@H]2C
 Dioxosuccinic acid	C(=O)(C(=O)C(=O)O)C(=O)O
 Harmane	CC1=NC=CC2=C1NC3=CC=CC=C23
@@ -13918,6 +13919,7 @@ N,alpha-Diethylphenylethylamine	C(C)NC(CC1=CC=CC=C1)CC
 SR-57227	ClC1=CC=CC(N2CCC(N)CC2)=N1
 Anonaine	C1CN[C@@H]2CC3=CC=CC=C3C4=C2C1=CC5=C4OCO5
 Asimilobine	COC1=C(C=C2CCN[C@@H]3C2=C1C4=CC=CC=C4C3)O
+Mesembranol	CN1CC[C@]2([C@@H]1C[C@@H](CC2)O)c3ccc(c(c3)OC)OC
 Arisugacin A	C[C@@]12CC[C@@]3([C@@]([C@]1(CC4=C(O2)C=C(OC4=O)C5=CC(=C(C=C5)OC)OC)O)(C(=O)C=CC3(C)C)C)O
 Tortuosamine	CNCC[C@@]1(CCC2=C(C1)C=CC=N2)C3=CC(=C(C=C3)OC)OC
 Diphenidine	c1ccc(cc1)CC(c2ccccc2)N3CCCCC3
@@ -18392,3 +18394,6 @@ AC-42	O=C(C=1C=CC=CC1C)CCCN2CCC(CC2)CCCC
 Bromerguride	CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
 4-Chloro-4-deoxygalactose	C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)Cl)O)O
 Hydroxyphenamate	CCC(COC(=O)N)(C1=CC=CC=C1)O
+Rhodium(III) iodide	[Rh](I)(I)I
+Alloclamide	CCN(CC)CCNC(=O)C1=C(C=C(C=C1)Cl)OCC=C
+Actinium(III) bromide	[Br-].[Br-].[Br-].[Ac]
