@@ -2897,6 +2897,7 @@ Chlorophyll d	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCCC(\C)=C\COC(=O)CC[C@H]6[C@H](C)C=5
 Chlorophyll b	CCC1=C(C2=NC1=CC3=C(C4=C([C@@H](C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)[C@H]([C@@H]5CCC(=O)OC/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C)C(=O)OC)[O-])C)C=O.[Mg+2]
 3-Dehydroquinic acid	O=C1[C@@H](O)[C@H](O)C[C@](O)(C(=O)O)C1
 Nanocar	CCCCCCCCCCOc1cc(c(cc1C#Cc2cc(ccc2C#Cc3cc(c(cc3OCCCCCCCCCC)C#CC45c6c7c8c9c1c2c3c%10c%11c%12c%13c3c1c1c8c3c6c6c4c4c8c%14c%15c%16c(c%11c%11c%10c%10c2c2c9c7c7c9c2c%10c2c%11c%16c%10c2c9c(c4c%10%14)C57)c2c%12c4c%13c1c3c1c4c(c2%15)c8c16)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#Cc1cc(ccc1C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)C#Cc1cc(c(cc1OCCCCCCCCCC)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)OCCCCCCCCCC)OCCCCCCCCCC
+Nanocar	c1cc(ccc1C#Cc2ccc(cc2)C#Cc3cc(ccc3C#Cc4ccc(cc4)C#CC56c7c8c9c1c2c3c4c%10c%11c%12c%13c4c2c2c9c4c7c7c5c5c9c%14c%15c%16c(c%11c%11c%10c%10c3c3c1c8c1c8c3c%10c3c%11c%16c%10c3c8c(c5c%10%14)C61)c1c%12c3c%13c2c4c2c3c(c1%15)c9c27)C#Cc1ccc(cc1)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)C#Cc1cc(ccc1C#Cc1ccc(cc1)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43)C#Cc1ccc(cc1)C#CC12c3c4c5c6c7c8c9c%10c%11c%12c%13c9c7c7c5c5c3c3c1c1c9c%14c%15c%16c(c%11c%11c%10c%10c8c8c6c4c4c6c8c%10c8c%11c%16c%10c8c6c(c1c%10%14)C24)c1c%12c2c%13c7c5c4c2c(c1%15)c9c43
 Tiletamine	O=C2C(c1sccc1)(NCC)CCCC2
 Mangostin	CC(=CCC1=C(C=C2C(=C1O)C(=O)C3=C(C(=C(C=C3O2)O)OC)CC=C(C)C)O)C
 1,2,3-Triazole	c1cnn[nH]1
@@ -5438,6 +5439,7 @@ Pipradrol	OC(c1ccccc1)(c2ccccc2)C3NCCCC3
 Vinconate	O=C(OC)C/1=C/CC3c2n\1c4ccccc4c2CCN3CC
 Clortermine	Clc1ccccc1CC(N)(C)C
 Bemegride	O=C1NC(=O)CC(CC)(C1)C
+Monocalcium aluminate	[O-][Al]=O.[O-][Al]=O.[Ca+2]
 Ranolazine	O=C(Nc1c(cccc1C)C)CN3CCN(CC(O)COc2ccccc2OC)CC3
 Alphenal	O=C1NC(=O)NC(=O)C1(c2ccccc2)C\C=C
 Butallylonal	O=C1NC(=O)NC(=O)C1(C(C)CC)CC(\Br)=C
@@ -11044,7 +11046,7 @@ Flucindole	CN(C)C1CCC2=C(C1)C3=CC(=CC(=C3N2)F)F
 Alovudine	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H](F)C2)CO
 Antimony telluride	[Te]=[Sb][Te][Sb]=[Te]
 Antimony telluride	[Sb+3].[Sb+3].[Te-2].[Te-2].[Te-2]
-Mordant Brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
+Mordant brown 33	[Na+].O=C2/C=C\C(=C/C2=N\Nc1cc(c(N)cc1N)S([O-])(=O)=O)[N+]([O-])=O
 2-Mercaptopyridine	S=C1/C=C\C=C/N1
 2-Chloropyridine	Clc1ncccc1
 Hydracarbazine	C1=CC(=NN=C1C(=O)N)NN
@@ -13842,6 +13844,7 @@ Vindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4C([C@@H]2OC(=O)C)(C(
 Olivacine	Cc1c2ccnc(c2cc3c1[nH]c4c3cccc4)C
 Cepharanthine	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)OC)OCO3
 Cepharanoline	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)O)OCO3
+Myrtenol	CC1(C2CC=C(C1C2)CO)C
 Affinine	C/C=C1CN(C)[C@H]2CC3=C(C(C[C@H]/1[C@]2(C)CO)=O)NC4=C3C=CC=C4
 Norharmine	COC1=CC2=C(C=C1)C3=C(N2)C=NC=C3
 Norscopolamine	C1[C@@H]2[C@@H]3[C@@H](O3)[C@@H](N2)CC1OC(=O)[C@H](CO)C4=CC=CC=C4
@@ -14004,6 +14007,7 @@ Scandium bromide	Br[Sc](Br)Br
 Acrinathrin	CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C\C(=O)OC(C(F)(F)F)C(F)(F)F)C
 Titanium(III) bromide	[Ti](Br)(Br)Br
 Wilfortrine	CC(=O)OC[C@]12[C@@H]([C@@H]([C@@H]3[C@H]([C@]14C([C@H]([C@@H]([C@@H]2OC(=O)C)OC(=O)C5=COC=C5)OC(=O)C(CCC6=C(C=CC=N6)C(=O)OC[C@@]3(O4)C)(C)O)(C)O)OC(=O)C)OC(=O)C)OC(=O)C
+Mulberrofuran G	CC1=C[C@H]2C3[C@H](C1)C4=C(C=C(C=C4)O)O[C@]3(OC5=CC(=CC(=C25)O)C6=CC7=C(O6)C=C(C=C7)O)C8=C(C=C(C=C8)O)O
 Kuwanon G	CC1=C[C@@H]([C@H]([C@@H](C1)C2=C(C=C(C=C2)O)O)C(=O)C3=C(C=C(C=C3)O)O)C4=C(C=C(C5=C4OC(=C(C5=O)CC=C(C)C)C6=C(C=C(C=C6)O)O)O)O
 25CN-NBOH	COc1cc(C#N)c(OC)cc1CCNCc2ccccc2O
 Moracin M	C1=CC2=C(C=C1O)OC(=C2)C3=CC(=CC(=C3)O)O
