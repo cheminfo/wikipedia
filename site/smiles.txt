@@ -13674,6 +13674,7 @@ Akuammicine	C123C(=C(C4CC1N(CC3)CC4=CC)C(OC)=O)Nc1c2cccc1
 Boonein	O=C1OCC[C@H]2C[C@H](O)[C@H](C)[C@@H]12
 Loganin	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
 Echitamidine	C[C@@H]([C@@H]1CN2CCC34[C@@H]2C[C@@H]1C(=C3NC5=CC=CC=C45)C(=O)OC)O
+Nareline	C/C=C/1\[C@@H]2C[C@@H]3C4=NC5=CC=CC=C5C4([C@@H]2C(=O)OC)C6C1N3O[C@@H]6O
 Alschomine	C/C=C\1/C=[N+]([C@H]2C[C@@H]1C([C@@]34[C@@]2(Nc5c3cccc5)O[C@H](C4)OC)C(=O)OC)[O-]
 Picrinine	C/C=C\1/CN2C3CC1C(C45C3(NC6=CC=CC=C64)OC2C5)C(=O)OC
 Scholarine	C[C@@H]([C@@H]1CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3Nc5c4cccc5OC)C(=O)OC)O
@@ -16662,7 +16663,7 @@ Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C(C(C(=O)O)N)[TeH]
 Transplatin	N.N.Cl[Pt]Cl
-Transplatin	Cl[Pt](Cl)([NH3+])[NH3+]
+Transplatin	Cl[Pt](Cl)([NH3])[NH3]
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
@@ -16818,7 +16819,7 @@ Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=C
 Chlorphenacemide	C1=CC=C(C=C1)C(C(=O)NC(=O)N)Cl
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
-T-1123	CC[N+](C)(CC)c1cccc(c1)OC(=O)NC.[Cl-]
+T-1123	CC[N+](C)(CC)C1=CC(=CC=C1)OC(=O)NC.[I-]
 Di-deuterated linoleic acid ethyl ester	CCCCCC=CCC=CCCCCCCCC(=O)OCC
 19-Nordehydroepiandrosterone	C[C@]12CC[C@@H]3[C@H]4CC[C@@H](CC4=CC[C@H]3[C@@H]1CCC2=O)O
 Chlorantraniliprole	CC1=C(C(=CC(=C1)Cl)C(=O)NC)NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br
@@ -18408,3 +18409,4 @@ Actinium(III) bromide	[Br-].[Br-].[Br-].[Ac]
 Actinium(III) iodide	[I-].[I-].[I-].[Ac+3]
 Actinium(III) sulfide	[S-2].[S-2].[S-2].[Ac+3].[Ac+3]
 Actinium(III) phosphate	[O-]P(=O)([O-])[O-].[Ac+3]
+Rhodium(IV) fluoride	F[Rh](F)(F)F
