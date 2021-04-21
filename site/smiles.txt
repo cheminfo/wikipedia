@@ -13731,7 +13731,7 @@ Elaiomycin	CCCCCC/C=C\[N+](=N\[C@@H](COC)[C@H](C)O)\[O-]
 Isoemericellin	C/C(C)=C\Cc3ccc2Oc1cc(C)c(OC\C=C(/C)C)c(CO)c1C(=O)c2c3O
 Arugosin C	CC1=CC(=C2C3=C1OCC(C3OC4=C(C2=O)C(=C(C=C4)CC=C(C)C)O)C(C)(C)O)O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
-Neopluramycin	C/C=C(\C)/c1cc(=O)c2c(cc3c(c2o1)C(=O)c4c(c(cc(c4O)C5CC(C(C(O5)C)OC(=O)C)(C)N(C)C)C6CC(C(C(O6)C)O)N(C)C)C3=O)C
+Neopluramycin	C/C=C(\C)/C1=CC(=O)C2=C(O1)C3=C(C=C2C)C(=O)C4=C(C3=O)C(=C(C=C4C5CC(C(C(O5)C)O)N(C)C)C6CC(C(C(O6)C)OC(=O)C)(C)N(C)C)O
 Shamixanthone	C/C(C)=C\Cc4ccc(O)c3C(=O)c2c(cc(C)c1OC[C@H]([C@H](O)c12)C(C)=C)Oc34
 Evariquinone	COC1=C2C(=O)C3=C(O)C(O)=C(O)C=C3C(=O)C2=CC(C)=C1
 Macromomycin B	O=C(OC)c2cc(OC)cc1O/C(C(=O)Nc12)=C
@@ -13859,6 +13859,7 @@ Neotripterifordin	C[C@@]12CCC[C@@]3([C@@H]1CC[C@]45[C@H]3CC[C@H](C4)[C@](C5)(C)O
 Terpestacin	C/C/1=C\CC/C(=C/C[C@]2([C@H](C/C=C(/[C@H](CC1)O)\C)C(=C(C2=O)O)[C@H](C)CO)C)/C
 Retigeric acid B	CC(C)[C@H]1CC[C@@H]2[C@@]1(CC[C@]3([C@]2(CC=C4[C@@H]3CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)C(=O)O)O)O)C(=O)O)C)C)C
 Cucurbitacin D	C[C@@]12C[C@H]([C@@H]([C@]1(CC(=O)[C@@]3([C@H]2CC=C4[C@H]3C[C@@H](C(=O)C4(C)C)O)C)C)[C@](C)(C(=O)/C=C/C(C)(C)O)O)O
+Neurolenin B	C[C@@H]/1C[C@@H]2[C@@H]([C@@H]([C@H]([C@](C(=O)/C=C1)(C)O)OC(=O)C)OC(=O)CC(C)C)C(=C)C(=O)O2
 Blazein	CC(C)C(C)/C=C/C(C)[C@H]1CCC2[C@@]1(CC[C@H]3C2=C[C@H]([C@@]4([C@@]3(CC[C@@H](C4)O)C)O)OC)C
 Eritadenine	c1nc(c2c(n1)n(cn2)C[C@H]([C@H](C(=O)O)O)O)N
 Methylidenecarbene	[C]=C
@@ -16516,6 +16517,7 @@ Glycinamide	C(C(=O)N)N
 HEPBS	C1CN(CCN1CCCCS(=O)(=O)O)CCO
 Pemafibrate	CC[C@H](C(=O)O)Oc1cccc(c1)CN(CCCOc2ccc(cc2)OC)c3nc4ccccc4o3
 4-Quinolone	C1=CC=C2C(=C1)C(=O)C=CN2
+Para-Nitroblebbistatin	CC1=CC2=C(C=C1)N=C3C(C2=O)(CCN3C4=CC=C(C=C4)[N+](=O)[O-])O
 Tricarbon monosulfide	[CH0]=C=C=S
 Hypercubane	C/1=C/C\28/C=C\C\39\C=C/C\46/C=C\C17/C=C\C/5%15\C=C/C%13(/C=C2)\C=C/C%11(/C=C3)\C=C/C(/C=C4)(\C=C5)C%12%17C6%10C7%16C8%14C9%10C%11%12C%13%14C%15%16%17
 3β-Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C
