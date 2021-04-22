@@ -13796,6 +13796,7 @@ Methyldibromo glutaronitrile	C(CC(CBr)(C#N)Br)C#N
 Aspidospermidine	CC[C@]12CCCN3[C@H]1[C@]4(CC3)c5ccccc5N[C@@H]4CC2
 Kopsanone	C1CC23CCC45C(C2)C(=O)C6C4(C3N(C1)C6)C7=CC=CC=C7N5
 Vinorine	C/C=C\1/CN2[C@H]3C[C@@H]1C4[C@@H]2C[C@]5([C@@H]4OC(=O)C)C3=NC6=CC=CC=C56
+Normacusine B	C/C=C/1\CN2C3CC1C(C2CC4=C3NC5=CC=CC=C45)CO
 Macusine B	C/C=C\1/C[N@+]2([C@H]3C[C@H]1[C@@H](C2CC4=C3NC5=CC=CC=C45)CO)C
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
 Geissolosimine	CC[C@@H]1CN2CC[C@@]34C2CC1[C@H]5C3N(C(OC5)C6[C@@H]\7CC8C9=C(CC6N8C/C7=C/C)C1=CC=CC=C1N9)C1=CC=CC=C41
@@ -14053,6 +14054,7 @@ Bottromycin	C[C@@H]1CCN2[C@@H]1C(=O)N[C@H](C(=O)N[C@H](/C(=N/[C@H](C(=O)N[C@@H](
 Avicularin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H](O4)CO)O)O)O)O
 Delsoline	CC[N@]1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H](C([C@H]31)([C@]5(C[C@@H]([C@H]6C[C@@H]4[C@@H]5[C@H]6OC)OC)O)O)OC)O)COC
 Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
+Oreobeiline	CN1CCC23CC(C(CC2C1CC4=CC(=C(C=C34)OC)O)O)OC
 Nostocarboline	C[N+]1=CC2=C(C=C1)C3=C(N2)C=CC(=C3)Cl
 Majdine	C[C@H]1[C@@H]2CN3CC[C@]4([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=C(C(=C(C=C5)OC)OC)NC4=O
 Girolline	C1=C(NC(=N1)N)C(C(CN)Cl)O
@@ -16589,7 +16591,7 @@ Pirenperone	CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F
 Gedatolisib	CN(C)C1CCN(CC1)C(=O)C2=CC=C(C=C2)NC(=O)NC3=CC=C(C=C3)C4=NC(=NC(=N4)N5CCOCC5)N6CCOCC6
 Triazoledione	C1CN(CCN1CCCN2C(=O)N(C(=O)N2)CCOC3=CC=CC=C3)C4=CC(=CC=C4)Cl
 Hydroxynefazodone	CC(C1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl)O
-Oritin	C1C(C(OC2=C1C=CC(=C2O)O)C3=CC=C(C=C3)O)O
+Oritin	C1[C@H]([C@@H](OC2=C1C=CC(=C2O)O)C3=CC=C(C=C3)O)O
 P-Menthane	CC1CCC(CC1)C(C)C
 4-Fluorophenibut	C1=CC(=CC=C1C(CC(=O)O)CN)F
 Imepitoin	C1COCCN1C2=NC(=O)N(C2)C3=CC=C(C=C3)Cl
@@ -18412,3 +18414,5 @@ Actinium(III) iodide	[I-].[I-].[I-].[Ac+3]
 Actinium(III) sulfide	[S-2].[S-2].[S-2].[Ac+3].[Ac+3]
 Actinium(III) phosphate	[O-]P(=O)([O-])[O-].[Ac+3]
 Rhodium(IV) fluoride	F[Rh](F)(F)F
+Tetravinyltin	C=C[Sn](C=C)(C=C)C=C
+2-Iodomelatonin	CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)I
