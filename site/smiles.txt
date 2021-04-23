@@ -12904,6 +12904,7 @@ Oxabolone	O=C4CC[C@H]3C(/CC[C@@H]1[C@@H]3CC[C@]2(C)[C@@H](O)CC[C@@H]12)=C4/O
 Morphine methylbromide	[H][C@]1([C@@H](O)C=C2)[C@]([C@]2([H])[C@H]3C4)(CC[N+]3(C)C)C5=C4C=CC(O)=C5O1.[Br-]
 Tremorine	C2CCCN2CC#CCN1CCCC1
 Androstanedione	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
+Gadolinium oxyorthosilicate	[O-2].[O-2].[O-][Si](=O)[O-].[Gd+3].[Gd+3]
 Codeine-N-oxide	[O-][N@@+]4([C@@H]3Cc5c1c(O[C@@H]2[C@]1([C@H]3/C=C\[C@@H]2O)CC4)c(OC)cc5)C
 N-Methylpseudoephedrine	O[C@@H](c1ccccc1)[C@@H](N(C)C)C
 4-Pyridylnicotinamide	O=C(Nc1ccncc1)c2cccnc2
@@ -13556,7 +13557,7 @@ Nigrosporin B	C[C@@]1(CC2=C(C[C@H]1O)C(=C3C(=C2)C(=O)C(=CC3=O)OC)O)O
 Austrocortirubin	C[C@]1(C[C@@H](C2=C(C3=C(C(=C2C1)O)C(=O)C(=CC3=O)OC)O)O)O
 Austrocortilutein	C[C@]1(CC(C2=C(C1)C(=O)C3=CC(=CC(=C3C2=O)O)OC)O)O
 Pencolide	C/C=C(/C(=O)O)\N1C(=O)C=C(C1=O)C
-Viscumamide	O=C1NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC1C(C)CC)CC(C)C)C(C)CC)CC(C)C)CC(C)C
+Viscumamide	[C@@H](CC)(C)[C@]1(C(=O)N[C@@H](CC(C)C)C(=O)N[C@@]([C@H](CC)C)(C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N1)[H])[H]
 Yunnanin A	C1C[C@H]2C(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N2C1)CC4=CC=C(C=C4)O)CC5=CC=CC=C5
 Hymenistatin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N[C@H](C(=O)N1)CC(C)C)C(C)C)Cc5ccc(cc5)O)[C@@H](C)CC
 3-Aminophthalic acid	c1cc(c(c(c1)N)C(=O)O)C(=O)O
@@ -15505,6 +15506,11 @@ Flubendiamide	CC1=C(C=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)NC(=O)C2=C(C(=CC=C2)I)C(=O)N
 Alpelisib	CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
 AMG 319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
 Sodium arsenide	[Na][As]([Na])[Na]
+Epoxyeicosatetraenoic acid	CCC1C(O1)C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O
+Epoxyeicosatetraenoic acid	CC/C=C\CC1C(O1)C/C=C\C/C=C\C/C=C\CCCC(=O)O
+Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\CC1C(O1)C/C=C\C/C=C\CCCC(=O)O
+Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\CC1C(O1)C/C=C\CCCC(=O)O
+Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\C/C=C\CC1C(O1)CCCC(=O)O
 Etoxazole	CCOc1cc(ccc1C2COC(=N2)c3c(cccc3F)F)C(C)(C)C
 Entospletinib	C1COCCN1C2=CC=C(C=C2)NC3=NC(=CN4C3=NC=C4)C5=CC6=C(C=C5)C=NN6
 Tolibut	CC1=CC=C(C=C1)C(CC(=O)O)CN
