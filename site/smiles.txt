@@ -5576,6 +5576,7 @@ Mebhydrolin	CN3Cc4c1ccccc1n(Cc2ccccc2)c4CC3
 3,4-Methylenedioxy-N-methoxyamphetamine	CC(NOC)Cc1ccc2OCOc2c1
 Maraviroc	Cc5nnc(n5[C@@H]1C[C@H]4CC[C@@H](C1)N4CC[C@H](NC(=O)C2CCC(F)(F)CC2)c3ccccc3)C(C)C
 Isocetane	C(C)(C)CC(C)CC(C)(C)CC(C)(C)C
+Benfotiamine	O=P(O)(O)OCCC(/SC(=O)c1ccccc1)=C(/N(C=O)Cc2cnc(nc2N)C)C
 (Hydroxyethyl)methacrylate	O=C(OCCO)\C(=C)C
 Adosterol	IC[C@H]2\C4=C(/[C@H]1CC[C@]3([C@H]([C@@H]1C2)CC[C@@H]3C(C)CCCC(C)C)C)CC[C@H](O)C4
 Triolein	O=C(OCC(OC(=O)CCCCCCC\C=C/CCCCCCCC)COC(=O)CCCCCCC\C=C/CCCCCCCC)CCCCCCC\C=C/CCCCCCCC
@@ -18428,3 +18429,4 @@ Tetravinyltin	C=C[Sn](C=C)(C=C)C=C
 Belzutifan	CS(=O)(=O)C1=CC=C(OC2C=C(F)C=C(C=2)C#N)C2[C@@H](F)[C@@H](F)[C@@H](O)C1=2
 Sodium naphthalene	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
 Lithium naphthalene	[Li].C1=CC=C2C=CC=CC2=C1
+Azumolene	C1C(=O)NC(=O)N1/N=C/C2=NC=C(O2)C3=CC=C(C=C3)Br
