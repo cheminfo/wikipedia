@@ -9004,6 +9004,7 @@ Difenacoum	C1C(CC2=CC=CC=C2C1C3=C(OC4=CC=CC=C4C3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6
 Ergocristine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3Cc4ccccc4)(NC(=O)[C@@H]8/C=C7/c5cccc6c5c(c[nH]6)C[C@H]7N(C)C8)C(C)C
 Fumarin	CC(=O)CC(C1=CC=CO1)C2=C(OC3=CC=CC=C3C2=O)O
 Ergocornine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3C(C)C)(NC(=O)[C@@H]7/C=C6/c4cccc5c4c(c[nH]5)C[C@H]6N(C)C7)C(C)C
+Ergovaline	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3C(C)C)(NC(=O)[C@@H]7/C=C6/c4cccc5c4c(c[nH]5)C[C@H]6N(C)C7)C
 Fluindione	C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)F
 Senicapoc	C1=CC=C(C=C1)C(C2=CC=C(C=C2)F)(C3=CC=C(C=C3)F)C(=O)N
 Phenyldichloroarsine	Cl[As](Cl)c1ccccc1
@@ -9338,6 +9339,7 @@ Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
 Alpha-Methylserotonin	c2cc(O)cc1c2[nH]cc1CC(N)C
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
+AC-262,536	OC1C[C@@H]2CC[C@H](C1)N2c3ccc(C#N)c4ccccc34
 S-23 (drug)	C[C@](COC1=CC(=C(C=C1)Cl)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
 Glucose 1,6-bisphosphate	O=P(O)(O)OC[C@H]1O[C@H](OP(=O)(O)O)[C@H](O)[C@@H](O)[C@@H]1O
 1,3-Diaminopropane	NCCCN
@@ -18431,3 +18433,5 @@ Sodium naphthalene	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
 Lithium naphthalene	[Li].C1=CC=C2C=CC=CC2=C1
 Azumolene	C1C(=O)NC(=O)N1/N=C/C2=NC=C(O2)C3=CC=C(C=C3)Br
 Aclonifen	C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
+JNJ-10397049	BrC1=CC=C(NC(N[C@@H]2[C@H](C3=CC=CC=C3)OC(C)(C)OC2)=O)C(Br)=C1
+Sodium deuteroxide	[Na+].[O-][2H]
