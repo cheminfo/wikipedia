@@ -2627,6 +2627,7 @@ Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
 Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
 Lutetium(III) oxide	[Lu+3].[O-2].[O-2].[Lu+3].[O-2]
+Ruthenium(III) chloride	Cl[Ru](Cl)Cl
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
 Thulium(III) oxide	[O-2].[O-2].[O-2].[Tm+3].[Tm+3]
 Amisulpride	O=S(=O)(c1cc(c(OC)cc1N)C(=O)NCC2N(CC)CCC2)CC
@@ -14161,6 +14162,7 @@ Atizoram	COC1=C(C=C(C=C1)C2CNC(=O)NC2)O[C@H]3C[C@@H]4CC[C@H]3C4
 SCH-51866	CN1C(=O)C2=C(N=C(N2)CC3=CC=C(C=C3)C(F)(F)F)N4C1=N[C@H]5[C@@H]4CCC5
 MY-5445	C1=CC=C(C=C1)C2=NN=C(C3=CC=CC=C32)NC4=CC(=CC=C4)Cl
 T-0156	CC1=NC=CC(=C1)CN2C(=C(C3=C(C2=O)C(=NC=C3)OCC4=NC=CC=N4)C5=CC(=C(C(=C5)OC)OC)OC)C(=O)OC
+T-0156	CC1=NC=CC(=C1)CN2C(=C(C3=C(C2=O)C(=NC=C3)OCC4=NC=CC=N4)C5=CC(=C(C(=C5)OC)OC)OC)C(=O)OC.Cl
 BAY 60-7550	CC1=C2C(=O)N=C(NN2C(=N1)[C@@H](CCCC3=CC=CC=C3)[C@@H](C)O)CC4=CC(=C(C=C4)OC)OC
 ICI-63197	CCCN1C(=O)C(=CN2C1=NC(=N2)N)C
 8-Methoxymethyl-3-isobutyl-1-methylxanthine	CC(C)CN1C2=C(C(=O)N(C1=O)C)NC(=N2)COC
@@ -18488,3 +18490,6 @@ Luteoskyrin	Cc1cc(c2c(c1O)C(=O)C34C5C6C(C3C(=O)C7=C(c8c(cc(c(c8C(=O)C67C(C5O)C(=
 Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
 1-Nonene	C=C\CCCCCCC
+Gallium(III) sulfate	O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3].[Ga+3]
+Gallium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3].[Ga+3]
+Gallium(III) sulfate	O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3].[Ga+3]
