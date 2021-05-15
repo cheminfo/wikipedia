@@ -5692,6 +5692,7 @@ Metaescaline	COc1c(cc(cc1OCC)CCN)OC
 Bilane	C1=CNC(=C1)CC2=CC=C(N2)CC3=CC=C(N3)CC4=CC=CN4
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
+Fluorosulfonate	[O-]S(=O)(=O)F
 TME (psychedelics)	CCSC1=CC(=CC(=C1OC)OC)CCN
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
 TOMSO	COC1=C(C=C(C(=C1)C)S(=O)C)CC(C)N
@@ -18506,3 +18507,4 @@ Gallium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3
 Gallium(III) sulfate	O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3].[Ga+3]
 Evernic acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)OC
 Merochlorophaeic acid	CCCCCC1=CC(=C(C(=C1C(=O)O)O)OC(=O)C2=C(C=C(C=C2OC)OC)CCC)O
+CA77.1	CC(=O)NC1=CC=C(C=C1)C2=CN=C3C=C(C=CC3=N2)Cl
