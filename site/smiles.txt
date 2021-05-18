@@ -3801,7 +3801,7 @@ Sodium metasilicate	[Na+].[Na+].[O-][Si]([O-])=O
 Nedocromil	O=C\1c3c(N(/C(C(=O)O)=C/1)CC)c(c2O/C(=C\C(=O)c2c3)C(=O)O)CCC
 2-Mercaptoethanol	OCCS
 FCE 28260	FC(F)(F)C(c1ccccc1)(NC(=O)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C)C
-1,2-Ethanedithiol	SCCS
+Ethane-1,2-dithiol	SCCS
 Dichlorodifluoroethylene	ClC(Cl)=C(F)F
 Dichlorodifluoroethylene	Cl/C(F)=C(\Cl)F
 Dichlorodifluoroethylene	Cl/C(F)=C(/Cl)F
@@ -13177,7 +13177,7 @@ Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 Cyclohexylacetone	O=C(CC1CCCCC1)C
 Calostomal	C(=C/C=C/C=C/C=C/C(=O)O)\C=C\C=C\C=C\C=O
 Cyclopropyl cyanide	N#CC1CC1
-1,1-Ethanedithiol	SC(S)C
+Ethane-1,1-dithiol	SC(S)C
 Triacetic acid lactone	C/C1=CC(\O)=C/C(=O)O1
 LY-235959	[H][C@]12[C@](CC[C@H](CP(O)(O)=O)C2)([H])CN[C@H](C(O)=O)C1
 GelRed	c1ccccc1-c2c3cc(N)ccc3c4ccc(N)cc4[n+]2CCCCCC(=O)NCCCOCCOCCOCCCNC(=O)CCCCC[n+]5c6cc(N)ccc6c7ccc(N)cc7c5-c8ccccc8.[I-].[I-]
@@ -14878,7 +14878,7 @@ Fexaramine	CN(C)C1=CC=C(C=C1)C2=CC=C(C=C2)CN(C3=CC=CC(=C3)/C=C/C(=O)OC)C(=O)C4CC
 PPPA (drug)	c1ccc(cc1)C(CCN)Oc2ccccc2
 N-Methyl-PPPA	CNCCC(Oc1ccccc1)c2ccccc2
 Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CO)OP(=O)(O)OP(=O)(O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)NC(=O)C
-Cyapho radical	[C]#P
+Carbon monophosphide	[C]#P
 Cyanoform	C(#N)C(C#N)C#N
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
@@ -18510,3 +18510,5 @@ Merochlorophaeic acid	CCCCCC1=CC(=C(C(=C1C(=O)O)O)OC(=O)C2=C(C=C(C=C2OC)OC)CCC)O
 CA77.1	CC(=O)NC1=CC=C(C=C1)C2=CN=C3C=C(C=CC3=N2)Cl
 Benzyl gentiobioside	C1=CC=C(C=C1)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O
 Anaritide	CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NCC(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)NC(CO)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)CNC(=O)C(CC3=CC=CC=C3)NC(=O)C(CS)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)N
+Cyazofamid	CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl
+Iron(IV) oxytetrafluoroborate	[Fe+4].[O-2].[B-](F)(F)(F)F.[B-](F)(F)(F)F
