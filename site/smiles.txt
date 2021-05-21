@@ -9815,6 +9815,7 @@ Barakol	CC2=Cc3cc(O)cc(c13)OC(C)=CC1(O)O2
 Licarbazepine	NC(=O)N1c2ccccc2CC(O)c3ccccc13
 Aflatoxin B1	O=C5C=4C(=O)Oc3c1c(OC2O\C=C/C12)cc(OC)c3C=4CC5
 Deltic acid	O=C1C(O)=C1O
+Armilenium	C1=CC2C3C=CC4C2C4C3[CH+]1
 Acetylenediol	OC#CO
 Para-Ethoxyamphetamine	O(c1ccc(cc1)CC(N)C)CC
 1,1-Dichloro-1-fluoroethane	ClC(Cl)(F)C
@@ -18478,6 +18479,7 @@ Actinium(III) iodide	[I-].[I-].[I-].[Ac+3]
 Actinium(III) sulfide	[S-2].[S-2].[S-2].[Ac+3].[Ac+3]
 Actinium(III) phosphate	[O-]P(=O)([O-])[O-].[Ac+3]
 Rhodium(IV) fluoride	F[Rh](F)(F)F
+Reutericyclin	C(/C=C/CCCCCCC)(=O)N1[C@H](CC(C)C)C(=O)C(C(C)=O)=C1O
 Tetravinyltin	C=C[Sn](C=C)(C=C)C=C
 2-Iodomelatonin	CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)I
 Belzutifan	CS(=O)(=O)C1=CC=C(OC2C=C(F)C=C(C=2)C#N)C2[C@@H](F)[C@@H](F)[C@@H](O)C1=2
@@ -18498,6 +18500,7 @@ Rugulosin	CC1=CC2=C(C(=C1)O)C(=C3C(=O)C4C(C5C3(C2=O)C6C(C5C47C(=C(C8=C(C7=O)C=C(
 Rugulosin	Cc1cc2c(c(c1)O)C(=O)C3=C([C@H]4[C@H]([C@H]5[C@]3(C2=O)[C@@H]6[C@H]([C@H]5[C@]47C(=O)c8cc(cc(c8C(=O)C7=C6O)O)C)O)O)O
 Luteoskyrin	Cc1cc(c2c(c1O)C(=O)[C@]34[C@@H]5[C@@H]6[C@H]([C@H]3C(=C7[C@@]6([C@@H]([C@@H]5O)C(=C4C2=O)O)C(=O)c8c(c(cc(c8O)C)O)C7=O)O)O)O
 Luteoskyrin	Cc1cc(c2c(c1O)C(=O)C34C5C6C(C3C(=O)C7=C(c8c(cc(c(c8C(=O)C67C(C5O)C(=O)C4=C2O)O)C)O)O)O)O
+Arborane	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC[C@H]4[C@H]3CC[C@@H]5[C@@]4(CCCC5(C)C)C)C)C)C
 5-Methyl-2-((2-nitrophenyl)amino)-3-thiophenecarbonitrile	Cc1cc(c(s1)Nc2ccccc2[N+](=O)[O-])C#N
 Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
