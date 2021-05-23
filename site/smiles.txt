@@ -18495,6 +18495,7 @@ Indenol	C1=CC=C2C(C=CC2=C1)O
 Ramalic acid	Cc1cc(cc(c1C(=O)O)O)OC(=O)c2c(cc(c(c2O)C)OC)C
 2-Hexoxyethanol	CCCCCCOCCO
 Copper(II) lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Cu+2]
+Sugiol	CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCCC3(C)C)C)O
 Lydicamycin	CC1=C[C@@H]2[C@@H](CC[C@H]([C@H]2O)O)[C@@]([C@@H]1CCC(C)C(/C(=C/CC(/C=C/C(C)C(/C=C/CC(/C(=C/CC(CC3CCCN3C(=N)N)O)/C)O)O)O)/C)O)(C)/C(=C\4/C(=O)CNC4=O)/O
 Rugulosin	CC1=CC2=C(C(=C1)O)C(=C3C(=O)C4C(C5C3(C2=O)C6C(C5C47C(=C(C8=C(C7=O)C=C(C=C8O)C)O)C6=O)O)O)O
 Rugulosin	Cc1cc2c(c(c1)O)C(=O)C3=C([C@H]4[C@H]([C@H]5[C@]3(C2=O)[C@@H]6[C@H]([C@H]5[C@]47C(=O)c8cc(cc(c8C(=O)C7=C6O)O)C)O)O)O
@@ -18521,3 +18522,5 @@ Hydroxychavicol	C=CCC1=CC(=C(C=C1)O)O
 Kurkinorin	C[C@@]12CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]1C(=O)C(=C[C@H]2C(=O)OC)OC(=O)C4=CC=CC=C4)C)C5=COC=C5
 Cannabichromenic acid	CCCCCC1=CC2=C(C=CC(O2)(C)CCC=C(C)C)C(=C1C(=O)O)O
 Cannabielsoin	CCCCCC1=CC(=C2[C@H]3[C@@H](CC[C@]([C@H]3OC2=C1)(C)O)C(=C)C)O
+Odevixibat	CCCCC1(CCCC)CN(C2=CC=CC=C2)C2=CC(SC)=C(OCC(=O)N[C@@H](C(=O)N[C@@H](CC)C(O)=O)C3=CC=C(O)C=C3)C=C2S(=O)(=O)N1
+Taraxacin	CC1=C(C(C=C2C)=O)C2=CC(C3C1)=C(C)C(O3)=O
