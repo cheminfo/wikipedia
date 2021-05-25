@@ -10177,7 +10177,7 @@ Alpha-Methyldopamine	Oc1ccc(cc1O)CC(N)C
 Isosakuranetin	COC1=CC=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O
 Poncirin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)OC)O)CO)O)O)O)O)O
 8-Bromoguanosine 3',5'-cyclic monophosphate	O=C4/N=C(/N)Nc1c4nc(Br)n1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
-Polyozellin	CC(=O)OC1=C2C(=C(C3=C1C4=CC(=C(C=C4O3)O)O)OC(=O)C)C5=CC(=C(C=C5O2)O)O
+Polyozellin	CC(=O)OC1=C(OC(C)=O)C2=C(OC3=CC(O)=C(O)C=C23)C4=C1C5=CC(O)=C(O)C=C5O4
 Sakuranetin	COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
 Asocainol	O(c3cc2c1c(O)c(OC)ccc1CC(N(CCc2cc3)C)CCc4ccccc4)C
 3',4'-Methylenedioxy-α-pyrrolidinobutiophenone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3
@@ -18503,7 +18503,10 @@ Luteoskyrin	Cc1cc(c2c(c1O)C(=O)[C@]34[C@@H]5[C@@H]6[C@H]([C@H]3C(=C7[C@@]6([C@@H
 Luteoskyrin	Cc1cc(c2c(c1O)C(=O)C34C5C6C(C3C(=O)C7=C(c8c(cc(c(c8C(=O)C67C(C5O)C(=O)C4=C2O)O)C)O)O)O)O
 Arborane	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC[C@H]4[C@H]3CC[C@@H]5[C@@]4(CCCC5(C)C)C)C)C)C
 5-Methyl-2-((2-nitrophenyl)amino)-3-thiophenecarbonitrile	Cc1cc(c(s1)Nc2ccccc2[N+](=O)[O-])C#N
+Highly branched isoprenoid	CC(C)CCCC(C)CCC(CCC(C)C=C)C(C)CCCC(C)C
 Lycopane	CC(C)CCCC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C
+Chamaecydin	CC(C)C1=C2C3=C(C[C@@H]4[C@@](C3=C(C1=O)O)(CCCC4(C)C)C)C(=O)[C@]25CC[C@]6([C@@H]5C6)C(C)C
+Hydroxyarchaeol	CC(C)CCCC(C)CCCC(C)CCCC(C)CCOC(CO)COCCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O
 Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
 1-Nonene	C=C\CCCCCCC
@@ -18525,4 +18528,11 @@ Cannabichromenic acid	CCCCCC1=CC2=C(C=CC(O2)(C)CCC=C(C)C)C(=C1C(=O)O)O
 Cannabielsoin	CCCCCC1=CC(=C2[C@H]3[C@@H](CC[C@]([C@H]3OC2=C1)(C)O)C(=C)C)O
 Odevixibat	CCCCC1(CCCC)CN(C2=CC=CC=C2)C2=CC(SC)=C(OCC(=O)N[C@@H](C(=O)N[C@@H](CC)C(O)=O)C3=CC=C(O)C=C3)C=C2S(=O)(=O)N1
 Taraxacin	CC1=C(C(C=C2C)=O)C2=CC(C3C1)=C(C)C(O3)=O
+Xylylene dibromide	C1=CC=C(C(=C1)CBr)CBr
 Perfluorohexanesulfonic acid	C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+Pyonitrin	C1=CC=C(C(=C1)C2=NC(=CS2)C3=C4C(=C5C=CC=C(C5=N3)Cl)C=CN4)O
+Pyonitrin	C1=CC=C2C(=C1)C3=C(C(=N2)C4=CSC(=N4)C5=CC=CC=C5O)NC=C3Cl
+Pyonitrin	C1=CC=C2C(=C1)C3=C(C(=N2)C4=CSC(=N4)C5=CC=CC=C5O)NC=C3
+Pyonitrin	C1=CC=C(C(=C1)C2=NC(=CS2)C3=C4C(=C5C=CC=C(C5=N3)Cl)C(=CN4)Cl)O
+2-Methylmethcathinone	CC1=CC=CC=C1C(=O)C(C)NC
+4-Bromothiophenol	C1=CC(=CC=C1S)Br
