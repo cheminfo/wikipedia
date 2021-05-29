@@ -3534,6 +3534,7 @@ Sodium phosphide	[Na+].[Na+].[Na+].[P-3]
 N-Formylmethionine	CSCC[C@H](NC=O)C(O)=O
 Di-tert-butyl peroxide	O(OC(C)(C)C)C(C)(C)C
 Diphenyl oxalate	O=C(Oc1ccccc1)C(=O)Oc2ccccc2
+Uranyl peroxide	[O-2].[O-2].[O-][O-].[U+6]
 Loprazolam	[O-][N+](=O)c1cc4c(cc1)N/2C(=O)C(\N=C\2C/N=C4/c3ccccc3Cl)=C\N5CCN(C)CC5
 Medazepam	ClC1=CC(C(C2=CC=CC=C2)=NCCN3C)=C3C=C1
 Mercury telluride	[Te]=[Hg]
@@ -8167,7 +8168,7 @@ Efaproxiral	Cc1cc(cc(c1)NC(=O)Cc2ccc(cc2)OC(C)(C)C(=O)O)C
 Mannosulfan	CS(=O)(=O)OC[C@H]([C@H]([C@@H]([C@@H](COS(=O)(=O)C)OS(=O)(=O)C)O)O)OS(=O)(=O)C
 Trofosfamide	C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl
 Nitramide	N[N+](=O)[O-]
-Protactinium (V) chloride	Cl[Pa](Cl)(Cl)(Cl)Cl
+Protactinium(V) chloride	Cl[Pa](Cl)(Cl)(Cl)Cl
 Surugatoxin	CC1(C(=O)N2C3=C(NCC2(C(C14C5=C(C=C(C=C5)Br)NC4=O)C(=O)OC6C(C(C(C(C6O)O)O)O)O)O)NC(=O)NC3=O)O
 Efaroxan	N\1=C(\NCC/1)C3(Oc2ccccc2C3)CC
 Amidephrine	O=S(=O)(Nc1cc(ccc1)C(O)CNC)C
@@ -18557,3 +18558,4 @@ Pyonitrin	C1=CC=C(C(=C1)C2=NC(=CS2)C3=C4C(=C5C=CC=C(C5=N3)Cl)C(=CN4)Cl)O
 Ruthenium(III) bromide	Br[Ru](Br)Br
 Ruthenium(III) bromide	[Br-].[Br-].[Br-].[Ru+3]
 HL156A	C1CCN(C1)C(=NC(=NC2=CC=C(C=C2)OC(F)(F)F)N)N
+Infigratinib	CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)OC)OC)Cl
