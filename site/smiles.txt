@@ -14447,6 +14447,7 @@ Vat Green 1	COC1=C2C3=C(C=CC4=C3C(=C1)C5=CC=CC=C5C4=O)C6=C7C2=C(C=C8C7=C(C=C6)C(
 Vat Yellow 1	C1=CC=C2C(=C1)C3=NC4=C5C6=C(C=C4)C(=O)C7=CC=CC=C7C6=NC8=C5C3=C(C2=O)C=C8
 Monomethyl auristatin F	O=C(N2[C@H]([C@H](OC)[C@H](C(=O)N[C@H](C(=O)O)Cc1ccccc1)C)CCC2)C[C@@H](OC)[C@@H](N(C(=O)[C@@H](NC(=O)[C@@H](NC)C(C)C)C(C)C)C)[C@@H](C)CC
 Vat Blue 36	Cc1c(cc(c2c1C(=O)C(=C3C(=O)c4cc(cc(c4S3)Cl)Cl)N2)OC)Cl
+Vat Orange 1	C1=CC2=C(C=C1Br)C(=O)C3=CC=C4C5=C(C=C(C=C5)Br)C(=O)C6=C4C3=C2C=C6
 Silacyclobutane	C1C[SiH2]C1
 Ritalinic acid	C1CCNC(C1)C(C2=CC=CC=C2)C(=O)O
 Imperialin	C[C@H]1CC[C@H]2[C@@]([C@@H]3CC[C@@H]4[C@H]([C@@H]3CN2C1)C[C@H]5[C@H]4CC(=O)[C@@H]6[C@@]5(CC[C@@H](C6)O)C)(C)O
@@ -18565,3 +18566,6 @@ Infigratinib	CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)O
 Nandrolone nonanoate	CCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C
 Guluronic acid	C(=O)[C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
 AAZ-A-154	CN(C)[C@H](C)Cn1ccc2cc(ccc21)OC
+R-16661	CCN1CC(OC1=NP(=O)(OC)SC)C
+Tetramethylammonium perchlorate	C[N+](C)(C)C.[O-]Cl(=O)(=O)=O
+Methylecgonine	CN1C2CCC1C(C(C2)O)C(=O)OC
