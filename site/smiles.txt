@@ -13868,6 +13868,8 @@ Vulgamycin	COC1=CC(=O)OC(=C1)[C@@H]2[C@@]3(C[C@@H]4C([C@]2([C@@H]([C@]3(C(=O)O4)
 Borinic acid	BO
 Piperlonguminine	CC(C)CNC(=O)/C=C/C=C/C1=CC2=C(C=C1)OCO2
 Ungiminorine	CO[C@@H]1[C@H]([C@@H]2[C@H]3C(=CCN3CC4=CC5=C(C=C24)OCO5)[C@H]1O)O
+Suberedamine	CN(C)CCCOC1=C(C=C(C=C1Br)CCNC(=O)[C@H](CC2=CC(=C(C=C2)OC)Br)N)Br
+Suberedamine	CN[C@@H](CC1=CC(=C(C=C1)OC)Br)C(=O)NCCC2=CC(=C(C(=C2)Br)OCCCN(C)C)Br
 Aplyzanzine A	CN(C)CCCOc1c(cc(cc1Br)CCNC(=O)[C@H](Cc2cc(c(c(c2)Br)OC)Br)N(C)C)Br
 Aplysamine-2	CN(C)CCCOC1=C(C=C(C=C1Br)CCNC(=O)/C(=N\O)/CC2=CC(=C(C=C2)OC)Br)Br
 Neothiobinupharidine	C[C@@H]1CC[C@H](N2[C@H]1CC[C@]3(C2)C[C@@]4(CC[C@H]5[C@@H](CC[C@H](N5C4)c6ccoc6)C)SC3)c7ccoc7
@@ -18576,3 +18578,6 @@ Phenylcopper	C1=CC=[C-]C=C1.[Cu+]
 Ibrexafungerp	C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C
 Conipyridoin E	CC1CCC2C(C1)C=CC(C2C(=O)C3=C(C(=CC4=CC=C(C=C4)O)NC3=O)O)C
 Dibutylmagnesium	CCC[CH2-].CCC[CH2-].[Mg+2]
+Octahydrotriborate	[BH2]12[H][BH2]13[H][BH2]23
+Neodymium(II) chloride	[Cl-].[Cl-].[Nd+2]
+Rhodium(III) hydroxide	[OH-].[OH-].[OH-].[Rh+3]
