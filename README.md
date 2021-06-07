@@ -1,6 +1,6 @@
 # Wikipedia chemical structure explorer
 
-[http://www.cheminfo.org/wikipedia](http://www.cheminfo.org/wikipedia)
+[https://www.cheminfo.org/wikipedia](http://www.cheminfo.org/wikipedia)
 
 ## Install locally
 
