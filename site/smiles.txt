@@ -3913,6 +3913,7 @@ Rotigotine	Oc1cccc3c1CCC(N(CCC)CCc2sccc2)C3
 Hydroxymethylpentylcyclohexenecarboxaldehyde	O=CC1C/C=C(/CCCC(O)(C)C)CC1
 Verbenone	CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C
 Cyclopiazonic acid	CC(=O)C1=C(O)[C@H]5N(C1=O)[C@@](C)(C)[C@@H]4Cc2cccc3[nH]cc(c23)[C@@H]45
+Methoxymethylenetriphenylphosphorane	COC=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Dihydrogen phosphate	OP(=O)(O)[O-]
 Thiosulfate	[O-]S(=O)(=S)[O-]
 Ammonium metavanadate	[NH4+].O=[V-](=O)=O
@@ -6085,7 +6086,7 @@ Levomefolic acid	CN1c2c([nH]c(nc2=O)N)NC[C@@H]1CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O
 AICA ribonucleotide	O=P(O)(O)OC[C@H]2O[C@@H](n1cnc(C(=O)N)c1N)[C@H](O)[C@@H]2O
 4-Hydroxyphenylpyruvic acid	O=C(O)C(=O)Cc1ccc(O)cc1
 Fumarylacetoacetic acid	O=C(\C=C\C(=O)O)CC(=O)CC(=O)O
-10-Formyltetrahydrofolate	O=C(O)C(NC(=O)c1ccc(cc1)N(C=O)CC3N/C2=C(/N/C(=N\C2=O)N)NC3)CCC(=O)O
+10-Formyltetrahydrofolate	c1cc(ccc1C(=O)N[C@@H](CCC(=O)O)C(=O)O)N(CC2CNc3c(c(=O)nc([nH]3)N)N2)C=O
 Biopterin	O=C2\N=C(/Nc1ncc(nc12)[C@@H](O)[C@@H](O)C)N
 Biopterin	O=C2\N=C(/Nc1ncc(nc12)C(O)C(O)C)N
 6,7-Dimethyl-8-ribityllumazine	O=C2/N=C\1/N(\C(=C(/N=C/1C(=O)N2)C)C)C[C@H](O)[C@H](O)[C@H](O)CO
@@ -17260,6 +17261,8 @@ Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC
 Tulipalin A	C=C1CCOC1=O
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 1,2-Epoxybutane	CCC1CO1
+1,2-Epoxybutane	CC[C@@H]1CO1
+1,2-Epoxybutane	CC[C@H]1CO1
 2,3-Epoxybutane	CC1C(O1)C
 2,3-Epoxybutane	C[C@@H]1[C@@H](O1)C
 2,3-Epoxybutane	C[C@H]1[C@@H](O1)C
@@ -18581,3 +18584,5 @@ Dibutylmagnesium	CCC[CH2-].CCC[CH2-].[Mg+2]
 Octahydrotriborate	[BH2]12[H][BH2-]13[H][BH2]23
 Neodymium(II) chloride	[Cl-].[Cl-].[Nd+2]
 Rhodium(III) hydroxide	[OH-].[OH-].[OH-].[Rh+3]
+RAC 421-II	CCNCCCN1C(=O)CC2(C1=O)CCCC3=CC=CC=C23.Cl
+Propylhexedrone	CC(C(=O)C1CCCCC1)NC
