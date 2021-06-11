@@ -12819,7 +12819,6 @@ Uranium(IV) iodide	I[U](I)(I)I
 Uranium hexachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U]
 Uranium tetrabromide	Br[U](Br)(Br)Br
 Uranium disulfide	[S-2].[S-2].[U+4]
-Uranium pentaiodide	[I-].[I-].[I-].[I-].[I-].[U+5]
 Diuranium pentoxide	O=[U](=O)O[U](=O)=O
 Uranium diselenide	[Se-2].[Se-2].[U+4]
 BD1031	c1cc(c(cc1CCN2CCN3CCC[C@@H]3C2)Cl)Cl
@@ -16360,7 +16359,7 @@ Moroidin	CC(C)C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2Cc3c4ccc(cc4[nH]c3-n5cc(nc5)C[C@H](
 Kaitocephalin	O=C(O)[C@H](N)[C@H](O)[C@]2(C(=O)O)N[C@@H](C[C@H](NC(=O)c1cc(Cl)c(O)c(Cl)c1)C(=O)O)CC2
 Gallium(I) oxide	O([Ga])[Ga]
 Cyanogen azide	C(#N)N=[N+]=[N-]
-Actinium fluoride	F[Ac](F)F
+Actinium(III) fluoride	F[Ac](F)F
 Curium(III) fluoride	F[Cm](F)F
 Promethium(III) fluoride	[F-].[F-].[F-].[Pm+3]
 Neptunium(III) fluoride	F[Np](F)F
@@ -18591,3 +18590,5 @@ MXiPr	CC(C)NC1(CCCCC1=O)c1cccc(OC)c1
 3-Methyl-PCP	CC1=CC(=CC=C1)C2(CCCCC2)N3CCCCC3
 Dysprosium(II) chloride	[Cl-].[Cl-].[Dy]
 Iron(II) tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Fe+2]
+5-Cl-bk-MPA	O=C(C(C)NC)c1ccc(Cl)s1
+Otenzepad	CCN(CC)CC1CCCCN1CC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4
