@@ -18140,6 +18140,7 @@ A-230	CCN(CC)C(C)=N[P](C)(F)=O
 A-242	CCN(CC)C(=N[P](C)(F)=O)N(CC)CC
 Hexaphosphabenzene	P1=PP=PP=P1
 5,6-Dihydro-5(α-thyminyl)thymine	CC1(CNC(=O)NC1=O)CC2=CNC(=O)NC2=O
+Radium sulfate	[O-]S(=O)(=O)[O-].[Ra]
 Technetium trichloride	[Cl-].[Cl-].[Cl-].[Tc+3]
 O-Mustard	C(CSCCCl)OCCSCCCl
 Hexafluorocyclobutene	C1(=C(C(C1(F)F)(F)F)F)F
@@ -18602,3 +18603,11 @@ PTI-3	COCCN(C)Cc1csc(n1)c1cn(CCCCCF)c2ccccc21
 Dipyanone	CCC(=O)C(CC(C)N1CCCC1)(c1ccccc1)c1ccccc1
 4'-Fluoro-4-methylaminorex	Fc1ccc(cc1)C1OC(N)=NC1C
 MDMAR	NC1=NC(C(O1)c1ccc2c(c1)OCO2)C
+N-Ethyl-2C-B	COC1=CC(CCNCC)=C(OC)C=C1Br
+Beryllium oxalate	[Be+2].C(=O)(C(=O)[O-])[O-]
+Lithium oxalate	[Li+].[Li+].[O-]C(=O)C([O-])=O
+3-Chloro-PCP	C1CCC(CC1)(C2=CC(=CC=C2)Cl)N3CCCCC3
+LY-367642	O=C(N(CC1=CC=NC=C1)CCC2)N2CCN3CCC(C4=CNC5=CC(F)=CC=C54)=CC3
+LY-393558	FC1=CC=C2C(NC=C2C3=CCN(CCN4S(N(C(C)C)CC5=C4C=CC(S(=O)(C)=O)=C5)(=O)=O)CC3)=C1
+LY-456219	O=C(C1=CC2=C([C@@H](CCN3CC=C(C4=CNC5=C4C=CC(F)=C5)CC3)OCC2)C=C1)N
+LY-456220	C1CN(CC=C1C2=CNC3=C2C=CC(=C3)F)CCC4C5=C(CCO4)C=C(C=C5)C(=O)N
