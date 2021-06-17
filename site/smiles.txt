@@ -4202,7 +4202,7 @@ Gallium(III) oxide	O=[Ga]O[Ga]=O
 Gallium(III) telluride	[Ga]=[Te].[Ga]=[Te].[Te]
 Gallium(II) telluride	[Ga]=[Te]
 Gadolinium(III) oxide	[Gd+3].[Gd+3].[O-2].[O-2].[O-2]
-Hafnium(IV) carbide	[Hf+]#[C-]
+Hafnium carbide	[Hf+]#[C-]
 Hafnium(IV) oxide	O=[Hf]=O
 Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
 Indium(III) sulfide	S=[In]S[In]=S
@@ -17678,7 +17678,7 @@ Abrocitinib	CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3
 5-MAPDI	CNC(Cc1ccc2c(c1)CCC2)C
 IBF5MAP	CNC(Cc1ccc2c(c1)COC2)C
 Lotilaner	CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F
-2'-Oxo-PCE	CCNC1(CCCCC1=O)C2=CC=CC=C2
+2-Oxo-PCE	CCNC1(CCCCC1=O)C2=CC=CC=C2
 1-Bromododecane	CCCCCCCCCCCCBr
 3-Chloromethamphetamine	CNC(Cc1cccc(c1)Cl)C
 4-EA-NBOMe	CCC1=CC=C(C=C1)CC(C)NCC2=CC=CC=C2OC
@@ -18611,3 +18611,6 @@ LY-367642	O=C(N(CC1=CC=NC=C1)CCC2)N2CCN3CCC(C4=CNC5=CC(F)=CC=C54)=CC3
 LY-393558	FC1=CC=C2C(NC=C2C3=CCN(CCN4S(N(C(C)C)CC5=C4C=CC(S(=O)(C)=O)=C5)(=O)=O)CC3)=C1
 LY-456219	O=C(C1=CC2=C([C@@H](CCN3CC=C(C4=CNC5=C4C=CC(F)=C5)CC3)OCC2)C=C1)N
 LY-456220	C1CN(CC=C1C2=CNC3=C2C=CC(=C3)F)CCC4C5=C(CCO4)C=C(C=C5)C(=O)N
+3F-PiHP	O=C(C(CC(C)C)N1CCCC1)C2=CC(F)=CC=C2
+3-Fluoro-PCP	Fc1cccc(c1)C1(CCCCC1)N1CCCCC1
+Tungsten(III) iodide	I[W](I)I
