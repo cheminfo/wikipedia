@@ -5018,7 +5018,7 @@ Bistriflimide	C(F)(F)(F)S(=O)(=O)NS(=O)(=O)C(F)(F)F
 Bistriflimide	C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
 Orciprenaline	Oc1cc(cc(O)c1)C(O)CNC(C)C
 N-Acetylneuraminic acid	OC(=O)[C@@]1(O)C[C@H](O)[C@@H](NC(C)=O)[C@@H](O1)[C@H](O)[C@H](O)CO
-Tiopronin	CC(S)C(=O)NCC(=O)O
+Tiopronin	CC(S)C(=O)NCC(O)=O
 5-APDI	c1cc(cc2c1CCC2)CC(N)C
 Decyl glucoside	O(CCCCCCCCCC)[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO
 Carbamic acid	O=C(O)N
@@ -18602,6 +18602,7 @@ PTI-3	COCCN(C)Cc1csc(n1)c1cn(CCCCCF)c2ccccc21
 Dipyanone	CCC(=O)C(CC(C)N1CCCC1)(c1ccccc1)c1ccccc1
 4'-Fluoro-4-methylaminorex	Fc1ccc(cc1)C1OC(N)=NC1C
 MDMAR	NC1=NC(C(O1)c1ccc2c(c1)OCO2)C
+Lithium aluminium germanium phosphate	[Li+].[Li+].[Li+].[Al+3].[Ge+4].[Ge+4].[Ge+4].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-]
 N-Ethyl-2C-B	COC1=CC(CCNCC)=C(OC)C=C1Br
 Beryllium oxalate	[Be+2].C(=O)(C(=O)[O-])[O-]
 Lithium oxalate	[Li+].[Li+].[O-]C(=O)C([O-])=O
@@ -18616,3 +18617,6 @@ Tungsten(III) iodide	I[W](I)I
 Praseodymium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pr+3].[Pr+3]
 Copper oxalate	C(=O)(C(=O)O)O.[Cu+2]
 4-PrO-DMT	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C
+Phenylcobalt	C1=CC=[C-]C=C1.[Co]
+Praseodymium nitride	N#[Pr]
+Praseodymium(IV) fluoride	F[Pr](F)(F)F
