@@ -18535,6 +18535,7 @@ Highly branched isoprenoid	CC(C)CCCC(C)CCC(CCC(C)C=C)C(C)CCCC(C)C
 Lycopane	CC(C)CCCC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C
 Chamaecydin	CC(C)C1=C2C3=C(C[C@@H]4[C@@](C3=C(C1=O)O)(CCCC4(C)C)C)C(=O)[C@]25CC[C@]6([C@@H]5C6)C(C)C
 Hydroxyarchaeol	CC(C)CCCC(C)CCCC(C)CCCC(C)CCOC(CO)COCCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O
+Trans,trans,trans-(1,5,9-Cyclododecatriene)nickel(0)	C1CC=CCCC=CCCC=C1.[Ni]
 Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
 1-Nonene	C=C\CCCCCCC
@@ -18602,6 +18603,7 @@ PTI-3	COCCN(C)Cc1csc(n1)c1cn(CCCCCF)c2ccccc21
 Dipyanone	CCC(=O)C(CC(C)N1CCCC1)(c1ccccc1)c1ccccc1
 4'-Fluoro-4-methylaminorex	Fc1ccc(cc1)C1OC(N)=NC1C
 MDMAR	NC1=NC(C(O1)c1ccc2c(c1)OCO2)C
+Tantalum diselenide	[Se]=[Ta]=[Se]
 Lithium aluminium germanium phosphate	[Li+].[Li+].[Li+].[Al+3].[Ge+4].[Ge+4].[Ge+4].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-]
 N-Ethyl-2C-B	COC1=CC(CCNCC)=C(OC)C=C1Br
 Beryllium oxalate	[Be+2].C(=O)(C(=O)[O-])[O-]
