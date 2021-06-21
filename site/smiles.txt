@@ -134,7 +134,6 @@ Polyvinylpyrrolidone	N1(C(CCC1)=O)[C@@H](C*)*
 Hydronium	[OH3+]
 Methylchloroisothiazolinone	ClC=1SN(C(=O)C=1)C
 Fructose	O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO
-Indigo dye	c1ccc2c(c1)C(=O)/C(=C\3/C(=O)c4ccccc4N3)/N2
 Domoic acid	O=C(O)[C@H]1NC[C@H](/C(=C\C=C\[C@H](C(=O)O)C)C)[C@@H]1CC(=O)O
 Sucrose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
 Sulfur dioxide	O=S=O
@@ -2284,6 +2283,7 @@ FMRFamide	CSCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N)NC
 Tris(benzyltriazolylmethyl)amine	c1ccc(cc1)Cn2cc(nn2)CN(Cc3cn(nn3)Cc4ccccc4)Cc5cn(nn5)Cc6ccccc6
 Zonisamide	O=S(=O)(N)Cc2noc1ccccc12
 Zinc acetate	[Zn+2].[O-]C(=O)C.[O-]C(=O)C
+Zinc acetate	C/C1=[O]/[Zn]\35O/C(C)=[O+]\[Zn]\26\[O]=C(C)/O[Zn]4(O1)/[O]=C(C)\O[Zn](=[O]/C(C)=[O]2)(O/C(C)=[O]3)[O]456
 Telluric acid	O[Te](O)(O)(O)(O)O
 Latanoprost	O=C(OC(C)C)CCC/C=C\C[C@H]2[C@@H](O)C[C@@H](O)[C@@H]2CC[C@@H](O)CCc1ccccc1
 Vinorelbine	[H][C@]89C=C(CC)CN(Cc1c([nH]c2ccccc12)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@@]5([H])[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]7(CC)C=CCN6CC[C@]45[C@@]67[H])C8)C9
@@ -17760,6 +17760,7 @@ Chrome Azurol S	CC1=CC(=CC(=C1[O-])C(=O)[O-])C(=C2C=C(C(=O)C(=C2)C(=O)O)C)C3=C(C
 1,8-Naphthalic anhydride	C1=CC2=C3C(=C1)C(=O)OC(=O)C3=CC=C2
 Pimodivir	C1CC2CCC1[C@@H]([C@H]2NC3=NC(=NC=C3F)C4=CNC5=C4C=C(C=N5)F)C(=O)O
 Presatovir	CC1=CN2C(=CC(=N2)[C@@H]3CCCCN3C(=O)C4=C(C=CC(=C4)Cl)NS(=O)(=O)C)N=C1N5CC[C@@H](C5)N
+9-Phenanthrol	C1=CC=C2C(=C1)C=C(C3=CC=CC=C23)O
 Diphenic acid	C1=CC=C(C(=C1)C2=CC=CC=C2C(=O)O)C(=O)O
 Ziresovir	CC1=CC2=C(C=C1)N=C(N=C2NCC3(COC3)N)N4CCS(=O)(=O)C5=CC=CC=C5C4
 Xenon tetrachloride	Cl[Xe](Cl)(Cl)Cl
@@ -18535,7 +18536,7 @@ Highly branched isoprenoid	CC(C)CCCC(C)CCC(CCC(C)C=C)C(C)CCCC(C)C
 Lycopane	CC(C)CCCC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C
 Chamaecydin	CC(C)C1=C2C3=C(C[C@@H]4[C@@](C3=C(C1=O)O)(CCCC4(C)C)C)C(=O)[C@]25CC[C@]6([C@@H]5C6)C(C)C
 Hydroxyarchaeol	CC(C)CCCC(C)CCCC(C)CCCC(C)CCOC(CO)COCCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O
-Trans,trans,trans-(1,5,9-Cyclododecatriene)nickel(0)	C1CC=CCCC=CCCC=C1.[Ni]
+Trans,trans,trans-(1,5,9-Cyclododecatriene)nickel(0)	C1/C=C/CC/C=C/CC/C=C/C1.[Ni]
 Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
 1-Nonene	C=C\CCCCCCC
@@ -18622,3 +18623,6 @@ Copper oxalate	C(=O)(C(=O)O)O.[Cu+2]
 Phenylcobalt	C1=CC=[C-]C=C1.[Co]
 Praseodymium nitride	N#[Pr]
 Praseodymium(IV) fluoride	F[Pr](F)(F)F
+2-Chloropropene	CC(=C)Cl
+4-Keto-PCP	C1CCN(CC1)C2(CCC(=O)CC2)C3=CC=CC=C3
+3-Fluorodeschloroketamine	CNC1(CCCCC1=O)c1cccc(F)c1
