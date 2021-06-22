@@ -134,6 +134,7 @@ Polyvinylpyrrolidone	N1(C(CCC1)=O)[C@@H](C*)*
 Hydronium	[OH3+]
 Methylchloroisothiazolinone	ClC=1SN(C(=O)C=1)C
 Fructose	O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO
+Indigo dye	c1ccc2c(c1)C(=O)/C(=C\3/C(=O)c4ccccc4N3)/N2
 Domoic acid	O=C(O)[C@H]1NC[C@H](/C(=C\C=C\[C@H](C(=O)O)C)C)[C@@H]1CC(=O)O
 Sucrose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
 Sulfur dioxide	O=S=O
@@ -18606,6 +18607,7 @@ Dipyanone	CCC(=O)C(CC(C)N1CCCC1)(c1ccccc1)c1ccccc1
 MDMAR	NC1=NC(C(O1)c1ccc2c(c1)OCO2)C
 Tantalum diselenide	[Se]=[Ta]=[Se]
 Lithium aluminium germanium phosphate	[Li+].[Li+].[Li+].[Al+3].[Ge+4].[Ge+4].[Ge+4].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-]
+Enarodustat	C1=CC=C(C=C1)CCC2=CC(=O)C(=C3N2NC=N3)C(=O)NCC(=O)O
 N-Ethyl-2C-B	COC1=CC(CCNCC)=C(OC)C=C1Br
 Beryllium oxalate	[Be+2].C(=O)(C(=O)[O-])[O-]
 Lithium oxalate	[Li+].[Li+].[O-]C(=O)C([O-])=O
@@ -18617,6 +18619,7 @@ LY-456220	C1CN(CC=C1C2=CNC3=C2C=CC(=C3)F)CCC4C5=C(CCO4)C=C(C=C5)C(=O)N
 3F-PiHP	O=C(C(CC(C)C)N1CCCC1)C2=CC(F)=CC=C2
 3-Fluoro-PCP	Fc1cccc(c1)C1(CCCCC1)N1CCCCC1
 Tungsten(III) iodide	I[W](I)I
+Metyltetraprole	CC1=C(C(=CC=C1)N2C(=O)N(N=N2)C)COC3=NN(C=C3)C4=CC=C(C=C4)Cl
 Praseodymium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pr+3].[Pr+3]
 Copper oxalate	C(=O)(C(=O)O)O.[Cu+2]
 4-PrO-DMT	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C
@@ -18626,3 +18629,6 @@ Praseodymium(IV) fluoride	F[Pr](F)(F)F
 2-Chloropropene	CC(=C)Cl
 4-Keto-PCP	C1CCN(CC1)C2(CCC(=O)CC2)C3=CC=CC=C3
 3-Fluorodeschloroketamine	CNC1(CCCCC1=O)c1cccc(F)c1
+Calcium polonide	[Ca+2].[Po-2]
+Fluorexetamine	CCNC1(CCCCC1=O)c1cccc(F)c1
+Etonitazepyne	[O-][N+](=O)c1cc2nc(Cc3ccc(OCC)cc3)n(CCN3CCCC3)c2cc1
