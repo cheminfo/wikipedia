@@ -7316,7 +7316,7 @@ Trans-Cyclooctene	C1CCC/C=C/CC1
 Cis-Cyclooctene	C\1=C\CCCCCC/1
 Orcinol	CC1=CC(=CC(=C1)O)O
 Beta-Santalol	C/C(CO)=C\CCC2(C)C(=C)C1CC2CC1
-Α-Santalol	C/C(CO)=C\CCC3(C)C1CC2C(C1)C23C
+Alpha-Santalol	C/C(CO)=C\CCC3(C)C1CC2C(C1)C23C
 Celiprolol	O=C(N(CC)CC)Nc1ccc(OCC(O)CNC(C)(C)C)c(c1)C(=O)C
 Tertatolol	CC(C)(C)NCC(COC1=CC=CC2=C1SCCC2)O
 Cilomilast	COC1=C(C=C(C=C1)C2(CCC(CC2)C(=O)O)C#N)OC3CCCC3
@@ -18648,4 +18648,8 @@ Deoxymethoxetamine	CCNC1(CCCCC1=O)c1cccc(C)c1
 4-Chlorobutyronitrile	C(CC#N)CCl
 Indium(III) iodide	[In](I)(I)I
 Acetyleugenol	CC(=O)OC1=C(C=C(C=C1)CC=C)OC
+Delgocitinib	C[C@H]1CN([C@]12CCN(C2)C3=NC=NC4=C3C=CN4)C(=O)CC#N
+Sarolaner	CS(=O)(=O)CC(=O)N1CC2(C1)C3=C(CO2)C=C(C=C3)C4=NO[C@@](C4)(C5=CC(=C(C(=C5)Cl)F)Cl)C(F)(F)F
 Nickel(III) fluoride	F[Ni](F)F
+Trimellitic anhydride	C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O
+Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
