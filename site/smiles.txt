@@ -16809,6 +16809,7 @@ Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
 Dimethomorph	O=C(\C=C(/c1ccc(Cl)cc1)c2ccc(OC)c(OC)c2)N3CCOCC3
 Vanadium(II) sulfate	[O-]S(=O)(=O)[O-].[V+2]
 Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
+Bemcentinib	Nc1nc(Nc2ccc3c(c2)CC[C@H](N2CCCC2)CC3)nn1-c1cc2c(nn1)-c1ccccc1CCC2
 4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 Epitalon	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NCC(=O)O)N
 17α-Methyl-19-norprogesterone	O=C(C)[C@](C)1CC[C@]([H])2[C@@]([H])3CCC4=CC(CCC4C3CC[C@@]21C)=O
@@ -18653,3 +18654,4 @@ Sarolaner	CS(=O)(=O)CC(=O)N1CC2(C1)C3=C(CO2)C=C(C=C3)C4=NO[C@@](C4)(C5=CC(=C(C(=
 Nickel(III) fluoride	F[Ni](F)F
 Trimellitic anhydride	C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O
 Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
+4-Et-PVP	O=C1CCCCC1(NCC)C2=CC(O)=CC=C2
