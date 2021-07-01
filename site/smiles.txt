@@ -18364,6 +18364,7 @@ Yariv reagent	C1=CC(=CC=C1NN=C2C(=C(C(=O)C(=NNC3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([
 Cynthiaol	C(\C=C\CCC\C=C/CC)O
 SM-102	CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO
 Hydrogenated MDI	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
+Ironomycin	CC[C@H]([C@H]1CC[C@H](C)[C@H]([C@H]([C@H](O)[C@H](C)C([C@@H]([C@H]([C@@H](C)C[C@H]2C)O[C@@]2(C=C[C@H]3NCC#C)O[C@]43CC[C@@](C)([C@H]5CC[C@](O)(CC)[C@H](C)O5)O4)CC)=O)C)O1)C(O)=O
 Neodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Nd+3].[Nd+3]
 Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
 Americium(II) chloride	Cl[Am]Cl
@@ -18569,6 +18570,7 @@ Pyonitrin	C1=CC=C2C(=C1)C3=C(C(=N2)C4=CSC(=N4)C5=CC=CC=C5O)NC=C3
 Pyonitrin	C1=CC=C(C(=C1)C2=NC(=CS2)C3=C4C(=C5C=CC=C(C5=N3)Cl)C(=CN4)Cl)O
 2-Methylmethcathinone	CC1=CC=CC=C1C(=O)C(C)NC
 4-Bromothiophenol	C1=CC(=CC=C1S)Br
+Enterocin	COC1=CC(=O)OC(=C1)C2C3(CC4C(C2(C(C3(C(=O)O4)O)C(=O)C5=CC=CC=C5)O)O)O
 Ruthenium(III) bromide	Br[Ru](Br)Br
 Ruthenium(III) bromide	[Br-].[Br-].[Br-].[Ru+3]
 HL156A	C1CCN(C1)C(=NC(=NC2=CC=C(C=C2)OC(F)(F)F)N)N
@@ -18655,3 +18657,4 @@ Nickel(III) fluoride	F[Ni](F)F
 Trimellitic anhydride	C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O
 Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
 4-Et-PVP	O=C1CCCCC1(NCC)C2=CC(O)=CC=C2
+4-Fluoroethylphenidate	Fc1ccc(cc1)C(C(=O)OCC)C1CCCCN1
