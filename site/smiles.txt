@@ -11667,6 +11667,7 @@ GSK1360707F	COC[C@@]12C[C@@]1(CCNC2)c3ccc(c(c3)Cl)Cl
 Tetraphenylethylene	c1ccc(cc1)C(=C(c2ccccc2)c3ccccc3)c4ccccc4
 Sodium bisulfite	[Na+].[O-]S(=O)O
 ORG-12962	C2CNCCN2c(nc1Cl)ccc1C(F)(F)F
+Purpuric acid	C1(C(=O)NC(=O)NC1=O)N=C2C(=O)NC(=O)NC2=O
 D-161	Oc2ccc(cc2)CNC(CC3)COC3C(c1ccccc1)c4ccccc4
 Tributyltin azide	CCCC[Sn](CCCC)(CCCC)N=[N+]=[N-]
 BRL-32872	[O-][N+](=O)c1ccc(cc1)C(=O)N(c2cc(OC)c(OC)cc2)CCCN(CCc3ccc(OC)c(OC)c3)C
@@ -18592,7 +18593,7 @@ Dibutylmagnesium	CCC[CH2-].CCC[CH2-].[Mg+2]
 Octahydrotriborate	[BH2]12[H][BH2-]13[H][BH2]23
 Neodymium(II) chloride	[Cl-].[Cl-].[Nd+2]
 Rhodium(III) hydroxide	[OH-].[OH-].[OH-].[Rh+3]
-RAC 421-II	CCNCCCN1C(=O)CC2(C1=O)CCCC3=CC=CC=C23.Cl
+RAC 421-II	CCNCCCN1C(=O)CC2(C1=O)CCCC3=CC=CC=C23
 Maleic hydrazide	C1=CC(=O)NNC1=O
 MXiPr	CC(C)NC1(CCCCC1=O)c1cccc(OC)c1
 3-Methyl-PCP	CC1=CC(=CC=C1)C2(CCCCC2)N3CCCCC3
