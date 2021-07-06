@@ -12236,7 +12236,6 @@ Lorediplon	O=C(c2cnn3c(c1ccc(F)c(N(C(=O)C)C)c1)ccnc23)c4sccc4
 Epelsiban	CC[C@H](C)[C@@H]1C(=O)N[C@@H](C(=O)N1[C@H](C2=C(N=C(C=C2)C)C)C(=O)N3CCOCC3)C4CC5=CC=CC=C5C4
 Validamycin	OC/C3=C/[C@H](N[C@H]2C[C@H](CO)[C@@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]3O
 Titanium ethoxide	CC[O-].CC[O-].CC[O-].CC[O-].[Ti+4]
-Octreotate	c3[nH]c1ccccc1c3CC2NC(=O)C(NC(=O)C(NC(=O)C(N)Cc5ccccc5)CSSCC(C(=O)NC(C(O)=O)C(C)O)NC(=O)C(C(O)C)NC(=O)C(CCCCN)NC2=O)Cc4ccccc4
 Suvorexant	C[C@@H]1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl
 Biurea	NC(=O)NNC(N)=O
 3-Monoacetylmorphine	CC(=O)OC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4C)[C@@H](O2)[C@H](C=C5)O)C=C1
@@ -18000,8 +17999,8 @@ Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
 Iodine tribromide	BrI(Br)Br
 Togni reagent II	C1=CC=C2C(=C1)C(=O)OI2C(F)(F)F
 Cyclobutanol	OC1CCC1
-Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
-Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
+Nickel dicyanide	[C-]#N.[C-]#N.[Ni+2]
+Nickel dicyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
 Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
 SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
 Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1OC(=O)CC)O[C@@]2(O[C@@H]([C@@H](OC(=O)CC)[C@@H]2OC(=O)CC)COC(=O)CC)COC(=O)CC)CC
@@ -18661,3 +18660,5 @@ Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
 4-Et-PVP	O=C1CCCCC1(NCC)C2=CC(O)=CC=C2
 4-Fluoroethylphenidate	Fc1ccc(cc1)C(C(=O)OCC)C1CCCCN1
 Lascufloxacin	COC1=C2C(=CC(=C1N3C[C@@H]([C@@H](C3)F)CNC4CC4)F)C(=O)C(=CN2CCF)C(=O)O
+Potassium tetracyanonickelate	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[K+].[K+].[Ni+2]
+Decahydroisoquinoline	C1CCC2CNCCC2C1
