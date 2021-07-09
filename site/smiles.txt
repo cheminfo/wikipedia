@@ -18542,7 +18542,7 @@ Lycopane	CC(C)CCCC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C
 Chamaecydin	CC(C)C1=C2C3=C(C[C@@H]4[C@@](C3=C(C1=O)O)(CCCC4(C)C)C)C(=O)[C@]25CC[C@]6([C@@H]5C6)C(C)C
 Hydroxyarchaeol	CC(C)CCCC(C)CCCC(C)CCCC(C)CCOC(CO)COCCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O
 Trans,trans,trans-(1,5,9-Cyclododecatriene)nickel(0)	C1/C=C/CC/C=C/CC/C=C/C1.[Ni]
-Oosporein	CC1=C(O)C(C(C2=C(O)C(C(C)=C(O)C2=O)=O)=C(O)C1=O)=O
+Oosporein	CC1=C(C(=O)C(=C(C1=O)O)C2=C(C(=O)C(=C(C2=O)O)C)O)O
 QX39	C1C(=NC2=C(O1)C=C(C=C2)Cl)C3=CC=C(C=C3)C4=CC=CC=C4
 1-Nonene	C=C\CCCCCCC
 Gallium(III) sulfate	O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ga+3].[Ga+3]
