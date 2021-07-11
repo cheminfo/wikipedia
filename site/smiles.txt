@@ -1052,7 +1052,7 @@ Hexanitrobenzene	c1(c(c(c(c(c1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-
 Buspirone	O=C1N(CCCCN2CCN(CC2)C3=NC=CC=N3)C(CC4(CCCC4)C1)=O
 Amoxapine	Clc2ccc1Oc4c(/N=C(\c1c2)N3CCNCC3)cccc4
 Para-Methoxyamphetamine	C1=CC(=CC=C1CC(C)N)OC
-Batrachotoxin	CC1=CNC(=C1C(=O)OC(C)C2=CC[C@@]34C2(C[C@H](C56C3=CC[C@H]7[C@@]5(CC[C@@](C7)(O6)O)C)O)CN(CCO4)C)C
+Batrachotoxin	Cc1c[nH]c(C)c1C(=O)O[C@@H](C)C1=CC[C@@]23OCCN(C)C[C@@]12C[C@@H](O)[C@]12O[C@]4(O)CC[C@@]1(C)[C@H](CC=C23)C4
 4-HO-DiPT	CC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)C
 Flumazenil	Fc(c1)ccc-2c1C(=O)N(C)Cc3n2cnc3C(=O)OCC
 Methyl salicylate	O=C(OC)c1ccccc1O
@@ -18665,3 +18665,4 @@ Decahydroisoquinoline	C1CCC2CNCCC2C1
 5F-JWH-398	Clc1ccc(c2ccccc21)C(=O)c1cn(CCCCCF)c2ccccc21
 CHM-081	COC1=CC=C(C2=CC=CC=C21)C(=O)C3=CN(C4=CC=CC=C43)CC5CCCCC5
 Mitoquinone mesylate	CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCC[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.CS(=O)(=O)[O-]
+Sulfuryl diazide	[N-]=[N+]=NS(=O)(=O)N=[N+]=[N-]
