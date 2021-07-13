@@ -5129,7 +5129,7 @@ Saredutant	Clc1ccc(cc1Cl)[C@H](CCN3CCC(c2ccccc2)(NC(=O)C)CC3)CN(C(=O)c4ccccc4)C
 Stemarene	CC1=CC2CCC3C(CCCC3(C24CCC1C4)C)(C)C
 Stemodene	[H][C@@]12CC[C@@]3([H])C(C)(C)CCC[C@]3(C)[C@]1(CCC4=C)C[C@@H]4C2
 Dimethoate	O=C(NC)CSP(=S)(OC)OC
-SYBR Green I	CN(C)CCCN(CCC)c1n(-c2ccccc2)c3ccccc3c(c1)=Cc4sc5ccccc5[n+]4C
+SYBR Green I	CCCN(CCCN(C)C)C1=CC(=Cc2sc3ccccc3[n+]2C)c2ccccc2N1c1ccccc1
 Slotoxin	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]1CSSC[C@H]2C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H]3CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@@H](NC3=O)CCCCN)C(=O)N[C@@H](Cc5ccc(cc5)O)C(=O)N[C@@H](C(C)C)C(=O)O)C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N2)CCCCN)CCCNC(=N)N)CC(=O)O)C(C)C)Cc6ccccc6)C)C)CCCCN)C)Cc7c[nH]c8c7cccc8)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC1=O)[C@@H](C)O)C(C)C)CO)CCCCN)CCC(=O)O)CCCCN)CCCCN)CCSC)NC(=O)[C@H](Cc9ccccc9)NC(=O)[C@H]([C@@H](C)O)N
 Triethylammonium acetate	O=C([O-])C.CC[N+H](CC)CC
 Guggulsterone	O=C1C[C@@]2([H])[C@]3([H])CCC4=CC(CC[C@]4(C)[C@@]3([H])CC[C@]2(C)/C1=C\C)=O
@@ -14118,6 +14118,7 @@ Inotilone	CC1=CC(=O)C(=CC2=CC(=C(C=C2)O)O)O1
 Tetrahydro-2-furoic acid	C1CC(OC1)C(=O)O
 Davallialactone	CC(=O)/C=C\1/C2C(OC(=O)C2=C(C=C(O1)/C=C/C3=CC(=C(C=C3)O)O)O)C4=CC(=C(C=C4)O)O
 Bottromycin	C[C@@H]1CCN2[C@@H]1C(=O)N[C@H](C(=O)N[C@H](/C(=N/[C@H](C(=O)N[C@@H]([C@@H](C)C3=CC=CC=C3)C(=O)N[C@H](CC(=O)OC)C4=NC=CS4)C(C)(C)C)/NCC2=O)C(C)(C)C)C(C)C
+SYBR Safe	CCC[n+]1ccc(C=C2Sc3ccccc3N2C)c2ccccc21.Cc1ccc(S(=O)(=O)[O-])cc1
 Avicularin	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H](O4)CO)O)O)O)O
 Delsoline	CC[N@]1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H](C([C@H]31)([C@]5(C[C@@H]([C@H]6C[C@@H]4[C@@H]5[C@H]6OC)OC)O)O)OC)O)COC
 Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
@@ -18521,6 +18522,7 @@ Sodium naphthalene	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
 Lithium naphthalene	[Li].C1=CC=C2C=CC=CC2=C1
 Azumolene	C1C(=O)NC(=O)N1/N=C/C2=NC=C(O2)C3=CC=C(C=C3)Br
 Aclonifen	C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
+SYBR Gold	CC[N+](C)(CC)Cc1ccc(-c2c(C=C3Oc4ccccc4N3C)cc3cc(OC)ccc3[n+]2C)cc1
 Palladium(II) sulfide	[S].[Pd]
 JNJ-10397049	BrC1=CC=C(NC(N[C@@H]2[C@H](C3=CC=CC=C3)OC(C)(C)OC2)=O)C(Br)=C1
 Sodium deuteroxide	[Na+].[O-][2H]
@@ -18601,7 +18603,7 @@ Iron(II) tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Fe+2]
 5-Cl-bk-MPA	O=C(C(C)NC)c1ccc(Cl)s1
 Otenzepad	CCN(CC)CC1CCCCN1CC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4
 ZDCM-04	COc1cc(CC(C)NCCn2cnc3c2C(=O)N(C)C(=O)N3C)c(OC)cc1Cl
-2C-B-aminorex	COc1cc(c(cc1Br)OC)C1OC(N)=NC1C
+2C-B-aminorex	COC1=CC(=C(C=C1C2CN=C(O2)N)OC)Br
 1,4-Dimethylnaphthalene	CC1=CC=C(C2=CC=CC=C12)C
 Icenticaftor	C[C@](CNC(=O)C1=C(C=C(C(=N1)OC)C(F)(F)F)N)(C(F)(F)F)O
 Rovafovir etalafenamide	CCOC(=O)[C@H](C)N[P@@](=O)(CO[C@H]1O[C@@H](N2C=NC3=C2N=CN=C3N)C(F)=C1)OC4=CC=CC=C4
@@ -18668,3 +18670,4 @@ Mitoquinone mesylate	CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCC[P+](C2=CC=CC=C2)(C3=C
 Sulfuryl diazide	[N-]=[N+]=NS(=O)(=O)N=[N+]=[N-]
 N1-Methylpseudouridine	O[C@H]1[C@@](O[C@H](CO)[C@H]1O)(C=2C(=O)NC(=O)N(C)C2)[H]
 DMG-PEG 2000	O=C(CCCCCCCCCCCCC)OCC(OC(CCCCCCCCCCCCC)=O)COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+Tribenuron	CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
