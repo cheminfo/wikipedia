@@ -12104,7 +12104,7 @@ Fluometuron	O=C(Nc1cc(ccc1)C(F)(F)F)N(C)C
 Atraric acid	Cc1cc(c(c(c1C(=O)OC)O)C)O
 Ombrabulin	COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)N
 Varespladib methyl	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)OC)C(=O)C(=O)N
-2-Formylpyridine	O=Cc1ncccc1
+Pyridine-2-carbaldehyde	O=Cc1ncccc1
 Fexinidazole	[O-][N+](=O)c1cnc(n1C)COc2ccc(SC)cc2
 Ronidazole	O=C(OCc1ncc(n1C)[N+]([O-])=O)N
 Varespladib	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)O)C(=O)C(=O)N
@@ -18481,7 +18481,7 @@ Moguisteine	CCOC(=O)CC(=O)N1CCSC1COC2=CC=CC=C2OC
 Constipatic acid	CC(O)CCCCCCCCCCCCCC1OC(=O)C(=C1C(O)=O)C
 Tigloidine	CC=C(C)C(=O)OC1CC2CCC(C1)N2C
 CS-27349	CN1C2CC[C@H](C1CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.Cl
-CS-27349	CN1C2CCC1C(CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O.Cl
+CS-27349	CN1C2CC[C@H](C1CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O
 Nicotinic acid N-oxide	C1=CC(=C[N+](=C1)[O-])C(=O)O
 5-Ethyl-2-methylpyridine	CCC1=CN=C(C=C1)C
 2,6-Dichloropyridine	C1=CC(=NC(=C1)Cl)Cl
@@ -18509,6 +18509,7 @@ Bromerguride	CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
 Hydroxyphenamate	CCC(COC(=O)N)(C1=CC=CC=C1)O
 Rhodium(III) iodide	[Rh](I)(I)I
 Alloclamide	CCN(CC)CCNC(=O)C1=C(C=C(C=C1)Cl)OCC=C
+Para tertiary butylphenol	CC(C)(C)C1=CC=C(C=C1)O
 Actinium(III) bromide	[Br-].[Br-].[Br-].[Ac]
 Actinium(III) iodide	[I-].[I-].[I-].[Ac+3]
 Actinium(III) sulfide	[S-2].[S-2].[S-2].[Ac+3].[Ac+3]
@@ -18667,7 +18668,12 @@ Decahydroisoquinoline	C1CCC2CNCCC2C1
 5F-JWH-398	Clc1ccc(c2ccccc21)C(=O)c1cn(CCCCCF)c2ccccc21
 CHM-081	COC1=CC=C(C2=CC=CC=C21)C(=O)C3=CN(C4=CC=CC=C43)CC5CCCCC5
 Mitoquinone mesylate	CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCC[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.CS(=O)(=O)[O-]
+Taraxacoside	C1C(COC1=O)OC2C(C(C(C(O2)CO)OC(=O)CC3=CC=C(C=C3)O)O)O
 Sulfuryl diazide	[N-]=[N+]=NS(=O)(=O)N=[N+]=[N-]
 N1-Methylpseudouridine	O[C@H]1[C@@](O[C@H](CO)[C@H]1O)(C=2C(=O)NC(=O)N(C)C2)[H]
 DMG-PEG 2000	O=C(CCCCCCCCCCCCC)OCC(OC(CCCCCCCCCCCCC)=O)COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC
 Tribenuron	CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+1,1'-Dihydroxydicyclohexyl peroxide	C1CCC(CC1)(O)OOC2(CCCCC2)O
+Datumetine	CN1C2CCC1CC(C2)C3=C(C=CC(=C3)C(=O)O)OC
+Methyl hydroperoxide	COO
+Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
