@@ -13033,6 +13033,7 @@ Alicaforsen	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=S)(O)O[C@H]3C[C@@H](
 Scopine	O[C@@H]1C[C@H]2N(C)[C@@H](C1)[C@@H]3O[C@H]23
 Caramiphen	O=C(OCCN(CC)CC)C2(c1ccccc1)CCCC2
 Ethyl decadienoate	O=C(OCC)\C=C\C=C/CCCCC
+Copper hydride	[CuH]
 Mirabegron	O=C(Nc1ccc(cc1)CCNC[C@H](O)c2ccccc2)Cc3nc(sc3)N
 Luteone (terpenoid)	CC(=O)CC[C@@H]3C(=C)CC[C@H]2[C@@]3(C)CC[C@@H]1[C@]2(C=O)CCCC1(C)C
 7-O-Methylluteone	CC(=CCC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=C(C=C(C=C3)O)O)OC)C
@@ -18681,3 +18682,4 @@ Datumetine	CN1C2CCC1CC(C2)C3=C(C=CC(=C3)C(=O)O)OC
 Methyl hydroperoxide	COO
 Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
 5-Cyclohexadecenone	C1CCCCCC(=O)CCCC=CCCCC1
+Jasminaldehyde	CCCCC/C(=C/C1=CC=CC=C1)/C=O
