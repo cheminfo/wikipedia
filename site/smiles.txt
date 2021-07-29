@@ -18606,6 +18606,7 @@ Iron(II) tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Fe+2]
 5-Cl-bk-MPA	O=C(C(C)NC)c1ccc(Cl)s1
 Otenzepad	CCN(CC)CC1CCCCN1CC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4
 ZDCM-04	COc1cc(CC(C)NCCn2cnc3c2C(=O)N(C)C(=O)N3C)c(OC)cc1Cl
+Hafnium trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Hf+4]
 2C-B-aminorex	COC1=CC(=C(C=C1C2CN=C(O2)N)OC)Br
 1,4-Dimethylnaphthalene	CC1=CC=C(C2=CC=CC=C12)C
 Icenticaftor	C[C@](CNC(=O)C1=C(C=C(C(=N1)OC)C(F)(F)F)N)(C(F)(F)F)O
@@ -18683,3 +18684,4 @@ Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
 5-Cyclohexadecenone	C1CCCCCC(=O)CCCC=CCCCC1
 Jasminaldehyde	CCCCC/C(=C/C1=CC=CC=C1)/C=O
 Violuric acid	C1(=C(NC(=O)NC1=O)O)N=O
+Tetraethylammonium cyanide	CC[N+](CC)(CC)CC.[C-]#N
