@@ -1,6 +1,11 @@
+[![DOI](https://www.zenodo.org/badge/27636133.svg)](https://www.zenodo.org/badge/latestdoi/27636133)
+
+
+
 # Wikipedia chemical structure explorer
 
 [https://www.cheminfo.org/wikipedia](http://www.cheminfo.org/wikipedia)
+
 
 ## Install locally
 
