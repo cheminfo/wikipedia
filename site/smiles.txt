@@ -13852,6 +13852,7 @@ Kopsanone	C1CC23CCC45C(C2)C(=O)C6C4(C3N(C1)C6)C7=CC=CC=C7N5
 Raucaffrinoline	C[C@H]1[C@@H]([C@@H]2C[C@@H]3N1[C@@H]4C2[C@H]([C@@]5(C4)C3=NC6=CC=CC=C56)OC(=O)C)CO
 Perakine	C[C@H]1[C@@H](C2C[C@@H]3N1[C@@H]4C2[C@H]([C@@]5(C4)C3=NC6=CC=CC=C56)OC(=O)C)C=O
 Vinorine	C/C=C\1/CN2[C@H]3C[C@@H]1C4[C@@H]2C[C@]5([C@@H]4OC(=O)C)C3=NC6=CC=CC=C56
+Vomilenine	C/C=C/1\[C@@H]2C[C@H]3C4=NC5=CC=CC=C5[C@]46C[C@@H](C2[C@H]6OC(=O)C)N3[C@@H]1O
 Normacusine B	C/C=C/1\CN2C3CC1C(C2CC4=C3NC5=CC=CC=C45)CO
 Macusine B	C/C=C\1/C[N@+]2([C@H]3C[C@H]1[C@@H](C2CC4=C3NC5=CC=CC=C45)CO)C
 Luteolin-7-O-glucuronide	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)[O-])O)O)O)O)O)O
@@ -18126,6 +18127,7 @@ CPD-1	C[C@H]1CN(CCN1)C2=C3C(=C(C=C2)C(F)(F)F)C=CO3
 Laucysteinamide A	CC1=N[C@@H](CS1)/C=C/CCCCCCCCCCC(=O)N(C)/C=C/CC=C
 Glyceryl octyl ascorbic acid	CCCCCCCCOC1=C([C@H](OC1=O)[C@H](CO)O)OCC(CO)O
 5-Methylmethiopropamine	CC1=CC=C(S1)CC(C)NC
+Cannabidiphorol	CC(=C)[C@@H]1CCC(C)=C[C@H]1c1c(O)cc(CCCCCCC)cc1O
 KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
 Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
