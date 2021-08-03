@@ -4,6 +4,8 @@
 
 # Wikipedia chemical structure explorer
 
+This application as been [published here](https://doi.org/10.1186/s13321-015-0061-y).
+
 [https://www.cheminfo.org/wikipedia](http://www.cheminfo.org/wikipedia)
 
 
