@@ -14677,6 +14677,7 @@ Rigosertib	COC1=C(C=C(C=C1)CS(=O)(=O)/C=C/C2=C(C=C(C=C2OC)OC)OC)NCC(=O)O
 Sappanol	C1[C@@]([C@H](C2=C(O1)C=C(C=C2)O)O)(CC3=CC(=C(C=C3)O)O)O
 Eliglustat	CCCCCCCC(=O)N[C@H](CN1CCCC1)[C@@H](C2=CC3=C(C=C2)OCCO3)O
 Pracinostat	CCCCC1=NC2=C(N1CCN(CC)CC)C=CC(=C2)/C=C/C(=O)NO
+Trifluorosilane	F[SiH](F)F
 Sappanone A	C1/C(=C\C2=CC(=C(C=C2)O)O)/C(=O)C3=C(O1)C=C(C=C3)O
 KN-62	CN([C@@H](CC1=CC=C(C=C1)OS(=O)(=O)C2=CC=CC3=C2C=CN=C3)C(=O)N4CCN(CC4)C5=CC=CC=C5)S(=O)(=O)C6=CC=CC7=C6C=CN=C7
 Scillavone A	COc1cc2c(c(c1OC)O)C[C@@]23COc4cc(cc(c4C3=O)O)O
@@ -18688,4 +18689,7 @@ Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
 Jasminaldehyde	CCCCC/C(=C/C1=CC=CC=C1)/C=O
 Violuric acid	C1(=C(NC(=O)NC1=O)O)N=O
 Tetraethylammonium cyanide	CC[N+](CC)(CC)CC.[C-]#N
+Rubidium sesquioxide	[Rb+].[Rb+].[Rb+].[Rb+].[O-][O-].O=[O-].O=[O-]
+Tetraphenylarsonium chloride	C1=CC=C(C=C1)[As+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-]
 1,2,6-Hexanetriol	C(CCO)CC(CO)O
+1,2-Bis(diphenylphosphino)benzene	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3P(C4=CC=CC=C4)C5=CC=CC=C5
