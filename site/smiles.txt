@@ -61,7 +61,7 @@ Methadone	CCC(C(C1=CC=CC=C1)(C2=CC=CC=C2)CC(N(C)C)C)=O
 Nitrate	[N+](=O)([O-])[O-]
 Nitroglycerin	C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Nitric acid	[N+](=O)(O)[O-]
-Niacinamide	c1cc(cnc1)C(=O)N
+Nicotinamide	c1cc(cnc1)C(=O)N
 Nitronium ion	O=[N+]=O
 Ozone	[O-][O+]=O
 Oxycodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
@@ -18697,4 +18697,4 @@ Tetraphenylarsonium chloride	C1=CC=C(C=C1)[As+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=C
 Conopharyngine	CCC1CC2CC3(C1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC)C(=O)OC
 Manganese oxalate	C(=O)(C(=O)[O-])[O-].[Mn+2]
 Tin oxalate	C(=O)(C(=O)O)O.[Sn]
-Neptunium(IV) oxalate	C(=O)(C(=O)[O-])[O-].[Np]
+Neptunium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Np]
