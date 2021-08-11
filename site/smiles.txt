@@ -12103,7 +12103,6 @@ Neochlorogenic acid	O=C(O)[C@@]2(O)C[C@@H](O)[C@H](O)[C@H](OC(=O)\C=C\c1ccc(O)c(
 Fluometuron	O=C(Nc1cc(ccc1)C(F)(F)F)N(C)C
 Atraric acid	Cc1cc(c(c(c1C(=O)OC)O)C)O
 Ombrabulin	COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)N
-Varespladib methyl	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)OC)C(=O)C(=O)N
 Pyridine-2-carbaldehyde	O=Cc1ncccc1
 Fexinidazole	[O-][N+](=O)c1cnc(n1C)COc2ccc(SC)cc2
 Ronidazole	O=C(OCc1ncc(n1C)[N+]([O-])=O)N
@@ -18702,3 +18701,4 @@ Samarium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])
 Samarium(III) iodide	I[Sm](I)I
 Neptunium arsenide	[Np].[As]
 Samarium(III) nitrate	[Sm+3].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
+Indospicine	C(CCC(=N)N)C[C@@H](C(=O)O)N
