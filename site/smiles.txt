@@ -792,7 +792,7 @@ Nonactin	C[C@@H]1C[C@H]2CC[C@H](O2)[C@@H](C(=O)O[C@H](C[C@@H]3CC[C@@H](O3)[C@H](
 Hypochlorous acid	OCl
 Acetone peroxide	CC1(C)OOC(C)(C)OO1
 Acetone peroxide	CC1(C)OOC(C)(C)OOC(C)(C)OO1
-Beta-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
+Β-Carotene	CC2(C)CCCC(\C)=C2\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Strontium titanate	[Sr++].[O-][Ti]([O-])=O
 Sulfur trioxide	O=S(=O)=O
 Sulfur trioxide	O=S0(=O)OS(=O)(=O)OS(=O)(=O)O0
@@ -8395,6 +8395,7 @@ Cord factor	CCCCCCCCCCCCCCCCCCCCCCCCCC(C(CCCCCCCCCCC1CC1CCCCCCCCCCCCCCCCCC)C(=O)
 Streptazolin	C=3CCN1C(=O)OC2C1C=3\C(=C\C)\C2O
 Semagacestat	C[C@@H](C(=O)N[C@H]1C2=CC=CC=C2CCN(C1=O)C)NC(=O)[C@H](C(C)C)O
 Piboserod	CCCCN1CCC(CC1)CNC(=O)C2=C3N(CCCO3)C4=CC=CC=C42
+Terbium silicide	[Si].[Si].[Tb]
 2.2.2-Cryptand	C1COCCN2CCOCCOCCN(CCO1)CCOCCOCC2
 1-Dotriacontanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 1-Nonacosanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
@@ -9674,7 +9675,6 @@ Alfacalcidol	O[C@@H]1CC(\C(=C)[C@@H](O)C1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](
 Noxytiolin	CNC(=S)NCO
 Cibenzoline	N\1=C(\NCC/1)C4CC4(c2ccccc2)c3ccccc3
 Moracizine	O=C(OCC)Nc2cc1N(c3c(Sc1cc2)cccc3)C(=O)CCN4CCOCC4
-Tenitramine	C(CN(CCO[N+](=O)[O-])CCO[N+](=O)[O-])N(CCO[N+](=O)[O-])CCO[N+](=O)[O-]
 Trolnitrate	C(CO[N+](=O)[O-])N(CCO[N+](=O)[O-])CCO[N+](=O)[O-]
 Propatylnitrate	CCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-]
 Tiracizine	CCOC(=O)NC1=CC2=C(CCC3=CC=CC=C3N2C(=O)CN(C)C)C=C1
@@ -11139,6 +11139,7 @@ Dinaphthylene dioxide	O2c1cccc5c1c4c3c2ccc6c3c(Oc4cc5)ccc6
 Myricetin 3-O-rutinoside	CC1[C@@H]([C@@H](C([C@@H](O1)OCC2[C@H](C(C([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C(=C5)O)O)O)O)O)O)O)O)O
 2-Octyl cyanoacrylate	C=C(C#N)C(OC(C)CCCCCC)=O
 Glucogallin	CO[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC(=O)c2cc(c(c(c2)O)O)O)O)O)O
+Tellurium iodide	[Te]I
 Eugenin	O=C\1c2c(O/C(=C/1)C)cc(OC)cc2O
 Eugenitin	O=C\1c2c(O)c(c(OC)cc2O/C(=C/1)C)C
 Dimethylmagnesium	C[Mg]C
