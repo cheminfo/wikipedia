@@ -18727,8 +18727,26 @@ Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[
 Neptunium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Np]
 Actinium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ac]
 Dysprosium(III) nitrate	O.[Dy+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
+Dysprosium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Dy+3]
+Dysprosium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Dy+3]
 Americium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Am]
 Norpsilocin	CNCCC1=CNC2=C1C(=CC=C2)O
+Holmium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ho+3]
+Holmium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Ho+3]
+Holmium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Ho+3]
 Ytterbium(III) nitrate	N(=O)(=O)O.[Yb]
 Lutetium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Lu+3]
+Lutetium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.[Lu+3]
+Erbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Er+3]
+Erbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Er+3]
+Erbium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Er+3]
 Curium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cm]
+Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Tm+3]
+Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Tm+3]
+Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Tm+3]
+Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.[Tm+3]
+Promethium(III) nitrate	[N+](=O)([O-])[O-].[Pm]
+Polonium tetranitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Po]
+JWH-369	O=C(C=1C=C(C=2C=CC=CC2Cl)N(C1)CCCCC)C3=CC=CC=4C=CC=CC43
+JWH-373	O=C(C=1C=C(C=2C=CC(=CC2)CCCC)N(C1)CCCCC)C3=CC=CC=4C=CC=CC43
+Iron(III) iodide	[Fe+3].[I-].[I-].[I-]
