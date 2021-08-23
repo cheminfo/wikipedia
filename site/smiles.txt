@@ -14494,6 +14494,7 @@ Hydroxycarteolol	O=C2Nc1c(O)ccc(OCC(O)CNC(C)(C)C)c1CC2
 Cyantraniliprole	CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
 Idropranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
+Tetramesityldiiron	c1(C)cc(C)cc(C)c1[Fe]c2c(C)cc(C)cc2(C)
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
 Thiothinone	CC(C(=O)C1=CC=CS1)NC
 EMA401	COC1=C(C2=C(CN(C(C2)C(=O)O)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4)C=C1)OCC5=CC=CC=C5
@@ -18723,7 +18724,10 @@ Nicotyrine	CN1C=CC=C1C2=CN=CC=C2
 Rubidium superoxide	O=[O-].[Rb+]
 Platinum-samarium	[Sm].[Pt]
 Carbonatobis(ethylenediamine)cobalt(III) chloride	C(CN)N.C(CN)N.C(=O)([O-])[O-].[Cl-].[Co+3]
-Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pu]
+Neptunium silicide	[Np].[Si].[Si]
+Plutonium silicide	[Pu].[Si]
+Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pu+4]
+Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Pu+4]
 Neptunium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Np]
 Actinium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ac]
 Dysprosium(III) nitrate	O.[Dy+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
@@ -18755,4 +18759,10 @@ JWH-372	CCCCCN1C=C(C=C1C2=CC=CC=C2C(F)(F)F)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-371	CCCCCN1C=C(C=C1C2=CC=C(C=C2)CCCC)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-370	CCCCCN1C=C(C=C1C2=CC=CC=C2C)C(=O)C3=CC=CC4=CC=CC=C43
 Ruthenium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ru+3]
-3,3-dimethylhexane	CCCC(C)(C)CC
+3,3-Dimethylhexane	CCCC(C)(C)CC
+JWH-368	CCCCCN1C=C(C=C1C2=CC(=CC=C2)F)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-367	CCCCCN1C=C(C=C1C2=CC(=CC=C2)OC)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-366	CCCCCN1C=C(C=C1C2=CN=CC=C2)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-365	CCCCCN1C=C(C=C1C2=CC=CC=C2CC)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-364	CCCCCN1C=C(C=C1C2=CC=C(C=C2)CC)C(=O)C3=CC=CC4=CC=CC=C43
+JWH-363	CCCCCN1C=C(C=C1C2=CC(=CC=C2)C(F)(F)F)C(=O)C3=CC=CC4=CC=CC=C43
