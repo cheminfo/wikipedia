@@ -2514,6 +2514,7 @@ Pyrazole	c1cn[nH]c1
 Nafcillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c1ccccc1ccc2OCC)[C@H]4SC3(C)C
 Risedronic acid	OC(Cc1cccnc1)(P(=O)(O)O)P(=O)(O)O
 Butylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC
+Tin(II) hydroxide	[OH-].[OH-].[Sn+2]
 Lead(II) hydroxide	[OH-].[OH-].[Pb+2]
 Thallium(I) hydroxide	[Tl+].[OH-]
 Thallium(III) hydroxide	O[Tl](O)O
@@ -3265,6 +3266,8 @@ Bis-HPPP	OCC(O)COc1ccc(cc1)C(C)(C)c2ccc(OCC(O)CO)cc2
 Sodium oxybate	[Na+].[O-]C(=O)CCCO
 Diazodinitrophenol	[N]=[N]=C(C=C([N+]([O-])=O)C=C1[N+]([O-])=O)C1=O
 Sinapinic acid	COc1cc(cc(c1O)OC)/C=C/C(=O)O
+Thiazine	C1=CNSC=C1
+Thiazine	C1N=CC=CS1
 Thiazine	C\1=C\N\C=C/S/1
 Cembrene A	C1(=C\CC/C(=C/C[C@H](C(=C)\C)CCC(=C\CC1)\C)C)\C
 Benzimidazoline	C12=CC=CC=C1NCN2
@@ -4353,6 +4356,7 @@ Tellurium trioxide	O=[Te](=O)=O
 Bis-tris methane	OCCN(CCO)C(CO)(CO)CO
 Ethyl methylphenylglycidate	CC(C2C(OCC)=O)(O2)C1=CC=CC=C1
 Nebivolol	Fc4cc1c(OC(CC1)C(O)CNCC(O)C3Oc2ccc(F)cc2CC3)cc4
+Thorium(IV) carbide	[C]#[Th]
 Thorium(IV) chloride	Cl[Th](Cl)(Cl)Cl
 Thorium tetrafluoride	F[Th](F)(F)F
 Thorium(IV) iodide	[I-].[I-].[I-].[I-].[Th+4]
@@ -4360,6 +4364,7 @@ Thorium(IV) orthosilicate	[Th+4].[O-][Si]([O-])([O-])[O-]
 Thorium(IV) sulfide	S=[Th]=S
 Technetium hexafluoride	F[Tc](F)(F)(F)(F)F
 Titanium(II) oxide	O=[Ti]
+Titanium(II) sulfide	[S].[Ti]
 Titanium tetrafluoride	F[Ti](F)(F)F
 Titanium disilicide	[Si]=[Ti]=[Si]
 Titanium(III) phosphide	P#[Ti]
@@ -4952,6 +4957,7 @@ Pederin	C[C@H]1[C@H](O[C@](CC1=C)([C@@H](C(=O)N[C@H]([C@@H]2C[C@H](C([C@H](O2)C[
 Pyriproxyfen	O(c1ncccc1)C(COc3ccc(Oc2ccccc2)cc3)C
 Chlorophyllin	CCC1=CC2=NC1=CC3=C(C4=C(C(C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)C(C5CCC(=O)[O-])C)C(=O)[O-])[O-])C.[Cu+2].[Cu+2]
 Globoidnan A	c1cc(c(cc1C[C@H](C(=O)O)OC(=O)c2cc3cc(c(cc3c(c2)c4ccc(c(c4)O)O)O)O)O)O
+TH-dimer	CC1C(C2CC1C3C2CCC3)C
 Queuine	C1=C[C@@H]([C@@H]([C@H]1NCC2=CNC3=C2C(=O)NC(=N3)N)O)O
 Tetraxenonogold(II)	[Xe+][Au-2]([Xe+])([Xe+])[Xe+]
 Metirosine	O=C(O)[C@@](N)(Cc1ccc(O)cc1)C
@@ -7499,6 +7505,7 @@ Queuosine	C1=C[C@@H]([C@@H]([C@H]1NCC2=CN(C3=C2C(=O)N=C(N3)N)[C@H]4[C@@H]([C@@H]
 Pirbuterol	Oc1ccc(nc1CO)C(O)CNC(C)(C)C
 GW501516	O=C(COc1ccc(SCc2c(C)nc(c3ccc(C(F)(F)F)cc3)s2)cc1C)O
 Plutonium hexafluoride	F[Pu](F)(F)(F)(F)F
+3-Thiophene acetic acid	C1=CSC=C1CC(=O)O
 Fospropofol	CC(C)c1cccc(c1OCOP(=O)(O)O)C(C)C
 Fleroxacin	CN1CCN(CC1)C2=C(C=C3C(=C2F)N(C=C(C3=O)C(=O)O)CCF)F
 Piromidic acid	CCN1C=C(C(=O)C2=CN=C(N=C21)N3CCCC3)C(=O)O
@@ -16294,6 +16301,10 @@ Savolitinib	C[C@@H](C1=CN2C=CN=C2C=C1)N3C4=NC(=CN=C4N=N3)C5=CN(N=C5)C
 Erdafitinib	CC(C)NCCN(C1=CC2=NC(=CN=C2C=C1)C3=CN(N=C3)C)C4=CC(=CC(=C4)OC)OC
 Sapanisertib	CC(C)N1C2=C(C(=N1)C3=CC4=C(C=C3)OC(=N4)N)C(=NC=N2)N
 CBD-DMH	CCCCCCC(C)(C)c1cc(c(c(c1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+Thorium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Th+4]
+Thorium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.[Th+4]
+Thorium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Th+4]
+Thorium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Th+4]
 Sitravatinib	COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F
 Timoprazole	n1ccccc1CS(=O)c2[nH]c3ccccc3n2
 2,4,6-Tri-tert-butylphenol	CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
@@ -17292,6 +17303,8 @@ TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 2,3-Epoxybutane	C[C@@H]1[C@H](O1)C
 Theasinensin A	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)O
+Theasinensin D	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
+Theasinensin E	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)O)O)O)O)O)O)O)O
 Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
 Bisphenol Z	C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
@@ -17519,7 +17532,7 @@ Alpha-Tocopherol palmitate	CCCCCCCCCCCCCCCC(=O)OC1=C(C(=C2C(=C1C)CCC(O2)(C)CCCC(
 Lithium triflate	[Li+].C(F)(F)(F)S(=O)(=O)[O-]
 Golexanolone	C[C@]12CC[C@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]\4([C@H]3CC/C4=N\O)C)(C#C)O
 Vanadium oxydichloride	[O-2].[Cl-].[Cl-].[V+4]
-Ulotaront	CNC[C@@H]1OCCC2=C1SC=C2
+Ulotaront	CNC[C@H]1C2=C(CCO1)C=CS2
 Trifluoromethyldeschloroketamine	CNC1(CCCCC1=O)C2=CC=CC=C2C(F)(F)F
 Fluoroethyl fluoroacetate	C(CF)OC(=O)CF
 Lecanoric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O
@@ -17544,6 +17557,7 @@ Tungsten pentafluoride	F[W](F)(F)(F)F
 Β-Butyrolactone	CC1CC(=O)O1
 Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
+Thallium trifluoride	[F-].[F-].[F-].[Tl+3]
 Dimethylol propionic acid	CC(CO)(CO)C(=O)O
 Empagliflozin/metformin	CN(C)C(=N)N=C(N)N.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O.Cl
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
@@ -18720,7 +18734,7 @@ Samarium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])
 Samarium(III) iodide	I[Sm](I)I
 Neptunium arsenide	[Np].[As]
 Samarium(III) nitrate	[Sm+3].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
-Ralmitaront	CCC1=C(C(=NN1)C(=O)NC2=CC=C(C=C2)C3CNCCO3)C
+Ralmitaront	CCC1=C(C(=NN1)C(=O)NC2=CC=C(C=C2)[C@H]3CNCCO3)C
 Indospicine	C(CCC(=N)N)C[C@@H](C(=O)O)N
 Arnidiol	C[C@H]1[C@@H]2[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(C[C@@H]([C@]2(CCC1=C)C)O)C)C)(C)C)O)C
 Nicotyrine	CN1C=CC=C1C2=CN=CC=C2
@@ -18773,3 +18787,6 @@ JWH-363	CCCCCN1C=C(C=C1C2=CC(=CC=C2)C(F)(F)F)C(=O)C3=CC=CC4=CC=CC=C43
 Isohexylone	CC(C)CC(NC)C(=O)c1ccc2OCOc2c1
 Vornorexant	CC1=CC(=C(C=C1)N2N=CC=N2)C(=O)N3CCCO[C@H]3CN4C=CC(=N4)C5=NC=C(C=C5)F
 Manganese(II) chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Mn+2]
+GRL-0617	CC1=C(C=C(C=C1)N)C(=O)N[C@H](C)C2=CC=CC3=CC=CC=C32
+Trichloronitrosomethane	C(N=O)(Cl)(Cl)Cl
+S416	CN(C1=NC(=CS1)C2=CC=CC=C2Cl)/N=C\C3=CC=CC=C3C(=O)O
