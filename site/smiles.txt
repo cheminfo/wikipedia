@@ -1261,6 +1261,7 @@ Pentagastrin	O=C(N)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CCNC(=O)O
 2-Bromo-1-chloropropane	CC(Br)CCl
 Chromotropic acid	O=S(=O)(O)c1cc(O)c2c(c1)cc(cc2O)S(=O)(=O)O
 Prostratin	O=C1\C(=C/[C@H]2[C@]3(O)[C@@H](/C=C(/CO)C[C@]12O)[C@H]4[C@@](OC(=O)C)(C[C@H]3C)C4(C)C)C
+Titanium diboride	[B].[Ti].[B]
 Propylhexedrine	N(C(CC1CCCCC1)C)C
 Sterol	C1CC2CCC3C4CCC(CC4CCC3C2C1)O
 Dimercaprol	OCC(S)CS
@@ -1761,6 +1762,7 @@ Benzoyl chloride	c1ccc(cc1)C(=O)Cl
 Nabilone	O=C3CC[C@@H]1[C@H](c2c(OC1(C)C)cc(cc2O)C(C)(C)CCCCCC)C3
 Methylaluminoxane	C[Al]=O
 Toluene diisocyanate	Cc1ccc(cc1\N=C=O)\N=C=O
+Toluene diisocyanate	CC1=C(C=CC=C1N=C=O)N=C=O
 Docosahexaenoic acid	O=C(O)CC\C=C/C/C=C\C\C=C/C\C=C/C\C=C/C\C=C/CC
 Doxepin	CN(C)CC/C=C1C2=C(C=CC=C2)OCC3=C/1C=CC=C3
 Barbituric acid	O=C1NC(=O)NC(=O)C1
@@ -5229,6 +5231,7 @@ Tetrairidium dodecacarbonyl	[O+]#C[Ir-3]12(C#[O+])(C#[O+])[Ir-3]3(C#[O+])(C#[O+]
 Tetrakis(triphenylphosphine)platinum(0)	c0ccccc0[P+](c0ccccc0)(c0ccccc0)[Pt-4]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)[P+](c0ccccc0)(c0ccccc0)c0ccccc0
 Trimethylindium	C[In](C)C
 Nitisinone	O=C(c1ccc(cc1[N+]([O-])=O)C(F)(F)F)C2C(=O)CCCC2=O
+Titanocene dicarbonyl	C1C=CC=[C-]1.C1C=CC=[C-]1.C(=O)=[Ti]=C=O
 Hexatriynyl radical	C#CC#CC#[C]
 Wedelolactone	O=C3Oc4cc(OC)cc(O)c4c2oc1c(cc(O)c(O)c1)c23
 Colitose	O=C[C@@H](O)C[C@H](O)[C@@H](O)C
@@ -12547,6 +12550,7 @@ Dimethyl carbate	O=C(OC)[C@@H]2[C@H](C(=O)OC)[C@H]\1C[C@@H]2/C=C/1
 MK-212	Clc1nc(cnc1)N2CCNCC2
 Bitoscanate	C1=CC(=CC=C1N=C=S)N=C=S
 2-(2-Methoxyethoxy)ethanol	COCCOCCO
+Titanocene pentasulfide	[CH-]1C=CC=C1.[CH-]1C=CC=C1.[S-]SSS[S-].[Ti+4]
 Astatine iodide	[I-].[At+]
 Ingenol mebutate	C/C=C(/C)\C(=O)O[C@H]1C(C)=C[C@]23[C@]1(O)[C@H](O)C(CO)=C[C@H](C3=O)[C@H]4[C@H](C4(C)C)C[C@H]2C
 Methyl anisate	O=C(OC)c1ccc(OC)cc1
