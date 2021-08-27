@@ -12878,6 +12878,7 @@ JWH-148	CCCN1C(=C(C2=CC=CC=C21)C(=O)C3=CC=C(C4=CC=CC=C43)C)C
 JWH-149	c4cccc1c4c(ccc1C)C(=O)c3c2ccccc2n(c3C)CCCCC
 1,3-Dichloropropane	ClCCCCl
 1,1,1,2-Tetrachloropropane	CC(C(Cl)(Cl)Cl)Cl
+1,1,3-Trichloropropene	C(C=C(Cl)Cl)Cl
 2-Chlorobutane	CCC(C)Cl
 2-Chlorobutane	C[C@@H](Cl)CC
 2-Chlorobutane	CC[C@H](C)Cl
@@ -15034,7 +15035,7 @@ Cyclohexanethiol	C1CCC(CC1)S
 2-Methyl-2-heptanethiol	CCCCCC(C)(C)S
 Isopropylphenidate	C1(=CC=CC=C1)C(C(=O)OC(C)C)C2CCCCN2
 Encenicline	c1cc2cc(sc2c(c1)Cl)C(=O)N[C@H]3CN4CCC3CC4
-Tucidinostat	NC1=C(NC(=O)C2=CC=C(CNC(=O)\C=C\C3=CN=CC=C3)C=C2)C=C(F)C=C1
+Tucidinostat	C1=CC(=CN=C1)/C=C/C(=O)NCC2=CC=C(C=C2)C(=O)NC3=C(C=C(C=C3)F)N
 AT-076	CC(C)[C@@H](CN1CCC(CC1)C2=CC(=CC=C2)O)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
 BU09059	CCOC(=O)C(CN1CC[C@](C)([C@@H](C)C1)c2cccc(O)c2)NC(=O)[C@H]3Cc4ccc(O)cc4CN3
 Samatasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]c3ccc(cc3n2)c4csc5c4scc5c6ccc(cc6)c7c[nH]c(n7)[C@@H]8CCCN8C(=O)[C@@H](c9ccccc9)NC(=O)OC)NC(=O)OC
@@ -15565,6 +15566,7 @@ Magnesium taurate	C(CS(=O)(=O)[O-])N.C(CS(=O)(=O)[O-])N.[Mg+2]
 Meso-zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 Ximenynic acid	CCCCCCC=CC#CCCCCCCCC(=O)O
+Tribromoacetic acid	C(=O)(C(Br)(Br)Br)O
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
 Oxosilanol	O=[SiH]O
@@ -18791,6 +18793,7 @@ JWH-363	CCCCCN1C=C(C=C1C2=CC(=CC=C2)C(F)(F)F)C(=O)C3=CC=CC4=CC=CC=C43
 Isohexylone	CC(C)CC(NC)C(=O)c1ccc2OCOc2c1
 Vornorexant	CC1=CC(=C(C=C1)N2N=CC=N2)C(=O)N3CCCO[C@H]3CN4C=CC(=N4)C5=NC=C(C=C5)F
 Manganese(II) chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Mn+2]
+Manganese(II) chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Mn+2].O.O.O.O.O.O
 GRL-0617	CC1=C(C=C(C=C1)N)C(=O)N[C@H](C)C2=CC=CC3=CC=CC=C32
 Trichloronitrosomethane	C(N=O)(Cl)(Cl)Cl
 S416	CN(C1=NC(=CS1)C2=CC=CC=C2Cl)/N=C\C3=CC=CC=C3C(=O)O
