@@ -5108,6 +5108,7 @@ Phenylmagnesium bromide	Br[Mg]c1ccccc1
 DMMDA-2	CC(N)Cc1cc2OCOc2c(OC)c1OC
 Phosphorus pentafluoride	FP(F)(F)(F)F
 Tryptoline	c1ccc2c(c1)c3c([nH]2)CNCC3
+Triosmium dodecacarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Os].[Os].[Os]
 Argon fluorohydride	F[ArH]
 Capromorelin	CC(C)(C(=O)N[C@H](COCC1=CC=CC=C1)C(=O)N2CCC3=NN(C(=O)[C@@]3(C2)CC4=CC=CC=C4)C)N
 Hyponitrous acid	ON=NO
@@ -9241,7 +9242,7 @@ Ageliferin	C1[C@@H]([C@H]([C@@H](C2=C1NC(=N2)N)C3=CN=C(N3)N)CNC(=O)C4=CC(=CN4)Br
 Lomitapide	FC(F)(F)c5ccc(cc5)-c1ccccc1C(=O)NC4CCN(CC4)CCCCC2(C(=O)NCC(F)(F)F)c3ccccc3-c6ccccc26
 Talarozole	c2ncnn2C(C(CC)CC)c(cc3)ccc3Nc4nc1ccccc1s4
 Tuataric acid	C/C=C\C=C\CCC(=O)O
-GYKI-52,466	CC1=NN=C(C2=CC3=C(C=C2C1)OCO3)C4=CC=C(C=C4)N
+GYKI 52466	CC1=NN=C(C2=CC3=C(C=C2C1)OCO3)C4=CC=C(C=C4)N
 Acetyltributylcitrate	CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C
 Telcagepant	C1C[C@H](C(=O)N(C[C@@H]1C2=C(C(=CC=C2)F)F)CC(F)(F)F)NC(=O)N3CCC(CC3)N4C5=C(NC4=O)N=CC=C5
 Chrome alum	[K]OS(=O)(=O)O[Cr]1OS(=O)(=O)O1
@@ -9826,7 +9827,7 @@ GR-127935	n5oc(C)nc5-c(cc2C)ccc2-c(cc3)ccc3C(=O)Nc(ccc1OC)cc1N4CCN(C)CC4
 CCG-4986	O=[N](=O)c1ccc(cc1)\S(\OC)=N\S(=O)(=O)c(cc2)ccc2Cl
 Tetracarbon dioxide	O=C=C=C=C=O
 1,3-Dioxetanedione	O=C1OC(=O)O1
-1,3,5-Trioxanetrione	O=C0OC(=O)OC(=O)O0
+1,3,5-Trioxanetrione	O=C1OC(=O)OC(=O)O1
 Cyclobutanetetrone	O=C1C(=O)C(=O)C1=O
 Halichondrin B	OCC(O)CC(O)[C@@H]1C[C@@H]2O[C@@]3(C[C@H](C)[C@@H]2O1)C[C@H](C)[C@@H]4O[C@]%10(C[C@@H]4O3)C[C@H]%11O[C@H]%12[C@H](C)[C@H]%13OC(=O)C[C@H]8CC[C@@H]9O[C@H]7[C@H]6O[C@]5(O[C@H]([C@@H]7O[C@@H]6C5)[C@H]9O8)CC[C@H]%15C/C(=C)[C@H](CC[C@H]%14C[C@@H](C)\C(=C)[C@@H](C[C@@H]%13O[C@H]%12C[C@H]%11O%10)O%14)O%15
 Copper(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
@@ -10126,6 +10127,7 @@ Taxifolin	OC1=C(C([C@H](O)[C@@H](C2=CC(O)=C(O)C=C2)O3)=O)C3=CC(O)=C1
 Aromadendrin	C1=CC(=CC=C1C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
 Tabtoxinine β-lactam	C1[C@](C(=O)N1)(CC[C@@H](C(=O)O)N)O
 Trinitromethane	C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
+Trinitromethane	C(=[N+]([O-])[O-])([N+](=O)[O-])[N+](=O)[O-]
 Propargite	O=S(OCC#C)OC2CCCCC2Oc1ccc(cc1)C(C)(C)C
 1,2-Butanediol	OCC(O)CC
 Astilbin	O=C3c4c(O)cc(O)cc4O[C@H](c1ccc(O)c(O)c1)[C@H]3O[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
@@ -13460,6 +13462,7 @@ Variegatic acid	O=C(C(C1=CC(O)=C(O)C=C1)=C/2O)OC2=C(C(O)=O)/C3=CC(O)=C(O)C=C3
 Beta-Zeacarotene	CC(C)=CCC\C(C)=C\CC\C(C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
 Rhodopin	OC(C)(C)CCC\C(=C\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C)C)C
 Pulvinic acid	O=C(O)C(=C2/OC(/O)=C(/c1ccccc1)C2=O)/c3ccccc3
+Triphosphorus pentanitride	[N].[N].[N].[N].[N].[P].[P].[P]
 Zeocin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=N[C@H](CS5)C6=NC(=CS6)C(=O)NCCCCN=C(N)N)O
 Bupirimate	CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
 PRL-8-53	CN(CCc1cccc(c1)C(=O)OC)Cc2ccccc2
@@ -15380,6 +15383,8 @@ Norepinephrine (medication)	Oc1ccc(cc1O)[C@@H](O)CN
 1,3-Dichlorobenzene	ClC1=CC=CC(Cl)=C1
 4,4′-Diamino-2,2′-stilbenedisulfonic acid	c1cc(c(cc1N)S(=O)(=O)O)/C=C/c2ccc(cc2S(=O)(=O)O)N
 Magnesium chlorate	Cl(=O)(=O)[O-].Cl(=O)(=O)[O-].[Mg+2]
+Magnesium chlorate	O.O.[Mg+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
+Magnesium chlorate	O.O.O.O.O.O.[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Mg+2]
 Iron tris(dimethyldithiocarbamate)	CN(C)C(S1)S[Fe]123(SC(S2)N(C)C)SC(S3)N(C)C
 N-Feruloylserotonin	COc1cc(ccc1O)/C=C/C(=O)NCCc2c[nH]c3c2cc(cc3)O
 Deschloroketamine	CNC1(CCCCC1=O)c2ccccc2
@@ -18800,3 +18805,5 @@ Manganese(II) chlorate	[O-]Cl(=O)=O.[O-]Cl(=O)=O.[Mn+2].O.O.O.O.O.O
 GRL-0617	CC1=C(C=C(C=C1)N)C(=O)N[C@H](C)C2=CC=CC3=CC=CC=C32
 Trichloronitrosomethane	C(N=O)(Cl)(Cl)Cl
 S416	CN(C1=NC(=CS1)C2=CC=CC=C2Cl)/N=C\C3=CC=CC=C3C(=O)O
+Fumarranol	CC(=CC[C@@H]1[C@@](O1)(C)C2[C@]3([C@@]2(C(=O)CC3)OC)CO)C
+2C-T-28	COC1=CC(=C(C=C1CCN)OC)SCCCF
