@@ -650,7 +650,7 @@ Minoxidil	Nc1cc(nc(N)[n+]1[O-])N2CCCCC2
 Granisetron	CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23
 2C-T-7	COc1cc(SCCC)c(cc1CCN)OC
 Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
-Xenon hexafluoroplatinate	[Xe+].F[Pt-1](F)(F)(F)(F)F
+Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)F
 2C-E	COc1cc(CC)c(cc1CCN)OC
 Iron(III) chloride	Cl[Fe](Cl)Cl
 Silver iodide	[Ag]I
@@ -7403,6 +7403,7 @@ Chlorodimethylsilane	Cl[SiH](C)C
 Isohumulone	O=C(C1(O)C(/O)=C(\C(=O)C1C/C=C(/C)C)C(=O)CC(C)C)C\C=C(/C)C
 Iron(II) lactate	[Fe+2].[O-]C(=O)C(O)C.[O-]C(=O)C(O)C
 Hopane	[C@@H]54[C@]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)CCC2)CC3)C)(C)CC4)(C)CC[C@@H]5C(C)C
+White lead	C(=O)([O-])[O-].C(=O)([O-])[O-].[OH-].[OH-].[Pb+2].[Pb+2].[Pb+2]
 Clotrimazole	Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4
 Nefopam	CN1CCOC(C2=CC=CC=C2C1)C3=CC=CC=C3
 Estrone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
@@ -11967,6 +11968,7 @@ Ranbezolid	CC(=O)NC[C@H]1CN(C(=O)O1)c2ccc(N3CCN(Cc4oc(cc4)[N+](=O)[O-])CC3)c(F)c
 Cryptolepine	N2=C1C(C=CC=C1)=C4C2=Cc3ccccc3N4C
 Cariporide	O=S(=O)(c1cc(ccc1C(C)C)C(=O)/N=C(\N)N)C
 Symplocamide A	CCCC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1[C@H](OC(=O)[C@@H](NC(=O)[C@@H](N(C(=O)[C@@H](N2[C@@H](CC[C@@H](C2=O)NC(=O)[C@@H](NC1=O)CCCNC(=O)N)O)[C@@H](C)CC)C)Cc3ccc(c(c3)Br)OC)C(C)C)C
+Xenon dioxide	O=[Xe]=O
 Tetranitrogen	N1=NN=N1
 Tetranitrogen	N12N3N1N23
 VUAA1	CCN1C(C2=CN=CC=C2)=NN=C1SCC(NC3=CC=C(CC)C=C3)=O
@@ -12316,6 +12318,7 @@ Evacetrapib	O=C([C@H]1CC[C@H](CN2CCC[C@H](N(CC3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)C4=
 Lesquerolic acid	O=C(O)CCCCCCCCC\C=C/C[C@H](O)CCCCCC
 Levopimaric acid	O=C(O)[C@]3([C@@H]2CCC\1=C\C(=C/C[C@@H]/1[C@@]2(C)CCC3)C(C)C)C
 Lithium imide	[Li+].[Li+].[NH-2]
+Xenon dichloride	Cl[Xe]Cl
 Epristeride	CC(C)(C)NC(=O)C1CCC2C3C\C=C4\C=C(/CCC4(C)C3CCC12C)C(O)=O
 Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC(C)C)OC3=CC=CC=C3
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
@@ -13025,7 +13028,7 @@ Combretastatin B-1	COC1=C(C(=C(C=C1)CCC2=CC(=C(C(=C2)OC)OC)OC)O)O
 Dihydro-resveratrol	C1=CC(=CC=C1CCC2=CC(=CC(=C2)O)O)O
 Isonotholaenic acid	c2cc(OC)ccc2CCc1cc(O)cc(OC)c1C(O)=O
 Lunularic acid	C1=CC(=C(C(=C1)O)C(=O)O)CCC2=CC=C(C=C2)O
-Xenon hexafluororhodate	[Xe+].F[Rh-1](F)(F)(F)(F)F
+Xenon hexafluororhodate	F[Xe+].F[Rh-1](F)(F)(F)(F)F
 3,3-Bis(chloromethyl)oxetane	ClCC1(CCl)COC1
 Oxydisulfoton	O=S(CCSP(=S)(OCC)OCC)CC
 Chlorbisan	Clc2cc(c(Sc1c(cc(Cl)cc1O)C)c(O)c2)C
@@ -13489,6 +13492,7 @@ Mutatochrome	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C2C=C3
 Variegatic acid	O=C(C(C1=CC(O)=C(O)C=C1)=C/2O)OC2=C(C(O)=O)/C3=CC(O)=C(O)C=C3
 Beta-Zeacarotene	CC(C)=CCC\C(C)=C\CC\C(C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
 Rhodopin	OC(C)(C)CCC\C(=C\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C)C)C
+White–Chen catalyst	CC#N.CC#N.C1CC(N(C1)CC2=CC=CC=N2)C3CCCN3CC4=CC=CC=N4.F[Sb-](F)(F)(F)(F)F.F[Sb-](F)(F)(F)(F)F.[Fe+2]
 Pulvinic acid	O=C(O)C(=C2/OC(/O)=C(/c1ccccc1)C2=O)/c3ccccc3
 Triphosphorus pentanitride	[N].[N].[N].[N].[N].[P].[P].[P]
 Zeocin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=N[C@H](CS5)C6=NC(=CS6)C(=O)NCCCCN=C(N)N)O
@@ -14385,7 +14389,7 @@ Acetone oxime	CC(=NO)C
 Obeticholic acid	CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O
 Palovarotene	CC1(CCC(C2=C1C=C(C(=C2)/C=C/C3=CC=C(C=C3)C(=O)O)CN4C=CC=N4)(C)C)C
 4-Methylcyclohexanemethanol	CC1CCC(CC1)CO
-Caramboxin	COC1=CC(=C(C(=C1)O)C(=O)O)C[C@@H](C(=O)O)N
+Caramboxin	OC(=O)c1c(O)cc(OC)cc1C[C@H](N)C(=O)O
 Chromium(II) bromide	[Cr+2].[Br-].[Br-]
 Ergometrinine	C[C@@H](CO)NC(=O)[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Chromium(IV) fluoride	[Cr+4].[F-].[F-].[F-].[F-]
@@ -18847,3 +18851,6 @@ Fumarranol	CC(=CC[C@@H]1[C@@](O1)(C)C2[C@]3([C@@]2(C(=O)CC3)OC)CO)C
 BMAPN	CC(C(=O)C1=CC2=CC=CC=C2C=C1)NC
 3-Bromomethylphenidate	COC(=O)C(C1CCCCN1)C2=CC(=CC=C2)Br
 N-Benzyl-2C-B	COC1=CC(=C(C=C1CCNCC2=CC=CC=C2)OC)Br
+2C-CP	COc1cc(c(cc1CCN)OC)C1CC1
+2C-V	COc1cc(C=C)c(cc1CCN)OC
+DOPF	COc1cc(CCCF)c(cc1CC(C)N)OC
