@@ -8510,6 +8510,7 @@ Pyridine-N-oxide	c1cc[n+](cc1)[O-]
 2,4-Dinitrophenylmorphine	[O-][N+](=O)c6ccc(Oc2c1O[C@@H]4[C@@]35c1c(cc2)C[C@@H](N(CC3)C)[C@@H]5/C=C\[C@@H]4O)c([N+]([O-])=O)c6
 GSK-189254	c4cc1CCN(C3CCC3)CCc1cc4Oc(cc2)ncc2C(=O)NC
 Aplindore	c4ccccc4CNCC(CO2)Oc1c2ccc(N3)c1CC3=O
+Yttrium nitride	[N].[Y]
 Yttrium(III) phosphate	[O-]P(=O)([O-])[O-].[Y+3]
 Benzaldehyde	c1ccc(cc1)C=O
 Sodium metaborate	B(=O)[O-].[Na+]
@@ -9331,6 +9332,8 @@ DPPH	c1ccc(cc1)N(c2ccccc2)[N]c3c(cc(cc3[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 N-Vinylcarbazole	c1cccc3c1c2c(cccc2)n3C=C
 Sulfoquinovose	O=S(=O)(O)C[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Para-Chloroamphetamine	Clc1ccc(cc1)CC(N)C
+Yttrium borides	[B][B].[Y]
+Yttrium borides	[B].[B].[B].[B].[B].[B].[Y]
 Bromine dioxide	O=Br=O
 Caesium oxide	[Cs+].[Cs+].[O-2]
 Neodymium(III) oxide	O=[Nd]O[Nd]=O
@@ -11817,6 +11820,8 @@ Acefluranol	CCC(C1=CC(=C(C(=C1)F)OC(=O)C)OC(=O)C)C(C)C2=CC(=C(C(=C2)F)OC(=O)C)OC
 Astringin	O(c2cc(O)cc(\C=C\c1ccc(O)c(O)c1)c2)[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)CO
 Myosmine	n1cccc(c1)/C2=N/CCC2
 Macelignan	C[C@H](CC1=CC2=C(C=C1)OCO2)[C@@H](C)CC3=CC(=C(C=C3)O)OC
+Ytterbium(III) sulfate	OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.[Yb].[Yb]
+Ytterbium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Yb+3].[Yb+3]
 N-(p-Amylcinnamoyl)anthranilic acid	CCCCCC1=CC=C(C=C1)/C=C/C(=O)NC2=CC=CC=C2C(=O)O
 Indorenate	COC(=O)C(CN)c1c[nH]c(ccc2OC)c1c2
 Alpinetin	O=C2c3c(O[C@H](c1ccccc1)C2)cc(O)cc3OC
@@ -16670,6 +16675,7 @@ Ketodarolutamide	C[C@@H](CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=CC(=NN3)C(=O)
 N-Desmethylenzalutamide	CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)N)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C
 LG-120907	CC1(C=CC2=C(N1)C=C3C(=C2)C(=CC(=O)N3)C(F)(F)F)C
 Xerocomic acid	OC(=O)C(=C1\OC(=O)C(=C1O)C1=CC=C(O)C(O)=C1)\C1=CC=C(O)C=C1
+Xerocomorubin	c1cc(O)ccc1C(=C(O)2)C(=O)OC2=C3C(=O)OC4=C3C=C(O)C(O)=C4
 Methyl propiolate	COC(=O)C#C
 Ethyl propiolate	CCOC(=O)C#C
 Cortobenzolone	C[C@]12C[C@@H](C3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)COC(=O)C4=CC=CC=C4O)O)O)CCC5=CC(=O)C=C[C@@]53C)F)O
@@ -18068,6 +18074,7 @@ Flortaucipir (18F)	C1=CC2=C(C=C1C3=CN=C(C=C3)[18F])NC4=C2C=NC=C4
 Vinervine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1C(=C3NC5=C4C=CC=C5O)C(=O)OC
 19,20-Dihydroervahanine A	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)[C@H]6C[C@@H]7[C@@H](CN([C@H](C7C(=O)OC)CC8=C6NC9=CC=CC=C89)C)CC)C(=O)OC
 5-MeO-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)OC
+Ytterbium hydride	[YbH2]
 Lurbinectedin	CC1=CC2=C([C@@H]3[C@@H]4[C@H]5C6=C(C(=C7C(=C6[C@@H](N4[C@H]([C@H](C2)N3C)O)COC(=O)[C@@]8(CS5)C9=C(CCN8)C2=C(N9)C=CC(=C2)OC)OCO7)C)OC(=O)C)C(=C1OC)O
 Lergotrile	CN1C[C@@H](C[C@H]2[C@H]1CC3=C(NC4=CC=CC2=C34)Cl)CC#N
 Sergolexole	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)OC4CCC(CC4)OC)C5=C2C1=CC=C5
@@ -18854,3 +18861,7 @@ N-Benzyl-2C-B	COC1=CC(=C(C=C1CCNCC2=CC=CC=C2)OC)Br
 2C-CP	COc1cc(c(cc1CCN)OC)C1CC1
 2C-V	COc1cc(C=C)c(cc1CCN)OC
 DOPF	COc1cc(CCCF)c(cc1CC(C)N)OC
+JWH-145	O=C(C1=CN(CCCCC)C(C2=CC=CC=C2)=C1)C3=C(C=CC=C4)C4=CC=C3
+JWH-146	O=C(C1=CC=CC2=C1C=CC=C2)C3=CN(CCCCCCC)C(C4=CC=CC=C4)=C3
+JWH-150	CCCCN1C=C(C=C1C2=CC=CC=C2)C(=O)C3=CC=CC4=CC=CC=C43
+CAR-302,282	CC(=C)C#CC(C1=CC=CC=C1)(C(=O)OC2CCN(CC2)C)O
