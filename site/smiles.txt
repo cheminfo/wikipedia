@@ -5889,6 +5889,7 @@ Tert-Butylamine	CC(C)(C)N
 Sec-Butylamine	CCC(C)N
 Isobutylamine	CC(C)CN
 Alpha-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
+Lithium superoxide	[Li+].O=[O-]
 3-Hydroxypicolinic acid	c1cc(c(nc1)C(=O)O)O
 Thiotrisescaline	CCOc1cc(cc(c1OCC)SCC)CCN
 Trisescaline	CCOc1c(cc(cc1OCC)CCN)OCC
@@ -12320,6 +12321,7 @@ Mitratapide	CC[C@@H](C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@@H
 Phthalide	O=C1OCc2ccccc12
 Butylphthalide	O=C1OC(c2ccccc12)CCCC
 Pheophorbide A	CCC1=C2C=C3C(=C4C(=O)[C@@H](C(=C5[C@H]([C@@H](C(=N5)C=C6C(=C(C(=CC(=C1C)N2)N6)C=C)C)C)CCC(=O)O)C4=N3)C(=O)OC)C
+Methylvanillylecgonine	COc(c1)c(O)ccc1C(=O)OC2CC(CC3)N(C)C3C2C(=O)OC
 Rhodium hexafluoride	F[Rh](F)(F)(F)(F)F
 Benzoylthiomethylecgonine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)SC(=O)c3ccccc3)C(=O)OC
 2-sec-Butyl-4,5-dihydrothiazole	CCC(C)C1=NCCS1
@@ -12657,7 +12659,7 @@ Methoxyketamine	CNC1(CCCCC1=O)c2ccccc2OC
 Mexacarbate	CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC
 Kaempferol 3-O-rutinoside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O)O)O
 Laurolactam	C1CCCCCC(=O)NCCCCC1
-Magnesium nickel hydride	[H].[H].[H].[H].[Mg].[Mg].[Ni]
+Magnesium nickel hydride	[H-].[H-].[H-].[H-].[Mg+2].[Mg+2].[Ni]
 Sodium trifluoromethanesulfinate	[Na+].FC(F)(F)S([O-])=O
 Sodium ferric gluconate complex	O[C@H]([C@@H](O)C(O[Na])=O)[C@H](O)[C@H](O)CO.O[C@H]([C@@H](O)C(O1)=O)[C@H](O)[C@H](O)CO.[Fe]1(OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)OC(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Iron sucrose	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O.O.O.O.[OH-].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Na+].[Na+].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
@@ -12798,6 +12800,7 @@ Flufenacet	CC(C)N(c1ccc(cc1)F)C(=O)COc2nnc(s2)C(F)(F)F
 Metribuzin	CC(C)(C)C1=NN=C(N(C1=O)N)SC
 Ruthenium hexafluoride	F[Ru](F)(F)(F)(F)F
 Methyl 2-chloroacrylate	COC(=O)C(=C)Cl
+Magnesium iron hexahydride	[Mg+2].[Mg+2].[Fe+2].[H-].[H-].[H-].[H-].[H-].[H-]
 Chloroethyl chloroformate	ClC(OC(Cl)C)=O
 Chloroethyl chloroformate	ClC(=O)OCCCl
 Chlorthiophos	CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)SC)Cl
@@ -13146,6 +13149,7 @@ Ethanimine	CC=N
 Eleutheroside D	COc1cc(cc(c1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)[C@@H]3[C@@H]4CO[C@@H]([C@H]4CO3)c5cc(c(c(c5)OC)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)OC
 Brookhart's acid	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[B-](c2cc(cc(c2)C(F)(F)F)C(F)(F)F)(c3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4cc(cc(c4)C(F)(F)F)C(F)(F)F.O(CC)CC.[OH+](CC)CC
 Ammonium carbamate	[O-]C(=O)N.[NH4+]
+Nitropentaamminecobalt(III) chloride	[Cl-].[Cl-].O=N(=O)[Co+2]([NH3])([NH3])([NH3])([NH3])[NH3]
 Dimethylbutadiene	CC(=C)C(=C)C
 4-Iodo-N,N-dimethylaniline	Ic1ccc(N(C)C)cc1
 Glyceryl hydroxystearate	O=C(OC(CO)CO)C(O)CCCCCCCCCCCCCCCC
@@ -16417,6 +16421,7 @@ Decarbamoylsaxitoxin	NC1=N[C@H]2[C@H](CO)N=C(N)N3CCC(O)(O)[C@]23N1
 Platinum diselenide	[Se]=[Pt]=[Se]
 Heptachlorodibenzo-p-dioxin	C1=C2C(=C(C(=C1Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl
 Motolimod	CCCN(CCC)C(=O)C1=CC2=C(C=C(C=C2)C3=CC=C(C=C3)C(=O)N4CCCC4)N=C(C1)N
+Lithium ruthenate	[Li+].[Li+].[O-][Ru](=O)[O-]
 Lithium platinate	[Li+].O=[Pt]([O-])[O-].[Li+]
 Nisinic acid	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)O
 Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
@@ -16504,6 +16509,7 @@ Tetrachlorocyclopropene	ClC1=C(Cl)C1(Cl)Cl
 Upadacitinib	CCC1CN(CC1C2=CN=C3N2C4=C(NC=C4)N=C3)C(=O)NCC(F)(F)F
 1,1-Diiodoethane	CC(I)I
 Iron(II) selenate	[O-][Se](=O)(=O)[O-].[Fe+2]
+Iron(II) selenate	[O-][Se](=O)(=O)[O-].[Fe+2].O.O.O.O.O
 TPEN	c1ccc(nc1)CN(CCN(Cc1ccccn1)Cc1ccccn1)Cc1ccccn1
 6-(Methylsulfinyl)hexyl isothiocyanate	CS(=O)CCCCCN=C=S
 1,3-Cyclohexanedione	C1CC(=O)CC(=O)C1
@@ -17338,6 +17344,7 @@ Methallyl chloride	CC(=C)CCl
 Trithionic acid	OS(=O)(=O)SS(=O)(=O)O
 3-Methylsalicylic acid	CC1=CC=CC(=C1O)C(=O)O
 5-Methylsalicylic acid	CC1=CC(=C(C=C1)O)C(=O)O
+Lithium tetrahydridogallate	[Li+].[GaH4-]
 Levoglucosenone	C1[C@@H]2C=CC(=O)[C@H](O1)O2
 Magnesocene	[cH-]1cccc1.[cH-]1cccc1.[Mg+2]
 Haloxon	CC1=C(Cl)C(=O)Oc2cc(OP(=O)(OCCCl)OCCCl)ccc12
@@ -17437,6 +17444,7 @@ Gestonorone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]
 Methanedithiol	SCS
 Pentahydroxybenzene	C1=C(C(=C(C(=C1O)O)O)O)O
 Methyl pyruvate	CC(=O)C(=O)OC
+Lanthanum decahydride	[LaH10]
 SN-22	CN1CCC(CC1)c1c[nH]c2c1cccc2
 Choline m-bromophenyl ether	C[N+](C)(C)CCOc1cccc(c1)Br
 Isoflurothyl	COC(C(F)(F)F)C(F)(F)F
