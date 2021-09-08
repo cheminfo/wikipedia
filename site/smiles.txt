@@ -14040,6 +14040,7 @@ MR-2096	O[C@]1([C@H]2C3)[C@@]4(CCN2C[C@H]5CCCO5)C6=C3C=CC(O)=C6O[C@H]4C(CC1)=O
 Trifluoroacetyl chloride	C(=O)(C(F)(F)F)Cl
 4-Nonylphenylboronic acid	OB(O)C1=CC=C(CCCCCCCCC)C=C1
 Aviculin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@H]2[C@@H](CC3=CC(=C(C=C3[C@@H]2C4=CC(=C(C=C4)O)OC)O)OC)CO)O)O)O
+Balanophonin	COC1=CC(=CC2=C1O[C@@H]([C@H]2CO)C3=CC(=C(C=C3)O)OC)/C=C/C=O
 Balanophonin	C1[C@@H](C2=C(C1=O)OC(=O)C3=CC(=C(C(=C32)O)O)O)C(=O)OC[C@@H]4[C@H]([C@@H]([C@H]([C@@H](O4)OC(=O)/C=C/C5=CC(=C(C=C5)O)O)O)O)O
 Tazopsine	COc1ccc2c(c1O)[C@@]34CCN[C@@H]([C@@H]2O)C3=C([C@H]([C@H](C4)O)O)OC
 Sinococuline	COC1=C(C2=C(C[C@H]3C4=C([C@H]([C@H](C[C@]42CCN3)O)O)OC)C=C1)O
@@ -18918,3 +18919,4 @@ Ro20-8552	CC1=CC2=C(C=C1Cl)NC(=O)CN=C2C3=CC=CC=C3F
 Ro09-9212	C1C(=O)NC2=C(C=C(S2)Cl)C(=N1)C3=CC=CC=C3Cl
 Ro07-9749	C1C(=O)NC2=C(C=C(C=C2)I)C(=N1)C3=CC=CC=C3F
 Methoxyeugenol	COC1=CC(=CC(=C1O)OC)CC=C
+Chrozophoridine	COC1C(=O)C(=O)N(C)C(=O)C=1C(=C2OC)C(=O)N(C)C(O)=C2OC3C(O)C(O)C(O)C(O3)CO
