@@ -14375,6 +14375,8 @@ Tolamolol	CC1=CC=CC=C1OCC(CNCCOC2=CC=C(C=C2)C(=O)N)O
 Toliprolol	CC1=CC(=CC=C1)OCC(CNC(C)C)O
 Coclaurine	COC1=C(C=C2[C@@H](NCCC2=C1)CC3=CC=C(C=C3)O)O
 Dihydrochandonium	C[C@]12CC[C@@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC[N+]4(C)C)C)[N+]5(CCCC5)C
+Dihydrochandonium	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC[N+]4(C)C)C)[N+]5(CCCC5)C.[Br-].[Br-]
+Dihydrochandonium	C[C@]12CC[C@@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC[N+]4(C)C)C)[N+]5(CCCC5)C.[I-].[I-]
 Malouetine	C[C@H]([C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)[N+](C)(C)C)C)C)[N+](C)(C)C.[I-].[I-]
 Ungeremine	C1C[N+]2=CC3=CC4=C(C=C3C5=CC(=CC1=C52)O)OCO4
 1,2-Diiodoethane	ICCI
@@ -18927,7 +18929,7 @@ Ro20-8552	CC1=CC2=C(C=C1Cl)NC(=O)CN=C2C3=CC=CC=C3F
 Ro09-9212	C1C(=O)NC2=C(C=C(S2)Cl)C(=N1)C3=CC=CC=C3Cl
 Ro07-9749	C1C(=O)NC2=C(C=C(C=C2)I)C(=N1)C3=CC=CC=C3F
 Methoxyeugenol	COC1=CC(=CC(=C1O)OC)CC=C
-Chrozophoridine	COC1C(=O)C(=O)N(C)C(=O)C=1C(=C2OC)C(=O)N(C)C(O)=C2OC3C(O)C(O)C(O)C(O3)CO
+Chrozophoridin	COC1C(=O)C(=O)N(C)C(=O)C=1C(=C2OC)C(=O)N(C)C(O)=C2OC3C(O)C(O)C(O)C(O3)CO
 4,7-Dichloroquinoline	c1cc2c(ccnc2cc1Cl)Cl
 Fluadinazolam	CN(C)CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F
 Homofentanyl	CCC(=O)N(C1CCN(CC1)CCCC2=CC=CC=C2)C3=CC=CC=C3
@@ -18937,3 +18939,7 @@ Secofentanyl	CCC(=O)N(C1=CC=CC=C1)C(C)CCN(C)CCC2=CC=CC=C2
 Barium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[Ba+2]
 3-Chlorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)Cl
 Methylenedioxyphenmetrazine	CC1NCCOC1c1cc2OCOc2cc1
+Piflufolastat F-18	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)=O)C(O)=O
+Flubrotizolam	CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4F
+Fluetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4F)C
+Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
