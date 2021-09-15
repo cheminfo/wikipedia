@@ -7296,7 +7296,7 @@ Ethenone	O=C=C
 CLD chromophore	CC1(CC(=C/C(=C/C=C/C2=C(C(=C(C#N)C#N)OC2(C)C)C#N)/C1)/C=C/C3=CC=C(C=C3)N(CCO[Si](C)(C)C(C)(C)C)CCO[Si](C)(C)C(C)(C)C)C
 Ethcathinone	O=C(c1ccccc1)C(NCC)C
 Rilpivirine	Cc1cc(cc(c1Nc2ccnc(n2)Nc3ccc(cc3)C#N)C)/C=C/C#N
-Tetrahydrocannabinol-C4	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
+Tetrahydrocannabutol	CCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O
 Laudanosine	CN1CCc2cc(c(cc2[C@@H]1Cc3ccc(c(c3)OC)OC)OC)OC
 TRISPHAT	O1c0c(Cl)c(Cl)c(Cl)c(Cl)c0O[P-]123(Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O2)Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O3
 TRISPHAT	O1c0c(Cl)c(Cl)c(Cl)c(Cl)c0O[P-]123(Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O2)Oc0c(Cl)c(Cl)c(Cl)c(Cl)c0O3.CCCC[N+H](CCCC)CCCC
@@ -11631,8 +11631,8 @@ KT5720	CCCCCCOC(=O)[C@@]1(C[C@H]2N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N(C7=C53)[C@@
 A-834,735	C4COCCC4Cn(c3)c2ccccc2c3C(=O)C1C(C)(C)C1(C)C
 GW-842,166X	C3COCCC3CNC(=O)c1cnc(nc1C(F)(F)F)Nc2ccc(Cl)cc2Cl
 Sinensetin	COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC
-Vince lactam	O=C1N[C@H]2\C=C/[C@@H]1C2
 Vince lactam	O=C1N[C@@H]2\C=C/[C@H]1C2
+Vince lactam	C1[C@H]2C=C[C@@H]1NC2=O
 A-796,260	C4COCCN4CCn(c3ccccc13)cc1C(=O)C2C(C)(C)C2(C)C
 Org 27569	CCc1c2cc(Cl)ccc2[nH]c1C(=O)NCCc3ccc(cc3)N4CCCCC4
 SER-601	CC(C)c5ccc(c1c5)n(CCCCC)cc(c1=O)C(=O)NC4(C2)CC(CC2C3)CC3C4
@@ -18943,3 +18943,6 @@ Piflufolastat F-18	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)
 Flubrotizolam	CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4F
 Fluetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4F)C
 Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
+Delta-6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
+THC morpholinylbutyrate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCCN4CCOCC4
+THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=O)O
