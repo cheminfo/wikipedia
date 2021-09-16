@@ -17009,6 +17009,8 @@ Morantel	CC1=C(SC=C1)C=CC2=NCCCN2C
 2-Methylbutanoic acid	CCC(C)C(=O)O
 Phomoxanthone A	CC1CC(=O)C2=C(C3=C(C=CC(=C3OC2(C1OC(=O)C)COC(=O)C)C4=C5C(=C(C=C4)O)C(=C6C(=O)CC(C(C6(O5)COC(=O)C)OC(=O)C)C)O)O)O
 Phomoxanthone B	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C5C(=C(C=C4)O)C(=C6C(=O)CC(C(C6(O5)COC(=O)C)OC(=O)C)C)O)OC2(C1OC(=O)C)COC(=O)C)O
+Phomoxanthone B	[C@H]1(CC(=C2[C@@]([C@@H]1OC(=O)C)(Oc1c(C2=O)c(ccc1c1c(c2C(=O)C3=C(C[C@H]([C@H]([C@]3(Oc2cc1)COC(=O)C)OC(=O)C)C)O)O)O)COC(=O)C)O)C
+Phomoxanthone B	C[C@@H]1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C5C(=C(C=C4)O)C(=C6C(=O)C[C@H]([C@H]([C@]6(O5)COC(=O)C)OC(=O)C)C)O)O[C@@]2([C@@H]1OC(=O)C)COC(=O)C)O
 Dicerandrol C	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)OC6(C(C(CC(=O)C6=C5O)C)OC(=O)C)COC(=O)C)O)OC2(C1OC(=O)C)COC(=O)C)O
 Acetozone	CC(=O)OOC(=O)c1ccccc1
 5α-Dihydrolevonorgestrel	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@H]3CCC(=O)C4
@@ -18946,3 +18948,5 @@ Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
 Delta-6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
 THC morpholinylbutyrate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCCN4CCOCC4
 THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=O)O
+8,11-Dihydroxytetrahydrocannabinol	CCCCCc1cc2OC(C)(C)[C@@H]3C[C@@H](O)C(=C[C@H]3c2c(O)c1)CO
+Cannabidiol dimethyl ether	CCCCCC1=CC(=C(C(=C1)OC)[C@@H]2C=C(CC[C@H]2C(=C)C)C)OC
