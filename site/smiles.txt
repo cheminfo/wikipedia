@@ -9971,6 +9971,9 @@ DCG-IV	[C@@H]1([C@@H](C1[C@@H](C(=O)O)N)C(=O)O)C(=O)O
 HYDIA	C1[C@H]2[C@@H]([C@H]2[C@@]([C@@H]1O)(C(=O)O)N)C(=O)O
 LY-379,268	C1[C@]([C@@H]2[C@H]([C@@H]2O1)C(=O)O)(C(=O)O)N
 Galmic	c7cccc3c7-c4ccccc4C3NC(=O)C(C)(c(oc6C)nc6C(=O)NC2(C)C(=O)NC(C(=O)OC)CCCCN)NC(=O)c1nc(oc1C)C(C)(NC(=O)c5nc2oc5C)C(=O)NCC8CCCCC8
+Thujaplicin	CC(C)C1=C(C(=O)C=CC=C1)O
+Thujaplicin	CC(C)C1=CC(=O)C(=CC=C1)O
+Thujaplicin	CC(C)C1=CC=C(C(=O)C=C1)O
 Isopropylamphetamine	CC(NC(C)C)CC1=CC=CC=C1
 Ortetamine	NC(C)CC1=C(C)C=CC=C1
 Aclidinium bromide	[Br-].O=C(O[C@@H]3C2CC[N+](CCCOc1ccccc1)(CC2)C3)C(O)(c4sccc4)c5sccc5
@@ -14816,6 +14819,7 @@ Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
 Vanadyl perchlorate	O=[V](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
 Pentaborane(11)	[BH3]1[BH2]2[BH]13[BH2]2[BH3]3
 Zirconium perchlorate	[Zr](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
+Xenon nitrate	[O-][N+](=O)O[Xe]O[N+](=O)[O-]
 2,4,5-Trihydroxycinnamic acid	OC(=O)\C=C\c(cc1O)c(O)cc1O
 Galidesivir	O[C@H]3[C@H](c2c1ncnc(N)c1[nH]c2)N[C@H](CO)[C@H]3O
 Cyclohexene oxide	C1CCC2C(C1)O2
@@ -18950,3 +18954,5 @@ THC morpholinylbutyrate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O
 THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=O)O
 8,11-Dihydroxytetrahydrocannabinol	CCCCCc1cc2OC(C)(C)[C@@H]3C[C@@H](O)C(=C[C@H]3c2c(O)c1)CO
 Cannabidiol dimethyl ether	CCCCCC1=CC(=C(C(=C1)OC)[C@@H]2C=C(CC[C@H]2C(=C)C)C)OC
+11-Hydroxy-Delta-8-THC	CCCCCC1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)CO)O
+3'-Hydroxy-THC	CC[C@H](O)CCc1cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c2c(O)c1
