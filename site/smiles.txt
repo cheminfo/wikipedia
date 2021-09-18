@@ -15088,6 +15088,7 @@ Gepotidacin	c1cc(=O)n2c3c1ncc(=O)n3[C@@H](C2)CN4CCC(CC4)NCc5cc6c(cn5)OCCC6
 2-Octanol	CC(O)CCCCCC
 Odalasvir	CC(C)[C@@H](C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C3=NC4=C(N3)C=C(C=C4)C5=C6CCC7=CC(=C(CCC(=C5)C=C6)C=C7)C8=CC9=C(C=C8)N=C(N9)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 Etomoxir	CCOC(=O)[C@]1(CO1)CCCCCCOC2=CC=C(C=C2)Cl
+Dodecaborate	[BH-]1234[BH]5%12%13[BH]1%10%11[BH]289[BH]367[BH]145[BH]6%14%15[BH]78%16[BH]9%10%17[BH]%11%12%18[BH]1%13%14[BH-]%15%16%17%18
 Aldoxorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=NNC(=O)CCCCCN6C(=O)C=CC6=O)CO)O)N)O
 Crisaborole	B1(c2ccc(cc2CO1)Oc3ccc(cc3)C#N)O
 Caesium bisulfate	OS(=O)(=O)[O-].[Cs+]
