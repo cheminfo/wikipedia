@@ -12479,7 +12479,6 @@ Diethyl dithiophosphoric acid	CCOP(=S)(OCC)S
 N,N-Diisopropylaminoethanol	CC(C)N(CCO)C(C)C
 Dimethylamidophosphoric dichloride	CN(C)P(=O)(Cl)Cl
 Sophoricoside	O=C/1c4c(O)cc(O)cc4O\C=C\1c3ccc(O[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)cc3
-Beryllium sulfite	[Be+2].[O-]S([O-])=O
 Beryllium borohydride	[Be+2].[BH4-].[BH4-]
 MC21-B	OC(=O)c1cc(Br)c(cc1)c2c(Br)c(Br)c(cc2)C(=O)O
 (R)-2-Methyl-CBS-oxazaborolidine	O2B(N1CCC[C@@H]1C2(c3ccccc3)c4ccccc4)C
@@ -18957,3 +18956,4 @@ THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=
 Cannabidiol dimethyl ether	CCCCCC1=CC(=C(C(=C1)OC)[C@@H]2C=C(CC[C@H]2C(=C)C)C)OC
 11-Hydroxy-Delta-8-THC	CCCCCC1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)CO)O
 3'-Hydroxy-THC	CC[C@H](O)CCc1cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c2c(O)c1
+Silanide	[SiH3-]
