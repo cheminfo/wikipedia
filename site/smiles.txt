@@ -11909,7 +11909,7 @@ Nickel(II) acetate	O=C(C)O[Ni-4](OC(C)=O)([O+H2])([O+H2])([O+H2])[O+H2]
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
 4,4'-Methylenedianiline	c1cc(N)ccc1Cc2ccc(N)cc2
 Intravenous sodium bicarbonate	C(=O)(O)[O-].[Na+]
-Chlormerodrin	COC(CNC(=O)N)C[Hg]Cl
+Chlormerodrin	COC(CNC(N)=O)C[Hg]Cl
 Rhoeadine	CN1CCC2=CC3=C(C=C2[C@@H]4[C@H]1C5=C([C@H](O4)OC)C6=C(C=C5)OCO6)OCO3
 Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Metaboric acid	O=BO
@@ -12066,6 +12066,7 @@ Farinomalein	CC(C)C1=CC(=O)N(C1=O)CCC(=O)O
 Carbophenothion	Clc1ccc(SCSP(=S)(OCC)OCC)cc1
 Melanocyte-inhibiting factor	NC(CNC([C@H](CC(C)C)NC([C@@H]1CCCN1)=O)=O)=O
 Thallous malonate	[Tl+].[Tl+].[O-]C(=O)CC([O-])=O
+Vanadium pentafluoride	[F-].[F-].[F-].[F-].[F-].[V+5]
 Methyl thiocyanate	N#CSC
 Methanophenazine	C[C@@H](CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/C)CCOC1=CC2=NC3=CC=CC=C3N=C2C=C1
 Benzoyl-beta-D-glucoside	O=C(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c2ccccc2
@@ -18860,6 +18861,7 @@ Indospicine	C(CCC(=N)N)C[C@@H](C(=O)O)N
 Arnidiol	C[C@H]1[C@@H]2[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(C[C@@H]([C@]2(CCC1=C)C)O)C)C)(C)C)O)C
 Nicotyrine	CN1C=CC=C1C2=CN=CC=C2
 Rubidium superoxide	O=[O-].[Rb+]
+Hexahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(CC[C@H]3C(OC2=C1)(C)C)C)O
 Platinum-samarium	[Sm].[Pt]
 Carbonatobis(ethylenediamine)cobalt(III) chloride	C(CN)N.C(CN)N.C(=O)([O-])[O-].[Cl-].[Co+3]
 Neptunium silicide	[Np].[Si].[Si]
@@ -18962,3 +18964,5 @@ Aluminium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Al+3]
 Dimethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)N(C)C
 DOTAM (chelator)	NC(CN1CCN(CC(N)=O)CCN(CC(N)=O)CCN(CC(N)=O)CC1)=O
 Neptunium(VII) oxide-hydroxide	[Np+3](=O)=O.[OH-].[OH-].[OH-]
+Tavapadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)C(F)(F)F)C3=C(C(=O)NC(=O)N3C)C
+MALT (psychedelic drug)	CN(CCC1=CNC2=C1C(=CC=C2)O)CC=C
