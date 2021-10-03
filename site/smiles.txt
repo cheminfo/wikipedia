@@ -5517,6 +5517,7 @@ Proxibarbital	O=C1NC(=O)NC(=O)C1(CC(O)C)C\C=C
 Benzisothiazolinone	O=C1c2ccccc2SN1
 Valencene	C\12=C\CC[C@H]([C@@]/1(C[C@H](\C(=C)C)CC2)C)C
 Met-enkephalin	CSCCC(NC(=O)C(Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)C(N)Cc1ccc(O)cc1)C(O)=O
+Copper silicide	[Si].[Cu].[Cu].[Cu].[Cu].[Cu]
 Properidine	O=C(OC(C)C)C2(c1ccccc1)CCN(C)CC2
 2C-F	Fc1cc(OC)c(cc1OC)CCN
 Tantalum hafnium carbide	[C].[C].[C].[C].[C].[Hf].[Ta].[Ta].[Ta].[Ta]
@@ -18676,6 +18677,7 @@ Belzutifan	CS(=O)(=O)C1=CC=C(OC2C=C(F)C=C(C=2)C#N)C2[C@@H](F)[C@@H](F)[C@@H](O)C
 Sodium naphthalene	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
 Lithium naphthalene	[Li].C1=CC=C2C=CC=CC2=C1
 Azumolene	C1C(=O)NC(=O)N1/N=C/C2=NC=C(O2)C3=CC=C(C=C3)Br
+PF-07321332	CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)C(F)(F)F)C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)C
 Aclonifen	C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
 SYBR Gold	CC[N+](C)(CC)Cc1ccc(-c2c(C=C3Oc4ccccc4N3C)cc3cc(OC)ccc3[n+]2C)cc1
 Palladium(II) sulfide	[S].[Pd]
