@@ -9352,7 +9352,7 @@ Para-Chloroamphetamine	Clc1ccc(cc1)CC(N)C
 Yttrium borides	[B][B].[Y]
 Yttrium borides	[B].[B].[B].[B].[B].[B].[Y]
 Bromine dioxide	O=Br=O
-Caesium oxide	[Cs+].[Cs+].[O-2]
+Caesium monoxide	[Cs+].[Cs+].[O-2]
 Neodymium(III) oxide	O=[Nd]O[Nd]=O
 Manzanate	CCCC(C)C(=O)OCC
 Xylonic acid	C([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
@@ -18983,3 +18983,4 @@ Cannabicitran	CCCCCc1cc2O[C@@]3(C)C[C@H]4c2c(c1)OC(C)(C)[C@H]4CC3
 Tetrahydrocannabihexol	CCCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O
 Maralixibat chloride	CCCCC1(CCCC)CS(=O)(=O)C2=CC=C(C=C2[C@H]([C@H]1O)C1=CC=C(OCC2=CC=C(C[N+]34CCN(CC3)CC4)C=C2)C=C1)N(C)C
 Cannabimovone	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2[C@@H](C[C@H]([C@@H]2O)C(=O)C)C(=C)C)O
+Einsteinium(III) bromide	[Br-].[Br-].[Br-].[Es]
