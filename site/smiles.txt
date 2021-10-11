@@ -2330,6 +2330,7 @@ Ozonide	[O-]O[O]
 Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
+Losartan	CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
@@ -18994,3 +18995,5 @@ DOB-FLY	CC(CC1=C2CCOC2=C(C3=C1OCC3)Br)N
 2C-B-DRAGONFLY	C1=COC2=C(C3=C(C(=C21)CCN)OC=C3)Br
 2C-E-FLY	NCCc1c2OCCc2c(c2c1CCO2)CC
 Hypidone	C1CN(CCC1(CN2C=CC=CC2=O)O)CC3=CC=CC=C3
+Ethyl hydroperoxide	C(OO)C
+Β-Methyl-2C-B	CC(CN)C1=CC(=C(C=C1OC)Br)OC
