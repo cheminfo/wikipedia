@@ -1187,6 +1187,7 @@ Promethazine	S2c1ccccc1N(c3c2cccc3)CC(N(C)C)C
 Amoxicillin/clavulanic acid	CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C.C1C2N(C1=O)C(C(=CCO)O2)C(=O)[O-].[K+]
 Folinic acid	O=C(O)[C@@H](NC(=O)c1ccc(cc1)NCC3N(/C2=C(/N/C(=N\C2=O)N)NC3)C=O)CCC(=O)O
 Mesna	[Na+].[O-]S(=O)(=O)CCS
+Magnesium fluoride	F[Mg]F
 Magnesium fluoride	[Mg+2].[F-].[F-]
 Glucono delta-lactone	C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)O
 Ethanolamine	NCCO
@@ -4008,6 +4009,7 @@ Rapacuronium bromide	[Br-].O=C(O[C@H]6[C@@H]([N+]1(C\C=C)CCCCC1)C[C@@H]5[C@]6(C)
 Trimethylsilyl cyanide	C[Si](C)(C)C#N
 Sodium stibogluconate	[Na+].[Na+].[Na+].O=[Sb]2(O[Sb]1(=O)OC([C@H](O)CO)[C@H](O)[C@@H](O1)C([O-])=O)O[C@@H]([C@H](O)[C@@H](O2)C([O-])=O)[C@H](O)CO
 Meglumine antimoniate	O=[Sb](=O)O.O[C@@H]([C@@H](O)[C@H](O)[C@@H](O)CNC)CO
+Tropicamide	CCN(Cc1ccncc1)C(=O)C(CO)c1ccccc1
 Brimonidine	Brc2c1nccnc1ccc2N/C3=N/CCN3
 Vanoxerine	Fc1ccc(cc1)C(OCCN2CCN(CC2)CCCc3ccccc3)c4ccc(F)cc4
 Diosmin	O=C\4c5c(O)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)[C@@H](O)[C@H](O)[C@H]2O)cc5O/C(c3ccc(OC)c(O)c3)=C/4
@@ -11000,7 +11002,7 @@ Etozolin	CCOC(=O)/C=C1/N(C)C(=O)C(S1)N2CCCCC2
 Meta-Tyramine	Oc1cc(ccc1)CCN
 EXP-561	NC12CCC(CC1)(CC2)C3=CC=CC=C3
 CP-39,332	CNC1Cc2ccccc2C(C1)c3ccccc3
-PIM-35	CC/1(N)/C=C2/C=C(\C=C/C2=N\1)OC
+PIM-35	COC1=CC2=C(C=C1)NC(=C2)CN
 Fezolamine	n1c(c(cn1CCCN(C)C)c2ccccc2)c3ccccc3
 Ifoxetine	O(c1cccc(c1C)C)[C@H]2CCNC[C@H]2O
 Tampramine	CN(C)CCCN1c2ccccc2C(=Nc3c1nccc3)c4ccccc4
@@ -17389,7 +17391,7 @@ Belnacasan	CCO[C@@H]3OC(=O)C[C@@H]3NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)c1ccc(N)c
 Metonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OC
 1,4-Bis(diphenylphosphino)butane	C1=CC=C(C=C1)P(CCCCP(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
 Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
-Tetramethylxylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
+Tetramethylxylylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
 GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
 Cefiderocol	CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
 Cerdulatinib	CCS(=O)(=O)N1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4CC4)C(=O)N
@@ -18995,5 +18997,6 @@ DOB-FLY	CC(CC1=C2CCOC2=C(C3=C1OCC3)Br)N
 2C-B-DRAGONFLY	C1=COC2=C(C3=C(C(=C21)CCN)OC=C3)Br
 2C-E-FLY	NCCc1c2OCCc2c(c2c1CCO2)CC
 Hypidone	C1CN(CCC1(CN2C=CC=CC2=O)O)CC3=CC=CC=C3
-Ethyl hydroperoxide	C(OO)C
+Cobalt tricarbonyl nitrosyl	[C]=O.[C]=O.[C]=O.N(=O)[Co]
+Ethyl hydroperoxide	CCOO
 Β-Methyl-2C-B	CC(CN)C1=CC(=C(C=C1OC)Br)OC
