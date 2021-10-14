@@ -2331,7 +2331,7 @@ Ozonide	[O-]O[O]
 Ozonide	[O-][O+][O-]
 Cicutoxin	CCC[C@@H](O)\C=C\C=C\C=C\C#CC#CCCCO
 Molybdic acid	O=[Mo](=O)(O)O
-Losartan	CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
+Losartan	CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
@@ -19002,3 +19002,4 @@ Ethyl hydroperoxide	CCOO
 Β-Methyl-2C-B	CC(CN)C1=CC(=C(C=C1OC)Br)OC
 Avacopan	CC1=CC=C(NC(=O)[C@H]2CCCN([C@H]2C2=CC=C(NC3CCCC3)C=C2)C(=O)C2=C(F)C=CC=C2C)C=C1C(F)(F)F
 2-MAPB	CC(CC1=CC2=CC=CC=C2O1)NC
+Curium(III) bromide	[Br-].[Br-].[Br-].[Cm]
