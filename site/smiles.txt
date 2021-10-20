@@ -7208,7 +7208,7 @@ MPP+	C[n+]1ccc(cc1)c2ccccc2
 CCPA (biochemistry)	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO)NC4CCCC4
 Dipropylcyclopentylxanthine	CCCn3c(=O)c2nc(C1CCCC1)[nH]c2n(CCC)c3=O
 SCH-58261	c1ccccc1CCN1N=CC2=C1N=C(N)N3C2=NC(C4=CC=CO4)=N3
-Eltrombopag	CC1=C(C=C(C=C1)N2C(=O)C(=C(N2)C)NN=C3C=CC=C(C3=O)C4=CC(=CC=C4)C(=O)O)C
+Eltrombopag	CC1=NN(c2ccc(C)c(C)c2)C(=O)/C1=N\Nc1cccc(-c2cccc(C(=O)O)c2)c1O
 Trans-1,2-Diaminocyclohexane	N[C@H]1CCCC[C@@H]1N
 Etravirine	N#Cc3cc(c(Oc1nc(nc(c1Br)N)Nc2ccc(C#N)cc2)c(c3)C)C
 Octanal	CCCCCCCC=O
@@ -8552,6 +8552,7 @@ Indophenol	O=C/2/C=C\C(=N\c1ccc(O)cc1)\C=C\2
 (Cymene)ruthenium dichloride dimer	[Ru+2].[Ru+2].[Cl-].[Cl-].[Cl-].[Cl-].c1cc(ccc1C(C)C)C.c1cc(ccc1C(C)C)C
 Gallium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ga+3]
 Imazapyr	OC(C1=C(C(N2)=NC(C)(C(C)C)C2=O)N=CC=C1)=O
+Paliperidone palmitate	CCCCCCCCCCCCCCCC(=O)OC1CCCN2C1=NC(=C(C2=O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F)C
 DMDM hydantoin	O=C1N(C(=O)C(N1CO)(C)C)CO
 Diethyl tartrate	O=C(OCC)[C@@H](O)[C@H](O)C(=O)OCC
 Iridium hexafluoride	F[Ir](F)(F)(F)(F)F
@@ -17036,7 +17037,7 @@ Tetrahydrophthalic anhydride	C1C=CCC2C1C(=O)OC2=O
 Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)O)N
 Sodium 1,3-dithiole-2-thione-4,5-dithiolate	C1([S-])SC(SC=1[S-])=S.[Na+].[Na+]
 1,3-Dithiole	C1SC=CS1
-Lusutrombopag	CCCCCCOC(C)C1=CC=CC(=C1OC)C2=CSC(=N2)NC(=O)C3=CC(=C(C(=C3)Cl)C=C(C)C(=O)O)Cl
+Lusutrombopag	CCCCCCO[C@@H](C)c1cccc(-c2csc(NC(=O)c3cc(Cl)c(/C=C(\C)C(=O)O)c(Cl)c3)n2)c1OC
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
 5F-CUMYL-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
 Cinnamyl acetate	CC(=O)OC/C=C/c1ccccc1
@@ -17925,6 +17926,7 @@ Ziresovir	CC1=CC2=C(C=C1)N=C(N=C2NCC3(COC3)N)N4CCS(=O)(=O)C5=CC=CC=C5C4
 Xenon tetrachloride	Cl[Xe](Cl)(Cl)Cl
 Copper(II) cyanurate	[Cu+2].[O-]c1nc(O)nc([O-])n1
 Lumicitabine	CC(C)C(=O)OC[C@@]1([C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)N)F)OC(=O)C(C)C)CCl
+Bromperidol decanoate	CCCCCCCCCC(=O)OC1(CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)Br
 Perphenazine enanthate	CCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
 Oxyprothepin decanoate	CCCCCCCCCC(=O)OCCCN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)SC
 N,N-diethylmethylamine	CCN(C)CC
@@ -19020,3 +19022,5 @@ O-Acetylbufotenine	CC(=O)OC1=CC2=C(C=C1)NC=C2CCN(C)C
 Gold(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Au+3]
 Anziaic acid	CCCCCC1=C(C(=CC(=C1)O)O)C(=O)OC2=CC(=C(C(=C2)O)C(=O)O)CCCCC
 Methaneselenol	C[SeH]
+7-Chloro-AMT	CC(CC1=CNC2=C1C=CC=C2Cl)N
+5-Fluoro-AET	CCC(CC1=CNC2=C1C=C(C=C2)F)N
