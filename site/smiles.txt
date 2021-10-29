@@ -757,7 +757,7 @@ Glucose 6-phosphate	O[C@H]1[C@H](O)[C@@H](COP(O)(O)=O)OC(O)[C@@H]1O
 Potassium tetraiodomercurate(II)	[K+].[K+].I[Hg-2](I)(I)I
 Fast Yellow AB	Nc1ccc(cc1OS(O)=O)/N=N/c2ccc(OS(O)=O)cc2
 Yellow 2G	CC1=NN(C(=O)C1N=NC2=CC=C(C=C2)S(=O)(=O)[O-])C3=CC(=C(C=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+]
-Sunset Yellow FCF	[Na+].[Na+].[O-]S(=O)(=O)c1ccc(cc1)/N=N/c2c3ccc(cc3ccc2O)S([O-])(=O)=O
+Sunset yellow FCF	[Na+].[Na+].[O-]S(=O)(=O)c1ccc(cc1)/N=N/c2c3ccc(cc3ccc2O)S([O-])(=O)=O
 Orange GGN	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)/N=N/c2c3ccc(cc3ccc2O)S([O-])(=O)=O
 MPTP	c2ccccc2/C1=C/CN(C)CC1
 Desmethylprodine	O=C(CC)OC1(CCN(CC1)C)C2=CC=CC=C2
@@ -1980,7 +1980,7 @@ Dimethylethanolamine	CN(C)CCO
 Hexachlorophene	C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl
 2,4-Dinitrophenylhydrazine	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])NN
 Phosphorus triiodide	IP(I)I
-Brilliant Blue FCF	CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+]
+Brilliant blue FCF	CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+]
 P-Toluic acid	O=C(O)c1ccc(cc1)C
 Arsanilic acid	O=[As](O)(O)c1ccc(N)cc1
 Arsanilic acid	O=[As]([O-])(O)c1ccc([NH3+])cc1
@@ -3119,7 +3119,7 @@ Allura Red AC	[Na+].[Na+].COc3cc(c(C)cc3/N=N/c1c2ccc(cc2ccc1O)S([O-])(=O)=O)S([O
 Fast Green FCF	CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=C(C=C(C=C5)O)S(=O)(=O)[O-].[Na+].[Na+]
 Water blue	[H+].c1ccc(c(c1)Nc2ccc(cc2)C(=C3C=CC(=Nc4ccccc4S(=O)(=O)[O-])C=C3)c5cccc(c5CN)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
 Ponceau 2R	CC1=CC(=C(C=C1)NN=C2C3=C(C=C(C=C3)S(=O)(=O)O)C=C(C2=O)S(=O)(=O)O)C
-Light Green SF	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)C(=C4C=CC(=[N+](CC)Cc3cccc(c3)S([O-])(=O)=O)C=C4)c5ccc(cc5)S([O-])(=O)=O)CC
+Light green SF	[Na+].[Na+].[O-]S(=O)(=O)c1cccc(c1)CN(c2ccc(cc2)C(=C4C=CC(=[N+](CC)Cc3cccc(c3)S([O-])(=O)=O)C=C4)c5ccc(cc5)S([O-])(=O)=O)CC
 Bismarck brown Y	N(=N/c1ccc(cc1N)N)\c3cccc(/N=N/c2ccc(N)cc2N)c3
 Bismarck brown Y	CC1=C(C=C(C=C1)N=NC2=C(C=C(C(=C2)C)N)N)N=NC3=C(C=C(C(=C3)C)N)N
 Orange B	[Na+].[Na+].[O-]S(=O)(=O)c4ccc(/N=N/c2c(nn(c1ccc(cc1)S([O-])(=O)=O)c2O)C(=O)OCC)c3ccccc34
@@ -19036,3 +19036,5 @@ Firazorexton	CC(C)(C(=O)N1CC[C@@H]([C@@H]1CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F)NS(
 2-(Trimethylsilyl)ethoxymethyl chloride	C[Si](C)(C)CCOCCl
 1,4-Bis(trichloromethyl)benzene	C1=CC(=CC=C1C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 Clazosentan	CC1=CN=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=CC(=NC=C3)C4=NNN=N4)OCCO)OC5=CC=CC=C5OC
+(2-hydroxyethyl) dimethylsulfoxonium chloride	OCC[S+](=O)(C)C.[Cl-]
+Bromomethyl ethyl ketone	CCC(=O)CBr
