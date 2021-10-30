@@ -14947,7 +14947,7 @@ Platinum fulminate	[C-]#[N+][O-].[Pt+2].[C-]#[N+][O-]
 Lactocillin	C/C=C\1/c2nc(cs2)C(=O)NC(C3=NC(CS3)C(=O)NC(c4nc(cs4)-c5c(ccc(n5)c6nc(cs6)c7nc(cs7)C(=O)NC(C)C(=O)O)-c8nc(cs8)C(=O)NC(C(=O)N1)C(C)O)CSC(=O)c9c[nH]c1c9cccc1)C(C)O
 Lanabecestat	CC#Cc1cncc(c1)c2cc3c(cc2)C[C@@]4([C@@]35N=C(C(=N5)C)N)CC[C@H](CC4)OC
 4-Methylpentanoic acid	CC(C)CCC(=O)O
-6β-Naltrexol	c1cc(c2c3c1C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)[C@@H](CC5)O)O)O
+6β-Naltrexol	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1O)OC5=C(C=C4)O)O
 Verucerfont	CC[C@@H](c1nc(no1)C)Nc2cc(nc3n2nc(c3c4ccc(cc4C)OC)C)C
 HT-2157	c14ccccc4n(-c3ccccc3)c(=O)c1=N\c(c2)cccc2C(F)(F)F
 Cyclamen aldehyde	CC(C)c1ccc(cc1)CC(C)C=O
@@ -19038,3 +19038,4 @@ Firazorexton	CC(C)(C(=O)N1CC[C@@H]([C@@H]1CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F)NS(
 Clazosentan	CC1=CN=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=CC(=NC=C3)C4=NNN=N4)OCCO)OC5=CC=CC=C5OC
 (2-hydroxyethyl) dimethylsulfoxonium chloride	OCC[S+](=O)(C)C.[Cl-]
 Bromomethyl ethyl ketone	CCC(=O)CBr
+Hafnium nitrate	[N+](=O)([O-])[O-].[Hf+4]
