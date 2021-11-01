@@ -13196,6 +13196,7 @@ Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
 Tungsten(IV) fluoride	F[W](F)(F)F
+2,3,5-Trimethylpyrazine	CC1=CN=C(C(=N1)C)C
 1-Dodecene	CCCCCCCCCCC=C
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
@@ -13257,6 +13258,7 @@ Indolizidine	N12CCCC1CCCC2
 Benzestrol	CCC(C1=CC=C(C=C1)O)C(CC)C(C)C2=CC=C(C=C2)O
 N,N-Dimethyldopamine	CN(C)CCC1=CC(=C(C=C1)O)O
 Tariric acid	CCCCCCCCCCCC#CCCCCC(=O)O
+Disparlure	CCCCCCCCCCC=CCCCCC(C)C
 Pyr1	O=C(C1=CC=CC=C1)OC(C=C2)=CC3=C2NC4=C3C(C)=C5C(C=CNC5=O)=C4C
 Iguratimod	O=S(=O)(Nc3c(Oc1ccccc1)cc2c(O/C=C(\C2=O)NC=O)c3)C
 Ethiofencarb	O=C(Oc1ccccc1CSCC)NC
@@ -13447,6 +13449,7 @@ Alpha-Chlorocodide	Cl[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
+Ethyl pyruvate	CCOC(=O)C(=O)C
 Lapyrium	O=C(NCCOC(=O)CCCCCCCCCCC)C[n+]1ccccc1
 Doravirine	Cn1c(n[nH]c1=O)Cn2ccc(c(c2=O)Oc3cc(cc(c3)Cl)C#N)C(F)(F)F
 Ledipasvir	CC(C)[C@@H](C(=O)N1CC2(CC2)C[C@H]1C3=NC=C(N3)C4=CC5=C(C=C4)C6=C(C5(F)F)C=C(C=C6)C7=CC8=C(C=C7)N=C(N8)[C@@H]9[C@H]1CC[C@H](C1)N9C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
@@ -19039,6 +19042,8 @@ Clazosentan	CC1=CN=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=CC(=NC=C3)C4=NNN=N4)OCCO)O
 (2-hydroxyethyl) dimethylsulfoxonium chloride	OCC[S+](=O)(C)C.[Cl-]
 Bromomethyl ethyl ketone	CCC(=O)CBr
 Hafnium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Hf+4]
+Asciminib	C1CN(C[C@@H]1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4
 Avarol	C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C=CC(=C3)O)O)CCC=C2C)C
 Antimony(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sb+3]
 (+)-Morphine	CN1CC[C@@]23[C@H]4[C@@H]1CC5=C2C(=C(C=C5)O)O[C@@H]3[C@@H](C=C4)O
+Bromine nitrate	[N+](=O)([O-])OBr
