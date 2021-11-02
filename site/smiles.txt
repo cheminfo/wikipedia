@@ -8876,7 +8876,6 @@ Salcomine	C1C[N+]2=Cc0ccccc0O[Co-2]23Oc0ccccc0C=[N+]13
 Platinum(II) acetate	CC(=O)[O-].CC(=O)[O-].[Pt+2]
 Otenabant	CCNC1(CCN(CC1)C2=NC=NC3=C2N=C(N3C4=CC=C(C=C4)Cl)C5=CC=CC=C5Cl)C(=O)N
 Manifaxine	C[C@@H]1CO[C@]([C@@H](N1)C)(C2=CC(=CC(=C2)F)F)O
-Diamantane	C1C5CC2C3C(C4C1C2CC(C3)C4)C5
 AR-A000002	C5COCCN5c(cc4)ccc4C(=O)NC2CCc1c(C2)c(ccc1C)N3CCN(C)CC3
 Phenylethylmalonamide	CCC(c1ccccc1)(C(=O)N)C(=O)N
 2-Dimethylaminoethylazide	CN(C)CCN=[N+]=[N-]
@@ -13181,6 +13180,7 @@ Pentafluorobenzoic acid	Fc1c(c(F)c(F)c(F)c1F)C(=O)O
 Acetyl cyanide	CC(=O)C#N
 Allyl cyanide	C=CCC#N
 2'-Fucosyllactose	C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)O[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O
+Diamantane	C1C5CC2C3C(C4C1C2CC(C3)C4)C5
 Diisopropyl methylphosphonate	CP(OC(C)C)(OC(C)C)=O
 Triptolide	CC(C)[C@@]12[C@@H](O1)[C@H]3[C@@]4(O3)[C@]5(CCC6=C([C@@H]5C[C@H]7[C@]4([C@@H]2O)O7)COC6=O)C
 Cellocidin	C(#CC(=O)N)C(=O)N
@@ -13193,18 +13193,22 @@ Lead(II) oxalate	C(=O)(C(=O)[O-])[O-].[Pb+2]
 Niobium(V) ethoxide	CCO[Nb](OCC)(OCC)(OCC)OCC
 Tantalum(V) ethoxide	[Ta+5].[O-]CC.[O-]CC.[O-]CC.[O-]CC.[O-]CC
 Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
+Anpirtoline	C1CNCCC1SC2=NC(=CC=C2)Cl.Cl
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
 Tungsten(IV) fluoride	F[W](F)(F)F
 2,3,5-Trimethylpyrazine	CC1=CN=C(C(=N1)C)C
 1-Dodecene	CCCCCCCCCCC=C
+L-β-Homoleucine hydrochloride	CC(C)C[C@@H](CC(=O)O)N.Cl
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
 Cadmium chromate	[O-][Cr](=O)(=O)[O-].[Cd+2]
+Glycine hydrochloride	C(C(=O)O)N.Cl
 Wybutosine	Cc1c(n2c(=O)c3c(n(c2n1)C)n(cn3)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)CC[C@@H](C(=O)OC)NC(=O)OC
 Potassium ethoxide	CC[O-].[K+]
 Bromopentaamminecobalt(III) bromide	[Co+3][Br-].[Br-].[Br-].N.N.N.N.N
 Homoarginine	C(CCN=C(N)N)C[C@@H](C(=O)O)N
+2-Aminofluorene	c1cccc3c1c2c(cc(N)cc2)C3
 Chromium(II) oxalate	C(=O)(C(=O)[O-])[O-].[Cr+2]
 Chromium(III) hydroxide	[OH-].[OH-].[OH-].[Cr+++]
 Chromium(III) hydroxide	O[Cr](O)O
@@ -13258,7 +13262,7 @@ Indolizidine	N12CCCC1CCCC2
 Benzestrol	CCC(C1=CC=C(C=C1)O)C(CC)C(C)C2=CC=C(C=C2)O
 N,N-Dimethyldopamine	CN(C)CCC1=CC(=C(C=C1)O)O
 Tariric acid	CCCCCCCCCCCC#CCCCCC(=O)O
-Disparlure	CCCCCCCCCCC=CCCCCC(C)C
+Disparlure	CCCCCCCCCC[C@H]1[C@H](O1)CCCCC(C)C
 Pyr1	O=C(C1=CC=CC=C1)OC(C=C2)=CC3=C2NC4=C3C(C)=C5C(C=CNC5=O)=C4C
 Iguratimod	O=S(=O)(Nc3c(Oc1ccccc1)cc2c(O/C=C(\C2=O)NC=O)c3)C
 Ethiofencarb	O=C(Oc1ccccc1CSCC)NC
@@ -15459,7 +15463,7 @@ Triafulvalene	C=1C(C=1)=C2C=C2
 Parathion methyl	COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
 2-Methylnaphthalene	Cc1ccc2ccccc2c1
 Propadienone	C=C=C=O
-Propynal	C#CC=O
+Propiolaldehyde	C#CC=O
 Dimethylaminopivalophenone	CN(CC(C(=O)C1=CC=CC=C1)(C)C)C
 2,3-Xylidine	Cc1cccc(c1C)N
 3-Methylfuran	CC1=COC=C1
@@ -19039,7 +19043,7 @@ Firazorexton	CC(C)(C(=O)N1CC[C@@H]([C@@H]1CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F)NS(
 2-(Trimethylsilyl)ethoxymethyl chloride	C[Si](C)(C)CCOCCl
 1,4-Bis(trichloromethyl)benzene	C1=CC(=CC=C1C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 Clazosentan	CC1=CN=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=CC(=NC=C3)C4=NNN=N4)OCCO)OC5=CC=CC=C5OC
-(2-hydroxyethyl) dimethylsulfoxonium chloride	OCC[S+](=O)(C)C.[Cl-]
+(2-Hydroxyethyl) dimethylsulfoxonium chloride	OCC[S+](=O)(C)C.[Cl-]
 Bromomethyl ethyl ketone	CCC(=O)CBr
 Hafnium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Hf+4]
 Asciminib	C1CN(C[C@@H]1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4
@@ -19047,3 +19051,5 @@ Avarol	C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C=CC(=C3)O)O)CCC=C2C)C
 Antimony(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sb+3]
 (+)-Morphine	CN1CC[C@@]23[C@H]4[C@@H]1CC5=C2C(=C(C=C5)O)O[C@@H]3[C@@H](C=C4)O
 Bromine nitrate	[N+](=O)([O-])OBr
+Tungsten trisulfide	S=[W](=S)=S
+Chromium(II) sulfide	[S-2].[Cr+2]
