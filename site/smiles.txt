@@ -13201,6 +13201,7 @@ Tungsten(IV) fluoride	F[W](F)(F)F
 1-Dodecene	CCCCCCCCCCC=C
 L-β-Homoleucine hydrochloride	CC(C)C[C@@H](CC(=O)O)N.Cl
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
+Salsoline	C[C@H]1NCCC2=CC(O)=C(C=C12)OC
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
 Cadmium chromate	[O-][Cr](=O)(=O)[O-].[Cd+2]
 Glycine hydrochloride	C(C(=O)O)N.Cl
@@ -13743,7 +13744,7 @@ Berkeleydione	CC1=C2CC(=O)OC(C2=CC[C@]3([C@H]1C[C@@]4(C(=C)[C@]3(C(=O)[C@@](C4=O
 Berkelic acid	CCCCC[C@@H]1Cc2cc(c(c3c2[C@@H](O1)C[C@]4(O3)[C@H]([C@@H](CO4)CC(=O)[C@](C)(CC)C(=O)OC)C)C(=O)O)O
 Sclerotiorin	CC[C@H](C)/C=C(\C)/C=C/C1=CC2=C(C(=O)[C@](C(=O)C2=CO1)(C)OC(=O)C)Cl
 Topopyrone C	CC1=CC(=O)C2=C(C=C3C(=C2O1)C(=O)C4=C(C=C(C=C4C3=O)O)O)O
-Methylenolactocin	CCCCCC1C(C(=C)C(=O)O1)C(=O)O
+Methylenolactocin	CCCCC[C@H]1[C@@H](C(=C)C(=O)O1)C(=O)O
 Dehydroaltenusin	CC12C=C(C(=O)C=C1C3=CC(=CC(=C3C(=O)O2)O)OC)O
 Hyrtinadine A	Oc5ccc4[nH]cc(C3C=NC(c1c[nH]c2ccc(O)cc12)N=C3)c4c5
 Chrysophanol	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O
@@ -19051,5 +19052,8 @@ Avarol	C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C=CC(=C3)O)O)CCC=C2C)C
 Antimony(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sb+3]
 (+)-Morphine	CN1CC[C@@]23[C@H]4[C@@H]1CC5=C2C(=C(C=C5)O)O[C@@H]3[C@@H](C=C4)O
 Bromine nitrate	[N+](=O)([O-])OBr
+Tetraoxygen difluoride	FOOOOF
 Tungsten trisulfide	S=[W](=S)=S
 Chromium(II) sulfide	[S-2].[Cr+2]
+Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
+Yttrium iodide	[Y](I)(I)I
