@@ -928,7 +928,6 @@ Hydrogen peroxide - urea	O=C(N)N.OO
 Enalapril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)OCC)CCc1ccccc1)C)CCC2
 Atenolol	O=C(N)Cc1ccc(cc1)OCC(O)CNC(C)C
 Nitrofurantoin	O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2
-Oxalate	C(=O)(C(=O)[O-])[O-]
 Denatonium	[O-]C(=O)c1ccccc1.Cc2cccc(C)c2NC(=O)C[N+](CC)(CC)Cc3ccccc3
 Nifedipine	O=C(OC)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C
 Potassium bitartrate	[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O.[K+]
@@ -7468,7 +7467,6 @@ Roussin's black salt	[K+].[Fe-3]12([N+]#[O+])S3[Fe-4]([N+]#[O+])([N+]#[O+])S1[Fe
 6-APA	O=C(O)[C@@H]1N2C(=O)[C@@H](N)[C@H]2SC1(C)C
 Phenylphosphine	C1=CC=C(C=C1)P
 SPANphos	CC1=CC(=C2C(=C1)C(CC3(O2)CC(C4=CC(=CC(=C4O3)P(C5=CC=CC=C5)C6=CC=CC=C6)C)(C)C)(C)C)P(C7=CC=CC=C7)C8=CC=CC=C8
-Triphos	C1=CC=C(C=C1)P(CCP(C2=CC=CC=C2)C3=CC=CC=C3)CCP(C4=CC=CC=C4)C5=CC=CC=C5
 Phenylsilane	c1ccccc1[SiH3]
 Sorivudine	c1c(c(=O)[nH]c(=O)n1[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O)/C=C/Br
 4,4'-Dihydroxybenzophenone	O=C(c1ccc(O)cc1)c2ccc(O)cc2
@@ -11927,7 +11925,7 @@ Divicine	O=C1C(O)=C(N)NC(N)=N1
 2,5-Diaminotoluene	CC1=C(C=CC(=C1)N)N
 Dimethylol ethylene urea	C1CN(C(=O)N1CO)CO
 AH-1058	COC1=CC=CC(=C1[N+](=O)[O-])/C=C/CN2CCC(=C3C4=CC=CC=C4C=CC5=CC=CC=C53)CC2
-Californium oxychloride	[Cf+3].[Cl-].[O-2]
+Californium(III) oxychloride	[Cf+3].[Cl-].[O-2]
 Isocoproporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)O)CC(=O)O)CCC(=O)O)C(=C3C)CCC(=O)O)C
 Dolutegravir	C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O
 Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4([H])[C@H](C)[C@]6(NC[C@@H](CO[C@H]7[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O7)C[C@@H]6OC(C)=O)O5)([H])C[C@@H](O[C@]8([H])O[C@H](CO)[C@H](O[C@@]9([H])[C@H](O[C@@]%10([H])[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O%10)[C@@H](O[C@@]%11([H])[C@H](O)[C@@H](O)[C@H](O)CO%11)[C@H](O)[C@@H](CO)O9)[C@H](O)[C@H]8O)CC1
@@ -13179,6 +13177,7 @@ Bromine azide	[N-]=[N+]=N\Br
 Pentafluorobenzoic acid	Fc1c(c(F)c(F)c(F)c1F)C(=O)O
 Acetyl cyanide	CC(=O)C#N
 Allyl cyanide	C=CCC#N
+Ethyl bromodifluoroacetate	BrC(Br)(F)C(=O)OCC
 2'-Fucosyllactose	C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)O[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O
 Diamantane	C1C5CC2C3C(C4C1C2CC(C3)C4)C5
 Diisopropyl methylphosphonate	CP(OC(C)C)(OC(C)C)=O
@@ -13194,12 +13193,14 @@ Niobium(V) ethoxide	CCO[Nb](OCC)(OCC)(OCC)OCC
 Tantalum(V) ethoxide	[Ta+5].[O-]CC.[O-]CC.[O-]CC.[O-]CC.[O-]CC
 Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
 Anpirtoline	C1CNCCC1SC2=NC(=CC=C2)Cl.Cl
+(1R,3R)-1,2,3-trimethylcyclopentane	C[C@@H]1CC[C@H](C1C)C
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
 Tungsten(IV) fluoride	F[W](F)(F)F
 2,3,5-Trimethylpyrazine	CC1=CN=C(C(=N1)C)C
 1-Dodecene	CCCCCCCCCCC=C
 L-β-Homoleucine hydrochloride	CC(C)C[C@@H](CC(=O)O)N.Cl
+Glaucarubin	CCC(C)(C(=O)O[C@@H]1[C@H]2[C@H]([C@H](C3([C@H]4[C@@]2(CO3)[C@@H](C[C@@H]5[C@@]4([C@@H]([C@H](C=C5C)O)O)C)OC1=O)O)O)C)O
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
 Salsoline	C[C@H]1NCCC2=CC(O)=C(C=C12)OC
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
@@ -13288,6 +13289,7 @@ Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 (S)-iPr-PHOX	CC(C)[C@H]1COC(=N1)C2=CC=CC=C2P(C3=CC=CC=C3)C4=CC=CC=C4
 Cyclohexylacetone	O=C(CC1CCCCC1)C
 Calostomal	C(=C/C=C/C=C/C=C/C(=O)O)\C=C\C=C\C=C\C=O
+Lead (II) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[Pb+2]
 Cyclopropyl cyanide	N#CC1CC1
 Ethane-1,1-dithiol	SC(S)C
 Triacetic acid lactone	C/C1=CC(\O)=C/C(=O)O1
@@ -15518,6 +15520,7 @@ Hexaborane(12)	[BH3]1[BH3][BH2]1[BH2]2[BH3][BH3]2
 ML-154	[Br-].C1(=CC=CC=C1)[P](=S)(C2=C([N+](=C3C=CC=C[N]23)C\C=C\C4=CC=CC=C4)C)C5=CC=CC=C5
 Apoatropine	CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3
 Belladonnine	CN1C2CCC1CC(C2)OC(=O)[C@H]3CC[C@@](C4=CC=CC=C34)(C5=CC=CC=C5)C(=O)OC6CC7CCC(C6)N7C
+Bis(diphenylphosphinoethyl)phenylphosphine	C1=CC=C(C=C1)P(CCP(C2=CC=CC=C2)C3=CC=CC=C3)CCP(C4=CC=CC=C4)C5=CC=CC=C5
 Titanium butoxide	CCCC[O-].CCCC[O-].CCCC[O-].CCCC[O-].[Ti+4]
 4'-Fluoro-α-pyrrolidinooctanophenone	FC1=CC=C(C=C1)C(C(CCCCCC)N2CCCC2)=O
 4'-Fluoro-α-pyrrolidinopentiophenone	FC1=CC=C(C=C1)C(C(CCC)N2CCCC2)=O
@@ -19057,4 +19060,5 @@ Tungsten trisulfide	S=[W](=S)=S
 Chromium(II) sulfide	[S-2].[Cr+2]
 Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
-Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.[O].[O]
+Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
+1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
