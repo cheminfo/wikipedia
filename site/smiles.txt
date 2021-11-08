@@ -11802,7 +11802,7 @@ G-130	CC1(C)NCC(OC1)C2=CC=CC=C2
 3-Benzhydrylmorpholine	C1(C(C2=CC=CC=C2)C3NCCOC3)=CC=CC=C1
 Glyceollin III	CC(=C)[C@@H]1Cc2cc3c(cc2O1)OC[C@@]4([C@H]3Oc5c4ccc(c5)O)O
 RTI-120	CN1[C@@H]2C[C@H](C3=CC=C(C)C=C3)[C@H](C(OC4=CC=CC=C4)=O)[C@H]1CC2
-Antimony sulfate	[SbH3+3].[SbH3+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
+Antimony(III) sulfate	[SbH3+3].[SbH3+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Fertaric acid	Oc1ccc(cc1OC)/C=C/C(=O)OC(C(=O)O)C(O)C(=O)O
 Coutaric acid	c1cc(ccc1/C=C/C(=O)O[C@H]([C@H](C(=O)O)O)C(=O)O)O
 Gavestinel	OC(C1=C(/C=C/C(NC2=CC=CC=C2)=O)C3=C(Cl)C=C(Cl)C=C3N1)=O
@@ -13278,6 +13278,7 @@ Acetaldoxime	N(/O)=C\C
 N-Hydroxypiperidine	ON1CCCCC1
 4-Fluorobenzoic acid	O=C(O)c1ccc(F)cc1
 Cucurbitacin E	CC(=O)OC(C)(C)/C=C/C(=O)[C@@](C)([C@H]1[C@@H](C[C@@]2([C@@]1(CC(=O)[C@@]3([C@H]2CC=C4[C@H]3C=C(C(=O)C4(C)C)O)C)C)C)O)O
+4-Chlorophenyl azide	Clc1ccc(\N=[N+]=[N-])cc1
 Rifalazil	C[C@H]1C=CC=C(C(=O)N=C2C3=C(C4=C5C(=C(C(=C4C2=O)O)C)O[C@@](C5=O)(OC=C[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)NC6=C(O3)C=C(C=C6O)N7CCN(CC7)CC(C)C)C
 Einsteinium(III) iodide	I[Es](I)I
 N-Ethylbuphedrone	CCNC(CC)C(=O)c1ccccc1
@@ -13455,6 +13456,7 @@ Neurosporene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C
 Alpha-Chlorocodide	Cl[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
+Methylcyclohexene	CC1=CCCCC1
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
 Ethyl pyruvate	CCOC(=O)C(=O)C
 Lapyrium	O=C(NCCOC(=O)CCCCCCCCCCC)C[n+]1ccccc1
