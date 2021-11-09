@@ -928,6 +928,7 @@ Hydrogen peroxide - urea	O=C(N)N.OO
 Enalapril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)OCC)CCc1ccccc1)C)CCC2
 Atenolol	O=C(N)Cc1ccc(cc1)OCC(O)CNC(C)C
 Nitrofurantoin	O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2
+Oxalate	C(=O)(C(=O)[O-])[O-]
 Denatonium	[O-]C(=O)c1ccccc1.Cc2cccc(C)c2NC(=O)C[N+](CC)(CC)Cc3ccccc3
 Nifedipine	O=C(OC)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C
 Potassium bitartrate	[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O.[K+]
@@ -13457,6 +13458,8 @@ Alpha-Chlorocodide	Cl[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
 Methylcyclohexene	CC1=CCCCC1
+Methylcyclohexene	CC1CCCC=C1
+Methylcyclohexene	CC1CCC=CC1
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
 Ethyl pyruvate	CCOC(=O)C(=O)C
 Lapyrium	O=C(NCCOC(=O)CCCCCCCCCCC)C[n+]1ccccc1
@@ -19064,3 +19067,6 @@ Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
+Rubidium ozonide	[Rb+].[O-]O[O]
+Potassium ozonide	[K+].[O-]O[O]
+Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
