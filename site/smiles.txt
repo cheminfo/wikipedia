@@ -7074,6 +7074,9 @@ Difenoxin	C(CCN1CCC(CC1)(C(O)=O)C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C#N
 Pethidine intermediate A	CN1CCC(CC1)(C#N)c2ccccc2
 Levuglandin	CCCCC[C@@H](/C=C/[C@H]([C@@H](C/C=C\CCCC(=O)O)C=O)C(=O)C)O
 Heptene	C=CCCCCC
+Heptene	CCCC=CCC
+Heptene	CCCC/C=C\C
+Heptene	CCCC/C=C/C
 Decene	CCCCCCCCC=C
 Norpatchoulenol	C[C@]31CCC2CC3/C=C\CC1(O)C2(C)C
 3-Allylfentanyl	O=C(N(c1ccccc1)[C@@H]3CCN(CCc2ccccc2)C[C@@H]3C\C=C)CC
@@ -7286,7 +7289,7 @@ N-Arachidonoyl dopamine	CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)NCCC1=CC(=C(C=C1)O)O
 Iobenguane	C1=CC(=CC(=C1)I)CNC(=N)N
 Boron triiodide	IB(I)I
 Bicifadine	c1cc(ccc1C)[C@]32CNC[C@@H]2C3
-Telbivudine	O=C/1NC(=O)N(\C=C\1C)[C@H]2O[C@H]([C@H](O)C2)CO
+Telbivudine	Cc1cn([C@@H]2C[C@@H](O)[C@H](CO)O2)c(=O)[nH]c1=O
 Dimepheptanol	CCC(C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)O
 Acetylmethadol	O=C(OC(C(c1ccccc1)(c2ccccc2)CC(N(C)C)C)CC)C
 Alphamethadol	O[C@@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC
@@ -19057,7 +19060,6 @@ Bromomethyl ethyl ketone	CCC(=O)CBr
 Hafnium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Hf+4]
 Asciminib	C1CN(C[C@@H]1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4
 Avarol	C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C=CC(=C3)O)O)CCC=C2C)C
-Antimony(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sb+3]
 (+)-Morphine	CN1CC[C@@]23[C@H]4[C@@H]1CC5=C2C(=C(C=C5)O)O[C@@H]3[C@@H](C=C4)O
 Bromine nitrate	[N+](=O)([O-])OBr
 Tetraoxygen difluoride	FOOOOF
@@ -19071,4 +19073,3 @@ Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
 Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
 Selenium iodide	I[Se][Se]I
-Osmium iodides	I[Os]I
