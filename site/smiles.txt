@@ -4294,7 +4294,7 @@ Ethylestrenol	O[C@]2(CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4)CC
 Strontium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[Sr+2]
 Etretinate	O=C(OCC)\C=C(\C=C\C=C(\C=C\c1c(cc(OC)c(c1C)C)C)C)C
 Ethinamate	O=C(OC1(C#C)CCCCC1)N
-Evans Blue (dye)	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6cc(c(N)c5c6C=C/C(=N\Nc1ccc(cc1C)c4ccc(N\N=C3/C=Cc2c(cc(c(N)c2C3=O)S([O-])(=O)=O)S([O-])(=O)=O)c(C)c4)C5=O)S([O-])(=O)=O
+Evans blue (dye)	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c6cc(c(N)c5c6C=C/C(=N\Nc1ccc(cc1C)c4ccc(N\N=C3/C=Cc2c(cc(c(N)c2C3=O)S([O-])(=O)=O)S([O-])(=O)=O)c(C)c4)C5=O)S([O-])(=O)=O
 Darifenacin	O=C(N)C(c1ccccc1)(c2ccccc2)[C@H]3CN(CC3)CCc5cc4c(OCC4)cc5
 Etonogestrel	CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34
 Decamethonium	[Br-].[Br-].C(CCCC[N+](C)(C)C)CCCCC[N+](C)(C)C
@@ -19073,3 +19073,4 @@ Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
 Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
 Selenium iodide	I[Se][Se]I
+Osmium tetrabromide	[Br-].[Br-].[Br-].[Br-].[Os+4]
