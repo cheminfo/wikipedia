@@ -13206,6 +13206,7 @@ Tungsten(IV) fluoride	F[W](F)(F)F
 L-β-Homoleucine hydrochloride	CC(C)C[C@@H](CC(=O)O)N.Cl
 Glaucarubin	CCC(C)(C(=O)O[C@@H]1[C@H]2[C@H]([C@H](C3([C@H]4[C@@]2(CO3)[C@@H](C[C@@H]5[C@@]4([C@@H]([C@H](C=C5C)O)O)C)OC1=O)O)O)C)O
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
+Salsoline	CC1C2=CC(=C(C=C2CCN1)O)OC
 Salsoline	C[C@H]1NCCC2=CC(O)=C(C=C12)OC
 5-Bromouridine	BrC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
 Cadmium chromate	[O-][Cr](=O)(=O)[O-].[Cd+2]
@@ -19075,3 +19076,5 @@ Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
 Selenium iodide	I[Se][Se]I
 Osmium tetrabromide	[Br-].[Br-].[Br-].[Br-].[Os+4]
 Trifluoroacetonitrile	FC(F)(F)C#N
+Alanyl-glutamine	CC(C(=O)NC(CCC(=O)N)C(=O)O)N
+Alanyl-glutamine	C[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)N
