@@ -12335,7 +12335,7 @@ Sodium decavanadate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].
 Mitratapide	CC[C@@H](C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@@H]5CO[C@@](O5)(CSC6=NN=CN6C)C7=CC=C(C=C7)Cl
 Phthalide	O=C1OCc2ccccc12
 Butylphthalide	O=C1OC(c2ccccc12)CCCC
-Pheophorbide A	CCC1=C2C=C3C(=C4C(=O)[C@@H](C(=C5[C@H]([C@@H](C(=N5)C=C6C(=C(C(=CC(=C1C)N2)N6)C=C)C)C)CCC(=O)O)C4=N3)C(=O)OC)C
+Pheophorbide	CCC1=C2C=C3C(=C4C(=O)[C@@H](C(=C5[C@H]([C@@H](C(=N5)C=C6C(=C(C(=CC(=C1C)N2)N6)C=C)C)C)CCC(=O)O)C4=N3)C(=O)OC)C
 Methylvanillylecgonine	COc(c1)c(O)ccc1C(=O)OC2CC(CC3)N(C)C3C2C(=O)OC
 Rhodium hexafluoride	F[Rh](F)(F)(F)(F)F
 Benzoylthiomethylecgonine	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)SC(=O)c3ccccc3)C(=O)OC
@@ -19076,7 +19076,9 @@ Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
 Selenium iodide	I[Se][Se]I
 Osmium tetrabromide	[Br-].[Br-].[Br-].[Br-].[Os+4]
 Trifluoroacetonitrile	FC(F)(F)C#N
+Sodium ozonide	[Na+].[O-]O[O]
 Alanyl-glutamine	CC(C(=O)NC(CCC(=O)N)C(=O)O)N
 Alanyl-glutamine	C[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)N
+Methylammonium tin halide	C[NH3+].[SnH2+2].[I-].[I-].[I-]
 Turkesterone	C[C@]12C[C@H]([C@H]3C(=CC(=O)[C@H]4[C@@]3(C[C@@H]([C@@H](C4)O)O)C)[C@@]1(CC[C@@H]2[C@](C)([C@@H](CCC(C)(C)O)O)O)O)O
 Silver chlorite	[O-]Cl=O.[Ag+]
