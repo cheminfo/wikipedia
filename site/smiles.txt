@@ -1900,7 +1900,6 @@ Mercaptopurine	S=c1nc[nH]c2nc[nH]c12
 Chromium trioxide	O=[Cr](=O)=O
 Methylprednisolone	O=C\1\C=C/[C@]4(/C(=C/1)[C@@H](C)C[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C
 Amyl acetate	O=C(OCCCCC)C
-Adalimumab	CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC1=CC=CC=C1C(=O)NCC(O)=O
 Lead(II,IV) oxide	O1[Pb]O[Pb]11O[Pb]O1
 Phosphorus trifluoride	FP(F)F
 Ethylmercury	CC[Hg+]
@@ -19084,3 +19083,6 @@ Alanyl-glutamine	C[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)N
 Methylammonium tin halide	C[NH3+].[SnH2+2].[I-].[I-].[I-]
 Turkesterone	C[C@]12C[C@H]([C@H]3C(=CC(=O)[C@H]4[C@@]3(C[C@@H]([C@@H](C4)O)O)C)[C@@]1(CC[C@@H]2[C@](C)([C@@H](CCC(C)(C)O)O)O)O)O
 Silver chlorite	[O-]Cl=O.[Ag+]
+Nickel niobate	[Ni+2].O=[Nb](=O)[O-].O=[Nb](=O)[O-]
+Milvexian	C[C@@H]1CCC[C@H](n2cnc(-c3cc(Cl)ccc3-n3cc(Cl)nn3)cc2=O)c2cc(ccn2)-c2c(cnn2C(F)F)NC1=O
+Citramalic acid	C[C@@](CC(=O)O)(C(=O)O)O
