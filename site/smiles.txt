@@ -1302,6 +1302,7 @@ Bufotenin	CN(C)CCc1c[nH]c2ccc(O)cc12
 Amiloride	Clc1nc(C(=O)\N=C(/N)N)c(nc1N)N
 2-Pentanone	O=C(C)CCC
 Amantadine	C1C2CC3CC1CC(C2)(C3)N
+Lead(II) oxide	O=[Pb]
 Acarbose	O([C@H]1[C@H](O)[C@@H](O)[C@H](O)O[C@@H]1CO)[C@H]4O[C@@H]([C@@H](O[C@H]3O[C@H](C)[C@@H](N[C@H]2/C=C(/CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]3O)[C@H](O)[C@H]4O)CO
 Chlorpropamide	O=S(=O)(c1ccc(Cl)cc1)NC(=O)NCCC
 Chlortalidone	O=S(=O)(N)c1c(Cl)ccc(c1)C2(O)c3ccccc3C(=O)N2
@@ -4923,8 +4924,8 @@ Phenylglyoxal	O=C(C=O)c1ccccc1
 10-Deacetylbaccatin	CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1O)O)OC(=O)C5=CC=CC=C5)(CO4)OC(=O)C)O)C)O
 O-Acetylpsilocin	CC(=O)Oc2cccc1[nH]cc(CCN(C)C)c12
 Hydroxycitric acid	O=C(O)C(O)C(O)(C(=O)O)CC(=O)O
-Triphenyltin hydride	[H][Sn](C2=CC=CC=C2)(C3=CC=CC=C3)C1=CC=CC=C1
 Triphenyltin hydride	c1c(cccc1)[Sn](c2ccccc2)c3ccccc3
+Triphenyltin hydride	[H][Sn](C2=CC=CC=C2)(C3=CC=CC=C3)C1=CC=CC=C1
 Doripenem	O=S(=O)(N)NC[C@H]3NC[C@@H](S\C2=C(\N1C(=O)[C@H]([C@H](O)C)[C@H]1[C@H]2C)C(=O)O)C3
 Cyclopentadienyl anion	[cH-]1cccc1
 4,4'-Biphenol	Oc2ccc(c1ccc(O)cc1)cc2
@@ -15679,6 +15680,8 @@ Indapyrophenidone	O=C(C(N1CCCC1)c2ccccc2)c3ccc4CCCc4c3
 5-Aminotetrazole	c1([nH]nnn1)N
 Fluorocholine	C[N+](C)(CCO)CF.[Cl-]
 Fluoroethyl-L-tyrosine (18F)	C1=CC(=CC=C1C[C@@H](C(=O)O)N)OCC[18F]
+Glucosone	C(C(C(C(C(=O)C=O)O)O)O)O
+Glucosone	C([C@H]([C@H]([C@@H](C(=O)C=O)O)O)O)O
 Succinylacetone	CC(=O)CC(=O)CCC(=O)O
 Fluorothymidine F-18	O=C/1NC(=O)N(\C=C\1C)[C@@H]2O[C@@H]([C@@H]([18F])C2)CO
 Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c4ccc5ccoc5c4)Cl
@@ -19095,3 +19098,5 @@ Citramalic acid	C[C@@](CC(=O)O)(C(=O)O)O
 Lithium telluride	[Li][Te][Li]
 Hexadecanal	CCCCCCCCCCCCCCCC=O
 6β-Hydroxycortisol	C1[C@@]2([C@@]([C@@]3(C([C@@H]1O)=CC(CC3)=O)C)([C@H](C[C@@]4([C@@](CC[C@@]24[H])(O)C(CO)=O)C)O)[H])[H]
+Nitrogen pentahydride	[NH5]
+Nitrogen pentahydride	[H-].[NH4+]
