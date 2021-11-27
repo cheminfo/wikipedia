@@ -16140,7 +16140,7 @@ Tricarbon monoxide	[C-]#CC#[O+]
 Bucinnazine	CCCC(=O)N1CCN(CC1)C/C=C/C2=CC=CC=C2
 Endoxifen	CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3
 Testosterone (medication)	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
-Potassium thioacetate	CC(=S)[O-].[K+]
+Potassium thioacetate	CC(=O)[S-].[K+]
 Aluminium triacetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Al+3]
 Ezutromid	CCS(=O)(=O)c1ccc2c(c1)nc(o2)c3ccc4ccccc4c3
 Celgosivir	CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
@@ -19100,3 +19100,5 @@ Hexadecanal	CCCCCCCCCCCCCCCC=O
 6β-Hydroxycortisol	C1[C@@]2([C@@]([C@@]3(C([C@@H]1O)=CC(CC3)=O)C)([C@H](C[C@@]4([C@@](CC[C@@]24[H])(O)C(CO)=O)C)O)[H])[H]
 Nitrogen pentahydride	[NH5]
 Nitrogen pentahydride	[H-].[NH4+]
+Caesium sesquioxide	[Cs+].[Cs+].[Cs+].[Cs+].[O-][O].[O-][O].[O-][O-]
+Chromium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Cr+3]
