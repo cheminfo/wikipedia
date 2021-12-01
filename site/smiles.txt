@@ -1609,7 +1609,6 @@ HU-210	CCCCCCC(C)(C)C1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO)C(=C1)O
 Forskolin	CC(=O)O[C@H]1[C@H]([C@@H]2[C@]([C@H](CCC2(C)C)O)([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O
 Fingolimod	CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N
 Nonylphenol	Oc1ccccc1CCCCCCCCC
-Dimethylallyl pyrophosphate	O=P(OP(=O)(OC(C)(C)C=C)OC(C)(C)C=C)(OC(C)(C)C=C)OC(C)(C)C=C
 Dimethylallyl pyrophosphate	CC(=CCOP(=O)(O)OP(=O)(O)O)C
 Cyclopentane	C1CCCC1
 Phytic acid	[C@@H]1([C@@H]([C@@H]([C@@H]([C@H]([C@@H]1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
@@ -3311,6 +3310,7 @@ Uranium dioxide	O=[U]=O
 Palladium on carbon	[Pd]
 Isopentenyl pyrophosphate	CC(=C)CCOP(=O)([O-])OP(=O)([O-])[O-]
 Geranyl pyrophosphate	O=P(O)(O)OP(=O)(OC/C=C(/CC\C=C(/C)C)C)O
+Farnesyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/COP(=O)(O)OP(=O)(O)O)/C)/C)C
 Geranylgeranyl pyrophosphate	O=P(O)(O)OP(=O)(O)OC/C=C(/CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C)C
 Clenbuterol	Clc1cc(cc(Cl)c1N)C(O)CNC(C)(C)C
 Anthrone	O=C2c1c(cccc1)Cc3c2cccc3
@@ -13778,7 +13778,7 @@ Verruculogen	CC(=CC1N2C3=C(C=CC(=C3)OC)C4=C2C(CC(OO1)(C)C)N5C(=O)C6CCCN6C(=O)C5(
 Sch 642305	C[C@H]1CCCC[C@@H]2[C@@H](CC(=O)O1)[C@H](C=CC2=O)O
 MT81	O=C4c3c(O)ccc(OC/1OCCC2OC/C=C\12)c3C(=O)c5c4cc(cc5O)C
 Stearoyl-CoA	CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)O
-Geranylfarnesyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/COP(=O)([O-])OP(=O)([O-])[O-])/C)/C)/C)/C)C
+Geranylfarnesyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/COP(=O)(O)OP(=O)(O)O)/C)/C)/C)/C)C
 Citromycetin	CC1=CC(=O)C2=C(O1)C3=C(C=C(C(=C3C(=O)O)O)O)OC2
 Theonellamide F	C[C@@H]([C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CC(=O)N[C@H](C(=O)N[C@@H]2CN3C=C(C[C@@H](C(=O)N1)NC(=O)C[C@@H](C[C@H](NC(=O)CCNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CC(=O)N)[C@H](C(=O)N)O)CC4=CC=C(C=C4)Br)C(=O)O)O)N=C3)CO)[C@H](/C=C(\C)/C=C/C5=CC=C(C=C5)Br)O)CC6=CC=CC=C6)CO)O
 Hectochlorin	C[C@H]1[C@@H](OC(=O)C2=CSC(=N2)[C@H](C(OC(=O)C3=CSC(=N3)[C@@H](OC1=O)C(C)(C)O)(C)C)OC(=O)C)CCCC(C)(Cl)Cl
@@ -14663,6 +14663,8 @@ Perfluoromethylcyclohexane	FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F
 Lamellarin D	COC1=C(C=CC(=C1)C2=C3C4=CC(=C(C=C4C=CN3C5=C2C6=CC(=C(C=C6OC5=O)O)OC)O)OC)O
 Sodium germanate	[O-][Ge](=O)[O-].[Na+].[Na+]
 Rhazinilam	CC[C@]12CCCN3C1=C(C=C3)C4=CC=CC=C4NC(=O)CC2
+Perfluoromethyldecalin	FC1(C(F)(C2(C(F)(C(F)(C(F)(C(F)(C2(C(F)(C1(F)F)F)F)F)F)F)F)F)C(F)(F)F)F
+Perfluoromethyldecalin	FC(F)(F)C1(F)C(F)(F)C2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C2(F)C(F)(F)C1(F)F
 Advantame	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O
 Sodium hyponitrite	N(=N[O-])[O-].[Na+].[Na+]
 Sodium hyponitrite	[Na+].[O-]\N=N/[O-].[Na+]
@@ -14684,7 +14686,7 @@ Aluminium arsenate	[O-][As](=O)([O-])[O-].[Al]
 Triadimefon	CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl
 Dolichodial	CC1CCC(C1C=O)C(=C)C=O
 4-Hydroxymandelic acid	C1=CC(=CC=C1C(C(=O)O)O)O
-Penicilloic acid	CC1(C(NC(S1)C(C(=O)O)NC=O)C(=O)O)C
+Penicilloic acid	CC1([C@@H](N[C@H](S1)[C@@H](C(=O)O)NC=O)C(=O)O)C
 Paenibacterin	CCCCCCCCCCCCCCC(=O)N[C@@H](CCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@H]1[C@H](OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC1=O)CCCN)CO)C(C)C)CCCCN)CO)[C@@H](C)CC)C(C)C)CCCCN)[C@@H](C)CC)C
 Ethylmethylamine	CCNC
 Hamayne	C1[C@H](C=C[C@@]23[C@H]1N(C[C@@H]2O)CC4=CC5=C(C=C34)OCO5)O
@@ -14841,7 +14843,7 @@ PYR-41	CCOC(=O)C1=CC=C(C=C1)N2C(=O)/C(=C\C3=CC=C(O3)[N+](=O)[O-])/C(=O)N2
 Narciclasine	C1OC2=C(O1)C(=C3C(=C2)C4=C[C@@H]([C@H]([C@H]([C@@H]4NC3=O)O)O)O)O
 Promethium(III) chloride	[Cl-].[Cl-].[Cl-].[Pm+3]
 Y-320	O=C(C1=C(C)N(C2=CC=C(Cl)C=C2)N=C1)NC(C=C3)=CC(C#N)=C3N(CC4)CCC4N5CCOCC5
-Titanium nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
+Titanium(IV) nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
 Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O

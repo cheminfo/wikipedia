@@ -1609,7 +1609,6 @@ fcoA`@@F{dbbdTRLRQTfQVRiIU`qhJbJJjjjjaQRR`@	HU-210
 fkAp@@DDGO]yEEHmHiEMLileIYpVheFuUUUUUSUSUBQJIbyISTMHh@	Forskolin
 ffm``@L@Xdm[lkjjikUUT@EUU@@@	Fingolimod
 f`aA@@@YEEDdTddf\`HJjj@@@	Nonylphenol
-fkgAq@HHpPTe@|J^FRRYIRJQRYHfQRDmUSUUUKUTh@@	Dimethylallyl pyrophosphate
 dglNPHSBxYCpkprRSKRJjMUMSP@@	Dimethylallyl pyrophosphate
 gKP@Di\Zj@@	Cyclopentane
 ebRPAf@HDLBAEK@hdljfnaemcgo`XT\PO@sp||BoB[pn|LddqbbbTRTbRdUdUdlfccUUUUTuSTuMMSEDXWDdVd\`@	Phytic acid
@@ -3311,6 +3310,7 @@ eMFICjMP@	Uranium dioxide
 fHch@@	Palladium on carbon
 dglNSHSBxYCpkpKaz^rRSKRJjMUMTp@@	Isopentenyl pyrophosphate
 fliAq@HHpS`i@|J^FRRYZQUQYJMUMSUM@`j@	Geranyl pyrophosphate
+fa}Aq@HHpS`i@|J^FRRYZQUQYJKIQjijZijf`HU^`	Farnesyl pyrophosphate
 fkgAq@HHpS`i@|J^FRRYZQUQYJKIQYJMUMSUMTuSPLJoQX	Geranylgeranyl pyrophosphate
 fhqQA@BFTBHyDYEEEhcLeHpTDDUUT@@@	Clenbuterol
 foQA@@@YEEEEDdbrRkF\t@D@D@@@	Anthrone
@@ -13778,7 +13778,7 @@ ejU\N@@DNL`FKOAkh\bbbdTVTQfrTRdRTiRbxdTt\BrjFnN~ZjjjijhJhJFjih@@@	Verruculogen
 fdy@P@@HuEIeYgf]lEwfjjjjehaERBdd@	Sch 642305
 ekhPN@@@ECO@bclbbbbbbbRbKbRfRxDtb\rfVvNZ@HbAbJijhJ@@@	MT81
 glMGaDH@N@Pl^_PTNCPTzODVHdJeJoRYmNW[`@PB|FWaV|LdTVRRTVRRRbtVdRJRdVrdVrtRbRTTfbjrcYksxCAijjfjjfjjjjZjZjjjjihDBhhUDz`ZQefP@	Stearoyl-CoA
-edXPNDLHDLBNAI@OBcpHxSiNrRSKRJjKIQYJKIQYJMUMSUMTuSUM@DJWdUSP	Geranylfarnesyl pyrophosphate
+edXPND@HDLBNAI@OBcprRSKRJjKIQYJKIQYJMUMSUMTuSUM@DJWdUSP	Geranylfarnesyl pyrophosphate
 fj}Ap@@\dENRyEEDhehXeEBsdc^btsU@QCU@@@	Citromycetin
 gkZ\HtP@OCSibiIlqY}aXrPkV{}lYJcqDRu^hrxBaDv_LVkuNtvZlAbF|SHhdldhmMDeEMLdhhhhmDmdmECEieDhhdhXmlieCEEMmEEJheLheDdjZC@TZ__hMDgsezx@IfjjfZjjXFjBhifjjjiVZjZifjfjijhIhD`jOAaNHTdq_IJ`ZUhvTE\TYfUEUmRCaRD	Theonellamide F
 eeSTIB@HeaKO@mgl^YPHaBHjBI`cHiMdheEECLdhmEHheUIeJUTCCbsUUUTsSMUMUUUSLqGBdfRF`@	Hectochlorin
@@ -14663,6 +14663,8 @@ fju@Ap@RBIBd`rPEHRdMRAiAtazPCHIdLrAYCHiMHiCHXYYEVjjjjjjj@@	Perfluoromethylcycloh
 ejUXA@@J@DDngohR\bbTTTRRRRTtVRRRTJRXxdtlb|rfnvAZiBhIb@H@bbjd`@@@	Lamellarin D
 gGalXl@PzEtEvxsYccP@	Sodium germanate
 ffsQ@@DQ@drllmKj|cZCDjZmTEAUESITAH@	Rhazinilam
+eo`P@B`@IABPhdFI@RPddMI@rP\d@iAJPrdJi@ZPfdEiCZPNdKiAzPrJSRJPrFFZSRFZJQRpijjjjjjjjjjj`@@	Perfluoromethyldecalin
+eo`P@B`@IABPhdFI@RPddMI@rP\d@iAJPrdJiAjPFdIiAZPNdKiAzPrJSRJPrFFZSRFFVQRpkjjjjjjjjjjj`@@	Perfluoromethyldecalin
 ehTTN@@JK@DIJfkolbbTrTTtRRVTqTRTJBrN^Zji`hJIj@HhDLHi@@	Advantame
 gGdd\UQhSPDrUuy@ufDd@	Sodium hyponitrite
 gGdd\UQhSPDrUuy@ufDb@	Sodium hyponitrite
@@ -14684,7 +14686,7 @@ daxD@@sIEDcUU@@	1,1-Diethoxyethane
 fbupb@IZCrpHaIe]YfWjcOA`@jjYZb@@	Triadimefon
 dcLD@@UI[fUFVZjf`@	Dolichodial
 dcLB@@PmR[nUyUj`@`@@	4-Hydroxymandelic acid
-fhqQR@FRtYw``BLdTbblTRaprjjjZY`@@	Penicilloic acid
+fhqQR@FRtYw``BLdTbblTRaprjjjZYlHfIq@@	Penicilloic acid
 ghz^ID@@JAcHTvLaR[Mvo_iHWJcu`DCaHt~TmPx|~`f_MvGsrJIQQJJZKJZZYKQQQIQQZIRiJKQQJUJHqQ[QYJJGQSQXjIQQYQ[EIYKIIcq^hvjjjijZfjjfjfjfjjjijZijjjffjjjjZfjjjjj`fBDHpWA^It`q@hZeiShQUfETuSv@@	Paenibacterin
 gCh@@eMP@	Ethylmethylamine
 fjs`P@G@iDnRJIKIJQIJZxipQgNRGMA@UUMUQTRRMKSL@@	Hamayne
@@ -14841,7 +14843,7 @@ fmwqpBHV|AACNzNDh{HihdlhhicDeeLf\mxmVijZYh@IjXA@R@	PYR-41
 ffsap@D@e[rRuRYYfUn}UgMA]GIVhJ`ZbjhhaDINdX@	Narciclasine
 gB@BQ^RHTQh`[NW[`@@	Promethium(III) chloride
 ebQVDH@NAONaggLPHaIe]eome[^UvUhXTtJZNnQq`@jVf`BNjjjhb`@@	Y-320
-fhaHZ@jLxJBLDdkQkN|DCQRVSrQRkc\{`|eTjlsMUUSLs@@@	Titanium nitrate
+fhaHZ@jLxJBLDdkQkN|DCQRVSrQRkc\{`|eTjlsMUUSLs@@@	Titanium(IV) nitrate
 fje@F`HHpRRmFl{pXirTCQRHYD\bAQBURjtttuUURjjjh@@	Titanium perchlorate
 fhiP`@DZ@kHhhdehhTbL|Ejji`@aADr@@	Methylphenylpiracetam
 dgoEaj[hSBFUt{ChjVgigmz~RjuYfZjfY`@	Vanadyl nitrate
