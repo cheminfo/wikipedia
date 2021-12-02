@@ -1973,6 +1973,7 @@ Acenaphthoquinone	O=C3c2cccc1cccc(c12)C3=O
 Chlorous acid	O[Cl+][O-]
 Tienilic acid	s1cccc1C(=O)c2c(Cl)c(Cl)c(cc2)OCC(=O)O
 Vanadium(V) oxide	O=[V](=O)O[V](=O)=O
+Molybdenum trioxide	O=[Mo](=O)=O
 Cefuroxime axetil	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3occc3)COC(=O)N)C(=O)OC(OC(=O)C)C
 Telmisartan	O=C(O)c1ccccc1c2ccc(cc2)Cn3c4cc(cc(c4nc3CCC)C)c5nc6ccccc6n5C
 Propylthiouracil	S=C1N/C(=C\C(=O)N1)CCC
@@ -7776,7 +7777,7 @@ Pyrimidone	O=C1NC=NC=C1
 JWH-051	CCCCCCC(C)(C)C1=CC2=C(C=C1)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)CO
 L-759,633	CCCCCCC(C)(C)c1cc2c(c(c1)OC)[C@@H]3CC(=CC[C@H]3C(O2)(C)C)C
 L-759,656	CCCCCCC(C)(C)c1cc2c(c(c1)OC)[C@@H]3CC(=C)CC[C@H]3C(O2)(C)C
-JWH-176	CCCCCc(c3)c1ccccc1c3=Cc2cccc4ccccc24
+JWH-176	CCCCCC1=C\C(=C/c2cccc3ccccc32)c2ccccc21
 2,4-Dichlorophenol	Clc1cc(Cl)c(O)cc1
 Arsenic trifluoride	F[As](F)F
 Arsenic pentafluoride	F[As](F)(F)(F)F
@@ -8994,7 +8995,7 @@ BAY 73-6691	C[C@H](CC1=NC(=O)C2=CNN(C2=N1)C3=CC=CC=C3Cl)C(F)(F)F
 Twistane	C1CC2CC3CCC2CC13
 Estradiol benzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5
 JWH-250	COc2ccccc2CC(=O)c(c3ccccc13)cn1CCCCC
-JWH-359	COc2cc(C(C)(C)C(C)CC)cc3c2C1CC(C)=CCC1C(C)(C)O3
+JWH-359	C[C@H](CC)C(C)(C)c1cc2OC(C)(C)[C@@H]3CC=C(C)C[C@H]3c2c(OC)c1
 Allylmagnesium bromide	[Br-].[Mg+]CC=C
 BRL-50481	Cc1ccc(N(=O)=O)cc1S(=O)(=O)N(C)C
 Varacin	NCCc2cc(OC)c(OC)c1SSSSSc12
@@ -19053,7 +19054,6 @@ Methanetellurol	C[TeH]
 Estradiol dicypionate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=C3C=CC(=C5)OC(=O)CCC6CCCC6
 Estradiol dibenzoate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)C4=CC=CC=C4)CCC5=C3C=CC(=C5)OC(=O)C6=CC=CC=C6
 O-Acetylbufotenine	CC(=O)OC1=CC2=C(C=C1)NC=C2CCN(C)C
-Gold(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Au+3]
 Anziaic acid	CCCCCC1=C(C(=CC(=C1)O)O)C(=O)OC2=CC(=C(C(=C2)O)C(=O)O)CCCCC
 Methaneselenol	C[SeH]
 7-Chloro-AMT	CC(CC1=CNC2=C1C=CC=C2Cl)N
@@ -19081,6 +19081,7 @@ Chromium(II) sulfide	[S-2].[Cr+2]
 Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
+Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
@@ -19104,3 +19105,4 @@ Nitrogen pentahydride	[NH5]
 Nitrogen pentahydride	[H-].[NH4+]
 Caesium sesquioxide	[Cs+].[Cs+].[Cs+].[Cs+].[O-][O].[O-][O].[O-][O-]
 Chromium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Cr+3]
+Prenylthiol	CC(=CCS)C
