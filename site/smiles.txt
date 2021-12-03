@@ -331,6 +331,7 @@ Chlorite	[O-][Cl+][O-]
 Tacrolimus	O=C3C(=O)N1CCCC[C@H]1C(=O)O[C@H](C(=C/[C@@H]2CC[C@@H](O)[C@H](OC)C2)/C)[C@H](C)[C@@H](O)CC(=O)[C@@H](/C=C(/C[C@@H](C[C@H](OC)[C@H]4O[C@]3(O)[C@H](C)C[C@@H]4OC)C)C)C\C=C
 Potassium chloride	[Cl-].[K+]
 Methaqualone	O=C1C2=C(C=CC=C2)N=C(C)N1C3=C(C)C=CC=C3
+Magnesium oxide	O=[Mg]
 Pentamidine	O(c1ccc(cc1)C(=[N@H])N)CCCCCOc2ccc(C(=[N@H])N)cc2
 Ethane	CC
 Cantharidin	O=C2OC([C@@]1(C)[C@@H]3CC[C@@H](O3)[C@]12C)=O
@@ -19105,4 +19106,7 @@ Nitrogen pentahydride	[NH5]
 Nitrogen pentahydride	[H-].[NH4+]
 Caesium sesquioxide	[Cs+].[Cs+].[Cs+].[Cs+].[O-][O].[O-][O].[O-][O-]
 Chromium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Cr+3]
+Cinnamycin	C[C@@H]1C2C(=O)N[C@@H](CCCCNC[C@H]3C(=O)N[C@H](C(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@H](C(=O)N[C@H]5C(SC[C@@H](C(=O)N3)NC(=O)[C@H](CSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N2)CC(=O)N)[C@H](C(=O)O)O)NC(=O)[C@@H](NC(=O)[C@@H](NC5=O)CC6=CC=CC=C6)C(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CS1)N)CCCNC(=N)N)CCC(=O)N)C)CC7=CC=CC=C7)CC8=CC=CC=C8)C(=O)O
 Prenylthiol	CC(=CCS)C
+2-Hydroxybenzylamine	C1=CC=C(C(=C1)CN)O
+Gold(II) sulfate	[O-]S(=O)(=O)[O-].[Au+2]
