@@ -4361,6 +4361,7 @@ Mangafodipir	O=P(O)(O)OCc0cnc(C)c([O+H][Mn-4]12345)c0C[N+]1(CC(=O)O2)CC[N+]3(CC(
 Zinc phosphate	[Zn+2].[Zn+2].[Zn+2].[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O
 Zinc pyrophosphate	[Zn+2].[Zn+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Ytterbium(II) chloride	[Yb+2].[Cl-].[Cl-]
+Yttrium(III) antimonide	[Y].[Sb]
 Yttrium(III) arsenide	[As].[Y]
 Yttrium(III) sulfide	[S-2].[S-2].[S-2].[Y+3].[Y+3]
 Xenon oxytetrafluoride	F[Xe](F)(F)(F)=O
@@ -18708,7 +18709,7 @@ Bromerguride	CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
 Hydroxyphenamate	CCC(COC(=O)N)(C1=CC=CC=C1)O
 Rhodium(III) iodide	[Rh](I)(I)I
 Alloclamide	CCN(CC)CCNC(=O)C1=C(C=C(C=C1)Cl)OCC=C
-Para tertiary butylphenol	CC(C)(C)C1=CC=C(C=C1)O
+4-Tert-butylphenol	CC(C)(C)C1=CC=C(C=C1)O
 Actinium(III) bromide	[Br-].[Br-].[Br-].[Ac]
 Actinium(III) iodide	[I-].[I-].[I-].[Ac+3]
 Actinium(III) sulfide	[S-2].[S-2].[S-2].[Ac+3].[Ac+3]
@@ -19119,4 +19120,6 @@ Hyrtioreticulin	C1[C@H](N[C@H](C2=C1C3=C(N2)C=CC(=C3)O)CC4=CN=CN4)C(=O)O
 Hyrtioreticulin	C[C@@H]1C2=C(C=CC3=C2C(=CN3)C[C@H](N1)C(=O)O)O
 Hyrtioreticulin	C[C@H]1C2=C(C=CC3=C2C(=CN3)C[C@H](N1)C(=O)O)O
 Hyrtioreticulin	C[C@@H]1C2=C(C[C@H](N1)C(=O)O)C3=C(N2)C=CC(=C3)O
+Hyrtioreticulin	C[C@H]1C2=C(C[C@H](N1)C(=O)O)C3=C(N2)C=CC(=C3[C@@H](C)NCC(=O)O)O
 Dipentylone	CCCC(C(=O)C1=CC2=C(C=C1)OCO2)N(C)C
+Pyrilutamide	CNC(=O)C1=C(F)C=C(C=C1)N1C(=S)N(C(=O)C1(C)C)C1=C(F)C(=C(C=C1)C#N)C(F)(F)F
