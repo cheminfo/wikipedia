@@ -2047,6 +2047,7 @@ Lithium acetate	[Li+].CC(=O)[O-]
 Geosmin	O[C@]12[C@H](CCC[C@]2(CCCC1)C)C
 Sodium oxide	[O-2].[Na+].[Na+]
 Sodium peroxide	[O-][O-].[Na+].[Na+]
+Sodium superoxide	[O-][O].[Na+]
 Potassium peroxide	[O-][O-].[K+].[K+]
 Oxetane	C1CCO1
 Sodium perchlorate	[Na+].[O-]Cl(=O)(=O)=O
@@ -4116,6 +4117,7 @@ Sodium iodate	[Na+].[O-]I(=O)=O
 Sodium persulfate	[Na+].[Na+].O=S(=O)([O-])OOS([O-])(=O)=O
 Sodium thiocyanate	[Na+].[S-]C#N
 Nickel(II) carbonate	[Ni+2].[O-]C([O-])=O
+Nickel(II) oxide	[O-2].[Ni+2]
 Zinc peroxide	[Zn+2].[O-][O-]
 Zirconium(IV) silicate	[Zr+4].[O-][Si]([O-])([O-])[O-]
 Zirconium(IV) bromide	Br[Zr](Br)(Br)Br
@@ -4636,7 +4638,6 @@ Aurothioglucose	O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1S[Au]
 Auranofin	CCP(=[Au]S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C)(CC)CC
 Phenprocoumon	OC=1c3ccccc3OC(=O)C=1C(CC)c2ccccc2
 Phenindione	O=C2c1ccccc1C(=O)C2c3ccccc3
-Acenocoumarol	[O-][N+](=O)c1ccc(cc1)C(CC(C)=O)C\2=C(/O)c3ccccc3OC/2=O
 Dicoumarol	O=C1Oc2ccccc2C(O)=C1CC3=C(O)c4ccccc4OC3=O
 Paramethadione	O=C1N(C(=O)OC1(C)CC)C
 Phensuximide	O=C2N(C(=O)CC2c1ccccc1)C
@@ -19134,3 +19135,5 @@ Upacicalcet	CC1=C(C=C(C=C1Cl)S(=O)(=O)O)NC(=O)NC[C@@H](C(=O)O)N
 Aluminium phenolate	C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].[Al+3]
 Lutetium phosphide	[Lu+3].[P-3]
 20S-Hydroxycholesterol	CC(C)CCC[C@@](C)([C@H]1CCC2[C@@]1(CCC3C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)O
+Praseodymium phosphide	P#[Pr]
+Neodymium phosphide	[Nd]#P
