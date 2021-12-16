@@ -3935,7 +3935,7 @@ Chromium(IV) oxide	O=[Cr]=O
 Cetylpyridinium chloride	[Cl-].[n+]1(ccccc1)CCCCCCCCCCCCCCCC
 Silver sulfate	[Ag+].[Ag+].[O-]S([O-])(=O)=O
 Beta-Sitosterol	O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CC[C@@H](CC)C(C)C)C)[C@@]3(C)CC4
-Octadecene	C=C\CCCCCCCCCCCCCCCC
+1-Octadecene	C=C\CCCCCCCCCCCCCCCC
 Etonitazene	CCOC1=CC=C(CC2=NC3=C(N2CCN(CC)CC)C=CC(N(=O)=O)=C3)C=C1
 Silver subfluoride	F[Ag].[Ag]
 Silver azide	[Ag+].[N-]=[N+]=[N-]
@@ -13485,6 +13485,7 @@ Faldaprevir	CC(C)C(=O)Nc1nc(cs1)c2cc(c3ccc(c(c3n2)Br)OC)O[C@@H]4C[C@H](N(C4)C(=O
 Deleobuvir	CN1C2=C(C=CC(=C2)C(=O)NC3(CCC3)C4=NC5=C(N4C)C=C(C=C5)/C=C/C(=O)O)C(=C1C6=NC=C(C=N6)Br)C7CCCC7
 Isomethadol	OC(C(c1ccccc1)(c2ccccc2)C(C)CN(C)C)CC
 2-Furoic acid	OC(=O)C1=CC=CO1
+Diisobutylamine	CC(C)CNCC(C)C
 Cerevisterol	O[C@@H]1C=C2[C@]3([H])CC[C@]([C@]3(CC[C@]2([H])[C@@]4(C)CC[C@@H](C[C@]14O)O)C)([H])[C@H](C)/C=C/[C@@H](C(C)C)C
 Quinaldine red	CC[N+]1=C(C=CC2=CC=CC=C21)C=CC3=CC=C(C=C3)N(C)C.[I-]
 Camphorsultam	CC1([C@H]2CC[C@@]13CS(=O)(=O)N[C@H]3C2)C
@@ -19137,3 +19138,7 @@ Lutetium phosphide	[Lu+3].[P-3]
 20S-Hydroxycholesterol	CC(C)CCC[C@@](C)([C@H]1CCC2[C@@]1(CCC3C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)O
 Praseodymium phosphide	P#[Pr]
 Neodymium phosphide	[Nd]#P
+2,3,6-Trimethylphenol	CC1=C(C(=C(C=C1)C)O)C
+Mesityl bromide	CC1=CC(=C(C(=C1)C)Br)C
+Europium(III) phosphide	P#[Eu]
+Niobium phosphide	P#[Nb]
