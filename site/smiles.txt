@@ -13216,7 +13216,7 @@ Propargyl bromide	BrCC#C
 Tungsten(IV) fluoride	F[W](F)(F)F
 2,3,5-Trimethylpyrazine	CC1=CN=C(C(=N1)C)C
 1-Dodecene	CCCCCCCCCCC=C
-L-β-Homoleucine hydrochloride	CC(C)C[C@@H](CC(=O)O)N.Cl
+Β-Homoleucine	CC(C)CC(CC(=O)O)N
 Glaucarubin	CCC(C)(C(=O)O[C@@H]1[C@H]2[C@H]([C@H](C3([C@H]4[C@@]2(CO3)[C@@H](C[C@@H]5[C@@]4([C@@H]([C@H](C=C5C)O)O)C)OC1=O)O)O)C)O
 Voclosporin	O=C1N(C)[C@H](C(=O)N[C@H](C(=O)N(C)CC(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H]1C(C)C)CC(C)C)CC(C)C)C)C)C)CC(C)C)C(C)C)CC(C)C)CC)[C@H](O)[C@H](C)C\C=C\C=C
 Salsoline	CC1C2=CC(=C(C=C2CCN1)O)OC
@@ -19090,6 +19090,10 @@ Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)C4=CC=CC=C4
+9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)CC
+9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)
+9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)Cl
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
@@ -19142,3 +19146,4 @@ Neodymium phosphide	[Nd]#P
 Mesityl bromide	CC1=CC(=C(C(=C1)C)Br)C
 Europium(III) phosphide	P#[Eu]
 Niobium phosphide	P#[Nb]
+Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
