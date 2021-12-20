@@ -432,6 +432,7 @@ Potassium hydroxide	[K+].[OH-]
 Warfarin	CC(=O)CC(C\1=C(/O)c2ccccc2OC/1=O)c3ccccc3
 Potassium bicarbonate	[K+].[O-]C(=O)O
 Potassium carbonate	C(=O)([O-])[O-].[K+].[K+]
+Lead(II) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pb+2]
 Arsine	[AsH3]
 Nitrogen dioxide	N(=O)[O]
 Nitrogen dioxide	[N+](=O)[O-]
@@ -8530,7 +8531,7 @@ Pivmecillinam	CC1(C(N2C(S1)C(C2=O)N=CN3CCCCCC3)C(=O)OCOC(=O)C(C)(C)C)C
 Phenacyl bromide	O=C(c1ccccc1)CBr
 Pemirolast	CC1=CC=CN2C1=NC=C(C2=O)C3=NNN=N3
 Terutroban	CC1=C(C2=C(CC(CC2)NS(=O)(=O)C3=CC=C(C=C3)Cl)C=C1)CCC(=O)O
-Teprenone	CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CCC(=O)C
+Teprenone	CC(C)=CCC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CCC(C)=O
 Gefarnate	CC(C)=CCC/C(C)=C/CC/C(C)=C/CCC(=O)OC/C=C(C)/CCC=C(C)C
 Hypotaurine	O=S(O)CCN
 Α5IA	CC1=CC(=NO1)C2=NN=C3N2N=C(C4=CC=CC=C43)OCC5=CN(N=N5)C
@@ -19146,4 +19147,7 @@ Neodymium phosphide	[Nd]#P
 Mesityl bromide	CC1=CC(=C(C(=C1)C)Br)C
 Europium(III) phosphide	P#[Eu]
 Niobium phosphide	P#[Nb]
+2-Chlorobenzonitrile	C1=CC=C(C(=C1)C#N)Cl
+4-Chlorobenzonitrile	C1=CC(=CC=C1C#N)Cl
 Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
+Indisetron	CN1C[C@H]2CC(C[C@@H](C1)N2C)NC(=O)C3=NNC4=CC=CC=C43
