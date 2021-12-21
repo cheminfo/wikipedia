@@ -18306,7 +18306,7 @@ Etodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OCC
 CUMYL-CH-MEGACLONE	CC(C)(c1ccccc1)N5C=Cc4n(CC2CCCCC2)c3ccccc3c4C5=O
 CUMYL-CBMINACA	CC(C)(NC(=O)c3nn(CC1CCC1)c2ccccc23)c4ccccc4
 Methoxpropamine	COc1cccc(c1)C2(NCCC)CCCCC2=O
-Bromoketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Br
+2-Bromodeschloroketamine	CNC1(CCCCC1=O)C2=CC=CC=C2Br
 Gamma-Carboline	C1=CC=C2C(=C1)C3=C(N2)C=CN=C3
 Myrtecaine	CCN(CC)CCOCCC1=CCC2CC1C2(C)C
 4-Butylresorcinol	CCCCC1=C(C=C(C=C1)O)O
@@ -19151,3 +19151,4 @@ Niobium phosphide	P#[Nb]
 4-Chlorobenzonitrile	C1=CC(=CC=C1C#N)Cl
 Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
 Indisetron	CN1C[C@H]2CC(C[C@@H](C1)N2C)NC(=O)C3=NNC4=CC=CC=C43
+ADB-BINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=CC=C2)C3=C1C=CC=C3
