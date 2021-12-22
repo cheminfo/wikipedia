@@ -152,6 +152,7 @@ Sodium cyanide	[C-]#N.[Na+]
 Pantothenic acid	CC(C)(CO)C(C(=O)NCCC(=O)O)O
 Pantothenic acid	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O
 Pantothenic acid	CC(C)(CO)[C@@H](C(=O)NCCC(=O)O)O
+Vitamin A	OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)/CCCC1(C)C
 Retinol	OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)/CCCC1(C)C
 Folate	n1c2C(=O)NC(N)=Nc2ncc1CNc3ccc(cc3)C(=O)N[C@H](C(O)=O)CCC(O)=O
 Biotin	O=C1N[C@@H]2[C@@H](SC[C@@H]2N1)CCCCC(=O)O
@@ -17911,6 +17912,7 @@ Hexamethylcyclotrisilazane	C[Si]1(N[Si](N[Si](N1)(C)C)(C)C)C
 Pinacolborane	[B]1OC(C(O1)(C)C)(C)C
 Tetramethylethylene	CC(=C(C)C)C
 Thexylborane	[B]C(C)(C)C(C)C
+Thexylborane	[H]1[BH]([H][BH]1C(C)(C)C(C)C)C(C)(C)C(C)C
 Avapritinib	CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N
 Molybdenum(IV) bromide	[Br-].[Br-].[Br-].[Br-].[Mo+4]
 Tetrahydrocannabiphorol	CCCCCCCc3cc2OC(C)(C)[C@@H]1CCC(C)=C[C@H]1c2c(O)c3
@@ -19091,10 +19093,6 @@ Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
-9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)C4=CC=CC=C4
-9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)CC
-9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)
-9-Borafluorene	B1(C2=CC=CC=C2C3=CC=CC=C31)Cl
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
@@ -19152,3 +19150,6 @@ Niobium phosphide	P#[Nb]
 Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
 Indisetron	CN1C[C@H]2CC(C[C@@H](C1)N2C)NC(=O)C3=NNC4=CC=CC=C43
 ADB-BINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=CC=C2)C3=C1C=CC=C3
+Samarium phosphide	P#[Sm]
+Lanthanum phosphide	P#[La]
+Ytterbium phosphide	P#[Yb]
