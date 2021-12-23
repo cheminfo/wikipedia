@@ -4060,7 +4060,7 @@ Nicardipine	O=C(OCCN(Cc1ccccc1)C)\C2=C(\N/C(=C(/C(=O)OC)C2c3cccc([N+]([O-])=O)c3
 Methyl bisulfate	OS(OC)(=O)=O
 Succinic anhydride	O=C1OC(=O)CC1
 Sebacoyl chloride	ClC(=O)CCCCCCCC(=O)CCl
-Cytisine	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
+Cytisinicline	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
 Parecoxib	O=C(NS(=O)(=O)c3ccc(c2c(onc2c1ccccc1)C)cc3)CC
 Silicon tetrafluoride	F[Si](F)(F)F
 2-Mercaptoindole	Sc2cc1ccccc1[nH]2
@@ -19153,3 +19153,10 @@ ADB-BINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=CC=C2)C3=C1C=CC=C3
 Samarium phosphide	P#[Sm]
 Lanthanum phosphide	P#[La]
 Ytterbium phosphide	P#[Yb]
+Thulium phosphide	P#[Tm]
+Phenylsilver	c1ccccc1[Ag]
+ADB-HEXINACA	O=C(N[C@@H](C(C)(C)C)C(N)=O)C1=NN(CCCCCC)C2=C1C=CC=C2
+ADB-4en-PINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCC=C)c2ccccc21)C(C)(C)C
+3F-PVP	CCCC(C(=O)c1cccc(F)c1)N1CCCC1
+O-2390	CCCC(C(=O)C1=CC(=C(C=C1)Cl)Cl)N2CCCC2
+N-Ethylhexylone	CCCCC(NCC)C(=O)c1ccc2OCOc2c1
