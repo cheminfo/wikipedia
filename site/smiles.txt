@@ -1957,6 +1957,7 @@ Dieldrin	ClC5(Cl)[C@]3(Cl)C(\Cl)=C(\Cl)[C@@]5(Cl)[C@H]4[C@H]1C[C@H]([C@@H]2O[C@H
 Phendimetrazine	O2C(c1ccccc1)C(N(C)CC2)C
 Benzyl chloroformate	ClC(=O)OCc1ccccc1
 Rhodium(III) chloride	[Rh+3].[Cl-].[Cl-].[Cl-]
+Iridium(III) chloride	[Cl-].[Cl-].[Cl-].[Ir+3]
 Stearyl alcohol	OCCCCCCCCCCCCCCCCCC
 Caesium hydroxide	[OH-].[Cs+]
 Ergometrine	[H][C@@]12Cc3c[nH]c4cccc(C1=C[C@@H](C(=O)N[C@@H](C)CO)CN2C)c34
@@ -19160,3 +19161,11 @@ ADB-4en-PINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCC=C)c2ccccc21)C(C)(C)C
 3F-PVP	CCCC(C(=O)c1cccc(F)c1)N1CCCC1
 O-2390	CCCC(C(=O)C1=CC(=C(C=C1)Cl)Cl)N2CCCC2
 N-Ethylhexylone	CCCCC(NCC)C(=O)c1ccc2OCOc2c1
+Benzylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NCC3=CC=CC=C3
+Bismuth phosphide	[P-3].[Bi+3]
+Holmium phosphide	P#[Ho]
+Acetoxymethylketobemidone	CC(=O)C1(CCN(CC1)C)C2=CC(=CC=C2)OC(=O)C
+MFPVP	CCCC(C(=O)c1ccc(F)c(C)c1)N1CCCC1
+4F-PHP	CCCCC(C(=O)C1=CC=C(C=C1)F)N2CCCC2
+N-Ethylheptedrone	O=C(C(CCCCC)NCC)c1ccccc1
+N-Ethylheptylone	CCCCCC(NCC)C(=O)c1ccc2OCOc2c1
