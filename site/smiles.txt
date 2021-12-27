@@ -16658,7 +16658,7 @@ Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
 Umbralisib	CC(C)OC1=C(C=C(C=C1)C2=NN(C3=NC=NC(=C23)N)C(C)C4=C(C(=O)C5=C(O4)C=CC(=C5)F)C6=CC(=CC=C6)F)F
-Gladiolin	CC1CC=CC=CCC(CCCC(CC(OC(=O)CC(C(C(CC1O)O)C)O)C(C)C(C)C=C(C)CCC=CC=CCC(CC(C)CCC(=O)O)O)O)OC
+Gladiolin	C[C@H]1C/C=C/C=C\C[C@H](CCC[C@H](C[C@H](OC(=O)C[C@H]([C@H]([C@@H](C[C@@H]1O)O)C)O)[C@H](C)[C@H](C)/C=C(\C)/CC/C=C/C=C/CC(CC(C)CCC(=O)O)O)O)OC
 1,2-Butadiene	CC=C=C
 1,4-Diazacycloheptane	C1CNCCNC1
 1,5-Dithiacyclooctane	C1CSCCCSC1
@@ -19179,3 +19179,4 @@ ACP-105	CC1=C(C=CC(=C1Cl)C#N)N2C3CCC2CC(C3)(C)O
 PF-06260414	C[C@@H]1CNS(=O)(=O)N(C1)C2=CC3=C(C=C2)C(=NC=C3)C#N
 GSK-4336A	C1C(=O)NC(C2=C(O1)C(=CC(=C2)Cl)Cl)C(=O)NC3=CC=C(C=C3)C(F)(F)F
 Etonitazepipne	[O-][N+](=O)c1cc2nc(Cc3ccc(OCC)cc3)n(CCN3CCCCC3)c2cc1
+Metodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OC
