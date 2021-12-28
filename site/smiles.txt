@@ -15545,6 +15545,10 @@ Pneumocandin B0	CCC(C)CC(C)CCCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H](C
 Incyclinide	c1cc2c(c(c1)O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)CC(=C(C4=O)C(=O)N)O)O)O
 Lanthanum hydroxide	[OH-].[OH-].[OH-].[La+3]
 Phosphorus mononitride	N#P
+Phosphorus tetroxide	O=POP(=O)=O
+Phosphorus tetroxide	O=P12OP3OP(O1)OP(O3)O2
+Phosphorus tetroxide	O=P12OP3OP(O1)OP(=O)(O3)O2
+Phosphorus tetroxide	O=P12OP3OP(=O)(O1)OP(=O)(O3)O2
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
 RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
 Hexaborane(12)	[BH3]1[BH3][BH2]1[BH2]2[BH3][BH3]2
@@ -19180,3 +19184,5 @@ PF-06260414	C[C@@H]1CNS(=O)(=O)N(C1)C2=CC3=C(C=C2)C(=NC=C3)C#N
 GSK-4336A	C1C(=O)NC(C2=C(O1)C(=CC(=C2)Cl)Cl)C(=O)NC3=CC=C(C=C3)C(F)(F)F
 Etonitazepipne	[O-][N+](=O)c1cc2nc(Cc3ccc(OCC)cc3)n(CCN3CCCCC3)c2cc1
 Metodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OC
+Diamocaine	CCN(CC)CCOC1(CCN(CC1)CCNC2=CC=CC=C2)C3=CC=CC=C3
+Carperidine	CCOC(=O)C1(CCN(CC1)CCC(=O)N)C2=CC=CC=C2
