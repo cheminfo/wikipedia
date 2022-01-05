@@ -14653,7 +14653,6 @@ Efinaconazole	C[C@H]([C@](CN1C=NC=N1)(C2=C(C=C(C=C2)F)F)O)N3CCC(=C)CC3
 4-Fluoro-L-threonine	C([C@H]([C@@H](C(=O)O)N)O)F
 N,N-Dimethylethylamine	CCN(C)C
 Balapiravir	O=c1nc(N)ccn1C2OC(N=[N+]=[N-])(COC(=O)C(C)C)C(OC(=O)C(C)C)C2OC(=O)C(C)C
-Bis-choline tetrathiomolybdate	OCC[N+](C)(C)C.[S-][Mo]([S-])(=S)=S.C[N+](C)(C)CCO
 Pentamethylcyclopentadienyl ruthenium dichloride dimer	CC1=[C-]C(C(=C1C)C)(C)C.Cl[Ru]Cl
 Lithium metasilicate	[Li+].[Li+].[O-][Si](=O)[O-]
 Strictinin	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O
@@ -19193,3 +19192,7 @@ Methylenedioxyphencyclidine	C1CCC(CC1)(N1CCCCC1)c1ccc2c(c1)OCO2
 Hydroxypivaldehyde	CC(C)(CO)C=O
 Salazinic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)C=O)O
 Mugineic acid	C1CN([C@@H]1C(=O)O)C[C@@H]([C@@H](C(=O)O)NCC[C@@H](C(=O)O)O)O
+Mycosamine	C[C@@H]1[C@H]([C@@H]([C@@H]([C@H](O1)O)O)N)O
+Iron(III) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Fe+3]
+25T7-NBOMe	CCCSC1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
+AC-90179	CC1=CC=C(C=C1)CN(C2CCN(CC2)C)C(=O)CC3=CC=C(C=C3)OC
