@@ -6630,7 +6630,6 @@ Triphenyl phosphate	O=P(Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3
 Oxaceprol	CC(=O)N1C[C@@H](C[C@H]1C(=O)O)O
 Lithium succinate	[Li+].[Li+].[O-]C(=O)CCC([O-])=O
 Colfosceril palmitate	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C)CCCCCCCCCCCCCCC
-CS gas (data page)	Clc1ccccc1\C=C(/C#N)C#N
 Phenoxymethylpenicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C
 Pertechnetic acid	O[Tc](=O)(=O)=O
 Tris(8-hydroxyquinolinato)aluminium	c7ccc8cccc9O[AlH3-6]36(Oc2cccc1ccc[n+]3c12)(Oc5cccc4ccc[n+]6c45)[n+]7c89
@@ -13214,7 +13213,7 @@ Lead(II) oxalate	C(=O)(C(=O)[O-])[O-].[Pb+2]
 Niobium(V) ethoxide	CCO[Nb](OCC)(OCC)(OCC)OCC
 Tantalum(V) ethoxide	[Ta+5].[O-]CC.[O-]CC.[O-]CC.[O-]CC.[O-]CC
 Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
-Anpirtoline	C1CNCCC1SC2=NC(=CC=C2)Cl.Cl
+Anpirtoline	C1CNCCC1SC2=NC(=CC=C2)Cl
 (1R,3R)-1,2,3-Trimethylcyclopentane	C[C@@H]1CC[C@H](C1C)C
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
@@ -19196,3 +19195,5 @@ Mycosamine	C[C@@H]1[C@H]([C@@H]([C@@H]([C@H](O1)O)O)N)O
 Iron(III) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Fe+3]
 25T7-NBOMe	CCCSC1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
 AC-90179	CC1=CC=C(C=C1)CN(C2CCN(CC2)C)C(=O)CC3=CC=C(C=C3)OC
+Dysprosium phosphide	P#[Dy]
+Pyrrole-2-carboxylic acid	C1=CNC(=C1)C(=O)O
