@@ -12276,7 +12276,6 @@ PF-184563	CN1CC2=C(C=CC(=C2)Cl)N3C(=NN=C3C4CCN(CC4)C5=CC=CC=N5)C1
 Titanium disulfide	S=[Ti]=S
 Galeterone	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4N5C=NC6=CC=CC=C65)C)O
 Esuprone	O=S(=O)(Oc2ccc\1c(OC(=O)/C(=C/1C)C)c2)CC
-Caffeine (data page)	Cn1cnc2c1c(=O)n(c(=O)n2C)C
 Canertinib	Fc1ccc(cc1Cl)Nc4ncnc3cc(OCCCN2CCOCC2)c(NC(=O)\C=C)cc34
 Withaferin A	O=C/1O[C@H](CC(=C\1CO)\C)[C@@H](C)[C@H]6CC[C@@H]4[C@]6(C)CC[C@@H]3[C@]5(C(=O)\C=C/[C@H](O)[C@]52O[C@@H]2C[C@H]34)C
 Trisulfane	SSS
@@ -19211,3 +19210,4 @@ ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
 (Trimethylsilyl)methyl chloride	C[Si](C)(C)CCl
 Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 1,1,6-Trimethyl-1,2-dihydronaphthalene	CC1=CC2=C(C=C1)C(CC=C2)(C)C
+Lithium arsenide	[Li][As]
