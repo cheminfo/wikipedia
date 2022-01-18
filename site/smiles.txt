@@ -19108,7 +19108,7 @@ Trifluoroacetonitrile	FC(F)(F)C#N
 Sodium ozonide	[Na+].[O-]O[O]
 Alanyl-glutamine	CC(C(=O)NC(CCC(=O)N)C(=O)O)N
 Alanyl-glutamine	C[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)N
-Methylammonium tin halide	C[NH3+].[SnH2+2].[I-].[I-].[I-]
+Methylammonium tin halide	C[NH3+].[SnH2+2].[Br-].[Br-].[Br-]
 Turkesterone	C[C@]12C[C@H]([C@H]3C(=CC(=O)[C@H]4[C@@]3(C[C@@H]([C@@H](C4)O)O)C)[C@@]1(CC[C@@H]2[C@](C)([C@@H](CCC(C)(C)O)O)O)O)O
 Silver chlorite	[O-]Cl=O.[Ag+]
 Nickel niobate	[Ni+2].O=[Nb](=O)[O-].O=[Nb](=O)[O-]
@@ -19214,3 +19214,5 @@ Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 Lithium arsenide	[Li][As]
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
 Curium(III) chloride	Cl[Cm](Cl)Cl
+Lithium lactate	[Li+].CC(C(=O)[O-])O
+Manganese lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Mn+2]
