@@ -937,7 +937,6 @@ Denatonium	[O-]C(=O)c1ccccc1.Cc2cccc(C)c2NC(=O)C[N+](CC)(CC)Cc3ccccc3
 Nifedipine	O=C(OC)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C
 Potassium bitartrate	[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O.[K+]
 Roxithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](O)(C)[C@H](O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)[C@H]([C@H](O[C@@H]2O[C@H]([C@H](O)[C@](OC)(C2)C)C)[C@H]3C)C)C
-Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
 Methyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C
 Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
@@ -3066,7 +3065,7 @@ Tributyltin oxide	CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC
 Dibutyl ether	CCCCOCCCC
 Glyoxal	O=CC=O
 Glycin	O=C(O)CNc1ccc(O)cc1
-1-Propanol	CCCO
+Propan-1-ol	CCCO
 Temocillin	O=C(O)[C@@H]2N3C(=O)[C@@](OC)(NC(=O)C(c1ccsc1)C(=O)O)[C@H]3SC2(C)C
 Peramivir	CCC(CC)[C@@H]([C@H]1[C@@H](C[C@@H]([C@H]1O)C(=O)O)NC(=N)N)NC(=O)C
 Diisopropyl fluorophosphate	FP(=O)(OC(C)C)OC(C)C
@@ -10796,7 +10795,7 @@ Mesquitol	Oc1ccc(cc1O)[C@H]3Oc2c(O)c(O)ccc2C[C@@H]3O
 Syringetin	COc1cc(cc(OC)c1O)C=3Oc2cc(O)cc(O)c2C(=O)C=3O
 Laricitrin	O=C1c3c(O/C(=C1/O)c2cc(O)c(O)c(OC)c2)cc(O)cc3O
 Lilial	CC(CC1=CC=C(C=C1)C(C)(C)C)C=O
-Poriol	Oc1ccc(cc1)C2CC(=O)c3c(O)c(C)c(O)cc3O2
+Poriol	CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC=C(C=C3)O)O
 Retusin (flavonol)	COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC)O)OC)OC
 Retusin (isoflavone)	COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3O)O
 Amiflamine	N(c1cc(c(cc1)C[C@@H](N)C)C)(C)C
@@ -16787,6 +16786,7 @@ Androsterone sulfate	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O
 Thelephantins	CCCC(=O)OC1=C(C(=C(C(=C1O)C2=CC=C(C=C2)O)OC(=O)C3=CC=C(C=C3)O)O)C4=CC=C(C=C4)O
 Thelephantins	CCCCCC(=O)OC1=C(C(=C(C(=C1C2=CC=C(C=C2)O)O)OC(=O)C3=CC=C(C=C3)O)C4=CC=C(C=C4)O)O
 Thelephantins	CC(C)C(C)CC(=O)OC1=C(C(=C(C(=C1C2=CC=C(C=C2)O)O)OC(=O)C3=CC=C(C=C3)O)C4=CC=C(C=C4)O)O
+Thelephantins	CCCC(=O)OC1=C(C(=C(C(=C1C2=CC=C(C=C2)O)O)OC(=O)CC3=CC=CC=C3)C4=CC=C(C=C4)O)O
 Cyclovariegatin	C1=CC(=O)C(=O)C=C1C2=C(C3=C(C4=CC(=C(C=C4O3)O)O)C(=C2O)O)O
 Androstenediol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
 2-Aminobenzaldehyde	C1=CC=C(C(=C1)C=O)N
@@ -19211,8 +19211,10 @@ ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
 (Trimethylsilyl)methyl chloride	C[Si](C)(C)CCl
 Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 1,1,6-Trimethyl-1,2-dihydronaphthalene	CC1=CC2=C(C=C1)C(CC=C2)(C)C
+3,5-Difluoro-4-hydroxybenzylidene imidazolidinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
 Lithium arsenide	[Li][As]
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
+3,5-Difluoromethcathinone	CC(C(=O)C1=CC(=CC(=C1)F)F)NC
 Curium(III) chloride	Cl[Cm](Cl)Cl
 Lithium lactate	[Li+].CC(C(=O)[O-])O
 Manganese lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Mn+2]
@@ -19220,3 +19222,4 @@ Silver lactate	[Ag+].[O-]C(C(=O)O)C
 Cobalt lactate	CC(C(=O)O)O.CC(C(=O)O)O.[Co]
 Desmethylsibutramine	CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)NC
 Cobalt arsenide	[As]#[Co]
+Cadmium lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Cd+2]
