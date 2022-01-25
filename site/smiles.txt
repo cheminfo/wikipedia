@@ -18499,7 +18499,7 @@ Distearoylphosphatidylcholine	O=C(OC[C@@H](OC(=O)CCCCCCCCCCCCCCCCC)COP([O-])(=O)
 NED-19	COC1=C(C=C(C=C1)[C@@H]2C3=C(C[C@H](N2)C(=O)O)C4=CC=CC=C4N3)CN5CCN(CC5)C6=CC=CC=C6F
 Voxtalisib	CCN1C2=NC(=NC(=C2C=C(C1=O)C3=CC=NN3)C)N
 4C-B	CCC(CC1=CC(=C(C=C1OC)Br)OC)N
-Mecysteine	COC(=O)C(CS)N
+Cysteine methyl ester	COC(=O)C(CS)N
 NV-5440	CC1=CC(=C(C=C1CN2CCN(CC2)C3=CC=CC=C3C#N)C(=O)N4CCN(CC4)C5=CC=CC=C5S(=O)(=O)N)C
 WYE-687	COC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCN(CC4)CC5=CN=CC=C5)C(=N2)N6CCOCC6
 XL-388	CC1=C(C=CC(=C1F)S(=O)(=O)C)C(=O)N2CCOC3=C(C2)C=C(C=C3)C4=CN=C(C=C4)N
@@ -19225,3 +19225,5 @@ Cobalt arsenide	[As]#[Co]
 Cadmium lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Cd+2]
 Europium(II) oxide	[O-2].[Eu+2]
 Zinc lactate	CC(C(=O)O)O.CC(C(=O)O)O.[Zn]
+Aluminium lactate	CC(C(=O)O[Al](OC(=O)C(C)O)OC(=O)C(C)O)O
+Glycine methyl ester hydrochloride	COC(=O)CN.Cl
