@@ -15608,6 +15608,7 @@ Bevenopran	COC1=C(C=CC(=C1)CNCCC2CCOCC2)OC3=NC=C(N=C3)C(=O)N
 Roluperidone	C1CN(CCC1CN2CC3=CC=CC=C3C2=O)CC(=O)C4=CC=C(C=C4)F
 Alectinib	CCc1cc2c(cc1N3CCC(CC3)N4CCOCC4)C(c5c(c6ccc(cc6[nH]5)C#N)C2=O)(C)C
 Di-tert-butyl chromate	O([Cr](OC(C)(C)C)(=O)=O)C(C)(C)C
+Pevonedistat	C1CC2=CC=CC=C2[C@H]1NC3=C4C=CN(C4=NC=N3)[C@@H]5C[C@H]([C@H](C5)O)COS(=O)(=O)N
 Flazasulfuron	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2c(cccn2)C(F)(F)F)OC
 3,3-Dimethyl-1-butanol	CC(C)(C)CCO
 Pexidartinib	ClC=1C=C2C(=NC1)NC=C2CC=2C=CC(=NC2)NCC=2C=NC(=CC2)C(F)(F)F
@@ -19229,3 +19230,4 @@ Aluminium lactate	CC(C(=O)O[Al](OC(=O)C(C)O)OC(=O)C(C)O)O
 Glycine methyl ester hydrochloride	COC(=O)CN.Cl
 H4-CBD	Oc1c(c(O)cc(c1)CCCCC)C2\CC(/CCC2\C(C)C)C
 Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
+5-Fluoro-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
