@@ -10193,6 +10193,7 @@ Trinitromethane	C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
 Trinitromethane	C(=[N+]([O-])[O-])([N+](=O)[O-])[N+](=O)[O-]
 Propargite	O=S(OCC#C)OC2CCCCC2Oc1ccc(cc1)C(C)(C)C
 1,2-Butanediol	OCC(O)CC
+Trifluorooxonium	F[O+](F)F
 Astilbin	O=C3c4c(O)cc(O)cc4O[C@H](c1ccc(O)c(O)c1)[C@H]3O[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
 Smitilbin	Cc1cc(c2c(c1)O[C@@H]([C@@H](C2=O)O[C@H]3[C@@H]([C@@H]([C@H]([C@@H](O3)C)O)O)O)c4cc(cc(c4)O)O)C
 Xeractinol	c1c(cc(cc1O)O)[C@@H]2[C@H](C(=O)c3c(cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O2)O
@@ -19233,3 +19234,5 @@ Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
 5-Fluoro-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)F
+6-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=CC(=C2)F
+S-217622	Cn1cnc(CN2C(=O)N(Cc3cc(F)c(F)cc3F)C(=N\c3cc4cn(C)nc4cc3Cl)\NC2=O)n1
