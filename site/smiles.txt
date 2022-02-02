@@ -19235,4 +19235,6 @@ Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
 5-Fluoro-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 6-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=CC(=C2)F
+Magnesium cyanide	[C-]#N.[C-]#N.[Mg+2]
 S-217622	Cn1cnc(CN2C(=O)N(Cc3cc(F)c(F)cc3F)C(=N\c3cc4cn(C)nc4cc3Cl)\NC2=O)n1
+Tert-Butyl nitrite	CC(C)(C)ON=O
