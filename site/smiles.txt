@@ -13398,7 +13398,7 @@ Diphenyl-2-pyridylmethane	n1ccccc1C(c2ccccc2)c3ccccc3
 Hydroprene	O=C(OCC)\C=C(\C=C\CC(C)CCCC(C)C)C
 Azamethiphos	O=P(OC)(OC)SCN1c2ncc(Cl)cc2OC1=O
 Isoxanthohumol	O=C2c3c(O[C@H](c1ccc(O)cc1)C2)c(c(O)cc3OC)C\C=C(/C)C
-Kushenin	COC1=C(C=C2C(=C1)C3COC4=C(C3O2)C=CC(=C4)O)O
+Kushenin	COC1=C(C=C2C(=C1)[C@@H]3COC4=C([C@@H]3O2)C=CC(=C4)O)O
 Halostachine	O[C@@H](CNC)C1=CC=CC=C1
 Nithiazine	O=[N+](C=C1SCCCN1)[O-]
 Coronatine	O=C(O)[C@@]3(NC(=O)/C1=C/[C@@H](C[C@@H]2C(=O)CC[C@H]12)CC)[C@@H](CC)C3
@@ -13435,7 +13435,7 @@ Zicronapine	Clc1ccc4c(c1)[C@H](N2CC(N(C)CC2)(C)C)C[C@H]4c3ccccc3
 Iron(II) hydride	[FeH2]
 Stictic acid	O=C1OC(O)C2=C3C(OC(C(C(C)=CC(OC)=C4C=O)=C4O3)=O)=C(C)C(O)=C21
 Sodium ricinoleate	O[C@H](CCCCCC)C/C=C\CCCCCCCC([O-])=O.[Na+]
-Pterocarpin	COC1=CC2=C(C=C1)C3C(CO2)C4=CC5=C(C=C4O3)OCO5
+Pterocarpin	O(C)C=1C=C2C([C@]3([C@](C=4C(O3)=CC5=C(C4)OCO5)(CO2)[H])[H])=CC1
 Celastrol	CC1=C(C(=O)C=C2C1=CC=C3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4C[C@](CC5)(C)C(=O)O)C)C)C)C)O
 5-MAPB	CC(NC)CC1=CC(C=CO2)=C2C=C1
 Acetone azine	N(\N=C(/C)C)=C(\C)C
