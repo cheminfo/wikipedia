@@ -7992,8 +7992,7 @@ Dipotassium guanylate	O[C@H]1[C@@H](O)[C@H](N2C=NC3=C2NC(N)=NC3=O)O[C@@H]1COP([O
 5-Formamidoimidazole-4-carboxamide ribotide	C1=NC(=C(N1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)NC=O)C(=O)N
 Phosphoribosylaminoimidazolesuccinocarboxamide	O=C(O)C[C@@H](C(=O)O)NC(=O)c1ncn(c1N)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)COP(=O)(O)O
 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole	O=P(O)(O)OC[C@H]2O[C@@H](n1cnc(C(=O)O)c1N)[C@H](O)[C@@H]2O
-5'-Phosphoribosylformylglycinamidine	O[C@H]1[C@@H](O)[C@H](NC(=N)NC=O)O[C@@H]1OP(=O)(O)O
-5'-Phosphoribosylformylglycinamidine	C([C@@H]1[C@H]([C@H]([C@@H](O1)/N=C(/CNC=O)\N)O)O)OP(=O)(O)O
+5'-Phosphoribosylformylglycinamidine	C([C@@H]1[C@H]([C@H]([C@@H](O1)NC(=N)CNC=O)O)O)OP(=O)(O)O
 Glycineamide ribonucleotide	C([C@@H]1[C@H]([C@H]([C@@H](O1)NC(=O)CN)O)O)OP(=O)(O)O
 Manidipine	[O-][N+](=O)c1cccc(c1)C5C(/C(=O)OC)=C(\N\C(=C5\C(=O)OCCN4CCN(C(c2ccccc2)c3ccccc3)CC4)C)C
 Barnidipine	[O-][N+](=O)c1cccc(c1)[C@H]4C(/C(=O)OC)=C(\N\C(=C4\C(=O)O[C@H]3CCN(Cc2ccccc2)C3)C)C
