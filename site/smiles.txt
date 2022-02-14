@@ -11364,6 +11364,7 @@ Pentadecylic acid	O=C(O)CCCCCCCCCCCCCC
 Scandium monosulfide	[Sc].[S]
 Famprofazone	O=C2\C(=C(/N(N2c1ccccc1)C)CN(C(C)Cc3ccccc3)C)C(C)C
 PSI-6130	C[C@]1([C@@H]([C@H](O[C@H]1n2ccc(nc2=O)N)CO)O)F
+Carbonite (ion)	[C]([O-])[O-]
 Tafamidis	O=C(O)c3ccc1nc(oc1c3)-c2cc(Cl)cc(Cl)c2
 2-Methoxyethyl-18-methoxycoronaridinate	COCCOC(=O)C12CC(C4)CN(C2C4CCOC)CCc5c1[nH]c3ccccc35
 Cipargamin	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
@@ -16508,6 +16509,7 @@ Dimethylphosphine oxide	CP(=O)C
 Prochloraz	CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
 Linuron	CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
 Anordiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CC[C@@H]4[C@@]3(C[C@](C4)(C#C)O)C
+Thidiazuron	C1=CC=C(C=C1)NC(NC2=CN=NS2)=O
 Tesmilifene	CCN(CC)CCOC1=CC=C(C=C1)CC2=CC=CC=C2
 Sivifene	C1=CC(=O)C=CC1=C(C2=CC=C(C=C2)O)NNC3=C(C=C(C=C3)[N+](=O)[O-])[N+](=O)[O-]
 Zindoxifene	CCN1C2=C(C=C(C=C2)OC(=O)C)C(=C1C3=CC=C(C=C3)OC(=O)C)C
@@ -18003,8 +18005,6 @@ BTRX-335140	CCC1=CC2=C(C(=C(N=C2C(=C1)F)N3CCC(CC3)NC4CCOCC4)C5=NC(=NO5)C)C
 Stannocene	[cH-]1cccc1.[cH-]1cccc1.[Sn+2]
 EICAR (antiviral)	NC(=O)c1ncn(c1C#C)C2[C@H](O)[C@H](O)[C@H](O2)CO
 N-Nitrosoglyphosate	C(C(=O)O)N(CP(=O)(O)O)N=O
-Bempedoic acid/ezetimibe	CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O
-Bempedoic acid/ezetimibe	C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
 Cyclooctadiene iridium methoxide dimer	CO1[Ir](O([Ir]1(C)C)C)(C)C.C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1
 2,2'-Dipyridylamine	C1=CC=NC(=C1)NC2=CC=CC=N2
 Gefapixant	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)S(=O)(=O)N)OC
@@ -19252,3 +19252,6 @@ SCHEMBL5334361	COC1=CC(=CC=C1)OCC2=CC3=C(CCNCC3)C=C2
 3-Chlorobenzonitrile	C1=CC(=CC(=C1)Cl)C#N
 Hopeanol	COC(=O)[C@@]12C3=C(C(=CC(=C3)O)O)[C@@](C14C=CC(=O)C=C4)(C(=O)C5=C2C(=CC(=C5)O)O)C6=CC=C(C=C6)O
 Hopeahainol A	C1=CC(=CC=C1[C@@H]2[C@H](C3=C4[C@H]([C@@H](OC4=CC(=C3)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)[C@H]7[C@@H](C8=C(C=C(C=C8O)O)[C@H]9[C@@H](OC1=CC(=CC7=C91)O)C1=CC=C(C=C1)O)C1=CC=C(C=C1)O)O
+Bactobolin	C[C@@H](C(=O)N[C@@H]1[C@@H]2[C@H]([C@@H](CC(=C2C(=O)O[C@]1(C)C(Cl)Cl)O)O)O)N
+Molvizarin	CCCCCCCCCC[C@@H]([C@H]1CC[C@@H](O1)[C@H]2CC[C@@H](O2)[C@@H](CCCCCCCC[C@H](CC3=C[C@@H](OC3=O)C)O)O)O
+Cilofexor	C1CC1C2=C(C(=NO2)C3=C(C=CC=C3Cl)Cl)COC4=CC(=C(C=C4)C5(CN(C5)C6=NC=CC(=C6)C(=O)O)O)Cl
