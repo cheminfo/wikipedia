@@ -6115,7 +6115,7 @@ Deoxycytidine monophosphate	c1cn(c(=O)nc1N)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O
 Methylenedioxyallylamphetamine	C1=C2C(=CC=C1CC(C)NCC=C)OCO2
 Xanthosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=O)NC2=O
 Adenylosuccinate	C1=NC2=C(C(=N1)N[C@@H](CC(=O)O)C(=O)O)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O
-Phosphoribosylamine	C(C1C(C(C(O1)N)O)O)OP(=O)(O)O
+Phosphoribosylamine	C([C@@H]1[C@H]([C@H](C(O1)N)O)O)OP(=O)(O)O
 Febuxostat	N#Cc1c(OCC(C)C)ccc(c1)c2nc(c(s2)C(=O)O)C
 Tiazofurin	O=C(c1nc(sc1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)N
 1,2-Bis(dimethylarsino)benzene	C[As](C)c1ccccc1[As](C)C
@@ -6137,6 +6137,7 @@ Lithium carbide	[Li+].[Li+].[C-]#[C-]
 Bromodifluoromethane	BrC(F)F
 N-Acetylserotonin	CC(=O)NCCC1=CNC2=C1C=C(C=C2)O
 Ganoderic acid	OC(=O)[C@H](C)CC(=O)C[C@@H](C)[C@H]2C[C@H](O)[C@@]1(C)C/3=C(\C(=O)C[C@@]12C)[C@@]4(C)CCC(=O)[C@](C)(C)[C@@H]4C[C@@H]\3O
+Phosphoribosyl-N-formylglycineamide	C([C@@H]1[C@H]([C@H]([C@@H](O1)NC(=O)CNC=O)O)O)OP(=O)(O)O
 Glutamate-1-semialdehyde	C(CC(=O)O)[C@@H](C=O)N
 Diethylaminosulfur trifluoride	[F-].[F-].[F-].N[S+](CC)CC.CC[S+](N)CC.CC[S+](N)CC
 Diethylaminosulfur trifluoride	FS(F)(F)N(CC)CC
@@ -19235,7 +19236,7 @@ Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
 5-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 6-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=CC(=C2)F
 Magnesium cyanide	[C-]#N.[C-]#N.[Mg+2]
-S-217622	Cn1cnc(CN2C(=O)N(Cc3cc(F)c(F)cc3F)C(=N\c3cc4cn(C)nc4cc3Cl)\NC2=O)n1
+Ensitrelvir	Cn1cnc(CN2C(=O)N(Cc3cc(F)c(F)cc3F)C(=N\c3cc4cn(C)nc4cc3Cl)\NC2=O)n1
 Tert-Butyl nitrite	CC(C)(C)ON=O
 Tetraethylammonium trichloride	CC[N+](CC)(CC)CC.Cl[Cl-]Cl
 Triethylmethylammonium trichloride	CC[N+](CC)(CC)C.Cl[Cl-]Cl
