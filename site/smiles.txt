@@ -996,7 +996,7 @@ Cotinine	O=C2N(C)[C@H](c1cnccc1)CC2
 Phenylbutazone	O=C2N(c1ccccc1)N(C(=O)C2CCCC)c3ccccc3
 Chlorosarin	ClP(=O)(OC(C)C)C
 5,7-Dichlorokynurenic acid	C1=C(C=C2C(=C1Cl)C(=O)C=C(N2)C(=O)O)Cl
-Esomeprazole	COc1ccc2nc([nH]c2c1)S(=O)Cc1ncc(C)c(OC)c1C
+Esomeprazole	COc1ccc2nc([nH]c2c1)[S@](=O)Cc1ncc(C)c(OC)c1C
 Didanosine	O=C3/N=C\Nc1c3ncn1[C@@H]2O[C@@H](CC2)CO
 Zalcitabine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H](CC2)CO
 Stavudine	O=C1/C(=C\N(C(=O)N1)[C@@H]/2O[C@@H](\C=C\2)CO)C
