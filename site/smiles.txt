@@ -745,7 +745,7 @@ Cinnamaldehyde	c1ccc(cc1)/C=C/C=O
 Phalloidin	C[C@H]1C(=O)N[C@H]2Cc3c4ccccc4[nH]c3SC[C@H](C(=O)N5C[C@@H](C[C@H]5C(=O)N1)O)NC(=O)[C@H](NC(=O)C(NC(=O)[C@@H](NC2=O)C[C@](C)(CO)O)C)[C@H](C)O
 Levofloxacin	C[C@H]1COc2c3n1cc(c(=O)c3cc(c2N4CCN(CC4)C)F)C(=O)O
 Bradykinin	O=C(N[C@H](C(=O)N[C@H](C(=O)O)CCC/N=C(\N)N)Cc1ccccc1)[C@H]5N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@H]3N(C(=O)[C@H]2N(C(=O)[C@@H](N)CCC/N=C(\N)N)CCC2)CCC3)Cc4ccccc4)CO)CCC5
-Alpha-Aminobutyric acid	O=C(O)C(N)CC
+Α-Aminobutyric acid	O=C(O)C(N)CC
 Aminolevulinic acid	O=C(CN)CCC(=O)O
 Lindane	Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
 Misoprostol	CCCC[C@](C)(O)C/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC
@@ -5897,8 +5897,8 @@ N-Phenethyl-4-piperidinone	O=C2CCN(CCc1ccccc1)CC2
 Benzilic acid	O=C(O)C(O)(c1ccccc1)c2ccccc2
 Dimethylbenzylamine	N(C)(Cc1ccccc1)C
 Dodecylbenzene	c1ccccc1CCCCCCCCCCCC
-Beta-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)CO)([H])N[C@@]4=O)=O
-Gamma-Amanitin	CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H]2CS(=O)c3c(c4ccc(cc4[nH]3)O)C[C@@H](C(=O)NCC(=O)N1)NC(=O)[C@@H](NC(=O)[C@@H]5C[C@H](CN5C(=O)[C@@H](NC2=O)CC(=O)N)O)[C@@H](C)[C@H](C)O
+Β-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)CO)([H])N[C@@]4=O)=O
+Γ-Amanitin	CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H]2CS(=O)c3c(c4ccc(cc4[nH]3)O)C[C@@H](C(=O)NCC(=O)N1)NC(=O)[C@@H](NC(=O)[C@@H]5C[C@H](CN5C(=O)[C@@H](NC2=O)CC(=O)N)O)[C@@H](C)[C@H](C)O
 Roxarsone	Oc1ccc(cc1[N+](=O)[O-])[As](O)(O)=O
 Phenylarsonic acid	O[As](O)(=O)C1=CC=CC=C1
 Retapamulin	C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4C[C@H]5CC[C@@H](C4)N5C)C
@@ -8974,7 +8974,7 @@ Proamanullin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4CCC5)=O
 Clocortolone pivalate	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)COC(=O)C(C)(C)C)C)O)Cl)C)F
 Dexamethasone acefurate	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)OC(=O)C5=CC=CO5)C)O)F)C
 Methylprednisolone suleptanate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCCCCCC(=O)N(C)CCS(=O)(=O)O)O
-Epsilon-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)C)([H])N[C@@]4=O)=O
+Ε-Amanitin	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)[C@@H](O)C)([H])N[C@@]4=O)=O
 Amanullinic acid	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(O)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC(O)=C2)NC([C@@]([C@@H](C)CC)([H])N[C@@]4=O)=O
 Copper(I) hydroxide	[OH-].[Cu+]
 Amaninamide	O=C(NCC(N[C@@](C(NCC(N[C@@H](C3)C(N[C@@H](CC(N)=O)C(N5[C@H]4C[C@@H](O)C5)=O)=O)=O)=O)([H])[C@@H](C)CC)=O)[C@H](CC1=C(S3=O)NC2=C1C=CC=C2)NC([C@@]([C@@H](C)[C@@H](O)CO)([H])N[C@@]4=O)=O
@@ -12279,7 +12279,6 @@ PF-184563	CN1CC2=C(C=CC(=C2)Cl)N3C(=NN=C3C4CCN(CC4)C5=CC=CC=N5)C1
 Titanium disulfide	S=[Ti]=S
 Galeterone	C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4N5C=NC6=CC=CC=C65)C)O
 Esuprone	O=S(=O)(Oc2ccc\1c(OC(=O)/C(=C/1C)C)c2)CC
-Caffeine (data page)	Cn1cnc2c1c(=O)n(c(=O)n2C)C
 Canertinib	Fc1ccc(cc1Cl)Nc4ncnc3cc(OCCCN2CCOCC2)c(NC(=O)\C=C)cc34
 Withaferin A	O=C/1O[C@H](CC(=C\1CO)\C)[C@@H](C)[C@H]6CC[C@@H]4[C@]6(C)CC[C@@H]3[C@]5(C(=O)\C=C/[C@H](O)[C@]52O[C@@H]2C[C@H]34)C
 Trisulfane	SSS
