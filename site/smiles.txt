@@ -2017,8 +2017,8 @@ Fumonisin B1	O=C(O)CC(C(=O)O)CC(=O)OC(C(C)CCCC)C(OC(=O)CC(C(=O)O)CC(=O)O)CC(C)CC
 5-Nitro-2-propoxyaniline	[O-][N+](=O)c1ccc(OCCC)c(c1)N
 Palytoxin	NC[C@@H]1C[C@H]([C@H](O1)CC[C@H]1O[C@@H]2C[C@H](O[C@H]1C2)C[C@H]([C@@H](\C=C/[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@H]([C@H]([C@@H]([C@H](CCC(\C=C/C[C@H]([C@H]([C@@H](C/C=C/C=C\[C@H](C[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C[C@H]([C@@H](C[C@@H]2[C@H]([C@@H](C[C@H](O2)[C@@H]([C@@H](CC[C@@H](/C=C/[C@@H]([C@H](C[C@]2([C@@H]([C@@H]([C@H]([C@H](O2)C[C@H](CCCCCCC[C@]21C[C@H](C[C@]([C@H](O2)C[C@H](CCCCC[C@H]([C@@H]([C@@H]([C@H]([C@H](O)[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)C[C@@H]([C@@H](/C(=C/[C@@H](C[C@H]([C@@H](C(O)=N\C=C\C(=NCCCO)O)O)C)O)/C)O)O)O)O)O)O)O)O)O)C)(O1)C)C)O)O)O)O)O)O)C)O)O)O)O)O)O)O)O)O)O)O)O)O)O)=C)O)O)O)C)O)O)O)O)O)O
 Tranexamic acid	NC[C@@H]1CC[C@H](CC1)C(O)=O
-2-Butene	C/C=C\C
-2-Butene	C/C=C/C
+But-2-ene	C/C=C\C
+But-2-ene	C/C=C/C
 Benzoin (organic compound)	c1ccc(cc1)C(C(=O)c2ccccc2)O
 Daunorubicin	C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)C)O)N)O
 Desonide	O=C\1\C=C/[C@]2(/C(=C/1)CC[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)(C)C)C(=O)CO)C)C
@@ -19274,3 +19274,5 @@ Pinocarveol	CC1(C)[C@@H]2C[C@H]1C[C@H](O)C2=C
 2,4,6-Tri-tert-butylpyrimidine	CC(C)(C)C1=CC(=NC(=N1)C(C)(C)C)C(C)(C)C
 Norcycloartenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CCC35C2(C5)CC[C@@H]1O)C)[C@H](C)CCC=C(C)C)C
 N-Acetyldopamine	CC(=O)NCCC1=CC(=C(C=C1)O)O
+Psoromic acid	CC1=C(OC)C=C(C(O)=O)C(OC2=C3C(C)=CC(O)=C2C=O)=C1OC3=O
+Neodymium acetate	[Nd+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
