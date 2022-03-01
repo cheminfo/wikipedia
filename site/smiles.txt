@@ -12954,6 +12954,7 @@ JWH-196	CCCCCn1c(c(c2c1cccc2)Cc3cccc4c3cccc4)C
 Gold(III) iodide	I[Au](I)I
 Xenon monochloride	Cl[Xe]
 Diarsenic tetraiodide	I[As](I)[As](I)I
+Tetrasilane	[SiH3][SiH2][SiH2][SiH3]
 Silicon monosulfide	[Si]=S
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
 Digermane	[Ge][Ge]
@@ -19276,3 +19277,5 @@ Norcycloartenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CCC35C2(C5)CC[C@@H]1
 N-Acetyldopamine	CC(=O)NCCC1=CC(=C(C=C1)O)O
 Psoromic acid	CC1=C(OC)C=C(C(O)=O)C(OC2=C3C(C)=CC(O)=C2C=O)=C1OC3=O
 Neodymium acetate	[Nd+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
+Isononyl alcohol	CC(C)CCCCCCO
+Lophenol	C[C@@H]1[C@H](CC[C@]2([C@H]1CC=C3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4[C@H](C)CCCC(C)C)C)C)O
