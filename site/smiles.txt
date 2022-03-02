@@ -10235,6 +10235,7 @@ Melacacidin	Oc1ccc(cc1O)[C@H]3Oc2c(O)c(O)ccc2[C@@H](O)[C@H]3O
 Leucodelphinidin	C1=C(C=C(C(=C1O)O)O)C2C(C(C3=C(C=C(C=C3O2)O)O)O)O
 Dimethyldioctadecylammonium bromide	CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Br-]
 Progoitrin	OC[C@H]1O[C@@H](SC(C[C@@H](O)C=C)=NOS(O)(=O)=O)[C@H](O)[C@@H](O)[C@@H]1O
+Dialdehyde starch	CC(C=O)C(CC(C=O)OC)CO
 Pipermethystine	O=C(N1C(=O)\C=C/[C@H](OC(=O)C)C1)CCc2ccccc2
 Dihydrokavain	COC1=CC(=O)OC(C1)CCC2=CC=CC=C2
 Yangonin	COC1=CC=C(C=C1)/C=C/C2=CC(=CC(=O)O2)OC
@@ -19127,6 +19128,7 @@ Citramalic acid	C[C@@](CC(=O)O)(C(=O)O)O
 Lithium telluride	[Li][Te][Li]
 Hexadecanal	CCCCCCCCCCCCCCCC=O
 6β-Hydroxycortisol	C1[C@@]2([C@@]([C@@]3(C([C@@H]1O)=CC(CC3)=O)C)([C@H](C[C@@]4([C@@](CC[C@@]24[H])(O)C(CO)=O)C)O)[H])[H]
+BOLD-100	C1=CC=C2C(=C1)C=NN2.C1=CC=C2C(=C1)C=NN2.[Na+].Cl[Ru](Cl)(Cl)Cl
 Nitrogen pentahydride	[NH5]
 Nitrogen pentahydride	[H-].[NH4+]
 Caesium sesquioxide	[Cs+].[Cs+].[Cs+].[Cs+].[O-][O].[O-][O].[O-][O-]
@@ -19277,5 +19279,6 @@ Norcycloartenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CCC35C2(C5)CC[C@@H]1
 N-Acetyldopamine	CC(=O)NCCC1=CC(=C(C=C1)O)O
 Psoromic acid	CC1=C(OC)C=C(C(O)=O)C(OC2=C3C(C)=CC(O)=C2C=O)=C1OC3=O
 Neodymium acetate	[Nd+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
+Dodecamethylcyclohexasilane	C[Si]1([Si]([Si]([Si]([Si]([Si]1(C)C)(C)C)(C)C)(C)C)(C)C)C
 Isononyl alcohol	CC(C)CCCCCCO
 Lophenol	C[C@@H]1[C@H](CC[C@]2([C@H]1CC=C3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4[C@H](C)CCCC(C)C)C)C)O
