@@ -15064,7 +15064,7 @@ Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 17α-Estradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
 Tropoflavin	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
-Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
+1,2-Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
 Lithium helium	[He].[Li]
 Erysodienone	COC1=C(C=C2CCN3CCC4=CC(=O)C(=C[C@@]43C2=C1)OC)O
@@ -18388,7 +18388,7 @@ Dapansutrile	CS(=O)(=O)CCC#N
 AGH-192	CCN1C=NC=C1C2=CNC3=C2C(=C(C=C3)I)F
 JNJ-18038683	C1CNCCC2=C1C(=NN2CC3=CC=CC=C3)C4=CC=C(C=C4)Cl
 Selenium mustard	C(C[Se]CCCl)Cl
-Phenylacetylrinvanil	CCCCCC[C@H](C/C=C\CCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC)C(=O)CC2=CC=CC=C2
+Phenylacetylrinvanil	CCCCCC[C@H](C/C=C\CCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC)OC(=O)CC2=CC=CC=C2
 GRC-6211	C1CC2(C1)C[C@H](C3=C(O2)C=CC(=C3)F)NC(=O)NC4=CC=CC5=C4C=CN=C5
 Ammonia (13N)	[13NH3]
 GSK1016790A	CC(C)C[C@H](NC(C1=CC2=CC=CC=C2S1)=O)C(N3CCN(CC3)C([C@H](CO)NS(=O)(C4=C(Cl)C=C(Cl)C=C4)=O)=O)=O
@@ -19282,3 +19282,8 @@ Neodymium acetate	[Nd+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
 Dodecamethylcyclohexasilane	C[Si]1([Si]([Si]([Si]([Si]([Si]1(C)C)(C)C)(C)C)(C)C)(C)C)C
 Isononyl alcohol	CC(C)CCCCCCO
 Lophenol	C[C@@H]1[C@H](CC[C@]2([C@H]1CC=C3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4[C@H](C)CCCC(C)C)C)C)O
+1,5-Bis(diphenylphosphino)pentane	C1=CC=C(C=C1)P(CCCCCP(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
+Diallylamine	C=CCNCC=C
+Tris(hydroxymethyl)phosphine	C(O)P(CO)CO
+4-Ethylphenyl sulfate	CCC1=CC=C(C=C1)OS(=O)(=O)O
+3,5,5-trimethyl-1-hexanol	CC(CCO)CC(C)(C)C
