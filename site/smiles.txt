@@ -70,7 +70,6 @@ Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	n1cnccc1
 Phosphate	[O-]P([O-])([O-])=O
-Phosphate	[O-][P+]([O-])([O-])[O-]
 Peroxide	[O-][O-]
 Pyridine	c1ccncc1
 Phenol	Oc1ccccc1
@@ -18822,7 +18821,7 @@ Neodymium(II) chloride	[Cl-].[Cl-].[Nd+2]
 Rhodium(III) hydroxide	[OH-].[OH-].[OH-].[Rh+3]
 RAC 421-II	CCNCCCN1C(=O)CC2(C1=O)CCCC3=CC=CC=C23
 Maleic hydrazide	C1=CC(=O)NNC1=O
-MXiPr	CC(C)NC1(CCCCC1=O)c1cccc(OC)c1
+Methoxisopropamine	CC(C)NC1(CCCCC1=O)c1cccc(OC)c1
 3-Methyl-PCP	CC1=CC(=CC=C1)C2(CCCCC2)N3CCCCC3
 Dysprosium(II) chloride	[Cl-].[Cl-].[Dy]
 Iron(II) tetrafluoroborate	[B-](F)(F)(F)F.[B-](F)(F)(F)F.[Fe+2]
