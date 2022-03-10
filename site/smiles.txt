@@ -4231,7 +4231,7 @@ MCPO	COC(=O)C1=C(OC(=O)C(=O)OC2=C(C=CC=C2)C(=O)OC)C=CC=C1
 Homatropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(O)c2ccccc2
 Cresol Red	Cc1cc(ccc1O)/C(=C/2C=CC(=O)C(=C2)C)c3ccccc3OS(O)=O
 Bentiromide	O=C(O)c1ccc(cc1)NC(=O)[C@@H](NC(=O)c2ccccc2)Cc3ccc(O)cc3
-Α-Tocopherol	Cc1c(c2c(c(c1O)C)CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C
+Alpha-Tocopherol	Cc1c(c2c(c(c1O)C)CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C
 Potassium adipate	C(CCC(=O)[O-])CC(=O)[O-].[K+].[K+]
 Sodium adipate	[Na+].[Na+].[O-]C(=O)CCCCC(=O)[O-]
 Cordycepin	O[C@@H]1C[C@@H](CO)O[C@H]1N2C(N=CN=C3N)=C3N=C2
@@ -5675,8 +5675,8 @@ Potassium phthalimide	C1=CC=C2C(=C1)C(=O)[N-]C2=O.[K+]
 Gaboxadol	O=C1/C2=C(\ON1)CNCC2
 CGS-21680	O=C(O)CCc1ccc(cc1)CCNc2nc(c3ncn(c3n2)[C@@H]4O[C@H](C(=O)NCC)[C@@H](O)[C@H]4O)N
 Norepinephrine	NC[C@H](O)c1cc(O)c(O)cc1
-Γ-Tocopherol	C[C@H](CCC[C@H](C)CCCC(C)C)CCC[C@@]2(C)OC1=C(C)C(C)=C(O)C=C1CC2
-Δ-Tocopherol	Oc2cc(c1O[C@](CCc1c2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C
+Gamma-Tocopherol	C[C@H](CCC[C@H](C)CCCC(C)C)CCC[C@@]2(C)OC1=C(C)C(C)=C(O)C=C1CC2
+Delta-Tocopherol	Oc2cc(c1O[C@](CCc1c2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C
 Enrofloxacin	O=C(O)\C3=C\N(c2cc(N1CCN(CC)CC1)c(F)cc2C3=O)C4CC4
 4-tert-Butylcatechol	Oc1ccc(cc1O)C(C)(C)C
 Amodiaquine	Clc1cc2nccc(c2cc1)Nc3cc(c(O)cc3)CN(CC)CC
