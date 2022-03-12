@@ -14235,7 +14235,7 @@ Tripchlorolide	CC(C)[C@@]1([C@@H]([C@H]2[C@@]3(O2)[C@]4(CCC5=C([C@@H]4C[C@H]6[C@
 Tripdiolide	CC(C)[C@@]12[C@@H](O1)[C@H]3[C@@]4(O3)[C@]5(C[C@@H](C6=C([C@@H]5C[C@H]7[C@]4([C@@H]2O)O7)COC6=O)O)C
 Triptolidenol	C[C@]12CCC3=C([C@@H]1C[C@H]4[C@@]5([C@@]26[C@@H](O6)[C@H]7[C@@]([C@H]5O)(O7)C(C)(C)O)O4)COC3=O
 Nerolic acid	CC(=CCC/C(=C/C(=O)O)/C)C
-1,4-Cycloheptadiene	C1CC=CCC=C1
+Cyclohepta-1,4-diene	C1CC=CCC=C1
 Furonazide	C/C(=N/NC(=O)c1ccncc1)/c2ccco2
 Dimethylbenzimidazole	CC1=CC2=C(C=C1C)N=CN2
 Hydrofuramide	C1=COC(=C1)/C=N/C(/N=C/C2=CC=CO2)C3=CC=CO3
@@ -19288,6 +19288,7 @@ Tris(hydroxymethyl)phosphine	C(O)P(CO)CO
 3,5,5-Trimethyl-1-hexanol	CC(CCO)CC(C)(C)C
 Zeorin	C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(C[C@@H]([C@@H]5[C@@]4(CCCC5(C)C)C)O)C)C)C(C)(C)O
 Sunobinop	O=C(O)C1=NC=2C=CC=CC2N(C1=O)C3CC4N(C(CCC4)C3)C5CC6CCCC(C5)C6
+2,2’,3,3’,4,4’-hexachlorobiphenyl	C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl
 Obafluorin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H]2[C@H](OC2=O)CC3=CC=C(C=C3)[N+](=O)[O-]
 Xylitol pentacetate	CC(=O)OCC(C(C(COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
 Erucin	CSCCCCN=C=S
