@@ -10296,6 +10296,7 @@ Azalein	CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)OC)O)C4=CC(=C(C=C4)O)O)O)O)O
 3-Hydroxyflavone	O=C1c3c(O/C(=C1/O)c2ccccc2)cccc3
 Robinose	O(C[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O)[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
 Chromium(III) nicotinate	[Cr+3].[O-]C(=O)c1cccnc1.[O-]C(=O)c1cccnc1.[O-]C(=O)c1cccnc1
+Fuscin	CC1C2=C(C(=O)C3=C(C2=CC(=O)O1)CCC(O3)(C)C)O
 Pyrimidinylpiperazine	n1cccnc1N2CCNCC2
 3-Methylamphetamine	c1ccc(C)cc1CC(C)N
 3-Fluoroamphetamine	Fc1cccc(c1)CC(C)N
@@ -19288,8 +19289,10 @@ Tris(hydroxymethyl)phosphine	C(O)P(CO)CO
 3,5,5-Trimethyl-1-hexanol	CC(CCO)CC(C)(C)C
 Zeorin	C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(C[C@@H]([C@@H]5[C@@]4(CCCC5(C)C)C)O)C)C)C(C)(C)O
 Sunobinop	O=C(O)C1=NC=2C=CC=CC2N(C1=O)C3CC4N(C(CCC4)C3)C5CC6CCCC(C5)C6
-2,2’,3,3’,4,4’-hexachlorobiphenyl	C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl
+2,2',3,3',4,4'-Hexachlorobiphenyl	C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl
 Obafluorin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H]2[C@H](OC2=O)CC3=CC=C(C=C3)[N+](=O)[O-]
 Xylitol pentacetate	CC(=O)OCC(C(C(COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
 Erucin	CSCCCCN=C=S
 Sarracenin	CC1C2C3CC(O1)OC2OC=C3C(=O)OC
+Fungerin	CC(=CCC1=C(N=CN1C)/C=C/C(=O)OC)C
+Fibrinopeptide	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NC(CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)N
