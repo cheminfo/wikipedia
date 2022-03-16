@@ -4736,7 +4736,6 @@ Boron sulfide	S=BSB=S
 Furazabol	O[C@@]5([C@@]4([C@H]([C@H]3[C@@H]([C@]2(Cc1nonc1C[C@@H]2CC3)C)CC4)CC5)C)C
 Iduronic acid	[O-]C(=O)[C@@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Terpinen-4-ol	CC1=CCC(CC1)(C(C)C)O
-Aldesulfone sodium	[Na+].[Na+].[O-]S(=O)CNc1ccc(cc1)S(=O)(=O)c2ccc(NCS([O-])=O)cc2
 Deoxycytidine triphosphate	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O
 Nitrosyl chloride	ClN=O
 Dabigatran	CCCCCCOC(=O)N=C(C1=CC=C(C=C1)NCC2=NC3=C(N2C)C=CC(=C3)C(=O)N(CCC(=O)OCC)C4=CC=CC=N4)N
@@ -11759,7 +11758,7 @@ Ruxolitinib	N#CCC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1
 Dibenz(a,j)anthracene	c35cc2ccc1ccccc1c2cc3c4ccccc4cc5
 AM-679 (FLAP inhibitor)	n5cc(OC)cnc5-c6ccc(cc6)Cn(c1CC(C)(C)C(=O)O)c4ccc(cc4c1SC(C)(C)C)OCC3Cc2ccccc2N3C(=O)C
 Sulfacytine	CCN1C=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC1=O
-Sulfoxone	OS(=O)CNc1ccc(cc1)S(=O)(=O)c2ccc(NCS(=O)O)cc2
+Sulfoxone	[Na+].[Na+].[O-]S(=O)CNc1ccc(cc1)S(=O)(=O)c2ccc(NCS([O-])=O)cc2
 Diphenyldichloromethane	c1ccc(cc1)C(c2ccccc2)(Cl)Cl
 GSK1360707F	COC[C@@]12C[C@@]1(CCNC2)c3ccc(c(c3)Cl)Cl
 Tetraphenylethylene	c1ccc(cc1)C(=C(c2ccccc2)c3ccccc3)c4ccccc4
@@ -19298,3 +19297,4 @@ Fungerin	CC(=CCC1=C(N=CN1C)/C=C/C(=O)OC)C
 Fungisporin	CC(C)[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=CC=C2)CC3=CC=CC=C3)C(C)C
 Fibrinopeptide	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NC(CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)N
 Gostatin	C1C(C(=O)C(=C(N1)C(=O)O)CC(=O)O)N
+2-Chloro-6-fluorobenzaldehyde	C1=CC(=C(C(=C1)Cl)C=O)F
