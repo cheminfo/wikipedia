@@ -17713,6 +17713,7 @@ Vanadium oxydichloride	[O-2].[Cl-].[Cl-].[V+4]
 Ulotaront	CNC[C@H]1C2=C(CCO1)C=CS2
 Trifluoromethyldeschloroketamine	CNC1(CCCCC1=O)C2=CC=CC=C2C(F)(F)F
 Fluoroethyl fluoroacetate	C(CF)OC(=O)CF
+Oxyfluorfen	CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
 Lecanoric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)O)O)O)O
 Umbilicaric acid	CC1=CC(=CC(=C1C(=O)OC2=CC(=C(C(=C2)C)C(=O)OC3=CC(=C(C(=C3)C)C(=O)O)O)O)OC)O
 Cis,cis-1,3,5-Triaminocyclohexane	C1[C@@H](C[C@@H](C[C@@H]1N)N)N
@@ -19298,5 +19299,6 @@ Fungisporin	CC(C)[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=CC=C
 Fibrinopeptide	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)NC(CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)N
 Gostatin	C1C(C(=O)C(=C(N1)C(=O)O)CC(=O)O)N
 2-Chloro-6-fluorobenzaldehyde	C1=CC(=C(C(=C1)Cl)C=O)F
+Actinobolin	CC1C(C2C(C(CC(=C2C(=O)O1)O)O)O)NC(=O)C(C)N
 Proroxan	C1CN(CC1C2=CC=CC=C2)CCC(=O)C3=CC4=C(C=C3)OCCO4
 Neodymium hydride	[NdH3]
