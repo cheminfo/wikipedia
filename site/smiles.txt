@@ -1087,7 +1087,7 @@ Benzyl alcohol	c1ccc(cc1)CO
 Ritonavir	CC(C)c4nc(CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc1ccccc1)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)cs4
 Linoleic acid	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O
 Technetium (99mTc) sestamibi	[99Tc-5](C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)(C#[N+]CC(C)(C)OC)C#[N+]CC(C)(C)OC
-Oxymorphone	O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(C)[C@@H]5C4
+Oxymorphone	CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5
 Coomassie brilliant blue	CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC.[Na+]
 Bromophenol blue	Brc1cc(cc(Br)c1O)C3(OS(=O)(=O)c2ccccc23)c4cc(Br)c(O)c(Br)c4
 Colistin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC1)[C@H](O)C)CCN)CCN)CC(C)C)CC(C)C)CCN)CCN)[C@H](O)C)CCN)CCCC(C)CC
@@ -5625,7 +5625,7 @@ Linolelaidic acid	O=C(O)CCCCCCC/C=C/C/C=C/CCCCC
 Metopon	O=C4[C@@]5(Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@H]3CC4)C)C
 HOT-2	CCSc1cc(OC)c(cc1OC)CCNO
 Uridine diphosphate glucose	O=P(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)(O)OP(=O)(O)OC[C@H]3O[C@@H](N2/C=C\C(=O)NC2=O)[C@H](O)[C@@H]3O
-Codeine	CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O
+Codeine	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O
 HOT-7	COc1cc(SCCC)c(cc1CCNO)OC
 HOT-17	CC(CC)Sc1cc(OC)c(cc1OC)CCNO
 Thymol blue	O=S2(=O)OC(c1ccccc12)(c3cc(c(O)cc3C)C(C)C)c4cc(c(O)cc4C)C(C)C
@@ -6373,7 +6373,7 @@ Eprazinone	CCOC(CN1CCN(CC1)CC(C)C(=O)C2=CC=CC=C2)C3=CC=CC=C3
 Carbocisteine	O=C(O)[C@@H](N)CSCC(=O)O
 Carbocisteine	O=C(O)C(N)CSCC(=O)O
 Levoverbenone	O=C1\C=C(/[C@@H]2C[C@H]1C2(C)C)C
-Guaiacolsulfonate	Oc1cccc(c1OC)S([O-])(=O)=O
+Guaiacolsulfonate	COc1cc(S(=O)(=O)O)ccc1O
 Antimony pentasulfide	S=[Sb](=S)S[Sb](=S)=S
 Rimcazole	C[C@@H]1CN(C[C@@H](N1)C)CCCN2C3=CC=CC=C3C4=CC=CC=C42
 Ferruginol	Oc1c(cc2c(c1)[C@]3(CCCC([C@@H]3CC2)(C)C)C)C(C)C
@@ -9782,7 +9782,7 @@ Thiopropazate	CC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
 Thioproperazine	CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C
 Butaperazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4)CCC
 Pipotiazine	CN(C)S(=O)(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
-Moperone	CC1=CC=C(C=C1)C2(CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)O
+Moperone	CC1=CC=C(C=C1)C1(O)CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1
 Prothipendyl	CN(C)CCCN1C2=CC=CC=C2SC3=C1N=CC=C3
 Clotiapine	Clc2ccc1Sc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
 Oxaflozane	O1CCN(C(C)C)CC1c2cc(C(F)(F)F)ccc2
@@ -19306,3 +19306,5 @@ Proroxan	C1CN(CC1C2=CC=CC=C2)CCC(=O)C3=CC4=C(C=C3)OCCO4
 Neodymium hydride	[NdH3]
 Neodymium iodide	I[Nd](I)I
 2-Chloro-6-fluorotoluene	CC1=C(C=CC=C1Cl)F
+Phosphorus dioxide	O=P[O]
+3,3-Bis(azidomethyl)oxetane	C1C(CO1)(CN=[N+]=[N-])CN=[N+]=[N-]
