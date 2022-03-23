@@ -2648,7 +2648,6 @@ Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
-Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
 Lutetium(III) oxide	[Lu+3].[O-2].[O-2].[Lu+3].[O-2]
 Ruthenium(III) chloride	Cl[Ru](Cl)Cl
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
@@ -19308,3 +19307,4 @@ Neodymium iodide	I[Nd](I)I
 2-Chloro-6-fluorotoluene	CC1=C(C=CC=C1Cl)F
 Phosphorus dioxide	O=P[O]
 3,3-Bis(azidomethyl)oxetane	C1C(CO1)(CN=[N+]=[N-])CN=[N+]=[N-]
+Neflumozide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC4=NOC5=C4C=CC(=C5)F
