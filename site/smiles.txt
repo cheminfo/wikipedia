@@ -2648,6 +2648,7 @@ Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
 Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
+Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
 Lutetium(III) oxide	[Lu+3].[O-2].[O-2].[Lu+3].[O-2]
 Ruthenium(III) chloride	Cl[Ru](Cl)Cl
 Ruthenium(III) chloride	[Cl-].[Cl-].[Cl-].[Ru+3]
@@ -9802,7 +9803,7 @@ Sulfadicramide	CC(=CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N)C
 Lodoxamide	C1=C(C=C(C(=C1NC(=O)C(=O)O)Cl)NC(=O)C(=O)O)C#N
 BRL-44408	N2CCN=C2CN(C1C)Cc3c1cccc3
 Phenylsilatrane	C1C[N+]23CCO[Si-]2(O1)(OCC3)C1=CC=CC=C1
-Heptafluorobutyric acid	OC(C(F)(F)C(F)(F)C(F)(F)F)=O
+Perfluorobutanoic acid	OC(C(F)(F)C(F)(F)C(F)(F)F)=O
 Tetraphenylporphyrin	C=9C=CC(C7=C1C=CC(=N1)C(C=2C=CC=CC=2)=C3C=CC(N3)=C(C=4C=CC=CC=4)C=5C=CC(N=5)=C(C=6C=CC=CC=6)C8=CC=C7N8)=CC=9
 Oxapium iodide	C[N+]1(CCCCC1)CC2COC(O2)(C3CCCCC3)C4=CC=CC=C4.[I-]
 Salvinorin B methoxymethyl ether	C[C@@]12CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]1C(=O)[C@H](C[C@H]2C(=O)OC)OCOC)C)C4=COC=C4
@@ -19308,3 +19309,4 @@ Neodymium iodide	I[Nd](I)I
 Phosphorus dioxide	O=P[O]
 3,3-Bis(azidomethyl)oxetane	C1C(CO1)(CN=[N+]=[N-])CN=[N+]=[N-]
 Neflumozide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC4=NOC5=C4C=CC(=C5)F
+2-Ethylhexyl glycidyl ether	O(CC1OC1)CC(CC)CCCC
