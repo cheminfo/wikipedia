@@ -19312,6 +19312,8 @@ Actinobolin	CC1C(C2C(C(CC(=C2C(=O)O1)O)O)O)NC(=O)C(C)N
 Phlebiarubrone	C1OC2=C(C(=O)C(=O)C(=C2O1)C3=CC=CC=C3)C4=CC=CC=C4
 Proroxan	C1CN(CC1C2=CC=CC=C2)CCC(=O)C3=CC4=C(C=C3)OCCO4
 Neodymium hydride	[NdH3]
+Neodymium nickelate	[Nd+3].[Ni+3].[O-2].[O-2].[O-2]
+Indeno(1,2,3-cd)pyrene	C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3
 Neodymium iodide	I[Nd](I)I
 2-Chloro-6-fluorotoluene	CC1=C(C=CC=C1Cl)F
 Phosphorus dioxide	O=P[O]
@@ -19320,4 +19322,6 @@ Neflumozide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC4=NOC5=C4C=CC(=C5)F
 2-Ethylhexyl glycidyl ether	O(CC1OC1)CC(CC)CCCC
 Lutetium (177Lu) vipivotide tetraxetan	[177Lu+3].OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)[C@H](Cc1ccc2ccccc2c1)NC(=O)[C@@H]3CC[C@@H](CNC(=O)CN4CCN(CC(=O)[O-])CCN(CC(=O)[O-])CCN(CC(=O)[O-])CC4)CC3)C(=O)O)C(=O)O
 Oxiperomide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCOC4=CC=CC=C4
+Diethyl toluene diamine	CCC1=C(C(=C(C(=C1)C)N)CC)N
 Funicin	CCOC(=O)C1=C(C=C(C=C1C)OC2=CC(=CC(=C2)O)C)O
+O-Cresyl glycidyl ether	CC1=CC=CC=C1OCC2CO2
