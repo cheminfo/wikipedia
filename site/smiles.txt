@@ -19165,6 +19165,7 @@ Neodymium phosphide	[Nd]#P
 Mesityl bromide	CC1=CC(=C(C(=C1)C)Br)C
 Europium(III) phosphide	P#[Eu]
 Niobium phosphide	P#[Nb]
+SYM-2081	C[C@H](C[C@@H](C(=O)O)N)C(=O)O
 2-Chlorobenzonitrile	C1=CC=C(C(=C1)C#N)Cl
 4-Chlorobenzonitrile	C1=CC(=CC=C1C#N)Cl
 Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
@@ -19316,9 +19317,13 @@ Neodymium nickelate	[Nd+3].[Ni+3].[O-2].[O-2].[O-2]
 Indeno(1,2,3-cd)pyrene	C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3
 Neodymium iodide	I[Nd](I)I
 2-Chloro-6-fluorotoluene	CC1=C(C=CC=C1Cl)F
+1,1'-Dilithioferrocene	[Li+].[Li+].[CH]1[CH][CH][C-][CH]1.[CH]1[CH][CH][C-][CH]1.[Fe]
+Bis(fulvalene)diiron	[CH-]1[CH-][CH-][C-]([CH-]1)[C-]2C=CC=C2.C1=C[C-](C=C1)[C-]2C=CC=C2.[Fe].[Fe]
 Phosphorus dioxide	O=P[O]
 3,3-Bis(azidomethyl)oxetane	C1C(CO1)(CN=[N+]=[N-])CN=[N+]=[N-]
 Neflumozide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC4=NOC5=C4C=CC(=C5)F
+Gadolinium(III) hydroxide	[OH-].[OH-].[OH-].[Gd+3]
+Perfluoropropionic acid	C(=O)(C(C(F)(F)F)(F)F)O
 2-Ethylhexyl glycidyl ether	O(CC1OC1)CC(CC)CCCC
 Lutetium (177Lu) vipivotide tetraxetan	[177Lu+3].OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)[C@H](Cc1ccc2ccccc2c1)NC(=O)[C@@H]3CC[C@@H](CNC(=O)CN4CCN(CC(=O)[O-])CCN(CC(=O)[O-])CCN(CC(=O)[O-])CC4)CC3)C(=O)O)C(=O)O
 Oxiperomide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCOC4=CC=CC=C4
