@@ -12349,6 +12349,7 @@ UR-144	CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3C(C3(C)C)(C)C
 Guaiene	C[C@H]1CCC2=C1C[C@H](C(C)=C)CC[C@@H]2C
 Guaiene	C[C@H]1CCC2=C1C/C(CC[C@@H]2C)=C(C)\C
 Guaiene	C[C@H]1CCC2=C(C)CC[C@@H](C(C)=C)C[C@]21[H]
+Tellurium dichloride	Cl[Te]Cl
 Julolidine	c13c2c(ccc1)CCCN2CCC3
 N-Phenylnaphthalen-1-amine	c3c(Nc1ccccc1)c2ccccc2cc3
 Umbellulone	O=C1\C=C(\C)C2C1(C(C)C)C2
@@ -19141,6 +19142,7 @@ Prenylthiol	CC(=CCS)C
 Kestose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O
 2-Hydroxybenzylamine	C1=CC=C(C(=C1)CN)O
 Gold(II) sulfate	[O-]S(=O)(=O)[O-].[Au+2]
+L-Photo-Methionine	CC1(N=N1)CC[C@@H](C(=O)O)N
 3-Hydroxyisonicotinaldehyde	c1cncc(c1C=O)O
 Himeic acid A	C[C@@H](CC(=O)NC(=O)C1=COC(=CC1=O)/C=C/CCCCCCCCC(=O)O)C(=O)O
 Hyrtioreticulin	C1[C@H](N[C@@H](C2=C1C3=C(N2)C=CC(=C3)O)CC4=CN=CN4)C(=O)O
@@ -19330,3 +19332,8 @@ Oxiperomide	C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCOC4=CC=CC=C4
 Diethyl toluene diamine	CCC1=C(C(=C(C(=C1)C)N)CC)N
 Funicin	CCOC(=O)C1=C(C=C(C=C1C)OC2=CC(=CC(=C2)O)C)O
 O-Cresyl glycidyl ether	CC1=CC=CC=C1OCC2CO2
+Tartronic acid semialdehyde	C(=O)C(C(=O)O)O
+Fusarubin	CC1(CC2=C(CO1)C(=C3C(=O)C=C(C(=O)C3=C2O)OC)O)O
+Methionol	CSCCCO
+S-Methyl thioacetate	CC(=O)SC
+Praseodymium acetate	[Pr+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
