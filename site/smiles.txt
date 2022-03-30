@@ -13063,7 +13063,7 @@ Silver cyanate	[Ag+].[O-]C#N
 JD5037	CC(C)[C@@H](C(=O)N)N/C(=N\S(=O)(=O)C1=CC=C(C=C1)Cl)/N2C[C@@H](C(=N2)C3=CC=C(C=C3)Cl)C4=CC=CC=C4
 Methoxyethylmercuric acetate	CC(=O)O[Hg]CCOC
 Methyl phenkapton	Clc1ccc(Cl)cc1SCSP(=S)(OC)OC
-Methylphosphonic acid dichloride	CP(=O)(Cl)Cl
+Methylphosphonyl dichloride	CP(=O)(Cl)Cl
 ATL-444	C#CCN1C=NC2=C1N=C(C#C[C@@]3(CCC[C@H](C3)C)O)N=C2N
 Methylmercuric dicyanamide	C[Hg]N=C(N)NC#N
 Metolcarb	O=C(Oc1cc(ccc1)C)NC
@@ -19142,7 +19142,7 @@ Prenylthiol	CC(=CCS)C
 Kestose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O
 2-Hydroxybenzylamine	C1=CC=C(C(=C1)CN)O
 Gold(II) sulfate	[O-]S(=O)(=O)[O-].[Au+2]
-L-Photo-Methionine	CC1(N=N1)CC[C@@H](C(=O)O)N
+L-Photo-methionine	CC1(N=N1)CC[C@@H](C(=O)O)N
 3-Hydroxyisonicotinaldehyde	c1cncc(c1C=O)O
 Himeic acid A	C[C@@H](CC(=O)NC(=O)C1=COC(=CC1=O)/C=C/CCCCCCCCC(=O)O)C(=O)O
 Hyrtioreticulin	C1[C@H](N[C@@H](C2=C1C3=C(N2)C=CC(=C3)O)CC4=CN=CN4)C(=O)O
@@ -19336,4 +19336,5 @@ Tartronic acid semialdehyde	C(=O)C(C(=O)O)O
 Fusarubin	CC1(CC2=C(CO1)C(=C3C(=O)C=C(C(=O)C3=C2O)OC)O)O
 Methionol	CSCCCO
 S-Methyl thioacetate	CC(=O)SC
-Praseodymium acetate	[Pr+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
+Praseodymium(III) acetate	[Pr+3].O=C([O-])C.[O-]C(=O)C.[O-]C(=O)C
+Aetokthonotoxin	C1=CC2=C(C=C1Br)C(=C(N2C3=C(C4=C(N3)C(=CC(=C4)Br)Br)C#N)Br)Br
