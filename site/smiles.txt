@@ -19343,8 +19343,9 @@ Neopentyl glycol diglycidyl ether	CC(C)(COCC1CO1)COCC2CO2
 Aetokthonotoxin	C1=CC2=C(C=C1Br)C(=C(N2C3=C(C4=C(N3)C(=CC(=C4)Br)Br)C#N)Br)Br
 Tetrabutylammonium triiodide	CCCC[N+](CCCC)(CCCC)CCCC.I[I-]I
 2-Acetylbutyrolactone	CC(=O)C1CCOC1=O
-LY3372689	CC(=O)NC1=NC(F)=C(S1)CN2CCC(CC(C)2)OCC3N=C(C)ON=3
+LY3372689	CC(NC1=NC(F)=C(CN2CC[C@H](OCC3=NOC(C)=N3)C[C@@H]2C)S1)=O
 Neodymium(III) sulfide	[S-2].[S-2].[S-2].[Nd+3].[Nd+3]
 Folipastatin	C/C=C(/C)\C1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=CC(=C3C)O)/C(=C\C)/C)C)O
 Neodymium(II) iodide	[I-].[I-].[Nd]
 Neodymium nitride	N#[Nd]
+2,4,6-Trinitrobenzoic acid	C1=C(C=C(C(=C1[N+](=O)[O-])C(=O)O)[N+](=O)[O-])[N+](=O)[O-]
