@@ -15544,6 +15544,9 @@ Relugolix	CONC(=O)Nc1ccc(-c2sc3c(c2CN(C)C)c(=O)n(-c2ccc(OC)nn2)c(=O)n3Cc2c(F)ccc
 Sufugolix	CONC(=O)Nc1ccc(-c2sc3c(c2CN(C)Cc2ccccc2)c(=O)n(-c2ccccc2)c(=O)n3Cc2c(F)cccc2F)cc1
 Antillatoxin	C[C@H]1[C@@H](OC(=O)CNC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CC1=C)C)C)C(C)C)/C(=C/C=C/C(C)(C)C)/C
 Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
+Bicyclononyne	C1CCC2CC2C#CC1
+Bicyclononyne	C1CC#CCC2CC2C1
+Bicyclononyne	C1CC2CC2CCC#C1
 Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 2-Bromomescaline	COC1=C(C(=C(C(=C1)CCN)Br)OC)OC
 Rimoprogin	c1(ncc(cn1)OCC#CI)SC
@@ -19133,6 +19136,7 @@ Lithium telluride	[Li][Te][Li]
 Hexadecanal	CCCCCCCCCCCCCCCC=O
 6β-Hydroxycortisol	C1[C@@]2([C@@]([C@@]3(C([C@@H]1O)=CC(CC3)=O)C)([C@H](C[C@@]4([C@@](CC[C@@]24[H])(O)C(CO)=O)C)O)[H])[H]
 BOLD-100	C1=CC=C2C(=C1)C=NN2.C1=CC=C2C(=C1)C=NN2.[Na+].Cl[Ru](Cl)(Cl)Cl
+Cannabigerovarin	CCCC1=CC(=C(C(=C1)O)C/C=C(\C)/CCC=C(C)C)O
 Nitrogen pentahydride	[NH5]
 Nitrogen pentahydride	[H-].[NH4+]
 Caesium sesquioxide	[Cs+].[Cs+].[Cs+].[Cs+].[O-][O].[O-][O].[O-][O-]
@@ -19296,9 +19300,14 @@ Tris(hydroxymethyl)phosphine	C(O)P(CO)CO
 Zeorin	C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(C[C@@H]([C@@H]5[C@@]4(CCCC5(C)C)C)O)C)C)C(C)(C)O
 Sunobinop	O=C(O)C1=NC=2C=CC=CC2N(C1=O)C3CC4N(C(CCC4)C3)C5CC6CCCC(C5)C6
 2,2',3,3',4,4'-Hexachlorobiphenyl	C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl
+Bourgeanic acid	CC[C@@H](C)C[C@@H](C)[C@@H]([C@H](C)C(=O)O[C@@H]([C@H](C)C[C@H](C)CC)[C@H](C)C(=O)O)O
 Obafluorin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H]2[C@H](OC2=O)CC3=CC=C(C=C3)[N+](=O)[O-]
-Xylitol pentacetate	CC(=O)OCC(C(C(COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+4-Chlorobenzaldehyde	C1=CC(=CC=C1C=O)Cl
+Xylitol pentacetate	CC(=O)OC[C@H](C([C@H](COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+Thamnolic acid	CC1=CC(=C(C(=C1C(=O)OC2=C(C(=C(C(=C2C)C(=O)O)O)C=O)O)O)C(=O)O)OC
 Erucin	CSCCCCN=C=S
+S-Nitrosotriphenylmethanethiol	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)SN=O
+Triallylamine	C=CCN(CC=C)CC=C
 Sarracenin	CC1C2C3CC(O1)OC2OC=C3C(=O)OC
 Frenolicin B	CCC[C@@H]1C2=C([C@@H]3[C@H](O1)CC(=O)O3)C(=O)C4=C(C2=O)C(=CC=C4)O
 Di-tert-butoxyacetylene	CC(C)(C)OC#COC(C)(C)C
@@ -19352,3 +19361,4 @@ Neodymium nitride	N#[Nd]
 Aigialomycin D	C[C@H]1C/C=C/[C@H]([C@H](CC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1)O)O
 1,4-Butanediol diglycidyl ether	C1C(O1)COCCCCOCC2CO2
 Xenon dioxydifluoride	O=[Xe](=O)(F)F
+Hexenuronic acid	COC1COC(C(C1O)OC2C(C(C=C(O2)C(=O)O)O)O)OC
