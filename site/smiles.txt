@@ -2303,7 +2303,7 @@ Zinc acetate	C/C1=[O]/[Zn]\35O/C(C)=[O+]\[Zn]\26\[O]=C(C)/O[Zn]4(O1)/[O]=C(C)\O[
 Telluric acid	O[Te](O)(O)(O)(O)O
 Latanoprost	O=C(OC(C)C)CCC/C=C\C[C@H]2[C@@H](O)C[C@@H](O)[C@@H]2CC[C@@H](O)CCc1ccccc1
 Vinorelbine	[H][C@]89C=C(CC)CN(Cc1c([nH]c2ccccc12)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@@]5([H])[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]7(CC)C=CCN6CC[C@]45[C@@]67[H])C8)C9
-Oxazolidinedione	O=C1NC(=O)OC1
+2,4-Oxazolidinedione	O=C1NC(=O)OC1
 Polidocanol	CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
 Clofarabine	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@@H]3F)CO)N
 Phenmetrazine	CC1C(C2=CC=CC=C2)OCCN1
@@ -15544,8 +15544,6 @@ Relugolix	CONC(=O)Nc1ccc(-c2sc3c(c2CN(C)C)c(=O)n(-c2ccc(OC)nn2)c(=O)n3Cc2c(F)ccc
 Sufugolix	CONC(=O)Nc1ccc(-c2sc3c(c2CN(C)Cc2ccccc2)c(=O)n(-c2ccccc2)c(=O)n3Cc2c(F)cccc2F)cc1
 Antillatoxin	C[C@H]1[C@@H](OC(=O)CNC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CC1=C)C)C)C(C)C)/C(=C/C=C/C(C)(C)C)/C
 Methoxypiperamide	COC1=CC=C(C=C1)C(=O)N2CCN(CC2)C
-Bicyclononyne	C1CCC2CC2C#CC1
-Bicyclononyne	C1CC#CCC2CC2C1
 Bicyclononyne	C1CC2CC2CCC#C1
 Sacubitrilat	C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O
 2-Bromomescaline	COC1=C(C(=C(C(=C1)CCN)Br)OC)OC
