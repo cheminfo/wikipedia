@@ -2486,6 +2486,8 @@ Anserine	O=C(O)[C@@H](NC(=O)CCN)Cc1cncn1C
 Chromium(III) oxide	O=[Cr]O[Cr]=O
 Aluminium bromide	Br[Al](Br)Br
 Aluminium bromide	Br[Al-]1(Br)[Br+][Al-]([Br+]1)(Br)Br
+Persulfate	[O-]OS(=O)(=O)[O-]
+Persulfate	[O-]S(=O)(=O)OOS(=O)(=O)[O-]
 Platinum hexafluoride	F[Pt](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
@@ -13336,7 +13338,6 @@ Tetraphlorethol C	c4c(O)cc(O)cc4Oc1c(O)cc(cc1O)Oc3c(O)cc(cc3O)Oc2c(O)cc(O)cc2O
 Tetrafucol A	Oc3cc(O)cc(O)c3-c4c(O)c(c(O)cc4O)-c(c1O)c(O)cc(O)c1-c2c(O)cc(O)cc2O
 Peroxynitric acid	[N+](=O)([O-])OO
 Lithium cyanide	[Li+].[C-]#N
-Sodium peroxynitrate	[Na+].[O-][N+](=O)O[O-]
 Oxathiazolones	O=C1OC=NS1
 Potassium pentasulfide	[K+].[K+].[S-]SSS[S-]
 8,8′-Bieckol	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=C(C(=C(C=C4O3)O)C5=C(C=C6C(=C5O)OC7=C(O6)C(=CC(=C7OC8=CC(=CC(=C8)O)O)O)O)O)O)O)O)O
@@ -19366,3 +19367,4 @@ Subpsoromic acid	CC1=CC(=C(C2=C1C(=O)OC3=CC(=CC(=C3O2)C(=O)O)OC)C=O)O
 Glycine N-carboxyanhydride	C1C(=O)OC(=O)N1
 Perfluorohexanoic acid	C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 2,4,6-Trichlorobenzoyl chloride	C1=C(C=C(C(=C1Cl)C(=O)Cl)Cl)Cl
+Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4
