@@ -10646,6 +10646,7 @@ Selank	NCCCCC(C(=O)N1CCCC1C(=O)NC(C(=O)N2CCCC2C(=O)NCC(=O)N3CCCC3C(=O)O)CCCNC(=N
 4-Me-αMT	CC(N)Cc2c1c([nH]c2)cccc1C
 Pivagabine	CC(C)(C)C(=O)NCCCC(O)=O
 Acefylline	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C
+Lenperone	C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCCC(=O)C3=CC=C(C=C3)F
 Demexiptiline	O(\N=C3/c1ccccc1\C=C/c2c3cccc2)CCNC
 Metapramine	CNC1CC2=C(C=CC=C2)N(C)C3=CC=CC=C31
 Noxiptiline	O(\N=C2\c1c(cccc1)CCc3c2cccc3)CCN(C)C
@@ -12342,7 +12343,7 @@ Lorediplon	O=C(c2cnn3c(c1ccc(F)c(N(C(=O)C)C)c1)ccnc23)c4sccc4
 Epelsiban	CC[C@H](C)[C@@H]1C(=O)N[C@@H](C(=O)N1[C@H](C2=C(N=C(C=C2)C)C)C(=O)N3CCOCC3)C4CC5=CC=CC=C5C4
 Validamycin	OC/C3=C/[C@H](N[C@H]2C[C@H](CO)[C@@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]3O
 Titanium ethoxide	CC[O-].CC[O-].CC[O-].CC[O-].[Ti+4]
-Suvorexant	Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CC[C@H]2C)c1
+Suvorexant	C[C@@H]1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl
 Biurea	NC(=O)NNC(N)=O
 3-Monoacetylmorphine	CC(=O)OC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4C)[C@@H](O2)[C@H](C=C5)O)C=C1
 Bismuth selenide	[Se-2].[Se-2].[Se-2].[Bi+3].[Bi+3]
@@ -13227,7 +13228,6 @@ Niobium(V) ethoxide	CCO[Nb](OCC)(OCC)(OCC)OCC
 Tantalum(V) ethoxide	[Ta+5].[O-]CC.[O-]CC.[O-]CC.[O-]CC.[O-]CC
 Cysmethynil	O=C(N)Cc2c1cc(ccc1n(c2)CCCCCCCC)c3cccc(c3)C
 Anpirtoline	C1CNCCC1SC2=NC(=CC=C2)Cl
-(1R,3R)-1,2,3-Trimethylcyclopentane	C[C@@H]1CC[C@H](C1C)C
 Magnesium oxalate	C(=O)(C(=O)[O-])[O-].[Mg+2]
 Propargyl bromide	BrCC#C
 Tungsten(IV) fluoride	F[W](F)(F)F
@@ -19368,3 +19368,5 @@ Glycine N-carboxyanhydride	C1C(=O)OC(=O)N1
 Perfluorohexanoic acid	C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 2,4,6-Trichlorobenzoyl chloride	C1=C(C=C(C(=C1Cl)C(=O)Cl)Cl)Cl
 Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4
+(Cycloheptatrienyl)(cyclopentadienyl)titanium	[CH-]1C=CC=C1.[CH-]1C=CC=CC=C1.[Ti+2]
+(Cycloheptatrienyl)(cyclopentadienyl)vanadium	C1C=CC=CC=[C-]1.[CH-]1C=CC=C1.[V+2]
