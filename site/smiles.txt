@@ -15230,7 +15230,7 @@ Propylene glycol methyl ether	CC(O)COC
 Di(propylene glycol) methyl ether	CCC(O)OCCCOC
 Boron monofluoride monoxide	B(=O)F
 Setmelanotide	C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)Cc2c[nH]c3c2cccc3)CCCN=C(N)N)Cc4ccccc4)Cc5cnc[nH]5
-Lemborexant	Cc1ncc(OCC2(c3cccc(F)c3)CC2C(=O)Nc2ccc(F)cn2)c(C)n1
+Lemborexant	CC1=NC(=NC=C1OC[C@]2(C[C@H]2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C
 4-Androstadienol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=C[C@H](CC[C@]34C)O
 Pisatin	COc1ccc2c(c1)OC[C@]3([C@@H]2Oc4c3cc5c(c4)OCO5)O
 ADX-71149	CCCCN1C=CC(=C(C1=O)Cl)N2CCC(CC2)C3=CC=CC=C3
@@ -19370,3 +19370,4 @@ Perfluorohexanoic acid	C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4
 (Cycloheptatrienyl)(cyclopentadienyl)titanium	[CH-]1C=CC=C1.[CH-]1C=CC=CC=C1.[Ti+2]
 (Cycloheptatrienyl)(cyclopentadienyl)vanadium	C1C=CC=CC=[C-]1.[CH-]1C=CC=C1.[V+2]
+Caesium superoxide	[Cs+].[O-][O]
