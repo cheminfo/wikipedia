@@ -13324,7 +13324,7 @@ Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
 (S)-iPr-PHOX	CC(C)[C@H]1COC(=N1)C2=CC=CC=C2P(C3=CC=CC=C3)C4=CC=CC=C4
 Cyclohexylacetone	O=C(CC1CCCCC1)C
 Calostomal	C(=C/C=C/C=C/C=C/C(=O)O)\C=C\C=C\C=C\C=O
-Lead (II) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[Pb+2]
+Lead(II) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[Pb+2]
 Cyclopropyl cyanide	N#CC1CC1
 Ethane-1,1-dithiol	SC(S)C
 Triacetic acid lactone	C/C1=CC(\O)=C/C(=O)O1
@@ -14887,6 +14887,7 @@ FGI-106	CN(C)CCCNc(c2ccc14)cc(C)nc2c1ccc3c4nc(C)cc3NCCCN(C)C
 LJ-001	c3ccccc3-c(cc2)oc2\C=C(\C1=O)/SC(=S)N1CC=C
 FGI-103	N=C(N)c4ccc3oc(C=Cc2nc1cc(C(=N)N)ccc1[nH]2)cc3c4
 Glycoluril	C12C(NC(=O)N1)NC(=O)N2
+Xenon fluoride nitrate	[O-][N+](=O)O[Xe]F
 Zirconium nitrate	[Zr+4].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
 BIT225	CN1C=C(C=N1)C2=CC=CC3=C2C=CC(=C3)C(=O)NC(=N)N
 L-Photo-leucine	CC1(C[C@H](N)C(O)=O)N=N1
@@ -19371,3 +19372,4 @@ Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C
 (Cycloheptatrienyl)(cyclopentadienyl)titanium	[CH-]1C=CC=C1.[CH-]1C=CC=CC=C1.[Ti+2]
 (Cycloheptatrienyl)(cyclopentadienyl)vanadium	C1C=CC=CC=[C-]1.[CH-]1C=CC=C1.[V+2]
 Caesium superoxide	[Cs+].[O-][O]
+1,6-Hexanediol diglycidyl ether	C1C(O1)COCCCCCCOCC2CO2
