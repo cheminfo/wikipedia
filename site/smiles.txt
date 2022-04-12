@@ -488,7 +488,7 @@ Carnitine	C[N+](C)(C)CC(CC(=O)[O-])O
 Camphor	CC1(C)C2CCC1(C)C(=O)C2
 Benzphetamine	N(C)(Cc1ccccc1)[C@@H](C)Cc2ccccc2
 Chloral hydrate	ClC(Cl)(Cl)C(O)O
-Melatonin	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
+Melatonin	CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC
 Methotrexate	O=C([C@H](CCC(O)=O)NC(C1=CC=C(N(CC2=CN=C(N=C(N)N=C3N)C3=N2)C)C=C1)=O)O
 Benzophenone	O=C(c1ccccc1)c2ccccc2
 Maprotiline	CNCCC[C@]12CC[C@H](c3ccccc31)c1ccccc12
@@ -1686,8 +1686,8 @@ Nile red	CCN(CC)c1ccc2c(c1)oc-3cc(=O)c4ccccc4c3n2
 Allyl isothiocyanate	C=CCN=C=S
 Methyl jasmonate	O=C1[C@H](C/C=C\CC)[C@@H](CC(OC)=O)CC1
 Cocamide MEA	CCCCCCCCCCCC(=O)NCCO
-Phenanthroline	c1cc2ccc3cccnc3c2nc1
-Phenanthroline	C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O
+1,10-Phenanthroline	c1cc2ccc3cccnc3c2nc1
+1,10-Phenanthroline	C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O
 Anethole	O(c1ccc(\C=C\C)cc1)C
 Meloxicam	Cc1cnc(s1)NC(=O)C\3=C(/O)c2ccccc2S(=O)(=O)N/3C
 Cis-3-Hexen-1-ol	CC\C=C/CCO
@@ -13539,6 +13539,7 @@ QUCHIC	C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5
 5F-PB-22	C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4
 AB-005	CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CC4CCCCN4C)C
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
+Copper(III) oxide	[O-2].[O-2].[O-2].[Cu].[Cu]
 Barium hypochlorite	[O-]Cl.[O-]Cl.[Ba+2]
 Pencycuron	Clc1ccc(cc1)CN(C(=O)Nc2ccccc2)C3CCCC3
 1,6-Digalloyl glucose	C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
@@ -19371,5 +19372,7 @@ Perfluorohexanoic acid	C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4
 (Cycloheptatrienyl)(cyclopentadienyl)titanium	[CH-]1C=CC=C1.[CH-]1C=CC=CC=C1.[Ti+2]
 (Cycloheptatrienyl)(cyclopentadienyl)vanadium	C1C=CC=CC=[C-]1.[CH-]1C=CC=C1.[V+2]
+Melatonin (supplement/medication)	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
 Caesium superoxide	[Cs+].[O-][O]
+Epanorin	CC(C)C[C@@H](C(=O)OC)NC(=O)C(=C1C(=C(C(=O)O1)C2=CC=CC=C2)O)C3=CC=CC=C3
 1,6-Hexanediol diglycidyl ether	C1C(O1)COCCCCCCOCC2CO2
