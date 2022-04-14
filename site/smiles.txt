@@ -9787,6 +9787,7 @@ Thioproperazine	CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C
 Butaperazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4)CCC
 Pipotiazine	CN(C)S(=O)(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
 Moperone	CC1=CC=C(C=C1)C1(O)CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1
+Levosulpiride	CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC
 Prothipendyl	CN(C)CCCN1C2=CC=CC=C2SC3=C1N=CC=C3
 Clotiapine	Clc2ccc1Sc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
 Oxaflozane	O1CCN(C(C)C)CC1c2cc(C(F)(F)F)ccc2
@@ -10652,6 +10653,7 @@ Metapramine	CNC1CC2=C(C=CC=C2)N(C)C3=CC=CC=C31
 Noxiptiline	O(\N=C2\c1c(cccc1)CCc3c2cccc3)CCN(C)C
 Amitriptylinoxide	[O-][N+](C)(C)CC/C=C2/c1c(cccc1)CCc3c2cccc3
 Intriptyline	C(#C\C=C3/c1ccccc1\C=C/c2c3cccc2)CN(C)C
+Octriptyline	CNCCC=C1C2=CC=CC=C2C3CC3C4=CC=CC=C41
 Octamoxin	CCCCCCC(C)NN
 Phosphoramidon	O=C(O)[C@@H](NC([C@H](CC(C)C)NP(O[C@@H]1O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O)(O)=O)=O)CC2=CNC3=C2C=CC=C3
 Talopeptin	O=C(O)[C@@H](NC([C@H](CC(C)C)NP(O[C@@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@H]1O)(O)=O)=O)CC2=CNC3=C2C=CC=C3
@@ -19378,5 +19380,8 @@ Epanorin	CC(C)C[C@@H](C(=O)OC)NC(=O)C(=C1C(=C(C(=O)O1)C2=CC=CC=C2)O)C3=CC=CC=C3
 1,6-Hexanediol diglycidyl ether	C1C(O1)COCCCCCCOCC2CO2
 Methidiumpropyl-EDTA	O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)NCCCNC(=O)C1=CC=C(C=C1)C=2C3=CC(N)=CC=C3C=4C=CC(N)=CC4[N+]2C
 1,4-Cyclohexanedimethanol diglycidyl ether	C1CC(CCC1COCC2CO2)COCC3CO3
-C12-C14 alcohol glycidyl ether	CCCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
+C12–C14 alcohol glycidyl ether	CCCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
 N-Butylmercuric chloride	CCCC[Hg]Cl
+Trimethylolpropane triglycidyl ether	CCC(COCC1CO1)(COCC2CO2)COCC3CO3
+1,3-Dichloro-1,1,2,2,3-pentafluoropropane	C(C(C(F)(F)Cl)(F)F)(F)Cl
+Echinochrome A	CCC1=C(C2=C(C(=C1O)O)C(=O)C(=C(C2=O)O)O)O
