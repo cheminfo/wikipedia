@@ -5911,7 +5911,7 @@ Gentisic acid	O=C(O)c1cc(O)ccc1O
 Tert-Butylamine	CC(C)(C)N
 Sec-Butylamine	CCC(C)N
 Isobutylamine	CC(C)CN
-Alpha-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
+Α-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
 Lithium superoxide	[Li+].O=[O-]
 3-Hydroxypicolinic acid	c1cc(c(nc1)C(=O)O)O
 Thiotrisescaline	CCOc1cc(cc(c1OCC)SCC)CCN
@@ -8718,6 +8718,7 @@ Otilonium bromide	CCCCCCCCOC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)OCC[N+](C)(CC)CC.[
 Penthienate	CC[N+](C)(CC)CCOC(=O)C(C1CCCC1)(C2=CC=CS2)O
 Oxyphenonium bromide	OC(C(=O)OCC[N+](C)(CC)CC)(c1ccccc1)C2CCCCC2.[Br-]
 Benzilone	O=C(OC1CC[N+](CC)(CC)C1)C(O)(c2ccccc2)c3ccccc3
+Methylatropine	C[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C
 Chebulagic acid	C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O
 Alpine borane	CC4(C)[C@@H]1C[C@H]4[C@@H](C)[C@@H](C1)B3C2CCCC3CCC2
 Octodrine	CC(C)CCCC(C)N
