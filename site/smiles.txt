@@ -11590,8 +11590,8 @@ Tridecylic acid	O=C(O)CCCCCCCCCCCC
 Nonadecylic acid	O=C(O)CCCCCCCCCCCCCCCCCC
 Hagemann's ester	O=C(OCC)C1C(=C\C(=O)CC1)/C
 Gyrophoric acid	O=C(Oc1cc(c(C(=O)O)c(O)c1)C)c3c(cc(OC(=O)c2c(cc(O)cc2O)C)cc3O)C
-Sulfoaildenafil	CCCc1c2c(c(=S)nc([nH]2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)n(n1)C
-Aildenafil	O=S(=O)(c3cc(C\1=N\C(=O)c2c(N/1)c(nn2C)CCC)c(OCC)cc3)N4C[C@H](N[C@@H](C)C4)C
+Sulfoaildenafil	CCCC1=NN(C2=C1NC(=NC2=S)C3=C(C=CC(=C3)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)OCC)C
+Aildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)OCC)C
 CGS-15943	ClC1=CC=C2N=C(N)N3N=C(C4=CC=CO4)N=C3C2=C1
 Curculigoside A	O=C(OCc2c(O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)ccc(O)c2)c3c(OC)cccc3OC
 Epoxiconazole	Clc1ccccc1C2OC2(Cn3cncn3)c4ccc(F)cc4
