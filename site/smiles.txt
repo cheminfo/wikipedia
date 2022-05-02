@@ -18554,7 +18554,7 @@ TC-S 7001	CC1=CNC2=NC=CC(=C12)OC3=C(C=C(C=C3F)NC4=CC(=NC(=N4)N)Cl)F
 RKI-1447	C1=CC(=CC(=C1)O)CNC(=O)NC2=NC(=CS2)C3=CC=NC=C3
 Verosudil	CN(C)C(C1=CSC=C1)C(=O)NC2=CC3=C(C=C2)C(=O)NC=C3
 Thiazovivin	C1=CC=C(C=C1)CNC(=O)C2=CSC(=N2)NC3=NC=NC=C3
-N-(n-butyl)thiophosphoric triamide	CCCCNP(=S)(N)N
+N-(n-Butyl)thiophosphoric triamide	CCCCNP(=S)(N)N
 N-Acetyl-L-tyrosine	CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
 Tetrachlorodinitroethane	C(C([N+](=O)[O-])(Cl)Cl)([N+](=O)[O-])(Cl)Cl
 Phenyl phosphorodiamidate	C1=CC=C(C=C1)OP(=O)(N)N
@@ -19417,3 +19417,5 @@ Berkelium(III) chloride	[Cl-].[Cl-].[Cl-].[Bk+3]
 Neodymium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].O.[Nd+3].[Nd+3]
 Columbamine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)O)OC
 Abikoviromycin	CC=C1C=CC2=NCCC3C12O3
+Cyclopentaphosphine	P1PPPP1
+2,4,6-Triisopropylbenzenesulfonyl azide	CC(C)C1=CC(=C(C(=C1)C(C)C)S(=O)(=O)N=[N+]=[N-])C(C)C
