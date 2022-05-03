@@ -1725,7 +1725,7 @@ Calcium bicarbonate	OC(=O)O[Ca]OC(=O)O
 Calcium bicarbonate	[Ca+2].[O-]C(=O)O.[O-]C(=O)O
 Harmine	COc1ccc2c(c1)[nH]c3c(C)nccc23
 Harmaline	COc3ccc2c1CCN=C(C)c1[nH]c2c3
-Tetrahydroharmine	CC1c(c2CCN1)[nH]c3c2ccc(OC)c3
+Tetrahydroharmine	CC1C2=C(CCN1)C3=C(N2)C=C(C=C3)OC
 Idebenone	O=C1/C(=C(\C(=O)C(\OC)=C1\OC)C)CCCCCCCCCCO
 Trimethylglycine	C[N+](C)(C)CC(=O)[O-]
 Vidarabine	C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)N
@@ -19338,7 +19338,7 @@ Spenolimycin	C[C@@H]1C=C([C@]2([C@@H](O1)O[C@@H]3[C@H]([C@@H]([C@@H]([C@@H]([C@H
 Actinobolin	CC1C(C2C(C(CC(=C2C(=O)O1)O)O)O)NC(=O)C(C)N
 Phlebiarubrone	C1OC2=C(C(=O)C(=O)C(=C2O1)C3=CC=CC=C3)C4=CC=CC=C4
 Proroxan	C1CN(CC1C2=CC=CC=C2)CCC(=O)C3=CC4=C(C=C3)OCCO4
-Neodymium hydride	[NdH3]
+Neodymium(III) hydride	[NdH3]
 Neodymium nickelate	[Nd+3].[Ni+3].[O-2].[O-2].[O-2]
 Indeno(1,2,3-cd)pyrene	C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3
 Neodymium(III) iodide	I[Nd](I)I
@@ -19419,3 +19419,5 @@ Columbamine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)O)OC
 Abikoviromycin	CC=C1C=CC2=NCCC3C12O3
 Cyclopentaphosphine	P1PPPP1
 2,4,6-Triisopropylbenzenesulfonyl azide	CC(C)C1=CC(=C(C(=C1)C(C)C)S(=O)(=O)N=[N+]=[N-])C(C)C
+AZD9272	N#Cc1cc(cc(F)c1)c1nc(no1)c1ncc(F)cc1
+2-fluoroadenine	C1=NC2=NC(=NC(=C2N1)N)F
