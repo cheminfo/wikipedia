@@ -6201,7 +6201,7 @@ Gallocatechol	C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O
 Iodine trichloride	ClI(Cl)Cl
 Iodine trichloride	Cl[I-]1(Cl)[Cl+][I-]([Cl+]1)(Cl)Cl
 Toluidine blue	[Cl-].CN(C)c1ccc2nc3cc(C)c(N)cc3[s+]c2c1
-Methylbutyltryptamine	CCCCN(C)CCc2c[nH]c1ccccc12
+Methylbutyltryptamine	CCCCN(C)CCC1=CNC2=CC=CC=C21
 Detomidine	Cc2cccc(Cc1cnc[nH]1)c2C
 Carpacin	O1c2cc(c(OC)cc2OC1)/C=C/C
 Zuclopenthixol	Clc2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
@@ -19422,3 +19422,4 @@ Cyclopentaphosphine	P1PPPP1
 AZD9272	N#Cc1cc(cc(F)c1)c1nc(no1)c1ncc(F)cc1
 2-Fluoroadenine	C1=NC2=NC(=NC(=C2N1)N)F
 Dimethoxytrityl	COC1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)OC
+Posovolone	C[C@]12CC[C@@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CN5C=CN=C5)C)(COC)O
