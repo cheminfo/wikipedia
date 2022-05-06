@@ -12969,7 +12969,7 @@ Diarsenic tetraiodide	I[As](I)[As](I)I
 Tetrasilane	[SiH3][SiH2][SiH2][SiH3]
 Silicon monosulfide	[Si]=S
 Germanium nitride	N#[Ge]N([Ge]#N)[Ge]#N
-Digermane	[Ge][Ge]
+Digermane	[GeH3][GeH3]
 Iodosilane	I[SiH3]
 Methylsilane	C[SiH3]
 Pentachloroethane	C(C(Cl)(Cl)Cl)(Cl)Cl
@@ -19423,3 +19423,6 @@ AZD9272	N#Cc1cc(cc(F)c1)c1nc(no1)c1ncc(F)cc1
 2-Fluoroadenine	C1=NC2=NC(=NC(=C2N1)N)F
 Dimethoxytrityl	COC1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)OC
 Posovolone	C[C@]12CC[C@@](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CN5C=CN=C5)C)(COC)O
+Naphthablin	CC1CC2C(CC1OC(=O)C(C)C)C(OC3=C2C(=O)C4=CC(=C(C(=C4C3=O)O)C(C)(CO)C=C)O)(C)C
+2-HO-NMT	CNCCC1=C(NC2=CC=CC=C21)O
+Gallium acetate	CC(=O)O[Ga](OC(=O)C)OC(=O)C
