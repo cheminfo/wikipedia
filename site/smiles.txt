@@ -6197,7 +6197,7 @@ Biebrich scarlet	O=S(=O)(O)c4ccc(/N=N/c1ccc(c(c1)S(=O)(=O)O)N/N=C2/c3ccccc3\C=C/
 Biebrich scarlet	[Na+].[Na+].[O-]S(=O)(=O)c1ccc(cc1)/N=N/c4ccc(/N=N/c2c3ccccc3ccc2O)c(c4)S([O-])(=O)=O
 Pazopanib	O=S(=O)(N)c1c(ccc(c1)Nc2nccc(n2)N(c4ccc3c(nn(c3C)C)c4)C)C
 Gallocatechol	C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O
-2-Me-DET	c1cccc2c1c(c([nH]2)C)CCN(CC)CC
+2-Me-DET	CCN(CC)CCc1c(C)[nH]c2ccccc12
 Iodine trichloride	ClI(Cl)Cl
 Iodine trichloride	Cl[I-]1(Cl)[Cl+][I-]([Cl+]1)(Cl)Cl
 Toluidine blue	[Cl-].CN(C)c1ccc2nc3cc(C)c(N)cc3[s+]c2c1
@@ -16606,6 +16606,7 @@ Rimegepant	C1CC(C2=C(C=CC=N2)C(C1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=
 Tetrachlorocyclopropene	ClC1=C(Cl)C1(Cl)Cl
 Upadacitinib	CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12
 1,1-Diiodoethane	CC(I)I
+Cytotrienin A	CC1C(CC=CC=CC=CC(CC(=O)NC2=CC(=CC(=C2O)CCC=C(C1O)C)O)OC)OC(=O)C3(CC3)NC(=O)C4=CCCCC4
 Iron(II) selenate	[O-][Se](=O)(=O)[O-].[Fe+2]
 Iron(II) selenate	[O-][Se](=O)(=O)[O-].[Fe+2].O.O.O.O.O
 TPEN	c1ccc(nc1)CN(CCN(Cc1ccccn1)Cc1ccccn1)Cc1ccccn1
@@ -19436,4 +19437,7 @@ Praseodymium arsenate	[O-][As](=O)([O-])[O-].[Pr+3]
 Neodymium(III) vanadate	[O-][V](=O)([O-])[O-].[Nd+3]
 5,6-Dibromo-N-methyltryptamine	CNCCc1c[nH]c2cc(Br)c(Br)cc12
 Nickel(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ni+2]
+Salbostatin	C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)N[C@H]2C=C([C@H]([C@@H]([C@H]2O)O)O)CO
 5,6-Dibromo-DMT	CN(C)CCC1=CNC2=CC(=C(C=C21)Br)Br
+Avasimibe	CC(C)C1=C(C(=CC=C1)C(C)C)OS(=O)(=O)NC(=O)CC2=C(C=C(C=C2C(C)C)C(C)C)C(C)C
+Praseodymium(III) iodide	I[Pr](I)I
