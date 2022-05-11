@@ -17461,6 +17461,9 @@ Tellurophenes	C1=C[Te]C=C1
 Sodium bromite	[O-]Br=O.[Na+]
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
+Diethynylbenzene dianion	[C-]#Cc0ccccc0C#[C-]
+Diethynylbenzene dianion	[C-]#Cc0cccc(c0)C#[C-]
+Diethynylbenzene dianion	[C-]#Cc1ccc(cc1)C#[C-]
 Luseogliflozin	CCOC1=CC=C(C=C1)CC2=C(C=C(C(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](S3)CO)O)O)O)OC)C
 Camphorquinone	CC1(C2CCC1(C(=O)C2=O)C)C
 Diisopropyl paraoxon	CC(C)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])OC(C)C
@@ -19441,3 +19444,4 @@ Salbostatin	C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)N[C@H]2C=C([C@H]([C@@H]([C@H]2
 5,6-Dibromo-DMT	CN(C)CCC1=CNC2=CC(=C(C=C21)Br)Br
 Avasimibe	CC(C)C1=C(C(=CC=C1)C(C)C)OS(=O)(=O)NC(=O)CC2=C(C=C(C=C2C(C)C)C(C)C)C(C)C
 Praseodymium(III) iodide	I[Pr](I)I
+Bis(2-methoxyethyl) phthalate	COCCOC(=O)C1=CC=CC=C1C(=O)OCCOC
