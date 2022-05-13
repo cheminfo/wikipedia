@@ -17283,6 +17283,7 @@ Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
 Glufimet	COC(=O)CC(C1=CC=CC=C1)C(C(=O)OC)N.Cl
 BMS-641988	CCS(=O)(=O)N[C@@H]1C[C@@]2([C@@H]3[C@H]([C@]1(O2)C)C(=O)N(C3=O)C4=CC(=C(C=C4)C#N)C(F)(F)F)C
 EM-5854	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC4=CC=[N+](C=C4)[O-])O)CCC5=C3C=CC(=C5F)C#N
+AGN-241751	C[C@H]([C@@H](C(=O)N)N1C[C@]2(C1=O)CCCN2C(=O)OC(C)(C)C)O
 MK-434	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)C4=CC=CC=C4)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
 Dinalbuphine sebacate	C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)OC(=O)CCCCCCCCC(=O)OC7=C8C9=C(C[C@@H]1[C@]2([C@]9(CCN1CC1CCC1)[C@@H](O8)[C@H](CC2)O)O)C=C7)O5)O)O
 NV-5138	CC(C)(CC(C(=O)O)N)C(F)F
@@ -19432,6 +19433,7 @@ Naphthablin	CC1CC2C(CC1OC(=O)C(C)C)C(OC3=C2C(=O)C4=CC(=C(C(=C4C3=O)O)C(C)(CO)C=C
 Gallium acetate	CC(=O)O[Ga](OC(=O)C)OC(=O)C
 Spicamycin	N(C1=C2C(N=CN2)=NC=N1)[C@H]3O[C@@]([C@H](CO)O)([C@H](NC(CNC(CCCCCCCCCCCCC(C)C)=O)=O)[C@@H](O)[C@H]3O)[H]
 Gallium(III) carbonate	C1(=O)O[Ga](O1)OC(=O)O[Ga]2OC(=O)O2
+Phenelfamycin E	C/C=C\C=C\[C@H]1C([C@H]([C@H]([C@](O1)([C@H](CO[C@H]2C[C@@H]([C@@H]([C@@H](O2)C)O[C@@H]3C[C@H]([C@H]([C@@H](O3)C)O[C@H]4C[C@@H]([C@@H]([C@@H](O4)C)O)OC)OC)OC)C(=O)NC/C=C/C=C(\C)/[C@H]([C@@H](C)[C@H]5C[C@@H]([C@@H](O5)/C=C/C=C/C=C/C(=O)O)O)OC)O)OC(=O)CC6=CC=CC=C6)O)(C)C
 Neodymium tantalate	[O-2].[O-2].[O-2].[O-2].[Nd+3].[Ta+5]
 6-Bromotryptamine	C1=CC2=C(C=C1Br)NC=C2CCN
 5,6-Dibromotryptamine	C1=C2C(=CC(=C1Br)Br)NC=C2CCN
@@ -19445,4 +19447,8 @@ Salbostatin	C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)N[C@H]2C=C([C@H]([C@@H]([C@H]2
 Avasimibe	CC(C)C1=C(C(=CC=C1)C(C)C)OS(=O)(=O)NC(=O)CC2=C(C=C(C=C2C(C)C)C(C)C)C(C)C
 Praseodymium(III) iodide	I[Pr](I)I
 Bis(2-methoxyethyl) phthalate	COCCOC(=O)C1=CC=CC=C1C(=O)OCCOC
+ACT-539313	CC1=CC(=C(C=C1)C(=O)N2CCOC[C@H]2CC3=CC(=CC=C3)N4N=CC=N4)N5N=CC=N5
 YCT529	CC1=CC=C(C=C1)C2=CC(OC3=C2C=C(C=C3)C4=CC=C(N4)C5=CC=C(C=C5)C(=O)O)(C)C
+N-Acetyltryptamine	CC(=O)NCCC1=CNC2=CC=CC=C21
+Speciociliatine	CC[C@@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
+Amizon	C[N+]1=CC=C(C=C1)C(=O)NCC2=CC=CC=C2.[I-]
