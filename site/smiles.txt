@@ -208,9 +208,9 @@ Histidine	O=C([C@H](CC1=CNC=N1)[NH3+])[O-]
 Histidine	O=C([C@H](CC1=CNC=[NH1+]1)[NH3+])[O-]
 Isoleucine	CC[C@H](C)[C@@H](C(=O)O)N
 Isoleucine	CC[C@H](C)[C@@H](C(=O)[O-])[NH3+]
-Lysine	NCCCCC(N)C(=O)O
-Lysine	NCCCCC([NH3+])C(=O)[O-]
-Lysine	[NH3+]CCCCC([NH3+])C(=O)[O-]
+Lysine	C(CCN)C[C@@H](C(=O)O)N
+Lysine	C(CC[NH3+])C[C@@H](C(=O)[O-])N
+Lysine	C(CC[NH3+])C[C@@H](C(=O)[O-])[NH3+]
 Leucine	CC(C)C[C@@H](C(=O)O)N
 Leucine	CC(C)C[C@@H](C(=O)[O-])[NH3+]
 Asparagine	O=C(N)C[C@H](N)C(=O)O
@@ -14876,6 +14876,7 @@ Y-320	O=C(C1=C(C)N(C2=CC=C(Cl)C=C2)N=C1)NC(C=C3)=CC(C#N)=C3N(CC4)CCC4N5CCOCC5
 Titanium(IV) nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
 Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
+6-Isopropyl-6-nor-lysergic acid diethylamide	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C(C)C
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
 Vanadyl perchlorate	O=[V](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
@@ -19463,3 +19464,6 @@ Ambobactin	C[C@@H]1[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N2CC[C@@H]([C@H]2C
 Gilvocarcin V	O(C)C1=C2C(=C3C(C=4C(C(=O)O3)=CC(C=C)=CC4OC)=C1)C(=CC=C2O)[C@H]5O[C@@]([C@@H](C)O)([C@H](O)[C@H]5O)[H]
 Ytterbium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]
 Trimethylolethane triglycidyl ether	CC(COCC1CO1)(COCC2CO2)COCC3CO3
+Angustmycin A	C=C1[C@H]([C@H]([C@](O1)(CO)N2C=NC3=C(N=CN=C32)N)O)O
+Endophenazine A	CC(=CCC1=C2C(=CC=C1)N=C3C=CC=C(C3=N2)C(=O)O)C
+ADX71743	CCC1=NC2=C(O1)CC(CC2=O)C3=C(C=C(C=C3)C)C
