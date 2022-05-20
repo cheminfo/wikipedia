@@ -218,7 +218,7 @@ Asparagine	O=C(N)C[C@H]([NH3+])C(=O)[O-]
 Glutamine	O=C(N)CCC(N)C(=O)O
 Glutamine	O=C(N)CCC([NH3+])C(=O)[O-]
 Arginine	NC(CCCNC(N)=N)C(O)=O
-Arginine	[NH3+]C(CCCNC(N)=N)C([O-])=O
+Arginine	NC(CCCNC(N)=[NH2+])C([O-])=O
 Arginine	[NH3+]C(CCCNC(N)=[NH2+])C([O-])=O
 Serine	C([C@@H](C(=O)O)N)O
 Serine	C([C@@H](C(=O)[O-])[NH3+])O
@@ -19467,3 +19467,6 @@ Trimethylolethane triglycidyl ether	CC(COCC1CO1)(COCC2CO2)COCC3CO3
 Angustmycin A	C=C1[C@H]([C@H]([C@](O1)(CO)N2C=NC3=C(N=CN=C32)N)O)O
 Endophenazine A	CC(=CCC1=C2C(=CC=C1)N=C3C=CC=C(C3=N2)C(=O)O)C
 ADX71743	CCC1=NC2=C(O1)CC(CC2=O)C3=C(C=C(C=C3)C)C
+Streptopyrrole	CCCC1=C(C2=C(C=C1O)OC3=CC(=CN3C2=O)Cl)O
+Mevidalen	C[C@H]1C2=CC=CC(=C2C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)CCC(C)(C)O
+Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=O)O
