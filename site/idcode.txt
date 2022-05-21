@@ -195,7 +195,6 @@ gGX`BDdwMUL`@	Alanine
 gGX`BDdwMT@@	Alanine
 gGX`bDnLiMsUSP@	Alanine
 gGX`bDnLiMsUSH@	Alanine
-gGX`bDnLiMsU@@	Alanine
 diFB@BANEInvZjX@@	Aspartic acid
 diFBABANENJTf{Yji`@	Aspartic acid
 diFBCBANENJQyInvZjX@@	Aspartic acid
@@ -218,8 +217,10 @@ diELABDDyNJTf{Yjihr@@	Asparagine
 deeL@BdDEInufji`@	Glutamine
 deeLABdDENJTf{VZjf@@	Glutamine
 dctd@BE]ADf{UYjji`@	Arginine
+dctd@BE]ADf{UYjjihr@@	Arginine
+dctd@BE]ADf{UYjjihq@@	Arginine
+dktdcJgSc@b@{NvTEnuVZjjX@@	Arginine
 dctdABE]ADyYR[mUfjjf@@	Arginine
-dctdCBE]ADxiVTf{UYjji`@	Arginine
 gNy`BDtf{Zjf`@	Serine
 gNy`bDuqeInvjih@	Serine
 dazL@BAFR[nZjdrT`@	Threonine
@@ -19470,3 +19471,4 @@ fbm``@B@EdTTRTRLRbqYK`hiZfZhH`j@@@	ADX71743
 fbm`R@B\EZHHaIeUgV]\eIJ]zZZZBBj`@@	Streptopyrrole
 eg`XLD@MELm`HcbHrJJIQVZJJIKYPiRLBAIM]PDQMUUPAUT@`XkD@@	Mevidalen
 efU\B@@DFH`McolbbbdrRTTVRRTvTITtRQCAdVPuTqMKUUUPUAUEMS@AQ@@@	Trazpiroben
+gK`hIaqHKM@@	Lutetium acetate

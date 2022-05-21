@@ -195,7 +195,6 @@ Alanine	C[C@H](C(=O)O)N
 Alanine	CC(C(=O)O)N
 Alanine	C[C@@H](C(=O)[O-])[NH3+]
 Alanine	C[C@H](C(=O)[O-])[NH3+]
-Alanine	CC(C(=O)[O-])[NH3+]
 Aspartic acid	O=C(O)CC(N)C(=O)O
 Aspartic acid	O=C(O)CC([NH3+])C(=O)[O-]
 Aspartic acid	O=C([O-])CC([NH3+])C(=O)[O-]
@@ -217,9 +216,11 @@ Asparagine	O=C(N)C[C@H](N)C(=O)O
 Asparagine	O=C(N)C[C@H]([NH3+])C(=O)[O-]
 Glutamine	O=C(N)CCC(N)C(=O)O
 Glutamine	O=C(N)CCC([NH3+])C(=O)[O-]
-Arginine	NC(CCCNC(N)=N)C(O)=O
+Arginine	C(CC(C(=O)O)N)CNC(=N)N
+Arginine	C(C[C@@H](C(=O)O)N)CNC(=N)N
+Arginine	C(C[C@H](C(=O)O)N)CNC(=N)N
+Arginine	[Cl-].NC(CCCNC(N)=[NH2+])C([O-])=O
 Arginine	NC(CCCNC(N)=[NH2+])C([O-])=O
-Arginine	[NH3+]C(CCCNC(N)=[NH2+])C([O-])=O
 Serine	C([C@@H](C(=O)O)N)O
 Serine	C([C@@H](C(=O)[O-])[NH3+])O
 Threonine	C[C@H]([C@@H](C(=O)O)N)O
@@ -19470,3 +19471,4 @@ ADX71743	CCC1=NC2=C(O1)CC(CC2=O)C3=C(C=C(C=C3)C)C
 Streptopyrrole	CCCC1=C(C2=C(C=C1O)OC3=CC(=CN3C2=O)Cl)O
 Mevidalen	C[C@H]1C2=CC=CC(=C2C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)CCC(C)(C)O
 Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=O)O
+Lutetium acetate	C(C)(O)=O.[Lu]
