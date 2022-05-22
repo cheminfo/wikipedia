@@ -19471,4 +19471,6 @@ ADX71743	CCC1=NC2=C(O1)CC(CC2=O)C3=C(C=C(C=C3)C)C
 Streptopyrrole	CCCC1=C(C2=C(C=C1O)OC3=CC(=CN3C2=O)Cl)O
 Mevidalen	C[C@H]1C2=CC=CC(=C2C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)CCC(C)(C)O
 Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=O)O
-Lutetium acetate	C(C)(O)=O.[Lu]
+Lutetium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Lu+3]
+Tautomycetin	CCC(=CC(=O)CC(C)CC(C)CCC(C(C)C(=O)CC(C(C)C(C)OC(=O)CC(C1=C(C(=O)OC1=O)C)O)O)O)C=C
+Aurenin	CCCCCC(C1C(CC(CC(CC(CC(C(C(/C(=C\C=C/C=C\C=C/C=C\C(C(OC1=O)C)O)/C)O)O)O)O)O)O)O)O
