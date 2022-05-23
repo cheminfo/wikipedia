@@ -195,9 +195,11 @@ Alanine	C[C@H](C(=O)O)N
 Alanine	CC(C(=O)O)N
 Alanine	C[C@@H](C(=O)[O-])[NH3+]
 Alanine	C[C@H](C(=O)[O-])[NH3+]
-Aspartic acid	O=C(O)CC(N)C(=O)O
-Aspartic acid	O=C(O)CC([NH3+])C(=O)[O-]
-Aspartic acid	O=C([O-])CC([NH3+])C(=O)[O-]
+Aspartic acid	C([C@@H](C(=O)O)N)C(=O)O
+Aspartic acid	C(C(C(=O)O)N)C(=O)O
+Aspartic acid	C([C@H](C(=O)O)N)C(=O)O
+Aspartic acid	C(C(C(=O)[O-])[NH3+])C(=O)O
+Aspartic acid	C(C(C(=O)[O-])[NH3+])C(=O)[O-]
 Glutamic acid	C(CC(=O)O)[C@@H](C(=O)O)N
 Glutamic acid	C(CC(=O)O)[C@H](C(=O)O)N
 Glutamic acid	C(CC(=O)O)C(C(=O)[O-])[NH3+]
@@ -19454,7 +19456,7 @@ YCT529	CC1=CC=C(C=C1)C2=CC(OC3=C2C=C(C=C3)C4=CC=C(N4)C5=CC=C(C=C5)C(=O)O)(C)C
 N-Acetyltryptamine	CC(=O)NCCC1=CNC2=CC=CC=C21
 Speciociliatine	CC[C@@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
 Amizon	C[N+]1=CC=C(C=C1)C(=O)NCC2=CC=CC=C2.[I-]
-C12-C13 alcohol glycidyl ether	CCCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
+C12–C13 alcohol glycidyl ether	CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
 F-11,461	O=C1C=NN(C(=O)N1C)CCCCN2CCN(C3=CC=CC4=CC=C(O[11C])C=C43)CC2
 JNJ-61393215	[2H]C1([C@@H]2C[C@H](N1C(=O)C3=C(C(=CC=C3)F)C4=NC=CC=N4)[C@@H](C2)OC5=NC=C(C=C5)C(F)(F)F)[2H]
 LAMPA	CCCN(C)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C
@@ -19474,3 +19476,5 @@ Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=
 Lutetium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Lu+3]
 Tautomycetin	CCC(=CC(=O)CC(C)CC(C)CCC(C(C)C(=O)CC(C(C)C(C)OC(=O)CC(C1=C(C(=O)OC1=O)C)O)O)O)C=C
 Aurenin	CCCCCC(C1C(CC(CC(CC(CC(C(C(/C(=C\C=C/C=C\C=C/C=C\C(C(OC1=O)C)O)/C)O)O)O)O)O)O)O)O
+AZ12216052	CCC(C)C1=CC=C(C=C1)NC(=O)CSCC2=CC=C(C=C2)Br
+Drimentine G	CC(C)[C@H]1C(=O)N2[C@@H](C[C@@]3([C@H]2NC4=CC=CC=C43)C[C@H]5C(=C)CC[C@@H]6[C@@]5(CCCC6(C)C)C)C(=O)N1
