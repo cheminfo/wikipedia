@@ -109,7 +109,7 @@ Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@
 Nitrous oxide	N#[N+][O-]
 Nitrous oxide	[N-]=[N+]=O
 Niacin	OC(=O)c1cccnc1
-Phenylalanine	N[C@@H](CC1=CC=CC=C1)C(O)=O
+Phenylalanine	c1ccc(cc1)C[C@@H](C(=O)O)N
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
 Nicotine	CN1CCC[C@H]1C1=CC=CN=C1
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
@@ -191,10 +191,7 @@ Pyrrolysine	O=C(NCCCC[C@@H](C(=O)[O-])[NH3+])[C@@H]1/N=C\C[C@H]1C
 Aqua regia	[N+](=O)(O)[O-].Cl.Cl.Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
 Alanine	C[C@@H](C(=O)O)N
-Alanine	C[C@H](C(=O)O)N
-Alanine	CC(C(=O)O)N
 Alanine	C[C@@H](C(=O)[O-])[NH3+]
-Alanine	C[C@H](C(=O)[O-])[NH3+]
 Aspartic acid	C([C@@H](C(=O)O)N)C(=O)O
 Aspartic acid	C(C(C(=O)O)N)C(=O)O
 Aspartic acid	C([C@H](C(=O)O)N)C(=O)O
@@ -17907,7 +17904,7 @@ Estradiol distearate	CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2
 Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.C1=CC=C(C=C1)C(=O)O
 Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.CN1CCC[C@H]1C2=CN=CC=C2.OS(=O)(=O)O
 Nicotine salt	CN1CCC[C@H]1C2=CN=CC=C2.Cl
-Trifarotene	CC(C)(C)C1=C(C=CC(=C1)C2=C(C=CC(=C2)C3=CC=C(C=C3)C(=O)O)OCCO)N4CCCC4
+Trifarotene	CC(C)(C)c1cc(-c2cc(-c3ccc(C(=O)O)cc3)ccc2OCCO)ccc1N1CCCC1
 Dimethyl chlorothiophosphate	COP(=S)(OC)Cl
 2-(Ethylamino)-1,2-diphenylethanone	CCNC(C1=CC=CC=C1)C(=O)C2=CC=CC=C2
 Givosiran	C[C@@H]1C[C@H](CN1C(=O)CCCCCCCCCCC(=O)NC(COCCC(=O)NCCCNC(=O)CCCCO[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)NC(=O)C)(COCCC(=O)NCCCNC(=O)CCCCO[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)COCCC(=O)NCCCNC(=O)CCCCO[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)NC(=O)C)O
