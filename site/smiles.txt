@@ -4753,7 +4753,7 @@ Brodifacoum	Brc1ccc(cc1)c2ccc(cc2)C4Cc3ccccc3C(C4)C\5=C(/O)c6ccccc6OC/5=O
 Ophthalmic acid	CC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O
 Pentafluoropropane	FC(F)CC(F)(F)F
 Swainsonine	C1C[C@H]([C@@H]2[C@@H]([C@@H](CN2C1)O)O)O
-N-acetyl-p-benzoquinone imine	CC(=O)N=c1ccc(=O)cc1
+NAPQI	CC(=O)N=c1ccc(=O)cc1
 PMSF	O=S(F)(=O)Cc1ccccc1
 Bicinchoninic acid	O=C(O)c1cc(nc2c1cccc2)c3nc4ccccc4c(c3)C(=O)O
 Gusperimus	N=C(N)NCCCCCCC(=O)NC(O)C(=O)NCCCCNCCCN
@@ -19476,3 +19476,5 @@ Aurenin	CCCCCC(C1C(CC(CC(CC(CC(C(C(/C(=C\C=C/C=C\C=C/C=C\C(C(OC1=O)C)O)/C)O)O)O)
 AZ12216052	CCC(C)C1=CC=C(C=C1)NC(=O)CSCC2=CC=C(C=C2)Br
 Drimentine G	CC(C)[C@H]1C(=O)N2[C@@H](C[C@@]3([C@H]2NC4=CC=CC=C43)C[C@H]5C(=C)CC[C@@H]6[C@@]5(CCCC6(C)C)C)C(=O)N1
 Abequose	C[C@H]([C@@H](C[C@H](C=O)O)O)O
+Tapinarof	CC(C)c1c(cc(cc1O)/C=C/c2ccccc2)O
+Thiosarin	CC(C)OP(=S)(C)F
