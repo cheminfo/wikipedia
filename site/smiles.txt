@@ -12733,7 +12733,7 @@ Quadazocine	O=C(CCC1CCCC1)CCC4([C@@H]3N(CC[C@]4(c2c(ccc(O)c2)C3)C)C)C
 NMP-7	c3cccc1c3n(CCCCC)c(cc2)c1cc2C(=O)N4CCCCC4
 Imagabalin	O=C(O)C[C@@H](N)C[C@@H](CCC)C
 Velleral	O=C/C1=C/[C@@H]2CC(C)(C)C[C@@H]2[C@@H](C)/C=C1/C=O
-1,1-Difluoroethylene	C=C(F)F
+1,1-Difluoroethene	C=C(F)F
 Ichthyothereol	CC#CC#CC#C/C=C/[C@H]1[C@@H](CCCO1)O
 S32212	O=C(N3c2ccc1c(cccc1)c2CC3)Nc4cc(c(OC)cc4)N5CCN(C)CC5
 Meta-Hydroxynorephedrine	OC(c1cc(O)ccc1)C(N)C
@@ -12878,6 +12878,7 @@ Lividomycin	O([C@H]4[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@H]2O[C@@H](CN)[C@@H](O[C@
 Neamine	O([C@H]1[C@H](O)[C@@H](O)[C@H](N)C[C@@H]1N)[C@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2N)CN
 KM-233	CC1=CC[C@@H]2[C@@H](C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)C4=CC=CC=C4)O
 Cyanogen fluoride	FC#N
+Diphosphorus trisulfide	P(=S)SP=S
 Chloroprednisone	O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4C[C@H](Cl)\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4C(=O)C[C@@]23C
 Chloroprednisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2C[C@@H](C4=CC(=O)C=C[C@]34C)Cl)C)O
 Gold monoiodide	[Au]I
@@ -15736,6 +15737,7 @@ Magnesium taurate	C(CS(=O)(=O)[O-])N.C(CS(=O)(=O)[O-])N.[Mg+2]
 Meso-Zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 Ximenynic acid	CCCCCCC=CC#CCCCCCCCC(=O)O
+AP20187	CCC(C1=CC(=C(C(=C1)OC)OC)OC)C(=O)N2CCCCC2C(=O)OC(CCC3=CC(=C(C=C3)OC)OC)C4=CC(=CC=C4)OCC(=O)NCC(CNC(=O)COC5=CC=CC(=C5)C(CCC6=CC(=C(C=C6)OC)OC)OC(=O)C7CCCCN7C(=O)C(CC)C8=CC(=C(C(=C8)OC)OC)OC)CN(C)C
 Tribromoacetic acid	C(=O)(C(Br)(Br)Br)O
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
@@ -17138,6 +17140,7 @@ Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=C
 Chlorphenacemide	C1=CC=C(C=C1)C(C(=O)NC(=O)N)Cl
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
+Kagome metal	[Fe].[Fe].[Fe].[Sn].[Sn]
 EA-3990	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCC[N+](C)(C)Cc2ncccc2OC(=O)N(C)C
 EA-4056	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCC[N+](C)(C)Cc2ncccc2OC(=O)N(C)C
 T-1123	CC[N+](C)(CC)C1=CC(=CC=C1)OC(=O)NC.[I-]
