@@ -11968,7 +11968,6 @@ Dolutegravir	C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O
 Esculeoside A	C[C@@]12[C@](CC[C@]3([H])[C@]2([H])CC[C@@]4(C)C3C[C@@]5([H])[C@]4([H])[C@H](C)[C@]6(NC[C@@H](CO[C@H]7[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O7)C[C@@H]6OC(C)=O)O5)([H])C[C@@H](O[C@]8([H])O[C@H](CO)[C@H](O[C@@]9([H])[C@H](O[C@@]%10([H])[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O%10)[C@@H](O[C@@]%11([H])[C@H](O)[C@@H](O)[C@H](O)CO%11)[C@H](O)[C@@H](CO)O9)[C@H](O)[C@H]8O)CC1
 Acid red 88	[Na+].O=S(=O)([O-])c3ccc(N=Nc1c(O)ccc2ccccc12)c4ccccc34
 Gephyrotoxin	C#C\C=C/C[C@@H]3[C@H]2CC[C@H]1N([C@H](CC1)CCO)[C@H]2CCC3
-Tauroursodeoxycholic acid	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
 Sophoraflavanone G	[H][C@@](CC=C(C)C)(Cc1c(O)cc(O)c2C(=O)C[C@H](Oc12)c1ccc(O)cc1O)C(C)=C
 Naphthionic acid	c1ccc2c(c1)c(ccc2S(=O)(=O)O)N
 Michellamine	Oc1c8c(c(c(O)c1)c2cc(c(O)c3c2cc(cc3OC)C)c7c(O)c4c(cc(cc4OC)C)c(c5c(O)cc(O)c6c5C[C@H](N[C@@H]6C)C)c7)C[C@H](N[C@@H]8C)C
@@ -19510,4 +19509,6 @@ Avutometinib	CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)
 Capomycin	CCCCC/C=C/C=C/C(=O)OC1C(OC(CC1O)C2=C(C3=C(C=C2)C(=O)C4=C(C3=O)C=CC5(C4(C(=O)C=C(C5)C)O)O)O)C
 Belvarafenib	CC1=C(C2=C(C=C1)C(=NC=C2)NC3=C(C(=CC=C3)Cl)F)NC(=O)C4=CSC5=C4N=CN=C5N
 Tolvaptan phosphate	CC1=CC=CC=C1C(=O)NC2=CC(=C(C=C2)C(=O)N3CCCC(C4=C3C=CC(=C4)Cl)OP(=O)(O)O)C
+4H-Quinolizine	C1C=CC=C2N1C=CC=C2
+Quinolizinium	C1=CC=[N+]2C=CC=CC2=C1
 Tetramethylethylenediamine(dimethyl)nickel(II)	[CH3-].[CH3-].CN(C)CCN(C)C.[Ni]
