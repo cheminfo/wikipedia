@@ -110,7 +110,7 @@ Nitrous oxide	[N-]=[N+]=O
 Niacin	OC(=O)c1cccnc1
 Phenylalanine	c1ccc(cc1)C[C@@H](C(=O)O)N
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
-Nicotine	CN1CCC[C@H]1C1=CC=CN=C1
+Nicotine	c1ncccc1[C@@H]2CCCN2C
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	NC1=NC=NC2=C1N=CN2
 Proline	C1C[C@H](NC1)C(=O)O
@@ -1747,6 +1747,7 @@ Thionyl chloride	ClS(Cl)=O
 Meprobamate	O=C(N)OCC(C)(CCC)COC(N)=O
 Synephrine	CNCC(O)c1ccc(O)cc1
 Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
+Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C
 Mannitol hexanitrate	C([C@H]([C@H]([C@@H]([C@@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Boron trifluoride	FB(F)F
 2-Methylindole	Cc2cc1ccccc1[nH]2
@@ -19482,6 +19483,7 @@ Drimentine G	CC(C)[C@H]1C(=O)N2[C@@H](C[C@@]3([C@H]2NC4=CC=CC=C43)C[C@H]5C(=C)CC
 Diethylene glycol diglycidyl ether	C1C(O1)COCCOCCOCC2CO2
 Abequose	C[C@H]([C@@H](C[C@H](C=O)O)O)O
 Abequose	C[C@@H]1[C@@H](C[C@H](C(O1)O)O)O
+Azirinomycin	CC1=NC1C(=O)O
 Tapinarof	CC(C)c1c(cc(cc1O)/C=C/c2ccccc2)O
 Thiosarin	CC(C)OP(=S)(C)F
 Axinelline A	CCOC(=O)[C@H](CO)NC(=O)C1=C(C(=CC=C1)O)O
@@ -19513,3 +19515,5 @@ Quinolizinium	C1=CC=[N+]2C=CC=CC2=C1
 Tetramethylethylenediamine(dimethyl)nickel(II)	[CH3-].[CH3-].CN(C)CCN(C)C.[Ni]
 Flavensomycin	CCCCCCCCCCCCCCCC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC/C=C/CCOC(=O)/C=C/C(=O)NC1=C(CCC1=O)O
 Lac-Phe	C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)O
+Penta-1,4-diyne	C#CCC#C
+O-1656	CCCCCCC(C)(C)C1=CC(=C(C(=C1)O)C2CCCCCC2)O
