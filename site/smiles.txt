@@ -13285,6 +13285,7 @@ Cobalt(II) phosphide	[P-3].[P-3].[Co+2].[Co+2].[Co+2]
 Cobalt(II) formate	C(=O)[O-].C(=O)[O-].[Co+2]
 Nickel(II) titanate	[O-2].[O-2].[O-2].[Ti+4].[Ni+2]
 Nickel(II) nitrite	N(=O)[O-].N(=O)[O-].[Ni+2]
+Tracheal cytotoxin	C[C@@H](C(=O)N[C@H](CCC(=O)N[C@@H](CCC[C@H](C(=O)O)N)C(=O)N[C@H](C)C(=O)O)C(=O)O)NC(=O)[C@@H](C)O[C@@H]1[C@H]([C@@H]2OC[C@H]([C@H]1O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)NC(=O)C)O2)NC(=O)C
 EAM-2201	CCC1=CC=C(C(C2=CN(CCCCCF)C3=C2C=CC=C3)=O)C4=C1C=CC=C4
 APICA (synthetic cannabinoid drug)	CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c5ccccc15
 Fluorodopa	C1=C(C(=CC(=C1O)O)F)CC(C(=O)O)N
@@ -16491,7 +16492,7 @@ Timoprazole	n1ccccc1CS(=O)c2[nH]c3ccccc3n2
 Trilaciclib	CN1CCN(CC1)C1=CN=C(NC2=NC3=C(C=C4N3C3(CCCCC3)CNC4=O)C=N2)C=C1
 Disodium helide	[Na].[Na].[He]
 Peficitinib	NC(=O)c1cnc2[nH]ccc2c1NC1[C@H]2CC3C[C@@H]1CC(O)(C3)C2
-Silver(I) hyponitrite	N(=N[O-])[O-].[Ag+].[Ag+]
+Silver hyponitrite	N(=N[O-])[O-].[Ag+].[Ag+]
 Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)CC)CC)C(=C3CC)CC)CC
 10-Methacryloyloxydecyl dihydrogen phosphate	CC(=C)C(=O)OCCCCCCCCCCOP(=O)(O)O
 Ponceau 3R	CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]
@@ -18942,7 +18943,7 @@ Tetraphenylarsonium chloride	C1=CC=C(C=C1)[As+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=C
 1,2-Bis(diphenylphosphino)ethylene	C1=CC=C(C=C1)P(/C=C\P(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
 Conopharyngine	CCC1CC2CC3(C1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC)C(=O)OC
 Manganese oxalate	C(=O)(C(=O)[O-])[O-].[Mn+2]
-Tin oxalate	C(=O)(C(=O)O)O.[Sn]
+Tin(II) oxalate	C(=O)(C(=O)O)O.[Sn]
 Neptunium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Np]
 Plutonium selenide	[Pu].[Se]
 Samarium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Sm+3].[Sm+3]
