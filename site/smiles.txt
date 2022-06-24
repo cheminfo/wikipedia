@@ -4765,7 +4765,6 @@ Thiirane	C1CS1
 Bis(benzene)chromium	c1ccccc1.[Cr].c1ccccc1
 JWH-133	O3c1cc(ccc1[C@@H]2C\C(=C/C[C@H]2C3(C)C)C)C(C)(C)CCC
 Naftidrofuryl	O=C(OCCN(CC)CC)C(Cc2c1ccccc1ccc2)CC3OCCC3
-Methyl pentanoate	O=C(OC)CCCC
 Decamethylcyclopentasiloxane	C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
 Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
@@ -11942,7 +11941,6 @@ L-741,626	OC(CC1)(C2=CC=C(Cl)C=C2)CCN1CC3=CNC4=CC=CC=C43
 L-368,899	CC1(C)[C@@]2(CS(N3CCN(C4=CC=CC=C4C)CC3)(=O)=O)CC[C@@H]1C[C@@H]2NC([C@H](CCS(C)(=O)=O)N)=O
 8-Carboxamidocyclazocine	C[C@H]1[C@H]2Cc3ccc(cc3[C@]1(CCN2CC4CC4)C)C(=O)N
 Biotin sulfoxide	C1[C@H]2[C@@H]([C@@H](S1=O)CCCCC(=O)O)NC(=O)N2
-Sapotalin	CC1=CC2=C(C=C1)C=CC(=C2C)C
 Nickel(II) acetate	[Ni+2].[O-]C(=O)C.[O-]C(=O)C
 Nickel(II) acetate	O=C(C)O[Ni]OC(C)=O
 Nickel(II) acetate	O=C(C)O[Ni-4](OC(C)=O)([O+H2])([O+H2])([O+H2])[O+H2]
@@ -14061,7 +14059,6 @@ Cepharanthine	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=
 Cepharanoline	CN1CCC2=CC3=C(C4=C2[C@@H]1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)C[C@@H]7C8=CC(=C(C=C8CCN7C)OC)O4)O)OCO3
 Pluramycin A	C/C=C/C1C(O1)(C)C2=CC(=O)C3=C(O2)C4=C(C=C3C)C(=O)C5=C(C4=O)C(=C(C=C5C6CC(C(C(O6)C)O)N(C)C)C7CC(C(C(O7)C)OC(=O)C)(C)N(C)C)O
 Myrtenol	CC1(C2CC=C(C1C2)CO)C
-Stromemycin	CCC/C=C/C=C/CCC1=CC(=C(C=C1OC(=O)C2=C(C(=C(C=C2CC/C=C/C=C/CCC)O)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)C(=O)O
 Affinine	C/C=C1CN(C)[C@H]2CC3=C(C(C[C@H]/1[C@]2(C)CO)=O)NC4=C3C=CC=C4
 Norharmine	COC1=CC2=C(C=C1)C3=C(N2)C=NC=C3
 Norscopolamine	C1[C@@H]2[C@@H]3[C@@H](O3)[C@@H](N2)CC1OC(=O)[C@H](CO)C4=CC=CC=C4
@@ -19144,7 +19141,7 @@ Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
 Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
 Selenium iodide	I[Se][Se]I
-Gallium 68 PSMA-11	[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[68Ga+3]
+Gallium (68Ga) gozetotide	[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[68Ga+3]
 Osmium tetrabromide	[Br-].[Br-].[Br-].[Br-].[Os+4]
 Trifluoroacetonitrile	FC(F)(F)C#N
 Sodium ozonide	[Na+].[O-]O[O]
@@ -19494,6 +19491,7 @@ Tetraiodine nonoxide	O=I(=O)OI(OI(=O)=O)OI(=O)=O
 EA-1763	CCCOP(=O)(C)SCCN(C(C)C)C(C)C
 Pretenellin A	CCC(C)/C=C(\C)/C=C/C(=C\1/C(=O)C(NC1=O)CC2=CC=C(C=C2)O)/[O-]
 Cercosporin	CC(CC1=C2C3=C(C(=C(C4=C3C5=C6C2=C(C(=O)C=C6OCOC5=CC4=O)C(=C1OC)O)O)OC)CC(C)O)O
+Tilivalline	C1CC2C(NC3=C(C=CC=C3O)C(=O)N2C1)C4=CNC5=CC=CC=C54
 Penitanzacid F	OC(/C=C/C=C/C([C@@]1([C@]([H])(C[C@](O)(C[C@H]1C)C)CC2=O)[H])=C2C)=O
 Phenyl glycidyl ether	C1C(O1)COC2=CC=CC=C2
 Ammonium ozonide	[NH4+].[O-]O[O]
@@ -19501,6 +19499,7 @@ Tetracenomycin C	O=C1C=2C(C(=O)[C@@]3(O)[C@]1(O)[C@H](O)C(OC)=CC3=O)=C(O)C=4C(C2
 Magnesium ozonide	[Mg+].[O-]O[O]
 Hordatine A	C1=CC(=CC=C1[C@@H]2[C@H](C3=C(O2)C=CC(=C3)/C=C/C(=O)NCCCCN=C(N)N)C(=O)NCCCCN=C(N)N)O
 Hordatine A	C1=CC(=CC=C1C2C(C3=C(O2)C(=CC(=C3)C=CC(=O)NCCCCN=C(N)N)O)C(=O)NCCCCN=C(N)N)OC4C(C(C(C(O4)CO)O)O)O
+Prescopranone	C/C=C(CC)/c1oc(=O)c(CCC)c(O)c1CC(CC)CC
 Saphenamycin	CC1=C(C(=CC=C1)O)C(=O)OC(C)C2=CC=CC3=NC4=C(C=CC=C4N=C32)C(=O)O
 Saphenamycin	C[C@@H](OC(=O)c1c(C)cccc1O)c2cccc3nc4c(cccc4nc23)C(=O)O
 Lemonomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)OC[C@H]2C3=C(C[C@@H]4N2[C@H]([C@@H]5C[C@H]([C@H]4N5)C(O)O)O)C(=O)C(=C(C3=O)OC)C)(C)O)N(C)C
@@ -19518,3 +19517,4 @@ Flavensomycin	CCCCCCCCCCCCCCCC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=
 Lac-Phe	C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)O
 1,4-Pentadiyne	C#CCC#C
 O-1656	CCCCCCC(C)(C)C1=CC(=C(C(=C1)O)C2CCCCCC2)O
+Cinnamonitrile	C(=C/C#N)\C1=CC=CC=C1
