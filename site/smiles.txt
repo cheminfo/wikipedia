@@ -11233,7 +11233,7 @@ Dinaphthylene dioxide	O2c1cccc5c1c4c3c2ccc6c3c(Oc4cc5)ccc6
 Myricetin 3-O-rutinoside	CC1[C@@H]([C@@H](C([C@@H](O1)OCC2[C@H](C(C([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C(=C5)O)O)O)O)O)O)O)O)O
 2-Octyl cyanoacrylate	C=C(C#N)C(OC(C)CCCCCC)=O
 Glucogallin	CO[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC(=O)c2cc(c(c(c2)O)O)O)O)O)O
-Tellurium iodide	[Te]I
+Tellurium monoiodide	[Te]I
 Eugenin	O=C\1c2c(O/C(=C/1)C)cc(OC)cc2O
 Eugenitin	O=C\1c2c(O)c(c(OC)cc2O/C(=C/1)C)C
 Dimethylmagnesium	C[Mg]C
@@ -19245,9 +19245,9 @@ Gadolinium phosphide	[Gd]#P
 2-Acetylthiophene	CC(=O)C1=CC=CS1
 Thiophene-2-acetic acid	C1=CSC(=C1)CC(=O)O
 Berkelium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Bk+3]
-Plutonium phosphide	[P].[Pu]
+Plutonium(III) phosphide	[P].[Pu]
 (Trimethylsilyl)methyllithium	[Li+].C[Si](C)(C)[CH2-]
-Plutonium arsenide	[As].[Pu]
+Plutonium(III) arsenide	[As].[Pu]
 5-Chloro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)Cl
 Samarium arsenide	[As]#[Sm]
 ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
@@ -19517,4 +19517,7 @@ Flavensomycin	CCCCCCCCCCCCCCCC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=
 Lac-Phe	C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)O
 1,4-Pentadiyne	C#CCC#C
 O-1656	CCCCCCC(C)(C)C1=CC(=C(C(=C1)O)C2CCCCCC2)O
+Titanium(III) sulfide	[S-2].[S-2].[S-2].[Ti+3].[Ti+3]
 Cinnamonitrile	C(=C/C#N)\C1=CC=CC=C1
+Pyrrolostatin	CC(=CCC/C(=C/CC1=CNC(=C1)C(=O)O)/C)C
+Holmium acetate	CC(=O)O.CC(=O)O.CC(=O)O.[Ho]
