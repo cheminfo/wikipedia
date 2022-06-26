@@ -4765,6 +4765,7 @@ Thiirane	C1CS1
 Bis(benzene)chromium	c1ccccc1.[Cr].c1ccccc1
 JWH-133	O3c1cc(ccc1[C@@H]2C\C(=C/C[C@H]2C3(C)C)C)C(C)(C)CCC
 Naftidrofuryl	O=C(OCCN(CC)CC)C(Cc2c1ccccc1ccc2)CC3OCCC3
+Methyl pentanoate	O=C(OC)CCCC
 Decamethylcyclopentasiloxane	C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
 Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
@@ -13483,6 +13484,7 @@ Isocodeine	O[C@@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OC)ccc3C4)C
 Desocodeine	O(c2c1O[C@@H]5[C@@]34c1c(cc2)C[C@@H](N(CC3)C)[C@@H]4CCC5)C
 Phosphatrioxa-adamantane	C[C@@]12C[C@]3(O[C@@](O1)(C[C@@](O2)(P3)C)C)C
 Chlorohydroxyphenylglycine	Clc1ccc(O)cc1C(N)C(=O)O
+Metaborate	B(=O)[O-]
 TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC
 TAS-108	CCN(CC)CC1=CC(=C(C=C1)OCC[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3[C@@H](CC5=C4C=CC(=C5)O)C)C)OC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Cyclotetradecane	C1CCCCCCCCCCCCC1
@@ -18699,7 +18701,7 @@ Terrein	C/C=C/C1=CC(=O)[C@@H]([C@H]1O)O
 Indaziflam	C[C@H]1CC2=C([C@@H]1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
 7-Hydroxycannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)CO)O
 Ammonium selenide	[NH4+].[NH4+].[Se-2]
-Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(=O)(=O)C4CC4)nn(CC(F)F)c23)c([C@@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)F)c3c2C(F)(F)[C@H]2C[C@@H]32)n1)S(C)(=O)=O
+Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O
 Delta-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
 Tetraethylammonium tetrachloroferrate	CC[N+](CC)(CC)CC.[Cl-].Cl[Fe](Cl)Cl
@@ -19521,3 +19523,4 @@ Titanium(III) sulfide	[S-2].[S-2].[S-2].[Ti+3].[Ti+3]
 Cinnamonitrile	C(=C/C#N)\C1=CC=CC=C1
 Pyrrolostatin	CC(=CCC/C(=C/CC1=CNC(=C1)C(=O)O)/C)C
 Holmium acetate	CC(=O)O.CC(=O)O.CC(=O)O.[Ho]
+Tetraboric acid	OB(OB=O)OB(O)OB=O
