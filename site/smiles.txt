@@ -4102,7 +4102,7 @@ Vanadium(IV) oxide	O=[V]=O
 Vanadium(III) oxide	[O-2].[V+3].[O-2].[V+3].[O-2]
 Vanadium(II) oxide	[V+2].[O-2]
 4-Androstene-3,6,17-trione	O=C4\C1=C\C(=O)CC[C@@]1([C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3C4)C)C
-Xenic acid	O[Xe](=O)(=O)O
+Xenic acid	O[Xe](O)(=O)=O
 Tetramethylethylenediamine	CN(C)CCN(C)C
 Calcium citrate malate	C(C(C(=O)OC(CC(=O)[O-])(CC(=O)[O-])C(=O)[O-])O)C(=O)O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Ca+2].[Ca+2].[Ca+2]
 Copper(II) bromide	[Cu+2].[Br-].[Br-]
@@ -6827,7 +6827,7 @@ Sodium ferrocyanide	[Na+].[Na+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[Na+].[Na+]
 MK-9470	CCOc1ccc(C[C@H]([C@H](C)NC(=O)C(C)(C)Oc2ccc(C)cn2)c3cccc(c3)C#N)cc1
 POPOP	C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C4=NC=C(O4)C5=CC=CC=C5
 Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C@H]3CC[C@@]4([C@H]5CC[C@@H]6[C@H]7[C@@](C[C@@H](O[C@@]78C[C@]6([C@@]5(CC[C@H]4C3(C)C)C)CO8)C=C(C)C)(C)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)OC(=O)C)OC(=O)C)C)O)O)O
-Disodium octaborate tetrahydrate	B(=O)OB1OB2OB(OB(OB(O2)OB(O1)OB=O)[O-])[O-].O.O.O.O.[Na+].[Na+]
+Disodium octaborate	B(=O)OB1OB2OB(OB(OB(O2)OB(O1)OB=O)[O-])[O-].[Na+].[Na+]
 Gadolinium(III) nitrate	[Gd+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Bixin	O=C(O)\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(/C=C/C(=O)OC)C)C)C)C
 Capsanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C(=O)[C@@]2(C[C@H](CC2(C)C)O)C)/C)/C
@@ -19476,7 +19476,7 @@ Rubellin B	CC1=CC2=C(C(=C1)O)C(=O)O[C@@H]3[C@@H](C=C[C@H]4[C@]3([C@H]2O)CC5=CC(=
 Streptopyrrole	CCCC1=C(C2=C(C=C1O)OC3=CC(=CN3C2=O)Cl)O
 Mevidalen	C[C@H]1C2=CC=CC(=C2C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)CCC(C)(C)O
 Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=O)O
-Lutetium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Lu+3]
+Lutetium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Lu+3]
 Tautomycetin	CCC(=CC(=O)CC(C)CC(C)CCC(C(C)C(=O)CC(C(C)C(C)OC(=O)CC(C1=C(C(=O)OC1=O)C)O)O)O)C=C
 Aurenin	CCCCCC(C1C(CC(CC(CC(CC(C(C(/C(=C\C=C/C=C\C=C/C=C\C(C(OC1=O)C)O)/C)O)O)O)O)O)O)O)O
 AZ12216052	CCC(C)C1=CC=C(C=C1)NC(=O)CSCC2=CC=C(C=C2)Br
@@ -19525,4 +19525,14 @@ Cinnamonitrile	C(=C/C#N)\C1=CC=CC=C1
 Pyrrolostatin	CC(=CCC/C(=C/CC1=CNC(=C1)C(=O)O)/C)C
 Holmium acetate	CC(=O)O.CC(=O)O.CC(=O)O.[Ho]
 Tetraboric acid	OB(OB=O)OB(O)OB=O
+2-Pinanol	CC1(C2CCC(C1C2)(C)O)C
+2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@](C)(O)CC2
+2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@@](C)(O)CC2
+Pinane	CC1CCC2CC1C2(C)C
+Pinane	C[C@H]1CC[C@H]2C[C@@H]1C2(C)C
+Pinane	C[C@@H]1CC[C@H]2C[C@@H]1C2(C)C
 Zirconium(III) bromide	Br[Zr](Br)Br
+Fosmanogepix	c1ccnc(c1)OCc2ccc(cc2)Cc3cc(on3)c4ccc[n+](c4N)COP(=O)(O)[O-]
+Disodium enneaborate	[Na+].[Na+].[O]B1O[B-]2(OB(O)OB(O)O2)OB(O1)O[B-]3OB(O)OB(O)O3.OB(O)O.O.O
+Sodium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[Na+]
+Trisodium borate	B([O-])([O-])[O-].[Na+].[Na+].[Na+]
