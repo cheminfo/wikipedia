@@ -1231,6 +1231,7 @@ Chitosan	COC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C
 Clobetasol propionate	ClCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C
 Nitrogen trichloride	ClN(Cl)Cl
 Clobetasol	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)O)C)O)F)C
+Pentalene	C1=CC2=CC=CC2=C1
 Silver fulminate	[C-]#[N+][O-].[Ag+]
 Zafirlukast	Cc1ccccc1S(=O)(=O)NC(=O)c2cc(OC)c(cc2)Cc3cn(C)c4ccc(cc43)NC(=O)OC5CCCC5
 Zileuton	O=C(N)N(O)C(c2sc1ccccc1c2)C
@@ -3673,7 +3674,7 @@ Rubidium fluoride	[Rb+].[F-]
 1,5-Cyclooctadiene	C1CC=CCCC=C1
 Hesperidin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)[C@@H](O)[C@H](O)[C@H]2O)cc5O[C@H](c3ccc(OC)c(O)c3)C4
 Chromium(II) chloride	Cl[Cr]Cl
-Pralidoxime	O=[NH+]C=C1\C=C/C=C\N1C
+Pralidoxime	ON=Cc1cccc[n+]1C
 Silver(I,III) oxide	[Ag]O[Ag].O=[Ag]O[Ag]=O
 S-Allylcysteine	O=C(O)[C@@H](N)CSC\C=C
 Tellurium hexafluoride	F[Te](F)(F)(F)(F)F
@@ -19540,3 +19541,5 @@ Trisodium borate	B([O-])([O-])[O-].[Na+].[Na+].[Na+]
 Niobium oxalate	[Nb].O=C(O)C(=O)O
 M320 (opioid)	CC(C)CC[C@](C)([C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
+XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
+LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
