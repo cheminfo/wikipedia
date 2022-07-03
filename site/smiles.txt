@@ -4760,6 +4760,7 @@ Bicinchoninic acid	O=C(O)c1cc(nc2c1cccc2)c3nc4ccccc4c(c3)C(=O)O
 Gusperimus	N=C(N)NCCCCCCC(=O)NC(O)C(=O)NCCCCNCCCN
 Pefloxacin	O=C(O)\C2=C\N(c1cc(c(F)cc1C2=O)N3CCN(C)CC3)CC
 Cinoxacin	O=C1c3c(N(\N=C1\C(=O)O)CC)cc2OCOc2c3
+Endomorphin	C1C[C@H](N(C1)C(=O)[C@H](CC2=CC=C(C=C2)O)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N
 Propargyl alcohol	C#CCO
 Lefetamine	CN([C@@H](C1=CC=CC=C1)CC2=CC=CC=C2)C
 Thiirane	C1CS1
@@ -15148,6 +15149,7 @@ Polmacoxib	CC1(C(=O)C(=C(O1)C2=CC=C(C=C2)S(=O)(=O)N)C3=CC(=CC=C3)F)C
 Ledipasvir/sofosbuvir	CC(C)C(C(=O)N1CC2(CC2)CC1C3=NC=C(N3)C4=CC5=C(C=C4)C6=C(C5(F)F)C=C(C=C6)C7=CC8=C(C=C7)N=C(N8)C9C1CCC(C1)N9C(=O)C(C(C)C)NC(=O)OC)NC(=O)OC.CC(C)OC(=O)C(C)NP(=O)(OCC1C(C(C(O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3
 Cyclic di-AMP	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
 SRX246	O=C1[C@@H](N2C(OC[C@@H]2C3=CC=CC=C3)=O)[C@@H](/C=C/C4=CC=CC=C4)N1[C@@H](C(N[C@H](C)C5=CC=CC=C5)=O)CC(N6CCC(N7CCCCC7)CC6)=O
+Tetramethylammonium auride	C[N+](C)(C)C.[Au-]
 Radalbuvir	CC1=CC[C@@H](CC1)C(=O)N([C@H]2CC[C@](CC2)(O)CO[C@@H]3COCC3)c4c(sc(c4)C#CC(C)(C)C)C(=O)O
 Beclabuvir	CN1C[C@H]2CC[C@@H](C1)N2C(=O)[C@]34C[C@H]3c5cc(ccc5-c6c(c7ccc(cc7n6C4)C(=O)NS(=O)(=O)N(C)C)C8CCCCC8)OC
 Gepotidacin	c1cc(=O)n2c3c1ncc(=O)n3[C@@H](C2)CN4CCC(CC4)NCc5cc6c(cn5)OCCC6
@@ -19543,3 +19545,4 @@ M320 (opioid)	CC(C)CC[C@](C)([C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
+Neodymium acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Nd]
