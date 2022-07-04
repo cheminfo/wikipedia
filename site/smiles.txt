@@ -19521,6 +19521,7 @@ Quinolizinium	C1=CC=[N+]2C=CC=CC2=C1
 Tetramethylethylenediamine(dimethyl)nickel(II)	[CH3-].[CH3-].CN(C)CCN(C)C.[Ni]
 Flavensomycin	CCCCCCCCCCCCCCCC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC(=O)CC/C=C/CCOC(=O)/C=C/C(=O)NC1=C(CCC1=O)O
 Lac-Phe	C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)O
+Alamandine	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[C@H]2C(=O)O)NC(=O)[C@H](CC3=CC=C(C=C3)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)N
 1,4-Pentadiyne	C#CCC#C
 O-1656	CCCCCCC(C)(C)C1=CC(=C(C(=C1)O)C2CCCCCC2)O
 Titanium(III) sulfide	[S-2].[S-2].[S-2].[Ti+3].[Ti+3]
@@ -19546,3 +19547,13 @@ Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
 Neodymium acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Nd]
+Ardisiaquinone	COC1=CC(=O)C(=C(C1=O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
+Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
+Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)OC
+Ardisiaquinone	COC1=CC(=O)C(=C(C1=O)CCCCCCC/C=C\CCCCCCCC2=CC(=CC(=C2)O)O)O
+Ardisiaquinone	CC1=C(C=C(C=C1O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
+Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)OC(=O)C)CCCCCCCCCCCCCC2=C(C(=O)C(=C(C2=O)OC(=O)C)C)O)O
+2,2,3,3-Tetrafluoropropyl trifluoromethyl ether	C(C(C(F)F)(F)F)OC(F)(F)F
+Triacetylmethane	CC(=O)C(C(=O)C)C(=O)C
+2,4,6-Heptanetrione	CC(=O)CC(=O)CC(=O)C
+Neodymium bismuthide	[Nd].[Bi]
