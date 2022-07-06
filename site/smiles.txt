@@ -1535,7 +1535,7 @@ Caesium fluoride	[F-].[Cs+]
 Methylmercury	C[Hg]
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Cisplatin	[NH3+]-[Pt-2](Cl)(Cl)[NH3+]
-Pyrene	c1cc2cccc3ccc4cccc1c4c32
+Pyrene	c1cc2cccc3c2c4c1cccc4cc3
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
 Sodium thiosulfate	[Na+].[Na+].[O-]S([O-])(=O)=S
@@ -19558,3 +19558,4 @@ Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)OC(=O)C)CCCCCCCCCCCCCC2=C(C(=O)C(=C(C2=O)OC(
 Triacetylmethane	CC(=O)C(C(=O)C)C(=O)C
 2,4,6-Heptanetrione	CC(=O)CC(=O)CC(=O)C
 Neodymium bismuthide	[Nd].[Bi]
+Europium(II) sulfate	[O-]S(=O)(=O)[O-].[Eu+2]
