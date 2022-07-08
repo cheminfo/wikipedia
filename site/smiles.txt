@@ -2523,6 +2523,7 @@ Hydroxystilbamidine	Oc2cc(ccc2/C=C/c1ccc(cc1)C(N)=N)C(N)=N
 Ropivacaine	O=C(Nc1c(cccc1C)C)[C@H]2N(CCC)CCCC2
 Meldrum's acid	O=C1OC(OC(=O)C1)(C)C
 Methanandamide	O=C(N[C@H](C)CO)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
+Fomepizole	CC1=CNN=C1
 Sodium dithiophosphate	[O-]P(=S)([O-])[S-].[Na+].[Na+].[Na+]
 Dithiothreitol	C([C@H]([C@@H](CS)O)O)S
 N-Nitrosonornicotine	O=NN2CCC[C@H]2c1cnccc1
@@ -10876,7 +10877,7 @@ Alprenoxime	O(c1ccccc1C\C=C)C\C(=N\O)CNC(C)C
 Xipranolol	O(CC(O)CNC(C)C)C(c1c(cccc1C)C)c2c(cccc2C)C
 Xibenolol	O(c1cccc(c1C)C)CC(O)CNC(C)(C)C
 Esreboxetine	CCOC1=CC=CC=C1O[C@H]([C@@H]2CNCCO2)C3=CC=CC=C3
-C55-isoprenyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/COP(=O)(O)OP(=O)(O)O)/C)/C)/C)/C)/C)/C)/C)/C)/C)/C)C
+C55-isoprenyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C\CC/C(=C\CC/C(=C\CC/C(=C\CC/C(=C\CC/C(=C\CC/C(=C\CC/C(=C\COP(=O)(O)OP(=O)(O)O)/C)/C)/C)/C)/C)/C)/C)/C)/C)/C)C
 Eterobarb	CCC1(C(=O)N(C(=O)N(C1=O)COC)COC)C2=CC=CC=C2
 Vabicaserin	C1C[C@H]2CN3CCNCC4=C3C(=CC=C4)[C@H]2C1
 Pardoprunox	Cl.O=C2Oc1c(cccc1N2)N3CCN(C)CC3
@@ -13897,6 +13898,7 @@ Sterculinine	CCCCOC(=O)C[C@H](C(=O)O)NC(=O)C1=CC(=O)NC2=CC=CC=C21
 Epoxyagroclavine	C[C@@]12CN([C@@H]3Cc4c[nH]c5c4c(ccc5)[C@@H]3[C@@H]1O2)C
 Meleagrin	CC(C)(C=C)[C@@]12C=C(C(=O)N\3[C@]1(NC(=O)/C3=C\c4c[nH]cn4)N(c5c2cccc5)OC)O
 Questiomycin A	C1=CC=C2C(=C1)N=C3C=C(C(=O)C=C3O2)N
+Rugulovasine	O=C1OC2(C=C1C)C=3C=CC=C4NC=C(C43)CC2NC
 Costaclavin	C[C@@H]1C[C@@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 Ternatin heptapeptide	CCC(C)C1C(=O)N(C(C(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)NC(C(=O)N1)C(C(C)C)O)C)C)C)C)CC(C)C)CC(C)C)C)C)C
 Ternatin heptapeptide	CC[C@H](C)[C@H]1NC(=O)[C@@H]([C@H](O)C(C)C)NC(=O)[C@@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)N(C)C1=O
