@@ -15193,7 +15193,7 @@ AT-076	CC(C)[C@@H](CN1CCC(CC1)C2=CC(=CC=C2)O)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
 BU09059	CCOC(=O)C(CN1CC[C@](C)([C@@H](C)C1)c2cccc(O)c2)NC(=O)[C@H]3Cc4ccc(O)cc4CN3
 Samatasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]c3ccc(cc3n2)c4csc5c4scc5c6ccc(cc6)c7c[nH]c(n7)[C@@H]8CCCN8C(=O)[C@@H](c9ccccc9)NC(=O)OC)NC(=O)OC
 Omaveloxolone	O=C4C(\C#N)=C/[C@@]5(/C3=C/C(=O)[C@H]2[C@](CC[C@@]1(NC(=O)C(F)(F)C)CCC(C)(C)C[C@H]12)(C)[C@]3(C)CC[C@H]5C4(C)C)C
-Mirogabalin	COC(=O)CC1(CN)CC2C1C=C(CC)C2
+Mirogabalin	CCC1=CC2C(C1)C[C@@]2(CN)CC(=O)O
 Involutin	O[C@H]1[C@H](C(=O)C(=C1O)C1=CC=C(O)C=C1)C1=CC=C(O)C(O)=C1
 Cyclobis(paraquat-p-phenylene)	c1cc2ccc1C[n+]3ccc(cc3)-c4cc[n+](cc4)Cc5ccc(cc5)C[n+]6ccc(cc6)-c7cc[n+](cc7)C2
 Trimethylhexamethylenediamine	CC(CC(C)(C)CCN)CN
@@ -19564,3 +19564,5 @@ Europium(II) sulfate	[O-]S(=O)(=O)[O-].[Eu+2]
 Praseodymium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pr+3]
 Praseodymium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Pr+3].[Pr+3]
 Neodymium(III) oxalate	[Nd+3].[Nd+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
+Allyltrimethylsilane	C[Si](C)(C)CC=C
+Neodymium(II) bromide	[Br-].[Br-].[Nd+2]
