@@ -671,7 +671,7 @@ Salbutamol	CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O
 5-MeO-DMT	COc2ccc1[nH]cc(CCN(C)C)c1c2
 Butadiene	C=CC=C
 Androstenedione	O=C4/C=C3/CC[C@@H]2[C@H](CC[C@@]1(C(=O)CC[C@H]12)C)[C@@]3(C)CC4
-Triiodothyronine	c1cc(c(cc1Oc2c(cc(cc2I)C[C@@H](C(=O)O)N)I)I)O
+Triiodothyronine	OC(=O)[C@@H](N)Cc1cc(I)c(c(I)c1)Oc2ccc(O)c(I)c2
 Gallium nitride	[Ga]#N
 Gallium nitride	[Ga+3].[N-3]
 Androsterone	O=C2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4C[C@H](O)CC[C@]34C)C
