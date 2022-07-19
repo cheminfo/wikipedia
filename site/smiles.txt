@@ -10483,7 +10483,7 @@ Perfluorooctanesulfonyl fluoride	C(C(C(C(C(F)(F)S(=O)(=O)F)(F)F)(F)F)(F)F)(C(C(C
 Combretastatin A-1	COC1=C(C(=C(C=C1)C=CC2=CC(=C(C(=C2)OC)OC)OC)O)O
 Ambazone	NC(=S)N\N=C1\C=C/C(=N\NC(N)=N)/C=C1
 Palmitoylethanolamide	CCCCCCCCCCCCCCCC(=O)NCCO
-Combretastatin A-4 phosphate	O=P(O)(O)Oc1c(OC)ccc(c1)\C=C/c2cc(OC)c(OC)c(OC)c2
+Fosbretabulin	O=P(O)(O)Oc1c(OC)ccc(c1)\C=C/c2cc(OC)c(OC)c(OC)c2
 Losmapimod	C3CC3NC(=O)c(cc(F)c1C)cc1-c(cc2)ncc2C(=O)NCC(C)(C)C
 Naloxonazine	C=CCN1[C@H]2[C@]3([C@]4(C5=C(C2)C=CC(=C5O[C@H]4/C(=N/N=C\6/[C@@H]7OC8=C(C=CC9=C8[C@]72[C@]([C@@H](C9)N(CC2)CC=C)(CC6)O)O)/CC3)O)CC1)O
 Olivetol	CCCCCC1=CC(=CC(=C1)O)O
@@ -10573,7 +10573,7 @@ Caffeic acid phenethyl ester	O=C(OCCc1ccccc1)\C=C\c2cc(O)c(O)cc2
 Furoin	O=C(c1occc1)C(O)c2occc2
 Elephantopin	O=C1C(C[C@H](OC(C(C)=C)=O)[C@@]23[H])=CC(O1)C[C@]4(C)[C@H](O4)[C@@]3([H])OC(C2=C)=O
 Proadifen	O=C(OCCN(CC)CC)C(c1ccccc1)(c2ccccc2)CCC
-1,2-Dimethylhydrazine	CNNC
+Symmetrical dimethylhydrazine	CNNC
 4-Phenyl-1,2,4-triazole-3,5-dione	c1ccc(cc1)N2C(=O)N=NC2=O
 Medroxalol	O=C(N)c1cc(ccc1O)C(O)CNC(C)CCc2ccc3OCOc3c2
 Metralindole	CN1CCN2C3=C(C=C(C=C3)OC)C4=C2C1=NCC4
@@ -19544,7 +19544,7 @@ Fosmanogepix	c1ccnc(c1)OCc2ccc(cc2)Cc3cc(on3)c4ccc[n+](c4N)COP(=O)(O)[O-]
 Cineromycin B	C[C@H]1CC/C=C(\[C@H](/C=C\[C@@](/C=C\C(=O)O[C@@H]1C)(C)O)O)/C
 Disodium enneaborate	[Na+].[Na+].[O]B1O[B-]2(OB(O)OB(O)O2)OB(O1)O[B-]3OB(O)OB(O)O3.OB(O)O.O.O
 Sodium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[Na+]
-Trisodium borate	B([O-])([O-])[O-].[Na+].[Na+].[Na+]
+Trisodium orthoborate	B([O-])([O-])[O-].[Na+].[Na+].[Na+]
 Niobium oxalate	[Nb].O=C(O)C(=O)O
 M320 (opioid)	CC(C)CC[C@](C)([C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
@@ -19570,3 +19570,4 @@ Neodymium(II) bromide	[Br-].[Br-].[Nd+2]
 Lithium tritelluride	[Li].[Te].[Te].[Te]
 Europium(II) titanate	O=[Ti-2](=O)(=O).[Eu+2]
 Chalepensin	CC(C)(C=C)C1=CC2=C(C=C3C(=C2)C=CO3)OC1=O
+Potassium trichloridocuprate(II)	Cl[Cu-](Cl)Cl.[K+]
