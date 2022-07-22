@@ -12002,7 +12002,7 @@ Cardamomin	COC1=CC(=CC(=C1C(=O)C=CC2=CC=CC=C2)O)O
 Cyclohexanedimethanol	C1CC(CCC1CO)CO
 Selenourea	NC(N)=[Se]
 Sulfur chloride pentafluoride	ClS(F)(F)(F)(F)F
-Isopropyl methoxy pyrazine	CC(C)C1=NC=CN=C1OC
+Isopropyl methoxypyrazine	CC(C)C1=NC=CN=C1OC
 N-Methylaniline	CNC1=CC=CC=C1
 Imazapic	O=C(O)c1c(ncc(c1)C)/C2=N/C(C(=O)N2)(C(C)C)C
 Potassium salicylate	[K+].O=C([O-])c1ccccc1O
@@ -19570,5 +19570,6 @@ Neodymium(II) bromide	[Br-].[Br-].[Nd+2]
 Lithium tritelluride	[Li].[Te].[Te].[Te]
 Europium(II) titanate	O=[Ti-2](=O)(=O).[Eu+2]
 Chalepensin	CC(C)(C=C)C1=CC2=C(C=C3C(=C2)C=CO3)OC1=O
-P-Isopropylphenol	CC(C)C1=CC=C(C=C1)O
+4-Isopropylphenol	CC(C)C1=CC=C(C=C1)O
 Potassium trichloridocuprate(II)	Cl[Cu-](Cl)Cl.[K+]
+Cerium(IV) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ce+4]
