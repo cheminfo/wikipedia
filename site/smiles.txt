@@ -4420,7 +4420,7 @@ Beta-Pinene	C1(=C)C2CC(CC1)C2(C)C
 Genipin	O=C(OC)\C1=C\O[C@@H](O)[C@@H]2\C(=C/C[C@H]12)CO
 DCMU	Clc1ccc(NC(=O)N(C)C)cc1Cl
 Lisofylline	O=C2N(c1ncn(c1C(=O)N2CCCC[C@H](O)C)C)C
-Dichlorobutane	C(CCCl)CCl
+1,4-Dichlorobutane	C(CCCl)CCl
 Antimony tribromide	[Br-].[Br-].[Br-].[SbH3+3]
 Antimony tribromide	Br[Sb](Br)Br
 Antimony triiodide	I[Sb](I)I
@@ -19531,8 +19531,10 @@ O-1656	CCCCCCC(C)(C)C1=CC(=C(C(=C1)O)C2CCCCCC2)O
 Titanium(III) sulfide	[S-2].[S-2].[S-2].[Ti+3].[Ti+3]
 Cinnamonitrile	C(=C/C#N)\C1=CC=CC=C1
 Pyrrolostatin	CC(=CCC/C(=C/CC1=CNC(=C1)C(=O)O)/C)C
+Dysprosium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Dy+3]
 Holmium acetate	CC(=O)O.CC(=O)O.CC(=O)O.[Ho]
 Tetraboric acid	OB(OB=O)OB(O)OB=O
+Erbium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Er+3]
 2-Pinanol	CC1(C2CCC(C1C2)(C)O)C
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@](C)(O)CC2
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@@](C)(O)CC2
@@ -19570,6 +19572,10 @@ Neodymium(II) bromide	[Br-].[Br-].[Nd+2]
 Lithium tritelluride	[Li].[Te].[Te].[Te]
 Europium(II) titanate	O=[Ti-2](=O)(=O).[Eu+2]
 Chalepensin	CC(C)(C=C)C1=CC2=C(C=C3C(=C2)C=CO3)OC1=O
+Europium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Eu+3].[Eu+3]
+Sodium tetrahydroxyborate	[B-](O)(O)(O)O.[Na+]
+P-Isopropenylphenol	CC(=C)C1=CC=C(C=C1)O
 4-Isopropylphenol	CC(C)C1=CC=C(C=C1)O
 Potassium trichloridocuprate(II)	Cl[Cu-](Cl)Cl.[K+]
+Praseodymium orthoscandate	[Pr+3].[Sc+3].[O-2].[O-2].[O-2]
 Cerium(IV) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ce+4]
