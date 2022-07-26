@@ -9810,7 +9810,7 @@ Diprophylline	O=C2N(c1ncn(c1C(=O)N2C)CC(O)CO)C
 Eprozinol	COC(CN1CCN(CC1)CCC(C2=CC=CC=C2)O)C3=CC=CC=C3
 Picloxydine	C1CN(CCN1C(=NC(=NC2=CC=C(C=C2)Cl)N)N)C(=NC(=NC3=CC=C(C=C3)Cl)N)N
 Sulfadicramide	CC(=CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N)C
-Lodoxamide	C1=C(C=C(C(=C1NC(=O)C(=O)O)Cl)NC(=O)C(=O)O)C#N
+Lodoxamide	N#Cc1cc(NC(=O)C(=O)O)c(Cl)c(NC(=O)C(=O)O)c1
 BRL-44408	N2CCN=C2CN(C1C)Cc3c1cccc3
 Phenylsilatrane	C1C[N+]23CCO[Si-]2(O1)(OCC3)C1=CC=CC=C1
 Perfluorobutanoic acid	OC(C(F)(F)C(F)(F)C(F)(F)F)=O
@@ -12356,7 +12356,7 @@ Bismuth selenide	[Se-2].[Se-2].[Se-2].[Bi+3].[Bi+3]
 Lumacaftor	CC1=C(N=C(C=C1)NC(=O)C2(CC2)C3=CC4=C(C=C3)OC(O4)(F)F)C5=CC(=CC=C5)C(=O)O
 MDA-19	O=C(C1=CC=CC=C1)N/N=C(C2=CC=CC=C2N3CCCCCC)\C3=O
 2′-Acetoxycocaine	CN1C2C[C@H](OC(C3=C(OC(C)=O)C=CC=C3)=O)[C@H](C(OC)=O)C1CC2
-Olodaterol	CC(C)(CC1=CC=C(C=C1)OC)NCC(C2=CC(=CC3=C2OCC(=O)N3)O)O
+Olodaterol	COc1ccc(CC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)cc1
 UR-144	CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3C(C3(C)C)(C)C
 Guaiene	C[C@H]1CCC2=C1C[C@H](C(C)=C)CC[C@@H]2C
 Guaiene	C[C@H]1CCC2=C1C/C(CC[C@@H]2C)=C(C)\C
@@ -14505,7 +14505,7 @@ Ergostane	C[C@H](CC[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C
 Molybdenum(IV) fluoride	[Mo+4].[F-].[F-].[F-].[F-]
 DMBMPP	COC(C=C(Br)C(OC)=C1)=C1C[C@@H]2CCC[C@@H](C3=C(OC)C=CC=C3)N2
 Macimorelin	CC(C)(C(=O)N[C@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC3=CNC4=CC=CC=C43)NC=O)N
-Umeclidinium bromide	C1C[N+]2(CCC1(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)CCOCC5=CC=CC=C5.[Br-]
+Umeclidinium bromide	OC(c1ccccc1)(c1ccccc1)C12CC[N+](CCOCc3ccccc3)(CC1)CC2.[Br-]
 Beta-Nitrostyrene	C1=CC=C(C=C1)/C=C/[N+](=O)[O-]
 Lavandulol	CC(=CCC(CO)C(=C)C)C
 Lavandulol	CC(=CC[C@@H](CO)C(=C)C)C
@@ -16609,7 +16609,7 @@ Setanaxib	CN1C(=O)C=C2C(=C1C3=CC(=CC=C3)N(C)C)C(=O)N(N2)C4=CC=CC=C4Cl
 Ferric sodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3]
 Propynyllithium	[Li+].CC#[C-]
 Capillin	CC#CC#CC(=O)C1=CC=CC=C1
-Rimegepant	C1CC(C2=C(C=CC=N2)C(C1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
+Rimegepant	N[C@@H]1c2cccnc2[C@H](OC(=O)N2CCC(n3c(=O)[nH]c4ncccc43)CC2)CC[C@H]1c1cccc(F)c1F
 Tetrachlorocyclopropene	ClC1=C(Cl)C1(Cl)Cl
 Upadacitinib	CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12
 1,1-Diiodoethane	CC(I)I
@@ -17284,7 +17284,7 @@ Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
 Cyanobacterin	CC(C)[C@]\1([C@H](C(=O)O/C1=C\c2ccc(cc2)OC)Cc3cc4c(c(c3)Cl)OCO4)O
 Chloroeremomycin	CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)OC1CC(C(C(O1)C)O)(C)N)NC7=O)C(=O)O)O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
 VS (nerve agent)	CCOP(=O)(CC)SCCN(C(C)C)C(C)C
-Ubrogepant	CC1C(CC(C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(CC4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=CC=CC=C6
+Ubrogepant	C[C@@H]1[C@H](c2ccccc2)C[C@H](NC(=O)c2cnc3c(c2)C[C@@]2(C3)C(=O)Nc3ncccc32)C(=O)N1CC(F)(F)F
 TDBzcholine	C[N+](C)(C)CCOC(C1=CC=C(C2(C(F)(F)F)N=N2)C=C1)=O
 BI 99179	CCC(=O)N[C@H]1CC[C@H](C1)C(=O)N(C)C2=CC=C(C=C2)C3=NC4=CC=CC=C4O3
 Rubidium sulfate	[O-]S(=O)(=O)[O-].[Rb+].[Rb+]
@@ -19077,7 +19077,7 @@ Chlorsulfuron	O=C(NC1=NC(=NC(=N1)C)OC)NS(=O)(=O)C=2C=CC=CC2Cl
 Methyldiphenylphosphine	CP(C1=CC=CC=C1)C2=CC=CC=C2
 Ro20-8065	C1C(=O)NC2=CC(=C(C=C2C(=N1)C3=CC=CC=C3F)Cl)Cl
 Ro07-5220	CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=C(C=CC=C3Cl)Cl
-Atogepant	C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(C[C@@]4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=C(C=CC(=C6F)F)F
+Atogepant	C[C@@H]1[C@H](c2c(F)ccc(F)c2F)C[C@H](NC(=O)c2cnc3c(c2)C[C@@]2(C3)C(=O)Nc3ncccc32)C(=O)N1CC(F)(F)F
 Cannabitriol	CCCCCC1=CC(=C2C(=C1)OC(C3=C2[C@@H]([C@@](CC3)(C)O)O)(C)C)O
 Cannabicitran	CCCCCc1cc2O[C@@]3(C)C[C@H]4c2c(c1)OC(C)(C)[C@H]4CC3
 Tetrahydrocannabihexol	CCCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O
@@ -19580,3 +19580,5 @@ Praseodymium orthoscandate	[Pr+3].[Sc+3].[O-2].[O-2].[O-2]
 Cerium(IV) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ce+4]
 Nickel tungstate	[O-][W](=O)(=O)[O-].[Ni+2]
 HP-505	C1(C2OC3(CCNCC3)C4=C2C=CC=C4)=CC=CC=C1
+Hexafluoroarsenate	F[As-](F)(F)(F)(F)F
+Zirconium(III) iodide	I[Zr](I)I
