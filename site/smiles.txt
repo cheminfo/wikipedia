@@ -6625,6 +6625,7 @@ Tioclomarol	c1ccc2c(c1)c(c(c(=O)o2)C(CC(c3ccc(cc3)Cl)O)c4ccc(s4)Cl)O
 Diphenadione	O=C2c1ccccc1C(=O)C2C(=O)C(c3ccccc3)c4ccccc4
 Clorindione	Clc1ccc(cc1)C3C(=O)c2ccccc2C3=O
 Insulin lispro	CCC(C)C(C(=O)NC(C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CS)C(=O)NC(CS)C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CS)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)CN.CC(C)CC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(CS)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC2=CC=CC=C2)C(=O)NC(CC3=CC=CC=C3)C(=O)NC(CC4=CC=C(C=C4)O)C(=O)NC(C(C)O)C(=O)NC(CCCCN)C(=O)N5CCCC5C(=O)NC(C(C)O)C(=O)O)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC6=CN=CN6)NC(=O)C(CO)NC(=O)CNC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CC7=CN=CN7)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC8=CC=CC=C8)N
+Proctolin	C[C@H]([C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CCCN=C(N)N)N)O
 Micafungin	CCCCCOc1ccc(-c2cc(-c3ccc(C(=O)N[C@H]4C[C@@H](O)[C@@H](O)N=C(O)[C@@H]5[C@@H](O)[C@@H](C)CN5C(=O)[C@H]([C@H](O)CC(=N)O)N=C(O)[C@H]([C@H](O)[C@@H](O)c5ccc(O)c(OS(=O)(=O)O)c5)N=C(O)[C@@H]5C[C@@H](O)CN5C(=O)[C@H]([C@H](C)O)N=C4O)cc3)no2)cc1
 Omoconazole	Clc3ccc(C(/OCCOc1ccc(Cl)cc1)=C(/n2ccnc2)C)c(Cl)c3
 Fenticonazole	c1ccc(cc1)Sc2ccc(cc2)COC(Cn3ccnc3)c4ccc(cc4Cl)Cl
@@ -19582,3 +19583,4 @@ Nickel tungstate	[O-][W](=O)(=O)[O-].[Ni+2]
 HP-505	C1(C2OC3(CCNCC3)C4=C2C=CC=C4)=CC=CC=C1
 Hexafluoroarsenate	F[As-](F)(F)(F)(F)F
 Zirconium(III) iodide	I[Zr](I)I
+PDC-APB	CCCCCCCCCCCCCCCC1=C(C(=CC=C1)OC(=O)CCCC2=CC=C(C=C2)N)OC(=O)CCCC3=CC=C(C=C3)N
