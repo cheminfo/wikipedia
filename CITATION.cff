@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: 'Wikipedia Chemical Structure Explorer: substructure and similarity searching of molecules from Wikipedia'
+doi: 10.1186/s13321-015-0061-y
+url: 'https://wikipedia.cheminfo.org'
+repository-code: 'https://github.com/cheminfo/wikipedia'
+license: BSD-3-Clause
+authors:
+  - family-names: 'Ertl'
+    given-names: 'Peter'
+  - family-names: 'Patiny'
+    given-names: 'Luc'
+  - family-names: 'Sander'
+    given-names: 'Thomas'
+  - family-names: 'Rufener'
+    given-names: 'Christian'
+  - family-names: 'Zasso'
+    given-names: 'Michaël'

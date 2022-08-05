@@ -41,8 +41,8 @@ function getNextEntries() {
     });
 }
 
-// http://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
-// http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids&pageids=1912|4191
+// https://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
+// https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids&pageids=1912|4191
 // Max 50 page ids at the same time
 
 function getRevisions(ids) {

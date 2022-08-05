@@ -4,7 +4,7 @@ exports.request = function (options) {
     options.format = 'json';
     return new Promise(function (resolve, reject) {
         superagent.get('https://en.wikipedia.org/w/api.php')
-            .set('User-Agent', 'WikipediaSMILES/1.0 (http://www.cheminfo.org/wikipedia) SuperAgent/1.0')
+            .set('User-Agent', 'WikipediaSMILES/1.0 (https://wikipedia.cheminfo.org) SuperAgent/1.0')
             .query(options)
             .end(function (err, res) {
                 if (err) {

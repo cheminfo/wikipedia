@@ -37,7 +37,7 @@ function getForTemplate(templateName) {
     }
 }
 
-// http://en.wikipedia.org/w/api.php?action=help&modules=query%2Bembeddedin
+// https://en.wikipedia.org/w/api.php?action=help&modules=query%2Bembeddedin
 // https://en.wikipedia.org/w/api.php?action=query&list=embeddedin&eititle=Template:Infobox_drug&continue&einamespace=0
 // Template:Chembox
 

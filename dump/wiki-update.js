@@ -112,7 +112,7 @@ function savePage(id, content) {
     fs.writeFileSync(path.full, content);
 }
 
-// http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
+// https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
 // Max 50 page ids at the same time
 function getPages(pages) {
     var param = {
