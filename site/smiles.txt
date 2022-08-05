@@ -14716,7 +14716,7 @@ Perinone	O=c1n2c3ccccc3nc2c4ccc5c(=O)n6c7ccccc7nc6c8c5c4c1cc8
 3-Methylphenethylamine	CC1=CC(=CC=C1)CCN
 Ochnaflavone	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)OC4=C(C=CC(=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O
 Magnesium orthosilicate	[O-][Si]([O-])([O-])[O-].[Mg+2].[Mg+2]
-Aluminium arsenate	[O-][As](=O)([O-])[O-].[Al]
+Aluminium arsenate	[O-][As](=O)([O-])[O-].[Al+3]
 1,1-Diethoxyethane	CCOC(C)OCC
 Triadimefon	CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl
 Dolichodial	CC1CCC(C1C=O)C(=C)C=O
@@ -19591,10 +19591,15 @@ Butyrylnorfentanyl	O=C(N(C1=CC=CC=C1)C2CCNCC2)CCC
 Despropionyl-p-fluorofentanyl	Fc3ccc(NC2CCN(CCc1ccccc1)CC2)cc3
 Furanyl norfentanyl	O=C(C1=CC=CO1)N(C2CCNCC2)C3=CC=CC=C3
 Norfentanyl	CCC(=O)N(C1CCNCC1)C2=CC=CC=C2
+P-methoxyfentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)OC
 Dioxamycin	C[C@H]1[C@@H](O[C@@](O1)(C)C(=O)O)/C=C/C=C/C=C/C(=O)OC2CC[C@@H](O[C@@H]2C)C3=C(C4=C(C=C3)C(=O)C5=C(C4=O)C=C[C@]6([C@@]5(C(=O)[C@@H]([C@@](C6)(C)O)O)O)O)O
 Lanthanum(III) iodide	I[La](I)I
 Chlorphoxim	CCOP(=S)(OCC)O/N=C(\C#N)/C1=CC=CC=C1Cl
 Thulium(II) fluoride	[F-].[F-].[Tm+2]
 Ruthenium(III) fluoride	F[Ru](F)F
+Europium(III) arsenate	[O-][As](=O)([O-])[O-].[Eu+3]
+Dysprosium(III) bromide	[Br-].[Br-].[Br-].[Dy+3]
+Tricarbonylchloroglycinatoruthenium(II)	[C-]#[O+].[C-]#[O+].[C-]#[O+].C(C(=O)O)N.Cl[Ru]
+Dichlororuthenium tricarbonyl dimer	O#C[Ru+2]1([Cl-])(C#O)(C#O)[Cl-][Ru+2]([Cl-])(C#O)(C#O)(C#O)[Cl-]1
 Protactinium(V) bromide	[Pa](Br)(Br)(Br)(Br)Br
 Protactinium(V) fluoride	F[Pa](F)(F)(F)F
