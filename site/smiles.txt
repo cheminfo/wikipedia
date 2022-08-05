@@ -1647,6 +1647,7 @@ Sudan I	Oc3ccc1ccccc1c3/N=N/c2ccccc2
 Chalcone	O=C(C=Cc1ccccc1)c2ccccc2
 Oxymetazoline	Oc1c(c(c(cc1C(C)(C)C)C)CC/2=N/CCN\2)C
 Eszopiclone	O=C(O[C@H]3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
+6,6′-Dibromoindigo	C1=CC2=C(C=C1Br)NC(=C2O)C3=NC4=C(C3=O)C=CC(=C4)Br
 Tetracosane	CCCCCCCCCCCCCCCCCCCCCCCC
 Amifostine	O=P(O)(O)SCCNCCCN
 Oxibendazole	CCCOC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
@@ -1877,7 +1878,7 @@ MBDB	CCC(CC1=CC2=C(C=C1)OCO2)NC
 1,8-Diazabicyclo(5.4.0)undec-7-ene	N\2=C1\N(CCCCC1)CCC/2
 Benzonatate	O=C(OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)c1ccc(NCCCC)cc1
 Phosphorus pentabromide	BrP(Br)(Br)(Br)Br
-Falcarinol	C(#CC#C[C@@H](O)\C=C)C\C=C/CCCCCCC
+Falcarinol	C=C[C@H](O)C#CC#CC/C=C\CCCCCCC
 Cacodyl	[As]([As](C)C)(C)C
 Acetone	CC(=O)C
 Eriochrome Black T	C1=CC=C2C(=C1)C=CC(=C2O)/N=N/C3=C4C=CC(=CC4=C(C=C3O)S(=O)(=O)[O-])[N+](=O)[O-].[Na+]
@@ -19586,6 +19587,14 @@ Zirconium(III) iodide	I[Zr](I)I
 PDC-APB	CCCCCCCCCCCCCCCC1=C(C(=CC=C1)OC(=O)CCCC2=CC=C(C=C2)N)OC(=O)CCCC3=CC=C(C=C3)N
 1,4-Diisocyanobutane	[C-]#[N+]CCCC[N+]#[C-]
 Butamifos	CCC(C)NP(=S)(OCC)OC1=C(C=CC(=C1)C)[N+](=O)[O-]
+Butyrylnorfentanyl	O=C(N(C1=CC=CC=C1)C2CCNCC2)CCC
+Despropionyl-p-fluorofentanyl	Fc3ccc(NC2CCN(CCc1ccccc1)CC2)cc3
+Furanyl norfentanyl	O=C(C1=CC=CO1)N(C2CCNCC2)C3=CC=CC=C3
+Norfentanyl	CCC(=O)N(C1CCNCC1)C2=CC=CC=C2
 Dioxamycin	C[C@H]1[C@@H](O[C@@](O1)(C)C(=O)O)/C=C/C=C/C=C/C(=O)OC2CC[C@@H](O[C@@H]2C)C3=C(C4=C(C=C3)C(=O)C5=C(C4=O)C=C[C@]6([C@@]5(C(=O)[C@@H]([C@@](C6)(C)O)O)O)O)O
 Lanthanum(III) iodide	I[La](I)I
+Chlorphoxim	CCOP(=S)(OCC)O/N=C(\C#N)/C1=CC=CC=C1Cl
+Thulium(II) fluoride	[F-].[F-].[Tm+2]
 Ruthenium(III) fluoride	F[Ru](F)F
+Protactinium(V) bromide	[Pa](Br)(Br)(Br)(Br)Br
+Protactinium(V) fluoride	F[Pa](F)(F)(F)F
