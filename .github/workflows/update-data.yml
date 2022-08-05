@@ -1,0 +1,47 @@
+name: Update data
+
+on:
+  schedule:
+    # Run every day at 3:30.
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+          cache-dependency-path: dump/package-lock.json
+      - name: Install dependencies
+        run: |
+          cd dump
+          npm ci
+      - name: Get dates for cache
+        id: dates
+        run: |
+          echo "::set-output name=now::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d 'yesterday' +'%Y-%m-%d')"
+      - name: Cache data
+        uses: actions/cache@v3
+        with:
+          path: dump/data
+          key: ${{ steps.dates.outputs.now }}
+          restore-keys: ${{ steps.dates.outputs.yesterday }}
+      - name: Update data
+        run: |
+          cd dump
+          node wiki.js ids
+          node wiki.js rev
+          node wiki.js update
+          node wiki.js parse -p
+      - name: Commit changes
+        run: |
+          git config --local user.email "admin@cheminfo.org"
+          git config --local user.name "cheminfo bot"
+          git add site/src/json/data.json site/smiles.txt site/idcode.txt stats.json
+          git commit -m "update data" -m "$(tail -2 stats.json | head -1 | jq '.')"
+          git push

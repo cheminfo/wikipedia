@@ -1,7 +1,5 @@
 [![DOI](https://www.zenodo.org/badge/27636133.svg)](https://www.zenodo.org/badge/latestdoi/27636133)
 
-
-
 # Wikipedia chemical structure explorer
 
 This application as been [published here](https://doi.org/10.1186/s13321-015-0061-y).
@@ -15,7 +13,7 @@ There are two ways for having the website on a local server.
 
 ### Zip archive
 
-You can dowload the latest version directly on [GitHub](https://github.com/cheminfo/wikipedia/archive/master.zip).
+You can download the latest version directly on [GitHub](https://github.com/cheminfo/wikipedia/archive/master.zip).
 
 ### Easy updates with git
 
