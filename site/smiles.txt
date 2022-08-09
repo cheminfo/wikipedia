@@ -10626,6 +10626,9 @@ Chlorobenzilate	Clc1ccc(cc1)C(O)(c2ccc(Cl)cc2)C(=O)OCC
 Chlornaphazine	ClCCN(c2ccc1c(cccc1)c2)CCCl
 Synthalin	NC(=N)NCCCCCCCCCCNC(N)=N
 Pentachlorobenzene	c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+Benzoxepin	c1ccc2c(c1)C=CC=CO2
+Benzoxepin	C1=CC2=CC=COC=C2C=C1
+Benzoxepin	C1=CC=C2C=COC=CC2=C1
 Phosphamidon	CCN(CC)C(=O)/C(=C(\C)/OP(=O)(OC)OC)/Cl
 Piperic acid	C1OC2=C(O1)C=C(C=C2)/C=C/C=C/C(=O)O
 NS-398	CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2CCCCC2
@@ -19609,3 +19612,5 @@ Protactinium(V) fluoride	F[Pa](F)(F)(F)F
 Protactinium(IV) chloride	[Pa](Cl)(Cl)(Cl)Cl
 Protactinium(IV) bromide	[Pa](Br)(Br)(Br)Br
 Octamethylenediamine	NCCCCCCCCN
+Tigliane	C[C@@H]1C[C@H]2C[C@@H](C[C@@H]3[C@@H]([C@@H]2C1)[C@@H](C[C@@H]4[C@H]3C4(C)C)C)C
+Nickel formate	C(=O)[O-].C(=O)[O-].[Ni+2]
