@@ -10737,6 +10737,7 @@ Dimemebfe	CN(C)CCc1coc(c1c2)ccc2OC
 2,5-Dihydroxy-1,4-benzoquinone	O=C\1C(\O)=C/C(=O)C(/O)=C/1
 Hydroxy-1,4-benzoquinone	C1=CC(=O)C(=CC1=O)O
 Zinc L-aspartate	[Zn+2].[O-]C(=O)[C@@H](N)CC(=O)O.[O-]C(=O)[C@H](N)CC(=O)O
+Magnesium L-threonate	[O-]C([C@H](O)[C@@H](O)CO)=O.[O-]C([C@H](O)[C@@H](O)CO)=O.[Mg2+]
 Zinc chloride hydroxide monohydrate	[Cl-].[Cl-].O.[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Zn+2].[Zn+2].[Zn+2].[Zn+2].[Zn+2]
 3-Methylhexane	CCCC(C)CC
 3-Methylhexane	CCC[C@H](C)CC
@@ -19617,4 +19618,5 @@ Nickel formate	C(=O)[O-].C(=O)[O-].[Ni+2]
 Trioctylphosphine selenide	CCCCCCCCP(=[Se])(CCCCCCCC)CCCCCCCC
 Thulium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tm+3]
 Europium(III) iodide	[I-].[I-].[I-].[Eu+3]
-Cyperotundone	CC1CCC2CC3=C(C(=O)CC13C2(C)C)C
+Cyperotundone	CC1(C)[C@]23C(C[C@H]1CC[C@H]2C)=C(C)C(=O)C3
+Hafnium carbonitride	[Hf+4].[Hf+4].[C-2].[N-2]
