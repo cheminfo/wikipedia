@@ -4558,6 +4558,7 @@ Dichlorvos	O=P(O\C=C(/Cl)Cl)(OC)OC
 Methorphan	CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
 Phenoxyethanol	c1ccc(cc1)OCCO
 Holothurin	C[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H]([C@@H](CO[C@H]4O[C@H]5CC[C@]6([C@H](C5(C)C)CC[C@@H]7C6=C[C@@H]([C@@]89[C@]7(CC[C@@]8([C@](OC9=O)(C)[C@@H]1CCC(O1)(C)C)O)C)O)C)OS(=O)(=O)[O-])O)C)C)O)O)OC)O.[Na+]
+Physalaemin	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@@H]4CCC(=O)N4
 Androstenol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@H](C4)O)C
 Neurotensin	CC[C@H](C)[C@@H](/C(=N/[C@@H](CC(C)C)C(=O)O)/O)/N=C(/[C@H](Cc1ccc(cc1)O)/N=C(/[C@@H]2CCCN2C(=O)[C@H](CCCNC(=N)N)/N=C(/[C@H](CCCNC(=N)N)/N=C(/[C@@H]3CCCN3C(=O)[C@H](CCCCN)/N=C(/[C@H](CC(=N)O)/N=C(/[C@H](CCC(=O)O)/N=C(/[C@H](Cc4ccc(cc4)O)/N=C(\[C@H](CC(C)C)/N=C(\[C@@H]5CCC(=N5)O)/O)/O)\O)\O)\O)\O)\O)\O)\O
 Picamilon	O=C(NCCCC(=O)O)c1cccnc1
@@ -5062,6 +5063,7 @@ Hypusine	C(CCNC[C@@H](CCN)O)C[C@@H](C(=O)O)N
 Hexabromocyclododecane	C1(Br)C(Br)CCC(Br)C(Br)CCC(Br)C(Br)CC1
 Dihydroergocryptine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3CC(C)C)(NC(=O)[C@@H]6C[C@@H]7c4cccc5c4c(c[nH]5)C[C@H]7N(C)C6)C(C)C
 TosMIC	O=S(=O)(c1ccc(cc1)C)C[N+]#[C-]
+Corticotropin-like intermediate peptide	C[C@@H](C(=N[C@@H](CCC(=O)O)C(=N[C@@H](CC(=O)O)C(=N[C@@H](CCC(=O)O)C(=N[C@@H](CO)C(=N[C@@H](C)C(=N[C@@H](CCC(=O)O)C(=N[C@@H](C)C(=N[C@@H](CC1=CC=CC=C1)C(=O)N2CCC[C@H]2C(=N[C@@H](CC(C)C)C(=N[C@@H](CCC(=O)O)C(=N[C@@H](CC3=CC=CC=C3)C(=O)O)O)O)O)O)O)O)O)O)O)O)O)N=C(CN=C([C@H](CC(=N)O)N=C([C@@H]4CCCN4C(=O)[C@H](CC5=CC=C(C=C5)O)N=C([C@H](C(C)C)N=C([C@H](CCCCN)N=C([C@H](C(C)C)N=C([C@@H]6CCCN6C(=O)[C@H](CCCNC(=N)N)N)O)O)O)O)O)O)O
 Dimethyl carbonate	COC(=O)OC
 Benzeneselenol	[SeH]c1ccccc1
 Diphenyl diselenide	c1ccc(cc1)[Se][Se]c2ccccc2
@@ -19558,7 +19560,6 @@ M320 (opioid)	CC(C)CC[C@](C)([C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
-Neodymium acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Nd]
 Ardisiaquinone	COC1=CC(=O)C(=C(C1=O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)OC
@@ -19619,4 +19620,7 @@ Trioctylphosphine selenide	CCCCCCCCP(=[Se])(CCCCCCCC)CCCCCCCC
 Thulium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tm+3]
 Europium(III) iodide	[I-].[I-].[I-].[Eu+3]
 Cyperotundone	CC1(C)[C@]23C(C[C@H]1CC[C@H]2C)=C(C)C(=O)C3
+Fabimycin	CN(CC1=C(C)C2=CC=CC=C2O1)C(=O)\C=C\C1=CC2=C(NC(=O)C(N)CC2)N=C1
 Hafnium carbonitride	[Hf+4].[Hf+4].[C-2].[N-2]
+Clitorin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O[C@H]6[C@@H]([C@@H]([C@H]([C@@H](O6)C)O)O)O)O)O)O)O)O
+Octafluorocubane	C12(C3(C4(C1(C5(C2(C3(C45F)F)F)F)F)F)F)F
