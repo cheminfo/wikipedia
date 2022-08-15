@@ -18692,6 +18692,7 @@ Fosdenopterin	NC1=NC(=O)C2=C(N[C@@H]3O[C@@H]4COP(=O)(O)O[C@@H]4C(O)(O)[C@@H]3N2)
 2-Hexyne	CCCC#CC
 4-Pyrrolidinylpyridine	C1CCN(C1)C2=CC=NC=C2
 Fluazifop	C[C@H](C(=O)O)Oc1ccc(cc1)Oc2ccc(cn2)C(F)(F)F
+Fascaplysin	C1=CC=C2C(=C1)C3=C(N2)C4=[N+](C=C3)C5=CC=CC=C5C4=O
 Neopentylamine	CC(C)(C)CN
 Toreforant	CC1=CC(=C2C(=C1)NC(=N2)C3=CN=C(N=C3C)NCCCC4CCN(CC4)C)C
 Clethodim	CC/C(=N\OC/C=C/Cl)/C1=C(CC(CC1=O)CC(C)SCC)O
@@ -19624,3 +19625,4 @@ Fabimycin	CN(CC1=C(C)C2=CC=CC=C2O1)C(=O)\C=C\C1=CC2=C(NC(=O)C(N)CC2)N=C1
 Hafnium carbonitride	[Hf+4].[Hf+4].[C-2].[N-2]
 Clitorin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O[C@H]6[C@@H]([C@@H]([C@H]([C@@H](O6)C)O)O)O)O)O)O)O)O
 Octafluorocubane	C12(C3(C4(C1(C5(C2(C3(C45F)F)F)F)F)F)F)F
+Lutetium vanadate	[Lu+3].[Lu+3].[O-][V]([O-])([O-])O[V]([O-])([O-])[O-]
