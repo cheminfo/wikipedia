@@ -2582,7 +2582,7 @@ Apocarotenal	CC=1CCCC(C)(C)C=1/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)C=O
 Camphoric acid	O=C(O)[C@]1(CC[C@@H](C(=O)O)C1(C)C)C
 Camphoric acid	O=C(O)C1CCC(C(=O)O)(C)C1(C)C
 Hypophosphorous acid	O[PH2]=O
-Carprofen	CC(C(=O)O)c1ccc3c(c1)[nH]c2ccc(Cl)cc23
+Carprofen	CC(C1=CC=C2C(NC3=CC=C(C=C32)Cl)=C1)C(O)=O
 Trost ligand	O=C(N[C@H]4CCCC[C@@H]4NC(=O)c3ccccc3P(c1ccccc1)c2ccccc2)c7ccccc7P(c5ccccc5)c6ccccc6
 Strontium oxide	[O-2].[Sr+2]
 Quinic acid	O[C@]1(C[C@@H](O)[C@@H](O)[C@H](O)C1)C(O)=O
@@ -9474,7 +9474,7 @@ Hydrocortisone 17-butyrate	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](OC(=O)CCC
 3-Hydroxybutanal	CC(O)CC=O
 LGD-3303	CCC1=C(C2=C(N1CC(F)(F)F)C=CC3=C2C(=CC(=O)N3)Cl)C
 CGP-7930	CC(C)(C)c1cc(CC(C)(C)CO)cc(C(C)(C)C)c1O
-Hipposudoric acid	c1cc(=O)c-2c(c3=c(c2c1O)c(=O)c(cc3=O)CC(=O)O)C(=O)O
+Hipposudoric acid	O=C1C=CC(O)=C2C(C(C(CC(O)=O)=CC3=O)=O)=C3C(C(O)=O)=C12
 L-371,257	O=C1OCc3ccccc3N1C(CC4)CCN4C(=O)c2ccc(cc2OC)OC5CCN(C(C)=O)CC5
 GS-39783	C3CCCC3Nc1nc(SC)nc(c1N(=O)=O)NC2CCCC2
 BHFF	FC(F)(F)C2(O)c1cc(C(C)(C)C)cc(C(C)(C)C)c1OC2=O
@@ -19632,3 +19632,8 @@ Gadolinium(III) iodide	[I-].[I-].[I-].[Gd+3]
 Mustakone	CC1=CC(=O)C2C3C1C2(CCC3C(C)C)C
 1,N6-Ethanoadenine	C1CN2C=NC3=NC=NC3=C2N1
 Myrtenal	CC1(C2CC=C(C1C2)C=O)C
+Myrtenal	CC1([C@@H]2CC=C([C@H]1C2)C=O)C
+Myrtenal	CC1([C@H]2CC=C([C@@H]1C2)C=O)C
+Holmium(III) sulfide	[Ho+3].[Ho+3].[S-2].[S-2].[S-2]
+Thulium(III) iodide	I[Tm](I)I
+N-Methylisobutylamine	CC(C)CNC
