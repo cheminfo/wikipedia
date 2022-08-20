@@ -17144,7 +17144,7 @@ Ethylenedinitramine	C(CN[N+](=O)[O-])N[N+](=O)[O-]
 Actinium(III) chloride	[Cl-].[Cl-].[Cl-].[Ac]
 Yttrium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Y+3].[Y+3]
 Praseodymium(III,IV) oxide	O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]=O.O=[Pr]O[Pr]=O
-Prymnesin-2	CC2CC1OC(CCC1OC2C7CCC6OC5CC4OC3CCC(OC3CC4OC5CC(O)C6O7)C=CC=CCC(N)CC=CC=CC#CCCC#CC=CCl)C9CC(O)C8OC(C(O)CC8O9)C%11CC(Cl)C%10OC(C(O)CC%10O%11)C%13CCC%12OC(C(O)C(O)C%12O%13)C%15OC(CC(O)C(OC%14OC(CO)C(O)C%14O)C(O)CC(O)C(O)C(O)C(O)C(O)C(Cl)CC#CC#C)C(O)C(O)C%15O
+Prymnesin-2	C[C@H]1C[C@]2([H])O[C@@H](C3C[C@H]([C@@]4([H])O[C@@H](C5C[C@H]([C@@]6([H])O[C@@H](C7CC[C@@]8([H])O[C@@H](C9O[C@@H]([C@@H]([C@H]([C@@H]9O)O)O)CC(C(C(CC(C(C(C(C([C@H](CC#CC#C)Cl)O)O)O)O)O)O)O[C@H]%10O[C@@H]([C@H]([C@H]%10O)O)CO)O)[C@H]([C@H]([C@@]8([H])O7)O)O)[C@H](C[C@@]6([H])O5)O)Cl)[C@@H](C[C@@]4([H])O3)O)O)CC[C@@]2([H])O[C@@H]1C%11CC[C@]%12([H])O[C@@]%13([H])C[C@@]%14([H])O[C@@]%15([H])CC[C@@H](/C=C/C=C/C[C@@H](C/C=C/C=C/C#CCCC#C/C=C/Cl)N)O[C@@]%15([H])C[C@@]%14([H])O[C@@]%13([H])C[C@H]([C@@]%12([H])O%11)O
 Meso-Stilbene dibromide	C1=CC=C(C=C1)[C@H]([C@H](C2=CC=CC=C2)Br)Br
 A-232	CCN(CC)C(\C)=N\P(F)(=O)OC
 A-234 (nerve agent)	CCOP(F)(=O)\N=C(/C)\N(CC)CC
@@ -19558,7 +19558,7 @@ Sodium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[Na+]
 Trisodium orthoborate	B([O-])([O-])[O-].[Na+].[Na+].[Na+]
 Niobium oxalate	[Nb].O=C(O)C(=O)O
 M320 (opioid)	CC(C)CC[C@](C)([C@H]1C[C@@]23C=C[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
-Aniline diglycidyl ether	C1C(O1)CN(CC2CO2)C3=CC=CC=C3
+Diglycidyl aniline	C1C(O1)CN(CC2CO2)C3=CC=CC=C3
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
@@ -19641,3 +19641,4 @@ Lanthanum diiodide	[I-].[I-].[La+2]
 Cerium diiodide	[I-].[I-].[Ce+2]
 Promethium(III) iodide	[I-].[I-].[I-].[Pm+3]
 Minoxidil sulfate	C1CCN(CC1)C2=NC(=[N+](C(=C2)N)OS(=O)(=O)[O-])N
+Promethium(III) bromide	[Pm+3].[Br-].[Br-].[Br-]
