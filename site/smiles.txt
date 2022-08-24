@@ -9048,7 +9048,7 @@ BAY 60–6583	N#Cc1c(SCC(N)=O)nc(N)c(C#N)c1-c3ccc(cc3)OCC2CC2
 SCH-442,416	n1n3c(nc4c(c3nc1c2occc2)cnn4CCCc5ccc(OC)cc5)N
 Vitamin D5	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CC[C@H](CC)C(C)C)C
 Sodium fluorosilicate	[Na+].[Na+].F[Si--](F)(F)(F)(F)F
-Methyl cyanoacrylate	N#C/C(=C)C(=O)OC
+Methyl cyanoacrylate	C=C(C(OC)=O)C#N
 Butyl cyanoacrylate	N#CC(=C)C(=O)OCCCC
 Octyl cyanoacrylate	N#CC(C(OCCCCCCCC)=O)=C
 Ammonium iron(III) sulfate	[Fe+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[NH4+]
@@ -14587,6 +14587,7 @@ Sonidegib	C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)
 5-Methylethylone	CC1=CC(C(C(C)NCC)=O)=CC2=C1OCO2
 Benzyl cinnamate	C1=CC=C(C=C1)COC(=O)C=CC2=CC=CC=C2
 Pamicogrel	CCOC(=O)CN1C=CC=C1C2=NC(=C(S2)C3=CC=C(C=C3)OC)C4=CC=C(C=C4)OC
+Deuterium bromide	[2H]Br
 Oudemansin A	C[C@H]([C@H](/C=C/C1=CC=CC=C1)OC)/C(=C\OC)/C(=O)OC
 25E-NBOMe	COC(C=CC=C1)=C1CNCCC2=C(OC)C=C(CC)C(OC)=C2
 25P-NBOMe	CCCC1=CC(OC)=C(CCNCC2=C(OC)C=CC=C2)C=C1OC
@@ -19647,3 +19648,4 @@ Promethium(III) phosphate	[O-]P(=O)([O-])[O-].[Pm+3]
 Neodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Nd+3]
 Ethyl trifluoroacetate	CCOC(=O)C(F)(F)F
 Constictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)C=O)OC
+Bis(allyl)nickel	[CH2-]C=C.[CH2-]C=C.[Ni+2]
