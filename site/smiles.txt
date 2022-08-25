@@ -107,7 +107,7 @@ Sildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Nitrous oxide	[N-]=[N+]=O
-Niacin	OC(=O)c1cccnc1
+Niacin (substance)	OC(=O)c1cccnc1
 Phenylalanine	c1ccc(cc1)C[C@@H](C(=O)O)N
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
 Nicotine	c1ncccc1[C@@H]2CCCN2C
@@ -6189,7 +6189,7 @@ NanoPutian	O1CCOC1c1c(C#CC(C)(C)C)cc(c(C#CC(C)(C)C)c1)C#Cc1cc(C#CCCC)cc(C#CCCC)c
 NIM811	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C\C=C\C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)[C@@H](C)CC)C)C
 Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
 GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6c[nH]cn6)N
-Pretomanid	[O-][N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
+Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
 Amorolfine	O2[C@@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)CC)C[C@@H]2C)C
@@ -19649,3 +19649,4 @@ Neodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Nd+3]
 Ethyl trifluoroacetate	CCOC(=O)C(F)(F)F
 Constictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)C=O)OC
 Bis(allyl)nickel	[CH2-]C=C.[CH2-]C=C.[Ni+2]
+7-Methylxanthine	CN1C=NC2=C1C(=O)NC(=O)N2
