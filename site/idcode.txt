@@ -4256,6 +4256,7 @@ eMFIAJMP@	Hafnium(IV) oxide
 gJAeUbHrQ`vZfsE`@@	Indium(III) oxide
 gJPJAFPHPQhpaBUkR@@	Indium(III) sulfide
 fhf@Z`lDhpTeZl{pPQdHq@QpHLD@vFtygJ{W^xOXAiHGI@yHmKRt@@	Indium(III) sulfate
+gJ`J@VRLQYhpebQb`Oxa@	Indium(III) telluride
 eNBb\^P\G|U`	Lanthanum carbide
 gC`BANRHTQhbOT@@	Lanthanum(III) chloride
 eMCAJiAdHz@	Lead(II) fluoride
@@ -4263,6 +4264,7 @@ gB`dhaX[@WZXs@@	Lithium aluminate
 gNP\XlPjW@^AnOVWL^KP@	Lithium molybdate
 eLIrpG@FiY@@	Lithium oxide
 gC@dQE`[@GSeNfI@@	Lithium peroxide
+eMCADiaQDeP@	Manganese diselenide
 dad@@DiYbZnZje@@	Barrelene
 deTB@@PYRYWZfZef`@	Coumalic acid
 gJQ@@drt`@	Methyl vinyl ketone
@@ -4270,6 +4272,7 @@ eDJX]AY`@	Palladium(II) oxide
 gJ@KPyRHTQh`q@N\nwG`@@	Platinum(IV) chloride
 gJPJ@yRHTQh`qD_U@@	Platinum(IV) chloride
 ebsp@Bs`GJBHPbLH`bHhbFHcarDbIHaRHtbCGJrH\bOH`JHb\dhcJHJbJhairzbAhbZHVbMgHzHnbGhczHA\hXaFHqbBXberYbNX`VHebEWKVHMbKXavH}\`xbNHSbLx`ChIPgaaIddqkI\fIdireiniFgYcindEhYQfefYyeUmYMgwldddWdbldUdbldUdbldUdbldUdbGDacdVSPvupJMOJiomUUUUUUUUUUUUUUUUUUUP@@	Platinum(IV) chloride
+gJ@KQnS\PQ``a@vZfsE`@@	Praseodymium(III) sulfide
 diDNPHSB[aCRkRrRRjQVeP@	Rhenium(VII) oxide
 gJAeUbKRV`vZfsE`@@	Rhodium(III) oxide
 eMFICRMP@	Ruthenium(IV) oxide
@@ -5603,7 +5606,7 @@ fcw@AH@RBIBd`rPEHRdMRAiAt`FPSHYdJrCY@\aNPWH[dLbdtbdLaafdtaabkE{UUUUUUUUUREJr@@	P
 fcw@AH@RBIBd`rPEHRdMRAiAt`FPSHYdJrCY@\aNPWH[dLbdtbdLaafdtaabkE{UUUUUUUUUREJt@@	Perfluorodecalin
 gOabxlO@zEtG@SevxsY\qqT@@	Disodium hydrogen phosphite
 gGalXlO@zEtEvxsYccP@	Disodium hydrogen phosphite
-gNP]XlQxWP^`nwGkKfOFh@	Disodium phosphate
+gNP\XlQxWP^anOVWL^MP@	Disodium phosphate
 fnc`S@LdeUhJseYZlrJJKQEQQ[ISQ`oA``b``Ji``e@@	Reverse triiodothyronine
 ff}`Q@ODrVhJrMYdTTRRTrRbafXIrXHH``jF`@@	3,3'-Diiodothyronine
 eLCQJ`aBIe`@	Lead(IV) sulfide
@@ -5702,6 +5705,7 @@ en^\F@@DND`I@ghZ\bfdQTtTQffTTQbRfRRrn~Zjijjjjj`BJjhHTWbbaT@@	Aliskiren
 dg^B`CaLt@cIIKEDleJkPDEP@@	Cresidinesulfonic acid
 deTD@@eIYe^E`HD@@	Phthalaldehyde
 fewA`@@^[dTRTtTVrbabTjiqQ`qsUiZZjjjjnjn\RdYVciEYP@	RU-28362
+eMC@JiAdHz@	Mercury(II) fluoride
 flyIp@DXUx@iZ\ENQQQQIHsQ[DXuUMUMU@@@	Diazolidinyl urea
 gjOGPX`@JBbHdvPbSHL~prC@QX|AXoUZ}AP`@cIDeDeDihihhldhXhieEhYeDeDddlhhcD\YjcQUZKGjjjZZfjjijYijj`ijAjjFjZhDXEXca]E|bIJdfP@	Carbetocin
 ea`P@A@@@c@HhBM@bpHrBJ`chHRfYUUUUUrFNAIECOGH`dlbjffnjfZjjjifeVj@@@	Sulflower
@@ -6758,6 +6762,7 @@ fj}qB@LDJhDadRbTTRbVbVKANSGMMTB@DAP@@@	Afloqualone
 f`~@`@@HR[UUUUjjjZhDEH	Myristoleic acid
 gKadebLbA@d|`tt@@	Potassium bisulfite
 gGX`JDdrmV@@	Methyl cyanoformate
+gGalhlA`yEbCMzNJ`@	Potassium chlorochromate
 fli@s@BTUiw`ADOC@QdbdTVTUTVuSUSTuP@@	Isomalathion
 fliAq@LDhkSo@BH^FRJQSIQUQ[TuUMSU@@@	Malaoxon
 fnciP@DBlDhNFjuIe^vYvUXeLeZjZijjUjPRRP@	Pyroglutamyl-histidyl-glycine
@@ -8050,6 +8055,7 @@ f`~`a@AXH@HaxISSzsKSUUUT@@	VR (nerve agent)
 gC`B@EPJTaiAJZ`@	Mercury(I) fluoride
 eFABJiBL@	Thallium(I) fluoride
 gNP\XlPLWP^anOVWL^KP@	Sodium chromate
+fhf@Z`lDhpTeZl{pPKDEa@qpXLL@vFtygJ{W^xOXAiHGI@yHmKRt@@	Iron(III) chromate
 gJPJ@fSDVIlPxd_U@@	Tin(IV) bromide
 fmwi`@DJlzHNcRYeU_eYuUUZBfkVjjj`B@Bj`@@	Bunazosin
 eMCBXiAdHz@	Manganese(II) fluoride
@@ -8585,6 +8591,7 @@ fleq`@DTtBJ\bbTbttJbTISpVjjhBAd@@	Imazapyr
 e`rrBH@AOFnfJk`PICHhdieeDedeEEMBeMiddddddeQpIHyyuL\}@DUUUUKUUUMUUUUPs@@@	Paliperidone palmitate
 dkmB@DpAdtfYeYIfjijh@@	DMDM hydantoin
 dglF@@RaW\bbTVafSUUSTfQd@	Diethyl tartrate
+eFJHAHh@	Germanium monoxide
 gNpNAYRPTai@rEdGHQUT@@	Iridium hexafluoride
 f`i@P@@HTYIe[VUZLeiwfi@HjhP@@	Bergapten
 dmN@@@RfV]iaT@@H@@@	Lepidine
@@ -9946,6 +9953,7 @@ diV@@@RfU|kahDB@@	Indole
 fdyQR@LBtZs``BLdTRbRVTqaNTYUUULtthaBP@	7-ACA
 foAqB@JLtPFHdsM|klEYuKTa@P@@	Bropirimine
 eDASH``fx@@	Potassium hydrosulfide
+gKihULPEBUNx|`lt@@	Mercury(I) nitrate
 fde`P@K@QPNQQJQIFIIIgEZ}EjjjABJ@PL`	CPCCOEt
 fjma`@L@QsHhdeCEEDde`yRUjij@@@@@@	Ro01-6128
 fak`P@L@QrJSJl|lwJzNVuzuTuT@P@D@@@	Ro67-4853
@@ -12949,6 +12957,7 @@ gF@Fp]RHTQh`qEbA\y]nOW`@@	Uranium pentachloride
 gB@BP]RlUYjp[NW[`@@	Uranium(III) iodide
 eDARjlPfx@@	Astatine bromide
 gJPJ@]RlUYjpud_U@@	Uranium(IV) iodide
+eDA@jc@@_qP@	Magnesium polonide
 dg^H@FCHhhhdlUNmAPQP@@	4-Ethylmethcathinone
 gN@Np]RHTQh`qEbGDSevx}^_@@@	Uranium hexachloride
 gJPJ@]SDVIlPxd_U@@	Uranium tetrabromide
@@ -17580,6 +17589,7 @@ f`iP@@@FRi_Ye^cEF]zjjdHB`@@	SN-22
 dg^HbEXLQYRYV}Zkh@bjh@@	Choline m-bromophenyl ether
 dmTHXJBPRPrPFPfPVPrJPqJRjjj@@	Isoflurothyl
 fhqaRBGPQcpP^CiCrUVkN~qkMUPPDp@@	Armine (chemical)
+gJ`lH`jZHLQFJ@@	Molybdenum dichloride dioxide
 gFAKZERQBbMDFHgKmqzl@@	Molybdenum oxytetrachloride
 dkn@@@RYfVya`Hbj@@	2,6-Diisopropylaniline
 gKX`DBdvltp@	Oximide
@@ -19660,3 +19670,4 @@ gC`BAiSDVIlROT@@	Rhenium(III) bromide
 gNP\XlPiWt_inOVWL^KP@	Silver tungstate
 gB@BQdSHVQo@SITz`@@	Potassium phosphide
 fcoAp@@BMGIVyEEEEEEEhceLTlnJuyrV`BH`IIjjh@@@	Solorinic acid
+e`RZD@@D@aem`GDfVYU_yUygmUKCGLbaegofhJBb`@fi@@b@@@	GW-788,388

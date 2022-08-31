@@ -4256,6 +4256,7 @@ Hafnium(IV) oxide	O=[Hf]=O
 Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
 Indium(III) sulfide	S=[In]S[In]=S
 Indium(III) sulfate	[In+3].[In+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
+Indium(III) telluride	[In]=[Te].[In]=[Te].[Te]
 Lanthanum carbide	[C-]#[C].[La]
 Lanthanum(III) chloride	Cl[La](Cl)Cl
 Lead(II) fluoride	F[Pb]F
@@ -4263,6 +4264,7 @@ Lithium aluminate	[Li+].[O-][Al]=O
 Lithium molybdate	[Li+].[Li+].[O-][Mo]([O-])(=O)=O
 Lithium oxide	[Li+].[Li+].[O-2]
 Lithium peroxide	[Li+].[Li+].[O-][O-]
+Manganese diselenide	[Mn](=[Se])=[Se]
 Barrelene	C\1=C\C\2/C=C\C/1/C=C/2
 Coumalic acid	C1=CC(=O)OC=C1C(=O)O
 Methyl vinyl ketone	CC(=O)C=C
@@ -4270,6 +4272,7 @@ Palladium(II) oxide	[Pd+2].[O-2]
 Platinum(IV) chloride	[Pt+4].[Cl-].[Cl-].[Cl-].[Cl-]
 Platinum(IV) chloride	Cl[Pt](Cl)(Cl)Cl
 Platinum(IV) chloride	Cl[Pt-]1(Cl)(Cl)(Cl)[Cl+][Pt-2]2([Cl+]1)(Cl)(Cl)[Cl+][Pt-2]1([Cl+]2)(Cl)(Cl)[Cl+][Pt-2]2([Cl+]1)(Cl)(Cl)[Cl+][Pt-2]1([Cl+]2)(Cl)(Cl)[Cl+][Pt-2]2([Cl+]1)(Cl)(Cl)[Cl+][Pt-2]1([Cl+]2)(Cl)(Cl)[Cl+][Pt-2]2([Cl+]1)(Cl)(Cl)[Cl+][Pt-2]1([Cl+]2)(Cl)(Cl)[Cl+][Pt-]([Cl+]1)(Cl)(Cl)(Cl)Cl
+Praseodymium(III) sulfide	[S-2].[S-2].[S-2].[Pr+3].[Pr+3]
 Rhenium(VII) oxide	O=[Re](=O)(=O)O[Re](=O)(=O)=O
 Rhodium(III) oxide	[O-2].[O-2].[O-2].[Rh+3].[Rh+3]
 Ruthenium(IV) oxide	O=[Ru]=O
@@ -5603,7 +5606,7 @@ Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@@]2(
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@]2(F)C1(F)F
 Disodium hydrogen phosphite	[H+].[Na+].[Na+].[O-]P([O-])[O-]
 Disodium hydrogen phosphite	O=P([O-])([O-])[H].[Na+].[Na+]
-Disodium phosphate	[Na+].[Na+].[O-]P([O-])([O-])=O
+Disodium phosphate	OP(=O)([O-])[O-].[Na+].[Na+]
 Reverse triiodothyronine	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)I)OC2=CC(=C(C(=C2)I)O)I
 3,3'-Diiodothyronine	O=C(O)C(N)Cc2ccc(Oc1cc(I)c(O)cc1)c(I)c2
 Lead(IV) sulfide	[S-2].[S-2].[Pb]
@@ -5702,6 +5705,7 @@ Aliskiren	O=C(N)C(C)(C)CNC(=O)[C@H](C(C)C)C[C@H](O)[C@@H](N)C[C@@H](C(C)C)Cc1cc(
 Cresidinesulfonic acid	Cc1cc(c(cc1S(=O)(=O)O)OC)N
 Phthalaldehyde	O=Cc1ccccc1C=O
 RU-28362	CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)C)O)C)O
+Mercury(II) fluoride	F[Hg]F
 Diazolidinyl urea	O=C1N(C(=O)C(N(C(=O)NCO)CO)N1CO)CO
 Carbetocin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCC(=O)N[C@H](C(=O)N1)Cc2ccc(cc2)OC)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
 Sulflower	c12c3c4c5c6c7c8c1c9sc2sc3sc4sc5sc6sc7sc8s9
@@ -6758,6 +6762,7 @@ Afloqualone	O=C1C2=CC(N)=CC=C2N=C(CF)N1C3=CC=CC=C3C
 Myristoleic acid	O=C(O)CCCCCCC\C=C/CCCC
 Potassium bisulfite	OS(=O)[O-].[K+]
 Methyl cyanoformate	N#CC(=O)OC
+Potassium chlorochromate	O=[Cr](=O)=O.[Cl-].[K+]
 Isomalathion	CCOC(=O)CC(C(=O)OCC)SP(=O)(OC)SC
 Malaoxon	CCOC(=O)CC(C(=O)OCC)SP(=O)(OC)OC
 Pyroglutamyl-histidyl-glycine	O=C2N[C@H](C(=O)N[C@H](C(=O)NCC(=O)O)CC/1/N=C\N=C\1)CC2
@@ -8050,6 +8055,7 @@ VR (nerve agent)	CCN(CC)CCSP(=O)(C)OCC(C)C
 Mercury(I) fluoride	F[Hg][Hg]F
 Thallium(I) fluoride	F[Tl]
 Sodium chromate	[O-][Cr](=O)(=O)[O-].[Na+].[Na+]
+Iron(III) chromate	[O-][Cr](=O)(=O)[O-].[O-][Cr](=O)(=O)[O-].[O-][Cr](=O)(=O)[O-].[Fe+3].[Fe+3]
 Tin(IV) bromide	Br[Sn](Br)(Br)Br
 Bunazosin	CCCC(=O)N1CCCN(CC1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC
 Manganese(II) fluoride	F[Mn]F
@@ -8585,6 +8591,7 @@ Imazapyr	OC(C1=C(C(N2)=NC(C)(C(C)C)C2=O)N=CC=C1)=O
 Paliperidone palmitate	CCCCCCCCCCCCCCCC(=O)OC1CCCN2C1=NC(=C(C2=O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F)C
 DMDM hydantoin	O=C1N(C(=O)C(N1CO)(C)C)CO
 Diethyl tartrate	O=C(OCC)[C@@H](O)[C@H](O)C(=O)OCC
+Germanium monoxide	[Ge]=O
 Iridium hexafluoride	F[Ir](F)(F)(F)(F)F
 Bergapten	COC1=C2C=CC(=O)OC2=CC3=C1C=CO3
 Lepidine	Cc1ccnc2ccccc12
@@ -9946,6 +9953,7 @@ Indole	C12=C(C=CN2)C=CC=C1
 7-ACA	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2N)COC(=O)C)C(=O)O
 Bropirimine	Br\C2=C(/c1ccccc1)N\C(=N/C2=O)N
 Potassium hydrosulfide	[SH-].[K+]
+Mercury(I) nitrate	[N+](=O)([O-])[O-].[Hg+]
 CPCCOEt	CCOC(=O)C23Oc1ccccc1\C(=N\O)\C2C3
 Ro01-6128	c2ccccc2C(C(=O)NC(=O)OCC)c1ccccc1
 Ro67-4853	c3cccc2c3Oc1ccccc1C2C(=O)NC(=O)OCCCC
@@ -12949,6 +12957,7 @@ Uranium pentachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U+5]
 Uranium(III) iodide	[I-].[I-].[I-].[U+3]
 Astatine bromide	[At+].[Br-]
 Uranium(IV) iodide	I[U](I)(I)I
+Magnesium polonide	[Mg].[Po]
 4-Ethylmethcathinone	C(C(C)NC)(=O)C1=CC=C(C=C1)CC
 Uranium hexachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[U]
 Uranium tetrabromide	Br[U](Br)(Br)Br
@@ -17580,6 +17589,7 @@ SN-22	CN1CCC(CC1)c1c[nH]c2c1cccc2
 Choline m-bromophenyl ether	C[N+](C)(C)CCOc1cccc(c1)Br
 Isoflurothyl	COC(C(F)(F)F)C(F)(F)F
 Armine (chemical)	CCOP(=O)(CC)Oc1ccc(cc1)[N+](=O)[O-]
+Molybdenum dichloride dioxide	O=[Mo]=O.Cl.Cl
 Molybdenum oxytetrachloride	[O-2].[Cl-].[Cl-].[Cl-].[Cl-].[Mo]
 2,6-Diisopropylaniline	CC(C)C1=C(C(=CC=C1)C(C)C)N
 Oximide	C1(=O)C(=O)N1
@@ -19660,3 +19670,4 @@ Rhenium(III) bromide	Br[Re](Br)Br
 Silver tungstate	[O-][W](=O)(=O)[O-].[Ag+].[Ag+]
 Potassium phosphide	[P-3].[K+].[K+].[K+]
 Solorinic acid	CCCCCC(=O)C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC)O
+GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
