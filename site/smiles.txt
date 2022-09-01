@@ -3727,6 +3727,7 @@ Reinecke's salt	[NH4+].S=C=N/[Cr-3]([NH3+])([NH3+])(/N=C=S)(/N=C=S)/N=C=S.O
 P-Coumaric acid	c1cc(ccc1/C=C/C(=O)O)O
 Latrunculin	C[C@H]/1CC[C@@H]2C[C@H](C[C@@](O2)([C@@H]3CSC(=O)N3)O)OC(=O)/C=C(\CC/C=C/C=C1)/C
 Latrunculin	C[C@H]/1CC[C@@H]2C[C@H](C[C@@](O2)([C@@H]3CSC(=O)N3)O)OC(=O)/C=C(\CC/C=C1)/C
+Silver telluride	[Ag].[Ag].[Te]
 Rubidium bromide	[Rb+].[Br-]
 Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au]
 Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au]
@@ -3946,6 +3947,7 @@ Silver sulfate	[Ag+].[Ag+].[O-]S([O-])(=O)=O
 Beta-Sitosterol	O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CC[C@@H](CC)C(C)C)C)[C@@]3(C)CC4
 1-Octadecene	C=C\CCCCCCCCCCCCCCCC
 Etonitazene	CCOC1=CC=C(CC2=NC3=C(N2CCN(CC)CC)C=CC(N(=O)=O)=C3)C=C1
+Silver(I) selenide	[Se].[Ag].[Ag]
 Silver subfluoride	F[Ag].[Ag]
 Silver azide	[Ag+].[N-]=[N+]=[N-]
 Silver chlorate	[Ag+].[O-]Cl(=O)=O
@@ -14890,6 +14892,7 @@ Homolycorine	COc1cc2[C@@H]3[C@@H](CC=C4CCN(C)[C@@H]34)OC(=O)c2cc1OC
 Methylammonium bromide	C[NH3+].[Br-]
 Methylammonium iodide	C[NH3+].[I-]
 5-Hydroxy-2(5H)-furanone	C1=CC(=O)OC1O
+Sodium dihydrogen arsenate	O[As](=O)(O)[O-].[Na+]
 Flutemetamol (18F)	CNC1=C(C=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O)[18F]
 1,2-Dithiole	C1C=CSS1
 Hexaiodobenzene	C1(=C(C(=C(C(=C1I)I)I)I)I)I
@@ -16627,6 +16630,7 @@ Pentakis(dimethylamido)tantalum	C[N-]C.C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ta+5]
 Succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate	O=C(C1CCC(CN2C(C=CC2=O)=O)CC1)ON3C(CCC3=O)=O
 Adenosine 5'-tetraphosphate	Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
 2-Carboxy-D-arabitinol 1-phosphate	OC[C@@H](O)[C@@H](O)[C@](O)(COP(O)(O)=O)C(O)=O
+Strontium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sr+2]
 Setanaxib	CN1C(=O)C=C2C(=C1C3=CC(=CC=C3)N(C)C)C(=O)N(N2)C4=CC=CC=C4Cl
 Ferric sodium EDTA	C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3]
 Propynyllithium	[Li+].CC#[C-]
@@ -18644,6 +18648,7 @@ Hydrogenated MDI	C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O
 Ironomycin	CC[C@H]([C@H]1CC[C@H](C)[C@H]([C@H]([C@H](O)[C@H](C)C([C@@H]([C@H]([C@@H](C)C[C@H]2C)O[C@@]2(C=C[C@H]3NCC#C)O[C@]43CC[C@@](C)([C@H]5CC[C@](O)(CC)[C@H](C)O5)O4)CC)=O)C)O1)C(O)=O
 Neodymium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Nd+3].[Nd+3]
 Vericiguat	COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N
+Technetium(IV) bromide	Br[Tc](Br)(Br)Br
 Americium(II) chloride	Cl[Am]Cl
 Potassium perbromate	[O-]Br(=O)(=O)=O.[K+]
 Sodium perbromate	[O-]Br(=O)(=O)=O.[Na+]
@@ -19671,3 +19676,6 @@ Silver tungstate	[O-][W](=O)(=O)[O-].[Ag+].[Ag+]
 Potassium phosphide	[P-3].[K+].[K+].[K+]
 Solorinic acid	CCCCCC(=O)C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC)O
 GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
+Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CCO)=CC2C)C
+Hexamethoxymethylmelamine	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC
+Darinaparsin	C[As](C)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N
