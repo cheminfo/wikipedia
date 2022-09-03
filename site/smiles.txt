@@ -263,6 +263,7 @@ Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
 Cytidine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
+Acetal	CCOC(C)OCC
 Deoxycytidine	c1cn(c(=O)nc1N)[C@H]2C[C@@H]([C@H](O2)CO)O
 Deoxyguanosine	c1nc2c(n1[C@H]3C[C@@H]([C@H](O3)CO)O)[nH]c(nc2=O)N
 Uridine	O=C1NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
