@@ -12793,7 +12793,7 @@ Cyclopentadienyliron dicarbonyl iodide	[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.[Fe].[I-
 Sanguiin H-6	C1[C@@H]2[C@H]([C@H]3[C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)OC5=C(C(=C(C6=C5C(=O)O[C@@H]7[C@@H](COC(=O)C8=CC(=C(C(=C86)O)O)O)O[C@@H]([C@H]9[C@H]7OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O9)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O3)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Bisdemethoxycurcumin	C1=CC(=CC=C1C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O
 EMPA (drug)	CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C
-Panicudine	CC(=O)O[C@H]1C[C@]2(CN([C@@H]3[C@H]4C(=O)[C@H]5C[C@H]6[C@]3(C1)[C@@H]2C(=O)C[C@]64CC5=C)C)C
+Panicudine	O[C@@]12[C@]3([C@]45C([C@@]6(C7([C@]4(C[C@](C6=O)(C(=C)C7)[H])[H])C1)[H])[N@@]2C[C@]3(C)C[C@H](O)C5)[H]
 N6-Methyladenosine	n2c1c(ncnc1NC)n(c2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO
 6-Chloro-5-ethoxy-N-(pyridin-2-yl)indoline-1-carboxamide	c3cccnc3NC(=O)N(c1cc2Cl)CCc1cc2OCC
 Glemanserin	OC(c1ccccc1)C3CCN(CCc2ccccc2)CC3
@@ -19681,3 +19681,5 @@ Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CC
 Hexamethoxymethylmelamine	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC
 Darinaparsin	C[As](C)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N
 Cobalt oleate	CCCCCCCCC=CCCCCCCCC(=O)O.CCCCCCCCC=CCCCCCCCC(=O)O.[Co]
+LY-2109761	C1CC2=C(C(=NN2C1)C3=CC=CC=N3)C4=C5C=CC(=CC5=NC=C4)OCCN6CCOCC6
+Didesmethylsibutramine	CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N
