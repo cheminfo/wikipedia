@@ -263,7 +263,6 @@ Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
 Cytidine	O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO
-Acetal	CCOC(C)OCC
 Deoxycytidine	c1cn(c(=O)nc1N)[C@H]2C[C@@H]([C@H](O2)CO)O
 Deoxyguanosine	c1nc2c(n1[C@H]3C[C@@H]([C@H](O3)CO)O)[nH]c(nc2=O)N
 Uridine	O=C1NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
@@ -19680,6 +19679,7 @@ GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
 Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CCO)=CC2C)C
 Hexamethoxymethylmelamine	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC
 Darinaparsin	C[As](C)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N
-Cobalt oleate	CCCCCCCCC=CCCCCCCCC(=O)O.CCCCCCCCC=CCCCCCCCC(=O)O.[Co]
+Cobalt oleate	CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Co+2]
 LY-2109761	C1CC2=C(C(=NN2C1)C3=CC=CC=N3)C4=C5C=CC(=CC5=NC=C4)OCCN6CCOCC6
 Didesmethylsibutramine	CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N
+Pimitespib	O=C(N)C1=CC=C(C(=C1)CC)N2N=C(C=3C2=NC=CC3N4C=NC(=C4)C=5C=NN(C5)C)C(C)C
