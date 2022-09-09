@@ -19173,6 +19173,7 @@ Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)O
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+4-phenylphenol	C1=CC=C(C=C1)C2=CC=C(C=C2)O
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
@@ -19684,3 +19685,5 @@ Cobalt oleate	CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Co+2]
 LY-2109761	C1CC2=C(C(=NN2C1)C3=CC=CC=N3)C4=C5C=CC(=CC5=NC=C4)OCCN6CCOCC6
 Didesmethylsibutramine	CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N
 Pimitespib	O=C(N)C1=CC=C(C(=C1)CC)N2N=C(C=3C2=NC=CC3N4C=NC(=C4)C=5C=NN(C5)C)C(C)C
+Selenoneine	C[N+](C)(C)[C@@H](Cc1c[nH][c](=[Se])[nH]1)C([O-])=O
+Selenoneine	C[N+](C)(C)[C@@H](CC1=CN=C(N1)[Se])C(=O)[O-]
