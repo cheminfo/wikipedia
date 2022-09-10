@@ -5182,6 +5182,7 @@ Pinacol	CC(C)(O)C(C)(C)O
 MTSL	CC1(C=C(C(N1[O])(C)C)CSS(=O)(=O)C)C
 Mestranol	O(c1cc4c(cc1)[C@H]3CC[C@]2([C@@H](CC[C@]2(C#C)O)[C@@H]3CC4)C)C
 Exisulind	CC1=C(CC(O)=O)C2=C(C=CC(F)=C2)\C1=C/C1=CC=C(C=C1)S(C)(=O)=O
+Oxycyte	C(C(F)(F)F)(C(F)(F)F)(C(F)(F)F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F
 Cyclic ADP-ribose	O[C@H]5[C@@H](O)[C@H]2O[C@@H]5COP(O)(=O)OP(O)(=O)OC[C@H]4O[C@@H](N3\C=N/c1c(ncn12)C3=N)[C@H](O)[C@@H]4O
 1,4-Butynediol	OCC#CCO
 Nicotinic acid adenine dinucleotide phosphate	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)OP(=O)(O)O)O)O)O)C(=O)O
@@ -19173,7 +19174,7 @@ Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)O
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
-4-phenylphenol	C1=CC=C(C=C1)C2=CC=C(C=C2)O
+4-Phenylphenol	C1=CC=C(C=C1)C2=CC=C(C=C2)O
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
