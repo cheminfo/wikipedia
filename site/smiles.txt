@@ -11706,7 +11706,7 @@ Org 27569	CCc1c2cc(Cl)ccc2[nH]c1C(=O)NCCc3ccc(cc3)N4CCCCC4
 SER-601	CC(C)c5ccc(c1c5)n(CCCCC)cc(c1=O)C(=O)NC4(C2)CC(CC2C3)CC3C4
 Beta-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(O)=O)=O)=O)=O)=O)=O)=O)=O)=O
 Alpha-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(N[C@H](C(O)=O)CCCCN)=O)=O)=O)=O)=O)=O)=O)=O)=O
-Nitrosylazide	[N-]=[N+]=NN=O
+Nitrosyl azide	[N-]=[N+]=NN=O
 AM-1221	CN1CCCCC1CN2C=C(C3=C2C=C(C=C3)[N+](=O)[O-])C(=O)C4=CC=CC5=CC=CC=C54
 AM-630	C4COCCN4CCn(c1C)c2cc(I)ccc2c1C(=O)c3ccc(OC)cc3
 4-Methyl-1-pentene	CC(C)CC=C
