@@ -4072,7 +4072,6 @@ Sebacoyl chloride	ClC(=O)CCCCCCCC(=O)CCl
 Cytisinicline	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
 Parecoxib	O=C(NS(=O)(=O)c3ccc(c2c(onc2c1ccccc1)C)cc3)CC
 Silicon tetrafluoride	F[Si](F)(F)F
-2-Mercaptoindole	Sc2cc1ccccc1[nH]2
 Tetrazolium chloride	[Cl-].c4ccc(c3nn(c1ccccc1)[n+](c2ccccc2)n3)cc4
 Silver acetate	CC(=O)[O-].[Ag+]
 Aluminium fluoride	F[Al](F)F
@@ -7661,7 +7660,7 @@ Hexobendine	COc1c(cc(cc1OC)C(=O)OCCCN(C)CCN(C)CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)OC
 Carbocromen	O=C(OCC)COc2ccc\1c(OC(=O)/C(=C/1C)CCN(CC)CC)c2
 Oxyfedrine	C[C@@H]([C@@H](c1ccccc1)O)NCCC(=O)c2cccc(c2)OC
 Prenylamine	CC(Cc1ccccc1)NCCC(c2ccccc2)c3ccccc3
-Itramin tosilate	CC1=CC=C(C=C1)S(=O)(=O)O.C(CO[N+](=O)[O-])N
+Itramin tosylate	CC1=CC=C(C=C1)S(=O)(=O)O.C(CO[N+](=O)[O-])N
 Propacetamol	CCN(CC)CC(=O)OC1=CC=C(C=C1)NC(=O)C
 Drotebanol	CN1CC[C@]23C[C@@H](CC[C@]2([C@H]1CC4=C3C(=C(C=C4)OC)OC)O)O
 Oleanolic acid	O=C(O)[C@@]54[C@H](/C3=C/C[C@H]1[C@](CC[C@@H]2[C@]1(C)CC[C@H](O)C2(C)C)(C)[C@]3(C)CC4)CC(C)(C)CC5
@@ -19693,3 +19692,5 @@ Deucravacitinib	[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)
 2-Iodophenol	C1=CC=C(C(=C1)O)I
 4-Iodophenol	C1=CC(=CC=C1O)I
 3-Iodophenol	C1=CC(=CC(=C1)I)O
+Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3]
+Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].O.O.O
