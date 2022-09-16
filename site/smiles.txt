@@ -28,7 +28,7 @@ Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
-DDT	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
+DDT	ClC1=CC=C(C(C(Cl)(Cl)Cl)C2=CC=C(C=C2)Cl)C=C1
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -10007,7 +10007,7 @@ Oxetene	O1\C=C/C1
 2,5-Dihydrofuran	O1C/C=C\C1
 Undecylic acid	O=C(O)CCCCCCCCCC
 ICI-190,622	CC#CCCN1C2=NC=C(C(=C2C=N1)N)C(=O)NCC=C
-2,3,7,8-Tetrachlorodibenzodioxin	Clc2cc1Oc3c(Oc1cc2Cl)cc(Cl)c(Cl)c3
+2,3,7,8-Tetrachlorodibenzodioxin	ClC1=C(Cl)C=C2OC(C=C(C(Cl)=C3)Cl)=C3OC2=C1
 Croconic acid	O=C1C(O)=C(O)C(=O)C1=O
 Pyrethrin II	CC1=C(C(=O)CC1OC(=O)C2[C@@H](C2(C)C)/C=C(/C)\C(=O)OC)C/C=C/C=C
 Pyrethrin I	CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C/C=C\C=C
@@ -19694,3 +19694,4 @@ Deucravacitinib	[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)
 3-Iodophenol	C1=CC(=CC(=C1)I)O
 Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3]
 Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].O.O.O
+Tetrahydrocannabioctyl	OC1=C2[C@]3([C@](C(C)(C)OC2=CC(CCCCCCCC)=C1)(CCC(C)=C3)[H])[H]
