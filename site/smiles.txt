@@ -7134,7 +7134,7 @@ Camptothecin	O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(cc3C4)cccc5
 N-Nitrosodiethylamine	CCN(CC)N=O
 Merocyanine	CCCCN1C(=O)C(=C/C=C/C=C\2/N(c3ccccc3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=O)CCCC.[Na+]
 Isomaltol	O=C(c1occc1O)C
-1,5-Pentanediol	OCCCCCO
+Pentane-1,5-diol	OCCCCCO
 Cobratoxin	CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(CC(=O)N)C(=O)NC(CS)C(=O)NC(CS)C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NC(CC(=O)O)C(=O)NC(CCCN=C(N)N)C(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)C(CCCCN)NC(=O)C(C(C)C)NC(=O)C(CO)NC(=O)C1CCCN1C(=O)C(CS)NC(=O)CNC(=O)C(CS)NC(=O)CNC(=O)C(CCCN=C(N)N)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(CCCN=C(N)N)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC(=O)O)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC6=CC=C(C=C6)O)NC(=O)C(CS)NC(=O)C(CC(=O)N)NC(=O)C(C(C)O)NC(=O)C(CCC(=O)O)NC(=O)CNC(=O)CNC(=O)C(CO)NC(=O)C(CS)NC(=O)CNC(=O)C(C(C)O)NC(=O)C(C(C)O)NC(=O)C(C(C)O)NC(=O)C7CCCN7C(=O)C(C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(CC8=CN=CN8)NC(=O)C(CS)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)N
 Uranyl formate	O=CO.O=CO.O=[U]=O
 Lactaldehyde	O=CC(O)C
@@ -19694,3 +19694,4 @@ Deucravacitinib	[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)
 Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3]
 Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].O.O.O
 Tetrahydrocannabioctyl	OC1=C2[C@]3([C@](C(C)(C)OC2=CC(CCCCCCCC)=C1)(CCC(C)=C3)[H])[H]
+Sodium hexachloroiridate(III)	[Na+].[Na+].[Na+].Cl[Ir-3](Cl)(Cl)(Cl)(Cl)Cl
