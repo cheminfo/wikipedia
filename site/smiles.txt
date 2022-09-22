@@ -19696,3 +19696,5 @@ Cerium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ce+3].CC(=O)[O-].CC(=O)[O-
 JWH-138	OC1=C2[C@]3([C@](C(C)(C)OC2=CC(CCCCCCCC)=C1)(CCC(C)=C3)[H])[H]
 Sodium hexachloroiridate(III)	[Na+].[Na+].[Na+].Cl[Ir-3](Cl)(Cl)(Cl)(Cl)Cl
 Lithium thiocyanate	[Li+].C(#N)[S-]
+Lithium thiocyanate	[Li+].C(#N)[S-].O
+Lithium thiocyanate	[Li+].C(#N)[S-].O.O
