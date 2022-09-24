@@ -19698,3 +19698,6 @@ Sodium hexachloroiridate(III)	[Na+].[Na+].[Na+].Cl[Ir-3](Cl)(Cl)(Cl)(Cl)Cl
 Lithium thiocyanate	[Li+].C(#N)[S-]
 Lithium thiocyanate	[Li+].C(#N)[S-].O
 Lithium thiocyanate	[Li+].C(#N)[S-].O.O
+Oxime V	C(=N/O)\C=1CC=C(COC)CC1
+Isosulfan blue	[Na+].CCN(CC)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC)C1=CC(=CC=C1S([O-])(=O)=O)S([O-])(=O)=O
+Isosulfan blue	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(ccc3S(=O)(=O)[O-])S(=O)(=O)O
