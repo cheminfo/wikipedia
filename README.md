@@ -17,10 +17,13 @@ You can download the latest version directly on [GitHub](https://github.com/chem
 ### Easy updates with git
 
 If you plan on updating regularly, you can use git :
+
 ```bash
 git clone https://github.com/cheminfo/wikipedia.git
 ```
+
 Then to update :
+
 ```bash
 cd wikipedia
 git pull
@@ -28,7 +31,7 @@ git pull
 
 ## Serve the website
 
-All the required files for the website are located in the `site` directory. Just make this directory public on your server and it should work.  
+All the required files for the website are located in the `site` directory. Just make this directory public on your server and it should work.
 
 ## About `dump` and `node` directories
 

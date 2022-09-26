@@ -1,6 +1,6 @@
 # Data update scripts
 
-This directory contains the scripts needed to dump and parse the data from Wikipedia.  
+This directory contains the scripts needed to dump and parse the data from Wikipedia.
 
 The dump process is divided in 4 steps that are all accessible from the main `wiki.js` file.
 
@@ -23,5 +23,6 @@ The pages are stored in the `pages` directory and the current versions in `updat
 
 Parse all pages to extract the SMILES and generate `data.json`, `smiles.txt` and `idcode.txt`.
 This command can be run with arguments :
-* `-l, --limit <n>` Limit the parsing to the `n` first pages. Useful for debugging.
-* `-p, --publish` publish the data files the the `site` directory.
+
+- `-l, --limit <n>` Limit the parsing to the `n` first pages. Useful for debugging.
+- `-p, --publish` publish the data files the the `site` directory.
