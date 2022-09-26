@@ -1,6 +1,15 @@
 {
   "private": true,
+  "name": "wikipedia",
+  "version": "0.0.0",
+  "devDependencies": {
+    "chemcalc": "^3.4.0",
+    "commander": "^2.11.0",
+    "openchemlib": "^4.0.0",
+    "progress": "^1.1.8",
+    "superagent": "^1.7.2"
+  },
   "volta": {
-    "node": "16.16.0"
+    "node": "16.17.0"
   }
 }

@@ -17,11 +17,8 @@ jobs:
         with:
           node-version: 16
           cache: npm
-          cache-dependency-path: dump/package-lock.json
       - name: Install dependencies
-        run: |
-          cd dump
-          npm ci
+        run: npm ci
       - name: Get dates for cache
         id: dates
         run: |

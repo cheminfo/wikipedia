@@ -1,5 +1,4 @@
 .idea
-node/node_modules
+node_modules
 tmp
 dump/data
-dump/node_modules
