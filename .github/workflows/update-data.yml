@@ -41,6 +41,10 @@ jobs:
         run: |
           git config --local user.email "admin@cheminfo.org"
           git config --local user.name "cheminfo bot"
-          git add site/src/json/data.json site/smiles.txt site/idcode.txt stats.json
+          cp public/data.json site/src/json/data.json
+          cp public/smiles.txt site/smiles.txt
+          cp public/idcode.txt site/idcode.txt
+          git add site/src/json/data.json site/smiles.txt site/idcode.txt
+          git add public/data.json public/smiles.txt public/idcode.txt stats.json
           git commit -m "update data" -m "$(tail -2 stats.json | head -1 | jq '.')"
           git push

@@ -1,44 +1,43 @@
-var util = require('./util'),
-    ids = require('./data/ids.json'),
-    fs = require('fs'),
-    ProgressBar = require('progress');
+import fs from 'fs';
 
-var start = 0,
-    length = ids.length,
-    revisions = [],
-    missing = [];
+import ProgressBar from 'progress';
 
-console.log(ids.length + ' ids');
+import * as util from './util.js';
 
-var bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
-    width: 30,
-    incomplete: ' ',
-    total: length
+const ids = JSON.parse(fs.readFileSync('./data/ids.json'));
+
+let start = 0;
+let length = ids.length;
+let revisions = [];
+let missing = [];
+
+console.log(`${ids.length} ids`);
+
+let bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
+  width: 30,
+  incomplete: ' ',
+  total: length,
 });
 
-getNextEntries().then(function () {
-    console.log(revisions.length + ' revisions');
-    fs.writeFileSync('./data/rev.json', JSON.stringify(revisions));
-    console.log(missing.length + ' missing');
-    fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
-}).catch(function (err) {
-    console.error(err);
-    process.exit(1);
-});
+await getNextEntries();
+console.log(`${revisions.length} revisions`);
+fs.writeFileSync('./data/rev.json', JSON.stringify(revisions));
+console.log(`${missing.length} missing`);
+fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
 
 function getNextEntries() {
-    var idsToGet = [];
-    var ii = Math.min(length, start + 50);
-    for (; start < ii; start++) {
-        idsToGet.push(ids[start]);
+  let idsToGet = [];
+  let ii = Math.min(length, start + 50);
+  for (; start < ii; start++) {
+    idsToGet.push(ids[start]);
+  }
+  start = ii;
+  return getRevisions(idsToGet).then(() => {
+    bar.tick(idsToGet.length);
+    if (start < length) {
+      return getNextEntries();
     }
-    start = ii;
-    return getRevisions(idsToGet).then(function () {
-        bar.tick(idsToGet.length);
-        if (start < length) {
-            return getNextEntries();
-        }
-    });
+  });
 }
 
 // https://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
@@ -46,25 +45,25 @@ function getNextEntries() {
 // Max 50 page ids at the same time
 
 function getRevisions(ids) {
-    var param = {
-        action: 'query',
-        prop: 'revisions',
-        rvprop: 'ids',
-        'continue': '',
-        pageids: ids.join(['|'])
-    };
-    return util.request(param).then(function (result) {
-        var pages = result.query.pages;
-        for (var i = 0; i < ids.length; i++) {
-            var page = pages[ids[i]];
-            if (page) {
-                revisions.push({
-                    id: page.pageid,
-                    rev: page.revisions[0].revid
-                });
-            } else {
-                missing.push(ids[i]);
-            }
-        }
-    });
+  let param = {
+    action: 'query',
+    prop: 'revisions',
+    rvprop: 'ids',
+    continue: '',
+    pageids: ids.join(['|']),
+  };
+  return util.request(param).then((result) => {
+    let pages = result.query.pages;
+    for (let i = 0; i < ids.length; i++) {
+      let page = pages[ids[i]];
+      if (page) {
+        revisions.push({
+          id: page.pageid,
+          rev: page.revisions[0].revid,
+        });
+      } else {
+        missing.push(ids[i]);
+      }
+    }
+  });
 }

@@ -1,0 +1,6 @@
+root: true
+extends: '@zakodium/eslint-config/typescript-react'
+parserOptions:
+  project:
+    - './tsconfig.json'
+    - './tsconfig.node.json'
