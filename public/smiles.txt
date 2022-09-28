@@ -653,7 +653,6 @@ Granisetron	CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23
 Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
 Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)F
 2C-E	COc1cc(CC)c(cc1CCN)OC
-Iron(III) chloride	Cl[Fe](Cl)Cl
 Silver iodide	[Ag]I
 Tryptamine	c1ccc2c(c1)c(c[nH]2)CCN
 Propafenone	O=C(c1ccccc1OCC(O)CNCCC)CCc2ccccc2
@@ -16363,7 +16362,7 @@ ERB-196	C1(=CC2=C(C(=C1)C#N)C=C(C=C2)O)C1=CC(=C(C=C1)O)F
 WAY-214156	C1C2=C(C=CC(=C2)O)C3=C(O1)C4=C(C=C(C=C4C#N)O)C(=C3)C#N
 Glabrene	CC1(C=CC2=C(C=CC(=C2O1)C3=CC4=C(C=C(C=C4)O)OC3)O)C
 Mirificin	C1[C@@]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)C3=C(C=CC4=C3OC=C(C4=O)C5=CC=C(C=C5)O)O)O)O)O)O)(CO)O
-Nyasol	OC1=CC=C(\C=C/[C@@H](C=C)C2=CC=C(O)C=C2)C=C1
+Nyasol	C=C[C@H](/C=C\C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
 Triphenylchloroethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3
 Allenestrol	CCC(C1=CC2=C(C=C1)C=C(C=C2)O)C(C)(C)C(=O)O
 Triphenylbromoethylene	C1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Br)C3=CC=CC=C3
