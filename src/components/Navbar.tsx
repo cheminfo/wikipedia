@@ -4,7 +4,7 @@ export function Navbar(): JSX.Element {
   const sections = [
     { name: 'Explore structures', link: '/' },
     { name: 'Browse errors', link: '/errors' },
-    { name: 'Download SMILES', link: '/SMILES' },
+    { name: 'Download SMILES', link: '/smiles.txt' },
     { name: 'About', link: '/about' },
   ];
 
@@ -13,14 +13,14 @@ export function Navbar(): JSX.Element {
       key={section.name}
       href={section.link}
       className={clsx('hover:text-white', {
-        'font-medium text-white': window.location.pathname === section.link,
+        'font-semibold text-white': window.location.pathname === section.link,
       })}
     >
       {section.name}
     </a>
   ));
   return (
-    <div className="flex items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#D9D9D9]">
+    <div className="fixed flex w-full items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#EAEBED]">
       <a href="/" className="text-lg xl:text-2xl">
         Wikipedia Chemical Structure Explorer
       </a>
@@ -32,7 +32,7 @@ export function Navbar(): JSX.Element {
       >
         <button
           type="button"
-          className="rounded-lg border py-1 px-4 font-medium transition duration-150 ease-in-out hover:bg-white hover:text-[#0A4E7A]"
+          className="rounded-lg border py-1.5 px-4 font-semibold transition duration-150 ease-in-out hover:bg-white hover:text-[#0A4E7A]"
         >
           Fork me on GitHub
         </button>
