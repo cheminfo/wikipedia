@@ -13014,6 +13014,7 @@ JWH-149	c4cccc1c4c(ccc1C)C(=O)c3c2ccccc2n(c3C)CCCCC
 Isobutyl chloride	CC(C)CCl
 Solanidine	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C
 Solanidine	C[C@@H]1CN2[C@@]3([H])C[C@@]4([H])[C@]5([H])CCC6=C[C@@H](O)CC[C@]6(C)[C@@]5([H])CC[C@]4(C)[C@@]3([H])[C@H](C)[C@@]2([H])CC1
+Disilene	[SiH2]=[SiH2]
 Masitinib	O=C(c1ccc(cc1)CN2CCN(C)CC2)Nc3cc(c(cc3)C)Nc4nc(cs4)c5cccnc5
 Undecanal	O=CCCCCCCCCCC
 Dodecanal	O=CCCCCCCCCCCC
@@ -19702,3 +19703,4 @@ Oxime V	C(=N/O)\C=1CC=C(COC)CC1
 Isosulfan blue	[Na+].CCN(CC)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC)C1=CC(=CC=C1S([O-])(=O)=O)S([O-])(=O)=O
 Isosulfan blue	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(ccc3S(=O)(=O)[O-])S(=O)(=O)O
 Dichlorodifluoroethane	C(C(F)(Cl)Cl)F
+1,2,4,5-Tetrachloro-3-nitrobenzene	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
