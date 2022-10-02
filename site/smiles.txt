@@ -19278,6 +19278,7 @@ AC-90179	CC1=CC=C(C=C1)CN(C2CCN(CC2)C)C(=O)CC3=CC=C(C=C3)OC
 Dysprosium phosphide	P#[Dy]
 Pyrrole-2-carboxylic acid	C1=CNC(=C1)C(=O)O
 Thiophene-2-carboxylic acid	C1=CSC(=C1)C(=O)O
+Omidenepag	CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1
 Terbium phosphide	P#[Tb]
 Gadolinium phosphide	[Gd]#P
 2-Acetylthiophene	CC(=O)C1=CC=CS1
@@ -19705,3 +19706,4 @@ Isosulfan blue	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(ccc3S(=O)(=O)[O-
 Dichlorodifluoroethane	C(C(F)(Cl)Cl)F
 1,2,4,5-Tetrachloro-3-nitrobenzene	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
 Niobium(V) oxynitrate	[Nb](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
+Thallium(I) nitrate	[Tl+].[O-][N+](=O)[O-]
