@@ -20,7 +20,7 @@ export function Navbar(): JSX.Element {
     </a>
   ));
   return (
-    <div className="fixed flex w-full items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#EAEBED]">
+    <div className="fixed z-50 flex w-full items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#EAEBED]">
       <a href="/" className="text-lg xl:text-2xl">
         Wikipedia Chemical Structure Explorer
       </a>
@@ -28,7 +28,7 @@ export function Navbar(): JSX.Element {
       <a
         href="https://github.com/cheminfo/wikipedia"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noreferrer"
       >
         <button
           type="button"

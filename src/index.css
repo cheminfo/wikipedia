@@ -2,3 +2,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  overflow: overlay;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #eaebed;
+  margin-top: 54px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background: #92bedf;
+  margin-top: 0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0a4e7a;
+}
