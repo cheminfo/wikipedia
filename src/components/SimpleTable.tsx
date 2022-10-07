@@ -4,11 +4,12 @@ export interface Props {
   title?: string;
   footer?: JSX.Element;
   option?: JSX.Element;
+  content: JSX.Element;
   className?: string;
-  content?: JSX.Element;
+  height?: string;
 }
 
-export default function Table(props: Props): JSX.Element {
+export default function SimpleTable(props: Props): JSX.Element {
   return (
     <div
       className={clsx(
@@ -20,8 +21,8 @@ export default function Table(props: Props): JSX.Element {
         <div className="">{props.title}</div>
         <div className="">{props.option}</div>
       </div>
-      <div className="">{props.content}</div>
-      <div className="rounded-b-lg bg-[#92BEDF]  text-[#0A4E7A]">
+      <div className={props.height}>{props.content}</div>
+      <div className="rounded-b-lg bg-[#92BEDF] text-[#0A4E7A]">
         <div className="">{props.footer}</div>
       </div>
     </div>

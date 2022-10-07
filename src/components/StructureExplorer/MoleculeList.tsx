@@ -1,7 +1,8 @@
 import { MdClose } from 'react-icons/md';
 
+import SimpleTable from '../SimpleTable';
+
 import { MoleculeInfo } from './MoleculeInfo';
-import Table from './Table';
 
 function Filter(): JSX.Element {
   return (
@@ -21,7 +22,7 @@ function Filter(): JSX.Element {
 
 function Molecules(): JSX.Element {
   return (
-    <div className="scrollbar grid max-h-96 grid-cols-4 overflow-y-scroll">
+    <div className="scrollbar grid h-96 grid-cols-4 overflow-y-auto">
       <MoleculeInfo />
       <MoleculeInfo />
       <MoleculeInfo />
@@ -44,9 +45,9 @@ function Pagination(): JSX.Element {
   return <div className="flex justify-center py-1">Molecule n°</div>;
 }
 
-export function Grid(): JSX.Element {
+export function MoleculeList(): JSX.Element {
   return (
-    <Table
+    <SimpleTable
       option={<Filter />}
       className="w-full"
       footer={<Pagination />}

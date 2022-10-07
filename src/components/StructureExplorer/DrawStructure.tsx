@@ -1,4 +1,4 @@
-import Table from './Table';
+import SimpleTable from '../SimpleTable';
 
 function Search(): JSX.Element {
   return (
@@ -22,7 +22,7 @@ function Board(): JSX.Element {
 
 export function DrawStructure(): JSX.Element {
   return (
-    <Table
+    <SimpleTable
       title="Draw a structure"
       option={<Search />}
       className="w-[950px]"

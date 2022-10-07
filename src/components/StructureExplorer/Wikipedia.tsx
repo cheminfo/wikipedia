@@ -1,4 +1,4 @@
-import Table from './Table';
+import SimpleTable from '../SimpleTable';
 
 function OpenWiki(): JSX.Element {
   return (
@@ -19,7 +19,7 @@ function WikiPage(): JSX.Element {
 
 export function Wikipedia(): JSX.Element {
   return (
-    <Table
+    <SimpleTable
       title="Wikipedia article"
       option={<OpenWiki />}
       className="w-full"

@@ -1,13 +1,13 @@
-import { DrawStructure } from '../components/DrawStructure';
-import { Grid } from '../components/Grid';
-import { Wikipedia } from '../components/Wikipedia';
+import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
+import { MoleculeList } from '../components/StructureExplorer/MoleculeList';
+import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
 
 export function StructureExplorer(): JSX.Element {
   return (
     <div className="mx-56 mt-4">
       <div className="flex justify-center space-x-5">
         <DrawStructure />
-        <Grid />
+        <MoleculeList />
       </div>
       <Wikipedia />
     </div>
