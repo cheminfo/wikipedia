@@ -15,6 +15,7 @@ export function Navbar(): JSX.Element {
       className={clsx('hover:text-white', {
         'font-semibold text-white': window.location.pathname === section.link,
       })}
+      {...(section.link === '/smiles.txt' && { download: 'smiles.txt' })}
     >
       {section.name}
     </a>
