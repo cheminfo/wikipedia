@@ -23,7 +23,7 @@ export default function SimpleTable(props: Props): JSX.Element {
       </div>
       <div className={props.height}>{props.content}</div>
       <div className="rounded-b-lg bg-[#92BEDF] text-[#0A4E7A]">
-        <div className="">{props.footer}</div>
+        {props.footer}
       </div>
     </div>
   );

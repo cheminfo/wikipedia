@@ -1,36 +1,12 @@
-import { useEffect, useState } from 'react';
-
 import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
+import useGetData from '../hooks/useGetData';
 
 export function BrowseErrors(): JSX.Element {
-  const [date, setDate] = useState('');
-  const [dup, setDup] = useState('');
-  const [notfound, setNotfound] = useState('');
-  const [nogood, setNogood] = useState('');
-  const [errors, setErrors] = useState('');
-
-  useEffect(() => {
-    void fetch('data.json', {
-      headers: {
-        'Content-Type': 'application/json',
-        Accept: 'application/json',
-      },
-    })
-      .then((response) => {
-        return response.json();
-      })
-      .then((myJson) => {
-        setDate(JSON.stringify(myJson.count.date).slice(1, 11));
-        setDup(JSON.stringify(myJson.count.dup));
-        setNotfound(JSON.stringify(myJson.count.notfound));
-        setNogood(JSON.stringify(myJson.count.nogood));
-        setErrors(JSON.stringify(myJson.count.errors));
-      });
-  }, []);
-
+  const { date, dupLength, notfoundLength, errorsLength, nogoodLength } =
+    useGetData();
   return (
     <div className="mx-56 mt-14">
       <div className="text-[#0A4E7A]">
@@ -46,10 +22,10 @@ export function BrowseErrors(): JSX.Element {
         </div>
       </div>
       <div className="mt-12 grid-cols-2 gap-x-28 xl:grid">
-        <Duplicates number={dup} />
-        <NotFound number={notfound} />
-        <SMILESErrors number={errors} />
-        <NoCorrectSMILES number={nogood} />
+        <Duplicates number={dupLength} />
+        <NotFound number={notfoundLength} />
+        <SMILESErrors number={errorsLength} />
+        <NoCorrectSMILES number={nogoodLength} />
       </div>
     </div>
   );
