@@ -11,11 +11,14 @@ function Content(): JSX.Element {
   );
 }
 
-export function NotFound(): JSX.Element {
+export interface Props {
+  number: string;
+}
+export function NotFound(props: Props): JSX.Element {
   return (
     <ErrorSection
       title="Not found :"
-      number={2130}
+      number={props.number}
       description="List of pages that contain a ChemBox or DrugBox but no SMILES field"
       table={
         <SimpleTable

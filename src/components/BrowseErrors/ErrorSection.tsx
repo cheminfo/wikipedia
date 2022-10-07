@@ -2,7 +2,7 @@ import clsx from 'clsx';
 
 export interface Props {
   title: string;
-  number: number;
+  number: string;
   description: string;
   table: JSX.Element;
   height?: string;

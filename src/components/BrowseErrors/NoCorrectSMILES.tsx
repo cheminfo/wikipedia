@@ -11,11 +11,14 @@ function Content(): JSX.Element {
   );
 }
 
-export function NoCorrectSMILES(): JSX.Element {
+export interface Props {
+  number: string;
+}
+export function NoCorrectSMILES(props: Props): JSX.Element {
   return (
     <ErrorSection
       title="Pages without correct SMILES :"
-      number={566}
+      number={props.number}
       description="List of pages in which all the SMILES have errors. Therefore these pages cannot be found in the search page"
       table={
         <SimpleTable

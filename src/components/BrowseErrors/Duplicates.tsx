@@ -10,12 +10,14 @@ function Content(): JSX.Element {
     </div>
   );
 }
-
-export function Duplicates(): JSX.Element {
+export interface Props {
+  number: string;
+}
+export function Duplicates(props: Props): JSX.Element {
   return (
     <ErrorSection
       title="Duplicates :"
-      number={566}
+      number={props.number}
       description="List of pages that contain several SMILES that represent the exact same structure"
       table={
         <SimpleTable
