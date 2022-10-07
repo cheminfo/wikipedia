@@ -4,7 +4,7 @@ import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
 
 export function StructureExplorer(): JSX.Element {
   return (
-    <div className="mx-56 mt-4">
+    <div className="py-14 px-20 xl:px-28 2xl:px-60">
       <div className="flex justify-center space-x-5">
         <DrawStructure />
         <MoleculeList />

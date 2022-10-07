@@ -6,7 +6,7 @@ import { ErrorSection } from './ErrorSection';
 function Content(): JSX.Element {
   const { nogood } = useGetData();
   return (
-    <div className="scrollbar grid max-h-[204px] grid-cols-7 overflow-y-auto overflow-x-hidden rounded-b-lg">
+    <div className="scrollbar grid max-h-[204px] grid-cols-5 overflow-y-auto overflow-x-hidden rounded-b-lg xl:grid-cols-7">
       {nogood.map((id) => (
         <div key={id} className="flex justify-center border py-2 text-xs">
           {id}

@@ -29,7 +29,9 @@ function SMILESErrorTable(): JSX.Element {
       <div className="bg-[#92BEDF] px-5 py-2 text-sm text-[#0A4E7A]">
         Hovered SMILES
       </div>
-      <div className="break-all px-5 py-3 text-sm">{hoveredSmiles}</div>
+      <div className="scrollbar flex h-20 items-center overflow-y-auto break-all px-5 py-3 text-xs">
+        {hoveredSmiles}
+      </div>
     </div>
   );
 }

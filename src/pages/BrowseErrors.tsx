@@ -8,7 +8,7 @@ export function BrowseErrors(): JSX.Element {
   const { date, dupLength, notfoundLength, errorsLength, nogoodLength } =
     useGetData();
   return (
-    <div className="mx-56 mt-14">
+    <div className="py-14 px-20 xl:px-28 2xl:px-60">
       <div className="text-[#0A4E7A]">
         <div className="">
           <div className="text-4xl">Articles with SMILES problems</div>
@@ -21,7 +21,7 @@ export function BrowseErrors(): JSX.Element {
           Click on any cell to open the corresponding article on Wikipedia
         </div>
       </div>
-      <div className="mt-12 grid-cols-2 gap-x-28 xl:grid">
+      <div className="mt-12 flex flex-wrap justify-between gap-y-20">
         <Duplicates number={dupLength} />
         <NotFound number={notfoundLength} />
         <SMILESErrors number={errorsLength} />

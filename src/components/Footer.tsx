@@ -4,7 +4,7 @@ import novartis from '../../public/logo/novartis.svg';
 
 export function Footer(): JSX.Element {
   return (
-    <div className="flex items-center justify-center space-x-32 py-12">
+    <div className="flex items-center justify-center space-x-32 py-16">
       <a
         href="https://www.novartis.com/"
         target="_blank"
