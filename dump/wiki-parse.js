@@ -153,7 +153,7 @@ for (let i = 0; i < length; i++) {
         errors.push({
           id,
           smiles: smiles[j],
-          error: e.f,
+          error: e.toString().match(/.*?:.*?: (?<message>.*)/).groups.message,
         });
       }
     }
