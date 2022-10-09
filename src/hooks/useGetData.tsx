@@ -4,7 +4,7 @@ export default function useGetData() {
   interface SMILEError {
     id: number;
     smiles: string;
-    message: string;
+    error: string;
   }
   const [date, setDate] = useState('');
   const [dup, setDup] = useState([]);

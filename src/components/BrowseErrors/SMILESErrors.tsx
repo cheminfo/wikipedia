@@ -10,26 +10,26 @@ function SMILESErrorTable(): JSX.Element {
 
   return (
     <div className="mb-5 flex flex-col rounded-lg bg-white shadow-md">
-      <div className="grid grid-cols-5 rounded-t-lg bg-[#92BEDF] text-sm text-[#0A4E7A]">
-        <div className="col-span-1 px-5 py-2">Article ID</div>
-        <div className="col-span-2 px-5 py-2">SMILES</div>
-        <div className="col-span-2 px-5 py-2">Error message</div>
-        <div className="scrollbar col-span-5 h-[204px] overflow-y-auto bg-white text-xs text-black">
+      <div className="grid grid-cols-8 rounded-t-lg bg-[#92BEDF] text-sm text-[#0A4E7A]">
+        <div className="col-span-2 px-3 py-2">Article ID</div>
+        <div className="col-span-2 px-3 py-2">SMILES</div>
+        <div className="col-span-4 px-3 py-2">Error message</div>
+        <div className="scrollbar col-span-8 h-[204px] overflow-y-auto bg-white text-xs text-black">
           {errors.map((error) => (
             <ContentRow
               key={error.id}
               id={error.id}
               smiles={error.smiles}
-              message={error.message}
+              error={error.error}
               setHoveredSmiles={setHoveredSmiles}
             />
           ))}
         </div>
       </div>
-      <div className="bg-[#92BEDF] px-5 py-2 text-sm text-[#0A4E7A]">
+      <div className="bg-[#92BEDF] px-3 py-2 text-sm text-[#0A4E7A]">
         Hovered SMILES
       </div>
-      <div className="scrollbar flex h-20 items-center overflow-y-auto break-all px-5 py-3 text-xs">
+      <div className="scrollbar h-22 flex items-center overflow-y-auto break-all p-3 text-xs">
         {hoveredSmiles}
       </div>
     </div>
@@ -39,19 +39,21 @@ function SMILESErrorTable(): JSX.Element {
 export interface Props {
   id: number;
   smiles: string;
-  message: string;
+  error: string;
   setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
 }
 
 function ContentRow(props: Props): JSX.Element {
   return (
     <div
-      className="grid grid-cols-5 hover:bg-[#EAEBED]"
+      className="grid grid-cols-8 overflow-x-hidden hover:bg-[#EAEBED]"
       onMouseEnter={() => props.setHoveredSmiles(props.smiles)}
     >
-      <div className="col-span-1 border px-5 py-2">{props.id}</div>
-      <div className="col-span-2 truncate border px-5 py-2">{props.smiles}</div>
-      <div className="col-span-2 border px-5 py-2">{props.message}</div>
+      <div className="col-span-2 flex justify-center border px-3 py-2">
+        {props.id}
+      </div>
+      <div className="col-span-2 truncate border px-3 py-2">{props.smiles}</div>
+      <div className="col-span-4 border px-3 py-2">{props.error}</div>
     </div>
   );
 }

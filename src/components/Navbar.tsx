@@ -22,7 +22,7 @@ export function Navbar(): JSX.Element {
   ));
   return (
     <div className="fixed z-50 flex w-full items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#EAEBED]">
-      <a href="/" className="text-lg xl:text-2xl">
+      <a href="/" className="hidden text-lg sm:block 2xl:text-2xl">
         Wikipedia Chemical Structure Explorer
       </a>
       <nav className="hidden space-x-12 xl:block">{NavbarLinks}</nav>
@@ -33,11 +33,13 @@ export function Navbar(): JSX.Element {
       >
         <button
           type="button"
-          className="rounded-lg border py-1.5 px-4 font-semibold transition duration-150 ease-in-out hover:bg-white hover:text-[#0A4E7A]"
+          className="hidden rounded-lg border py-1.5 px-4 font-semibold transition duration-150 ease-in-out hover:bg-white hover:text-[#0A4E7A] xl:block"
         >
           Fork me on GitHub
         </button>
       </a>
+      {/* TO DO: add hamburger menu */}
+      <div className="xl:hidden">*menu*</div>
     </div>
   );
 }
