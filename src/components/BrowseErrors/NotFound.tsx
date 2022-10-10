@@ -8,9 +8,18 @@ function Content(): JSX.Element {
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {notfound.map((id) => (
-        <div key={id} className="flex justify-center border py-2 text-xs">
-          {id}
-        </div>
+        <a
+          // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
+          href={`https://en.wikipedia.org/wiki?curid=${id}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          key={id}
+          className="cursor-pointer"
+        >
+          <div key={id} className="flex justify-center border py-2 text-xs">
+            {id}
+          </div>
+        </a>
       ))}
     </div>
   );

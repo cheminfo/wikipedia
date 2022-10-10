@@ -16,13 +16,22 @@ function SMILESErrorTable(): JSX.Element {
         <div className="col-span-4 px-3 py-2">Error message</div>
         <div className="scrollbar col-span-8 h-[204px] overflow-y-auto bg-white text-xs text-black">
           {errors.map((error) => (
-            <ContentRow
+            <a
+              // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
+              href={`https://en.wikipedia.org/wiki?curid=${error.id}`}
+              target="_blank"
+              rel="noopener noreferrer"
               key={error.id}
-              id={error.id}
-              smiles={error.smiles}
-              error={error.error}
-              setHoveredSmiles={setHoveredSmiles}
-            />
+              className="cursor-pointer"
+            >
+              <ContentRow
+                key={error.id}
+                id={error.id}
+                smiles={error.smiles}
+                error={error.error}
+                setHoveredSmiles={setHoveredSmiles}
+              />
+            </a>
           ))}
         </div>
       </div>
