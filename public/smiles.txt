@@ -4068,7 +4068,7 @@ Nicardipine	O=C(OCCN(Cc1ccccc1)C)\C2=C(\N/C(=C(/C(=O)OC)C2c3cccc([N+]([O-])=O)c3
 Methyl bisulfate	OS(OC)(=O)=O
 Succinic anhydride	O=C1OC(=O)CC1
 Sebacoyl chloride	ClC(=O)CCCCCCCC(=O)CCl
-Cytisinicline	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
+Cytisine	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
 Parecoxib	O=C(NS(=O)(=O)c3ccc(c2c(onc2c1ccccc1)C)cc3)CC
 Silicon tetrafluoride	F[Si](F)(F)F
 Tetrazolium chloride	[Cl-].c4ccc(c3nn(c1ccccc1)[n+](c2ccccc2)n3)cc4
@@ -15224,7 +15224,7 @@ Trimethylhexamethylenediamine	CC(CC(C)(C)CCN)CN
 Anabaseine	C1CCC(=NC1)c1cccnc1
 Clonazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=C4Cl
 Flubromazolam	BrC1=CC3=C(C=C1)[N]2C(=NN=C2C)CN=C3C4=C(C=CC=C4)F
-Triazavirin	CSc1[nH]n2c(=O)c(nnc2n1)[N+](=O)[O-]
+Riamilovir	CSc1[nH]n2c(=O)c(nnc2n1)[N+](=O)[O-]
 DMPX	Cn2cnc(c2c1=O)n(C)c(=O)n1CC#C
 NPS-2143	N#Cc2c(Cl)cccc2OCC(O)CNC(C)(C)Cc3ccc1ccccc1c3
 Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)OO
