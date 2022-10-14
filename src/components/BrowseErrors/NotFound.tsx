@@ -14,7 +14,7 @@ function Content(): JSX.Element {
           target="_blank"
           rel="noopener noreferrer"
           key={id}
-          className="cursor-pointer"
+          className="cursor-pointer hover:bg-[#EAEBED]"
         >
           <div key={id} className="flex justify-center border py-2 text-xs">
             {id}

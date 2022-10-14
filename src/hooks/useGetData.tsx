@@ -6,10 +6,11 @@ export default function useGetData() {
     smiles: string;
     error: string;
   }
+
   const [date, setDate] = useState('');
-  const [dup, setDup] = useState([]);
-  const [notfound, setNotfound] = useState([]);
-  const [nogood, setNogood] = useState([]);
+  const [dup, setDup] = useState<number[]>([]);
+  const [notfound, setNotfound] = useState<number[]>([]);
+  const [nogood, setNogood] = useState<number[]>([]);
   const [errors, setErrors] = useState<SMILEError[]>([]);
   const [dupLength, setDupLength] = useState('');
   const [notfoundLength, setNotfoundLength] = useState('');

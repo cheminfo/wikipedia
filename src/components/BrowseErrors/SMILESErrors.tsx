@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+import { useErrorContext } from '../../hooks/ErrorContext';
 import useGetData from '../../hooks/useGetData';
 
 import { ErrorSection } from './ErrorSection';
@@ -15,20 +16,19 @@ function SMILESErrorTable(): JSX.Element {
         <div className="col-span-2 px-3 py-2">SMILES</div>
         <div className="col-span-4 px-3 py-2">Error message</div>
         <div className="scrollbar col-span-8 h-[204px] overflow-y-auto bg-white text-xs text-black">
-          {errors.map((error) => (
+          {errors.map(({ id, smiles, error }) => (
             <a
-              // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
-              href={`https://en.wikipedia.org/wiki?curid=${error.id}`}
+              href={`https://en.wikipedia.org/wiki?curid=${id}`}
               target="_blank"
               rel="noopener noreferrer"
-              key={error.id}
+              key={smiles}
               className="cursor-pointer"
             >
               <ContentRow
-                key={error.id}
-                id={error.id}
-                smiles={error.smiles}
-                error={error.error}
+                key={id}
+                id={id}
+                smiles={smiles}
+                error={error}
                 setHoveredSmiles={setHoveredSmiles}
               />
             </a>
@@ -53,10 +53,17 @@ export interface Props {
 }
 
 function ContentRow(props: Props): JSX.Element {
+  const { setHoverId } = useErrorContext();
   return (
     <div
       className="grid grid-cols-8 overflow-x-hidden hover:bg-[#EAEBED]"
-      onMouseEnter={() => props.setHoveredSmiles(props.smiles)}
+      onMouseEnter={() => {
+        props.setHoveredSmiles(props.smiles);
+        setHoverId(props.id);
+      }}
+      onMouseLeave={() => {
+        setHoverId(null);
+      }}
     >
       <div className="col-span-2 flex justify-center border px-3 py-2">
         {props.id}

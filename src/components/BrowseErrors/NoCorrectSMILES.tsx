@@ -1,20 +1,27 @@
+import clsx from 'clsx';
+
+import { useErrorContext } from '../../hooks/ErrorContext';
 import useGetData from '../../hooks/useGetData';
 import SimpleTable from '../SimpleTable';
 
 import { ErrorSection } from './ErrorSection';
 
 function Content(): JSX.Element {
+  const { hoverId } = useErrorContext();
   const { nogood } = useGetData();
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {nogood.map((id) => (
         <a
-          // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
           href={`https://en.wikipedia.org/wiki?curid=${id}`}
           target="_blank"
           rel="noopener noreferrer"
           key={id}
-          className="cursor-pointer"
+          className={clsx(
+            'cursor-pointer',
+            { 'bg-[#EAEBED]': hoverId === id },
+            'hover:bg-[#EAEBED]',
+          )}
         >
           <div key={id} className="flex justify-center border py-2 text-xs">
             {id}

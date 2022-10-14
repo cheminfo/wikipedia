@@ -2,6 +2,7 @@ import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
+import { ErrorContextProvider } from '../hooks/ErrorContext';
 import useGetData from '../hooks/useGetData';
 
 export function BrowseErrors(): JSX.Element {
@@ -23,11 +24,14 @@ export function BrowseErrors(): JSX.Element {
           Click on any cell to open the corresponding article on Wikipedia
         </div>
       </div>
+
       <div className="mt-12 flex flex-wrap justify-between gap-y-20">
-        <Duplicates number={dupLength} />
-        <NotFound number={notfoundLength} />
-        <SMILESErrors number={errorsLength} />
-        <NoCorrectSMILES number={nogoodLength} />
+        <ErrorContextProvider>
+          <Duplicates number={dupLength} />
+          <NotFound number={notfoundLength} />
+          <SMILESErrors number={errorsLength} />
+          <NoCorrectSMILES number={nogoodLength} />
+        </ErrorContextProvider>
       </div>
     </div>
   );
