@@ -19,6 +19,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
+    "react-ocl": "^5.0.0",
     "react-router-dom": "^6.4.1"
   },
   "devDependencies": {
@@ -31,7 +32,7 @@
     "chemcalc": "^3.4.0",
     "commander": "^2.11.0",
     "eslint": "^8.24.0",
-    "openchemlib": "^4.0.0",
+    "openchemlib": "^8.0.1",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",

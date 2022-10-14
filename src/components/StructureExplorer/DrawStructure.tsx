@@ -1,3 +1,5 @@
+import { StructureEditor } from 'react-ocl/full';
+
 import SimpleTable from '../SimpleTable';
 
 function Search(): JSX.Element {
@@ -17,7 +19,11 @@ function Search(): JSX.Element {
 }
 
 function Board(): JSX.Element {
-  return <div>Draw</div>;
+  return (
+    <div className="mt-6">
+      <StructureEditor height={385} width={510} />
+    </div>
+  );
 }
 
 export function DrawStructure(): JSX.Element {
