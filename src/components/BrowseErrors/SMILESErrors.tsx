@@ -1,12 +1,14 @@
 import { useState } from 'react';
 
 import { useErrorContext } from '../../hooks/ErrorContext';
-import useGetErrorData from '../../hooks/useGetErrorData';
+import { SMILEError } from '../../hooks/useGetErrorData';
 
 import { ErrorSection } from './ErrorSection';
 
-function SMILESErrorTable(): JSX.Element {
-  const { errors } = useGetErrorData();
+interface IData {
+  data: SMILEError[];
+}
+function SMILESErrorTable({ data }: IData): JSX.Element {
   const [hoveredSmiles, setHoveredSmiles] = useState('');
 
   return (
@@ -16,7 +18,7 @@ function SMILESErrorTable(): JSX.Element {
         <div className="col-span-2 px-3 py-2">SMILES</div>
         <div className="col-span-4 px-3 py-2">Error message</div>
         <div className="scrollbar col-span-8 h-[204px] overflow-y-auto bg-white text-xs text-black">
-          {errors.map(({ id, smiles, error }) => (
+          {data.map(({ id, smiles, error }) => (
             <a
               href={`https://en.wikipedia.org/wiki?curid=${id}`}
               target="_blank"
@@ -74,16 +76,17 @@ function ContentRow(props: Props): JSX.Element {
   );
 }
 
-export interface Prop {
+export interface IErrData {
   number: string;
+  data: SMILEError[];
 }
-export function SMILESErrors(prop: Prop): JSX.Element {
+export function SMILESErrors(props: IErrData): JSX.Element {
   return (
     <ErrorSection
       title="SMILES with errors :"
-      number={prop.number}
+      number={props.number}
       description="SMILES that could not be processed by the parser"
-      table={<SMILESErrorTable />}
+      table={<SMILESErrorTable data={props.data} />}
     />
   );
 }

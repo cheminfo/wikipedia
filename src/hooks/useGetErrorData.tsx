@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react';
 
+export interface SMILEError {
+  id: number;
+  smiles: string;
+  error: string;
+}
 export default function useGetErrorData() {
-  interface SMILEError {
-    id: number;
-    smiles: string;
-    error: string;
-  }
+  const [loading, setLoading] = useState(true);
 
   const [date, setDate] = useState('');
   const [dup, setDup] = useState<number[]>([]);
@@ -37,6 +38,9 @@ export default function useGetErrorData() {
         setNotfoundLength(JSON.stringify(myJson.count.notfound));
         setNogoodLength(JSON.stringify(myJson.count.nogood));
         setErrorsLength(JSON.stringify(myJson.count.errors));
+      })
+      .then(() => {
+        setLoading(false);
       });
   }, []);
   return {
@@ -49,5 +53,6 @@ export default function useGetErrorData() {
     notfoundLength,
     nogoodLength,
     errorsLength,
+    loading,
   };
 }
