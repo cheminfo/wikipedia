@@ -3,11 +3,11 @@ import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
 import { ErrorContextProvider } from '../hooks/ErrorContext';
-import useGetData from '../hooks/useGetData';
+import useGetErrorData from '../hooks/useGetErrorData';
 
 export function BrowseErrors(): JSX.Element {
   const { date, dupLength, notfoundLength, errorsLength, nogoodLength } =
-    useGetData();
+    useGetErrorData();
   return (
     <div className="xs:px-20 px-10 pt-14 xl:px-28 2xl:px-60">
       <div className="text-[#0A4E7A]">

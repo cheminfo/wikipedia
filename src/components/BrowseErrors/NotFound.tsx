@@ -1,15 +1,14 @@
-import useGetData from '../../hooks/useGetData';
+import useGetErrorData from '../../hooks/useGetErrorData';
 import SimpleTable from '../SimpleTable';
 
 import { ErrorSection } from './ErrorSection';
 
 function Content(): JSX.Element {
-  const { notfound } = useGetData();
+  const { notfound } = useGetErrorData();
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {notfound.map((id) => (
         <a
-          // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
           href={`https://en.wikipedia.org/wiki?curid=${id}`}
           target="_blank"
           rel="noopener noreferrer"

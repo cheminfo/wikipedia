@@ -1,12 +1,12 @@
 import { useState } from 'react';
 
 import { useErrorContext } from '../../hooks/ErrorContext';
-import useGetData from '../../hooks/useGetData';
+import useGetErrorData from '../../hooks/useGetErrorData';
 
 import { ErrorSection } from './ErrorSection';
 
 function SMILESErrorTable(): JSX.Element {
-  const { errors } = useGetData();
+  const { errors } = useGetErrorData();
   const [hoveredSmiles, setHoveredSmiles] = useState('');
 
   return (
