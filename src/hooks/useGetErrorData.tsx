@@ -42,7 +42,7 @@ export default function useGetErrorData() {
       .then(() => {
         setLoading(false);
       });
-  }, []);
+  }, [date]);
   return {
     date,
     dup,

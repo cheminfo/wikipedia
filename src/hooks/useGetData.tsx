@@ -1,21 +1,19 @@
 import { useState, useEffect } from 'react';
 
-export default function useGetData() {
-  interface SMILEError {
-    id: number;
-    smiles: string;
-    error: string;
-  }
+export interface IMolecule {
+  id: number | null;
+  code: string | '';
+  smiles: string | '';
+  mf: { type: string | ''; value: string | '' };
+  mw: number | null;
+  em: number | null;
+  actIdx: number[] | [];
+  actID: { type: string | ''; value: string | '' };
+}
 
-  const [date, setDate] = useState('');
-  const [dup, setDup] = useState<number[]>([]);
-  const [notfound, setNotfound] = useState<number[]>([]);
-  const [nogood, setNogood] = useState<number[]>([]);
-  const [errors, setErrors] = useState<SMILEError[]>([]);
-  const [dupLength, setDupLength] = useState('');
-  const [notfoundLength, setNotfoundLength] = useState('');
-  const [nogoodLength, setNogoodLength] = useState('');
-  const [errorsLength, setErrorsLength] = useState('');
+export default function useGetData() {
+  const [data, setData] = useState<IMolecule[]>([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     void fetch('data.json', {
@@ -28,26 +26,14 @@ export default function useGetData() {
         return response.json();
       })
       .then((myJson) => {
-        setDate(JSON.stringify(myJson.count.date).slice(1, 11));
-        setDup(myJson.data.dup);
-        setNotfound(myJson.data.notfound);
-        setNogood(myJson.data.nogood);
-        setErrors(myJson.data.errors);
-        setDupLength(JSON.stringify(myJson.count.dup));
-        setNotfoundLength(JSON.stringify(myJson.count.notfound));
-        setNogoodLength(JSON.stringify(myJson.count.nogood));
-        setErrorsLength(JSON.stringify(myJson.count.errors));
+        setData(myJson.data.molecules);
+        setLoading(false);
+      })
+      .catch(() => {
+        setLoading(false);
+        // eslint-disable-next-line no-alert
+        alert('An error has occured while fetching the data');
       });
-  }, []);
-  return {
-    date,
-    dup,
-    notfound,
-    nogood,
-    errors,
-    dupLength,
-    notfoundLength,
-    nogoodLength,
-    errorsLength,
-  };
+  }, [data]);
+  return { data, loading };
 }

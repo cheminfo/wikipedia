@@ -21,7 +21,8 @@
     "react-icons": "^4.4.0",
     "react-loader-spinner": "^5.3.4",
     "react-ocl": "^5.0.0",
-    "react-router-dom": "^6.4.1"
+    "react-router-dom": "^6.4.1",
+    "react-viewport-list": "^6.0.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
