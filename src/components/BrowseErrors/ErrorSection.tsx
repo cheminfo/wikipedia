@@ -1,6 +1,6 @@
-export interface Props {
+interface Props {
   title: string;
-  number: string;
+  number: number;
   description: string;
   table: JSX.Element;
   height?: string;

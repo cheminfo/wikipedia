@@ -4,22 +4,26 @@ import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
+import { useDataContext } from '../hooks/DataContext';
 import { ErrorContextProvider } from '../hooks/ErrorContext';
-import useGetErrorData from '../hooks/useGetErrorData';
 
 export function BrowseErrors(): JSX.Element {
   const {
-    date,
-    dupLength,
-    notfoundLength,
-    errorsLength,
-    nogoodLength,
-    dup,
-    notfound,
-    nogood,
-    errors,
+    allData: { count },
+    allData: {
+      data: { errors },
+    },
+    allData: {
+      data: { nogood },
+    },
+    allData: {
+      data: { notfound },
+    },
+    allData: {
+      data: { dup },
+    },
     loading,
-  } = useGetErrorData();
+  } = useDataContext();
   return (
     <div className="">
       {loading ? (
@@ -43,7 +47,7 @@ export function BrowseErrors(): JSX.Element {
               </div>
               <div className="flex space-x-1 text-sm font-light lg:text-base">
                 <div className="">Last data extraction :</div>
-                <div className="">{date}</div>
+                <div className="">{count.date.slice(0, 10)}</div>
               </div>
             </div>
             <div className="my-8 text-sm font-normal lg:text-base">
@@ -53,10 +57,10 @@ export function BrowseErrors(): JSX.Element {
 
           <div className="mt-12 flex flex-wrap justify-between gap-y-20">
             <ErrorContextProvider>
-              <Duplicates number={dupLength} data={dup} />
-              <NotFound number={notfoundLength} data={notfound} />
-              <SMILESErrors number={errorsLength} data={errors} />
-              <NoCorrectSMILES number={nogoodLength} data={nogood} />
+              <Duplicates number={count.dup} data={dup} />
+              <NotFound number={count.notfound} data={notfound} />
+              <SMILESErrors number={count.errors} data={errors} />
+              <NoCorrectSMILES number={count.nogood} data={nogood} />
             </ErrorContextProvider>
           </div>
         </div>

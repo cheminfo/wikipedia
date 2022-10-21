@@ -2,7 +2,7 @@ import clsx from 'clsx';
 
 import { useErrorContext } from '../../hooks/ErrorContext';
 
-export interface IData {
+interface IData {
   data: number[];
   follow?: boolean;
 }

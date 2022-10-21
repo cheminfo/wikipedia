@@ -47,7 +47,7 @@ function SMILESErrorTable({ data }: IData): JSX.Element {
   );
 }
 
-export interface Props {
+interface Props {
   id: number;
   smiles: string;
   error: string;
@@ -76,8 +76,8 @@ function ContentRow(props: Props): JSX.Element {
   );
 }
 
-export interface IErrData {
-  number: string;
+interface IErrData {
+  number: number;
   data: SMILEError[];
 }
 export function SMILESErrors(props: IErrData): JSX.Element {

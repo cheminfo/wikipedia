@@ -3,8 +3,8 @@ import SimpleTable from '../SimpleTable';
 import { ErrorSection } from './ErrorSection';
 import ErrorTableContent from './ErrorTableContent';
 
-export interface Props {
-  number: string;
+interface Props {
+  number: number;
   data: number[];
 }
 export function NoCorrectSMILES(props: Props): JSX.Element {
