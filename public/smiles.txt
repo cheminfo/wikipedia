@@ -2864,7 +2864,7 @@ Dioxolane	O1CCOC1
 Chlorambucil	c1cc(ccc1CCCC(=O)O)N(CCCl)CCCl
 2-Aminoisobutyric acid	O=C(O)C(N)(C)C
 Norfloxacin	O=C(O)\C2=C\N(c1cc(c(F)cc1C2=O)N3CCNCC3)CC
-Germane	[Ge]
+Germane	[H][Ge]([H])([H])[H]
 2,2-Dimethoxypropane	CC(C)(OC)OC
 Aminoglutethimide	O=C1NC(=O)CCC1(c2ccc(N)cc2)CC
 Cholic acid	C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
@@ -19715,6 +19715,7 @@ Futibatinib	COC1=CC(=CC(OC)=C1)C#CC1=NN([C@H]2CCN(C2)C(=O)C=C)C2=C1C(N)=NC=N2
 Triphenyl phosphite ozonide	C1=CC=C(C=C1)OP2(OOO2)(OC3=CC=CC=C3)OC4=CC=CC=C4
 Rubicene	C1=CC=C2C(=C1)C3=C4C2=C5C=CC=C6C5=C(C4=CC=C3)C7=CC=CC=C76
 Thiochrome	CC1=C(SC2=NC3=NC(=NC=C3CN12)C)CCO
+Quaterpyridine	C1=CC(=NC=C1)C2=CC=CC(=N2)C3=CC=CC(=N3)C4=CC=CC=N4
 T-1152	CNC(=O)OC1=CC=CC(=C1)[N+](C)(C)C.[I-]
 1D-LSD	[H][C@@]12CC3=CN(C(=O)C4(C)CCC4C)C4=C3C(=CC=C4)C1=C[C@H](CN2C)C(=O)N(CC)CC
 Dinitroglycoluril	C12C(NC(=O)N1[N+](=O)[O-])N(C(=O)N2)[N+](=O)[O-]
@@ -19729,3 +19730,4 @@ Ruthenium(III) iodide	[I-].[I-].[I-].[Ru+3]
 Gadopiclenol	[Gd+3].OCC(O)CNC(=O)CCC(N1CCN(Cc2cccc(CN(CC1)C(CCC(=O)NCC(O)CO)C(=O)[O-])n2)C(CCC(=O)NCC(O)CO)C(=O)[O-])C(=O)[O-]
 UPt3	[Pt].[Pt].[Pt].[U]
 Tetraphenyllead	c1ccccc1[Pb](c2ccccc2)(c3ccccc3)c4ccccc4
+Hexafluorophosphazene	N1=P(N=P(N=P1(F)F)(F)F)(F)F
