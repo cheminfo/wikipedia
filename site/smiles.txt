@@ -3982,7 +3982,7 @@ Xenon difluoride	F[Xe]F
 Neopentyl alcohol	CC(CO)(C)C
 Vanadocene dichloride	c1ccc[cH-]1.c2ccc[cH-]2.[V+4].[Cl-].[Cl-]
 Vanadium tetrachloride	Cl[V](Cl)(Cl)Cl
-Sodium cobaltinitrite	[Na+].[Na+].[Na+].O=[N+]([O-])[Co-3]([N+]([O-])=O)([N+](=O)[O-])([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
+Sodium hexanitritocobaltate(III)	[Na+].[Na+].[Na+].O=[N+]([O-])[Co-3]([N+]([O-])=O)([N+](=O)[O-])([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
 Vanadium(III) chloride	[V+3].[Cl-].[Cl-].[Cl-]
 Pentetic acid	C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O
 Uranium pentafluoride	[U+5].[F-].[F-].[F-].[F-].[F-]
@@ -9385,7 +9385,7 @@ Lauryldimethylamine oxide	CCCCCCCCCCCC[N+](C)(C)[O-]
 1,3,5-Trinitrobenzene	C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Hexanitrodiphenylamine	C1=C(C=C(C(=C1[N+](=O)[O-])NC2=C(C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Calcium permanganate	[Ca+2].O=[Mn](=O)(=O)[O-].[O-][Mn](=O)(=O)=O
-Potassium cobaltinitrite	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co]
+Potassium hexanitritocobaltate(III)	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co]
 3-Hexyne	CCC#CCC
 Salicylanilide	C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2O
 Rafoxanide	C1=CC(=CC=C1OC2=C(C=C(C=C2)NC(=O)C3=CC(=CC(=C3O)I)I)Cl)Cl
