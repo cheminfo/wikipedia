@@ -19731,3 +19731,7 @@ Gadopiclenol	[Gd+3].OCC(O)CNC(=O)CCC(N1CCN(Cc2cccc(CN(CC1)C(CCC(=O)NCC(O)CO)C(=O
 UPt3	[Pt].[Pt].[Pt].[U]
 Tetraphenyllead	c1ccccc1[Pb](c2ccccc2)(c3ccccc3)c4ccccc4
 Hexafluorophosphazene	N1=P(N=P(N=P1(F)F)(F)F)(F)F
+Tyrosinol	C1=CC(=CC=C1C[C@H](CO)N)O
+Tyrosinol	C1=CC(=CC=C1C[C@@H](CO)N)O
+Tyrosinol	C(C(CO)N)C1=CC=C(O)C=C1
+Acetyl hypochlorite	CC(=O)OCl
