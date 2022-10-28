@@ -17106,7 +17106,7 @@ Pacific Blue (dye)	OC(=O)c1cc2cc(F)c(O)c(F)c2oc1=O
 TCMTB	C1=CC=C2C(=C1)N=C(S2)SCSC#N
 Isofentanyl	c2ccccc2N(C(=O)CC)C1CCN(CC1C)Cc3ccccc3
 Divinyl sulfide	C=CSC=C
-2,2'-Difluorofentanyl	Fc1ccccc1N(C(=O)CC)C3CCN(CC3)CCc2ccccc2F
+2,2'-Difluorofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2F)C3=CC=CC=C3F
 Zuranolone	O=C(CN1N=CC(C#N)=C1)[C@H]2CC[C@@]3([H])[C@]4([H])CC[C@]5([H])C[C@](C)(O)CC[C@]5([H])[C@@]4([H])CC[C@@]32C
 Ethylestradiol	CC[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C)O
 Levonorgestrel acetate	CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)OC(=O)C)CCC4=CC(=O)CC[C@H]34
@@ -18902,7 +18902,7 @@ Rovafovir etalafenamide	CCOC(=O)[C@H](C)N[P@@](=O)(CO[C@H]1O[C@@H](N2C=NC3=C2N=C
 PTI-3	COCCN(C)Cc1csc(n1)c1cn(CCCCCF)c2ccccc21
 Dipyanone	CCC(=O)C(CC(C)N1CCCC1)(c1ccccc1)c1ccccc1
 4'-Fluoro-4-methylaminorex	Fc1ccc(cc1)C1OC(N)=NC1C
-MDMAR	NC1=NC(C(O1)c1ccc2c(c1)OCO2)C
+MDMAR	CC1C(OC(=N1)N)C2=CC3=C(C=C2)OCO3
 Tantalum diselenide	[Se]=[Ta]=[Se]
 Lithium aluminium germanium phosphate	[Li+].[Li+].[Li+].[Al+3].[Ge+4].[Ge+4].[Ge+4].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-]
 Enarodustat	C1=CC=C(C=C1)CCC2=CC(=O)C(=C3N2NC=N3)C(=O)NCC(=O)O
@@ -19523,6 +19523,7 @@ Drimentine G	CC(C)[C@H]1C(=O)N2[C@@H](C[C@@]3([C@H]2NC4=CC=CC=C43)C[C@H]5C(=C)CC
 Diethylene glycol diglycidyl ether	C1C(O1)COCCOCCOCC2CO2
 Abequose	C[C@H]([C@@H](C[C@H](C=O)O)O)O
 Abequose	C[C@@H]1[C@@H](C[C@H](C(O1)O)O)O
+Dibrospidium chloride	[Cl-].[Cl-].BrCCC(=O)N1CC[N+]2(CC1)CC[N+]3(CCN(CC3)C(=O)CCBr)CC2
 Azirinomycin	CC1=NC1C(=O)O
 Tapinarof	CC(C)c1c(cc(cc1O)/C=C/c2ccccc2)O
 Thiosarin	CC(C)OP(=S)(C)F
@@ -19728,6 +19729,8 @@ Nitryl cyanide	[O-][N+](=O)C#N
 Ruthenium(III) iodide	I[Ru](I)I
 Ruthenium(III) iodide	[I-].[I-].[I-].[Ru+3]
 1,1'-Ferrocenediisocyanate	C1=C[C-](C=C1)N=C=O.C1=C[C-](C=C1)N=C=O.[Fe+2]
+Collybolide	O(C(=O)C1=CC=CC=C1)[C@@H]2[C@@]3([C@@]4(C)C[C@@H](C[C@]3(C(=O)O[C@]2(C=5C=COC5)[H])[H])OC4=O)[H]
+Collybolide	CC12CC(C(C3C1C(C(OC3=O)C4=COC=C4)OC(=O)C5=CC=CC=C5))OC2=O
 1,1'-Ferrocenetrisulfide	[CH-]1C=CC=C1SSS[C-]2C=CC=C2.[Fe+2]
 Gadopiclenol	[Gd+3].OCC(O)CNC(=O)CCC(N1CCN(Cc2cccc(CN(CC1)C(CCC(=O)NCC(O)CO)C(=O)[O-])n2)C(CCC(=O)NCC(O)CO)C(=O)[O-])C(=O)[O-]
 UPt3	[Pt].[Pt].[Pt].[U]
