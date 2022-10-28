@@ -7,6 +7,16 @@ import {
   useEffect,
 } from 'react';
 
+export interface IMolecule {
+  id: number;
+  code: string;
+  smiles: string;
+  mf: { type: string; value: string };
+  mw: number;
+  em: number;
+  actIdx: number[];
+  actID: { type: string; value: string };
+}
 interface DataState {
   count: {
     date: string;
@@ -17,16 +27,7 @@ interface DataState {
     dup: number;
   };
   data: {
-    molecules: {
-      id: number;
-      code: string;
-      smiles: string;
-      mf: { type: string; value: string };
-      mw: number;
-      em: number;
-      actIdx: number[];
-      actID: { type: string; value: string };
-    }[];
+    molecules: IMolecule[];
     errors: { id: number; smiles: string; error: string }[];
     dup: number[];
     notfound: number[];
@@ -82,6 +83,8 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
       })
       .then((myJson) => {
         setAllData(myJson);
+      })
+      .then(() => {
         setLoading(false);
       })
       .catch(() => {

@@ -1,6 +1,6 @@
 import { MdClose } from 'react-icons/md';
 
-import { IMolecule } from '../../hooks/useGetData';
+import { IMolecule } from '../../hooks/DataContext';
 import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
@@ -21,26 +21,32 @@ function Filter(): JSX.Element {
   );
 }
 
-function Molecules(data: IMolecule): JSX.Element {
-  return (
-    <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">
-      <MoleculeInfo {...data} />
-    </div>
-  );
-}
-
 function Pagination(): JSX.Element {
   // TO DO: add pagination
   return <div className="flex justify-center py-1">Molecule n°</div>;
 }
+interface Props {
+  molecules: IMolecule[];
+}
 
-export function MoleculeList(data: IMolecule): JSX.Element {
+function Molecules({ molecules }: Props): JSX.Element {
+  return (
+    <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">
+      {molecules.slice(0, 10).map((mol, key) => (
+        // eslint-disable-next-line react/no-array-index-key
+        <MoleculeInfo mol={mol} key={key} />
+      ))}
+    </div>
+  );
+}
+
+export function MoleculeList({ molecules }: Props): JSX.Element {
   return (
     <SimpleTable
       option={<Filter />}
       className="w-full"
       footer={<Pagination />}
-      content={<Molecules {...data} />}
+      content={<Molecules molecules={molecules} />}
     />
   );
 }
