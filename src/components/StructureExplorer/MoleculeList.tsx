@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 
 import { IMolecule } from '../../hooks/DataContext';
@@ -7,15 +7,24 @@ import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
 
-function Filter(): JSX.Element {
+interface IFilter {
+  filter: string;
+  setFilter: React.Dispatch<React.SetStateAction<string>>;
+}
+
+function Filter({ filter, setFilter }: IFilter): JSX.Element {
   return (
     <div className="flex items-center space-x-2">
-      <div className="text-[#0A4E7A]">Filter by :</div>
+      <div className="text-[#0A4E7A]">Filter by name :</div>
       <div className="flex h-6 w-36 items-center rounded-lg bg-white p-1 text-sm">
         <input
           type="text"
           name="filter"
           className="h-full w-full px-2 font-normal focus:outline-none"
+          value={filter}
+          onChange={(e) => {
+            setFilter(e.target.value);
+          }}
         />
         <MdClose className="cursor-pointer" />
       </div>
@@ -49,17 +58,21 @@ function Pagination(): JSX.Element {
   return <div className="flex justify-center py-1">Page x/x</div>;
 }
 
-export function MoleculeList(
-  { molecules }: Props,
-  filter: string,
-): JSX.Element {
-  const mols = molecules.filter(
-    (mol) => mol.code.toLowerCase().includes(filter) || mol.code.includes(''),
-  );
+export function MoleculeList({ molecules }: Props): JSX.Element {
+  const [filter, setFilter] = useState('');
+  const [mols, setMols] = useState(molecules);
+
+  useEffect(() => {
+    setMols(
+      molecules.filter((mol) =>
+        mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
+      ),
+    );
+  }, [filter, molecules]);
 
   return (
     <SimpleTable
-      option={<Filter />}
+      option={<Filter filter={filter} setFilter={setFilter} />}
       className="w-full"
       footer={<Pagination />}
       content={<Molecules molecules={mols.slice(0, 10)} />}
