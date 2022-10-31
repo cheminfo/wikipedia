@@ -19170,6 +19170,7 @@ Bromine nitrate	[N+](=O)([O-])OBr
 Tetraoxygen difluoride	FOOOOF
 Tungsten trisulfide	S=[W](=S)=S
 Chromium(II) sulfide	[S-2].[Cr+2]
+Polonium sulfide	[Po].[S]
 Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
 Yttrium iodide	[Y](I)(I)I
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
@@ -19744,3 +19745,5 @@ Triptonide	CC(C)[C@@]12[C@@H](O1)[C@H]3[C@@]4(O3)[C@]5(CCC6=C([C@@H]5C[C@H]7[C@]
 Guanylurea dinitramide	C(=NC(=O)N)(N)N.N([N+](=O)[O-])[N+](=O)[O-]
 GsMTx-4	[H]NCC(=O)N[C@H]1CSSC[C@@H]2NC(=O)[C@@H]3CSSC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CSSC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(C)C)NC1=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N3)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC2=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(N)=O
 Dicumyl peroxide	CC(C)(C1=CC=CC=C1)OOC(C)(C)C2=CC=CC=C2
+Thiophosphoryl bromide	S=P(Br)(Br)Br
+Thiophosphoryl iodide	S=P(I)(I)I
