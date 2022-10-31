@@ -8,6 +8,7 @@ function OpenWiki(): JSX.Element {
 
   return (
     <a
+      // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
       href={`https://en.wikipedia.org/wiki?curid=${selectedId}`}
       target="_blank"
       rel="noopener noreferrer"
@@ -22,13 +23,16 @@ function WikiPage(): JSX.Element {
   const [contents, setContents] = useState('');
   let { selectedId } = useIdContext();
 
+  // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
   const url = `https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=extracts&pageids=${selectedId}`;
 
   useEffect(() => {
     void fetch(url)
       .then((response) => response.json())
       .then((myJson) => {
-        setContents(myJson.query.pages[selectedId].extract);
+        if (selectedId) {
+          setContents(myJson.query.pages[selectedId].extract);
+        }
       });
   }, [selectedId, url]);
 

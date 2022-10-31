@@ -1,12 +1,12 @@
 import { createContext, ReactNode, useContext, useMemo, useState } from 'react';
 
 interface State {
-  selectedId: number;
-  setSelectedId: React.Dispatch<React.SetStateAction<number>>;
+  selectedId: number | null;
+  setSelectedId: React.Dispatch<React.SetStateAction<number | null>>;
 }
 
 const IdContext = createContext<State>({
-  selectedId: 0,
+  selectedId: null,
   setSelectedId: () => undefined,
 });
 
@@ -15,7 +15,7 @@ export function useIdContext() {
 }
 
 export function IdContextProvider({ children }: { children: ReactNode }) {
-  const [selectedId, setSelectedId] = useState<number>(0);
+  const [selectedId, setSelectedId] = useState<number | null>(null);
   const value = useMemo(
     () => ({ selectedId, setSelectedId }),
     [selectedId, setSelectedId],

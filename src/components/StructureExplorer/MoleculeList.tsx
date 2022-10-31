@@ -23,11 +23,6 @@ function Filter(): JSX.Element {
   );
 }
 
-function Pagination(): JSX.Element {
-  // TO DO: add pagination
-
-  return <div className="flex justify-center py-1">Molecule n°</div>;
-}
 interface Props {
   molecules: IMolecule[];
 }
@@ -37,11 +32,11 @@ function Molecules({ molecules }: Props): JSX.Element {
 
   useEffect(() => {
     setSelectedId(selectedId || molecules[0].id);
-  }, []);
+  }, [molecules, selectedId, setSelectedId]);
 
   return (
     <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">
-      {molecules.slice(0, 10).map((mol, key) => (
+      {molecules.map((mol, key) => (
         // eslint-disable-next-line react/no-array-index-key
         <MoleculeInfo mol={mol} key={key} />
       ))}
@@ -49,13 +44,25 @@ function Molecules({ molecules }: Props): JSX.Element {
   );
 }
 
-export function MoleculeList({ molecules }: Props): JSX.Element {
+function Pagination(): JSX.Element {
+  // TO DO: add pagination
+  return <div className="flex justify-center py-1">Page x/x</div>;
+}
+
+export function MoleculeList(
+  { molecules }: Props,
+  filter: string,
+): JSX.Element {
+  const mols = molecules.filter(
+    (mol) => mol.code.toLowerCase().includes(filter) || mol.code.includes(''),
+  );
+
   return (
     <SimpleTable
       option={<Filter />}
       className="w-full"
       footer={<Pagination />}
-      content={<Molecules molecules={molecules} />}
+      content={<Molecules molecules={mols.slice(0, 10)} />}
     />
   );
 }
