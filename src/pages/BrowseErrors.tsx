@@ -5,7 +5,7 @@ import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
 import { useDataContext } from '../hooks/DataContext';
-import { ErrorContextProvider } from '../hooks/ErrorContext';
+import { IdContextProvider } from '../hooks/IdContext';
 
 export function BrowseErrors(): JSX.Element {
   const {
@@ -56,12 +56,12 @@ export function BrowseErrors(): JSX.Element {
           </div>
 
           <div className="mt-12 flex flex-wrap justify-between gap-y-20">
-            <ErrorContextProvider>
+            <IdContextProvider>
               <Duplicates number={count.dup} data={dup} />
               <NotFound number={count.notfound} data={notfound} />
               <SMILESErrors number={count.errors} data={errors} />
               <NoCorrectSMILES number={count.nogood} data={nogood} />
-            </ErrorContextProvider>
+            </IdContextProvider>
           </div>
         </div>
       )}

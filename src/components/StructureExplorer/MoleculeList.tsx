@@ -1,6 +1,8 @@
+import { useEffect } from 'react';
 import { MdClose } from 'react-icons/md';
 
 import { IMolecule } from '../../hooks/DataContext';
+import { useIdContext } from '../../hooks/IdContext';
 import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
@@ -23,6 +25,7 @@ function Filter(): JSX.Element {
 
 function Pagination(): JSX.Element {
   // TO DO: add pagination
+
   return <div className="flex justify-center py-1">Molecule n°</div>;
 }
 interface Props {
@@ -30,6 +33,12 @@ interface Props {
 }
 
 function Molecules({ molecules }: Props): JSX.Element {
+  const { selectedId, setSelectedId } = useIdContext();
+
+  useEffect(() => {
+    setSelectedId(selectedId || molecules[0].id);
+  }, []);
+
   return (
     <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">
       {molecules.slice(0, 10).map((mol, key) => (

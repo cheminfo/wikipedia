@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { useErrorContext } from '../../hooks/ErrorContext';
+import { useIdContext } from '../../hooks/IdContext';
 import { SMILEError } from '../../hooks/useGetErrorData';
 
 import { ErrorSection } from './ErrorSection';
@@ -55,16 +55,16 @@ interface Props {
 }
 
 function ContentRow(props: Props): JSX.Element {
-  const { setHoverId } = useErrorContext();
+  const { setSelectedId } = useIdContext();
   return (
     <div
       className="grid grid-cols-8 overflow-x-hidden hover:bg-[#EAEBED]"
       onMouseEnter={() => {
         props.setHoveredSmiles(props.smiles);
-        setHoverId(props.id);
+        setSelectedId(props.id);
       }}
       onMouseLeave={() => {
-        setHoverId(null);
+        setSelectedId(-1);
       }}
     >
       <div className="col-span-2 flex justify-center border px-3 py-2">

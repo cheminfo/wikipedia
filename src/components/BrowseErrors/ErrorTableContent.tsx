@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 
-import { useErrorContext } from '../../hooks/ErrorContext';
+import { useIdContext } from '../../hooks/IdContext';
 
 interface IData {
   data: number[];
@@ -11,7 +11,7 @@ export default function ErrorTableContent({
   data,
   follow,
 }: IData): JSX.Element {
-  const { hoverId } = useErrorContext();
+  const { selectedId } = useIdContext();
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {data.map((id, key) => (
@@ -23,7 +23,7 @@ export default function ErrorTableContent({
           key={key}
           className={clsx(
             'cursor-pointer',
-            { 'bg-[#EAEBED]': follow && hoverId === id },
+            { 'bg-[#EAEBED]': follow && selectedId === id },
             'hover:bg-[#EAEBED]',
           )}
         >

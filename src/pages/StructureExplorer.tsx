@@ -4,6 +4,7 @@ import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
 import { MoleculeList } from '../components/StructureExplorer/MoleculeList';
 import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
 import { useDataContext } from '../hooks/DataContext';
+import { IdContextProvider } from '../hooks/IdContext';
 
 export function StructureExplorer(): JSX.Element {
   const {
@@ -28,13 +29,15 @@ export function StructureExplorer(): JSX.Element {
           />
         </div>
       ) : (
-        <div className="py-14 px-20 xl:px-28 2xl:px-60">
-          <div className="flex justify-center space-x-5">
-            <DrawStructure />
-            <MoleculeList molecules={molecules} />
+        <IdContextProvider>
+          <div className="py-14 px-20 xl:px-28 2xl:px-60">
+            <div className="flex justify-center space-x-5">
+              <DrawStructure />
+              <MoleculeList molecules={molecules} />
+            </div>
+            <Wikipedia />
           </div>
-          <Wikipedia />
-        </div>
+        </IdContextProvider>
       )}
     </div>
   );

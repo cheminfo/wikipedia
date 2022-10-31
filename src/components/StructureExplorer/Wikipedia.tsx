@@ -1,11 +1,14 @@
 import { useState, useEffect } from 'react';
 
+import { useIdContext } from '../../hooks/IdContext';
 import SimpleTable from '../SimpleTable';
 
 function OpenWiki(): JSX.Element {
+  let { selectedId } = useIdContext();
+
   return (
     <a
-      href="https://www.google.com"
+      href={`https://en.wikipedia.org/wiki?curid=${selectedId}`}
       target="_blank"
       rel="noopener noreferrer"
       className="cursor-pointer text-white"
@@ -17,18 +20,17 @@ function OpenWiki(): JSX.Element {
 
 function WikiPage(): JSX.Element {
   const [contents, setContents] = useState('');
-  const url =
-    // 'https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=revisions&rvprop=content&pageids=1365';
-    'https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=extracts&pageids=1365';
+  let { selectedId } = useIdContext();
+
+  const url = `https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=extracts&pageids=${selectedId}`;
 
   useEffect(() => {
     void fetch(url)
       .then((response) => response.json())
       .then((myJson) => {
-        // setContents(myJson.query.pages[1365].revisions[0]['*']);
-        setContents(myJson.query.pages[1365].extract);
+        setContents(myJson.query.pages[selectedId].extract);
       });
-  }, []);
+  }, [selectedId, url]);
 
   return (
     <div className="p-5">
