@@ -9,12 +9,16 @@ interface ISearch {
 
 interface ISearchActid {
   setActid: React.Dispatch<React.SetStateAction<string>>;
+  setIdx: React.Dispatch<React.SetStateAction<number[]>>;
+  setMw: React.Dispatch<React.SetStateAction<number>>;
   search: string;
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
 interface Iactid {
   setActid: React.Dispatch<React.SetStateAction<string>>;
+  setIdx: React.Dispatch<React.SetStateAction<number[]>>;
+  setMw: React.Dispatch<React.SetStateAction<number>>;
 }
 
 function Search({ search, setSearch }: ISearch): JSX.Element {
@@ -37,7 +41,7 @@ function Search({ search, setSearch }: ISearch): JSX.Element {
   );
 }
 
-function Board({ setActid }: Iactid): JSX.Element {
+function Board({ setActid, setIdx, setMw }: Iactid): JSX.Element {
   return (
     <div className="mt-6">
       <StructureEditor
@@ -45,6 +49,8 @@ function Board({ setActid }: Iactid): JSX.Element {
         width={510}
         onChange={(molfile, molecule, idCode) => {
           setActid(idCode);
+          setIdx(molecule.getIndex());
+          setMw(molecule.getMolweight());
         }}
       />
     </div>
@@ -53,6 +59,8 @@ function Board({ setActid }: Iactid): JSX.Element {
 
 export function DrawStructure({
   setActid,
+  setIdx,
+  setMw,
   search,
   setSearch,
 }: ISearchActid): JSX.Element {
@@ -61,7 +69,7 @@ export function DrawStructure({
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
       className="w-[950px]"
-      content={<Board setActid={setActid} />}
+      content={<Board setActid={setActid} setIdx={setIdx} setMw={setMw} />}
     />
   );
 }

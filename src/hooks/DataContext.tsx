@@ -14,7 +14,8 @@ export interface IMolecule {
   mf: { type: string; value: string };
   mw: number;
   em: number;
-  actIdx: number[];
+  // eslint-disable-next-line @typescript-eslint/naming-convention
+  act_idx: number[];
   actID: { type: string; value: string };
 }
 interface DataState {

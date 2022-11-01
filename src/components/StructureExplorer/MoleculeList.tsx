@@ -1,4 +1,4 @@
-// import { Molecule } from 'openchemlib/minimal';
+import { SSSearcherWithIndex } from 'openchemlib/minimal';
 import { useEffect, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 
@@ -19,7 +19,20 @@ interface Props {
 interface Iactid {
   molecules: IMolecule[];
   actid: string;
+  idx: number[];
+  mw: number;
   search: string;
+}
+
+interface ISimilarity {
+  idx: number[];
+  molecules: IMolecule[];
+  mw: number;
+}
+
+interface ISimObj {
+  mol: IMolecule;
+  sim: number;
 }
 
 function Filter({ filter, setFilter }: IFilter): JSX.Element {
@@ -73,34 +86,79 @@ export function MoleculeList({
   molecules,
   actid,
   search,
+  idx,
+  mw,
 }: Iactid): JSX.Element {
   const [filter, setFilter] = useState('');
   const [mols, setMols] = useState(molecules);
 
+  function similarityTab({ idx, molecules, mw }: ISimilarity): IMolecule[] {
+    let similarity;
+    let simTab: ISimObj[] = [];
+    molecules.forEach((mol) => {
+      if (actid.includes(mol.actID.value)) {
+        similarity = 1e10;
+      } else {
+        similarity =
+          SSSearcherWithIndex.getSimilarityTanimoto(idx, mol.act_idx) * 100000 -
+          Math.abs(mw - mol.mw) / 1000;
+      }
+      simTab = [...simTab, { mol, sim: similarity }];
+    });
+    simTab.sort((a, b) => b.sim - a.sim);
+    return simTab.map((sim) => sim.mol);
+  }
+
   // TO DO: actid.includes(mol.actID.value)) : replace includes by === after finding the bug (additional !B...)
-  useEffect(() => {
-    setMols(
-      molecules.filter(
-        (mol) =>
-          mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()) &&
-          ((search === 'exact' &&
-            (actid === '' ||
-              actid === null ||
-              actid.includes(mol.actID.value))) ||
-            search === 'substructure' ||
-            search === 'similarity'),
-      ),
+  function searchExact(molecules: IMolecule[]): IMolecule[] {
+    if (actid !== '' && actid !== null) {
+      return molecules.filter((mol) => actid.includes(mol.actID.value));
+    }
+    return molecules;
+  }
+
+  // TO DO:
+  function searchSubstructure(molecules: IMolecule[]): IMolecule[] {
+    if (actid !== '' && actid !== null) {
+      return molecules;
+    }
+    return molecules;
+  }
+
+  function searchSimilarity({ idx, molecules, mw }: ISimilarity): IMolecule[] {
+    if (actid !== '' && actid !== null) {
+      return similarityTab({ idx, molecules, mw });
+    }
+    return molecules;
+  }
+
+  function searchMols({ idx, molecules, mw }: ISimilarity): IMolecule[] {
+    if (search === 'exact') {
+      return searchExact(molecules);
+    } else if (search === 'substructure') {
+      return searchSubstructure(molecules);
+    } else {
+      return searchSimilarity({ idx, molecules, mw });
+    }
+  }
+
+  function filterMols(molecules: IMolecule[]): IMolecule[] {
+    return molecules.filter((mol) =>
+      mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
     );
-    // eslint-disable-next-line no-console
-    console.log(actid);
-  }, [actid, filter, molecules, search]);
+  }
+
+  useEffect(() => {
+    setMols(searchMols({ idx, molecules: filterMols(molecules), mw }));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filter, search, actid]);
 
   return (
     <SimpleTable
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="w-full"
       footer={<Pagination />}
-      content={<Molecules molecules={mols.slice(0, 10)} />}
+      content={<Molecules molecules={mols?.slice(0, 10)} />}
     />
   );
 }

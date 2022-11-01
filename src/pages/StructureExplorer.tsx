@@ -25,6 +25,8 @@ export function StructureExplorer({
   } = useDataContext();
 
   const [actid, setActid] = useState('');
+  const [idx, setIdx] = useState<number[]>([]);
+  const [mw, setMw] = useState(0);
   const [search, setSearch] = useState('');
 
   return (
@@ -49,12 +51,16 @@ export function StructureExplorer({
               <div className="flex justify-center space-x-5">
                 <DrawStructure
                   setActid={setActid}
+                  setIdx={setIdx}
+                  setMw={setMw}
                   setSearch={setSearch}
                   search={search}
                 />
                 <MoleculeList
                   molecules={molecules}
                   actid={actid}
+                  idx={idx}
+                  mw={mw}
                   search={search}
                 />
               </div>
