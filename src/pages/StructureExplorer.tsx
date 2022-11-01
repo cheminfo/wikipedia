@@ -1,13 +1,22 @@
 import { useState } from 'react';
 import { Rings } from 'react-loader-spinner';
 
+import About from '../components/About';
 import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
 import { MoleculeList } from '../components/StructureExplorer/MoleculeList';
 import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
 import { useDataContext } from '../hooks/DataContext';
 import { IdContextProvider } from '../hooks/IdContext';
 
-export function StructureExplorer(): JSX.Element {
+interface Props {
+  showAbout: boolean;
+  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
+export function StructureExplorer({
+  showAbout,
+  setShowAbout,
+}: Props): JSX.Element {
   const {
     allData: {
       data: { molecules },
@@ -33,23 +42,26 @@ export function StructureExplorer(): JSX.Element {
           />
         </div>
       ) : (
-        <IdContextProvider>
-          <div className="py-14 px-20 xl:px-28 2xl:px-60">
-            <div className="flex justify-center space-x-5">
-              <DrawStructure
-                setActid={setActid}
-                setSearch={setSearch}
-                search={search}
-              />
-              <MoleculeList
-                molecules={molecules}
-                actid={actid}
-                search={search}
-              />
+        <div>
+          <About showAbout={showAbout} setShowAbout={setShowAbout} />
+          <IdContextProvider>
+            <div className="py-14 px-20 xl:px-28 2xl:px-60">
+              <div className="flex justify-center space-x-5">
+                <DrawStructure
+                  setActid={setActid}
+                  setSearch={setSearch}
+                  search={search}
+                />
+                <MoleculeList
+                  molecules={molecules}
+                  actid={actid}
+                  search={search}
+                />
+              </div>
+              <Wikipedia />
             </div>
-            <Wikipedia />
-          </div>
-        </IdContextProvider>
+          </IdContextProvider>
+        </div>
       )}
     </div>
   );

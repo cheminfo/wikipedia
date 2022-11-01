@@ -1,11 +1,14 @@
 import clsx from 'clsx';
 
-export function Navbar(): JSX.Element {
+interface Props {
+  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
+export function Navbar({ setShowAbout }: Props): JSX.Element {
   const sections = [
     { name: 'Explore structures', link: '/' },
     { name: 'Browse errors', link: '/errors' },
     { name: 'Download SMILES', link: '/smiles.txt' },
-    { name: 'About', link: '/about' },
   ];
 
   const NavbarLinks = sections.map((section) => (
@@ -20,12 +23,18 @@ export function Navbar(): JSX.Element {
       {section.name}
     </a>
   ));
+
   return (
     <div className="fixed z-50 flex w-full items-center justify-between bg-[#0A4E7A] px-16 py-2 text-[#EAEBED]">
       <a href="/" className="hidden text-lg sm:block 2xl:text-2xl">
         Wikipedia Chemical Structure Explorer
       </a>
-      <nav className="hidden space-x-12 xl:block">{NavbarLinks}</nav>
+      <nav className="hidden space-x-12 xl:block">
+        {NavbarLinks}
+        <button type="button" onClick={() => setShowAbout(true)}>
+          About
+        </button>
+      </nav>
       <a
         href="https://github.com/cheminfo/wikipedia"
         target="_blank"
