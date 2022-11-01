@@ -13,6 +13,19 @@ interface SMILEError {
 interface IData {
   data: SMILEError[];
 }
+
+interface Props {
+  id: number;
+  smiles: string;
+  error: string;
+  setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
+}
+
+interface IErrData {
+  number: number;
+  data: SMILEError[];
+}
+
 function SMILESErrorTable({ data }: IData): JSX.Element {
   const [hoveredSmiles, setHoveredSmiles] = useState('');
 
@@ -52,13 +65,6 @@ function SMILESErrorTable({ data }: IData): JSX.Element {
   );
 }
 
-interface Props {
-  id: number;
-  smiles: string;
-  error: string;
-  setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
-}
-
 function ContentRow(props: Props): JSX.Element {
   const { setSelectedId } = useIdContext();
   return (
@@ -81,10 +87,6 @@ function ContentRow(props: Props): JSX.Element {
   );
 }
 
-interface IErrData {
-  number: number;
-  data: SMILEError[];
-}
 export function SMILESErrors(props: IErrData): JSX.Element {
   return (
     <ErrorSection

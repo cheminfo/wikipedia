@@ -7,6 +7,16 @@ interface ISearch {
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
+interface ISearchActid {
+  setActid: React.Dispatch<React.SetStateAction<string>>;
+  search: string;
+  setSearch: React.Dispatch<React.SetStateAction<string>>;
+}
+
+interface Iactid {
+  setActid: React.Dispatch<React.SetStateAction<string>>;
+}
+
 function Search({ search, setSearch }: ISearch): JSX.Element {
   return (
     <form className="flex items-center space-x-2">
@@ -27,10 +37,6 @@ function Search({ search, setSearch }: ISearch): JSX.Element {
   );
 }
 
-interface Iactid {
-  setActid: React.Dispatch<React.SetStateAction<string>>;
-}
-
 function Board({ setActid }: Iactid): JSX.Element {
   return (
     <div className="mt-6">
@@ -43,12 +49,6 @@ function Board({ setActid }: Iactid): JSX.Element {
       />
     </div>
   );
-}
-
-interface ISearchActid {
-  setActid: React.Dispatch<React.SetStateAction<string>>;
-  search: string;
-  setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
 export function DrawStructure({

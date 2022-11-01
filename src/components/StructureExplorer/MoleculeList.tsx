@@ -8,12 +8,18 @@ import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
 
-interface Iactid {
-  actid: string;
-}
 interface IFilter {
   filter: string;
   setFilter: React.Dispatch<React.SetStateAction<string>>;
+}
+
+interface Props {
+  molecules: IMolecule[];
+}
+interface Iactid {
+  molecules: IMolecule[];
+  actid: string;
+  search: string;
 }
 
 function Filter({ filter, setFilter }: IFilter): JSX.Element {
@@ -39,15 +45,6 @@ function Filter({ filter, setFilter }: IFilter): JSX.Element {
       </div>
     </div>
   );
-}
-
-interface Props {
-  molecules: IMolecule[];
-}
-interface Iactid {
-  molecules: IMolecule[];
-  actid: string;
-  search: string;
 }
 
 function Molecules({ molecules }: Props): JSX.Element {
