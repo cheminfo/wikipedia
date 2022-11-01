@@ -83,8 +83,12 @@ export function MoleculeList({
       molecules.filter(
         (mol) =>
           mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()) &&
-          search === 'exact' &&
-          (actid === '' || actid === null || actid.includes(mol.actID.value)),
+          ((search === 'exact' &&
+            (actid === '' ||
+              actid === null ||
+              actid.includes(mol.actID.value))) ||
+            search === 'substructure' ||
+            search === 'similarity'),
       ),
     );
     // eslint-disable-next-line no-console
