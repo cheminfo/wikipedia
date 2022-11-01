@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Rings } from 'react-loader-spinner';
 
 import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
@@ -13,6 +14,9 @@ export function StructureExplorer(): JSX.Element {
     },
     loading,
   } = useDataContext();
+
+  const [actid, setActid] = useState('');
+  const [search, setSearch] = useState('');
 
   return (
     <div className="">
@@ -32,8 +36,16 @@ export function StructureExplorer(): JSX.Element {
         <IdContextProvider>
           <div className="py-14 px-20 xl:px-28 2xl:px-60">
             <div className="flex justify-center space-x-5">
-              <DrawStructure />
-              <MoleculeList molecules={molecules} />
+              <DrawStructure
+                setActid={setActid}
+                setSearch={setSearch}
+                search={search}
+              />
+              <MoleculeList
+                molecules={molecules}
+                actid={actid}
+                search={search}
+              />
             </div>
             <Wikipedia />
           </div>

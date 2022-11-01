@@ -1,3 +1,4 @@
+// import { Molecule } from 'openchemlib/minimal';
 import { useEffect, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 
@@ -7,6 +8,9 @@ import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
 
+interface Iactid {
+  actid: string;
+}
 interface IFilter {
   filter: string;
   setFilter: React.Dispatch<React.SetStateAction<string>>;
@@ -35,6 +39,11 @@ function Filter({ filter, setFilter }: IFilter): JSX.Element {
 interface Props {
   molecules: IMolecule[];
 }
+interface Iactid {
+  molecules: IMolecule[];
+  actid: string;
+  search: string;
+}
 
 function Molecules({ molecules }: Props): JSX.Element {
   const { selectedId, setSelectedId } = useIdContext();
@@ -58,17 +67,27 @@ function Pagination(): JSX.Element {
   return <div className="flex justify-center py-1">Page x/x</div>;
 }
 
-export function MoleculeList({ molecules }: Props): JSX.Element {
+export function MoleculeList({
+  molecules,
+  actid,
+  search,
+}: Iactid): JSX.Element {
   const [filter, setFilter] = useState('');
   const [mols, setMols] = useState(molecules);
 
+  // TO DO: actid.includes(mol.actID.value)) : replace includes by === after finding the bug (additional !B...)
   useEffect(() => {
     setMols(
-      molecules.filter((mol) =>
-        mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
+      molecules.filter(
+        (mol) =>
+          mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()) &&
+          search === 'exact' &&
+          (actid === '' || actid === null || actid.includes(mol.actID.value)),
       ),
     );
-  }, [filter, molecules]);
+    // eslint-disable-next-line no-console
+    console.log(actid);
+  }, [actid, filter, molecules, search]);
 
   return (
     <SimpleTable
