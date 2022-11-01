@@ -1,9 +1,14 @@
 import { useState } from 'react';
 
 import { useIdContext } from '../../hooks/IdContext';
-import { SMILEError } from '../../hooks/useGetErrorData';
 
 import { ErrorSection } from './ErrorSection';
+
+interface SMILEError {
+  id: number;
+  smiles: string;
+  error: string;
+}
 
 interface IData {
   data: SMILEError[];
