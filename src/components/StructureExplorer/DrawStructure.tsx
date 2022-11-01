@@ -7,7 +7,7 @@ interface ISearch {
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface ISearchActid {
+interface ISearchInfo {
   setActid: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
@@ -15,7 +15,7 @@ interface ISearchActid {
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface Iactid {
+interface IMolInfo {
   setActid: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
@@ -41,7 +41,7 @@ function Search({ search, setSearch }: ISearch): JSX.Element {
   );
 }
 
-function Board({ setActid, setIdx, setMw }: Iactid): JSX.Element {
+function Board({ setActid, setIdx, setMw }: IMolInfo): JSX.Element {
   return (
     <div className="mt-6">
       <StructureEditor
@@ -63,7 +63,7 @@ export function DrawStructure({
   setMw,
   search,
   setSearch,
-}: ISearchActid): JSX.Element {
+}: ISearchInfo): JSX.Element {
   return (
     <SimpleTable
       title="Draw a structure"

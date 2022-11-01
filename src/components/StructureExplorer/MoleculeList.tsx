@@ -16,7 +16,7 @@ interface IFilter {
 interface Props {
   molecules: IMolecule[];
 }
-interface Iactid {
+interface IMolInfo {
   molecules: IMolecule[];
   actid: string;
   idx: number[];
@@ -88,7 +88,7 @@ export function MoleculeList({
   search,
   idx,
   mw,
-}: Iactid): JSX.Element {
+}: IMolInfo): JSX.Element {
   const [filter, setFilter] = useState('');
   const [mols, setMols] = useState(molecules);
 
@@ -119,9 +119,6 @@ export function MoleculeList({
 
   // TO DO:
   function searchSubstructure(molecules: IMolecule[]): IMolecule[] {
-    if (actid !== '' && actid !== null) {
-      return molecules;
-    }
     return molecules;
   }
 
@@ -135,10 +132,10 @@ export function MoleculeList({
   function searchMols({ idx, molecules, mw }: ISimilarity): IMolecule[] {
     if (search === 'exact') {
       return searchExact(molecules);
-    } else if (search === 'substructure') {
-      return searchSubstructure(molecules);
-    } else {
+    } else if (search === 'similarity') {
       return searchSimilarity({ idx, molecules, mw });
+    } else {
+      return searchSubstructure(molecules);
     }
   }
 
