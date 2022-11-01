@@ -30,7 +30,12 @@ function Filter({ filter, setFilter }: IFilter): JSX.Element {
             setFilter(e.target.value);
           }}
         />
-        <MdClose className="cursor-pointer" />
+        <MdClose
+          className="cursor-pointer"
+          onClick={() => {
+            setFilter('');
+          }}
+        />
       </div>
     </div>
   );
