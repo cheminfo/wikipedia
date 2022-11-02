@@ -5,12 +5,12 @@ import { useIdContext } from '../../hooks/IdContext';
 import SimpleTable from '../SimpleTable';
 
 function OpenWiki(): JSX.Element {
-  let { selectedId } = useIdContext();
+  let { selectedTitle } = useIdContext();
 
   return (
     <a
       // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
-      href={`https://en.wikipedia.org/wiki?curid=${selectedId}`}
+      href={`https://en.wikipedia.org/wiki/${selectedTitle}`}
       target="_blank"
       rel="noopener noreferrer"
       className="cursor-pointer text-white"
