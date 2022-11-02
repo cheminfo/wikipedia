@@ -61,11 +61,13 @@ function Filter({ filter, setFilter }: IFilter): JSX.Element {
 }
 
 function Molecules({ molecules }: Props): JSX.Element {
-  const { selectedId, setSelectedId } = useIdContext();
+  const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
-    setSelectedId(selectedId || molecules[0].id);
-  }, [molecules, selectedId, setSelectedId]);
+    setSelectedTitle(selectedTitle || molecules[0].code);
+    // eslint-disable-next-line no-console
+    console.log(selectedTitle);
+  }, [molecules, selectedTitle, setSelectedTitle]);
 
   return (
     <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">

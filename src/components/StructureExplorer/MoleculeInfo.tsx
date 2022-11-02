@@ -8,12 +8,12 @@ interface Props {
 }
 
 export function MoleculeInfo({ mol }: Props): JSX.Element {
-  const { setSelectedId } = useIdContext();
+  const { setSelectedTitle } = useIdContext();
 
   return (
     <div
       className="flex h-48 flex-col items-center justify-between border py-1 text-xs font-bold hover:bg-[#EAEBED]"
-      onClick={() => setSelectedId(mol.id)}
+      onClick={() => setSelectedTitle(mol.code)}
     >
       <div className="">{mol.code}</div>
       <div className="">

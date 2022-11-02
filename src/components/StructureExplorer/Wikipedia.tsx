@@ -1,3 +1,4 @@
+import DOMPurify from 'dompurify';
 import { useState, useEffect } from 'react';
 
 import { useIdContext } from '../../hooks/IdContext';
@@ -21,27 +22,26 @@ function OpenWiki(): JSX.Element {
 
 function WikiPage(): JSX.Element {
   const [contents, setContents] = useState('');
-  let { selectedId } = useIdContext();
+  let { selectedTitle } = useIdContext();
 
-  // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
-  const url = `https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=extracts&pageids=${selectedId}`;
+  const url = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedTitle}`;
 
   useEffect(() => {
     void fetch(url)
-      .then((response) => response.json())
-      .then((myJson) => {
-        if (selectedId) {
-          setContents(myJson.query.pages[selectedId].extract);
+      .then((response) => response.text())
+      .then((myHtml) => {
+        if (selectedTitle) {
+          setContents(myHtml);
         }
       });
-  }, [selectedId, url]);
-
+  }, [selectedTitle, url]);
+  const sanitizedData = () => ({
+    __html: DOMPurify.sanitize(contents),
+  });
   return (
     <div className="p-5">
-      {
-        // eslint-disable-next-line react/no-danger
-        <div dangerouslySetInnerHTML={{ __html: contents }} />
-      }
+      {/* eslint-disable-next-line react/no-danger */}
+      {<div dangerouslySetInnerHTML={sanitizedData()} />}
     </div>
   );
 }

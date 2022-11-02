@@ -17,6 +17,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.3",
     "clsx": "^1.2.1",
+    "dompurify": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -26,6 +27,7 @@
     "react-viewport-list": "^6.0.4"
   },
   "devDependencies": {
+    "@types/dompurify": "^2.3.4",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@types/react-router-dom": "^5.3.3",
