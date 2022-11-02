@@ -110,7 +110,7 @@ export function MoleculeList({
   }
 
   function searchExact(molecules: IMolecule[]): IMolecule[] {
-    if (actid !== '' && actid !== null) {
+    if (actid !== 'd@' && actid !== null) {
       return molecules.filter((mol) => actid === mol.actID.value);
     }
     return molecules;
@@ -122,7 +122,7 @@ export function MoleculeList({
   }
 
   function searchSimilarity({ idx, molecules, mw }: ISimilarity): IMolecule[] {
-    if (actid !== '' && actid !== null) {
+    if (actid !== 'd@' && actid !== null) {
       return similarityTab({ idx, molecules, mw });
     }
     return molecules;
