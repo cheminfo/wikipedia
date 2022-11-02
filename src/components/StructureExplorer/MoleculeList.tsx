@@ -65,8 +65,6 @@ function Molecules({ molecules }: Props): JSX.Element {
 
   useEffect(() => {
     setSelectedTitle(selectedTitle || molecules[0].code);
-    // eslint-disable-next-line no-console
-    console.log(selectedTitle);
   }, [molecules, selectedTitle, setSelectedTitle]);
 
   return (
@@ -111,10 +109,9 @@ export function MoleculeList({
     return simTab.map((sim) => sim.mol);
   }
 
-  // TO DO: actid.includes(mol.actID.value)) : replace includes by === after finding the bug (additional !B...)
   function searchExact(molecules: IMolecule[]): IMolecule[] {
     if (actid !== '' && actid !== null) {
-      return molecules.filter((mol) => actid.includes(mol.actID.value));
+      return molecules.filter((mol) => actid === mol.actID.value);
     }
     return molecules;
   }

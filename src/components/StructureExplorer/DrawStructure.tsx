@@ -47,8 +47,8 @@ function Board({ setActid, setIdx, setMw }: IMolInfo): JSX.Element {
       <StructureEditor
         height={385}
         width={510}
-        onChange={(molfile, molecule, idCode) => {
-          setActid(idCode);
+        onChange={(molfile, molecule) => {
+          setActid(molecule.getIDCode());
           setIdx(molecule.getIndex());
           setMw(molecule.getMolweight());
         }}
