@@ -96,7 +96,7 @@ export function MoleculeList({
     let similarity;
     let simTab: ISimObj[] = [];
     molecules.forEach((mol) => {
-      if (actid.includes(mol.actID.value)) {
+      if (actid === mol.actID.value) {
         similarity = 1e10;
       } else {
         similarity =
