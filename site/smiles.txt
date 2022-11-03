@@ -800,6 +800,7 @@ Strontium titanate	[Sr++].[O-][Ti]([O-])=O
 Sulfur trioxide	O=S(=O)=O
 Sulfur trioxide	O=S0(=O)OS(=O)(=O)OS(=O)(=O)O0
 Sulfur trioxide	OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)OS(=O)(=O)O
+Sulfur trioxide	O.O=S(=O)=O
 Α-Carotene	C\C2=C\CCC(C)(C)C2/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(/C)CCCC1(C)C
 Brompheniramine	Brc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Carbofuran	CNC(=O)Oc1cccc2c1OC(C)C2
@@ -19749,3 +19750,4 @@ Tetrakis(1-norbornyl)cobalt(IV)	C1CC2CCC1(C2)[Co](C(CC1)2CCC1C2)(C(CC1)2CCC1C2)C
 Thiophosphoryl bromide	S=P(Br)(Br)Br
 Thiophosphoryl iodide	S=P(I)(I)I
 8-Bromotheophylline	CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Br
+Glycopyrronium tosylate	O.Cc1ccc(cc1)S(=O)(=O)[O-].C[N+]2(C)CC[C@@H](C2)OC(=O)[C@@](O)(C3CCCC3)c4ccccc4
