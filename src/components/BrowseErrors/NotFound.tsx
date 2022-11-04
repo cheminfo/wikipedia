@@ -3,11 +3,11 @@ import SimpleTable from '../SimpleTable';
 import { ErrorSection } from './ErrorSection';
 import ErrorTableContent from './ErrorTableContent';
 
-interface Props {
+interface NotFoundProps {
   number: number;
   data: number[];
 }
-export function NotFound(props: Props): JSX.Element {
+export function NotFound(props: NotFoundProps): JSX.Element {
   return (
     <ErrorSection
       title="Not found :"

@@ -2,12 +2,12 @@ import { StructureEditor } from 'react-ocl/full';
 
 import SimpleTable from '../SimpleTable';
 
-interface ISearch {
+interface SearchProps {
   search: string;
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface ISearchInfo {
+interface DrawStructureProps {
   setActid: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
@@ -15,13 +15,13 @@ interface ISearchInfo {
   setSearch: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface IMolInfo {
+interface BoardProps {
   setActid: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
 }
 
-function Search({ search, setSearch }: ISearch): JSX.Element {
+function Search({ search, setSearch }: SearchProps): JSX.Element {
   return (
     <form className="flex items-center space-x-2">
       <label>Search mode :</label>
@@ -41,7 +41,7 @@ function Search({ search, setSearch }: ISearch): JSX.Element {
   );
 }
 
-function Board({ setActid, setIdx, setMw }: IMolInfo): JSX.Element {
+function Board({ setActid, setIdx, setMw }: BoardProps): JSX.Element {
   return (
     <div className="mt-6">
       <StructureEditor
@@ -63,7 +63,7 @@ export function DrawStructure({
   setMw,
   search,
   setSearch,
-}: ISearchInfo): JSX.Element {
+}: DrawStructureProps): JSX.Element {
   return (
     <SimpleTable
       title="Draw a structure"

@@ -2,7 +2,7 @@ import clsx from 'clsx';
 
 import { useIdContext } from '../../hooks/IdContext';
 
-interface IData {
+interface ErrorTableContentProps {
   data: number[];
   follow?: boolean;
 }
@@ -10,7 +10,7 @@ interface IData {
 export default function ErrorTableContent({
   data,
   follow,
-}: IData): JSX.Element {
+}: ErrorTableContentProps): JSX.Element {
   const { selectedId } = useIdContext();
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">

@@ -9,7 +9,6 @@ function OpenWiki(): JSX.Element {
 
   return (
     <a
-      // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
       href={`https://en.wikipedia.org/wiki/${selectedTitle}`}
       target="_blank"
       rel="noopener noreferrer"

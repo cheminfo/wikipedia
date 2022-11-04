@@ -2,12 +2,12 @@ import { Dialog, Transition } from '@headlessui/react';
 import { Fragment } from 'react';
 import { MdClose } from 'react-icons/md';
 
-interface Props {
+interface AboutProps {
   showAbout: boolean;
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export default function About({ showAbout, setShowAbout }: Props) {
+export default function About({ showAbout, setShowAbout }: AboutProps) {
   return (
     <Transition.Root show={showAbout} as={Fragment}>
       <Dialog

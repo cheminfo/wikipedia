@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 
-export interface Props {
+interface SimpleTableProps {
   title?: string;
   footer?: JSX.Element;
   option?: JSX.Element;
@@ -9,7 +9,7 @@ export interface Props {
   height?: string;
 }
 
-export default function SimpleTable(props: Props): JSX.Element {
+export default function SimpleTable(props: SimpleTableProps): JSX.Element {
   return (
     <div
       className={clsx(

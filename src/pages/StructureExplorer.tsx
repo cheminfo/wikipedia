@@ -8,7 +8,7 @@ import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
 import { useDataContext } from '../hooks/DataContext';
 import { IdContextProvider } from '../hooks/IdContext';
 
-interface Props {
+interface StructureExplorerProps {
   showAbout: boolean;
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
@@ -16,7 +16,7 @@ interface Props {
 export function StructureExplorer({
   showAbout,
   setShowAbout,
-}: Props): JSX.Element {
+}: StructureExplorerProps): JSX.Element {
   const {
     allData: {
       data: { molecules },

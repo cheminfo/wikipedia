@@ -1,4 +1,4 @@
-interface Props {
+interface ErrorSectionProps {
   title: string;
   number: number;
   description: string;
@@ -6,7 +6,7 @@ interface Props {
   height?: string;
 }
 
-export function ErrorSection(props: Props): JSX.Element {
+export function ErrorSection(props: ErrorSectionProps): JSX.Element {
   return (
     <div className="w-full md:w-[45%] xl:w-[40%]">
       <div className="mb-4 h-24">

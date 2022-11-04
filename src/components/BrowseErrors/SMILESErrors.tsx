@@ -4,29 +4,29 @@ import { useIdContext } from '../../hooks/IdContext';
 
 import { ErrorSection } from './ErrorSection';
 
-interface SMILEError {
+interface ISMILEError {
   id: number;
   smiles: string;
   error: string;
 }
 
-interface IData {
-  data: SMILEError[];
+interface SMILESErrorTableProps {
+  data: ISMILEError[];
 }
 
-interface Props {
+interface ContentRowProps {
   id: number;
   smiles: string;
   error: string;
   setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface IErrData {
+interface SMILESErrorsProps {
   number: number;
-  data: SMILEError[];
+  data: ISMILEError[];
 }
 
-function SMILESErrorTable({ data }: IData): JSX.Element {
+function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
   const [hoveredSmiles, setHoveredSmiles] = useState('');
 
   return (
@@ -65,7 +65,7 @@ function SMILESErrorTable({ data }: IData): JSX.Element {
   );
 }
 
-function ContentRow(props: Props): JSX.Element {
+function ContentRow(props: ContentRowProps): JSX.Element {
   const { setSelectedId } = useIdContext();
   return (
     <div
@@ -87,7 +87,7 @@ function ContentRow(props: Props): JSX.Element {
   );
 }
 
-export function SMILESErrors(props: IErrData): JSX.Element {
+export function SMILESErrors(props: SMILESErrorsProps): JSX.Element {
   return (
     <ErrorSection
       title="SMILES with errors :"

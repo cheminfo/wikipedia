@@ -3,11 +3,11 @@ import { IdcodeSvgRenderer } from 'react-ocl';
 import { IMolecule } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
 
-interface Props {
+interface MoleculeInfoProps {
   mol: IMolecule;
 }
 
-export function MoleculeInfo({ mol }: Props): JSX.Element {
+export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
   const { setSelectedTitle } = useIdContext();
 
   return (

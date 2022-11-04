@@ -3,11 +3,11 @@ import SimpleTable from '../SimpleTable';
 import { ErrorSection } from './ErrorSection';
 import ErrorTableContent from './ErrorTableContent';
 
-interface Props {
+interface NoCorrectSMILESProps {
   number: number;
   data: number[];
 }
-export function NoCorrectSMILES(props: Props): JSX.Element {
+export function NoCorrectSMILES(props: NoCorrectSMILESProps): JSX.Element {
   return (
     <ErrorSection
       title="Pages without correct SMILES :"

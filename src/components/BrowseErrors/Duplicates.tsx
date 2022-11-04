@@ -3,12 +3,12 @@ import SimpleTable from '../SimpleTable';
 import { ErrorSection } from './ErrorSection';
 import ErrorTableContent from './ErrorTableContent';
 
-interface Props {
+interface DuplicatesProps {
   number: number;
   data: number[];
 }
 
-export function Duplicates(props: Props): JSX.Element {
+export function Duplicates(props: DuplicatesProps): JSX.Element {
   return (
     <ErrorSection
       title="Duplicates :"

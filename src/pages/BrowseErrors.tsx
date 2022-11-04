@@ -8,12 +8,15 @@ import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
 import { useDataContext } from '../hooks/DataContext';
 import { IdContextProvider } from '../hooks/IdContext';
 
-interface Props {
+interface BrowseErrorsProps {
   showAbout: boolean;
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export function BrowseErrors({ showAbout, setShowAbout }: Props): JSX.Element {
+export function BrowseErrors({
+  showAbout,
+  setShowAbout,
+}: BrowseErrorsProps): JSX.Element {
   const {
     allData: { count },
     allData: {

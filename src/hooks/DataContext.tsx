@@ -36,7 +36,7 @@ interface DataState {
   };
 }
 
-interface AllDataState {
+interface State {
   allData: DataState;
   loading: boolean;
 }
@@ -59,7 +59,7 @@ const initData = {
   },
 };
 
-const DataContext = createContext<AllDataState>({
+const DataContext = createContext<State>({
   allData: initData,
   loading: true,
 });

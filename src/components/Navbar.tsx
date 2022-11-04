@@ -1,10 +1,10 @@
 import clsx from 'clsx';
 
-interface Props {
+interface NavbarProps {
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export function Navbar({ setShowAbout }: Props): JSX.Element {
+export function Navbar({ setShowAbout }: NavbarProps): JSX.Element {
   const sections = [
     { name: 'Explore structures', link: '/' },
     { name: 'Browse errors', link: '/errors' },

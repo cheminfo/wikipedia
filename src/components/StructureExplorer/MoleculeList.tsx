@@ -8,15 +8,15 @@ import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
 
-interface IFilter {
+interface FilterProps {
   filter: string;
   setFilter: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface Props {
+interface MoleculesProps {
   molecules: IMolecule[];
 }
-interface IMolInfo {
+interface MoleculeListProps {
   molecules: IMolecule[];
   actid: string;
   idx: number[];
@@ -35,7 +35,7 @@ interface ISimObj {
   sim: number;
 }
 
-function Filter({ filter, setFilter }: IFilter): JSX.Element {
+function Filter({ filter, setFilter }: FilterProps): JSX.Element {
   return (
     <div className="flex items-center space-x-2">
       <div className="text-[#0A4E7A]">Filter by name :</div>
@@ -60,7 +60,7 @@ function Filter({ filter, setFilter }: IFilter): JSX.Element {
   );
 }
 
-function Molecules({ molecules }: Props): JSX.Element {
+function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
@@ -88,7 +88,7 @@ export function MoleculeList({
   search,
   idx,
   mw,
-}: IMolInfo): JSX.Element {
+}: MoleculeListProps): JSX.Element {
   const [filter, setFilter] = useState('');
   const [mols, setMols] = useState(molecules);
 
