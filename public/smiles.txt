@@ -7160,7 +7160,7 @@ Exatecan	Fc2c(c6c1c(c5c(nc1c2)C=3N(C(=O)\C4=C(/C=3)[C@](O)(C(=O)OC4)CC)C5)[C@@H]
 Exatecan	CCC1(C2=C(COC1=O)C(=O)N3CC4=C5C(CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)N)O
 Pidotimod	O=C(O)[C@H]2N(C(=O)[C@H]1NC(=O)CC1)CSC2
 Thymopentin	O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccc(O)cc1)C(C)C)CC(=O)O)CCCCN)[C@@H](N)CCC/N=C(\N)N
-Roquinimex	CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O
+Linomide	CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O
 Triethyl phosphite	O(P(OCC)OCC)CC
 Trimethyl phosphite	COP(OC)OC
 8-OH-DPAT	CCCN(CCC)C1CCc2cccc(O)c2C1
@@ -19751,3 +19751,4 @@ Thiophosphoryl bromide	S=P(Br)(Br)Br
 Thiophosphoryl iodide	S=P(I)(I)I
 8-Bromotheophylline	CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Br
 Glycopyrronium tosylate	O.Cc1ccc(cc1)S(=O)(=O)[O-].C[N+]2(C)CC[C@@H](C2)OC(=O)[C@@](O)(C3CCCC3)c4ccccc4
+Technetium(IV) oxide	O=[Tc]=O
