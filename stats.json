@@ -2810,5 +2810,6 @@
 {"date":"2022-11-02T04:46:57.847Z","molecules":19751,"errors":108,"nogood":80,"notfound":2140,"dup":565},
 {"date":"2022-11-03T04:11:28.914Z","molecules":19753,"errors":108,"nogood":80,"notfound":2140,"dup":565},
 {"date":"2022-11-04T04:18:16.314Z","molecules":19753,"errors":108,"nogood":80,"notfound":2140,"dup":565},
-{"date":"2022-11-05T04:05:06.532Z","molecules":19754,"errors":108,"nogood":80,"notfound":2141,"dup":565}
+{"date":"2022-11-05T04:05:06.532Z","molecules":19754,"errors":108,"nogood":80,"notfound":2141,"dup":565},
+{"date":"2022-11-06T04:05:22.716Z","molecules":19757,"errors":109,"nogood":81,"notfound":2140,"dup":565}
 ]

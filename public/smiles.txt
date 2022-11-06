@@ -7785,6 +7785,7 @@ CP 47,497	CCCCCCC(C)(C)c1ccc(c(c1)O)[C@@H]2CCC[C@@H](C2)O
 Meconic acid	C1=C(OC(=C(O)O)C(=O)C1=O)C(=O)O
 Adipic acid dihydrazide	O=C(NN)CCCCC(=O)NN
 4-Phenylthiosemicarbazide	S=C(Nc1ccccc1)NN
+Rolofylline	CCCn1c(=O)c2[nH]c(C34CC5CC(CC(C5)C3)C4)nc2n(CCC)c1=O
 TCB-2	COc1c(Br)cc(OC)c2c1CC2CN
 2,5-Dimethoxy-4-trifluoromethylamphetamine	FC(F)(F)c1cc(OC)c(cc1OC)CC(N)C
 2C-YN	COc1cc(CCN)c(OC)cc1C#C
@@ -19752,3 +19753,5 @@ Thiophosphoryl iodide	S=P(I)(I)I
 8-Bromotheophylline	CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Br
 Glycopyrronium tosylate	O.Cc1ccc(cc1)S(=O)(=O)[O-].C[N+]2(C)CC[C@@H](C2)OC(=O)[C@@](O)(C3CCCC3)c4ccccc4
 Technetium(IV) oxide	O=[Tc]=O
+AM-11245	CC1(C)OC2=C([C@H]3[C@H]1CC[C@@H](CO)C3)C(O)=CC(C(C)(C)CCCCCCC#N)=C2
+PS75	Clc1cc2c(cccc2cc1)Nc1ccncc1
