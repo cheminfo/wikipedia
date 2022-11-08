@@ -1,4 +1,3 @@
-import DOMPurify from 'dompurify';
 import { useState, useEffect } from 'react';
 
 import { useIdContext } from '../../hooks/IdContext';
@@ -20,7 +19,7 @@ function OpenWiki(): JSX.Element {
 }
 
 function WikiPage(): JSX.Element {
-  const [contents, setContents] = useState('');
+  const [content, setContent] = useState('');
   let { selectedTitle } = useIdContext();
 
   const url = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedTitle}`;
@@ -30,17 +29,30 @@ function WikiPage(): JSX.Element {
       .then((response) => response.text())
       .then((myHtml) => {
         if (selectedTitle) {
-          setContents(myHtml);
+          setContent(
+            myHtml
+              .replace(/\/\//g, 'https://')
+              .replace(
+                '</style>',
+                'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #eaebed; } ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
+              ),
+          );
         }
       });
   }, [selectedTitle, url]);
-  const sanitizedData = () => ({
-    __html: DOMPurify.sanitize(contents),
-  });
+
+  const blob = new Blob([content], { type: 'text/html' });
+  const blobUrl = URL.createObjectURL(blob);
+
   return (
-    <div className="p-5">
-      {/* eslint-disable-next-line react/no-danger */}
-      {<div dangerouslySetInnerHTML={sanitizedData()} />}
+    <div className="h-[65vh]">
+      <iframe
+        src={blobUrl}
+        color="red"
+        height="100%"
+        width="100%"
+        className="w-full"
+      />
     </div>
   );
 }

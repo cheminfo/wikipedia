@@ -47,7 +47,7 @@ export function StructureExplorer({
         <div>
           <About showAbout={showAbout} setShowAbout={setShowAbout} />
           <IdContextProvider>
-            <div className="py-14 px-20 xl:px-28 2xl:px-60">
+            <div className="px-20 pt-14 xl:px-28 2xl:px-60">
               <div className="flex justify-center space-x-5">
                 <DrawStructure
                   setActid={setActid}
