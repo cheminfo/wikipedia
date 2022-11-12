@@ -14256,7 +14256,7 @@ Morelloflavone	c1cc(ccc1[C@@H]2[C@H](C(=O)c3c(cc(cc3O2)O)O)c4c(cc(c5c4oc(cc5=O)c
 Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)C=O
 Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)CO
 Sargachromanol	CC1=C2C(=CC(=C1)O)CCC(O2)(C)CCC=C(C)CCC=C(C)C(=O)C(C=C(C)C)O
-Isojacareubin	CC1(CCC2=C3C(=C(C=C2O1)O)C(=O)C4=C(O3)C(=C(C=C4)O)O)C
+Isojacareubin	CC1(C=CC2=C(O1)C=C(C3=C2OC4=C(C3=O)C=CC(=C4O)O)O)C
 Taraxerol	C[C@]12CCC(C[C@H]1C3(CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4(C3=CC2)C)(C)C)O)C)C)(C)C
 Thiotaurine	C(CS(=O)(=S)O)N
 Cirsilineol	COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O
@@ -18117,7 +18117,7 @@ Glysobuzole	CC(C)CC1=NN=C(NS(=O)(=O)C2=CC=C(C=C2)OC)S1
 2-Naphthoic acid	C1=CC=C2C=C(C=CC2=C1)C(=O)O
 L-163,491	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(C=C1)CC2=CC(=CC=C2)OC)C3=CC=C(C=C3)CN4C(=NC5=C4N=C(C=C5C)C)CC
 Chloroacetophenone oxime	C1=CC=C(C=C1)C(=NO)CCl
-Americium(III) hydroxide	[OH-].[OH-].[OH-].[Am]
+Americium(III) hydroxide	[OH-].[OH-].[OH-].[Am+3]
 Diflomotecan	O=C1N2C(C3=NC(C=C(F)C(F)=C4)=C4C=C3C2)=CC([C@@](O)(CC)C5)=C1COC5=O
 Acid orange 19	CC1=C(C=C(C=C1)N=NC2=C(C3=CC=CC=C3C(=C2)S(=O)(=O)[O-])O)S(=O)(=O)NC4=CC=CC=C4.[Na+]
 3CLpro-1	C1CNC(=O)[C@@H]1C[C@@H](C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)/C=C/C3=C(C=C(C=C3)Cl)F
@@ -19438,7 +19438,7 @@ Perfluorohexanoic acid	C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O
 Rhizocarpic acid	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4
 (Cycloheptatrienyl)(cyclopentadienyl)titanium	[CH-]1C=CC=C1.[CH-]1C=CC=CC=C1.[Ti+2]
 (Cycloheptatrienyl)(cyclopentadienyl)vanadium	C1C=CC=CC=[C-]1.[CH-]1C=CC=C1.[V+2]
-Melatonin (supplement/medication)	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
+Melatonin as a medication and supplement	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
 Caesium superoxide	[Cs+].[O-][O]
 Epanorin	CC(C)C[C@@H](C(=O)OC)NC(=O)C(=C1C(=C(C(=O)O1)C2=CC=CC=C2)O)C3=CC=CC=C3
 1,6-Hexanediol diglycidyl ether	C1C(O1)COCCCCCCOCC2CO2
