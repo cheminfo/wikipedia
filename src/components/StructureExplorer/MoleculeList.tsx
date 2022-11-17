@@ -1,6 +1,8 @@
 import { SSSearcherWithIndex } from 'openchemlib/minimal';
-import { useEffect, useState } from 'react';
+import { CSSProperties, useEffect, useState } from 'react';
 import { MdClose } from 'react-icons/md';
+import AutoSizer from 'react-virtualized-auto-sizer';
+import { FixedSizeGrid as Grid } from 'react-window';
 
 import { IMolecule } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
@@ -59,7 +61,24 @@ function Filter({ filter, setFilter }: FilterProps): JSX.Element {
     </div>
   );
 }
-
+interface CellProps {
+  columnIndex: number;
+  rowIndex: number;
+  style: CSSProperties;
+}
+const cell =
+  (molecules: IMolecule[]) =>
+  ({ columnIndex, rowIndex, style }: CellProps) => {
+    if (columnIndex + rowIndex * 3 < molecules.length) {
+      const mol = molecules[columnIndex + rowIndex * 3];
+      return (
+        <div style={style} className="overflow-x-hidden">
+          <MoleculeInfo mol={mol} />
+        </div>
+      );
+    }
+    return null;
+  };
 function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
@@ -67,12 +86,31 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
     setSelectedTitle(selectedTitle || molecules[0].code);
   }, [molecules, selectedTitle, setSelectedTitle]);
 
+  function getRowCount(molLen: number) {
+    if (molLen % 3 === 0) {
+      return molLen / 3;
+    } else {
+      return molLen / 3 + 1;
+    }
+  }
+  const colItemsCount = 3;
   return (
-    <div className="scrollbar grid h-96 grid-cols-3 overflow-y-auto overflow-x-hidden">
-      {molecules.map((mol, key) => (
-        // eslint-disable-next-line react/no-array-index-key
-        <MoleculeInfo mol={mol} key={key} />
-      ))}
+    <div className="h-96 w-full overflow-x-hidden">
+      <AutoSizer>
+        {({ height, width }) => (
+          <Grid
+            columnCount={colItemsCount}
+            columnWidth={width / colItemsCount - 2}
+            rowCount={getRowCount(molecules.length)}
+            rowHeight={height / 2}
+            width={width}
+            height={height}
+            className="scrollbar overflow-x-hidden"
+          >
+            {cell(molecules)}
+          </Grid>
+        )}
+      </AutoSizer>
     </div>
   );
 }
@@ -154,7 +192,7 @@ export function MoleculeList({
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="w-full"
       footer={<Pagination />}
-      content={<Molecules molecules={mols?.slice(0, 10)} />}
+      content={<Molecules molecules={mols} />}
     />
   );
 }
