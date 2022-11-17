@@ -39,7 +39,8 @@ function WikiPage(): JSX.Element {
           );
         }
       });
-  }, [selectedTitle, url]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedTitle]);
 
   const blob = new Blob([content], { type: 'text/html' });
   const blobUrl = URL.createObjectURL(blob);
