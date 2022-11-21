@@ -19749,6 +19749,7 @@ Tyrosinol	C1=CC(=CC=C1C[C@@H](CO)N)O
 Tyrosinol	C(C(CO)N)C1=CC=C(O)C=C1
 Acetyl hypochlorite	CC(=O)OCl
 Triptonide	CC(C)[C@@]12[C@@H](O1)[C@H]3[C@@]4(O3)[C@]5(CCC6=C([C@@H]5C[C@H]7[C@]4(C2=O)O7)COC6=O)C
+Juniperic acid	C(CCCCCCCC(=O)O)CCCCCCCO
 Guanylurea dinitramide	C(=NC(=O)N)(N)N.N([N+](=O)[O-])[N+](=O)[O-]
 GsMTx-4	[H]NCC(=O)N[C@H]1CSSC[C@@H]2NC(=O)[C@@H]3CSSC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CSSC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(C)C)NC1=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N3)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC2=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(N)=O
 Dicumyl peroxide	CC(C)(C1=CC=CC=C1)OOC(C)(C)C2=CC=CC=C2
@@ -19769,3 +19770,5 @@ Lead(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pb+2]
 Cyclooctyne	C1CCCC#CCC1
 Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
+Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
+O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
