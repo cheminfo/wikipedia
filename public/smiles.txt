@@ -137,6 +137,7 @@ Indigo dye	c1ccc2c(c1)C(=O)/C(=C\3/C(=O)c4ccccc4N3)/N2
 Domoic acid	O=C(O)[C@H]1NC[C@H](/C(=C\C=C\[C@H](C(=O)O)C)C)[C@@H]1CC(=O)O
 Sucrose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
 Sulfur dioxide	O=S=O
+Thalidomide	O=C1c2ccccc2C(=O)N1C3CCC(=O)NC3=O
 Carbonic acid	O=C(O)O
 Inositol trisphosphate	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@@H]1OP(=O)(O)O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
 Putrescine	NCCCCN
@@ -19772,3 +19773,5 @@ Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
 Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
 O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
+Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh]
+Karmitoxin	NC/C=C/C=C/C(C/C=C/CCC(CC(CC(CCCC(C/C=C/C(C[C@@H]([C@@H](O)[C@@H](O)[C@@H](CCC[C@@H](C)[C@@H](O)[C@@H](C[C@]1([H])[C@@H](O)[C@@H](O)[C@H](O)[C@](C(CCC([C@H]([C@H]([C@]2([H])C[C@H](O)[C@H](O)[C@@]([H])([C@H](O)[C@@H](/C=C/CCCCCCCCCC/C=C/C=C)O)O2)O)O)=C)O)([H])O1)O)O)C)O)O)O)=O)O)O
