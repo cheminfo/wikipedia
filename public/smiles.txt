@@ -10290,7 +10290,7 @@ RTI-353	CCC1=C(C=C(C=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3)I
 Desmethylcitalopram	CNCCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 Desmethylsertraline	Clc1ccc(cc1Cl)[C@H]3c2c(cccc2)[C@@H](N)CC3
 4-Methylamphetamine	NC(Cc1ccc(cc1)C)C
-4-Methylmethamphetamine	c1cc(C)ccc1CC(C)NC
+Mephedrine	c1cc(C)ccc1CC(C)NC
 Para-Bromoamphetamine	Brc1ccc(cc1)CC(N)C
 Para-Iodoamphetamine	CC(CC1=CC=C(C=C1)I)N
 Actarit	O=C(O)Cc1ccc(cc1)NC(=O)C
@@ -19770,7 +19770,10 @@ Lead(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pb+2]
 Cyclooctyne	C1CCCC#CCC1
 Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
+Coenzyme Q5	CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
 Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
 O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
 Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh]
+Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh+].[Cl-]
+Tantalum arsenide	[As].[Ta]
 Karmitoxin	NC/C=C/C=C/C(C/C=C/CCC(CC(CC(CCCC(C/C=C/C(C[C@@H]([C@@H](O)[C@@H](O)[C@@H](CCC[C@@H](C)[C@@H](O)[C@@H](C[C@]1([H])[C@@H](O)[C@@H](O)[C@H](O)[C@](C(CCC([C@H]([C@H]([C@]2([H])C[C@H](O)[C@H](O)[C@@]([H])([C@H](O)[C@@H](/C=C/CCCCCCCCCC/C=C/C=C)O)O2)O)O)=C)O)([H])O1)O)O)C)O)O)O)=O)O)O
