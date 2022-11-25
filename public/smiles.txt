@@ -4581,6 +4581,7 @@ Indigo carmine	[Na+].[Na+].[O-]S(=O)(=O)c3cc4C(=O)\C(=C2\C(=O)c1cc(ccc1N2)S([O-]
 Daunosamine	C[C@@H]([C@H]([C@H](CC=O)N)O)O
 Cladinose	C[C@H]1[C@@H]([C@](CC(O1)O)(C)OC)O
 Cholestane	C41CCCC[C@@]1([C@@H]3[C@H]([C@@H]2CC[C@@H]([C@@]2(C)CC3)[C@H](C)CCCC(C)C)CC4)C
+Cholestene	CC(CCCC(=C)C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C
 Equilenin	O=C4[C@]3(CCc1c(ccc2c1ccc(O)c2)[C@@H]3CC4)C
 Syringol	O(c1cccc(OC)c1O)C
 Paracoumaryl alcohol	OC/C=C/c1ccc(O)cc1
@@ -5182,7 +5183,7 @@ Pinacol	CC(C)(O)C(C)(C)O
 MTSL	CC1(C=C(C(N1[O])(C)C)CSS(=O)(=O)C)C
 Mestranol	O(c1cc4c(cc1)[C@H]3CC[C@]2([C@@H](CC[C@]2(C#C)O)[C@@H]3CC4)C)C
 Exisulind	CC1=C(CC(O)=O)C2=C(C=CC(F)=C2)\C1=C/C1=CC=C(C=C1)S(C)(=O)=O
-Oxycyte	C(C(F)(F)F)(C(F)(F)F)(C(F)(F)F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F
+Perfluoro tert-butylcyclohexane	C(C(F)(F)F)(C(F)(F)F)(C(F)(F)F)C1(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F
 Cyclic ADP-ribose	O[C@H]5[C@@H](O)[C@H]2O[C@@H]5COP(O)(=O)OP(O)(=O)OC[C@H]4O[C@@H](N3\C=N/c1c(ncn12)C3=N)[C@H](O)[C@@H]4O
 1,4-Butynediol	OCC#CCO
 Nicotinic acid adenine dinucleotide phosphate	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)OP(=O)(O)O)O)O)O)C(=O)O
@@ -14209,6 +14210,7 @@ Homocysteic acid	C(CS(=O)(=O)O)[C@@H](C(=O)O)N
 Mitragynine pseudoindoxyl	CC[C@H](C1)[C@](/C(C(OC)=O)=C\OC)([H])C[C@@](N1CC2)([H])[C@]32NC4=CC=CC(OC)=C4C3=O
 Letermovir	COc1cccc(N2CCN(C3=Nc4c(F)cccc4[C@H](CC(=O)O)N3c3cc(C(F)(F)F)ccc3OC)CC2)c1
 Pacritinib	c1cc2cc(c1)-c3ccnc(n3)Nc4ccc(c(c4)COC/C=C/COC2)OCCN5CCCC5
+Tinosporide	[H][C@@]12CC[C@]3(C)[C@@]([H])([C@@H]4OC(=O)[C@@]3(O)[C@H]3O[C@@H]43)[C@]1(C)C[C@H](OC2=O)C1=COC=C1
 Tangshenoside I	CC(CC(=O)O)(CC(=O)OC/C=C/c1cc(c(c(c1)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Araloside A	C[C@]12CC[C@@H](C([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)C)(C)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O[C@H]8[C@@H]([C@H]([C@@H](O8)CO)O)O)O)O
 Molybdenum diselenide	[Se]=[Mo]=[Se]
@@ -19770,10 +19772,11 @@ Lead(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pb+2]
 Cyclooctyne	C1CCCC#CCC1
 Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
-Coenzyme Q5	CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
 Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
 O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
 Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh]
 Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh+].[Cl-]
 Tantalum arsenide	[As].[Ta]
 Karmitoxin	NC/C=C/C=C/C(C/C=C/CCC(CC(CC(CCCC(C/C=C/C(C[C@@H]([C@@H](O)[C@@H](O)[C@@H](CCC[C@@H](C)[C@@H](O)[C@@H](C[C@]1([H])[C@@H](O)[C@@H](O)[C@H](O)[C@](C(CCC([C@H]([C@H]([C@]2([H])C[C@H](O)[C@H](O)[C@@]([H])([C@H](O)[C@@H](/C=C/CCCCCCCCCC/C=C/C=C)O)O2)O)O)=C)O)([H])O1)O)O)C)O)O)O)=O)O)O
+Nitryl azide	[N-]=[N+]=N[N+](=O)[O-]
+Coenzyme Q5	CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
