@@ -3284,6 +3284,9 @@ Terpinene	CC1=CC=C(C(C)C)CC1
 Terpinene	C=C1CC=C(C(C)C)CC1
 Terpinene	CC1=CCC(C(C)C)=CC1
 Terpinene	C/C(C)=C1CCC(C)=CC/1
+Isoborneol	C[C@]12CC[C@H](C1(C)C)C[C@@H]2O
+Isoborneol	C[C@@]12CC[C@@H](C1(C)C)C[C@H]2O
+Isoborneol	CC1(C2CCC1(C(C2)O)C)C
 Ascaridole	O1OC2(\C=C/C1(C)CC2)C(C)C
 Retinoic acid	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C
 Bis-HPPP	OCC(O)COc1ccc(cc1)C(C)(C)c2ccc(OCC(O)CO)cc2
@@ -19790,3 +19793,7 @@ Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
 Isobornyl acetate	CC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 BZO-CHMOXIZID	O=C(C1=CC=CC=C1)N/N=C(C2=O)/C3=CC=CC=C3N2CC4CCCCC4
 ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
+4-Cl-3-MMC	CC1=C(C=CC(=C1)C(=O)C(C)NC)Cl
+4-HO-MALT	CN(CCC1=CNC2=C1C(=CC=C2)O)CC=C
+3F-NEB	CCC(C(=O)C1=CC(=CC=C1)F)NCC
+Nicotelline	C1=CC(=CN=C1)C2=CC(=NC=C2)C3=CN=CC=C3
