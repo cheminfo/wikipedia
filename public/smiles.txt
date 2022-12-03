@@ -18961,7 +18961,7 @@ Sarolaner	CS(=O)(=O)CC(=O)N1CC2(C1)OCc1cc(C3=NO[C@@](c4cc(Cl)c(F)c(Cl)c4)(C(F)(F
 Nickel(III) fluoride	F[Ni](F)F
 Trimellitic anhydride	C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O
 Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
-4-Et-PVP	O=C1CCCCC1(NCC)C2=CC(O)=CC=C2
+4-Et-PVP	CCCC(C(=O)c1ccc(CC)cc1)N1CCCC1
 4-Fluoroethylphenidate	Fc1ccc(cc1)C(C(=O)OCC)C1CCCCN1
 Lascufloxacin	COC1=C2C(=CC(=C1N3C[C@@H]([C@@H](C3)F)CNC4CC4)F)C(=O)C(=CN2CCF)C(=O)O
 Potassium tetracyanonickelate	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[K+].[K+].[Ni+2]
@@ -19797,3 +19797,8 @@ ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
 4-HO-MALT	CN(CCC1=CNC2=C1C(=CC=C2)O)CC=C
 3F-NEB	CCC(C(=O)C1=CC(=CC=C1)F)NCC
 Nicotelline	C1=CC(=CN=C1)C2=CC(=NC=C2)C3=CN=CC=C3
+CUMYL-NBMINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4CC5CCC4C5
+2-Me-PVP	CCCC(C(=O)C1=CC=CC=C1C)N2CCCC2
+3-Methylmethamphetamine	CC1=CC(=CC=C1)CC(C)NC
+S-(2-aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
+Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
