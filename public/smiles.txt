@@ -18975,7 +18975,7 @@ N1-Methylpseudouridine	O[C@H]1[C@@](O[C@H](CO)[C@H]1O)(C=2C(=O)NC(=O)N(C)C2)[H]
 DMG-PEG 2000	O=C(CCCCCCCCCCCCC)OCC(OC(CCCCCCCCCCCCC)=O)COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC
 Tribenuron	CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
 1,1'-Dihydroxydicyclohexyl peroxide	C1CCC(CC1)(O)OOC2(CCCCC2)O
-Datumetine	CN1C2CCC1CC(C2)C3=C(C=CC(=C3)C(=O)O)OC
+Datumetine	O=C(O)C1=CC=C(OC)C(=C1)C2CC3N(C)C(CC3)C2
 Methyl hydroperoxide	COO
 Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
 5-Cyclohexadecenone	C1CCCCCC(=O)CCCC=CCCCC1
@@ -19790,6 +19790,7 @@ Iron(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=C
 Isoalloxazine	C1=CC=C2C(=C1)N=C3C(=N2)NC(=O)NC3=O
 Copper(II) borate	B([O-])([O-])[O-].B([O-])([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
+Fulgide	C=C\2/C(=C)C(=O)OC2=O
 Isobornyl acetate	CC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 BZO-CHMOXIZID	O=C(C1=CC=CC=C1)N/N=C(C2=O)/C3=CC=CC=C3N2CC4CCCCC4
 ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
@@ -19802,4 +19803,4 @@ CUMYL-NBMINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4CC5CCC4C5
 3-Methylmethamphetamine	CC1=CC(=CC=C1)CC(C)NC
 S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
-N-Cyclohexylmethylone	CC(CC1=CC2=C(C=C1)OCO2)NC3CCCCC3
+N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
