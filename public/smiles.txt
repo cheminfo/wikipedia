@@ -12247,7 +12247,6 @@ Fluometuron	O=C(Nc1cc(ccc1)C(F)(F)F)N(C)C
 Atraric acid	Cc1cc(c(c(c1C(=O)OC)O)C)O
 Ombrabulin	COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)N
 Pyridine-2-carbaldehyde	O=Cc1ncccc1
-Fexinidazole	[O-][N+](=O)c1cnc(n1C)COc2ccc(SC)cc2
 Ronidazole	O=C(OCc1ncc(n1C)[N+]([O-])=O)N
 Varespladib	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)O)C(=O)C(=O)N
 PD-102,807	CCOC(=O)c1c(C)[nH]c(c1c3C5)ccc3OC2N5CCc4c2ccc(OC)c4
@@ -16904,7 +16903,7 @@ Methylidynetricobaltnonacarbonyl	[O+]#C[Co-3]12(C#[O+])(C#[O+])[Co-3]3(C#[O+])(C
 Borane carbonyl	[BH3-]C#[O+]
 6-Formylindolo(3,2-b)carbazole	C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C=O
 Dimethyloctadecyl(3-trimethoxysilylpropyl)ammonium chloride	[Cl-].CCCCCCCCCCCCCCCCCC[N+](C)(C)CCC[Si](OC)(OC)OC
-4,4-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
+4,4'-Diaminodicyclohexylmethane	C1CC(CCC1CC2CCC(CC2)N)N
 Thioxoethenylidene	[C+]#C[S-]
 Flunitrazolam	O=[N](=O)c4ccc2-n1c(C)nnc1CN=C(c2c4)c3ccccc3F
 Phosphirane	C1PC1
@@ -19790,7 +19789,6 @@ Iron(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=C
 Isoalloxazine	C1=CC=C2C(=C1)N=C3C(=N2)NC(=O)NC3=O
 Copper(II) borate	B([O-])([O-])[O-].B([O-])([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
-Fulgide	C=C\2/C(=C)C(=O)OC2=O
 Isobornyl acetate	CC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 BZO-CHMOXIZID	O=C(C1=CC=CC=C1)N/N=C(C2=O)/C3=CC=CC=C3N2CC4CCCCC4
 ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
