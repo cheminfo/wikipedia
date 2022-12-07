@@ -3442,7 +3442,6 @@ Scheele's Green	[Cu+2].[O-][As]([O-])O
 Euxanthic acid	OC(=O)[C@H]4O[C@@H](Oc1ccc2Oc3cccc(O)c3C(=O)c2c1)[C@H](O)[C@@H](O)[C@@H]4O
 Euxanthone	c1cc(c2c(c1)oc3ccc(cc3c2=O)O)O
 Chlorotrifluoromethane	ClC(F)(F)F
-Oxamniquine	[O-][N+](=O)c1c(cc2c(c1)NC(CC2)CNC(C)C)CO
 1-Nonanol	CCCCCCCCCO
 2-Methylheptane	CCCCCC(C)C
 Phycoerythrobilin	C/C=C/1\[C@H](C(=O)N\C1=C/c2c(c(c([nH]2)/C=C\3/C(=C(C(=N3)C[C@@H]4C(=C(C(=O)N4)C=C)C)C)CCC(=O)O)CCC(=O)O)C)C
@@ -6650,7 +6649,6 @@ Isoconazole	Clc1ccc(c(Cl)c1)C(OCc2c(Cl)cccc2Cl)Cn3ccnc3
 Chlormidazole	Clc1ccc(cc1)Cn2c3ccccc3nc2C
 Butoconazole	Clc1ccc(cc1)CCC(Sc2c(Cl)cccc2Cl)Cn3ccnc3
 Propenidazole	O=C(OCC)\C(=C\c1ncc(n1C)[N+]([O-])=O)C(=O)C
-Azanidazole	[O-][N+](=O)c2cnc(\C=C\c1nc(ncc1)N)n2C
 Triphenyl phosphite	O(P(Oc1ccccc1)Oc2ccccc2)c3ccccc3
 Triphenyl phosphate	O=P(Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3
 Oxaceprol	CC(=O)N1C[C@@H](C[C@H]1C(=O)O)O
@@ -12658,7 +12656,6 @@ Amyrin	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[
 Sulfotep	CCOP(=S)(OCC)OP(=S)(OCC)OCC
 Thiocarbohydrazide	C(=S)(NN)NN
 Paullinic acid	O=C(O)CCCCCCCCCCC\C=C/CCCCCC
-Carnidazole	[O-][N+](=O)c1cnc(n1CCNC(=S)OC)C
 Ipronidazole	[O-][N+](=O)c1cnc(n1C)C(C)C
 2,6-Diisopropylnaphthalene	CC(C)C1=CC2=C(C=C1)C=C(C=C2)C(C)C
 AZD1305	O=C(OC(C)(C)C)NCCN1CC2OC(C1)CN(C2)CCOc3ccc(C#N)cc3F
@@ -19780,6 +19777,7 @@ O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
 Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh]
 Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh+].[Cl-]
 Tantalum arsenide	[As].[Ta]
+Diphosphadiboretanes	[BH2-]1[PH2+][BH2-][PH2+]1
 Karmitoxin	NC/C=C/C=C/C(C/C=C/CCC(CC(CC(CCCC(C/C=C/C(C[C@@H]([C@@H](O)[C@@H](O)[C@@H](CCC[C@@H](C)[C@@H](O)[C@@H](C[C@]1([H])[C@@H](O)[C@@H](O)[C@H](O)[C@](C(CCC([C@H]([C@H]([C@]2([H])C[C@H](O)[C@H](O)[C@@]([H])([C@H](O)[C@@H](/C=C/CCCCCCCCCC/C=C/C=C)O)O2)O)O)=C)O)([H])O1)O)O)C)O)O)O)=O)O)O
 Nitryl azide	[N-]=[N+]=N[N+](=O)[O-]
 Coenzyme Q5	CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
@@ -19802,3 +19800,4 @@ CUMYL-NBMINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4CC5CCC4C5
 S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
+Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-]
