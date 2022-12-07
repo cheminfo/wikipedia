@@ -8,7 +8,7 @@ interface SearchProps {
 }
 
 interface DrawStructureProps {
-  setActid: React.Dispatch<React.SetStateAction<string>>;
+  setIdCode: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
   search: string;
@@ -16,7 +16,7 @@ interface DrawStructureProps {
 }
 
 interface BoardProps {
-  setActid: React.Dispatch<React.SetStateAction<string>>;
+  setIdCode: React.Dispatch<React.SetStateAction<string>>;
   setIdx: React.Dispatch<React.SetStateAction<number[]>>;
   setMw: React.Dispatch<React.SetStateAction<number>>;
 }
@@ -41,14 +41,14 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
   );
 }
 
-function Board({ setActid, setIdx, setMw }: BoardProps): JSX.Element {
+function Board({ setIdCode, setIdx, setMw }: BoardProps): JSX.Element {
   return (
     <div className="mt-6">
       <StructureEditor
         height={385}
         width={510}
         onChange={(molfile, molecule) => {
-          setActid(molecule.getIDCode());
+          setIdCode(molecule.getIDCode());
           setIdx(molecule.getIndex());
           setMw(molecule.getMolweight());
         }}
@@ -58,7 +58,7 @@ function Board({ setActid, setIdx, setMw }: BoardProps): JSX.Element {
 }
 
 export function DrawStructure({
-  setActid,
+  setIdCode,
   setIdx,
   setMw,
   search,
@@ -69,7 +69,7 @@ export function DrawStructure({
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
       className="w-[950px]"
-      content={<Board setActid={setActid} setIdx={setIdx} setMw={setMw} />}
+      content={<Board setIdCode={setIdCode} setIdx={setIdx} setMw={setMw} />}
     />
   );
 }

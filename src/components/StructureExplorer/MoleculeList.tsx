@@ -20,7 +20,7 @@ interface MoleculesProps {
 }
 interface MoleculeListProps {
   molecules: IMolecule[];
-  actid: string;
+  idCode: string;
   idx: number[];
   mw: number;
   search: string;
@@ -122,7 +122,7 @@ function Pagination(): JSX.Element {
 
 export function MoleculeList({
   molecules,
-  actid,
+  idCode,
   search,
   idx,
   mw,
@@ -134,7 +134,7 @@ export function MoleculeList({
     let similarity;
     let simTab: ISimObj[] = [];
     molecules.forEach((mol) => {
-      if (actid === mol.actID.value) {
+      if (idCode === mol.actID.value) {
         similarity = 1e10;
       } else {
         similarity =
@@ -148,8 +148,8 @@ export function MoleculeList({
   }
 
   function searchExact(molecules: IMolecule[]): IMolecule[] {
-    if (actid !== 'd@' && actid !== null) {
-      return molecules.filter((mol) => actid === mol.actID.value);
+    if (idCode !== 'd@' && idCode !== null) {
+      return molecules.filter((mol) => idCode === mol.actID.value);
     }
     return molecules;
   }
@@ -160,7 +160,7 @@ export function MoleculeList({
   }
 
   function searchSimilarity({ idx, molecules, mw }: ISimilarity): IMolecule[] {
-    if (actid !== 'd@' && actid !== null) {
+    if (idCode !== 'd@' && idCode !== null) {
       return similarityTab({ idx, molecules, mw });
     }
     return molecules;
@@ -185,7 +185,7 @@ export function MoleculeList({
   useEffect(() => {
     setMols(searchMols({ idx, molecules: filterMols(molecules), mw }));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [filter, search, actid]);
+  }, [filter, search, idCode]);
 
   return (
     <SimpleTable
