@@ -83,8 +83,11 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
-    setSelectedTitle(selectedTitle || molecules[0].code);
-  }, [molecules, selectedTitle, setSelectedTitle]);
+    if (selectedTitle === '') {
+      setSelectedTitle(molecules[0].code);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   function getRowCount(molLen: number) {
     if (molLen % 3 === 0) {

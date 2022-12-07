@@ -4,7 +4,7 @@ import { useIdContext } from '../../hooks/IdContext';
 import SimpleTable from '../SimpleTable';
 
 function OpenWiki(): JSX.Element {
-  let { selectedTitle } = useIdContext();
+  const { selectedTitle } = useIdContext();
 
   return (
     <a
@@ -19,36 +19,37 @@ function OpenWiki(): JSX.Element {
 }
 
 function WikiPage(): JSX.Element {
-  const [content, setContent] = useState('');
-  let { selectedTitle } = useIdContext();
+  const [url, setUrl] = useState('');
+  const { selectedTitle } = useIdContext();
 
-  const url = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedTitle}`;
+  const link = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedTitle}`;
 
   useEffect(() => {
-    void fetch(url)
+    void fetch(link)
       .then((response) => response.text())
       .then((myHtml) => {
         if (selectedTitle) {
-          setContent(
-            myHtml
-              .replace(/\/\//g, 'https://')
-              .replace(
-                '</style>',
-                'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #eaebed; } ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
-              ),
+          const blob = new Blob(
+            [
+              myHtml
+                .replace(/\/\//g, 'https://')
+                .replace(
+                  '</style>',
+                  'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #eaebed; } ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
+                ),
+            ],
+            { type: 'text/html' },
           );
+          setUrl(URL.createObjectURL(blob));
         }
       });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedTitle]);
 
-  const blob = new Blob([content], { type: 'text/html' });
-  const blobUrl = URL.createObjectURL(blob);
-
   return (
     <div className="h-[65vh]">
       <iframe
-        src={blobUrl}
+        src={url}
         color="red"
         height="100%"
         width="100%"
