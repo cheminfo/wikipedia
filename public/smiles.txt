@@ -1967,7 +1967,6 @@ Dunnite	C1=C(C=C(C(=C1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].[NH4+]
 9-Borabicyclo(3.3.1)nonane	B1([H]3)(C2CCCC1CCC2)[H]B34C2CCCC4CCC2
 Lenalidomide	O=C1NC(=O)CCC1N3C(=O)c2cccc(c2C3)N
 Singlet oxygen	O=O
-Furazolidone	[O-][N+](=O)c2oc(C=NN1C(=O)OCC1)cc2
 Benomyl	O=C(n1c2ccccc2nc1NC(=O)OC)NCCCC
 Proguanil	Clc1ccc(NC(=N/C(=N/C(C)C)N)N)cc1
 Clamoxyquine	Clc1cc(c(O)c2ncccc12)CNCCCN(CC)CC
@@ -12656,7 +12655,6 @@ Amyrin	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[
 Sulfotep	CCOP(=S)(OCC)OP(=S)(OCC)OCC
 Thiocarbohydrazide	C(=S)(NN)NN
 Paullinic acid	O=C(O)CCCCCCCCCCC\C=C/CCCCCC
-Ipronidazole	[O-][N+](=O)c1cnc(n1C)C(C)C
 2,6-Diisopropylnaphthalene	CC(C)C1=CC2=C(C=C1)C=C(C=C2)C(C)C
 AZD1305	O=C(OC(C)(C)C)NCCN1CC2OC(C1)CN(C2)CCOc3ccc(C#N)cc3F
 Perchloromethyl mercaptan	ClC(Cl)(Cl)SCl
@@ -17129,7 +17127,6 @@ A22 (antibiotic)	C1=CC(=C(C=C1CSC(=N)N)Cl)Cl
 Diethyl lutidinate	CCOC(=O)C1=CC(=NC=C1)C(=O)OCC
 (Butadiene)iron tricarbonyl	C=CC=C.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Fe]
 Diargon	[Ar].[Ar]
-Phosphetane	C1CPC1
 N-Desmethylapalutamide	C1CC2(C1)C(=O)N(C(=S)N2C3=CC(=C(C=C3)C(=O)N)F)C4=CN=C(C(=C4)C(F)(F)F)C#N
 Lead magnesium niobate	O=[Mg].O=[Nb]12O[Nb](=O)(O1)O2.O=[Pb].O=[Pb].O=[Pb]
 Morantel	CC1=C(SC=C1)C=CC2=NCCCN2C
@@ -19801,3 +19798,4 @@ S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
 Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-]
+4-686-293-01	[Br-].[Br-].C[N+](Cc1ncccc1OC(=O)N(C)C)(CC)CCCCCCCCCC[N+](C)(Cc1ncccc1OC(=O)N(C)C)CC
