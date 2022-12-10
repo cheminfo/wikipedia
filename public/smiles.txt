@@ -5908,7 +5908,7 @@ Centralite	O=C(N(c1ccccc1)CC)N(c2ccccc2)CC
 Adipamide	O=C(N)CCCCC(=O)N
 Carisbamate	Clc1ccccc1[C@@H](O)COC(=O)N
 Aminoethylpiperazine	NCCN1CCNCC1
-Aminothiazole	c1csc(n1)N
+2-Aminothiazole	c1csc(n1)N
 Trimethylarsine	[As](C)(C)C
 4-Piperidinone	O=C1CCNCC1
 N-Phenethyl-4-piperidinone	O=C2CCN(CCc1ccccc1)CC2
@@ -13547,6 +13547,7 @@ Lithium polonide	[Li+].[Li+].[Po-2]
 Sodium polonide	[Na+].[Na+].[Po-2]
 Potassium polonide	[K+].[K+].[Po-2]
 Glucuronamide	C(=O)[C@@H]([C@H]([C@@H]([C@@H](C(=O)N)O)O)O)O
+Erbium hexaboride	[Er].[B].[B].[B].[B].[B].[B]
 Trenbolone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(C=CC3=C4CCC(=O)C=C4CC[C@@H]23)C
 Forasartan	CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
 ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
@@ -14338,6 +14339,7 @@ N-Methyl-L-glutamic acid	O=C(O)CC[C@H](NC)C(=O)O
 2-Hydroxy-4-methylbenzaldehyde	CC1=CC(=C(C=C1)C=O)O
 2-Hydroxy-4-methoxybenzaldehyde	COC1=CC(=C(C=C1)C=O)O
 Hypophosphoric acid	OP(O)(P(O)(O)=O)=O
+Erbium tetraboride	[Er].[B].[B].[B].[B]
 Erbium(III) iodide	I[Er](I)I
 N-Vinylacetamide	CC(=O)NC=C
 3-Nitrochlorobenzene	C1=CC(=CC(=C1)Cl)[N+](=O)[O-]
@@ -19794,8 +19796,10 @@ S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
 Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-]
+2-Methoxyethoxymethyl chloride	COCCOCCl
 4-686-293-01	[Br-].[Br-].C[N+](Cc1ncccc1OC(=O)N(C)C)(CC)CCCCCCCCCC[N+](C)(Cc1ncccc1OC(=O)N(C)C)CC
 Protonitazene	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Iptacopan	O=C(O)C1=CC=C([C@H]2N(CC3=C(OC)C=C(C)C4=C3C=CN4)CC[C@H](OCC)C2)C=C1
 Butonitazine	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Deschloroclotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4
+Thulium dibromide	[Tm+2].[Br-].[Br-]
