@@ -6195,6 +6195,7 @@ N'-Formylkynurenine	C1=CC=C(C(=C1)C(=O)C[C@@H](C(=O)O)N)NC=O
 NanoPutian	O1CCOC1c1c(C#CC(C)(C)C)cc(c(C#CC(C)(C)C)c1)C#Cc1cc(C#CCCC)cc(C#CCCC)c1
 NIM811	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C\C=C\C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)[C@@H](C)CC)C)C
 Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
+3-Dehydrocarnitine	C[N+](C)(C)CC(=O)CC(=O)[O-]
 GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6c[nH]cn6)N
 Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
 Hexafluoroethane	FC(F)(F)C(F)(F)F
@@ -9081,7 +9082,7 @@ Manoalide	CC1=C(C(CCC1)(C)C)CC/C(=C/CCC2=CC[C@@H](O[C@H]2O)C3=CC(=O)O[C@H]3O)/C
 Fantofarone	CC(C)C1=CN2C=CC=CC2=C1S(=O)(=O)C3=CC=C(C=C3)OCCCN(C)CCC4=CC(=C(C=C4)OC)OC
 Falipamil	CN(CCCN1CC2=CC(=C(C=C2C1=O)OC)OC)CCC3=CC(=C(C=C3)OC)OC
 Enpiperate	CN1CCC(CC1)OC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O
-Dimeditiapramine	CN(CCCC1(S(=O)(=O)CCCS1(=O)=O)C2=CC(=C(C=C2)OC)OC)CCC3=CC(=C(C=C3)OC)OC
+Tiapamil	CN(CCCC1(S(=O)(=O)CCCS1(=O)=O)C2=CC(=C(C=C2)OC)OC)CCC3=CC(=C(C=C3)OC)OC
 Devapamil	N#CC(c1cc(OC)c(OC)cc1)(CCCN(CCc2cccc(OC)c2)C)C(C)C
 Dauricine	O(c1cc2c(cc1OC)[C@H](N(C)CC2)Cc6ccc(Oc3c(O)ccc(c3)C[C@@H]5c4c(cc(OC)c(OC)c4)CCN5C)cc6)C
 Darodipine	O=C(OCC)\C3=C(\N\C(=C(\C(=O)OCC)C3c1cccc2nonc12)C)C
@@ -19803,3 +19804,4 @@ Iptacopan	O=C(O)C1=CC=C([C@H]2N(CC3=C(OC)C=C(C)C4=C3C=CN4)CC[C@H](OCC)C2)C=C1
 Butonitazine	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Deschloroclotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4
 Thulium dibromide	[Tm+2].[Br-].[Br-]
+1cP-AL-LAD	CCN(CC)C(=O)[C@@H]1C=C2[C@@H](Cc3cn(C(=O)C4CC4)c4cccc2c34)N(C1)CC=C
