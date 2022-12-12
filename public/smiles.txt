@@ -19770,8 +19770,6 @@ Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
 Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
 O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
-Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh]
-Rhodium(III) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2N3)C9=CC=CC=C94.[Rh+].[Cl-]
 Tantalum arsenide	[As].[Ta]
 Diphosphadiboretanes	[BH2-]1[PH2+][BH2-][PH2+]1
 Karmitoxin	NC/C=C/C=C/C(C/C=C/CCC(CC(CC(CCCC(C/C=C/C(C[C@@H]([C@@H](O)[C@@H](O)[C@@H](CCC[C@@H](C)[C@@H](O)[C@@H](C[C@]1([H])[C@@H](O)[C@@H](O)[C@H](O)[C@](C(CCC([C@H]([C@H]([C@]2([H])C[C@H](O)[C@H](O)[C@@]([H])([C@H](O)[C@@H](/C=C/CCCCCCCCCC/C=C/C=C)O)O2)O)O)=C)O)([H])O1)O)O)C)O)O)O)=O)O)O
@@ -19779,7 +19777,6 @@ Nitryl azide	[N-]=[N+]=N[N+](=O)[O-]
 Coenzyme Q5	CC1=C(C(=O)C(=C(C1=O)OC)OC)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
 Titanium trisulfide	[S][S].[S].[Ti]
 Titanium trisulfide	[S-][S-].[S-2].[Ti+4]
-Iron(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2[N-]3)C9=CC=CC=C94.[Fe+2]
 Isoalloxazine	C1=CC=C2C(=C1)N=C3C(=N2)NC(=O)NC3=O
 Copper(II) borate	B([O-])([O-])[O-].B([O-])([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
@@ -19805,3 +19802,5 @@ Butonitazine	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Deschloroclotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4
 Thulium dibromide	[Tm+2].[Br-].[Br-]
 1cP-AL-LAD	CCN(CC)C(=O)[C@@H]1C=C2[C@@H](Cc3cn(C(=O)C4CC4)c4cccc2c34)N(C1)CC=C
+Bexagliflozin	C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl
+Truxene	C1C2=CC=CC=C2C3=C4CC5=CC=CC=C5C4=C6CC7=CC=CC=C7C6=C31
