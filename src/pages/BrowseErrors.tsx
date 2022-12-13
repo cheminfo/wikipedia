@@ -52,7 +52,7 @@ export function BrowseErrors({
         <div>
           <About showAbout={showAbout} setShowAbout={setShowAbout} />
           <div className="xs:px-20 px-10 pt-14 xl:px-28 2xl:px-60">
-            <div className="text-[#0A4E7A]">
+            <div className="text-darkblue">
               <div className="">
                 <div className="text-2xl lg:text-4xl">
                   Articles with SMILES problems

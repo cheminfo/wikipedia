@@ -17,12 +17,12 @@ export default function SimpleTable(props: SimpleTableProps): JSX.Element {
         props.className,
       )}
     >
-      <div className="flex items-center justify-between rounded-t-lg bg-[#92BEDF] px-5 py-2 text-[#0A4E7A]">
+      <div className="flex items-center justify-between rounded-t-lg bg-lightblue px-5 py-2 text-darkblue">
         <div className="">{props.title}</div>
         <div className="">{props.option}</div>
       </div>
       <div className={props.height}>{props.content}</div>
-      <div className="rounded-b-lg bg-[#92BEDF] text-[#0A4E7A]">
+      <div className="rounded-b-lg bg-lightblue text-darkblue">
         {props.footer}
       </div>
     </div>

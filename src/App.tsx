@@ -11,7 +11,7 @@ export default function App() {
   const [showAbout, setShowAbout] = useState(false);
 
   return (
-    <div className="min-h-screen bg-[#EAEBED] font-Archivo font-medium tracking-wide">
+    <div className="min-h-screen bg-lightgray font-Archivo font-medium tracking-wide">
       <Navbar setShowAbout={setShowAbout} />
       <DataContextProvider>
         <BrowserRouter>

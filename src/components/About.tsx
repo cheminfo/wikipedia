@@ -39,7 +39,7 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
               leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
             >
               <Dialog.Panel className="flex max-w-xl flex-col justify-center rounded-xl bg-white shadow-xl">
-                <div className="flex justify-between rounded-t-xl bg-[#92BEDF] px-5 py-2 font-medium text-[#0A4E7A]">
+                <div className="flex justify-between rounded-t-xl bg-lightblue px-5 py-2 font-medium text-darkblue">
                   <Dialog.Title>
                     About Wikipedia Chemical Structure Explorer
                   </Dialog.Title>

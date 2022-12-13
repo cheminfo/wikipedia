@@ -23,8 +23,8 @@ export default function ErrorTableContent({
           key={key}
           className={clsx(
             'cursor-pointer',
-            { 'bg-[#EAEBED]': follow && selectedId === id },
-            'hover:bg-[#EAEBED]',
+            { 'bg-lightgray': follow && selectedId === id },
+            'hover:bg-lightgray',
           )}
         >
           <div className="flex justify-center border py-2 text-xs">{id}</div>

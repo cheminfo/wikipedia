@@ -31,7 +31,7 @@ function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
 
   return (
     <div className="mb-5 flex flex-col rounded-lg bg-white shadow-md">
-      <div className="grid grid-cols-8 rounded-t-lg bg-[#92BEDF] text-sm text-[#0A4E7A]">
+      <div className="grid grid-cols-8 rounded-t-lg bg-lightblue text-sm text-darkblue">
         <div className="col-span-2 px-3 py-2">Article ID</div>
         <div className="col-span-2 px-3 py-2">SMILES</div>
         <div className="col-span-4 px-3 py-2">Error message</div>
@@ -55,7 +55,7 @@ function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
           ))}
         </div>
       </div>
-      <div className="bg-[#92BEDF] px-3 py-2 text-sm text-[#0A4E7A]">
+      <div className="bg-lightblue px-3 py-2 text-sm text-darkblue">
         Hovered SMILES
       </div>
       <div className="scrollbar h-22 flex items-center overflow-y-auto break-all p-3 text-xs">
@@ -69,7 +69,7 @@ function ContentRow(props: ContentRowProps): JSX.Element {
   const { setSelectedId } = useIdContext();
   return (
     <div
-      className="grid grid-cols-8 overflow-x-hidden hover:bg-[#EAEBED]"
+      className="grid grid-cols-8 overflow-x-hidden hover:bg-lightgray"
       onMouseEnter={() => {
         props.setHoveredSmiles(props.smiles);
         setSelectedId(props.id);
