@@ -15,7 +15,7 @@
     "test": "npm run eslint && npm run prettier"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.3",
+    "@headlessui/react": "^1.7.5",
     "@types/react-virtualized": "^9.21.21",
     "clsx": "^1.2.1",
     "react": "^18.2.0",

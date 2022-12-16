@@ -24,11 +24,11 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
           leaveFrom="opacity-100"
           leaveTo="opacity-0"
         >
-          <div className="fixed inset-0 bg-black bg-opacity-50 transition-opacity" />
+          <div className="fixed inset-0 hidden bg-black bg-opacity-50 transition-opacity sm:block" />
         </Transition.Child>
 
-        <div className="fixed inset-0 overflow-y-scroll">
-          <div className="flex min-h-full justify-center sm:items-center">
+        <div className="mt-28 h-full sm:fixed sm:inset-0 sm:mt-0 sm:overflow-y-auto">
+          <div className="flex h-full items-center justify-center sm:mx-4 sm:min-h-full">
             <Transition.Child
               as={Fragment}
               enter="ease-out duration-300"
@@ -38,8 +38,8 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
               leaveFrom="opacity-100 translate-y-0 sm:scale-100"
               leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
             >
-              <Dialog.Panel className="flex max-w-xl flex-col justify-center rounded-xl bg-white shadow-xl">
-                <div className="flex justify-between rounded-t-xl bg-lightblue px-5 py-2 font-medium text-darkblue">
+              <Dialog.Panel className="flex h-full flex-col justify-center bg-white sm:h-fit sm:max-w-xl sm:rounded-xl sm:shadow-xl">
+                <div className="flex justify-between space-x-2 bg-lightblue px-5 pb-2 pt-8 font-medium text-darkblue sm:rounded-t-xl sm:pt-2">
                   <Dialog.Title>
                     About Wikipedia Chemical Structure Explorer
                   </Dialog.Title>
@@ -59,7 +59,7 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
 
 function AboutContent() {
   return (
-    <div className="flex flex-col space-y-5 p-5">
+    <div className="flex h-full flex-col space-y-5 p-5 sm:h-auto">
       <p>
         Wikipedia Chemical Structure Explorer: Substructure and similarity
         searching of molecules from Wikipedia Peter Ertl, Luc Patiny, Thomas
