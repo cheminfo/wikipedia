@@ -3464,7 +3464,7 @@ Phosphocholine	C[N+](C)(C)CCOP(=O)(O)[O-]
 Tetrabutyltin	CCCC[Sn](CCCC)(CCCC)CCCC
 Floxuridine	FC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
 4-Methylaminorex	CC1C(C2=CC=CC=C2)OC(N)=N1
-Alpha-Pinene	C\1=C(\[C@@H]2C[C@H](C/1)C2(C)C)C
+Α-Pinene	C\1=C(\[C@@H]2C[C@H](C/1)C2(C)C)C
 Calcium benzoate	[Ca+2].[O-]C(=O)c1ccccc1.[O-]C(=O)c1ccccc1
 Calcium sorbate	[Ca+2].O=C([O-])\C=C\C=C\C.[O-]C(=O)\C=C\C=C\C
 Repaglinide	O=C(O)c1ccc(cc1OCC)CC(=O)N[C@H](c2ccccc2N3CCCCC3)CC(C)C
@@ -4422,7 +4422,7 @@ Acrivastine	O=C(O)\C=C\c3nc(\C(=C\CN1CCCC1)c2ccc(cc2)C)ccc3
 Tioguanine	Nc2nc(=S)c1[nH]cnc1[nH]2
 Morphinan	c12c(cccc1)C[C@H]3NCC[C@]24[C@H]3CCCC4
 Carbenoxolone	O=C(O)CCC(=O)O[C@H]4CC[C@@]3([C@H]5C(=O)/C=C2/[C@@H]1C[C@](C(=O)O)(C)CC[C@]1(C)CC[C@]2([C@@]5(CC[C@H]3C4(C)C)C)C)C
-Beta-Pinene	C1(=C)C2CC(CC1)C2(C)C
+Β-Pinene	C1(=C)C2CC(CC1)C2(C)C
 Genipin	O=C(OC)\C1=C\O[C@@H](O)[C@@H]2\C(=C/C[C@H]12)CO
 DCMU	Clc1ccc(NC(=O)N(C)C)cc1Cl
 Lisofylline	O=C2N(c1ncn(c1C(=O)N2CCCC[C@H](O)C)C)C
@@ -9818,7 +9818,6 @@ Etohexadiol	CCCC(C(CC)CO)O
 Bioallethrin	C/C(C)=C/[C@@H]2[C@@H](C(=O)OC1CC(=O)C(\CC=C)=C1\C)C2(C)C
 Bioallethrin	CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C
 Thiram	CN(C)C(=S)SSC(=S)N(C)C
-Dixanthogen	S=C(SSC(=S)OCC)OCC
 Ambuphylline	O=C2N(c1nc[nH]c1C(=O)N2C)C.OCC(N)(C)C
 Bamifylline	O=C2N(c1nc(n(c1C(=O)N2C)CCN(CC)CCO)Cc3ccccc3)C
 Etamiphylline	CCN(CC)CCn1cnc2c1c(=O)n(c(=O)n2C)C
@@ -19808,4 +19807,6 @@ Thulium dibromide	[Tm+2].[Br-].[Br-]
 Bexagliflozin	C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl
 Truxene	C1C2=CC=CC=C2C3=C4CC5=CC=CC=C5C4=C6CC7=CC=CC=C7C6=C31
 2-Hydroxyisobutyric acid	CC(C)(C(=O)O)O
+Colanic acid	C[C@H]1[C@H]([C@H]([C@@H]([C@H](O1)O[C@H]2[C@H](O[C@@H]([C@@H]([C@H]2OC(=O)C)O)O[C@@H]3[C@H]([C@@H](O[C@@H]([C@H]3O)O)CO)O)C)O)O)O[C@@H]4[C@H]([C@@H]([C@@H]([C@@H](O4)CO)O)O[C@@H]5[C@H]([C@@H]([C@H]([C@@H](O5)C(=O)[O-])O[C@H]6[C@@H]([C@H]([C@@H]7[C@H](O6)CO[C@@](O7)(C)C(=O)[O-])O)O)O)O)O
 Cholanic acid	C[C@@]12[C@]([C@]3([C@](CC1)([C@]4(C)C(CC3)(CCCC4)[H])[H])[H])(CC[C@@]2([C@@H](CCC(O)=O)C)[H])[H]
+Diethyl dixanthogen disulfide	S=C(SSC(=S)OCC)OCC
