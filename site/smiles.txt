@@ -10933,6 +10933,7 @@ Benzvalene	C1=CC2C3C1C23
 Claus' benzene	C12C3C4C2C3C41
 Bicyclopropenyl	C\1=C\C/1C\2/C=C/2
 1-Nonyl-4-phenol	CCCCCCCCCC1=CC=C(C=C1)O
+Β-cyclodextrin	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O
 WAY-317538	C3COCCN3CCCCC(=O)Nc1ccc(cc1)-c2cccnc2
 Gallocatechin gallate	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
 Sclareol	CC1(C)CCC[C@@]2(C)[C@@]1([H])CC[C@@](C)(O)[C@@H]2CC[C@](O)(C)C=C
@@ -19798,6 +19799,7 @@ N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
 Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-]
 2-Methoxyethoxymethyl chloride	COCCOCCl
 4-686-293-01	[Br-].[Br-].C[N+](Cc1ncccc1OC(=O)N(C)C)(CC)CCCCCCCCCC[N+](C)(Cc1ncccc1OC(=O)N(C)C)CC
+Chloromethyl methyl sulfide	CSCCl
 Protonitazene	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Iptacopan	O=C(O)C1=CC=C([C@H]2N(CC3=C(OC)C=C(C)C4=C3C=CN4)CC[C@H](OCC)C2)C=C1
 Butonitazine	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
@@ -19809,5 +19811,7 @@ Truxene	C1C2=CC=CC=C2C3=C4CC5=CC=CC=C5C4=C6CC7=CC=CC=C7C6=C31
 2-Hydroxyisobutyric acid	CC(C)(C(=O)O)O
 Colanic acid	C[C@H]1[C@H]([C@H]([C@@H]([C@H](O1)O[C@H]2[C@H](O[C@@H]([C@@H]([C@H]2OC(=O)C)O)O[C@@H]3[C@H]([C@@H](O[C@@H]([C@H]3O)O)CO)O)C)O)O)O[C@@H]4[C@H]([C@@H]([C@@H]([C@@H](O4)CO)O)O[C@@H]5[C@H]([C@@H]([C@H]([C@@H](O5)C(=O)[O-])O[C@H]6[C@@H]([C@H]([C@@H]7[C@H](O6)CO[C@@](O7)(C)C(=O)[O-])O)O)O)O)O
 Cholanic acid	C[C@@]12[C@]([C@]3([C@](CC1)([C@]4(C)C(CC3)(CCCC4)[H])[H])[H])(CC[C@@]2([C@@H](CCC(O)=O)C)[H])[H]
+Obeldesivir	CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@](O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O
 Dithiofluorescein	C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)S)OC5=C3C=CC(=C5)S
 Diethyl dixanthogen disulfide	S=C(SSC(=S)OCC)OCC
+2C-AL	COC1=CC(=C(C=C1CCN)OC)CC=C
