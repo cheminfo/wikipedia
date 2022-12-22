@@ -1,3 +1,5 @@
+import OCL from 'openchemlib';
+import { MoleculesDB } from 'openchemlib-utils';
 import {
   createContext,
   ReactNode,
@@ -39,6 +41,7 @@ interface DataState {
 interface State {
   allData: DataState;
   loading: boolean;
+  db: MoleculesDB;
 }
 
 const initData = {
@@ -62,6 +65,7 @@ const initData = {
 const DataContext = createContext<State>({
   allData: initData,
   loading: true,
+  db: new MoleculesDB(OCL),
 });
 
 export function useDataContext() {
@@ -71,6 +75,7 @@ export function useDataContext() {
 export function DataContextProvider({ children }: { children: ReactNode }) {
   const [allData, setAllData] = useState<DataState>(initData);
   const [loading, setLoading] = useState(true);
+  const [db, setDb] = useState(new MoleculesDB(OCL));
 
   useEffect(() => {
     void fetch('data.json', {
@@ -84,6 +89,27 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
       })
       .then((myJson) => {
         setAllData(myJson);
+
+        const moleculesDB = new MoleculesDB(OCL);
+
+        for (const entry of myJson.data.molecules) {
+          const molecule = OCL.Molecule.fromIDCode(entry.actID.value, false);
+          moleculesDB.pushEntry(
+            molecule,
+            {
+              id: entry.id,
+              code: entry.code,
+              smiles: entry.smiles,
+              mf: entry.mf.value,
+              em: entry.em,
+            },
+            { index: entry.act_idx, idCode: entry.actID.value, mw: entry.mw },
+          );
+        }
+
+        setDb(moleculesDB);
+        // eslint-disable-next-line no-alert
+        alert(JSON.stringify(moleculesDB.getDB()));
       })
       .then(() => {
         setLoading(false);
@@ -95,7 +121,10 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
       });
   }, []);
 
-  const value = useMemo(() => ({ allData, loading }), [allData, loading]);
+  const value = useMemo(
+    () => ({ allData, loading, db }),
+    [allData, loading, db],
+  );
 
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;
 }
