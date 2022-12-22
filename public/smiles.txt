@@ -1782,6 +1782,7 @@ Cadmium chloride	[Cd+2].[Cl-].[Cl-]
 Cyclophosphamide	O=P1(OCCCN1)N(CCCl)CCCl
 Nitrosoproline	O=C(O)[C@H]1N(N=O)CCC1
 Ethionine	O=C(O)C(N)CCSCC
+Pentosan polysulfate	O[C@@H]1CO[C@@H](O[C@@H]2CO[C@@H](O)[C@H](OS(O)(=O)=O)[C@H]2OS(O)(=O)=O)[C@H](OS(O)(=O)=O)[C@H]1OS(O)(=O)=O
 1-Butyl-3-methylimidazolium tetrachloroferrate	CCCCN1C=C[N+](=C1)C.Cl[Fe-](Cl)(Cl)Cl
 Ethylmorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(OCC)ccc3C4)C
 Wilkinson's catalyst	Cl[Rh-3]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)[P+](c0ccccc0)(c0ccccc0)c0ccccc0
@@ -19624,7 +19625,7 @@ Cerium(IV) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl
 Nickel tungstate	[O-][W](=O)(=O)[O-].[Ni+2]
 HP-505	C1(C2OC3(CCNCC3)C4=C2C=CC=C4)=CC=CC=C1
 Hexafluoroarsenate	F[As-](F)(F)(F)(F)F
-Zirconium(III) iodide	I[Zr](I)I
+Zirconium(III) iodide	[Zr+3].[I-].[I-].[I-]
 PDC-APB	CCCCCCCCCCCCCCCC1=C(C(=CC=C1)OC(=O)CCCC2=CC=C(C=C2)N)OC(=O)CCCC3=CC=C(C=C3)N
 1,4-Diisocyanobutane	[C-]#[N+]CCCC[N+]#[C-]
 Butamifos	CCC(C)NP(=S)(OCC)OC1=C(C=CC(=C1)C)[N+](=O)[O-]
@@ -19688,7 +19689,6 @@ Threohydrobupropion	CC(C(C1=CC(=CC=C1)Cl)O)NC(C)(C)C
 Rhenium(III) bromide	Br[Re](Br)Br
 Silver tungstate	[O-][W](=O)(=O)[O-].[Ag+].[Ag+]
 Potassium phosphide	[P-3].[K+].[K+].[K+]
-Manganese(III) chloride	[Mn+3].[Cl-].[Cl-].[Cl-]
 Solorinic acid	CCCCCC(=O)C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC)O
 GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
 Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CCO)=CC2C)C
@@ -19815,4 +19815,9 @@ Obeldesivir	CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@](O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O
 Dithiofluorescein	C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)S)OC5=C3C=CC(=C5)S
 Diethyl dixanthogen disulfide	S=C(SSC(=S)OCC)OCC
 2C-AL	COC1=CC(=C(C=C1CCN)OC)CC=C
+Sodium tris(carbonato)cobalt(III)	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Na+].[Na+].[Na+].[Co+3].O.O.O
+Tris(glycinato)cobalt(III)	C(C(=O)O)N.C(C(=O)O)N.C(C(=O)O)N.[Co]
 5F-MPMI	CN1CCC[C@@H]1Cc2c[nH]c3ccc(F)cc23
+Γ-Cyclodextrin	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O
+Bis(triphenylphosphineoxide) manganese(III) chloride	[Mn+3].[Cl-].[Cl-].[Cl-].O=P(c1ccccc1)(c2ccccc2)c3ccccc3.O=P(c1ccccc1)(c2ccccc2)c3ccccc3
+Hafnium(III) iodide	[I-].[I-].[I-].[Hf+3]
