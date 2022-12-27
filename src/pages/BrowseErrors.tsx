@@ -1,5 +1,3 @@
-import { Rings } from 'react-loader-spinner';
-
 import About from '../components/About';
 import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
@@ -38,15 +36,7 @@ export function BrowseErrors({
     <div className="">
       {loading ? (
         <div className="-mt-12 flex h-screen flex-col items-center justify-center">
-          <Rings
-            height="120"
-            width="120"
-            color="#92BEDF"
-            radius="6"
-            wrapperStyle={{}}
-            wrapperClass=""
-            visible
-          />
+          <img src="loading.gif" />
         </div>
       ) : (
         <div>

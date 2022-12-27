@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { Rings } from 'react-loader-spinner';
 
 import About from '../components/About';
 import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
@@ -34,15 +33,7 @@ export function StructureExplorer({
     <div className="">
       {loading ? (
         <div className="-mt-12 flex h-screen flex-col items-center justify-center">
-          <Rings
-            height="120"
-            width="120"
-            color="#92BEDF"
-            radius="6"
-            wrapperStyle={{}}
-            wrapperClass=""
-            visible
-          />
+          <img src="loading.gif" />
         </div>
       ) : (
         <div>
