@@ -1,24 +1,17 @@
 import { StructureEditor } from 'react-ocl/full';
 
+import { SearchType } from '../../pages/StructureExplorer';
 import SimpleTable from '../SimpleTable';
 
 interface SearchProps {
-  search: string;
-  setSearch: React.Dispatch<React.SetStateAction<string>>;
+  search: SearchType;
+  setSearch: React.Dispatch<React.SetStateAction<SearchType>>;
 }
 
-interface DrawStructureProps {
-  setIdCode: React.Dispatch<React.SetStateAction<string>>;
-  setIdx: React.Dispatch<React.SetStateAction<number[]>>;
-  setMw: React.Dispatch<React.SetStateAction<number>>;
-  search: string;
-  setSearch: React.Dispatch<React.SetStateAction<string>>;
-}
+interface DrawStructureProps extends SearchProps, BoardProps {}
 
 interface BoardProps {
   setIdCode: React.Dispatch<React.SetStateAction<string>>;
-  setIdx: React.Dispatch<React.SetStateAction<number[]>>;
-  setMw: React.Dispatch<React.SetStateAction<number>>;
 }
 
 function Search({ search, setSearch }: SearchProps): JSX.Element {
@@ -29,7 +22,11 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
         name="search"
         value={search}
         onChange={(e) => {
-          setSearch(e.target.value);
+          if (
+            ['similarity', 'exact', 'substructure'].includes(e.target.value)
+          ) {
+            setSearch(e.target.value as SearchType);
+          }
         }}
         className="h-6 w-36 cursor-pointer rounded-lg px-2 py-1 text-sm font-normal focus:outline-none"
       >
@@ -41,7 +38,7 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
   );
 }
 
-function Board({ setIdCode, setIdx, setMw }: BoardProps): JSX.Element {
+function Board({ setIdCode }: BoardProps): JSX.Element {
   return (
     <div className="mt-6">
       <StructureEditor
@@ -49,8 +46,6 @@ function Board({ setIdCode, setIdx, setMw }: BoardProps): JSX.Element {
         width={510}
         onChange={(molfile, molecule) => {
           setIdCode(molecule.getIDCode());
-          setIdx(molecule.getIndex());
-          setMw(molecule.getMolweight());
         }}
       />
     </div>
@@ -59,8 +54,6 @@ function Board({ setIdCode, setIdx, setMw }: BoardProps): JSX.Element {
 
 export function DrawStructure({
   setIdCode,
-  setIdx,
-  setMw,
   search,
   setSearch,
 }: DrawStructureProps): JSX.Element {
@@ -69,7 +62,7 @@ export function DrawStructure({
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
       className="w-[950px]"
-      content={<Board setIdCode={setIdCode} setIdx={setIdx} setMw={setMw} />}
+      content={<Board setIdCode={setIdCode} />}
     />
   );
 }

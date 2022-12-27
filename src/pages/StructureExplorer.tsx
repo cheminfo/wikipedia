@@ -13,6 +13,8 @@ interface StructureExplorerProps {
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
+export type SearchType = 'substructure' | 'exact' | 'similarity';
+
 export function StructureExplorer({
   showAbout,
   setShowAbout,
@@ -22,12 +24,11 @@ export function StructureExplorer({
       data: { molecules },
     },
     loading,
+    db,
   } = useDataContext();
 
   const [idCode, setIdCode] = useState('');
-  const [idx, setIdx] = useState<number[]>([]);
-  const [mw, setMw] = useState(0);
-  const [search, setSearch] = useState('');
+  const [search, setSearch] = useState<SearchType>('substructure');
 
   return (
     <div className="">
@@ -51,17 +52,14 @@ export function StructureExplorer({
               <div className="flex justify-center space-x-5">
                 <DrawStructure
                   setIdCode={setIdCode}
-                  setIdx={setIdx}
-                  setMw={setMw}
                   setSearch={setSearch}
                   search={search}
                 />
                 <MoleculeList
                   molecules={molecules}
                   idCode={idCode}
-                  idx={idx}
-                  mw={mw}
                   search={search}
+                  db={db}
                 />
               </div>
               <Wikipedia />

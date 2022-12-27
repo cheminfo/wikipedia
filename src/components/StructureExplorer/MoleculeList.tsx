@@ -1,4 +1,5 @@
-import { SSSearcherWithIndex } from 'openchemlib/minimal';
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import { MoleculesDB } from 'openchemlib-utils';
 import { CSSProperties, useEffect, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
@@ -6,6 +7,7 @@ import { FixedSizeGrid as Grid } from 'react-window';
 
 import { IMolecule } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
+import { SearchType } from '../../pages/StructureExplorer';
 import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
@@ -21,20 +23,8 @@ interface MoleculesProps {
 interface MoleculeListProps {
   molecules: IMolecule[];
   idCode: string;
-  idx: number[];
-  mw: number;
-  search: string;
-}
-
-interface ISimilarity {
-  idx: number[];
-  molecules: IMolecule[];
-  mw: number;
-}
-
-interface ISimObj {
-  mol: IMolecule;
-  sim: number;
+  search: SearchType;
+  db: MoleculesDB;
 }
 
 function Filter({ filter, setFilter }: FilterProps): JSX.Element {
@@ -73,18 +63,38 @@ const cell =
       const mol = molecules[columnIndex + rowIndex * 3];
       return (
         <div style={style} className="overflow-x-hidden">
-          <MoleculeInfo mol={mol} />
+          {mol && <MoleculeInfo mol={mol} />}
         </div>
       );
     }
     return null;
   };
+
+function dbToMolecules(moleculeDb: any): IMolecule[] {
+  const molecules: IMolecule[] = [];
+  for (const entry of moleculeDb) {
+    const data = entry.data;
+    molecules.push({
+      id: data.id,
+      code: data.code,
+      smiles: data.smiles,
+      mf: { type: 'string', value: data.mf },
+      em: data.em,
+      mw: entry.properties.mw,
+      actID: { type: 'string', value: entry.idCode },
+      // eslint-disable-next-line camelcase
+      act_idx: entry.index,
+    });
+  }
+  return molecules;
+}
+
 function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
     if (selectedTitle === '') {
-      setSelectedTitle(molecules[0].code);
+      setSelectedTitle(molecules[0]?.code);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -104,7 +114,7 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
           <Grid
             columnCount={colItemsCount}
             columnWidth={width / colItemsCount - 2}
-            rowCount={getRowCount(molecules.length)}
+            rowCount={getRowCount(molecules.length) || 0}
             rowHeight={height / 2}
             width={width}
             height={height}
@@ -127,66 +137,32 @@ export function MoleculeList({
   molecules,
   idCode,
   search,
-  idx,
-  mw,
+  db,
 }: MoleculeListProps): JSX.Element {
   const [filter, setFilter] = useState('');
   const [mols, setMols] = useState(molecules);
 
-  function similarityTab({ idx, molecules, mw }: ISimilarity): IMolecule[] {
-    let similarity;
-    let simTab: ISimObj[] = [];
-    molecules.forEach((mol) => {
-      if (idCode === mol.actID.value) {
-        similarity = 1e10;
-      } else {
-        similarity =
-          SSSearcherWithIndex.getSimilarityTanimoto(idx, mol.act_idx) * 100000 -
-          Math.abs(mw - mol.mw) / 1000;
-      }
-      simTab = [...simTab, { mol, sim: similarity }];
-    });
-    simTab.sort((a, b) => b.sim - a.sim);
-    return simTab.map((sim) => sim.mol);
-  }
-
-  function searchExact(molecules: IMolecule[]): IMolecule[] {
-    if (idCode !== 'd@' && idCode !== null) {
-      return molecules.filter((mol) => idCode === mol.actID.value);
+  function searchMols(): IMolecule[] {
+    if (idCode !== 'd@' && idCode !== null && idCode !== '') {
+      return dbToMolecules(
+        db.search(idCode, {
+          format: 'idCode',
+          mode: search,
+        }),
+      );
     }
     return molecules;
   }
 
-  // TO DO:
-  function searchSubstructure(molecules: IMolecule[]): IMolecule[] {
-    return molecules;
-  }
-
-  function searchSimilarity({ idx, molecules, mw }: ISimilarity): IMolecule[] {
-    if (idCode !== 'd@' && idCode !== null) {
-      return similarityTab({ idx, molecules, mw });
-    }
-    return molecules;
-  }
-
-  function searchMols({ idx, molecules, mw }: ISimilarity): IMolecule[] {
-    if (search === 'exact') {
-      return searchExact(molecules);
-    } else if (search === 'similarity') {
-      return searchSimilarity({ idx, molecules, mw });
-    } else {
-      return searchSubstructure(molecules);
-    }
-  }
-
-  function filterMols(molecules: IMolecule[]): IMolecule[] {
+  function filterMols(molecules: IMolecule[] = mols): IMolecule[] {
     return molecules.filter((mol) =>
       mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
     );
   }
 
   useEffect(() => {
-    setMols(searchMols({ idx, molecules: filterMols(molecules), mw }));
+    const result = searchMols();
+    setMols(filterMols(result));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filter, search, idCode]);
 

@@ -20,6 +20,7 @@ export interface IMolecule {
   act_idx: number[];
   actID: { type: string; value: string };
 }
+
 interface DataState {
   count: {
     date: string;
@@ -108,8 +109,6 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
         }
 
         setDb(moleculesDB);
-        // eslint-disable-next-line no-alert
-        alert(JSON.stringify(moleculesDB.getDB()));
       })
       .then(() => {
         setLoading(false);
