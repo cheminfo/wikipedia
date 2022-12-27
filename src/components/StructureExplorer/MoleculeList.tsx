@@ -20,11 +20,15 @@ interface FilterProps {
 interface MoleculesProps {
   molecules: IMolecule[];
 }
-interface MoleculeListProps {
-  molecules: IMolecule[];
+interface MoleculeListProps extends MoleculesProps {
   idCode: string;
   search: SearchType;
   db: MoleculesDB;
+}
+interface CellProps {
+  columnIndex: number;
+  rowIndex: number;
+  style: CSSProperties;
 }
 
 function Filter({ filter, setFilter }: FilterProps): JSX.Element {
@@ -51,11 +55,7 @@ function Filter({ filter, setFilter }: FilterProps): JSX.Element {
     </div>
   );
 }
-interface CellProps {
-  columnIndex: number;
-  rowIndex: number;
-  style: CSSProperties;
-}
+
 const cell =
   (molecules: IMolecule[]) =>
   ({ columnIndex, rowIndex, style }: CellProps) => {

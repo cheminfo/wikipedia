@@ -14,16 +14,12 @@ interface SMILESErrorTableProps {
   data: ISMILEError[];
 }
 
-interface ContentRowProps {
-  id: number;
-  smiles: string;
-  error: string;
+interface ContentRowProps extends ISMILEError {
   setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
 }
 
-interface SMILESErrorsProps {
+interface SMILESErrorsProps extends SMILESErrorTableProps {
   number: number;
-  data: ISMILEError[];
 }
 
 function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
