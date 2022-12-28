@@ -124,7 +124,6 @@ Potassium ferrocyanide	[K+].[K+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[K+].[K+]
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
-Mustard gas	ClCCSCCCl
 Phosgene	ClC(Cl)=O
 Phenytoin	C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
@@ -17248,7 +17247,7 @@ Manganese pentacarbonyl bromide	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+
 Aplysioviolin	CC=C1C(C(=O)N=C1C=C2C(=C(C(=CC3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)CCC(=O)OC)N2)CCC(=O)O)C)C
 C-1027	[H]N1C(=O)C(=C)OC2=CC(OC)=CC(C(=O)O[C@H]3COC(=O)C[C@@H](C4=CC(O)=C(O[C@]5([H])C6=C(C=C3C=C6)C3=CC=C[C@]53O[C@@H]3OC(C)(C)[C@H]([C@@H](O)[C@H]3O)N(C)C)C(Cl)=C4)[N+]([H])([H])[H])=C12
 C-1027	CC1([C@H]([C@H]([C@H]([C@@H](O1)O[C@]23C=CC=C2C#C/C/4=C\C#C[C@H]3OC5=C(C=C(C=C5Cl)[C@H](CC(=O)OC[C@@H]4OC(=O)C6=CC(=CC7=C6NC(=O)C(=C)O7)OC)N)O)O)O)N(C)C)C
-Dichloro(1,5‐cyclooctadiene)palladium	C1CC=CCCC=C1.Cl[Pd]Cl
+Dichloro(1,5-cyclooctadiene)palladium	C1CC=CCCC=C1.Cl[Pd]Cl
 Cyclopentasilane	[SiH2]1[SiH2][SiH2][SiH2][SiH2]1
 Calotropin	CC1CC(C2(C(O1)OC3CC4CCC5C(C4(CC3O2)C=O)CCC6(C5(CCC6C7=CC(=O)OC7)O)C)O)O
 Filicin	CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)CCC)(C)C)O)O)CC3=C(C(C(=O)C(=C3O)C(=O)CCC)(C)C)O)O
@@ -19829,3 +19828,4 @@ DODC	Clc1c(OC)cc(CC(C)N)c(OC)c1Cl
 Orsellinaldehyde	CC1=CC(=CC(=C1C=O)O)O
 Anditomin	C[C@]12C[C@@H]3C(=O)OC[C@]34C(=C)C(C1=O)[C@@H]5[C@@]4(C2)CC[C@@H]6[C@@]5(C=CC(=O)OC6(C)C)C
 Phosphorus tricyanide	N#CP(C#N)C#N
+Bis(2-chloroethyl)sulfide	ClCCSCCCl
