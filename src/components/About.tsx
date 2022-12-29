@@ -39,7 +39,7 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
               leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
             >
               <Dialog.Panel className="flex h-full flex-col justify-center bg-white sm:h-fit sm:max-w-xl sm:rounded-xl sm:shadow-xl">
-                <div className="flex justify-between space-x-2 bg-lightblue px-5 pb-2 pt-8 font-medium text-darkblue sm:rounded-t-xl sm:pt-2">
+                <div className="flex justify-between space-x-2 bg-lightblue px-5 py-2 font-medium text-darkblue sm:rounded-t-xl sm:pt-2">
                   <Dialog.Title>
                     About Wikipedia Chemical Structure Explorer
                   </Dialog.Title>
@@ -59,7 +59,7 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
 
 function AboutContent() {
   return (
-    <div className="flex h-full flex-col space-y-5 p-5 sm:h-auto">
+    <div className="scrollbar flex h-full flex-col space-y-5 overflow-y-auto p-5 pb-20 sm:h-auto sm:pb-5">
       <p>
         Wikipedia Chemical Structure Explorer: Substructure and similarity
         searching of molecules from Wikipedia Peter Ertl, Luc Patiny, Thomas
