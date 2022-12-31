@@ -13738,7 +13738,7 @@ Crotyl chloride	C/C=C/CCl
 Tetrafluoroberyllate	[Be-2](F)(F)(F)F
 Marmesin	CC(C)([C@@H]1CC2=C(O1)C=C3C(=C2)C=CC(=O)O3)O
 1-Nonylnaphthalene	CCCCCCCCCc1cccc2c1cccc2
-Hexafluorotitanic acid	[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
+Ammonium hexafluorotitanate	[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
 Ailanthone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@]([C@@H](C(=C)[C@@H]4CC(=O)O3)O)(OC5)O)C)O
 Hexaethyl tetraphosphate	[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O.CC.CC.CC.CC.CC.CC.[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O
 Petroselinic acid	CCCCCCCCCCC\C=C/CCCCC(O)=O
@@ -19832,3 +19832,4 @@ Phosphorus tricyanide	N#CP(C#N)C#N
 Bis(2-chloroethyl)sulfide	ClCCSCCCl
 Hydrogen ozonide	OO[O]
 Thenylfentanyl	CCC(=O)N(C1CCN(CC1)CC2=CC=CS2)C3=CC=CC=C3
+Hexafluorotitanic acid	[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
