@@ -19635,7 +19635,7 @@ Despropionyl-p-fluorofentanyl	Fc3ccc(NC2CCN(CCc1ccccc1)CC2)cc3
 Furanyl norfentanyl	O=C(C1=CC=CO1)N(C2CCNCC2)C3=CC=CC=C3
 Norfentanyl	CCC(=O)N(C1CCNCC1)C2=CC=CC=C2
 P-Methoxyfentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)OC
-Remifentanil acid	CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)O)C(=O)OC
+Remifentanilic acid	CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)O)C(=O)OC
 Dioxamycin	C[C@H]1[C@@H](O[C@@](O1)(C)C(=O)O)/C=C/C=C/C=C/C(=O)OC2CC[C@@H](O[C@@H]2C)C3=C(C4=C(C=C3)C(=O)C5=C(C4=O)C=C[C@]6([C@@]5(C(=O)[C@@H]([C@@](C6)(C)O)O)O)O)O
 Lanthanum(III) iodide	I[La](I)I
 Chlorphoxim	CCOP(=S)(OCC)O/N=C(\C#N)/C1=CC=CC=C1Cl
@@ -19833,3 +19833,4 @@ Bis(2-chloroethyl)sulfide	ClCCSCCCl
 Hydrogen ozonide	OO[O]
 Thenylfentanyl	CCC(=O)N(C1CCN(CC1)CC2=CC=CS2)C3=CC=CC=C3
 Hexafluorotitanic acid	[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
+Ytterbium(II) iodide	[I-].[I-].[Yb+2]
