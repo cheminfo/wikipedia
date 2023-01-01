@@ -1,3 +1,4 @@
+import { useEffect, useRef, useState } from 'react';
 import { StructureEditor } from 'react-ocl/full';
 
 import { SearchType } from '../../pages/StructureExplorer';
@@ -39,11 +40,29 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
 }
 
 function Board({ setIdCode }: BoardProps): JSX.Element {
+  const BREAKPOINT = 1024;
+  const refParent = useRef<HTMLDivElement>(null);
+
+  const [boardWidth, setBoardWidth] = useState(
+    window.innerWidth <= BREAKPOINT ? refParent.current?.offsetWidth : 470,
+  );
+
+  useEffect(() => {
+    const handleResize = () =>
+      setBoardWidth(
+        window.innerWidth <= BREAKPOINT ? refParent.current?.offsetWidth : 470,
+      );
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
   return (
-    <div className="mt-6">
+    <div className="mt-8 lg:mt-10" ref={refParent}>
       <StructureEditor
         height={385}
-        width={510}
+        width={boardWidth}
         onChange={(molfile, molecule) => {
           setIdCode(molecule.getIDCode());
         }}
@@ -61,7 +80,7 @@ export function DrawStructure({
     <SimpleTable
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
-      className="w-[950px]"
+      className=""
       content={<Board setIdCode={setIdCode} />}
     />
   );

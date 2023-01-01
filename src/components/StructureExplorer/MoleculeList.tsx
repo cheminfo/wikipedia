@@ -102,11 +102,25 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const BREAKPOINT1 = 1100;
   const BREAKPOINT2 = 1024;
   const BREAKPOINT3 = 700;
-  let colItemsCount =
+  const [colItemsCount, setColItemsCount] = useState(
     (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
-    window.innerWidth <= BREAKPOINT3
+      window.innerWidth <= BREAKPOINT3
       ? 2
-      : 3;
+      : 3,
+  );
+  useEffect(() => {
+    const handleResize = () =>
+      setColItemsCount(
+        (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
+          window.innerWidth <= BREAKPOINT3
+          ? 2
+          : 3,
+      );
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
 
   function getRowCount(molLen: number) {
     if (molLen % colItemsCount === 0) {
