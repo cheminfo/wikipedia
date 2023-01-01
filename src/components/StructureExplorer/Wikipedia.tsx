@@ -34,8 +34,8 @@ function WikiPage(): JSX.Element {
               myHtml
                 .replace(/\/\//g, 'https://')
                 .replace(
-                  '</style>',
-                  'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #eaebed; } ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
+                  /<\/style>/,
+                  'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; height: 0px } ::-webkit-scrollbar-track { background: #92bedf;} ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
                 ),
             ],
             { type: 'text/html' },
@@ -48,13 +48,7 @@ function WikiPage(): JSX.Element {
 
   return (
     <div className="h-[65vh]">
-      <iframe
-        src={url}
-        color="red"
-        height="100%"
-        width="100%"
-        className="w-full"
-      />
+      <iframe src={url} height="100%" width="100%" className="w-full" />
     </div>
   );
 }
