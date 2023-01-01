@@ -12,10 +12,10 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
 
   return (
     <div
-      className="flex h-48 flex-col items-center justify-between overflow-hidden border py-1 text-xs font-bold hover:bg-[#EAEBED]"
+      className="flex h-[217px] flex-col items-center justify-between overflow-hidden border py-1 text-xs font-bold hover:bg-[#EAEBED]"
       onClick={() => setSelectedTitle(mol.code)}
     >
-      <div className="">{mol.code}</div>
+      <div className="text-center">{mol.code}</div>
       <div className="">
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
       </div>

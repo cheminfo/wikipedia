@@ -99,21 +99,34 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  const BREAKPOINT1 = 1100;
+  const BREAKPOINT2 = 1024;
+  const BREAKPOINT3 = 700;
+  let colItemsCount =
+    (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
+    window.innerWidth <= BREAKPOINT3
+      ? 2
+      : 3;
+
   function getRowCount(molLen: number) {
-    if (molLen % 3 === 0) {
-      return molLen / 3;
+    if (molLen % colItemsCount === 0) {
+      return molLen / colItemsCount;
     } else {
-      return molLen / 3 + 1;
+      return molLen / colItemsCount + 1;
     }
   }
-  const colItemsCount = 3;
+
   return (
-    <div className="h-96 w-full overflow-x-hidden">
+    <div className="h-[434px] w-full overflow-x-hidden">
       <AutoSizer>
         {({ height, width }) => (
           <Grid
             columnCount={colItemsCount}
-            columnWidth={width / colItemsCount - 2}
+            columnWidth={
+              colItemsCount === 3
+                ? width / colItemsCount - 2
+                : width / colItemsCount - 3
+            }
             rowCount={getRowCount(molecules.length) || 0}
             rowHeight={height / 2}
             width={width}
@@ -128,10 +141,10 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   );
 }
 
-function Pagination(): JSX.Element {
-  // TO DO: add pagination
-  return <div className="flex justify-center py-1">Page x/x</div>;
-}
+// function Pagination(): JSX.Element {
+//   // TO DO: add pagination
+//   return <div className="flex justify-center py-1">Page x/x</div>;
+// }
 
 export function MoleculeList({
   molecules,
@@ -169,8 +182,8 @@ export function MoleculeList({
   return (
     <SimpleTable
       option={<Filter filter={filter} setFilter={setFilter} />}
-      className="w-full"
-      footer={<Pagination />}
+      className="h-full w-full"
+      // footer={<Pagination />}
       content={<Molecules molecules={mols} />}
     />
   );
