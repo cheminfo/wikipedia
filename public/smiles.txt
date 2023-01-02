@@ -124,6 +124,7 @@ Potassium ferrocyanide	[K+].[K+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[K+].[K+]
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
+Mustard gas	ClCCSCCCl
 Phosgene	ClC(Cl)=O
 Phenytoin	C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
@@ -19834,3 +19835,4 @@ Hydrogen ozonide	OO[O]
 Thenylfentanyl	CCC(=O)N(C1CCN(CC1)CC2=CC=CS2)C3=CC=CC=C3
 Hexafluorotitanic acid	[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
 Ytterbium(II) iodide	[I-].[I-].[Yb+2]
+Protonated ozone	O[O+]=O
