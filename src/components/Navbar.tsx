@@ -30,7 +30,7 @@ export function Navbar({ setShowAbout }: NavbarProps): JSX.Element {
   return (
     <div className="fixed z-10 w-full">
       <div className="z-50 flex items-center justify-between bg-darkblue px-4 py-2 text-lightgray sm:px-16">
-        <a href="/" className="hidden text-lg sm:block 2xl:text-2xl">
+        <a href="/" className="sm:text-lg 2xl:text-2xl">
           Wikipedia Chemical Structure Explorer
         </a>
         <nav className="hidden space-x-12 xl:block">
