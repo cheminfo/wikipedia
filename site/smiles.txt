@@ -4944,6 +4944,7 @@ Halcinonide	ClCC(=O)[C@]45OC(O[C@@H]5C[C@@H]2[C@@]4(C[C@H](O)[C@]3(F)[C@@]1(/C(=
 Phenylglyoxal	O=C(C=O)c1ccccc1
 10-Deacetylbaccatin	CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1O)O)OC(=O)C5=CC=CC=C5)(CO4)OC(=O)C)O)C)O
 O-Acetylpsilocin	CC(=O)Oc2cccc1[nH]cc(CCN(C)C)c12
+Isoxazolidine	C1CNOC1
 Hydroxycitric acid	O=C(O)C(O)C(O)(C(=O)O)CC(=O)O
 Triphenyltin hydride	c1c(cccc1)[Sn](c2ccccc2)c3ccccc3
 Triphenyltin hydride	[H][Sn](C2=CC=CC=C2)(C3=CC=CC=C3)C1=CC=CC=C1
@@ -19836,3 +19837,4 @@ Thenylfentanyl	CCC(=O)N(C1CCN(CC1)CC2=CC=CS2)C3=CC=CC=C3
 Hexafluorotitanic acid	[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Ti+4]
 Ytterbium(II) iodide	[I-].[I-].[Yb+2]
 Protonated ozone	O[O+]=O
+1,3,5,7-Tetramethyl-1,3,5,7-tetrasilaadamantane	C[Si]12C[Si]3(C[Si](C1)(C[Si](C2)(C3)C)C)C
