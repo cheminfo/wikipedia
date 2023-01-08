@@ -71,7 +71,7 @@ function AboutContent() {
           rel="noreferrer"
           className="underline"
         >
-          DOI: /10.1186/s13321-015-0061-y
+          DOI: 10.1186/s13321-015-0061-y
         </a>
       </p>
       <p>

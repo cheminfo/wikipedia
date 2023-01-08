@@ -155,11 +155,6 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   );
 }
 
-// function Pagination(): JSX.Element {
-//   // TO DO: add pagination
-//   return <div className="flex justify-center py-1">Page x/x</div>;
-// }
-
 export function MoleculeList({
   molecules,
   idCode,
@@ -197,7 +192,6 @@ export function MoleculeList({
     <SimpleTable
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
-      // footer={<Pagination />}
       content={<Molecules molecules={mols} />}
     />
   );
