@@ -1,12 +1,14 @@
 import { Transition } from '@headlessui/react';
 import clsx from 'clsx';
 import { useState } from 'react';
+import { useLocation } from 'react-router-dom';
 
 interface NavbarProps {
+  showAbout: boolean;
   setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export function Navbar({ setShowAbout }: NavbarProps): JSX.Element {
+export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
   const [isOpen, setIsOpen] = useState(false);
   const sections = [
     { name: 'Explore structures', link: '/' },
@@ -14,12 +16,13 @@ export function Navbar({ setShowAbout }: NavbarProps): JSX.Element {
     { name: 'Download SMILES', link: '/smiles.txt' },
   ];
 
+  const location = useLocation();
   const NavbarLinks = sections.map((section) => (
     <a
       key={section.name}
-      href={section.link}
+      href={section.link === '/smiles.txt' ? section.link : `#${section.link}`}
       className={clsx('hover:text-lightblue', {
-        'text-lightblue': window.location.pathname === section.link,
+        'text-lightblue': location.pathname === section.link,
       })}
       {...(section.link === '/smiles.txt' && { download: 'smiles.txt' })}
     >
@@ -37,7 +40,9 @@ export function Navbar({ setShowAbout }: NavbarProps): JSX.Element {
           {NavbarLinks}
           <button
             type="button"
-            className="hover:text-lightblue"
+            className={clsx('hover:text-lightblue', {
+              'text-lightblue': showAbout,
+            })}
             onClick={() => setShowAbout(true)}
           >
             About
