@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { MoleculesDB } from 'openchemlib-utils';
-import { CSSProperties, useEffect, useState } from 'react';
+import { CSSProperties, useEffect, useMemo, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
@@ -162,7 +162,6 @@ export function MoleculeList({
   db,
 }: MoleculeListProps): JSX.Element {
   const [filter, setFilter] = useState('');
-  const [mols, setMols] = useState(molecules);
 
   function searchMols(): IMolecule[] {
     if (idCode !== 'd@' && idCode !== null && idCode !== '') {
@@ -182,9 +181,9 @@ export function MoleculeList({
     );
   }
 
-  useEffect(() => {
+  const mols = useMemo(() => {
     const result = searchMols();
-    setMols(filterMols(result));
+    return filterMols(result);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filter, search, idCode]);
 
