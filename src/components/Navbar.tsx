@@ -1,7 +1,7 @@
 import { Transition } from '@headlessui/react';
 import clsx from 'clsx';
 import { useState } from 'react';
-import { useLocation } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 interface NavbarProps {
   showAbout: boolean;
@@ -13,29 +13,33 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
   const sections = [
     { name: 'Explore structures', link: '/' },
     { name: 'Browse errors', link: '/errors' },
-    { name: 'Download SMILES', link: '/smiles.txt' },
+    { name: 'Download SMILES', link: '/smiles.txt', download: 'smiles.txt' },
   ];
 
-  const location = useLocation();
-  const NavbarLinks = sections.map((section) => (
-    <a
-      key={section.name}
-      href={section.link === '/smiles.txt' ? section.link : `#${section.link}`}
-      className={clsx('hover:text-lightblue', {
-        'text-lightblue': location.pathname === section.link,
-      })}
-      {...(section.link === '/smiles.txt' && { download: 'smiles.txt' })}
-    >
-      {section.name}
-    </a>
-  ));
+  const NavbarLinks = sections.map((section) =>
+    section.download ? (
+      <a key={section.name} href={section.link} download={section.download}>
+        {section.name}
+      </a>
+    ) : (
+      <NavLink
+        key={section.name}
+        to={section.link}
+        className={({ isActive }) =>
+          clsx('hover:text-lightblue', { 'text-lightblue': isActive })
+        }
+      >
+        {section.name}
+      </NavLink>
+    ),
+  );
 
   return (
     <div className="fixed z-10 w-full">
       <div className="z-50 flex items-center justify-between bg-darkblue px-4 py-2 text-lightgray sm:px-16">
-        <a href="/" className="sm:text-lg 2xl:text-2xl">
+        <Link to="/" className="sm:text-lg 2xl:text-2xl">
           Wikipedia Chemical Structure Explorer
-        </a>
+        </Link>
         <nav className="hidden space-x-12 xl:block">
           {NavbarLinks}
           <button
