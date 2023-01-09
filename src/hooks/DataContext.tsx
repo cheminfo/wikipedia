@@ -95,17 +95,11 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
 
         for (const entry of myJson.data.molecules) {
           const molecule = OCL.Molecule.fromIDCode(entry.actID.value, false);
-          moleculesDB.pushEntry(
-            molecule,
-            {
-              id: entry.id,
-              code: entry.code,
-              smiles: entry.smiles,
-              mf: entry.mf.value,
-              em: entry.em,
-            },
-            { index: entry.act_idx, idCode: entry.actID.value, mw: entry.mw },
-          );
+          moleculesDB.pushEntry(molecule, entry, {
+            index: entry.act_idx,
+            idCode: entry.actID.value,
+            mw: entry.mw,
+          });
         }
 
         setDb(moleculesDB);

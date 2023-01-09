@@ -75,17 +75,7 @@ function dbToMolecules(moleculeDb: any): IMolecule[] {
   const molecules: IMolecule[] = [];
   for (const entry of moleculeDb) {
     const data = entry.data;
-    molecules.push({
-      id: data.id,
-      code: data.code,
-      smiles: data.smiles,
-      mf: { type: 'string', value: data.mf },
-      em: data.em,
-      mw: entry.properties.mw,
-      actID: { type: 'string', value: entry.idCode },
-      // eslint-disable-next-line camelcase
-      act_idx: entry.index,
-    });
+    molecules.push(data);
   }
   return molecules;
 }
