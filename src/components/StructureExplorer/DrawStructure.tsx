@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { StructureEditor } from 'react-ocl/full';
+import useResizeObserver, { ObservedSize } from 'use-resize-observer';
 
 import { SearchType } from '../../pages/StructureExplorer';
 import SimpleTable from '../SimpleTable';
@@ -41,23 +42,31 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
 
 function Board({ setIdCode }: BoardProps): JSX.Element {
   const BREAKPOINT = 1024;
+  const windowSize = useRef(window.innerWidth);
   const refParent = useRef<HTMLDivElement>(null);
 
-  const [boardWidth, setBoardWidth] = useState(
-    window.innerWidth <= BREAKPOINT ? refParent.current?.offsetWidth : 470,
+  const [boardWidth, setBoardWidth] = useState<number>(
+    (windowSize.current <= BREAKPOINT && refParent.current?.offsetWidth) || 470,
   );
 
-  useEffect(() => {
-    const handleResize = () =>
-      setBoardWidth(
-        window.innerWidth <= BREAKPOINT ? refParent.current?.offsetWidth : 470,
-      );
-    window.addEventListener('resize', handleResize);
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
+  const handleResize = (ref: ObservedSize) =>
+    setBoardWidth((windowSize.current <= BREAKPOINT && ref.width) || 470);
 
+  useResizeObserver<HTMLDivElement>({
+    ref: refParent,
+    onResize: (ref) => {
+      handleResize(ref);
+    },
+  });
+
+  useEffect(() => {
+    if (refParent.current) {
+      setBoardWidth(
+        (window.innerWidth <= BREAKPOINT && refParent.current.offsetWidth) ||
+          470,
+      );
+    }
+  }, []);
   return (
     <div className="mt-8 lg:mt-10" ref={refParent}>
       <StructureEditor

@@ -4,6 +4,7 @@ import { CSSProperties, useEffect, useMemo, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
+import useResizeObserver from 'use-resize-observer';
 
 import { IMolecule } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
@@ -102,25 +103,27 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   const BREAKPOINT1 = 1100;
   const BREAKPOINT2 = 1024;
   const BREAKPOINT3 = 700;
+
   const [colItemsCount, setColItemsCount] = useState(
     (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
       window.innerWidth <= BREAKPOINT3
       ? 2
       : 3,
   );
-  useEffect(() => {
-    const handleResize = () =>
-      setColItemsCount(
-        (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
-          window.innerWidth <= BREAKPOINT3
-          ? 2
-          : 3,
-      );
-    window.addEventListener('resize', handleResize);
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
+
+  const handleResize = () =>
+    setColItemsCount(
+      (window.innerWidth <= BREAKPOINT1 && window.innerWidth > BREAKPOINT2) ||
+        window.innerWidth <= BREAKPOINT3
+        ? 2
+        : 3,
+    );
+
+  const { ref } = useResizeObserver<HTMLDivElement>({
+    onResize: () => {
+      handleResize();
+    },
+  });
 
   function getRowCount(molLen: number) {
     if (molLen % colItemsCount === 0) {
@@ -131,7 +134,7 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
   }
 
   return (
-    <div className="h-[434px] w-full overflow-x-hidden">
+    <div className="h-[434px] w-full overflow-x-hidden" ref={ref}>
       <AutoSizer>
         {({ height, width }) => (
           <Grid
