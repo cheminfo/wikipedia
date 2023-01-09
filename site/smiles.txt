@@ -1859,7 +1859,7 @@ Phosphorus pentachloride	ClP(Cl)(Cl)(Cl)Cl
 Phosphorus trichloride	ClP(Cl)Cl
 Atrazine	Clc1nc(nc(n1)NC(C)C)NCC
 Indium antimonide	[In]#[Sb]
-Benserazide	O=C(NNCc1c(O)c(O)c(O)cc1)C(N)CO
+Benserazide	NC(CO)C(=O)NNCC1=C(O)C(O)=C(O)C=C1
 Chlormethine	CN(CCCl)CCCl
 Phosphorus tribromide	BrP(Br)Br
 Silver sulfadiazine	[Ag+].O=S(=O)([N-]c1ncccn1)c2ccc(N)cc2
@@ -19839,3 +19839,7 @@ Ytterbium(II) iodide	[I-].[I-].[Yb+2]
 Protonated ozone	O[O+]=O
 1,3,5,7-Tetramethyl-1,3,5,7-tetrasilaadamantane	C[Si]12C[Si]3(C[Si](C1)(C[Si](C2)(C3)C)C)C
 Decabromodiphenyl ethane	C(CC1=C(C(=C(C(=C1Br)Br)Br)Br)Br)C2=C(C(=C(C(=C2Br)Br)Br)Br)Br
+1,3-Dimethoxybenzene	COC1=CC(=CC=C1)OC
+7F-5-MeO-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2F)OC
+Succinprotocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3COC(=O)CCC(=O)O)O)C(=O)O)C)C=O)O
+Porfiromycin	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4C)N
