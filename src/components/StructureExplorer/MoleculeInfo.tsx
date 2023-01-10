@@ -1,3 +1,4 @@
+import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
 import { IMolecule } from '../../hooks/DataContext';
@@ -22,7 +23,9 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       <div className="">
         <div className="flex space-x-3">
           <div className="">MF:</div>
-          <div className="font-normal">{mol.mf.value}</div>
+          <div className="font-normal">
+            <MF mf={mol.mf.value} />
+          </div>
         </div>
         <div className="flex space-x-2">
           <div className="">MW:</div>
