@@ -2417,6 +2417,7 @@ Neopterin	O=C2\N=C(/Nc1ncc(nc12)[C@H](O)[C@H](O)CO)N
 Neopterin	C1=C(N=C2C(=N1)NC(=NC2=O)N)C(C(CO)O)O
 Hydroxytropacocaine	O=C(O[C@@H]1C[C@@H]2N(C)[C@](O)(C1)CC2)c3ccccc3
 Butalbital	O=C1NC(=O)NC(=O)C1(CC(C)C)C\C=C
+Ditungsten tetra(hpp)	[W+2]$[W+2].N\2=C1/[N-]CCCN1CCC/2.N\2=C1/[N-]CCCN1CCC/2.N\2=C1/[N-]CCCN1CCC/2.N\2=C1/[N-]CCCN1CCC/2
 Arsenic acid	O[As+](O)([O-])O
 Quazepam	FC(F)(F)CN1C(=S)C/N=C(\c2cc(Cl)ccc12)c3ccccc3F
 Cetyl alcohol	OCCCCCCCCCCCCCCCC
@@ -7673,6 +7674,7 @@ Taranabant	C[C@@H]([C@@H](CC1=CC=C(C=C1)Cl)C2=CC=CC(=C2)C#N)NC(=O)C(C)(C)OC3=NC=
 Ridaforolimus	CC1CCC2CC(/C(=C/C=C/C=C/C(CC(C(=O)C(C(/C(=C/C(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
 Mepixanox	COC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3O2)CN4CCCCC4
 Dimefline	O=C\1c3c(O/C(=C/1C)c2ccccc2)c(c(OC)cc3)CN(C)C
+Potassium octachlorodimolybdate	[K+].[K+].[K+].[K+].Cl[Mo-2](Cl)(Cl)(Cl)$[Mo-2](Cl)(Cl)(Cl)Cl
 Phenanthridine	C1=CC=C2C(=C1)C=NC3=CC=CC=C23
 Allylnorpethidine	O=C(OCC)C2(c1ccccc1)CCN(C\C=C)CC2
 Levophenacylmorphan	C1CC[C@@]23CCN([C@@H]([C@@H]2C1)CC4=C3C=C(C=C4)O)CC(=O)C5=CC=CC=C5
@@ -14345,6 +14347,7 @@ SB-243213	CC1=C(C(F)(F)F)C=C(N(C(NC2=CN=C(OC3=C(C)N=CC=C3)C=C2)=O)CC4)C4=C1
 Trimethylsilyl cyclopentadiene	C[Si](C)(C)C1C=CC=C1
 Karstedt's catalyst	C[Si](C)(C=C)O[Si](C)(C)C=C.[Pt]
 2-Acetylfuran	CC(=O)C1=CC=CO1
+Potassium octachlorodirhenate	[K+].[K+].[K+].[K+].Cl[Re-2](Cl)(Cl)(Cl)$[Re-2](Cl)(Cl)(Cl)Cl
 Chlorobis(dppe)iron hydride	Cl[FeH-4]56([P+](c1ccccc1)(c2ccccc2)CC[P+]5(c3ccccc3)c4ccccc4)[P+](c1ccccc1)(c2ccccc2)CC[P+]6(c3ccccc3)c4ccccc4
 Inotodiol	C[C@@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)[C@@H](CC=C(C)C)O
 Hispolon	CC(=O)C=C(C=CC1=CC(=C(C=C1)O)O)O
@@ -19908,3 +19911,4 @@ Succinprotocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3COC(=O)CCC(=O)O)
 Porfiromycin	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4C)N
 ZC-B	COC1=CC(=C(C=C1C2CNC2)OC)Br
 Caesium telluride	[Cs][Te][Cs]
+Jedi1	CC1=C(C=C(O1)C2=CC=CC=C2)C(=O)O
