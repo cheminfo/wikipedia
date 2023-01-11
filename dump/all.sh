@@ -6,10 +6,10 @@ npm ci
 
 echo "Fetching data from Wikipedia"
 # get everything and generate data.json
-node wiki.js ids
-node wiki.js rev
-node wiki.js update
-node wiki.js parse -p
+node wiki-ids.js
+node wiki-rev.js
+node wiki-update.js
+node wiki-parse.js -p
 
 # pull again to avoid conflicts, then commit the new data
 echo "Publishing data"

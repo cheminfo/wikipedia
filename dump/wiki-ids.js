@@ -22,6 +22,7 @@ try {
 }
 console.log(`${total.length} Total`);
 console.log(`Before : ${oldIds.length}`);
+fs.mkdirSync('./data', { recursive: true });
 fs.writeFileSync('./data/ids.json', JSON.stringify(total));
 
 function getForTemplate(templateName) {
@@ -39,7 +40,7 @@ function getForTemplate(templateName) {
 // https://en.wikipedia.org/w/api.php?action=query&list=embeddedin&eititle=Template:Infobox_drug&continue&einamespace=0
 // Template:Chembox
 async function getList(templateName, eicontinue) {
-  let param = {
+  const param = {
     action: 'query',
     list: 'embeddedin',
     eititle: `Template:${templateName}`,

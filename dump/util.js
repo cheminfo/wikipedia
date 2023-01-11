@@ -1,23 +1,17 @@
-import superagent from 'superagent';
-
-export function request(options) {
-  options.format = 'json';
-  return new Promise((resolve, reject) => {
-    superagent
-      .get('https://en.wikipedia.org/w/api.php')
-      .set(
-        'User-Agent',
-        'WikipediaSMILES/1.0 (https://wikipedia.cheminfo.org) SuperAgent/1.0',
-      )
-      .query(options)
-      .end((err, res) => {
-        if (err) {
-          reject(err);
-        } else {
-          resolve(res.body);
-        }
-      });
+export async function request(params) {
+  const url = new URL('https://en.wikipedia.org/w/api.php');
+  if (params) {
+    url.search = new URLSearchParams(params);
+    url.searchParams.set('format', 'json');
+  }
+  const response = await fetch(url, {
+    headers: {
+      Accept: 'application/json',
+      'User-Agent':
+        'WikipediaSMILES/1.0 (https://wikipedia.cheminfo.org) fetch/1.0',
+    },
   });
+  return response.json();
 }
 
 export function getPagePath(id) {

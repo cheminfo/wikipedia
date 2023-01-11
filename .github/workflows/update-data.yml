@@ -33,10 +33,10 @@ jobs:
       - name: Update data
         run: |
           cd dump
-          node wiki.js ids
-          node wiki.js rev
-          node wiki.js update
-          node wiki.js parse -p
+          node wiki-ids.js
+          node wiki-rev.js
+          node wiki-update.js
+          node wiki-parse.js -p
       - name: Commit changes
         run: |
           git config --local user.email "admin@cheminfo.org"
