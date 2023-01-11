@@ -1,4 +1,6 @@
 /dist
+/dump/data
+/node_modules
 /public
 /site
 /stats.json
