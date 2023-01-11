@@ -1,16 +1,40 @@
 import fs from 'node:fs';
+import { parseArgs } from 'node:util';
 
-import Chemcalc from 'chemcalc';
-import program from 'commander';
-import ACT from 'openchemlib';
+import { MF } from 'mf-parser';
+import OCL from 'openchemlib';
 import ProgressBar from 'progress';
 
 import * as util from './util.js';
 
-program
-  .option('-l, --limit <n>', 'Limit number of parsed pages', parseInt, 0)
-  .option('-p, --publish', 'Publish the final data file')
-  .parse(process.argv);
+const { values: args } = parseArgs({
+  strict: true,
+  options: {
+    limit: {
+      type: 'string',
+      short: 'l',
+      default: '0',
+    },
+    publish: {
+      type: 'boolean',
+      short: 'p',
+      default: false,
+    },
+    help: {
+      type: 'boolean',
+      short: 'h',
+    },
+  },
+});
+
+if (args.help) {
+  console.log(`node wiki-parse.js
+Options:
+  --limit <n> (short: -l) Limit number of parsed pages
+  --publish   (short: -p) Publish the final data file
+  `);
+  process.exit(0);
+}
 
 const regChembox = /{{ *chembox/i;
 const regDrugbox = /{{ *drugbox/i;
@@ -88,8 +112,8 @@ let smilesList = [];
 let idcodeList = [];
 let length = pageList.length;
 
-if (program.limit) {
-  length = Math.min(program.limit, length);
+if (args.limit !== '0') {
+  length = Math.min(Number(args.limit), length);
 }
 
 console.log(`${length} pages to parse`);
@@ -100,7 +124,7 @@ let bar = new ProgressBar('  [:bar] :current treated', {
   total: length,
 });
 
-let uniq = {}; // Keep a hashmap of pageID + actelionID to prevent duplicates
+let uniq = {}; // Keep a hashmap of pageID + idCode to prevent duplicates
 
 for (let i = 0; i < length; i++) {
   let id = pageList[i].id;
@@ -115,7 +139,7 @@ for (let i = 0; i < length; i++) {
   if (smiles.length) {
     for (let j = 0; j < smiles.length; j++) {
       try {
-        let molecule = ACT.Molecule.fromSmiles(smiles[j]);
+        let molecule = OCL.Molecule.fromSmiles(smiles[j]);
         allError = false; // At least one SMILES is good for this file
         let idcode = molecule.getIDCode();
         let uniqid = `${id}_${idcode}`;
@@ -123,12 +147,11 @@ for (let i = 0; i < length; i++) {
           dup.push(id);
           continue; // If exact same molecule is already present for this page, skip
         }
-        let mf = molecule.getMolecularFormula().formula;
+        const oclMF = molecule.getMolecularFormula().formula;
         result = {
           id: page.id,
           code: page.title,
           smiles: smiles[j],
-          mf: { type: 'mf', value: mf },
           mw: 0,
           em: 0,
           // eslint-disable-next-line camelcase
@@ -138,12 +161,14 @@ for (let i = 0; i < length; i++) {
         smilesList.push(`${page.title}\t${smiles[j]}`);
         idcodeList.push(`${idcode}\t${page.title}`);
         try {
-          let chemcalc = Chemcalc.analyseMF(mf);
-          result.mw = chemcalc.mw;
-          result.em = chemcalc.em;
+          const mf = new MF(oclMF);
+          const info = mf.getInfo();
+          result.mf = { type: 'mf', value: mf.toMF() };
+          result.mw = info.mass;
+          result.em = info.monoisotopicMass;
         } catch (e) {
           // MF parsing error
-          console.error(`\nchemcalc could not parse the following MF: ${mf}`);
+          console.error(`\ncould not parse the following MF: ${oclMF}`);
           console.error(e);
         }
         results.push(result);
@@ -210,8 +235,8 @@ fs.writeFileSync('./data/data.json', pubStr);
 fs.writeFileSync('./data/smiles.txt', smilesList);
 fs.writeFileSync('./data/idcode.txt', idcodeList);
 
-if (program.publish) {
-  if (program.limit) {
+if (args.publish) {
+  if (args.limit !== '0') {
     console.error('Cannot publish partial data');
   } else {
     // Copying data in the public site directory

@@ -44,7 +44,7 @@ function getNextEntries() {
 // https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids&pageids=1912|4191
 // Max 50 page ids at the same time
 
-function getRevisions(ids) {
+async function getRevisions(ids) {
   let param = {
     action: 'query',
     prop: 'revisions',
@@ -52,18 +52,17 @@ function getRevisions(ids) {
     continue: '',
     pageids: ids.join(['|']),
   };
-  return util.request(param).then((result) => {
-    let pages = result.query.pages;
-    for (let i = 0; i < ids.length; i++) {
-      let page = pages[ids[i]];
-      if (page) {
-        revisions.push({
-          id: page.pageid,
-          rev: page.revisions[0].revid,
-        });
-      } else {
-        missing.push(ids[i]);
-      }
+  const result = await util.request(param);
+  const pages = result.query.pages;
+  for (let i = 0; i < ids.length; i++) {
+    const page = pages[ids[i]];
+    if (page) {
+      revisions.push({
+        id: page.pageid,
+        rev: page.revisions[0].revid,
+      });
+    } else {
+      missing.push(ids[i]);
     }
-  });
+  }
 }

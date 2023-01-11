@@ -116,7 +116,7 @@ function savePage(id, content) {
 
 // https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
 // Max 50 page ids at the same time
-function getPages(pages) {
+async function getPages(pages) {
   let param = {
     action: 'query',
     prop: 'revisions',
@@ -124,28 +124,27 @@ function getPages(pages) {
     continue: '',
     pageids: pages.map((page) => page.id).join(['|']),
   };
-  return util.request(param).then((result) => {
-    let resPages = result.query.pages;
-    for (let i in resPages) {
-      if (i === '0') {
-        continue;
-      }
-      let page = resPages[i];
-      let pageJSON = JSON.stringify(
-        {
-          id: page.pageid,
-          title: page.title,
-          content: page.revisions[0]['*'],
-        },
-        null,
-        2,
-      );
-      savePage(page.pageid, pageJSON);
-      for (let j = 0; j < pages.length; j++) {
-        if (pages[j].id === page.pageid) {
-          markUpdated(pages[j]);
-        }
+  const result = await util.request(param);
+  const resPages = result.query.pages;
+  for (let i in resPages) {
+    if (i === '0') {
+      continue;
+    }
+    const page = resPages[i];
+    const pageJSON = JSON.stringify(
+      {
+        id: page.pageid,
+        title: page.title,
+        content: page.revisions[0]['*'],
+      },
+      null,
+      2,
+    );
+    savePage(page.pageid, pageJSON);
+    for (let j = 0; j < pages.length; j++) {
+      if (pages[j].id === page.pageid) {
+        markUpdated(pages[j]);
       }
     }
-  });
+  }
 }
