@@ -168,6 +168,7 @@ for (let i = 0; i < length; i++) {
           result.em = info.monoisotopicMass;
         } catch (e) {
           // MF parsing error
+          result.mf = { type: 'mf', value: oclMF };
           console.error(`\ncould not parse the following MF: ${oclMF}`);
           console.error(e);
         }
