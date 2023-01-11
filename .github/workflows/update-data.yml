@@ -15,15 +15,15 @@ jobs:
           token: ${{ secrets.BOT_TOKEN }}
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
           cache: npm
       - name: Install dependencies
         run: npm ci
       - name: Get dates for cache
         id: dates
         run: |
-          echo "::set-output name=now::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d 'yesterday' +'%Y-%m-%d')"
+          echo "now=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d 'yesterday' +'%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: Cache data
         uses: actions/cache@v3
         with:
