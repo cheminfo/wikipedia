@@ -12,7 +12,7 @@ There are two ways for having the website on a local server.
 
 ### Zip archive
 
-You can download the latest version directly on [GitHub](https://github.com/cheminfo/wikipedia/archive/master.zip).
+You can download the latest version directly on [GitHub](https://github.com/cheminfo/wikipedia/archive/main.zip).
 
 ### Easy updates with git
 
