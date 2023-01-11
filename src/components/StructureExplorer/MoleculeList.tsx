@@ -156,7 +156,7 @@ export function MoleculeList({
 }: MoleculeListProps): JSX.Element {
   const [filter, setFilter] = useState('');
 
-  function searchMols(): IMolecule[] {
+  const molSearchResult = useMemo(() => {
     if (idCode !== 'd@' && idCode !== null && idCode !== '') {
       return dbToMolecules(
         db.search(idCode, {
@@ -166,25 +166,19 @@ export function MoleculeList({
       );
     }
     return molecules;
-  }
+  }, [idCode, molecules, db, search]);
 
-  function filterMols(molecules: IMolecule[] = mols): IMolecule[] {
-    return molecules.filter((mol) =>
+  const molFiltered = useMemo(() => {
+    return molSearchResult.filter((mol) =>
       mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
     );
-  }
-
-  const mols = useMemo(() => {
-    const result = searchMols();
-    return filterMols(result);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [filter, search, idCode]);
+  }, [filter, molSearchResult]);
 
   return (
     <SimpleTable
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
-      content={<Molecules molecules={mols} />}
+      content={<Molecules molecules={molFiltered} />}
     />
   );
 }

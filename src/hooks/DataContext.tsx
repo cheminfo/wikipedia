@@ -1,5 +1,5 @@
-import OCL from 'openchemlib';
 import { MoleculesDB } from 'openchemlib-utils';
+import OCL from 'openchemlib/full';
 import {
   createContext,
   ReactNode,
