@@ -6,6 +6,8 @@ This application as been [published here](https://doi.org/10.1186/s13321-015-006
 
 <https://wikipedia.cheminfo.org>
 
+Preview of the new version: <https://wcse.pages.dev/>
+
 ## Install locally
 
 There are two ways for having the website on a local server.
