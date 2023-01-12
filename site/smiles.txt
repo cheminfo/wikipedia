@@ -16373,6 +16373,7 @@ Androsterone glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC
 Etiocholanolone glucuronide	C[C@]12CC[C@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 Testosterone glucuronide	[H][C@@]12CC[C@H](O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
 Testosterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OS(=O)(=O)O)CCC4=CC(=O)CC[C@]34C
+Phyllocladane	C[C@H]1C[C@@]23CC[C@@H]4[C@@]([C@@H]2CC[C@H]1C3)(CCCC4(C)C)C
 1,2-Difluoroethane	C(CF)F
 Laurenene	C[C@@H]1CCC[C@@]2(C)CC[C@@H]3C(C)(C)C[C@@]4(C)CC=C1[C@]324
 Bicyclo(1.1.1)pentane	C1C2CC1C2
@@ -19912,3 +19913,7 @@ Porfiromycin	CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4C)
 ZC-B	COC1=CC(=C(C=C1C2CNC2)OC)Br
 Caesium telluride	[Cs][Te][Cs]
 Jedi1	CC1=C(C=C(O1)C2=CC=CC=C2)C(=O)O
+Euniolide	C/C/1=C\CC[C@@]2([C@H](O2)C[C@@H]3[C@H](C/C(=C/CC1)/C)OC(=O)C3=C)C
+Chloral cyanohydrin	C(#N)C(C(Cl)(Cl)Cl)O
+Clotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4Cl
+Lexipafant	CCOC(=O)C(CC(C)C)N(C)S(=O)(=O)C1=CC=C(C=C1)CN2C(=NC3=C2C=CN=C3)C
