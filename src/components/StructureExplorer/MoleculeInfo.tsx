@@ -12,8 +12,9 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
   const { setSelectedTitle } = useIdContext();
 
   return (
-    <div
-      className="flex h-[217px] flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs hover:bg-lightgray"
+    <button
+      type="button"
+      className="flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs hover:bg-lightgray"
       onClick={() => setSelectedTitle(mol.code)}
     >
       <div className="text-center font-bold">{mol.code}</div>
@@ -29,6 +30,6 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
           <div>{mol.mw.toFixed(2)}</div>)
         </div>
       </div>
-    </div>
+    </button>
   );
 }
