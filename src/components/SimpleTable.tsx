@@ -17,8 +17,8 @@ export default function SimpleTable(props: SimpleTableProps): JSX.Element {
       )}
     >
       <div className="flex items-center justify-between rounded-t-lg bg-lightblue px-5 py-2 text-darkblue">
-        <div className="">{props.title}</div>
-        <div className="">{props.option}</div>
+        <div className="font-semibold">{props.title}</div>
+        <div className="font-normal">{props.option}</div>
       </div>
       <div className={props.height}>{props.content}</div>
     </div>
