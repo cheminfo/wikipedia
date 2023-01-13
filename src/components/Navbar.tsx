@@ -1,7 +1,10 @@
+/* eslint-disable import/no-absolute-path */
 import { Transition } from '@headlessui/react';
 import clsx from 'clsx';
 import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
+
+import github from '/logo/github.png';
 
 interface NavbarProps {
   showAbout: boolean;
@@ -18,7 +21,12 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
 
   const NavbarLinks = sections.map((section) =>
     section.download ? (
-      <a key={section.name} href={section.link} download={section.download}>
+      <a
+        key={section.name}
+        href={section.link}
+        download={section.download}
+        className="hover:text-lightblue"
+      >
         {section.name}
       </a>
     ) : (
@@ -57,12 +65,7 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
           target="_blank"
           rel="noreferrer"
         >
-          <button
-            type="button"
-            className="hidden rounded-lg border py-1.5 px-4 font-semibold transition duration-150 ease-in-out hover:bg-white hover:text-darkblue xl:block"
-          >
-            Fork me on GitHub
-          </button>
+          <img src={github} alt="github" className="hidden h-10 xl:block" />
         </a>
         {/* hamburger menu */}
         <div className="flex xl:hidden">
@@ -136,12 +139,7 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
               target="_blank"
               rel="noreferrer"
             >
-              <button
-                type="button"
-                className="rounded-lg border py-1.5 px-4 font-semibold transition duration-150 ease-in-out hover:bg-white hover:text-darkblue"
-              >
-                Fork me on GitHub
-              </button>
+              <img src={github} alt="github" className="h-10 xl:hidden" />
             </a>
           </nav>
         </div>
