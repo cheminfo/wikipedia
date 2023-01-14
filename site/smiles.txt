@@ -128,7 +128,6 @@ Potassium ferrocyanide	[K+].[K+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[K+].[K+]
 Pentaerythritol tetranitrate	C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
 Clozapine	CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl
 Calcium carbonate	[Ca+2].[O-]C([O-])=O
-Mustard gas	ClCCSCCCl
 Phosgene	ClC(Cl)=O
 Phenytoin	C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
 Sucralose	Cl[C@H]2[C@H](O[C@H](O[C@@]1(O[C@@H]([C@@H](O)[C@@H]1O)CCl)CCl)[C@H](O)[C@H]2O)CO
@@ -19917,3 +19916,5 @@ Euniolide	C/C/1=C\CC[C@@]2([C@H](O2)C[C@@H]3[C@H](C/C(=C/CC1)/C)OC(=O)C3=C)C
 Chloral cyanohydrin	C(#N)C(C(Cl)(Cl)Cl)O
 Clotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4Cl
 Lexipafant	CCOC(=O)C(CC(C)C)N(C)S(=O)(=O)C1=CC=C(C=C1)CN2C(=NC3=C2C=CN=C3)C
+Scandium acetate	CC(=O)O.CC(=O)O.CC(=O)O.[Sc]
+Buntanetap	C[C@]12CCN([C@H]1N(C3=C2C=C(C=C3)OC(=O)NC4=CC=CC=C4)C)C
