@@ -2,6 +2,7 @@ import clsx from 'clsx';
 
 interface SimpleTableProps {
   title?: string;
+  footer?: JSX.Element;
   option?: JSX.Element;
   content: JSX.Element;
   className?: string;
@@ -21,6 +22,9 @@ export default function SimpleTable(props: SimpleTableProps): JSX.Element {
         <div className="">{props.option}</div>
       </div>
       <div className={props.height}>{props.content}</div>
+      <div className="rounded-b-lg bg-lightblue text-darkblue">
+        {props.footer}
+      </div>
     </div>
   );
 }

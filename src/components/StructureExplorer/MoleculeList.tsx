@@ -6,7 +6,7 @@ import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
 import useResizeObserver from 'use-resize-observer';
 
-import { IMolecule } from '../../hooks/DataContext';
+import { IMolecule, useDataContext } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
 import { SearchType } from '../../pages/StructureExplorer';
 import SimpleTable from '../SimpleTable';
@@ -30,6 +30,26 @@ interface CellProps {
   columnIndex: number;
   rowIndex: number;
   style: CSSProperties;
+}
+
+interface MolListFooterProps {
+  filteredMolCount: number;
+}
+
+function MolListFooter({ filteredMolCount }: MolListFooterProps): JSX.Element {
+  const {
+    allData: {
+      count: { molecules },
+    },
+  } = useDataContext();
+  return (
+    <div className="flex justify-center gap-x-2 py-1">
+      <div className="font-normal">Matching molecules :</div>
+      <div className="">
+        {filteredMolCount}/{molecules}
+      </div>
+    </div>
+  );
 }
 
 function Filter({ filter, setFilter }: FilterProps): JSX.Element {
@@ -178,6 +198,7 @@ export function MoleculeList({
     <SimpleTable
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
+      footer={<MolListFooter filteredMolCount={molFiltered.length} />}
       content={<Molecules molecules={molFiltered} />}
     />
   );
