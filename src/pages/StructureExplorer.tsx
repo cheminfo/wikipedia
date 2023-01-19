@@ -39,7 +39,7 @@ export function StructureExplorer({
         <div>
           <About showAbout={showAbout} setShowAbout={setShowAbout} />
           <IdContextProvider>
-            <div className="px-10 pt-14 sm:px-20 xl:px-28 2xl:px-60">
+            <div className="px-10 pt-5 sm:px-20 xl:px-28 2xl:px-60">
               <div className="flex flex-col justify-center lg:flex-row lg:space-x-5">
                 <DrawStructure
                   setIdCode={setIdCode}
