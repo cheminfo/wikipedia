@@ -84,7 +84,8 @@ function AboutContent() {
       </p>
       <p>
         This project is the result of a collaboration between Novartis, Ecole
-        Polytechnique Fédérale de Lausanne and Actelion.
+        Polytechnique Fédérale de Lausanne, Actelion and maintained by Zakodium
+        Sàrl.
       </p>
     </div>
   );

@@ -13,9 +13,10 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   return (
-    <div
+    <button
+      type="button"
       className={clsx(
-        'flex h-[217px] flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
+        'flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
         {
           'border-darkgray bg-darkgray': mol.code === selectedTitle,
           'hover:bg-lightgray': mol.code !== selectedTitle,
@@ -36,6 +37,6 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
           <div>{mol.mw.toFixed(2)}</div>)
         </div>
       </div>
-    </div>
+    </button>
   );
 }

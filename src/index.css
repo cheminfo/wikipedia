@@ -19,7 +19,7 @@ body {
 /* Track */
 ::-webkit-scrollbar-track {
   background: #eaebed;
-  margin-top: 54px;
+  margin-top: 56px;
 }
 
 .scrollbar::-webkit-scrollbar-track {
