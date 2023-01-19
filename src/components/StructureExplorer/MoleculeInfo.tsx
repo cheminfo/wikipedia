@@ -1,5 +1,3 @@
-import clsx from 'clsx';
-import { useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
@@ -13,14 +11,11 @@ interface MoleculeInfoProps {
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
   const { setSelectedTitle } = useIdContext();
-  const [showWikiBtn, setShowWikiBtn] = useState(false);
 
   return (
     <div
-      className="flex h-[217px] flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs hover:bg-lightgray"
+      className="group flex h-[217px] flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs hover:bg-lightgray"
       onClick={() => setSelectedTitle(mol.code)}
-      onMouseEnter={() => setShowWikiBtn(true)}
-      onMouseLeave={() => setShowWikiBtn(false)}
     >
       <div className="mx-5 text-center font-bold">{mol.code}</div>
       <a
@@ -28,15 +23,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <AiOutlineQuestionCircle
-          className={clsx(
-            'absolute top-1.5 right-2 cursor-help text-xl text-darkblue',
-            {
-              'opacity-0': !showWikiBtn,
-              'transform transition-all duration-200 ease-in-out': showWikiBtn,
-            },
-          )}
-        />
+        <AiOutlineQuestionCircle className="absolute top-1.5 right-2 transform cursor-help text-xl text-darkblue opacity-0 transition-all duration-200 ease-in-out group-hover:opacity-100" />
       </a>
       <div>
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
