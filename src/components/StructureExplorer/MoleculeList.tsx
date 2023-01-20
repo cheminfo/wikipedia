@@ -196,6 +196,7 @@ export function MoleculeList({
 
   return (
     <SimpleTable
+      title="Search results"
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
       footer={<MolListFooter filteredMolCount={molFiltered.length} />}
