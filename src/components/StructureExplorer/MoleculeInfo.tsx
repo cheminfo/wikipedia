@@ -1,3 +1,4 @@
+import clsx from 'clsx';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
@@ -9,12 +10,18 @@ interface MoleculeInfoProps {
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
-  const { setSelectedTitle } = useIdContext();
+  const { selectedTitle, setSelectedTitle } = useIdContext();
 
   return (
     <button
       type="button"
-      className="flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs hover:bg-lightgray"
+      className={clsx(
+        'flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
+        {
+          'border-darkgray bg-darkgray': mol.code === selectedTitle,
+          'hover:bg-lightgray': mol.code !== selectedTitle,
+        },
+      )}
       onClick={() => setSelectedTitle(mol.code)}
     >
       <div className="text-center font-bold">{mol.code}</div>
