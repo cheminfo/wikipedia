@@ -11425,7 +11425,6 @@ Norvaline	CCC[C@H](C(=O)O)N
 Gallane	[GaH3]
 GSK 299423	COc1ccc2c(c1)c(c(cn2)C#N)CCN3CCC(CC3)NCc4cc5c(cn4)OCS5
 BNC-210	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
-Dihydroxymethylidene	O[C]O
 JWH-019	c3cccc2c3cccc2C(=O)c1cn(CCCCCC)c4c1cccc4
 Methylcyclopentane	CC1CCCC1
 Hexyl acetate	O=C(OCCCCCC)C
@@ -19928,3 +19927,6 @@ Fluoroethane	C(C(F)
 Scandium perrhenate	[Sc+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-]
 Scandium perrhenate	[Sc+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O.O.O
 Tetrapropyltin	CCC[Sn](CCC)(CCC)CCC
+2-Octanone	CCCCCCC(=O)C
+4-Bromophenylacetic acid	C1=CC(=CC=C1CC(=O)O)Br
+Nadic anhydride	C1C2C=CC1C3C2C(=O)OC3=O
