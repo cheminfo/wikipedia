@@ -1,0 +1,20 @@
+.well-plate-well-bottom {
+    height:35px;
+    width: 35px;
+    background-color: #ddd; 
+    border-radius: 35px;
+    margin: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border-color: #ddd;
+    border-style: solid;
+  }
+  .well-plate-well-top {
+    height: 90%;
+    width: 90%;
+    border-radius: 50%;
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+}

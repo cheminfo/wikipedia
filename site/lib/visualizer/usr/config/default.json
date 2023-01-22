@@ -50,6 +50,10 @@
 		{
 			"file": "usr/filters/markdown",
 			"name": "Markdown to HTML"
+		},
+		{
+			"file": "usr/filters/yaml2json",
+			"name": "Yaml to JSON"
 		}
 	],
 	"modules": {
@@ -73,6 +77,10 @@
 					{
 						"moduleName": "Protein Feature Viewer",
 						"url": "modules/types/bio/feature_viewer/"
+					},
+					{
+						"moduleName": "Sequence alignment displayer",
+						"url": "modules/types/bio/seq_alignment/"
 					},
 					{
 						"moduleName": "Sequence displayer",
@@ -262,7 +270,8 @@
 				"modules": [
 					{
 						"moduleName": "Edit/Display",
-						"url": "modules/types/edition/dualview/"
+						"url": "modules/types/edition/dualview/",
+						"hidden": true
 					},
 					{
 						"moduleName": "Filter editor",
@@ -279,6 +288,10 @@
 					{
 						"moduleName": "Rich text editor",
 						"url": "modules/types/edition/rich_text/"
+					},
+					{
+						"moduleName": "Quill text editor",
+						"url": "modules/types/edition/quill_editor/"
 					},
 					{
 						"moduleName": "Simple Form",
@@ -299,40 +312,6 @@
 				],
 				"folders": {},
 				"name": "Edition"
-			},
-			"Legacy": {
-				"modules": [
-					{
-						"moduleName": "Button url",
-						"url": "modules/types/legacy/button_url/"
-					},
-					{
-						"moduleName": "Filter",
-						"url": "modules/types/legacy/filter/"
-					},
-					{
-						"moduleName": "Hashmap display",
-						"url": "modules/types/legacy/hashmap/"
-					},
-					{
-						"moduleName": "Selector",
-						"url": "modules/types/legacy/grid_selector/"
-					},
-					{
-						"moduleName": "Two dimensional list",
-						"url": "modules/types/legacy/filelistupload/"
-					},
-					{
-						"moduleName": "Var Editor",
-						"url": "modules/types/legacy/var_editor/"
-					},
-					{
-						"moduleName": "Webservice Crontab",
-						"url": "modules/types/legacy/webservice_cron/"
-					}
-				],
-				"folders": {},
-				"name": "Legacy"
 			},
 			"Science": {
 				"modules": [],
@@ -359,6 +338,16 @@
 						"folders": {},
 						"name": "Chemistry"
 					},
+					"Biology": {
+						"modules": [
+							{
+								"moduleName": "Well plate",
+								"url": "modules/types/science/biology/well_plate/"
+							}
+						],
+						"folders": {},
+						"name": "Biology"
+					},
 					"Spectra modules": {
 						"modules": [
 							{
@@ -377,10 +366,6 @@
 						"folders": {
 							"nmr": {
 								"modules": [
-									{
-										"moduleName": "1D NMR",
-										"url": "modules/types/science/spectra/nmr/1dnmr/"
-									},
 									{
 										"moduleName": "2D NMR",
 										"url": "modules/types/science/spectra/nmr/2dnmr/"

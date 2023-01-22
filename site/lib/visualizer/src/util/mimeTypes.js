@@ -1,1 +1,1 @@
-"use strict";define(["mime-types"],function(a){return{lookup:function(b,c){var d=a.lookup(b);return!d&&/\.j?dx$/i.test(b)&&(d="chemical/x-jcamp-dx"),d||(d=c),d}}});
+'use strict';define(["mime-types"],function(a){"use strict";return{lookup:function(b,c){var d=a.lookup(b);return(!d||c)&&(/\.j?dx$/i.test(b)?d="chemical/x-jcamp-dx":/\.gbk?$/i.test(b)?d="chemical/seq-na-genbank":/\.genbank$/i.test(b)?d="chemical/seq-na-genbank":/\.(fasta|fa|fna)$/i.test(b)?d="chemical/seq-na-fasta":/\.(mpfa|faa)$/i.test(b)&&(d="chemical/seq-aa-fasta")),d}}});

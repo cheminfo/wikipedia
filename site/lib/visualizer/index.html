@@ -12,6 +12,13 @@
                 margin: 0;
             }
         </style>
+        <script>
+            /*
+             * Do not remove. This is to make sure bluebird is correctly loaded
+             * for browsers that don't have the Promise global.
+             */
+            window.Promise = undefined;
+        </script>
     </head>
     <body>
         <div id="ci-visualizer"></div>

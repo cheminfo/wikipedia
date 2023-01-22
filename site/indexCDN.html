@@ -1,61 +1,50 @@
 <!DOCTYPE html>
 <html>
-
 <head lang="en">
-  <meta charset="UTF-8">
-  <title>Wikipedia Chemical Structure Explorer</title>
-  <link rel="stylesheet" href="style.css" type="text/css" />
-  <script data-main="src/mainCDN"
-    src="https://www.lactame.com/visualizer/v2.51.0/components/requirejs/require.js"></script>
+    <meta charset="UTF-8">
+    <title>Wikipedia Chemical Structure Explorer</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <script data-main="src/mainCDN" src="https://www.lactame.com/visualizer/v2.156.0/components/requirejs/require.js"></script>
 </head>
-
 <body>
 
-  <div id="wp-header">
+<div id="wp-header">
     Wikipedia Chemical Structure Explorer&nbsp;
     <a href="https://www.novartis.com" target="_blank"><img alt="Novartis" src="logo/novartis.svg" height=30></a>&nbsp;
     <a href="https://www.epfl.ch" target="_blank"><img alt="EPFL" src="logo/epfl.svg" height=30></a>
     <a href="https://www.actelion.com" target="_blank"><img alt="Actelion" src="logo/actelion.jpg" height=30></a>&nbsp;
     <span id="wp-header-right">
-      <a href="#" id="wikipediaLayerSwitch" data-current-page="main" onclick="switchLayer()">Browse
-        errors</a>&nbsp;&nbsp;&nbsp;
-      <a href="smiles.txt" target="_blank">Download SMILES</a>&nbsp;&nbsp;&nbsp;
-      <a href="#" onclick="showAbout()">About</a>
+        <a href="#" id="wikipediaLayerSwitch" data-current-page="main" onclick="switchLayer()">Browse errors</a>&nbsp;&nbsp;&nbsp;
+        <a href="smiles.txt" target="_blank">Download SMILES</a>&nbsp;&nbsp;&nbsp;
+        <a href="#" onclick="showAbout()">About</a>
     </span>
     <a href="https://github.com/cheminfo/wikipedia" target="_blank">
-      <img id="wp-gh-link" src="logo/github-forkme.png" alt="Fork me on GitHub">
+        <img id="wp-gh-link" src="logo/github-forkme.png" alt="Fork me on GitHub">
     </a>
-  </div>
+</div>
 
 
-  <div id="ci-visualizer" data-ci-config="src/json/config.json" data-ci-view="src/json/view.json"
-    data-ci-data="src/json/data.json"></div>
-  <script>
-    if (document.location.search.indexOf('admin') > -1) {
-      document.getElementById('ci-visualizer').setAttribute('data-ci-config', 'src/json/admin.json');
+<div id="ci-visualizer" data-ci-config="src/json/config.json" data-ci-view="src/json/view.json" data-ci-data="src/json/data.json"></div>
+<script>
+    if(document.location.search.indexOf('admin') > -1) {
+        document.getElementById('ci-visualizer').setAttribute('data-ci-config', 'src/json/admin.json');
     }
-  </script>
+</script>
 
-  <div id="aboutDialog" style="font-size: large; display: none">
-    <p>
-      Wikipedia Chemical Structure Explorer: Substructure and similarity searching of molecules from Wikipedia
-      Peter Ertl, Luc Patiny, Thomas Sander, Christian Rufener and Michaël Zasso, <i>Journal of Cheminformatics</i>
-      <b>2015</b>.
-      <a href="https://dx.doi.org/10.1186/s13321-015-0061-y" target="_blank">DOI: /10.1186/s13321-015-0061-y</a>.
-    </p>
-    <p>&nbsp;</p>
-    <p>
-      Wikipedia, the world's largest and most popular encyclopedia is an indispensable source of chemistry information,
-      containing among others also entries for over 15,000 chemicals including metabolites, drugs, agrochemicals or
-      industrial chemicals. We provide here an easy access to this wealth of information by allowing substructure and
-      similarity search tool for chemical structures referenced in Wikipedia.
-    </p>
-    <p>&nbsp;</p>
-    <p>This project is the result of a collaboration between Novartis, Ecole Polytechnique Fédérale de Lausanne and
-      Actelion.</p>
+<div id="aboutDialog" style="font-size: large; display: none">
+<p>
+Wikipedia Chemical Structure Explorer: Substructure and similarity searching of molecules from Wikipedia
+Peter Ertl, Luc Patiny, Thomas Sander, Christian Rufener and Michaël Zasso, <i>Journal of Cheminformatics</i> <b>2015</b>.
+<a href="https://dx.doi.org/10.1186/s13321-015-0061-y" target="_blank">DOI: /10.1186/s13321-015-0061-y</a>.
+</p>
+<p>&nbsp;</p>
+<p>
+Wikipedia, the world's largest and most popular encyclopedia is an indispensable source of chemistry information, containing among others also entries for over 15,000 chemicals including metabolites, drugs, agrochemicals or industrial chemicals. We provide here an easy access to this wealth of information by allowing substructure and similarity search tool for chemical structures referenced in Wikipedia.
+</p>
+<p>&nbsp;</p>
+<p>This project is the result of a collaboration between Novartis, Ecole Polytechnique Fédérale de Lausanne and Actelion.</p>
 
-  </div>
+</div>
 
 </body>
-
 </html>
