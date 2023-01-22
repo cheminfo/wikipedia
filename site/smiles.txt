@@ -4594,7 +4594,7 @@ ETH-LAD	CCN(C([C@@H]1C=C2C3=CC=CC4=C3C(C[C@H]2N(CC)C1)=CN4)=O)CC
 PRO-LAD	CCN(CC)C(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C2)CCC)c34
 BU-LAD	CCN(CC)C(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C2)CCCC)c34
 PARGY-LAD	CCN(CC)C(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C2)CC#C)c34
-4-Aminobiphenyl	c2c(c1ccc(N)cc1)cccc2
+4-Aminobiphenyl	c1ccccc1c2ccc(N)cc2
 Bromocresol purple	Brc1c(O)c(cc(c1)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c(Br)c4)C)C
 Indigo carmine	[Na+].[Na+].[O-]S(=O)(=O)c3cc4C(=O)\C(=C2\C(=O)c1cc(ccc1N2)S([O-])(=O)=O)Nc4cc3
 Daunosamine	C[C@@H]([C@H]([C@H](CC=O)N)O)O
@@ -12125,6 +12125,7 @@ Tris(2-pyridylmethyl)amine	c1ccnc(c1)CN(Cc2ccccn2)Cc3ccccn3
 Conolidine	CC(=O)NC(=NCCC[C@H]1C(=O)N2CCC[C@@H]2C(=O)N[C@H]3C[C@H](N(C3=O)[C@H](C(=O)N[C@H](C(=O)N1)CCCC(=O)O)CC4=CN=CN4)O)N
 Triazane	NNN
 Triphosphane	PPP
+Arecatannin	OC1=C2C(=C(C(O)=C1)[C@H]3C=4C(O[C@@H]([C@@H]3O)C5=CC(O)=C(O)C=C5)=CC(O)=CC4O)O[C@@H]([C@H](O)[C@H]2C6=C7C(C[C@H](O)[C@H](O7)C8=CC(O)=C(O)C=C8)=C(O)C=C6O)C9=CC(O)=C(O)C=C9
 1-Chloro-1,1-difluoroethane	CC(F)(F)Cl
 Ponatinib	Cc1ccc(cc1C#Cc2cnc3n2nccc3)C(=O)Nc4ccc(c(c4)C(F)(F)F)CN5CCN(CC5)C
 Geniposidic acid	O=C(O)\C2=C\O[C@@H](O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)[C@@H]3C(=C/C[C@H]23)\CO
