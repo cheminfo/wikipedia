@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { MoleculesDB } from 'openchemlib-utils';
-import { CSSProperties, useEffect, useMemo, useState } from 'react';
+import { CSSProperties, useEffect, useMemo, useRef, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
@@ -20,8 +20,11 @@ interface FilterProps {
 
 interface MoleculesProps {
   molecules: IMolecule[];
+  gridRef: React.RefObject<Grid<any>>;
 }
-interface MoleculeListProps extends MoleculesProps {
+
+interface MoleculeListProps {
+  molecules: IMolecule[];
   idCode: string;
   search: SearchType;
   db: MoleculesDB;
@@ -100,7 +103,7 @@ function dbToMolecules(moleculeDb: any): IMolecule[] {
   return molecules;
 }
 
-function Molecules({ molecules }: MoleculesProps): JSX.Element {
+function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
@@ -148,6 +151,7 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
       <AutoSizer>
         {({ height, width }) => (
           <Grid
+            ref={gridRef}
             columnCount={colItemsCount}
             columnWidth={
               colItemsCount === 3
@@ -188,7 +192,14 @@ export function MoleculeList({
     return molecules;
   }, [idCode, molecules, db, search]);
 
+  const gridRef = useRef<Grid>(null);
+
+  const goToTop = () => {
+    gridRef.current?.scrollTo({ scrollTop: 0 });
+  };
+
   const molFiltered = useMemo(() => {
+    goToTop();
     return molSearchResult.filter((mol) =>
       mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
     );
@@ -200,7 +211,7 @@ export function MoleculeList({
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
       footer={<MolListFooter filteredMolCount={molFiltered.length} />}
-      content={<Molecules molecules={molFiltered} />}
+      content={<Molecules gridRef={gridRef} molecules={molFiltered} />}
     />
   );
 }
