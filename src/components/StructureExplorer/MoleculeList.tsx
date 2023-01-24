@@ -1,6 +1,13 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { MoleculesDB } from 'openchemlib-utils';
-import { CSSProperties, useEffect, useMemo, useRef, useState } from 'react';
+import {
+  CSSProperties,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  useLayoutEffect,
+} from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
@@ -192,17 +199,20 @@ export function MoleculeList({
     return molecules;
   }, [idCode, molecules, db, search]);
 
+  const molFiltered = useMemo(() => {
+    return molSearchResult.filter((mol) =>
+      mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
+    );
+  }, [filter, molSearchResult]);
+
   const gridRef = useRef<Grid>(null);
 
   const goToTop = () => {
     gridRef.current?.scrollTo({ scrollTop: 0 });
   };
 
-  const molFiltered = useMemo(() => {
+  useLayoutEffect(() => {
     goToTop();
-    return molSearchResult.filter((mol) =>
-      mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
-    );
   }, [filter, molSearchResult]);
 
   return (
