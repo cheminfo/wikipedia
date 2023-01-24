@@ -5703,6 +5703,7 @@ Bismuth subcarbonate	[Bi+H0]=O.[Bi+H0]=O.O=C([O-])[O-]
 Acetone cyanohydrin	CC(C)(O)C#N
 Adenosine thiamine triphosphate	O=P(O)(OC[C@H]3O[C@@H](n1c2ncnc(N)c2nc1)[C@H](O)[C@@H]3O)OP(=O)(O)OP(=O)(O)OCCc4sc[n+](c4C)Cc5c(nc(nc5)C)N
 Cefquinome	O=C4[C@@H](NC(=O)C(=N\OC)/c1csc(N)n1)[C@H]5SC\C(C[n+]3cccc2CCCCc23)=C(/N45)C([O-])=O
+N-terminal telopeptide	[C@@H](NC([C@@H](NC([C@@H](NC([C@H](CC1=CC=C(O)C=C1)N)=O)CC(O)=O)=O)CCC(O)=O)=O)(C(N[C@H](C(N[C@H](C(NCC(NCC(O)=O)=O)=O)[C@@H](C)O)=O)CO)=O)CCCCN
 Pahutoxin	CCCCCCCCCCCCC[C@@H](CC(=O)OCC[N+](C)(C)C)OC(=O)C.[Cl-]
 Methylphosphonyl difluoride	CP(F)(F)=O
 Isopropylamine	CC(C)N
@@ -11913,6 +11914,7 @@ Octaazacubane	N12N3N4N1N5N4N3N52
 5-APB	CC(N)CC1=CC(C=CO2)=C2C=C1
 DDAIP	CCCCCCCCCCCCOC(=O)C(C)N(C)C
 Hydroxylated lecithin	CCCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCC[C@H]([C@@H](CCCCCCCC)O)O)COP(=O)([O-])OCC[N+](C)(C)C
+C-terminal telopeptide	C[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC(=O)O)C(=O)NCC(=O)NCC(=O)N[C@@H](CCCN=C(N)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCC(=O)O)N
 JTV-519	O=C(N1CCSC(C=CC(OC)=C2)=C2C1)CCN(CC3)CCC3CC4=CC=CC=C4
 Squaramide	C1(=C(C(=O)C1=O)N)N
 RTI-171	n1oc(cc1C)[C@@H]3[C@@H]4N(C)[C@H](C[C@@H]3c2ccc(cc2)C)CC4
@@ -19934,3 +19936,8 @@ Nadic anhydride	C1C2C=CC1C3C2C(=O)OC3=O
 2,5-Bis(4-bromophenyl)-3,4-diphenylcyclopentadienone	C1=CC=C(C=C1)C2=C(C(=O)C(=C2C3=CC=CC=C3)C4=CC=C(C=C4)Br)C5=CC=C(C=C5)Br
 Bis(4-bromobenzyl) ketone	C1=CC(=CC=C1CC(=O)CC2=CC=C(C=C2)Br)Br
 Timelotem	CN1CCN2C(C1)CN=C(C3=C2C=C(C=C3)F)C4=CC=CS4
+Lithium laurate	[Li+].CCCCCCCCCCCC(=O)[O-]
+Silver laurate	CCCCCCCCCCCC(=O)[O-].[Ag+]
+Lead(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Pb+2]
+Cyclooctanone	C1CCCC(=O)CCC1
+1P-AL-LAD	CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC=C)C(=O)N(CC)CC)C4=C2C1=CC=C4
