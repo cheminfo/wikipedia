@@ -19,7 +19,7 @@
     {
       "url": "modules/types/science/chemistry/jsme/",
       "id": 1,
-      "title": "Draw a structure",
+      "title": "      Draw a structure",
       "configuration": {
         "sections": {},
         "groups": {
@@ -54,17 +54,17 @@
         "Default layer": {
           "zIndex": 0,
           "display": true,
-          "title": "Draw a structure",
+          "title": "      Draw a structure",
           "wrapper": true,
           "created": true,
           "name": "Default layer",
           "position": {
             "left": 0,
-            "top": 5
+            "top": 0
           },
           "size": {
             "width": 50,
-            "height": 36
+            "height": 41
           },
           "bgColor": [
             255,
@@ -149,7 +149,13 @@
               "title": "",
               "icon": "",
               "action": "",
-              "position": "begin"
+              "position": "begin",
+              "color": [
+                100,
+                100,
+                100,
+                1
+              ]
             }
           ]
         ],
@@ -160,7 +166,17 @@
             ]
           }
         ]
-      }
+      },
+      "css": [
+        {
+          "fontSize": [
+            ""
+          ],
+          "fontFamily": [
+            ""
+          ]
+        }
+      ]
     },
     {
       "url": "modules/types/edition/onde/",
@@ -2140,6 +2156,18 @@
             {
               "template": [
                 "<h1>This page references all articles with SMILES problems</h1>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">You can click on any line to open the corresponding article on Wikipedia</span></p>\n\n<p>&nbsp;</p>\n\n<h2>SMILES with errors ({{ count.errors }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">Those SMILES could not be processed by the parser</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Pages without correct SMILES ({{ count.nogood }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages in which all the SMILES have errors. Therefore these pages can not be found in the search page</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Duplicates ({{ count.dup }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain several SMILES that represent the exact same structure</span></p>\n\n<p>&nbsp;</p>\n\n<h2>Not found ({{ count.notfound }})</h2>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px\">List of pages that contain a Chembox or Drugbox but no SMILES field</span></p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:12px\">Last data extraction: {{ count.date|date(\"m/d/Y\") }}</span></p>\n"
+              ],
+              "selectable": [
+                null
+              ],
+              "modifyInForm": [
+                null
+              ],
+              "debouncing": [
+                null
+              ],
+              "formOptions": [
+                null
               ]
             }
           ]
@@ -2224,8 +2252,37 @@
         {}
       ],
       "title": "Untitled",
-      "vars_out": {},
-      "actions_out": {},
+      "vars_out": {
+        "event": [
+          null
+        ],
+        "rel": [
+          null
+        ],
+        "jpath": [
+          null
+        ],
+        "filter": [
+          null
+        ],
+        "name": [
+          null
+        ]
+      },
+      "actions_out": {
+        "event": [
+          null
+        ],
+        "rel": [
+          null
+        ],
+        "jpath": [
+          null
+        ],
+        "name": [
+          null
+        ]
+      },
       "toolbar": {
         "custom": [
           [
@@ -2760,7 +2817,7 @@
         "general": [
           {
             "script": [
-              "const response = await fetch('https://wikipedia.cheminfo.org/src/json/data.json');\nconst result = await response.json();\n\nAPI.createData('molecules',result.data.molecules);\nAPI.createData('errors',result.data.errors);\nAPI.createData('fullA',result.data.nogood);\nAPI.createData('notfoundA',result.data.notfound);\nAPI.createData('dupA',result.data.dup);\n\nrequire([\n    'src/util/api',\n    'src/util/debug',\n    'openchemlib//openchemlib-core',\n    'components/async/dist/async.min',\n    'uri/URI'\n], function (API, Debug, OCL, async, URI) {\n    if (API.cache('db')) {\n        return;\n    }\n\n    var url = new URI(window.location.href);\n\n    function getName(value) {\n        value = value.replace(/_/g, ' ');\n        value = decodeURIComponent(value);\n        return value;\n    }\n\n    function toObj(val) {\n        return {id: val};\n    }\n\n    var errors = API.getData('errors');\n\n    var fullA = API.getData('fullA');\n    var full = fullA.map(toObj);\n\n    var el = errors.length;\n    var hid = 0;\n\n    for (var k = 0; k < el; k++) {\n        var id = errors[k].id;\n        var idx = fullA.indexOf(id);\n        if (idx > -1) {\n            var error = full[idx];\n            if (!error._highlight) {\n                error._highlight = [++hid];\n            } else {\n                error._highlight.push(++hid);\n            }\n            errors[k]._highlight = [hid];\n        } else {\n            errors[k]._highlight = [];\n        }\n    }\n\n    API.createData('full', full);\n    API.createData('dup', API.getData('dupA').map(toObj));\n    API.createData('notfound', API.getData('notfoundA').map(toObj));\n\n    var molecules = API.getData('molecules');\n    if (molecules && molecules.length) {\n        // ?mini=true => only 500 molecules for testing\n        var l = molecules.length;\n        if(document.location.search.indexOf('mini') > -1) {\n            l = Math.min(l, 500);\n        }\n        var db = new Array(l);\n        API.cache('db', db);\n        var timer = Debug.timer();\n        var i = 0, ii, molecule;\n\n        async.whilst(function () {\n            ii = Math.min(i + 1000, l);\n\n            for (; i < ii; i++) {\n                API.loading('mol', 'Loading molecules (' + (i + 1) + '/' + l + ')');\n                molecule = molecules[i];\n                // we will add the links in the molecules\n                molecule.link = 'https://en.wikipedia.org/api/rest_v1/page/html/' + molecule.code;\n                molecule.wiki = 'https://en.wikipedia.org/wiki/' + molecule.code;\n                molecule.name = getName(molecule.code);\n                molecule.lowName = molecule.name.toLowerCase();\n                var newEntry = {};\n                newEntry.molecule = OCL.Molecule.fromIDCode(molecule.actID.value, false);\n                newEntry.molecule.ensureHelperArrays(3);\n                newEntry.index = i;\n                db[i] = newEntry;\n            }\n\n            return ii !== l\n        }, function (callback) {\n            setImmediate(callback);\n        }, function () {\n            Debug.debug(timer.time('ms'));\n            var fragment = decodeURIComponent(url.fragment());\n            var query = {\n                type: 'mol2d',\n                value: ''\n            };\n            if (fragment) {\n                try {\n                    var mol = OCL.Molecule.fromSmiles(fragment);\n                    var molfile = mol.toMolfile();\n                    query.value = molfile;\n                    API.createData('selectedMol', {type: 'mol2d', value: molfile});\n                    API.createData('customQueryOpts', {searchMode: 'Similarity'});\n                    API.createData('queryOptions', {searchMode: 'Similarity'});\n                } catch (e) {\n                    API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                    API.createData('queryOptions',{searchMode: 'Substructure'});    \n                }\n            } else {\n                API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                API.createData('queryOptions',{searchMode: 'Substructure'});\n            }\n            console.log(db);\n            console.log(query);\n            API.createData('query', query, 'searchFilter');\n            API.stopLoading('mol');\n        });\n\n    }\n});\n\nAPI.require('vh/util/docs').then( Docs => {\n    Docs.addPageHelp({iconSize:'fa-4x'});\n});\n"
+              "const response = await fetch('https://wikipedia.cheminfo.org/src/json/data.json');\nconst result = await response.json();\n\nAPI.createData('count', result.count);\n\nAPI.createData('molecules',result.data.molecules);\nAPI.createData('errors',result.data.errors);\nAPI.createData('fullA',result.data.nogood);\nAPI.createData('notfoundA',result.data.notfound);\nAPI.createData('dupA',result.data.dup);\n\nrequire([\n    'src/util/api',\n    'src/util/debug',\n    'openchemlib//openchemlib-core',\n    'components/async/dist/async.min',\n    'uri/URI'\n], function (API, Debug, OCL, async, URI) {\n    if (API.cache('db')) {\n        return;\n    }\n\n    var url = new URI(window.location.href);\n\n    function getName(value) {\n        value = value.replace(/_/g, ' ');\n        value = decodeURIComponent(value);\n        return value;\n    }\n\n    function toObj(val) {\n        return {id: val};\n    }\n\n    var errors = API.getData('errors');\n\n    var fullA = API.getData('fullA');\n    var full = fullA.map(toObj);\n\n    var el = errors.length;\n    var hid = 0;\n\n    for (var k = 0; k < el; k++) {\n        var id = errors[k].id;\n        var idx = fullA.indexOf(id);\n        if (idx > -1) {\n            var error = full[idx];\n            if (!error._highlight) {\n                error._highlight = [++hid];\n            } else {\n                error._highlight.push(++hid);\n            }\n            errors[k]._highlight = [hid];\n        } else {\n            errors[k]._highlight = [];\n        }\n    }\n\n    API.createData('full', full);\n    API.createData('dup', API.getData('dupA').map(toObj));\n    API.createData('notfound', API.getData('notfoundA').map(toObj));\n\n    var molecules = API.getData('molecules');\n    if (molecules && molecules.length) {\n        // ?mini=true => only 500 molecules for testing\n        var l = molecules.length;\n        if(document.location.search.indexOf('mini') > -1) {\n            l = Math.min(l, 500);\n        }\n        var db = new Array(l);\n        API.cache('db', db);\n        var timer = Debug.timer();\n        var i = 0, ii, molecule;\n\n        async.whilst(function () {\n            ii = Math.min(i + 1000, l);\n\n            for (; i < ii; i++) {\n                API.loading('mol', 'Loading molecules (' + (i + 1) + '/' + l + ')');\n                molecule = molecules[i];\n                // we will add the links in the molecules\n                molecule.link = 'https://en.wikipedia.org/api/rest_v1/page/html/' + molecule.code;\n                molecule.wiki = 'https://en.wikipedia.org/wiki/' + molecule.code;\n                molecule.name = getName(molecule.code);\n                molecule.lowName = molecule.name.toLowerCase();\n                var newEntry = {};\n                newEntry.molecule = OCL.Molecule.fromIDCode(molecule.actID.value, false);\n                newEntry.molecule.ensureHelperArrays(3);\n                newEntry.index = i;\n                db[i] = newEntry;\n            }\n\n            return ii !== l\n        }, function (callback) {\n            setImmediate(callback);\n        }, function () {\n            Debug.debug(timer.time('ms'));\n            var fragment = decodeURIComponent(url.fragment());\n            var query = {\n                type: 'mol2d',\n                value: ''\n            };\n            if (fragment) {\n                try {\n                    var mol = OCL.Molecule.fromSmiles(fragment);\n                    var molfile = mol.toMolfile();\n                    query.value = molfile;\n                    API.createData('selectedMol', {type: 'mol2d', value: molfile});\n                    API.createData('customQueryOpts', {searchMode: 'Similarity'});\n                    API.createData('queryOptions', {searchMode: 'Similarity'});\n                } catch (e) {\n                    API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                    API.createData('queryOptions',{searchMode: 'Substructure'});    \n                }\n            } else {\n                API.createData('customQueryOpts', {searchMode: 'Substructure'});\n                API.createData('queryOptions',{searchMode: 'Substructure'});\n            }\n            console.log(db);\n            console.log(query);\n            API.createData('query', query, 'searchFilter');\n            API.stopLoading('mol');\n        });\n\n    }\n});\n\nAPI.require('vh/util/docs').then( Docs => {\n    Docs.addPageHelp({iconSize:'fa-2x'});\n});\n"
             ]
           }
         ]
