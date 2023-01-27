@@ -5822,8 +5822,8 @@ Hypoiodous acid	IO
 Pentanal	O=CCCCC
 Trimethylamine N-oxide	C[N+](C)(C)[O-]
 Beatrice (psychedelic)	O(c1cc(c(OC)cc1CC(NC)C)C)C
-Ariadne (psychedelic)	O(c1cc(c(OC)cc1CC(N)CC)C)C
-Ariadne (psychedelic)	O(c1cc(c(OC)cc1C[C@H](N)CC)C)C
+Ariadne (drug)	O(c1cc(c(OC)cc1CC(N)CC)C)C
+Ariadne (drug)	O(c1cc(c(OC)cc1C[C@H](N)CC)C)C
 AEM (psychedelic)	O(c1cc(cc(OC)c1OC)CC(N)CC)C
 Allylescaline	COc1cc(cc(OC)c1OCC=C)CCN
 Combretastatin	O(c1cc(cc(OC)c1OC)C(O)Cc2ccc(OC)c(O)c2)C
@@ -19942,3 +19942,6 @@ Lead(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Pb+2]
 Cyclooctanone	C1CCCC(=O)CCC1
 1P-AL-LAD	CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC=C)C(=O)N(CC)CC)C4=C2C1=CC=C4
 4'Cl-CUMYL-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)NC(C)(C)C3=CC=C(C=C3)Cl
+Copper(II) laurate	C(CCCCCCCC)CCC(O)=O.[Cu]
+Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
+Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
