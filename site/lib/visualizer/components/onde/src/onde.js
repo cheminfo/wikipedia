@@ -1038,17 +1038,13 @@ define(function(){
                     result.errorCount += 1;
                     result.errorData = 'type-error';
                 }
-            } else {
-                if (propInfo && propInfo.required) {
-                    if (typeof propInfo['default'] != 'undefined') {
-                        //TODO: Check the value (the flag below is fake)
-                        result.noData = false;
-                        result.data = propInfo['default'];
-                    } else {
-                        result.errorCount += 1;
-                        result.errorData = 'value-required';
-                    }
-                }
+            } else if (typeof propInfo['default'] !== 'undefined') {
+                //TODO: Check the value (the flag below is fake)
+                result.noData = false;
+                result.data = propInfo['default'];
+            } else if (propInfo && propInfo.required) {
+                result.errorCount += 1;
+                result.errorData = 'value-required';
             }
         }
         if (result.errorCount > 0) {

@@ -867,8 +867,6 @@
 		 */
 		_initStyle: function() {
 			var styles = {
-				// Promote the element to it's own compositor layer
-				'backface-visibility': 'hidden',
 				// Set to defaults for the namespace
 				'transform-origin': '0 0'
 			};

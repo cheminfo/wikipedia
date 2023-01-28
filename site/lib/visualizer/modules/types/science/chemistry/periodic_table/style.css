@@ -19,8 +19,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin-left: -2px;
-    min-width: 93.3em;
-    min-height: 50em;
+    min-width: 90em;
+    min-height: 45em;
     width: 100%;
     height: 100%;
 }
@@ -30,63 +30,59 @@
     margin-left: 2px;
     display: block;  /* IE fix */
     border: 2px solid grey;
-    min-height: 4.7em;
-    min-width: 4.7em;
+    min-height: 4.5em;
+    min-width: 4.5em;
     padding: 2px;
     margin-bottom: 2px;
 }
 
-.alkali {
+.periodic-table .alkali {
     background-color:rgba(206, 58, 90, 0.6);
 }
-.alkaline {
+.periodic-table .alkaline {
     background-color:rgba(228, 109, 10, 0.6);
 }
-.transition {
+.periodic-table .transition {
     background-color: rgba(255, 192, 0, 0.6);
 }
-.poor {
+.periodic-table .poor {
     background-color: rgba(117, 146, 60, 0.6);
 }
-.metalloid {
+.periodic-table .metalloid {
     background-color: rgba(49, 132, 155, 0.6);
 }
-.nonmetal {
+.periodic-table .nonmetal {
     background-color: rgba(0, 112, 192, 0.4);
 }
-.halogen {
+.periodic-table .halogen {
     background-color: rgba(23, 55, 93, 0.6);
 }
-.noble {
+.periodic-table .noble {
     background-color: rgba(112, 48, 160, 0.6);
 }
 
-.lanthanoid {
+.periodic-table .lanthanoid {
     background-color: rgba(148, 139, 84, 0.6);
 }
-.actinoid {
+.periodic-table .actinoid {
     background-color: rgba(178, 161, 199, 0.6);
 }
 
-.element:hover, .el-selected {
+.periodic-table .element:hover, .periodic-table .el-selected {
     border: 2px solid black;
 }
 
-.el-selected {
-    background-color: rgba(90,90,90,0.4);
-}
-.indic-g, .indic-p, .indic-f {
+.periodic-table .indic-g, .periodic-table .indic-p, .periodic-table .indic-f {
     justify-content: center;
     align-items: center;
     border:none;
 }
 
-.indic-p {
+.periodic-table .indic-p {
     justify-content: flex-end;
-    width: 8px;
 }
 
-.indic-g {
+.periodic-table .indic-g {
     align-items: flex-end;
 }
 
@@ -95,165 +91,196 @@
     box-sizing: border-box;
 }
 
-.e5, .e13 {
+.periodic-table .e5, .periodic-table .e13 {
     margin-left: calc(100% / 19 * 10 + 2px);
 
 }
-.e57, .e89 {
+.periodic-table .e57, .periodic-table .e89 {
     margin-left: calc(100% / 19 * 4 + 2px);
 }
-.period1 {
+.periodic-table .period1 {
     order: 1;
+    min-height: 3em;
+    max-height: 8em;
 }
-.period2 {
+.periodic-table .period2 {
     order: 2;
 }
-.period3 {
+.periodic-table .period3 {
     order: 3;
 }
-.period4 {
+.periodic-table .period4 {
     order : 4
 }
-.period5 {
+.periodic-table .period5 {
     order : 5
 }
-.period6 {
+.periodic-table .period6 {
     order : 6
 }
-.period7 {
+.periodic-table .period7 {
     order : 7
 }
-.block-f {
+.periodic-table .block-f {
     order: 8;
 }
 
-.period6.block-f {
+.periodic-table .period6.block-f {
     margin-top: 2em;
 }
 
-.element, .indic-g, .indic-p, .indic-f, .element-zoom {
+.element, .indic-g, .periodic-table .indic-p, .periodic-table .indic-f, .periodic-table .element-zoom {
     display: flex;
+    cursor: pointer;
 }
-.element-data {
+.periodic-table .element-data {
     flex:4;
     text-align: center;
+    width: 100%;
 }
-.element-data .Z {
+
+.periodic-table .element-data p {
+    padding: 1px;
+}
+.periodic-table .element-data .Z {
     text-align: left;
 }
-.electronsPerPeriod {
+.periodic-table .electronsPerPeriod {
     flex:1;
 }
-.element-name {
-    font-size: 1.8em;
+.periodic-table .element-name {
+    font-size: 1.6em;
     padding: 0.2em 0 0.3em 0;
 }
-.element-name abbr {
+.periodic-table .element-name abbr {
     border-bottom: dotted grey 1px;
 }
 /* info : delay too long */
-.element-name abbr:hover {
+.periodic-table .element-name abbr:hover {
     border-bottom: none;
 }
-.element-data p {
+.periodic-table .element-data p {
     overflow : hidden;
     text-overflow : ellipsis;
     white-space: nowrap;
 }
-.electronsPerPeriod {
+.periodic-table .electronsPerPeriod {
     font-size: 0.7em;
 }
 
+.periodic-table .periodic-empty {
+    border: none
+}
 
-.elec-conf:hover .elec-conf-short, .elec-conf .elec-conf-long {
+
+.periodic-table .elec-conf:hover .elec-conf-short, .periodic-table .elec-conf .elec-conf-long {
     display: none;
 }
-.elec-conf:hover .elec-conf-long {
+.periodic-table .elec-conf:hover .elec-conf-long {
     display:block;
 }
 
-.legend {
+.periodic-table .legend {
     border: none;
     order:1;
     margin-left: calc(100% / 19 + 2px);
     width: calc(100% / 19 * 10 - 2px);
-    margin-bottom: calc(-12em - 2px);
+    margin-bottom: calc(-13em - 2px);
     display:flex;
 }
-.inner-legend {
+.periodic-table .inner-legend {
     display:flex;
 }
-.color-serie {
+.periodic-table .color-serie {
     font-size: 0.8em;
     column-count: 3;
     -moz-column-count: 3;
     -webkit-column-count: 3;
     flex: 2;
 }
-.color-serie li {
+.periodic-table .color-serie li {
     padding: 0.5em;
     display: inline-block;
     width:100%;
     border: 1px solid grey;
     break-inside: avoid-column;
+    cursor: pointer;
 }
-.stateOfMatter {
+.periodic-table .stateOfMatter {
     flex:auto;
     margin-left: 1em;
+    min-width: 200px;
 }
-.stateOfMatter dt{
+.periodic-table .stateOfMatter dt{
     float:left;
     clear:left;
     margin-right: 1em;
     width: 6.5em;
 }
-.stateOfMatter dt:after {
+.periodic-table .stateOfMatter dt:after {
     content: " : ";
-
 }
-td.solid, td.liquid, td.gas, td.unknown {
+
+.periodic-table .stateOfMatter td {
+    margin-right: 3px;
+    margin-left: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.periodic-table td.solid, .periodic-table td.liquid, .periodic-table td.gas, .periodic-table td.unknown {
     font-weight: bold;
 }
-.solid {
+.periodic-table .solid {
     color: black;
 }
-.liquid {
+.periodic-table .liquid {
     color: blue;
 }
-.gas {
+.periodic-table .gas {
     color: red;
 }
-.unknown {
+.periodic-table .unknown {
     color: grey;
 }
 
-.element-zoom {
-    border: 1px solid #000;
+.periodic-table .element-zoom {
     flex: none;
-    width: 33.333333333%;
+    width: 33%;
     padding: 5px;
 }
-.element-datas {
+.periodic-table .element-datas {
     flex: 1 0 auto;
 }
-.element-zoom, .element-datas, .default-legend {
+.periodic-table .element-zoom, .periodic-table .element-datas, .periodic-table .default-legend {
     font-size: 1.4em;
 }
 
-.interactive-zone {
+.periodic-table .interactive-zone {
     order:1;
     width: calc(100% / 19 * 5 - 2px);
 }
 
-.hidden {
+.periodic-table .hidden {
     display: none;
 }
 
-#periodicTemperatureSlider {
+.periodic-table .periodicSlider {
+    height: 50px;
+    margin-top: 10px;
+}
+
+.periodic-table .periodicSlider input{
     width: calc(100% - 30px);
     margin-left: 15px;
     margin-right: 15px;
+    position:relative;
+    top: 15px;
+    z-index: 200;
+}
 
+.periodic-table .periodicSlider .periodicGradient {
+    position: relative;
+    top: -40px;
 }
 
 

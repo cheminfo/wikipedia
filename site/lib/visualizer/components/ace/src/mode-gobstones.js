@@ -25,7 +25,7 @@ DocCommentHighlightRules.getTagRule = function(start) {
         token : "comment.doc.tag.storage.type",
         regex : "\\b(?:TODO|FIXME|XXX|HACK)\\b"
     };
-}
+};
 
 DocCommentHighlightRules.getStartRule = function(start) {
     return {
@@ -72,7 +72,7 @@ var JavaScriptHighlightRules = function(options) {
         "keyword":
             "const|yield|import|get|set|async|await|" +
             "break|case|catch|continue|default|delete|do|else|finally|for|function|" +
-            "if|in|instanceof|new|return|switch|throw|try|typeof|let|var|while|with|debugger|" +
+            "if|in|of|instanceof|new|return|switch|throw|try|typeof|let|var|while|with|debugger|" +
             "__parent__|__count__|escape|unescape|with|__proto__|" +
             "class|enum|extends|super|export|implements|private|public|interface|package|protected|static",
         "storage.type":
@@ -106,11 +106,11 @@ var JavaScriptHighlightRules = function(options) {
                 regex : '"(?=.)',
                 next  : "qqstring"
             }, {
-                token : "constant.numeric", // hex
-                regex : /0(?:[xX][0-9a-fA-F]+|[bB][01]+)\b/
+                token : "constant.numeric", // hexadecimal, octal and binary
+                regex : /0(?:[xX][0-9a-fA-F]+|[oO][0-7]+|[bB][01]+)\b/
             }, {
-                token : "constant.numeric", // float
-                regex : /[+-]?\d[\d_]*(?:(?:\.\d*)?(?:[eE][+-]?\d+)?)?\b/
+                token : "constant.numeric", // decimal integers and floats
+                regex : /(?:\d\d*(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+\b)?/
             }, {
                 token : [
                     "storage.type", "punctuation.operator", "support.function",
@@ -161,6 +161,9 @@ var JavaScriptHighlightRules = function(options) {
                 next: "function_arguments"
             }, {
                 token : "keyword",
+                regex : "from(?=\\s*('|\"))"
+            }, {
+                token : "keyword",
                 regex : "(?:" + kwBeforeRe + ")\\b",
                 next : "start"
             }, {
@@ -177,8 +180,12 @@ var JavaScriptHighlightRules = function(options) {
                 regex : /[.](?![.])/,
                 next  : "property"
             }, {
+                token : "storage.type",
+                regex : /=>/,
+                next  : "start"
+            }, {
                 token : "keyword.operator",
-                regex : /--|\+\+|\.{3}|===|==|=|!=|!==|<+=?|>+=?|!|&&|\|\||\?\:|[!$%&*+\-~\/^]=?/,
+                regex : /--|\+\+|\.{3}|===|==|=|!=|!==|<+=?|>+=?|!|&&|\|\||\?:|[!$%&*+\-~\/^]=?/,
                 next  : "start"
             }, {
                 token : "punctuation.operator",
@@ -316,7 +323,7 @@ var JavaScriptHighlightRules = function(options) {
             }, {
                 token : "string",
                 regex : "\\\\$",
-                next  : "qqstring"
+                consumeLineEnd  : true
             }, {
                 token : "string",
                 regex : '"|$',
@@ -332,7 +339,7 @@ var JavaScriptHighlightRules = function(options) {
             }, {
                 token : "string",
                 regex : "\\\\$",
-                next  : "qstring"
+                consumeLineEnd  : true
             }, {
                 token : "string",
                 regex : "'|$",
@@ -342,8 +349,8 @@ var JavaScriptHighlightRules = function(options) {
             }
         ]
     };
-    
-    
+
+
     if (!options || !options.noES6) {
         this.$rules.no_regex.unshift({
             regex: "[{}]", onMatch: function(val, state, stack) {
@@ -378,14 +385,14 @@ var JavaScriptHighlightRules = function(options) {
                 defaultToken: "string.quasi"
             }]
         });
-        
-        if (!options || !options.noJSX)
+
+        if (!options || options.jsx != false)
             JSX.call(this);
     }
-    
+
     this.embedRules(DocCommentHighlightRules, "doc-",
         [ DocCommentHighlightRules.getEndRule("no_regex") ]);
-    
+
     this.normalizeRules();
 };
 
@@ -436,8 +443,8 @@ function JSX() {
         {defaultToken: "string"}
     ];
     this.$rules.jsxAttributes = [{
-        token : "meta.tag.punctuation.tag-close.xml", 
-        regex : "/?>", 
+        token : "meta.tag.punctuation.tag-close.xml",
+        regex : "/?>",
         onMatch : function(value, currentState, stack) {
             if (currentState == stack[0])
                 stack.shift();
@@ -452,7 +459,7 @@ function JSX() {
             return [{type: this.token, value: value}];
         },
         nextState: "jsx"
-    }, 
+    },
     jsxJsRule,
     comments("jsxAttributes"),
     {
@@ -555,363 +562,6 @@ var MatchingBraceOutdent = function() {};
 exports.MatchingBraceOutdent = MatchingBraceOutdent;
 });
 
-define("ace/mode/behaviour/cstyle",["require","exports","module","ace/lib/oop","ace/mode/behaviour","ace/token_iterator","ace/lib/lang"], function(require, exports, module) {
-"use strict";
-
-var oop = require("../../lib/oop");
-var Behaviour = require("../behaviour").Behaviour;
-var TokenIterator = require("../../token_iterator").TokenIterator;
-var lang = require("../../lib/lang");
-
-var SAFE_INSERT_IN_TOKENS =
-    ["text", "paren.rparen", "punctuation.operator"];
-var SAFE_INSERT_BEFORE_TOKENS =
-    ["text", "paren.rparen", "punctuation.operator", "comment"];
-
-var context;
-var contextCache = {};
-var initContext = function(editor) {
-    var id = -1;
-    if (editor.multiSelect) {
-        id = editor.selection.index;
-        if (contextCache.rangeCount != editor.multiSelect.rangeCount)
-            contextCache = {rangeCount: editor.multiSelect.rangeCount};
-    }
-    if (contextCache[id])
-        return context = contextCache[id];
-    context = contextCache[id] = {
-        autoInsertedBrackets: 0,
-        autoInsertedRow: -1,
-        autoInsertedLineEnd: "",
-        maybeInsertedBrackets: 0,
-        maybeInsertedRow: -1,
-        maybeInsertedLineStart: "",
-        maybeInsertedLineEnd: ""
-    };
-};
-
-var getWrapped = function(selection, selected, opening, closing) {
-    var rowDiff = selection.end.row - selection.start.row;
-    return {
-        text: opening + selected + closing,
-        selection: [
-                0,
-                selection.start.column + 1,
-                rowDiff,
-                selection.end.column + (rowDiff ? 0 : 1)
-            ]
-    };
-};
-
-var CstyleBehaviour = function() {
-    this.add("braces", "insertion", function(state, action, editor, session, text) {
-        var cursor = editor.getCursorPosition();
-        var line = session.doc.getLine(cursor.row);
-        if (text == '{') {
-            initContext(editor);
-            var selection = editor.getSelectionRange();
-            var selected = session.doc.getTextRange(selection);
-            if (selected !== "" && selected !== "{" && editor.getWrapBehavioursEnabled()) {
-                return getWrapped(selection, selected, '{', '}');
-            } else if (CstyleBehaviour.isSaneInsertion(editor, session)) {
-                if (/[\]\}\)]/.test(line[cursor.column]) || editor.inMultiSelectMode) {
-                    CstyleBehaviour.recordAutoInsert(editor, session, "}");
-                    return {
-                        text: '{}',
-                        selection: [1, 1]
-                    };
-                } else {
-                    CstyleBehaviour.recordMaybeInsert(editor, session, "{");
-                    return {
-                        text: '{',
-                        selection: [1, 1]
-                    };
-                }
-            }
-        } else if (text == '}') {
-            initContext(editor);
-            var rightChar = line.substring(cursor.column, cursor.column + 1);
-            if (rightChar == '}') {
-                var matching = session.$findOpeningBracket('}', {column: cursor.column + 1, row: cursor.row});
-                if (matching !== null && CstyleBehaviour.isAutoInsertedClosing(cursor, line, text)) {
-                    CstyleBehaviour.popAutoInsertedClosing();
-                    return {
-                        text: '',
-                        selection: [1, 1]
-                    };
-                }
-            }
-        } else if (text == "\n" || text == "\r\n") {
-            initContext(editor);
-            var closing = "";
-            if (CstyleBehaviour.isMaybeInsertedClosing(cursor, line)) {
-                closing = lang.stringRepeat("}", context.maybeInsertedBrackets);
-                CstyleBehaviour.clearMaybeInsertedClosing();
-            }
-            var rightChar = line.substring(cursor.column, cursor.column + 1);
-            if (rightChar === '}') {
-                var openBracePos = session.findMatchingBracket({row: cursor.row, column: cursor.column+1}, '}');
-                if (!openBracePos)
-                     return null;
-                var next_indent = this.$getIndent(session.getLine(openBracePos.row));
-            } else if (closing) {
-                var next_indent = this.$getIndent(line);
-            } else {
-                CstyleBehaviour.clearMaybeInsertedClosing();
-                return;
-            }
-            var indent = next_indent + session.getTabString();
-
-            return {
-                text: '\n' + indent + '\n' + next_indent + closing,
-                selection: [1, indent.length, 1, indent.length]
-            };
-        } else {
-            CstyleBehaviour.clearMaybeInsertedClosing();
-        }
-    });
-
-    this.add("braces", "deletion", function(state, action, editor, session, range) {
-        var selected = session.doc.getTextRange(range);
-        if (!range.isMultiLine() && selected == '{') {
-            initContext(editor);
-            var line = session.doc.getLine(range.start.row);
-            var rightChar = line.substring(range.end.column, range.end.column + 1);
-            if (rightChar == '}') {
-                range.end.column++;
-                return range;
-            } else {
-                context.maybeInsertedBrackets--;
-            }
-        }
-    });
-
-    this.add("parens", "insertion", function(state, action, editor, session, text) {
-        if (text == '(') {
-            initContext(editor);
-            var selection = editor.getSelectionRange();
-            var selected = session.doc.getTextRange(selection);
-            if (selected !== "" && editor.getWrapBehavioursEnabled()) {
-                return getWrapped(selection, selected, '(', ')');
-            } else if (CstyleBehaviour.isSaneInsertion(editor, session)) {
-                CstyleBehaviour.recordAutoInsert(editor, session, ")");
-                return {
-                    text: '()',
-                    selection: [1, 1]
-                };
-            }
-        } else if (text == ')') {
-            initContext(editor);
-            var cursor = editor.getCursorPosition();
-            var line = session.doc.getLine(cursor.row);
-            var rightChar = line.substring(cursor.column, cursor.column + 1);
-            if (rightChar == ')') {
-                var matching = session.$findOpeningBracket(')', {column: cursor.column + 1, row: cursor.row});
-                if (matching !== null && CstyleBehaviour.isAutoInsertedClosing(cursor, line, text)) {
-                    CstyleBehaviour.popAutoInsertedClosing();
-                    return {
-                        text: '',
-                        selection: [1, 1]
-                    };
-                }
-            }
-        }
-    });
-
-    this.add("parens", "deletion", function(state, action, editor, session, range) {
-        var selected = session.doc.getTextRange(range);
-        if (!range.isMultiLine() && selected == '(') {
-            initContext(editor);
-            var line = session.doc.getLine(range.start.row);
-            var rightChar = line.substring(range.start.column + 1, range.start.column + 2);
-            if (rightChar == ')') {
-                range.end.column++;
-                return range;
-            }
-        }
-    });
-
-    this.add("brackets", "insertion", function(state, action, editor, session, text) {
-        if (text == '[') {
-            initContext(editor);
-            var selection = editor.getSelectionRange();
-            var selected = session.doc.getTextRange(selection);
-            if (selected !== "" && editor.getWrapBehavioursEnabled()) {
-                return getWrapped(selection, selected, '[', ']');
-            } else if (CstyleBehaviour.isSaneInsertion(editor, session)) {
-                CstyleBehaviour.recordAutoInsert(editor, session, "]");
-                return {
-                    text: '[]',
-                    selection: [1, 1]
-                };
-            }
-        } else if (text == ']') {
-            initContext(editor);
-            var cursor = editor.getCursorPosition();
-            var line = session.doc.getLine(cursor.row);
-            var rightChar = line.substring(cursor.column, cursor.column + 1);
-            if (rightChar == ']') {
-                var matching = session.$findOpeningBracket(']', {column: cursor.column + 1, row: cursor.row});
-                if (matching !== null && CstyleBehaviour.isAutoInsertedClosing(cursor, line, text)) {
-                    CstyleBehaviour.popAutoInsertedClosing();
-                    return {
-                        text: '',
-                        selection: [1, 1]
-                    };
-                }
-            }
-        }
-    });
-
-    this.add("brackets", "deletion", function(state, action, editor, session, range) {
-        var selected = session.doc.getTextRange(range);
-        if (!range.isMultiLine() && selected == '[') {
-            initContext(editor);
-            var line = session.doc.getLine(range.start.row);
-            var rightChar = line.substring(range.start.column + 1, range.start.column + 2);
-            if (rightChar == ']') {
-                range.end.column++;
-                return range;
-            }
-        }
-    });
-
-    this.add("string_dquotes", "insertion", function(state, action, editor, session, text) {
-        if (text == '"' || text == "'") {
-            initContext(editor);
-            var quote = text;
-            var selection = editor.getSelectionRange();
-            var selected = session.doc.getTextRange(selection);
-            if (selected !== "" && selected !== "'" && selected != '"' && editor.getWrapBehavioursEnabled()) {
-                return getWrapped(selection, selected, quote, quote);
-            } else if (!selected) {
-                var cursor = editor.getCursorPosition();
-                var line = session.doc.getLine(cursor.row);
-                var leftChar = line.substring(cursor.column-1, cursor.column);
-                var rightChar = line.substring(cursor.column, cursor.column + 1);
-                
-                var token = session.getTokenAt(cursor.row, cursor.column);
-                var rightToken = session.getTokenAt(cursor.row, cursor.column + 1);
-                if (leftChar == "\\" && token && /escape/.test(token.type))
-                    return null;
-                
-                var stringBefore = token && /string|escape/.test(token.type);
-                var stringAfter = !rightToken || /string|escape/.test(rightToken.type);
-                
-                var pair;
-                if (rightChar == quote) {
-                    pair = stringBefore !== stringAfter;
-                } else {
-                    if (stringBefore && !stringAfter)
-                        return null; // wrap string with different quote
-                    if (stringBefore && stringAfter)
-                        return null; // do not pair quotes inside strings
-                    var wordRe = session.$mode.tokenRe;
-                    wordRe.lastIndex = 0;
-                    var isWordBefore = wordRe.test(leftChar);
-                    wordRe.lastIndex = 0;
-                    var isWordAfter = wordRe.test(leftChar);
-                    if (isWordBefore || isWordAfter)
-                        return null; // before or after alphanumeric
-                    if (rightChar && !/[\s;,.})\]\\]/.test(rightChar))
-                        return null; // there is rightChar and it isn't closing
-                    pair = true;
-                }
-                return {
-                    text: pair ? quote + quote : "",
-                    selection: [1,1]
-                };
-            }
-        }
-    });
-
-    this.add("string_dquotes", "deletion", function(state, action, editor, session, range) {
-        var selected = session.doc.getTextRange(range);
-        if (!range.isMultiLine() && (selected == '"' || selected == "'")) {
-            initContext(editor);
-            var line = session.doc.getLine(range.start.row);
-            var rightChar = line.substring(range.start.column + 1, range.start.column + 2);
-            if (rightChar == selected) {
-                range.end.column++;
-                return range;
-            }
-        }
-    });
-
-};
-
-    
-CstyleBehaviour.isSaneInsertion = function(editor, session) {
-    var cursor = editor.getCursorPosition();
-    var iterator = new TokenIterator(session, cursor.row, cursor.column);
-    if (!this.$matchTokenType(iterator.getCurrentToken() || "text", SAFE_INSERT_IN_TOKENS)) {
-        var iterator2 = new TokenIterator(session, cursor.row, cursor.column + 1);
-        if (!this.$matchTokenType(iterator2.getCurrentToken() || "text", SAFE_INSERT_IN_TOKENS))
-            return false;
-    }
-    iterator.stepForward();
-    return iterator.getCurrentTokenRow() !== cursor.row ||
-        this.$matchTokenType(iterator.getCurrentToken() || "text", SAFE_INSERT_BEFORE_TOKENS);
-};
-
-CstyleBehaviour.$matchTokenType = function(token, types) {
-    return types.indexOf(token.type || token) > -1;
-};
-
-CstyleBehaviour.recordAutoInsert = function(editor, session, bracket) {
-    var cursor = editor.getCursorPosition();
-    var line = session.doc.getLine(cursor.row);
-    if (!this.isAutoInsertedClosing(cursor, line, context.autoInsertedLineEnd[0]))
-        context.autoInsertedBrackets = 0;
-    context.autoInsertedRow = cursor.row;
-    context.autoInsertedLineEnd = bracket + line.substr(cursor.column);
-    context.autoInsertedBrackets++;
-};
-
-CstyleBehaviour.recordMaybeInsert = function(editor, session, bracket) {
-    var cursor = editor.getCursorPosition();
-    var line = session.doc.getLine(cursor.row);
-    if (!this.isMaybeInsertedClosing(cursor, line))
-        context.maybeInsertedBrackets = 0;
-    context.maybeInsertedRow = cursor.row;
-    context.maybeInsertedLineStart = line.substr(0, cursor.column) + bracket;
-    context.maybeInsertedLineEnd = line.substr(cursor.column);
-    context.maybeInsertedBrackets++;
-};
-
-CstyleBehaviour.isAutoInsertedClosing = function(cursor, line, bracket) {
-    return context.autoInsertedBrackets > 0 &&
-        cursor.row === context.autoInsertedRow &&
-        bracket === context.autoInsertedLineEnd[0] &&
-        line.substr(cursor.column) === context.autoInsertedLineEnd;
-};
-
-CstyleBehaviour.isMaybeInsertedClosing = function(cursor, line) {
-    return context.maybeInsertedBrackets > 0 &&
-        cursor.row === context.maybeInsertedRow &&
-        line.substr(cursor.column) === context.maybeInsertedLineEnd &&
-        line.substr(0, cursor.column) == context.maybeInsertedLineStart;
-};
-
-CstyleBehaviour.popAutoInsertedClosing = function() {
-    context.autoInsertedLineEnd = context.autoInsertedLineEnd.substr(1);
-    context.autoInsertedBrackets--;
-};
-
-CstyleBehaviour.clearMaybeInsertedClosing = function() {
-    if (context) {
-        context.maybeInsertedBrackets = 0;
-        context.maybeInsertedRow = -1;
-    }
-};
-
-
-
-oop.inherits(CstyleBehaviour, Behaviour);
-
-exports.CstyleBehaviour = CstyleBehaviour;
-});
-
 define("ace/mode/folding/cstyle",["require","exports","module","ace/lib/oop","ace/range","ace/mode/folding/fold_mode"], function(require, exports, module) {
 "use strict";
 
@@ -933,8 +583,8 @@ oop.inherits(FoldMode, BaseFoldMode);
 
 (function() {
     
-    this.foldingStartMarker = /(\{|\[)[^\}\]]*$|^\s*(\/\*)/;
-    this.foldingStopMarker = /^[^\[\{]*(\}|\])|^[\s\*]*(\*\/)/;
+    this.foldingStartMarker = /([\{\[\(])[^\}\]\)]*$|^\s*(\/\*)/;
+    this.foldingStopMarker = /^[^\[\{\(]*([\}\]\)])|^[\s\*]*(\*\/)/;
     this.singleLineBlockCommentRe= /^\s*(\/\*).*\*\/\s*$/;
     this.tripleStarBlockCommentRe = /^\s*(\/\*\*\*).*\*\/\s*$/;
     this.startRegionRe = /^\s*(\/\*|\/\/)#?region\b/;
@@ -1052,14 +702,13 @@ oop.inherits(FoldMode, BaseFoldMode);
 
 });
 
-define("ace/mode/javascript",["require","exports","module","ace/lib/oop","ace/mode/text","ace/mode/javascript_highlight_rules","ace/mode/matching_brace_outdent","ace/range","ace/worker/worker_client","ace/mode/behaviour/cstyle","ace/mode/folding/cstyle"], function(require, exports, module) {
+define("ace/mode/javascript",["require","exports","module","ace/lib/oop","ace/mode/text","ace/mode/javascript_highlight_rules","ace/mode/matching_brace_outdent","ace/worker/worker_client","ace/mode/behaviour/cstyle","ace/mode/folding/cstyle"], function(require, exports, module) {
 "use strict";
 
 var oop = require("../lib/oop");
 var TextMode = require("./text").Mode;
 var JavaScriptHighlightRules = require("./javascript_highlight_rules").JavaScriptHighlightRules;
 var MatchingBraceOutdent = require("./matching_brace_outdent").MatchingBraceOutdent;
-var Range = require("../range").Range;
 var WorkerClient = require("../worker/worker_client").WorkerClient;
 var CstyleBehaviour = require("./behaviour/cstyle").CstyleBehaviour;
 var CStyleFoldMode = require("./folding/cstyle").FoldMode;
@@ -1077,6 +726,7 @@ oop.inherits(Mode, TextMode);
 
     this.lineCommentStart = "//";
     this.blockComment = {start: "/*", end: "*/"};
+    this.$quotes = {'"': '"', "'": "'", "`": "`"};
 
     this.getNextLineIndent = function(state, line, tab) {
         var indent = this.$getIndent(line);
@@ -1090,7 +740,7 @@ oop.inherits(Mode, TextMode);
         }
 
         if (state == "start" || state == "no_regex") {
-            var match = line.match(/^.*(?:\bcase\b.*\:|[\{\(\[])\s*$/);
+            var match = line.match(/^.*(?:\bcase\b.*:|[\{\(\[])\s*$/);
             if (match) {
                 indent += tab;
             }
@@ -1139,107 +789,264 @@ oop.inherits(Mode, TextMode);
 exports.Mode = Mode;
 });
 
-define("ace/mode/gobstones_highlight_rules",["require","exports","module","ace/lib/oop","ace/mode/doc_comment_highlight_rules","ace/mode/text_highlight_rules"], function(require, exports, module) {
+define("ace/mode/gobstones_highlight_rules",["require","exports","module","ace/lib/oop","ace/mode/text_highlight_rules"], function(require, exports) {
 "use strict";
 
 var oop = require("../lib/oop");
-var DocCommentHighlightRules = require("./doc_comment_highlight_rules").DocCommentHighlightRules;
 var TextHighlightRules = require("./text_highlight_rules").TextHighlightRules;
 
 var GobstonesHighlightRules = function() {
 
-    var keywords = (
-    "program|procedure|function|interactive|if|then|else|switch|repeat|while|foreach|in|not|div|mod|Skip|return"
-    );
+  var definitions = {
+    standard: "program|procedure|function|interactive|return|let",
+    type: "type|is|variant|record|field|case"
+  };
 
-    var buildinConstants = (
-        "False|True"
-    );
+  var control = {
+    commands: {
+      repetitions: "repeat|while|foreach|in",
+      alternatives: "if|elseif|else|switch"
+    },
+    expressions: {
+      alternatives: "choose|when|otherwise|matching|select|on"
+    }
+  };
 
+  var values = {
+    colors: "Verde|Rojo|Azul|Negro",
+    cardinals: "Norte|Sur|Este|Oeste",
+    booleans: "True|False",
+    numbers: /([-]?)([0-9]+)\b/,
+    strings: '["](?:(?:\\\\.)|(?:[^"\\\\]))*?["]'
+  };
 
-    var langClasses = (
-        "Poner|Sacar|Mover|IrAlBorde|VaciarTablero|" +
-        "nroBolitas|hayBolitas|puedeMover|siguiente|previo|opuesto|minBool|maxBool|" +
-        "minDir|maxDir|minColor|maxColor"
-    );
+  var primitives = {
+    commands: "Poner|Sacar|Mover|IrAlBorde|VaciarTablero|BOOM",
+    expressions: "nroBolitas|hayBolitas|puedeMover|"+
+                  "siguiente|previo|opuesto|"+
+                  "minBool|maxBool|minDir|maxDir|minColor|maxColor|"+
+                  "primero|sinElPrimero|esVacía|"+
+                  "boom",
+    keys: "K_A|K_B|K_C|K_D|K_E|K_F|K_G|K_G|K_H|K_I|K_J|K_K|K_L|K_M|K_N|K_Ñ|"+
+      "K_O|K_P|K_Q|K_R|K_S|K_T|K_U|K_V|K_W|K_X|K_Y|K_Z|"+
+      "K_0|K_1|K_2|K_3|K_4|K_5|K_6|K_7|K_8|K_9|"+
+      "K_F1|K_F2|K_F3|K_F4|K_F5|K_F6|K_F7|K_F8|K_F9|K_F10|K_F11|K_12|"+
+      "K_UP|K_DOWN|K_LEFT|K_RIGHT|K_RETURN|K_BACKSPACE|K_TAB|K_SPACE|K_ESCAPE"+
 
-    var supportType = (
-        "Verde|Rojo|Azul|Negro|Norte|Sur|Este|Oeste"
-    );
+      "K_CTRL_A|K_CTRL_B|K_CTRL_C|K_CTRL_D|K_CTRL_E|K_CTRL_F|K_CTRL_G|K_CTRL_G|"+
+      "K_CTRL_H|K_CTRL_I|K_CTRL_J|K_CTRL_K|K_CTRL_L|K_CTRL_M|K_CTRL_N|K_CTRL_Ñ|"+
+      "K_CTRL_O|K_CTRL_P|K_CTRL_Q|K_CTRL_R|K_CTRL_S|K_CTRL_T|K_CTRL_U|K_CTRL_V|"+
+      "K_CTRL_W|K_CTRL_X|K_CTRL_Y|K_CTRL_Z|"+
+      "K_CTRL_0|K_CTRL_1|K_CTRL_2|K_CTRL_3|K_CTRL_4|K_CTRL_5|K_CTRL_6|K_CTRL_7|K_CTRL_8|K_CTRL_9|"+
+      "K_CTRL_F1|K_CTRL_F2|K_CTRL_F3|K_CTRL_F4|K_CTRL_F5|K_CTRL_F6|K_CTRL_F7|"+
+      "K_CTRL_F8|K_CTRL_F9|K_CTRL_F10|K_CTRL_F11|K_CTRL_F12|"+
+      "K_CTRL_UP|K_CTRL_DOWN|K_CTRL_LEFT|K_CTRL_RIGHT|K_CTRL_RETURN|"+
+      "K_CTRL_BACKSPACE|K_CTRL_TAB|K_CTRL_SPACE|K_CTRL_ESCAPE"+
 
-    var keywordMapper = this.createKeywordMapper({
-        "keyword": keywords,
-        "constant.language": buildinConstants,
-        "support.function": langClasses,
-        "support.type": supportType
-    }, "identifier");
+      "K_ALT_A|K_ALT_B|K_ALT_C|K_ALT_D|K_ALT_E|K_ALT_F|K_ALT_G|K_ALT_G|K_ALT_H|"+
+      "K_ALT_I|K_ALT_J|K_ALT_K|K_ALT_L|K_ALT_M|K_ALT_N|K_ALT_Ñ|K_ALT_O|K_ALT_P|"+
+      "K_ALT_Q|K_ALT_R|K_ALT_S|K_ALT_T|K_ALT_U|K_ALT_V|K_ALT_W|K_ALT_X|K_ALT_Y|K_ALT_Z|"+
+      "K_ALT_0|K_ALT_1|K_ALT_2|K_ALT_3|K_ALT_4|K_ALT_5|K_ALT_6|K_ALT_7|K_ALT_8|K_ALT_9|"+
+      "K_ALT_F1|K_ALT_F2|K_ALT_F3|K_ALT_F4|K_ALT_F5|K_ALT_F6|K_ALT_F7|K_ALT_F8|"+
+      "K_ALT_F9|K_ALT_F10|K_ALT_F11|K_ALT_F12|"+
+      "K_ALT_UP|K_ALT_DOWN|K_ALT_LEFT|K_ALT_RIGHT|K_ALT_RETURN|K_ALT_BACKSPACE|"+
+      "K_ALT_TAB|K_ALT_SPACE|K_ALT_ESCAPE"+
 
-    this.$rules = {
-        "start" : [
-            {
-                token : "comment",
-                regex : "\\/\\/.*$"
-            },
-            {
-                token : "comment",
-                regex : "\\-\\-.*$"
-            },
-            {
-                token : "comment",
-                regex : "#.*$"
-            },
-            DocCommentHighlightRules.getStartRule("doc-start"),
-            {
-                token : "comment", // multi line comment
-                regex : "\\/\\*",
-                next : "comment"
-            }, {
+      "K_SHIFT_A|K_SHIFT_B|K_SHIFT_C|K_SHIFT_D|K_SHIFT_E|K_SHIFT_F|K_SHIFT_G|"+
+      "K_SHIFT_G|K_SHIFT_H|K_SHIFT_I|K_SHIFT_J|K_SHIFT_K|K_SHIFT_L|K_SHIFT_M|"+
+      "K_SHIFT_N|K_SHIFT_Ñ|K_SHIFT_O|K_SHIFT_P|K_SHIFT_Q|K_SHIFT_R|K_SHIFT_S|"+
+      "K_SHIFT_T|K_SHIFT_U|K_SHIFT_V|K_SHIFT_W|K_SHIFT_X|K_SHIFT_Y|K_SHIFT_Z|"+
+      "K_SHIFT_0|K_SHIFT_1|K_SHIFT_2|K_SHIFT_3|K_SHIFT_4|K_SHIFT_5|K_SHIFT_6|"+
+      "K_SHIFT_7|K_SHIFT_8|K_SHIFT_9|"+
+      "K_SHIFT_F1|K_SHIFT_F2|K_SHIFT_F3|K_SHIFT_F4|K_SHIFT_F5|K_SHIFT_F6|"+
+      "K_SHIFT_F7|K_SHIFT_F8|K_SHIFT_F9|K_SHIFT_F10|K_SHIFT_F11|K_SHIFT_F12|"+
+      "K_SHIFT_UP|K_SHIFT_DOWN|K_SHIFT_LEFT|K_SHIFT_RIGHT|K_SHIFT_RETURN|"+
+      "K_SHIFT_BACKSPACE|K_SHIFT_TAB|K_SHIFT_SPACE|K_SHIFT_ESCAPE"+
 
-                token : "string", // single line
-                regex : '["](?:(?:\\\\.)|(?:[^"\\\\]))*?["]'
-            }, {
-                token : "string", // single line
-                regex : "['](?:(?:\\\\.)|(?:[^'\\\\]))*?[']"
-            }, {
-                token : "constant.numeric", // hex
-                regex : /0(?:[xX][0-9a-fA-F][0-9a-fA-F_]*|[bB][01][01_]*)[LlSsDdFfYy]?\b/
-            }, {
-                token : "constant.numeric", // float
-                regex : /[+-]?\d[\d_]*(?:(?:\.[\d_]*)?(?:[eE][+-]?[\d_]+)?)?[LlSsDdFfYy]?\b/
-            }, {
-                token : "constant.language.boolean",
-                regex : "(?:True|False)\\b"
-            }, {
-                token : "keyword.operator",
-                regex : ":=|\\.\\.|,|;|\\|\\||\\/\\/|\\+|\\-|\\^|\\*|>|<|>=|=>|==|&&"
-            }, {
-                token : keywordMapper,
-                regex : "[a-zA-Z_$][a-zA-Z0-9_$]*\\b"
-            }, {
-                token : "lparen",
-                regex : "[[({]"
-            }, {
-                token : "rparen",
-                regex : "[\\])}]"
-            }, {
-                token : "text",
-                regex : "\\s+"
-            }
-        ],
-        "comment" : [
-            {
-                token : "comment", // closing comment
-                regex : ".*?\\*\\/",
-                next : "start"
-            }, {
-                token : "comment", // comment spanning whole line
-                regex : ".+"
-            }
-        ]
-    };
+      "K_CTRL_ALT_A|K_CTRL_ALT_B|K_CTRL_ALT_C|K_CTRL_ALT_D|K_CTRL_ALT_E|"+
+      "K_CTRL_ALT_F|K_CTRL_ALT_G|K_CTRL_ALT_G|K_CTRL_ALT_H|K_CTRL_ALT_I|"+
+      "K_CTRL_ALT_J|K_CTRL_ALT_K|K_CTRL_ALT_L|K_CTRL_ALT_M|K_CTRL_ALT_N|"+
+      "K_CTRL_ALT_Ñ|K_CTRL_ALT_O|K_CTRL_ALT_P|K_CTRL_ALT_Q|K_CTRL_ALT_R|"+
+      "K_CTRL_ALT_S|K_CTRL_ALT_T|K_CTRL_ALT_U|K_CTRL_ALT_V|K_CTRL_ALT_W|"+
+      "K_CTRL_ALT_X|K_CTRL_ALT_Y|K_CTRL_ALT_Z|"+
+      "K_CTRL_ALT_0|K_CTRL_ALT_1|K_CTRL_ALT_2|K_CTRL_ALT_3|K_CTRL_ALT_4|"+
+      "K_CTRL_ALT_5|K_CTRL_ALT_6|K_CTRL_ALT_7|K_CTRL_ALT_8|K_CTRL_ALT_9|"+
+      "K_CTRL_ALT_F1|K_CTRL_ALT_F2|K_CTRL_ALT_F3|K_CTRL_ALT_F4|K_CTRL_ALT_F5|"+
+      "K_CTRL_ALT_F6|K_CTRL_ALT_F7|K_CTRL_ALT_F8|K_CTRL_ALT_F9|K_CTRL_ALT_F10|"+
+      "K_CTRL_ALT_F11|K_CTRL_ALT_F12|"+
+      "K_CTRL_ALT_UP|K_CTRL_ALT_DOWN|K_CTRL_ALT_LEFT|K_CTRL_ALT_RIGHT|"+
+      "K_CTRL_ALT_RETURN|K_CTRL_ALT_BACKSPACE|K_CTRL_ALT_TAB|K_CTRL_ALT_SPACE|K_CTRL_ALT_ESCAPE"+
 
-    this.embedRules(DocCommentHighlightRules, "doc-",
-        [ DocCommentHighlightRules.getEndRule("start") ]);
+      "K_CTRL_SHIFT_A|K_CTRL_SHIFT_B|K_CTRL_SHIFT_C|K_CTRL_SHIFT_D|K_CTRL_SHIFT_E|"+
+      "K_CTRL_SHIFT_F|K_CTRL_SHIFT_G|K_CTRL_SHIFT_G|K_CTRL_SHIFT_H|K_CTRL_SHIFT_I|"+
+      "K_CTRL_SHIFT_J|K_CTRL_SHIFT_K|K_CTRL_SHIFT_L|K_CTRL_SHIFT_M|K_CTRL_SHIFT_N|"+
+      "K_CTRL_SHIFT_Ñ|K_CTRL_SHIFT_O|K_CTRL_SHIFT_P|K_CTRL_SHIFT_Q|K_CTRL_SHIFT_R|"+
+      "K_CTRL_SHIFT_S|K_CTRL_SHIFT_T|K_CTRL_SHIFT_U|K_CTRL_SHIFT_V|K_CTRL_SHIFT_W|"+
+      "K_CTRL_SHIFT_X|K_CTRL_SHIFT_Y|K_CTRL_SHIFT_Z|"+
+      "K_CTRL_SHIFT_0|K_CTRL_SHIFT_1|K_CTRL_SHIFT_2|K_CTRL_SHIFT_3|K_CTRL_SHIFT_4|"+
+      "K_CTRL_SHIFT_5|K_CTRL_SHIFT_6|K_CTRL_SHIFT_7|K_CTRL_SHIFT_8|K_CTRL_SHIFT_9|"+
+      "K_CTRL_SHIFT_F1|K_CTRL_SHIFT_F2|K_CTRL_SHIFT_F3|K_CTRL_SHIFT_F4|"+
+      "K_CTRL_SHIFT_F5|K_CTRL_SHIFT_F6|K_CTRL_SHIFT_F7|K_CTRL_SHIFT_F8|"+
+      "K_CTRL_SHIFT_9|K_CTRL_SHIFT_10|K_CTRL_SHIFT_11|K_CTRL_SHIFT_12|"+
+      "K_CTRL_SHIFT_UP|K_CTRL_SHIFT_DOWN|K_CTRL_SHIFT_LEFT|K_CTRL_SHIFT_RIGHT|"+
+      "K_CTRL_SHIFT_RETURN|K_CTRL_SHIFT_BACKSPACE|K_CTRL_SHIFT_TAB|"+
+      "K_CTRL_SHIFT_SPACE|K_CTRL_SHIFT_ESCAPE"+
+
+      "K_ALT_SHIFT_A|K_ALT_SHIFT_B|K_ALT_SHIFT_C|K_ALT_SHIFT_D|K_ALT_SHIFT_E|"+
+      "K_ALT_SHIFT_F|K_ALT_SHIFT_G|K_ALT_SHIFT_G|K_ALT_SHIFT_H|K_ALT_SHIFT_I|"+
+      "K_ALT_SHIFT_J|K_ALT_SHIFT_K|K_ALT_SHIFT_L|K_ALT_SHIFT_M|K_ALT_SHIFT_N|"+
+      "K_ALT_SHIFT_Ñ|K_ALT_SHIFT_O|K_ALT_SHIFT_P|K_ALT_SHIFT_Q|K_ALT_SHIFT_R|"+
+      "K_ALT_SHIFT_S|K_ALT_SHIFT_T|K_ALT_SHIFT_U|K_ALT_SHIFT_V|K_ALT_SHIFT_W|"+
+      "K_ALT_SHIFT_X|K_ALT_SHIFT_Y|K_ALT_SHIFT_Z|"+
+      "K_ALT_SHIFT_0|K_ALT_SHIFT_1|K_ALT_SHIFT_2|K_ALT_SHIFT_3|K_ALT_SHIFT_4|"+
+      "K_ALT_SHIFT_5|K_ALT_SHIFT_6|K_ALT_SHIFT_7|K_ALT_SHIFT_8|K_ALT_SHIFT_9|"+
+      "K_ALT_SHIFT_F1|K_ALT_SHIFT_F2|K_ALT_SHIFT_F3|K_ALT_SHIFT_F4|"+
+      "K_ALT_SHIFT_F5|K_ALT_SHIFT_F6|K_ALT_SHIFT_F7|K_ALT_SHIFT_F8|"+
+      "K_ALT_SHIFT_9|K_ALT_SHIFT_10|K_ALT_SHIFT_11|K_ALT_SHIFT_12|"+
+      "K_ALT_SHIFT_UP|K_ALT_SHIFT_DOWN|K_ALT_SHIFT_LEFT|K_ALT_SHIFT_RIGHT|"+
+      "K_ALT_SHIFT_RETURN|K_ALT_SHIFT_BACKSPACE|K_ALT_SHIFT_TAB|K_ALT_SHIFT_SPACE|"+
+      "K_ALT_SHIFT_ESCAPE"+
+
+      "K_CTRL_ALT_SHIFT_A|K_CTRL_ALT_SHIFT_B|K_CTRL_ALT_SHIFT_C|K_CTRL_ALT_SHIFT_D|"+
+      "K_CTRL_ALT_SHIFT_E|K_CTRL_ALT_SHIFT_F|K_CTRL_ALT_SHIFT_G|K_CTRL_ALT_SHIFT_G|"+
+      "K_CTRL_ALT_SHIFT_H|K_CTRL_ALT_SHIFT_I|K_CTRL_ALT_SHIFT_J|K_CTRL_ALT_SHIFT_K|"+
+      "K_CTRL_ALT_SHIFT_L|K_CTRL_ALT_SHIFT_M|K_CTRL_ALT_SHIFT_N|K_CTRL_ALT_SHIFT_Ñ|"+
+      "K_CTRL_ALT_SHIFT_O|K_CTRL_ALT_SHIFT_P|K_CTRL_ALT_SHIFT_Q|K_CTRL_ALT_SHIFT_R|"+
+      "K_CTRL_ALT_SHIFT_S|K_CTRL_ALT_SHIFT_T|K_CTRL_ALT_SHIFT_U|K_CTRL_ALT_SHIFT_V|"+
+      "K_CTRL_ALT_SHIFT_W|K_CTRL_ALT_SHIFT_X|K_CTRL_ALT_SHIFT_Y|K_CTRL_ALT_SHIFT_Z|"+
+      "K_CTRL_ALT_SHIFT_0|K_CTRL_ALT_SHIFT_1|K_CTRL_ALT_SHIFT_2|K_CTRL_ALT_SHIFT_3|"+
+      "K_CTRL_ALT_SHIFT_4|K_CTRL_ALT_SHIFT_5|K_CTRL_ALT_SHIFT_6|K_CTRL_ALT_SHIFT_7|"+
+      "K_CTRL_ALT_SHIFT_8|K_CTRL_ALT_SHIFT_9|"+
+      "K_CTRL_ALT_SHIFT_F1|K_CTRL_ALT_SHIFT_F2|K_CTRL_ALT_SHIFT_F3|K_CTRL_ALT_SHIFT_F4|"+
+      "K_CTRL_ALT_SHIFT_F5|K_CTRL_ALT_SHIFT_F6|K_CTRL_ALT_SHIFT_F7|K_CTRL_ALT_SHIFT_F8|"+
+      "K_CTRL_ALT_SHIFT_F9|K_CTRL_ALT_SHIFT_F10|K_CTRL_ALT_SHIFT_F11|K_CTRL_ALT_SHIFT_F12|"+
+      "K_CTRL_ALT_SHIFT_UP|K_CTRL_ALT_SHIFT_DOWN|K_CTRL_ALT_SHIFT_LEFT|K_CTRL_ALT_SHIFT_RIGHT|"+
+      "K_CTRL_ALT_SHIFT_RETURN|K_CTRL_ALT_SHIFT_BACKSPACE|K_CTRL_ALT_SHIFT_TAB|"+
+      "K_CTRL_ALT_SHIFT_SPACE|K_CTRL_ALT_SHIFT_ESCAPE"
+  };
+
+  var operations = {
+    commands: ":=",
+    expressions: {
+      numeric: "\\+|\\-|\\*|\\^|div|mod",
+      comparison: ">=|<=|==|\\/=|>|<",
+      boolean: "\\|\\||&&|not",
+      other: "\\+\\+|<\\-|\\[|\\]|\\_|\\->"
+    }
+  };
+
+  var comments = {
+    line: {
+      double_slash: "\\/\\/.*$",
+      double_dash: "\\-\\-.*$",
+      number_sign: "#.*$"
+    },
+    block: { start: "\\/\\*", end: "\\*\\/" },
+    block_alt: { start: "\\{\\-", end: "\\-\\}" }
+  };
+
+  this.$rules = {
+    "start" : [
+      {
+        token : "comment.line.double-slash.gobstones",
+        regex : comments.line.double_slash
+      },
+      {
+        token : "comment.line.double-dash.gobstones",
+        regex : comments.line.double_dash
+      },
+      {
+        token : "comment.line.number-sign.gobstones",
+        regex : comments.line.number_sign
+      },
+      {
+        token : "comment.block.dash-asterisc.gobstones",
+        regex : comments.block.start,
+        next : "block_comment_end"
+      },
+      {
+        token : "comment.block.brace-dash.gobstones",
+        regex : comments.block_alt.start,
+        next : "block_comment_alt_end"
+      },
+      {
+        token : "constant.numeric.gobstones",
+        regex : values.numbers
+      },
+      {
+        token : "string.quoted.double.gobstones",
+        regex : values.strings
+      },
+      {
+        token : "keyword.operator.other.gobstones",
+        regex : operations.expressions.other
+      },
+      {
+        token : "keyword.operator.numeric.gobstones",
+        regex : operations.expressions.numeric
+      },
+      {
+        token : "keyword.operator.compare.gobstones",
+        regex : operations.expressions.comparison
+      },
+      {
+        token : "keyword.operator.boolean.gobstones",
+        regex : operations.expressions.boolean
+      },
+      {
+        token : this.createKeywordMapper({
+          "storage.type.definitions.gobstones": definitions.standard,
+          "storage.type.types.gobstones": definitions.type,
+          "keyword.control.commands.repetitions.gobstones": control.commands.repetitions,
+          "keyword.control.commands.alternatives.gobstones": control.commands.alternatives,
+          "keyword.control.expressions.alternatives.gobstones": control.expressions.alternatives,
+          "constant.language.colors.gobstones":values.colors,
+          "constant.language.cardinals.gobstones": values.cardinals,
+          "constant.language.boolean.gobstones": values.booleans,
+          "support.function.gobstones": primitives.commands,
+          "support.variable.gobstones": primitives.expressions,
+          "variable.language.gobstones": primitives.keys
+      }, "identifier.gobstones"),
+        regex : "[a-zA-Z_$][a-zA-Z0-9_$]*\\b"
+      },
+      {
+        token : "comma.gobstones",
+        regex : ","
+      },
+      {
+        token : "semicolon.gobstones",
+        regex : ";"
+      },
+      {
+        token : "lparen",
+        regex : "[[({]"
+      },
+      {
+        token : "rparen",
+        regex : "[\\])}]"
+      },
+      {
+        token : "text",
+        regex : "\\s+"
+      }
+    ],
+    "block_comment_end": [{
+        token : "comment.block.dash-asterisc.gobstones",
+        regex : comments.block.end,
+        next : "start"
+      }, {
+        defaultToken : "comment.block.dash-asterisc.gobstones"
+      }
+    ],
+    "block_comment_alt_end": [{
+        token : "comment.block.brace-dash.gobstones",
+        regex : comments.block_alt.end,
+        next : "start"
+      }, {
+        defaultToken : "comment.block.brace-dash.gobstones"
+      }
+    ]
+  };
 };
 
 oop.inherits(GobstonesHighlightRules, TextHighlightRules);
@@ -1247,7 +1054,7 @@ oop.inherits(GobstonesHighlightRules, TextHighlightRules);
 exports.GobstonesHighlightRules = GobstonesHighlightRules;
 });
 
-define("ace/mode/gobstones",["require","exports","module","ace/lib/oop","ace/mode/javascript","ace/mode/gobstones_highlight_rules"], function(require, exports, module) {
+define("ace/mode/gobstones",["require","exports","module","ace/lib/oop","ace/mode/javascript","ace/mode/gobstones_highlight_rules"], function(require, exports) {
 "use strict";
 
 var oop = require("../lib/oop");
@@ -1257,12 +1064,13 @@ var GobstonesHighlightRules = require("./gobstones_highlight_rules").GobstonesHi
 var Mode = function() {
     JavaScriptMode.call(this);
     this.HighlightRules = GobstonesHighlightRules;
+    this.$behaviour = this.$defaultBehaviour;
 };
 oop.inherits(Mode, JavaScriptMode);
 
 (function() {
-    
-    this.createWorker = function(session) {
+
+    this.createWorker = function() {
         return null;
     };
 
@@ -1270,4 +1078,11 @@ oop.inherits(Mode, JavaScriptMode);
 }).call(Mode.prototype);
 
 exports.Mode = Mode;
-});
+});                (function() {
+                    window.require(["ace/mode/gobstones"], function(m) {
+                        if (typeof module == "object" && typeof exports == "object" && module) {
+                            module.exports = m;
+                        }
+                    });
+                })();
+            
