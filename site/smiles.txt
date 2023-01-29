@@ -15855,7 +15855,7 @@ Phenypressin	C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N
 Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
 Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
 Geniposide	COC(=O)C1=COC(C2C1CC=C2CO)OC3C(C(C(C(O3)CO)O)O)O
-2-aminothiophenol	c1ccc(c(c1)N)S
+2-Aminothiophenol	c1ccc(c(c1)N)S
 Melphalan flufenamide	CCOC(=O)[C@H](CC1=CC=C(C=C1)F)NC(=O)[C@H](CC2=CC=C(C=C2)N(CCCl)CCCl)N
 4-Carboxybenzaldehyde	c1cc(ccc1C=O)C(=O)O
 Brevianamide F	[H][C@@]12CCCN1C(=O)[C@H](Cc1c[nH]c3ccccc13)NC2=O
@@ -19946,3 +19946,4 @@ Copper(II) laurate	C(CCCCCCCC)CCC(O)=O.[Cu]
 Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
 Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dibutyl squarate	CCCCOC1=C(C(=O)C1=O)OCCCC
+Phosalacine	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
