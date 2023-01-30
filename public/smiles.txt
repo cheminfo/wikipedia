@@ -18479,7 +18479,7 @@ KLS-13019	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 Z4349	CC[C@@H](C)N(C[C@@H]([C@@H]1CCC(=O)N1CC2=CC=CC=C2Cl)O)[C@H](C)CC
 Sodium glycerophosphate	[Na+].[Na+].OCC(O)COP([O-])([O-])=O
 4-Vinylanisole	COC1=CC=C(C=C1)C=C
-1,2,3-benzothiadiazole	C1=CC=C2C(=C1)N=NS2
+1,2,3-Benzothiadiazole	C1=CC=C2C(=C1)N=NS2
 Hydrocinnamaldehyde	C1=CC=C(C=C1)CCC=O
 Nereistoxin	CN(C)C1CSSC1
 Nereistoxin	CN(C)C(CSC(=O)N)CSC(=O)N
@@ -19947,3 +19947,4 @@ Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
 Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dibutyl squarate	CCCCOC1=C(C(=O)C1=O)OCCCC
 Phosalacine	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
+Albicidin	C/C(=C\C1=CC=C(C=C1)O)/C(=O)NC2=CC=C(C=C2)C(=O)N[C@@H](CC#N)C(=O)NC3=CC=C(C=C3)C(=O)NC4=C(C(=C(C=C4)C(=O)NC5=C(C(=C(C=C5)C(=O)O)O)OC)O)OC
