@@ -19256,7 +19256,6 @@ Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
 Rubidium ozonide	[Rb+].[O-]O[O]
 Potassium ozonide	[K+].[O-]O[O]
 Hydronium perchlorate	[OH3+].[O-][Cl](=O)(=O)=O
-Selenium iodide	I[Se][Se]I
 Gallium (68Ga) gozetotide	[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[68Ga+3]
 Osmium tetrabromide	[Br-].[Br-].[Br-].[Br-].[Os+4]
 Trifluoroacetonitrile	FC(F)(F)C#N
@@ -19948,3 +19947,4 @@ Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dibutyl squarate	CCCCOC1=C(C(=O)C1=O)OCCCC
 Phosalacine	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
 Albicidin	C/C(=C\C1=CC=C(C=C1)O)/C(=O)NC2=CC=C(C=C2)C(=O)N[C@@H](CC#N)C(=O)NC3=CC=C(C=C3)C(=O)NC4=C(C(=C(C=C4)C(=O)NC5=C(C(=C(C=C5)C(=O)O)O)OC)O)OC
+Zinc laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Zn+2]
