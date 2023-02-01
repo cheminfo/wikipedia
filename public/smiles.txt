@@ -476,7 +476,7 @@ Xylometazoline	N\1=C(\NCC/1)Cc2c(cc(cc2C)C(C)(C)C)C
 Neomycin	O([C@H]3[C@H](O[C@@H]2O[C@H](CO)[C@@H](O[C@H]1O[C@@H](CN)[C@@H](O)[C@H](O)[C@H]1N)[C@H]2O)[C@@H](O)[C@H](N)C[C@@H]3N)[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4N)CN
 Gentamicin	O[C@]3(C)[C@H](NC)[C@@H](O)[C@@H](O[C@H]2[C@H](N)C[C@H](N)[C@@H](O[C@H]1O[C@H](C(NC)C)CC[C@H]1N)[C@@H]2O)OC3
 Ertapenem	O=C(O)c1cc(ccc1)NC(=O)[C@H]4NC[C@@H](S\C3=C(\N2C(=O)[C@H]([C@H](O)C)[C@H]2[C@H]3C)C(=O)O)C4
-Allopurinol	c1c2c([nH]n1)ncnc2O
+Allopurinol	C1=NNC2=C1C(=O)NC=N2
 Phenacyl chloride	c1ccc(cc1)C(=O)CCl
 Clopyralid	O=C(O)C1=C(Cl)C=CC(Cl)=N1
 Phosphine	P
@@ -939,7 +939,7 @@ Denatonium	[O-]C(=O)c1ccccc1.Cc2cccc(C)c2NC(=O)C[N+](CC)(CC)Cc3ccccc3
 Nifedipine	O=C(OC)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C
 Potassium bitartrate	[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O.[K+]
 Roxithromycin	O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](O)(C)[C@H](O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)[C@H]([C@H](O[C@@H]2O[C@H]([C@H](O)[C@](OC)(C2)C)C)[C@H]3C)C)C
-Dantrolene	[O-] [N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
+Dantrolene	[O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
 Telithromycin	O=C2[C@@H]([C@@H](O[C@@H]1O[C@@H](C[C@H](N(C)C)[C@H]1O)C)[C@@](OC)(C)C[C@H](C(=O)[C@H](C)[C@H]3N(C(=O)O[C@]3(C)[C@H](OC(=O)[C@@H]2C)CC)CCCCn4cc(nc4)c5cccnc5)C)C
 Methyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C
 Diltiazem	O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C
@@ -19945,6 +19945,10 @@ Copper(II) laurate	C(CCCCCCCC)CCC(O)=O.[Cu]
 Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
 Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dibutyl squarate	CCCCOC1=C(C(=O)C1=O)OCCCC
+Pirtobrutinib	COC1=C(C=C(F)C=C1)C(=O)NCC1=CC=C(C=C1)C1=NN([C@@H](C)C(F)(F)F)C(N)=C1C(N)=O
 Phosalacine	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
 Albicidin	C/C(=C\C1=CC=C(C=C1)O)/C(=O)NC2=CC=C(C=C2)C(=O)N[C@@H](CC#N)C(=O)NC3=CC=C(C=C3)C(=O)NC4=C(C(=C(C=C4)C(=O)NC5=C(C(=C(C=C5)C(=O)O)O)OC)O)OC
 Zinc laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Zn+2]
+Manganese laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Mn]
+Lanthanum laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[La]
+4-Iodobenzoic acid	C1=CC(=CC=C1C(=O)O)I
