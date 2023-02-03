@@ -16330,6 +16330,7 @@ Nandrolone formate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC
 Tungsten(IV) chloride	Cl[W](Cl)(Cl)Cl
 Prasterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C
 7α-Methyl-19-norandrostenedione	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CCC(=O)[C@]4(CC3)C
+Oxamate	C(=O)(C(=O)[O-])N
 Oxamic acid	C(=O)(C(=O)O)N
 Dimethandrolone buciclate	[H][C@]12CCC(=O)C=C1C[C@@H](C)[C@H]1[C@@H]3CC[C@H](OC(=O)C4CCC(CCCC)CC4)[C@@]3(C)C[C@H](C)[C@H]21
 Dimethandrolone undecanoate	O(C(CCCCCCCCCC)=O)[C@]1CC[C@]([H])2[C@@]([H])3[C@](C)CC4=CC(CC[C@]4([H])[C@@]3([H])[C@@](C)C[C@@]21C)=O
@@ -19953,3 +19954,5 @@ Manganese laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Mn]
 Lanthanum laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[La]
 4-Iodobenzoic acid	C1=CC(=CC=C1C(=O)O)I
 Aluminium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Al+3]
+Magnesium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Mg+2]
+Fipravirimat	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(CC=C(C5(C)C)C6=CC[C@@](CC6)(CF)C(=O)O)C)C)NCCN7CCS(=O)(=O)CC7
