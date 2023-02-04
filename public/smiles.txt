@@ -19945,6 +19945,8 @@ Cyclooctanone	C1CCCC(=O)CCC1
 Copper(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Cu+2]
 Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
 Nickel(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Ni+2]
+Calcium hydroxychloride	[OH-].[Cl-].[Ca+2]
+Tetrachloroferrate	Cl[Fe-](Cl)(Cl)Cl
 Dibutyl squarate	CCCCOC1=C(C(=O)C1=O)OCCCC
 Pirtobrutinib	COC1=C(C=C(F)C=C1)C(=O)NCC1=CC=C(C=C1)C1=NN([C@@H](C)C(F)(F)F)C(N)=C1C(N)=O
 Phosalacine	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
@@ -19956,3 +19958,4 @@ Lanthanum laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[La]
 Aluminium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Al+3]
 Magnesium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Mg+2]
 Fipravirimat	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(CC=C(C5(C)C)C6=CC[C@@](CC6)(CF)C(=O)O)C)C)NCCN7CCS(=O)(=O)CC7
+Darigabat	CCN1C=NC2=C1N=NC=C2C3=CC(=C(C=C3)F)C4=C(C=C(C=C4)S(=O)(=O)CC)OC
