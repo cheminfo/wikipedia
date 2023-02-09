@@ -9162,7 +9162,7 @@ Hydroxy-alpha-sanshool	CC=CC=CC=CCCC=CC(=O)NCC(C)(C)O
 Ergocryptine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3CC(C)C)(NC(=O)[C@@H]7/C=C6/c4cccc5c4c(c[nH]5)C[C@H]6N(C)C7)C(C)C
 Difenacoum	O=c1c(C2CC(c3ccc(-c4ccccc4)cc3)Cc3ccccc32)c(O)oc2ccccc12
 Ergocristine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3Cc4ccccc4)(NC(=O)[C@@H]8/C=C7/c5cccc6c5c(c[nH]6)C[C@H]7N(C)C8)C(C)C
-Fumarin	CC(=O)CC(C1=CC=CO1)C2=C(OC3=CC=CC=C3C2=O)O
+Fumarin	CC(=O)CC(c1ccco1)c2c(c3ccccc3oc2=O)O
 Ergocornine	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3C(C)C)(NC(=O)[C@@H]7/C=C6/c4cccc5c4c(c[nH]5)C[C@H]6N(C)C7)C(C)C
 Ergovaline	O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3C(C)C)(NC(=O)[C@@H]7/C=C6/c4cccc5c4c(c[nH]5)C[C@H]6N(C)C7)C
 Fluindione	C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)F
@@ -19971,3 +19971,5 @@ Terbium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tb+3]
 Titanium tetralactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Ti+4]
 Silver stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Ag+]
 Resmetiron	CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl
+Tin(II) stearate	CCCCCCCCCCCCCCCCCC(=O)O.[Sn]
+Olibanic acid	CCCCCCCCC1CC1C(=O)O
