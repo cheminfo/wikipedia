@@ -423,6 +423,7 @@ Sulfurous acid	O[S](=O)O
 Sulfurous acid	O[S+](O)[O-]
 Butyric acid	O=C(O)CCC
 Polyvinyl acetate	O([C@@H](C*)*)C(C)=O
+Cementite	[C].[Fe].[Fe].[Fe]
 Alizarin	O=C2c1ccccc1C(=O)c3c2ccc(O)c3O
 Fenamidone	O=C2N(Nc1ccccc1)C(\SC)=N/[C@]2(c3ccccc3)C
 Famoxadone	O=C2OC(C(=O)N2Nc1ccccc1)(c4ccc(Oc3ccccc3)cc4)C
@@ -19973,3 +19974,6 @@ Silver stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Ag+]
 Resmetiron	CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl
 Tin(II) stearate	CCCCCCCCCCCCCCCCCC(=O)O.[Sn]
 Olibanic acid	CCCCCCCCC1CC1C(=O)O
+Copper(II) telluride	[Cu]=[Te]
+Copper(I) telluride	[Cu].[Cu].[Te]
+Copper ditelluride	[Te]=[Cu]=[Te]
