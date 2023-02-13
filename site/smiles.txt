@@ -19974,7 +19974,13 @@ Silver stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Ag+]
 Resmetirom	CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl
 Tin(II) stearate	CCCCCCCCCCCCCCCCCC(=O)O.[Sn]
 Olibanic acid	CCCCCCCCC1CC1C(=O)O
+Olibanic acid	CCCCCCCC[C@H]1C[C@@H]1C(=O)O
+Olibanic acid	CCCCCCCC[C@@H]1C[C@H]1C(=O)O
+Olibanic acid	CCCCCCCC[C@@H]1C[C@@H]1C(=O)O
+Olibanic acid	CCCCCCCC[C@H]1C[C@H]1C(=O)O
 Copper(II) telluride	[Cu]=[Te]
 Copper(I) telluride	[Cu].[Cu].[Te]
 Copper ditelluride	[Te]=[Cu]=[Te]
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
+N,N-Dimethylethanolamine bitartrate	CN(C)CCO.C(C(C(=O)O)O)(C(=O)O)O
+N,N-Dimethylethanolamine bitartrate	CN(C)CCO.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O
