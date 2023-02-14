@@ -841,7 +841,7 @@ Puromycin	O=C(N[C@@H]3[C@H](O[C@@H](n2cnc1c2ncnc1N(C)C)[C@@H]3O)CO)[C@@H](N)Cc4c
 Phenylpropanolamine	O[C@H](c1ccccc1)[C@@H](N)C
 Ciglitazone	O=C1NC(=O)SC1Cc3ccc(OCC2(C)CCCCC2)cc3
 Fenobucarb	CNC(=O)Oc1ccccc1C(C)CC
-Pethidine	O=C(C1(CCN(CC1)C)C2=CC=CC=C2)OCC
+Pethidine	CCOC(=O)C1(c2ccccc2)CCN(C)CC1
 Nitrobenzene	c1ccc(cc1)[N+](=O)[O-]
 Triclopyr	ClC1=C(OCC(O)=O)N=C(Cl)C(Cl)=C1
 Phenylthiocarbamide	C1=CC=C(C=C1)NC(=S)N
@@ -3345,7 +3345,7 @@ Farnesyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/COP(=O)(O)OP(=O)(O)O)/C)/C)C
 Geranylgeranyl pyrophosphate	O=P(O)(O)OP(=O)(O)OC/C=C(/CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C)C
 Clenbuterol	Clc1cc(cc(Cl)c1N)C(O)CNC(C)(C)C
 Anthrone	O=C2c1c(cccc1)Cc3c2cccc3
-Dextromoramide	C[C@@H](C(C1=CC=CC=C1)(C(N2CCCC2)=O)C3=CC=CC=C3)CN4CCOCC4
+Dextromoramide	C[C@H](CN1CCOCC1)C(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1
 Sodium orthovanadate	[O-][V](=O)([O-])[O-].[Na+].[Na+].[Na+]
 Copper(II) triflate	[Cu+2].FC(F)(F)S([O-])(=O)=O.FC(F)(F)S([O-])(=O)=O
 Tetramethrin	O=C1\C3=C(/C(=O)N1COC(=O)C2C(\C=C(/C)C)C2(C)C)CCCC3
@@ -12289,7 +12289,7 @@ Ombrabulin	COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)N
 Pyridine-2-carbaldehyde	O=Cc1ncccc1
 Fexinidazole	[O-] [N+](=O)c1cnc(n1C)COc2ccc(SC)cc2
 Ronidazole	O=C(OCc1ncc(n1C)[N+]([O-])=O)N
-Varespladib	CCC1=C(C2=C(N1CC3=CC=CC=C3)C=CC=C2OCC(=O)O)C(=O)C(=O)N
+Varespladib	CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccc2n1Cc1ccccc1
 PD-102,807	CCOC(=O)c1c(C)[nH]c(c1c3C5)ccc3OC2N5CCc4c2ccc(OC)c4
 VU-0238429	COc1ccc(cc1)CN2c3ccc(cc3C(=O)C2=O)OC(F)(F)F
 Pafuramidine	CO/N=C(\N)/C1=CC=C(C=C1)C2=CC=C(O2)C3=CC=C(C=C3)/C(=N/OC)/N
@@ -16559,7 +16559,7 @@ Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
 Glucotropaeolin	c1ccc(cc1)C/C(=N\OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Dimethylaminoisopropanol	CC(CN(C)C)O
-Poseltinib	C=CC(NC1=CC=CC(OC2=C(OC=C3)C3=NC(NC4=CC=C(N5CCN(C)CC5)C=C4)=N2)=C1)=O
+Poseltinib	C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccoc23)c1
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
 Tris(dimethylamino)methane	CN(C)C(N(C)C)N(C)C
 Ethyl cyanohydroxyiminoacetate	CCOC(=O)/C(=N\O)/C#N
@@ -19984,3 +19984,4 @@ Copper ditelluride	[Te]=[Cu]=[Te]
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
 N,N-Dimethylethanolamine bitartrate	CN(C)CCO.C(C(C(=O)O)O)(C(=O)O)O
 N,N-Dimethylethanolamine bitartrate	CN(C)CCO.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O
+Copper(II) stearate	[Cu+2].[O-]C(=O)CCCCCCCCCCCCCCCCC.[O-]C(=O)CCCCCCCCCCCCCCCCC
