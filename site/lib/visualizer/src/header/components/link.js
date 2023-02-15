@@ -1,1 +1,1 @@
-"use strict";define(["src/header/components/default","src/util/util"],function(a,b){function c(){}return b.inherits(c,a,{_onClick:function(){this.options.url&&(this.options.blank?window.open(this.options.url):window.location.assign(this.options.url))}}),c});
+'use strict';define(["src/header/components/default","src/util/util"],function(a,b){"use strict";function c(){}return b.inherits(c,a,{_onClick:function(){this.options.url&&(this.options.blank?window.open(this.options.url):window.location.assign(this.options.url))}}),c});

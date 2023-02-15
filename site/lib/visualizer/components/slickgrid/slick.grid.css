@@ -21,7 +21,7 @@ classes should alter those!
 .slick-header-column.ui-state-default {
   position: relative;
   display: inline-block;
-  /*box-sizing: content-box !important; */
+ /*box-sizing: content-box !important; use this for Firefox! */ 
   overflow: hidden;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
@@ -51,6 +51,21 @@ classes should alter those!
   margin-left: 4px;
   margin-top: 6px;
   float: left;
+}
+
+.slick-sort-indicator-numbered {
+  display: inline-block;
+  width: 8px;
+  height: 5px;
+  margin-left: 4px;
+  margin-top: 0;
+  padding-left: 1px;
+  line-height: 20px;
+  float: left;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  color: #6190CD;
 }
 
 .slick-sort-indicator-desc {
