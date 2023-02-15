@@ -207,13 +207,9 @@ export function MoleculeList({
 
   const gridRef = useRef<Grid>(null);
 
-  const goToTop = () => {
-    gridRef.current?.scrollTo({ scrollTop: 0 });
-  };
-
   useLayoutEffect(() => {
-    goToTop();
-  }, [filter, molSearchResult]);
+    gridRef.current?.scrollTo({ scrollTop: 0 });
+  }, [molFiltered]);
 
   return (
     <SimpleTable
