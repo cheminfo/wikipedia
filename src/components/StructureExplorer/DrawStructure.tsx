@@ -53,9 +53,9 @@ function Board({ setIdCode }: BoardProps): JSX.Element {
   });
 
   return (
-    <div className="mt-8 lg:mt-10 lg:w-[470px]" ref={ref}>
+    <div className="lg:w-[470px]" ref={ref}>
       <StructureEditor
-        height={385}
+        height={490}
         width={boardWidth}
         onChange={(molfile, molecule) => {
           setIdCode(molecule.getIDCode());
@@ -74,7 +74,7 @@ export function DrawStructure({
     <SimpleTable
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
-      className=""
+      className="h-[505px] bg-lightblue"
       content={<Board setIdCode={setIdCode} />}
     />
   );
