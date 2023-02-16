@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { AiOutlineQuestionCircle } from 'react-icons/ai';
+import { AiOutlineLink } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
@@ -31,7 +31,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <AiOutlineQuestionCircle className="absolute top-1.5 right-2 transform cursor-help text-xl text-darkblue opacity-0 transition-all duration-200 ease-in-out group-hover:opacity-100" />
+        <AiOutlineLink className="absolute top-1.5 right-2 transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
       </a>
       <div>
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
