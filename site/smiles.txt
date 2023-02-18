@@ -13225,6 +13225,7 @@ P-Coumaric acid glucoside	C1=CC(=CC=C1/C=C/C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@
 Malvidin-3-O-(6-p-coumaroyl)glucoside	O[C@@H]4[C@@H](O)[C@H](O)[C@@H](OC2=CC=1C(O)=CC(O)=CC=1[O+]=C2C3=CC(OC)=C(O)C(=C3)OC)O[C@H]4COC(=O)/C=C/C5=CC=C(O)C=C5
 Chloropentamminecobalt chloride	[Cl-].Cl[Co-3]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+].[Cl-]
 Littorine	CN1[C@@H]2C[C@@H](OC([C@@H](CC3=CC=CC=C3)O)=O)C[C@H]1CC2
+Barium metaphosphate	[O-][P+](=O)[O-].[O-][P+](=O)[O-].[Ba+2]
 Tetraethylammonium chloride	[Cl-].CC[N+](CC)(CC)CC
 Empagliflozin	C1COCC1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)C4C(C(C(C(O4)CO)O)O)O)Cl
 Lunularin	c1cc(cc(c1)O)CCc2ccc(cc2)O
@@ -19993,3 +19994,4 @@ Tetrachlorocatechol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O)O
 5-TFMO-DMT	CN(C)CCC1=CNC2=CC=C(OC(F)(F)F)C=C21
 5-TFM-DMT	CN(C)CCC1=CNC2=CC=C(C(F)(F)F)C=C21
 Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
+TDI-11861	C1COC[C@@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
