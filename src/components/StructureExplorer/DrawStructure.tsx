@@ -75,7 +75,8 @@ export function DrawStructure({
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
       className=""
-      content={<Board setIdCode={setIdCode} />}
-    />
+    >
+      <Board setIdCode={setIdCode} />
+    </SimpleTable>
   );
 }

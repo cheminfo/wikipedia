@@ -200,7 +200,8 @@ export function MoleculeList({
       option={<Filter filter={filter} setFilter={setFilter} />}
       className="h-full w-full"
       footer={<MolListFooter filteredMolCount={molFiltered.length} />}
-      content={<Molecules molecules={molFiltered} />}
-    />
+    >
+      <Molecules molecules={molFiltered} />
+    </SimpleTable>
   );
 }

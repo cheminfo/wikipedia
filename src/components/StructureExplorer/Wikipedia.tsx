@@ -66,7 +66,8 @@ export function Wikipedia(): JSX.Element {
       title="Wikipedia article"
       option={<OpenWiki />}
       className="w-full"
-      content={<WikiPage />}
-    />
+    >
+      <WikiPage />
+    </SimpleTable>
   );
 }
