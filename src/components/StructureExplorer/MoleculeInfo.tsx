@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { AiOutlineLink } from 'react-icons/ai';
+import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
@@ -11,7 +11,7 @@ interface MoleculeInfoProps {
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
-  const { selectedTitle, setSelectedTitle } = useIdContext();
+  const { selectedTitle, setSelectedTitle, setSimIdCode } = useIdContext();
 
   return (
     <button
@@ -25,6 +25,13 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       )}
       onClick={() => setSelectedTitle(mol.code)}
     >
+      <div
+        onClick={() => {
+          setSimIdCode(mol.actID.value);
+        }}
+      >
+        <AiOutlineSearch className="absolute top-1.5 left-2 transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
+      </div>
       <div className="mx-5 text-center font-bold">{mol.code}</div>
       <a
         href={`https://en.wikipedia.org/wiki/${mol.code}`}
