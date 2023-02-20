@@ -17020,6 +17020,9 @@ Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 Iminoborane	B=N
 Perlapine	CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42
 Nordoxepin	CNCCC=C1C2=CC=CC=C2COC3=CC=CC=C31
+Selenocystine	C([C@@H](C(=O)O)N)[Se][Se]C[C@@H](C(=O)O)N
+Selenocystine	C(C(C(=O)O)N)[Se][Se]CC(C(=O)O)N
+Selenocystine	C([C@H](C(=O)O)N)[Se][Se]C[C@H](C(=O)O)N
 Sarcophagine	C1CNCC2CNCCNCC(CN1)CNCCNC2
 2,2,4,4-Tetramethylcyclobutanedione	CC1(C(=O)C(C1=O)(C)C)C
 3-Penten-2-one	CC=CC(=O)C
@@ -19994,4 +19997,5 @@ Tetrachlorocatechol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O)O
 5-TFMO-DMT	CN(C)CCC1=CNC2=CC=C(OC(F)(F)F)C=C21
 5-TFM-DMT	CN(C)CCC1=CNC2=CC=C(C(F)(F)F)C=C21
 Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
-TDI-11861	C1COC[C@@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
+TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
+Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
