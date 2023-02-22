@@ -1,6 +1,13 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { MoleculesDB } from 'openchemlib-utils';
-import { CSSProperties, useEffect, useMemo, useState } from 'react';
+import {
+  CSSProperties,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  useLayoutEffect,
+} from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
@@ -20,8 +27,11 @@ interface FilterProps {
 
 interface MoleculesProps {
   molecules: IMolecule[];
+  gridRef: React.RefObject<Grid<any>>;
 }
-interface MoleculeListProps extends MoleculesProps {
+
+interface MoleculeListProps {
+  molecules: IMolecule[];
   idCode: string;
   search: SearchType;
   db: MoleculesDB;
@@ -100,7 +110,7 @@ function dbToMolecules(moleculeDb: any): IMolecule[] {
   return molecules;
 }
 
-function Molecules({ molecules }: MoleculesProps): JSX.Element {
+function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
   const { selectedTitle, setSelectedTitle } = useIdContext();
 
   useEffect(() => {
@@ -148,6 +158,7 @@ function Molecules({ molecules }: MoleculesProps): JSX.Element {
       <AutoSizer>
         {({ height, width }) => (
           <Grid
+            ref={gridRef}
             columnCount={colItemsCount}
             columnWidth={
               colItemsCount === 3
@@ -194,6 +205,12 @@ export function MoleculeList({
     );
   }, [filter, molSearchResult]);
 
+  const gridRef = useRef<Grid>(null);
+
+  useLayoutEffect(() => {
+    gridRef.current?.scrollTo({ scrollTop: 0 });
+  }, [molFiltered]);
+
   return (
     <SimpleTable
       title="Search results"
@@ -201,7 +218,7 @@ export function MoleculeList({
       className="h-full w-full"
       footer={<MolListFooter filteredMolCount={molFiltered.length} />}
     >
-      <Molecules molecules={molFiltered} />
+      <Molecules gridRef={gridRef} molecules={molFiltered} />
     </SimpleTable>
   );
 }

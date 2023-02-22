@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
-import { useIdContext } from '../../hooks/IdContext';
 
+import { useIdContext } from '../../hooks/IdContext';
 import { SearchType } from '../../pages/StructureExplorer';
 import SimpleTable from '../SimpleTable';
 
@@ -28,8 +28,11 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
         name="search"
         value={search}
         onChange={(e) => {
-          if (['similarity', 'exact', 'substructure'].includes(e.target.value))
+          if (
+            ['similarity', 'exact', 'substructure'].includes(e.target.value)
+          ) {
             setSearch(e.target.value as SearchType);
+          }
         }}
         className="h-6 w-36 cursor-pointer rounded-lg px-2 py-1 text-sm font-normal focus:outline-none"
       >
@@ -54,9 +57,9 @@ function Board({ setIdCode, simIdCode }: BoardProps): JSX.Element {
   });
 
   return (
-    <div key={simIdCode} className="mt-8 lg:mt-10 lg:w-[470px]" ref={ref}>
+    <div key={simIdCode} className="lg:w-[470px]" ref={ref}>
       <StructureEditor
-        height={385}
+        height={490}
         width={boardWidth}
         initialIDCode={simIdCode}
         onChange={(molfile, molecule) => {
@@ -77,12 +80,14 @@ export function DrawStructure({
   useEffect(() => {
     setIdCode(simIdCode);
     setSearch('similarity');
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [simIdCode]);
 
   return (
     <SimpleTable
       title="Draw a structure"
       option={<Search search={search} setSearch={setSearch} />}
+      className="h-[505px] bg-lightblue"
     >
       <Board setIdCode={setIdCode} simIdCode={simIdCode} />
     </SimpleTable>
