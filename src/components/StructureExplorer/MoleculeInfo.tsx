@@ -1,3 +1,4 @@
+import Tooltip from '@mui/material/Tooltip';
 import clsx from 'clsx';
 import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
@@ -25,21 +26,36 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       )}
       onClick={() => setSelectedTitle(mol.code)}
     >
-      <div
-        onClick={() => {
-          setSimIdCode(mol.actID.value);
-        }}
+      <Tooltip
+        title="Similar molecules"
+        placement="top"
+        arrow
+        className="absolute top-1.5 left-2 "
       >
-        <AiOutlineSearch className="absolute top-1.5 left-2 transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
-      </div>
+        <div
+          onClick={() => {
+            setSimIdCode(mol.actID.value);
+          }}
+        >
+          <AiOutlineSearch className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
+        </div>
+      </Tooltip>
       <div className="mx-5 text-center font-bold">{mol.code}</div>
-      <a
-        href={`https://en.wikipedia.org/wiki/${mol.code}`}
-        target="_blank"
-        rel="noopener noreferrer"
+      <Tooltip
+        title="Wikipedia article"
+        placement="top"
+        arrow
+        className="absolute top-1.5 right-2"
       >
-        <AiOutlineLink className="absolute top-1.5 right-2 transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
-      </a>
+        <a
+          href={`https://en.wikipedia.org/wiki/${mol.code}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <AiOutlineLink className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
+        </a>
+      </Tooltip>
+
       <div>
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
       </div>

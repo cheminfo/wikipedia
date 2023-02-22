@@ -15,7 +15,10 @@
     "test": "npm run eslint && npm run prettier"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "@headlessui/react": "^1.7.7",
+    "@mui/material": "^5.11.10",
     "@types/react-virtualized": "^9.21.21",
     "clsx": "^1.2.1",
     "openchemlib-utils": "^2.2.0",
