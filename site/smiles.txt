@@ -2504,8 +2504,6 @@ Anserine	O=C(O)[C@@H](NC(=O)CCN)Cc1cncn1C
 Chromium(III) oxide	O=[Cr]O[Cr]=O
 Aluminium bromide	Br[Al](Br)Br
 Aluminium bromide	Br[Al-]1(Br)[Br+][Al-]([Br+]1)(Br)Br
-Persulfate	[O-]OS(=O)(=O)[O-]
-Persulfate	[O-]S(=O)(=O)OOS(=O)(=O)[O-]
 Platinum hexafluoride	F[Pt](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
@@ -19997,6 +19995,9 @@ Tetrachlorocatechol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O)O
 5-TFMO-DMT	CN(C)CCC1=CNC2=CC=C(OC(F)(F)F)C=C21
 5-TFM-DMT	CN(C)CCC1=CNC2=CC=C(C(F)(F)F)C=C21
 Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
+Hydroxyethyl acrylate	C=CC(=O)OCCO
 TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
 Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
 Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
+Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O
