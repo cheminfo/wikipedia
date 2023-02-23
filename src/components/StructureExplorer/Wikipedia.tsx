@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 import { useIdContext } from '../../hooks/IdContext';
 import SimpleTable from '../SimpleTable';
@@ -20,7 +20,17 @@ function OpenWiki(): JSX.Element {
 
 function WikiPage(): JSX.Element {
   const [url, setUrl] = useState('');
+  const [iframeHeight, setIframeHeight] = useState(0);
   const { selectedTitle } = useIdContext();
+  const iframeRef = useRef<HTMLIFrameElement>(null);
+
+  const handleIframeLoad = () => {
+    const iframe = iframeRef.current;
+    if (iframe) {
+      const height = iframe.contentWindow?.document.body.scrollHeight;
+      setIframeHeight(height ? height + 24 : 0);
+    }
+  };
 
   useEffect(() => {
     if (!selectedTitle) return;
@@ -37,7 +47,7 @@ function WikiPage(): JSX.Element {
               .replace(/\/\//g, 'https://')
               .replace(
                 /<\/style>/,
-                'body { overflow: overlay; padding: 12px } ::-webkit-scrollbar { width: 6px; height: 0px } ::-webkit-scrollbar-track { background: #92bedf;} ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
+                'body { padding: 12px } ::-webkit-scrollbar { width: 6px; height: 0px } ::-webkit-scrollbar-track { background: #92bedf;} ::-webkit-scrollbar-thumb { background: #0a4e7a; } </style>',
               ),
           ],
           { type: 'text/html' },
@@ -54,9 +64,13 @@ function WikiPage(): JSX.Element {
   }, [selectedTitle]);
 
   return (
-    <div className="h-[65vh]">
-      <iframe src={url} height="100%" width="100%" className="w-full" />
-    </div>
+    <iframe
+      ref={iframeRef}
+      src={url}
+      onLoad={handleIframeLoad}
+      height={iframeHeight}
+      width="100%"
+    />
   );
 }
 
@@ -65,7 +79,6 @@ export function Wikipedia(): JSX.Element {
     <SimpleTable
       title="Wikipedia article"
       option={<OpenWiki />}
-      className="w-full"
       content={<WikiPage />}
     />
   );
