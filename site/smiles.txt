@@ -1921,6 +1921,7 @@ Phosphorus trifluoride	FP(F)F
 Ethylmercury	CC[Hg+]
 Dihydroquinine	O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](CC)C3)cc4)C
 Dihydroquinine	O[C@@H](C1N2CCC(C(CC)C2)C1)C3=CC=NC4=CC=C(OC)C=C43
+Dihydroquinidine	[C@H](O)(C=1C2=C(C=CC(OC)=C2)N=CC1)[C@@]3([N@@]4C[C@H](CC)[C@H](C3)CC4)[H]
 Pemoline	O=C2\N=C(/OC2c1ccccc1)N
 Orotic acid	O=C(O)\C1=C\C(=O)NC(=O)N1
 ALD-52	O=C(n1cc2c3c(C4=C[C@@H](C(=O)N(CC)CC)CN([C@@H]4C2)C)cccc13)C
