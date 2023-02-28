@@ -1921,6 +1921,7 @@ Phosphorus trifluoride	FP(F)F
 Ethylmercury	CC[Hg+]
 Dihydroquinine	O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](CC)C3)cc4)C
 Dihydroquinine	O[C@@H](C1N2CCC(C(CC)C2)C1)C3=CC=NC4=CC=C(OC)C=C43
+Dihydroquinidine	[C@H](O)(C=1C2=C(C=CC(OC)=C2)N=CC1)[C@@]3([N@@]4C[C@H](CC)[C@H](C3)CC4)[H]
 Pemoline	O=C2\N=C(/OC2c1ccccc1)N
 Orotic acid	O=C(O)\C1=C\C(=O)NC(=O)N1
 ALD-52	O=C(n1cc2c3c(C4=C[C@@H](C(=O)N(CC)CC)CN([C@@H]4C2)C)cccc13)C
@@ -2504,8 +2505,6 @@ Anserine	O=C(O)[C@@H](NC(=O)CCN)Cc1cncn1C
 Chromium(III) oxide	O=[Cr]O[Cr]=O
 Aluminium bromide	Br[Al](Br)Br
 Aluminium bromide	Br[Al-]1(Br)[Br+][Al-]([Br+]1)(Br)Br
-Persulfate	[O-]OS(=O)(=O)[O-]
-Persulfate	[O-]S(=O)(=O)OOS(=O)(=O)[O-]
 Platinum hexafluoride	F[Pt](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
@@ -5368,7 +5367,9 @@ Xylenol orange	O=C(O)CN(CC(=O)O)Cc1c(O)c(cc(c1)C3(OS(=O)(=O)c2ccccc23)c4cc(c(O)c
 Platinum(II) bromide	Br[Pt]Br
 Cinchonidine	n2c1c(cccc1)c(cc2)[C@@H](O)[C@H]3N4CC[C@@H](C3)[C@@H](C=C)C4
 Tetranitromethane	C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
+Peroxydisulfate	[O-]S(=O)(=O)OOS([O-])(=O)=O
 Steviol	O=C(O)[C@]4([C@H]3CC[C@@]21C[C@](O)(\C(=C)C1)CC[C@H]2[C@]3(C)CCC4)C
+Peroxomonosulfate	[O-]OS(=O)(=O)[O-]
 Volemitol	O[C@@H]([C@@H](O)C(O)[C@H](O)[C@H](O)CO)CO
 Picolinic acid	c1ccnc(c1)C(=O)O
 Bis(triphenylphosphine)iminium chloride	[Cl-].N([P+](c1ccccc1)(c2ccccc2)c3ccccc3)=P(c4ccccc4)(c5ccccc5)c6ccccc6
@@ -7127,7 +7128,7 @@ Paradol	CCCCCCCC(=O)CCC1=CC(=C(C=C1)O)OC
 Polygodial	CC1(CCC[C@]2([C@H]1CC=C([C@@H]2C=O)C=O)C)C
 Shogaol	CCCCCC=CC(=O)CCC1=CC(=C(C=C1)O)OC
 Sinalbin	O[C@H]1[C@H](O)[C@@H](CO)O[C@@H](S/C(CC2=CC=C(O)C=C2)=N\OS(O)(=O)=O)[C@@H]1O
-Gluconasturtiin	O=S(=O)(O)O\N=C(\S[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)CCc2ccccc2
+Gluconasturtiin	c1ccc(cc1)CC/C(=N/OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Nuciferine	CN(CC1)[C@]2([H])CC3=CC=CC=C3C4=C2C1=CC(OC)=C4OC
 Thozalinone	O=C2\N=C(/OC2c1ccccc1)N(C)C
 Fluminorex	FC(F)(F)c1ccc(cc1)C2O\C(=N/C2)N
@@ -16558,7 +16559,7 @@ Tris(trimethylsilyl)phosphine	C[Si](C)(C)P([Si](C)(C)C)[Si](C)(C)C
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
 Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
-Glucotropaeolin	c1ccc(cc1)C/C(=N\OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
+Glucotropaeolin	c1ccc(cc1)C/C(=N/OS(=O)(=O)O)/S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Dimethylaminoisopropanol	CC(CN(C)C)O
 Poseltinib	C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccoc23)c1
 N,N,N′,N′-Tetramethylformamidinium chloride	[Cl-].[N+](=C\N(C)C)(\C)C
@@ -19997,6 +19998,9 @@ Tetrachlorocatechol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O)O
 5-TFMO-DMT	CN(C)CCC1=CNC2=CC=C(OC(F)(F)F)C=C21
 5-TFM-DMT	CN(C)CCC1=CNC2=CC=C(C(F)(F)F)C=C21
 Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
+Hydroxyethyl acrylate	C=CC(=O)OCCO
 TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
 Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
 Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
+Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O

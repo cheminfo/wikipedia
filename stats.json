@@ -2921,5 +2921,11 @@
 {"date":"2023-02-19T03:44:23.043Z","molecules":19997,"errors":70,"nogood":51,"notfound":2163,"dup":554},
 {"date":"2023-02-20T03:45:12.060Z","molecules":20001,"errors":70,"nogood":51,"notfound":2166,"dup":554},
 {"date":"2023-02-21T03:43:17.622Z","molecules":20002,"errors":70,"nogood":51,"notfound":2165,"dup":554},
-{"date":"2023-02-22T03:44:59.406Z","molecules":20002,"errors":70,"nogood":51,"notfound":2165,"dup":554}
+{"date":"2023-02-22T03:44:59.406Z","molecules":20002,"errors":70,"nogood":51,"notfound":2165,"dup":554},
+{"date":"2023-02-23T03:40:19.674Z","molecules":20003,"errors":70,"nogood":51,"notfound":2167,"dup":554},
+{"date":"2023-02-24T03:42:40.108Z","molecules":20003,"errors":70,"nogood":51,"notfound":2167,"dup":554},
+{"date":"2023-02-25T03:42:16.968Z","molecules":20005,"errors":70,"nogood":51,"notfound":2165,"dup":554},
+{"date":"2023-02-26T03:46:59.273Z","molecules":20006,"errors":70,"nogood":51,"notfound":2167,"dup":554},
+{"date":"2023-02-27T03:43:49.473Z","molecules":20006,"errors":70,"nogood":51,"notfound":2168,"dup":554},
+{"date":"2023-02-28T03:42:59.157Z","molecules":20006,"errors":70,"nogood":51,"notfound":2170,"dup":554}
 ]

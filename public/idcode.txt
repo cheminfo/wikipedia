@@ -1921,6 +1921,7 @@ gC`BAxRPTaiBOT@@	Phosphorus trifluoride
 eMB`JIRZ@	Ethylmercury
 fa{P`@I^A[IELeLhmCEDelsbcYKfm@@AEUUUAQMQtsBp@	Dihydroquinine
 fa{P`@I^A[IELeLhmCEDelsbcYKfm@@AEUUUATMP@	Dihydroquinine
+fa{P`@I^A[IELeLhmCEDelsbcYKfm@@AEUUUAUMIr|lpl@@	Dihydroquinidine
 dk]D@DxJRYY{Tjtvfh@H@@	Pemoline
 dmuB@DpAeTfUejyjiV`@	Orotic acid
 fmop`@DZjB^QQQQIHqJKQZKFZmGIVuzuUTuPQDLuDcBl`@	ALD-52
@@ -2504,8 +2505,6 @@ fhqI`@BJ|DBAIMrlvrv|uUMMULLP@	Anserine
 gJQdHbAcCBUkR@@	Chromium(III) oxide
 gC`BAbRpVIlQIj`@	Aluminium bromide
 daD@D`qHlDlLqBqJqFqNq@fNSleJZYLjjh@@	Aluminium bromide
-gGQXhlZ@`}^rRPkT@@	Persulfate
-dedAQHSBkad@a``nglddNTbuRp@@	Persulfate
 gNpN@yRPTai@rEdGHQUT@@	Platinum hexafluoride
 fbuP`@AZ@GHhhdbddhhlsb\pDCTpP@@Qru@	Salen ligand
 fdyPb@IFEDDPdrnvkJtXFL@DuUUD@@	Moclobemide
@@ -5368,7 +5367,9 @@ eoTtKH@CghDLMknQYU]S[WP@cIIBhhdhhldmDhdlcMDdeEEEJFM@djbaejB`@@@JJjjjjYfZ@@@@	Xyl
 eMCArlQqHz@	Platinum(II) bromide
 ffsQ@@FNAdTTTTRbTVQqTzt[ICfhJ@j@hdhIAXeiF@@	Cinchonidine
 dkLa@XJfANFUtxeNJZeiGex~R[ifYjifX@@	Tetranitromethane
+dedAQHSBkad@a``nglddNTbuRp@@	Peroxydisulfate
 fnkA`@@H[dTtbbtbtlRVTmV\dnRmUUUUUTuTsDHnIT\bp@	Steviol
+gGQXhlZ@`}^rRPkT@@	Peroxomonosulfate
 dglN@@IaT{RYf{ojjjjbQXjWH@	Volemitol
 difD@BADfyWaZ@@@@	Picolinic acid
 eaSX@LDD@HbCpX|@NXg@iHeEEEHdddhhhmlddkmD]e]T|CRbrSruP@EP@@@@@@@@@@@@	Bis(triphenylphosphine)iminium chloride
@@ -7127,7 +7128,7 @@ fbeA`@@NRdrjrjvj[sUTDEET@@@	Paradol
 fhi@`@@RRVVUgzxJsfZjZjjlDWDI@@	Polygodial
 fbeA`@@^rdrjljmkXKSUAAQT@@@	Shogaol
 fmg`i@JPQ`f`mGMX@c`QddarbRbbTRTrrtRyzmSUTEPUETTdcKtbbjED	Sinalbin
-fmgaI@JPQ`foUGL@QpHrRPyQIQIQQSIIXN^kVijjj`jBbJRQdzAVUBd@	Gluconasturtiin
+fmgaI@JPQ`foUGL@QpHrRPyQIQIQQSIIXN^kVijjj`jBbJRQdzAVUBb@	Gluconasturtiin
 ffs``@D`ydbfbbbbtRVJEhw`yRV`b@JHhhb`Z@@	Nuciferine
 foAP`@D\ASHheEhhdRTlyijB`H@@	Thozalinone
 f`qQC@G^tBPQHXdLbdLRVTRPiV]U@AUTH@@	Fluminorex
@@ -16558,7 +16559,7 @@ dkL@H@|H\D\L\DjZZZjjjj@@	Tris(trimethylsilyl)phosphine
 fhiQR@JLIIU``dDfYu[Yv\Lzejfjjh`eiFch@	Doxifluridine
 eohRGL@BaekhDLBNAIEMCODjg`OBcpX|LddrtbdsTRbrfbRrbrfVNnZjZZjjjjVejH\`TbVR@@	Inosine triphosphate
 ehRRLL@AM@cbjg`H`bPXbLbbbfatRbRrRRfRrfxd\BRrvN`bH`@@JjjidB@@@	Poziotinib
-fe{aI@JPQ`f`mGL@QpHrRPyQIQQJIJYYQKgjuMUPUATUEIHr}HhjaR@	Glucotropaeolin
+fe{aI@JPQ`f`mGL@QpHrRPyQIQQJIJYYQKgjuMUPUATUEIHr}HhjaQ@	Glucotropaeolin
 gNy@BDf^jj@@	Dimethylaminoisopropanol
 el^VL@@DKDlchPE@lbbRfRftRbbVLRVTRVdtbRJjVvAaZd@b@`j`@jj`R@@@	Poseltinib
 daY@aHhH`Nb\BdQcUP@@	N,N,N′,N′-Tetramethylformamidinium chloride
@@ -19997,6 +19998,9 @@ dcLDHEtH`hah`XaIf[ozXHbJ@@	Tetrachlorocatechol
 fleQC@CAHBPQHXdLbdJbRfTJTdhujj@Bfjb@@	5-TFMO-DMT
 fdyPC@M^AHHdLRFQRFIJYPiPTmFj`@ijh`@@	5-TFM-DMT
 eiVPBHLHLJn`M`A\NzyA[UUUUUMmUUUUUjjjjjjZjjjjj`@@	Cobalt(II) stearate
+daxL@@SdfUvih@@	Hydroxyethyl acrylate
 edZVLL@DFNIMEb`XPH`JPbdLbbRbLRbrbabRvTTRUCFacPwpL@EMMUAAEUUQEAm@@	TDI-11861
 gGPB@bSpTQhcHiBuP@	Ethylphosphonoselenoic dichloride
 foo`aHLPP@HYH\dERFiBt`zPCHQdLrAYAlavPgHKdCrEyA|addaTbLedLadLadLbuUUUUUUUUP@@	Sulfluramid
+fh~apBK@PQ`iJeuirJZZZ@iJQjjZjh@@	Choline bitartrate
+fh~apBK@PQ`iJeuirJZZZ@iJQjjZjiFER@@	Choline bitartrate
