@@ -1,4 +1,3 @@
-import Tooltip from '@mui/material/Tooltip';
 import clsx from 'clsx';
 import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
@@ -6,6 +5,7 @@ import { IdcodeSvgRenderer } from 'react-ocl';
 
 import { IMolecule } from '../../hooks/DataContext';
 import { useIdContext } from '../../hooks/IdContext';
+import Hint from '../Hint';
 
 interface MoleculeInfoProps {
   mol: IMolecule;
@@ -26,12 +26,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       )}
       onClick={() => setSelectedTitle(mol.code)}
     >
-      <Tooltip
-        title="Similar molecules"
-        placement="top"
-        arrow
-        className="absolute top-1.5 left-2 "
-      >
+      <Hint info="Similar molecules" className="absolute top-1.5 left-2">
         <div
           onClick={() => {
             setSimIdCode(mol.actID.value);
@@ -39,14 +34,9 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
         >
           <AiOutlineSearch className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
         </div>
-      </Tooltip>
+      </Hint>
       <div className="mx-5 text-center font-bold">{mol.code}</div>
-      <Tooltip
-        title="Wikipedia article"
-        placement="top"
-        arrow
-        className="absolute top-1.5 right-2"
-      >
+      <Hint info="Wikipedia article" className="absolute top-1.5 right-2">
         <a
           href={`https://en.wikipedia.org/wiki/${mol.code}`}
           target="_blank"
@@ -54,8 +44,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
         >
           <AiOutlineLink className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
         </a>
-      </Tooltip>
-
+      </Hint>
       <div>
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
       </div>

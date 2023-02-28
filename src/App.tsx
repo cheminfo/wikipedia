@@ -1,3 +1,4 @@
+import { Provider as TooltipProvider } from '@radix-ui/react-tooltip';
 import { useState } from 'react';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 
@@ -13,31 +14,33 @@ export default function App() {
   return (
     <div className="min-h-screen bg-lightgray font-Archivo font-medium tracking-wide">
       <DataContextProvider>
-        <HashRouter>
-          <Navbar showAbout={showAbout} setShowAbout={setShowAbout} />
-          <div className="pt-14">
-            <Routes>
-              <Route
-                path="/errors"
-                element={
-                  <BrowseErrors
-                    showAbout={showAbout}
-                    setShowAbout={setShowAbout}
-                  />
-                }
-              />
-              <Route
-                path="/"
-                element={
-                  <StructureExplorer
-                    showAbout={showAbout}
-                    setShowAbout={setShowAbout}
-                  />
-                }
-              />
-            </Routes>
-          </div>
-        </HashRouter>
+        <TooltipProvider>
+          <HashRouter>
+            <Navbar showAbout={showAbout} setShowAbout={setShowAbout} />
+            <div className="pt-14">
+              <Routes>
+                <Route
+                  path="/errors"
+                  element={
+                    <BrowseErrors
+                      showAbout={showAbout}
+                      setShowAbout={setShowAbout}
+                    />
+                  }
+                />
+                <Route
+                  path="/"
+                  element={
+                    <StructureExplorer
+                      showAbout={showAbout}
+                      setShowAbout={setShowAbout}
+                    />
+                  }
+                />
+              </Routes>
+            </div>
+          </HashRouter>
+        </TooltipProvider>
       </DataContextProvider>
       <Footer />
     </div>
