@@ -4,7 +4,7 @@ import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
 import { IMolecule } from '../../hooks/DataContext';
-import { useIdContext } from '../../hooks/IdContext';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
 import Hint from '../Hint';
 
 interface MoleculeInfoProps {
@@ -12,7 +12,8 @@ interface MoleculeInfoProps {
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
-  const { selectedTitle, setSelectedTitle, setSimIdCode } = useIdContext();
+  const { selectedTitle, setSelectedTitle, setSearch, setIdCode } =
+    useMoleculeContext();
 
   return (
     <button
@@ -29,7 +30,8 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       <Hint info="Similar molecules" className="absolute top-1.5 left-2">
         <div
           onClick={() => {
-            setSimIdCode(mol.actID.value);
+            setIdCode(mol.actID.value);
+            setSearch('similarity');
           }}
         >
           <AiOutlineSearch className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />

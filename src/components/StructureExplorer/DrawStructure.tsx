@@ -1,26 +1,12 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
 
-import { useIdContext } from '../../hooks/IdContext';
-import { SearchType } from '../../pages/StructureExplorer';
+import { SearchType, useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
 
-interface SearchProps {
-  search: SearchType;
-  setSearch: React.Dispatch<React.SetStateAction<SearchType>>;
-}
-
-interface DrawStructureProps extends SearchProps {
-  setIdCode: React.Dispatch<React.SetStateAction<string>>;
-}
-
-interface BoardProps {
-  setIdCode: React.Dispatch<React.SetStateAction<string>>;
-  simIdCode: string;
-}
-
-function Search({ search, setSearch }: SearchProps): JSX.Element {
+function Search(): JSX.Element {
+  const { search, setSearch } = useMoleculeContext();
   return (
     <form className="flex items-center space-x-2">
       <label>Search mode :</label>
@@ -44,7 +30,8 @@ function Search({ search, setSearch }: SearchProps): JSX.Element {
   );
 }
 
-function Board({ setIdCode, simIdCode }: BoardProps): JSX.Element {
+function Board(): JSX.Element {
+  const { idCode, setIdCode } = useMoleculeContext();
   const [boardWidth, setBoardWidth] = useState(470);
 
   const handleResize = (refObs: ObservedSize) =>
@@ -57,11 +44,11 @@ function Board({ setIdCode, simIdCode }: BoardProps): JSX.Element {
   });
 
   return (
-    <div key={simIdCode} className="lg:w-[470px]" ref={ref}>
+    <div key={idCode} className="lg:w-[470px]" ref={ref}>
       <StructureEditor
         height={490}
         width={boardWidth}
-        initialIDCode={simIdCode}
+        initialIDCode={idCode}
         onChange={(molfile, molecule) => {
           setIdCode(molecule.getIDCode());
         }}
@@ -70,26 +57,14 @@ function Board({ setIdCode, simIdCode }: BoardProps): JSX.Element {
   );
 }
 
-export function DrawStructure({
-  setIdCode,
-  search,
-  setSearch,
-}: DrawStructureProps): JSX.Element {
-  const { simIdCode } = useIdContext();
-
-  useEffect(() => {
-    setIdCode(simIdCode);
-    setSearch('similarity');
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [simIdCode]);
-
+export function DrawStructure(): JSX.Element {
   return (
     <SimpleTable
       title="Draw a structure"
-      option={<Search search={search} setSearch={setSearch} />}
+      option={<Search />}
       className="h-[505px] bg-lightblue"
     >
-      <Board setIdCode={setIdCode} simIdCode={simIdCode} />
+      <Board />
     </SimpleTable>
   );
 }

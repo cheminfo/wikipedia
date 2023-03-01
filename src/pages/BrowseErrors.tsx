@@ -4,7 +4,6 @@ import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
 import { useDataContext } from '../hooks/DataContext';
-import { IdContextProvider } from '../hooks/IdContext';
 
 interface BrowseErrorsProps {
   showAbout: boolean;
@@ -16,18 +15,9 @@ export function BrowseErrors({
   setShowAbout,
 }: BrowseErrorsProps): JSX.Element {
   const {
-    allData: { count },
     allData: {
-      data: { errors },
-    },
-    allData: {
-      data: { nogood },
-    },
-    allData: {
-      data: { notfound },
-    },
-    allData: {
-      data: { dup },
+      count,
+      data: { errors, nogood, notfound, dup },
     },
     loading,
   } = useDataContext();
@@ -58,12 +48,10 @@ export function BrowseErrors({
             </div>
 
             <div className="mt-12 flex flex-wrap justify-between gap-y-20">
-              <IdContextProvider>
-                <Duplicates number={count.dup} data={dup} />
-                <NotFound number={count.notfound} data={notfound} />
-                <SMILESErrors number={count.errors} data={errors} />
-                <NoCorrectSMILES number={count.nogood} data={nogood} />
-              </IdContextProvider>
+              <Duplicates number={count.dup} data={dup} />
+              <NotFound number={count.notfound} data={notfound} />
+              <SMILESErrors number={count.errors} data={errors} />
+              <NoCorrectSMILES number={count.nogood} data={nogood} />
             </div>
           </div>
         </div>

@@ -5,6 +5,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Footer } from './components/Footer';
 import { Navbar } from './components/Navbar';
 import { DataContextProvider } from './hooks/DataContext';
+import { MoleculeContextProvider } from './hooks/MoleculeContext';
 import { BrowseErrors } from './pages/BrowseErrors';
 import { StructureExplorer } from './pages/StructureExplorer';
 
@@ -14,33 +15,35 @@ export default function App() {
   return (
     <div className="min-h-screen bg-lightgray font-Archivo font-medium tracking-wide">
       <DataContextProvider>
-        <TooltipProvider>
-          <HashRouter>
-            <Navbar showAbout={showAbout} setShowAbout={setShowAbout} />
-            <div className="pt-14">
-              <Routes>
-                <Route
-                  path="/errors"
-                  element={
-                    <BrowseErrors
-                      showAbout={showAbout}
-                      setShowAbout={setShowAbout}
-                    />
-                  }
-                />
-                <Route
-                  path="/"
-                  element={
-                    <StructureExplorer
-                      showAbout={showAbout}
-                      setShowAbout={setShowAbout}
-                    />
-                  }
-                />
-              </Routes>
-            </div>
-          </HashRouter>
-        </TooltipProvider>
+        <MoleculeContextProvider>
+          <TooltipProvider>
+            <HashRouter>
+              <Navbar showAbout={showAbout} setShowAbout={setShowAbout} />
+              <div className="pt-14">
+                <Routes>
+                  <Route
+                    path="/errors"
+                    element={
+                      <BrowseErrors
+                        showAbout={showAbout}
+                        setShowAbout={setShowAbout}
+                      />
+                    }
+                  />
+                  <Route
+                    path="/"
+                    element={
+                      <StructureExplorer
+                        showAbout={showAbout}
+                        setShowAbout={setShowAbout}
+                      />
+                    }
+                  />
+                </Routes>
+              </div>
+            </HashRouter>
+          </TooltipProvider>
+        </MoleculeContextProvider>
       </DataContextProvider>
       <Footer />
     </div>

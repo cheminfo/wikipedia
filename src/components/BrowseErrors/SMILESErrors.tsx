@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { useIdContext } from '../../hooks/IdContext';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
 
 import { ErrorSection } from './ErrorSection';
 
@@ -62,7 +62,7 @@ function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
 }
 
 function ContentRow(props: ContentRowProps): JSX.Element {
-  const { setSelectedId } = useIdContext();
+  const { setSelectedId } = useMoleculeContext();
   return (
     <div
       className="grid grid-cols-8 overflow-x-hidden hover:bg-lightgray"

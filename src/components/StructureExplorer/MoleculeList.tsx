@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { MoleculesDB } from 'openchemlib-utils';
 import {
   CSSProperties,
   useEffect,
@@ -14,8 +13,7 @@ import { FixedSizeGrid as Grid } from 'react-window';
 import useResizeObserver from 'use-resize-observer';
 
 import { IMolecule, useDataContext } from '../../hooks/DataContext';
-import { useIdContext } from '../../hooks/IdContext';
-import { SearchType } from '../../pages/StructureExplorer';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
@@ -30,12 +28,6 @@ interface MoleculesProps {
   gridRef: React.RefObject<Grid<any>>;
 }
 
-interface MoleculeListProps {
-  molecules: IMolecule[];
-  idCode: string;
-  search: SearchType;
-  db: MoleculesDB;
-}
 interface CellProps {
   columnIndex: number;
   rowIndex: number;
@@ -111,7 +103,7 @@ function dbToMolecules(moleculeDb: any): IMolecule[] {
 }
 
 function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
-  const { selectedTitle, setSelectedTitle } = useIdContext();
+  const { selectedTitle, setSelectedTitle } = useMoleculeContext();
 
   useEffect(() => {
     if (selectedTitle === '') {
@@ -179,13 +171,15 @@ function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
   );
 }
 
-export function MoleculeList({
-  molecules,
-  idCode,
-  search,
-  db,
-}: MoleculeListProps): JSX.Element {
+export function MoleculeList(): JSX.Element {
+  const {
+    allData: {
+      data: { molecules },
+    },
+    db,
+  } = useDataContext();
   const [filter, setFilter] = useState('');
+  const { search, idCode } = useMoleculeContext();
 
   const molSearchResult = useMemo(() => {
     if (idCode !== 'd@' && idCode !== null && idCode !== '') {
