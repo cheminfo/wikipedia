@@ -2927,5 +2927,6 @@
 {"date":"2023-02-25T03:42:16.968Z","molecules":20005,"errors":70,"nogood":51,"notfound":2165,"dup":554},
 {"date":"2023-02-26T03:46:59.273Z","molecules":20006,"errors":70,"nogood":51,"notfound":2167,"dup":554},
 {"date":"2023-02-27T03:43:49.473Z","molecules":20006,"errors":70,"nogood":51,"notfound":2168,"dup":554},
-{"date":"2023-02-28T03:42:59.157Z","molecules":20006,"errors":70,"nogood":51,"notfound":2170,"dup":554}
+{"date":"2023-02-28T03:42:59.157Z","molecules":20006,"errors":70,"nogood":51,"notfound":2170,"dup":554},
+{"date":"2023-03-01T03:49:45.893Z","molecules":20011,"errors":70,"nogood":51,"notfound":2169,"dup":553}
 ]
