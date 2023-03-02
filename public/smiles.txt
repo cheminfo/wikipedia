@@ -6529,7 +6529,7 @@ Etilevodopa	O=C(OCC)[C@@H](N)Cc1cc(O)c(O)cc1
 Melevodopa	O=C(OC)[C@@H](N)Cc1cc(O)c(O)cc1
 Budipine	c1(ccccc1)C3(c2ccccc2)CCN(C(C)(C)C)CC3
 Isoxsuprine	O(c1ccccc1)CC(NC(C)C(O)c2ccc(O)cc2)C
-Valerenic acid	CC1CCC(C2=C(CCC12)C)C=C(C)C(=O)O
+Valerenic acid	C[C@@H]1CC[C@H](C2=C(CC[C@H]12)C)/C=C(\C)/C(=O)O
 Hydrogen deuteride	[2H][H]
 Etifoxine	ClC1=CC=C2N=C(NCC)OC(C3=CC=CC=C3)(C)C2=C1
 Gedocarnil	ClC1=CC=C(OC2=CC=CC3=C2C4=C(N3)C=NC(C(OC(C)C)=O)=C4COC)C=C1
@@ -20006,6 +20006,9 @@ Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)
 Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
 Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O
 Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
+1,4-Cyclohexanedicarboxylic acid	C1CC(CCC1C(=O)O)C(=O)O
+1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@H](CC1)C(O)=O
+1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@@H](CC1)C(O)=O
 Nickel(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ni+2]
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
 Zirconium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zr+4]
