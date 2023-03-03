@@ -4131,6 +4131,7 @@ Tetramethylethylenediamine	CN(C)CCN(C)C
 Calcium citrate malate	C(C(C(=O)OC(CC(=O)[O-])(CC(=O)[O-])C(=O)[O-])O)C(=O)O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Ca+2].[Ca+2].[Ca+2]
 Copper(II) bromide	[Cu+2].[Br-].[Br-]
 Mercury(II) iodide	I[Hg]I
+Mercury(II) sulfate	[O-]S(=O)(=O)[O-].[Hg+2]
 Mercury(II) acetate	[Hg+2].[O-]C(=O)C.[O-]C(=O)C
 Mercury(II) acetate	O=C(C)O[Hg]OC(C)=O
 Mercury(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Hg+2]
@@ -20012,3 +20013,4 @@ Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
 Nickel(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ni+2]
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
 Zirconium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zr+4]
+Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.[La]
