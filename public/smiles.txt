@@ -5882,6 +5882,7 @@ Mebroqualone	BrC1=C(N2C(C3=CC=CC=C3N=C2C)=O)C=CC=C1
 Methylmethaqualone	O=C1c3c(\N=C(/N1c2ccc(cc2C)C)C)cccc3
 MADAM-6	C1(=CC2=C(C=C1CC(C)NC)OCO2)C
 Thiobuscaline	COc1cc(cc(OC)c1SCCCC)CCN
+Nitrenium ion	[NH2+]
 Strontium bromide	[Sr+2].[Br-].[Br-]
 Methylenedioxyhydroxyethylamphetamine	C1=C2C(=CC=C1CC(C)NCCO)OCO2
 3,4-Methylenedioxy-N-isopropylamphetamine	C1=C2C(=CC=C1CC(C)NC(C)C)OCO2
@@ -20014,3 +20015,4 @@ Nickel(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ni+2]
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
 Zirconium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zr+4]
 Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.[La]
+Cerium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ce+3]
