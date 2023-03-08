@@ -15892,7 +15892,7 @@ Nalodeine	COC1=C2C3=C(CC4C5C3(CCN4CC=C)C(O2)C(C=C5)O)C=C1
 Bicyclomycin	C[C@](CO)([C@@H]([C@@]12C(=O)N[C@@](C(=C)CCO1)(C(=O)N2)O)O)O
 Trinitroethylorthoformate	C(C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OC(OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
 Trinitroethylorthocarbonate	C(C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OC(OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])(OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-])OCC([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]
-Carmoterol	COc1ccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c3NC(=O)C=Cc23)cc1
+Carmoterol	C[C@H](CC1=CC=C(C=C1)OC)NC[C@@H](C2=C3C=CC(=O)NC3=C(C=C2)O)O
 Pentaamminechlororhodium dichloride	[Cl-].Cl[Ru-3]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+].[Cl-]
 Vonoprazan	Fc1ccccc1-c2cc(CNC)cn2S(=O)(=O)c3cccnc3
 Emixustat	C1CCC(CC1)COC2=CC=CC(=C2)[C@@H](CCN)O
@@ -20019,4 +20019,7 @@ Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCC
 Cerium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ce+3]
 Trimethoxysilane	CO[Si](OC)OC
 Manganese stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Mn+2]
-Zinc acetylacetonate	[Zn+2].[O-]C(C)=CC(=O)C.[O-]C(C)=CC(=O)C
+Zinc acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Zn+2]
+Zinc acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].O.[Zn+2]
+Potassium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+Lead stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Pb+2]
