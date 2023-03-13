@@ -53,7 +53,7 @@ Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Ketamine	Clc1ccccc1C2(NC)CCCCC2=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
 Α-Ketoglutaric acid	O=C(O)C(=O)CCC(=O)O
-Lysergic acid diethylamide	CCN(CC)C(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C
+LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C
 Lithium citrate	[Li+].[Li+].[Li+].O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-]
 Lithium carbonate	[Li+].[Li+].[O-]C([O-])=O
 Lactose	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
@@ -11023,7 +11023,7 @@ Isoglutamine	C(CC(=O)O)[C@@H](C(=O)N)N
 Isoglutamine	C(CC(=O)O)[C@H](C(=O)N)N
 Dibenzocycloheptene	c1cc3c(cc1)Cc2c(cccc2)CC3
 Doxpicomine	CN(C)C(C1COCOC1)C2=CN=CC=C2
-RH-34	O=c1[nH]c2ccccc2c(=O)n1CCNCc3ccccc3OC
+RH-34	O=C1C=2C(NC(=O)N1CCNCC3=C(OC)C=CC=C3)=CC=CC2
 LSD-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
 AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
 WAY-181187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
@@ -20025,7 +20025,9 @@ Potassium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
 Lead stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Pb+2]
 Delta-11-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(=C)CC[C@H]3C(OC2=C1)(C)C)O
 Caesium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Cs+]
-(3-(2-furoyl)-quinoline-2 carboxaldehyde)	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
+(3-(2-Furoyl)-quinoline-2 carboxaldehyde)	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
 Ferric stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Fe+3]
 Silver hypochlorite	[O-]Cl.[Ag+]
 Zavegepant	CC1=CC(=CC2=C1NN=C2)CC(C(=O)N3CCN(CC3)C4CCN(CC4)C)NC(=O)N5CCC(CC5)C6=CC7=CC=CC=C7NC6=O
+Sodium hexachloroosmate	O.[Na+].[Na+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
+4-Fluoro-7-nitrobenzofurazan	C1=C(C2=NON=C2C(=C1)F)[N+](=O)[O-]
