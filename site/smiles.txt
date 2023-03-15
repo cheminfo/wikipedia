@@ -313,6 +313,7 @@ Gallium arsenide	[Ga+3].[As-3]
 Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
 Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
+Β-Carbon nitride	N13[C]25N4[C]16N2[C]34N56
 Heptane	CCCCCCC
 Calcium oxide	O=[Ca]
 Chlorpromazine	CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21
@@ -20031,4 +20032,10 @@ Silver hypochlorite	[O-]Cl.[Ag+]
 Zavegepant	CC1=CC(=CC2=C1NN=C2)CC(C(=O)N3CCN(CC3)C4CCN(CC4)C)NC(=O)N5CCC(CC5)C6=CC7=CC=CC=C7NC6=O
 Sodium hexachloroosmate	O.[Na+].[Na+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
 4-Fluoro-7-nitrobenzofurazan	C1=C(C2=NON=C2C(=C1)F)[N+](=O)[O-]
+6-aminoquinolyl-N-hydroxysuccinimidyl carbamate	C1CC(=O)N(C1=O)OC(=O)NC2=CC3=C(C=C2)N=CC=C3
+Iron bis(diethyldithiocarbamate)	CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].[Fe+2]
 TL-301	CC(C)N(CCCl)CCCl
+3,4-Bis(trifluoromethyl)-1,2-dithiete	C1(=C(SS1)C(F)(F)F)C(F)(F)F
+Pentacyanocobaltate	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Co+2]
+Zinc perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Zn+2]
+Yttrium perchlorate	[Y+3].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
