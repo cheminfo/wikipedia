@@ -5980,6 +5980,8 @@ Hygromycin B	O1[C@H]4[C@@H](OC12O[C@@H]([C@H](O)[C@@H](O)[C@H]2O)[C@@H](N)CO)[C@
 Cyclopropanone	O=C1CC1
 8-Hydroxyquinoline	c1cc2cccnc2c(c1)O
 Diphenylprolinol	OC(c1ccccc1)(c2ccccc2)C3NCCC3
+Trimethylenemethane	[CH2-]C(=C)[CH2+]
+Trimethylenemethane	[CH2][C]([CH2])[CH2]
 Rhenium diboride	B#[Re]#B
 Herbimycin	NC(=O)O[C@H]1C(/C)=C/[C@H](C)[C@@H](OC)[C@@H](OC)C[C@H](C)[C@@H](OC)C\2=C\C(=O)\C=C(\NC(=O)C(\C)=C\C=C/[C@@H]1OC)C/2=O
 Troparil	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=CC=C3)C(=O)OC
@@ -20018,6 +20020,7 @@ Dityrosine	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)C2=C(C=CC(=C2)C[C@@H](C(=O)O)N)O)O
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
 Zirconium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zr+4]
 Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.[La]
+Xanthatin	CC1CC2C(CC=C1C=CC(=O)C)C(=C)C(=O)O2
 Cerium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ce+3]
 Trimethoxysilane	CO[Si](OC)OC
 Manganese stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Mn+2]
@@ -20044,3 +20047,4 @@ Yttrium perchlorate	[Y+3].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Indium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[In+3]
 Ytterbium(III) iodide	[I-].[I-].[I-].[Yb+3]
 Lanthanum oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[La+3].[La+3]
+Lanthanum pentanickel	[Ni].[Ni].[Ni].[Ni].[Ni].[La]
