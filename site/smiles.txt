@@ -8991,7 +8991,7 @@ Iopydol	C1=C(C(=O)C(=CN1CC(CO)O)I)I
 Propyliodone	CCCOC(=O)CN1C=C(C(=O)C(=C1)I)I
 Iofendylate	CCOC(=O)CCCCCCCCC(C)C1=CC=C(C=C1)I
 Adipiodone	O=C(Nc1c(I)c(c(I)cc1I)C(=O)O)CCCCC(=O)Nc2c(I)c(C(=O)O)c(I)cc2I
-Perflenapent	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+Perfluoropentane	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
 Metrizoic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)N(C)C(=O)C)I
 Iotalamic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NC)I
 Ioxitalamic acid	CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NCCO)I
@@ -18246,6 +18246,7 @@ Embelin	CCCCCCCCCCCC1=C(C(=O)C=C(C1=O)O)O
 Pemigatinib	CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5
 Methyltriphenylphosphonium bromide	C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-]
 Obtusifoliol	C[C@@H]1[C@H](CC[C@]2(C1CCC3=C2CC[C@]4([C@]3(CC[C@@H]4[C@H](C)CCC(=C)C(C)C)C)C)C)O
+Trimethylsilyl isothiocyanate	C[Si](C)(C)N=C=S
 Di-tert-butylcyclopentadiene	CC(C)(C)C1C=CC(=C1)C(C)(C)C
 Allyl phenylacetate	C=CCOC(=O)CC1=CC=CC=C1
 Disperse Yellow 42	C1=CC=C(C=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC3=CC=CC=C3)[N+](=O)[O-]
@@ -20046,5 +20047,12 @@ Zinc perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Zn+2]
 Yttrium perchlorate	[Y+3].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Indium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[In+3]
 Ytterbium(III) iodide	[I-].[I-].[I-].[Yb+3]
+Sodium p-toluenesulfonate	CC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
+Sodium benzenesulfonate	C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
 Lanthanum oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[La+3].[La+3]
+14-Hydroxygelsenicine	CCC1=NC2CC3(C4C(C1C2CO4)O)C5=CC=CC=C5N(C3=O)OC
+Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sm+3]
+Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
+Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Sm+3]
 Lanthanum pentanickel	[Ni].[Ni].[Ni].[Ni].[Ni].[La]
+Lanthanum acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[La+3]
