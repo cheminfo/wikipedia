@@ -20056,3 +20056,6 @@ Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Sm+3]
 Lanthanum pentanickel	[Ni].[Ni].[Ni].[Ni].[Ni].[La]
 Lanthanum acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[La+3]
+Lanthanum oxyfluoride	[La+3].[O-2].[F-]
+Lanthanum oxysulfide	[O-2].[O-2].[S-2].[La+3].[La+3]
+Thorium oxyfluoride	[Th](F)(F)=O
