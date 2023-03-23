@@ -17516,6 +17516,7 @@ Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)
 Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
 Trithionate	[O-][S+2]([O-])([O-])S[S+2]([O-])([O-])[O-]
 Ortho-carborane	[B@@]123B456B178[B@@]49B714B822B337C211B492C131B75=B621
+Ortho-carborane	[BH]1234[BH]5%12%13[BH]1%10%11[BH]289[BH]367[BH]145[BH]6%14%15[BH]78%16[BH]9%10%17[CH]%11%12%18[CH]1%13%14[BH]%15%16%17%18
 Bromopentafluorobenzene	C1(=C(C(=C(C(=C1F)F)Br)F)F)F
 Imidazole salicylate	C1=CC=C(C(=C1)C(=O)O)O.C1=CN=CN1
 Morpholine salicylate	C1COCCN1.C1=CC=C(C(=C1)C(=O)O)O
@@ -17624,7 +17625,7 @@ Ibogaline	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC
 DNI-Glutamate	COC1=C(C=C(C2=C1CCN2C(=O)CC[C@@H](C(=O)O)N)[N+](=O)[O-])[N+](=O)[O-]
 Beta-Isophorone	CC1=CC(CC(=O)C1)(C)C
 Isobutylbenzene	CC(C)CC1=CC=CC=C1
-Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
+Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC.Cl
 Sorbitan monooleate	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H]([C@@H]1[C@@H]([C@H](CO1)O)O)O
 Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
@@ -20040,6 +20041,7 @@ Sodium hexachloroosmate	O.[Na+].[Na+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
 4-Fluoro-7-nitrobenzofurazan	C1=C(C2=NON=C2C(=C1)F)[N+](=O)[O-]
 6-Aminoquinolyl-N-hydroxysuccinimidyl carbamate	C1CC(=O)N(C1=O)OC(=O)NC2=CC3=C(C=C2)N=CC=C3
 Iron bis(diethyldithiocarbamate)	CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].[Fe+2]
+Sodium dicarbollylcobaltate(III)	[B-H]1234[BH]5%12%13[B-H]1%10%11[BH]289[BH]367[BH]145[BH]6%14[BH]78[BH]9%10[CH]%11%12[CH]1%13%14.[B-H]1234[BH]5%12%13[B-H]1%10%11[BH]289[BH]367[BH]145[BH]6%14[BH]78[BH]9%10[CH]%11%12[CH]1%13%14.[Na+].[Co-]
 TL-301	CC(C)N(CCCl)CCCl
 3,4-Bis(trifluoromethyl)-1,2-dithiete	C1(=C(SS1)C(F)(F)F)C(F)(F)F
 Pentacyanocobaltate	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Co+2]
@@ -20055,7 +20057,9 @@ Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Sm+3]
 Lanthanum pentanickel	[Ni].[Ni].[Ni].[Ni].[Ni].[La]
+Diafenthiuron	CC(C)C1=CC(=CC(=C1NC(=S)NC(C)(C)C)C(C)C)OC2=CC=CC=C2
 Lanthanum acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[La+3]
 Lanthanum oxyfluoride	[La+3].[O-2].[F-]
 Lanthanum oxysulfide	[O-2].[O-2].[S-2].[La+3].[La+3]
 Thorium oxyfluoride	[Th](F)(F)=O
+Ethylene trithiocarbonate	C1CSC(=S)S1
