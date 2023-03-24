@@ -3801,7 +3801,7 @@ Flurbiprofen	Fc2cc(ccc2c1ccccc1)C(C(=O)O)C
 X-gal	Brc3ccc2c(c(O[C@@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)CO)c[nH]2)c3Cl
 Tantalum telluride	[Te]=[Ta]=[Te]
 Octocrylene	N#C/C(C(=O)OCC(CC)CCCC)=C(/c1ccccc1)c2ccccc2
-Octyl salicylate	CCCCC(CC)COC(=O)C1=CC=CC=C1O
+2-Ethylhexyl salicylate	CCCCC(CC)COC(=O)C1=CC=CC=C1O
 Uranyl chloride	[Cl-].O=[U+2]=O.[Cl-]
 Uranyl chloride	O.O=[U+2]=O.[Cl-].[Cl-]
 Uranyl chloride	O.O.O=[U+2]=O.[Cl-].[Cl-]
@@ -11741,6 +11741,7 @@ Licochalcone A	CC(C)(C=C)c1cc(c(cc1O)OC)/C=C/C(=O)c2ccc(cc2)O
 Methylene (compound)	[CH2]
 Neokuguaglucoside	CC1(C)[C@@H](O[C@]2([H])O[C@H](CO)[C@@H](O)[C@@H](O)[C@H]2O)CC[C@]3([H])[C@]14C=C[C@]5([H])[C@@]3(CO4)CC[C@@]6(C)[C@@]5(C)CC[C@]6([H])[C@H](C)C7C(/C=C(C)/C)OC8C(C(O)C(O)C(CO)O8)(O)O7
 Lepidolide	C[C@@]12[C@](CC[C@]2([H])[C@H](C)/C=C/C=C(C)/C(O)=O)(C)[C@]3([H])C=C4C([C@@H](CCC(O)=O)[C@]3(C)CC1)=C(C)C(O4)=O
+Dicarbollide	[B-H]1234[BH]5%12%13[B-H]1%10%11[BH]289[BH]367[BH]145[BH]6%14[BH]78[BH]9%10[CH]%11%12[CH]1%13%14
 Cyclopentenone	C1CC(=O)C=C1
 Bryoamaride	C[C@@]12C[C@H]([C@@H]([C@]1(CC(=O)[C@@]3([C@H]2CC=C4[C@H]3C=C(C(=O)C4(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)[C@](C)(C(=O)CCC(C)(C)O)O)O
 Quizartinib	CC(C)(C)c1cc(no1)NC(=O)Nc2ccc(cc2)c3cn4c5ccc(cc5sc4n3)OCCN6CCOCC6
@@ -17625,7 +17626,7 @@ Ibogaline	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC
 DNI-Glutamate	COC1=C(C=C(C2=C1CCN2C(=O)CC[C@@H](C(=O)O)N)[N+](=O)[O-])[N+](=O)[O-]
 Beta-Isophorone	CC1=CC(CC(=O)C1)(C)C
 Isobutylbenzene	CC(C)CC1=CC=CC=C1
-Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC.Cl
+Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
 Sorbitan monooleate	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H]([C@@H]1[C@@H]([C@H](CO1)O)O)O
 Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
@@ -20062,4 +20063,5 @@ Lanthanum acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[La+3]
 Lanthanum oxyfluoride	[La+3].[O-2].[F-]
 Lanthanum oxysulfide	[O-2].[O-2].[S-2].[La+3].[La+3]
 Thorium oxyfluoride	[Th](F)(F)=O
+Pertechnetyl fluoride	O=[Tc](=O)(=O)F
 Ethylene trithiocarbonate	C1CSC(=S)S1
