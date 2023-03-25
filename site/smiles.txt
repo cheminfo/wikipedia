@@ -12331,7 +12331,7 @@ Amino radical	[NH2]
 Pinotin A	COc1cc(cc(c1O)OC)c2c(c3c4c([o+]2)cc(cc4OC(=C3)c5ccc(c(c5)O)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O
 3-Methoxy-4-hydroxyhippuric acid	COc1cc(C(=O)NCC(=O)O)ccc1O
 Dithionous acid	O=S(O)S(=O)O
-4-Methylpregabalin	O=C(O)CC(CN)C(C)C(C)C
+4-Methylpregabalin	NC[C@H](CC(=O)O)[C@H](C)C(C)C
 Zucapsaicin	Oc1ccc(cc1OC)CNC(CCCC\C=C/C(C)C)=O
 2-Bromo-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(NC4=CC=CC(=C34)C2=C1)Br)C
 Gadofosveset	[Gd+3].[Na+].[Na+].[Na+].[O-]C(=O)CN(CC([O-])=O)CCN(CC([O-])=O)C[C@@H](N(CC([O-])=O)CC([O-])=O)COP([O-])(=O)OC3CCC(c1ccccc1)(c2ccccc2)CC3.O
@@ -17876,7 +17876,7 @@ Tungsten pentafluoride	F[W](F)(F)(F)F
 Osmium pentafluoride	F[Os](F)(F)(F)F
 Rhodium trifluoride	[F-].[F-].[F-].[Rh+3]
 Thallium trifluoride	[F-].[F-].[F-].[Tl+3]
-Dimethylol propionic acid	CC(CO)(CO)C(=O)O
+Dimethylolpropionic acid	CC(CO)(CO)C(=O)O
 Empagliflozin/metformin	CN(C)C(=N)N=C(N)N.COC1C(C(C(C(O1)C2=CC(=C(C=C2)Cl)CC3=CC=C(C=C3)OC4CCOC4)O)O)O.Cl
 Relebactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NC3CCNCC3
 BW284C51	C[N+](C)(CC=C)c1ccc(cc1)CCC(=O)CCc2ccc(cc2)[N+](C)(C)CC=C.[Br-].[Br-]
@@ -20065,3 +20065,4 @@ Lanthanum oxysulfide	[O-2].[O-2].[S-2].[La+3].[La+3]
 Thorium oxyfluoride	[Th](F)(F)=O
 Pertechnetyl fluoride	O=[Tc](=O)(=O)F
 Ethylene trithiocarbonate	C1CSC(=S)S1
+Dicarbonyldi-μ-chlorodichlorodiplatinum	C(#O)[Pt+2]1([Cl-])[Cl-][Pt+2](C#O)([Cl-])[Cl-]1
