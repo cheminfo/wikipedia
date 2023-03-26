@@ -17658,6 +17658,7 @@ RU-57073	CC1(C(=O)N(C(=S)N1CCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Cyanonilutamide	CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
 Monobutyl phthalate	CCCCOC(=O)C1=CC=CC=C1C(=O)O
 SN 35210	Clc1ccccc1C2(NCCCCC(=O)OC)CCCCC2=O
+Trimethylplatinum iodide	[CH3-].[CH3-].[CH3-].I[Pt]
 Metacetamol	CC(=O)NC1=CC(=CC=C1)O
 Tris(o-tolyl)phosphine	CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C
 EA-3966	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C
@@ -19870,6 +19871,7 @@ Titanium trisulfide	[S-][S-].[S-2].[Ti+4]
 Isoalloxazine	C1=CC=C2C(=C1)N=C3C(=N2)NC(=O)NC3=O
 Copper(II) borate	B([O-])([O-])[O-].B([O-])([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
+NKTR-181	CN1CC[C@]23[C@@H]4[C@H](CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O)OCCOCCOCCOCCOCCOCCOC
 Isobornyl acetate	CC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 BZO-CHMOXIZID	O=C(C1=CC=CC=C1)N/N=C(C2=O)/C3=CC=CC=C3N2CC4CCCCC4
 ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
@@ -20059,10 +20061,11 @@ Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Sm+3]
 Lanthanum pentanickel	[Ni].[Ni].[Ni].[Ni].[Ni].[La]
 Diafenthiuron	CC(C)C1=CC(=CC(=C1NC(=S)NC(C)(C)C)C(C)C)OC2=CC=CC=C2
+KSC-12-192	CC1=C(C=C(C=C1)CSC2=NN=C(N2CC3=CC=CO3)C4=CC=CC=N4)C(F)(F)F
 Lanthanum acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[La+3]
 Lanthanum oxyfluoride	[La+3].[O-2].[F-]
 Lanthanum oxysulfide	[O-2].[O-2].[S-2].[La+3].[La+3]
 Thorium oxyfluoride	[Th](F)(F)=O
 Pertechnetyl fluoride	O=[Tc](=O)(=O)F
 Ethylene trithiocarbonate	C1CSC(=S)S1
-Dicarbonyldi-μ-chlorodichlorodiplatinum	C(#O)[Pt+2]1([Cl-])[Cl-][Pt+2](C#O)([Cl-])[Cl-]1
+Dicarbonyldi-μ-chlorodichlorodiplatinum	C(#[O])[Pt+2]1([Cl-])[Cl-][Pt+2](C#[O])([Cl-])[Cl-]1
