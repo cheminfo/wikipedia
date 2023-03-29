@@ -19871,7 +19871,7 @@ Titanium trisulfide	[S-][S-].[S-2].[Ti+4]
 Isoalloxazine	C1=CC=C2C(=C1)N=C3C(=N2)NC(=O)NC3=O
 Copper(II) borate	B([O-])([O-])[O-].B([O-])([O-])[O-].[Cu+2].[Cu+2].[Cu+2]
 Germanium dichloride dioxane	C1COCCO1.Cl[Ge]Cl
-NKTR-181	CN1CC[C@]23[C@@H]4[C@H](CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O)OCCOCCOCCOCCOCCOCCOC
+Oxycodegol	CN1CC[C@]23[C@@H]4[C@H](CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O)OCCOCCOCCOCCOCCOCCOC
 Isobornyl acetate	CC(=O)O[C@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 BZO-CHMOXIZID	O=C(C1=CC=CC=C1)N/N=C(C2=O)/C3=CC=CC=C3N2CC4CCCCC4
 ADB-FUBIATA	CC(C)(C)[C@@H](C(=O)N)NC(=O)CC1=CN(C2=CC=CC=C21)CC3=CC=C(C=C3)F
@@ -20075,3 +20075,6 @@ Barium chloride fluoride	[F-].[Cl-].[Ba+2]
 Dicyclohexyl phosphorofluoridate	C1CCC(CC1)OP(=O)(OC2CCCCC2)F
 Chlorosyl fluoride	O(Cl)F
 Oxygen monofluoride	[O]F
+Iodine monoxide	[O]I
+Osmium(IV) fluoride	[F-].[F-].[F-].[F-].[Os+4]
+Krypton tetrafluoride	[Kr](F)(F)(F)F
