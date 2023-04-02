@@ -12013,7 +12013,7 @@ Vitisin C	OC(C=C1)=CC=C1[C@@H](O2)[C@@H](C3=CC(O)=CC(O)=C3)C4=C2C=C(O)C=C4/C=C/C
 2-Propylheptanol	CCCCCC(CO)CCC
 Nitromersol	Cc1ccc(c2[Hg]Oc12)[N+]([O-])=O
 3-Azidocoumarin	O=C1C(N=[N+]=[N-])=CC2=CC=CC=C2O1
-Dioctyl terephthalate	O=C(OCC(CC)CCCC)c1ccc(C(=O)OCC(CC)CCCC)cc1
+Bis(2-ethylhexyl) terephthalate	O=C(OCC(CC)CCCC)c1ccc(C(=O)OCC(CC)CCCC)cc1
 Isorenieratene	CC1=C(C(=C(C=C1)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C=CC(=C2C)C)C)\C)\C)/C)/C)C
 L-741,626	OC(CC1)(C2=CC=C(Cl)C=C2)CCN1CC3=CNC4=CC=CC=C43
 L-368,899	CC1(C)[C@@]2(CS(N3CCN(C4=CC=CC=C4C)CC3)(=O)=O)CC[C@@H]1C[C@@H]2NC([C@H](CCS(C)(=O)=O)N)=O
@@ -20090,4 +20090,5 @@ Osmium(III) chloride	Cl[Os](Cl)Cl
 Tegileridine	CCO[C@H]1CC[C@@H](C2=CC=CC=C12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
 Ruthenium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Ru+4]
 Ruthenium(II) chloride	Cl[Ru]Cl
+Xenon octafluoride	F[Xe](F)(F)(F)(F)(F)(F)F
 Gold(III) phosphate	[O-]P(=O)([O-])[O-].[Au+3]
