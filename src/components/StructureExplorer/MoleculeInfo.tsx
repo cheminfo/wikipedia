@@ -12,7 +12,7 @@ interface MoleculeInfoProps {
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
-  const { selectedTitle, setSelectedTitle, setSearch, setIdCode } =
+  const { selectedTitle, setSelectedTitle, setSearch, setIdAndIdCode } =
     useMoleculeContext();
 
   return (
@@ -30,7 +30,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       <Hint info="Similar molecules" className="absolute top-1.5 left-2">
         <div
           onClick={() => {
-            setIdCode(mol.actID.value);
+            setIdAndIdCode({ id: mol.id, idCode: mol.actID.value });
             setSearch('similarity');
           }}
         >

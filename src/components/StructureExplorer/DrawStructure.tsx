@@ -31,7 +31,7 @@ function Search(): JSX.Element {
 }
 
 function Board(): JSX.Element {
-  const { idCode, setIdCode } = useMoleculeContext();
+  const { id, idCode, setIdAndIdCode } = useMoleculeContext();
   const [boardWidth, setBoardWidth] = useState(470);
 
   const handleResize = (refObs: ObservedSize) =>
@@ -44,13 +44,13 @@ function Board(): JSX.Element {
   });
 
   return (
-    <div key={idCode} className="lg:w-[470px]" ref={ref}>
+    <div key={id} className="lg:w-[470px]" ref={ref}>
       <StructureEditor
         height={490}
         width={boardWidth}
         initialIDCode={idCode}
         onChange={(molfile, molecule) => {
-          setIdCode(molecule.getIDCode());
+          setIdAndIdCode({ id, idCode: molecule.getIDCode() });
         }}
       />
     </div>

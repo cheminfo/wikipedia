@@ -7,8 +7,11 @@ interface State {
   setSelectedId: React.Dispatch<React.SetStateAction<number | null>>;
   selectedTitle: string;
   setSelectedTitle: React.Dispatch<React.SetStateAction<string>>;
+  id: number;
   idCode: string;
-  setIdCode: React.Dispatch<React.SetStateAction<string>>;
+  setIdAndIdCode: React.Dispatch<
+    React.SetStateAction<{ id: number; idCode: string }>
+  >;
   search: SearchType;
   setSearch: React.Dispatch<React.SetStateAction<SearchType>>;
 }
@@ -18,8 +21,9 @@ const MoleculeContext = createContext<State>({
   setSelectedId: () => undefined,
   selectedTitle: '',
   setSelectedTitle: () => undefined,
+  id: 0,
   idCode: '',
-  setIdCode: () => undefined,
+  setIdAndIdCode: () => undefined,
   search: 'substructure',
   setSearch: () => undefined,
 });
@@ -31,7 +35,7 @@ export function useMoleculeContext() {
 export function MoleculeContextProvider({ children }: { children: ReactNode }) {
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [selectedTitle, setSelectedTitle] = useState('');
-  const [idCode, setIdCode] = useState('');
+  const [idAndIdCode, setIdAndIdCode] = useState({ id: 0, idCode: '' });
   const [search, setSearch] = useState<SearchType>('substructure');
 
   const value = useMemo(
@@ -40,8 +44,9 @@ export function MoleculeContextProvider({ children }: { children: ReactNode }) {
       setSelectedId,
       selectedTitle,
       setSelectedTitle,
-      idCode,
-      setIdCode,
+      id: idAndIdCode.id,
+      idCode: idAndIdCode.idCode,
+      setIdAndIdCode,
       search,
       setSearch,
     }),
@@ -50,8 +55,8 @@ export function MoleculeContextProvider({ children }: { children: ReactNode }) {
       setSelectedId,
       selectedTitle,
       setSelectedTitle,
-      idCode,
-      setIdCode,
+      idAndIdCode,
+      setIdAndIdCode,
       search,
       setSearch,
     ],
