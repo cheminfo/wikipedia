@@ -4513,7 +4513,7 @@ Propylene carbonate	CC1COC(=O)O1
 Polypropylene carbonate	*CCCOC(=O)O*
 Rubrocurcumin	B1(OC(=O)C(=O)O1)O/C(=C\C(=O)/C=C/c2ccc(c(c2)OC)O)/C=C/c3ccc(c(c3)OC)O
 Nicergoline	Brc1cc(cnc1)C(=O)OC[C@@H]3C[C@]4(OC)c5cccc2c5c(cn2C)C[C@H]4N(C3)C
-Hexylresorcinol	Oc1cc(O)ccc1CCCCCC
+4-Hexylresorcinol	Oc1cc(O)ccc1CCCCCC
 Fenethylline	O=C2N(c1ncn(c1C(=O)N2C)CCNC(C)Cc3ccccc3)C
 Linolein	CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C\C/C=C\CCCCC)COC(=O)CCCCCCC/C=C\C/C=C\CCCCC
 1,4-Dihydropyridine	C1C=CNC=C1
@@ -20096,3 +20096,8 @@ Gold(III) phosphate	[O-]P(=O)([O-])[O-].[Au+3]
 Europium selenide	[Eu]=[Se]
 Indium(II) chloride	Cl[InH]Cl
 N,N'-Diallyl-L-tartardiamide	C=CCNC(=O)C(C(C(=O)NCC=C)O)O
+Osmium tetrasulfide	S=[Os](=S)(=S)=S
+Cerium monosulfide	S=[Ce]
+Ytterbium sulfide	[S].[Yb]
+Ytterbium(III) sulfide	[Yb].[S]
+LIT-001	CC1=C(C=CC(=C1)C(=O)N2CC3=C(NC4=CC=CC=C42)N(N=C3)C)CNC(=O)N5CCC[C@H]5C(=S)N(C)C
