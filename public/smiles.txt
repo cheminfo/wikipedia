@@ -20014,6 +20014,7 @@ Hydroxyethyl acrylate	C=CC(=O)OCCO
 TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
 Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
 Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+Cadusafos	CCC(C)SP(=O)(OCC)SC(C)CC
 Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
 Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O
 Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
@@ -20101,4 +20102,8 @@ Cerium monosulfide	S=[Ce]
 Ytterbium sulfide	[S].[Yb]
 Ytterbium(III) sulfide	[Yb].[S]
 LIT-001	CC1=C(C=CC(=C1)C(=O)N2CC3=C(NC4=CC=CC=C42)N(N=C3)C)CNC(=O)N5CCC[C@H]5C(=S)N(C)C
+Ytterbium(II) fluoride	[F-].[F-].[Yb+2]
 Dysprosium(III) iodide	I[Dy](I)I
+Plutonium pentafluoride	F[Pu](F)(F)(F)F
+Rhenium pentafluoride	F[Re](F)(F)(F)F
+Rhenium tetrafluoride	[F-].[F-].[F-].[F-].[Re]
