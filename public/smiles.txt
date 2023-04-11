@@ -3818,6 +3818,7 @@ Gadopentetic acid	[Gd+3].[O-]C(=O)CN(CCN(CC(=O)O)CC([O-])=O)CCN(CC([O-])=O)CC(=O
 Solketal	OCC1COC(C)(C)O1
 Magnesium diuranate	O=[U]1(=O)O[Mg]O[U](=O)(=O)O1
 Uranium tetrachloride	[U+4].[Cl-].[Cl-].[Cl-].[Cl-]
+Cefdinir	O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\O)/c3nc(sc3)N)C(=O)O
 Burimamide	CNC(=S)NCCCCc1c[nH]cn1
 Ammonium uranyl carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[NH4+].[NH4+].[NH4+].[NH4+].[O-2]=[U+6]=[O-2]
 Propylamine	CCCN
@@ -20109,4 +20110,6 @@ Rhenium tetrafluoride	[F-].[F-].[F-].[F-].[Re]
 Californium(III) fluoride	[Cf+3].[F-].[F-].[F-]
 3-(4-carboxybenzoyl)quinoline-2-carboxaldehyde	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=C(C=C3)C(=O)O
 Tetrachloro-1,1-difluoroethane	C(C(Cl)(Cl)Cl)(F)(F)Cl
+Cyclobutanecarboxylic acid	C1CC(C1)C(=O)O
 Tetrachloro-1,2-difluoroethane	C(C(F)(Cl)Cl)(F)(Cl)Cl
+Ruthenium(IV) fluoride	[F-].[F-].[F-].[F-].[Ru+4]
