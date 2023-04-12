@@ -20087,6 +20087,7 @@ Cumyl alcohol	CC(C)C1=CC=C(C=C1)CO
 Esproquin	O=S(CC)CCCN1CC=2C=CC=CC2CC1
 Enbezotinib	C[C@H]1CNC(=O)C2=C3N=C4C(=CN3N=C2)O[C@H]5CCC[C@H]5N4CC6=C(O1)N=CC(=C6)F
 Osmium(II) chloride	Cl[Os]Cl
+Osmium octafluoride	F[Os](F)(F)(F)(F)(F)(F)F
 Osmium(III) chloride	Cl[Os](Cl)Cl
 Tegileridine	CCO[C@H]1CC[C@@H](C2=CC=CC=C12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
 Iridium(II) chloride	[Ir+2].[Cl-].[Cl-]
@@ -20113,3 +20114,12 @@ Tetrachloro-1,1-difluoroethane	C(C(Cl)(Cl)Cl)(F)(F)Cl
 Cyclobutanecarboxylic acid	C1CC(C1)C(=O)O
 Tetrachloro-1,2-difluoroethane	C(C(F)(Cl)Cl)(F)(Cl)Cl
 Ruthenium(IV) fluoride	[F-].[F-].[F-].[F-].[Ru+4]
+Californium(III) oxide	[Cf+3].[Cf+3].[O-2].[O-2].[O-2]
+Californium(IV) oxide	[Cf+4].[O-2].[O-2]
+Californium(II) iodide	[Cf+2].[I-].[I-]
+Californium(III) iodide	[Cf+3].[I-].[I-].[I-]
+Berkelium(III) iodide	[Bk+3].[I-].[I-].[I-]
+Berkelium(III) fluoride	[Bk+3].[F-].[F-].[F-]
+Cyclopentanecarboxylic acid	C1CCC(C1)C(=O)O
+Berkelium(III) oxide	[Bk+3].[Bk+3].[O-2].[O-2].[O-2]
+FT-104	CC(C)N(CCC1=CNC2=C1C(=CC=C2)OC(=O)CCCC(=O)O)C(C)C
