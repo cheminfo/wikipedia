@@ -20090,13 +20090,15 @@ Osmium(II) chloride	Cl[Os]Cl
 Osmium octafluoride	F[Os](F)(F)(F)(F)(F)(F)F
 Osmium(III) chloride	Cl[Os](Cl)Cl
 Tegileridine	CCO[C@H]1CC[C@@H](C2=CC=CC=C12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
+Osmium(V) chloride	Cl[Os](Cl)(Cl)(Cl)Cl
 Iridium(II) chloride	[Ir+2].[Cl-].[Cl-]
 Ruthenium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Ru+4]
 Ruthenium(II) chloride	Cl[Ru]Cl
 Xenon octafluoride	F[Xe](F)(F)(F)(F)(F)(F)F
 Gold(III) phosphate	[O-]P(=O)([O-])[O-].[Au+3]
 Europium selenide	[Eu]=[Se]
-Indium(II) chloride	Cl[InH]Cl
+Indium(II) chloride	Cl[In]Cl
+Indium(II) chloride	[In+].[In+3].[Cl-].[Cl-].[Cl-].[Cl-]
 N,N'-Diallyl-L-tartardiamide	C=CCNC(=O)C(C(C(=O)NCC=C)O)O
 Osmium tetrasulfide	S=[Os](=S)(=S)=S
 Cerium monosulfide	S=[Ce]
@@ -20105,6 +20107,7 @@ Ytterbium(III) sulfide	[Yb].[S]
 LIT-001	CC1=C(C=CC(=C1)C(=O)N2CC3=C(NC4=CC=CC=C42)N(N=C3)C)CNC(=O)N5CCC[C@H]5C(=S)N(C)C
 Ytterbium(II) fluoride	[F-].[F-].[Yb+2]
 Dysprosium(III) iodide	I[Dy](I)I
+Berkelium tetrafluoride	[Bk+4].[F-].[F-].[F-].[F-]
 Plutonium pentafluoride	F[Pu](F)(F)(F)F
 Rhenium pentafluoride	F[Re](F)(F)(F)F
 Rhenium tetrafluoride	[F-].[F-].[F-].[F-].[Re]
@@ -20123,3 +20126,4 @@ Berkelium(III) fluoride	[Bk+3].[F-].[F-].[F-]
 Cyclopentanecarboxylic acid	C1CCC(C1)C(=O)O
 Berkelium(III) oxide	[Bk+3].[Bk+3].[O-2].[O-2].[O-2]
 FT-104	CC(C)N(CCC1=CNC2=C1C(=CC=C2)OC(=O)CCCC(=O)O)C(C)C
+Cannabidiorcol	CC1=C[C@H]([C@@H](CC1)C(=C)C)C2=C(C=C(C=C2O)C)O
