@@ -5944,7 +5944,7 @@ Carisbamate	Clc1ccccc1[C@@H](O)COC(=O)N
 Aminoethylpiperazine	NCCN1CCNCC1
 2-Aminothiazole	c1csc(n1)N
 Trimethylarsine	[As](C)(C)C
-4-Piperidinone	O=C1CCNCC1
+4-Piperidone	O=C1CCNCC1
 N-Phenethyl-4-piperidinone	O=C2CCN(CCc1ccccc1)CC2
 Benzilic acid	O=C(O)C(O)(c1ccccc1)c2ccccc2
 Dimethylbenzylamine	N(C)(Cc1ccccc1)C
@@ -20131,3 +20131,4 @@ Cannabidiorcol	CC1=C[C@H]([C@@H](CC1)C(=C)C)C2=C(C=C(C=C2O)C)O
 Lys-MDA	CC(Cc2ccc1OCOc1c2)NC(=O)C(N)CCCCN
 1,1-Dichlorotetrafluoroethane	C(C(F)(Cl)Cl)(F)(F)F
 Pynazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=N4
+3-methyl-3-sulfanylhexan-1-ol	OCCC(S)(C)C
