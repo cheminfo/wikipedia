@@ -12672,7 +12672,7 @@ Fluclorolone	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)C[C@@H]
 Cyclohexylthiophthalimide	O=C3c1ccccc1C(=O)N3SC2CCCCC2
 Trifluoromethyl hypofluorite	FC(F)(F)OF
 Perfluoromethyldiethylamine	C(C(F)(F)F)(N(C(C(F)(F)F)(F)F)C(F)(F)F)(F)F
-Aluminium triethoxide	CCO[Al](OCC)OCC
+Aluminium ethoxide	CCO[Al](OCC)OCC
 Dinitromethane	C([N+](=O)[O-])[N+](=O)[O-]
 Octopine	CC(NC(CCCNC(N)=N)C(O)=O)C(O)=O
 Brivanib alaninate	CC1=CC2=C(N1)C=CC(=C2F)OC3=NC=NN4C3=C(C(=C4)OCC(C)OC(=O)C(C)N)C
@@ -20132,3 +20132,4 @@ Lys-MDA	CC(Cc2ccc1OCOc1c2)NC(=O)C(N)CCCCN
 1,1-Dichlorotetrafluoroethane	C(C(F)(Cl)Cl)(F)(F)F
 Pynazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=N4
 3-methyl-3-sulfanylhexan-1-ol	OCCC(S)(C)C
+Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O
