@@ -20131,5 +20131,9 @@ Cannabidiorcol	CC1=C[C@H]([C@@H](CC1)C(=C)C)C2=C(C=C(C=C2O)C)O
 Lys-MDA	CC(Cc2ccc1OCOc1c2)NC(=O)C(N)CCCCN
 1,1-Dichlorotetrafluoroethane	C(C(F)(Cl)Cl)(F)(F)F
 Pynazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=N4
-3-methyl-3-sulfanylhexan-1-ol	OCCC(S)(C)C
+3-methyl-3-sulfanylhexan-1-ol	CCCC(C)(CCO)S
+Gallium perrhenate	[Ga+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-]
+Gallium perrhenate	[Ga+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O.O.O.O.O.O.O.O
 Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O
+Veratric acid	COC1=C(C=C(C=C1)C(=O)O)OC
+Platinum(II) iodide	[Pt+2].[I-].[I-]
