@@ -1742,7 +1742,7 @@ Noscapine	O=C2O[C@@H](c1ccc(OC)c(OC)c12)[C@@H]5N(C)CCc4c5c(OC)c3OCOc3c4
 GD2	CCCCCCCCCCCCCCCCCC(=O)NC(CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)O[C@@]4(C[C@H]([C@@H]([C@H](O4)C(C(CO[C@@]5(C[C@H]([C@@H]([C@H](O5)C(C(CO)O)O)N)O)C(=O)O)O)O)N)O)C(=O)O)O)O)O)C(/C=C/CCCCCCCCCCCCC)O
 Carminic acid	O=C(O)c2c(c3C(=O)c1c(O)c(c(O)c(O)c1C(=O)c3cc2O)[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O)CO)C
 Clemastine	Clc1ccc(cc1)[C@](OCC[C@@H]2N(C)CCC2)(c3ccccc3)C
-Dodecahedrane	C31C%10C2C5C%11C6C8C(C1C9C4C7C(C2C34)C5C6C7C89)C%10%11
+Dodecahedrane	C12C3C4C5C1C6C7C2C8C3C9C4C1C5C6C2C7C8C9C12
 Catechol	Oc1c(O)cccc1
 Salicylaldoxime	Oc1ccccc1/C=N\O
 Xylulose	C([C@@H]([C@H](C(=O)CO)O)O)O
@@ -17765,7 +17765,7 @@ Niobium disulfide	S=[Nb]=S
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
 Cyanazine	CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N
 P-Phenetidine	CCOC1=CC=C(C=C1)N
-Trans-Propenylbenzene	CC=CC1=CC=CC=C1
+Trans-Propenylbenzene	C(=C/C)\C1=CC=CC=C1
 Glycitin	COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 N,N-Dimethyl-2-chloro-2-phenylethylamine	CN(C)CC(c1ccccc1)Cl
 1,5-Diazacyclooctane	C1CNCCCNC1
@@ -20144,3 +20144,4 @@ Osmium(III) bromide	[Os+2].[Br-].[Br-].[Br-]
 Osmium heptafluoride	F[Os](F)(F)(F)(F)(F)F
 GS-7	CSP(=O)(N)SC
 Technetium pentafluoride	F[Tc](F)(F)(F)F
+Chloroethylene oxide	C1C(O1)Cl
