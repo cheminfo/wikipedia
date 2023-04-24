@@ -10812,8 +10812,8 @@ Threonic acid	C([C@H]([C@@H](C(=O)O)O)O)O
 Threonic acid	C([C@@H]([C@H](C(=O)O)O)O)O
 Iron(II) oxalate	[Fe+2].O=C([O-])-C([O-])=O
 SU6656	O=S(=O)(c1cc\2c(cc1)NC(=O)C/2=C/c3cc4c([nH]3)CCCC4)N(C)C
-Uranium hydride	[UH3]
-Uranium hydride	[H-].[H-].[H-].[U+3]
+Uranium(III) hydride	[UH3]
+Uranium(III) hydride	[H-].[H-].[H-].[U+3]
 Eptapirone	Cn1c(=O)cnn(c1=O)CCCCN2CCN(CC2)c3ncccn3
 Bis(2,4-dinitrophenyl) oxalate	O=C(Oc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O)C(=O)Oc2ccc([N+]([O-])=O)cc2[N+]([O-])=O
 3-Fluoromethcathinone	FC1=CC=CC(=C1)C(C(C)NC)=O
@@ -10827,9 +10827,7 @@ Tabernanthine	CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC
 Acotiamide	O=C(Nc1nc(C(=O)NCCN(C(C)C)C(C)C)cs1)c2cc(OC)c(OC)cc2O
 Alinidine	Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
 6-Fluoro-DMT	CN(CCC1=CNC2=C1C=CC(F)=C2)C
-2-(Dicyanomethylene)croconate	N#CC(C#N)=C1C(=O)C([O-])=C([O-])C1=O
-2-(Dicyanomethylene)croconate	N#CC(C#N)=C1C([O-])=C([O-])C(=O)C1=O
-2-(Dicyanomethylene)croconate	N#C[C-](C#N)C1=C([O-])C(=O)C(=O)C1=O
+2-(Dicyanomethylene)croconate	C(#N)C(=C1C(=O)C(=C(C1=O)[O-])[O-])C#N
 3-Ethyl-3-pentanol	OC(CC)(CC)CC
 Jatrorrhizine	COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC
 BDTH2	O=C(NCCS)c1cccc(c1)C(=O)NCCS
@@ -20146,3 +20144,5 @@ Osmium heptafluoride	F[Os](F)(F)(F)(F)(F)F
 GS-7	CSP(=O)(N)SC
 Technetium pentafluoride	F[Tc](F)(F)(F)F
 Chloroethylene oxide	C1C(O1)Cl
+MSPI (nerve agent)	C[N+]1=CN(C=C1)P(=O)([O-])SC
+Iridium(III) iodide	I[Ir](I)I
