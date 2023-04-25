@@ -2773,7 +2773,7 @@ Vinylacetylene	C#CC=C
 Metandienone	O=C\1\C=C/[C@]4(/C(=C/1)CC[C@@H]3[C@@H]4CC[C@]2([C@H]3CC[C@@]2(O)C)C)C
 Cladribine	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)C3)CO)N
 Aminocaproic acid	C(CCC(=O)O)CCN
-Isomalt	O(C[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO
+Isomalt	O(C[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO)[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO.OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
 Potassium manganate	[O-][Mn](=O)(=O)[O-].[K+].[K+]
 Chromium(III) picolinate	c1ccnc(c1)C(=O)[O-].c1ccnc(c1)C(=O)[O-].c1ccnc(c1)C(=O)[O-].[Cr+3]
 Chromium(III) picolinate	c0ccc[n+]1c0C(=O)O[Cr-3]123(OC(=O)c0[n+]2cccc0)OC(=O)c0[n+]3cccc0
@@ -20145,4 +20145,8 @@ GS-7	CSP(=O)(N)SC
 Technetium pentafluoride	F[Tc](F)(F)(F)F
 Chloroethylene oxide	C1C(O1)Cl
 MSPI (nerve agent)	C[N+]1=CN(C=C1)P(=O)([O-])SC
-Iridium(III) iodide	I[Ir](I)I
+Iridium(III) iodide	[I-].[I-].[I-].[Ir+3]
+Iridium(III) iodide	O.O.[I-].[I-].[I-].[Ir+3]
+Iridium(III) iodide	O.O.O.[I-].[I-].[I-].[Ir+3]
+Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
+Neodymium(II) hydride	[H-].[H-].[Nd+2]
