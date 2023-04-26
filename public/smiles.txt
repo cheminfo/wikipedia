@@ -15345,6 +15345,7 @@ ADX-71149	CCCCN1C=CC(=C(C1=O)Cl)N2CCC(CC2)C3=CC=CC=C3
 Thienorphine	C[C@@](CCc1cccs1)([C@H]2C[C@@]34CCC2([C@H]5[C@@]36CCN([C@@H]4Cc7c6c(c(cc7)O)O5)CC8CC8)OC)O
 Modimelanotide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N3CCC[C@H]3C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](Cc6ccc(cc6)O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)C
 Beta-Melanocyte-stimulating hormone	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC=N3)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)NC(CO)C(=O)N7CCCC7C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)O)N
+Gamma-Melanocyte-stimulating hormone	CC(C)[C@@H](C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)NCC(=O)O)NC(=O)[C@H](CC6=CC=C(C=C6)O)N
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
 3'-Hydroxyechinenone	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)CCC2(C)C)C)/C)/C
@@ -20020,6 +20021,7 @@ Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
 1,4-Cyclohexanedicarboxylic acid	C1CC(CCC1C(=O)O)C(=O)O
 1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@H](CC1)C(O)=O
 1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@@H](CC1)C(O)=O
+Ammonium hexachlorotellurate	[NH4+].[NH4+].Cl[Te](Cl)(Cl)([Cl-])([Cl-])Cl
 Nickel(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dityrosine	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)C2=C(C=CC(=C2)C[C@@H](C(=O)O)N)O)O
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
