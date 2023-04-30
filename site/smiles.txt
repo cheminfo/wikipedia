@@ -1281,7 +1281,7 @@ Dimercaprol	OCC(S)CS
 Phosphorine	C1=CC=PC=C1
 Zopiclone	O=C(OC3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
 Nitrazepam	[O-][N+](C1=CC2=C(C=C1)NC(CN=C2C3=CC=CC=C3)=O)=O
-Vincristine	[H] [C@]89CN(CCc1c([nH]c2ccccc12)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C=O)[C@@]5([H])[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]7(CC)C=CCN6CC[C@]45[C@@]67[H])C8)C[C@](O)(CC)C9
+Vincristine	CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
 Metol	O=S(=O)(O)O.Oc1ccc(NC)cc1.Oc1ccc(NC)cc1
 Samarium(II) iodide	I[Sm]I
 Pentyl butyrate	CCCCCOC(=O)CCC
@@ -20153,3 +20153,4 @@ Iridium(III) iodide	O.O.O.[I-].[I-].[I-].[Ir+3]
 Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
 Neodymium(II) hydride	[H-].[H-].[Nd+2]
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
+Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
