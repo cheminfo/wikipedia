@@ -4928,6 +4928,8 @@ Norgestrienone	O=C4\C=C3/C(=C2/C=C\[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)C)CC4
 Lynestrenol	C#C[C@]2(O)CC[C@H]1[C@H]4[C@H](CC[C@@]12C)[C@@H]3\C(=C/CCC3)CC4
 Ethisterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C
 Tentoxin	O=C1N[C@H](C(=O)N(/C(C(=O)NCC(=O)N(C)[C@H]1C)=C\c2ccccc2)C)CC(C)C
+Gallium phosphate	O=P12O[Ga](O1)O2
+Gallium phosphate	[Ga+3].[O-]P([O-])([O-])=O
 Acridine carboxamide	CN(C)CCNC(=O)C1=CC=CC2=CC3=CC=CC=C3N=C21
 Clobenzorex	Clc1ccccc1CNC(C)Cc2ccccc2
 Magnus's green salt	[NH3+][Pt-2]([NH3+])([NH3+])[NH3+].Cl[Pt-2](Cl)(Cl)Cl
@@ -7983,7 +7985,7 @@ Flesinoxan	C1CN(CCN1CCNC(=O)C2=CC=C(C=C2)F)C3=C4C(=CC=C3)O[C@H](CO4)CO
 Neticonazole	CCCCCOc1ccccc1/C(=C\SC)/n2ccnc2
 Panipenem	C[C@H]([C@@H]1[C@H]2CC(=C(N2C1=O)C(=O)O)S[C@H]3CCN(C3)C(=N)C)O
 Betamipron	O=C(NCCC(=O)O)c1ccccc1
-Potassium argentocyanide	[C-]#N.[C-]#N.[K+].[Ag+]
+Potassium dicyanoargentate	[C-]#N.[C-]#N.[K+].[Ag+]
 Methacryloyl chloride	CC(=C)C(=O)Cl
 Pirimiphos-methyl	CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1
 Procymidone	Clc1cc(cc(Cl)c1)N2C(=O)C3(C)CC3(C)C2=O
@@ -13093,7 +13095,7 @@ Samidorphan	c1cc(c(c2c1C[C@@H]3[C@]4([C@]2(CCN3CC5CC5)CC(=O)CC4)O)O)C(=O)N
 (3-Aminopropyl)triethoxysilane	CCO[Si](CCCN)(OCC)OCC
 Nornicotine	n1cccc(c1)[C@H]2NCCC2
 Aluminium formate	[Al+3].[O-]C=O.[O-]C=O.[O-]C=O
-Arsenic dioxide	O=[As][O]
+Arsenic dioxide	[As+3].[As+5].[O].[O].[O].[O]
 (6S)-6-Fluoroshikimic acid	F[C@H]1C(=C/[C@@H](O)[C@@H](O)[C@@H]1O)\C(=O)O
 2-Diphenylphosphinobenzaldehyde	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C=O
 Fenarimol	Clc1ccc(cc1)C(O)(c2ccccc2Cl)c3cncnc3
@@ -20154,3 +20156,4 @@ Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O
 Neodymium(II) hydride	[H-].[H-].[Nd+2]
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
+Serinol	C(C(CO)N)O
