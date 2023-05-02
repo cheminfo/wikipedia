@@ -1435,7 +1435,7 @@ Europium(III) chloride	Cl[Eu](Cl)Cl
 Albendazole	CCCSc2ccc1nc(NC(=O)OC)[nH]c1c2
 Vecuronium bromide	CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1N4CCCCC4)C)CC[C@]5([C@H]3C[C@@H]([C@@H]5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-]
 Salmeterol	OCc1cc(ccc1O)[C@H](O)CNCCCCCCOCCCCc2ccccc2
-Ranitidine	[O-] [N+]( = O)C = C(NC)NCCSCc1ccc(o1)CN(C)C
+Ranitidine	CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C
 Saxitoxin	O=C(OC[C@@H]2/N=C(/N)N3[C@]1(/N=C(\N[C@H]12)N)C(O)(O)CC3)N
 Lisinopril	C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O
 Ramipril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@H]12)C)CCc3ccccc3
@@ -1954,7 +1954,7 @@ Bromide	[Br-]
 Tolterodine	Cc1ccc(c(c1)[C@H](CCN(C(C)C)C(C)C)c2ccccc2)O
 Phorone	O=C(C=C(C)C)C=C(C)C
 3,3'-Diaminobenzidine	c2(c1cc(N)c(N)cc1)ccc(N)c(N)c2
-Tinidazole	[O-] [N+](=O)c1cnc(n1CCS(=O)(=O)CC)C
+Tinidazole	CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C
 Heneicosane	CCCCCCCCCCCCCCCCCCCCC
 CX717	C1COCCN1C(=O)C2=CC3=NON=C3C=C2
 Lithium tetramethylpiperidide	[Li]N1C(C)(C)CCCC1(C)C
@@ -1979,7 +1979,7 @@ Dunnite	C1=C(C=C(C(=C1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].[NH4+]
 9-Borabicyclo(3.3.1)nonane	B1([H]3)(C2CCCC1CCC2)[H]B34C2CCCC4CCC2
 Lenalidomide	O=C1NC(=O)CCC1N3C(=O)c2cccc(c2C3)N
 Singlet oxygen	O=O
-Furazolidone	[O-] [N+](=O)c2oc(C=NN1C(=O)OCC1)cc2
+Furazolidone	C1COC(=O)N1N=CC2=CC=C(O2)[N+](=O)[O-]
 Benomyl	O=C(n1c2ccccc2nc1NC(=O)OC)NCCCC
 Proguanil	Clc1ccc(NC(=N/C(=N/C(C)C)N)N)cc1
 Clamoxyquine	Clc1cc(c(O)c2ncccc12)CNCCCN(CC)CC
@@ -3457,7 +3457,7 @@ Scheele's Green	[Cu+2].[O-][As]([O-])O
 Euxanthic acid	OC(=O)[C@H]4O[C@@H](Oc1ccc2Oc3cccc(O)c3C(=O)c2c1)[C@H](O)[C@@H](O)[C@@H]4O
 Euxanthone	c1cc(c2c(c1)oc3ccc(cc3c2=O)O)O
 Chlorotrifluoromethane	ClC(F)(F)F
-Oxamniquine	[O-] [N+](=O)c1c(cc2c(c1)NC(CC2)CNC(C)C)CO
+Oxamniquine	CC(C)NCC1CCC2=CC(=C(C=C2N1)[N+](=O)[O-])CO
 1-Nonanol	CCCCCCCCCO
 2-Methylheptane	CCCCCC(C)C
 Phycoerythrobilin	C/C=C/1\[C@H](C(=O)N\C1=C/c2c(c(c([nH]2)/C=C\3/C(=C(C(=N3)C[C@@H]4C(=C(C(=O)N4)C=C)C)C)CCC(=O)O)CCC(=O)O)C)C
@@ -4674,7 +4674,7 @@ Aurothioglucose	O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1S[Au]
 Auranofin	CCP(=[Au]S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C)(CC)CC
 Phenprocoumon	OC=1c3ccccc3OC(=O)C=1C(CC)c2ccccc2
 Phenindione	O=C2c1ccccc1C(=O)C2c3ccccc3
-Acenocoumarol	[O-] [N+](=O)c1ccc(cc1)C(CC(C)=O)C\2=C(/O)c3ccccc3OC/2=O
+Acenocoumarol	CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(OC3=CC=CC=C3C2=O)O
 Dicoumarol	O=C1Oc2ccccc2C(O)=C1CC3=C(O)c4ccccc4OC3=O
 Paramethadione	O=C1N(C(=O)OC1(C)CC)C
 Phensuximide	O=C2N(C(=O)CC2c1ccccc1)C
@@ -6235,7 +6235,7 @@ Furylfuramide	O=[N+]([O-])c2oc(/C=C(/c1occc1)C(=O)N)cc2
 3-Dehydrocarnitine	C[N+](C)(C)CC(=O)CC(=O)[O-]
 GHRP-6	C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@H](Cc3ccccc3)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](Cc4c[nH]c5c4cccc5)NC(=O)[C@H](Cc6c[nH]cn6)N
 Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
-Pretomanid	[O-] [N+](=O)c1cn2C[C@@H](COc2n1)OCc3ccc(OC(F)(F)F)cc3
+Pretomanid	C1[C@@H](COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
 Amorolfine	O2[C@@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)CC)C[C@@H]2C)C
@@ -9521,7 +9521,7 @@ Glucose 1,6-bisphosphate	O=P(O)(O)OC[C@H]1O[C@H](OP(=O)(O)O)[C@H](O)[C@@H](O)[C@
 16α-Hydroxy-DHEA	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2C[C@H]3O)\C[C@@H](O)CC4)C)C
 Pregnanediol	O[C@@H]4CC[C@]3([C@H](CC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]23)[C@@H](O)C)C4)C
 Pregnanetriol	O[C@H]4C[C@@H]3[C@]([C@@H]1[C@H]([C@H]2[C@](C)(CC1)[C@@](O)([C@@H](O)C)CC2)CC3)(C)CC4
-5α-Dihydroprogesterone	[H] [C@]34[C@]2([H])CC[C@@]1([H])CC(CC[C@@](C)1[C@]([H])2CC[C@@](C)3[C@@H]([C@@](C)=O)CC4)=O
+5α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
 Estetrol	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
 Tetrahydrocortisone	O=C2[C@H]3[C@H]([C@@H]1CC[C@](O)(C(=O)CO)[C@@]1(C)C2)CC[C@@H]4C[C@H](O)CC[C@]34C
 Tetrahydrocortisol	O=C(CO)[C@@]4(O)CC[C@H]3[C@H]2[C@@H]([C@@]1([C@@H](C[C@H](O)CC1)CC2)C)[C@@H](O)C[C@@]34C
@@ -12215,7 +12215,7 @@ Castavinol C3	OC2C(O)C(O)C(OC2CO)OC4C3C(C)(C(C)=O)OC4(c(cc1OC)cc(O)c1O)Oc5c3c(O)
 Tryptophol	C1=CC=C2C(=C1)C(=CN2)CCO
 Hydrogen astatide	[AtH]
 Annulatin	COc1c(=O)c2c(cc(cc2oc1c3cc(c(c(c3)O)O)O)O)O
-Saridegib	[H] [C@]12[C@@]([C@@]3([H])C(C2)=C(C)C[C@@]4(O[C@@](C[C@H](C)CN5)([H])[C@]5([H])[C@H]4C)CC3)([H])CC[C@]6([H])C[C@H](NS(C)(=O)=O)CC[C@@]61C
+Saridegib	C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC[C@@H]6C[C@@H](CC[C@@]6([C@H]5CC4=C(C3)C)C)NS(=O)(=O)C)C)NC1
 PF-4840154	O=C(NCC1=CC=CC=C1)C(C=N2)=C(NCC(C)C)N=C2N(CC3)CCN3CC4CCCOC4
 Arachidonyl-2'-chloroethylamide	ClCCNC(=O)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
 Arachidonylcyclopropylamide	O=C(NC1CC1)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
