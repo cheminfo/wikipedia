@@ -1126,7 +1126,7 @@ Pimecrolimus	Cl[C@@H]1CC[C@H](C[C@H]1OC)\C=C(/C)[C@H]2OC(=O)[C@@H]4CCCCN4C(=O)C(
 Guaifenesin	O(c1ccccc1OC)CC(O)CO
 Potassium alum	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
 Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
-Bismuth subsalicylate	O[Bi]1OC(=O)c2ccccc2O1
+Bismuth subsalicylate	O[Bi]1OC(=O)C2CCCCC2O1
 Adapalene	COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5
 Cinnamic acid	O=C(O)\C=C\c1ccccc1
 Rifamycin	CC1C=CC=C(C(=O)NC2=CC(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
@@ -20059,6 +20059,7 @@ Ytterbium(III) iodide	[I-].[I-].[I-].[Yb+3]
 Sodium p-toluenesulfonate	CC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
 Sodium benzenesulfonate	C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
 Lanthanum oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[La+3].[La+3]
+Bis(2-ethylhexyl)tetrabromophthalate	CCCCC(CC)COC(=O)C1=C(C(=C(C(=C1Br)Br)Br)Br)C(=O)OCC(CC)CCCC
 14-Hydroxygelsenicine	CCC1=NC2CC3(C4C(C1C2CO4)O)C5=CC=CC=C5N(C3=O)OC
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
