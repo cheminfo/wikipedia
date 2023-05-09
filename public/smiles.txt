@@ -18936,7 +18936,6 @@ CA77.1	CC(=O)NC1=CC=C(C=C1)C2=CN=C3C=C(C=CC3=N2)Cl
 Benzyl gentiobioside	C1=CC=C(C=C1)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O
 Anaritide	CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NCC(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)NC(CO)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)CNC(=O)C(CC3=CC=CC=C3)NC(=O)C(CS)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)N
 Cyazofamid	CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl
-Iron(IV) oxytetrafluoroborate	[Fe+4].[O-2].[B-](F)(F)(F)F.[B-](F)(F)(F)F
 Colibactin	C[C@H]1CCC(=N1)C2=C(C3(CC3)NC2=O)CC(=O)NCC4=NC(=CS4)C(=O)C(=O)C5=NC(=CS5)C(=O)CNC(=O)CC6=C(C(=O)NC67CC7)C8=N[C@H](CC8)C
 Tomatidine	CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)O)C)C)C)NC1
 Hydroxychavicol	C=CCC1=CC(=C(C=C1)O)O
@@ -20165,5 +20164,9 @@ Sodium technetate(V)	[Na+].[O-][Tc](=O)=O
 Indigoidine	C1=C(C(=O)NC(=O)C1=N)C2=C(NC(=O)C(=C2)N)O
 Iridium tetrabromide	Br[Ir](Br)(Br)Br
 Gold(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Au+3]
+Zirconium(IV) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Zr+4]
 Rhenium tetraiodide	I[Re](I)(I)I
 Barium selenide	[Se-2].[Ba+2]
+Rubidium selenide	[Se-2].[Rb+].[Rb+]
+Protactinium trihydride	[H-].[H-].[H-].[Pa+3]
+Protactinium monoxide	[O-2].[Pa+2]
