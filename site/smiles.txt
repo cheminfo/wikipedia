@@ -1366,6 +1366,7 @@ Bendroflumethiazide	FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N
 Cobalt blue	[O-][Al]=O.[O-][Al]=O.[Co+2]
 Canthaxanthin	CC(CC1)(C)C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C(C)(C)CC2)=C(C)C2=O)=C(C)C1=O
 Indanthrone blue	O=C6c5c4Nc3c(c2C(=O)c1ccccc1C(=O)c2cc3)Nc4ccc5C(=O)c7ccccc67
+Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
 2C-T-4	CC(C)Sc1cc(OC)c(cc1OC)CCN
 Sodium fluoroacetate	[Na+].[O-]C(=O)CF
 Adamantane	C1C3CC2CC(CC1C2)C3
@@ -20170,3 +20171,8 @@ Rubidium selenide	[Se-2].[Rb+].[Rb+]
 Protactinium trihydride	[H-].[H-].[H-].[Pa+3]
 Protactinium monoxide	[O-2].[Pa+2]
 YM-254890	C[C@@H]1[C@@H](C(=O)O[C@@H](C(=O)N(C(=C)C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)O1)[C@@H](C)OC)C)[C@@H](C(C)C)OC(=O)[C@H]([C@@H](C(C)C)O)NC(=O)C)C)C)C)C)CC2=CC=CC=C2)NC(=O)C
+Iodine dioxide	O=I[O]
+Lantadene	C/C=C(/C)\C(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C
+Lantadene	CC(=CC(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C)C
+Lantadene	CC[C@H](C)C(=O)O[C@@H]1CC(C[C@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CCC5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C
+Lantadene	CC(C)C(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C
