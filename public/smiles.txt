@@ -20178,3 +20178,6 @@ Lantadene	CC(=CC(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5
 Lantadene	CC[C@H](C)C(=O)O[C@@H]1CC(C[C@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CCC5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C
 Lantadene	CC(C)C(=O)O[C@@H]1CC(C[C@@H]2[C@]1(CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCC(=O)C5(C)C)C)C)C)C(=O)O)(C)C
 Bromine monoxide radical	Br[O]
+Lithium hypofluorite	[Li+].[O-]F
+5-Nitrovanillin	COC1=CC(=CC(=C1O)[N+](=O)[O-])C=O
+SCHEMBL19952957	C1CCC(C1)OC2=CC=C(C=C2)C3=NOC(=N3)C4=CC=C(C=C4)O
