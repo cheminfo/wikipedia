@@ -16188,6 +16188,7 @@ Scriptaid	C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
 3-Nitrooxypropanol	C(CO)CO[N+](=O)[O-]
 GTx-758	C1=CC(=CC=C1N(C2=CC=C(C=C2)F)C(=O)C3=CC(=C(C=C3)O)F)O
 (2-Bromophenyl)diphenylphosphine	c1ccc(cc1)P(c2ccccc2)c3ccccc3Br
+Sodium hypobromite	[O-]Br.[Na+]
 Ganaplacide	CC1(c2nc(c(n2CCN1C(=O)CN)Nc3ccc(cc3)F)c4ccc(cc4)F)C
 Guineesine	CC(C)CNC(=O)/C=C/C=C/CCCCCC/C=C/C1=CC2=C(C=C1)OCO2
 Propylene chlorohydrin	CC(CCl)O
@@ -20036,6 +20037,7 @@ Zinc acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Zn+2]
 Zinc acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].O.[Zn+2]
 Potassium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
 Lead stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Pb+2]
+C4-FN	C(#N)C(C(F)(F)F)(C(F)(F)F)F
 Delta-11-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(=C)CC[C@H]3C(OC2=C1)(C)C)O
 Caesium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Cs+]
 (3-(2-Furoyl)-quinoline-2 carboxaldehyde)	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
@@ -20183,3 +20185,5 @@ Lithium hypofluorite	[Li+].[O-]F
 5-Nitrovanillin	COC1=CC(=CC(=C1O)[N+](=O)[O-])C=O
 SCHEMBL19952957	C1CCC(C1)OC2=CC=C(C=C2)C3=NOC(=N3)C4=CC=C(C=C4)O
 Tetraoxidane	OOOO
+Pentaoxidane	OOOOO
+HOPO 14-1	O=C1C=CC=C(C(=O)NCCCN(C(=O)C2=CC=CC(=O)N2O)CCCCN(C(=O)C3=CC=CC(=O)N3O)CCCNC(=O)C4=CC=CC(=O)N4O)N1O
