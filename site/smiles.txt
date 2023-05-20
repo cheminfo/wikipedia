@@ -760,7 +760,6 @@ Glucose 6-phosphate	O[C@H]1[C@H](O)[C@@H](COP(O)(O)=O)OC(O)[C@@H]1O
 1-Pentanol	CCCCCO
 1-Hexanol	CCCCCCO
 1-Heptanol	OCCCCCCC
-Potassium tetraiodomercurate(II)	[K+].[K+].I[Hg-2](I)(I)I
 Fast Yellow AB	Nc1ccc(cc1OS(O)=O)/N=N/c2ccc(OS(O)=O)cc2
 Yellow 2G	CC1=NN(C(=O)C1N=NC2=CC=C(C=C2)S(=O)(=O)[O-])C3=CC(=C(C=C3Cl)S(=O)(=O)[O-])Cl.[Na+].[Na+]
 Sunset yellow FCF	[Na+].[Na+].[O-]S(=O)(=O)c1ccc(cc1)/N=N/c2c3ccc(cc3ccc2O)S([O-])(=O)=O
@@ -20160,6 +20159,7 @@ Neodymium(II) hydride	[H-].[H-].[Nd+2]
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
 Serinol	C(C(CO)N)O
+Diplopterol	C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCCC5(C)C)C)C)C)C(C)(C)O
 Platinum(II) fluoride	F[Pt]F
 Iridium trifluoride	[Ir+3].[F-].[F-].[F-]
 Iridium(IV) iodide	I[Ir](I)(I)I
@@ -20188,5 +20188,8 @@ Tetraoxidane	OOOO
 Pentaoxidane	OOOOO
 HOPO 14-1	O=C1C=CC=C(C(=O)NCCCN(C(=O)C2=CC=CC(=O)N2O)CCCCN(C(=O)C3=CC=CC(=O)N3O)CCCNC(=O)C4=CC=CC(=O)N4O)N1O
 (2-Nitrophenyl)acetic acid	C1=CC=C(C(=C1)CC(=O)O)[N+](=O)[O-]
+Hexyl nitrite	CCCCCCON=O
 Dioxygen monofluoride	[O]OF
 Diethylformamide	CCN(CC)C=O
+4-Fluoronitrobenzene	C1=CC(=CC=C1[N+](=O)[O-])F
+Tungsten hexabromide	Br[W](Br)(Br)(Br)(Br)Br
