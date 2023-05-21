@@ -20116,7 +20116,7 @@ Plutonium pentafluoride	F[Pu](F)(F)(F)F
 Rhenium pentafluoride	F[Re](F)(F)(F)F
 Rhenium tetrafluoride	[F-].[F-].[F-].[F-].[Re]
 Californium(III) fluoride	[Cf+3].[F-].[F-].[F-]
-3-(4-carboxybenzoyl)quinoline-2-carboxaldehyde	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=C(C=C3)C(=O)O
+3-(4-Carboxybenzoyl)quinoline-2-carboxaldehyde	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=C(C=C3)C(=O)O
 Tetrachloro-1,1-difluoroethane	C(C(Cl)(Cl)Cl)(F)(F)Cl
 Cyclobutanecarboxylic acid	C1CC(C1)C(=O)O
 Tetrachloro-1,2-difluoroethane	C(C(F)(Cl)Cl)(F)(Cl)Cl
@@ -20156,6 +20156,7 @@ Iridium(III) iodide	O.O.[I-].[I-].[I-].[Ir+3]
 Iridium(III) iodide	O.O.O.[I-].[I-].[I-].[Ir+3]
 Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
 Neodymium(II) hydride	[H-].[H-].[Nd+2]
+Biphytane	CCC(C)CCCC(C)CCCC(C)CCCC(C)CCC(C)CCCC(C)CCCC(C)CCCC(C)CC
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
 Serinol	C(C(CO)N)O
