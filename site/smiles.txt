@@ -13480,6 +13480,7 @@ Teduglutide	CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(
 Dihydrophloroglucinol	C1C(CC(=O)C=C1O)O
 Dabrafenib	CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
 Nitrogen monofluoride	[F+]=[N-]
+Trimellitic acid	c1cc(c(cc1C(=O)O)C(=O)O)C(=O)O
 Silver perrhenate	[Ag+].[O-][Re](=O)(=O)=O
 Silver dichromate	[Ag+].[Ag+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
 Gallocyanin	CN(C)c1ccc2c(c1)oc-3c(c(=O)cc(c3n2)C(=O)O)O
@@ -17543,6 +17544,7 @@ EA-2012	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3cc
 EA-2054	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CC(C)OP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCOc6cccc(c6)[N+](C)(C)C
 EA-2098	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CCOP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCOc6cccc(c6)[N+](C)(C)C
 Olorinab	CC(C)(C)[C@@H](CO)NC(=O)C1=NN(C2=C1C[C@H]3[C@@H]2C3)C4=NC=C[N+](=C4)[O-]
+5,6-Dihydroxyindole	C1=CNC2=CC(=C(C=C21)O)O
 Dimethylstilbestrol	C/C(=C(/C)\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O
 Estradiol dibutyrate	O(C(CCC)=O)[C@]1CC[C@]([H])2[C@@]([H])3CCC4C=C(C=CC=4[C@@]3([H])CC[C@@]21C)OC(=O)CCC
 Methenmadinone acetate	CC(=O)[C@]1(C(=C)C[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=CC4=CC(=O)CC[C@]34C)C)OC(=O)C
@@ -20190,9 +20192,11 @@ SCHEMBL19952957	C1CCC(C1)OC2=CC=C(C=C2)C3=NOC(=N3)C4=CC=C(C=C4)O
 Tetraoxidane	OOOO
 Pentaoxidane	OOOOO
 HOPO 14-1	O=C1C=CC=C(C(=O)NCCCN(C(=O)C2=CC=CC(=O)N2O)CCCCN(C(=O)C3=CC=CC(=O)N3O)CCCNC(=O)C4=CC=CC(=O)N4O)N1O
+Trihydrogen oxide	O.O.[H][H]
 (2-Nitrophenyl)acetic acid	C1=CC=C(C(=C1)CC(=O)O)[N+](=O)[O-]
 Hexyl nitrite	CCCCCCON=O
 Dioxygen monofluoride	[O]OF
 Diethylformamide	CCN(CC)C=O
 4-Fluoronitrobenzene	C1=CC(=CC=C1[N+](=O)[O-])F
 Tungsten hexabromide	Br[W](Br)(Br)(Br)(Br)Br
+4-Fluoroaniline	C1=CC(=CC=C1N)F
