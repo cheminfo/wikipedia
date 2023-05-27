@@ -2407,7 +2407,7 @@ Maleic anhydride	C1=CC(=O)OC1=O
 Bismuth(III) oxide	O=[Bi]O[Bi]=O
 Tin(IV) oxide	O=[Sn]=O
 Temefos	S=P(OC)(OC)Oc2ccc(Sc1ccc(OP(=S)(OC)OC)cc1)cc2
-Hexanitrostilbene	O=[N+]([O-])c1c(ccc(c1[N+]([O-])=O)[N+]([O-])=O)/C=C/c2ccc([N+]([O-])=O)c([N+]([O-])=O)c2[N+]([O-])=O
+Hexanitrostilbene	O=N(=O)C1=CC(N(=O)=O)=C(/C=C/C2=C(N(=O)=O)C=C(N(=O)=O)C=C2N(=O)=O)C(N(=O)=O)=C1
 Carbon tetrafluoride	FC(F)(F)F
 Carbon tetrabromide	BrC(Br)(Br)Br
 Hexamethylene triperoxide diamine	C1N2COOCN(COO1)COOC2
@@ -12060,7 +12060,7 @@ Chromyl fluoride	O=[Cr](=O)(F)F
 Potassium methoxide	[K+].[O-]C
 Lithium methoxide	[Li+].[O-]C
 Niobium oxychloride	O=[Nb](Cl)(Cl)Cl
-Di-(2-ethylhexyl)phosphoric acid	CCCCC(CC)COP(=O)(O)OCC(CC)CCCC
+Di(2-ethylhexyl)phosphoric acid	CCCCC(CC)COP(=O)(O)OCC(CC)CCCC
 Phenylsulfinic acid	C1=CC=C(C=C1)S(=O)O
 WIN 56,098	O=C(c3c1ccccc1cc2ccccc23)c4c6ccccc6n(c4C)CCN5CCOCC5
 WIN 54,461	Brc4ccc2c(n(c(c2C(=O)c1ccc(OC)cc1)C)CCN3CCOCC3)c4
