@@ -20224,4 +20224,10 @@ Ligustilide	O=C1OC(=CCCC)C2=C1C=CCC2
 Abaucin	C1CN(CCC12C3=CC=CC=C3NC(=O)O2)CCC4=CC=C(C=C4)C(F)(F)F
 Jamaicamide A	CC1C=CC(=O)N1C(=O)C=C(CCNC(=O)CCC=CC(C)CCC(=CCl)CCCC#CBr)OC
 Jamaicamide A	CC1C=CC(=O)N1C(=O)/C=C(\CCNC(=O)CC/C=C/C(C)CC/C(=C/Cl)/CCCC#CBr)/OC
+Pladienolide B	CC[C@@H]([C@@H](C)[C@@H]1[C@H](O1)C[C@H](C)/C=C/C=C(\C)/[C@@H]2[C@H](/C=C/[C@@H]([C@](CC[C@H](CC(=O)O2)O)(C)O)OC(=O)C)C)O
 Fluorocyclopropane	C1CC1F
+Hydroxyaminovaleric acid	C(CC(C(=O)O)N)CO
+Petrobactin	C1=CC(=C(C=C1C(=O)NCCCNCCCCNC(=O)CC(CC(=O)NCCCCNCCCNC(=O)C2=CC(=C(C=C2)O)O)(C(=O)O)O)O)O
+Petrobactin	C(=O)([O-])C(CC(=O)NCCC[NH2+]CCCCNC(C1=CC=C(C(=C1)O)O)=O)(CC(=O)NCCC[NH2+]CCCCNC(C2=CC=C(C(=C2)O)O)=O)O
+Lithium tellurite	[Li+].[Li+].[O-][Te](=O)[O-]
+Cobalt metagermanate	[Co+2].[O-][Ge](=O)[O-]
