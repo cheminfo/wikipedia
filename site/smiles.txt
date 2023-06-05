@@ -20024,6 +20024,7 @@ Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)
 Cadusafos	CCC(C)SP(=O)(OCC)SC(C)CC
 Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
 Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O
+Coicenal	CCC(C)C1C=CC23C(C1(C(=CC=O)O2)C)C(CC(C3O)C)C
 Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
 1,4-Cyclohexanedicarboxylic acid	C1CC(CCC1C(=O)O)C(=O)O
 1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@H](CC1)C(O)=O
@@ -20237,8 +20238,11 @@ BC-007	OC[C@H]1O[C@@H](N2C=3N=C(NC(C3N=C2)=O)N)C[C@@H]1OP(OC[C@H]4O[C@@H](N5C=6N
 Peucemycin	CC\C=C\C1=C2OC(CC(=O)OC/C(=C\C(\CC)=C\CC)/C=C/C(O)C2O)=CC1=O
 Chlorocyclopropane	C1CC1Cl
 Iodocyclopropane	C1CC1I
+Terbium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Tb+3]
+Terbium(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Tb+3]
 Indium acetate	CC(=O)O[In](OC(=O)C)OC(=O)C
 Contezolid	C1CN(C=CC1=O)C2=C(C=C(C(=C2F)F)N3C[C@@H](OC3=O)CNC4=NOC=C4)F
 Gadolinium(III) oxalate	[Gd+3].[Gd+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Gadolinium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].O.O.O.O.O.O.O.O.O.O.[Gd+3].[Gd+3]
 1,2,3-Cyclohexatriene	C1CC=C=C=C1
+Ethenedithione	C(=C=S)=S
