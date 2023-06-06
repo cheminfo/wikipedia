@@ -5465,7 +5465,7 @@ Sodium pyruvate	[Na+].[O-]C(=O)C(=O)C
 Tafenoquine	FC(F)(F)c3cc(Oc1c(OC)cc(NC(C)CCCN)c2nc(OC)cc(c12)C)ccc3
 Rumenic acid	CCCCCC\C=C/C=C/CCCCCCCC(=O)O
 Nootkatone	O=C2\C=C1\CC[C@@H](C(=C)C)C[C@@]1(C)[C@H](C)C2
-Alpha-Eleostearic acid	O=C(O)CCCCCCC/C=C\C=C\C=C\CCCC
+Α-Eleostearic acid	O=C(O)CCCCCCC/C=C\C=C\C=C\CCCC
 Pramocaine	O(c2ccc(OCCCN1CCOCC1)cc2)CCCC
 Isobutyramide	O=C(N)C(C)C
 Indoline	c1cccc2c1CCN2
@@ -7567,7 +7567,7 @@ Gabexate	O=C(Oc1ccc(cc1)C(=O)OCC)CCCCC/N=C(\N)N
 Carbohydrazide	O=C(NN)NN
 2-Methylpyridine	Cc1ccccn1
 WAY-100635	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4CCCCC4
-Alpha-Furil	O=C(C(=O)c1occc1)c2occc2
+Furil	O=C(C(=O)c1occc1)c2occc2
 Salutaridine	CN1CC[C@]23C=C(C(=O)C=C2[C@H]1CC4=C3C(=C(C=C4)OC)O)OC
 Verdamicin	C[C@@H](C1=CC[C@H]([C@H](O1)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@](CO3)(C)O)NC)O)N)N)N)N
 Sisomicin	C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H](CC=C(O3)CN)N)N)N)O
@@ -11693,8 +11693,8 @@ JWH-249	CCCCCn1cc(c2c1cccc2)C(=O)Cc3ccccc3Br
 Lactofen	CCOC(=O)C(C)OC(=O)c1cc(ccc1[N+](=O)[O-])Oc2ccc(cc2Cl)C(F)(F)F
 Trimethyloxonium tetrafluoroborate	F[B-](F)(F)F.[O+](C)(C)C
 Ilaprazole	Cc1c(OC)ccnc1CS(=O)c2[nH]c3ccc(cc3n2)n4cccc4
-15,16-Dihydroxy-alpha-eleostearic acid	OC(CCCCCCC/C=C\C=C\C=C\C(O)C(O)CC)=O
-Beta-Eleostearic acid	O=C(O)CCCCCCC\C=C\C=C\C=C\CCCC
+15,16-Dihydroxy-α-eleostearic acid	OC(CCCCCCC/C=C\C=C\C=C\C(O)C(O)CC)=O
+Β-Eleostearic acid	O=C(O)CCCCCCC\C=C\C=C\C=C\CCCC
 Balsaminapentaol	C[C@H](C[C@@H](O)[C@H](O)C(C)=C)[C@@]1([H])CC[C@@]2(C)[C@]3([H])[C@@H](O)C=C4[C@@](C)(CO)[C@@H](O)CC[C@@]4([H])[C@]3(C)CC[C@@]21C
 Balsaminol A	C[C@H](C[C@@H](O)/C=C(C)/C)[C@@]1([H])CC[C@@]2(C)[C@]3([H])[C@@H](O)C=C4[C@@](C)(CO)[C@@H](O)CC[C@@]4([H])[C@]3(C)CC[C@@]21C
 Balsaminol A	C[C@H](C[C@H](C=C(C)C)O)[C@H]1CC[C@@]2([C@@]1(CC[C@@]3([C@H]2[C@H](C=C4[C@H]3CC[C@@H]([C@]4(C)CO)O)O)C)C)C
@@ -17281,7 +17281,7 @@ Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
 Estriol (medication)	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
 Estrone (medication)	O=C4[C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3CC4)C
-Alpha-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
+Α-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
 Nickel bis(dimethylglyoximate)	CC(=C(C)N=O)NO.CC(=C(C)N=O)NO.[Ni]
 Histidine methyl ester	COC(=O)[C@H](Cc1c[nH]cn1)N
 Progesterone 3-acetyl enol ether	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CCC(=C4)OC(=O)C)C)C
@@ -20025,6 +20025,10 @@ Cadusafos	CCC(C)SP(=O)(OCC)SC(C)CC
 Choline bitartrate	C[N+](C)(C)CCO.C(C(C(=O)[O-])O)(C(=O)O)O
 Choline bitartrate	C[N+](C)(C)CCO.[C@@H]([C@H](C(=O)[O-])O)(C(=O)O)O
 Coicenal	CCC(C)C1C=CC23C(C1(C(=CC=O)O2)C)C(CC(C3O)C)C
+Coicenal	CCC(C)[C@H]1[C@@H]2C=C3[C@@H]([C@@]1(/C(=C/C=O)/O2)C)[C@@H](C[C@@H]([C@H]3O)C)C
+Coicenal	CCC(C)[C@H]1[C@@H]2C=C3[C@@H]([C@@]1(/C(=C/C=O)/O2)C)[C@@H](C[C@@H]([C@H]3OC(=O)CCC(=O)O)C)C
+Coicenal	CCC(C)[C@H]1[C@@H]2C=C3[C@@H]([C@@]1(/C(=C/C=O)/O2)C)[C@@H](C[C@@H]([C@H]3OC(=O)CCC(=O)OC)C)C
+Coicenal	CCC(C)[C@H]1C=C[C@]23[C@@H]([C@]1(/C(=C/C=O)/O2)C)[C@@H](C[C@@H]([C@H]3O)C)C
 Glycerol-1,2-carbonate	C1C(OC(=O)O1)CO
 1,4-Cyclohexanedicarboxylic acid	C1CC(CCC1C(=O)O)C(=O)O
 1,4-Cyclohexanedicarboxylic acid	OC(=O)[C@H]1CC[C@H](CC1)C(O)=O
@@ -20245,4 +20249,9 @@ Contezolid	C1CN(C=CC1=O)C2=C(C=C(C(=C2F)F)N3C[C@@H](OC3=O)CNC4=NOC=C4)F
 Gadolinium(III) oxalate	[Gd+3].[Gd+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Gadolinium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].O.O.O.O.O.O.O.O.O.O.[Gd+3].[Gd+3]
 1,2,3-Cyclohexatriene	C1CC=C=C=C1
+Alloisoleucine	CC[C@@H](C)[C@@H](C(=O)O)N
+Alloisoleucine	CC[C@H](C)[C@H](C(=O)O)N
+Alloisoleucine	CCC(C)C(C(=O)O)N
 Ethenedithione	C(=C=S)=S
+Bromyl fluoride	O=Br(=O)F
+Perbromyl fluoride	F[Br](=O)(=O)=O
