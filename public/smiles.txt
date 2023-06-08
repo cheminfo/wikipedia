@@ -7416,7 +7416,7 @@ Digallane	[GaH2]1[H][GaH2][H]1
 4-Pyrone	O=C\1/C=C\O/C=C/1
 Pamoic acid	OC(=O)C1=CC2=CC=CC=C2C(CC2=C(O)C(=CC3=CC=CC=C23)C(O)=O)=C1O
 Miotine	CC(C1=CC(=CC=C1)OC(=O)NC)N(C)C
-Alpha-GPC	[O-]P(=O)(OC[C@H](O)CO)OCC[N+](C)(C)C
+Glycerophosphorylcholine	[O-]P(=O)(OC[C@H](O)CO)OCC[N+](C)(C)C
 Anacardic acids	C=CCC=CCC=CCCCCCCCC1=C(C(=CC=C1)O)C(=O)O
 Altanserin	Fc1ccc(cc1)C(=O)C4CCN(CCN3C(=O)c2ccccc2NC3=S)CC4
 2-Propanoyl-3-(4-isopropylphenyl)-tropane	CCC(=O)C1C2N(C)C(CC2)CC1c3ccc(C(C)C)cc3
@@ -9671,7 +9671,7 @@ Semapimod	CC(=NN=C(N)N)C1=CC(=CC(=C1)NC(=O)CCCCCCCCC(=O)NC2=CC(=CC(=C2)C(=NN=C(N
 Glycidyl methacrylate	CC(=C)C(=O)OCC1CO1
 Tametraline	CN[C@H](CC1)C(C=CC=C2)=C2[C@H]1C3=CC=CC=C3
 Nemifitide	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)N)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@H](Cc4ccc(cc4)F)N)O
-Alpha-Hexachlorocyclohexane	Cl[C@H]1[C@@H](Cl)[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
+Α-Hexachlorocyclohexane	Cl[C@H]1[C@@H](Cl)[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
 EDTMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CP(=O)(O)O)CP(=O)(O)O
 DTPMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O
 4-Cyano-4'-pentylbiphenyl	N#Cc2ccc(c1ccc(cc1)CCCCC)cc2
@@ -17225,7 +17225,7 @@ Ethylpropyltryptamine	CCCN(CC)CCC1=CNC2=CC=CC=C12
 Althiomycin	COC1=CC(=O)N(C1)C(=O)[C@H]1CSC(=N1)[C@H](CO)NC(=O)C1=CSC(\C=N\O)=N1
 N-Formylmorpholine	C1COCCN1C=O
 Formanilide	C1=CC=C(C=C1)NC=O
-Alpha-Galactosylceramide	CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O
+Α-Galactosylceramide	CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O
 Phytosphingosine	CCCCCCCCCCCCCC[C@H]([C@H]([C@H](CO)N)O)O
 Tetrahydrophthalic anhydride	C1C=CCC2C1C(=O)OC2=O
 Angiotensin II (medication)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)O)N
@@ -20255,5 +20255,9 @@ Alloisoleucine	CCC(C)C(C(=O)O)N
 Ethenedithione	C(=C=S)=S
 Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
+2-Phenyl-2-propanol	CC(C)(C1=CC=CC=C1)O
+Chlorine trifluoride dioxide	O=[Cl](F)(F)(F)=O
+Beta-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
+Radium iodide	[I-].[I-].[Ra+2]
