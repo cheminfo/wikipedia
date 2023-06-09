@@ -3567,7 +3567,7 @@ Cyclopamine	C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC=C6C[C@H](CC[C@
 Cycloartenol	CC(C)CCC[C@@H](C)[C@H]5CC[C@]1(C)[C@]5(C)CC[C@]24C[C@]34C(/O)=C\C[C@@](C)(C)[C@@H]3CC[C@@H]12
 Cycloartenol	CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)O)C)C
 Trifluoroiodomethane	FC(F)(F)I
-Beta-Hexachlorocyclohexane	Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
+Β-Hexachlorocyclohexane	Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
 Phytofluene	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/C=C\C=C(/C)\C=C\C=C(/C)\CC\C=C(/C)\CCC=C(C)C)/C)/C)/C)C
 Vicine	O=C2\N=C(\N)NC(=C2/O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)/N
 Zeatin	C/C(=C\CNC1=NC=NC2=C1NC=N2)/CO
@@ -20017,6 +20017,7 @@ Tetrachlorocatechol	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O)O
 5-TFMO-DMT	CN(C)CCC1=CNC2=CC=C(OC(F)(F)F)C=C21
 5-TFM-DMT	CN(C)CCC1=CNC2=CC=C(C(F)(F)F)C=C21
 Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
+Topical hydrocortisone	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Hydroxyethyl acrylate	C=CC(=O)OCCO
 TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
 Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
@@ -20261,3 +20262,4 @@ Beta-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
 Radium iodide	[I-].[I-].[Ra+2]
+Perfluorohexyloctane	CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
