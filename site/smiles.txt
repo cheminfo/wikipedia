@@ -7796,7 +7796,7 @@ Dimethyl fumarate	O=C(OC)\C=C\C(=O)OC
 3-Methylpyridine	Cc1cccnc1
 2-Phenethyl propionate	O=C(OC(c1ccccc1)C)CC
 Tetramethyltin	C[Sn](C)(C)C
-Alpha-Hydroxyglutaric acid	O=C(O)C(O)CCC(=O)O
+Α-Hydroxyglutaric acid	O=C(O)C(O)CCC(=O)O
 Hawkinsin	C1C(C=CC(C1SCC(C(=O)O)N)(CC(=O)O)O)O
 Trifluorotoluene	C1=CC=C(C=C1)C(F)(F)F
 Silicon tetrabromide	Br[Si](Br)(Br)Br
@@ -20258,8 +20258,10 @@ Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
 2-Phenyl-2-propanol	CC(C)(C1=CC=CC=C1)O
 Chlorine trifluoride dioxide	O=[Cl](F)(F)(F)=O
-Beta-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
+Β-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
 Radium iodide	[I-].[I-].[Ra+2]
 Perfluorohexyloctane	CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+Viriditoxin	COc1cc(c2c(c1c3c4cc5c(c(c4c(cc3OC)O)O)C(=O)O[C@@H](C5)CC(=O)OC)cc6c(c2O)C(=O)O[C@@H](C6)CC(=O)OC)O
+AEF0117	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OCC5=CC=C(C=C5)OC)C)C
