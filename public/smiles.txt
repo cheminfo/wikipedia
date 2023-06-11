@@ -13098,7 +13098,7 @@ Samidorphan	c1cc(c(c2c1C[C@@H]3[C@]4([C@]2(CCN3CC5CC5)CC(=O)CC4)O)O)C(=O)N
 (3-Aminopropyl)triethoxysilane	CCO[Si](CCCN)(OCC)OCC
 Nornicotine	n1cccc(c1)[C@H]2NCCC2
 Aluminium formate	[Al+3].[O-]C=O.[O-]C=O.[O-]C=O
-Arsenic dioxide	[As+3].[As+5].[O].[O].[O].[O]
+Arsenic tetroxide	[As+3].[As+5].[O].[O].[O].[O]
 (6S)-6-Fluoroshikimic acid	F[C@H]1C(=C/[C@@H](O)[C@@H](O)[C@@H]1O)\C(=O)O
 2-Diphenylphosphinobenzaldehyde	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C=O
 Fenarimol	Clc1ccc(cc1)C(O)(c2ccccc2Cl)c3cncnc3
@@ -18320,7 +18320,7 @@ Phoslactomycin B	CC[C@H]1C=CC(=O)O[C@H]1/C=C/[C@](CCN)([C@@H](C[C@H](/C=C\C=C/C2
 Benzoylacetone	CC(=O)CC(=O)C1=CC=CC=C1
 Cerium(IV) fluoride	F[Ce](F)(F)F
 Sangivamycin	C1=C(C2=C(N=CN=C2N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N)C(=O)N
-Europium dichloride	Cl[Eu]Cl
+Europium(II) chloride	Cl[Eu]Cl
 Bis(pentafluorophenyl)xenon	C1(=C(C(=C(C(=C1F)F)[Xe]C2=C(C(=C(C(=C2F)F)F)F)F)F)F)F
 Dichlorotetrakis(pyridine)iron(II)	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.Cl[Fe]Cl
 Upamostat	CCOC(=O)N1CCN(CC1)C(=O)[C@H](CC2=CC(=CC=C2)/C(=N\O)/N)NS(=O)(=O)C3=C(C=C(C=C3C(C)C)C(C)C)C(C)C
@@ -20265,3 +20265,4 @@ Radium iodide	[I-].[I-].[Ra+2]
 Perfluorohexyloctane	CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
 Viriditoxin	COc1cc(c2c(c1c3c4cc5c(c(c4c(cc3OC)O)O)C(=O)O[C@@H](C5)CC(=O)OC)cc6c(c2O)C(=O)O[C@@H](C6)CC(=O)OC)O
 AEF0117	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OCC5=CC=C(C=C5)OC)C)C
+Praseodymium bismuthide	[Pr].[Bi]
