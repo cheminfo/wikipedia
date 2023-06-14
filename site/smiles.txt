@@ -4414,7 +4414,7 @@ Tungsten(V) chloride	Cl1[W](Cl)(Cl)(Cl)(Cl)Cl[W]1(Cl)(Cl)(Cl)Cl
 Tungsten dichloride dioxide	[O-2].[O-2].[Cl-].[Cl-].[W]
 Tungsten(VI) oxytetrabromide	O=[W](Br)(Br)(Br)Br
 Tungsten(VI) oxytetrachloride	O=[W](Cl)(Cl)(Cl)Cl
-Tungsten(VI) oxytetrafluoride	O=[W](F)(F)(F)F
+Tungsten oxytetrafluoride	O=[W](F)(F)(F)F
 Phenibut	O=C(O)CC(c1ccccc1)CN
 Tantalum(IV) sulfide	S=[Ta]=S
 Tantalum trialuminide	[Al].[Al].[Al].[Ta]
@@ -20266,3 +20266,5 @@ Perfluorohexyloctane	CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
 Viriditoxin	COc1cc(c2c(c1c3c4cc5c(c(c4c(cc3OC)O)O)C(=O)O[C@@H](C5)CC(=O)OC)cc6c(c2O)C(=O)O[C@@H](C6)CC(=O)OC)O
 AEF0117	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OCC5=CC=C(C=C5)OC)C)C
 Praseodymium bismuthide	[Pr].[Bi]
+Thioquinanthrene	C1=CC=C2C(=C1)C3=C(C=N2)SC4=C(S3)C=NC5=CC=CC=C54
+Radium chlorate	[Ra+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
