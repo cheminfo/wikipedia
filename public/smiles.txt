@@ -7913,7 +7913,7 @@ AM-4030	OCC=CC3(C)C1CCC(CO)CC1c2c(O3)cc(cc2O)C(C)(C)CCCCCC
 Aluminium molybdate	[Al+3].[Al+3].[O-][Mo](=O)(=O)[O-].[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O
 A-41988	c4cc(F)ccc4CCCC(C)c3cc(O)c1C=2CN(CC#C)CCC=2C(C)(C)Oc1c3
 Ammonium dinitramide	[NH4+].[N-]([N+](=O)[O-])[N+](=O)[O-]
-Alpha-Ketoisocaproic acid	CC(C)CC(=O)C(O)=O
+Α-Ketoisocaproic acid	CC(C)CC(=O)C(O)=O
 Mirfentanil	C1CN(CCC1N(C2=NC=CN=C2)C(=O)C3=CC=CO3)CCC4=CC=CC=C4
 Glutaconyl-CoA	O=C(O)C/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
 Isobutyryl-CoA	CC(C)C(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)O
@@ -17075,7 +17075,7 @@ Tetrahydrofuranylfentanyl	C1(=CC=CC=C1)N(C(=O)C1OCCC1)C1CCN(CC1)CCC1=CC=CC=C1
 Orthofluorofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3F
 Trans,cis-2,6-Nonadienal	CC/C=C\CC/C=C/C=O
 Cyclopentylfentanyl	C1CCC(C1)C(=O)N(C2CCN(CC2)CCC3=CC=CC=C3)C4=CC=CC=C4
-Beta-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
+Β-Ketoisocaproic acid	CC(C)C(CC(O)=O)=O
 Bis(trimethylsilyl)peroxide	C[Si](C)(C)OO[Si](C)(C)C
 Hexafluoroisobutylene	C=C(C(F)(F)F)C(F)(F)F
 Tiplasinin	c2ccccc2Cn(cc1C(=O)C(O)=O)c4c1cc(cc4)-c(cc3)ccc3OC(F)(F)F
@@ -20270,4 +20270,6 @@ Thioquinanthrene	C1=CC=C2C(=C1)C3=C(C=N2)SC4=C(S3)C=NC5=CC=CC=C54
 Radium tungstate	[Ra+2].[O-][W](=O)(=O)[O-]
 Radium chlorate	[Ra+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Molybdenum oxytetrafluoride	O=[Mo](F)(F)(F)F
+Molybdenum difluoride dioxide	O=[Mo](F)(F)=O
 Abietatriene	CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C)C
+Rubidium pertechnetate	[Rb+].[O-][Tc](=O)(=O)=O
