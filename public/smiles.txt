@@ -20253,6 +20253,7 @@ Gadolinium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-
 Alloisoleucine	CC[C@@H](C)[C@@H](C(=O)O)N
 Alloisoleucine	CC[C@H](C)[C@H](C(=O)O)N
 Alloisoleucine	CCC(C)C(C(=O)O)N
+Disorazol	C/C=C/C(C(C)(C)C1C/C=C\C=C/C=CC(CC2=NC(=CO2)C(=O)OC(C/C=C\C3C(O3)/C=C/C=C\C4=NC(=CO4)C(=O)O1)C(C)(C)C(/C=C/C)O)OC)O
 Ethenedithione	C(=C=S)=S
 Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
@@ -20273,3 +20274,10 @@ Molybdenum oxytetrafluoride	O=[Mo](F)(F)(F)F
 Molybdenum difluoride dioxide	O=[Mo](F)(F)=O
 Abietatriene	CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C)C
 Rubidium pertechnetate	[Rb+].[O-][Tc](=O)(=O)=O
+Caesium selenide	[Se-2].[Cs+].[Cs+]
+Samarium(III) phosphate	[O-]P(=O)([O-])[O-].[Sm+3]
+Samarium(III) phosphate	O.[O-]P(=O)([O-])[O-].[Sm+3]
+Lithium periodate	[Li+].[O-]I(=O)(=O)=O
+Tin(IV) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sn+4]
+Tin(II) acetate	CC(=O)[O-].CC(=O)[O-].[Sn+2]
+Barium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Ba+2]
