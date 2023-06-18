@@ -19960,6 +19960,7 @@ Tetrapropyltin	CCC[Sn](CCC)(CCC)CCC
 Nadic anhydride	C1C2C=CC1C3C2C(=O)OC3=O
 2,5-Bis(4-bromophenyl)-3,4-diphenylcyclopentadienone	C1=CC=C(C=C1)C2=C(C(=O)C(=C2C3=CC=CC=C3)C4=CC=C(C=C4)Br)C5=CC=C(C=C5)Br
 Bis(4-bromobenzyl) ketone	C1=CC(=CC=C1CC(=O)CC2=CC=C(C=C2)Br)Br
+Lysine acetylsalicylate	CC(=O)OC1=CC=CC=C1C(=O)[O-].C(CC[NH3+])CC(C(=O)O)N
 Timelotem	CN1CCN2C(C1)CN=C(C3=C2C=C(C=C3)F)C4=CC=CS4
 Lithium laurate	[Li+].CCCCCCCCCCCC(=O)[O-]
 Silver laurate	CCCCCCCCCCCC(=O)[O-].[Ag+]
@@ -20263,8 +20264,10 @@ Chlorine trifluoride dioxide	O=[Cl](F)(F)(F)=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
 Radium iodide	[I-].[I-].[Ra+2]
+Radium oxide	[Ra+2].[O-2]
 Perfluorohexyloctane	CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
 Viriditoxin	COc1cc(c2c(c1c3c4cc5c(c(c4c(cc3OC)O)O)C(=O)O[C@@H](C5)CC(=O)OC)cc6c(c2O)C(=O)O[C@@H](C6)CC(=O)OC)O
+Radium nitride	[Ra+2].[Ra+2].[Ra+2].[N-3].[N-3]
 AEF0117	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OCC5=CC=C(C=C5)OC)C)C
 Praseodymium bismuthide	[Pr].[Bi]
 Thioquinanthrene	C1=CC=C2C(=C1)C3=C(C=N2)SC4=C(S3)C=NC5=CC=CC=C54
@@ -20273,6 +20276,9 @@ Radium chlorate	[Ra+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
 Molybdenum oxytetrafluoride	O=[Mo](F)(F)(F)F
 Molybdenum difluoride dioxide	O=[Mo](F)(F)=O
 Abietatriene	CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C)C
+Radium azide	[Ra+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
+Thulium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Tm+3]
+Thulium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Tm+3].O.O.O
 Rubidium pertechnetate	[Rb+].[O-][Tc](=O)(=O)=O
 Caesium selenide	[Se-2].[Cs+].[Cs+]
 Samarium(III) phosphate	[O-]P(=O)([O-])[O-].[Sm+3]
