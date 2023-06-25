@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 
-import { useIdContext } from '../../hooks/IdContext';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
 
 interface ErrorTableContentProps {
   data: number[];
@@ -11,7 +11,7 @@ export default function ErrorTableContent({
   data,
   follow,
 }: ErrorTableContentProps): JSX.Element {
-  const { selectedId } = useIdContext();
+  const { selectedId } = useMoleculeContext();
   return (
     <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {data.map((id, key) => (

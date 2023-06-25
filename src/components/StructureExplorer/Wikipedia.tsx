@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef } from 'react';
 
-import { useIdContext } from '../../hooks/IdContext';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
 
 function OpenWiki(): JSX.Element {
-  const { selectedTitle } = useIdContext();
+  const { selectedTitle } = useMoleculeContext();
 
   return (
     <a
@@ -21,7 +21,7 @@ function OpenWiki(): JSX.Element {
 function WikiPage(): JSX.Element {
   const [url, setUrl] = useState('');
   const [iframeHeight, setIframeHeight] = useState(0);
-  const { selectedTitle } = useIdContext();
+  const { selectedTitle } = useMoleculeContext();
   const iframeRef = useRef<HTMLIFrameElement>(null);
 
   const handleIframeLoad = () => {
@@ -76,10 +76,8 @@ function WikiPage(): JSX.Element {
 
 export function Wikipedia(): JSX.Element {
   return (
-    <SimpleTable
-      title="Wikipedia article"
-      option={<OpenWiki />}
-      content={<WikiPage />}
-    />
+    <SimpleTable title="Wikipedia article" option={<OpenWiki />}>
+      <WikiPage />
+    </SimpleTable>
   );
 }

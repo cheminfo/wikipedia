@@ -1,17 +1,19 @@
 import clsx from 'clsx';
-import { AiOutlineQuestionCircle } from 'react-icons/ai';
+import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
 import { IMolecule } from '../../hooks/DataContext';
-import { useIdContext } from '../../hooks/IdContext';
+import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import Hint from '../Hint';
 
 interface MoleculeInfoProps {
   mol: IMolecule;
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
-  const { selectedTitle, setSelectedTitle } = useIdContext();
+  const { selectedTitle, setSelectedTitle, setSearch, setIdAndIdCode } =
+    useMoleculeContext();
 
   return (
     <button
@@ -25,14 +27,26 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
       )}
       onClick={() => setSelectedTitle(mol.code)}
     >
+      <Hint info="Similar molecules" className="absolute top-1.5 left-2">
+        <div
+          onClick={() => {
+            setIdAndIdCode({ id: mol.id, idCode: mol.actID.value });
+            setSearch('similarity');
+          }}
+        >
+          <AiOutlineSearch className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
+        </div>
+      </Hint>
       <div className="mx-5 text-center font-bold">{mol.code}</div>
-      <a
-        href={`https://en.wikipedia.org/wiki/${mol.code}`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <AiOutlineQuestionCircle className="absolute top-1.5 right-2 transform cursor-help text-xl text-darkblue opacity-0 transition-all duration-200 ease-in-out group-hover:opacity-100" />
-      </a>
+      <Hint info="Wikipedia article" className="absolute top-1.5 right-2">
+        <a
+          href={`https://en.wikipedia.org/wiki/${mol.code}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <AiOutlineLink className="transform text-xl text-darkblue opacity-0 transition-all duration-150 ease-in-out hover:scale-125 group-hover:opacity-100" />
+        </a>
+      </Hint>
       <div>
         <IdcodeSvgRenderer height={135} width={180} idcode={mol.actID.value} />
       </div>

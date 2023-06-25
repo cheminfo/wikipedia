@@ -4,7 +4,7 @@ interface SimpleTableProps {
   title?: string;
   footer?: JSX.Element;
   option?: JSX.Element;
-  content: JSX.Element;
+  children: JSX.Element;
   className?: string;
   height?: string;
 }
@@ -21,7 +21,7 @@ export default function SimpleTable(props: SimpleTableProps): JSX.Element {
         <div className="font-semibold">{props.title}</div>
         <div className="font-normal">{props.option}</div>
       </div>
-      <div className={props.height}>{props.content}</div>
+      <div className={props.height}>{props.children}</div>
       <div className="rounded-b-lg bg-lightblue text-darkblue">
         {props.footer}
       </div>

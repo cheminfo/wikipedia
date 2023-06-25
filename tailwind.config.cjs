@@ -10,6 +10,7 @@ module.exports = {
         lightblue: '#92bedf',
         lightgray: '#EAEBED',
         darkgray: '#DCDCDC',
+        tooltip: '#8f9091',
       },
       fontFamily: {
         Archivo: ['Archivo', 'sans-serif'],

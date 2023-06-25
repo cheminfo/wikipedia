@@ -14,12 +14,9 @@ export function NotFound(props: NotFoundProps): JSX.Element {
       number={props.number}
       description="List of pages that contain a ChemBox or DrugBox but no SMILES field"
       table={
-        <SimpleTable
-          title="Article ID"
-          content={<ErrorTableContent data={props.data} />}
-          height="h-[204px]"
-          className="text-sm"
-        />
+        <SimpleTable title="Article ID" height="h-[204px]" className="text-sm">
+          <ErrorTableContent data={props.data} />
+        </SimpleTable>
       }
     />
   );

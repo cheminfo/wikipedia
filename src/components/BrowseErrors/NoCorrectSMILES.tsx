@@ -16,10 +16,11 @@ export function NoCorrectSMILES(props: NoCorrectSMILESProps): JSX.Element {
       table={
         <SimpleTable
           title="Article ID"
-          content={<ErrorTableContent data={props.data} follow />}
           height="h-[204px]"
           className="mt-10 text-sm sm:mt-0"
-        />
+        >
+          <ErrorTableContent data={props.data} follow />
+        </SimpleTable>
       }
     />
   );
