@@ -698,7 +698,7 @@ Furosemide	o1cccc1CNc(cc2Cl)c(C(=O)O)cc2S(=O)(=O)N
 Calcium silicate	[Ca++].[Ca++].[O-][Si]([O-])([O-])[O-]
 Pentazocine	Oc1ccc3c(c1)[C@]2([C@H]([C@H](N(CC2)C\C=C(/C)C)C3)C)C
 Gabapentin	O=C(O)CC1(CN)CCCCC1
-Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
+Potassium permanganate	[K+].[O-] [Mn](=O)(=O)=O
 Omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
 5-Bromouracil	Br/C1=C/NC(=O)NC1=O
 ENU	CCN(N=O)C(N)=O
@@ -1833,7 +1833,7 @@ Cerium(IV) oxide	[O-2]=[Ce+4]=[O-2]
 Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-2](=C=O)([P+](c4ccccc4)(c5ccccc5)c6ccccc6)Cl
 Grubbs catalyst	Cl[Ru-2](Cl)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
-Permanganate	[O-][Mn](=O)(=O)=O
+Permanganate	[O-] [Mn](=O)(=O)=O
 Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
 Thymidine monophosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O
 Uridine monophosphate	c1cn(c(=O)[nH]c1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
@@ -2261,7 +2261,7 @@ Lactide	CC1C(=O)OC(C(=O)O1)C
 Fosmidomycin	O=P(O)(O)CCCN(O)C=O
 Phosgene oxime	Cl/C(Cl)=N\O
 Gallium(III) hydroxide	[Ga+3].[OH-].[OH-].[OH-]
-Sodium manganate	[O-][Mn](=O)(=O)[O-].[Na+].[Na+]
+Sodium manganate	[O-] [Mn](=O)(=O)[O-].[Na+].[Na+]
 Cycloleucine	O=C(O)C1(N)CCCC1
 Rubidium hydroxide	[Rb+].[OH-]
 Diisobutylaluminium hydride	CC(C)C[AlH]CC(C)C
@@ -20394,3 +20394,7 @@ Tetrachlorobenzene	C1=C(C=C(C(=C1Cl)Cl)Cl)Cl
 Tetrachlorobenzene	C1=CC(=C(C(=C1Cl)Cl)Cl)Cl
 N-Desethylisotonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OC(C)C
 ADB-5'Br-PINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCCC)c2ccc(Br)cc21)C(C)(C)C
+1,2-Dimorpholinoethane	C1COCCN1CCN2CCOCC2
+Periplocin	C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@@]3([C@H]4CC[C@@]5([C@H](CC[C@@]5([C@@H]4CC[C@@]3(C2)O)O)C6=CC(=O)OC6)C)C)OC)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+Ritlecitinib	C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=C3C=CNC3=NC=N2
+Europium(II) hydroxide	[OH-].[OH-].[Eu+2]
