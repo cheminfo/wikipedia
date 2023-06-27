@@ -20398,3 +20398,11 @@ ADB-5'Br-PINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCCC)c2ccc(Br)cc21)C(C)(C)C
 Periplocin	C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@@]3([C@H]4CC[C@@]5([C@H](CC[C@@]5([C@@H]4CC[C@@]3(C2)O)O)C6=CC(=O)OC6)C)C)OC)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
 Ritlecitinib	C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=C3C=CNC3=NC=N2
 Europium(II) hydroxide	[OH-].[OH-].[Eu+2]
+Europium(II) telluride	[Te]=[Eu]
+Flotufolastat F-18	CC(C)(C)[Si]([18F])(C1=CC=C(C=C1)C(=O)NC[C@@H](NC(=O)CC[C@H](N1CCN(CC(O)=O)CCN(CC(O)=O)CCN(CC(O)=O)CC1)C(O)=O)C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@@H](NC(=O)CC[C@H](NC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)C(C)(C)C
+Flotufolastat F-18	CC(C)(C)[Si](C1=CC=C(C=C1)C(=O)NC[C@H](C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)NC(=O)CC[C@@H](C(=O)O)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(C(C)(C)C)[18F].[Ga+3]
+4'-Nitroflavonol	C1C(OC2=CC=CC=C2C1=O)C3=CC=C(C=C3)[N+](=O)[O-]
+Actinium oxyfluoride	[Ac+3].[F-].[O-2]
+Europium(III) telluride	[Eu+3].[Eu+3].[Te-2].[Te-2].[Te-2]
+Berkelium(III) bromide	[Br-].[Br-].[Br-].[Bk+3]
+Mercurophylline	[Na+].[OH-].[Hg+]CC(OC)CNC(=O)C1CCC(C([O-])=O)(C)C1(C)C.O=C2N(C1NCNC1C(=O)N2C)C
