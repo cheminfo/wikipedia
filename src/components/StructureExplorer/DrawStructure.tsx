@@ -48,6 +48,7 @@ function Board(): JSX.Element {
       <StructureEditor
         height={490}
         width={boardWidth}
+        fragment
         initialIDCode={idCode}
         onChange={(molfile, molecule) => {
           setIdAndIdCode({ id, idCode: molecule.getIDCode() });
