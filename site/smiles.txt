@@ -955,9 +955,7 @@ Gemfibrozil	O=C(O)C(C)(C)CCCOc1cc(ccc1C)C
 Famotidine	NS(=O)(=O)/N=C(\N)CCSCc1csc(n1)N=C(N)N
 Artemisinin	O=C3O[C@@H]4O[C@@]1(OO[C@@]42[C@@H](CC1)[C@H](C)CC[C@H]2[C@H]3C)C
 Fluticasone	O=C(SCF)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](F)C[C@H]4[C@@H]2C[C@H]3C)C)C
-Zinc sulfide	[SH+2]12[ZnH2-2][SH+2]3[ZnH2-2][SH+2]([ZnH-2]14)[ZnH-2]1[S+2]5([ZnH-2]38)[Zn-2]26[SH+2]2[ZnH-2]([S+2]4)[SH+2]1[ZnH2-2][SH+2]3[ZnH-2]2[S+2][ZnH-2]([SH+2]6[ZnH-2]([SH+2])[SH+2]68)[SH+2]([ZnH2-2]6)[ZnH-2]35
-Zinc sulfide	[ZnH2-2]1[S+2]47[ZnH-2]2[S+2][ZnH-2]3[S+2]8([ZnH2-2][SH+2]([ZnH2-2]4)[ZnH2-2]6)[ZnH-2]4[S+2][ZnH-2]5[S+2]6([ZnH2-2]6)[Zn-2]78[S+2]78[ZnH-2]([SH+2]69)[SH+2]5[ZnH2-2][SH+2]4[ZnH-2]7[SH+2]3[ZnH2-2][SH+2]2[ZnH-2]8[SH+2]1[ZnH2-2]9
-Zinc sulfide	[ZnH2-2]1[SH+2]([ZnH2-2]6)[ZnH2-2][SH+2]7[ZnH-2]2[S+2][Zn-2]3([S+2][ZnH-2]9[S+2]5)[S+2]18[Zn-2]45[S+2][ZnH-2]5[SH+2]6[Zn-2]78[S+2]78[ZnH2-2][SH+2]5[ZnH2-2][S+2]4([ZnH2-2][SH+2]9[ZnH2-2]4)[ZnH-2]7[S+2]34[ZnH2-2][SH+2]2[ZnH2-2]8
+Zinc sulfide	[Zn+2].[S-2]
 Donepezil	O=C2c1cc(OC)c(OC)cc1CC2CC4CCN(Cc3ccccc3)CC4
 Benzonitrile	N#Cc1ccccc1
 Nandrolone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)CC4
@@ -20407,6 +20405,8 @@ Europium(III) telluride	[Eu+3].[Eu+3].[Te-2].[Te-2].[Te-2]
 Berkelium(III) bromide	[Br-].[Br-].[Br-].[Bk+3]
 Mercurophylline	[Na+].[OH-].[Hg+]CC(OC)CNC(=O)C1CCC(C([O-])=O)(C)C1(C)C.O=C2N(C1NCNC1C(=O)N2C)C
 Orforglipron	C[C@H]1C[C@]1(C2=NOC(=O)N2)N3C4=C(C=C(C=C4)[C@H]5CCOC(C5)(C)C)C=C3C(=O)N6CCC7=NN(C(=C7[C@@H]6C)N8C=CN(C8=O)C9=C(C1=C(C=C9)N(N=C1)C)F)C1=CC(=C(C(=C1)C)F)C
+Curium hexafluoride	[Cm+6].[F-].[F-].[F-].[F-].[F-].[F-]
+Curium(IV) fluoride	[Cm+4].[F-].[F-].[F-].[F-]
 Niobium(IV) iodide	[I-].[I-].[I-].[I-].[Nb+4]
 2,3,4,5-Tetrachlorophenol	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O
 2,3,4,6-Tetrachlorophenol	C1=C(C(=C(C(=C1Cl)Cl)Cl)O)Cl
@@ -20416,5 +20416,9 @@ Niobium(IV) iodide	[I-].[I-].[I-].[I-].[Nb+4]
 3,4-Dichlorophenol	C1=CC(=C(C=C1O)Cl)Cl
 3,5-Dichlorophenol	C1=C(C=C(C=C1Cl)Cl)O
 4-Chloro-2-pentene	CC=CC(C)Cl
+Einsteinium fluoride	[Es+3].[F-].[F-].[F-]
+Einsteinium tetrafluoride	[Es+4].[F-].[F-].[F-].[F-]
+Einsteinium hexafluoride	[Es+6].[F-].[F-].[F-].[F-].[F-].[F-]
 Rubidium triiodide	[Rb+].I[I-]I
 Linrodostat	FC1=CC=2C(=CC=NC2C=C1)[C@@H]3CC[C@]([C@H](C(NC4=CC=C(Cl)C=C4)=O)C)(CC3)[H]
+Curium(IV) oxide	[O-2].[O-2].[Cm+4]
