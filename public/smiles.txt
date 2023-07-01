@@ -6026,6 +6026,8 @@ Propylamphetamine	NC(C)Cc1ccccc1CCC
 Naphthylaminopropane	CC(N)Cc2ccc1ccccc1c2
 Palladium(II) bis(acetylacetonate)	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
 Phenadoxone	O=C(C(c1ccccc1)(c2ccccc2)CC(N3CCOCC3)C)CC
+Spinosad	CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(C3=C[C@H]4[C@@H]5C[C@H](O[C@H]6[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O6)C[C@H]5C=C[C@H]4[C@@H]3CC(O1)=O)=O
+Spinosad	CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(C3=C[C@H]4[C@@H]5C[C@H](O[C@H]6[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O6)C[C@H]5C(C)=C[C@H]4[C@@H]3CC(O1)=O)=O
 Helium hydride ion	[HeH+]
 Benzylmorphine	O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OCc3ccccc3)ccc4C5)C
 Para-Cresidine	CC1=CC(=C(C=C1)OC)N
@@ -20422,3 +20424,4 @@ Einsteinium hexafluoride	[Es+6].[F-].[F-].[F-].[F-].[F-].[F-]
 Rubidium triiodide	[Rb+].I[I-]I
 Linrodostat	FC1=CC=2C(=CC=NC2C=C1)[C@@H]3CC[C@]([C@H](C(NC4=CC=C(Cl)C=C4)=O)C)(CC3)[H]
 Curium(IV) oxide	[O-2].[O-2].[Cm+4]
+Pyrylium-1	CC1=CC(/C=C/C2=CC3=C4N(CCC3)CCCC4=C2)=CC(C)=[O+]1.F[B-](F)(F)F
