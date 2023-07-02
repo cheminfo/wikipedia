@@ -4019,6 +4019,7 @@ Vanadocene dichloride	c1ccc[cH-]1.c2ccc[cH-]2.[V+4].[Cl-].[Cl-]
 Vanadium tetrachloride	Cl[V](Cl)(Cl)Cl
 Sodium hexanitritocobaltate(III)	[Na+].[Na+].[Na+].O=[N+]([O-])[Co-3]([N+]([O-])=O)([N+](=O)[O-])([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
 Vanadium(III) chloride	[V+3].[Cl-].[Cl-].[Cl-]
+Vanadium(III) chloride	O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[V+3]
 Pentetic acid	C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O
 Uranium pentafluoride	[U+5].[F-].[F-].[F-].[F-].[F-]
 Molybdenum(V) chloride	Cl[Mo](Cl)(Cl)(Cl)Cl
@@ -6026,8 +6027,9 @@ Propylamphetamine	NC(C)Cc1ccccc1CCC
 Naphthylaminopropane	CC(N)Cc2ccc1ccccc1c2
 Palladium(II) bis(acetylacetonate)	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
 Phenadoxone	O=C(C(c1ccccc1)(c2ccccc2)CC(N3CCOCC3)C)CC
-Spinosad	CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(C3=C[C@H]4[C@@H]5C[C@H](O[C@H]6[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O6)C[C@H]5C=C[C@H]4[C@@H]3CC(O1)=O)=O
-Spinosad	CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(C3=C[C@H]4[C@@H]5C[C@H](O[C@H]6[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O6)C[C@H]5C(C)=C[C@H]4[C@@H]3CC(O1)=O)=O
+Spinosad	[H][C@]1(C[C@@]2([H])C=C[C@@]3([H])[C@]4([H])CC(=O)O[C@@]([H])(CC)CCC[C@]([H])(O[C@@]5([H])CC[C@]([H])(N(C)C)[C@@]([H])(C)O5)[C@@]([H])(C)C(=O)C4=C[C@@]3([H])[C@]2([H])C1)O[C@]1([H])O[C@@]([H])(C)[C@]([H])(OC)[C@@]([H])(OC)[C@@]1([H])OC.[H][C@]1(C[C@@]2([H])C(C)=C[C@@]3([H])[C@]4([H])CC(=O)O[C@@]([H])(CC)CCC[C@]([H])(O[C@@]5([H])CC[C@]([H])(N(C)C)[C@@]([H])(C)O5)[C@@]([H])(C)C(=O)C4=C[C@@]3([H])[C@]2([H])C1)O[C@]1([H])O[C@@]([H])(C)[C@]([H])(OC)[C@@]([H])(OC)[C@@]1([H])OC
+Spinosad	O([C@H]1C[C@]2([C@]3([C@]([C@]4(C(=C3)C(=O)[C@H](C)[C@@H](O[C@@H]5O[C@H](C)[C@@H](N(C)C)CC5)CCC[C@H](CC)OC(=O)C4)[H])(C=C[C@@]2(C1)[H])[H])[H])[H])[C@H]6[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O6
+Spinosad	CC1=C[C@@]2([C@]([C@]3([C@]1(C[C@@H](O[C@H]4[C@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O4)C3)[H])[H])(C=C5[C@]2(CC(=O)O[C@@H](CC)CCC[C@H](O[C@@H]6O[C@H](C)[C@@H](N(C)C)CC6)[C@@H](C)C5=O)[H])[H])[H]
 Helium hydride ion	[HeH+]
 Benzylmorphine	O[C@H]2\C=C/[C@H]6[C@@H]5N(CC[C@@]61c4c(O[C@H]12)c(OCc3ccccc3)ccc4C5)C
 Para-Cresidine	CC1=CC(=C(C=C1)OC)N
@@ -20425,3 +20427,5 @@ Rubidium triiodide	[Rb+].I[I-]I
 Linrodostat	FC1=CC=2C(=CC=NC2C=C1)[C@@H]3CC[C@]([C@H](C(NC4=CC=C(Cl)C=C4)=O)C)(CC3)[H]
 Curium(IV) oxide	[O-2].[O-2].[Cm+4]
 Pyrylium-1	CC1=CC(/C=C/C2=CC3=C4N(CCC3)CCCC4=C2)=CC(C)=[O+]1.F[B-](F)(F)F
+Caesium permanganate	[Cs+].[O-][Mn](=O)(=O)=O
+Bismuth oxyiodide	I[Bi]=O
