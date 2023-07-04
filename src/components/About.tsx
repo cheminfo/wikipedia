@@ -1,6 +1,4 @@
-import { Dialog, Transition } from '@headlessui/react';
-import { Fragment } from 'react';
-import { MdClose } from 'react-icons/md';
+import DialogWindow from './DialogWindow';
 
 interface AboutProps {
   showAbout: boolean;
@@ -9,51 +7,14 @@ interface AboutProps {
 
 export default function About({ showAbout, setShowAbout }: AboutProps) {
   return (
-    <Transition.Root show={showAbout} as={Fragment}>
-      <Dialog
-        className="fixed inset-0 flex items-center justify-center"
-        open={showAbout}
-        onClose={() => setShowAbout(false)}
-      >
-        <Transition.Child
-          as={Fragment}
-          enter="ease-out duration-300"
-          enterFrom="opacity-0"
-          enterTo="opacity-100"
-          leave="ease-in duration-200"
-          leaveFrom="opacity-100"
-          leaveTo="opacity-0"
-        >
-          <div className="fixed inset-0 hidden bg-black bg-opacity-50 transition-opacity sm:block" />
-        </Transition.Child>
-
-        <div className="mt-28 h-full sm:fixed sm:inset-0 sm:mt-0 sm:overflow-y-auto">
-          <div className="flex h-full items-center justify-center sm:mx-4 sm:min-h-full">
-            <Transition.Child
-              as={Fragment}
-              enter="ease-out duration-300"
-              enterFrom="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
-              enterTo="opacity-100 translate-y-0 sm:scale-100"
-              leave="ease-in duration-200"
-              leaveFrom="opacity-100 translate-y-0 sm:scale-100"
-              leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
-            >
-              <Dialog.Panel className="flex h-full flex-col justify-center bg-white sm:h-fit sm:max-w-xl sm:rounded-xl sm:shadow-xl">
-                <div className="flex justify-between space-x-2 bg-lightblue px-5 py-2 font-medium text-darkblue sm:rounded-t-xl sm:pt-2">
-                  <Dialog.Title>
-                    About Wikipedia Chemical Structure Explorer
-                  </Dialog.Title>
-                  <button type="button" onClick={() => setShowAbout(false)}>
-                    <MdClose size={20} />
-                  </button>
-                </div>
-                <AboutContent />
-              </Dialog.Panel>
-            </Transition.Child>
-          </div>
-        </div>
-      </Dialog>
-    </Transition.Root>
+    <DialogWindow
+      title="About Wikipedia Chemical Structure Explorer"
+      showDialog={showAbout}
+      setShowDialog={setShowAbout}
+      className="h-full sm:h-fit sm:max-w-xl "
+    >
+      <AboutContent />
+    </DialogWindow>
   );
 }
 

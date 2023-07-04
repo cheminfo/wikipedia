@@ -1,9 +1,16 @@
 import { useState } from 'react';
+import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
 
 import { SearchType, useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
+
+interface HelpButtonProps {
+  setShowHelp: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
+interface DrawStructureProps extends HelpButtonProps {}
 
 function Search(): JSX.Element {
   const { search, setSearch } = useMoleculeContext();
@@ -58,10 +65,21 @@ function Board(): JSX.Element {
   );
 }
 
-export function DrawStructure(): JSX.Element {
+function HelpButton({ setShowHelp }: HelpButtonProps): JSX.Element {
+  return (
+    <button type="button" className="flex" onClick={() => setShowHelp(true)}>
+      <AiOutlineQuestionCircle className="transform text-xl text-darkblue transition-all duration-150 ease-in-out hover:scale-125" />
+    </button>
+  );
+}
+
+export function DrawStructure({
+  setShowHelp,
+}: DrawStructureProps): JSX.Element {
   return (
     <SimpleTable
       title="Draw a structure"
+      help={<HelpButton setShowHelp={setShowHelp} />}
       option={<Search />}
       className="h-[505px] bg-lightblue"
     >
