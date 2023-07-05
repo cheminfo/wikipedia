@@ -2,6 +2,7 @@ import clsx from 'clsx';
 
 interface SimpleTableProps {
   title?: string;
+  help?: JSX.Element;
   footer?: JSX.Element;
   option?: JSX.Element;
   children: JSX.Element;
@@ -18,7 +19,10 @@ export default function SimpleTable(props: SimpleTableProps): JSX.Element {
       )}
     >
       <div className="flex items-center justify-between rounded-t-lg bg-lightblue px-5 py-2 text-darkblue">
-        <div className="font-semibold">{props.title}</div>
+        <div className="flex items-center space-x-3">
+          <div className="font-semibold">{props.title}</div>
+          <div className="">{props.help}</div>
+        </div>
         <div className="font-normal">{props.option}</div>
       </div>
       <div className={props.height}>{props.children}</div>
