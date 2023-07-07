@@ -319,7 +319,7 @@ Calcium oxide	O=[Ca]
 Chlorpromazine	CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21
 Sertraline	ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl
 Ciclosporin	CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
-Alpha-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
+Α-Linolenic acid	O=C(O)CCCCCCC\C=C/C\C=C/C\C=C/CC
 Hydrogen sulfide	S
 Zirconium dioxide	O=[Zr]=O
 Ibuprofen	CC(C)Cc1ccc(cc1)[C@@H](C)C(=O)O
@@ -20432,3 +20432,4 @@ Bismuth oxyiodide	I[Bi]=O
 Holmium(III) hydroxide	[Ho+3].[OH-].[OH-].[OH-]
 Curium(III) iodide	[I-].[I-].[I-].[Cm]
 Dithiobutylamine	SC[C@H](CCS)N
+Cadmium tellurite	[Cd+2].[O-][Te](=O)[O-]
