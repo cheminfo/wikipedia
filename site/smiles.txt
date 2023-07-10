@@ -2578,7 +2578,7 @@ Actinidine	n1cc(c2c(c1)[C@H](CC2)C)C
 Miroprofen	O=C(O)C(c3ccc(c1nc2ccccn2c1)cc3)C
 Cyclobutene	C\1=C\CC/1
 (E)-Stilbene	c2(\C=C\c1ccccc1)ccccc2
-Beta-Hydroxy beta-methylbutyric acid	CC(C)(CC(=O)O)O
+Β-Hydroxy β-methylbutyric acid	CC(C)(CC(=O)O)O
 Rubidium nitrate	[Rb+].[O-][N+]([O-])=O
 Oxandrolone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@]3(COC(=O)C4)C
 Methylone	CC(NC)C(=O)C1=CC=C(OCO2)C2=C1
@@ -4574,7 +4574,7 @@ Aporphine	c12c(cccc1)CC4c3c(cccc23)CCN4C
 Arbutin	c1cc(ccc1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Geranyl acetate	O=C(OC/C=C(/CC/C=C(\C)C)C)C
 Levormeloxifene	O(c1ccc(cc1)[C@@H]3c4c(OC([C@H]3c2ccccc2)(C)C)cc(OC)cc4)CCN5CCCC5
-Beta-Hydroxybutyric acid	CC(CC(=O)O)O
+Β-Hydroxybutyric acid	CC(CC(=O)O)O
 Iron(II) bromide	[Fe+2].[Br-].[Br-]
 Sodium trichloroacetate	C(C(=O)[O-])(Cl)(Cl)Cl.[Na+]
 4-Aminophenol	c1cc(ccc1N)O
@@ -17575,8 +17575,8 @@ Cefaparole	Cc1nnc(s1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](c4ccc(cc4)O)N)SC2)
 3,3,5-Trimethylcyclohexyl 3-pyridyl methylphosphonate	CC2CC(OP(C)(=O)Oc1cccnc1)CC(C)(C)C2
 Aflavinine	CC1CCC2(C(CCC(C23C1C(=C(CC3)C(C)C)C4=CNC5=CC=CC=C54)O)C)C
 Trithionate	[O-][S+2]([O-])([O-])S[S+2]([O-])([O-])[O-]
-Ortho-carborane	[B@@]123B456B178[B@@]49B714B822B337C211B492C131B75=B621
-Ortho-carborane	[BH]1234[BH]5%12%13[BH]1%10%11[BH]289[BH]367[BH]145[BH]6%14%15[BH]78%16[BH]9%10%17[CH]%11%12%18[CH]1%13%14[BH]%15%16%17%18
+Ortho-Carborane	[B@@]123B456B178[B@@]49B714B822B337C211B492C131B75=B621
+Ortho-Carborane	[BH]1234[BH]5%12%13[BH]1%10%11[BH]289[BH]367[BH]145[BH]6%14%15[BH]78%16[BH]9%10%17[CH]%11%12%18[CH]1%13%14[BH]%15%16%17%18
 Bromopentafluorobenzene	C1(=C(C(=C(C(=C1F)F)Br)F)F)F
 Imidazole salicylate	C1=CC=C(C(=C1)C(=O)O)O.C1=CN=CN1
 Morpholine salicylate	C1COCCN1.C1=CC=C(C(=C1)C(=O)O)O
@@ -20427,12 +20427,18 @@ Linrodostat	FC1=CC=2C(=CC=NC2C=C1)[C@@H]3CC[C@]([C@H](C(NC4=CC=C(Cl)C=C4)=O)C)(C
 Curium(IV) oxide	[O-2].[O-2].[Cm+4]
 Pyrylium-1	CC1=CC(/C=C/C2=CC3=C4N(CCC3)CCCC4=C2)=CC(C)=[O+]1.F[B-](F)(F)F
 Caesium permanganate	[Cs+].[O-][Mn](=O)(=O)=O
+Molybdenum diarsenide	[Mo].[As].[As]
 Bismuth oxyiodide	I[Bi]=O
 11β-Hydroxydihydrotestosterone	C1CC(=O)C[C@]2([H])CC[C@@]3([H])[C@]4([H])CC[C@H](O)[C@@]4(C)C[C@H](O)[C@]3([H])[C@@]12C
 Holmium(III) hydroxide	[Ho+3].[OH-].[OH-].[OH-]
-Curium(III) iodide	[I-].[I-].[I-].[Cm]
+Curium(III) iodide	[I-].[I-].[I-].[Cm+3]
 Dithiobutylamine	SC[C@H](CCS)N
+Gallium(III) cyanide	[C-]#N.[C-]#N.[C-]#N.[Ga+3]
 Cadmium tellurite	[Cd+2].[O-][Te](=O)[O-]
+Samarium(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
+Samarium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
+Caesium triiodide	I[I-]I.[Cs+]
+Strontium selenide	[Se-2].[Sr+2]
 Lotiglipron	C[C@@]1(OC2=CC=CC(=C2O1)C3CCN(CC3)CC4=NC5=C(N4C[C@@H]6CCO6)C=C(C=C5)C(=O)O)C7=NC=C(C=C7)Cl
 Iridium(III) bromide	Br[Ir](Br)Br
 Germanium dibromide	Br[Ge]Br
