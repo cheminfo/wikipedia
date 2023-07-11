@@ -19609,6 +19609,7 @@ Iron tetracarbonyl diiodide	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Fe](I)I
 Sabizabulin	COC1=CC(=CC(=C1OC)OC)C(=O)C2=CN=C(N2)C3=CNC4=CC=CC=C43
 Castor oil glycidyl ether	CCCCCCC(CC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCC(CCCCCC)OCC1CO1)OC(=O)CCCCCCCC=CCC(CCCCCC)OCC2CO2)OCC3CO3
 HIE-124	O=C(C1=CSC(N1CCC2)=NC2=O)OCC
+Hafnocene dichloride	C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4]
 Chlorotrifluoropropane	C(CCl)C(F)(F)F
 Flavipin	CC1=C(C(=C(C(=C1O)O)O)C=O)C=O
 Simufilam	CN1CCC2(CC1)NCC(=O)N2Cc1ccccc1
@@ -19749,6 +19750,7 @@ Diglycidyl aniline	C1C(O1)CN(CC2CO2)C3=CC=CC=C3
 Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
+Neodymium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Nd+3]
 Ardisiaquinone	COC1=CC(=O)C(=C(C1=O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)OC
@@ -20243,6 +20245,7 @@ Iridium(III) iodide	O.O.[I-].[I-].[I-].[Ir+3]
 Iridium(III) iodide	O.O.O.[I-].[I-].[I-].[Ir+3]
 Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
 Neodymium(II) hydride	[H-].[H-].[Nd+2]
+Erbium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Er+3]
 Biphytane	CCC(C)CCCC(C)CCCC(C)CCCC(C)CCC(C)CCCC(C)CCCC(C)CCCC(C)CC
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
@@ -20439,6 +20442,12 @@ Samarium(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=
 Samarium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
 Caesium triiodide	I[I-]I.[Cs+]
 Strontium selenide	[Se-2].[Sr+2]
+Samarium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Sm+3]
+Terbium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Tb+3]
 Lotiglipron	C[C@@]1(OC2=CC=CC(=C2O1)C3CCN(CC3)CC4=NC5=C(N4C[C@@H]6CCO6)C=C(C=C5)C(=O)O)C7=NC=C(C=C7)Cl
 Iridium(III) bromide	Br[Ir](Br)Br
 Germanium dibromide	Br[Ge]Br
+Dysprosium selenide	[Se-2].[Se-2].[Se-2].[Dy+3].[Dy+3]
+Germanium diselenide	[Ge](=[Se])=[Se]
+Einsteinium(II) chloride	[Es+2].[Cl-].[Cl-]
+Hassium tetroxide	O=[Hs](=O)(=O)=O
