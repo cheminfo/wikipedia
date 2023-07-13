@@ -2367,6 +2367,7 @@ Losartan	CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
 Octyl methoxycinnamate	O=C(OCC(CC)CCCC)\C=C\c1ccc(OC)cc1
 Tungstic acid	O[W](=O)(=O)O
 Arsenate	[O-][As+]([O-])([O-])[O-]
+Oxyntomodulin	N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)NCC(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C)C(=O)O
 Selenium disulfide	S=[Se]=S
 Lucigenin	C[n+]1c2ccccc2c(c3c1cccc3)c4c5ccccc5[n+](c6c4cccc6)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
 Bromine trifluoride	FBr(F)F
@@ -13853,9 +13854,9 @@ Hexaethyl tetraphosphate	[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O.CC.CC.CC.CC.CC.
 Petroselinic acid	CCCCCCCCCCC\C=C/CCCCC(O)=O
 Barium acetylacetonate	[Ba+2].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C
 Cerium(III) acetylacetonate	[Ce+3].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C.[O-]\C(=C/C(=O)C)C
-Dysprosium acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Dy+3]
+Dysprosium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Dy+3]
 Europium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Eu+3]
-Gadolinium acetylacetonate	[Gd+3].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
+Gadolinium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Gd+3]
 Hafnium acetylacetonate	[Hf+4].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
 Indium acetylacetonate	CC(=CC(=O)C)O[In](OC(=CC(=O)C)C)OC(=CC(=O)C)C
 Iridium acetylacetonate	CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Ir+3]
@@ -19772,6 +19773,7 @@ Europium(II) titanate	O=[Ti-2](=O)(=O).[Eu+2]
 Chalepensin	CC(C)(C=C)C1=CC2=C(C=C3C(=C2)C=CO3)OC1=O
 Europium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Eu+3].[Eu+3]
 Sodium tetrahydroxyborate	[B-](O)(O)(O)O.[Na+]
+Holmium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Ho+3]
 4-Isopropenylphenol	CC(=C)C1=CC=C(C=C1)O
 4-Isopropylphenol	CC(C)C1=CC=C(C=C1)O
 Potassium trichloridocuprate(II)	Cl[Cu-](Cl)Cl.[K+]
@@ -20443,6 +20445,7 @@ Samarium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm
 Caesium triiodide	I[I-]I.[Cs+]
 Strontium selenide	[Se-2].[Sr+2]
 Samarium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Sm+3]
+Lutetium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Lu+3]
 Terbium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Tb+3]
 Lotiglipron	C[C@@]1(OC2=CC=CC(=C2O1)C3CCN(CC3)CC4=NC5=C(N4C[C@@H]6CCO6)C=C(C=C5)C(=O)O)C7=NC=C(C=C7)Cl
 Iridium(III) bromide	Br[Ir](Br)Br
