@@ -16408,6 +16408,7 @@ Dinosterane	CC1CCCC2(C1CCC3C2CCC4(C3CCC4C(C)CC(C)C(C)C(C)C)C)C
 11-Ketodihydrotestosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CC[C@@H]4O)C
 16α-Hydroxyandrostenedione	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3C[C@H](C4=O)O)C
 7β-Hydroxyepiandrosterone	C[C@]12CC[C@@H](C[C@@H]1C[C@@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O)O
+Okenane	C=1C=C(C(=C(C1C)C)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C
 Levonorgestrel butanoate	CCCC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)CC)C#C
 Butagest	CCCC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3C=C(C2=C1)C)CC[C@@]4(C(=O)C)OC(=O)C)C)C
 Metallibure	CC(C=C)NC(=S)NNC(=S)NC
@@ -20455,3 +20456,8 @@ Germanium diselenide	[Ge](=[Se])=[Se]
 Einsteinium(II) chloride	[Es+2].[Cl-].[Cl-]
 Hassium tetroxide	O=[Hs](=O)(=O)=O
 Seaborgium hexacarbonyl	O=C=[Sg](=C=O)(=C=O)(=C=O)(=C=O)=C=O
+Einsteinium oxychloride	[Es+3].[Cl-].[O-2]
+Berkelium(III) oxychloride	[Bk+3].[Cl-].[O-2]
+Californium(III) oxybromide	[Br-].[Cf+3].[O-2]
+Californium(III) oxyiodide	[Cf+3].[I-].[O-2]
+Berkelium(III) oxybromide	[Bk+3].[Br-].[O-2]
