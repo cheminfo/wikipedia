@@ -1790,7 +1790,9 @@ Docosahexaenoic acid	O=C(O)CC\C=C/C/C=C\C\C=C/C\C=C/C\C=C/C\C=C/CC
 Doxepin	CN(C)CC/C=C1C2=C(C=CC=C2)OCC3=C/1C=CC=C3
 Barbituric acid	O=C1NC(=O)NC(=O)C1
 Entecavir	C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N
+Cadmium chloride	O.[Cl-].[Cl-].[Cd+2]
 Cadmium chloride	[Cd+2].[Cl-].[Cl-]
+Cadmium chloride	O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Cl-].[Cd+2].[Cd+2]
 Cyclophosphamide	O=P1(OCCCN1)N(CCCl)CCCl
 Nitrosoproline	O=C(O)[C@H]1N(N=O)CCC1
 Ethionine	O=C(O)C(N)CCSCC
@@ -12932,6 +12934,7 @@ Drinabant	Fc1cc(cc(F)c1)N(C4CN(C(c2ccc(Cl)cc2)c3ccc(Cl)cc3)C4)S(=O)(=O)C
 Naloxegol	COCCOCCOCCOCCOCCOCCOCCO[C@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC=C)O)O
 Nafoxadol	O1CC4OC1(c3cc2ccccc2cc3)CNC4
 Methade	CN(C(CC(CCC)(C1=CC=CC=C1)C2=CC=CC=C2)C)C
+Kryptonium ion	[KrH+]
 Bicyclo(2.2.1)heptane-2-carbonitrile	N#CC2CC1CCC2C1
 Bis(chloromethyl) ketone	ClCC(=O)CCl
 Tirpate	O=C(ON=CC1(SCC(S1)C)C)NC
@@ -20462,3 +20465,4 @@ Californium(III) oxybromide	[Br-].[Cf+3].[O-2]
 Californium(III) oxyiodide	[Cf+3].[I-].[O-2]
 Berkelium(III) oxybromide	[Bk+3].[Br-].[O-2]
 Etrinabdione	CCCCCC1=C(C(=C(C(=O)C1=O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O)NCC3=CC=CC=C3
+Gurjunene	C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C
