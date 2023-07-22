@@ -1222,7 +1222,6 @@ Ximelagatran	O=C(NCc1ccc(C(=N\O)\N)cc1)[C@H]3N(C(=O)[C@H](NCC(=O)OCC)C2CCCCC2)CC
 Malachite green	CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]
 Potassium perchlorate	[K+].[O-]Cl(=O)(=O)=O
 Diisopropyltryptamine	CC(C)N(CCc1c[nH]c2ccccc12)C(C)C
-Solanine	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C
 Sufentanil	O=C(N(c1ccccc1)C2(COC)CCN(CC2)CCc3sccc3)CC
 Hentriacontane	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Dodecane	CCCCCCCCCCCC
@@ -3006,7 +3005,7 @@ Isothiazole	n1sccc1
 Cubebene	C[C@@H]1CC[C@H]([C@H]2C13[C@@H]2C(=CC3)C)C(C)C
 Cubebene	C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C
 Ethinylestradiol/norethisterone acetate	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C#C.CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
-Levomethamphetamine	N([C@@H](Cc1ccccc1)C)C
+Levmetamfetamine	N([C@@H](Cc1ccccc1)C)C
 1,2-Naphthoquinone	O=C1c2ccccc2\C=C/C1=O
 Itaconic acid	O=C(O)C(=C)CC(=O)O
 Chromium(III) fluoride	[Cr+3].[F-].[F-].[F-]
@@ -12935,6 +12934,7 @@ Naloxegol	COCCOCCOCCOCCOCCOCCOCCO[C@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)C
 Nafoxadol	O1CC4OC1(c3cc2ccccc2cc3)CNC4
 Methade	CN(C(CC(CCC)(C1=CC=CC=C1)C2=CC=CC=C2)C)C
 Kryptonium ion	[KrH+]
+Xenonium	[XeH+]
 Bicyclo(2.2.1)heptane-2-carbonitrile	N#CC2CC1CCC2C1
 Bis(chloromethyl) ketone	ClCC(=O)CCl
 Tirpate	O=C(ON=CC1(SCC(S1)C)C)NC
@@ -20465,4 +20465,7 @@ Californium(III) oxybromide	[Br-].[Cf+3].[O-2]
 Californium(III) oxyiodide	[Cf+3].[I-].[O-2]
 Berkelium(III) oxybromide	[Bk+3].[Br-].[O-2]
 Etrinabdione	CCCCCC1=C(C(=C(C(=O)C1=O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O)NCC3=CC=CC=C3
+Oxygen tetrafluoride	F[O](F)(F)F
 Gurjunene	C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C
+1T-LSD	O=C(n1cc2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)c3cccc1c32)c1cccs1
+Ethiopropamine	CC(NCC)Cc1cccs1
