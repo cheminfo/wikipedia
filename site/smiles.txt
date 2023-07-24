@@ -1926,6 +1926,9 @@ Amyl acetate	O=C(OCCCCC)C
 Lead(II,IV) oxide	O1[Pb]O[Pb]11O[Pb]O1
 Phosphorus trifluoride	FP(F)F
 Ethylmercury	CC[Hg+]
+Ethylmercury	CC[Hg]Cl
+Ethylmercury	CC[Hg]Br
+Ethylmercury	CC[Hg]I
 Dihydroquinine	O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](CC)C3)cc4)C
 Dihydroquinine	O[C@@H](C1N2CCC(C(CC)C2)C1)C3=CC=NC4=CC=C(OC)C=C43
 Dihydroquinidine	[C@H](O)(C=1C2=C(C=CC(OC)=C2)N=CC1)[C@@]3([N@@]4C[C@H](CC)[C@H](C3)CC4)[H]
@@ -2168,6 +2171,7 @@ Zinc selenide	[ZnH2-2]1[Se+2]47[ZnH-2]2[Se+2][ZnH-2]3[Se+2]8([ZnH2-2][SeH+2]([Zn
 Zinc selenide	[ZnH2-2]1[SeH+2]([ZnH2-2]6)[ZnH2-2][SeH+2]7[ZnH-2]2[Se+2][Zn-2]3([Se+2][ZnH-2]9[Se+2]5)[Se+2]18[Zn-2]45[Se+2][ZnH-2]5[SeH+2]6[Zn-2]78[Se+2]78[ZnH2-2][SeH+2]5[ZnH2-2][Se+2]4([ZnH2-2][SeH+2]9[ZnH2-2]4)[ZnH-2]7[Se+2]34[ZnH2-2][SeH+2]2[ZnH2-2]8
 Oxaliplatin	O1C(=O)C(=O)O[Pt-2]12[NH2+]C0CCCCC0[NH2+]2
 Erythrosine	[O-]C(=O)C1=CC=CC=C1C1=C2C=C(I)C(=O)C(I)=C2OC2=C1C=C(I)C([O-])=C2I.[Na].[Na]
+Iodate	[O-]I(=O)=O
 Periodate	[O-][I+3]([O-])([O-])[O-]
 Periodate	[O-][I+]([O-])([O-])([O-])([O-])[O-]
 Talbutal	O=C1NC(=O)NC(=O)C1(C(C)CC)C\C=C
@@ -3005,7 +3009,7 @@ Isothiazole	n1sccc1
 Cubebene	C[C@@H]1CC[C@H]([C@H]2C13[C@@H]2C(=CC3)C)C(C)C
 Cubebene	C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C
 Ethinylestradiol/norethisterone acetate	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C#C.CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
-Levmetamfetamine	N([C@@H](Cc1ccccc1)C)C
+Levomethamphetamine	N([C@@H](Cc1ccccc1)C)C
 1,2-Naphthoquinone	O=C1c2ccccc2\C=C/C1=O
 Itaconic acid	O=C(O)C(=C)CC(=O)O
 Chromium(III) fluoride	[Cr+3].[F-].[F-].[F-]
@@ -9680,6 +9684,9 @@ Pentamethylcyclopentadienyl iridium dichloride dimer	c1(C)=c(C)c(C)=c(C)c1(C)[Ir
 Aminopropionitrile	NCCC#N
 Resiquimod	CCOCc1nc2c(N)nc3ccccc3c2n1CC(C)(C)O
 Hydroxypyruvic acid	O=C(O)C(=O)CO
+Boron monoxide	O=BB=O
+Boron monoxide	[B]=O
+Boron monoxide	O1B2B1O2
 Imidazole-1-sulfonyl azide	Cl.O=S(=O)(N=[N+]=[N-])n1ccnc1
 Trifluoromethanesulfonyl azide	FC(F)(F)S(=O)(=O)N=[N+]=[N-]
 Neophyl chloride	ClCC(c1ccccc1)(C)C
@@ -15767,6 +15774,7 @@ Droxinavir	CC(C)CC(C(=O)NC(C)(C)C)NCC(C(CC1=CC=CC=C1)NC(=O)C(C(C)(C)C)NC(=O)CNC)
 Methoxmetamine	COC1=CC=CC(=C1)C2(CCCCC2=O)NC
 5-DBFPV	CCCC(N1CCCC1)C(C2=CC=C3OCCC3=C2)=O
 Lasinavir	CC(C)[C@@H](C(=O)NCCOC)NC(=O)[C@H](CC1=C(C(=C(C=C1)OC)OC)OC)C[C@@H]([C@H](CC2=CC=CC=C2)NC(=O)OC(C)(C)C)O
+Hydrazinium	[NH3+]N
 2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine	CC=C1C(CC(N1C)C)(C2=CC=CC=C2)C3=CC=CC=C3
 Bismuth titanate	O=[Ti]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O.O=[Bi]O[Bi]=O
 SB-200646	Cn1ccc2c1ccc(c2)NC(=O)Nc3cccnc3
