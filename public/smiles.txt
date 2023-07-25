@@ -9756,6 +9756,7 @@ Isoguvacine	O=C(O)/C1=C/CNCC1
 Hexachlorocyclopentadiene	ClC1(Cl)C(/Cl)=C(/Cl)\C(\Cl)=C1\Cl
 Belinostat	O=S(=O)(Nc1ccccc1)c2cc(\C=C\C(=O)NO)ccc2
 Triptane	CC(C)C(C)(C)C
+Tetrafluoroammonium	[N+](F)(F)(F)F
 Chlormadinone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C
 2-Bromohexane	CCCCC(C)Br
 Nitrosonium octafluoroxenate(VI)	[N]#[O+].[N]#[O+].F[Xe-2](F)(F)(F)(F)(F)(F)[F]
@@ -17881,7 +17882,7 @@ Perfluorotriethylcarbinol	C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)O
 Tetraethylenepentamine	C(CNCCNCCNCCN)N
 2-Methoxybenzaldehyde	COC1=CC=CC=C1C=O
 2C-Se	NCCc1cc(OC)c(cc1OC)[Se]C
-Methylpiperazine	CN1CCNCC1
+N-Methylpiperazine	CN1CCNCC1
 Deflectin	CCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Deflectin	CCCCCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Deflectin	CCCCCCCCCC[C@H](C)C(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
@@ -20480,3 +20481,4 @@ Oxygen tetrafluoride	F[O](F)(F)F
 Gurjunene	C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C
 1T-LSD	O=C(n1cc2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)c3cccc1c32)c1cccs1
 Ethiopropamine	CC(NCC)Cc1cccs1
+Perfluoropropanesulfonic acid	C(C(F)(F)F)(C(F)(F)S(=O)(=O)O)(F)F
