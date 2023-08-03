@@ -19361,7 +19361,6 @@ Trifluoroacetonitrile	FC(F)(F)C#N
 Sodium ozonide	[Na+].[O-]O[O]
 Alanyl-glutamine	CC(C(=O)NC(CCC(=O)N)C(=O)O)N
 Alanyl-glutamine	C[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)O)N
-Methylammonium tin halide	C[NH3+].[SnH2+2].[Br-].[Br-].[Br-]
 Turkesterone	C[C@]12C[C@H]([C@H]3C(=CC(=O)[C@H]4[C@@]3(C[C@@H]([C@@H](C4)O)O)C)[C@@]1(CC[C@@H]2[C@](C)([C@@H](CCC(C)(C)O)O)O)O)O
 Silver chlorite	[O-]Cl=O.[Ag+]
 Nickel niobate	[Ni+2].O=[Nb](=O)[O-].O=[Nb](=O)[O-]
@@ -20489,3 +20488,4 @@ LK-99	[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Pb+2].[Cu+2].O=P(
 Pydiflumetofen	CC(CC1=C(C=C(C=C1Cl)Cl)Cl)N(C(=O)C2=CN(N=C2C(F)F)C)OC
 Terephthalaldehyde	C1=CC(=CC=C1C=O)C=O
 3-(Difluoromethyl)-1-methyl-1H-pyrazole-4-carboxylic acid	CN1C=C(C(=N1)C(F)F)C(=O)O
+AOH1996	COC1=CC(=CC=C1)OC2=CC=CC=C2NC(=O)CNC(=O)C3=CC=CC4=CC=CC=C43
