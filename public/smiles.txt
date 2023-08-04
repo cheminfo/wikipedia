@@ -20478,7 +20478,6 @@ Californium(III) oxybromide	[Br-].[Cf+3].[O-2]
 Californium(III) oxyiodide	[Cf+3].[I-].[O-2]
 Berkelium(III) oxybromide	[Bk+3].[Br-].[O-2]
 Etrinabdione	CCCCCC1=C(C(=C(C(=O)C1=O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O)NCC3=CC=CC=C3
-Oxygen tetrafluoride	F[O](F)(F)F
 Gurjunene	C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C
 1T-LSD	O=C(n1cc2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)c3cccc1c32)c1cccs1
 Ethiopropamine	CC(NCC)Cc1cccs1
@@ -20489,3 +20488,4 @@ Pydiflumetofen	CC(CC1=C(C=C(C=C1Cl)Cl)Cl)N(C(=O)C2=CN(N=C2C(F)F)C)OC
 Terephthalaldehyde	C1=CC(=CC=C1C=O)C=O
 3-(Difluoromethyl)-1-methyl-1H-pyrazole-4-carboxylic acid	CN1C=C(C(=N1)C(F)F)C(=O)O
 AOH1996	COC1=CC(=CC=C1)OC2=CC=CC=C2NC(=O)CNC(=O)C3=CC=CC4=CC=CC=C43
+Potassium trithiocarbonate	C(=O)([O-])[S-].[K+].[K+]
