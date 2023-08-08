@@ -12892,7 +12892,7 @@ Tinabinol	O3c1cc(cc(O)c1\C2=C(\SCCC2)C3(C)C)C(C)C(C)CCCCC
 Lometraline	Clc1ccc(OC)c2c1C(N(C)C)CCC2
 Edivoxetine	COC1=C(C=C(C=C1)F)C[C@]([C@@H]2CNCCO2)(C3CCOCC3)O
 Thiotetrabarbital	O=C1NC(=S)NC(=O)C1(C(CC)CCC)CC
-RO5166017	NC=2OCC(N=2)CN(CC)c1ccccc1
+RO5166017	NC1=N[C@@H](CN(C2=CC=CC=C2)CC)CO1
 EPPTB	CCOc1cccc(c1)NC(=O)c2ccc(c(c2)C(F)(F)F)N3CCCC3
 RO4491533	n3c(C)cc(cc3C)-c(ccc4)cc4C(=Nc1cc2C)CC(=O)Nc1cc2C(F)(F)F
 LASSBio-881	Oc1c(C(C)(C)C)cc(cc1C(C)(C)C)\C=N\NC(=O)c2cc3OCOc3cc2[N](=O)=O
@@ -15443,7 +15443,7 @@ AVN-101	Cc1ccc2c(c1)c3c(n2CCc4ccccc4)CCN(C3)C
 Pralmorelin	C[C@H](C(=O)N[C@H](CC1=CC2=CC=CC=C2C=C1)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCCN)C(=O)N)N
 Curacin A	C[C@H]1C[C@H]1C2=N[C@@H](CS2)/C=C\CC/C=C/C=C(\C)/CC[C@H](CC=C)OC
 Stenusin	CCC(C)CC1CCCN(C1)CC
-Anamorelin	CC(C)(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)N3CCCC(C3)(CC4=CC=CC=C4)C(=O)N(C)N(C)C)N
+Anamorelin	CC(C)(C(=O)N[C@H](Cc1c[nH]c2c1cccc2)C(=O)N3CCC[C@](C3)(Cc4ccccc4)C(=O)N(C)N(C)C)N
 Relamorelin	c1ccc(cc1)C[C@@H](C(=O)NC2(CCNCC2)C(=O)N)NC(=O)[C@@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@@H](Cc5csc6c5cccc6)NC(=O)C7CCNCC7
 Ipamorelin	CC(C)(C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@H](CC2=CC3=CC=CC=C3C=C2)C(=O)N[C@H](CC4=CC=CC=C4)C(=O)N[C@@H](CCCCN)C(=O)N)N
 Almecillin	CC1(C)S[C@@H]2[C@H](NC(=O)CSCC=C)C(=O)N2[C@H]1C(=O)O
@@ -17103,6 +17103,7 @@ Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 Iminoborane	B=N
 Perlapine	CN1CCN(CC1)C2=NC3=CC=CC=C3CC4=CC=CC=C42
 Nordoxepin	CNCCC=C1C2=CC=CC=C2COC3=CC=CC=C31
+Carboxin	CC1=C(SCCO1)C(=O)NC2=CC=CC=C2
 Selenocystine	C([C@@H](C(=O)O)N)[Se][Se]C[C@@H](C(=O)O)N
 Selenocystine	C(C(C(=O)O)N)[Se][Se]CC(C(=O)O)N
 Selenocystine	C([C@H](C(=O)O)N)[Se][Se]C[C@H](C(=O)O)N
@@ -17130,7 +17131,7 @@ Dichlone	C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
 Folpet	C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
-Ivosidenib	C1CC(=O)N(C1C(=O)N(C2=CC(=CN=C2)F)C(C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N
+Ivosidenib	c1ccc(c(c1)[C@@H](C(=O)NC2CC(C2)(F)F)N(c3cc(cnc3)F)C(=O)[C@@H]4CCC(=O)N4c5cc(ccn5)C#N)Cl
 Trodusquemine	C[C@H](CC[C@H](C(C)C)OS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@@H](C4)NCCCNCCCCNCCCN)C)O)C
 Oxathiapiprolin	CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
 Rhodium(III) sulfide	S=[Rh]S[Rh]=S
@@ -17773,7 +17774,7 @@ Asmic	COC1=CC=CC=C1SC[N+]#[C-]
 4-Amino-5-hydroxymethyl-2-methylpyrimidine	CC1=NC=C(C(=N1)N)COP(=O)(O)[O-]
 4-Amino-5-hydroxymethyl-2-methylpyrimidine	CC1=NC=C(C(=N1)N)COP(=O)([O-])OP(=O)(O)[O-]
 Methylfluorophosphonylcholine	C[N+](C)(C)CCOP(=O)(C)F
-Dihydrolevoglucosenone	C1CC(=O)[C@@H]2OCC1O2
+Dihydrolevoglucosenone	[C@H]12CCC([C@H](OC1)O2)=O
 Oxygen-15 labelled water	[15OH2]
 1,1'-Binaphthyl	C1=CC=C2C(=C1)C=CC=C2C3=CC=CC4=CC=CC=C43
 Sulfine	C=S=O
@@ -20493,3 +20494,4 @@ Spheroidene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=
 Potassium trithiocarbonate	C(=O)([O-])[S-].[K+].[K+]
 Antimony nitride	N#[Sb]
 Arsenic monophosphide	P#[As]
+Enloplatin	C1CC(C1)(C(=O)[O-])C(=O)[O-].C1COCCC1(C[NH-])C[NH-].[Pt+4]
