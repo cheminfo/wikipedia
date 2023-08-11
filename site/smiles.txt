@@ -19838,6 +19838,7 @@ Cyperotundone	CC1(C)[C@]23C(C[C@H]1CC[C@H]2C)=C(C)C(=O)C3
 Fabimycin	CN(CC1=C(C)C2=CC=CC=C2O1)C(=O)\C=C\C1=CC2=C(NC(=O)C(N)CC2)N=C1
 Hafnium carbonitride	[Hf+4].[Hf+4].[C-2].[N-2]
 Clitorin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O[C@H]6[C@@H]([C@@H]([C@H]([C@@H](O6)C)O)O)O)O)O)O)O)O
+Boscalid	C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl
 Octafluorocubane	C12(C3(C4(C1(C5(C2(C3(C45F)F)F)F)F)F)F)F
 Lutetium vanadate	[Lu+3].[Lu+3].[O-][V]([O-])([O-])O[V]([O-])([O-])[O-]
 Gadolinium(III) iodide	[I-].[I-].[I-].[Gd+3]
@@ -20502,3 +20503,4 @@ Tetrahydropyridine	C1CNCC=C1
 Imiclopazine	CN1CCN(C1=O)CCN2CCN(CC2)CCCN3C4=CC=CC=C4SC5=C3C=C(C=C5)Cl
 1,3,4,6-Tetrathiapentalene-2,5-dione	C12=C(SC(=O)S1)SC(=O)S2
 Sodium hydrogen selenite	O[Se](=O)[O-].[Na+]
+1,9-Nonanediol	C(CCCCO)CCCCO
