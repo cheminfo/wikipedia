@@ -14422,7 +14422,7 @@ SB-243213	CC1=C(C(F)(F)F)C=C(N(C(NC2=CN=C(OC3=C(C)N=CC=C3)C=C2)=O)CC4)C4=C1
 Trimethylsilyl cyclopentadiene	C[Si](C)(C)C1C=CC=C1
 Karstedt's catalyst	C[Si](C)(C=C)O[Si](C)(C)C=C.[Pt]
 2-Acetylfuran	CC(=O)C1=CC=CO1
-Potassium octachlorodirhenate	[K+].[K+].[K+].[K+].Cl[Re-2](Cl)(Cl)(Cl)$[Re-2](Cl)(Cl)(Cl)Cl
+Potassium octachlorodirhenate	[K+].[K+].Cl[Re-2](Cl)(Cl)(Cl)$[Re-2](Cl)(Cl)(Cl)Cl
 Chlorobis(dppe)iron hydride	Cl[FeH-4]56([P+](c1ccccc1)(c2ccccc2)CC[P+]5(c3ccccc3)c4ccccc4)[P+](c1ccccc1)(c2ccccc2)CC[P+]6(c3ccccc3)c4ccccc4
 Inotodiol	C[C@@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)[C@@H](CC=C(C)C)O
 Hispolon	CC(=O)C=C(C=CC1=CC(=C(C=C1)O)O)O
@@ -20493,12 +20493,14 @@ Terephthalaldehyde	C1=CC(=CC=C1C=O)C=O
 AOH1996	COC1=CC(=CC=C1)OC2=CC=CC=C2NC(=O)CNC(=O)C3=CC=CC4=CC=CC=C43
 Spheroidene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/CC(C)(C)OC)/C)/C)/C)C
 Potassium trithiocarbonate	C(=O)([O-])[S-].[K+].[K+]
+Cyaarside	[As]#[C-]
 Antimony nitride	N#[Sb]
 Arsenic monophosphide	P#[As]
 Enloplatin	C1CC(C1)(C(=O)[O-])C(=O)[O-].C1COCCC1(C[NH-])C[NH-].[Pt+4]
 Tetrahydropyridine	C1CCN=CC1
 Tetrahydropyridine	C1CC=CNC1
 Tetrahydropyridine	C1CNCC=C1
+RO5256390	NC1=N[C@@H](C[C@@H](C2=CC=CC=C2)CC)CO1
 2,4-Dihydroxybenzaldehyde	C1=CC(=C(C=C1O)O)C=O
 Imiclopazine	CN1CCN(C1=O)CCN2CCN(CC2)CCCN3C4=CC=CC=C4SC5=C3C=C(C=C5)Cl
 1,3,4,6-Tetrathiapentalene-2,5-dione	C12=C(SC(=O)S1)SC(=O)S2
@@ -20507,3 +20509,5 @@ Sodium hydrogen selenite	O[Se](=O)[O-].[Na+]
 5α-Hydroxylaxogenin	C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC(=O)[C@@]6([C@@]5(CC[C@@H](C6)O)C)O)C)C)OC1
 3,3’,4,4’-Benzophenone tetracarboxylic dianhydride	C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O
 Fertilysin	ClC(C(NCCCCCCCCNC(C(Cl)Cl)=O)=O)Cl
+Sodium ammonium tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[NH4+].[Na+]
+Leptosperin	COC1=C(C=CC2=C1O/C(=C\C3=CC(=C(C=C3)O)O)/C2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
