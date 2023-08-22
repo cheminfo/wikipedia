@@ -20506,7 +20506,7 @@ Imiclopazine	CN1CCN(C1=O)CCN2CCN(CC2)CCCN3C4=CC=CC=C4SC5=C3C=C(C=C5)Cl
 Sodium hydrogen selenite	O[Se](=O)[O-].[Na+]
 1,9-Nonanediol	C(CCCCO)CCCCO
 5α-Hydroxylaxogenin	C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC(=O)[C@@]6([C@@]5(CC[C@@H](C6)O)C)O)C)C)OC1
-3,3’,4,4’-Benzophenone tetracarboxylic dianhydride	C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O
+3,3',4,4'-Benzophenone tetracarboxylic dianhydride	C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O
 Fertilysin	ClC(C(NCCCCCCCCNC(C(Cl)Cl)=O)=O)Cl
 Sodium ammonium tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[NH4+].[Na+]
 Leptosperin	O1C(CO)C(O)C(O)C(O)C1OCC(O2)C(O)C(O)C(O)C2Oc3c(OC)cc(C(=O)OC)cc3OC
@@ -20515,3 +20515,4 @@ Isomyosamine	C1CC(N=C1)C2=CN=CC=C2
 Leptosin	COC1=C(C=CC2=C1O/C(=C\C3=CC(=C(C=C3)O)O)/C2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Diphenyl sulfide	C1=CC=C(C=C1)SC2=CC=CC=C2
 JHU-083	CCOC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](CC(C)C)N
+Tildipirosin	CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O)N(C)C)O)CCN3CCCCC3)C)\C)CN4CCCCC4
