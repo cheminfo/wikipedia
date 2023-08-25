@@ -20518,3 +20518,9 @@ JHU-083	CCOC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](CC(C)C)N
 Tildipirosin	CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O)N(C)C)O)CCN3CCCCC3)C)\C)CN4CCCCC4
 2-Ethylhexyl fluoroacetate	CCCCC(CC)COC(=O)CF
 4-Cl-PHP	CCCCC(C(=O)C1=CC=C(C=C1)Cl)N2CCCC2
+3F-PHP	CCCCC(C(=O)C1=CC(=CC=C1)F)N2CCCC2
+MDPEP	CCCCCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3
+3,4-Difluoroamphetamine	CC(CC1=CC(=C(C=C1)F)F)N
+Clovibactin	CC(C)C[C@@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)N[C@H](CCCCN)C(=O)N[C@@H](CO)C(=O)NC1C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O[C@H]1C(N)=O
+Etomethazene	CCOc3ccc(Cc2nc1cc(C)ccc1n2CCN(CC)CC)cc3
+4-HO-EiBT	CCN(CCc1c[nH]c2cccc(O)c12)CC(C)C
