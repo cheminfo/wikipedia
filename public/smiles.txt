@@ -19985,7 +19985,7 @@ Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].
 Chloromethyl methyl sulfide	CSCCl
 Protonitazene	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Iptacopan	O=C(O)C1=CC=C([C@H]2N(CC3=C(OC)C=C(C)C4=C3C=CN4)CC[C@H](OCC)C2)C=C1
-Butonitazine	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
+Butonitazene	CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Deschloroclotizolam	CC1=NN=C2N1C3=C(C=C(S3)Cl)C(=NC2)C4=CC=CC=C4
 Thulium dibromide	[Tm+2].[Br-].[Br-]
 1cP-AL-LAD	CCN(CC)C(=O)[C@@H]1C=C2[C@@H](Cc3cn(C(=O)C4CC4)c4cccc2c34)N(C1)CC=C
@@ -20524,3 +20524,6 @@ MDPEP	CCCCCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3
 Clovibactin	CC(C)C[C@@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)N[C@H](CCCCN)C(=O)N[C@@H](CO)C(=O)NC1C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O[C@H]1C(N)=O
 Etomethazene	CCOc3ccc(Cc2nc1cc(C)ccc1n2CCN(CC)CC)cc3
 4-HO-EiBT	CCN(CCc1c[nH]c2cccc(O)c12)CC(C)C
+Protonitazepyne	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
+Clomacran	CN(C)CCCC1C2=CC=CC=C2NC3=C1C=C(C=C3)Cl
+N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
