@@ -106,7 +106,6 @@ Uric acid	Oc0nc(O)nc1c0N=C(O)N1
 Uric acid	Oc0nc(O)nc1c0N=C([O-])N1
 Vitamin C	OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
 Sildenafil	CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
-Water	O
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Nitrous oxide	[N-]=[N+]=O
@@ -20526,4 +20525,5 @@ Etomethazene	CCOc3ccc(Cc2nc1cc(C)ccc1n2CCN(CC)CC)cc3
 4-HO-EiBT	CCN(CCc1c[nH]c2cccc(O)c12)CC(C)C
 Protonitazepyne	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Clomacran	CN(C)CCCC1C2=CC=CC=C2NC3=C1C=C(C=C3)Cl
+Homofenazine	C1CN(CCN(C1)CCO)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
 N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
