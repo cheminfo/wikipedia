@@ -5979,6 +5979,7 @@ Adipamide	O=C(N)CCCCC(=O)N
 Carisbamate	Clc1ccccc1[C@@H](O)COC(=O)N
 Aminoethylpiperazine	NCCN1CCNCC1
 2-Aminothiazole	c1csc(n1)N
+Anilinium chloride	C1=CC=C(C=C1)N.Cl
 Trimethylarsine	[As](C)(C)C
 4-Piperidone	O=C1CCNCC1
 N-Phenethyl-4-piperidinone	O=C2CCN(CCc1ccccc1)CC2
@@ -20528,3 +20529,5 @@ Protonitazepyne	CCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Clomacran	CN(C)CCCC1C2=CC=CC=C2NC3=C1C=C(C=C3)Cl
 Homofenazine	C1CN(CCN(C1)CCO)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
 N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
+Sodium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[Na+].[Na+]
+FLUORETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCF
