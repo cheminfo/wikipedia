@@ -2830,7 +2830,7 @@ DMDNB	CC(C)(C(C)(C)[N+](=O)[O-])[N+](=O)[O-]
 Sodium perborate	[Na+].[Na+].O[B-]1(OO[B-](O)(O)OO1)O
 Benzil	O=C(C(=O)c1ccccc1)c2ccccc2
 Tetraacetylethylenediamine	O=C(C)N(C(C)=O)CCN(C(C)=O)C(C)=O
-Busulfan	O=S(=O)(OCCCCOS(=O)(=O)C)C
+Busulfan	CS(=O)(=O)OCCCCOS(=O)(=O)C
 Niclosamide	Clc2cc(ccc2NC(=O)c1cc(Cl)ccc1O)[N+]([O-])=O
 2-Iodoxybenzoic acid	O=C1OI(=O)(O)c2ccccc12
 Barbital	O=C1NC(=O)NC(=O)C1(CC)CC
@@ -2892,7 +2892,7 @@ Astemizole	Fc1ccc(cc1)Cn2c5ccccc5nc2NC4CCN(CCc3ccc(OC)cc3)CC4
 Metiamide	CNC(=S)NCCSCc1nc[nH]c1C
 Lufenuron	Clc1cc(c(Cl)cc1OC(F)(F)C(F)C(F)(F)F)NC(=O)NC(=O)c2c(F)cccc2F
 Dioxolane	O1CCOC1
-Chlorambucil	c1cc(ccc1CCCC(=O)O)N(CCCl)CCCl
+Chlorambucil	ClCCN(CCCl)c1ccc(cc1)CCCC(=O)O
 2-Aminoisobutyric acid	O=C(O)C(N)(C)C
 Norfloxacin	O=C(O)\C2=C\N(c1cc(c(F)cc1C2=O)N3CCNCC3)CC
 Germane	[H][Ge]([H])([H])[H]
@@ -5510,6 +5510,7 @@ Suprofen	O=C(c1ccc(cc1)C(C(=O)O)C)c2sccc2
 Bismuth subgallate	OC(=O)c2cc1O[Bi](O)Oc1c(O)c2
 Patulin	O=C\1O/C2=C/COC(O)C2=C/1
 SCH-50911	O=C(O)C[C@@H]1OCC(NC1)(C)C
+Yttrium lithium fluoride	[Li+].[F-].[F-].[F-].[F-].[Y+3]
 Fencamfamin	CCNC1C(C2CCC1C2)C3=CC=CC=C3
 Prolinol	C1C[C@@H](NC1)CO
 Prolinol	C1C[C@H](NC1)CO
@@ -20530,4 +20531,5 @@ Clomacran	CN(C)CCCC1C2=CC=CC=C2NC3=C1C=C(C=C3)Cl
 Homofenazine	C1CN(CCN(C1)CCO)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
 N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
 Sodium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[Na+].[Na+]
+Lithium holmium fluoride	[Li+].[Ho+3].[F-].[F-].[F-].[F-]
 FLUORETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCF
