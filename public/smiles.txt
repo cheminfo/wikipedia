@@ -20533,3 +20533,6 @@ N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
 Sodium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[Na+].[Na+]
 Lithium holmium fluoride	[Li+].[Ho+3].[F-].[F-].[F-].[F-]
 FLUORETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCF
+Thialdine	CC1NC(SC(S1)C)C
+Thialdine	C[C@H]1N[C@@H](C)S[C@@H](C)S1
+TM5441	C1=CC(=CC(=C1)NC(=O)COCC(=O)NC2=C(C=C(C=C2)Cl)C(=O)O)C3=COC=C3
