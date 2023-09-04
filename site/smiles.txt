@@ -653,7 +653,6 @@ Sarcosine	CNCC(O)=O
 2C-B	COc1cc(CCN)c(OC)cc1Br
 Minoxidil	Nc1cc(nc(N)[n+]1[O-])N2CCCCC2
 Granisetron	CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23
-2C-T-7	COc1cc(SCCC)c(cc1CCN)OC
 Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
 Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)F
 Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)(F)[Pt](F)(F)(F)(F)F
@@ -793,7 +792,7 @@ Dimethyl sulfoxide	CS(=O)C
 Dimethyl ether	COC
 Malonic acid	O=C(O)CC(O)=O
 Diethyl malonate	O=C(OCC)CC(=O)OCC
-N-Octyl beta-D-thioglucopyranoside	CCCCCCCCS[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+N-Octyl β-D-thioglucopyranoside	CCCCCCCCS[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Chromate and dichromate	O=[Cr](=O)([O-])O[Cr](=O)(=O)[O-]
 Chromate and dichromate	[O-][Cr](=O)(=O)[O-]
 Nonactin	C[C@@H]1C[C@H]2CC[C@H](O2)[C@@H](C(=O)O[C@H](C[C@@H]3CC[C@@H](O3)[C@H](C(=O)O[C@@H](C[C@H]4CC[C@H](O4)[C@@H](C(=O)O[C@H](C[C@@H]5CC[C@@H](O5)[C@H](C(=O)O1)C)C)C)C)C)C)C
@@ -832,7 +831,7 @@ Coniine	N1[C@H](CCC)CCCC1
 Rosiglitazone	O=C1NC(=O)SC1Cc3ccc(OCCN(c2ncccc2)C)cc3
 Pioglitazone	O=C1NC(=O)SC1Cc3ccc(OCCc2ncc(cc2)CC)cc3
 Tyramine	Oc1ccc(cc1)CCN
-Beta-Carboline	c1ccc3c(c1)[nH]c2cnccc23
+Β-Carboline	c1ccc3c(c1)[nH]c2cnccc23
 Cathine	O[C@@H](c1ccccc1)[C@@H](N)C
 Cathinone	O=C(c1ccccc1)[C@@H](N)C
 Perchlorate	[O-][Cl+3]([O-])([O-])[O-]
@@ -20533,6 +20532,7 @@ N-Desethyletonitazene	CCNCCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC
 Sodium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[Na+].[Na+]
 Lithium holmium fluoride	[Li+].[Ho+3].[F-].[F-].[F-].[F-]
 FLUORETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCF
+Monosodium acetylide	C#[C-].[Na+]
 Thialdine	CC1NC(SC(S1)C)C
 Thialdine	C[C@H]1N[C@@H](C)S[C@@H](C)S1
 TM5441	C1=CC(=CC(=C1)NC(=O)COCC(=O)NC2=C(C=C(C=C2)Cl)C(=O)O)C3=COC=C3
