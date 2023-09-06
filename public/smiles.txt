@@ -653,6 +653,7 @@ Sarcosine	CNCC(O)=O
 2C-B	COc1cc(CCN)c(OC)cc1Br
 Minoxidil	Nc1cc(nc(N)[n+]1[O-])N2CCCCC2
 Granisetron	CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23
+2C-T-7	COc1cc(SCCC)c(cc1CCN)OC
 Cyclic guanosine monophosphate	O=C4/N=C(/N)Nc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2O)O
 Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)F
 Xenon hexafluoroplatinate	F[Xe+].F[Pt-1](F)(F)(F)(F)(F)[Pt](F)(F)(F)(F)F
@@ -20536,3 +20537,4 @@ Monosodium acetylide	C#[C-].[Na+]
 Thialdine	CC1NC(SC(S1)C)C
 Thialdine	C[C@H]1N[C@@H](C)S[C@@H](C)S1
 TM5441	C1=CC(=CC(=C1)NC(=O)COCC(=O)NC2=C(C=C(C=C2)Cl)C(=O)O)C3=COC=C3
+Manganese(III) phosphate	[O-]P(=O)([O-])[O-].[Mn+3]
