@@ -10438,7 +10438,7 @@ Pyrimidinylpiperazine	n1cccnc1N2CCNCC2
 Sakuranin	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Irigenin	O=C\1c3c(O)c(OC)c(O)cc3O/C=C/1c2cc(O)c(OC)c(OC)c2
 Tectorigenin	COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)O
-Psi-Tectorigenin	COC1=C(C=C(C2=C1OC=C(C2=O)C3=CC=C(C=C3)O)O)O
+Ψ-Tectorigenin	COC1=C(C=C(C2=C1OC=C(C2=O)C3=CC=C(C=C3)O)O)O
 Buphedrone	CNC(CC)C(=O)c1ccccc1
 Lodenafil	CCCc1c2c(c(=O)nc([nH]2)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC4)CCO)n(n1)C
 Mirodenafil	CCCc1cn(CC)c2c1[nH]c(nc2=O)c1c(OCCC)ccc(c1)S(=O)(=O)N1CCN(CC1)CCO
@@ -10551,9 +10551,9 @@ Benzyl mercaptan	SCc1ccccc1
 Carbon tetroxide	O=C1OOO1
 Iodoresiniferatoxin	O=C1C(C)=C[C@@]([C@]1(O)CC(COC(CC2=CC(OC)=C(O)C(I)=C2)=O)=C[C@]([H])3[C@H]4OC5(CC6=CC=CC=C6)O7)([H])[C@@]37[C@H](C)C[C@@]4(O5)C(C)=C
 2,3-Dichloro-5,6-dicyano-1,4-benzoquinone	ClC=1C(=O)C(\C#N)=C(\C#N)C(=O)C=1Cl
-Epsilon-Viniferin	C1=CC(=CC=C1C=CC2=CC(=CC3=C2C(C(O3)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O)O
-Alpha-Viniferin	Oc1ccc(cc1)C%10Oc2cc(O)cc7c2C%10c8cc(O)cc9OC(c3ccc(O)cc3)C(c5cc(O)cc6OC(c4ccc(O)cc4)C7c56)c89
-Alpha-Viniferin	OC(C=C1)=CC=C1[C@@H]2[C@@H](C3=C4C(O[C@@H](C5=CC=C(O)C=C5)[C@@H]4C6=C([C@@H]7[C@H](C8=CC=C(O)C=C8)O9)C9=CC(O)=C6)=CC(O)=C3)C%10=C7C=C(O)C=C%10O2
+Ε-Viniferin	C1=CC(=CC=C1C=CC2=CC(=CC3=C2C(C(O3)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O)O
+Α-Viniferin	Oc1ccc(cc1)C%10Oc2cc(O)cc7c2C%10c8cc(O)cc9OC(c3ccc(O)cc3)C(c5cc(O)cc6OC(c4ccc(O)cc4)C7c56)c89
+Α-Viniferin	OC(C=C1)=CC=C1[C@@H]2[C@@H](C3=C4C(O[C@@H](C5=CC=C(O)C=C5)[C@@H]4C6=C([C@@H]7[C@H](C8=CC=C(O)C=C8)O9)C9=CC(O)=C6)=CC(O)=C3)C%10=C7C=C(O)C=C%10O2
 Trans-Diptoindonesin B	OC1=CC(/C=C/C2=CC=C(O[C@H](C3=CC=C(O)C=C3)[C@H]4C5=CC(O)=CC6=C5[C@H](C7=CC(O)=CC(O)=C7)[C@@H](C8=CC=C(O)C=C8)O6)C4=C2)=CC(O)=C1
 Furanomycin	C[C@H]1C=C[C@@H](O1)[C@@H](C(=O)O)N
 E-4031	Cc1cccc(n1)CCN2CCC(CC2)C(=O)c3ccc(cc3)NS(=O)(=O)C
@@ -16582,8 +16582,8 @@ SC-8109	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@]24CCC(=O)O4)CCC5=CC(=O)CC[C@H]35
 16α-Hydroxyprogesterone	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
 11-Dehydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(C=C[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Pentarane A	CC(=O)[C@@]12CCCC[C@@H]1C[C@@H]3[C@@]2(CC[C@H]4[C@H]3CCC5=CC(=O)CC[C@]45C)C
-Beta-Zearalenol	C[C@H]1CCC[C@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
-Alpha-Zearalenol	C[C@H]1CCC[C@@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
+Β-Zearalenol	C[C@H]1CCC[C@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
+Α-Zearalenol	C[C@H]1CCC[C@@H](CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O)O
 SC-4289	CCC(C1=CC=C2C=C(OCC3=CC=CC=C3)C=CC2=C1)C(C)(C)CO
 SERBA-2	C1C[C@@H]2[C@H](C1)C3=C(C=CC(=C3)O)O[C@@H]2C4=CC=C(C=C4)O
 Phosphorus trifluorodichloride	FP(F)(Cl)(Cl)Cl
@@ -18683,7 +18683,7 @@ Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
 Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
 Iodine nitrate	[N+](=O)([O-])OI
-Delta-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
+Δ-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
 GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
 HS665	C1CC(C1)CN(CCC2=CC=CC=C2)CCC3=CC(=CC=C3)O
 ML-SA1	CC1CC(N(C2=CC=CC=C12)C(=O)CN3C(=O)C4=CC=CC=C4C3=O)(C)C
@@ -18914,16 +18914,16 @@ Indaziflam	C[C@H]1CC2=C([C@@H]1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
 7-Hydroxycannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)CO)O
 Ammonium selenide	[NH4+].[NH4+].[Se-2]
 Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O
-Delta-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
+Δ-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
 Tetraethylammonium tetrachloroferrate	CC[N+](CC)(CC)CC.[Cl-].Cl[Fe](Cl)Cl
 Tetraethylammonium tetrachloronickelate	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Ni]([Cl-])([Cl-])Cl
 Bisantrene	C(=NNC1=NCCN1)c1c2ccccc2c(C=NNC2=NCCN2)c2ccccc12
-Delta-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
-Delta-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
+Δ-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
+Δ-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
 2-Methyloctane	CCCCCCCCC
 Aszonalenin	CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25
-Delta-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
+Δ-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
 Butafenacil	CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
 Rhodium(III) bromide	[Br-].[Br-].[Br-].[Rh+3]
 Dasiglucagon	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)NC(C)(C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CNC=N7)N)O
@@ -19259,7 +19259,7 @@ Piflufolastat F-18	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)
 Flubrotizolam	CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4F
 Fluetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4F)C
 Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
-Delta-6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
+Δ-6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
 THC morpholinylbutyrate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCCN4CCOCC4
 THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=O)O
 8,11-Dihydroxytetrahydrocannabinol	CCCCCc1cc2OC(C)(C)[C@@H]3C[C@@H](O)C(=C[C@H]3c2c(O)c1)CO
@@ -20558,3 +20558,5 @@ Hexahydrocannabutol	CCCCc1cc2OC(C)(C)[C@@H]3CCC(C)C[C@H]3c2c(O)c1
 Cannabidiol diacetate	CCCCCC1=CC(=C(C(=C1)OC(=O)C)[C@@H]2C=C(CC[C@H]2C(=C)C)C)OC(=O)C
 THCP-O-acetate	CC(=O)Oc1cc(CCCCCCC)cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c21
 HHCP-O-acetate	CC(=O)Oc1cc(CCCCCCC)cc2OC(C)(C)[C@@H]3CCC(C)C[C@H]3c21
+Butoxyacetic acid	CCCCOCC(=O)O
+Fluoroether E-1	C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F
