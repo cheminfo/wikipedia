@@ -3378,6 +3378,7 @@ Emylcamate	O=C(OC(C)(CC)CC)N
 Alclometasone	C[C@@H]1C[C@H]2[C@@H]3[C@@H](CC4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)C)Cl
 Phytol	C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C
 Di-tert-butyl dicarbonate	O=C(OC(=O)OC(C)(C)C)OC(C)(C)C
+Plutonium tetrafluoride	F[Pu](F)(F)F
 Phenprobamate	O=C(OCCCc1ccccc1)N
 Metharbital	O=C1N(C(=O)NC(=O)C1(CC)CC)C
 Ethoxyquin	O(c2ccc1c(\C(=C/C(N1)(C)C)C)c2)CC
@@ -20567,11 +20568,15 @@ Isopropyl mercaptan	CC(C)S
 Neptunium(III) iodide	[I-].[I-].[I-].[Np+3]
 LY305	CC1=C(C=CC(=C1Cl)C#N)N[C@@H]2CCC[C@@]2(C)O
 Plutonium(III) iodide	[I-].[I-].[I-].[Pu+3]
+Sobetirome	CC1=CC(=CC(=C1CC2=CC(=C(C=C2)O)C(C)C)C)OCC(=O)O
 Praseodymium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[O-]Br(=O)=O.[Pr+3]
 Praseodymium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[O-]Br(=O)=O.[Pr+3].O.O.O.O
 Praseodymium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[O-]Br(=O)=O.[Pr+3].O.O.O.O.O.O.O.O.O
 Polonium(IV) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Po+4]
 Polonium tetrabromide	Br[Po](Br)(Br)Br
+Eprotirome	CC(C)C1=C(C=CC(=C1)OC2=C(C=C(C=C2Br)NC(=O)CC(=O)O)Br)O
 Vanadium(II) fluoride	[F-].[F-].[V+2]
 Tantalum(IV) iodide	[I-].[I-].[I-].[I-].[Ta+4]
+Technetium(III) iodide	[Tc+3].[I-].[I-].[I-]
 3,4-MDO-U-47700	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=C(C=C2)OCO3
+U-48800	CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl
