@@ -226,7 +226,7 @@ Threonine	C[C@H]([C@@H](C(=O)O)N)O
 Threonine	C[C@H]([C@@H](C(=O)[O-])[NH3+])O
 Valine	CC(C)[C@@H](C(=O)O)N
 Valine	CC(C)[C@@H](C(=O)[O-])[NH3+]
-Alpha-Methyltryptamine	NC(CC1=CNC2=C1C=CC=C2)C
+Α-Methyltryptamine	NC(CC1=CNC2=C1C=CC=C2)C
 Formaldehyde	C=O
 Acetonitrile	CC#N
 Potassium nitrate	[K+].[O-][N+]([O-])=O
@@ -4114,7 +4114,7 @@ Sebacoyl chloride	ClC(=O)CCCCCCCC(=O)CCl
 Cytisine	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
 Parecoxib	O=C(NS(=O)(=O)c3ccc(c2c(onc2c1ccccc1)C)cc3)CC
 Silicon tetrafluoride	F[Si](F)(F)F
-Tetrazolium chloride	[Cl-].c4ccc(c3nn(c1ccccc1)[n+](c2ccccc2)n3)cc4
+Tetrazolium chloride	[Cl-].n1c[nH+]nn1
 Silver acetate	CC(=O)[O-].[Ag+]
 Silver acetate	C[C-]0O[Ag+]O[C-](C)O[Ag]O0
 Silver acetate	C[C-]0O[Ag+]1O[C-](C)O[Ag]1O0
@@ -18374,7 +18374,7 @@ Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
 Eburicol	C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Lutetium (177Lu) chloride	[Cl-].[Cl-].[Cl-].[177Lu+3]
 Lutetium (177Lu) oxodotreotide	CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)NC(C(C)O)C(=O)O)O.[Lu+3]
-Alpha-isomethyl ionone	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
+Α-Isomethyl ionone	CC(=O)C(\C)=C\C1C(C)=CCCC1(C)C
 Aluminium monoacetate	CC(=O)[O-].[OH-].[OH-].[Al+3]
 Selpercatinib	COc1ccc(CN2C3CC2CN(c2ccc(-c4cc(OCC(C)(C)O)cn5ncc(C#N)c45)cn2)C3)cn1
 Phenazolam	CC1=NN=C2N1C3=C(C=C(C=C3)Br)C(=NC2)C4=CC=CC=C4Cl
@@ -18601,7 +18601,7 @@ A-242	CCN(CC)C(=N[P](C)(F)=O)N(CC)CC
 Hexaphosphabenzene	P1=PP=PP=P1
 5,6-Dihydro-5(α-thyminyl)thymine	CC1(CNC(=O)NC1=O)CC2=CNC(=O)NC2=O
 Radium sulfate	[O-]S(=O)(=O)[O-].[Ra]
-Technetium trichloride	[Cl-].[Cl-].[Cl-].[Tc+3]
+Technetium(III) chloride	[Cl-].[Cl-].[Cl-].[Tc+3]
 O-Mustard	C(CSCCCl)OCCSCCCl
 Hexafluorocyclobutene	C1(=C(C(C1(F)F)(F)F)F)F
 Hexafluorobutadiene	C(=C(F)F)(C(=C(F)F)F)F
@@ -20258,7 +20258,7 @@ Ethyl lauroyl arginate hydrochloride	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC.Cl
 Osmium(III) bromide	[Os+2].[Br-].[Br-].[Br-]
 Osmium heptafluoride	F[Os](F)(F)(F)(F)(F)F
 GS-7	CSP(=O)(N)SC
-Technetium pentafluoride	F[Tc](F)(F)(F)F
+Technetium(V) fluoride	F[Tc](F)(F)(F)F
 Precoccinelline	CC1C[C@H]2CCCC3N2[C@H](C1)CCC3
 Chloroethylene oxide	C1C(O1)Cl
 MSPI (nerve agent)	C[N+]1=CN(C=C1)P(=O)([O-])SC
@@ -20580,3 +20580,5 @@ Tantalum(IV) iodide	[I-].[I-].[I-].[I-].[Ta+4]
 Technetium(III) iodide	[Tc+3].[I-].[I-].[I-]
 3,4-MDO-U-47700	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=C(C=C2)OCO3
 U-48800	CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl
+Etonitazene 5-acetyl analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)OCC
+Etonitazene 5-cyano analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
