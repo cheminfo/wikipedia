@@ -9561,7 +9561,7 @@ Silver bromate	[Ag+].[O-]Br(=O)=O
 Pimavanserin	CC(C)COc3ccc(cc3)CNC(=O)N(C(CC2)CCN2C)Cc(cc1)ccc1F
 Bisulepin	CN(C)CC\C=C1\c2ccsc2SCc2ccccc12
 Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
-Alpha-Methylserotonin	c2cc(O)cc1c2[nH]cc1CC(N)C
+Α-Methylserotonin	c2cc(O)cc1c2[nH]cc1CC(N)C
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
 AC-262,536	OC1C[C@@H]2CC[C@H](C1)N2c3ccc(C#N)c4ccccc34
@@ -10777,7 +10777,7 @@ Maritimein	C1=CC(=C(C=C1/C=C\2/C(=O)C3=C(O2)C(=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]
 Arsenicin A	[As@@]1(O2)C[As@](O[As@]2C3)O[As@]3C1
 Marein	C1=CC(=C(C=C1C=CC(=O)C2=C(C(=C(C=C2)OC3C(C(C(C(O3)CO)O)O)O)O)O)O)O
 Selank	NCCCCC(C(=O)N1CCCC1C(=O)NC(C(=O)N2CCCC2C(=O)NCC(=O)N3CCCC3C(=O)O)CCCNC(=N)N)NC(C(C(C)O)N)=O
-4-Me-αMT	CC(N)Cc2c1c([nH]c2)cccc1C
+4-Methyl-α-methyltryptamine	CC(N)Cc2c1c([nH]c2)cccc1C
 Pivagabine	CC(C)(C)C(=O)NCCCC(O)=O
 Acefylline	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C
 Lenperone	C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCCC(=O)C3=CC=C(C=C3)F
@@ -12924,6 +12924,7 @@ Pingyangmycin	C[C@@H](O)[C@H](NC(=O)[C@@H](C)[C@H](O)[C@@H](C)NC(=O)[C@@H](NC(=O
 Tedalinab	CC(C)(C)NC(=O)C1=NN(C2=C1[C@@H]3CC[C@H]2C3)C4=C(C=C(C=C4)F)F
 Cofactor F430	CC12CC(=O)NC13CC4C(C(C(=N4)CC5C(C6CCC(=O)C(=C7C(C(C(=CC(=N3)C2CCC(=O)O)[N-]7)CC(=O)O)CCC(=O)O)C6=N5)CC(=O)O)(C)CC(=O)N)CCC(=O)O.[Ni]
 2,4-Bis(4-hydroxybenzyl)phenol	c2cc(O)ccc2Cc1cc(ccc1O)Cc3ccc(O)cc3
+Germanium(II) iodide	I[Ge]I
 5-Methylcytidine	O=C1/N=C(/N)\C(=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)C
 Asunaprevir	O=C(N5[C@H](C(=O)N[C@@]2(C(=O)NS(=O)(=O)C1CC1)[C@H](\C=C)C2)C[C@@H](Oc3ncc(OC)c4c3cc(Cl)cc4)C5)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C
 Menabitan	CCCCCC(C)C(C)C1=CC2=C(C3=C(CCN(C3)CC#C)C(O2)(C)C)C(=C1)OC(=O)C(C)CCN4CCCCC4C
@@ -20582,3 +20583,4 @@ Technetium(III) iodide	[Tc+3].[I-].[I-].[I-]
 U-48800	CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl
 Etonitazene 5-acetyl analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)OCC
 Etonitazene 5-cyano analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
+Putylone	CCCNC(CC)C(=O)C1=CC2=C(C=C1)OCO2
