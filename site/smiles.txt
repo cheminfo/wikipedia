@@ -2449,7 +2449,7 @@ Triamcinolone diacetate	CC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([
 Ganciclovir	O=C2/N=C(\Nc1n(cnc12)COC(CO)CO)N
 Valganciclovir	O=C(OCC(OCn1c2N\C(=N/C(=O)c2nc1)N)CO)[C@@H](N)C(C)C
 Timolol	CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1
-AMPT	O=C(O)C(N)(Cc1ccc(O)cc1)C
+Α-Methyl-p-tyrosine	O=C(O)C(N)(Cc1ccc(O)cc1)C
 Bronopol	[O-][N+](=O)C(Br)(CO)CO
 Iron(III) bromide	[Fe](Br)(Br)Br
 Terazosin	O=C(N3CCN(c2nc1cc(OC)c(OC)cc1c(n2)N)CC3)C4OCCC4
@@ -6055,7 +6055,7 @@ Parafluorofentanyl	Fc1ccc(cc1)N(C(=O)CC)C3CCN(CCc2ccccc2)CC3
 Thiofentanyl	O=C(CC)N(C1CCN(CCC2=CC=CS2)CC1)C3=CC=CC=C3
 Betahydroxythiofentanyl	CCC(=O)N(c1ccccc1)C2CCN(CC2)CC(c3cccs3)O
 3-Methylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2C)CCc3sccc3)CC
-Alphamethylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2)C(Cc3sccc3)C)CC
+Α-Methylthiofentanyl	O=C(N(c1ccccc1)C2CCN(CC2)C(Cc3sccc3)C)CC
 Betahydroxyfentanyl	O=C(N(c1ccccc1)C3CCN(CC(O)c2ccccc2)CC3)CC
 Hydroxypethidine	O=C(OCC)C2(c1cccc(O)c1)CCN(C)CC2
 Aluminium diboride	B1=B[Al]1
@@ -9299,7 +9299,7 @@ Nitropentadecene	CCCCCCCCCCCCC/C=C/[N+](=O)[O-]
 Tidiacic	C1C(NC(S1)C(=O)O)C(=O)O
 MPPF	COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4=CC=C(C=C4)F
 Bicine	O=C(O)CN(CCO)CCO
-Alpha-Methylstyrene	CC(=C)c1ccccc1
+Α-Methylstyrene	CC(=C)c1ccccc1
 Xanthinol	O=C2N(c1ncn(c1C(=O)N2C)CC(O)CN(CCO)C)C
 Vanadium(III) iodide	[V](I)(I)I
 Epiandrosterone	O=C2[C@]1(CC[C@H]3[C@H]([C@@H]1CC2)CC[C@H]4C[C@@H](O)CC[C@]34C)C
@@ -11078,7 +11078,7 @@ Gold(III) hydroxide	O[Au](O)O
 Gold(III) hydroxide	[OH-].[OH-].[OH-].[Au+3]
 Etolorex	Clc1ccc(cc1)CC(NCCO)(C)C
 Ketipramine	O=C3c1c(cccc1)N(c2c(cccc2)C3)CCCN(C)C
-Bromadoline	CN([C@H]1CCCC[C@@H]1NC(C2=CC=C(C=C2)Br)=O)C
+Bromadoline	CN(C)[C@@H]1CCCC[C@H]1NC(=O)C2=CC=C(C=C2)Br
 Rhodotorulic acid	CC(=O)N(CCCC1C(=O)NC(C(=O)N1)CCCN(C(=O)C)O)O
 1,2-Dimethylcyclopropane	CC1CC1C
 Isoglutamine	O=C(N)C(N)CCC(=O)O
@@ -14102,6 +14102,9 @@ Landomycinone	Cc1cc2c(c(c1)O)C3=C([C@@H](C2)O)C(=O)c4c(ccc(c4C3=O)O)O
 Acetylfentanyl	CC(N(C1=CC=CC=C1)C2CCN(CCC3=CC=CC=C3)CC2)=O
 Neokadsuranin	C[C@@H]1[C@@H]([C@H]2C3=CC(=C(C(=C3C4=C(C5=C(C=C4[C@@H]1O2)OCO5)OC)OC)OC)OC)C
 Gomisin A	C[C@H]1CC2=CC3=C(C(=C2C4=C(C(=C(C=C4C[C@]1(C)O)OC)OC)OC)OC)OCO3
+Interiotherin	C[C@H]1CC2=CC3=C(C(=C2C4=C(C5=C(C=C4[C@@H]([C@H]1C)OC(=O)C6=CC=CC=C6)OCO5)OC)OC)OCO3
+Interiotherin	C/C=C(/C)\C(=O)O[C@@H]1[C@H]([C@H]([C@H](C2=CC3=C(C(=C2C4=C(C(=C(C=C14)OC)OC)OC)OC)OCO3)OC(=O)C)C)C
+Interiotherin	C/C=C(/C)\C(=O)O[C@@H]1[C@@H]([C@@H](/C=C\2/C=C(C(=O)C(=O)[C@@]23COC4=C3C1=CC5=C4OCO5)OC)C)C
 Steganacin	CC(=O)O[C@H]1[C@@H]2COC(=O)[C@H]2CC3=CC(=C(C(=C3C4=CC5=C(C=C14)OCO5)OC)OC)OC
 Steganacin	CC(=O)O[C@H]1c2cc3c(cc2-c4c(cc(c(c4OC)OC)OC)C[C@@H]5[C@@H]1COC5=O)OCO3
 Hydroxymatairesinol	COC1=C(C=CC(=C1)C[C@@H]2[C@H](COC2=O)[C@@H](C3=CC(=C(C=C3)O)OC)O)O
@@ -17383,6 +17386,7 @@ Rhenium diselenide	[Se]=[Re]=[Se]
 Rhenium disulfide	S=[Re]=S
 Rhenium ditelluride	[Te]=[Re]=[Te]
 Deoxyadenosyl radical	[CH2]C1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
+Sodium cobalt oxide	[Na+].[Co+3].[O-2].[O-2]
 AGH-107	CCn1cncc1-c1c[nH]c2ccc(I)cc12
 Methyldichlorophosphine	CP(Cl)Cl
 Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+].[Na+]
