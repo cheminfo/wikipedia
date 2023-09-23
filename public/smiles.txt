@@ -9242,7 +9242,7 @@ Fluoroacetamide	C(C(=O)N)F
 1,3-Difluoro-2-propanol	FCC(O)CF
 Crimidine	Cc1cc(N(C)C)nc(Cl)n1
 Norbormide	OC(C1=CC2C3C(C1\C2=C(/C1=CC=CC=C1)C1=CC=CC=N1)C(=O)NC3=O)(C1=CC=CC=C1)C1=NC=CC=C1
-Alpha-Naphthylthiourea	S=C(N)Nc2cccc1ccccc12
+Α-Naphthylthiourea	S=C(N)Nc2cccc1ccccc12
 Pyrinuron	[O-][N+](=O)c1ccc(cc1)NC(=O)NCc2cccnc2
 Phosacetim	C/C(=N\P(=S)(OC1=CC=C(C=C1)Cl)OC2=CC=C(C=C2)Cl)N
 Scilliroside	CC(=O)O[C@@H]1C[C@@]2([C@H](CC[C@]3([C@@]2(CC[C@@H]3c4ccc(=O)oc4)O)C)[C@@]5(C1=C[C@H](CC5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)O
@@ -11817,7 +11817,7 @@ A-796,260	C4COCCN4CCn(c3ccccc13)cc1C(=O)C2C(C)(C)C2(C)C
 Org 27569	CCc1c2cc(Cl)ccc2[nH]c1C(=O)NCCc3ccc(cc3)N4CCCCC4
 SER-601	CC(C)c5ccc(c1c5)n(CCCCC)cc(c1=O)C(=O)NC4(C2)CC(CC2C3)CC3C4
 Beta-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(O)=O)=O)=O)=O)=O)=O)=O)=O)=O
-Alpha-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(N[C@H](C(O)=O)CCCCN)=O)=O)=O)=O)=O)=O)=O)=O)=O
+Α-Neoendorphin	N[C@@H](CC1=CC=C(O)C=C1)C(NCC(NCC(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCCN)C(N[C@@H](CC3=CC=C(O)C=C3)C(N4CCC[C@H]4C(N[C@H](C(O)=O)CCCCN)=O)=O)=O)=O)=O)=O)=O)=O)=O
 Nitrosyl azide	[N-]=[N+]=NN=O
 AM-1221	CN1CCCCC1CN2C=C(C3=C2C=C(C=C3)[N+](=O)[O-])C(=O)C4=CC=CC5=CC=CC=C54
 AM-630	C4COCCN4CCn(c1C)c2cc(I)ccc2c1C(=O)c3ccc(OC)cc3
@@ -13281,6 +13281,7 @@ O-Coumaric acid	C1=CC=C(C(=C1)C=CC(=O)O)O
 M-Coumaric acid	C1=CC(=CC(=C1)O)/C=C/C(=O)O
 Callicarpenal	O=CC[C@@]2([C@@H]1[C@](/C(=C\CC1)C)(CC[C@H]2C)C)C
 5-Methyl-7-methoxyisoflavone	O=C\1c3c(O/C=C/1c2ccccc2)cc(OC)cc3C
+Germanium(IV) iodide	[Ge](I)(I)(I)I
 Demephion	S=P(OC)(OCCSC)OC
 Demephion	O=P(OC)(OC)SCCSC
 BAY-29952	S=P(Oc1ccc(SC)cc1)(OCC)C
@@ -13981,6 +13982,11 @@ Halicylindramide	C[C@H]([C@@H](C(=O)N(C)[C@@H](CCC(=O)N)C(=O)N[C@H](CC1=CC=CC=C1
 Theonellamide F	C[C@@H]([C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CC(=O)N[C@H](C(=O)N[C@@H]2CN3C=C(C[C@@H](C(=O)N1)NC(=O)C[C@@H](C[C@H](NC(=O)CCNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CC(=O)N)[C@H](C(=O)N)O)CC4=CC=C(C=C4)Br)C(=O)O)O)N=C3)CO)[C@H](/C=C(\C)/C=C/C5=CC=C(C=C5)Br)O)CC6=CC=CC=C6)CO)O
 Hectochlorin	C[C@H]1[C@@H](OC(=O)C2=CSC(=N2)[C@H](C(OC(=O)C3=CSC(=N3)[C@@H](OC1=O)C(C)(C)O)(C)C)OC(=O)C)CCCC(C)(Cl)Cl
 Neamphamide A	C[C@@H]1[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)NC(C(=O)N[C@@H](C(=O)N2CCCC[C@H]2C(=O)O1)CC(=O)N)C(C3=CC=C(C=C3)O)OC)CCC(=O)N)C)CC(C)C)CCCN=C(N)N)[C@@H](C)O)NC(=O)[C@H]([C@@H](C)[C@@H](C)C(=O)N)NC(=O)C(C([C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)N)NC(=O)C(C)C(C(C)CC(C)C)O)O)O
+Mirabamide	CCC(C)/C=C(\C)/C=C\C(C(C)(C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)N)C(=O)N[C@@H]([C@@H](C)[C@@H](C)C(=O)N)C(=O)N[C@@H]1[C@H](OC(=O)[C@@H]2C[C@H](CCN2C(=O)[C@H](NC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC1=O)COC)C)C)[C@@H](C)O)[C@@H](C3=CC=C(C=C3)O[C@H]4[C@@H]([C@@H]([C@H]([C@@H](O4)C)O)O)O)OC)Cl)C(C)C)O)O
+Mirabamide	CCC(C)/C=C(\C)/C=C\C(C(C)(C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N/C(=C\C)/C(=O)N[C@@H]([C@@H](C)[C@@H](C)C(=O)N)C(=O)N[C@@H]1[C@H](OC(=O)[C@@H]2C[C@H](CCN2C(=O)[C@H](NC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC1=O)COC)C)C)[C@@H](C)O)[C@@H](C3=CC=C(C=C3)O[C@H]4[C@@H]([C@@H]([C@H]([C@@H](O4)C)O)O)O)OC)Cl)C(C)C)O)O
+Mirabamide	CCC(C)/C=C(\C)/C=C\C(C(C)(C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)N)C(=O)N[C@@H]([C@@H](C)[C@@H](C)C(=O)N)C(=O)N[C@@H]1[C@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@H](NC(=O)[C@@H](N(C(=O)[C@@H](NC(=O)CNC(=O)[C@H](NC1=O)COC)C)C)[C@@H](C)O)[C@@H](C3=CC=C(C=C3)O[C@H]4[C@@H]([C@@H]([C@H]([C@@H](O4)C)O)O)O)OC)C(C)C)O)O
+Mirabamide	CCC(C)\C=C(C)\C=C/C(O)C(C)(O)C(=O)NCC(=O)N\C(=C/C)C(=O)N[C@@H]([C@H](C)N)C(=O)N[C@@H]([C@@H](C)[C@@H](C)C(N)=O)C(=O)N[C@@H]1[C@H](OC(=O)[C@@H]2C[C@@H](Cl)CCN2C(=O)[C@H](NC(=O)[C@H]([C@@H](C)O)N(C)C(=O)[C@H](C)NC(=O)CNC(=O)[C@@H](COC)NC1=O)[C@H](OC)c1ccc(O[C@@H]2O[C@@H](C)[C@H](O)[C@@H](O)[C@H]2O)cc1)C(C)C
+Mirabamide	CCC(C)\C=C(C)\C=C/C(O)C(C)(O)C(=O)NCC(=O)NC([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)N)C(=O)N[C@@H]([C@@H](C)[C@@H](C)C(N)=O)C(=O)N[C@@H]1[C@H](OC(=O)[C@@H]2C[C@@H](Cl)CCN2C(=O)[C@H](NC(=O)[C@H]([C@@H](C)O)N(C)C(=O)[C@H](C)NC(=O)CNC(=O)[C@@H](COC)NC1=O)[C@H](OC)c1ccc(O)cc1)C(C)C
 Etamycin	C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2C[C@@H](C[C@@H]2C(=O)N(CC(=O)N(C(C(=O)N[C@H](C(=O)N([C@H](C(=O)O1)C3=CC=CC=C3)C)C)[C@@H](C)C(C)C)C)C)O)CC(C)C)NC(=O)C4=C(C=CC=N4)O
 Halocidin	CC(C)CC(C(=O)NC(CC(=O)N)C(=O)NC(CSSCC(C(=O)NC(C)C(=O)NC(CCCCN)C(=O)NCC(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)O)NC(=O)C(CC(=O)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(CC1=CN=CN1)NC(=O)C(CC2=CN=CN2)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(CC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CC3=CNC4=CC=CC=C43)N)C(=O)NC(C)C(=O)NC(CCCCN)C(=O)NCC(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)O)NC(=O)CNC(=O)C(CC5=CN=CN5)NC(=O)C(CC6=CN=CN6)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(C)N
 Styelin A	C[C@H]([C@@H](C(=O)N[C@@H](C)C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CN=CN3)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](C)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC5=CC=CC=C5)NC(=O)CN)O
@@ -20188,6 +20194,7 @@ Sodium benzenesulfonate	C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
 Lanthanum oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[La+3].[La+3]
 Bis(2-ethylhexyl)tetrabromophthalate	CCCCC(CC)COC(=O)C1=C(C(=C(C(=C1Br)Br)Br)Br)C(=O)OCC(CC)CCCC
 14-Hydroxygelsenicine	CCC1=NC2CC3(C4C(C1C2CO4)O)C5=CC=CC=C5N(C3=O)OC
+Inavolisib	C[C@@H](C(=O)N)NC1=CC2=C(C=C1)C3=NC(=CN3CCO2)N4[C@@H](COC4=O)C(F)F
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.[Sm+3]
 Samarium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Sm+3]
