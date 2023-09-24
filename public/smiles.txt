@@ -16856,7 +16856,7 @@ Murodermin	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)
 Nepidermin	CC[C@H](C)[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CS)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CC4=CNC5=CC=CC=C54)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CS)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CS)NC(=O)[C@H](C)NC(=O)[C@H](CC7=CC=C(C=C7)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC8=CC=C(C=C8)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CS)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC9=CN=CN9)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CS)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)N
 ONX-0801	C#CCN(c1ccc(C(=O)N[C@@H](CCC(=O)N[C@H](CCC(=O)O)C(=O)O)C(=O)O)cc1)[C@H]4CCc3cc2nc(CO)[nH]c(=O)c2cc34
 NNI-351	CCOC1=CC2=C(C=C1)N=C(C(=C2)C#N)N3CCCN(CC3)C(=S)NC4=CC=CC=C4F
-Estrin (compound)	C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC=CC=C4[C@H]3CC2
+Estrin (molecule)	C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC=CC=C4[C@H]3CC2
 Trifluoroacetone	CC(=O)C(F)(F)F
 Trifluoromethanol	C(O)(F)(F)F
 Hippulin	C[C@]12CCC3=C([C@@H]1CCC2=O)CCc4c3ccc(c4)O
@@ -17350,7 +17350,6 @@ Hexa-cata-hexabenzocoronene	C1=CC=C2C(=C1)C3=C4C5=C2C6=CC=CC=C6C7=C5C8=C(C9=CC=C
 Chlorphenacemide	C1=CC=C(C=C1)C(C(=O)NC(=O)N)Cl
 Tributyltin chloride	CCCC[Sn](CCCC)(CCCC)Cl
 Bimakalim	CC1(C=C(c2cc(ccc2O1)C#N)n3ccccc3=O)C
-Kagome metal	[Fe].[Fe].[Fe].[Sn].[Sn]
 EA-3990	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCC[N+](C)(C)Cc2ncccc2OC(=O)N(C)C
 EA-4056	[Br-].[Br-].CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCC[N+](C)(C)Cc2ncccc2OC(=O)N(C)C
 T-1123	CC[N+](C)(CC)C1=CC(=CC=C1)OC(=O)NC.[I-]
@@ -20607,3 +20606,4 @@ Etonitazene 5-acetyl analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)
 Etonitazene 5-cyano analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
 Putylone	CCCNC(CC)C(=O)C1=CC2=C(C=C1)OCO2
 SR-14968	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC(=C(C=C4NC3=O)Cl)Cl
+Triiron ditin intermetallic	[Fe].[Fe].[Fe].[Sn].[Sn]
