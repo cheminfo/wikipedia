@@ -814,7 +814,7 @@ Amitriptyline	c3cc2c(/C(c1c(cccc1)CC2)=C\CCN(C)C)cc3
 Dinitrogen pentoxide	[O-][N+](=O)O[N+]([O-])=O
 Clopidogrel	COC(=O)[C@H](c1ccccc1Cl)N2CCc3c(ccs3)C2
 Chlorate	O=Cl(=O)[O-]
-Xenon tetroxide	[O-][Xe+4]([O-])([O-])[O-]
+Xenon tetroxide	[O-] [Xe+4]([O-])([O-])[O-]
 Itraconazole	O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OC[C@@H]3O[C@](OC3)(c4ccc(Cl)cc4Cl)Cn5ncnc5)cc6)CC7)C(C)CC
 Dihydrotestosterone	O=C4C[C@@H]3CC[C@@H]2[C@H](CC[C@]1(C)[C@@H](O)CC[C@H]12)[C@@]3(C)CC4
 Ammonia solution	[OH2].[NH3]
@@ -1146,7 +1146,6 @@ Aniracetam	O=C2N(C(=O)c1ccc(OC)cc1)CCC2
 Oxiracetam	O=C(N)CN1C(=O)CC(O)C1
 Pramiracetam	O=C1N(CC(=O)NCCN(C(C)C)C(C)C)CCC1
 Etiracetam	CCC(C(=O)N)N1CCCC1=O
-2,4-Dinitrophenol	c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])O
 Nefiracetam	O=C2N(CC(=O)Nc1c(cccc1C)C)CCC2
 Rolziracetam	O=C2N1C(=O)CCC1CC2
 Nebracetam	O=C2N(Cc1ccccc1)CC(C2)CN
@@ -1464,7 +1463,7 @@ Adefovir	O=P(O)(O)COCCn1c2ncnc(c2nc1)N
 Tantalum carbide	[Ta+]#[C-]
 Tantalum carbide	[C].[Ta].[Ta]
 Terpyridine	c1ccnc(c1)c2cccc(n2)c3ccccn3
-Zirconium tungstate	[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O-].[Zr+4]
+Zirconium tungstate	[O-] [W](=O)(=O)[O-].[O-] [W](=O)(=O)[O-].[Zr+4]
 Lithium chloride	[Li+].[Cl-]
 Acrolein	O=CC=C
 Memantine	NC12CC3(CC(C1)(CC(C2)C3)C)C
@@ -2427,7 +2426,7 @@ Hexamethylene triperoxide diamine	C1N2COOCN(COO1)COOC2
 Methacholine	[Cl-].O=C(OC(C)C[N+](C)(C)C)C
 Etoposide	C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@@H]3c4cc5c(cc4[C@H]([C@@H]6[C@@H]3COC6=O)c7cc(c(c(c7)OC)O)OC)OCO5)O)O
 Nefazodone	Clc4cccc(N3CCN(CCCN1/N=C(\N(C1=O)CCOc2ccccc2)CC)CC3)c4
-Sodium aluminosilicate	[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Na+].[Al+3]
+Sodium aluminosilicate	[O-] [Si](=O)[O-].[O-] [Si](=O)[O-].[Na+].[Al+3]
 Neopterin	O=C2\N=C(/Nc1ncc(nc12)[C@H](O)[C@H](O)CO)N
 Neopterin	C1=C(N=C2C(=N1)NC(=NC2=O)N)C(C(CO)O)O
 Hydroxytropacocaine	O=C(O[C@@H]1C[C@@H]2N(C)[C@](O)(C1)CC2)c3ccccc3
@@ -2746,7 +2745,7 @@ Isocyanic acid	O=C=N
 Isocyanic acid	OC#N
 Dacarbazine	CN(C)N=Nc1[nH]cnc1C(N)=O
 Nitrosonium	N#[O+]
-Sodium molybdate	[O-][Mo](=O)(=O)[O-].[Na+].[Na+]
+Sodium molybdate	[O-] [Mo](=O)(=O)[O-].[Na+].[Na+]
 Sodium tungstate	[O-][W](=O)(=O)[O-].[Na+].[Na+]
 Acetohexamide	O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(C(=O)C)cc2
 Iron(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Fe+2].[Fe+2].[Fe+2]
@@ -3364,7 +3363,7 @@ Geranylgeranyl pyrophosphate	O=P(O)(O)OP(=O)(O)OC/C=C(/CC\C=C(/C)CC\C=C(/C)CC\C=
 Clenbuterol	Clc1cc(cc(Cl)c1N)C(O)CNC(C)(C)C
 Anthrone	O=C2c1c(cccc1)Cc3c2cccc3
 Dextromoramide	C[C@H](CN1CCOCC1)C(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1
-Sodium orthovanadate	[O-][V](=O)([O-])[O-].[Na+].[Na+].[Na+]
+Sodium orthovanadate	[O-] [V](=O)([O-])[O-].[Na+].[Na+].[Na+]
 Copper(II) triflate	[Cu+2].FC(F)(F)S([O-])(=O)=O.FC(F)(F)S([O-])(=O)=O
 Tetramethrin	O=C1\C3=C(/C(=O)N1COC(=O)C2C(\C=C(/C)C)C2(C)C)CCCC3
 Sulpiride	NS(=O)(=O)c1ccc(OC)c(c1)C(=O)NCC1CCCN1CC
@@ -3830,7 +3829,7 @@ Uranyl chloride	O.O.O.O=[U+2]=O.[Cl-].[Cl-]
 Caffeine citrate	CN1C=NC2=C1C(=O)N(C(=O)N2C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
-Xenon trioxide	[O-][Xe+3]([O-])[O-]
+Xenon trioxide	[O-] [Xe+3]([O-])[O-]
 Chlorosulfuric acid	ClS(=O)(=O)O
 Deferasirox	OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O
 Sulindac	O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
@@ -6677,7 +6676,7 @@ Cymarin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)CC[C@H]4[C@H]6CC[C@]5(O)C[C@@H](
 Gitoformate	CC1C(C(CC(O1)OC2C(OC(CC2OC=O)OC3C(OC(CC3OC=O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CC(C7C8=CC(=O)OC8)OC=O)O)C)C)C)C)OC=O)OC=O
 Lanatoside C	C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@]3([C@@H](C2)CC[C@@H]4[C@@H]3C[C@H]([C@]5([C@@]4(CC[C@@H]5C6=CC(=O)OC6)O)C)O)C)O)O[C@H]7C[C@@H]([C@@H]([C@H](O7)C)O[C@H]8C[C@@H]([C@@H]([C@H](O8)C)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)OC(=O)C)O
 Α-Acetyldigoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]7[C@H]8CC[C@H]6[C@]7(C)CC[C@H](O[C@@H]5O[C@H](C)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@@H]3O[C@@H]([C@@H](O)[C@@H](OC(=O)C)C3)C)[C@@H](O)C4)C)[C@@H](O)C5)C6
-Strontium peroxide	[O-][O-].[Sr+2]
+Strontium peroxide	[O-] [O-].[Sr+2]
 N-Methylphenethylamine	CNCCc1ccccc1
 2-C-Methylerythritol 4-phosphate	CC(CO)(C(COP(=O)(O)O)O)O
 1-Deoxy-D-xylulose 5-phosphate	O=P(O)(O)OC[C@@H](O)[C@H](O)C(=O)C
@@ -11419,7 +11418,7 @@ Trimethylsulfoxonium iodide	O=[S+](C)(C)C.[I-]
 PF-03654746	CCNC(=O)[C@H]1C[C@@](C1)(F)C2=CC(=C(C=C2)CN3CCCC3)F
 3,4,5-Tri-O-galloylquinic acid	c1c(c(c(cc1C(=O)O[C@H]2[C@@H]([C@@H](C[C@@](C2)(O)C(=O)O)OC(=O)c3cc(c(c(c3)O)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O)O)O
 Myristamine oxide	[O-][N+](C)(C)CCCCCCCCCCCCCC
-Trisilane	[SiH3][SiH2][SiH3]
+Trisilane	[SiH3] [SiH2] [SiH3]
 4-Phenylfentanyl	c3ccccc3CCN(CC2)CCC2(c1ccccc1)N(C(=O)CC)c4ccccc4
 Nafimidone	C1=CC=C2C=C(C=CC2=C1)C(=O)CN3C=CN=C3
 4-Fluoropethidine	FC1=CC=C(C2(CCN(C)CC2)C(OCC)=O)C=C1
@@ -11449,7 +11448,7 @@ BRL-54443	Oc3ccc1c(c(c[nH]1)C2CCN(C)CC2)c3
 Chlorophenylbiguanide	c1ccc(Cl)cc1NC(=N)NC(=N)N
 Purpurogallin	C1=CC(=O)C(=C2C(=C1)C=C(C(=C2O)O)O)O
 CY-208,243	c15c4[nH]cc5CC2C(c1ccc4)c3ccccc3CN2C
-Sulfur mononitride	[N+][S-]
+Sulfur mononitride	[N+] [S-]
 Δ-Carotene	CC1=CCCC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C)C)C)(C)C
 Silver phosphate	[O-]P(=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 Glycine propionyl-L-carnitine	[NH3+]CC([O-])=O.CCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
@@ -14462,6 +14461,7 @@ Delsoline	CC[N@]1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H](C([C@H]31)([C@]5(C[C@@H](
 Chaetoxanthone	C[C@]12C[C@@H](C[C@H](O1)C3=C(O2)C=C4C(=C3O)C(=O)C5=C(O4)C=CC=C5OC)O
 Chaetoxanthone	CC12CCCC(O1)C3=C(O2)C=C4C(=C3O)C(=O)C5=C(O4)C=CC=C5OC
 Chaetoxanthone	C[C@@H]1CCC[C@@H](O1)C2=C(C(=C3C(=C2O)C(=O)C4=C(O3)C=CC=C4OC)Cl)O
+Chaetoxanthone	O(C)C=1C(=C2C(C(=O)C=3C(O2)=CC=CC3OC)=C(O)C1)[C@@H]4O[C@H](C)CCC4
 Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
 Oreobeiline	CN1CCC23CC(C(CC2C1CC4=CC(=C(C=C34)OC)O)O)OC
 Nostocarboline	C[N+]1=CC2=C(C=C1)C3=C(N2)C=CC(=C3)Cl
@@ -16778,7 +16778,7 @@ Promethium(III) fluoride	[F-].[F-].[F-].[Pm+3]
 Neptunium(III) fluoride	F[Np](F)F
 Neptunium(IV) fluoride	F[Np](F)(F)F
 Neptunium(V) fluoride	F[Np](F)(F)(F)F
-Wolffram's red salt	Cl[Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+][Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)Cl.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O
+Wolffram's red salt	Cl[Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)[Cl+] [Pt-3]([NH2+]CC)([NH2+]CC)([NH2+]CC)([NH2+]CC)Cl.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O
 Zhan catalyst	Cl[Ru]2(Cl)(C0N(-c1c(C)cc(C)cc1C)CCN0c1c(C)cc(C)cc1C)=Cc1cc(S(=O)(=O)N(C)C)ccc1[O+]2C(C)C
 Fezolinetant	C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C
 Vinyllithium	[Li]C=C
@@ -19333,6 +19333,7 @@ Ethyl hydroperoxide	CCOO
 Avacopan	CC1=CC=C(NC(=O)[C@H]2CCCN([C@H]2C2=CC=C(NC3CCCC3)C=C2)C(=O)C2=C(F)C=CC=C2C)C=C1C(F)(F)F
 2-MAPB	CC(CC1=CC2=CC=CC=C2O1)NC
 Curium(III) bromide	[Br-].[Br-].[Br-].[Cm]
+Potassium pertechnetate	[K+].[O-][Tc](=O)(=O)=O
 Regonyl	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC=CC4)C)C)C#C
 Pterorhodin	C(=C/1\C(=O)NC2=C(N1)N=C(NC2=O)N)\C3=NC4=C(C(=O)NC(=N4)N)NC3=O
 Potassium hypochromate	O=[Mn-3](=O)(=O)=O.[K+].[K+].[K+]
@@ -20326,7 +20327,7 @@ SCHEMBL19952957	C1CCC(C1)OC2=CC=C(C=C2)C3=NOC(=N3)C4=CC=C(C=C4)O
 Tetraoxidane	OOOO
 Pentaoxidane	OOOOO
 HOPO 14-1	O=C1C=CC=C(C(=O)NCCCN(C(=O)C2=CC=CC(=O)N2O)CCCCN(C(=O)C3=CC=CC(=O)N3O)CCCNC(=O)C4=CC=CC(=O)N4O)N1O
-Trihydrogen oxide	O.O.[H][H]
+Trihydrogen oxide	O.O.[H] [H]
 (2-Nitrophenyl)acetic acid	C1=CC=C(C(=C1)CC(=O)O)[N+](=O)[O-]
 Hexyl nitrite	CCCCCCON=O
 Dioxygen monofluoride	[O]OF
@@ -20606,4 +20607,6 @@ Etonitazene 5-acetyl analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)
 Etonitazene 5-cyano analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
 Putylone	CCCNC(CC)C(=O)C1=CC2=C(C=C1)OCO2
 SR-14968	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC(=C(C=C4NC3=O)Cl)Cl
+Pyranthrene (molecule)	C1=CC=C2C(=C1)C=C3C=CC4=CC5=C6C(=CC7=CC=CC=C75)C=CC8=CC2=C3C4=C86
 Triiron ditin intermetallic	[Fe].[Fe].[Fe].[Sn].[Sn]
+Caesium pertechnetate	[Cs+].[O-][Tc](=O)(=O)=O
