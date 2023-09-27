@@ -22,7 +22,7 @@ Cytosine	O=C1Nccc(N)n1
 Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
 Cholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
-Ciprofloxacin	C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+Ciprofloxacin	C1CNCCN1c(c2)c(F)cc3c2N(C4CC4)C=C(C3=O)C(=O)O
 Caffeine	CN1C=NC2=C1C(=O)N(C(=O)N2C)C
 Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
 Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP(=O)(O4)O)O)N
@@ -19613,7 +19613,7 @@ LY3372689	CC(NC1=NC(F)=C(CN2CC[C@H](OCC3=NOC(C)=N3)C[C@@H]2C)S1)=O
 Neodymium(III) sulfide	[S-2].[S-2].[S-2].[Nd+3].[Nd+3]
 Folipastatin	C/C=C(/C)\C1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=CC(=C3C)O)/C(=C\C)/C)C)O
 Neodymium(II) iodide	[I-].[I-].[Nd+2]
-Neodymium nitride	N#[Nd]
+Neodymium(III) nitride	N#[Nd]
 2,4,6-Trinitrobenzoic acid	C1=C(C=C(C(=C1[N+](=O)[O-])C(=O)O)[N+](=O)[O-])[N+](=O)[O-]
 Aigialomycin D	C[C@H]1C/C=C/[C@H]([C@H](CC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1)O)O
 1,4-Butanediol diglycidyl ether	C1C(O1)COCCCCOCC2CO2
@@ -20265,6 +20265,7 @@ Gallium perrhenate	[Ga+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O
 Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O
 Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.O.O.O.O
 Veratric acid	COC1=C(C=C(C=C1)C(=O)O)OC
+Pinealon	C(C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)N)CN=C(N)N
 Platinum(II) iodide	[Pt+2].[I-].[I-]
 T-1194	CC[N+](C)(C)C1=CC(=CC=C1)OC(=O)NC.[I-]
 Ethyl lauroyl arginate hydrochloride	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC.Cl
@@ -20602,3 +20603,5 @@ Triiron ditin intermetallic	[Fe].[Fe].[Fe].[Sn].[Sn]
 Caesium pertechnetate	[Cs+].[O-] [Tc](=O)(=O)=O
 4C-MAR	CC1C(OC(=N1)N)C2=CC=C(C=C2)Cl
 Etoetonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCCOCC
+2F-MAR	Fc1ccccc1C1OC(N)=NC1C
+Flunitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)F
