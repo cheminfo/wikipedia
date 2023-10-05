@@ -20378,6 +20378,9 @@ Alloisoleucine	CC[C@H](C)[C@H](C(=O)O)N
 Alloisoleucine	CCC(C)C(C(=O)O)N
 Disorazol	C/C=C/C(C(C)(C)C1C/C=C\C=C/C=CC(CC2=NC(=CO2)C(=O)OC(C/C=C\C3C(O3)/C=C/C=C\C4=NC(=CO4)C(=O)O1)C(C)(C)C(/C=C/C)O)OC)O
 Ethenedithione	C(=C=S)=S
+Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)N)O
+Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)N)O)O)O
+Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)N)O)O
 Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
 2-Phenyl-2-propanol	CC(C)(C1=CC=CC=C1)O
@@ -20616,3 +20619,5 @@ Cod-THC	CN1CC[C@@]23c4c5C[C@@H]1[C@@H]2C=C[C@H](OC(=O)Oc1cc(CCCCC)cc2OC(C)(C)[C@
 Deuremidevir	[2H]c2cc([C@]1(C#N)O[C@H](COC(=O)C(C)C)[C@@H](OC(=O)C(C)C)[C@H]1OC(=O)C(C)C)n3ncnc(N)c23
 Soticlestat	C1CN(CCC1(CC2=CC=CC=C2)O)C(=O)C3=C(N=CC=C3)C4=CC=NC=C4
 Tricyclodecane	C1CC2C3CCC(C3)C2C1
+SLU-PP-332	C1=CC=C2C=C(C=CC2=C1)/C=N\NC(=O)C3=CC=C(C=C3)O
+Oleandrose	C[C@@H]([C@@H]([C@H](CC=O)OC)O)O
