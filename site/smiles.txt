@@ -19490,7 +19490,7 @@ ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
 (Trimethylsilyl)methyl chloride	C[Si](C)(C)CCl
 Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 1,1,6-Trimethyl-1,2-dihydronaphthalene	CC1=CC2=C(C=C1)C(CC=C2)(C)C
-3,5-Difluoro-4-hydroxybenzylidene imidazolidinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
+3,5-Difluoro-4-hydroxybenzylidene imidazolinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
 Lithium arsenide	[Li][As]
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
 3,5-Difluoromethcathinone	CC(C(=O)C1=CC(=CC(=C1)F)F)NC
@@ -20622,3 +20622,4 @@ Soticlestat	C1CN(CCC1(CC2=CC=CC=C2)O)C(=O)C3=C(N=CC=C3)C4=CC=NC=C4
 Tricyclodecane	C1CC2C3CCC(C3)C2C1
 SLU-PP-332	C1=CC=C2C=C(C=CC2=C1)/C=N\NC(=O)C3=CC=C(C=C3)O
 Oleandrose	C[C@@H]([C@@H]([C@H](CC=O)OC)O)O
+4B-MAR	CC1C(OC(=N1)N)C2=CC=C(C=C2)Br
