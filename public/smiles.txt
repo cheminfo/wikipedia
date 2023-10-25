@@ -20643,3 +20643,5 @@ Azobenzene dioxide	C1=CC=C(C=C1)N(=O)=N(=O)C2=CC=CC=C2
 4-Bromobenzaldehyde	C1=CC(=CC=C1C=O)Br
 4-Ethynylbenzaldehyde	C#CC1=CC=C(C=C1)C=O
 1-Bromo-4-iodobenzene	C1=CC(=CC=C1Br)I
+BrMT	C1=CC2=C(C=C1Br)NC(=C2CCN)CS
+Thioproline	C1[C@H](NCS1)C(=O)O
