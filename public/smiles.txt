@@ -20645,3 +20645,5 @@ Azobenzene dioxide	C1=CC=C(C=C1)N(=O)=N(=O)C2=CC=CC=C2
 1-Bromo-4-iodobenzene	C1=CC(=CC=C1Br)I
 BrMT	C1=CC2=C(C=C1Br)NC(=C2CCN)CS
 Thioproline	C1[C@H](NCS1)C(=O)O
+Thioproline	C1[C@H]([NH2+]CS1)C(=O)[O-]
+Chloryl tetraperchloratoaurate	O=Cl[O+].O=Cl(=O)(=O)[O-][Au+3]([O-]Cl(=O)(=O)=O)([O-]Cl(=O)(=O)=O)[O-]Cl(=O)(=O)=O
