@@ -3729,7 +3729,7 @@ Ethyl benzoate	O=C(OCC)c1ccccc1
 Dimethyl dicarbonate	O=C(OC)OC(=O)OC
 Pentamethylcyclopentadiene	CC1=C(C)C(C)C(C)=C1C
 Titanocene dichloride	[cH-]1cccc1.[cH-]1cccc1.Cl[Ti+2]Cl
-Pyrylium salt	[o+]1ccccc1
+Pyrylium	[o+]1ccccc1
 Gibberellic acid	O=C1O[C@@]52\C=C/[C@H](O)[C@]1([C@H]5[C@H](C(=O)O)[C@]43[C@H]2CC[C@@](O)(C(=C)C3)C4)C
 Stannabenzene	[H][Sn]1=CC=CC=C1
 Germabenzene	[H][Ge]1C=CC=CC=1
@@ -11510,7 +11510,7 @@ Pentadecylic acid	O=C(O)CCCCCCCCCCCCCC
 Scandium monosulfide	[Sc].[S]
 Famprofazone	O=C2\C(=C(/N(N2c1ccccc1)C)CN(C(C)Cc3ccccc3)C)C(C)C
 PSI-6130	C[C@]1([C@@H]([C@H](O[C@H]1n2ccc(nc2=O)N)CO)O)F
-Carbonite (ion)	[C]([O-])[O-]
+Carbonite ion	[C]([O-])[O-]
 Tafamidis	O=C(O)c3ccc1nc(oc1c3)-c2cc(Cl)cc(Cl)c2
 2-Methoxyethyl-18-methoxycoronaridinate	COCCOC(=O)C12CC(C4)CN(C2C4CCOC)CCc5c1[nH]c3ccccc35
 Cipargamin	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
@@ -13212,7 +13212,7 @@ Quinclorac	O=C(O)c1c(Cl)ccc2cc(Cl)cnc12
 Chelidonic acid	O=C\1/C=C(\O/C(C(=O)O)=C/1)C(=O)O
 Methanesulfonyl fluoride	CS(=O)(=O)F
 N-Methylserotonin	Oc1cc2c(cc1)[nH]cc2CCNC
-Sodium triacetoxyborohydride	[B-H](OC(=O)C)(OC(=O)C)OC(=O)C.[Na+]
+Sodium triacetoxyborohydride	[BH-](OC(=O)C)(OC(=O)C)OC(=O)C.[Na+]
 3-Pyridylnicotinamide	O=C(Nc1cccnc1)c2cccnc2
 SS220	C[C@H]1CCCCN1C(=O)[C@H]2CCC=CC2
 Propionitrile	CCC#N
@@ -20644,7 +20644,11 @@ Azobenzene dioxide	C1=CC=C(C=C1)N(=O)=N(=O)C2=CC=CC=C2
 4-Ethynylbenzaldehyde	C#CC1=CC=C(C=C1)C=O
 1-Bromo-4-iodobenzene	C1=CC(=CC=C1Br)I
 Iodal	C(=O)C(I)(I)I
+Methyl 4-iodobenzoate	COC(=O)C1=CC=C(C=C1)I
 BrMT	C1=CC2=C(C=C1Br)NC(=C2CCN)CS
 Thioproline	C1[C@H](NCS1)C(=O)O
 Thioproline	C1[C@H]([NH2+]CS1)C(=O)[O-]
 Chloryl tetraperchloratoaurate	O=Cl[O+].O=Cl(=O)(=O)[O-][Au+3]([O-]Cl(=O)(=O)=O)([O-]Cl(=O)(=O)=O)[O-]Cl(=O)(=O)=O
+Cadmium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cd+2]
+Copper(I) azide	[N-]=[N+]=[N-].[Cu+]
+Chloropentammineplatinum chloride	N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
