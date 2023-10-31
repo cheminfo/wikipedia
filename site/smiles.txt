@@ -2444,7 +2444,7 @@ Triamcinolone diacetate	CC(=O)OCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([
 Ganciclovir	O=C2/N=C(\Nc1n(cnc12)COC(CO)CO)N
 Valganciclovir	O=C(OCC(OCn1c2N\C(=N/C(=O)c2nc1)N)CO)[C@@H](N)C(C)C
 Timolol	CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1
-Α-Methyl-p-tyrosine	O=C(O)C(N)(Cc1ccc(O)cc1)C
+Α-Methyl-p-tyrosine	C[C@](Cc1ccc(cc1)O)(C(=O)O)N
 Bronopol	[O-][N+](=O)C(Br)(CO)CO
 Iron(III) bromide	[Fe](Br)(Br)Br
 Terazosin	O=C(N3CCN(c2nc1cc(OC)c(OC)cc1c(n2)N)CC3)C4OCCC4
@@ -5065,7 +5065,6 @@ Globoidnan A	c1cc(c(cc1C[C@H](C(=O)O)OC(=O)c2cc3cc(c(cc3c(c2)c4ccc(c(c4)O)O)O)O)
 TH-dimer	CC1C(C2CC1C3C2CCC3)C
 Queuine	C1=C[C@@H]([C@@H]([C@H]1NCC2=CNC3=C2C(=O)NC(=N3)N)O)O
 Tetraxenonogold(II)	[Xe+][Au-2]([Xe+])([Xe+])[Xe+]
-Metirosine	O=C(O)[C@@](N)(Cc1ccc(O)cc1)C
 Ammonium sulfamate	[O-]S(=O)(=O)N.[NH4+]
 Triplatin tetranitrate	[O-][N+]([O-])=O.[O-][N+]([O-])=O.Cl[Pt-2]([NH3+])([NH3+])[NH2+]CCCCCC[NH2+][Pt-2]([NH3+])([NH3+])[NH2+]CCCCCC[NH2+][Pt-2]([NH3+])([NH3+])Cl.[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Chlorodehydromethyltestosterone	O=C1\C=C/[C@]4(/C(=C1/Cl)CC[C@@H]3[C@@H]4CC[C@]2([C@H]3CC[C@@]2(O)C)C)C
@@ -15864,6 +15863,7 @@ Quadrosilan	C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C
 Anordrin	CCC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@](C4)(C#C)OC(=O)CC)C)C)C#C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
+Sodium lauryl sulfoacetate	CCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+]
 Bicalicene	C1=CC2=C3C=C3C4=CC=CC4=C5C=C5C2=C1
 Siponimod	CCC1=C(C=CC(=C1)C(=NOCC2=CC(=C(C=C2)C3CCCCC3)C(F)(F)F)C)CN4CC(C4)C(=O)O
 Tetrakis(cyclopentadienyl)uranium(IV)	[CH-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[U+4]
@@ -20652,3 +20652,6 @@ Chloryl tetraperchloratoaurate	O=Cl[O+].O=Cl(=O)(=O)[O-][Au+3]([O-]Cl(=O)(=O)=O)
 Cadmium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cd+2]
 Copper(I) azide	[N-]=[N+]=[N-].[Cu+]
 Chloropentammineplatinum chloride	N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
+Nickel azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ni+2]
+Cobalt(II) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Co+2]
+Chromium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cr+3]

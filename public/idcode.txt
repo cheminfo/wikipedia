@@ -2444,7 +2444,7 @@ edZPAH@AJfaick`PICHiEHhhhblXdicEeDXiyiXyDdUUUUSMUSTuMMUBPIAXPaJSrIPi@@	Triamcino
 fdyhP@DTxIPCAcdTRbbURTRYrRffZZjjh@@	Ganciclovir
 fikYP@DTxIUPFCGNQQJJIUIQIZZZLyISSMMUUSUUPK@@	Valganciclovir
 fjmIb@HHXFeo@BLdRRRbRTQrdpPwjVjjjjjh@@	Timolol
-dg^L@BAKR[kyWtvjh@H@@	Α-Methyl-p-tyrosine
+dg^L@BAKR[kyWtvjh@HcH@	Α-Methyl-p-tyrosine
 diFBaDinDLQI[dffVjZ`@	Bronopol
 gC`BAbQXVIlQIj`@	Iron(III) bromide
 fchP@DF]yHFCgdTTTRRUTRTVRRRdYVhy[ujjjj@H@Jj`@@	Terazosin
@@ -5065,7 +5065,6 @@ eb^PE@@@DMCCko`T\\bbTTRTRbLRbRRRTreJccTpsvtKTE@tP@@@EEE@DAD@@	Globoidnan A
 dc\@@DjYeTaXYVjjjj`@	TH-dimer
 fbmi`@D\EHpHyrJIQQJMJIPtyIPTmSMMUMUVKStR`@	Queuine
 gJPKQyQlSYfpm`ZRitfX~j@@	Tetraxenonogold(II)
-dg^L@BAKR[kyWtvjh@HcH@	Metirosine
 gFUhcXl@c]Ycrt@@	Ammonium sulfamate
 emVWCJIdLBMKGOFiec`RQ]kgohT\ZV^YUPGJBHL\ngHZH@YB\IHgRSFler_IZgiiiVdz[n^xFX^QxfZ^YxVY^U{IILTddeHbdddiAU@U@U@UJjjjjjjjjZZZZ@@@	Triplatin tetranitrate
 fnk@b@BUADYEEELhmBeMDhpVc^BdmKTuUUUUULXiHt]@iJ@@	Chlorodehydromethyltestosterone
@@ -15864,6 +15863,7 @@ feg@P`HHdXCaQpXxQ\LddRTtbdRWttrQhaRN]UPUUAE@A@@@	Quadrosilan
 e`\PB@@@DIklbbRdrdVQfRdrLRTJeg`VQWPsUU]UUUUUVuUBDKaJQrAIIEPZ@@	Anordrin
 fj}A`@@HJdwSON}krT{r\mUUUT@EP@@	Doisynolic acid
 ffcA`@@HJdwSON}kleN|gKUUPP@AT@@@	Doisynoestrol
+fjyAQBHHps`@`nacbsddeTrRRRRRBuMUUUT@@	Sodium lauryl sulfoacetate
 f`e@@@LdbbbTqrUALyIVcN}RtuMJsP@@	Bicalicene
 ejQTLL@Dg`lRPIABPpdLbdLTRTVRVrbfRfRtVTdT|bfVAaj`HJjjZ@BjjfH`@@	Siponimod
 fje@BE@GPCirn}q^pJI@qHFI@qHeIJ]{IP@@@@@@@@	Tetrakis(cyclopentadienyl)uranium(IV)
@@ -20652,3 +20652,6 @@ fam@ecHHpRRmFl{pXirUoP^UHadQrHEDUb@[Cd]cb]vRbHaDQDbDbDbDb@^JjjUUUUX@G}P{`	Chlory
 gNVIxlZpFAYJ{\YoOlB`LUP@	Cadmium azide
 gBlHXlK`SIW[dFT@	Copper(I) azide
 deB`jj[adGJHaHcH`h`Ccd{NK`@@	Chloropentammineplatinum chloride
+gNVIxlZp\AYJ{\YoOlB`LUP@	Nickel azide
+gNVIxlZqlAYJ{\YoOlB`LUP@	Cobalt(II) azide
+deZPaXSBinFPF@vISlxikf{iGi{@hC@Xjj@@	Chromium azide
