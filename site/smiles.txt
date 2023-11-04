@@ -19163,6 +19163,7 @@ Datumetine	O=C(O)C1=CC=C(OC)C(=C1)C2CC3N(C)C(CC3)C2
 Methyl hydroperoxide	COO
 Ethylbenzene hydroperoxide	CC(C1=CC=CC=C1)OO
 5-Cyclohexadecenone	C1CCCCCC(=O)CCCC=CCCCC1
+Uranium ditelluride	[Te]=[U]=[Te]
 Jasminaldehyde	CCCCC/C(=C/C1=CC=CC=C1)/C=O
 Violuric acid	C1(=C(NC(=O)NC1=O)O)N=O
 Tetraethylammonium cyanide	CC[N+](CC)(CC)CC.[C-]#N
@@ -20660,3 +20661,5 @@ Chromium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cr+3]
 Carbonyl diazide	C(=O)(N=[N+]=[N-])N=[N+]=[N-]
 Nitrosyl perchlorate	N(=O)OCl(=O)(=O)=O
 Pentachlorocyclopropane	C1(C(C1(Cl)Cl)(Cl)Cl)Cl
+Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
+Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
