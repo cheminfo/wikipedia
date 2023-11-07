@@ -3100,7 +3100,7 @@ Tributyltin oxide	CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC
 Dibutyl ether	CCCCOCCCC
 Glyoxal	O=CC=O
 Glycin	O=C(O)CNc1ccc(O)cc1
-Propan-1-ol	CCCO
+1-Propanol	CCCO
 Temocillin	O=C(O)[C@@H]2N3C(=O)[C@@](OC)(NC(=O)C(c1ccsc1)C(=O)O)[C@H]3SC2(C)C
 Peramivir	CCC(CC)[C@@H]([C@H]1[C@@H](C[C@@H]([C@H]1O)C(=O)O)NC(=N)N)NC(=O)C
 Diisopropyl fluorophosphate	FP(=O)(OC(C)C)OC(C)C
@@ -20649,7 +20649,7 @@ Azobenzene dioxide	C1=CC=C(C=C1)N(=O)=N(=O)C2=CC=CC=C2
 1-Bromo-4-iodobenzene	C1=CC(=CC=C1Br)I
 Iodal	C(=O)C(I)(I)I
 Methyl 4-iodobenzoate	COC(=O)C1=CC=C(C=C1)I
-BrMT	C1=CC2=C(C=C1Br)NC(=C2CCN)CS
+BrMT	BrC=1C=CC2=C(C1)NC(S)=C2CCN
 Thioproline	C1[C@H](NCS1)C(=O)O
 Thioproline	C1[C@H]([NH2+]CS1)C(=O)[O-]
 Chloryl tetraperchloratoaurate	O=Cl[O+].O=Cl(=O)(=O)[O-][Au+3]([O-]Cl(=O)(=O)=O)([O-]Cl(=O)(=O)=O)[O-]Cl(=O)(=O)=O
