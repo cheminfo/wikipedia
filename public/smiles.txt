@@ -20458,6 +20458,7 @@ Actinium oxyfluoride	[Ac+3].[F-].[O-2]
 Europium(III) telluride	[Eu+3].[Eu+3].[Te-2].[Te-2].[Te-2]
 Berkelium(III) bromide	[Br-].[Br-].[Br-].[Bk+3]
 Mercurophylline	[Na+].[OH-].[Hg+]CC(OC)CNC(=O)C1CCC(C([O-])=O)(C)C1(C)C.O=C2N(C1NCNC1C(=O)N2C)C
+Esmodafinil	C1=CC=C(C=C1)C(C2=CC=CC=C2)[S@@](=O)CC(=O)N
 Orforglipron	C[C@H]1C[C@]1(C2=NOC(=O)N2)N3C4=C(C=C(C=C4)[C@H]5CCOC(C5)(C)C)C=C3C(=O)N6CCC7=NN(C(=C7[C@@H]6C)N8C=CN(C8=O)C9=C(C1=C(C=C9)N(N=C1)C)F)C1=CC(=C(C(=C1)C)F)C
 Curium hexafluoride	[Cm+6].[F-].[F-].[F-].[F-].[F-].[F-]
 Curium(IV) fluoride	[Cm+4].[F-].[F-].[F-].[F-]
@@ -20648,6 +20649,8 @@ Azobenzene dioxide	C1=CC=C(C=C1)N(=O)=N(=O)C2=CC=CC=C2
 4-Ethynylbenzaldehyde	C#CC1=CC=C(C=C1)C=O
 1-Bromo-4-iodobenzene	C1=CC(=CC=C1Br)I
 Iodal	C(=O)C(I)(I)I
+Muironolide A	C[C@@H]\1CC[C@@H](OC(=O)C[C@H](OC(=O)/C=C/[C@@H]2[C@H](CC=C3[C@@]2(CNC3=O)C)/C(=C1)/C)C4C[C@H]4Cl)C(Cl)(Cl)Cl
+Muironolide A	C[C@@H]\1CC[C@@H](OC(=O)C[C@H](OC(=O)/C=C/[C@@H]2[C@H](CC=C3[C@@]2(CNC3=O)C)/C(=C1)/C)[C@@H]4C[C@H]4Cl)C(Cl)(Cl)Cl
 Methyl 4-iodobenzoate	COC(=O)C1=CC=C(C=C1)I
 BrMT	BrC=1C=CC2=C(C1)NC(S)=C2CCN
 Thioproline	C1[C@H](NCS1)C(=O)O
@@ -20666,3 +20669,4 @@ Pentachlorocyclopropane	C1(C(C1(Cl)Cl)(Cl)Cl)Cl
 Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
+5-MeO-T-NBOMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3OC
