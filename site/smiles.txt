@@ -168,7 +168,6 @@ Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Capsaicin	O=C(NCc1cc(OC)c(O)cc1)CCCC/C=C/C(C)C
 Valproate	O=C(O)C(CCC)CCC
-Valproate	CCCC(CCC)C(=O)O.CCCC(CCC)C(=O)[O-].[Na+]
 Sodium hydroxide	[OH-].[Na+]
 Tryptophan	c1[nH]c2ccccc2c1C[C@H](N)C(=O)O
 Tryptophan	c1[nH]c2ccccc2c1C[C@H]([NH3+])C(=O)[O-]
@@ -20669,4 +20668,9 @@ Pentachlorocyclopropane	C1(C(C1(Cl)Cl)(Cl)Cl)Cl
 Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
+Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
 5-MeO-T-NBOMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3OC
+Firibastat	C(CS(=O)(=O)O)[C@@H](CSSC[C@H](CCS(=O)(=O)O)N)N
+Olinciguat	C1=CC=C(C(=C1)CN2C(=CC(=N2)C3=NC=C(C(=N3)NC[C@@](C(=O)N)(C(F)(F)F)O)F)C4=NOC=C4)F
+Cerium phosphide	[P].[Ce]
+Tetrachloroethylene oxide	ClC1(Cl)C(Cl)(Cl)O1
