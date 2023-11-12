@@ -20670,16 +20670,19 @@ Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
 5-MeO-T-NBOMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3OC
+Aprocitentan	C1=CC(=CC=C1C2=C(N=CN=C2OCCOC3=NC=C(C=N3)Br)NS(=O)(=O)N)Br
 Firibastat	C(CS(=O)(=O)O)[C@@H](CSSC[C@H](CCS(=O)(=O)O)N)N
 Olinciguat	C1=CC=C(C(=C1)CN2C(=CC(=N2)C3=NC=C(C(=N3)NC[C@@](C(=O)N)(C(F)(F)F)O)F)C4=NOC=C4)F
 Cerium phosphide	[P].[Ce]
 Tetrachloroethylene oxide	ClC1(Cl)C(Cl)(Cl)O1
+Aficamten	CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C
 Abeo-HHC acetate	CC(=O)Oc1cc(CCCCC)cc2OC(C)(C)[C@@H]3CCCCC[C@H]3c12
 18-Oxocortisol	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C=O)O
 Thallium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tl+3]
 Fruquintinib	CNC(=O)C1=C(C)OC2=CC(OC3=NC=NC4=CC(OC)=C(OC)C=C34)=CC=C12
 Methoxyqualone	CC1=NC2=CC=CC=C2C(=O)N1C3=CC=CC=C3OC
 SCQ1	O=C3C[C@@]1(CN2CCC1CC2)Oc4c3ccc5ccccc45
+Butyl oleate	CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC
 25O-NBcP	COc1cc(CCNCc2ccccc2C2CC2)c(OC)cc1OC
 2C2-NBOMe	COc1ccccc1CNCCc1cc2OCOc2cc1OC
 25N-NBPh	COc1cc(CCNCc2ccccc2c2ccccc2)c(cc1[N+]([O-])=O)OC
