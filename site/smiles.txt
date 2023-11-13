@@ -4795,7 +4795,9 @@ Iduronic acid	[O-]C(=O)[C@@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Terpinen-4-ol	CC1=CCC(CC1)(C(C)C)O
 Deoxycytidine triphosphate	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O
 Nitrosyl chloride	ClN=O
-Dabigatran	CCCCCCOC(=O)N=C(C1=CC=C(C=C1)NCC2=NC3=C(N2C)C=CC(=C3)C(=O)N(CCC(=O)OCC)C4=CC=CC=N4)N
+Dabigatran	CN1C=2C(=CC(C(N(CCC(O)=O)C3=CC=CC=N3)=O)=CC2)N=C1CNC4=CC=C(C(=N)N)C=C4
+Dabigatran	CN1C=2C(=CC(C(N(CCC(OCC)=O)C3=CC=CC=N3)=O)=CC2)N=C1CNC4=CC=C(C(NC(OCCCCCC)=O)=N)C=C4
+Dabigatran	S(C)(=O)(=O)O.CN1C=2C(=CC(C(N(CCC(OCC)=O)C3=CC=CC=N3)=O)=CC2)N=C1CNC4=CC=C(C(NC(OCCCCCC)=O)=N)C=C4
 Ferric subsulfate solution	[OH-].[OH-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
 Hydroxybenzotriazole	n1nn(O)c2ccccc12
 Chlorotoxin	C[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H]2CSSC[C@H]3C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H]4C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCSC)CCC(=O)N)CC5=CNC=N5)CC(=O)O)[C@@H](C)O)[C@@H](C)O)CC6=CC=CC=C6)NC(=O)[C@@H]7CCCN7C(=O)[C@@H](NC(=O)[C@H](CSSC[C@@H](C(=O)N4)NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CC(=O)O)CC(=O)O)NC(=O)[C@H](CCSC)N)CCSC)C(=O)N[C@H](C(=O)NCC(=O)N8CCC[C@H]8C(=O)N[C@H](C(=O)N3)CCC(=O)N)CC9=CC=C(C=C9)O)CCCCN)CCCNC(=N)N)CCCCN)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N)CC(C)C)CCCCN)CCCNC(=N)N
@@ -8736,7 +8738,6 @@ Potassium formate	C(=O)[O-].[K+]
 Cobalt(II) acetate	[Co+2].[O-]C(=O)C.[O-]C(=O)C
 Cobalt(II) acetate	O=C(C)O[Co]OC(C)=O
 Cobalt(II) acetate	O=C(C)O[Co-4]([O+H2])([O+H2])([O+H2])([O+H2])OC(C)=O
-Copper salicylate	C1=CC=C(C(=C1)C(=O)O)[O-].[Cu+2]
 Sodium pyrosulfate	[Na+].[Na+].[O-]S(=O)(=O)OS(=O)(=O)[O-]
 Dihydroxyphenylethylene glycol	Oc1ccc(cc1O)C(O)CO
 Nysted reagent	Br[Zn]C[Zn]C[Zn]Br.C1CCCO1
@@ -20669,6 +20670,7 @@ Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
+Resigratinib	CNC1=C(C(=NN1[C@H]2C[C@@H](N(C2)C(=O)C=C)COC)C#CC3=C(C=C4C(=C3F)N=CN4C5CC5)F)C(=O)N
 5-MeO-T-NBOMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3OC
 Aprocitentan	C1=CC(=CC=C1C2=C(N=CN=C2OCCOC3=NC=C(C=N3)Br)NS(=O)(=O)N)Br
 Firibastat	C(CS(=O)(=O)O)[C@@H](CSSC[C@H](CCS(=O)(=O)O)N)N
@@ -20687,3 +20689,4 @@ Butyl oleate	CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC
 2C2-NBOMe	COc1ccccc1CNCCc1cc2OCOc2cc1OC
 25N-NBPh	COc1cc(CCNCc2ccccc2c2ccccc2)c(cc1[N+]([O-])=O)OC
 25N-N1-Nap	COc1cc(CCNCc2cccc3ccccc32)c(cc1[N+]([O-])=O)OC
+Potassium hexachlororhenate	Cl[Re-2](Cl)(Cl)(Cl)(Cl)Cl.[K+].[K+]
