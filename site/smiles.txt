@@ -20690,5 +20690,14 @@ Butyl oleate	CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC
 2C2-NBOMe	COc1ccccc1CNCCc1cc2OCOc2cc1OC
 25N-NBPh	COc1cc(CCNCc2ccccc2c2ccccc2)c(cc1[N+]([O-])=O)OC
 25N-N1-Nap	COc1cc(CCNCc2cccc3ccccc32)c(cc1[N+]([O-])=O)OC
+Remibrutinib	CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C
+Deuruxolitinib	[2H]C1(C(C(C(C1([2H])[2H])([2H])[2H])([2H])[2H])[C@@H](CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3)[2H]
+Acoramidis	CC1=C(C(=NN1)C)CCCOC2=C(C=CC(=C2)C(=O)O)F
+Mitiperstat	C[C@H](C1=C(C=CC(=C1)Cl)CN2C3=C(C(=O)NC2=S)NC=C3)N
+Ruzinurad	C1CC(C1)(C(=O)O)SC2=C3C=C(C=CC3=NC=C2)Br
+Paltusotine	C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N
 Potassium hexachlororhenate	Cl[Re-2](Cl)(Cl)(Cl)(Cl)Cl.[K+].[K+]
+ZLY18	COc1ccc(cc1)C=Cc2cc(OC)cc(c2)OCc3ccc(c(F)c3)OCC(=O)O
 Calcium plumbate	[O-][Pb](=O)[O-].[Ca+2]
+Capivasertib	NC1(CCN(CC1)C1=C2C=CNC2=NC=N1)C(=O)N[C@@H](CCO)C1=CC=C(Cl)C=C1
+Repotrectinib	C[C@H]1CNC(=O)C2=C3N=C(N[C@H](C)C4=CC(F)=CC=C4O1)C=CN3N=C2
