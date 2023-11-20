@@ -15483,7 +15483,7 @@ Ephenidine	CCNC(CC1=CC=CC=C1)C2=CC=CC=C2.Cl
 3-MeO-PCE	CCNC1(CCCCC1)C2=CC(=CC=C2)OC
 Phenylarsine oxide	c1ccc(cc1)[As]=O
 Alpha-Pyrrolidinohexiophenone	C1(=CC=CC=C1)C(C(CCCC)N2CCCC2)=O
-GAL-021	CCCNc1nc(nc(N(C)OC)n1)NCCC
+ENA-001	CCCNc1nc(nc(N(C)OC)n1)NCCC
 5-MeO-DiBF	COC1=CC=C(OC=C2CCN(C(C)C)C(C)C)C2=C1
 Fluorolintane	FC1=C(C=CC=C1)C(CC2=CC=CC=C2)N3CCCC3
 3-Methylbutyrfentanyl	CCCC(=O)N(c1ccccc1)C2CCN(CC2C)CCc3ccccc3
@@ -20670,6 +20670,8 @@ Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
+Govorestat	C1=CC2=C(C=C1C(F)(F)F)N=C(S2)CN3C(=O)C4=CSC=C4C(=N3)CC(=O)O
+Velufenacin	CN1CC[C@H](C1)COC(=O)NC2=CC=CC=C2C3=CC(=C(C=C3)F)Cl
 N-0385	CS(=O)(=O)NC(CCC(=O)N)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCN=C(N)N)C(=O)C2=NC3=CC=CC=C3S2
 Resigratinib	CNC1=C(C(=NN1[C@H]2C[C@@H](N(C2)C(=O)C=C)COC)C#CC3=C(C=C4C(=C3F)N=CN4C5CC5)F)C(=O)N
 5-MeO-T-NBOMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3OC
@@ -20701,3 +20703,6 @@ ZLY18	COc1ccc(cc1)C=Cc2cc(OC)cc(c2)OCc3ccc(c(F)c3)OCC(=O)O
 Calcium plumbate	[O-][Pb](=O)[O-].[Ca+2]
 Capivasertib	NC1(CCN(CC1)C1=C2C=CNC2=NC=N1)C(=O)N[C@@H](CCO)C1=CC=C(Cl)C=C1
 Repotrectinib	C[C@H]1CNC(=O)C2=C3N=C(N[C@H](C)C4=CC(F)=CC=C4O1)C=CN3N=C2
+Baxdrostat	CCC(=O)N[C@@H]1CCCC2=C1C=NC=C2C3=CC4=C(C=C3)N(C(=O)CC4)C
+MK-0616	CC1=CC(=CC(=C1)N2C=C(N=N2)CN3C=C(C4=C3C=CC(=C4)F)C[C@H]5C(=O)N6CC[C@@H]([C@H]6C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC7=CC=C(C=C7)OC)C(=O)N8CCC[C@@]8(C)C(=O)NCCS)OC/C=C/CC9=CC(=CC=C9)C[C@@H](C(=O)N5)NC(=O)[C@@H](C)NC(=O)[C@H](CNC(=O)CCOCCOCC[N+](C)(C)C)NC(=O)CCS)C
+Navafenterol	CN(CCCN1C2=C(C=C(C=C2)CNC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)N=N1)C5CCC(CC5)OC(=O)C(C6=CC=CS6)(C7=CC=CS7)O
