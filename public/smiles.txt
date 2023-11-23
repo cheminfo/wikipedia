@@ -21,6 +21,7 @@ Carbonate	C(=O)([O-])[O-]
 Cytosine	O=C1Nccc(N)n1
 Carbon monoxide	[C-]#[O+]
 Chloramphenicol	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+Cholesterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 Ciprofloxacin	C1CNCCN1c(c2)c(F)cc3c2N(C4CC4)C=C(C3=O)C(=O)O
 Caffeine	CN1C=NC2=C1C(=O)N(C(=O)N2C)C
 Carbamazepine	c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N
@@ -15761,7 +15762,7 @@ Phosphorus tetroxide	O=P12OP3OP(O1)OP(O3)O2
 Phosphorus tetroxide	O=P12OP3OP(O1)OP(=O)(O3)O2
 Phosphorus tetroxide	O=P12OP3OP(=O)(O1)OP(=O)(O3)O2
 5-MeO-MALT	COC2=CC=C1[NH]C=C(C1=C2)CCN(CC=C)C
-RAD140	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
+Vosilasarm	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
 Hexaborane(12)	[BH3]1[BH3][BH2]1[BH2]2[BH3][BH3]2
 ML-154	[Br-].C1(=CC=CC=C1)[P](=S)(C2=C([N+](=C3C=CC=C[N]23)C\C=C\C4=CC=CC=C4)C)C5=CC=CC=C5
 Apoatropine	CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3
@@ -19436,6 +19437,7 @@ SYM-2081	C[C@H](C[C@@H](C(=O)O)N)C(=O)O
 Miriplatin	CCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCC(=O)[O-].C1CC[C@]([H])([C@@]([H])(C1)N)N.[Pt+2]
 Indisetron	CN1C[C@H]2CC(C[C@@H](C1)N2C)NC(=O)C3=NNC4=CC=CC=C43
 ADB-BINACA	O=C(NC(C(N)=O)C(C)(C)C)C1=NN(CC2=CC=CC=C2)C3=C1C=CC=C3
+ADB-BUTINACA	O=C(N[C@H](C(N)=O)C(C)(C)C)C1=NN(CCCC)C2=C1C=CC=C2
 Samarium phosphide	P#[Sm]
 Lanthanum phosphide	P#[La]
 Ytterbium phosphide	P#[Yb]
@@ -20705,3 +20707,4 @@ Repotrectinib	C[C@H]1CNC(=O)C2=C3N=C(N[C@H](C)C4=CC(F)=CC=C4O1)C=CN3N=C2
 Baxdrostat	CCC(=O)N[C@@H]1CCCC2=C1C=NC=C2C3=CC4=C(C=C3)N(C(=O)CC4)C
 MK-0616	CC1=CC(=CC(=C1)N2C=C(N=N2)CN3C=C(C4=C3C=CC(=C4)F)C[C@H]5C(=O)N6CC[C@@H]([C@H]6C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC7=CC=C(C=C7)OC)C(=O)N8CCC[C@@]8(C)C(=O)NCCS)OC/C=C/CC9=CC(=CC=C9)C[C@@H](C(=O)N5)NC(=O)[C@@H](C)NC(=O)[C@H](CNC(=O)CCOCCOCC[N+](C)(C)C)NC(=O)CCS)C
 Navafenterol	CN(CCCN1C2=C(C=C(C=C2)CNC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)N=N1)C5CCC(CC5)OC(=O)C(C6=CC=CS6)(C7=CC=CS7)O
+Cycloheptyl CP 55,940	O[C@H]1C[C@H]([C@H](CCCO)CCC1)c1ccc(cc1O)C(C)(C)CCCCCC
