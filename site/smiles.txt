@@ -20604,6 +20604,8 @@ Eprotirome	CC(C)C1=C(C=CC(=C1)OC2=C(C=C(C=C2Br)NC(=O)CC(=O)O)Br)O
 Vanadium(II) fluoride	[F-].[F-].[V+2]
 Tantalum(IV) iodide	[I-].[I-].[I-].[I-].[Ta+4]
 Technetium(III) iodide	[Tc+3].[I-].[I-].[I-]
+TERN-501	CC(C)C1=CC(=NN(C1=O)C)OC2=C(C=C(C=C2Cl)NC(=O)C3=NOC(=O)N3)Cl
+Lanifibranor	C1=CC2=C(C=C1S(=O)(=O)N3C4=C(C=C(C=C4)Cl)C=C3CCCC(=O)O)SC=N2
 3,4-MDO-U-47700	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=C(C=C2)OCO3
 U-48800	CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl
 Etonitazene 5-acetyl analogue	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)OCC
@@ -20663,6 +20665,7 @@ Chloropentammineplatinum chloride	N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Nickel azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ni+2]
 Cobalt(II) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Co+2]
 Chromium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cr+3]
+Cagrilintide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N3CCC[C@H]3C(=O)N)NC(=O)[C@@H]4CCCN4C(=O)CNC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@@H](CC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC7=CC=CC=C7)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@@H]8CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N8)[C@@H](C)O)C)[C@@H](C)O)CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O
 Carbonyl diazide	C(=O)(N=[N+]=[N-])N=[N+]=[N-]
 Nitrosyl perchlorate	N(=O)OCl(=O)(=O)=O
 5-Amino-1-pentanol	C(CCN)CCO
@@ -20720,7 +20723,15 @@ Cycloheptyl CP 55,940	O[C@H]1C[C@H]([C@H](CCCO)CCC1)c1ccc(cc1O)C(C)(C)CCCCCC
 (2.2)Paracyclophane	C=1C=C2C=CC1CCC3=CC=C(C=C3)CC2
 THQ-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)N3CCCC4=CC=CC=C43
 4-Methylbenzyltrimethylammonium hydroxide	[OH-].C=1C=C(C=CC1C)C[N+](C)(C)C
+ABBV-CLS-7262	C1CC2(CCC1(C[C@@H]2OCOP(=O)(O)[O-])NC(=O)COC3=CC(=C(C=C3)Cl)F)NC(=O)COC4=CC(=C(C=C4)Cl)F.C(C(CO)(CO)N)O.[Na+]
 Tetraethynylmethane	C#CC(C#C)(C#C)C#C
 MDMB-5'Br-BUTINACA	CCCCN1C2=C(C=C(C=C2)Br)C(=N1)C(=O)N[C@H](C(=O)OC)C(C)(C)C
 ADB-5'F-BUTINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCC)c2ccc(F)cc21)C(C)(C)C
 ADB-5'Br-BUTINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCC)c2ccc(Br)cc21)C(C)(C)C
+Fluoral	C(=O)C(F)(F)F
+Fluoral	OC(O)C(F)(F)F
+Fluoral	C(C(F)(F)F)(OCC)O
+Tetravinylmethane	C=CC(C=C)(C=C)C=C
+Tetrakis(trimethylsilyl)methane	C[Si](C)(C)C([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C
+Dichloroacetaldehyde	C(=O)C(Cl)Cl
+1,5-Dihydroxyanthraquinone	C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C(=CC=C3)O
