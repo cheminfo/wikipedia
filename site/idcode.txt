@@ -1378,7 +1378,7 @@ dgnJ`EaLNp|LddjRRfcUUUL@@	AP-7 (drug)
 fnsHrBLJbfBG^jt@Pj_]ddebbTTtRjRTkFCdjt@D@qUJD@@	NBQX
 daxD@@QImUifALj`	Sorbic acid
 dcNL@FA]rJJJJJlLADU@@@	Pyridoxine
-fbuP`@E^@cHhmEDhhtheKRcMPDPuUQ@@@	4-Acetoxy-DET
+fbuP`@E^@cHhmEDhhtheKRcMPDPuUQ@@@	4-AcO-DET
 fi{`R@IBjwhHaIe]nYe_VZLLzNX@IjA`bfb@@@	Indometacin
 fmwqA@AJ[dDPFPrJIJZIJJZIKGQJgMNSV@HZ`jAbjb@@@	Flurazepam
 daDD@@YIeZn`B@@@	Resorcinol
@@ -3070,7 +3070,7 @@ dgm@A@TIV\ddURRTeUUUT@@	Hexamethonium
 gKh`bDnLiLM@@	Ammonium acetate
 fmo@R@AM{LDadTbdTTTQVVbVcboZlzNZuUUTsUUMMUB`dKDHeRr}Lp@	Fluorometholone
 gCiaHEmrRm@@	Peroxynitrite
-f`qP@@@FrRJJjJIKJL{uUUHPD@@@	Methylisopropyltryptamine
+f`qP@@@FrRJJjJIKJL{uUUHPD@@@	MiPT (psychedelic)
 ffs@`@@URYVymunVgEF|EIVeijjjjZjgDiFShE@@	Exemestane
 dg]H`AuPbDfY_[fz@`ij@@	Chlortoluron
 fhqaABFJADPB@\rTFY_[eRL|FfZf@B@@@	Alagebrium
@@ -5549,7 +5549,7 @@ deTH@@RYVZfZZj`@	Isophorone
 foAP@@@ZrRJGQQIZVkNjjdHB@@@	Α,N,N-Trimethyltryptamine
 foAP@@@JrRHjJIKHRcVjjP`J@@@	5,N,N-TMT
 foAP@@@JrRHjJJIDRkNjjPhB@@@	2,N,N-TMT
-fhiP@@@FrRJJjJIKIQg^jjiB@h@@	5,N-Dimethyl-N-isopropyltryptamine
+fhiP@@@FrRJJjJIKIQg^jjiB@h@@	5-Me-MiPT
 fhiQ@@IN@eMk[[lsdeT@EMUQ@@@	5-MeO-2-TMT
 fnmqP@DTrCWdmrJISJQQqQZJYjjjZjfjqbFed@	Marimastat
 fmwAR@HHpSPOCIILXheEDldhdfeFlEKVj@bJjjjjI@@	THC-O-phosphate
@@ -12575,7 +12575,7 @@ gGThCX`DYICFf@@	Thiourea dioxide
 fhqQ`@DX@pRSJswJ}NMTsUUT@@	Tetrabarbital
 e`TXA@@K`DFMKLaclbfbbbTTItTTRfrQdaeTvqsPQECTDEQUTD@@@	Narceine
 f`qQ`@DX@pRSJswZtx{sULt@D@@@	Heptobarbital
-fbuP`@E^@cHhmEDhhthiKRcMPDPuUQ@@@	4-Acetoxy-MiPT
+fbuP`@E^@cHhmEDhhthiKRcMPDPuUQ@@@	4-AcO-MiPT
 f`qP@@@FRi][e]Qg^jjiB@`@@	Methylpropyltryptamine
 ffcIR@BBdGBgYJ@HrQQSIJKJIHjDiHuoTpPTUUSQXxmJt@@	RG7795
 deWL@LJPSdfUWJfjfh@@	Quisqualamine
@@ -12635,7 +12635,7 @@ fbm@p@@\dXJTfYYgeUv\UYNV`XbbjfH@@	Ammiol
 gdMEPh@@DAB`DR_DVjuV@JCDryreQktGHheDdhhiidddmEEBehemMMMDUEMDlmDelTFPjPy]~@mUULpUATLCPUDsUULEA@PD@LLDtQxaRUQM@@	Biphalin
 eh|yB@@DJCBgnW_PpMGKlbbTTRTRbfVbRbrtVaRRRtVRbzNiEmCZjjffBjBjF`hJ@`X@HpQD|RT@@	CR665
 elZRJH@LJo`XDGHb`@cIICEEhheTdhXmDeeDcOCkhTUj`bJJij`@fhH@@	Safotibant
-fleP`@E^@cHhmEDhhthiZTYj@bFjh`@@	4-Acetoxy-MET
+fleP`@E^@cHhmEDhhthiZTYj@bFjh`@@	4-AcO-MET
 dko@@@qTiUuYJ`@fjbIdM@	TC-1827
 f`qaB@EF@DISJkrsrUoTDDUUD@@	SIB-1553A
 ff}ab@Hldh@QdbbtabfRQTRqQwjYjZjjjj@@	WIN-2299
@@ -19905,6 +19905,7 @@ edVQH@@DECONeo`PLbfbRfRfTRRbUbVTRw@c`VSRvwpKP@UTaAQTmKQE@@@	Pimitespib
 doDaDp[\DPY_dfUvZXjZjjjYcdC~ha@	Selenoneine
 doDaDp[\DPY_dfWVZXjfjjjYcdC~hA@	Selenoneine
 edZQLL@DJEMOKgo`LfnH@R@d`LbbTTbTjrbTRbTLtjQeeRvqwpKTEQAPTCTTtpT@@qap`BHDb@	Deucravacitinib
+eodQL@@DJNACEmc`@llbbTrbVTRbTRafeRdTRzFfNnZ`HJB`ZbffB`@@	Deucravacitinib
 dk|D@@QIneVQV]dvjjjj`@	1-Adamantanecarboxylic acid
 daDH`BBlRYg[hH@@@	2-Iodophenol
 daDH`NBlRYWih@H@@	4-Iodophenol
@@ -20706,6 +20707,7 @@ ffcIA@IZ}fhHapQdTRTrbLTTrRhpJ\e`@jjfZeJaq@@	Mitiperstat
 flu`a@EAbCDDDILk\kusSbc^S@@PQTtD@@	Ruzinurad
 edVRHD@MKIhS`IAbPrJIJHqQJJYIKIZZKST\VAYMU]O@pADDEAPQPPQa@@@@	Paltusotine
 diX@g@thbDbLbBbJbFbNrAr@[iFXJj`@	Potassium hexachlororhenate
+dedL@@SDfUUZje@@	Diallyl carbonate
 e`TPFH@BMCKLg`ICHhhddlhcDeDmeDedpHdT]]AAESPAEL@E@@@@	ZLY18
 gKaehlDheB{\Ucf`@	Calcium plumbate
 eghVDH@AOBfmccG@HcHhdlhdhmHTlheDePqdUMl]]@AUSUUT@QIEAq@@	Capivasertib
@@ -20719,6 +20721,8 @@ fmoYB@LTyJu_@BLdTTqTRTQRbtRVqPudyGNfZ`@jj`@haDTe@@	MK-8189
 eiSVBJ@EGHlka]DcnPHbZPVdMi@fPrJIJZIQJIIKEQRJIzIJERcbrKHkFf@HffjeZjij@HfJHJd@@	Asundexian
 eghZB@@DIEHf`MBilbbTTRRUTRRrbTRJefabVRvsTEAQ@APDEDDAB@@	Ervogastat
 fcwA`@@YGdTTRTVbTbRbiRrYrIXBBjjjjjjbqRBed@	Cycloheptyl CP 55,940
+eolPFH@FOBimc`HcHhhhddeCDdhmLdmNAEMDfjnkghB`j`hJbjjbJhLPRreRzP@	Enavogliflozin
+ef]TLB@L`YCk`IABPpdJYCHiCDeLeDeDhedmdleEdHhYYdUtmMlccU@DUP@@@AUUU@APZP@	Imlunestrant
 fmwA`@@NCdTRRTRRTVVdRJQoIrN[STDEEUUUDhSLrFH	1,2-Didehydro-3-oxo-THCO
 f`i@@@DjU]YUirwg^BBJBB@@@	(2.2)Paracyclophane
 fewq@@DLtCHhhhhdhhldbcdkvcAKekULE@Q@QUP@@@	THQ-PINACA
@@ -20734,5 +20738,10 @@ diD@@DkiUjeP@	Tetravinylmethane
 fha@@`@NEGAcaqprRQRVQRJRjjjjj@@	Tetrakis(trimethylsilyl)methane
 gJQDBHaQBS]R@@	Dichloroacetaldehyde
 fde@P@@B|EIfYfW^XkSkQZ@H`Ab@@@	1,5-Dihydroxyanthraquinone
+egh^HJ@FIBjfaia@ICRPLdKIBzPrJJJJKRZNIYIZIKLJIYUM[GPPSEUUUL@DLPNH@	JNJ-55308942
+eghVHJ@ILjfaia@HcRPLdKIBzPrJJJJKRZNIPkJIKLJIEUM[GPPSEUURt@DTPNP@	JNJ-54175446
 ek`PD@@@ClbdQRbfdRQfRdrvL|bRjZVvjjjjjjjjjjX@@	25-Hydroxycholesterol
 dig@@@hTigWJejj@@	1-Methylhistamine
+egdXLH@LHDN`@cIIBhiEDdeEhlgdeYExTETDudLmPU@U@UQUQT@@@	A-PONASA
+fkpb@AEgdXICHhdleEDhdcBhhiJLmxJX@JhDbFjZhbET@	ADB-FUBHQUCA
+daEH@BxDeYVyjZP@	Imidazole-4-acetaldehyde
