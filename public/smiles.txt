@@ -258,7 +258,6 @@ Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
 Chloroform	ClC(Cl)Cl
-Paracetamol	CC(=O)Nc1ccc(O)cc1
 Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
@@ -20721,6 +20720,7 @@ MK-8189	CC1=CN=C(C=C1)[C@H]2C[C@@H]2COC3=NC(=NC(=C3)NCC4=NN=C(S4)C)C
 Asundexian	CC[C@@H](C(=O)NC1=CC(=C(C=C1)C(=O)N)F)N2C=C(C(=CC2=O)C3=C(C=CC(=C3)Cl)N4C=C(N=N4)C(F)(F)F)OC
 Ervogastat	CCOC1=C(N=CC=C1)OC2=CN=CC(=C2)C3=NC=C(C=N3)C(=O)N[C@H]4CCOC4
 Cycloheptyl CP 55,940	O[C@H]1C[C@H]([C@H](CCCO)CCC1)c1ccc(cc1O)C(C)(C)CCCCCC
+Foscenvivint	C[C@H]1[C@H]2N([C@H](C(=O)N1CC3=CC=CC4=C3N=CC=C4)CC5=CC=C(C=C5)OP(=O)(O)O)C(=O)CN(N2C(=O)NCC6=CC=CC=C6)C
 Enavogliflozin	C1CC1C2=CC=C(C=C2)CC3=CC(=C4CCOC4=C3Cl)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O
 Imlunestrant	C1C(CN1CCOC2=CC=C(C=C2)[C@@H]3C4=C5C=CC(=CC5=NC=C4C6=C(O3)C=C(C=C6)C(F)(F)F)O)CF
 1,2-Didehydro-3-oxo-THCO	CCCCCC(=O)/C=C/c1cc2OC(C)(C)[C@@H]3CC=C(C)C[C@H]3c2c(O)c1
@@ -20742,6 +20742,13 @@ JNJ-55308942	C[C@H]1CC2=C(CN1C(=O)C3=C(C(=NC=C3)C(F)(F)F)F)N=NN2C4=NC=C(C=N4)F
 JNJ-54175446	C[C@@H]1C2=C(CCN1C(=O)C3=C(C(=CC=C3)C(F)(F)F)Cl)N(N=N2)C4=NC=C(C=N4)F
 25-Hydroxycholesterol	CC(CCCC(C)(C)O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
 1-Methylhistamine	CN1C=C(N=C1)CCN
+Chiglitazar	C1=CC=C2C(=C1)C3=CC=CC=C3N2CCOC4=CC=C(C=C4)C[C@@H](C(=O)O)NC5=CC=CC=C5C(=O)C6=CC=C(C=C6)F
 A-PONASA	CCCCCOc1ccc(c2ccccc21)S(=O)(=O)NC12CC3CC(C1)CC(C2)C3
 ADB-FUBHQUCA	NC(=O)[C@@H](NC(=O)C=1Cc2ccccc2N(C=1)Cc1ccc(F)cc1)C(C)(C)C
 Imidazole-4-acetaldehyde	C1=C(NC=N1)CC=O
+Fexuprazan	CNCC1=CN(C(=C1OC)C2=C(C=C(C=C2)F)F)S(=O)(=O)C3=CC=CC(=C3)F
+Famitinib	CCN(CC)CCN1CCC2=C(C1=O)C(=C(N2)/C=C\3/C4=C(C=CC(=C4)F)NC3=O)C
+Thulium(III) selenate	[Tm+3].[Tm+3].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-]
+Lithium permanganate	[Li+].O=[Mn](=O)(=O)[O-]
+Cadmium permanganate	[Cd+2].O=[Mn](=O)(=O)[O-].O=[Mn](=O)(=O)[O-]
+Tungsten(II) iodide	[I-].[I-].[W+2]
