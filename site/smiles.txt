@@ -1214,7 +1214,7 @@ Imipramine	CN(C)CCCN1c2ccccc2CCc2ccccc21
 Ximelagatran	O=C(NCc1ccc(C(=N\O)\N)cc1)[C@H]3N(C(=O)[C@H](NCC(=O)OCC)C2CCCCC2)CC3
 Malachite green	CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccccc3.[Cl-]
 Potassium perchlorate	[K+].[O-]Cl(=O)(=O)=O
-DiPT (psychedelic)	CC(C)N(CCc1c[nH]c2ccccc12)C(C)C
+DiPT	CC(C)N(CCc1c[nH]c2ccccc12)C(C)C
 Sufentanil	O=C(N(c1ccccc1)C2(COC)CCN(CC2)CCc3sccc3)CC
 Hentriacontane	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Dodecane	CCCCCCCCCCCC
@@ -3069,7 +3069,7 @@ Hexamethonium	C(CCCC[N+](C)(C)C)C[N+](C)(C)C
 Ammonium acetate	O=C([O-])C.[N+H4]
 Fluorometholone	O=C(C)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)[C@@H](C)C[C@H]4[C@@H]2CC3)C)C
 Peroxynitrite	N(=O)O[O-]
-MiPT (psychedelic)	CC(C)N(C)CCc1c[nH]c2ccccc12
+MiPT	CC(C)N(C)CCc1c[nH]c2ccccc12
 Exemestane	O=C\1\C=C/[C@]3(C(=C/1)/C(=C)C[C@H]4[C@@H]2CCC(=O)[C@]2(CC[C@H]34)C)C
 Chlortoluron	Clc1cc(NC(=O)N(C)C)ccc1C
 Alagebrium	[Cl-].O=C(c1ccccc1)C[n+]2c(c(sc2)C)C
@@ -20758,3 +20758,4 @@ Thulium(II) iodide	I[Tm]I
 Molybdenum(II) iodide	[I-].[I-].[Mo+2]
 Dysprosium(II) iodide	[I-].[I-].[Dy+2]
 1-Boc-4-AP	CC(C)(C)OC(=O)N1CCC(CC1)NC2=CC=CC=C2
+BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
