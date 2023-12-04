@@ -2873,7 +2873,7 @@ Retene	Cc1cccc3c1ccc2cc(C(C)C)ccc23
 Ethylenediamine	NCCN
 Diethylenetriamine	NCCNCCN
 Triethylenetetramine	NCCNCCNCCN
-Moxonidine	Clc1nc(nc(OC)c1N/C2=N/CCN2)C
+Moxonidine	Clc1nc(C)nc(OC)c1NC2=NCCN2
 Pimaric acid	C[C@]1(CC[C@H]2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)O)C)C=C
 Plicatic acid	O=C(O)[C@]2(O)[C@H](c1c(cc(OC)c(O)c1)C[C@@]2(O)CO)c3cc(O)c(O)c(OC)c3
 Diethanolamine	OCCNCCO
@@ -5185,7 +5185,7 @@ GV (nerve agent)	FP(=O)(N(C)C)CCN(C)C
 Dewar benzene	C\1=C\C2/C=C\C/12
 Barium oxalate	[Ba+2].[O-]C(=O)C([O-])=O
 Miglitol	OCCN1[C@@H]([C@@H](O)[C@H](O)[C@@H](O)C1)CO
-Rilmenidine	N\1=C(\OCC/1)NC(C2CC2)C3CC3
+Rilmenidine	O1CCN=C1NC(C2CC2)C3CC3
 Bemotrizinol	CCC(CCCC)COc4ccc(c1nc(nc(n1)c2ccc(cc2O)OCC(CC)CCCC)c3ccc(OC)cc3)c(O)c4
 Bisoctrizole	n1c6ccccc6nn1c2cc(cc(c2O)Cc5cc(cc(n3nc4ccccc4n3)c5O)C(C)(C)CC(C)(C)C)C(C)(C)CC(C)(C)C
 Saxagliptin	O=C(N1[C@H](C#N)C[C@@H]2C[C@H]12)[C@@H](N)C35CC4CC(C3)CC(O)(C4)C5
@@ -20747,15 +20747,22 @@ ADB-FUBHQUCA	NC(=O)[C@@H](NC(=O)C=1Cc2ccccc2N(C=1)Cc1ccc(F)cc1)C(C)(C)C
 Imidazole-4-acetaldehyde	C1=C(NC=N1)CC=O
 Fexuprazan	CNCC1=CN(C(=C1OC)C2=C(C=C(C=C2)F)F)S(=O)(=O)C3=CC=CC(=C3)F
 Famitinib	CCN(CC)CCN1CCC2=C(C1=O)C(=C(N2)/C=C\3/C4=C(C=CC(=C4)F)NC3=O)C
+Mufemilast	CCOC1=C(C=CC(=C1)[C@@H](CS(=O)(=O)C)N2C(=O)C3=CSC(=C3C2=O)NC(=O)C)OC
+Ytterbium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Yb+3]
 Thulium(III) selenate	[Tm+3].[Tm+3].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-]
 Lithium permanganate	[Li+].O=[Mn](=O)(=O)[O-]
 Cadmium permanganate	[Cd+2].O=[Mn](=O)(=O)[O-].O=[Mn](=O)(=O)[O-]
 Tungsten(II) iodide	[I-].[I-].[W+2]
+Lorundrostat	CC1=CC=C(C=C1)C2=CN=NC(=N2)N3CCN(CC3)CC(=O)NC4CCC(CC4)NC(=O)C
 Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C=C7)Cl)NC5=O)C8=C(C(=CC=C8)Cl)F)C(=O)O
+BMS-986278	CCCN(C)C(=O)OCC1=C(N=NN1C)C2=NC(=C(C=C2)O[C@H]3CCC[C@@H](C3)C(=O)O)C
 1,3-Dithiolane	C1CSCS1
 Samarium arsenate	[O-][As](=O)([O-])[O-].[Sm+3]
 Thulium(II) iodide	I[Tm]I
 Molybdenum(II) iodide	[I-].[I-].[Mo+2]
 Dysprosium(II) iodide	[I-].[I-].[Dy+2]
 1-Boc-4-AP	CC(C)(C)OC(=O)N1CCC(CC1)NC2=CC=CC=C2
+Cadisegliatin	CCCOC1CCC(CC1)N(C2CCCCC2)C(=O)NC3=NC=C(S3)SCC(=O)O
+Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
+1,4-Butanedithiol	SCCCCS
