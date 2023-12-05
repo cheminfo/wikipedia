@@ -9877,7 +9877,7 @@ Trolnitrate	C(CO[N+](=O)[O-])N(CCO[N+](=O)[O-])CCO[N+](=O)[O-]
 Propatylnitrate	CCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-]
 Tiracizine	CCOC(=O)NC1=CC2=C(CCC3=CC=CC=C3N2C(=O)CN(C)C)C=C1
 Creatinolfosfate	O=P(O)(OCCN(C(=[N@H])N)C)O
-Tolonidine	CC1=CC(=C(C=C1)NC2=NCCN2)Cl
+Tolonidine	Clc1cc(C)ccc1NC2=NCCN2
 Bietaserpine	COc1cc(cc(OC)c1OC)C(=O)O[C@@H]4C[C@@H]5CN6CCc3c(n(CCN(CC)CC)c2cc(OC)ccc23)[C@H]6C[C@@H]5[C@H](C(=O)OC)[C@H]4OC
 Methoserpidine	CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=C(C=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC
 Deserpidine	O=C(OC)[C@H]6[C@H]4C[C@@H]3c2[nH]c1ccccc1c2CCN3C[C@H]4C[C@@H](OC(=O)c5cc(OC)c(OC)c(OC)c5)[C@@H]6OC
@@ -20766,3 +20766,5 @@ Cadisegliatin	CCCOC1CCC(CC1)N(C2CCCCC2)C(=O)NC3=NC=C(S3)SCC(=O)O
 Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
 1,4-Butanedithiol	SCCCCS
+5-MAPBT	CC(CC1=CC2=C(C=C1)SC=C2)NC
+BFAI	C1C(CC2=C1C=C3C=COC3=C2)N
