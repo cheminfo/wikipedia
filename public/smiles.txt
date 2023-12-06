@@ -12042,7 +12042,6 @@ Actinonin	O=C(N1[C@H](CO)CCC1)[C@@H](NC(=O)[C@H](CCCCC)CC(=O)NO)C(C)C
 Agroclavine	c2c3c1c(cccc1[nH]2)[C@H]4\C=C(/CN([C@@H]4C3)C)C
 Alazopeptin	C=CCNC(CCC(=C[N+]#N)[O-])C(=O)NC(CCC(=C[N+]#N)[O-])C(=O)O
 Almokalant	O=S(CCC)CCCN(CC)CC(O)COc1ccc(C#N)cc1
-DiFMDA	CC(Cc1ccc2c(c1)OC(O2)(F)F)N
 3,4-Ethylidenedioxyamphetamine	CC(N)Cc2ccc1OC(C)Oc1c2
 Potassium ethyl xanthate	[K+].[S-]C(=S)OCC
 Denufosol	C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O
@@ -12058,6 +12057,7 @@ Tetraethylmethane	CCC(CC)(CC)CC
 Chloroacetamide	ClCC(=O)N
 Methaphenilene	CN(C)CCN(Cc1cccs1)c2ccccc2
 Homatropine methylbromide	C[N+]1(C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O)C.[Br-]
+DFMDA	CC(Cc1ccc2c(c1)OC(O2)(F)F)N
 Dimefox	CN(C)P(=O)(N(C)C)F
 Ammonium perfluorononanoate	FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.N
 Thiobenzophenone	S=C(C1=CC=CC=C1)C2=CC=CC=C2
@@ -20762,9 +20762,18 @@ Thulium(II) iodide	I[Tm]I
 Molybdenum(II) iodide	[I-].[I-].[Mo+2]
 Dysprosium(II) iodide	[I-].[I-].[Dy+2]
 1-Boc-4-AP	CC(C)(C)OC(=O)N1CCC(CC1)NC2=CC=CC=C2
-Cadisegliatin	CCCOC1CCC(CC1)N(C2CCCCC2)C(=O)NC3=NC=C(S3)SCC(=O)O
+Cadisegliatin	CCCO[C@H]1CC[C@H](N(C(NC2=NC=C(SCC(O)=O)S2)=O)C3CCCCC3)CC1
 Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
+Omesdafexor	N(C[C@@H]1CC[C@H](CC1)C2=CC(C)=C(OC)C=C2)(C(=O)[C@@H]3CC[C@@H](O)CC3)C4=CC(=CC=C4)C5=CN(N=C5)C6CC6
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
-1,4-Butanedithiol	SCCCCS
+Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
+Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
+Onfasprodil	O([C@@H]1C[C@@]2([C@](C1)(CN(C[C@H](O)C3=CC=C(O)C=N3)C2)[H])[H])C4=C(F)C=CC=C4
+1,4-Butanedithiol	C(CCS)CS
 5-MAPBT	CC(CC1=CC2=C(C=C1)SC=C2)NC
+Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
+Calcium arsenide	[Ca].[As]
+Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 BFAI	C1C(CC2=C1C=C3C=COC3=C2)N
+Nickel(II) selenate	[Ni+2].[O-][Se](=O)(=O)[O-]
+Zirconium selenate	[Zr+4].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-]
