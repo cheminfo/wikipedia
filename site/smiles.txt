@@ -20756,6 +20756,7 @@ Tungsten(II) iodide	[I-].[I-].[W+2]
 Lorundrostat	CC1=CC=C(C=C1)C2=CN=NC(=N2)N3CCN(CC3)CC(=O)NC4CCC(CC4)NC(=O)C
 Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C=C7)Cl)NC5=O)C8=C(C(=CC=C8)Cl)F)C(=O)O
 BMS-986278	CCCN(C)C(=O)OCC1=C(N=NN1C)C2=NC(=C(C=C2)O[C@H]3CCC[C@@H](C3)C(=O)O)C
+Prusogliptin	CC(C)(CC(=O)N1CCCC1)NCC(=O)N2C[C@H](C[C@H]2C#N)F
 1,3-Dithiolane	C1CSCS1
 Samarium arsenate	[O-][As](=O)([O-])[O-].[Sm+3]
 Thulium(II) iodide	I[Tm]I
@@ -20765,6 +20766,7 @@ Dysprosium(II) iodide	[I-].[I-].[Dy+2]
 Cadisegliatin	CCCO[C@H]1CC[C@H](N(C(NC2=NC=C(SCC(O)=O)S2)=O)C3CCCCC3)CC1
 Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
 Omesdafexor	N(C[C@@H]1CC[C@H](CC1)C2=CC(C)=C(OC)C=C2)(C(=O)[C@@H]3CC[C@@H](O)CC3)C4=CC(=CC=C4)C5=CN(N=C5)C6CC6
+Miricorilant	C1CC(CCC1C2=CC=CC=C2)C3=C(C(=O)NC(=O)N3)CC4=CC(=CC=C4)C(F)(F)F
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
 Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
@@ -20776,4 +20778,10 @@ Calcium arsenide	[Ca].[As]
 Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 BFAI	C1C(CC2=C1C=C3C=COC3=C2)N
 Nickel(II) selenate	[Ni+2].[O-][Se](=O)(=O)[O-]
+Erbium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Er+3].[Er+3]
+Erbium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Er+3].[Er+3]
+Inaxaplin	C1[C@H]([C@@H](C(=O)N1)NC(=O)CCC2=C(NC3=C2C=C(C=C3F)F)C4=CC=C(C=C4)F)O
+Holmium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
+Holmium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Zirconium selenate	[Zr+4].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-]
+JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
