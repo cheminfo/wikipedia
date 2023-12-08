@@ -258,6 +258,7 @@ Lipoic acid	O=C(O)CCCC[C@H]1SSCC1
 Pyruvic acid	O=C(C(=O)O)C
 Acetoacetic acid	O=C(C)CC(=O)O
 Chloroform	ClC(Cl)Cl
+Paracetamol	CC(=O)Nc1ccc(O)cc1
 Sulfate	S(=O)(=O)([O-])[O-]
 Butylated hydroxytoluene	CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C
 Butylated hydroxyanisole	O(c1ccc(O)cc1C(C)(C)C)C.O(c1ccc(O)c(c1)C(C)(C)C)C
@@ -20767,15 +20768,19 @@ Cadisegliatin	CCCO[C@H]1CC[C@H](N(C(NC2=NC=C(SCC(O)=O)S2)=O)C3CCCCC3)CC1
 Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
 Omesdafexor	N(C[C@@H]1CC[C@H](CC1)C2=CC(C)=C(OC)C=C2)(C(=O)[C@@H]3CC[C@@H](O)CC3)C4=CC(=CC=C4)C5=CN(N=C5)C6CC6
 Miricorilant	C1CC(CCC1C2=CC=CC=C2)C3=C(C(=O)NC(=O)N3)CC4=CC(=CC=C4)C(F)(F)F
+Namodenoson	CNC(=O)[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=C(N=C32)Cl)NCC4=CC(=CC=C4)I)O)O
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
 Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
 Onfasprodil	O([C@@H]1C[C@@]2([C@](C1)(CN(C[C@H](O)C3=CC=C(O)C=N3)C2)[H])[H])C4=C(F)C=CC=C4
 1,4-Butanedithiol	C(CCS)CS
 5-MAPBT	CC(CC1=CC2=C(C=C1)SC=C2)NC
+Danicamtiv	C[C@@](C1CCN(CC1)C(=O)NC2=NOC=C2)(F)S(=O)(=O)C3=CN(N=C3C(F)F)C
+Avadomide	CC1=NC2=CC=CC(=C2C(=O)N1C3CCC(=O)NC3=O)N
 Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
 Calcium arsenide	[Ca].[As]
 Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
+Ninerafaxstat	COC1=C(C(=C(C=C1)CN2CCN(CC2)CCOC(=O)C3=CN=CC=C3)OC)OC
 BFAI	C1C(CC2=C1C=C3C=COC3=C2)N
 Nickel(II) selenate	[Ni+2].[O-][Se](=O)(=O)[O-]
 Erbium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Er+3].[Er+3]
@@ -20783,5 +20788,17 @@ Erbium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[
 Inaxaplin	C1[C@H]([C@@H](C(=O)N1)NC(=O)CCC2=C(NC3=C2C=C(C=C3F)F)C4=CC=C(C=C4)F)O
 Holmium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Holmium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
+Cerium(IV) selenate	[Ce+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O
+Cerium(IV) selenate	[Ce+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O.O.O.O.O
 Zirconium selenate	[Zr+4].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-]
+Zirconium selenate	[Zr+4].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].O.O.O.O
+Niobium perchlorate	O=Cl(=O)(=O)O[Nb](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
+Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3]
+Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3].O.O.O.O.O
 JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
+Halosulfuron-methyl	CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+Dimethylaminoethoxyethanol	CN(C)CCOCCO
+Praseodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Pr+3]
+BIIB131	CC(=CCC/C(=C/CC[C@]1([C@H](CC2=C(C=C3C(=C2O1)CN(C3=O)CCC[C@@H](C(=O)O)N4CC5=C6C(=C(C=C5C4=O)O)C[C@@H]([C@](O6)(C)CC/C=C(\C)/CCC=C(C)C)O)O)O)C)/C)C
+Tin mesoporphyrin	CCC1=C(C2=NC1=CC3=C(C(=C([N-]3)C=C4C(=C(C(=CC5=NC(=C2)C(=C5C)CC)[N-]4)C)CCC(=O)O)CCC(=O)O)C)C.[Cl-].[Cl-].[Sn+4]
+4-Bromofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)Br
