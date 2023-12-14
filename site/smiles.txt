@@ -18233,7 +18233,7 @@ Lumicitabine	CC(C)C(=O)OC[C@@]1([C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)N)F)OC(=O)C(
 Bromperidol decanoate	CCCCCCCCCC(=O)OC1(CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)Br
 Perphenazine enanthate	CCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
 Oxyprothepin decanoate	CCCCCCCCCC(=O)OCCCN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)SC
-N,N-diethylmethylamine	CCN(C)CC
+N,N-Diethylmethylamine	CCN(C)CC
 Silvestrol	CO[C@H]1[C@@H](O[C@H](CO1)[C@@H](CO)O)OC2=CC3=C(C(=C2)OC)[C@@]4([C@@H]([C@@H]([C@H]([C@@]4(O3)C5=CC=C(C=C5)OC)C6=CC=CC=C6)C(=O)OC)O)O
 Apilimod	CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
 Pentazolate	N1=NN=N[N-]1
@@ -20756,6 +20756,7 @@ Cadmium permanganate	[Cd+2].O=[Mn](=O)(=O)[O-].O=[Mn](=O)(=O)[O-]
 Tungsten(II) iodide	[I-].[I-].[W+2]
 Lorundrostat	CC1=CC=C(C=C1)C2=CN=NC(=N2)N3CCN(CC3)CC(=O)NC4CCC(CC4)NC(=O)C
 Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C=C7)Cl)NC5=O)C8=C(C(=CC=C8)Cl)F)C(=O)O
+DA-1241	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
 BMS-986278	CCCN(C)C(=O)OCC1=C(N=NN1C)C2=NC(=C(C=C2)O[C@H]3CCC[C@@H](C3)C(=O)O)C
 Prusogliptin	CC(C)(CC(=O)N1CCCC1)NCC(=O)N2C[C@H](C[C@H]2C#N)F
 1,3-Dithiolane	C1CSCS1
@@ -20805,3 +20806,5 @@ Mafoprazine	COC1=C(OCCCN2CCN(CC2)C3=C(F)C=CC=C3)C=CC(NC(C)=O)=C1
 4-Bromofentanyl	CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)Br
 Minzasolmin	CCCC[C@H](CC1=CNC2=CC=CC=C21)NC(=O)C3=CN=C(S3)N4CCN(CC4)C
 Diethofencarb	CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC
+Tylvalosin	CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
+Tylvalosin	O[C@H]([C@@H](O)C(O)=O)C(O)=O.CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
