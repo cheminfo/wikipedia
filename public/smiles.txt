@@ -17463,7 +17463,7 @@ Zaltoprofen	CC(C1=CC2=C(C=C1)SC3=CC=CC=C3C(=O)C2)C(=O)O
 Prodiamine	CCCN(CCC)C1=C(C=C(C(=C1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
 Pyoluteorin	C1=CC(=C(C(=C1)O)C(=O)C2=CC(=C(N2)Cl)Cl)O
 Maklamicin	C[C@@H]1C[C@@H]2[C@H]([C@@](C(C3=C(O)[C@@]45OC3=O)=O)(C)[C@H]([C@H](C)/C=C/C[C@]4(C)C=C(CO)[C@H](C[C@@H](C)O)C5)C=C2)CC1
-Ornibactin	CCCC(CC(=O)N(CCCC(C(=O)NC(C(C(=O)O)O)C(=O)NC(CO)C(=O)NC(CCCN(C=O)O)C(=O)NCCCCN)N)O)O
+Ornibactin	CCCC(CC(=O)N(CCC[C@@H](C(=O)N[C@H]([C@H](C(=O)O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCN(C=O)O)C(=O)NCCCCN)N)O)O
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)OC
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(CC(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)O)O)C)O)OC
 Swinholide	CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CC=CC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CC=CC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)O
@@ -20776,6 +20776,8 @@ Omesdafexor	N(C[C@@H]1CC[C@H](CC1)C2=CC(C)=C(OC)C=C2)(C(=O)[C@@H]3CC[C@@H](O)CC3
 Miricorilant	C1CC(CCC1C2=CC=CC=C2)C3=C(C(=O)NC(=O)N3)CC4=CC(=CC=C4)C(F)(F)F
 Namodenoson	CNC(=O)[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=C(N=C32)Cl)NCC4=CC(=CC=C4)I)O)O
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
+Selvigaltin	C1=C(C=C(C(=C1F)F)F)C2=CN(N=N2)[C@H]3[C@H]([C@H](O[C@@H]([C@@H]3O)SC4=CC(=CN=C4)Br)CO)O
+Azemiglitazone	COC1=CC=CC(=C1)C(=O)COC2=CC=C(C=C2)CC3C(=O)NC(=O)S3
 Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
 Onfasprodil	O([C@@H]1C[C@@]2([C@](C1)(CN(C[C@H](O)C3=CC=C(O)C=N3)C2)[H])[H])C4=C(F)C=CC=C4
@@ -20810,6 +20812,7 @@ JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
 Halosulfuron-methyl	CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
 2-(2-(Dimethylamino)ethoxy)ethanol	CN(C)CCOCCO
 Praseodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Pr+3]
+Nelonemdaz	C1=CC(=C(C=C1NCC2=C(C(=C(C(=C2F)F)C(F)(F)F)F)F)C(=O)O)O
 BIIB131	CC(=CCC/C(=C/CC[C@]1([C@H](CC2=C(C=C3C(=C2O1)CN(C3=O)CCC[C@@H](C(=O)O)N4CC5=C6C(=C(C=C5C4=O)O)C[C@@H]([C@](O6)(C)CC/C=C(\C)/CCC=C(C)C)O)O)O)C)/C)C
 Tin mesoporphyrin	CCC1=C(C2=NC1=CC3=C(C(=C([N-]3)C=C4C(=C(C(=CC5=NC(=C2)C(=C5C)CC)[N-]4)C)CCC(=O)O)CCC(=O)O)C)C.[Cl-].[Cl-].[Sn+4]
 Opnurasib	CC1=CC2=C(C=NN2)C(=C1Cl)C3=C(N(N=C3C4=CC5=C(C=C4)N(N=C5)C)C6CC7(C6)CN(C7)C(=O)C=C)C
@@ -20821,3 +20824,4 @@ Leriglitazone	CC(C1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3)O
 Diethofencarb	CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC
 Tylvalosin	CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
 Tylvalosin	O[C@H]([C@@H](O)C(O)=O)C(O)=O.CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
+Velagliflozin	C1CC1C2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C#N
