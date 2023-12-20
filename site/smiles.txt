@@ -20284,6 +20284,7 @@ GS-7	CSP(=O)(N)SC
 Technetium(V) fluoride	F[Tc](F)(F)(F)F
 Precoccinelline	CC1C[C@H]2CCCC3N2[C@H](C1)CCC3
 Chloroethylene oxide	C1C(O1)Cl
+Actinium(III) hydroxide	[Ac+3].[OH-].[OH-].[OH-]
 MSPI (nerve agent)	C[N+]1=CN(C=C1)P(=O)([O-])SC
 Europium(III) phosphate	[O-]P(=O)I([O-])[O-].[Eu+3]
 Europium(III) phosphate	[O-]P(=O)I([O-])[O-].[Eu+3].O
@@ -20799,6 +20800,7 @@ Erbium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[
 Avenciguat	CCOC1=C(C=NN1C2=CC=CC(=N2)C3=CC=CC(=C3OCC4=C(C5=C(CN(CC5)C6CCOCC6)C=C4)C)C)C(=O)O
 Runcaciguat	C[C@H]([C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=C(C=CC(=C2)[C@@H](CC(=O)O)C3CC3)Cl)C(F)(F)F
 Inaxaplin	C1[C@H]([C@@H](C(=O)N1)NC(=O)CCC2=C(NC3=C2C=C(C=C3F)F)C4=CC=C(C=C4)F)O
+SPH3127	CC1=NC2=C(C=C1)C(=NN2CCCNC(=O)OC)[C@@H](C)N(C3CC3)C(=O)[C@H]4CNCCO4
 Holmium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Holmium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Cerium(IV) selenate	[Ce+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O
@@ -20809,6 +20811,7 @@ Niobium perchlorate	O=Cl(=O)(=O)O[Nb](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)(OCl(=O)(=O)=
 Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3]
 Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3].O.O.O.O.O
 Vutiglabridin	CCOC1=CC(=C(C=C1)C2CC3=C(C4=C(C=C3)OC(CC4)(C)C)OC2)O
+NNZ-2591	C=CC[C@@]12CCCN1C(=O)CNC2=O
 JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
 Halosulfuron-methyl	CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
 2-(2-(Dimethylamino)ethoxy)ethanol	CN(C)CCOCCO
