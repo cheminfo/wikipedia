@@ -20747,6 +20747,8 @@ JNJ-54175446	C[C@@H]1C2=C(CCN1C(=O)C3=C(C(=CC=C3)C(F)(F)F)Cl)N(N=N2)C4=NC=C(C=N4
 Chiglitazar	C1=CC=C2C(=C1)C3=CC=CC=C3N2CCOC4=CC=C(C=C4)C[C@@H](C(=O)O)NC5=CC=CC=C5C(=O)C6=CC=C(C=C6)F
 A-PONASA	CCCCCOc1ccc(c2ccccc21)S(=O)(=O)NC12CC3CC(C1)CC(C2)C3
 ADB-FUBHQUCA	NC(=O)[C@@H](NC(=O)C=1Cc2ccccc2N(C=1)Cc1ccc(F)cc1)C(C)(C)C
+Phosphetene	C1C=CP1
+Phosphetene	C1CP=C1
 Imidazole-4-acetaldehyde	C1=C(NC=N1)CC=O
 Fexuprazan	CNCC1=CN(C(=C1OC)C2=C(C=C(C=C2)F)F)S(=O)(=O)C3=CC=CC(=C3)F
 Famitinib	CCN(CC)CCN1CCC2=C(C1=O)C(=C(N2)/C=C\3/C4=C(C=CC(=C4)F)NC3=O)C
@@ -20833,3 +20835,4 @@ Velagliflozin	C1CC1C2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O
 Dihydroxyamine	N(O)O
 Androstenetriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](C=C4[C@@]3(CC[C@@H](C4)O)C)O
 Bezisterim	C[C@]12CC[C@@H](CC1=C[C@@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O)O
+Arpraziquantel	[H][C@@]12CN(CC(=O)N1CCC1=CC=CC=C21)C(=O)C1CCCCC1
