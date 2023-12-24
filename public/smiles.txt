@@ -20837,3 +20837,7 @@ Androstenetriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](C=C4[C@@]3(CC[C@@H]
 Bezisterim	C[C@]12CC[C@@H](CC1=C[C@@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O)O
 Arpraziquantel	[H][C@@]12CN(CC(=O)N1CCC1=CC=CC=C21)C(=O)C1CCCCC1
 Uranium(III) bromide	Br[U](Br)Br
+Cyanomethine	CC1=CC(=NC(=N1)C)N
+Tris(2,4,6-trimethoxyphenyl)phosphine	COC1=CC(=C(C(=C1)OC)P(C2=C(C=C(C=C2OC)OC)OC)C3=C(C=C(C=C3OC)OC)OC)OC
+Neptunium(III) bromide	[Np+3].[Br-].[Br-].[Br-]
+Thorium(IV) bromide	Br[Th](Br)(Br)Br
