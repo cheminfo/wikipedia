@@ -9945,7 +9945,6 @@ Barium acetate	[Ba+2].[O-]C(=O)C.[O-]C(=O)C
 TDIQ	c23OCOc2cc1CCNCc1c3
 THIQ	C1CCC(CC1)C2(CCN(CC2)C(=O)[C@@H](CC3=CC=C(C=C3)Cl)NC(=O)[C@H]4CC5=CC=CC=C5CN4)CN6C=NC=N6
 Norsalsolinol	C1CNCC2=CC(=C(C=C21)O)O
-Α-Aminoadipate pathway	O=C(O)CCCC(N)C(=O)O
 Emapunil	CCN(Cc1ccccc1)C(=O)Cn2c3c(cnc(n3)c4ccccc4)n(c2=O)C
 TB-21007	s3ccnc3-c2sc(SCCO)c1c2CC(C)(C)CC1=O
 17-Phenylandrostenol	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CC=CC=C5)C)O
@@ -19131,6 +19130,7 @@ Pentaphenylantimony	C1=CC=C(C=C1)[Sb](C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=C
 CUMYL-BC-HPMEGACLONE-221	CC(C)(c1ccccc1)N1C=Cc2n(CC3CC4CCC3C4)c3ccccc3c2C1=O
 Para-Quaterphenyl	C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=CC=C4
 3-Quinuclidinyl thiochromane-4-carboxylate	O=C(OC1CN2CCC1CC2)C1CCSc2ccccc21
+Α-Aminoadipic acid	O=C(O)CCCC(N)C(=O)O
 Dotinurad	C1N(C2=CC=CC=C2S1(=O)=O)C(=O)C3=CC(=C(C(=C3)Cl)O)Cl
 Zilucoplan	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC1=CNC2=NC=CC=C12)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@@H](NC(=O)[C@H](CC(O)=O)N(C)C(=O)[C@@H]1CC(=O)NCCCC[C@H](NC(C)=O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N1)C(C)(C)C)C1CCCCC1)C(O)=O)C(O)=O
 Pentaphenylphosphorus	C1=CC=C(C=C1)P(C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
@@ -19547,6 +19547,7 @@ Potassium tetrafluoronickelate	F[Ni-2](F)(F)F.[K+].[K+]
 Pinocarveol	CC1(C2CC1C(=C)C(C2)O)C
 Pinocarveol	CC1(C)[C@H]2C[C@@H]1C[C@@H](O)C2=C
 Pinocarveol	CC1(C)[C@@H]2C[C@H]1C[C@H](O)C2=C
+Lanthanum cuprate	[O-2].[O-2].[O-2].[O-2].[Cu+2].[La+3].[La+3]
 2,4,6-Tri-tert-butylpyrimidine	CC(C)(C)C1=CC(=NC(=N1)C(C)(C)C)C(C)(C)C
 Norcycloartenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CCC35C2(C5)CC[C@@H]1O)C)[C@H](C)CCC=C(C)C)C
 N-Acetyldopamine	CC(=O)NCCC1=CC(=C(C=C1)O)O
@@ -20427,6 +20428,7 @@ Manganese trioxide fluoride	O=[Mn](F)(=O)=O
 Hexachlorodisiloxane	O([Si](Cl)(Cl)Cl)[Si](Cl)(Cl)Cl
 Rhenium trioxide chloride	O=[Re](=O)(=O)Cl
 Vanadium dioxide fluoride	O=[V](F)=O
+1,3-Dibromobenzene	C1=CC(=CC(=C1)Br)Br
 Zabadinostat	CC1=NN(C=C1CN2CCC(CC2)C3=CC=C(C=C3)C(=O)NC4=CC=CC=C4N)C
 DMDEE	C1COCCN1CCOCCN2CCOCC2
 Praseodymium antimonide	[Pr].[Sb]
@@ -20839,6 +20841,7 @@ Arpraziquantel	[H][C@@]12CN(CC(=O)N1CCC1=CC=CC=C21)C(=O)C1CCCCC1
 Uranium(III) bromide	Br[U](Br)Br
 Cyanomethine	CC1=CC(=NC(=N1)C)N
 Tris(2,4,6-trimethoxyphenyl)phosphine	COC1=CC(=C(C(=C1)OC)P(C2=C(C=C(C=C2OC)OC)OC)C3=C(C=C(C=C3OC)OC)OC)OC
+AOD9604	CC[C@H](C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1CSSC[C@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC1=O)CCCNC(=N)N)CO)C(C)C)CCC(=O)O)CO)C(=O)NCC(=O)N[C@@H](CC2=CC=CC=C2)C(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC3=CC=C(C=C3)O)N
 Neptunium(III) bromide	[Np+3].[Br-].[Br-].[Br-]
 Thorium(IV) bromide	Br[Th](Br)(Br)Br
 Ethylcholine mustard	CCN(CCO)CCCl
