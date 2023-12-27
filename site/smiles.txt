@@ -20820,6 +20820,7 @@ JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
 Halosulfuron-methyl	CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
 2-(2-(Dimethylamino)ethoxy)ethanol	CN(C)CCOCCO
 Praseodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Pr+3]
+1-Bromopentane	CCCCCBr
 Nelonemdaz	C1=CC(=C(C=C1NCC2=C(C(=C(C(=C2F)F)C(F)(F)F)F)F)C(=O)O)O
 BIIB131	CC(=CCC/C(=C/CC[C@]1([C@H](CC2=C(C=C3C(=C2O1)CN(C3=O)CCC[C@@H](C(=O)O)N4CC5=C6C(=C(C=C5C4=O)O)C[C@@H]([C@](O6)(C)CC/C=C(\C)/CCC=C(C)C)O)O)O)C)/C)C
 SAGE-324	CC1=NN(N=N1)CC(=O)[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CC[C@@H]5[C@@H]4CC[C@@](C5)(COC)O)C
@@ -20845,3 +20846,4 @@ AOD9604	CC[C@H](C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1CS
 Neptunium(III) bromide	[Np+3].[Br-].[Br-].[Br-]
 Thorium(IV) bromide	Br[Th](Br)(Br)Br
 Ethylcholine mustard	CCN(CCO)CCCl
+Macrophage-activating lipopeptide 2	[C@H](CC1=CC=CC=C1)(C(N[C@H](C(N[C@H](C(N[C@@H](CCCCN)C(O)=O)=O)CCC(O)=O)=O)CCCCN)=O)NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC(CNC([C@H](CSC[C@@H](COC(CCCCCCCCCCCCCCC)=O)OC(CCCCCCCCCCCCCCC)=O)N)=O)=O)CC(N)=O)=O)CC(N)=O)=O)CC(O)=O)=O)CCC(O)=O)=O)CO)=O)CC(N)=O)=O)[C@H](CC)C)=O)CO)=O
