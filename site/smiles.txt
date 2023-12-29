@@ -19114,7 +19114,7 @@ LY-456220	C1CN(CC=C1C2=CNC3=C2C=CC(=C3)F)CCC4C5=C(CCO4)C=C(C=C5)C(=O)N
 Tungsten(III) iodide	I[W](I)I
 Metyltetraprole	CC1=C(C(=CC=C1)N2C(=O)N(N=N2)C)COC3=NN(C=C3)C4=CC=C(C=C4)Cl
 Praseodymium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pr+3].[Pr+3]
-Copper oxalate	C(=O)(C(=O)O)O.[Cu+2]
+Copper oxalate	O=C([O-])C([O-])=O.[Cu+2]
 4-PrO-DMT	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C
 Praseodymium(III) nitride	N#[Pr]
 Praseodymium(IV) fluoride	F[Pr](F)(F)F
