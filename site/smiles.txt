@@ -5934,7 +5934,8 @@ Erythrose 4-phosphate	[O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O
 Chlorobutanol	ClC(Cl)(Cl)C(C)(C)O
 Thiophosphoryl chloride	P(=S)(Cl)(Cl)Cl
 TCEP	OC(CCP(CCC(O)=O)CCC(O)=O)=O
-Sodium picosulfate	[Na+].[Na+].[O-]S(=O)(=O)Oc1ccc(cc1)C(c2ccc(OS([O-])(=O)=O)cc2)c3ncccc3
+Sodium picosulfate	O.[Na+].[Na+].[O-]S(=O)(=O)OC1=CC=C(C=C1)C(C1=CC=C(OS([O-])(=O)=O)C=C1)C1=CC=CC=N1
+Sodium picosulfate	[Na+].[Na+].[O-]S(=O)(=O)OC1=CC=C(C=C1)C(C1=CC=C(OS([O-])(=O)=O)C=C1)C1=CC=CC=N1
 Hydroxyethyl starch	O(CCO)[C@H]1O[C@@H]([C@@H](OCCO)[C@H](OCCO)[C@H]1OCCO)COCCO.OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Tepoxalin	CN(C(=O)CCc1cc(n(n1)c2ccc(cc2)OC)c3ccc(cc3)Cl)O
 Amtolmetin guacil	O=C(c1ccc(n1C)CC(=O)NCC(=O)Oc2ccccc2OC)c3ccc(cc3)C
@@ -20550,6 +20551,7 @@ Isomyosamine	C1CC(N=C1)C2=CN=CC=C2
 Leptosin	COC1=C(C=CC2=C1O/C(=C\C3=CC(=C(C=C3)O)O)/C2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Diphenyl sulfide	C1=CC=C(C=C1)SC2=CC=CC=C2
 JHU-083	CCOC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](CC(C)C)N
+2-Decanone	CCCCCCCCC(=O)C
 Tildipirosin	CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O)N(C)C)O)CCN3CCCCC3)C)\C)CN4CCCCC4
 2-Ethylhexyl fluoroacetate	CCCCC(CC)COC(=O)CF
 4-Cl-PHP	CCCCC(C(=O)C1=CC=C(C=C1)Cl)N2CCCC2
@@ -20850,3 +20852,4 @@ Macrophage-activating lipopeptide 2	[C@H](CC1=CC=CC=C1)(C(N[C@H](C(N[C@H](C(N[C@
 Olgotrelvir	CC(C)CC(C(=O)NC(CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)C2=CC3=CC=CC=C3N2
 N-Methyliminodiacetic acid	CN(CC(=O)O)CC(=O)O
 Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS
+Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
