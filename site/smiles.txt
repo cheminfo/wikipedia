@@ -2451,7 +2451,7 @@ Tigecycline	CC(C)(C)NCC(=O)Nc1cc(c2C[C@H]3C[C@H]4[C@H](N(C)C)C(\O)=C(\C(N)=O)C(=
 Mesityl oxide	O=C(\C=C(/C)C)C
 Iron pentacarbonyl	O=C=[Fe](=C=O)(=C=O)(=C=O)=C=O
 Milnacipran	O=C(N(CC)CC)[C@@]2(c1ccccc1)[C@@H](CN)C2
-17α-Hydroxyprogesterone	CC(=O)C1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O
+17α-Hydroxyprogesterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
 Dimethylamine	CNC
 Potassium titanyl phosphate	[O-]P(=O)([O-])[O-].O=[Ti+2].[K+]
 Ethinylestradiol	Oc1cc4c(cc1)[C@H]3CC[C@]2([C@@H](CC[C@]2(C#C)O)[C@@H]3CC4)C
