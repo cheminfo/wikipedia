@@ -20764,6 +20764,7 @@ Cadmium permanganate	[Cd+2].O=[Mn](=O)(=O)[O-].O=[Mn](=O)(=O)[O-]
 Tungsten(II) iodide	[I-].[I-].[W+2]
 Lorundrostat	CC1=CC=C(C=C1)C2=CN=NC(=N2)N3CCN(CC3)CC(=O)NC4CCC(CC4)NC(=O)C
 Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C=C7)Cl)NC5=O)C8=C(C(=CC=C8)Cl)F)C(=O)O
+Mavorixafor	C1C[C@@H](C2=C(C1)C=CC=N2)N(CCCCN)CC3=NC4=CC=CC=C4N3
 DA-1241	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
 Olverembatinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CC5=C(NN=C5)N=C4
 BMS-986278	CCCN(C)C(=O)OCC1=C(N=NN1C)C2=NC(=C(C=C2)O[C@H]3CCC[C@@H](C3)C(=O)O)C
@@ -20791,6 +20792,7 @@ Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
 Onfasprodil	O([C@@H]1C[C@@]2([C@](C1)(CN(C[C@H](O)C3=CC=C(O)C=N3)C2)[H])[H])C4=C(F)C=CC=C4
 1,4-Butanedithiol	C(CCS)CS
+Iberdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCOCC5
 Mezigdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCN(CC5)C6=C(C=C(C=C6)C#N)F
 5-MAPBT	CC(CC1=CC2=C(C=C1)SC=C2)NC
 Danicamtiv	C[C@@](C1CCN(CC1)C(=O)NC2=NOC=C2)(F)S(=O)(=O)C3=CN(N=C3C(F)F)C
@@ -20855,3 +20857,4 @@ Olgotrelvir	CC(C)CC(C(=O)NC(CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)C2=CC3=CC=CC=C3N2
 N-Methyliminodiacetic acid	CN(CC(=O)O)CC(=O)O
 Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS
 Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
+Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
