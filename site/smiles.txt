@@ -13848,8 +13848,8 @@ Liquiritin	C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]
 Xanthotoxol	C1=CC(=O)OC2=C(C3=C(C=CO3)C=C21)O
 Fraxetin	COC1=C(C(=C2C(=C1)C=CC(=O)O2)O)O
 Sulfoxaflor	CC(c1ccc(nc1)C(F)(F)F)S(=NC#N)(=O)C
-Melitidin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)COC(=O)CC(C)(CC(=O)O)O)O)O)O)O)O
-Brutieridin	CC1C(C(C(C(O1)OC2C(C(C(OC2C3=CC4=C(C(=O)CC(O4)C5=CC(=C(C=C5)OC)O)C(=C3)O)COC(=O)CC(C)(CC(=O)O)O)O)O)O)O)O
+Melitidin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)COC(=O)CC(C)(CC(=O)O)O)O)O)O)O)O
+Brutieridin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)COC(=O)CC(C)(CC(=O)O)O)O)O)O)O)O
 Perfluoroheptane	C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
 6-MAPB	CC(NC)CC1=CC(OC=C2)=C2C=C1
 25D-NBOMe	COC1=C(C=C(C(=C1)C)OC)CCNCC2=C(C=CC=C2)OC
@@ -20857,5 +20857,6 @@ Macrophage-activating lipopeptide 2	[C@H](CC1=CC=CC=C1)(C(N[C@H](C(N[C@H](C(N[C@
 Olgotrelvir	CC(C)CC(C(=O)NC(CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)C2=CC3=CC=CC=C3N2
 N-Methyliminodiacetic acid	CN(CC(=O)O)CC(=O)O
 Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS
+4-Fluoroselegiline	CC(CC1=CC=C(F)C=C1)N(C)CC#C
 Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
 Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
