@@ -12628,7 +12628,7 @@ OSU-6162	CCCN1CCC[C@H](C1)C2=CC(=CC=C2)S(=O)(=O)C
 Nitrosoprodenafil	CCCc1c2c(c(nc(n2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)Oc5ncc(s5)N(C)N=O)n(n1)C
 RU-28306	c13c(C2)cccc1[nH]cc3CC2N(C)C
 Diethylethanolamine	CCN(CC)CCO
-Trans-1,3,3,3-tetrafluoropropene	F[C@H]=CC(F)(F)F
+Trans-1,3,3,3-Tetrafluoropropene	F[C@H]=CC(F)(F)F
 Bay R 1531	COc2ccc1[nH]cc3CC(Cc2c13)N(CCC)CCC
 5-MeO-NBpBrT	BrC1=CC=C(CNCCC2=CNC3=CC=C(OC)C=C23)C=C1
 Ammiol	COC1=C2C(=O)C=C(OC2=C(C3=C1C=CO3)OC)CO
@@ -12664,6 +12664,7 @@ MC21-B	OC(=O)c1cc(Br)c(cc1)c2c(Br)c(Br)c(cc2)C(=O)O
 (R)-2-Methyl-CBS-oxazaborolidine	O2B(N1CCC[C@@H]1C2(c3ccccc3)c4ccccc4)C
 18,19-Dehydrobuprenorphine	C[C@]([C@H]1C[C@]23C=CC1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O
 Benfluralin	[O-][N+](=O)c1cc(cc([N+]([O-])=O)c1N(CCCC)CC)C(F)(F)F
+1,3,3,3-Tetrafluoropropene	C(=CF)C(F)(F)F
 Nitrofen	Clc2cc(Cl)ccc2Oc1ccc([N+]([O-])=O)cc1
 L-694247	CS(=O)(=O)Nc1ccc(cc1)Cc2nc(on2)c3ccc4c(c3)c(c[nH]4)CCN
 YM-31636	n2c4c1ccccc1Cc4sc2Cc3c[nH]cn3
@@ -19983,6 +19984,7 @@ Bis(acetylacetonato)iron(II)	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+2]
 Bis(acetylacetonato)iron(II)	CC(=CC(=O)C)O.C/C(=C/C(=O)C)/O.O.[Fe]
 Sciadonic acid	CCCCC/C=C\C/C=C\CCCC/C=C\CCCC(=O)O
 Dysidazirine	CCCCCCCCCCCCCC=CC(=N1)[C@H]1C(=O)OC
+Cerocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Ce+3]
 O-Octadecylhydroxylamine	CCCCCCCCCCCCCCCCCCON
 Tantalum arsenide	[As].[Ta]
 Diphosphadiboretanes	[BH2-]1[PH2+][BH2-][PH2+]1
@@ -20783,6 +20785,7 @@ Azeliragon	CCCCC1=NC(=CN1C2=CC=C(C=C2)OC3=CC=C(C=C3)Cl)C4=CC=C(C=C4)OCCCN(CC)CC
 Omesdafexor	N(C[C@@H]1CC[C@H](CC1)C2=CC(C)=C(OC)C=C2)(C(=O)[C@@H]3CC[C@@H](O)CC3)C4=CC(=CC=C4)C5=CN(N=C5)C6CC6
 Miricorilant	C1CC(CCC1C2=CC=CC=C2)C3=C(C(=O)NC(=O)N3)CC4=CC(=CC=C4)C(F)(F)F
 Namodenoson	CNC(=O)[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=C(N=C32)Cl)NCC4=CC(=CC=C4)I)O)O
+PXL065	[2H][C@]1(C(=O)NC(=O)S1)CC2=CC=C(C=C2)OCCC3=NC=C(C=C3)CC
 Rencofilstat	CC[C@H]1C(=O)N([C@@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)CCCCCCNC(=O)C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C)C
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
 Selvigaltin	C1=C(C=C(C(=C1F)F)F)C2=CN(N=N2)[C@H]3[C@H]([C@H](O[C@@H]([C@@H]3O)SC4=CC(=CN=C4)Br)CO)O
@@ -20860,4 +20863,7 @@ Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)
 4-Fluoroselegiline	CC(CC1=CC=C(F)C=C1)N(C)CC#C
 Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
 Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
+Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 2,5-Hexanediol	CC(CCC(C)O)O
+Cis-1,3,3,3-Tetrafluoropropene	C(=C\F)\C(F)(F)F
+Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CCCN)C=CC=N3)C4=CC=C(C=C4)C(=O)O)CC5=CNC6=CC=CC=C65
