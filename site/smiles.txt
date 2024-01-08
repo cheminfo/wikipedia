@@ -2995,7 +2995,7 @@ Rubrene	c5(c3c(c1ccccc1c(c2ccccc2)c3c(c4ccccc4)c6ccccc56)c7ccccc7)c8ccccc8
 Trovafloxacin	O=C(O)C2=CN(c1nc(c(F)cc1C2=O)N3C[C@H]4[C@H](N)[C@H]4C3)c5ccc(F)cc5F
 9,10-Diphenylanthracene	c1ccc(cc1)c2c3ccccc3c(c4c2cccc4)c5ccccc5
 Tetracene	c1c2cc3cc4ccccc4cc3cc2ccc1
-5-Dehydro-m-xylylene	[CH2]C(C1)=C-[C]=C-C1[CH2]
+5-Dehydro-m-xylylene	[CH2]C(C1)=C-[C]=C-C=1[CH2]
 Diethyl sulfoxide	O=S(CC)CC
 Isothiazole	n1sccc1
 3-Phosphoglyceric acid	C([C@H](C(=O)O)O)OP(=O)(O)O
@@ -20510,6 +20510,7 @@ Iridium(III) bromide	Br[Ir](Br)Br
 Germanium dibromide	Br[Ge]Br
 Dysprosium selenide	[Se-2].[Se-2].[Se-2].[Dy+3].[Dy+3]
 Germanium diselenide	[Ge](=[Se])=[Se]
+Rubidium germanium iodide	[Ge+2].[I-].[I-].[I-].[Rb+]
 Einsteinium(II) chloride	[Es+2].[Cl-].[Cl-]
 Hassium tetroxide	O=[Hs](=O)(=O)=O
 Seaborgium hexacarbonyl	O=C=[Sg](=C=O)(=C=O)(=C=O)(=C=O)=C=O
@@ -20865,5 +20866,9 @@ Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
 Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
 Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 2,5-Hexanediol	CC(CCC(C)O)O
+Metamitron	CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
 Cis-1,3,3,3-Tetrafluoropropene	C(=C\F)\C(F)(F)F
 Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CCCN)C=CC=N3)C4=CC=C(C=C4)C(=O)O)CC5=CNC6=CC=CC=C65
+Promethocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Pm+3]
+Scandocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Sc+3]
+Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
