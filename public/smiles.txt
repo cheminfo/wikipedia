@@ -6138,7 +6138,7 @@ Durene	c1c(c(cc(c1C)C)C)C
 Fructose 1-phosphate	O=P(O)(O)OCC(=O)[C@@H](O)[C@H](O)[C@H](O)CO
 Vinyl fluoride	FC=C
 Potassium ferrioxalate	O=C(C(=O)[O-]1)[O-][Fe+3]123([O-]C(C(=O)[O-]2)=O)[O-]C(C(=O)[O-]3)=O.[K+].[K+].[K+]
-Icatibant	C1CC[C@H]2[C@@H](C1)CC(N2C(=O)C3CC4=CC=CC=C4CN3C(=O)[C@H](CO)NC(=O)[C@H](CC5=CC=CS5)NC(=O)CNC(=O)C6C[C@H](CN6C(=O)C7CCCN7C(=O)C(CCCN=C(N)N)NC(=O)[C@@H](CCCN=C(N)N)N)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
+Icatibant	C1CC[C@H]2[C@@H](C1)C[C@H](N2C(=O)[C@H]3CC4=CC=CC=C4CN3C(=O)[C@H](CO)NC(=O)[C@H](CC5=CC=CS5)NC(=O)CNC(=O)[C@@H]6C[C@H](CN6C(=O)[C@@H]7CCCN7C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H](CCCN=C(N)N)N)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
 Antamanide	C[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)N5CCC[C@H]5C(=O)N1)C(C)C)Cc6ccccc6)Cc7ccccc7)Cc8ccccc8)Cc9ccccc9
 Methamphetamine	CNC(C)Cc1ccccc1
 Isothiazolinone	O=C1NSC=C1
@@ -19751,7 +19751,6 @@ Tetracenomycin C	O=C1C=2C(C(=O)[C@@]3(O)[C@]1(O)[C@H](O)C(OC)=CC3=O)=C(O)C=4C(C2
 Magnesium ozonide	[Mg+].[O-]O[O]
 Hordatine A	C1=CC(=CC=C1[C@@H]2[C@H](C3=C(O2)C=CC(=C3)/C=C/C(=O)NCCCCN=C(N)N)C(=O)NCCCCN=C(N)N)O
 Hordatine A	C1=CC(=CC=C1C2C(C3=C(O2)C(=CC(=C3)C=CC(=O)NCCCCN=C(N)N)O)C(=O)NCCCCN=C(N)N)OC4C(C(C(C(O4)CO)O)O)O
-Prescopranone	C/C=C(CC)/c1oc(=O)c(CCC)c(O)c1CC(CC)CC
 Saphenamycin	CC1=C(C(=CC=C1)O)C(=O)OC(C)C2=CC=CC3=NC4=C(C=CC=C4N=C32)C(=O)O
 Saphenamycin	C[C@@H](OC(=O)c1c(C)cccc1O)c2cccc3nc4c(cccc4nc23)C(=O)O
 Lemonomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)OC[C@H]2C3=C(C[C@@H]4N2[C@H]([C@@H]5C[C@H]([C@H]4N5)C(O)O)O)C(=O)C(=C(C3=O)OC)C)(C)O)N(C)C
@@ -20872,3 +20871,6 @@ Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CC
 Promethocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Pm+3]
 Scandocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Sc+3]
 Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
+Palladium(II) sulfate	[Pd+2].S(=O)(=O)([O-])[O-]
+1,1,2,2-Tetrafluoroethane	C(C(F)F)(F)F
+Cobalt(II) cyanate	C(#N)[O-].C(#N)[O-].[Co+2]
