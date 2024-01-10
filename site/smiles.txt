@@ -20874,3 +20874,9 @@ Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
 Palladium(II) sulfate	[Pd+2].S(=O)(=O)([O-])[O-]
 1,1,2,2-Tetrafluoroethane	C(C(F)F)(F)F
 Cobalt(II) cyanate	C(#N)[O-].C(#N)[O-].[Co+2]
+Cobalt(II) cyanate	C(=[N-])=O.C(=[N-])=O.[Co+2]
+Batyl alcohol	CCCCCCCCCCCCCCCCCCOCC(CO)O
+Chimyl alcohol	CCCCCCCCCCCCCCCCOCC(CO)O
+Selachyl alcohol	CCCCCCCC/C=C\CCCCCCCCOCC(CO)O
+Penoxsulam	COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
+Beryllocene	c1ccc[cH-]1.[Be+2].c2ccc[cH-]2
