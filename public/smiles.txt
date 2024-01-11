@@ -9506,7 +9506,7 @@ Cyclopentanepentone	O=C1C(=O)C(=O)C(=O)C1=O
 Dodecahydroxycyclohexane	OC1(O)C(O)(O)C(O)(O)C(O)(O)C(O)(O)C1(O)O
 Decahydroxycyclopentane	C1(C(C(C(C1(O)O)(O)O)(O)O)(O)O)(O)O
 EGLU	O=C(O)CC[C@](N)(C(=O)O)CC
-APICA (drug)	O=P(O)(O)c(c2)ccc1c2CCC1(N)C(O)=O
+1-Amino-5-phosphonoindan-1-carboxylic acid	O=P(O)(O)c(c2)ccc1c2CCC1(N)C(O)=O
 Orobol	C1=CC(=C(C=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O)O
 1-Hydroxy-7-azabenzotriazole	n1cccc2nnn(O)c12
 2,5-Dimethylhexane	CC(C)CCC(C)C
@@ -20144,6 +20144,7 @@ Cobalt(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Co+2]
 Topical hydrocortisone	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Hydroxyethyl acrylate	C=CC(=O)OCCO
 TDI-11861	C1COC[C@H](N1CCOC2=CC=CC=C2CC3=CN(N=C3C4=CC(=NC(=N4)N)Cl)C(F)F)CO
+Sparsentan	CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C(COCC)=C1)C1=CC=CC=C1S(=O)(=O)NC1=NOC(C)=C1C
 Ethylphosphonoselenoic dichloride	CCP(=[Se])(Cl)Cl
 Sulfluramid	CCNS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 Cadusafos	CCC(C)SP(=O)(OCC)SC(C)CC
@@ -20880,3 +20881,4 @@ Chimyl alcohol	CCCCCCCCCCCCCCCCOCC(CO)O
 Selachyl alcohol	CCCCCCCC/C=C\CCCCCCCCOCC(CO)O
 Penoxsulam	COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
 Beryllocene	c1ccc[cH-]1.[Be+2].c2ccc[cH-]2
+Fudosteine	C(CO)CSC[C@@H](C(=O)O)N
