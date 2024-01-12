@@ -19908,7 +19908,6 @@ Pimitespib	O=C(N)C1=CC=C(C(=C1)CC)N2N=C(C=3C2=NC=CC3N4C=NC(=C4)C=5C=NN(C5)C)C(C)
 Selenoneine	C[N+](C)(C)[C@@H](Cc1c[nH][c](=[Se])[nH]1)C([O-])=O
 Selenoneine	C[N+](C)(C)[C@@H](CC1=CN=C(N1)[Se])C(=O)[O-]
 Deucravacitinib	[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4
-Deucravacitinib	CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4
 1-Adamantanecarboxylic acid	C1C2CC3CC1CC(C2)(C3)C(=O)O
 2-Iodophenol	C1=CC=C(C(=C1)O)I
 4-Iodophenol	C1=CC(=CC=C1O)I
@@ -19923,7 +19922,7 @@ Lithium thiocyanate	[Li+].C(#N)[S-].O.O
 Oxime V	C(=N/O)\C=1CC=C(COC)CC1
 Isosulfan blue	[Na+].CCN(CC)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC)C1=CC(=CC=C1S([O-])(=O)=O)S([O-])(=O)=O
 Isosulfan blue	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(ccc3S(=O)(=O)[O-])S(=O)(=O)O
-Dichlorodifluoroethane	C(C(F)(Cl)Cl)F
+1,1-Dichloro-1,2-difluoroethane	C(C(F)(Cl)Cl)F
 1,2,4,5-Tetrachloro-3-nitrobenzene	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
 Niobium(V) oxynitrate	[Nb](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Undecaprenyl phosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/COP(=O)(O)O)/C)/C)/C)/C)/C)/C)/C)/C)/C)/C)C
@@ -20882,3 +20881,6 @@ Selachyl alcohol	CCCCCCCC/C=C\CCCCCCCCOCC(CO)O
 Penoxsulam	COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
 Beryllocene	c1ccc[cH-]1.[Be+2].c2ccc[cH-]2
 Fudosteine	C(CO)CSC[C@@H](C(=O)O)N
+Holmium diantimonide	[Sb].[Sb].[Ho]
+Bismuthyl (ion)	[Bi+]=O
+Samarium(III) antimonide	[Sb].[Sm]
