@@ -3735,6 +3735,7 @@ Germabenzene	[H][Ge]1C=CC=CC=1
 Iron(II) gluconate	[Fe+2].O[C@H]([C@@H](O)C([O-])=O)[C@H](O)[C@H](O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Ethenzamide	O=C(c1ccccc1OCC)N
 Cerulenin	O=C(CC/C=C/C/C=C/C)[C@H]1O[C@H]1C(=O)N
+Chelerythrine	C[n+]1cc2c(ccc(c2OC)OC)c3c1c4cc5c(cc4cc3)OCO5.[Cl-]
 Chelerythrine	O1c3c(OC1)cc2ccc4c5c(c[n+](c4c2c3)C)c(OC)c(OC)cc5
 Kynurenine	c1ccc(c(c1)C(=O)C[C@@H](C(=O)O)N)N
 5-Hydroxyindoleacetic acid	c1cc2c(cc1O)c(c[nH]2)CC(=O)O
@@ -16000,7 +16001,7 @@ Totomycin	C/C(=C\C1=CC(=C(C=C1)O[C@H]2[C@H]([C@@H]([C@H](O2)C(=O)C)O)O)O)/C(=O)N
 Rociletinib	CC(=O)N1CCN(CC1)c2ccc(c(c2)OC)Nc3ncc(c(n3)Nc4cccc(c4)NC(=O)C=C)C(F)(F)F
 Niraparib	c1cc2cn(nc2c(c1)C(=O)N)c3ccc(cc3)[C@@H]4CCCNC4
 Biliatresone	O=C(C(C1=C(O)C=CC=C1)=C)C2=C(OC)C3=C(OCO3)C=C2OC
-Coibamide A	[H][C@@]1([C@@H](C)CC)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@]([H])([C@@H](C)OC(=O)[C@H](C)N(C)C(=O)[C@H](CC2=CC=C(OC)C=C2)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC1=O)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@@H](OC(=O)[C@H](C(C)C)N(C)C)C(C)C
+Coibamide A	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)O[C@@H]([C@@H](C(=O)N([C@H](C(=O)N1C)COC)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](COC)N(C)C(=O)[C@H](C(C)C)OC(=O)[C@H](C(C)C)N(C)C)C)C)C)CC2=CC=C(C=C2)OC)CC(C)C)C)C
 Calcium fructoborate	[Ca++].OC[C@H]1O[C@@]2(CO)O[B-]3(O[C@H]2[C@@H]1O)O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O3.OC[C@H]1O[C@@]2(CO)O[B-]3(O[C@H]2[C@@H]1O)O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O3
 2,3-Methylenedioxymethamphetamine	CC(CC1=C2C(=CC=C1)OCO2)NC
 Semaglutide	CCC(C)C(C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CCC(=O)O)NC(=O)C(CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CCC(C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(C(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(C)(C)NC(=O)C(CC6=CN=CN6)N
