@@ -3350,7 +3350,6 @@ Fluoroantimonic acid	[FH2+].F[Sb-](F)(F)(F)(F)F
 Pyrimethamine	Clc2ccc(c1c(nc(nc1CC)N)N)cc2
 Triuranium octoxide	[O].[O].[O].[O].[O].[O].[O].[O].[U].[U].[U]
 Uranium dioxide	O=[U]=O
-Palladium on carbon	[Pd]
 Isopentenyl pyrophosphate	CC(=C)CCOP(=O)(O)OP(=O)(O)O
 Geranyl pyrophosphate	O=P(O)(O)OP(=O)(OC/C=C(/CC\C=C(/C)C)C)O
 Farnesyl pyrophosphate	CC(=CCC/C(=C/CC/C(=C/COP(=O)(O)OP(=O)(O)O)/C)/C)C
@@ -20887,6 +20886,7 @@ Fudosteine	C(CO)CSC[C@@H](C(=O)O)N
 Holmium diantimonide	[Sb].[Sb].[Ho]
 Bismuthyl (ion)	[Bi+]=O
 Samarium(III) antimonide	[Sb].[Sm]
+Potassium borohydride	[BH4-].[K+]
 Plaunotol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/CO)/C)C
 Bunamidine	CCCCCCOC1=CC=C(C2=CC=CC=C21)C(=N)N(CCCC)CCCC
 4,6-Dimethyldibenzothiophene	CC1=C2C(=CC=C1)C3=CC=CC(=C3S2)C
@@ -20900,3 +20900,6 @@ Thorium(IV) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Th+4].O.O.O.O.O.
 Gadolinium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Gd+3].[Gd+3]
 Benzimidazolinone	C1=CC=C2C(=C1)NC(=O)N2
 1,2-Dichloro-1,1-difluoroethane	C(C(F)(F)Cl)Cl
+Thorium diiodide	[Th+2].[I-].[I-]
+1,3,5,7-Adamantanetetracarboxylic acid	C1C2(CC3(CC1(CC(C2)(C3)C(=O)O)C(=O)O)C(=O)O)C(=O)O
+N-Nitrosomorpholine	C1COCCN1N=O
