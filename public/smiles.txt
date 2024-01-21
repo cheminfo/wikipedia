@@ -20518,6 +20518,7 @@ Berkelium(III) oxychloride	[Bk+3].[Cl-].[O-2]
 Californium(III) oxybromide	[Br-].[Cf+3].[O-2]
 Californium(III) oxyiodide	[Cf+3].[I-].[O-2]
 Berkelium(III) oxybromide	[Bk+3].[Br-].[O-2]
+Selenocyanate	C(#N)[Se-]
 Etrinabdione	CCCCCC1=C(C(=C(C(=O)C1=O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O)NCC3=CC=CC=C3
 Gurjunene	C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C
 1T-LSD	O=C(n1cc2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)c3cccc1c32)c1cccs1
@@ -20904,3 +20905,6 @@ Thorium diiodide	[Th+2].[I-].[I-]
 N-Nitrosomorpholine	C1COCCN1N=O
 Danshensu	C1=CC(=C(C=C1C[C@H](C(=O)O)O)O)O
 Danshensu	C1=CC(=C(C=C1CC(C(=O)[O-])O)O)O.[Na+]
+Z3517967757	CC(C1=NC=CC=N1)N2CCCC(C2)C3=CC=C(C=C3)O
+Dysprosium(III) phosphate	[O-]P(=O)([O-])[O-].[Dy+3]
+2CE-5iPrO	COc1cc(CC)c(cc1CCN)OC(C)C
