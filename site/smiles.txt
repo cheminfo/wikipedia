@@ -17328,7 +17328,7 @@ Lusutrombopag	CCCCCCO[C@@H](C)c1cccc(-c2csc(NC(=O)c3cc(Cl)c(/C=C(\C)C(=O)O)c(Cl)
 N-Ethylpentylone	CCNC(CCC)C(=O)c2ccc1OCOc1c2
 5F-CUMYL-P7AICA	FCCCCCn1cc(c3cccnc13)C(=O)NC(C)(C)c2ccccc2
 Cinnamyl acetate	CC(=O)OC/C=C/c1ccccc1
-CUMYL-PEGACLONE	CC(C1=CC=CC=C1)(C)N2C=CC(N(CCCCC)C3=C4C=CC=C3)=C4C2=O
+Cumyl-pegaclone	CC(C1=CC=CC=C1)(C)N2C=CC(N(CCCCC)C3=C4C=CC=C3)=C4C2=O
 N-Methyltaurine	CNCCS(=O)(=O)O
 Cymegesolate	CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=C[C@H](CC4)OC(=O)CCC5CCCC5)C
 Megestrol caproate	CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)C)C)C(=O)C
@@ -20443,10 +20443,10 @@ Lanthanum acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.
 Rubidium permanganate	[Rb+].[O-][Mn](=O)(=O)=O
 Acetone hydrazone	CC(=NN)C
 1,2,3-Trichlorobenzene	C1=CC(=C(C(=C1)Cl)Cl)Cl
-Lutetium selenide	[Se-2].[Se-2].[Se-2].[Lu+3].[Lu+3]
-Thulium selenide	[Se-2].[Se-2].[Se-2].[Tm+3].[Tm+3]
-Erbium selenide	[Se].[Se].[Se].[Er].[Er]
-Holmium selenide	[Se-2].[Se-2].[Se-2].[Ho+3].[Ho+3]
+Lutetium(III) selenide	[Se-2].[Se-2].[Se-2].[Lu+3].[Lu+3]
+Thulium(III) selenide	[Se-2].[Se-2].[Se-2].[Tm+3].[Tm+3]
+Erbium(III) selenide	[Se].[Se].[Se].[Er].[Er]
+Holmium(III) selenide	[Se-2].[Se-2].[Se-2].[Ho+3].[Ho+3]
 Cerium monoselenide	[Se].[Ce]
 Europium(III) selenide	[Se-2].[Se-2].[Se-2].[Eu+3].[Eu+3]
 Tetrachlorobenzene	C1=C(C(=CC(=C1Cl)Cl)Cl)Cl
@@ -20507,7 +20507,7 @@ Terbium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[T
 Lotiglipron	C[C@@]1(OC2=CC=CC(=C2O1)C3CCN(CC3)CC4=NC5=C(N4C[C@@H]6CCO6)C=C(C=C5)C(=O)O)C7=NC=C(C=C7)Cl
 Iridium(III) bromide	Br[Ir](Br)Br
 Germanium dibromide	Br[Ge]Br
-Dysprosium selenide	[Se-2].[Se-2].[Se-2].[Dy+3].[Dy+3]
+Dysprosium(III) selenide	[Se-2].[Se-2].[Se-2].[Dy+3].[Dy+3]
 Germanium diselenide	[Ge](=[Se])=[Se]
 Rubidium germanium iodide	[Ge+2].[I-].[I-].[I-].[Rb+]
 Einsteinium(II) chloride	[Es+2].[Cl-].[Cl-]
