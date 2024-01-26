@@ -15416,7 +15416,7 @@ Argpyrimidine	CC1=C(C(=NC(=N1)NCCC[C@@H](C(=O)O)N)C)O
 Vofopitant	COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CN[C@H]3CCCN[C@H]3C4=CC=CC=C4
 Serlopitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@H]2CC[C@@H]3CN(C[C@H]3[C@@H]2C4=CC=C(C=C4)F)C5=CC(=O)CC5
 Caffeic aldehyde	C1=CC(=C(C=C1C=CC=O)O)O
-Lumateperone	[H][C@]12CCN(CCCC(=O)C3=CC=C(F)C=C3)C[C@@]1([H])C1=CC=CC3=C1N2CCN3C
+Lumateperone	[H] [C@]12CCN(CCCC(=O)C3=CC=C(F)C=C3)C[C@@]1([H])C1=CC=CC3=C1N2CCN3C
 Tilapertin	c1ccc(cc1)[C@H](c2cccc(c2)C(F)(F)F)N3CCN(CC3)CC(=O)O
 Remeglurant	C[C@@H]1c2ccccc2CCN1C(=O)c3cc4ncc(cn4n3)Br
 MIN-117	CC1=NN=C(O1)C2=CC3=C(O2)C=CC=C3OC[C@H](CN4CCC(CC4)C5=CC(=C(C=C5)Cl)Cl)O
@@ -20916,3 +20916,5 @@ Thulium monoselenide	[Se]=[Tm]
 Praseodymium monoselenide	[Pr].[Se]
 Bismuth(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Bi+3].[Bi+3]
 Adipaldehyde	C(CCC=O)CC=O
+Barium selenate	[O-][Se](=O)(=O)[O-].[Ba+2]
+Einsteinium(II) iodide	[Es+2].[I-].[I-]
