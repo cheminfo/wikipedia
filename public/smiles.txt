@@ -20870,6 +20870,7 @@ Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 Metamitron	CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
 Cis-1,3,3,3-Tetrafluoropropene	C(=C\F)\C(F)(F)F
 Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CCCN)C=CC=N3)C4=CC=C(C=C4)C(=O)O)CC5=CNC6=CC=CC=C65
+Indium(I) chloride	[Cl-].[In+]
 Promethocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Pm+3]
 Scandocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Sc+3]
 Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
@@ -20890,6 +20891,7 @@ Samarium(III) antimonide	[Sb].[Sm]
 Potassium borohydride	[BH4-].[K+]
 Plaunotol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/CO)/C)C
 Bunamidine	CCCCCCOC1=CC=C(C2=CC=CC=C21)C(=N)N(CCCC)CCCC
+Diethyl diethyl malonate	CCC(CC)(C(=O)OCC)C(=O)OCC
 4,6-Dimethyldibenzothiophene	CC1=C2C(=CC=C1)C3=CC=CC(=C3S2)C
 1,3-Oxathiolane	C1CSCO1
 2-Chloro-1,1-difluoroethane	C(C(F)F)Cl
@@ -20918,6 +20920,7 @@ Bismuth(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Bi+3
 Adipaldehyde	C(CCC=O)CC=O
 Barium selenate	[O-][Se](=O)(=O)[O-].[Ba+2]
 Einsteinium(II) iodide	[Es+2].[I-].[I-]
+Dimethylaluminium chloride	C[Al](C)Cl
 Einsteinium(II) bromide	[Es+2].[Br-].[Br-]
 Iron(III) selenite	[Fe+3].[Fe+3].[O-][Se](=O)[O-].[O-][Se](=O)[O-].[O-][Se](=O)[O-]
 Iron(III) selenite	[Fe+3].[Fe+3].[O-][Se](=O)[O-].[O-][Se](=O)[O-].[O-][Se](=O)[O-].O.O.O
