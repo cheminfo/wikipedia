@@ -8680,7 +8680,6 @@ Indophenol	O=C/2/C=C\C(=N\c1ccc(O)cc1)\C=C\2
 (Cymene)ruthenium dichloride dimer	[Ru+2].[Ru+2].[Cl-].[Cl-].[Cl-].[Cl-].c1cc(ccc1C(C)C)C.c1cc(ccc1C(C)C)C
 Gallium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ga+3]
 Imazapyr	OC(C1=C(C(N2)=NC(C)(C(C)C)C2=O)N=CC=C1)=O
-Paliperidone palmitate	CCCCCCCCCCCCCCCC(=O)OC1CCCN2C1=NC(=C(C2=O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F)C
 DMDM hydantoin	O=C1N(C(=O)C(N1CO)(C)C)CO
 Diethyl tartrate	O=C(OCC)[C@@H](O)[C@H](O)C(=O)OCC
 Germanium monoxide	[Ge]=O
@@ -20938,8 +20937,13 @@ Europium(III) nitride	N#[Eu]
 Ytterbium(III) oxalate	[Yb+3].[Yb+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Samarium(III) nitride	N#[Sm]
 Lanthanum(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[La+3]
+Lanthanum(III) telluride	[La+3].[La+3].[Te-2].[Te-2].[Te-2]
 Dysprosium(III) telluride	[Te].[Te].[Te].[Dy].[Dy]
 Holmium(III) telluride	[Ho+3].[Ho+3].[Te-2].[Te-2].[Te-2]
+Erbium(III) telluride	[Er+3].[Er+3].[Te-2].[Te-2].[Te-2]
+Thulium(III) telluride	[Tm+3].[Tm+3].[Te-2].[Te-2].[Te-2]
+Lutetium(III) telluride	[Lu+3].[Lu+3].[Te-2].[Te-2].[Te-2]
 Ytterbium monotelluride	[Te].[Yb]
 Salsolinol	CC1C2=CC(=C(C=C2CCN1)O)O
 Hexabromoethane	C(C(Br)(Br)Br)(Br)(Br)Br
+Dysprosium nitride	[Dy]#N
