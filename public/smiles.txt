@@ -5559,7 +5559,7 @@ Punicic acid	CCCC\C=C/C=C/C=C\CCCCCCCC(=O)O
 Lawsone	O=C(C(O)=C1)C2=C(C=CC=C2)C1=O
 Oxamide	NC(=O)C(N)=O
 Aluminium hydroxide oxide	O[Al]=O
-1-Butanethiol	SCCCC
+Butane-1-thiol	SCCCC
 Deuterated chloroform	[2H]C(Cl)(Cl)Cl
 Allysine	O=CCCCC(N)C(=O)O
 Allysine	O=CCCC[C@H](N)C(=O)O
@@ -10357,6 +10357,7 @@ Caftaric acid	O=C(O)[C@H](O)[C@@H](OC(=O)\C=C\c1cc(O)c(O)cc1)C(=O)O
 Melacacidin	Oc1ccc(cc1O)[C@H]3Oc2c(O)c(O)ccc2[C@@H](O)[C@H]3O
 Leucodelphinidin	C1=C(C=C(C(=C1O)O)O)C2C(C(C3=C(C=C(C=C3O2)O)O)O)O
 Dimethyldioctadecylammonium bromide	CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Br-]
+Furfurylamine	o1c(ccc1)CN
 Progoitrin	OC[C@H]1O[C@@H](SC(C[C@@H](O)C=C)=NOS(O)(=O)=O)[C@H](O)[C@@H](O)[C@@H]1O
 Zirconium(IV) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Zr+4]
 Pipermethystine	O=C(N1C(=O)\C=C/[C@H](OC(=O)C)C1)CCc2ccccc2
