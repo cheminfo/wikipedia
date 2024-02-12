@@ -15186,7 +15186,7 @@ Bicyclobutane	C1C2C1C2
 5-Chloro-αMT	CC(Cc1c[nH]c2c1cc(cc2)Cl)N
 Dinitrobisphenol A	CC(C)(C1=CC(=C(C=C1)O)[N+](=O)[O-])C2=CC(=C(C=C2)O)[N+](=O)[O-]
 Nitroapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)[N+](=O)[O-]
-4-Fluorobromobenzene	c1cc(ccc1F)Br
+1-Bromo-4-fluorobenzene	c1cc(ccc1F)Br
 Copper(II) carbonate	C(=O)([O-])[O-].[Cu+2]
 Platinum fulminate	[C-]#[N+][O-].[Pt+2].[C-]#[N+][O-]
 Lactocillin	C/C=C\1/c2nc(cs2)C(=O)NC(C3=NC(CS3)C(=O)NC(c4nc(cs4)-c5c(ccc(n5)c6nc(cs6)c7nc(cs7)C(=O)NC(C)C(=O)O)-c8nc(cs8)C(=O)NC(C(=O)N1)C(C)O)CSC(=O)c9c[nH]c1c9cccc1)C(C)O
@@ -20962,6 +20962,7 @@ Peroxytaurine	O=S(=O)(OO)CCN
 1,3-Dimethylimidazolium nitrate	CN1C=C[N+](=C1)C.[N+](=O)([O-])[O-]
 2-Hydroxysaclofen	C1=CC(=CC=C1C(CN)(CS(=O)(=O)O)O)Cl
 Crinine	C1CN2CC3=CC4=C(C=C3[C@]15[C@H]2C[C@H](C=C5)O)OCO4
+KRM-II-81	C#CC1=CC2=C(C=C1)N3C=NC(=C3CN=C2C4=CC=CC=N4)C5=CN=CO5
 6-Methylapigenin	CC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)O)O
 Americium nitride	[Am]#N
 FEM-1689	FC(F)(F)c1ccc(cc1)c1cc2c(cc1)C1CC2N(CC1)CCCO
@@ -20979,4 +20980,9 @@ Americium trihydride	[Am].[H].[H].[H]
 Magnesium selenide	[Mg+2].[Se-2]
 Terbium nitride	[Tb]#N
 MRK-409	CN1C(=NC=N1)COC2=NN3C(=NN=C3C4=C(C=CC=C4F)F)C=C2C5CCC5
+Ro 19-4603	CC(C)(C)OC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CS3)C
+Α3IA	CN1C(=C(C=C(C1=O)C(=O)OC)C2=CC=C(C=C2)OC)C3=CC=NC=C3
+ALX-1393	C1=CC=C(C=C1)COC2=CC=CC=C2C(C3=CC(=CC=C3)F)OCC(C(=O)O)N
+JNJ-20788560	CCN(CC)C(=O)C1=CC2=C(C=C1)C(=C3CC4CCC(C3)N4)C5=CC=CC=C5O2
 Fallacinal	COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C=O
+Methocinnamox	CC1=CC=C(C=C1)C=CC(=O)NC23CCC(=O)C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7
