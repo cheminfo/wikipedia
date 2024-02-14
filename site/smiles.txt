@@ -6987,6 +6987,7 @@ Hidrosmin	O=C\4c5c(OCCO)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]
 Troxerutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(c(c5)OCCO)OCCO)OCCO)O)O)O)O)O)O)O
 Monoxerutin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)OCCO)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
 Calcium dobesilate	[Ca+2].O=S([O-])(=O)c1cc(O)ccc1O.[O-]S(=O)(=O)c1cc(O)ccc1O
+Calcium dobesilate	O.[Ca++].OC1=CC(=C(O)C=C1)S([O-])(=O)=O.OC1=CC(=C(O)C=C1)S([O-])(=O)=O
 Sodium tetradecyl sulfate	CCCCC(CC)CCC(CC(C)C)OS(=O)(=O)[O-].[Na+]
 Tribenoside	CCOC1[C@@H]([C@H]([C@H](O1)[C@@H](COCc2ccccc2)OCc3ccccc3)OCc4ccccc4)O
 Oxetacaine	O=C(N(C(C)(C)Cc1ccccc1)C)CN(CCO)CC(=O)N(C(Cc2ccccc2)(C)C)C
@@ -16656,6 +16657,7 @@ Glasdegib	CN1CCC(CC1C2=NC3=CC=CC=C3N2)NC(=O)NC4=CC=C(C=C4)C#N
 Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4C3)F)F
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
 Tris(trimethylsilyl)phosphine	C[Si](C)(C)P([Si](C)(C)C)[Si](C)(C)C
+Dobesilic acid	C1=CC(=C(C=C1O)S(=O)(=O)O)O
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
 Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
@@ -20964,6 +20966,7 @@ Peroxytaurine	O=S(=O)(OO)CCN
 Crinine	C1CN2CC3=CC4=C(C=C3[C@]15[C@H]2C[C@H](C=C5)O)OCO4
 KRM-II-81	C#CC1=CC2=C(C=C1)N3C=NC(=C3CN=C2C4=CC=CC=N4)C5=CN=CO5
 6-Methylapigenin	CC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)O)O
+Ormetoprim	CC1=CC(=C(C=C1CC2=CN=C(N=C2N)N)OC)OC
 Americium nitride	[Am]#N
 FEM-1689	FC(F)(F)c1ccc(cc1)c1cc2c(cc1)C1CC2N(CC1)CCCO
 KNT-127	CN1CCC23CC4=NC5=CC=CC=C5C=C4CC2(C1CC6=C3C=C(C=C6)O)O
@@ -20990,3 +20993,6 @@ Methocinnamox	CC1=CC=C(C=C1)C=CC(=O)NC23CCC(=O)C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)C
 Lutetium nitride	[Lu]#N
 Iron tetrafluoride	F[Fe](F)(F)F
 Cobalt tetrafluoride	F[Co](F)(F)F
+Nickel tetrafluoride	F[Ni](F)(F)F
+Isoamyl formate	CC(C)CCOC=O
+5-Nitro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)[N+](=O)[O-]
