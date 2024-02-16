@@ -20863,11 +20863,13 @@ Thorium(IV) bromide	Br[Th](Br)(Br)Br
 1,3,5-Tribromobenzene	C1=C(C=C(C=C1Br)Br)Br
 Ethylcholine mustard	CCN(CCO)CCCl
 Macrophage-activating lipopeptide 2	[C@H](CC1=CC=CC=C1)(C(N[C@H](C(N[C@H](C(N[C@@H](CCCCN)C(O)=O)=O)CCC(O)=O)=O)CCCCN)=O)NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC(CNC([C@H](CSC[C@@H](COC(CCCCCCCCCCCCCCC)=O)OC(CCCCCCCCCCCCCCC)=O)N)=O)=O)CC(N)=O)=O)CC(N)=O)=O)CC(O)=O)=O)CCC(O)=O)=O)CO)=O)CC(N)=O)=O)[C@H](CC)C)=O)CO)=O
+2-Bromopentane	CCCC(C)Br
 Olgotrelvir	CC(C)CC(C(=O)NC(CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)C2=CC3=CC=CC=C3N2
 N-Methyliminodiacetic acid	CN(CC(=O)O)CC(=O)O
 Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS
 4-Fluoroselegiline	CC(CC1=CC=C(F)C=C1)N(C)CC#C
 Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
+3-Bromopentane	CCC(CC)Br
 Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
 Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 2,5-Hexanediol	CC(CCC(C)O)O
@@ -21000,3 +21002,5 @@ Isoamyl formate	CC(C)CCOC=O
 Sodium hexafluorotitanate	[F-].[F-].F[Ti](F)(F)F.[Na+].[Na+]
 DOB-2-DRAGONFLY-5-BUTTERFLY	CC(CC1=C2CCCOC2=C(C3=C1OC=C3)Br)N
 Fallacinol	COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO
+Potassium hexafluorotitanate	[F-].[F-].F[Ti](F)(F)F.[K+].[K+]
+Bisphenol-A bis(diphenyl phosphate)	CC(C)(C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3)C4=CC=C(C=C4)OP(=O)(OC5=CC=CC=C5)OC6=CC=CC=C6
