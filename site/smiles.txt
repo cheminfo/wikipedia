@@ -14073,7 +14073,7 @@ Molybdenum(III) chloride	Cl[Mo](Cl)Cl
 Molybdenum(III) bromide	Br[Mo](Br)Br
 Molybdenum(III) iodide	[Mo](I)(I)I
 Molybdenum(II) bromide	Br[Mo]Br
-Beta-Nitropropionic acid	C(C[N+](=O)[O-])C(=O)O
+Beta-nitropropionic acid	C(C[N+](=O)[O-])C(=O)O
 Citreorosein	c1c(cc(c2c1C(=O)c3cc(cc(c3C2=O)O)O)O)CO
 Durantin A	CC(=O)OC[C@@H]1[C@H](OC2=C(C=C3C=CC(=O)OC3=C2O1)OC)C4=CC(=C(C=C4)O)OC
 Verrulactone	COC1=CC2=C(C(=C1)O)C(=O)OC3=C2C(=C(C(=C3)O)O)C4=C(C(=CC5=C4C6=C(C(=CC(=C6)OC)O)C(=O)O5)O)O
@@ -21014,3 +21014,5 @@ MS-377	COCCN1CCN(CC1)CC2CCN(C2=O)C3=CC=C(C=C3)Cl
 MRTX1133	C#CC1=C(C=CC2=CC(=CC(=C21)C3=NC=C4C(=C3F)N=C(N=C4N5CC6CCC(C5)N6)OC[C@@]78CCCN7C[C@@H](C8)F)O)F
 2F-NENDCK	CCNC1(CCCCC1=O)C2=CC=CC=C2F
 Propylphenidine	CCCNC(CC1=CC=CC=C1)C2=CC=CC=C2
+Thulium nitride	[Tm+3].[N-3]
+Europium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Eu+3].[Eu+3]
