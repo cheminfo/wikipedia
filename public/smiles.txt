@@ -21018,4 +21018,7 @@ Propylphenidine	CCCNC(CC1=CC=CC=C1)C2=CC=CC=C2
 Thulium nitride	[Tm+3].[N-3]
 Europium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Eu+3].[Eu+3]
 Promethium(III) oxalate	C(=O)(C(=O)O)O.C(=O)(C(=O)O)O.C(=O)(C(=O)O)O.[Pm].[Pm]
+Cresomycin	CC(C)C[C@@H]1CCO[C@@H]2[C@H](CN[C@@H]2C(=O)N[C@@H]3[C@H](C)\C=C/CCS[C@H]4O[C@H]3[C@H](O)[C@H](O)[C@H]4O)C1
 5α-Pregnane-3α,11β-diol-20-one	CC(=O)C1CCC2C1(CC(C3C2CCC4C3(CCC(C4)O)C)O)C
+Iboxamycin	C[C@@H]([C@H]([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)SC)O)O)O)NC(=O)[C@@H]2[C@H]3[C@@H](C[C@@H](CCO3)CC(C)C)CN2)Cl
+Connorstictic acid	Cc1cc(O)c(CO)c2c1C(=O)Oc1c(C)c(O)c3c(c1O2)C(O)OC3=O
