@@ -111,7 +111,9 @@ Nitrous oxide	N#[N+][O-]
 Nitrous oxide	[N-]=[N+]=O
 Niacin	OC(=O)c1cccnc1
 Phenylalanine	c1ccc(cc1)C[C@@H](C(=O)O)N
+Phenylalanine	c1ccc(cc1)C[C@H](C(=O)O)N
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
+Phenylalanine	[NH3+][C@H](CC1=CC=CC=C1)C([O-])=O
 Nicotine	c1ncccc1[C@@H]2CCCN2C
 Psilocybin	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O
 Adenine	NC1=NC=NC2=C1N=CN2
@@ -21031,6 +21033,8 @@ Telluromethionine	C[Te]CCC(C(=O)O)N
 N1-Methyl-4-pyridone-3-carboxamide	CN1C=CC(=O)C(=C1)C(=O)N
 Danicopan	CC(=O)C1=NN(CC(=O)N2C[C@H](F)C[C@H]2C(=O)NC2=CC=CC(Br)=N2)C2=C1C=C(C=C2)C1=CN=C(C)N=C1
 Kermesic acid	CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O
+Rubidium hexafluorotitanate	F[Ti-2](F)(F)(F)(F)F.[Rb+].[Rb+]
 Potassium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[K+].[K+]
 Lithium hexafluorozirconate	[Zr+4]([F-])([F-])([F-])([F-])([F-])[F-].[Li+]
 Ammonium hexafluorozirconate	[NH4+].[NH4+].F[Zr-2](F)(F)(F)(F)F
+Californium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cf]
