@@ -13231,7 +13231,7 @@ Methylmercuric dicyanamide	C[Hg]N=C(N)NC#N
 Metolcarb	O=C(Oc1cc(ccc1)C)NC
 Olcegepant	C1CN(CCC1N2CC3=CC=CC=C3NC2=O)C(=O)N[C@H](CC4=CC(=C(C(=C4)Br)O)Br)C(=O)N[C@@H](CCCCN)C(=O)N5CCN(CC5)C6=CC=NC=C6
 Malvidin glucoside-ethyl-catechin	CC(c1c2[o+]c(c(cc2c(O)cc1O)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)-c1cc(OC)c(O)c(c1)OC)c1c2OC(C(O)Cc2c(O)cc1O)c1cc(O)c(O)cc1
-Tetrakis(pyridine)silver(II) peroxydisulfate	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Ag]
+Tetrakis(pyridine)silver(II) peroxydisulfate	[Ag].[O-]S(=O)(=O)OOS([O-])(=O)=O.n1ccccc1.n1ccccc1.n1ccccc1.n1ccccc1
 Zofenoprilat	C[C@H](CS)C(=O)N1C[C@H](C[C@H]1C(O)=O)SC1=CC=CC=C1
 Rhenium(VII) sulfide	S=[Re](=S)(=S)S[Re](=S)(=S)=S
 Paramenthane hydroperoxide	CC1CCC(C(C1)OO)C(C)C
@@ -20730,7 +20730,7 @@ Calcium plumbate	[O-][Pb](=O)[O-].[Ca+2]
 Capivasertib	NC1(CCN(CC1)C1=C2C=CNC2=NC=N1)C(=O)N[C@@H](CCO)C1=CC=C(Cl)C=C1
 Repotrectinib	C[C@H]1CNC(=O)C2=C3N=C(N[C@H](C)C4=CC(F)=CC=C4O1)C=CN3N=C2
 Baxdrostat	CCC(=O)N[C@@H]1CCCC2=C1C=NC=C2C3=CC4=C(C=C3)N(C(=O)CC4)C
-MK-0616	CC1=CC(=CC(=C1)N2C=C(N=N2)CN3C=C(C4=C3C=CC(=C4)F)C[C@H]5C(=O)N6CC[C@@H]([C@H]6C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC7=CC=C(C=C7)OC)C(=O)N8CCC[C@@]8(C)C(=O)NCCS)OC/C=C/CC9=CC(=CC=C9)C[C@@H](C(=O)N5)NC(=O)[C@@H](C)NC(=O)[C@H](CNC(=O)CCOCCOCC[N+](C)(C)C)NC(=O)CCS)C
+Enlicitide chloride	CC1C(=O)NC(C(=O)NC2CC3=CC(=CC=C3)CNC(=O)COC4CCN5C4C(=O)NC(C(=O)NC(C(=O)N6CCCC6(C(=O)NCCC7=CC=C(CN(CCCCCCN8C=C(CC(C5=O)NC2=O)C9=C8C=CC(=C9)F)C(=O)CCC(=O)N1)C=C7)C)CC1=CC=C(C=C1)OC)C(C)O)CNC(=O)CCCCC[N+](C)(C)C.[Cl-]
 Navafenterol	CN(CCCN1C2=C(C=C(C=C2)CNC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)N=N1)C5CCC(CC5)OC(=O)C(C6=CC=CS6)(C7=CC=CS7)O
 AZD-1390	CC(C)N1C2=C(C=NC3=CC(=C(C=C32)C4=CN=C(C=C4)OCCCN5CCCCC5)F)N(C1=O)C
 Mosliciguat	C1C[C@@H](C2=C(C1)N=C(C=C2)C(=O)O)N(CCC3=CC=C(C=C3)C(=O)O)CCC4=CC=CC=C4OCC5=C(C=C(C=C5)C6=CC=C(C=C6)C(F)(F)F)Cl
@@ -21044,3 +21044,4 @@ Tris(chloropropyl) phosphate	O=P(OC(CCl)C)(OC(CCl)C)OC(CCl)C
 Caesium heptafluoroxenate	[Cs+].F[Xe-](F)(F)(F)(F)(F)F
 RS134-49	CC1=C2C(=CC=C1)NC=C2C3=CCCNC3
 Dichloroiodomethane	ClC(I)Cl
+Cis-urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
