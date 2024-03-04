@@ -193,6 +193,8 @@ Aqua regia	[N+](=O)(O)[O-].Cl.Cl.Cl
 Theophylline	Cn1c2c(c(=O)n(c1=O)C)[nH]cn2
 Alanine	C[C@@H](C(=O)O)N
 Alanine	C[C@@H](C(=O)[O-])[NH3+]
+Alanine	C[C@H](C(=O)O)N
+Alanine	C[C@H](C(=O)[O-])[NH3+]
 Aspartic acid	C([C@@H](C(=O)O)N)C(=O)O
 Aspartic acid	C(C(C(=O)O)N)C(=O)O
 Aspartic acid	C([C@H](C(=O)O)N)C(=O)O
