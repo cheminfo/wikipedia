@@ -14451,6 +14451,9 @@ Inotodiol	C[C@@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O
 Hispolon	CC(=O)C=C(C=CC1=CC(=C(C=C1)O)O)O
 Phellinstatin	C1=CC(=C(C=C1/C=C/C2=CC(=C(C(=O)O2)C3=CC(=C(C=C3/C=C/C4=CC5=C([C@@H]([C@H](O5)C6=CC(=C(C=C6)O)O)C7=CC(=CC(=O)O7)O)C(=O)O4)O)O)O)O)O
 Hypholomine B	C1=CC(=C(C=C1/C=C/C2=CC3=C(C(C(O3)C4=CC(=C(C=C4)O)O)C5=CC(=CC(=O)O5)O)C(=O)O2)O)O
+Interfungin	CC(=O)/C=C(/C(=C\C1=CC(=C(C=C1)O)O)/C2=C(C=C(OC2=O)/C=C/C3=CC(=C(C=C3)O)O)O)\O
+Interfungin	CC(=O)/C(=C\C1=CC(=C(C=C1)O)O)/C2=C(C=C(OC2=O)/C=C/C3=CC(=C(C=C3)O)O)O
+Interfungin	COC(=O)/C(=C\C1=CC(=C(C=C1)O)O)/C2=C(C=C(OC2=O)/C=C/C3=CC(=C(C=C3)O)O)O
 Trametenolic acid	CC(=CCC[C@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O)C
 Inotilone	CC1=CC(=O)C(=CC2=CC(=C(C=C2)O)O)O1
 Tetrahydro-2-furoic acid	C1CC(OC1)C(=O)O
@@ -21046,4 +21049,5 @@ Tris(chloropropyl) phosphate	O=P(OC(CCl)C)(OC(CCl)C)OC(CCl)C
 Caesium heptafluoroxenate	[Cs+].F[Xe-](F)(F)(F)(F)(F)F
 RS134-49	CC1=C2C(=CC=C1)NC=C2C3=CCCNC3
 Dichloroiodomethane	ClC(I)Cl
-Cis-urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
+Cis-Urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
+Caesium phosphide	[Cs].[Cs].[P].[P].[P].[P].[P]
