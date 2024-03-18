@@ -19441,7 +19441,7 @@ Upacicalcet	CC1=C(C=C(C=C1Cl)S(=O)(=O)O)NC(=O)NC[C@@H](C(=O)O)N
 Aluminium phenolate	C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].[Al+3]
 Lutetium phosphide	[Lu+3].[P-3]
 20S-Hydroxycholesterol	CC(C)CCC[C@@](C)([C@H]1CCC2[C@@]1(CCC3C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)O
-Praseodymium phosphide	P#[Pr]
+Praseodymium monophosphide	P#[Pr]
 Neodymium phosphide	[Nd]#P
 2,3,6-Trimethylphenol	CC1=C(C(=C(C=C1)C)O)C
 Mesityl bromide	CC1=CC(=C(C(=C1)C)Br)C
@@ -21084,3 +21084,4 @@ N,O-Didesmethyltramadol	CNCC1CCCCC1(C2=CC(=CC=C2)O)O
 Enitociclib	COC1=C(C=CC(=C1)F)C2=CC(=NC=C2F)NC3=NC=CC(=C3)C[S@@](=N)(=O)C
 Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
+Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
