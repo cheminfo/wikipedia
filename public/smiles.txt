@@ -13355,7 +13355,7 @@ Ethanimine	CC=N
 Eleutheroside D	COc1cc(cc(c1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)[C@@H]3[C@@H]4CO[C@@H]([C@H]4CO3)c5cc(c(c(c5)OC)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)OC
 Brookhart's acid	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[B-](c2cc(cc(c2)C(F)(F)F)C(F)(F)F)(c3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4cc(cc(c4)C(F)(F)F)C(F)(F)F.O(CC)CC.[OH+](CC)CC
 Ammonium carbamate	[O-]C(=O)N.[NH4+]
-Nitropentaamminecobalt(III) chloride	[Cl-].[Cl-].O=N(=O)[Co+2]([NH3])([NH3])([NH3])([NH3])[NH3]
+Pentaamminenitritocobalt(III) chloride	[Cl-].[Cl-].O=N(=O)[Co+2]([NH3])([NH3])([NH3])([NH3])[NH3]
 Dimethylbutadiene	CC(=C)C(=C)C
 4-Iodo-N,N-dimethylaniline	Ic1ccc(N(C)C)cc1
 Glyceryl hydroxystearate	O=C(OC(CO)CO)C(O)CCCCCCCCCCCCCCCC
@@ -21074,6 +21074,7 @@ Caesium dibismuthide	[Cs].[Bi].[Bi]
 Diruthenium phosphide	[P].[Ru].[Ru]
 Platinum diphosphide	[P].[P].[Pt]
 Ciguatoxin 1	C[C@@H]1C[C@H]2[C@@H](C[C@H]3[C@H](O2)[C@H]([C@@H]([C@H]4[C@H](O3)[C@H]([C@@H]([C@]5(O4)C[C@@H](CO5)O)C)C)O)C)O[C@H]6C[C@@H]7[C@]([C@@H](C[C@@H]8[C@@H](O7)C/C=C\C[C@@H]9[C@@H](O8)C=C[C@@H]2[C@@H](O9)C=C[C@@H]3[C@@H](O2)C[C@@H]2[C@@H](O3)[C@@H]([C@@H]3[C@@H](O2)CC=C[C@@H](O3)/C=C/[C@@H](CO)O)O)O)(O[C@@H]6C1)C
+Dichlorotrimethyltantalum	C[Ta+5](Cl)(Cl)(C)C
 Praseodymium(III) molybdate	[Pr+3].[Pr+3].[O-][Mo](=O)(=O)[O-].[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O
 Cyclamin	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(CO4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(CO7)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CCC91C3(CC(C2(C9CC(CC2)(C)C=O)CO1)O)C)C)C
 K252b	C[C@@]12[C@](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)(C(=O)O)O
@@ -21085,3 +21086,4 @@ Enitociclib	COC1=C(C=CC(=C1)F)C2=CC(=NC=C2F)NC3=NC=CC(=C3)C[S@@](=N)(=O)C
 Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
+Gold phosphide	[P-3].[Au+3]
