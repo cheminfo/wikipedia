@@ -1912,6 +1912,7 @@ Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C
 5-MeO-DALT	C=CCN(CCC1=CNC2=C1C=C(OC)C=C2)CC=C
 Triethylamine	CCN(CC)CC
 Caspofungin	[C@@]12(N(C[C@@H](C1)O)C([C@H]([C@@H](C)O)NC(=O)[C@](C[C@H]([C@@H](NCCN)NC([C@@H]3[C@H](CCN3C([C@H]([C@@H](CCN)O)NC(=O)[C@H]([C@@H]([C@H](C4=CC=C(C=C4)O)O)O)NC2=O)=O)O)=O)O)(NC(CCCCCCCC[C@H](C[C@H](CC)C)C)=O)[H])=O)[H]
+Caspofungin	CC(O)=O.CC(O)=O.[H][C@@]12C[C@@H](O)CN1C(=O)[C@@H](NC(=O)[C@]([H])(C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]1[C@@H](O)CCN1C(=O)[C@@H](NC(=O)[C@@H](NC2=O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@H](O)CCN)NC(=O)CCCCCCCC[C@@H](C)C[C@@H](C)CC)[C@@H](C)O
 4-Acetoxy-DiPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
 5-MeO-DET	CCN(CC)CCc1c[nH]c2ccc(OC)cc12
 Nitroguanidine	NC(N)=N[N+]([O-])=O
@@ -4455,7 +4456,7 @@ Ethyl methylphenylglycidate	CC(C2C(OCC)=O)(O2)C1=CC=CC=C1
 Nebivolol	Fc4cc1c(OC(CC1)C(O)CNCC(O)C3Oc2ccc(F)cc2CC3)cc4
 Thorium(IV) carbide	[C]#[Th]
 Thorium(IV) chloride	Cl[Th](Cl)(Cl)Cl
-Thorium tetrafluoride	F[Th](F)(F)F
+Thorium(IV) fluoride	F[Th](F)(F)F
 Thorium(IV) iodide	[I-].[I-].[I-].[I-].[Th+4]
 Thorium(IV) orthosilicate	[Th+4].[O-][Si]([O-])([O-])[O-]
 Thorium(IV) sulfide	S=[Th]=S
@@ -21037,6 +21038,7 @@ Confluentic acid	CCCCCC1=C(C(=CC(=C1)OC(=O)C2=C(C=C(C=C2O)OC)CC(=O)CCCCC)OC)C(=O
 Telluromethionine	C[Te]CCC(C(=O)O)N
 N1-Methyl-4-pyridone-3-carboxamide	CN1C=CC(=O)C(=C1)C(=O)N
 Danicopan	CC(=O)C1=NN(CC(=O)N2C[C@H](F)C[C@H]2C(=O)NC2=CC=CC(Br)=N2)C2=C1C=C(C=C2)C1=CN=C(C)N=C1
+Trimesitylvanadium	CC1=CC(C)=C(C(C)=C1)[V](C1C(C)=CC(C)=CC=1C)C1C(C)=CC(C)=CC=1C
 Kermesic acid	CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O
 Rubidium hexafluorotitanate	F[Ti-2](F)(F)(F)(F)F.[Rb+].[Rb+]
 Potassium hexafluorozirconate	F[Zr-2](F)(F)(F)(F)F.[K+].[K+]
@@ -21087,3 +21089,12 @@ Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Gold phosphide	[P-3].[Au+3]
+Praseodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pr+3]
+Neodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Nd+3]
+Gadolinium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Gd+3]
+Terbium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Tb+3]
+Dysoprosium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Dy+3]
+Holmium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Ho+3]
+Samarium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Sm+3]
+Tungsten(IV) iodide	[I-].[I-].[I-].[I-].[W]
+Europium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Eu+3]
