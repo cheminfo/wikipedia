@@ -1067,7 +1067,6 @@ Hexanitrobenzene	c1(c(c(c(c(c1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-
 Buspirone	O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1
 Amoxapine	Clc2ccc1Oc4c(/N=C(\c1c2)N3CCNCC3)cccc4
 Para-Methoxyamphetamine	C1=CC(=CC=C1CC(C)N)OC
-Batrachotoxin	Cc1c[nH]c(C)c1C(=O)O[C@@H](C)C1=CC[C@@]23OCCN(C)C[C@@]12C[C@@H](O)[C@]12O[C@]4(O)CC[C@@]1(C)[C@H](CC=C23)C4
 4-HO-DiPT	CC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)C
 Flumazenil	Fc(c1)ccc-2c1C(=O)N(C)Cc3n2cnc3C(=O)OCC
 Methyl salicylate	O=C(OC)c1ccccc1O
@@ -9360,7 +9359,7 @@ Zinc hydride	[ZnH2]
 Lead(II) thiocyanate	C(#N)[S-].C(#N)[S-].[Pb+2]
 Yamogenin	C[C@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)OC1
 Zinc arsenide	[Zn].[Zn]=[As].[Zn]=[As]
-Curium hydroxide	[OH-].[OH-].[OH-].[Cm+3]
+Curium(III) hydroxide	[OH-].[OH-].[OH-].[Cm+3]
 Dehydroemetine	O(c1cc2c(cc1OC)[C@H](NCC2)CC\5=C(/CC)CN4[C@H](c3c(cc(OC)c(OC)c3)CC4)C/5)C
 Tenonitrozole	c1cc(sc1)C(=O)Nc2ncc(s2)[N+](=O)[O-]
 Phanquinone	O=C3c1ncccc1c2c(nccc2)C3=O
@@ -17245,6 +17244,7 @@ Gutolactone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([
 Toxopyrimidine	Cc1ncc(c(n1)N)CO
 Vinyl norbornene	C=CC1CC2CC1C=C2
 1,3,4-Oxadiazole	C1=NN=CO1
+3,4-Ethylenedioxythiophene	C1COC2=CSC=C2O1
 3-Chlorobenzoic acid	C1=CC(=CC(=C1)Cl)C(=O)O
 Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
@@ -20865,6 +20865,7 @@ Velagliflozin	C1CC1C2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O
 Androstenetriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](C=C4[C@@]3(CC[C@@H](C4)O)C)O
 Bezisterim	C[C@]12CC[C@@H](CC1=C[C@@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O)O
 Arpraziquantel	[H][C@@]12CN(CC(=O)N1CCC1=CC=CC=C21)C(=O)C1CCCCC1
+Acephenanthrylene	C1=CC=C2C(=C1)C=C3C=CC4=C3C2=CC=C4
 Uranium(III) bromide	Br[U](Br)Br
 Cyanomethine	CC1=CC(=NC(=N1)C)N
 Tris(2,4,6-trimethoxyphenyl)phosphine	COC1=CC(=C(C(=C1)OC)P(C2=C(C=C(C=C2OC)OC)OC)C3=C(C=C(C=C3OC)OC)OC)OC
@@ -21088,9 +21089,18 @@ Enitociclib	COC1=C(C=CC(=C1)F)C2=CC(=NC=C2F)NC3=NC=CC(=C3)C[S@@](=N)(=O)C
 Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
+Thorium diselenide	[Se].[Se].[Th]
 Gold phosphide	[P-3].[Au+3]
 Praseodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pr+3]
 Neodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Nd+3]
+Erbium iodate	[Er+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
+Thulium iodate	[Tm+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
+Ytterbium(III) iodate	[Yb+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
+Lutetium iodate	[Lu+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
+Lutetium iodate	[Lu+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-].O.O
+Lutetium iodate	[Lu+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]O.O.O.O
+Promethium iodate	[Pm+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
+Promethium iodate	[Pm+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-].O
 Gadolinium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Gd+3]
 Terbium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Tb+3]
 Dysoprosium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Dy+3]
@@ -21100,3 +21110,5 @@ Tungsten(IV) iodide	I[W](I)(I)I
 Neptunium(IV) phosphide	[Np].[Np].[Np].[P].[P].[P].[P]
 Europium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Eu+3]
 Bromo(chloro)fluoro(iodo)silane	F[Si](Cl)(Br)I
+Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4]
+Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4].O.O.O

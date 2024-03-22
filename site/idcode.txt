@@ -1067,7 +1067,6 @@ facXXAhLDXNPHUiwhiKUoXRcfRJ]\Z_\FT}fZ}wlbfbbbbbbLQadkMADMCSSL@@@	Hexanitrobenzen
 fch`@DAktXNYEEDheBdbhdlhdfBlxmU{ZjZjjjj`@j@@@	Buspirone
 ffsqB@ARJhDPdrmrljj}NZ]DnZpACUTTDA@@@	Amoxapine
 dcNH@EAJ[WV[j@Bj@@	Para-Methoxyamphetamine
-en[TF@@IJ`DLcgj\bbTTTTTzdtRRbbreRbTdt|BZfzV~AaIQYZfjfZjjijjjjjjjDHSdBcRfgrAdJ@@	Batrachotoxin
 fleQ@@NFAdTTRbcRbbcA\e@QCUUTP@@	4-HO-DiPT
 ffcqb@IJBINPRFQQISQZJEKSJgMV|F@HZjefhh@@	Flumazenil
 dmtL@@SdfVyyUjB@@@	Methyl salicylate
@@ -9360,7 +9359,7 @@ eMCAxhA`Hz@	Zinc hydride
 gNTMlpePHHPEgGdEMnp@	Lead(II) thiocyanate
 eglPL@@@LKldTbRbRUTRtrTfVsBg@ecbVSWVquUUUUUUUUUUSZPHaLKaBRqNJJYJiGH@	Yamogenin
 gJ`JABQxTIg`oBQb`OzPT`	Zinc arsenide
-gBAhXl@X[NW[`@@	Curium hydroxide
+gBAhXl@X[NW[`@@	Curium(III) hydroxide
 el^TB@@CF`JO`TinU]e]U[YWU^ICG@himkgjBBJjjjj``JhfDEHU@@	Dehydroemetine
 f`qqaBLDhJR`AA`bdr{IEELiiXeacoTtsMMR@@	Tenonitrozole
 f`iP`@FB@QIf[eU~Rtzwff@@@H@@@	Phanquinone
@@ -17245,6 +17244,7 @@ edVPI@@@DJG@neohRaHQHRDQHQHRHRLsLaDaHrIXxLBlrbJvAZjjjfjjZijijkSADQa\QQZRqQKIEHY@
 deWH@J[`rIQQH|M@PP@@	Toxopyrimidine
 diT@@LdRbQrbYjjZ@@	Vinyl norbornene
 gKU@LPeKcRp@	1,3,4-Oxadiazole
+diTD`JX@aJUUpnFejj@@	3,4-Ethylenedioxythiophene
 deTD`AdHaIe[jz@HX@@	3-Chlorobenzoic acid
 fa{AR@HHpShOCIILXiDdYdidlKUgQSUkUUUUU@AUEJIbECQr@@	Estradiol phosphate
 dctJ@@RagHheEhTuMMP@@	Diethyl oxomalonate
@@ -20865,6 +20865,7 @@ ek`XJ@@B`IMCOLdTTTTRRqaRTrVThT\BFfvNjjBjBJl@JhJbBHPaTIQ@@	Velagliflozin
 ffsA`@@EjdrsKLkK}NJ|{HTuMUUUUUUPhSBiFSdTgHJ@@	Androstenetriol
 fa{A`@@N{dTbTbrLtVTRvYKU`qjvjzjjjZjjhTEaLbdZVPTu@@	Bezisterim
 fnkP`@DLA[HhheDeCDmEefBehNZmZjj`XJJjJAD@	Arpraziquantel
+f`y@@@DjYegvYHQmNmx@@@BHA@@	Acephenanthrylene
 gC`B@]SDVIlROT@@	Uranium(III) bromide
 dig@@@rldTTqk``b@@	Cyanomethine
 ej^PIH@ECG@dbo`XPOCIHhhhhhhhhhdledbSdkNhejkj`@HbHbHhhjj`@@@	Tris(2,4,6-trimethoxyphenyl)phosphine
@@ -21088,9 +21089,18 @@ fcoHc@DJuZCPAFYC\addatRTJbRRTtRQdhLQkVh@J@B``b@`A@@	Enitociclib
 gF@F@~SpWao@~E|@@_qXBC@Ph@	Samarium pentaphosphide
 fmoQ@@DAAdTTRbfRRtVJTRQoNCELumUAPTUU@@THmGH@	Fentanyl tropane
 gF@F@~SpWao@~E|@@_qXBC@Ph@	Praseodymium pentaphosphide
+eLCAZdQQ@AS[`	Thorium diselenide
 eDASro@vh@@	Gold phosphide
 dkdIHdpfxUtpwHkJkIk@tnGc{@iAYAYEee`@	Praseodymium(III) iodate
 dkdIHdpfxUtpOHkJkIk@tnGc{@iAYAYEee`@	Neodymium(III) iodate
+dkdIHdpfxUtpHhkJkIk@tnGc{@iAYAYEee`@	Erbium iodate
+dkdIHdpfxUtphhkJkIk@tnGc{@iAYAYEee`@	Thulium iodate
+dkdIHdpfxUtpXhkJkIk@tnGc{@iAYAYEee`@	Ytterbium(III) iodate
+dkdIHdpfxUtpxhkJkIk@tnGc{@iAYAYEee`@	Lutetium iodate
+dodMHdpfxUt{\NJJrjrZpMKax~pJPVPVPAYYX@@	Lutetium iodate
+fhjAXaDXIS`iZMYw``xhUcJqUXCR]Kk]`TaFdEd@Btll@@	Lutetium iodate
+dkdIHdpfxUtpoHkJkIk@tnGc{@iAYAYEee`@	Promethium iodate
+dgdEHdpfxUt{B|bljlflCRx^OlBdEdEdBrrp@@	Promethium iodate
 dkdIHdpfxUtp@hkJkIk@tnGc{@iAYAYEee`@	Gadolinium iodate
 dkdIHdpfxUtp`hkJkIk@tnGc{@iAYAYEee`@	Terbium(III) iodate
 dkdIHdpfxUtpPhkJkIk@tnGc{@iAYAYEee`@	Dysoprosium iodate
@@ -21100,3 +21110,5 @@ gJPJ@iRlUYjpud_U@@	Tungsten(IV) iodide
 gN@NA]RzUuo@~E|Gx@@`xBEA`	Neptunium(IV) phosphide
 dkdIHdpfxUtpHkJkIk@tnGc{@iAYAYEee`@	Europium(III) iodate
 gJPJAVQpVIh`rBSUT@@	Bromo(chloro)fluoro(iodo)silane
+fhf@ZeHHqQgIJuYw`UaJpUXZlBJX{gZ{wAOIHKHKHKHEeee`@@	Zirconium iodate
+fbfAzeHHqQgIJuYwhirBlIVBkCU`QSG\{W^xIyIAYAYAY@@Eeee`@@	Zirconium iodate
