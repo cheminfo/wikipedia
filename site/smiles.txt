@@ -1067,6 +1067,7 @@ Hexanitrobenzene	c1(c(c(c(c(c1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-
 Buspirone	O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1
 Amoxapine	Clc2ccc1Oc4c(/N=C(\c1c2)N3CCNCC3)cccc4
 Para-Methoxyamphetamine	C1=CC(=CC=C1CC(C)N)OC
+Batrachotoxin	Cc1c[nH]c(C)c1C(=O)O[C@@H](C)C1=CC[C@@]23OCCN(C)C[C@@]12C[C@@H](O)[C@]12O[C@]4(O)CC[C@@]1(C)[C@H](CC=C23)C4
 4-HO-DiPT	CC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)C
 Flumazenil	Fc(c1)ccc-2c1C(=O)N(C)Cc3n2cnc3C(=O)OCC
 Methyl salicylate	O=C(OC)c1ccccc1O
@@ -21078,6 +21079,7 @@ Diruthenium phosphide	[P].[Ru].[Ru]
 Platinum diphosphide	[P].[P].[Pt]
 Ciguatoxin 1	C[C@@H]1C[C@H]2[C@@H](C[C@H]3[C@H](O2)[C@H]([C@@H]([C@H]4[C@H](O3)[C@H]([C@@H]([C@]5(O4)C[C@@H](CO5)O)C)C)O)C)O[C@H]6C[C@@H]7[C@]([C@@H](C[C@@H]8[C@@H](O7)C/C=C\C[C@@H]9[C@@H](O8)C=C[C@@H]2[C@@H](O9)C=C[C@@H]3[C@@H](O2)C[C@@H]2[C@@H](O3)[C@@H]([C@@H]3[C@@H](O2)CC=C[C@@H](O3)/C=C/[C@@H](CO)O)O)O)(O[C@@H]6C1)C
 Dichlorotrimethyltantalum	C[Ta+5](Cl)(Cl)(C)C
+Tantalocene trihydride	[H-][Ta+5]12345678([H-])([H-])([CH]=9[CH]4=[CH]3[CH-]2[CH]91)[CH]=%10[CH]8=[CH]7[CH-]6[CH]%105
 Praseodymium(III) molybdate	[Pr+3].[Pr+3].[O-][Mo](=O)(=O)[O-].[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O
 Cyclamin	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(CO4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(CO7)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CCC91C3(CC(C2(C9CC(CC2)(C)C=O)CO1)O)C)C)C
 K252b	C[C@@]12[C@](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)(C(=O)O)O
@@ -21112,3 +21114,4 @@ Europium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Eu+3]
 Bromo(chloro)fluoro(iodo)silane	F[Si](Cl)(Br)I
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4]
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4].O.O.O
+Deruxtecan	CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C5[C@H](CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)NC(=O)COCNC(=O)CNC(=O)[C@H](CC7=CC=CC=C7)NC(=O)CNC(=O)CNC(=O)CCCCCN8C(=O)C=CC8=O)O
