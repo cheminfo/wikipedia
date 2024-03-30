@@ -7883,7 +7883,7 @@ TCB-2	COc1c(Br)cc(OC)c2c1CC2CN
 5-Methyl-MDA	O2COc1c2cc(CC(N)C)cc1C
 25I-NBOH	Oc2ccccc2CNCCc(c(OC)cc1I)cc1OC
 25I-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC
-HU-308	CCCCCCC(C)(C)C1=CC(=C(C(=C1)OC)[C@H]2C=C([C@@H]3C[C@H]2C3(C)C)CO)OC
+Onternabez	CCCCCCC(C)(C)C1=CC(=C(C(=C1)OC)[C@H]2C=C([C@@H]3C[C@H]2C3(C)C)CO)OC
 Sodium tetraphenylborate	[B-](C1=CC=CC=C1)(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Na+]
 AM-411	C5C6CC4CC5(CC(C6)C4)c(cc1O3)cc(O)c1C2CC(C)=CCC2C3(C)C
 Isavuconazonium	C[C@@H](c1nc(cs1)c2ccc(cc2)C#N)[C@](Cn3c[n+](cn3)C(C)OC(=O)N(C)c4c(cccn4)COC(=O)CNC)(c5cc(ccc5F)F)O.OS(=O)(=O)[O-]
@@ -21120,3 +21120,4 @@ Thujaplicinol	CC(C)C1=CC=CC(=O)C(=C1O)O
 Thujaplicinol	CC(C)C1=CC(=O)C(=C(C=C1)O)O
 8-Bromocaffeine	CN1C2=C(N=C1Br)N(C(=O)N(C2=O)C)C
 Platinum(IV) iodide	I[Pt](I)(I)I
+Indium(I) iodide	[In]I
