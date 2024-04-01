@@ -6133,7 +6133,7 @@ Thromboxane A2	CCCCC[C@@H](/C=C/[C@@H]1[C@H]([C@@H]2C[C@@H](O2)O1)C/C=C\CCCC(=O)
 Peridinin	[H][C@@](/[C@@](C)=C/C=C/C=C/C=C(C)/C=C2C=C(/C=C/[C@@]3(O4)[C@]4(C)C[C@@H](O)CC(C)3C)C(O\2)=O)=C=C1[C@](C)(O)C[C@@H](OC(C)=O)CC(C)1C
 Rhenium pentachloride	Cl[Re](Cl)(Cl)(Cl)Cl
 Prostaglandin H2	O=C(O)CCC/C=C\C[C@H]2[C@H]1OO[C@H](C1)[C@@H]2/C=C/[C@@H](O)CCCCC
-Arachidonic acid 5-hydroperoxide	O=C(O)CCCC(OO)/C=C/C=C\C\C=C/C\C=C/CCCCC
+Arachidonic acid 5-hydroperoxide	O=C(O)CCC[C@H](OO)/C=C/C=C\C\C=C/C\C=C/CCCCC
 Ruthenocene	[cH-]1cccc1.[cH-]1cccc1.[Ru+2]
 CA19-9	O=C(O)[C@@]1(O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O[C@H]3[C@H](O[C@H]4[C@@H](O)[C@H](O)[C@H](O)[C@H](C)O4)[C@@H](CO)OC(O)[C@@H]3NC(C)=O)[C@@H]2O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O1
 Uridine diphosphate glucuronic acid	O[C@@H]1[C@@H](O)[C@H](O[C@@H]([C@H]1O)C(O)=O)O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)[N]3C=C[C](=O)[NH][C]3=O
@@ -13707,7 +13707,6 @@ QUCHIC	C1CCC(CC1)CN2C=C(C3=CC=CC=C32)C(=O)OC4=CC=CC5=C4N=CC=C5
 5F-PB-22	C1=CC=C2C(=C1)C(=CN2CCCCCF)C(=O)OC3=CC=CC4=C3N=CC=C4
 AB-005	CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CC4CCCCN4C)C
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
-Copper(III) oxide	[O-2].[O-2].[O-2].[Cu].[Cu]
 Barium hypochlorite	[O-]Cl.[O-]Cl.[Ba+2]
 Pencycuron	Clc1ccc(cc1)CN(C(=O)Nc2ccccc2)C3CCCC3
 1,6-Digalloyl glucose	C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
@@ -15789,7 +15788,6 @@ Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Granadaene	C[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](O1)OC(C)C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)N[C@@H](CCCN)C(=O)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
-Copper peroxide	[Cu+2].[O-]-[O-]
 Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
 Naphthalenetetracarboxylic diimide	c1cc2c3c(ccc4c3c1C(=O)NC4=O)C(=O)NC2=O
 Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
