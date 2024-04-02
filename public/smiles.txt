@@ -7109,7 +7109,7 @@ CX-546	C1CCN(CC1)C(=O)C2=CC3=C(C=C2)OCCO3
 Asulam	O=S(=O)(c1ccc(N)cc1)NC(=O)OC
 Prodine	O=C(CC)O[C@]1(CCN(C[C@H]1C)C)C2=CC=CC=C2
 Pangamic acid	CN(C)CC(=O)OC[C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
-Mead acid	CCCCCCCCC=CCC=CCC=CCCCC(=O)O
+Mead acid	CCCCCCCC\C=C/C\C=C/C\C=C/CCCC(=O)O
 Plumbagin	Oc1c2C(=O)cc(C)C(=O)c2ccc1
 Iron(III) sulfate	[Fe+3].[Fe+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Ataluren	Fc3ccccc3c1nc(no1)c2cc(ccc2)C(=O)O
