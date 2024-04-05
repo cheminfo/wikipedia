@@ -21019,7 +21019,7 @@ WAY-470	C1CCCC2=C(CC1)C3=CC=CC4=C3N2CCNC4
 Lithium hexafluorotitanate	[Li+].[Li+].F[Ti-2](F)(F)(F)(F)F
 MS-377	COCCN1CCN(CC1)CC2CCN(C2=O)C3=CC=C(C=C3)Cl
 ΒOH-2C-B	NCC(c1cc(OC)c(cc1OC)Br)O
-5,7-dihydroxy-6-methoxy-2-(4-phenoxyphenyl)chromen-4-one	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)OC4=CC=CC=C4)O
+5,7-Dihydroxy-6-methoxy-2-(4-phenoxyphenyl)chromen-4-one	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)OC4=CC=CC=C4)O
 MRTX1133	C#CC1=C(C=CC2=CC(=CC(=C21)C3=NC=C4C(=C3F)N=C(N=C4N5CC6CCC(C5)N6)OC[C@@]78CCCN7C[C@@H](C8)F)O)F
 2F-NENDCK	CCNC1(CCCCC1=O)C2=CC=CC=C2F
 Propylphenidine	CCCNC(CC1=CC=CC=C1)C2=CC=CC=C2
@@ -21119,3 +21119,5 @@ Platinum(IV) iodide	I[Pt](I)(I)I
 Indium(I) iodide	[In]I
 Alpha-D2PV	C1CCN(C1)C(C2=CC=CC=C2)C(=O)C3=CC=CC=C3
 Parsaclisib	CCOC1=C(C(=C(C=C1[C@H](C)N2C3=NC=NC(=C3C(=N2)C)N)Cl)F)[C@H]4CC(=O)NC4
+THC-VHS	CC1(C)Oc2cc(cc(OC(=O)[C@H](NC(=O)CCC(=O)O)C(C)C)c2[C@@H]2C=C(C)CC[C@H]21)CCCCC
+Thorium trifluoride	F[Th](F)F
