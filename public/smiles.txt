@@ -19511,7 +19511,6 @@ ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
 Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 1,1,6-Trimethyl-1,2-dihydronaphthalene	CC1=CC2=C(C=C1)C(CC=C2)(C)C
 3,5-Difluoro-4-hydroxybenzylidene imidazolinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
-Lithium arsenide	[Li][As]
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
 3,5-Difluoromethcathinone	CC(C(=O)C1=CC(=CC(=C1)F)F)NC
 Curium(III) chloride	Cl[Cm](Cl)Cl
@@ -21005,7 +21004,6 @@ Lutetium nitride	[Lu]#N
 Iron tetrafluoride	F[Fe](F)(F)F
 Cobalt tetrafluoride	F[Co](F)(F)F
 Nickel tetrafluoride	F[Ni](F)(F)F
-Manganese(V) fluoride	F[Mn](F)(F)(F)F
 Isoamyl formate	CC(C)CCOC=O
 Ro65-6570	C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)C4CC5=CC=CC6=C5C4=CC=C6
 5-Nitro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)[N+](=O)[O-]
@@ -21051,7 +21049,6 @@ Caesium heptafluoroxenate	[Cs+].F[Xe-](F)(F)(F)(F)(F)F
 RS134-49	CC1=C2C(=CC=C1)NC=C2C3=CCCNC3
 Dichloroiodomethane	ClC(I)Cl
 Cis-Urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
-Caesium phosphide	[Cs].[Cs].[P].[P].[P].[P].[P]
 Hexakis(trimethylphosphine)tungsten	[W].CP(C)C.CP(C)C.CP(C)C.CP(C)C.CP(C)C.CP(C)C
 Caesium zirconate	[O-][Zr](=O)[O-].[Cs+].[Cs+]
 Neptunium(III) phosphide	[Np].[P]
@@ -21121,3 +21118,4 @@ Alpha-D2PV	C1CCN(C1)C(C2=CC=CC=C2)C(=O)C3=CC=CC=C3
 Parsaclisib	CCOC1=C(C(=C(C=C1[C@H](C)N2C3=NC=NC(=C3C(=N2)C)N)Cl)F)[C@H]4CC(=O)NC4
 THC-VHS	CC1(C)Oc2cc(cc(OC(=O)[C@H](NC(=O)CCC(=O)O)C(C)C)c2[C@@H]2C=C(C)CC[C@H]21)CCCCC
 Thorium trifluoride	F[Th](F)F
+Thorium trichloride	Cl[Th](Cl)Cl
