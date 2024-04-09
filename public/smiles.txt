@@ -41,8 +41,8 @@ Glycine	C(C(=O)O)N.Cl
 Guanosine	c1nc2c(=O)[nH]c(nc2n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
 Guanine	O=C1c2ncnc2nc(N)N1
 Guanine	Oc1c2ncnc2nc(N)n1
-Glucose	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Glucose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
+Glucose	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
 Gamma-Hydroxybutyric acid	O=C(O)CCCO
 Hydroxide	[OH-]
 Heroin	CC(OC1=C(O[C@@H]2[C@]34CCN(C)[C@@H]([C@@H]4C=C[C@@H]2OC(C)=O)C5)C3=C5C=C1)=O
@@ -3591,7 +3591,6 @@ Trifluoroiodomethane	FC(F)(F)I
 Phytofluene	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/C=C\C=C(/C)\C=C\C=C(/C)\CC\C=C(/C)\CCC=C(C)C)/C)/C)/C)C
 Vicine	O=C2\N=C(\N)NC(=C2/O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)/N
 Zeatin	C/C(=C\CNC1=NC=NC2=C1NC=N2)/CO
-Dihomo-γ-linolenic acid	CCCCCC=CCC=CCC=CCCCCCCC(=O)O
 Dihomo-γ-linolenic acid	CCCCC\C=C/C\C=C/C\C=C/CCCCCCC(=O)O
 Trihexyphenidyl	OC(c1ccccc1)(CCN2CCCCC2)C3CCCCC3
 Stearidonic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/C\C=C/CC
@@ -21115,8 +21114,16 @@ Thujaplicinol	CC(C)C1=CC(=O)C(=C(C=C1)O)O
 Platinum(IV) iodide	I[Pt](I)(I)I
 Indium(I) iodide	[In]I
 Alpha-D2PV	C1CCN(C1)C(C2=CC=CC=C2)C(=O)C3=CC=CC=C3
+Polonium diiodide	I[Po]I
+Protactinium tetraiodide	[Pa+4].[I-].[I-].[I-].[I-]
 Parsaclisib	CCOC1=C(C(=C(C=C1[C@H](C)N2C3=NC=NC(=C3C(=N2)C)N)Cl)F)[C@H]4CC(=O)NC4
+Lithium bis(oxalate)borate	[Li+].[B-]12(OC(=O)C(=O)O1)OC(=O)C(=O)O2
 THC-VHS	CC1(C)Oc2cc(cc(OC(=O)[C@H](NC(=O)CCC(=O)O)C(C)C)c2[C@@H]2C=C(C)CC[C@H]21)CCCCC
 Thorium trifluoride	F[Th](F)F
 Thorium trichloride	Cl[Th](Cl)Cl
 Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C(CC(OCCCCCCCCCCCCCCCCCC)=O)C1=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C1
+Cobalt(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Co+2]
+Yttrocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Y+3]
+Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
+Neodymium(II) fluoride	F[Nd]F
+Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
