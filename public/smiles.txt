@@ -3332,7 +3332,7 @@ Thiazine	C\1=C\N\C=C/S/1
 Cembrene A	C1(=C\CC/C(=C/C[C@H](C(=C)\C)CCC(=C\CC1)\C)C)\C
 Benzimidazoline	C12=CC=CC=C1NCN2
 2-Imidazoline	N\1=C\NCC/1
-EGTA (chemical)	O=C(O)CN(CC(=O)O)CCOCCOCCN(CC(=O)O)CC(=O)O
+EGTA	O=C(O)CN(CC(=O)O)CCOCCOCCN(CC(=O)O)CC(=O)O
 Armodafinil	C1=CC=C(C=C1)C(C2=CC=CC=C2)[S@](=O)CC(=O)N
 Cetrimonium bromide	CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
 1,3,5-Triazido-2,4,6-trinitrobenzene	c1(c(c(c(c(c1[N+](=O)[O-])N=[N+]=[N-])[N+](=O)[O-])N=[N+]=[N-])[N+](=O)[O-])N=[N+]=[N-]
@@ -19239,7 +19239,6 @@ JWH-309	CCCCCN1C=C(C=C1C2=CC=CC3=CC=CC=C32)C(=O)C4=CC=CC5=CC=CC=C54
 JWH-372	CCCCCN1C=C(C=C1C2=CC=CC=C2C(F)(F)F)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-371	CCCCCN1C=C(C=C1C2=CC=C(C=C2)CCCC)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-370	CCCCCN1C=C(C=C1C2=CC=CC=C2C)C(=O)C3=CC=CC4=CC=CC=C43
-Ruthenium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ru+3]
 3,3-Dimethylhexane	CCCC(C)(C)CC
 JWH-368	CCCCCN1C=C(C=C1C2=CC(=CC=C2)F)C(=O)C3=CC=CC4=CC=CC=C43
 JWH-367	CCCCCN1C=C(C=C1C2=CC(=CC=C2)OC)C(=O)C3=CC=CC4=CC=CC=C43
@@ -20694,6 +20693,7 @@ Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
 Ecnoglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC6=CNC=N6)N
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Mazdutide	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)NCC(=O)N)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)C(C)(C)NC(=O)[C@H](CC8=CNC=N8)N)O
+Suzetrigine	CC1C(C(OC1(C)C(F)(F)F)C(=O)NC2=CC(=NC=C2)C(=O)N)C3=C(C(=C(C=C3)F)F)OC
 Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
 Govorestat	C1=CC2=C(C=C1C(F)(F)F)N=C(S2)CN3C(=O)C4=CSC=C4C(=N3)CC(=O)O
 Velufenacin	CN1CC[C@H](C1)COC(=O)NC2=CC=CC=C2C3=CC(=C(C=C3)F)Cl
@@ -21128,3 +21128,4 @@ Yttrocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Y+3]
 Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
 Neodymium(II) fluoride	F[Nd]F
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
+Methylammonium formate	C[NH3+].C(=O)[O-]
