@@ -75,6 +75,7 @@ Phosphate	[O-]P([O-])([O-])=O
 Phosphate	[O-] [P+]([O-])([O-])[O-]
 Pyridine	c1ccncc1
 Phenol	Oc1ccccc1
+Phencyclidine	c1ccccc1C2(CCCCC2)N3CCCCC3
 PCHP	OC3CCN(C2(c1ccccc1)CCCCC2)CC3
 4-Phenyl-4-(1-piperidinyl)cyclohexanol	OC3CCC(c1ccccc1)(N2CCCCC2)CC3
 PCAA	O=C(O)CCCCNC2(c1ccccc1)CCCCC2
@@ -15244,7 +15245,6 @@ Cyclooctadiene iridium chloride dimer	C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1.[Cl].[Cl
 Barusiban	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCSCCC(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)C(=O)N(C)[C@@H](CCCN)CO)CC(=O)N)[C@H](C)CC
 Homoquinolinic acid	c1cc(c(nc1)C(=O)O)CC(=O)O
 Seltorexant	c4c(C)nc(nc4C)N5CC2CN(CC2C5)C(=O)c1c(cccc1F)-n3nccn3
-EVT-201	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 AVN-211	Cc1cc(n2c(n1)c(c(n2)SC)S(=O)(=O)c3ccccc3)C
 Endomorphin-1	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
 Endomorphin-2	c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]3CCCN3C(=O)[C@H](Cc4ccc(cc4)O)N
@@ -20505,6 +20505,7 @@ Dithiobutylamine	SC[C@H](CCS)N
 Tris(2-ethylhexyl) phosphate	CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC
 Gallium(III) cyanide	[C-]#N.[C-]#N.[C-]#N.[Ga+3]
 Cadmium tellurite	[Cd+2].[O-] [Te](=O)[O-]
+Pimicotinib	Cl.O=C(NC=1N=C(C(OC2=CC=NC(=C2)C=3C=NN(C3)C)=CC1)C)N4C(=O)C(C)(C)CC4.O
 Samarium(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
 Samarium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
 Caesium triiodide	I[I-]I.[Cs+]
@@ -21128,4 +21129,6 @@ Yttrocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Y+3]
 Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
 Neodymium(II) fluoride	F[Nd]F
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
+Mesitylaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
 Methylammonium formate	C[NH3+].C(=O)[O-]
+Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
