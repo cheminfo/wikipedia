@@ -20505,7 +20505,7 @@ Dithiobutylamine	SC[C@H](CCS)N
 Tris(2-ethylhexyl) phosphate	CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC
 Gallium(III) cyanide	[C-]#N.[C-]#N.[C-]#N.[Ga+3]
 Cadmium tellurite	[Cd+2].[O-] [Te](=O)[O-]
-Pimicotinib	Cl.O=C(NC=1N=C(C(OC2=CC=NC(=C2)C=3C=NN(C3)C)=CC1)C)N4C(=O)C(C)(C)CC4.O
+Pimicotinib	CC1=C(C=CC(=N1)NC(=O)N2CCC(C2=O)(C)C)OC3=CC(=NC=C3)C4=CN(N=C4)C
 Samarium(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
 Samarium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sm+3]
 Caesium triiodide	I[I-]I.[Cs+]
@@ -21000,7 +21000,7 @@ ALX-1393	C1=CC=C(C=C1)COC2=CC=CC=C2C(C3=CC(=CC=C3)F)OCC(C(=O)O)N
 JNJ-20788560	CCN(CC)C(=O)C1=CC2=C(C=C1)C(=C3CC4CCC(C3)N4)C5=CC=CC=C5O2
 Coriamyrtin	CC(=C)C1C2CC3(C4(CO4)C5C(C3(C1C(=O)O2)O)O5)C
 Fallacinal	COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C=O
-Methocinnamox	CC1=CC=C(C=C1)C=CC(=O)NC23CCC(=O)C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7
+Methocinnamox	CC1=CC=C(C=C1)/C=C/C(=O)N[C@@]23CCC(=O)[C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7
 Lutetium nitride	[Lu]#N
 Iron tetrafluoride	F[Fe](F)(F)F
 Cobalt tetrafluoride	F[Co](F)(F)F
@@ -21016,7 +21016,7 @@ Bisphenol-A bis(diphenyl phosphate)	CC(C)(C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=C
 WAY-470	C1CCCC2=C(CC1)C3=CC=CC4=C3N2CCNC4
 2-Amino-5-chlorobenzophenone	C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)N
 Lithium hexafluorotitanate	[Li+].[Li+].F[Ti-2](F)(F)(F)(F)F
-MS-377	COCCN1CCN(CC1)CC2CCN(C2=O)C3=CC=C(C=C3)Cl
+MS-377	COCCN1CCN(CC1)C[C@H]2CCN(C2=O)C3=CC=C(C=C3)Cl
 ΒOH-2C-B	NCC(c1cc(OC)c(cc1OC)Br)O
 5,7-Dihydroxy-6-methoxy-2-(4-phenoxyphenyl)chromen-4-one	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)OC4=CC=CC=C4)O
 MRTX1133	C#CC1=C(C=CC2=CC(=CC(=C21)C3=NC=C4C(=C3F)N=C(N=C4N5CC6CCC(C5)N6)OC[C@@]78CCCN7C[C@@H](C8)F)O)F
@@ -21129,6 +21129,6 @@ Yttrocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Y+3]
 Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
 Neodymium(II) fluoride	F[Nd]F
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
-Mesitylaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
+Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
 Methylammonium formate	C[NH3+].C(=O)[O-]
 Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
