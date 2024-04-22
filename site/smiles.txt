@@ -6954,6 +6954,7 @@ Magnesium orotate	[Mg+2].O=C([O-])\C1=C\C(=O)NC(=O)N1.[O-]C(=O)\C1=C\C(=O)NC(=O)
 Magnesium pidolate	[Mg+2].[O-]C(=O)C1NC(=O)CC1.[O-]C(=O)C1NC(=O)CC1
 Magnesium levulinate	[Mg+2].O=C([O-])CCC(=O)C.[O-]C(=O)CCC(=O)C
 Magnesium lactate	[Mg+2].[O-]C(=O)C(O)C.[O-]C(=O)C(O)C
+Magnesium aspartate	C([C@@H](C(=O)[O-])N)C(=O)O.C([C@@H](C(=O)[O-])N)C(=O)O.[Mg+2]
 Potassium gluconate	[K+].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Calcium pangamate	CN(C)CC(=O)OC[C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O.CN(C)CC(=O)OC[C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O.[Ca+2]
 Calcium glucoheptonate	[Ca+2].O[C@@H]([C@H](O)[C@@H](O)C([O-])=O)[C@H](O)C(O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)C(O)CO
@@ -10733,7 +10734,6 @@ Carburazepam	ClC1=CC(C(C2=CC=CC=C2)N(CC(N3C)=O)C(N)=O)=C3C=C1
 Demoxepam	ClC1=CC2=C(NC(C[N+]([O-])=C2C3=CC=CC=C3)=O)C=C1
 Motrazepam	O=C1CN=C(C2=C(N1COC)C=CC(N(=O)=O)=C2)C3=CC=CC=C3
 Tuclazepam	CN2c1ccc(Cl)cc1C(=NCC2CO)c3ccccc3Cl
-Tolufazepam	Clc2ccccc2C(=NCC1=O)c3cc(Cl)ccc3N1CCS(=O)(=O)c(cc4)ccc4C
 Nortetrazepam	O=C1CN=C(C(C=C(Cl)C=C2)=C2N1)C3=CCCCC3
 Endiandric acid C	OC(=O)[C@H]5C2\C=C/C3[C@@H]5CC4[C@H](C\C=C\C=C\c1ccccc1)[C@@H]2[C@@H]34
 Butane	CCCC
@@ -21132,3 +21132,5 @@ Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
 Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
 Methylammonium formate	C[NH3+].C(=O)[O-]
 Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
+Norketotifen	C1CNCCC1=C2C3=C(C(=O)CC4=CC=CC=C42)SC=C3
+Potassium chlorite	[O-]Cl=O.[K+]
