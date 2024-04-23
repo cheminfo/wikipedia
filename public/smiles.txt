@@ -16260,7 +16260,7 @@ Brilanestrant	CCC(=C(C1=CC=C(C=C1)C=CC(=O)O)C2=CC3=C(C=C2)NN=C3)C4=C(C=C(C=C4)F)
 Elacestrant	CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O
 Sodium 2-hydroxyethyl sulfonate	C(CS(=O)(=O)[O-])O.[Na+]
 Thiobenzoic acid	C1=CC=C(C=C1)C(=O)S
-Gamma-Decalactone	CCCCCCC1CCC(=O)O1
+Γ-Decalactone	CCCCCCC1CCC(=O)O1
 Dihydrojasmone	CCCCCC1=C(CCC1=O)C
 Delta-Octalactone	CCCC1CCCC(=O)O1
 Jasmine lactone	CC/C=C\CC1CCCC(=O)O1
@@ -21134,3 +21134,4 @@ Methylammonium formate	C[NH3+].C(=O)[O-]
 Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 Norketotifen	C1CNCCC1=C2C3=C(C(=O)CC4=CC=CC=C42)SC=C3
 Potassium chlorite	[O-]Cl=O.[K+]
+Fuzuloparib	C1CN2C(=NC(=N2)C(F)(F)F)CN1C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F
