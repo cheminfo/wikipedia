@@ -2483,7 +2483,7 @@ Captan	C1C=CC[C@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl
 Gingerol	O=C(C[C@@H](O)CCCCC)CCc1cc(OC)c(O)cc1
 Desogestrel	CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CCCC[C@H]34
 Drospirenone	O=C7O[C@@]6([C@@]3([C@H]([C@@H]2[C@@H]4[C@H](/C1=C/C(=O)CC[C@]1(C)[C@H]2CC3)C4)[C@@H]5C[C@@H]56)C)CC7
-Norethisterone acetate	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C
+Norethisterone acetate	C[C@@]12[C@](OC(C)=O)(C#C)CC[C@]1([C@]3([C@](CC2)([C@@]4(C(CC3)=CC(=O)CC4)[H])[H])[H])[H]
 Norelgestromin	ON=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
 Norgestimate	O=C(O[C@@]2(C#C)CC[C@H]1[C@H]4[C@H](CC[C@@]12CC)[C@@H]3/C(=C\C(=N\O)CC3)CC4)C
 Norgestrel	O=C\1CC[C@H]4C(=C/1)/CC[C@@H]3[C@@H]4CC[C@@]2(CC)[C@H]3CCC2(O)C#C
@@ -8301,7 +8301,7 @@ Ditolylguanidine	N(=C(/Nc1ccccc1C)N)\c2ccccc2C
 Oxymorphazone	CN1CC[C@]23[C@@H]4/C(=N/N)/CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O
 Triphenylphosphine sulfide	c1ccc(cc1)P(=S)(c2ccccc2)c3ccccc3
 Jacaric acid	O=C(O)CCCCCC/C=C\C=C\C=C/CCCCC
-Catalpic acid	O=C(O)CCCCCCC/C=C\C=C\C=C/CCCC
+Catalpic acid	O=C(O)CCCCCCC\C=C\C=C\C=C/CCCC
 Bosseopentaenoic acid	OC(=O)CCC/C=C\C/C=C\C=C\C=C\C=C/CCCCC
 Cyprodime	O=C4CC[C@@]3(OC)[C@@H]2N(CC[C@]3(c1c(cccc1OC)C2)C4)CC5CC5
 U-90042	ClC1=CC2=C(C=C1)N3C=NC(C4=NOC(C5CC5)=N4)=C3N6C2=NCC6
@@ -21143,3 +21143,5 @@ LPH-5 (drug)	COC1=CC([C@@]2([H])CNCCC2)=C(OC)C=C1C(F)(F)F
 Tiazotic acid	CC1=NC(=NN1)SCC(=O)O
 Centhaquine	CC1=CC(=CC=C1)N2CCN(CC2)CCC3=NC4=CC=CC=C4C=C3
 Trifluoroethylene	C(=C(F)F)F
+2-Aminooxazole	C1=COC(=N1)N
+CYB-210010	COC1=CC([C@@]2([H])CNCCC2)=C(OC)C=C1C(F)(F)F
