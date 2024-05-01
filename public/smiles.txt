@@ -21145,3 +21145,5 @@ Centhaquine	CC1=CC(=CC=C1)N2CCN(CC2)CCC3=NC4=CC=CC=C4C=C3
 Trifluoroethylene	C(=C(F)F)F
 2-Aminooxazole	C1=COC(=N1)N
 CYB-210010	COC1=CC([C@@]2([H])CNCCC2)=C(OC)C=C1C(F)(F)F
+CYB210010	COC1=CC(=C(C=C1CCN)OC)SC(F)(F)F
+Palladium(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pd+2]
