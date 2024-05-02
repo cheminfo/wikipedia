@@ -14109,6 +14109,7 @@ Arugosin C	CC1=CC(=C2C3=C1OCC(C3OC4=C(C2=O)C(=C(C=C4)CC=C(C)C)O)C(C)(C)O)O
 Siderin	O=C/2Oc1cc(OC)cc(c1C(\OC)=C\2)C
 Neopluramycin	C/C=C(\C)/C1=CC(=O)C2=C(O1)C3=C(C=C2C)C(=O)C4=C(C3=O)C(=C(C=C4C5CC(C(C(O5)C)O)N(C)C)C6CC(C(C(O6)C)OC(=O)C)(C)N(C)C)O
 Shamixanthone	C/C(C)=C\Cc4ccc(O)c3C(=O)c2c(cc(C)c1OC[C@H]([C@H](O)c12)C(C)=C)Oc34
+Petrosifungin	C[C@@H]1[C@@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N3CCCC[C@H]3C(=O)N4CCCC[C@H]4C(=O)O1)C(C)C)NC(=O)C5=CC=CC=C5
 Evariquinone	COC1=C2C(=O)C3=C(O)C(O)=C(O)C=C3C(=O)C2=CC(C)=C1
 Macromomycin B	O=C(OC)c2cc(OC)cc1O/C(C(=O)Nc12)=C
 Chartreusin	Cc1ccc2c3c1c(=O)oc4c3c(c(c5c4c(ccc5)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)C)O)O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)C)O)OC)O)O)c(=O)o2
@@ -21067,7 +21068,7 @@ Alpha-Arbutin	C1=CC(=CC=C1O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Tris(silox)tantalum	CC(C)(C)[Si](O[Ta](O[Si](C(C)(C)C)(C(C)(C)C)C(C)(C)C)O[Si](C(C)(C)C)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C
 Cadmium nitride	[Cd+2].[Cd+2].[Cd+2].[N-3].[N-3]
 Thorium dicarbide	[Th].[C].[C]
-N1-acetyl-5-methoxykynuramine	CC(=O)NCCC(=O)C1=C(C=CC(=C1)OC)N
+N1-Acetyl-5-methoxykynuramine	CC(=O)NCCC(=O)C1=C(C=CC(=C1)OC)N
 Molybdenum diphosphide	[Mo].[P].[P]
 Caesium dibismuthide	[Cs].[Bi].[Bi]
 3,4-Toluenedithiol	CC1=CC(=C(C=C1)S)S
@@ -21144,6 +21145,8 @@ Tiazotic acid	CC1=NC(=NN1)SCC(=O)O
 Centhaquine	CC1=CC(=CC=C1)N2CCN(CC2)CCC3=NC4=CC=CC=C4C=C3
 Trifluoroethylene	C(=C(F)F)F
 2-Aminooxazole	C1=COC(=N1)N
-CYB-210010	COC1=CC([C@@]2([H])CNCCC2)=C(OC)C=C1C(F)(F)F
 CYB210010	COC1=CC(=C(C=C1CCN)OC)SC(F)(F)F
 Palladium(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pd+2]
+QL sulfide	CCOP(=S)(C)OCCN(C(C)C)C(C)C
+Azadiradione	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)C(C4(CC3)C)C5=COC=C5)C)C)(C)C
+Azadiradione	CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC(=O)[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C
