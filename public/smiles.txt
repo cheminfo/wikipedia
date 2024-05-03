@@ -21102,7 +21102,7 @@ Promethium iodate	[Pm+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
 Promethium iodate	[Pm+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-].O
 Gadolinium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Gd+3]
 Terbium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Tb+3]
-Dysoprosium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Dy+3]
+Dysprosium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Dy+3]
 Holmium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Ho+3]
 Samarium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Sm+3]
 Tungsten(IV) iodide	I[W](I)(I)I
@@ -21150,3 +21150,5 @@ Palladium(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pd+2]
 QL sulfide	CCOP(=S)(C)OCCN(C(C)C)C(C)C
 Azadiradione	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)C(C4(CC3)C)C5=COC=C5)C)C)(C)C
 Azadiradione	CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC(=O)[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C
+10-Hydroxyketotifen	OC1c2c(/C(c3ccccc3C1)=C4CCN(CC\4)C)ccs2
+Methylenedioxynitazene	CCN(CC)CCn4c(Cc2ccc1OCOc1c2)nc3cc([N+]([O-])=O)ccc34
