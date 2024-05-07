@@ -29,6 +29,7 @@ Cyclic adenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]4[C@H](O3)COP
 RDX	C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Cocaine	CN1[C@H]2CC[C@@H]1[C@@H](C(OC)=O)[C@@H](OC(C3=CC=CC=C3)=O)C2
 DDT	ClC1=CC=C(C(C(Cl)(Cl)Cl)C2=CC=C(C=C2)Cl)C=C1
+N,N-Dimethyltryptamine	CN(CCC1=CNC2=C1C=CC=C2)C
 Dehydroepiandrosterone	O=C3[C@]2(CC[C@@H]1[C@@]4(C(=C/C[C@H]1[C@@H]2CC3)\C[C@@H](O)CC4)C)C
 Ethylene	C=C
 MDMA	CC(NC)CC1=CC=C(OCO2)C2=C1
@@ -21140,7 +21141,7 @@ Potassium chlorite	[O-]Cl=O.[K+]
 Fuzuloparib	C1CN2C(=NC(=N2)C(F)(F)F)CN1C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F
 Hafnium phosphide	[Hf]#P
 Dimesityldioxirane	CC1=CC(=C(C(=C1)C)C2(OO2)C3=C(C=C(C=C3C)C)C)C
-Rafutrombopag	CC1=C(C(=O)N(N1)C2=CC3=C(CCCC3)C=C2)N=NC4=CC=CC(=C4O)C5=CC=C(O5)C(=O)O
+Hetrombopag	CC1=C(C(=O)N(N1)C2=CC3=C(CCCC3)C=C2)N=NC4=CC=CC(=C4O)C5=CC=C(O5)C(=O)O
 LPH-5 (drug)	COC1=CC([C@@]2([H])CNCCC2)=C(OC)C=C1C(F)(F)F
 Tiazotic acid	CC1=NC(=NN1)SCC(=O)O
 Centhaquine	CC1=CC(=CC=C1)N2CCN(CC2)CCC3=NC4=CC=CC=C4C=C3
@@ -21157,3 +21158,4 @@ Methylenedioxynitazene	CCN(CC)CCn4c(Cc2ccc1OCOc1c2)nc3cc([N+]([O-])=O)ccc34
 Vebreltinib	CN1C=C2C=C(C(=CC2=N1)F)C(C3=NN=C4N3N=C(C=C4)C5=CN(N=C5)C6CC6)(F)F
 Levonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)O)F)C(=O)O
 Alalevonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)OC(=O)[C@H](C)N)F)C(=O)O
+1-Heneicosanol	CCCCCCCCCCCCCCCCCCCCCO
