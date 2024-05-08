@@ -6473,7 +6473,7 @@ Eprazinone	CCOC(CN1CCN(CC1)CC(C)C(=O)C2=CC=CC=C2)C3=CC=CC=C3
 Carbocisteine	O=C(O)[C@@H](N)CSCC(=O)O
 Carbocisteine	O=C(O)C(N)CSCC(=O)O
 Levoverbenone	O=C1\C=C(/[C@@H]2C[C@H]1C2(C)C)C
-Guaiacolsulfonate	COc1cc(S(=O)(=O)O)ccc1O
+Guaiacolsulfonic acid	COc1cc(S(=O)(=O)O)ccc1O
 Antimony pentasulfide	S=[Sb](=S)S[Sb](=S)=S
 Rimcazole	C[C@@H]1CN(C[C@@H](N1)C)CCCN2C3=CC=CC=C3C4=CC=CC=C42
 Ferruginol	Oc1c(cc2c(c1)[C@]3(CCCC([C@@H]3CC2)(C)C)C)C(C)C
@@ -8251,7 +8251,8 @@ Glaucine	CN1CCc2cc(c(c-3c2[C@@H]1Cc4c3cc(c(c4)OC)OC)OC)OC
 Tetrahydropalmatine	O(c1c4c(ccc1OC)C[C@H]3c2c(cc(OC)c(OC)c2)CCN3C4)C
 Pukateine	CN1CCC2=CC3=C(C4=C2[C@H]1CC5=C4C(=CC=C5)O)OCO3
 2-Amino-4-hydroxy-6-pyrophosphoryl-methylpteridine	NC1=NC(=O)C2=C(NCC(COP(O)(=O)OP(O)(O)=O)=N2)N1
-Macbecin	CC1CC(C(C(C=C(C(C(C=CC=C(C(=O)NC2=CC(=O)C=C(C1OC)C2=O)C)C)OC(=O)N)C)C)OC)OC
+Macbecin	C[C@H]1C[C@H]([C@H]([C@@H](/C=C(/C([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C=C([C@@H]1OC)C2=O)/C)C)OC(=O)N)\C)C)OC)OC
+Macbecin	C[C@H]1C[C@H]([C@H]([C@@H](/C=C(/C([C@H](/C=C\C=C(\C(=O)NC2=CC(=CC(=C2O)[C@@H]1OC)O)/C)C)OC(=O)N)\C)C)OC)OC
 Ramatroban	C1CC2=C(CC1NS(=O)(=O)C3=CC=C(C=C3)F)C4=CC=CC=C4N2CCC(=O)O
 Razobazam	CC1=C2C(=NN1)N(C(=O)CC(=O)N2C3=CC=CC=C3)C
 Meticrane	CC1=C(C=C2C(=C1)CCCS2(=O)=O)S(=O)(=O)N
@@ -21134,6 +21135,7 @@ Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
 Neodymium(II) fluoride	F[Nd]F
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
 Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
+Tricaprin	CCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCC)OC(=O)CCCCCCCCC
 Methylammonium formate	C[NH3+].C(=O)[O-]
 Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
 Norketotifen	C1CNCCC1=C2C3=C(C(=O)CC4=CC=CC=C42)SC=C3
@@ -21159,3 +21161,4 @@ Vebreltinib	CN1C=C2C=C(C(=CC2=N1)F)C(C3=NN=C4N3N=C(C=C4)C5=CN(N=C5)C6CC6)(F)F
 Levonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)O)F)C(=O)O
 Alalevonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)OC(=O)[C@H](C)N)F)C(=O)O
 1-Heneicosanol	CCCCCCCCCCCCCCCCCCCCCO
+1DD-LSD	CCCCCCCCCCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4
