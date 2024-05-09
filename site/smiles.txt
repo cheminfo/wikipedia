@@ -21135,6 +21135,7 @@ Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
 Neodymium(II) fluoride	F[Nd]F
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
 Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
+4'-Hydroxyflavanone	C1C(OC2=CC=CC=C2C1=O)C3=CC=C(C=C3)O
 Tricaprin	CCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCC)OC(=O)CCCCCCCCC
 Methylammonium formate	C[NH3+].C(=O)[O-]
 Dimdazenil	Clc4cccc3n2cnc(c1nc(on1)CN(C)C)c2CN(C(=O)c34)C
@@ -21154,6 +21155,10 @@ Palladium(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pd+2]
 QL sulfide	CCOP(=S)(C)OCCN(C(C)C)C(C)C
 Azadiradione	CC(=O)OC1CC2C(C(=O)C=CC2(C3C1(C4=CC(=O)C(C4(CC3)C)C5=COC=C5)C)C)(C)C
 Azadiradione	CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC(=O)[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C
+Tetrapropylammonium	[N+](CCC)(CCC)(CCC)CCC
+Ytterbium(III) hydroxide	[OH-].[OH-].[OH-].[Yb+3]
+Strontium carbide	[Sr+2].[C-]#[C-]
+Maxacalcitol	C[C@@H]([C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C)OCCC(C)(C)O
 Gumarontinib	CN1C=C(C=N1)C2=CN3C(=NC=C3S(=O)(=O)N4C5=C(C=N4)N=CC(=C5)C6=CN(N=C6)C)C=C2
 10-Hydroxyketotifen	OC1c2c(/C(c3ccccc3C1)=C4CCN(CC\4)C)ccs2
 Methylenedioxynitazene	CCN(CC)CCn4c(Cc2ccc1OCOc1c2)nc3cc([N+]([O-])=O)ccc34
