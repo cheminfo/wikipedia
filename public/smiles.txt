@@ -18289,7 +18289,7 @@ Hydrogen diselenide	[SeH][SeH]
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
 Hexamethylenediimine	C=NCCCCCCN=C
 Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
-EPI-7386	CC(C)(C1=CC=C(C=C1)OCC2=NC(=NC=C2)NS(=O)(=O)C)C3=CC(=C(C(=C3)Cl)OCCCl)C#N
+Masofaniten	CC(C)(C1=CC=C(C=C1)OCC2=NC(=NC=C2)NS(=O)(=O)C)C3=CC(=C(C(=C3)Cl)OCCCl)C#N
 Strontium hydride	[SrH2]
 2-Phosphoglycolate	C(C(=O)[O-])OP(=O)([O-])[O-]
 2-Phosphoglycolate	C(C(=O)O)OP(=O)(O)O
@@ -21167,3 +21167,6 @@ Levonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)O)F)C(=O)O
 Alalevonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)OC(=O)[C@H](C)N)F)C(=O)O
 1-Heneicosanol	CCCCCCCCCCCCCCCCCCCCCO
 1DD-LSD	CCCCCCCCCCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4
+(3Z)-Nonenal	CCCCC/C=C\CC=O
+Praseodymium hexaboride	[B].[B].[B].[B].[B].[B].[Pr]
+Sodium chlorodifluoroacetate	C(=O)(C(F)(F)Cl)[O-].[Na+]
