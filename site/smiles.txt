@@ -14082,7 +14082,7 @@ Molybdenum(III) chloride	Cl[Mo](Cl)Cl
 Molybdenum(III) bromide	Br[Mo](Br)Br
 Molybdenum(III) iodide	[Mo](I)(I)I
 Molybdenum(II) bromide	Br[Mo]Br
-Beta-nitropropionic acid	C(C[N+](=O)[O-])C(=O)O
+Beta-Nitropropionic acid	C(C[N+](=O)[O-])C(=O)O
 Citreorosein	c1c(cc(c2c1C(=O)c3cc(cc(c3C2=O)O)O)O)CO
 Durantin A	CC(=O)OC[C@@H]1[C@H](OC2=C(C=C3C=CC(=O)OC3=C2O1)OC)C4=CC(=C(C=C4)O)OC
 Verrulactone	COC1=CC2=C(C(=C1)O)C(=O)OC3=C2C(=C(C(=C3)O)O)C4=C(C(=CC5=C4C6=C(C(=CC(=C6)OC)O)C(=O)O5)O)O
@@ -20594,6 +20594,7 @@ Manganese(III) phosphate	[O-]P(=O)([O-])[O-].[Mn+3]
 2,5-Furandicarboxaldehyde	C1=C(OC(=C1)C=O)C=O
 Sanglifehrin	CCC1CC(C2(C(C(C(C(O2)CC(C(C)CCC=CC=C(C)C3CC=CC=CC(C(C(C(C(=O)NC(C(=O)NC(C(=O)N4CCCC(N4)C(=O)O3)CC5=CC(=CC=C5)O)C(C)C)CCC(=O)C)O)C)O)O)C)O)C)NC1=O)C
 Vorasidenib	C[C@H](C(F)(F)F)NC1=NC(=NC(=N1)C2=NC(=CC=C2)Cl)N[C@H](C)C(F)(F)F
+Monepantel	C[C@@](COC1=C(C=CC(=C1)C#N)C(F)(F)F)(C#N)NC(=O)C2=CC=C(C=C2)SC(F)(F)F
 Magnesium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Mg+2]
 Strontium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Sr+2]
 CP 42,096	CC(CCCC1=CC=CC=C1)OC2=CC(=C3[C@@H]4C[C@@H](CC[C@H]4C(OC3=C2)(C)C)O)O
@@ -21114,6 +21115,7 @@ Europium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Eu+3]
 Bromo(chloro)fluoro(iodo)silane	F[Si](Cl)(Br)I
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4]
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4].O.O.O
+Tin(IV) iodate	O=I(=O)O[Sn](OI(=O)=O)(OI(=O)=O)OI(=O)=O
 Deruxtecan	CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C5[C@H](CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)NC(=O)COCNC(=O)CNC(=O)[C@H](CC7=CC=CC=C7)NC(=O)CNC(=O)CNC(=O)CCCCCN8C(=O)C=CC8=O)O
 Thujaplicinol	CC(C)C1=CC=CC(=O)C(=C1O)O
 Thujaplicinol	CC(C)C1=CC(=O)C(=C(C=C1)O)O
@@ -21170,3 +21172,4 @@ Alalevonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)OC(=O)[C@H](C)N)
 (3Z)-Nonenal	CCCCC/C=C\CC=O
 Praseodymium hexaboride	[B].[B].[B].[B].[B].[B].[Pr]
 Sodium chlorodifluoroacetate	C(=O)(C(F)(F)Cl)[O-].[Na+]
+Chromium oxytetrafluoride	F[Cr](F)(F)(F)=O
