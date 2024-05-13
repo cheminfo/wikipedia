@@ -3062,7 +3062,6 @@ Hydrazinium nitroformate	N[NH3+].[O-][N+](=O)[C-]([N+]([O-])=O)[N+]([O-])=O
 1,1,1,2,3,3,3-Heptafluoropropane	FC(F)(F)C(F)C(F)(F)F
 Quinoxaline	c1cccc2nccnc12
 Copper(II) fluoride	[Cu+2].[F-].[F-]
-Cadmium fluoride	F[Cd]F
 Phenazine	n1c3c(nc2c1cccc2)cccc3
 Phthalazine	C1=CC=C2C=NN=CC2=C1
 Chloropyramine	Clc1ccc(cc1)CN(c2ncccc2)CCN(C)C
@@ -3631,9 +3630,9 @@ Isocrotonic acid	C/C=C\C(=O)O
 Rifaximin	CC(=O)O[C@H]3[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc6c2c(nc1cc(C)ccn12)c5c4C(=O)[C@@](C)(O/C=C/[C@H](OC)[C@H]3C)Oc4c(C)c(O)c5c6O
 Tin telluride	[Sn]=[Te]
 Eplerenone	COC(=O)[C@@H]4C\C1=C\C(=O)CC[C@]1(C)[C@@]65O[C@@H]6C[C@@]3(C)[C@@H](CC[C@]23CCC(=O)O2)[C@H]45
-1,2-Dichloroethene	ClC=CCl
+1,2-Dichloroethylene	ClC=CCl
 Butamben	O=C(OCCCC)c1ccc(N)cc1
-1,1-Dichloroethene	ClC(Cl)=C
+1,1-Dichloroethylene	ClC(Cl)=C
 1,1,2-Trichloroethane	C(C(Cl)Cl)Cl
 Nociceptin	C[C@H]([C@@H](C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CO)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@H](Cc2ccccc2)N)O
 Norbuprenorphine	C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN[C@@H]3Cc6c5c(c(cc6)O)O4)OC)(C(C)(C)C)O
@@ -12883,7 +12882,7 @@ Quadazocine	O=C(CCC1CCCC1)CCC4([C@@H]3N(CC[C@]4(c2c(ccc(O)c2)C3)C)C)C
 NMP-7	c3cccc1c3n(CCCCC)c(cc2)c1cc2C(=O)N4CCCCC4
 Imagabalin	O=C(O)C[C@@H](N)C[C@@H](CCC)C
 Velleral	O=C/C1=C/[C@@H]2CC(C)(C)C[C@@H]2[C@@H](C)/C=C1/C=O
-1,1-Difluoroethene	C=C(F)F
+1,1-Difluoroethylene	C=C(F)F
 Ichthyothereol	CC#CC#CC#C/C=C/[C@H]1[C@@H](CCCO1)O
 S32212	O=C(N3c2ccc1c(cccc1)c2CC3)Nc4cc(c(OC)cc4)N5CCN(C)CC5
 Meta-Hydroxynorephedrine	OC(c1cc(O)ccc1)C(N)C
@@ -18564,6 +18563,7 @@ Dinickel boride	[B].[Ni].[Ni]
 Trinickel boride	[B].[Ni].[Ni].[Ni]
 Cyclopentadienylvanadium tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=C[CH]C=C1.[V]
 Elexacaftor	C[C@H]1CC(N(C1)C2=C(C=CC(=N2)N3C=CC(=N3)OCC(C)(C)C(F)(F)F)C(=O)NS(=O)(=O)C4=CN(N=C4C)C)(C)C
+Pamiparib	C[C@]12CCCN1CC3=NNC(=O)C4=C5C3=C2NC5=CC(=C4)F
 11β-Chloromethylestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)CCl
 11β-Methoxyestradiol	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O)OC
 Abametapir	CC1=CN=C(C=C1)C2=NC=C(C=C2)C
@@ -21085,6 +21085,7 @@ Tantalocene trihydride	[H-][Ta+5]12345678([H-])([H-])([CH]=9[CH]4=[CH]3[CH-]2[CH
 Praseodymium(III) molybdate	[Pr+3].[Pr+3].[O-][Mo](=O)(=O)[O-].[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O
 Cyclamin	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(CO4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(CO7)O)O)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CCC91C3(CC(C2(C9CC(CC2)(C)C=O)CO1)O)C)C)C
 K252b	C[C@@]12[C@](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)(C(=O)O)O
+Tris(cyclooctatetraene)triiron	C\1=C\C=C/C=C\C=C1.C\1=C\C=C/C=C\C=C1.C\1=C\C=C/C=C\C=C1.[Fe]2[Fe][Fe]2
 Trimesityliridium	CC(C=C(C)C1)=C(C=1C)[Ir](C(C(C)=CC1C)=C(C=1)C)C(C(C)=CC1C)=C(C=1)C
 Rebecsinib	CO[C@@H](CC)[C@@H](C)[C@H]1O[C@@H]1[C@@H](O)[C@H](C)\C=C\C=C(/C)[C@@H]1OC(=O)C[C@H](O)CC[C@@](C)(O)[C@@H](OC(C)=O)\C=C\[C@@H]1C
 Fentanyl azepane	CCC(=O)N(C1CCCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
@@ -21092,6 +21093,7 @@ N,O-Didesmethyltramadol	CNCC1CCCCC1(C2=CC(=CC=C2)O)O
 Enitociclib	COC1=C(C=CC(=C1)F)C2=CC(=NC=C2F)NC3=NC=CC(=C3)C[S@@](=N)(=O)C
 Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
+Thorium heptaphosphide	[Th+4].[P-].[P-].[P-].[P-].[P].[P].[P]
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Thorium diselenide	[Se].[Se].[Th]
 Gold phosphide	[P-3].[Au+3]
@@ -21116,26 +21118,42 @@ Europium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Eu+3]
 Bromo(chloro)fluoro(iodo)silane	F[Si](Cl)(Br)I
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4]
 Zirconium iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Zr+4].O.O.O
+Bismuth iodate	[Bi+3].[O-][I](=O)=O.[O-][I](=O)=O.[O-][I](=O)=O
+Bismuth iodate	[Bi+3].[O-][I](=O)=O.[O-][I](=O)=O.[O-][I](=O)=O.O.O
 Tin(IV) iodate	O=I(=O)O[Sn](OI(=O)=O)(OI(=O)=O)OI(=O)=O
+Plutonium(IV) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pu+4]
 Deruxtecan	CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C5[C@H](CCC6=C5C(=CC(=C6C)F)N=C4C3=C2)NC(=O)COCNC(=O)CNC(=O)[C@H](CC7=CC=CC=C7)NC(=O)CNC(=O)CNC(=O)CCCCCN8C(=O)C=CC8=O)O
 Thujaplicinol	CC(C)C1=CC=CC(=O)C(=C1O)O
 Thujaplicinol	CC(C)C1=CC(=O)C(=C(C=C1)O)O
 8-Bromocaffeine	CN1C2=C(N=C1Br)N(C(=O)N(C2=O)C)C
+Tin triphosphide	[Sn+2].[Sn+4].[P-]1=[P-][P-]=[P-][P-]=[P-]1
+Neptunium monocarbide	[Np+4].[C-4]
 Platinum(IV) iodide	I[Pt](I)(I)I
 Indium(I) iodide	[In]I
 Alpha-D2PV	C1CCN(C1)C(C2=CC=CC=C2)C(=O)C3=CC=CC=C3
 Polonium diiodide	I[Po]I
+Neptunium tetrachloride	[Np+4].[Cl-].[Cl-].[Cl-].[Cl-]
+Neptunium tetrabromide	[Np+4].[Br-].[Br-].[Br-].[Br-]
+Protactinium tetrafluoride	[Pa+4].[F-].[F-].[F-].[F-]
 Protactinium tetraiodide	[Pa+4].[I-].[I-].[I-].[I-]
 Parsaclisib	CCOC1=C(C(=C(C=C1[C@H](C)N2C3=NC=NC(=C3C(=N2)C)N)Cl)F)[C@H]4CC(=O)NC4
 Lithium bis(oxalate)borate	[Li+].[B-]12(OC(=O)C(=O)O1)OC(=O)C(=O)O2
+Californium tetrafluoride	[Cf+4].[F-].[F-].[F-].[F-]
+Thorium triiodide	[Th+3].[I-].[I-].[I-]
 THC-VHS	CC1(C)Oc2cc(cc(OC(=O)[C@H](NC(=O)CCC(=O)O)C(C)C)c2[C@@H]2C=C(C)CC[C@H]21)CCCCC
 Thorium trifluoride	F[Th](F)F
 Thorium trichloride	Cl[Th](Cl)Cl
+Dalpiciclib	CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)C4CCNCC4)C5CCCC5)C(=O)C
+Donafenib	[2H]C([2H])([2H])NC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
 Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C(CC(OCCCCCCCCCCCCCCCCCC)=O)C1=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C1
 Cobalt(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Co+2]
+Cobalt(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Co+2].O.O.O.O.O.O
 Yttrocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Y+3]
 Ytterbium(III) cyanide	[Yb+3].[C-]#N.[C-]#N.[C-]#N
-Neodymium(II) fluoride	F[Nd]F
+Ytterbium(III) bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[O-]Br(=O)=O.[Yb+3]
+Ytterbium(III) bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[O-]Br(=O)=O.[Yb+3].O.O.O.O.O.O.O.O.O
+Ytterbium(II) bromide	[Yb+2].[Br-].[Br-]
+Neodymium(II) fluoride	[Nd+2].[F-].[F-]
 Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
 Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
 4'-Hydroxyflavanone	C1C(OC2=CC=CC=C2C1=O)C3=CC=C(C=C3)O
@@ -21181,3 +21199,4 @@ Praseodymium hexaboride	[B].[B].[B].[B].[B].[B].[Pr]
 Sodium chlorodifluoroacetate	C(=O)(C(F)(F)Cl)[O-].[Na+]
 Chromium oxytetrafluoride	F[Cr](F)(F)(F)=O
 Cyclic 3-hydroxymelatonin	CC(=O)N1CC[C@@]2([C@H]1NC3=C2C=C(C=C3)OC)O
+Methyl chlorate	COCl(=O)=O
