@@ -1544,7 +1544,6 @@ Fuchsine	[Cl-].[NH2+]=C\1/C=C\C(C=C/1)=C(\c2ccc(N)c(C)c2)c3ccc(N)cc3
 New fuchsine	CC1=CC(=C(C2=CC(=C(C=C2)N)C)C3=CC(=C(C=C3)N)C)C=CC1=[NH2+].[Cl-]
 Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
-Methylmercury	C[Hg]
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
 Cisplatin	[NH3+]-[Pt-2](Cl)(Cl)[NH3+]
 Pyrene	c1cc2cccc3c2c4c1cccc4cc3
@@ -21071,6 +21070,7 @@ Lysergide d-tartrate	CN1[C@]2(C(C=3C=4C(C2)=CNC4C=CC3)=C[C@@H](C(N(CC)CC)=O)C1)[
 Molybdenum monophosphide	[Mo]#P
 Alpha-Arbutin	C1=CC(=CC=C1O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Tris(silox)tantalum	CC(C)(C)[Si](O[Ta](O[Si](C(C)(C)C)(C(C)(C)C)C(C)(C)C)O[Si](C(C)(C)C)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C
+Scaritoxin	C[C@@H]1C[C@H]2[C@@H](C[C@H]3[C@H](O2)[C@H]([C@@H]([C@H]4[C@H](O3)[C@H]([C@@H]([C@@]5(O4)CCCO5)C)C)O)C)O[C@H]6C[C@@H]7[C@]([C@@H](C[C@@H]8[C@@H](O7)C/C=C/C[C@@H]9[C@@H](O8)C=C[C@@H]2[C@@H](O9)C=C[C@@H]3[C@@H](O2)C[C@@H]2[C@@H](O3)[C@@H]([C@@H]3[C@@H](O2)CC=C[C@@H](O3)/C=C/C=C)O)O)(O[C@@H]6C1)C
 Cadmium nitride	[Cd+2].[Cd+2].[Cd+2].[N-3].[N-3]
 Thorium dicarbide	[Th].[C].[C]
 N1-Acetyl-5-methoxykynuramine	CC(=O)NCCC(=O)C1=C(C=CC(=C1)OC)N
