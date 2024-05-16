@@ -73,7 +73,7 @@ Propane	CCC
 Purine	c1c2c(nc[nH]2)ncn1
 Pyrimidine	n1cnccc1
 Phosphate	[O-]P([O-])([O-])=O
-Phosphate	[O-] [P+]([O-])([O-])[O-]
+Phosphate	[O-][P+]([O-])([O-])[O-]
 Pyridine	c1ccncc1
 Phenol	Oc1ccccc1
 Phencyclidine	c1ccccc1C2(CCCCC2)N3CCCCC3
@@ -779,7 +779,8 @@ Hydrochlorothiazide	O=S(=O)(N)c1c(Cl)cc2c(c1)S(=O)(=O)NCN2
 Ribulose 1,5-bisphosphate	O=P(O)(OCC(=O)[C@H](O)[C@H](O)COP(=O)(O)O)O
 Lithium hydroxide	[Li+].[OH-]
 Melamine	Nc1nc(N)nc(N)n1
-Phosphite anion	[O-]P([O-])[O-]
+Phosphite anion	P([O-])([O-])=O
+Phosphite anion	[H][P+]([O-])([O-])[O-]
 Copper(II) nitrate	[Cu+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Clonidine	Clc1cccc(Cl)c1N/C2=N/CCN2
 Dihydroxyacetone	O=C(CO)CO
@@ -906,6 +907,7 @@ Oleic acid	CCCCCCCC\C=C/CCCCCCCC(O)=O
 Carbaryl	CNC(=O)Oc1c2ccccc2ccc1
 Chlorphenamine	Clc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Diazomethane	N#[N+]-[C-]
+Diazomethane	[N-]=[N+]=[C-]
 Desflurane	FC(F)(F)C(F)OC(F)F
 Erythritol	C([C@H]([C@H](CO)O)O)O
 Abscisic acid	OC(=O)\C=C(\C)/C=C/[C@@]1(O)C(C)=CC(=O)CC1(C)C
@@ -7630,7 +7632,7 @@ Octreotide scan	[111In+3].CC(O)C(CO)N=C(O)C1CSSCC(N=C(O)C(CC2=CC=CC=C2)N=C([O-])
 Cilofungin	O=C2N5[C@H](C(=O)N[C@H](O)[C@H](O)C[C@H](NC(=O)c1ccc(OCCCCCCCC)cc1)C(=O)N[C@H](C(=O)N4[C@H](C(=O)N[C@H](C(=O)N[C@H]2[C@H](O)C)[C@H](O)[C@@H](O)c3ccc(O)cc3)C[C@@H](O)C4)[C@H](O)C)[C@@H](O)[C@@H](C)C5
 Triethylsilane	CC[SiH](CC)CC
 Sucrose octaacetate	CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)COC(=O)C)OC(=O)C)OC(=O)C)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
-Sodium monothiophosphate	OP(=S)(O)O.[Na].[Na].[Na]
+Sodium monothiophosphate	[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
 LY-334370	CN1CCC(c2c3cc(N([H])C(c4ccc(F)cc4)=O)ccc3n([H])c2)CC1
 Trimagnesium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg+2]
 Monomagnesium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Mg+2]
@@ -21201,3 +21203,7 @@ Sodium chlorodifluoroacetate	C(=O)(C(F)(F)Cl)[O-].[Na+]
 Chromium oxytetrafluoride	F[Cr](F)(F)(F)=O
 Cyclic 3-hydroxymelatonin	CC(=O)N1CC[C@@]2([C@H]1NC3=C2C=C(C=C3)OC)O
 Methyl chlorate	COCl(=O)=O
+Eserethole	CCOC1=CC2=C(C=C1)N(C3C2(CCN3C)C)C
+Eserethole	CCOC1=CC2=C(C=C1)N([C@@H]3[C@]2(CCN3C)C)C
+Samarium tetraboride	[Sm].[B].[B].[B].[B]
+Praseodymium tetraboride	[Pr].[B].[B].[B].[B]
