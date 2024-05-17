@@ -907,7 +907,7 @@ Oleic acid	CCCCCCCC\C=C/CCCCCCCC(O)=O
 Carbaryl	CNC(=O)Oc1c2ccccc2ccc1
 Chlorphenamine	Clc1ccc(cc1)C(c2ncccc2)CCN(C)C
 Diazomethane	N#[N+]-[C-]
-Diazomethane	[N-]=[N+]=[C-]
+Diazomethane	[N-]=[N+]=[C]
 Desflurane	FC(F)(F)C(F)OC(F)F
 Erythritol	C([C@H]([C@H](CO)O)O)O
 Abscisic acid	OC(=O)\C=C(\C)/C=C/[C@@]1(O)C(C)=CC(=O)CC1(C)C
@@ -13170,7 +13170,7 @@ Samidorphan	c1cc(c(c2c1C[C@@H]3[C@]4([C@]2(CCN3CC5CC5)CC(=O)CC4)O)O)C(=O)N
 (3-Aminopropyl)triethoxysilane	CCO[Si](CCCN)(OCC)OCC
 Nornicotine	n1cccc(c1)[C@H]2NCCC2
 Aluminium formate	[Al+3].[O-]C=O.[O-]C=O.[O-]C=O
-Arsenic tetroxide	[As+3].[As+5].[O].[O].[O].[O]
+Arsenic tetroxide	[O]=[As][O][As](=O)=O
 (6S)-6-Fluoroshikimic acid	F[C@H]1C(=C/[C@@H](O)[C@@H](O)[C@@H]1O)\C(=O)O
 2-Diphenylphosphinobenzaldehyde	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3C=O
 Fenarimol	Clc1ccc(cc1)C(O)(c2ccccc2Cl)c3cncnc3
@@ -18890,6 +18890,7 @@ Diformylcresol	CC1=CC(=C(C(=C1)C=O)O)C=O
 Rubidium acetate	CC(=O)[O-].[Rb+]
 Diroximel fumarate	COC(=O)C=CC(=O)OCCN1C(=O)CCC1=O
 Kaurenoic acid	C=C1C[C@@]23CC[C@]4([H])[C@@](C(O)=O)(C)CCC[C@@]4(C)[C@]2([H])CC[C@@H]1C3
+Antimony orthophosphate	[O-]P(=O)([O-])[O-].[Sb+3]
 Geranylacetone	CC(=CCC/C(=C/CCC(=O)C)/C)C
 Strontium acetate	CC(=O)[O-].CC(=O)[O-].[Sr+2]
 Potassium nitride	[K+].[K+].[K+].[N-3]
@@ -21207,3 +21208,4 @@ Eserethole	CCOC1=CC2=C(C=C1)N(C3C2(CCN3C)C)C
 Eserethole	CCOC1=CC2=C(C=C1)N([C@@H]3[C@]2(CCN3C)C)C
 Samarium tetraboride	[Sm].[B].[B].[B].[B]
 Praseodymium tetraboride	[Pr].[B].[B].[B].[B]
+Tribromoethylene	C(=C(Br)Br)Br
