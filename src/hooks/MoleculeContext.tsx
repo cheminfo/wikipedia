@@ -1,19 +1,25 @@
-import { createContext, ReactNode, useContext, useMemo, useState } from 'react';
+import {
+  createContext,
+  Dispatch,
+  ReactNode,
+  SetStateAction,
+  useContext,
+  useMemo,
+  useState,
+} from 'react';
 
 export type SearchType = 'substructure' | 'exact' | 'similarity';
 
 interface State {
   selectedId: number | null;
-  setSelectedId: React.Dispatch<React.SetStateAction<number | null>>;
+  setSelectedId: Dispatch<SetStateAction<number | null>>;
   selectedTitle: string;
-  setSelectedTitle: React.Dispatch<React.SetStateAction<string>>;
+  setSelectedTitle: Dispatch<SetStateAction<string>>;
   id: number;
   idCode: string;
-  setIdAndIdCode: React.Dispatch<
-    React.SetStateAction<{ id: number; idCode: string }>
-  >;
+  setIdAndIdCode: Dispatch<SetStateAction<{ id: number; idCode: string }>>;
   search: SearchType;
-  setSearch: React.Dispatch<React.SetStateAction<SearchType>>;
+  setSearch: Dispatch<SetStateAction<SearchType>>;
 }
 
 const MoleculeContext = createContext<State>({

@@ -7,7 +7,7 @@ interface NoCorrectSMILESProps {
   number: number;
   data: number[];
 }
-export function NoCorrectSMILES(props: NoCorrectSMILESProps): JSX.Element {
+export function NoCorrectSMILES(props: NoCorrectSMILESProps) {
   return (
     <ErrorSection
       title="Pages without correct SMILES :"

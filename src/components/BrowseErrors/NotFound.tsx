@@ -7,7 +7,7 @@ interface NotFoundProps {
   number: number;
   data: number[];
 }
-export function NotFound(props: NotFoundProps): JSX.Element {
+export function NotFound(props: NotFoundProps) {
   return (
     <ErrorSection
       title="Not found :"

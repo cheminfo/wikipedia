@@ -1,17 +1,17 @@
 /* eslint-disable import/no-absolute-path */
 import { Transition } from '@headlessui/react';
 import clsx from 'clsx';
-import { useState } from 'react';
+import { Dispatch, SetStateAction, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
 import github from '/logo/github.png';
 
 interface NavbarProps {
   showAbout: boolean;
-  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowAbout: Dispatch<SetStateAction<boolean>>;
 }
 
-export function Navbar({ showAbout, setShowAbout }: NavbarProps): JSX.Element {
+export function Navbar({ showAbout, setShowAbout }: NavbarProps) {
   const [isOpen, setIsOpen] = useState(false);
   const sections = [
     { name: 'Explore structures', link: '/' },

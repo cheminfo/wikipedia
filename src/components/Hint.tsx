@@ -1,16 +1,13 @@
 import * as Tooltip from '@radix-ui/react-tooltip';
+import { ReactElement } from 'react';
 
 interface TooltipProps {
-  children: JSX.Element;
+  children: ReactElement;
   info: string;
   className?: string;
 }
 
-export default function Hint({
-  children,
-  info,
-  className,
-}: TooltipProps): JSX.Element {
+export default function Hint({ children, info, className }: TooltipProps) {
   return (
     <Tooltip.Root>
       <Tooltip.Trigger asChild className={className}>

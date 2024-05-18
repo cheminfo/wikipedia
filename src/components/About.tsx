@@ -1,8 +1,10 @@
+import { Dispatch, SetStateAction } from 'react';
+
 import DialogWindow from './DialogWindow';
 
 interface AboutProps {
   showAbout: boolean;
-  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowAbout: Dispatch<SetStateAction<boolean>>;
 }
 
 export default function About({ showAbout, setShowAbout }: AboutProps) {
