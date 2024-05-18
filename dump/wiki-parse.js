@@ -94,7 +94,13 @@ function parse(content, idx, res) {
 
   let match;
   while ((match = regSmiles.exec(boxContent))) {
-    res.push(match.groups.smiles.trim());
+    const cleanSmiles = match.groups.smiles
+      .trim()
+      .replaceAll(/\s+/g, '')
+      .replace(/<!--.*?-->/g, '');
+    if (cleanSmiles) {
+      res.push(cleanSmiles);
+    }
   }
 }
 
