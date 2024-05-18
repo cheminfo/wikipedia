@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { Dispatch, SetStateAction, useState } from 'react';
 
 import About from '../components/About';
 import HelpDialog from '../components/HelpDialog';
@@ -9,13 +9,13 @@ import { useDataContext } from '../hooks/DataContext';
 
 interface StructureExplorerProps {
   showAbout: boolean;
-  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowAbout: Dispatch<SetStateAction<boolean>>;
 }
 
 export function StructureExplorer({
   showAbout,
   setShowAbout,
-}: StructureExplorerProps): JSX.Element {
+}: StructureExplorerProps) {
   const { loading } = useDataContext();
   const [showHelp, setShowHelp] = useState(false);
 

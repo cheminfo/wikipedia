@@ -1,3 +1,5 @@
+import { Dispatch, SetStateAction } from 'react';
+
 import About from '../components/About';
 import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
@@ -7,13 +9,10 @@ import { useDataContext } from '../hooks/DataContext';
 
 interface BrowseErrorsProps {
   showAbout: boolean;
-  setShowAbout: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowAbout: Dispatch<SetStateAction<boolean>>;
 }
 
-export function BrowseErrors({
-  showAbout,
-  setShowAbout,
-}: BrowseErrorsProps): JSX.Element {
+export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
   const {
     allData: {
       count,

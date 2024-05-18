@@ -11,7 +11,7 @@ interface MoleculeInfoProps {
   mol: IMolecule;
 }
 
-export function MoleculeInfo({ mol }: MoleculeInfoProps): JSX.Element {
+export function MoleculeInfo({ mol }: MoleculeInfoProps) {
   const { selectedTitle, setSelectedTitle, setSearch, setIdAndIdCode } =
     useMoleculeContext();
 

@@ -1,16 +1,17 @@
 import clsx from 'clsx';
+import { ReactElement } from 'react';
 
 interface SimpleTableProps {
   title?: string;
-  help?: JSX.Element;
-  footer?: JSX.Element;
-  option?: JSX.Element;
-  children: JSX.Element;
+  help?: ReactElement;
+  footer?: ReactElement;
+  option?: ReactElement;
+  children: ReactElement;
   className?: string;
   height?: string;
 }
 
-export default function SimpleTable(props: SimpleTableProps): JSX.Element {
+export default function SimpleTable(props: SimpleTableProps) {
   return (
     <div
       className={clsx(

@@ -28,7 +28,7 @@ const logos = [
   },
 ];
 
-export function Footer(): JSX.Element {
+export function Footer() {
   return (
     <div className="flex flex-wrap items-end justify-center gap-x-16 gap-y-14 px-6 pb-12 pt-6 lg:gap-x-32">
       {logos.map((logo) => (

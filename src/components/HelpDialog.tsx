@@ -1,8 +1,10 @@
+import { Dispatch, SetStateAction } from 'react';
+
 import DialogWindow from './DialogWindow';
 
 interface HelpDialogProps {
   showHelp: boolean;
-  setShowHelp: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowHelp: Dispatch<SetStateAction<boolean>>;
 }
 
 export default function HelpDialog({ showHelp, setShowHelp }: HelpDialogProps) {

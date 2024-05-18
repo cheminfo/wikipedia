@@ -8,7 +8,7 @@ interface DuplicatesProps {
   data: number[];
 }
 
-export function Duplicates(props: DuplicatesProps): JSX.Element {
+export function Duplicates(props: DuplicatesProps) {
   return (
     <ErrorSection
       title="Duplicates :"

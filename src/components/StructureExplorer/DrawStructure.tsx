@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { Dispatch, SetStateAction, useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
@@ -7,12 +7,12 @@ import { SearchType, useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
 
 interface HelpButtonProps {
-  setShowHelp: React.Dispatch<React.SetStateAction<boolean>>;
+  setShowHelp: Dispatch<SetStateAction<boolean>>;
 }
 
 interface DrawStructureProps extends HelpButtonProps {}
 
-function Search(): JSX.Element {
+function Search() {
   const { search, setSearch } = useMoleculeContext();
   return (
     <form className="flex items-center space-x-2">
@@ -37,7 +37,7 @@ function Search(): JSX.Element {
   );
 }
 
-function Board(): JSX.Element {
+function Board() {
   const { id, idCode, setIdAndIdCode } = useMoleculeContext();
   const [boardWidth, setBoardWidth] = useState(470);
 
@@ -65,7 +65,7 @@ function Board(): JSX.Element {
   );
 }
 
-function HelpButton({ setShowHelp }: HelpButtonProps): JSX.Element {
+function HelpButton({ setShowHelp }: HelpButtonProps) {
   return (
     <button type="button" className="flex" onClick={() => setShowHelp(true)}>
       <AiOutlineQuestionCircle className="transform text-xl text-darkblue transition-all duration-150 ease-in-out hover:scale-125" />
@@ -73,9 +73,7 @@ function HelpButton({ setShowHelp }: HelpButtonProps): JSX.Element {
   );
 }
 
-export function DrawStructure({
-  setShowHelp,
-}: DrawStructureProps): JSX.Element {
+export function DrawStructure({ setShowHelp }: DrawStructureProps) {
   return (
     <SimpleTable
       title="Draw a structure"

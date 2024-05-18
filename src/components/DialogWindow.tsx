@@ -1,13 +1,13 @@
 import { Dialog, Transition } from '@headlessui/react';
 import clsx from 'clsx';
-import { Fragment } from 'react';
+import { Dispatch, Fragment, ReactNode, SetStateAction } from 'react';
 import { MdClose } from 'react-icons/md';
 
 interface DialogWindowProps {
   title: string;
   showDialog: boolean;
-  setShowDialog: React.Dispatch<React.SetStateAction<boolean>>;
-  children: React.ReactNode;
+  setShowDialog: Dispatch<SetStateAction<boolean>>;
+  children: ReactNode;
   className?: string;
 }
 

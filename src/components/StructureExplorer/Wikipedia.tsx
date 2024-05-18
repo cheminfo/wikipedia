@@ -1,9 +1,9 @@
-import { useState, useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 import { useMoleculeContext } from '../../hooks/MoleculeContext';
 import SimpleTable from '../SimpleTable';
 
-function OpenWiki(): JSX.Element {
+function OpenWiki() {
   const { selectedTitle } = useMoleculeContext();
 
   return (
@@ -18,7 +18,7 @@ function OpenWiki(): JSX.Element {
   );
 }
 
-function WikiPage(): JSX.Element {
+function WikiPage() {
   const [url, setUrl] = useState('');
   const [iframeHeight, setIframeHeight] = useState(0);
   const { selectedTitle } = useMoleculeContext();
@@ -74,7 +74,7 @@ function WikiPage(): JSX.Element {
   );
 }
 
-export function Wikipedia(): JSX.Element {
+export function Wikipedia() {
   return (
     <SimpleTable title="Wikipedia article" option={<OpenWiki />}>
       <WikiPage />

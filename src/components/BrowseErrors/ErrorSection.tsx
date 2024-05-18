@@ -1,12 +1,14 @@
+import { ReactElement } from 'react';
+
 interface ErrorSectionProps {
   title: string;
   number: number;
   description: string;
-  table: JSX.Element;
+  table: ReactElement;
   height?: string;
 }
 
-export function ErrorSection(props: ErrorSectionProps): JSX.Element {
+export function ErrorSection(props: ErrorSectionProps) {
   return (
     <div className="w-full md:w-[45%] xl:w-[40%]">
       <div className="mb-4 h-24">

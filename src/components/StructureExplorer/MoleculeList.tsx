@@ -1,11 +1,14 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import {
   CSSProperties,
+  Dispatch,
+  RefObject,
+  SetStateAction,
   useEffect,
+  useLayoutEffect,
   useMemo,
   useRef,
   useState,
-  useLayoutEffect,
 } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
@@ -20,12 +23,12 @@ import { MoleculeInfo } from './MoleculeInfo';
 
 interface FilterProps {
   filter: string;
-  setFilter: React.Dispatch<React.SetStateAction<string>>;
+  setFilter: Dispatch<SetStateAction<string>>;
 }
 
 interface MoleculesProps {
   molecules: IMolecule[];
-  gridRef: React.RefObject<Grid<any>>;
+  gridRef: RefObject<Grid>;
 }
 
 interface CellProps {
@@ -38,7 +41,7 @@ interface MolListFooterProps {
   filteredMolCount: number;
 }
 
-function MolListFooter({ filteredMolCount }: MolListFooterProps): JSX.Element {
+function MolListFooter({ filteredMolCount }: MolListFooterProps) {
   const {
     allData: {
       count: { molecules },
@@ -54,7 +57,7 @@ function MolListFooter({ filteredMolCount }: MolListFooterProps): JSX.Element {
   );
 }
 
-function Filter({ filter, setFilter }: FilterProps): JSX.Element {
+function Filter({ filter, setFilter }: FilterProps) {
   return (
     <div className="flex items-center space-x-2">
       <div className="text-[#0A4E7A]">Filter by name :</div>
@@ -102,7 +105,7 @@ function dbToMolecules(moleculeDb: any): IMolecule[] {
   return molecules;
 }
 
-function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
+function Molecules({ gridRef, molecules }: MoleculesProps) {
   const { selectedTitle, setSelectedTitle } = useMoleculeContext();
 
   useEffect(() => {
@@ -171,7 +174,7 @@ function Molecules({ gridRef, molecules }: MoleculesProps): JSX.Element {
   );
 }
 
-export function MoleculeList(): JSX.Element {
+export function MoleculeList() {
   const {
     allData: {
       data: { molecules },

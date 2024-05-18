@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { Dispatch, SetStateAction, useState } from 'react';
 
 import { useMoleculeContext } from '../../hooks/MoleculeContext';
 
@@ -15,14 +15,14 @@ interface SMILESErrorTableProps {
 }
 
 interface ContentRowProps extends ISMILEError {
-  setHoveredSmiles: React.Dispatch<React.SetStateAction<string>>;
+  setHoveredSmiles: Dispatch<SetStateAction<string>>;
 }
 
 interface SMILESErrorsProps extends SMILESErrorTableProps {
   number: number;
 }
 
-function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
+function SMILESErrorTable({ data }: SMILESErrorTableProps) {
   const [hoveredSmiles, setHoveredSmiles] = useState('');
 
   return (
@@ -61,7 +61,7 @@ function SMILESErrorTable({ data }: SMILESErrorTableProps): JSX.Element {
   );
 }
 
-function ContentRow(props: ContentRowProps): JSX.Element {
+function ContentRow(props: ContentRowProps) {
   const { setSelectedId } = useMoleculeContext();
   return (
     <div
@@ -83,7 +83,7 @@ function ContentRow(props: ContentRowProps): JSX.Element {
   );
 }
 
-export function SMILESErrors(props: SMILESErrorsProps): JSX.Element {
+export function SMILESErrors(props: SMILESErrorsProps) {
   return (
     <ErrorSection
       title="SMILES with errors :"

@@ -4,9 +4,9 @@ import {
   createContext,
   ReactNode,
   useContext,
+  useEffect,
   useMemo,
   useState,
-  useEffect,
 } from 'react';
 
 export interface IMolecule {
@@ -32,7 +32,7 @@ interface DataState {
   };
   data: {
     molecules: IMolecule[];
-    errors: { id: number; smiles: string; error: string }[];
+    errors: Array<{ id: number; smiles: string; error: string }>;
     dup: number[];
     notfound: number[];
     nogood: number[];
@@ -109,7 +109,7 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
       })
       .catch(() => {
         setLoading(false);
-        // eslint-disable-next-line no-alert
+        // eslint-disable-next-line no-alert,no-restricted-globals
         alert('An error has occured while fetching the data');
       });
   }, []);
