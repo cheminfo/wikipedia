@@ -9,6 +9,8 @@ import {
   useState,
 } from 'react';
 
+import { fetchData } from './fetch_data';
+
 export interface IMolecule {
   id: number;
   code: string;
@@ -76,41 +78,20 @@ export function useDataContext() {
 export function DataContextProvider({ children }: { children: ReactNode }) {
   const [allData, setAllData] = useState<DataState>(initData);
   const [loading, setLoading] = useState(true);
-  const [db, setDb] = useState(new MoleculesDB(OCL));
+  const [db, setDb] = useState(() => new MoleculesDB(OCL));
 
   useEffect(() => {
-    void fetch('data.json', {
-      headers: {
-        'Content-Type': 'application/json',
-        Accept: 'application/json',
-      },
-    })
-      .then((response) => {
-        return response.json();
-      })
-      .then((myJson) => {
-        setAllData(myJson);
-
-        const moleculesDB = new MoleculesDB(OCL);
-
-        for (const entry of myJson.data.molecules) {
-          const molecule = OCL.Molecule.fromIDCode(entry.actID.value, false);
-          moleculesDB.pushEntry(molecule, entry, {
-            index: entry.act_idx,
-            idCode: entry.actID.value,
-            mw: entry.mw,
-          });
-        }
-
+    void fetchData()
+      .then(({ data, moleculesDB }) => {
+        setAllData(data);
         setDb(moleculesDB);
       })
-      .then(() => {
-        setLoading(false);
-      })
       .catch(() => {
-        setLoading(false);
         // eslint-disable-next-line no-alert,no-restricted-globals
-        alert('An error has occured while fetching the data');
+        alert('An error has occurred while fetching the data');
+      })
+      .finally(() => {
+        setLoading(false);
       });
   }, []);
 
