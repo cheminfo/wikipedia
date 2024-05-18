@@ -10,12 +10,12 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.BOT_TOKEN }}
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version-file: 'package.json'
           cache: npm
       - name: Install dependencies
         run: npm ci
@@ -25,7 +25,7 @@ jobs:
           echo "now=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
           echo "yesterday=$(date -d 'yesterday' +'%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: Cache data
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: dump/data
           key: ${{ steps.dates.outputs.now }}
