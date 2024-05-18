@@ -185,7 +185,13 @@ export function MoleculeList() {
   const { search, idCode } = useMoleculeContext();
 
   const molSearchResult = useMemo(() => {
-    if (idCode !== 'd@' && idCode !== null && idCode !== '') {
+    // Empty idCodes with and without fragment.
+    if (
+      idCode !== 'dH' &&
+      idCode !== 'd@' &&
+      idCode !== null &&
+      idCode !== ''
+    ) {
       return dbToMolecules(
         db.search(idCode, {
           format: 'idCode',
