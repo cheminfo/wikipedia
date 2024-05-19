@@ -2,33 +2,44 @@ import fs from 'node:fs';
 
 import * as util from './util.js';
 
+/**
+ * @type {import('./types').WikiIds}
+ */
 let total = [];
 
 console.log('Getting page ids');
 
-let diff = 0;
-
 await getForTemplate('Infobox_drug');
 console.log(`${total.length} Drugbox`);
-diff = total.length;
+
+const diff = total.length;
 
 await getForTemplate('Chembox');
 console.log(`${total.length - diff} Chembox`);
+
 let oldIds = [];
 try {
-  oldIds = JSON.parse(fs.readFileSync('./data/ids.json'));
+  oldIds = JSON.parse(fs.readFileSync('./data/ids.json', 'utf-8'));
 } catch {
   // No old ids.
 }
+
 console.log(`${total.length} Total`);
 console.log(`Before : ${oldIds.length}`);
 fs.mkdirSync('./data', { recursive: true });
 fs.writeFileSync('./data/ids.json', JSON.stringify(total));
 
+/**
+ * @param {string} templateName
+ */
 function getForTemplate(templateName) {
   return getList(templateName).then(concatResult);
 
-  function concatResult(result) {
+  /**
+   * @param {GetListResult} result
+   * @returns {Promise<void>}
+   */
+  async function concatResult(result) {
     total = total.concat(result.ids);
     if (result.eicontinue) {
       return getList(templateName, result.eicontinue).then(concatResult);
@@ -36,11 +47,20 @@ function getForTemplate(templateName) {
   }
 }
 
-// https://en.wikipedia.org/w/api.php?action=help&modules=query%2Bembeddedin
-// https://en.wikipedia.org/w/api.php?action=query&list=embeddedin&eititle=Template:Infobox_drug&continue&einamespace=0
-// Template:Chembox
+/**
+ * @typedef {{ids: number[]; eicontinue: string | false }} GetListResult
+ */
+
+/**
+ * https://en.wikipedia.org/w/api.php?action=help&modules=query%2Bembeddedin
+ * https://en.wikipedia.org/w/api.php?action=query&list=embeddedin&eititle=Template:Infobox_drug&continue&einamespace=0
+ * Template:Chembox
+ * @param {string} templateName
+ * @param {string} [eicontinue]
+ * @returns {Promise<GetListResult>}
+ */
 async function getList(templateName, eicontinue) {
-  const param = {
+  const params = {
     action: 'query',
     list: 'embeddedin',
     eititle: `Template:${templateName}`,
@@ -48,13 +68,13 @@ async function getList(templateName, eicontinue) {
     einamespace: 0,
     eilimit: 500,
     prop: 'info',
+    eicontinue,
   };
-  if (eicontinue) {
-    param.eicontinue = eicontinue;
-  }
-  const result = await util.request(param);
+  const result = await util.request(params);
   return {
-    ids: result.query.embeddedin.map((v) => v.pageid),
+    ids: result.query.embeddedin.map(
+      (/** @type {{ pageid: number; }} */ v) => v.pageid,
+    ),
     eicontinue: result.continue ? result.continue.eicontinue : false,
   };
 }

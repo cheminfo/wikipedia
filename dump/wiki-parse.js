@@ -1,8 +1,10 @@
 import fs from 'node:fs';
 import { parseArgs } from 'node:util';
 
+// @ts-expect-error Untyped package
 import { MF } from 'mf-parser';
 import OCL from 'openchemlib';
+// @ts-expect-error Untyped package
 import ProgressBar from 'progress';
 
 import * as util from './util.js';
@@ -41,7 +43,13 @@ const regDrugbox = /{{ *drugbox/i;
 const regInfoboxDrug = /{{ *infobox drug/i;
 const regSmiles = /\| *smiles\d* *= *(?<smiles>[^ }\r\t\n|][^}\r\t\n|]*)/gi;
 
+/**
+ * @param {string} content
+ */
 function getSmiles(content) {
+  /**
+   * @type {string[]}
+   */
   let res = [];
 
   /*
@@ -67,6 +75,11 @@ function getSmiles(content) {
   return res;
 }
 
+/**
+ * @param {string} content
+ * @param {number} idx
+ * @param {string[]} res
+ */
 function parse(content, idx, res) {
   /*
     We need to find where the infobox ends
@@ -94,6 +107,7 @@ function parse(content, idx, res) {
 
   let match;
   while ((match = regSmiles.exec(boxContent))) {
+    if (!match.groups) continue;
     const cleanSmiles = match.groups.smiles
       .trim()
       .replaceAll(/\s+/g, '')
@@ -104,7 +118,10 @@ function parse(content, idx, res) {
   }
 }
 
-const pageList = JSON.parse(fs.readFileSync('./data/update.json'));
+/**
+ * @type {Array<{id: number; rev: number}>}
+ */
+const pageList = JSON.parse(fs.readFileSync('./data/update.json', 'utf-8'));
 
 pageList.sort((a, b) => {
   return a.id - b.id;
@@ -130,13 +147,16 @@ let bar = new ProgressBar('  [:bar] :current treated', {
   total: length,
 });
 
+/**
+ * @type {Record<string, boolean>}
+ */
 let uniq = {}; // Keep a hashmap of pageID + idCode to prevent duplicates
 
 for (let i = 0; i < length; i++) {
   let id = pageList[i].id;
   let path = util.getPagePath(id);
   let file = path.full;
-  let page = JSON.parse(fs.readFileSync(file));
+  let page = JSON.parse(fs.readFileSync(file, 'utf-8'));
   let result;
 
   let allError = true;
@@ -185,6 +205,7 @@ for (let i = 0; i < length; i++) {
         errors.push({
           id,
           smiles: smiles[j],
+          // @ts-expect-error Should always be an Error.
           error: e.toString().match(/.*?:.*?: (?<message>.*)/).groups.message,
         });
       }
@@ -198,22 +219,23 @@ for (let i = 0; i < length; i++) {
   bar.tick();
 }
 
-let theResult = {};
-let count = {
-  date: new Date().toISOString(),
-  molecules: results.length,
-  errors: errors.length,
-  nogood: nogood.length,
-  notfound: notfound.length,
-  dup: dup.length,
-};
-theResult.count = count;
-theResult.data = {
-  molecules: results,
-  errors,
-  nogood,
-  notfound,
-  dup,
+/** @type {import('./types.ts').WikipediaJson} */
+const theResult = {
+  count: {
+    date: new Date().toISOString(),
+    molecules: results.length,
+    errors: errors.length,
+    nogood: nogood.length,
+    notfound: notfound.length,
+    dup: dup.length,
+  },
+  data: {
+    molecules: results,
+    errors,
+    nogood,
+    notfound,
+    dup,
+  },
 };
 
 console.log(`${results.length} parsed molecules`);
@@ -221,9 +243,6 @@ console.log(`${errors.length} parsing errors`);
 console.log(`${nogood.length} pages with only bad SMILES`);
 console.log(`${notfound.length} SMILES not found`);
 console.log(`${dup.length} dropped duplicates`);
-
-smilesList = `${smilesList.join('\n')}\n`;
-idcodeList = `${idcodeList.join('\n')}\n`;
 
 /*
 The JSON string is reformatted in order to have one line per SMILES. Allows to
@@ -239,8 +258,8 @@ let pubStr = JSON.stringify(theResult)
   .replace('"query":{', '\n"query":{');
 
 fs.writeFileSync('./data/data.json', pubStr);
-fs.writeFileSync('./data/smiles.txt', smilesList);
-fs.writeFileSync('./data/idcode.txt', idcodeList);
+fs.writeFileSync('./data/smiles.txt', `${smilesList.join('\n')}\n`);
+fs.writeFileSync('./data/idcode.txt', `${idcodeList.join('\n')}\n`);
 
 if (args.publish) {
   if (args.limit !== '0') {
@@ -252,23 +271,23 @@ if (args.publish) {
         parsed structures, information about the molecular formula, name and ID
         of the Wikipedia page.
          */
-    fs.writeFileSync('../public/data.json', pubStr);
+    fs.copyFileSync('./data/data.json', '../public/data.json');
     // Cumulative statistics about the data
-    const stats = JSON.parse(fs.readFileSync('../stats.json')).map((x) =>
-      JSON.stringify(x),
+    const stats = JSON.parse(fs.readFileSync('../stats.json', 'utf-8')).map(
+      (/** @type {any} */ x) => JSON.stringify(x),
     );
-    stats.push(JSON.stringify(count));
+    stats.push(JSON.stringify(theResult.count));
     fs.writeFileSync('../stats.json', `[\n${stats.join(',\n')}\n]`);
     /*
         smiles.txt: tab-delimited list of the SMILES codes and Wikipedia article
         names. The names may contain UTF-8 characters (like greek letters).
         It can cause problems when trying to sort the list in natural order
          */
-    fs.writeFileSync('../public/smiles.txt', smilesList);
+    fs.copyFileSync('./data/smiles.txt', '../public/smiles.txt');
     /*
         idcode.txt: tab-delimited list of the IDCodes and Wikipedia article
         names.
          */
-    fs.writeFileSync('../public/idcode.txt', idcodeList);
+    fs.copyFileSync('./data/idcode.txt', '../public/idcode.txt');
   }
 }

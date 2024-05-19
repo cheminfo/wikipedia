@@ -1,3 +1,14 @@
+export type WikiIds = number[];
+
+export type WikiRevs = WikiRev[];
+export interface WikiRev {
+  id: number;
+  rev: number;
+}
+
+export type WikiRevMissing = WikiIds;
+export type WikiUpdate = WikiRevs;
+
 export interface WikipediaJson {
   count: WikipediaStats;
   data: WikipediaData;

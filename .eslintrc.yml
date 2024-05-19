@@ -6,3 +6,9 @@ parserOptions:
   project:
     - './tsconfig.json'
     - './tsconfig.node.json'
+overrides:
+  - files: ['./dump/**/*.{js,ts}']
+    env:
+      node: true
+    rules:
+      no-console: off
