@@ -10,7 +10,7 @@ interface NotFoundProps {
 export function NotFound(props: NotFoundProps) {
   return (
     <ErrorSection
-      title="Not found :"
+      title="Not found:"
       number={props.number}
       description="List of pages that contain a ChemBox or DrugBox but no SMILES field"
       table={

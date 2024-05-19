@@ -10,7 +10,7 @@ interface NoCorrectSMILESProps {
 export function NoCorrectSMILES(props: NoCorrectSMILESProps) {
   return (
     <ErrorSection
-      title="Pages without correct SMILES :"
+      title="Pages without correct SMILES:"
       number={props.number}
       description="List of pages in which all the SMILES have errors. Therefore these pages cannot be found in the search page"
       table={

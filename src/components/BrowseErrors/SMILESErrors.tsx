@@ -86,7 +86,7 @@ function ContentRow(props: ContentRowProps) {
 export function SMILESErrors(props: SMILESErrorsProps) {
   return (
     <ErrorSection
-      title="SMILES with errors :"
+      title="SMILES with errors:"
       number={props.number}
       description="SMILES that could not be processed by the parser"
       table={<SMILESErrorTable data={props.data} />}
