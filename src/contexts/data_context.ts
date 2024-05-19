@@ -11,7 +11,7 @@ interface DataContext {
 }
 
 export const initData: ExtendedWikipediaJson = {
-  count: {
+  stats: {
     date: '',
     molecules: 0,
     errors: 0,
