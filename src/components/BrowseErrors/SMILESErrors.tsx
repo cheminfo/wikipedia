@@ -1,6 +1,6 @@
 import { Dispatch, SetStateAction, useState } from 'react';
 
-import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import { useMoleculeContext } from '../../contexts/molecule_context';
 
 import { ErrorSection } from './ErrorSection';
 

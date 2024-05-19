@@ -1,11 +1,11 @@
 import { Provider as TooltipProvider } from '@radix-ui/react-tooltip';
 import { useState } from 'react';
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 import { Footer } from './components/Footer';
 import { Navbar } from './components/Navbar';
+import { MoleculeContextProvider } from './contexts/molecule_context.provider';
 import { DataContextProvider } from './hooks/DataContext';
-import { MoleculeContextProvider } from './hooks/MoleculeContext';
 import { BrowseErrors } from './pages/BrowseErrors';
 import { StructureExplorer } from './pages/StructureExplorer';
 

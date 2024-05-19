@@ -15,8 +15,8 @@ import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
 import useResizeObserver from 'use-resize-observer';
 
+import { useMoleculeContext } from '../../contexts/molecule_context';
 import { useDataContext } from '../../hooks/DataContext';
-import { useMoleculeContext } from '../../hooks/MoleculeContext';
 import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data';
 import SimpleTable from '../SimpleTable';
 
