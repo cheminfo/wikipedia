@@ -3,7 +3,10 @@ import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
 
-import { SearchType, useMoleculeContext } from '../../hooks/MoleculeContext';
+import {
+  SearchType,
+  useMoleculeContext,
+} from '../../contexts/molecule_context';
 import SimpleTable from '../SimpleTable';
 
 interface HelpButtonProps {

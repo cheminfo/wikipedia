@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 
-import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import { useMoleculeContext } from '../../contexts/molecule_context';
 import SimpleTable from '../SimpleTable';
 
 function OpenWiki() {

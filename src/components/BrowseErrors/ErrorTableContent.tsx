@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 
-import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import { useMoleculeContext } from '../../contexts/molecule_context';
 
 interface ErrorTableContentProps {
   data: number[];
