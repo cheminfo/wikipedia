@@ -4,8 +4,8 @@ import { HashRouter, Route, Routes } from 'react-router-dom';
 
 import { Footer } from './components/Footer';
 import { Navbar } from './components/Navbar';
+import { DataContextProvider } from './contexts/data_context.provider';
 import { MoleculeContextProvider } from './contexts/molecule_context.provider';
-import { DataContextProvider } from './hooks/DataContext';
 import { BrowseErrors } from './pages/BrowseErrors';
 import { StructureExplorer } from './pages/StructureExplorer';
 
