@@ -25,4 +25,4 @@ Parse all pages to extract the SMILES and generate `data.json`, `smiles.txt` and
 This command can be run with arguments :
 
 - `-l, --limit <n>` Limit the parsing to the `n` first pages. Useful for debugging.
-- `-p, --publish` publish the data files the the `site` directory.
+- `-p, --publish` publish the data files to the `public` directory.

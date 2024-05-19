@@ -1,1 +1,0 @@
-'use strict';define(["modules/default/defaultmodel","src/util/datatraversing"],function(a,b){"use strict";function c(){}return $.extend(!0,c.prototype,a,{getjPath:function(a){var c;if("allpixel"===a?c=this.module.controller.lastHoverPixels:void 0,!c)return[];var d=[];return b.getJPathsFromElement(c,d),d}}),c});
