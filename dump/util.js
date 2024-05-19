@@ -1,7 +1,15 @@
+/**
+ * @param {Record<string, string|number|undefined>} [params]
+ * @returns Promise<any>
+ */
 export async function request(params) {
   const url = new URL('https://en.wikipedia.org/w/api.php');
   if (params) {
-    url.search = new URLSearchParams(params);
+    for (const [name, value] of Object.entries(params)) {
+      if (typeof value !== 'undefined') {
+        url.searchParams.set(name, String(value));
+      }
+    }
     url.searchParams.set('format', 'json');
   }
   const response = await fetch(url, {
@@ -14,6 +22,9 @@ export async function request(params) {
   return response.json();
 }
 
+/**
+ * @param {number} id
+ */
 export function getPagePath(id) {
   const idStr = String(id);
   const l = idStr.length;

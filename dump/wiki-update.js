@@ -1,25 +1,31 @@
 import fs from 'node:fs';
 
+// @ts-expect-error Untyped package
 import ProgressBar from 'progress';
 
 import * as util from './util.js';
 
-const allRevs = JSON.parse(fs.readFileSync('./data/rev.json'));
+/**
+ * @type {import('./types').WikiRevs}
+ */
+const allRevs = JSON.parse(fs.readFileSync('./data/rev.json', 'utf-8'));
+
+/**
+ * @type {import('./types').WikiUpdate}
+ */
 let pageInfo;
 try {
-  pageInfo = JSON.parse(fs.readFileSync('./data/update.json'));
+  pageInfo = JSON.parse(fs.readFileSync('./data/update.json', 'utf-8'));
 } catch (e) {
   pageInfo = [];
 }
 
-if (!fs.existsSync('./data/pages')) {
-  fs.mkdirSync('./data/pages');
-}
+fs.mkdirSync('./data/pages', { recursive: true });
 
 let updated = 0;
 let added = 0;
 let start = 0;
-let length = allRevs.length;
+const length = allRevs.length;
 
 const bar = new ProgressBar('  [:bar] :current treated', {
   width: 30,
@@ -33,7 +39,11 @@ try {
   saveInfo();
 }
 
-function getNextPages() {
+/**
+ * @returns {Promise<void>}
+ */
+async function getNextPages() {
+  /** @type {import('./types.ts').WikiRevs} */
   let pagesToGet = [];
   let oldStart = start;
   while (pagesToGet.length < 50 && start < length) {
@@ -55,7 +65,6 @@ function getNextPages() {
     });
   } else {
     bar.tick(tick);
-    return Promise.resolve();
   }
 }
 
@@ -74,7 +83,7 @@ function saveInfo() {
     // did not find id in allRevs, removing page
     try {
       removed++;
-      fs.unlinkSync(util.getPagePath(page.id));
+      fs.unlinkSync(util.getPagePath(page.id).full);
     } catch {
       // ignore
     }
@@ -86,6 +95,9 @@ function saveInfo() {
   fs.writeFileSync('./data/update.json', JSON.stringify(final));
 }
 
+/**
+ * @param {import("./types").WikiRev} page
+ */
 function markUpdated(page) {
   let idx = indexOfPage(page);
   if (idx > -1) {
@@ -97,6 +109,9 @@ function markUpdated(page) {
   }
 }
 
+/**
+ * @param {import("./types").WikiRev} page
+ */
 function indexOfPage(page) {
   for (let i = 0; i < pageInfo.length; i++) {
     if (pageInfo[i].id === page.id) {
@@ -106,6 +121,10 @@ function indexOfPage(page) {
   return -1;
 }
 
+/**
+ * @param {number} id
+ * @param {string} content
+ */
 function savePage(id, content) {
   let path = util.getPagePath(id);
   if (!fs.existsSync(path.prefix)) {
@@ -114,17 +133,20 @@ function savePage(id, content) {
   fs.writeFileSync(path.full, content);
 }
 
-// https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
-// Max 50 page ids at the same time
+/**
+ * https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
+ * Max 50 page ids at the same time
+ * @param {import('./types.ts').WikiRevs} pages
+ */
 async function getPages(pages) {
-  let param = {
+  const params = {
     action: 'query',
     prop: 'revisions',
     rvprop: 'content',
     continue: '',
-    pageids: pages.map((page) => page.id).join(['|']),
+    pageids: pages.map((page) => page.id).join('|'),
   };
-  const result = await util.request(param);
+  const result = await util.request(params);
   const resPages = result.query.pages;
   for (let i in resPages) {
     if (i === '0') {

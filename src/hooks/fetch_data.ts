@@ -1,7 +1,11 @@
 import OCL from 'openchemlib/full';
 import { MoleculesDB } from 'openchemlib-utils';
 
-import { WikipediaData, WikipediaJson, WikipediaMolecule } from '../types/data';
+import {
+  WikipediaData,
+  WikipediaJson,
+  WikipediaMolecule,
+} from '../../dump/types';
 
 import { isInterestingMF } from './is_interesting_mf';
 

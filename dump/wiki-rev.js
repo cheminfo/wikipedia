@@ -1,19 +1,30 @@
 import fs from 'node:fs';
 
+// @ts-expect-error Untyped package
 import ProgressBar from 'progress';
 
 import * as util from './util.js';
 
-const ids = JSON.parse(fs.readFileSync('./data/ids.json'));
+/**
+ * @type {import('./types').WikiIds}
+ */
+const ids = JSON.parse(fs.readFileSync('./data/ids.json', 'utf-8'));
 
 let start = 0;
-let length = ids.length;
-let revisions = [];
-let missing = [];
+const length = ids.length;
+
+/**
+ * @type {import('./types').WikiRevs}
+ */
+const revisions = [];
+/**
+ * @type {import('./types').WikiRevMissing}
+ */
+const missing = [];
 
 console.log(`${ids.length} ids`);
 
-let bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
+const bar = new ProgressBar('  [:bar] :current treated (:eta s)', {
   width: 30,
   incomplete: ' ',
   total: length,
@@ -25,9 +36,12 @@ fs.writeFileSync('./data/rev.json', JSON.stringify(revisions));
 console.log(`${missing.length} missing`);
 fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
 
+/**
+ * @returns {Promise<void>}
+ */
 function getNextEntries() {
-  let idsToGet = [];
-  let ii = Math.min(length, start + 50);
+  const idsToGet = [];
+  const ii = Math.min(length, start + 50);
   for (; start < ii; start++) {
     idsToGet.push(ids[start]);
   }
@@ -40,19 +54,22 @@ function getNextEntries() {
   });
 }
 
-// https://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
-// https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids&pageids=1912|4191
-// Max 50 page ids at the same time
-
+/**
+ * https://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
+ * https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids&pageids=1912|4191
+ * Max 50 page ids at the same time.
+ * @param {number[]} ids
+ * @returns {Promise<void>}
+ */
 async function getRevisions(ids) {
-  let param = {
+  const params = {
     action: 'query',
     prop: 'revisions',
     rvprop: 'ids',
     continue: '',
-    pageids: ids.join(['|']),
+    pageids: ids.join('|'),
   };
-  const result = await util.request(param);
+  const result = await util.request(params);
   const pages = result.query.pages;
   for (let i = 0; i < ids.length; i++) {
     const page = pages[ids[i]];
