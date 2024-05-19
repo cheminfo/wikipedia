@@ -23,10 +23,10 @@ export async function fetchData() {
   const moleculesDB = new MoleculesDB(OCL);
 
   for (const entry of extendedJson.data.molecules) {
-    const molecule = OCL.Molecule.fromIDCode(entry.actID.value, false);
+    const molecule = OCL.Molecule.fromIDCode(entry.idCode, false);
     moleculesDB.pushEntry(molecule, entry, {
-      index: entry.act_idx,
-      idCode: entry.actID.value,
+      idCode: entry.idCode,
+      index: entry.sssIndex,
       mw: entry.mw,
     });
   }
@@ -59,7 +59,7 @@ function extendJson(wikipediaJson: WikipediaJson): ExtendedWikipediaJson {
   // Add a sequential number to interesting molecules for the "molecule of the day".
   let interestingIdCounter = 1;
   for (const molecule of wikipediaJson.data.molecules) {
-    const interestingId = isInterestingMF(molecule.mf.value)
+    const interestingId = isInterestingMF(molecule.mf)
       ? interestingIdCounter++
       : -1;
     extendedMolecules.push({

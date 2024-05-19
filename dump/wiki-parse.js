@@ -157,7 +157,6 @@ for (let i = 0; i < length; i++) {
   let path = util.getPagePath(id);
   let file = path.full;
   let page = JSON.parse(fs.readFileSync(file, 'utf-8'));
-  let result;
 
   let allError = true;
 
@@ -167,30 +166,30 @@ for (let i = 0; i < length; i++) {
       try {
         let molecule = OCL.Molecule.fromSmiles(smiles[j]);
         allError = false; // At least one SMILES is good for this file
-        let idcode = molecule.getIDCode();
-        let uniqid = `${id}_${idcode}`;
+        let idCode = molecule.getIDCode();
+        let uniqid = `${id}_${idCode}`;
         if (uniq[uniqid]) {
           dup.push(id);
           continue; // If exact same molecule is already present for this page, skip
         }
         const oclMF = molecule.getMolecularFormula();
-        result = {
+        /** @type {import('./types').WikipediaMolecule} */
+        const result = {
           id: page.id,
-          code: page.title,
+          title: page.title,
           smiles: smiles[j],
-          mf: { type: 'mf', value: oclMF.formula },
+          mf: oclMF.formula,
           mw: oclMF.relativeWeight,
           em: oclMF.absoluteWeight,
-          // eslint-disable-next-line camelcase
-          act_idx: molecule.getIndex(),
-          actID: { type: 'actelionID', value: idcode },
+          idCode,
+          sssIndex: molecule.getIndex(),
         };
         smilesList.push(`${page.title}\t${smiles[j]}`);
-        idcodeList.push(`${idcode}\t${page.title}`);
+        idcodeList.push(`${idCode}\t${page.title}`);
         try {
           const mf = new MF(oclMF.formula);
           const info = mf.getInfo();
-          result.mf.value = mf.toMF();
+          result.mf = mf.toMF();
           result.mw = info.mass;
           result.em = info.monoisotopicMass;
         } catch (e) {
@@ -219,9 +218,9 @@ for (let i = 0; i < length; i++) {
   bar.tick();
 }
 
-/** @type {import('./types.ts').WikipediaJson} */
+/** @type {import('./types').WikipediaJson} */
 const theResult = {
-  count: {
+  stats: {
     date: new Date().toISOString(),
     molecules: results.length,
     errors: errors.length,
@@ -248,7 +247,7 @@ console.log(`${dup.length} dropped duplicates`);
 The JSON string is reformatted in order to have one line per SMILES. Allows to
 use the diff tool from Git to easily see changes between two exports
  */
-let pubStr = JSON.stringify(theResult)
+const pubStr = JSON.stringify(theResult)
   .replace('"data":{"molecules":[', '\n"data":{"molecules":[\n')
   .replace(/},\{/g, '},\n{')
   .replace('],"errors":[', '\n],"errors":[\n')
@@ -276,7 +275,7 @@ if (args.publish) {
     const stats = JSON.parse(fs.readFileSync('../stats.json', 'utf-8')).map(
       (/** @type {any} */ x) => JSON.stringify(x),
     );
-    stats.push(JSON.stringify(theResult.count));
+    stats.push(JSON.stringify(theResult.stats));
     fs.writeFileSync('../stats.json', `[\n${stats.join(',\n')}\n]`);
     /*
         smiles.txt: tab-delimited list of the SMILES codes and Wikipedia article

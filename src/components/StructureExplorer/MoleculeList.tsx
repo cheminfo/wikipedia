@@ -45,7 +45,7 @@ interface MolListFooterProps {
 function MolListFooter({ filteredMolCount }: MolListFooterProps) {
   const {
     allData: {
-      count: { molecules },
+      stats: { molecules },
     },
   } = useDataContext();
   return (
@@ -111,7 +111,7 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
 
   useEffect(() => {
     if (selectedTitle === '') {
-      setSelectedTitle(molecules[0]?.code);
+      setSelectedTitle(molecules[0]?.title);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -205,7 +205,7 @@ export function MoleculeList() {
 
   const molFiltered = useMemo(() => {
     return molSearchResult.filter((mol) =>
-      mol.code.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
+      mol.title.toLocaleLowerCase().includes(filter.toLocaleLowerCase()),
     );
   }, [filter, molSearchResult]);
 

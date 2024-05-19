@@ -10,7 +10,7 @@ export type WikiRevMissing = WikiIds;
 export type WikiUpdate = WikiRevs;
 
 export interface WikipediaJson {
-  count: WikipediaStats;
+  stats: WikipediaStats;
   data: WikipediaData;
 }
 
@@ -32,13 +32,43 @@ export interface WikipediaData {
 }
 
 export interface WikipediaMolecule {
+  /**
+   * Wikipedia page id.
+   */
   id: number;
-  code: string;
+
+  /**
+   * Wikipedia page title.
+   */
+  title: string;
+
+  /**
+   * SMILES string.
+   */
   smiles: string;
-  mf: { type: string; value: string };
+
+  /**
+   * Molecular formula.
+   */
+  mf: string;
+
+  /**
+   * Molecular weight.
+   */
   mw: number;
+
+  /**
+   * Exact mass.
+   */
   em: number;
-  // eslint-disable-next-line @typescript-eslint/naming-convention
-  act_idx: number[];
-  actID: { type: string; value: string };
+
+  /**
+   * OpenChemLib molecule's id code.
+   */
+  idCode: string;
+
+  /**
+   * Precomputed index for the substructure search.
+   */
+  sssIndex: number[];
 }

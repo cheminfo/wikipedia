@@ -15,7 +15,7 @@ interface BrowseErrorsProps {
 export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
   const {
     allData: {
-      count,
+      stats,
       data: { errors, nogood, notfound, dup },
     },
     loading,
@@ -38,7 +38,7 @@ export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
                 </div>
                 <div className="flex space-x-1 text-sm font-light lg:text-base">
                   <div className="">Last data extraction:</div>
-                  <div className="">{count.date.slice(0, 10)}</div>
+                  <div className="">{stats.date.slice(0, 10)}</div>
                 </div>
               </div>
               <div className="my-8 text-sm font-normal lg:text-base">
@@ -47,10 +47,10 @@ export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
             </div>
 
             <div className="mt-12 flex flex-wrap justify-between gap-y-20">
-              <Duplicates number={count.dup} data={dup} />
-              <NotFound number={count.notfound} data={notfound} />
-              <SMILESErrors number={count.errors} data={errors} />
-              <NoCorrectSMILES number={count.nogood} data={nogood} />
+              <Duplicates number={stats.dup} data={dup} />
+              <NotFound number={stats.notfound} data={notfound} />
+              <SMILESErrors number={stats.errors} data={errors} />
+              <NoCorrectSMILES number={stats.nogood} data={nogood} />
             </div>
           </div>
         </div>

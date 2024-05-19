@@ -17,7 +17,8 @@ export function DataContextProvider({ children }: { children: ReactNode }) {
         setAllData(data);
         setDb(moleculesDB);
       })
-      .catch(() => {
+      .catch((error: unknown) => {
+        reportError(error);
         // eslint-disable-next-line no-alert,no-restricted-globals
         alert('An error has occurred while fetching the data');
       })
