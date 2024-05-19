@@ -15,8 +15,9 @@ import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
 import useResizeObserver from 'use-resize-observer';
 
-import { IMolecule, useDataContext } from '../../hooks/DataContext';
+import { useDataContext } from '../../hooks/DataContext';
 import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data';
 import SimpleTable from '../SimpleTable';
 
 import { MoleculeInfo } from './MoleculeInfo';
@@ -27,7 +28,7 @@ interface FilterProps {
 }
 
 interface MoleculesProps {
-  molecules: IMolecule[];
+  molecules: ExtendedWikipediaMolecule[];
   gridRef: RefObject<Grid>;
 }
 
@@ -83,7 +84,7 @@ function Filter({ filter, setFilter }: FilterProps) {
 }
 
 const cell =
-  (molecules: IMolecule[]) =>
+  (molecules: ExtendedWikipediaMolecule[]) =>
   ({ columnIndex, rowIndex, style }: CellProps) => {
     if (columnIndex + rowIndex * 3 < molecules.length) {
       const mol = molecules[columnIndex + rowIndex * 3];
@@ -96,8 +97,8 @@ const cell =
     return null;
   };
 
-function dbToMolecules(moleculeDb: any): IMolecule[] {
-  const molecules: IMolecule[] = [];
+function dbToMolecules(moleculeDb: any): ExtendedWikipediaMolecule[] {
+  const molecules: ExtendedWikipediaMolecule[] = [];
   for (const entry of moleculeDb) {
     const data = entry.data;
     molecules.push(data);
