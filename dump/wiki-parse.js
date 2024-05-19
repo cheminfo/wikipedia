@@ -248,9 +248,9 @@ if (args.publish) {
   } else {
     // Copying data in the public site directory
     /*
-        data.json: main data file loaded by the visualizer. Contains all the
+        data.json: main data file loaded by the application. Contains all the
         parsed structures, information about the molecular formula, name and ID
-        of the Wikipedia page
+        of the Wikipedia page.
          */
     fs.writeFileSync('../public/data.json', pubStr);
     // Cumulative statistics about the data

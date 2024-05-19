@@ -1,12 +1,10 @@
-# Wikipedia chemical structure explorer
+# Wikipedia Chemical Structure Explorer
 
 [![DOI](https://www.zenodo.org/badge/27636133.svg)](https://www.zenodo.org/badge/latestdoi/27636133)
 
 This application as been [published here](https://doi.org/10.1186/s13321-015-0061-y).
 
 <https://wikipedia.cheminfo.org>
-
-Preview of the new version: <https://wcse.pages.dev/>
 
 ## Install locally
 
@@ -31,13 +29,27 @@ cd wikipedia
 git pull
 ```
 
-## Serve the website
+### Build and serve the website
 
-All the required files for the website are located in the `site` directory. Just make this directory public on your server and it should work.
+To build the site, Node.js v20 is needed.
 
-## About `dump` and `node` directories
+```bash
+npm ci
+npm run build
+```
 
-These directories contain Node.js maintenance scripts. They are NOT needed for the website to work and can be ignored.
+This generates the website in the `dist` directory.
+It is a simple static site that can be served from any web server.
+
+## Data synchronization with Wikipedia
+
+The `dump` directory contains the scripts used to synchronize the data files using the Wikipedia API. They are NOT needed for the website to work and can be ignored by most people.
+
+```bash
+npm ci
+cd dump
+./dump.sh
+```
 
 ## License
 

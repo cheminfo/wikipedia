@@ -1,1 +1,0 @@
-'use strict';define(["../../fieldlistelement","./element"],function(a,b){"use strict";var c=function(){};return c.prototype=new a,c.prototype=$.extend(c.prototype,b.prototype,{_makeDom:function(){return this.__makeDom(),this.checkValue(),this.dom}}),c});

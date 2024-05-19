@@ -1,6 +1,5 @@
 .idea
 node_modules
-!site/lib/visualizer/node_modules
 /tmp
 /dump/data
 /dist
