@@ -1,6 +1,6 @@
 export function isInterestingMF(mf: string) {
   // mf should only contain C, N, O, H, P, S, F, Cl, Br, I
-  if (!mf.match(/^((C|N|O|H|P|S|F|Cl|Br|I)[0-9]*)+$/)) return false;
+  if (!mf.match(/^(?:(?:C|N|O|H|P|S|F|Cl|Br|I)[0-9]*)+$/)) return false;
   if (!mf.match(/C[0-9]+/)) return false;
   if (!mf.match(/H[0-9]+/)) return false;
 
