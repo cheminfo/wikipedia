@@ -3,12 +3,12 @@ import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
-import { IMolecule } from '../../hooks/DataContext';
 import { useMoleculeContext } from '../../hooks/MoleculeContext';
+import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data';
 import Hint from '../Hint';
 
 interface MoleculeInfoProps {
-  mol: IMolecule;
+  mol: ExtendedWikipediaMolecule;
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps) {

@@ -9,45 +9,15 @@ import {
   useState,
 } from 'react';
 
-import { fetchData } from './fetch_data';
-
-export interface IMolecule {
-  id: number;
-  code: string;
-  smiles: string;
-  mf: { type: string; value: string };
-  mw: number;
-  em: number;
-  // eslint-disable-next-line @typescript-eslint/naming-convention
-  act_idx: number[];
-  actID: { type: string; value: string };
-}
-
-interface DataState {
-  count: {
-    date: string;
-    molecules: number;
-    errors: number;
-    nogood: number;
-    notfound: number;
-    dup: number;
-  };
-  data: {
-    molecules: IMolecule[];
-    errors: Array<{ id: number; smiles: string; error: string }>;
-    dup: number[];
-    notfound: number[];
-    nogood: number[];
-  };
-}
+import { ExtendedWikipediaJson, fetchData } from './fetch_data';
 
 interface State {
-  allData: DataState;
+  allData: ExtendedWikipediaJson;
   loading: boolean;
   db: MoleculesDB;
 }
 
-const initData = {
+const initData: ExtendedWikipediaJson = {
   count: {
     date: '',
     molecules: 0,
@@ -76,7 +46,7 @@ export function useDataContext() {
 }
 
 export function DataContextProvider({ children }: { children: ReactNode }) {
-  const [allData, setAllData] = useState<DataState>(initData);
+  const [allData, setAllData] = useState<ExtendedWikipediaJson>(initData);
   const [loading, setLoading] = useState(true);
   const [db, setDb] = useState(() => new MoleculesDB(OCL));
 
