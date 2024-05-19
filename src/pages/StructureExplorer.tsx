@@ -5,7 +5,7 @@ import HelpDialog from '../components/HelpDialog';
 import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
 import { MoleculeList } from '../components/StructureExplorer/MoleculeList';
 import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
-import { useDataContext } from '../hooks/DataContext';
+import { useDataContext } from '../contexts/data_context';
 
 interface StructureExplorerProps {
   showAbout: boolean;

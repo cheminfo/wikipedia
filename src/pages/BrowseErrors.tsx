@@ -5,7 +5,7 @@ import { Duplicates } from '../components/BrowseErrors/Duplicates';
 import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
 import { NotFound } from '../components/BrowseErrors/NotFound';
 import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
-import { useDataContext } from '../hooks/DataContext';
+import { useDataContext } from '../contexts/data_context';
 
 interface BrowseErrorsProps {
   showAbout: boolean;
