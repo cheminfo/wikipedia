@@ -71,7 +71,7 @@ function extendJson(wikipediaJson: WikipediaJson): ExtendedWikipediaJson {
     // 19860 is the number of days since 01.01.1970 as of 18.05.2024.
     ((Math.floor(Date.now() / 86400000) - 19860) * skip) % maxId;
 
-  extendedMolecules.sort((a: any, b: any) => {
+  extendedMolecules.sort((a, b) => {
     if (a.interestingId === currentDayId) return -1;
     if (b.interestingId === currentDayId) return 1;
     return 0;
