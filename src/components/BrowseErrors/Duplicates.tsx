@@ -11,7 +11,7 @@ interface DuplicatesProps {
 export function Duplicates(props: DuplicatesProps) {
   return (
     <ErrorSection
-      title="Duplicates :"
+      title="Duplicates:"
       number={props.number}
       description="List of pages that contain several SMILES that represent the exact same structure"
       table={

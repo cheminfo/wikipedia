@@ -22,7 +22,7 @@ export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
   } = useDataContext();
 
   return (
-    <div className="">
+    <div>
       {loading ? (
         <div className="-mt-12 flex h-screen flex-col items-center justify-center">
           <img src="loading.gif" />
@@ -32,12 +32,12 @@ export function BrowseErrors({ showAbout, setShowAbout }: BrowseErrorsProps) {
           <About showAbout={showAbout} setShowAbout={setShowAbout} />
           <div className="xs:px-20 px-10 pt-14 xl:px-28 2xl:px-60">
             <div className="text-darkblue">
-              <div className="">
+              <div>
                 <div className="text-2xl lg:text-4xl">
                   Articles with SMILES problems
                 </div>
                 <div className="flex space-x-1 text-sm font-light lg:text-base">
-                  <div className="">Last data extraction :</div>
+                  <div className="">Last data extraction:</div>
                   <div className="">{count.date.slice(0, 10)}</div>
                 </div>
               </div>

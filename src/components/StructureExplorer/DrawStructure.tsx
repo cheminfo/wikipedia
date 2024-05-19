@@ -2,6 +2,7 @@ import { Dispatch, SetStateAction, useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { StructureEditor } from 'react-ocl/full';
 import useResizeObserver, { ObservedSize } from 'use-resize-observer';
+import { useMediaQuery } from 'usehooks-ts';
 
 import {
   SearchType,
@@ -19,7 +20,7 @@ function Search() {
   const { search, setSearch } = useMoleculeContext();
   return (
     <form className="flex items-center space-x-2">
-      <label>Search mode :</label>
+      <label className="hidden sm:inline">Search by:</label>
       <select
         name="search"
         value={search}
@@ -53,10 +54,13 @@ function Board() {
     },
   });
 
+  const isMobile = !useMediaQuery('(min-width: 640px)');
+  const editorHeight = isMobile ? 390 : 490;
+
   return (
-    <div key={id} className="lg:w-[470px]" ref={ref}>
+    <div key={id} className="lg:w-[470px] [&_canvas]:rounded-b-lg" ref={ref}>
       <StructureEditor
-        height={490}
+        height={editorHeight}
         width={boardWidth}
         fragment
         initialIDCode={idCode}
@@ -82,7 +86,7 @@ export function DrawStructure({ setShowHelp }: DrawStructureProps) {
       title="Draw a structure"
       help={<HelpButton setShowHelp={setShowHelp} />}
       option={<Search />}
-      className="h-[505px] bg-lightblue"
+      className="sm:h-[505px] bg-lightblue"
     >
       <Board />
     </SimpleTable>

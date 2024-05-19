@@ -50,8 +50,8 @@ function MolListFooter({ filteredMolCount }: MolListFooterProps) {
   } = useDataContext();
   return (
     <div className="flex justify-center gap-x-2 py-1">
-      <div className="font-normal">Matching molecules :</div>
-      <div className="">
+      <div className="font-normal">Matching molecules:</div>
+      <div>
         {filteredMolCount}/{molecules}
       </div>
     </div>
@@ -61,12 +61,12 @@ function MolListFooter({ filteredMolCount }: MolListFooterProps) {
 function Filter({ filter, setFilter }: FilterProps) {
   return (
     <div className="flex items-center space-x-2">
-      <div className="text-[#0A4E7A]">Filter by name :</div>
       <div className="flex h-6 w-36 items-center rounded-lg bg-white p-1 text-sm">
         <input
           type="text"
           name="filter"
           className="h-full w-full px-2 font-normal focus:outline-none"
+          placeholder="Molecule name"
           value={filter}
           onChange={(e) => {
             setFilter(e.target.value);
