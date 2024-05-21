@@ -69,7 +69,7 @@ function extendJson(wikipediaJson: WikipediaJson): ExtendedWikipediaJson {
   }
 
   // Compute the id for the molecule of the day.
-  const skip = 131; // Should be a prime number.
+  const skip = 5; // A small number allows to focus on the old wikipedia articles
   const maxId = interestingIdCounter - (interestingIdCounter % skip) + 1;
   const currentDayId =
     // 19860 is the number of days since 01.01.1970 as of 18.05.2024.
