@@ -3069,6 +3069,7 @@ Hydrazinium nitroformate	N[NH3+].[O-][N+](=O)[C-]([N+]([O-])=O)[N+]([O-])=O
 1,1,1,2,3,3,3-Heptafluoropropane	FC(F)(F)C(F)C(F)(F)F
 Quinoxaline	c1cccc2nccnc12
 Copper(II) fluoride	[Cu+2].[F-].[F-]
+Cadmium fluoride	[Cd+2].[F-].[F-]
 Phenazine	n1c3c(nc2c1cccc2)cccc3
 Phthalazine	C1=CC=C2C=NN=CC2=C1
 Chloropyramine	Clc1ccc(cc1)CN(c2ncccc2)CCN(C)C
@@ -21222,3 +21223,5 @@ Copper(II) trifluoroacetate	C(=O)(C(F)(F)F)[O-].C(=O)(C(F)(F)F)[O-].[Cu+2]
 Tribromoethylene	C(=C(Br)Br)Br
 1,2-Dibromotetrachloroethane	ClC(Cl)(Br)C(Cl)(Cl)Br
 Isoxaflutole	CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
+Hydroselenide	[SeH-]
+Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
