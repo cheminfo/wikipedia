@@ -16138,6 +16138,7 @@ Flugestone	CC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O
 Pentagestrone	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)O
 Pentagestrone acetate	CC(=O)C1(CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C)OC(=O)C
 Tiomolibdic acid	S=[Mo](=S)(S)S
+Potassium heptafluoroniobate	F[Nb-2](F)(F)(F)(F)(F)F.[K+].[K+]
 Crotogoudin	CC(=C)[C@@H]1CC[C@]23CC[C@H](C[C@]24[C@]1(CCC(=O)O4)C)C(=C)C3=O
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 N-Butyl glycidyl ether	CCCCOCC1CO1
@@ -21224,4 +21225,6 @@ Tribromoethylene	C(=C(Br)Br)Br
 1,2-Dibromotetrachloroethane	ClC(Cl)(Br)C(Cl)(Cl)Br
 Isoxaflutole	CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
 Hydroselenide	[SeH-]
+Hydrotelluride	[Te-][H]
 Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
+Coerulescine	O=C2Nc1c(cccc1)C23CN(CC3)C
