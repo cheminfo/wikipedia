@@ -706,7 +706,6 @@ Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
 Omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
 5-Bromouracil	Br/C1=C/NC(=O)NC1=O
 ENU	CCN(N=O)C(N)=O
-Silver sulfide	[S-2].[Ag+].[Ag+]
 Furfural	c1cc(oc1)C=O
 Cyanoacetylene	C#CC#N
 Tris	OCC(N)(CO)CO
@@ -2576,6 +2575,7 @@ Lead(II) hydroxide	[OH-].[OH-].[Pb+2]
 Thallium(I) hydroxide	[Tl+].[OH-]
 Thallium(III) hydroxide	O[Tl](O)O
 Thiocyanic acid	SC#N
+Thiocyanic acid	N=C=S
 Fluacizine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)C(=O)CCN(CC)CC
 Dosulepin	CN(C)CC/C=C/1\C2=CC=CC=C2CSC3=CC=CC=C31
 Nialamide	O=C(NNCCC(=O)NCc1ccccc1)c2ccncc2
@@ -6281,7 +6281,7 @@ Formiminoglutamic acid	C(CC(=O)O)C(C(=O)O)N=CN
 1-Pyrroline-5-carboxylic acid	O=C(O)C1/N=C\CC1
 5-Formiminotetrahydrofolate	c1cc(ccc1C(=O)NC(CCC(=O)[O-])C(=O)[O-])NCC2CNc3c(c(=O)[nH]c(n3)N)N2C=N
 7-Hydroxymitragynine	CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cccc(OC)c34)[C@@H]2C[C@@H]1\C(=C/OC)C(=O)OC
-Gallium(II) sulfide	S=[Ga]
+Gallium(II) sulfide	[Ga+2][Ga+2].[S-2].[S-2]
 Cyclic olefin copolymer	C=C.C\1=C\C2CC/1CC2
 N'-Formylkynurenine	C1=CC=C(C(=C1)C(=O)C[C@@H](C(=O)O)N)NC=O
 NanoPutian	O1CCOC1c1c(C#CC(C)(C)C)cc(c(C#CC(C)(C)C)c1)C#Cc1cc(C#CCCC)cc(C#CCCC)c1
@@ -9821,7 +9821,7 @@ Resazurin	C1=CC2=C(C=C1O)OC3=CC(=O)C=CC3=[N+]2[O-]
 4-Ethylbenzaldehyde	CCc1ccc(C=O)cc1
 Veratraldehyde	COc1cc(ccc1OC)C=O
 Benzenesulfonic acid	OS(=O)(=O)c1ccccc1
-Ammonium azide	N.N=[N+]=[N-]
+Ammonium azide	[NH+4].[N-]=[N+]=[N-]
 SDZ SER-082	CN1CC[C@@H]2CN3CCC4=C3C(=CC=C4)[C@@H]2C1
 Calcium titanate	[Ca+2].[O-][Ti]([O-])=O
 SB-649,915	O=C4COc1ccc(cc1N4)CC(CC5)CCN5CCOc(cccc2n3)c2ccc3C
@@ -21228,3 +21228,4 @@ Hydroselenide	[SeH-]
 Hydrotelluride	[Te-][H]
 Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
 Coerulescine	O=C2Nc1c(cccc1)C23CN(CC3)C
+Lead(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=C5C=CC=CC5=C6N4[Pb]N7C(=NC2=N3)C8=CC=CC=C8C7=NC9=NC(=N6)C1=CC=CC=C19
