@@ -1899,8 +1899,8 @@ Hydroxylammonium nitrate	[NH3+]O.[N+](=O)([O-])[O-]
 Guanidine nitrate	C(=N)(N)N.[N+](=O)(O)[O-]
 Limonene	CC1=CCC(CC1)C(=C)C
 Acetoin	CC(=O)C(C)O
-Acetoin	CC(=O)C[C@@H](C)O
-Acetoin	CC(=O)C[C@H](C)O
+Acetoin	CC(=O)[C@@H](C)O
+Acetoin	CC(=O)[C@H](C)O
 Avizafone	Clc1cc(c(N(C(=O)CNC(=O)[C@@H](N)CCCCN)C)cc1)C(=O)c2ccccc2
 MBDB	CCC(CC1=CC2=C(C=C1)OCO2)NC
 1,8-Diazabicyclo(5.4.0)undec-7-ene	N\2=C1\N(CCCCC1)CCC/2
@@ -2348,7 +2348,7 @@ Vinorelbine	[H][C@]89C=C(CC)CN(Cc1c([nH]c2ccccc12)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(
 Polidocanol	CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
 Clofarabine	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@@H]3F)CO)N
 Phenmetrazine	CC1C(C2=CC=CC=C2)OCCN1
-Technetium(VII) oxide	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Tc+7].[Tc+7]
+Technetium(VII) oxide	O=[Tc](=O)(=O)O[Tc](=O)(=O)=O
 Valnoctamide	CCC(C)C(CC)C(N)=O
 Guanidine	NC(N)=N
 Propidium iodide	CC[N+](C)(CC)CCC[n+]1c2cc(N)ccc2c3ccc(N)cc3c1c4ccccc4.[I-].[I-]
@@ -3612,7 +3612,7 @@ Stearidonic acid	O=C(O)CCCC\C=C/C\C=C/C\C=C/C\C=C/CC
 Tritiated water	[3H]O[3H]
 Coniferyl alcohol	Oc1ccc(cc1OC)/C=C/CO
 Scandium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sc+3]
-Scandium fluoride	F[Sc](F)F
+Scandium fluoride	[Sc+3].[F-].[F-].[F-]
 Faropenem	O=C2N1/C(=C(\S[C@@H]1[C@H]2[C@H](O)C)[C@@H]3OCCC3)C(=O)O
 Mecamylamine	N([C@@]2([C@@H]1CC[C@@H](C1)C2(C)C)C)C
 Dimethyl telluride	C[Te]C
@@ -7877,6 +7877,7 @@ Dimethylaminopropylamine	CN(C)CCCN
 Lauryl glucoside	CCCCCCCCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Procaterol	CC(C)NC(CC)C(O)c2ccc(O)c1NC(=O)C=Cc12
 Diphosphorus tetraiodide	P(P(I)I)(I)I
+Manganese(II) oxide	[Mn+2].[O-2]
 Benzamil	Clc2nc(C(=O)NC(=N/Cc1ccccc1)/N)c(nc2N)N
 Benzamil	Clc2nc(C(=O)\N=C(/N)NCc1ccccc1)c(N)nc2N
 Perfluorobutane	C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F
@@ -19442,7 +19443,7 @@ Cinnamycin	C[C@@H]1C2C(=O)N[C@@H](CCCCNC[C@H]3C(=O)N[C@H](C(=O)NCC(=O)N4CCC[C@H]
 Prenylthiol	CC(=CCS)C
 Kestose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O
 2-Hydroxybenzylamine	C1=CC=C(C(=C1)CN)O
-Gold(II) sulfate	[O-]S(=O)(=O)[O-].[Au+2]
+Gold(II) sulfate	[O-]S(=O)(=O)[O-].[Au+2][Au+2].[O-]S(=O)(=O)[O-]
 L-Photo-methionine	CC1(N=N1)CC[C@@H](C(=O)O)N
 3-Hydroxyisonicotinaldehyde	c1cncc(c1C=O)O
 Himeic acid A	C[C@@H](CC(=O)NC(=O)C1=COC(=CC1=O)/C=C/CCCCCCCCC(=O)O)C(=O)O
@@ -19456,7 +19457,7 @@ Dipentylone	CCCC(C(=O)C1=CC2=C(C=C1)OCO2)N(C)C
 Pyrilutamide	CNC(=O)C1=C(F)C=C(C=C1)N1C(=S)N(C(=O)C1(C)C)C1=C(F)C(=C(C=C1)C#N)C(F)(F)F
 Lithium phosphide	[Li+].[Li+].[Li+].[PH2-]
 2-tert-Butylphenol	CC(C)(C)C1=CC=CC=C1O
-Scandium phosphide	[P].[Sc]
+Scandium phosphide	[Sc+3].[P-3]
 Upacicalcet	CC1=C(C=C(C=C1Cl)S(=O)(=O)O)NC(=O)NC[C@@H](C(=O)O)N
 2-Ethylphenol	CCC1=CC=CC=C1O
 Aluminium phenolate	C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].C1=CC=C(C=C1)[O-].[Al+3]
@@ -21234,3 +21235,5 @@ Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
 Coerulescine	O=C2Nc1c(cccc1)C23CN(CC3)C
 Lead(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=C5C=CC=CC5=C6N4[Pb]N7C(=NC2=N3)C8=CC=CC=C8C7=NC9=NC(=N6)C1=CC=CC=C19
 CDD-2807	O=C(N1CC2(C1)CNCCC2)c1cc2c([NH]nc2C#Cc2ccccc2c2ccccc2)cc1
+Phosphine oxide	[O-][PH3+]
+Holmium arsenide	[As]#[Ho]
