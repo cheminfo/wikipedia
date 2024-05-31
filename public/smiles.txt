@@ -5756,7 +5756,7 @@ Neurokinin B	CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=
 Lanreotide	C[C@H]([C@@H](C(=O)N)NC(=O)[C@@H]1CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C(C)C)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccc(cc4)O)NC(=O)[C@@H](Cc5ccc6ccccc6c5)N)O
 Plerixafor	N1CCNCCCN(CCNCCC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3
 3,4-Methylenedioxy-N-hydroxyamphetamine	CC(CC1=CC2=C(C=C1)OCO2)NO
-Bismuth subcarbonate	[Bi+H0]=O.[Bi+H0]=O.O=C([O-])[O-]
+Bismuth subcarbonate	[Bi+]=O.[Bi+]=O.O=C([O-])[O-]
 Acetone cyanohydrin	CC(C)(O)C#N
 Adenosine thiamine triphosphate	O=P(O)(OC[C@H]3O[C@@H](n1c2ncnc(N)c2nc1)[C@H](O)[C@@H]3O)OP(=O)(O)OP(=O)(O)OCCc4sc[n+](c4C)Cc5c(nc(nc5)C)N
 Cefquinome	O=C4[C@@H](NC(=O)C(=N\OC)/c1csc(N)n1)[C@H]5SC\C(C[n+]3cccc2CCCCc23)=C(/N45)C([O-])=O
@@ -8841,6 +8841,7 @@ Methylisopropyllysergamide	C4N(C)C1Cc2c[nH]c(ccc3)c2c3C1=CC4C(=O)N(C)C(C)C
 Lysergic acid 2-butyl amide	CN1C[C@@H](C(N[C@H](C)CC)=O)C=C2C1CC3=CNC4=C3C2=CC=C4
 Flutemazepam	FC1=CC=CC=C1C2=NC(C(N(C)C3=C2C=C(C=C3)Cl)=O)O
 Acetic acid	CC(O)=O
+Hydrochloric acid	[OH3+].[Cl-]
 Mertansine	C[C@@H]1[C@@H]2C[C@]([C@@H](/C=C/C=C(/Cc3cc(c(c(c3)OC)Cl)N(C(=O)C[C@@H]([C@]4([C@H]1O4)C)OC(=O)[C@H](C)N(C)C(=O)CCS)C)\C)OC)(NC(=O)O2)O
 Ozogamicin	CCN(C1COC(CC1OC)OC2C(C(C(OC2OC3C#CC=CC#CC4(CC(=O)C(=C3C4=CCSSC(C)(C)CC(=O)NN=C(C)C5=CC=C(C=C5)OCCCC(=O)N)NC(=O)OC)O)C)NOC6CC(C(C(O6)C)SC(=O)C7=C(C(=C(C(=C7OC)OC)OC8C(C(C(C(O8)C)O)OC)O)I)C)O)O)C(=O)C
 Acepentalene	C1=CC2=CC=C3C2=C1C=C3
@@ -21116,6 +21117,7 @@ Thorium heptaphosphide	[Th+4].[P-].[P-].[P-].[P-].[P].[P].[P]
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Thorium diselenide	[Se].[Se].[Th]
 Gold phosphide	[P-3].[Au+3]
+2,3,7,8-tetrachlorodibenzofuran	ClC1=C(Cl)C=C2C(OC3=CC(Cl)=C(Cl)C=C23)=C1
 Praseodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pr+3]
 Neodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Nd+3]
 Erbium iodate	[Er+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
@@ -21231,6 +21233,7 @@ Isoxaflutole	CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
 Hydroselenide	[SeH-]
 Hydrotelluride	[Te-][H]
 Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
+Acetamidine hydrochloride	Cl.N=C(N)C
 Coerulescine	O=C2Nc1c(cccc1)C23CN(CC3)C
 Lead(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=C5C=CC=CC5=C6N4[Pb]N7C(=NC2=N3)C8=CC=CC=C8C7=NC9=NC(=N6)C1=CC=CC=C19
 CDD-2807	O=C(N1CC2(C1)CNCCC2)c1cc2c([NH]nc2C#Cc2ccccc2c2ccccc2)cc1
