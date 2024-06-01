@@ -3844,7 +3844,6 @@ Uranyl chloride	O.O.O.O=[U+2]=O.[Cl-].[Cl-]
 Caffeine citrate	CN1C=NC2=C1C(=O)N(C(=O)N2C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
 Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
-Xenon trioxide	[O-][Xe+3]([O-])[O-]
 Chlorosulfuric acid	ClS(=O)(=O)O
 Deferasirox	OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O
 Sulindac	O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
@@ -21117,7 +21116,7 @@ Thorium heptaphosphide	[Th+4].[P-].[P-].[P-].[P-].[P].[P].[P]
 Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Thorium diselenide	[Se].[Se].[Th]
 Gold phosphide	[P-3].[Au+3]
-2,3,7,8-tetrachlorodibenzofuran	ClC1=C(Cl)C=C2C(OC3=CC(Cl)=C(Cl)C=C23)=C1
+2,3,7,8-Tetrachlorodibenzofuran	ClC1=C(Cl)C=C2C(OC3=CC(Cl)=C(Cl)C=C23)=C1
 Praseodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pr+3]
 Neodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Nd+3]
 Erbium iodate	[Er+3].O=I(=O)[O-].O=I(=O)[O-].O=I(=O)[O-]
@@ -21244,3 +21243,4 @@ Holmium bismuthide	[Ho].[Bi]
 Dysprosium arsenide	[As]#[Dy]
 Dysprosium antimonide	[Dy].[Sb]
 Dysprosium bismuthide	[Dy].[Bi]
+Scytalone	C1[C@H](CC(=O)C2=C1C=C(C=C2O)O)O
