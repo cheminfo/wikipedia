@@ -513,7 +513,7 @@ Glyphosate	O=C(O)CNCP(=O)(O)O
 Bromotrifluoromethane	BrC(F)(F)F
 Diethylstilbestrol	Oc2ccc(/C(=C(/c1ccc(O)cc1)CC)CC)cc2
 Molybdenum disulfide	S=[Mo]=S
-Hydrofluoric acid	F
+Hydrofluoric acid	F.O
 Hydrofluoric acid	[F-].[OH3+]
 Trichlorosilane	Cl[SiH](Cl)Cl
 Procaine	O=C(OCCN(CC)CC)c1ccc(N)cc1
@@ -832,7 +832,7 @@ Isoniazid	C1=CN=CC=C1C(=O)NN
 Sumatriptan	O=S(=O)(NC)Cc1cc2c(cc1)[nH]cc2CCN(C)C
 Propylene oxide	CC1CO1
 Barium hydroxide	[Ba+2].[OH-].[OH-]
-Hydrobromic acid	Br
+Hydrobromic acid	[OH3+].[Br-]
 Coniine	CCCC1CCCCN1
 Coniine	N1[C@@H](CCC)CCCC1
 Coniine	N1[C@H](CCC)CCCC1
@@ -863,7 +863,7 @@ Edrophonium	[Cl-].Oc1cccc(c1)[N+](C)(CC)C
 Pilocarpine	O=C2OC[C@H](Cc1n(cnc1)C)[C@@H]2CC
 Bromocriptine	BrC1=C(C[C@H]2N(C)C3)C4=C(C=CC=C4C2=C[C@H]3C(N[C@]5(C(C)C)O[C@@]6(N([C@@H](CC(C)C)C(N7CCC[C@H]76)=O)C5=O)O)=O)N1
 Pergolide	[H][C@]12C[C@@H](CSC)CN(CCC)[C@]1([H])Cc3c[nH]c4cccc2c34
-Hydroiodic acid	I
+Hydroiodic acid	[OH3+].[I-]
 Potassium cyanide	[K+].[C-]#N
 Carnosine	c1c(nc[nH]1)C[C@@H](C(=O)O)NC(=O)CCN
 Carnosine	O=C(O)C(NC(=O)CCN)Cc1c[nH]cn1
@@ -941,7 +941,7 @@ Carisoprodol	O=C(N)OCC(C)(CCC)COC(=O)NC(C)C
 Potassium benzoate	[K+].[O-]C(=O)c1ccccc1
 Dicofol	Clc1ccc(cc1)C(O)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
 Β-Alanine	O=C(O)CCN
-Hydrogen peroxide - urea	O=C(N)N.OO
+Hydrogen peroxide–urea	O=C(N)N.OO
 Enalapril	O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)OCC)CCc1ccccc1)C)CCC2
 Atenolol	O=C(N)Cc1ccc(cc1)OCC(O)CNC(C)C
 Nitrofurantoin	O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2
