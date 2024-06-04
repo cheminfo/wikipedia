@@ -622,7 +622,6 @@ Magnesium carbonate	[Mg+2].[O-]C([O-])=O
 Metoclopramide	Clc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC
 Cyclopropane	C1CC1
 Cyclohexane	C1CCCCC1
-Methyl violet	CN=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C3=CC=C(C=C3)N(C)C)C=C1.Cl
 Calcium hydroxide	[Ca+2].[OH-].[OH-]
 Nonoxynol-9	CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCO)cc1
 Sodium percarbonate	[Na+].[O-]C(=O)OO
@@ -21217,6 +21216,7 @@ Alalevonadifloxacin	C[C@H]1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)OC(=O)[C@H](C)N)
 (3Z)-Nonenal	CCCCC/C=C\CC=O
 Praseodymium hexaboride	[B].[B].[B].[B].[B].[B].[Pr]
 Sodium chlorodifluoroacetate	C(=O)(C(F)(F)Cl)[O-].[Na+]
+Cetyl tranexamate mesylate	CS([O-])(=O)=O.CCCCCCCCCCCCCCCCOC(=O)[C@H]1CC[C@H](C[NH3+])CC1
 Chromium oxytetrafluoride	F[Cr](F)(F)(F)=O
 Cyclic 3-hydroxymelatonin	CC(=O)N1CC[C@@]2([C@H]1NC3=C2C=C(C=C3)OC)O
 Methyl chlorate	COCl(=O)=O
@@ -21246,3 +21246,4 @@ Dysprosium arsenide	[As]#[Dy]
 Dysprosium antimonide	[Dy].[Sb]
 Dysprosium bismuthide	[Dy].[Bi]
 Scytalone	C1[C@H](CC(=O)C2=C1C=C(C=C2O)O)O
+Methyl violet 6B	CN=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C3=CC=C(C=C3)N(C)C)C=C1.Cl
