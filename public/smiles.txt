@@ -4016,7 +4016,7 @@ Verbenone	CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C
 Cyclopiazonic acid	CC(=O)C1=C(O)[C@H]5N(C1=O)[C@@](C)(C)[C@@H]4Cc2cccc3[nH]cc(c23)[C@@H]45
 Methoxymethylenetriphenylphosphorane	COC=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Dihydrogen phosphate	OP(=O)(O)[O-]
-Thiosulfate	[O-]S(=O)(=S)[O-]
+Thiosulfate	[O-]S(=O)(=O)[S-]
 Ammonium metavanadate	[NH4+].O=[V-](=O)=O
 Sodium metavanadate	[O-][V](=O)=O.[Na+]
 Lithium sulfate	[Li+].[Li+].[O-]S(=O)(=O)[O-]
@@ -5832,6 +5832,8 @@ Beryllium chloride	Cl[Be]Cl
 Beryllium chloride	Cl[Be-2](Cl)([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1([Cl+]1)[Cl+][Be-2]1(Cl)Cl
 Cediranib	COc4cc3c(Oc2ccc1[nH]c(C)cc1c2F)ncnc3cc4OCCCN5CCCC5
 Thiobarbituric acid	O=C(NC(N1)=S)CC1=O
+Uranium nitrides	N#[U]#N
+Uranium nitrides	N#[U]=N([U]#N)
 Isoindole	c1cccc2c1c[nH]c2
 Fluoxetine	CNCCC(c1ccccc1)Oc2ccc(cc2)C(F)(F)F
 5-Methoxytryptamine	O(c1cc2c(cc1)[nH]cc2CCN)C
@@ -13771,7 +13773,7 @@ Beta-Zeacarotene	CC(C)=CCC\C(C)=C\CC\C(C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\
 Rhodopin	OC(C)(C)CCC\C(=C\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C)C)C
 White–Chen catalyst	CC#N.CC#N.C1CC(N(C1)CC2=CC=CC=N2)C3CCCN3CC4=CC=CC=N4.F[Sb-](F)(F)(F)(F)F.F[Sb-](F)(F)(F)(F)F.[Fe+2]
 Pulvinic acid	O=C(O)C(=C2/OC(/O)=C(/c1ccccc1)C2=O)/c3ccccc3
-Triphosphorus pentanitride	[N].[N].[N].[N].[N].[P].[P].[P]
+Triphosphorus pentanitride	N1=P23N=P45N2P1(=N4)N35
 Zeocin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=N[C@H](CS5)C6=NC(=CS6)C(=O)NCCCCN=C(N)N)O
 Bupirimate	CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
 PRL-8-53	CN(CCc1cccc(c1)C(=O)OC)Cc2ccccc2
@@ -21246,4 +21248,6 @@ Dysprosium arsenide	[As]#[Dy]
 Dysprosium antimonide	[Dy].[Sb]
 Dysprosium bismuthide	[Dy].[Bi]
 Scytalone	C1[C@H](CC(=O)C2=C1C=C(C=C2O)O)O
+Homocysteine thiolactone	C1CSC(=O)[C@H]1N
 Methyl violet 6B	CN=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C3=CC=C(C=C3)N(C)C)C=C1.Cl
+Methyl violet 2B	CN(C)C1=CC=C(C=C1)C(=C2C=CC(=N)C=C2)C3=CC=C(C=C3)N(C)C.Cl
