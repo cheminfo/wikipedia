@@ -1728,7 +1728,7 @@ Clomipramine	CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21
 Nortriptyline	c3cc2c(/C(c1c(cccc1)CC2)=C/CCNC)cc3
 Xylazine	N\1=C(\SCCC/1)Nc2c(cccc2C)C
 Wortmannin	O=C\3c2occ1C(=O)O[C@@H]([C@@](c12)(/C5=C/3[C@H]4[C@](C(=O)CC4)(C)C[C@H]5OC(=O)C)C)COC
-Methylcyclopentadienyl manganese tricarbonyl	CC1=C[CH-]C=C1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn]
+Methylcyclopentadienyl manganese tricarbonyl	CC1=C[CH-]C=C1.[O+]#C[Mn-2](C#[O+])C#[O+]
 Zosuquidar	Cl.Cl.Cl.FC4(F)[C@@H]3c1ccccc1C(c2c(cccc2)[C@@H]34)N5CCN(CC5)C[C@@H](O)COc7c6cccnc6ccc7
 Gemcitabine	c1cn(c(=O)nc1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
 Trolamine salicylate	O=C(O)c1ccccc1O.OCCN(CCO)CCO
@@ -6296,7 +6296,7 @@ Pretomanid	C1[C@@H](COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
 Amorolfine	O2[C@@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)CC)C[C@@H]2C)C
-Mercury(I) sulfate	[O-]S(=O)(=O)[O-].[Hg+].[Hg+]
+Mercury(I) sulfate	[O-]S(=O)(=O)[O-].[Hg+][Hg+]
 Dehydroretinal	O=C\C=C(\C=C\C=C(\C=C\C1=C(\C=C/CC1(C)C)C)C)C
 Gepirone	O=C1N(C(=O)CC(C)(C)C1)CCCCN3CCN(c2ncccn2)CC3
 Hydramethylnon	FC(F)(F)c1ccc(cc1)C=CC(=NNC2=NCC(C)(C)CN2)C=Cc3ccc(cc3)C(F)(F)F
@@ -10079,7 +10079,7 @@ Indole	C12=C(C=CN2)C=CC=C1
 Bropirimine	Br\C2=C(/c1ccccc1)N\C(=N/C2=O)N
 Potassium hydrosulfide	[SH-].[K+]
 Ferrocenium tetrafluoroborate	C1=C[CH-]C=C1.[Fe+3].C2=C[CH-]C=C2.F[B-](F)(F)F
-Mercury(I) nitrate	[N+](=O)([O-])[O-].[Hg+]
+Mercury(I) nitrate	[N+](=O)([O-])[O-].[Hg+][Hg+].[N+](=O)([O-])[O-]
 CPCCOEt	CCOC(=O)C23Oc1ccccc1\C(=N\O)\C2C3
 Ro01-6128	c2ccccc2C(C(=O)NC(=O)OCC)c1ccccc1
 Ro67-4853	c3cccc2c3Oc1ccccc1C2C(=O)NC(=O)OCCCC
@@ -12555,7 +12555,7 @@ Lithium imide	[Li+].[Li+].[NH-2]
 Xenon dichloride	Cl[Xe]Cl
 Epristeride	CC(C)(C)NC(=O)C1CCC2C3C\C=C4\C=C(/CCC4(C)C3CCC12C)C(O)=O
 Tenofovir alafenamide	C[C@H](CN1C=NC2=C(N=CN=C21)N)OC[P@@](=O)(N[C@@H](C)C(=O)OC(C)C)OC3=CC=CC=C3
-Caesium hexafluorocobaltate(IV)	[Cs+].[Cs+].F[Cu-2](F)(F)(F)(F)F
+Caesium hexafluorocobaltate(IV)	[Cs+].[Cs+].F[Co-2](F)(F)(F)(F)F
 Lapisteride	O=C(NC(c1ccc(OC)cc1)(C)C)[C@@H]3[C@]2(CC[C@H]4[C@H]([C@@H]2CC3)CC[C@H]5NC(=O)\C=C/[C@]45C)C
 1,2-Diaminopropane	CC(N)CN
 Pseudomorphine	CN1CCC23C4C1CC5=C2C(=C(C(=C5)C6=CC7=C8C(=C6O)OC9C81CCN(C(C7)C1C=CC9O)C)O)OC3C(C=C4)O
@@ -16232,8 +16232,8 @@ Cyclohexadecanone	C1CCCCCCCC(=O)CCCCCCC1
 Capmatinib	CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F
 Cyclododecanone	C1CCCCCC(=O)CCCCC1
 Fevipiprant	CC1=C(C2=C(N1CC3=C(C=C(C=C3)S(=O)(=O)C)C(F)(F)F)N=CC=C2)CC(=O)O
-Neptunocene	[Np].C1=CC=CC=CC=C1.C1=CC=CC=CC=C1
-Plutonocene	[Pu].C1=CC=CC=CC=C1.C1=CC=CC=CC=C1
+Neptunocene	c1=c[cH-]c=c[cH]c=c1.[Np+4].c1=c[cH-]c=c[cH-]c=c1
+Plutonocene	c1=c[cH-]c=c[cH]c=c1.[Pu+4].c1=c[cH-]c=c[cH-]c=c1
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
 4'-Fluorocannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
@@ -19455,7 +19455,7 @@ Hyrtioreticulin	C[C@@H]1C2=C(C[C@H](N1)C(=O)O)C3=C(N2)C=CC(=C3)O
 Hyrtioreticulin	C[C@H]1C2=C(C[C@H](N1)C(=O)O)C3=C(N2)C=CC(=C3[C@@H](C)NCC(=O)O)O
 Dipentylone	CCCC(C(=O)C1=CC2=C(C=C1)OCO2)N(C)C
 Pyrilutamide	CNC(=O)C1=C(F)C=C(C=C1)N1C(=S)N(C(=O)C1(C)C)C1=C(F)C(=C(C=C1)C#N)C(F)(F)F
-Lithium phosphide	[Li+].[Li+].[Li+].[PH2-]
+Lithium phosphide	[Li+].[Li+].[Li+].[P-3]
 2-tert-Butylphenol	CC(C)(C)C1=CC=CC=C1O
 Scandium phosphide	[Sc+3].[P-3]
 Upacicalcet	CC1=C(C=C(C=C1Cl)S(=O)(=O)O)NC(=O)NC[C@@H](C(=O)O)N
@@ -20904,6 +20904,7 @@ Pentaerythritol tetrakis(3-mercaptopropionate)	C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)
 4-Fluoroselegiline	CC(CC1=CC=C(F)C=C1)N(C)CC#C
 Dichlormid	O=C(N(CC=C)CC=C)C(Cl)Cl
 3-Bromopentane	CCC(CC)Br
+1-Bromo-2,2-dimethylpropane	CC(C)(C)CBr
 Silver thiosulfate	[O-]S(=O)(=S)[O-].[Ag+].[Ag+]
 Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 2,5-Hexanediol	CC(CCC(C)O)O
