@@ -363,7 +363,7 @@ Prussian blue	[Fe+3].[Fe+3].[Fe+3].[Fe+3].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.N#C[F
 Ephedrine	O[C@H](c1ccccc1)[C@@H](NC)C
 Thyrotropin-releasing hormone	C1C[C@H](N(C1)C(=O)[C@H](CC2=CN=CN2)NC(=O)[C@@H]3CCC(=O)N3)C(=O)N
 Titanic acid	O[Ti](O)(O)O
-Γ-Aminobutyric acid	NCCCC(=O)O
+GABA	NCCCC(=O)O
 Potassium ferricyanide	[K+].[K+].N#C[Fe-3](C#N)(C#N)(C#N)(C#N)C#N.[K+]
 Haloperidol	c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F
 Fluphenazine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4
@@ -4310,14 +4310,14 @@ Gallium(III) fluoride	F[Ga](F)F
 Gallium(III) iodide	I[Ga](I)I
 Gallium(III) oxide	O=[Ga]O[Ga]=O
 Gallium(III) telluride	[Ga]=[Te].[Ga]=[Te].[Te]
-Gallium(II) telluride	[Ga]=[Te]
+Gallium(II) telluride	[Te]=[Ga][Ga]=[Te]
 Gadolinium(III) oxide	[Gd+3].[Gd+3].[O-2].[O-2].[O-2]
 Hafnium carbide	[Hf+]#[C-]
 Hafnium(IV) oxide	O=[Hf]=O
 Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
 Indium(III) sulfide	S=[In]S[In]=S
 Indium(III) sulfate	[In+3].[In+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
-Indium(III) telluride	[In]=[Te].[In]=[Te].[Te]
+Indium(III) telluride	[Te]=[In][Te][In]=[Te]
 Lanthanum carbide	[C-]#[C].[La]
 Lanthanum(III) chloride	Cl[La](Cl)Cl
 Lead(II) fluoride	F[Pb]F
@@ -5519,7 +5519,7 @@ Oxindole	c1ccc2c(c1)CC(=O)N2
 Andrographolide	O=C3OCC(O)C3=CCC1\C(=C)CCC2C(C)(CO)C(O)CCC12C
 Andrographolide	OC3COC(=O)\C3=C\C[C@@H]1C(=C)CC[C@@H]2C(C)(CO)[C@H](O)CC[C@@]12C
 FC-75	C1(C(C(OC1(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)F)(F)F)(F)F)(F)F
-Manganese(IV) fluoride	[F-].[F-].[F-].[F-].[Mn]
+Manganese(IV) fluoride	[F-].[F-].[F-].[F-].[Mn+4]
 Molindone	O=C2c1c(c([nH]c1CCC2CN3CCOCC3)C)CC
 Suprofen	O=C(c1ccc(cc1)C(C(=O)O)C)c2sccc2
 Bismuth subgallate	OC(=O)c2cc1O[Bi](O)Oc1c(O)c2
@@ -17214,8 +17214,8 @@ Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo+2][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C([C@@H](C(=O)O)N)[Te]
-Transplatin	N.N.Cl[Pt]Cl
-Transplatin	Cl[Pt](Cl)([NH3])[NH3]
+Transplatin	N.N.[Pt+2].[Cl-].[Cl-]
+Transplatin	Cl[Pt-2](Cl)([NH3+])[NH3+]
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
@@ -17976,7 +17976,7 @@ Isoarborinol	CC(C)[C@@H]1CC[C@H]2[C@]1(CC[C@@]3([C@@]2(CC=C4[C@H]3CC[C@@H]5[C@@]
 Ossamycin	CC[C@H](C[C@H]1CCC[C@]2(O1)C[C@H]3[C@@H]([C@@H](O2)C[C@]4([C@@H](CC(O4)(C)C)/C=C/CCCCC[C@@]([C@@H]([C@H]([C@@H]([C@H]([C@@H]([C@](/C=C/C(=O)O3)(C)O)O)C)O)OC5CCC(C(O5)C)N(C)C)O)(C)O)O)C)O
 Ro 3-0412	C[N+](C)(C)c1cccc(c1)OP(=O)(OC)OC.COS(=O)(=O)[O-]
 Dimethanospiro(2.2)octaplane	C1C2C3CC4C5CC6C7C48C39C83C48C2CC5C34C6CC8C1C9C7
-Chromium(III) telluride	[Te].[Cr]=[Te].[Cr]=[Te]
+Chromium(III) telluride	[Te]=[Cr][Te][Cr]=[Te]
 Skimmianine	COC1=C(C2=C(C=C1)C(=C3C=COC3=N2)OC)OC
 Allopregnane	CC[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCCC4)C)C
 Alizarin Red S	[Na+].Oc1c(O)c2C(=O)c3ccccc3C(=O)c2cc1S([O-])(=O)=O
@@ -18655,7 +18655,7 @@ Hexaphosphabenzene	P1=PP=PP=P1
 5,6-Dihydro-5(α-thyminyl)thymine	CC1(CNC(=O)NC1=O)CC2=CNC(=O)NC2=O
 Radium sulfate	[O-]S(=O)(=O)[O-].[Ra]
 Technetium(III) chloride	[Cl-].[Cl-].[Cl-].[Tc+3]
-O-Mustard	C(CSCCCl)OCCSCCCl
+O-mustard	C(CSCCCl)OCCSCCCl
 Hexafluorocyclobutene	C1(=C(C(C1(F)F)(F)F)F)F
 Hexafluorobutadiene	C(=C(F)F)(C(=C(F)F)F)F
 GP (nerve agent)	CC1(CCCC1OP(=O)(C)F)C
@@ -20158,7 +20158,7 @@ Olibanic acid	CCCCCCCC[C@@H]1C[C@@H]1C(=O)O
 Olibanic acid	CCCCCCCC[C@H]1C[C@H]1C(=O)O
 Copper(II) telluride	[Cu]=[Te]
 Copper(I) telluride	[Cu].[Cu].[Te]
-Copper ditelluride	[Te]=[Cu]=[Te]
+Copper ditelluride	[Cu]1[Te][Te]1
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
 Benzaldehyde oxime	C1=CC=C(C=C1)\C=N/O
 Benzaldehyde oxime	C1=CC=C(C=C1)/C=N/O
@@ -20500,7 +20500,7 @@ Berkelium(III) bromide	[Br-].[Br-].[Br-].[Bk+3]
 Mercurophylline	[Na+].[OH-].[Hg+]CC(OC)CNC(=O)C1CCC(C([O-])=O)(C)C1(C)C.O=C2N(C1NCNC1C(=O)N2C)C
 Esmodafinil	C1=CC=C(C=C1)C(C2=CC=CC=C2)[S@@](=O)CC(=O)N
 Orforglipron	C[C@H]1C[C@]1(C2=NOC(=O)N2)N3C4=C(C=C(C=C4)[C@H]5CCOC(C5)(C)C)C=C3C(=O)N6CCC7=NN(C(=C7[C@@H]6C)N8C=CN(C8=O)C9=C(C1=C(C=C9)N(N=C1)C)F)C1=CC(=C(C(=C1)C)F)C
-Curium hexafluoride	[Cm+6].[F-].[F-].[F-].[F-].[F-].[F-]
+Curium hexafluoride	F[Cm](F)(F)(F)(F)F
 Curium(IV) fluoride	[Cm+4].[F-].[F-].[F-].[F-]
 Niobium(IV) iodide	[I-].[I-].[I-].[I-].[Nb+4]
 2,3,4,5-Tetrachlorophenol	C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O
