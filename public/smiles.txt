@@ -478,6 +478,7 @@ Nepetalactone	O=C1O\C=C(/[C@H]2CC[C@@H]([C@@H]12)C)C
 Glipizide	O=C(c1ncc(nc1)C)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC3CCCCC3
 Glimepiride	O=C3C(/CC)=C(/C)CN3C(=O)NCCc1ccc(cc1)S(=O)(=O)NC(=O)N[C@H]2CC[C@H](C)CC2
 Metformin	CN(C)C(=N)N=C(N)N
+Metformin	Cl.CN(C)C(=N)NC(N)=N
 Xylometazoline	N\1=C(\NCC/1)Cc2c(cc(cc2C)C(C)(C)C)C
 Neomycin	O([C@H]3[C@H](O[C@@H]2O[C@H](CO)[C@@H](O[C@H]1O[C@@H](CN)[C@@H](O)[C@H](O)[C@H]1N)[C@H]2O)[C@@H](O)[C@H](N)C[C@@H]3N)[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4N)CN
 Gentamicin	O[C@]3(C)[C@H](NC)[C@@H](O)[C@@H](O[C@H]2[C@H](N)C[C@H](N)[C@@H](O[C@H]1O[C@H](C(NC)C)CC[C@H]1N)[C@@H]2O)OC3
@@ -2416,7 +2417,7 @@ Diethyl sulfate	O=S(=O)(OCC)OCC
 Diethyl sulfite	O=S(OCC)OCC
 Capric acid	O=C(O)CCCCCCCCC
 Pinene	CC1=CCC2CC1C2(C)C
-Tetrakis(triphenylphosphine)palladium(0)	[Pd]([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1
+Tetrakis(triphenylphosphine)palladium(0)	[Pd-4]([P+](c1ccccc1)(c1ccccc1)c1ccccc1)([P+](c1ccccc1)(c1ccccc1)c1ccccc1)([P+](c1ccccc1)(c1ccccc1)c1ccccc1)[P+](c1ccccc1)(c1ccccc1)c1ccccc1
 Cyclooctatetraene	C1=C\C=C/C=C\C=C1
 Ethyl cinnamate	CCOC(=O)/C=C/c1ccccc1
 Glycolic acid	OC(=O)CO
@@ -3732,7 +3733,7 @@ Pralidoxime	ON=Cc1cccc[n+]1C
 Silver(I,III) oxide	[Ag]O[Ag].O=[Ag]O[Ag]=O
 S-Allylcysteine	O=C(O)[C@@H](N)CSC\C=C
 Tellurium hexafluoride	F[Te](F)(F)(F)(F)F
-Boron arsenide	[B][As]
+Boron arsenide	[B]#[As]
 Gentiobiose	O(C[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
 Benzamidine	[NH]=C(N)c1ccccc1
 Vanadium oxytrichloride	Cl[V](Cl)(Cl)=O
@@ -4845,8 +4846,8 @@ Methyl pentanoate	O=C(OC)CCCC
 Decamethylcyclopentasiloxane	C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
 Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
-Gallium trichloride	Cl[Ga](Cl)Cl
-Gallium trichloride	Cl[Ga-]1(Cl)[Cl+][Ga-]([Cl+]1)(Cl)Cl
+Gallium(III) chloride	Cl[Ga](Cl)Cl
+Gallium(III) chloride	Cl[Ga-]1(Cl)[Cl+][Ga-]([Cl+]1)(Cl)Cl
 Glutaconic acid	O=C(O)\C=C\CC(=O)O
 Chlordiazepoxide	ClC1=CC2=C(N=C(NC)C[N+]([O-])=C2C3=CC=CC=C3)C=C1
 Oleoyl-estrone	CCCCCCCC\C=C/CCCCCCCC(=O)c3cc(O)cc4CC[C@@H]2[C@H](CC[C@]1(C)C(=O)CC[C@H]12)c34
@@ -19525,7 +19526,7 @@ Thiophene-2-acetic acid	C1=CSC(=C1)CC(=O)O
 Berkelium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Bk+3]
 Plutonium(III) phosphide	[Pu]#[P]
 (Trimethylsilyl)methyllithium	[Li+].C[Si](C)(C)[CH2-]
-Plutonium(III) arsenide	[As].[Pu]
+Plutonium(III) arsenide	[As]#[Pu]
 5-Chloro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)Cl
 Samarium(III) arsenide	[As]#[Sm]
 ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
@@ -20663,7 +20664,7 @@ Caesium pertechnetate	[Cs+].[O-][Tc](=O)(=O)=O
 Etoetonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCCOCC
 2F-MAR	Fc1ccccc1C1OC(N)=NC1C
 Flunitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)F
-Bismuth arsenide	[Bi].[As]
+Bismuth arsenide	[Bi]#[As]
 Magnesium permanganate	[Mg+2].O=[Mn](=O)(=O)[O-].O=[Mn](=O)(=O)[O-]
 Magnesium permanganate	[O-][Mn](=O)(=O)=O.[O-][Mn](=O)(=O)=O.[Mg+2].O.O.O.O.O.O
 Craniformin	CSC1=C(C(=CC(=C1)O)S(=O)(=O)C)N=NC(=O)N

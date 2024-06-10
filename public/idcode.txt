@@ -478,6 +478,7 @@ dclD@@QIeeYkaejijjsITY@@	Nepetalactone
 eohZBH@LIJichDAN`@cIIBhheehddmeMDemKDbckejA`bjji`@b@@@	Glipizide
 edRRJH@LIJihDAAc`@cIIBhheehddleihhleiXdU\|mPLDUUUSTuTR`YBh@@	Glimepiride
 diF`@@pjYJYnejh@@	Metformin
+deF``HpadHc@eEDXuTp@@	Metformin
 fdyP@@@XrQQ[QQQURXijsUPDQUP@@	Xylometazoline
 ee[VK@@AMHalYPLEGOBfekg`^Q\dTTRbRfLTrafRfrVbTTrUDbUTvqMMUUUUUUUUUUUUUUVTBPaBhWDdQbl`TrUTzTtvgtaRJIUJ@@	Neomycin
 eh\ZN@@AEHfk`LOLnegldTTRbfatTLJTrbrbXdRJvNjjjjjjjjjjjhrAHHa\PqVPJERjCKYGP@	Gentamicin
@@ -2416,7 +2417,7 @@ diDB`HSB@HrRPiIZj`@	Diethyl sulfate
 daxL`HS@BDjuVjh@@	Diethyl sulfite
 dctD@@QImUUZjjh@@	Capric acid
 det@@DjVvkfyjjj`@	Pinene
-gkHt@@h@@Ci@|DGa`|BG`eTttttsLsLsLsLjjjjjjjj~j`fdKkBFHijIYbvxcaJzR^TomHDsUUUUU@@@@@@@@@@@@@@@@@@@@@@@@@@C~bDAPNAHH	Tetrakis(triphenylphosphine)palladium(0)
+gkHt@@hT@Ci@|DGa`|BG`@JAJB\DdIRjZZZZYfYfYfYfUUUUUUUU_UPSREuaCDTuDlq[\Qpe]IOJWvdBYjjjjj`@@@@@@@@@@@@@@@@@@@@@@@@@@	Tetrakis(triphenylphosphine)palladium(0)
 daD@@DiUVzVe`Red	Cyclooctatetraene
 dklD@@QIeWe]MjZ@@BB`	Ethyl cinnamate
 gJQ`@bdvu@@	Glycolic acid
@@ -3732,7 +3733,7 @@ deUHBHHBeIVYQfXB@@@	Pralidoxime
 daXBHHPfCtstkt{tRmMZZ@@	Silver(I,III) oxide
 defD`FFPBLdRRaeTttD`@	S-Allylcysteine
 gNpN@VRPTai@rEdGHQUT@@	Tellurium hexafluoride
-eFABDjBLC~d{@	Boron arsenide
+eFABDjBN@	Boron arsenide
 fncAh@@XDkUgQsUnRJJIQIXsJJ[TddmUUUUUUURhQDHjJRMOPLSBp@	Gentiobiose
 die@@@QInUxV`@@@	Benzamidine
 gJQBBNbQBbMDQ}R@@	Vanadium oxytrichloride
@@ -4845,8 +4846,8 @@ daxD@@QIeujj@@	Methyl pentanoate
 fbeAR`HHxkpGBc`qplxN\LddRLbdQLbcoUUUUUUT@@	Decamethylcyclopentasiloxane
 fle`S@AXIjp@bG``HrJQIHqQSYHshiZjjfX@@@@	Phosmet
 degD@JFPQIeyfji`@	Creatine methyl ester
-gC`BA|RHTQhbOT@@	Gallium trichloride
-daD@D`~HbDbLbBbJ~FbNb@zIRZ{IIEXeUUT@@	Gallium trichloride
+gC`BA|RHTQhbOT@@	Gallium(III) chloride
+daD@D`~HbDbLbBbJ~FbNb@zIRZ{IIEXeUUT@@	Gallium(III) chloride
 diDB@@SaR[UfffBL`	Glutaconic acid
 fj}qBBAJShDPJ]]dTRTtRbbJRuNF}GL@PuPHQD@@@	Chlordiazepoxide
 enUPL@@@LnlbbdRQfRfbTQRrRRRRRRHxdTl|RjZjjj``XjjijjjhHPQDDbb`nP	Oleoyl-estrone
@@ -19525,7 +19526,7 @@ didD`ND@aJY~rjYf`@	Thiophene-2-acetic acid
 dkgIaTYXpjxYtpa`uIsbyi{ayYwc{@e@U@UFff`@	Berkelium(III) nitrate
 eFAAzoBN@	Plutonium(III) phosphide
 gFPD`xW@OVX}U@@	(Trimethylsilyl)methyllithium
-eDAAzhP@_qP@	Plutonium(III) arsenide
+eFAAzhRN@	Plutonium(III) arsenide
 foAPB@AFADYEDeLhTiQ`iP@TuTP@@	5-Chloro-DMT
 eFAA|hRN@	Samarium(III) arsenide
 fmwPR@L^`arPAFRRFJJIIPeJIKQJuXOQkUATCEA@U@@@	ACT-462206
@@ -20663,7 +20664,7 @@ dg}H`MlPbDfUvVZY]`@jja@@	4C-MAR
 e`TRB@DHAMD`DEkhIP{HihdidddhdeEdbdeqHihUtt@PuTDEEUUD@@@	Etoetonitazene
 dg}H`MlPdLbbbRaTS\npDEUP`@	2F-MAR
 fmwHbBIJrWhpRAYGrSJzrrjksKQfcQS@ASUAAUMP@@@	Flunitazene
-eDACJhP@_qP@	Bismuth arsenide
+eFACJhRN@	Bismuth arsenide
 dmDAsHSB[adIbiaS@ngeWII@yHEYV@@	Magnesium permanganate
 fhb@{FHHpQgARtZsoAALTfEFANererRPNR@@@AVU`@@	Magnesium permanganate
 fdipQ@NJcAE``BMAFRRFZIJIHrQehHFJf@@@	Craniformin
