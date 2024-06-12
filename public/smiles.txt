@@ -2234,6 +2234,8 @@ Lead hydrogen arsenate	O[As](=O)([O-])[O-].[Pb+2]
 Pregnenolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
 4-Dimethylaminopyridine	n1ccc(N(C)C)cc1
 Beryllium fluoride	[Be+2].[F-].[F-]
+Beryllium fluoride	F[Be]F
+Beryllium fluoride	[F+]=[Be-2]=[F+]
 Fucose	O[C@@H]1[C@H](O)[C@@H](OC(O)[C@H]1O)C
 Okadaic acid	O=C(O)[C@@](O)(C)C[C@H]7O[C@]/1(O[C@@H](CC(=C\1)\C)[C@@H](/C=C/[C@@H]6O[C@@]3(O[C@H]2[C@H](O)/C(=C)[C@H](O[C@@H]2CC3)[C@@H](O)C[C@H](C)[C@H]5O[C@]4(OCCCC4)CC[C@H]5C)CC6)C)[C@H](O)CC7
 Diminazene	C1=CC(=CC=C1C(=N)N)N/N=N/C2=CC=C(C=C2)C(=N)N
@@ -4291,7 +4293,7 @@ Cytidine triphosphate	OP(O)(=O)O.OP(O)(=O)O.OP(O)(=O)O.N/C1=N/C(=O)N(/C=C1)[C@@H
 Cytidine triphosphate	c1cn(c(=O)nc1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O
 Epichlorohydrin	ClCC1CO1
 Ampyrone	O=C2\C(=C(/N(N2c1ccccc1)C)C)N
-Zeise's salt	C=C.O.[Cl-].[Cl-].[Cl-].[K+].[Pt+2]
+Zeise's salt	[K+].C=C.Cl[Pt-](Cl)Cl.O
 Cyclododecatriene	C1C\C=C\CC\C=C/CC\C=C\1
 Diglyme	COCCOCCOC
 Tarenflurbil	Fc2cc(ccc2c1ccccc1)[C@H](C(=O)O)C
@@ -21100,7 +21102,7 @@ Molybdenum diphosphide	[Mo].[P].[P]
 Caesium dibismuthide	[Cs].[Bi].[Bi]
 3,4-Toluenedithiol	CC1=CC(=C(C=C1)S)S
 Diruthenium phosphide	[P].[Ru].[Ru]
-Platinum diphosphide	[P].[P].[Pt]
+Platinum diphosphide	[Pt]1P=P1
 Ciguatoxin 1	C[C@@H]1C[C@H]2[C@@H](C[C@H]3[C@H](O2)[C@H]([C@@H]([C@H]4[C@H](O3)[C@H]([C@@H]([C@]5(O4)C[C@@H](CO5)O)C)C)O)C)O[C@H]6C[C@@H]7[C@]([C@@H](C[C@@H]8[C@@H](O7)C/C=C\C[C@@H]9[C@@H](O8)C=C[C@@H]2[C@@H](O9)C=C[C@@H]3[C@@H](O2)C[C@@H]2[C@@H](O3)[C@@H]([C@@H]3[C@@H](O2)CC=C[C@@H](O3)/C=C/[C@@H](CO)O)O)O)(O[C@@H]6C1)C
 Dichlorotrimethyltantalum	Cl[Ta](Cl)(C)(C)C
 Tantalocene trihydride	[H-][Ta+5]12345678([H-])([H-])([CH]=9[CH]4=[CH]3[CH-]2[CH]91)[CH]=%10[CH]8=[CH]7[CH-]6[CH]%105
@@ -21258,3 +21260,12 @@ Methyl violet 2B	CN(C)C1=CC=C(C=C1)C(=C2C=CC(=N)C=C2)C3=CC=C(C=C3)N(C)C.Cl
 2,4,6-Tris(dimethylaminomethyl)phenol	CN(C)CC1=CC(=C(C(=C1)CN(C)C)O)CN(C)C
 KL-50	FCCN1N=NC2=C(C(=O)N)N=CN2C(=O)1
 Perfluoro(4-ethylcyclohexane)sulfonic acid	C1(C(C(C(C(C1(F)F)(F)F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)F
+Zasocitinib	CNC1=CC(=NC2=C(C=NN12)C(=O)N[C@@H]3CC[C@H]3OC)NC4=CC=CN(C4=O)C5=CC=CC=N5
+Z583	COCCN1C=C(C=N1)NC2=NC=C3C=NN(C3=N2)CC4=CC(=CC=C4)NC(=O)C=C
+VVD-118313	CS(=O)(=O)N1CC[C@@H](C1)C#CC(=O)N2CCC[C@H](C2)C3=CC(=C(C=C3)Cl)Cl
+Brepocitinib	CN1C=C(C=N1)NC2=NC=CC(=N2)N3C[C@H]4CC[C@@H](C3)N4C(=O)[C@@H]5CC5(F)F
+Izencitinib	CC1=CC(=NN1)NC2=NC(=C3C=CC=NC3=C2)NC4C[C@H]5CC[C@@H](C4)N5CCC#N
+Gusacitinib	C1CN(CCC1CC#N)C2=NC3=C(C(=O)NN=C3)C(=N2)NC4=CC=C(C=C4)N5CCC(CC5)O
+Ropsacitinib	CN1C=C(C=N1)C2=CN3C(=CC=N3)C(=N2)C4=CN(N=C4)C5(CC(C5)C#N)CC#N
+Zimlovisertib	CC[C@H]1[C@H](NC(=O)[C@H]1F)COC2=NC=CC3=CC(=C(C=C32)OC)C(=O)N
+Emavusertib	CC1=NC=CC(=C1)C2=NC(=CO2)C(=O)NC3=CC4=C(N=C3N5CC[C@H](C5)O)N=C(O4)N6CCOCC6
