@@ -12864,7 +12864,7 @@ Ethyl caffeate	CCOC(=O)/C=C/C1=CC(=C(C=C1)O)O
 Methyl caffeate	COC(=O)/C=C/C1=CC(=C(C=C1)O)O
 Chromium(II) fluoride	[F-].[F-].[Cr+2]
 Hyocholic acid	C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H]([C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
-Distrontium ruthenate	[Sr+2].[Sr+2].[O-][Ru+4]([O-])([O-])[O-]
+Distrontium ruthenate	[Sr+2].[Sr+2].[O-][Ru]([O-])([O-])[O-]
 Glutaurine	O=C(NCCS(=O)(=O)O)CC[C@@H](C(=O)O)N
 Riccardin C	C1CC2=C(C=CC(=C2)O)C3=C(C=C(CCC4=CC(=C(C=C4)O)OC5=CC=C1C=C5)C=C3)O
 Vintafolide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CSSCCOC(=O)NNC(=O)[C@@]1([C@H]2[C@]3(CCN4[C@H]3[C@]([C@H]1O)(C=CC4)CC)c5cc(c(cc5N2C)OC)[C@]6(C[C@@H]7C[C@](CN(C7)CCc8c6[nH]c9c8cccc9)(CC)O)C(=O)OC)O)C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)NCc1cnc2c(n1)c(=O)[nH]c(n2)N
@@ -20160,7 +20160,7 @@ Olibanic acid	CCCCCCCC[C@@H]1C[C@H]1C(=O)O
 Olibanic acid	CCCCCCCC[C@@H]1C[C@@H]1C(=O)O
 Olibanic acid	CCCCCCCC[C@H]1C[C@H]1C(=O)O
 Copper(II) telluride	[Cu]=[Te]
-Copper(I) telluride	[Cu].[Cu].[Te]
+Copper(I) telluride	[Cu][Te][Cu]
 Copper ditelluride	[Cu]1[Te][Te]1
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
 Benzaldehyde oxime	C1=CC=C(C=C1)\C=N/O
@@ -21080,7 +21080,7 @@ Caesium heptafluoroxenate	[Cs+].F[Xe-](F)(F)(F)(F)(F)F
 RS134-49	CC1=C2C(=CC=C1)NC=C2C3=CCCNC3
 Dichloroiodomethane	ClC(I)Cl
 Cis-Urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
-Hexakis(trimethylphosphine)tungsten	[W].CP(C)C.CP(C)C.CP(C)C.CP(C)C.CP(C)C.CP(C)C
+Hexakis(trimethylphosphine)tungsten	C[P+](C)(C)[W-6]([P+](C)(C)C)([P+](C)(C)C)([P+](C)(C)C)([P+](C)(C)C)[P+](C)(C)C
 Caesium zirconate	[O-][Zr](=O)[O-].[Cs+].[Cs+]
 Neptunium(III) phosphide	[Np].[P]
 Arogenic acid	C1=CC(C=CC1O)(CC(C(=O)[O-])N)C(=O)O
@@ -21269,3 +21269,5 @@ Gusacitinib	C1CN(CCC1CC#N)C2=NC3=C(C(=O)NN=C3)C(=N2)NC4=CC=C(C=C4)N5CCC(CC5)O
 Ropsacitinib	CN1C=C(C=N1)C2=CN3C(=CC=N3)C(=N2)C4=CN(N=C4)C5(CC(C5)C#N)CC#N
 Zimlovisertib	CC[C@H]1[C@H](NC(=O)[C@H]1F)COC2=NC=CC3=CC(=C(C=C32)OC)C(=O)N
 Emavusertib	CC1=NC=CC(=C1)C2=NC(=CO2)C(=O)NC3=CC4=C(N=C3N5CC[C@H](C5)O)N=C(O4)N6CCOCC6
+Lolamicin	CC1=CC(=CC(C)=N1)C1=CNN=C1C1=CC=CC(OCC2=CC(=CC=C2)C#N)=C1
+CHZ868	CC1=C(C=CC2=C1N=C(N2C)NC3=C(C=C(C=C3)F)F)OC4=CC(=NC=C4)NC(=O)C
