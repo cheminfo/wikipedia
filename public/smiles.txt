@@ -3009,7 +3009,7 @@ Succinonitrile	N#CCCC#N
 Glutaronitrile	N#CCCCC#N
 Adiponitrile	N#CCCCCC#N
 Fluorodeoxyglucose (18F)	OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
-Dicarbonyltris(triphenylphosphine)ruthenium(0)	c3c(P(c1ccccc1)c2ccccc2)cccc3.c3c(P(c1ccccc1)c2ccccc2)cccc3.c3c(P(c1ccccc1)c2ccccc2)cccc3.[Ru].[C-]#[O+].[C-]#[O+]
+Dicarbonyltris(triphenylphosphine)ruthenium(0)	[O+]#C[Ru-5](C#[O+])([P+](c1ccccc1)(c2ccccc2)c3ccccc3)([P+](c1ccccc1)(c2ccccc2)c3ccccc3)[P+](c1ccccc1)(c2ccccc2)c3ccccc3
 Glycolaldehyde	O=CCO
 Pentacene	c1ccc2cc3cc4cc5ccccc5cc4cc3cc2c1
 Rubrene	c5(c3c(c1ccccc1c(c2ccccc2)c3c(c4ccccc4)c6ccccc56)c7ccccc7)c8ccccc8
@@ -5249,7 +5249,7 @@ Endo-Norborneol	O[C@H]1C[C@@H]2CC[C@H]1C2
 Cyclopropatriene	C=1=C=C=1
 Adjudin	C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)NN
 Khellin	O(C)c1c2C=COc2c(OC)c3OC(C)=CC(=O)c13
-Triruthenium dodecacarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Ru].[Ru].[Ru]
+Triruthenium dodecacarbonyl	[Ru-4]1(C#[O+])(C#[O+])(C#[O+])(C#[O+])[Ru-4](C#[O+])(C#[O+])(C#[O+])(C#[O+])[Ru-4]1(C#[O+])(C#[O+])(C#[O+])(C#[O+])
 HPTE	C1=CC(=CC=C1C(C2=CC=C(C=C2)O)C(Cl)(Cl)Cl)O
 Bismuth chloride	Cl[Bi](Cl)Cl
 Meta-Chlorophenylpiperazine	Clc1cc(ccc1)N2CCNCC2
@@ -21118,7 +21118,7 @@ Enitociclib	COC1=C(C=CC(=C1)F)C2=CC(=NC=C2F)NC3=NC=CC(=C3)C[S@@](=N)(=O)C
 Samarium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
 Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
 Thorium heptaphosphide	[Th+4].[P-].[P-].[P-].[P-].[P].[P].[P]
-Praseodymium pentaphosphide	[Sm].[P].[P].[P].[P].[P]
+Praseodymium pentaphosphide	[Pr+2].[P-].[P-].[P].[P].[P]
 Thorium diselenide	[Se].[Se].[Th]
 Gold phosphide	[P-3].[Au+3]
 2,3,7,8-Tetrachlorodibenzofuran	ClC1=C(Cl)C=C2C(OC3=CC(Cl)=C(Cl)C=C23)=C1
@@ -21282,3 +21282,7 @@ Sodium hexafluoroarsenate	[Na+].F[As-](F)(F)(F)(F)F
 Potassium hexafluoroantimonate	[K+].F[Sb-](F)(F)(F)(F)F
 Potassium hexafluoroarsenate	F[As-](F)(F)(F)(F)F.[K+]
 Potassium hexafluoroaluminate	F[Al-3](F)(F)(F)(F)F.[K+].[K+].[K+]
+Lithium hexafluoroaluminate	[Li+].[Li+].[Li+].[F-].[F-].[F-].F[Al](F)F
+Methionylglycine	CSCC[C@H](N)C(=O)NCC(O)=O
+Glycylmethionine	CSCCC(C(=O)O)NC(=O)CN
+Methionyl-tyrosine	CSCCC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N
