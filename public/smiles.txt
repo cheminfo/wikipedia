@@ -21282,7 +21282,9 @@ Sodium hexafluoroarsenate	[Na+].F[As-](F)(F)(F)(F)F
 Potassium hexafluoroantimonate	[K+].F[Sb-](F)(F)(F)(F)F
 Potassium hexafluoroarsenate	F[As-](F)(F)(F)(F)F.[K+]
 Potassium hexafluoroaluminate	F[Al-3](F)(F)(F)(F)F.[K+].[K+].[K+]
-Lithium hexafluoroaluminate	[Li+].[Li+].[Li+].[F-].[F-].[F-].F[Al](F)F
+Lithium hexafluoroaluminate	[Li+].[Li+].[Li+].F[Al-3](F)(F)(F)(F)F
 Methionylglycine	CSCC[C@H](N)C(=O)NCC(O)=O
 Glycylmethionine	CSCCC(C(=O)O)NC(=O)CN
 Methionyl-tyrosine	CSCCC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N
+Barium hexafluorogermanate	F[Ge-2](F)(F)(F)(F)F.[Ba+2]
+Lithium hexafluorosilicate	[Li+].[Li+].F[Si-2](F)(F)(F)(F)F
