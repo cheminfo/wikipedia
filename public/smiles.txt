@@ -21014,7 +21014,7 @@ Molybdenum nitride	[Mo].[Mo].[N]
 Gadolinium(III) nitride	[Gd]#N
 Parietinic acid	COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O
 CHEB	CCC1(C(=O)NC(=O)NC1=O)CC=C2CCCCC2
-Curium nitride	[Cm].[N]
+Curium nitride	[Cm]#N
 Triphenylbismuthine	C1=CC=C(C=C1)[Bi](C2=CC=CC=C2)C3=CC=CC=C3
 Lanthanum nitride	[La+3].[N-3]
 Promethium nitride	[Pm+3].[N-3]
@@ -21288,3 +21288,4 @@ Glycylmethionine	CSCCC(C(=O)O)NC(=O)CN
 Methionyl-tyrosine	CSCCC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N
 Barium hexafluorogermanate	F[Ge-2](F)(F)(F)(F)F.[Ba+2]
 Lithium hexafluorosilicate	[Li+].[Li+].F[Si-2](F)(F)(F)(F)F
+Barium hexafluorosilicate	F[Si-2](F)(F)(F)(F)F.[Ba+2]
