@@ -1553,7 +1553,7 @@ Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
 Methylmercury	C[Hg+]
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
-Cisplatin	[NH3+]-[Pt-2](Cl)(Cl)[NH3+]
+Cisplatin	[NH3+][Pt+2](Cl)(Cl)[NH3+]
 Pyrene	c1cc2cccc3c2c4c1cccc4cc3
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
@@ -18079,7 +18079,8 @@ Cocaine reverse ester	CC(=O)O[C@H]1[C@H](CC2CCC1N2C)OC(=O)C3=CC=CC=C3
 (Terpyridine)ruthenium trichloride	c1ccnc(c1)c2cccc(n2)c3ccccn3.[Ru+3].[Cl-].[Cl-].[Cl-]
 Triflumuron	C1=CC=C(C(=C1)C(=O)NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)Cl
 Martin's sulfurane	C1=CC=C(C=C1)C(C(F)(F)F)(C(F)(F)F)OS(C2=CC=CC=C2)(C3=CC=CC=C3)OC(C4=CC=CC=C4)(C(F)(F)F)C(F)(F)F
-Platinum(II) bis(acetylacetonate)	CC(=CC(=O)C)O.CC(=CC(=O)C)O.[Pt]
+Platinum(II) bis(acetylacetonate)	CC(=C[C-](C)O1)O[Pt+2]12OC(=C[C-](C)O2)C
+Platinum(II) bis(acetylacetonate)	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pd+2]
 Bis(trifluoromethanesulfonyl)aniline	C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
 Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
 2,2'-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
