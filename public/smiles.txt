@@ -373,6 +373,7 @@ Ziprasidone	O=C1Cc2c(N1)cc(Cl)c(c2)CCN3CCN(CC3)c4nsc5ccccc45
 Olanzapine	CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
 Benzatropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
 Propranolol	OC(COC1=C2C=CC=CC2=CC=C1)CNC(C)C
+Propranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Dinitrogen tetroxide	[O-][N+](=O)[N+]([O-])=O
 Clarithromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
 Mefloquine	FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3
@@ -11075,7 +11076,7 @@ F-15,599	Cc3cnc(nc3)CNCC(F)(CC2)CCN2C(=O)c(cc1Cl)ccc1F
 Lesopitron	Clc1cn(nc1)CCCCN3CCN(c2ncccn2)CC3
 Sunepitron	O=C1N(C(=O)CC1)CC4CCC3N(CCN(c2ncccn2)C3)C4
 Ebalzotan	O=C(NC(C)C)c2cccc1OC[C@H](N(C(C)C)CCC)Cc12
-3,4-Dichloromethylphenidate	N2CCCCC2C(C(=O)OC)c(cc1Cl)ccc1Cl
+3,4-Dichloromethylphenidate	COC(=O)C(c1ccc(c(c1)Cl)Cl)C2CCCCN2
 Repinotan	C1CC2=CC=CC=C2O[C@H]1CNCCCCN3C(=O)C4=CC=CC=C4S3(=O)=O
 Piclozotan	C1CN(CC=C1C2=CC=CC=N2)CCCCN3C(=COC4=CC=CC=C4C3=O)Cl
 4-Methylmethylphenidate	Cc2ccc(cc2)C(C(=O)OC)C1CCCCN1
@@ -14862,7 +14863,6 @@ Ericolol	CC(C)(C)NCC(COC1=C(C=CC(=C1)Cl)C2=CC(=O)CC2)O
 Eugenodilol	O(c1ccc(cc1OC)C\C=C)CC(O)CNCCOc2ccccc2OC
 Hydroxycarteolol	O=C2Nc1c(O)ccc(OCC(O)CNC(C)(C)C)c1CC2
 Cyantraniliprole	CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
-Idropranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Indopanolol	CC1=C(C2=C(N1)C=CC=C2OCC(CNCCOC3=CC=CC=C3)O)Cl
 Tetramesityldiiron	c1(C)cc(C)cc(C)c1[Fe]c2c(C)cc(C)cc2(C)
 Iprocrolol	CC(C)NCC(O)COc2c1OC(\C)=C/C(=O)c1c(O)c3CCOc23
@@ -21298,3 +21298,4 @@ Methionyl-tyrosine	CSCCC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N
 Barium hexafluorogermanate	F[Ge-2](F)(F)(F)(F)F.[Ba+2]
 Lithium hexafluorosilicate	[Li+].[Li+].F[Si-2](F)(F)(F)(F)F
 Barium hexafluorosilicate	F[Si-2](F)(F)(F)(F)F.[Ba+2]
+AF-353	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)I)OC
