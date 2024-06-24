@@ -9970,7 +9970,7 @@ Olaparib	c4cccc2c4c(n[nH]c2=O)Cc(ccc1F)cc1C(=O)N3CCN(CC3)C(=O)C5CC5
 Triisopropylamine	CC(C)N(C(C)C)C(C)C
 (R)-3-Nitrobiphenyline	c2ccc([N](=O)=O)cc2-c1ccccc1OC(C)C3=NCCN3
 Aspidophytine	O=C5O[C@@]63N2CCC[C@@]6(\C=C/[C@H]4N(c1c(ccc(OC)c1OC)[C@@]34CC2)C)C5
-Benzotriyne	C1#CC#CC#C1
+Cyclo(6)carbon	C1#CC#CC#C1
 Fast Sulphon Black F	c1ccc2c(c1)ccc(c2/N=N/c3cc(cc4c3c(c(c(c4)S(=O)(=O)O)/N=N/c5ccc(c6c5cccc6)S(=O)(=O)O)O)S(=O)(=O)O)O
 Imiloxan	CCN1C=CN=C1CC2COC3=CC=CC=C3O2
 RDS-127	CCCN(CCC)C1CC2=C(C=CC(=C2C1)OC)OC
@@ -21299,3 +21299,4 @@ Barium hexafluorogermanate	F[Ge-2](F)(F)(F)(F)F.[Ba+2]
 Lithium hexafluorosilicate	[Li+].[Li+].F[Si-2](F)(F)(F)(F)F
 Barium hexafluorosilicate	F[Si-2](F)(F)(F)(F)F.[Ba+2]
 AF-353	CC(C)C1=CC(=C(C=C1OC2=CN=C(N=C2N)N)I)OC
+Lithium hexafluorostannate	[Li+].[Li+].F[Sn-2](F)(F)(F)(F)F
