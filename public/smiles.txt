@@ -20232,7 +20232,7 @@ Iron bis(diethyldithiocarbamate)	CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].[Fe+2]
 Sodium dicarbollylcobaltate(III)	[B-H]1234[BH]5%12%13[B-H]1%10%11[BH]289[BH]367[BH]145[BH]6%14[BH]78[BH]9%10[CH]%11%12[CH]1%13%14.[B-H]1234[BH]5%12%13[B-H]1%10%11[BH]289[BH]367[BH]145[BH]6%14[BH]78[BH]9%10[CH]%11%12[CH]1%13%14.[Na+].[Co-]
 TL-301	CC(C)N(CCCl)CCCl
 3,4-Bis(trifluoromethyl)-1,2-dithiete	C1(=C(SS1)C(F)(F)F)C(F)(F)F
-Pentacyanocobaltate	N#C[Co-3](C#N)(C#N)(C#N)C#N
+Pentacyanocobaltate	[N-]#C[Co+2](C#[N-])(C#[N-])(C#[N-])C#[N-]
 Zinc perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Zn+2]
 Yttrium perchlorate	[Y+3].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Indium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[In+3]
@@ -20466,6 +20466,7 @@ Caesium selenide	[Se-2].[Cs+].[Cs+]
 Samarium(III) phosphate	[O-]P(=O)([O-])[O-].[Sm+3]
 Samarium(III) phosphate	O.[O-]P(=O)([O-])[O-].[Sm+3]
 Lithium periodate	[Li+].[O-]I(=O)(=O)=O
+Sodium astatide	[Na+].[At-]
 Tin(IV) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sn+4]
 Tin(II) acetate	CC(=O)[O-].CC(=O)[O-].[Sn+2]
 Barium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Ba+2]
@@ -21307,3 +21308,4 @@ Lithium hexafluorostannate	[Li+].[Li+].F[Sn-2](F)(F)(F)(F)F
 2,3-Butanediamine	C[C@H]([C@H](C)N)N
 IHCH-7079	CN(CCN1[C@]2([H])[C@@]3([H])CN(CCC4=CC=CC=C4OC)CC2)C5=C1C3=CC=C5
 IHCH-7086	CN(CCN1[C@]2([H])[C@@]3([H])CN(CCCC4=CC=CC=C4OC)CC2)C5=C1C3=CC=C5
+Gamithromycin	[H][C@@]1(C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)O[C@H]1[C@H](C)[C@@H](O[C@]2([H])O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)N(CCC)C[C@H](C)[C@@H](O)[C@](C)(O)[C@@H](CC)OC(=O)[C@@H]1C
