@@ -16238,8 +16238,8 @@ Cyclohexadecanone	C1CCCCCCCC(=O)CCCCCCC1
 Capmatinib	CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F
 Cyclododecanone	C1CCCCCC(=O)CCCCC1
 Fevipiprant	CC1=C(C2=C(N1CC3=C(C=C(C=C3)S(=O)(=O)C)C(F)(F)F)N=CC=C2)CC(=O)O
-Neptunocene	c1=c[cH-]c=c[cH]c=c1.[Np+4].c1=c[cH-]c=c[cH-]c=c1
-Plutonocene	c1=c[cH-]c=c[cH]c=c1.[Pu+4].c1=c[cH-]c=c[cH-]c=c1
+Neptunocene	c1=c[cH-]c=c[cH-]c=c1.[Np+4].c1=c[cH-]c=c[cH-]c=c1
+Plutonocene	c1=c[cH-]c=c[cH-]c=c1.[Pu+4].c1=c[cH-]c=c[cH-]c=c1
 GNF6702	n5ccccc5-c(cn1n4)cnc1nc4-c3cc(ccc3F)NC(=O)c2oc(C)nc2C
 4'-Fluorocannabidiol	CCCCCC1=CC(=C(C(=C1F)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
 BOMT	CC12CCC(=O)OC1C(CC3C2CCC4(C3CCC4(C)O)C)Br
@@ -16359,7 +16359,7 @@ MP-2001	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=C(C=C34)OC)OC)OC
 Vinyltestosterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]4(C=C)O)C
 3-Benzoxepin	C1=CC=C2C=COC=CC2=C1
 Cerium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Ce+3].[Ce+3]
-1,2-Dimethylethylenediamine	CNCCNC
+N,N'-Dimethylethylenediamine	CNCCNC
 1,1-Dimethylethylenediamine	CN(C)CCN
 Difluoroacetic acid	C(C(=O)O)(F)F
 Allyltestosterone	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)CC=C
