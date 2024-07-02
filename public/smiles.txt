@@ -392,7 +392,6 @@ Lead styphnate	c1c(c(c(c(c1[N+](=O)[O-])[O-])[N+](=O)[O-])[O-])[N+](=O)[O-].[Pb+
 Cortisone	O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)CC[C@]1(C)[C@H]4C(=O)C[C@@]23C
 Potassium tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[K+].[K+]
 VX (nerve agent)	CCOP(C)(=O)SCCN(C(C)C)C(C)C
-Sodium nitrate	[Na+].[O-][N+]([O-])=O
 Escitalopram	Fc1ccc(cc1)[C@@]3(OCc2cc(C#N)ccc23)CCCN(C)C
 Citalopram	Fc1ccc(cc1)C3(OCc2cc(C#N)ccc23)CCCN(C)C
 Enfuvirtide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc3c[nH]c4c3cccc4)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc5c[nH]c6c5cccc6)C(=O)N[C@@H](Cc7ccccc7)C(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](Cc8cnc[nH]8)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc9ccc(cc9)O)NC(=O)C
@@ -1506,6 +1505,7 @@ Threose	OC[C@H](O)[C@@H](O)C=O
 Erythrulose	O=C(CO)[C@H](O)CO
 Ethyl acetate	O=C(OCC)C
 Methyl acetate	O=C(OC)C
+Deprenyl	CC(CC1=CC=CC=C1)N(C)CC#C
 Sodium sulfite	[O-]S(=O)[O-].[Na+].[Na+]
 Conivaptan	c1ccccc1-c2ccccc2C(=O)Nc3ccc(cc3)C(=O)N4c5ccccc5-c6[nH]c(C)nc6CC4
 Atosiban	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]3N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CCSSC1)Cc2ccc(OCC)cc2)[C@@H](C)CC)[C@H](O)C)CC(=O)N)CCC3)CCCN
@@ -7792,6 +7792,8 @@ Nadifloxacin	CC1CCc2c(N3CCC(O)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23
 Yuehchukene	c1cccc2c1c(c[nH]2)[C@H]6c4[nH]c3ccccc3c4[C@@H]5/C=C(/C)CC(C)(C)[C@@H]56
 Azidomorphine	[N-]=[N+]=N\[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Cobalt(II) sulfate	[Co+2].[O-]S([O-])(=O)=O
+Cobalt(II) sulfate	[OH2+][Co-4]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[O-]S(=O)(=O)[O-]
+Cobalt(II) sulfate	[OH2+][Co-4]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[O-]S(=O)(=O)[O-].O
 Maropitant	O=C(O)C(O)(CC(=O)O)CC(=O)O.O.O(c1ccc(cc1CN[C@@H]2[C@@H](N3CCC2CC3)C(c4ccccc4)c5ccccc5)C(C)(C)C)C
 Calcium chromate	[Ca+2].[O-][Cr]([O-])(=O)=O
 FP-β-CPPIT	Clc1ccc(cc1)[C@H]5C[C@@H]2CC[C@@H](N2CCCF)[C@H]5c3cc(no3)c4ccccc4
@@ -21317,3 +21319,5 @@ Lithium hexafluorostannate	[Li+].[Li+].F[Sn-2](F)(F)(F)(F)F
 IHCH-7079	CN(CCN1[C@]2([H])[C@@]3([H])CN(CCC4=CC=CC=C4OC)CC2)C5=C1C3=CC=C5
 IHCH-7086	CN(CCN1[C@]2([H])[C@@]3([H])CN(CCCC4=CC=CC=C4OC)CC2)C5=C1C3=CC=C5
 Gamithromycin	[H][C@@]1(C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)O[C@H]1[C@H](C)[C@@H](O[C@]2([H])O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)N(CCC)C[C@H](C)[C@@H](O)[C@](C)(O)[C@@H](CC)OC(=O)[C@@H]1C
+Lithium hexafluoroantimonate	[Li+].F[Sb-](F)(F)(F)(F)F
+Cyclohexane-1,2,3,4,5,6-hexol	O[C@@H]1[C@@H](O)[C@H](O)[C@H](O)[C@H](O)[C@H]1O
