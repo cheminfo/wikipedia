@@ -392,6 +392,7 @@ Lead styphnate	c1c(c(c(c(c1[N+](=O)[O-])[O-])[N+](=O)[O-])[O-])[N+](=O)[O-].[Pb+
 Cortisone	O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)CC[C@]1(C)[C@H]4C(=O)C[C@@]23C
 Potassium tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[K+].[K+]
 VX (nerve agent)	CCOP(C)(=O)SCCN(C(C)C)C(C)C
+Sodium nitrate	[Na+].[O-][N+]([O-])=O
 Escitalopram	Fc1ccc(cc1)[C@@]3(OCc2cc(C#N)ccc23)CCCN(C)C
 Citalopram	Fc1ccc(cc1)C3(OCc2cc(C#N)ccc23)CCCN(C)C
 Enfuvirtide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc3c[nH]c4c3cccc4)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc5c[nH]c6c5cccc6)C(=O)N[C@@H](Cc7ccccc7)C(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](Cc8cnc[nH]8)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc9ccc(cc9)O)NC(=O)C
@@ -1581,6 +1582,7 @@ Benzimidazole	c1ccc2c(c1)[nH]cn2
 Triphosgene	ClC(Cl)(Cl)OC(=O)OC(Cl)(Cl)Cl
 Valeric acid	CCCCC(O)=O
 Cobalt(II) chloride	Cl[Co]Cl
+Cobalt(II) chloride	Cl[Co-4](Cl)([OH2+])([OH2+])([OH2+])[OH2+].O.O
 Lactitol	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@H]([C@@H](CO)O)[C@@H]([C@H](CO)O)O)O)O)O)O
 Pemetrexed	Nc3nc2[nH]cc(CCc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)c2c(=O)[nH]3
 Bromoform	BrC(Br)Br
@@ -21323,3 +21325,6 @@ Lithium hexafluoroantimonate	[Li+].F[Sb-](F)(F)(F)(F)F
 Cyclohexane-1,2,3,4,5,6-hexol	O[C@@H]1[C@@H](O)[C@H](O)[C@H](O)[C@H](O)[C@H]1O
 Trivinylboroxin	B1(OB(OB(O1)C=C)C=C)C=C
 Thallium(III) trifluoroacetate	C(=O)(C(F)(F)F)[O-].C(=O)(C(F)(F)F)[O-].C(=O)(C(F)(F)F)[O-].[Tl+3]
+Rhodium(II) trifluoroacetate	C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.[Rh].[Rh]
+ITI-333	C1CN(C[C@@H]2[C@H]1N3CC(=O)NC4=CC=CC2=C43)CCCOC5=CC=C(C=C5)F
+DM-506	CN1CCC2=C(CC1)NC3=CC=CC=C23
