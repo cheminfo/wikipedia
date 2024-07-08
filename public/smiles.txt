@@ -21328,3 +21328,6 @@ Thallium(III) trifluoroacetate	C(=O)(C(F)(F)F)[O-].C(=O)(C(F)(F)F)[O-].C(=O)(C(F
 Rhodium(II) trifluoroacetate	C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.[Rh].[Rh]
 ITI-333	C1CN(C[C@@H]2[C@H]1N3CC(=O)NC4=CC=CC2=C43)CCCOC5=CC=C(C=C5)F
 DM-506	CN1CCC2=C(CC1)NC3=CC=CC=C23
+Mizagliflozin	CC1=C(C=CC(=C1)OCCCNCC(C)(C)C(=O)N)CC2=C(NN=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(C)C
+Rongliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)[C@@H](C)O)O)O)O)Cl
+Licogliflozin	CCC1=C(C=C(C=C1)[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)CC3=CC4=C(C=C3)OCCO4
