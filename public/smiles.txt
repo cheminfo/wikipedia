@@ -9900,6 +9900,7 @@ Viqualine	COC1=CC2=C(C=CN=C2C=C1)CCC[C@@H]3CCNC[C@@H]3C=C
 EA-3580	c3ccccc3C(O)(C2CCC2)C(=O)OC1CCN(C)CC1
 CAR-226,086	CN1[C@H]2CC[C@@H]1[C@H](CC2)OC(=O)[C@@](C3CCCC3)(C4=CC=CC=C4)O
 Beryllium sulfate	[Be+2].[O-]S([O-])(=O)=O
+Beryllium sulfate	[OH2+][Be-2]([OH2+])([OH2+])[OH2+].[O-]S([O-])(=O)=O
 EA-3834	C1CN(C)CCC1OC(=O)C(O)(C(C)C)c2ccccc2
 Moroxydine	C1COCCN1C(=N)N=C(N)N
 Almagate	[Al+3].[Mg+2].[Mg+2].[Mg+2].[OH-].[OH-].[OH-].[O-]C([O-])=O.[OH-].[OH-].[OH-].[OH-].O.O
@@ -21331,3 +21332,4 @@ DM-506	CN1CCC2=C(CC1)NC3=CC=CC=C23
 Mizagliflozin	CC1=C(C=CC(=C1)OCCCNCC(C)(C)C(=O)N)CC2=C(NN=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(C)C
 Rongliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)[C@@H](C)O)O)O)O)Cl
 Licogliflozin	CCC1=C(C=C(C=C1)[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)CC3=CC4=C(C=C3)OCCO4
+Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
