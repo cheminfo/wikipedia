@@ -6761,7 +6761,7 @@ Lithium succinate	[Li+].[Li+].[O-]C(=O)CCC([O-])=O
 Colfosceril palmitate	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C)CCCCCCCCCCCCCCC
 Phenoxymethylpenicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C
 Pertechnetic acid	O[Tc](=O)(=O)=O
-Tris(8-hydroxyquinolinato)aluminium	c7ccc8cccc9O[AlH3-6]36(Oc2cccc1ccc[n+]3c12)(Oc5cccc4ccc[n+]6c45)[n+]7c89
+Tris(8-hydroxyquinolinato)aluminium	c7ccc8cccc9O[Al-3]36(Oc2cccc1ccc[n+]3c12)(Oc5cccc4ccc[n+]6c45)[n+]7c89
 Theaflavin-3-gallate	c1c(cc(=O)c(c2c1c(cc(c2O)O)[C@@H]3[C@@H](Cc4c(cc(cc4O3)O)O)O)O)[C@@H]5[C@@H](Cc6c(cc(cc6O5)O)O)OC(=O)c7cc(c(c(c7)O)O)O
 Theaflavin digallate	Oc1cc(cc(O)c1O)C(=O)Oc5c(O)cc([C@H]2Oc3cc(O)cc(O)c3C[C@H]2O)c6\C=C(/C=C(/OC(=O)c4cc(O)c(O)c(O)c4)C(=O)c56)[C@H]7Oc8cc(O)cc(O)c8C[C@H]7O
 Sulfaphenazole	O=S(=O)(c1ccc(N)cc1)Nc3ccnn3c2ccccc2
@@ -21333,3 +21333,4 @@ Mizagliflozin	CC1=C(C=CC(=C1)OCCCNCC(C)(C)C(=O)N)CC2=C(NN=C2O[C@H]3[C@@H]([C@H](
 Rongliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)[C@@H](C)O)O)O)O)Cl
 Licogliflozin	CCC1=C(C=C(C=C1)[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)CC3=CC4=C(C=C3)OCCO4
 Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
+2-MCPD	C(C(CO)Cl)O
