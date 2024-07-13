@@ -1570,7 +1570,8 @@ Linalool	CC(O)(C=C)CCC=C(C)C
 Dulcin	CCOC1=CC=C(C=C1)NC(=O)N
 Alitame	O=C(NC1C(SC1(C)C)(C)C)[C@H](NC(=O)[C@@H](N)CC(=O)O)C
 Alitame	CC(C(=O)NC1C(SC1(C)C)(C)C)NC(=O)C(CC(=O)O)N
-Manganese(II) chloride	Cl[Mn]Cl
+Manganese(II) chloride	[Mn+2].[Cl-].[Cl-]
+Manganese(II) chloride	Cl[Mn-4]([OH2+])(Cl)([OH2+])([OH2+])[OH2+]
 Dysprosium(III) chloride	Cl[Dy](Cl)Cl
 Butyrylcholine	O=C(CCC)OCC[N+](C)(C)C
 Isoquinoline	C1(C=NC=C2)=C2C=CC=C1
@@ -1689,7 +1690,8 @@ Selenomethionine	C[Se]CCC(C(=O)O)N
 Acetylacetone	O=C(C)CC(=O)C
 Acetylacetone	CC(O)=CC(=O)C
 Phosalone	Clc2ccc1c(OC(=O)N1CSP(=S)(OCC)OCC)c2
-Nickel(II) chloride	Cl[Ni]Cl
+Nickel(II) chloride	[Ni+2].[Cl-].[Cl-]
+Nickel(II) chloride	Cl[Ni-4](Cl)([OH2+])([OH2+])([OH2+])[OH2+].O.O
 Iron(II) chloride	Cl[Fe]Cl
 Iron(II) chloride	Cl[Fe-4](Cl)([OH2+])([OH2+])([OH2+])[OH2+]
 Isoxathion	S=P(Oc2noc(c1ccccc1)c2)(OCC)OCC
@@ -3737,7 +3739,8 @@ Hitachimycin	O[C@H]1CC\C=C\C[C@H](NC(=O)\C=C\C=C\C(\C)=C/[C@H]2C[C@H](OC)C(\O)=C
 Rubidium fluoride	[Rb+].[F-]
 1,5-Cyclooctadiene	C1CC=CCCC=C1
 Hesperidin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C)[C@@H](O)[C@H](O)[C@H]2O)cc5O[C@H](c3ccc(OC)c(O)c3)C4
-Chromium(II) chloride	Cl[Cr]Cl
+Chromium(II) chloride	[Cr+2].[Cl-].[Cl-]
+Chromium(II) chloride	Cl[Cr-4](Cl)([OH2+])([OH2+])([OH2+])[OH2+]
 Pralidoxime	ON=Cc1cccc[n+]1C
 Silver(I,III) oxide	[Ag]O[Ag].O=[Ag]O[Ag]=O
 S-Allylcysteine	O=C(O)[C@@H](N)CSC\C=C
@@ -4047,8 +4050,8 @@ Neopentyl alcohol	CC(CO)(C)C
 Vanadocene dichloride	[cH-]1cccc1.[cH-]1cccc1.Cl[V+2]Cl
 Vanadium tetrachloride	Cl[V](Cl)(Cl)Cl
 Sodium hexanitritocobaltate(III)	[Na+].[Na+].[Na+].O=[N+]([O-])[Co-3]([N+]([O-])=O)([N+](=O)[O-])([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O
-Vanadium(III) chloride	[V+3].[Cl-].[Cl-].[Cl-]
-Vanadium(III) chloride	O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[V+3]
+Vanadium(III) chloride	Cl[V](Cl)Cl
+Vanadium(III) chloride	Cl[V-3](Cl)([OH2+])([OH2+])([OH2+])[OH2+].[Cl-].O.O
 Pentetic acid	C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O
 Uranium pentafluoride	[U+5].[F-].[F-].[F-].[F-].[F-]
 Molybdenum(V) chloride	Cl[Mo](Cl)(Cl)(Cl)Cl
@@ -4215,8 +4218,8 @@ Mexiletine	O(c1c(cccc1C)C)CC(N)C
 Zinc hydroxide	[Zn+2].[OH-].[OH-]
 Zinc nitride	[N-]=[Zn].[N-]=[Zn].[Zn+2]
 Yttrium(III) fluoride	F[Y](F)F
-Yttrium(III) chloride	Cl[Y](Cl)Cl
-Yttrium(III) chloride	O.O.O.O.O.O.Cl[Y](Cl)Cl
+Yttrium(III) chloride	[Y+3].[Cl-].[Cl-].[Cl-]
+Yttrium(III) chloride	[OH2+][Y-3]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[Cl-].[Cl-].[Cl-]
 Yttrium(III) bromide	Br[Y](Br)Br
 Ytterbium(III) fluoride	F[Yb](F)F
 Ytterbium(III) chloride	Cl[Yb](Cl)Cl
@@ -4858,6 +4861,7 @@ Phosmet	O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
 Creatine methyl ester	O=C(OC)CN(C(=[N@H])N)C
 Gallium(III) chloride	Cl[Ga](Cl)Cl
 Gallium(III) chloride	Cl[Ga-]1(Cl)[Cl+][Ga-]([Cl+]1)(Cl)Cl
+Gallium(III) chloride	Cl[Ga-](Cl)(Cl)[OH2+]
 Glutaconic acid	O=C(O)\C=C\CC(=O)O
 Chlordiazepoxide	ClC1=CC2=C(N=C(NC)C[N+]([O-])=C2C3=CC=CC=C3)C=C1
 Oleoyl-estrone	CCCCCCCC\C=C/CCCCCCCC(=O)c3cc(O)cc4CC[C@@H]2[C@H](CC[C@]1(C)C(=O)CC[C@H]12)c34
@@ -8434,7 +8438,7 @@ Methoxyphenamine	CC(CC1=CC=CC=C1OC)NC
 Mabuterol	Clc1cc(cc(c1N)C(F)(F)F)C(O)CNC(C)(C)C
 Higenamine	Oc1ccc(cc1)CC3c2c(cc(O)c(O)c2)CCN3
 Cimaterol	CC(C)NCC(C1=CC(=C(C=C1)N)C#N)O
-Broxaterol	CC(C)(C)NCC(O)C1=CC(Br)=NO1
+Broxaterol	CC(C)(C)NCC(C1=CC(=NO1)Br)O
 Bromoacetylalprenololmenthane	CC(C)(NC(=O)CBr)C1CCC(C)(CC1)NCC(O)COC1=CC=CC=C1CC=C
 Spiradoline	CN([C@H]1CC[C@@]2(CCCO2)C[C@@H]1N3CCCC3)C(=O)CC4=CC(=C(C=C4)Cl)Cl
 Xanomeline	CCCCCCOC1=NSN=C1C2=CCCN(C2)C
