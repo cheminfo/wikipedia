@@ -1529,7 +1529,7 @@ Cryogenine	O=C/4O[C@H]5C[C@@H]1N(CCCC1)[C@H](c2cc(OC)c(OC)cc2c3c(O)ccc(c3)\C=C\4
 Paraldehyde	CC1OC(C)OC(C)O1
 Ofloxacin	Fc4cc1c2N(/C=C(\C1=O)C(=O)O)C(COc2c4N3CCN(C)CC3)C
 Tin(IV) chloride	Cl[Sn](Cl)(Cl)Cl
-Tin(IV) chloride	Cl[Sn-2](Cl)(Cl)(Cl)([OH2+])[OH2+].O.O.O
+Tin(IV) chloride	Cl[Sn-2](Cl)(Cl)([OH2+])([OH2+])Cl.O.O.O
 Enflurane	FC(Cl)C(F)(F)OC(F)F
 T-2 mycotoxin	O=C(O[C@@H]4C(=C/[C@H]3O[C@H]2[C@]1(OC1)[C@]([C@H](OC(=O)C)[C@H]2O)([C@@]3(COC(=O)C)C4)C)\C)CC(C)C
 Leuprorelin	CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc2ccc(cc2)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@@H]6CCC(=O)N6
@@ -2541,6 +2541,7 @@ Anserine	O=C(O)[C@@H](NC(=O)CCN)Cc1cncn1C
 Chromium(III) oxide	O=[Cr]O[Cr]=O
 Aluminium bromide	Br[Al](Br)Br
 Aluminium bromide	Br[Al-]1(Br)[Br+][Al-]([Br+]1)(Br)Br
+Aluminium bromide	[OH2+][Al-3]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[Br-].[Br-].[Br-]
 Platinum hexafluoride	F[Pt](F)(F)(F)(F)F
 Salen ligand	C1=CC=C(C(=C1)/C=N/CC/N=C/C2=CC=CC=C2O)O
 Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2
@@ -5487,7 +5488,7 @@ Ethanedisulfonic acid	OS(=O)(=O)CCS(=O)(=O)O
 Dirlotapide	FC(F)(F)c1ccc(cc1)c2ccccc2C(=O)Nc3cc4c(cc3)n(c(c4)C(=O)N[C@@H](c5ccccc5)C(=O)N(Cc6ccccc6)C)C
 Cyclooctane	C1CCCCCCC1
 Phenylacetylcarbinol	CC(=O)[C@@H](C1=CC=CC=C1)O
-Ambroxol	O[C@H]2CC[C@H](NCc1cc(Br)cc(Br)c1N)CC2
+Ambroxol	C1CC(CCC1NCC2=C(C(=CC(=C2)Br)Br)N)O
 Thebacon	CC(=O)OC1=CC[C@H]2[C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)OC)CCN3C
 Ursolic acid	O=C(O)[C@@]54[C@H](/C3=C/C[C@H]1[C@](CC[C@@H]2[C@]1(C)CC[C@H](O)C2(C)C)(C)[C@]3(C)CC4)[C@@H](C)[C@H](C)CC5
 Halofantrine	FC(F)(F)c3ccc2c(cc1c(Cl)cc(Cl)cc1c2c3)C(O)CCN(CCCC)CCCC
@@ -20944,7 +20945,6 @@ Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 Metamitron	CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
 Cis-1,3,3,3-Tetrafluoropropene	C(=C\F)\C(F)(F)F
 Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CCCN)C=CC=N3)C4=CC=C(C=C4)C(=O)O)CC5=CNC6=CC=CC=C65
-Indium(I) chloride	[Cl-].[In+]
 Promethocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Pm+3]
 Scandocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Sc+3]
 Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
@@ -21343,3 +21343,4 @@ Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
 Tetrachloroethylene carbonate	C1(=O)OC(C(O1)(Cl)Cl)(Cl)Cl
 Imidaclothiz	C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl
 Paichongding	CCCOC1CC(C(=C2N1CCN2CC3=CN=C(C=C3)Cl)[N+](=O)[O-])C
+Sagopilone	C[C@H]1CCC[C@@]2([C@@H](O2)C[C@H](OC(=O)C[C@@H](C(C(=O)[C@@H]([C@H]1O)CC=C)(C)C)O)C3=CC4=C(C=C3)SC(=N4)C)C
