@@ -335,7 +335,7 @@ Iron(II) sulfate	[Fe+2].[O-]S([O-])(=O)=O
 Iron(II) sulfate	[OH2+][Fe-4]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[O-]S(=O)(=O)[O-].O
 Choline	C[N+](C)(C)CCO
 Chlorite	[O-][Cl+][O-]
-Tacrolimus	O=C3C(=O)N1CCCC[C@H]1C(=O)O[C@H](C(=C/[C@@H]2CC[C@@H](O)[C@H](OC)C2)/C)[C@H](C)[C@@H](O)CC(=O)[C@@H](/C=C(/C[C@@H](C[C@H](OC)[C@H]4O[C@]3(O)[C@H](C)C[C@@H]4OC)C)C)C\C=C
+Tacrolimus	O(C)[C@@H]1[C@@]2(O[C@](O)([C@H](C)C1)C(=O)C(=O)N3[C@](C(=O)O[C@H](\C(=C\[C@H]4C[C@@H](OC)[C@H](O)CC4)\C)[C@H](C)[C@@H](O)CC(=O)[C@H](CC=C)/C=C(\C)/C[C@H](C)C[C@@H]2OC)(CCCC3)[H])[H]
 Potassium chloride	[Cl-].[K+]
 Methaqualone	Cc1ccccc1-n1c(C)nc2ccccc2c1=O
 Magnesium oxide	O=[Mg]
@@ -1562,8 +1562,8 @@ Cisplatin	[NH3+][Pt+2](Cl)(Cl)[NH3+]
 Pyrene	c1cc2cccc3c2c4c1cccc4cc3
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
-Sodium thiosulfate	[Na+].[Na+].[O-]S([O-])(=O)=S
-Sodium thiosulfate	O.O.O.O.O.O=S([O-])([O-])=S.[Na+].[Na+]
+Sodium thiosulfate	[Na+].[Na+].[O-]S(=O)(=O)[S-]
+Sodium thiosulfate	O.O.O.O.O.[Na+].[Na+].[O-]S(=O)(=O)[S-]
 Lithium diisopropylamide	[Li+].CC(C)[N-]C(C)C
 Lithium diisopropylamide	CC(C)N([Li])C(C)C
 Lithium diisopropylamide	C1CCC[O+]1[Li-2]0[N+](C(C)C)(C(C)C)[Li-2]([O+]1CCCC1)[N+]0(C(C)C)C(C)C
@@ -7069,6 +7069,7 @@ Alclofenac	Clc1cc(ccc1OC\C=C)CC(=O)O
 Kebuzone	CC(=O)CCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3
 Bucillamine	CC(C)(S)C(=O)NC(CS)C(=O)O
 Aurotioprol	C(C(CS(=O)(=O)[O-])O)[S-].[Na+].[Au+]
+Sodium aurothiosulfate	[Na+].[Na+].[Na+].[O-]S(=O)(=O)S[Au-]SS(=O)(=O)[O-].O.O
 Oxycinchophen	O=C(O)c1c3ccccc3nc(c1O)c2ccccc2
 Fenamic acid	C1=CC=C(C=C1)NC2=CC=CC=C2C(=O)O
 Norboletone	O=C4\C=C3/[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@@]1(O)CC)[C@@H]2CC3)CC)CC4
@@ -7155,7 +7156,7 @@ Ceftobiprole	C1CNC[C@@H]1N2CC/C(=C\C3=C(N4[C@@H]([C@@H](C4=O)NC(=O)/C(=N\O)/c5nc
 Acetoxyketobemidone	O=C(CC)C1(CCN(C)CC1)c2cccc(OC(C)=O)c2
 Methylketobemidone	O=C(C2(c1cccc(O)c1)CCN(C)CC2)C
 Propylketobemidone	O=C(CCC)C1(CCN(C)CC1)c2cccc(O)c2
-Thiosulfuric acid	O=S(=S)(O)O
+Thiosulfuric acid	OS(=O)(=O)S
 Lennoxamine	COC1=C(OC)C2=C(C=C1)C1CC3=C(CCN1C2=O)C=C1OCOC1=C3
 Herkinorin	O=C(OC)[C@H]3[C@@]4(CC[C@H]5C(=O)O[C@H](c1ccoc1)C[C@@]5([C@H]4C(=O)[C@@H](OC(=O)c2ccccc2)C3)C)C
 Allylprodine	O=C(CC)OC1(CCN(C)CC1CC=C)C2=CC=CC=C2
