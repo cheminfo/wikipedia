@@ -20076,7 +20076,7 @@ Metaphedrine	CC1=CC(=CC=C1)CC(C)NC
 S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
-Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].[Bi+3].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-]
+Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].Br[Bi-3](Br)(Br)(Br)(Br)Br
 2-Methoxyethoxymethyl chloride	COCCOCCl
 4-686-293-01	[Br-].[Br-].C[N+](Cc1ncccc1OC(=O)N(C)C)(CC)CCCCCCCCCC[N+](C)(Cc1ncccc1OC(=O)N(C)C)CC
 Chloromethyl methyl sulfide	CSCCl
@@ -20309,7 +20309,7 @@ Indium(II) chloride	[In+].[In+3].[Cl-].[Cl-].[Cl-].[Cl-]
 N,N'-Diallyl-L-tartardiamide	C=CCNC(=O)C(C(C(=O)NCC=C)O)O
 Osmium tetrasulfide	S=[Os](=S)(=S)=S
 Cerium monosulfide	S=[Ce]
-Ytterbium(II) sulfide	[S].[Yb]
+Ytterbium(II) sulfide	[Yb+2].[S-2]
 Ytterbium(III) sulfide	[Yb].[S]
 LIT-001	CC1=C(C=CC(=C1)C(=O)N2CC3=C(NC4=CC=CC=C42)N(N=C3)C)CNC(=O)N5CCC[C@H]5C(=S)N(C)C
 Ytterbium(II) fluoride	[F-].[F-].[Yb+2]
@@ -21111,6 +21111,7 @@ Caesium heptafluoroxenate	[Cs+].F[Xe-](F)(F)(F)(F)(F)F
 RS134-49	CC1=C2C(=CC=C1)NC=C2C3=CCCNC3
 Dichloroiodomethane	ClC(I)Cl
 Cis-Urocanic acid	C1=C(NC=N1)/C=C\C(=O)O
+Caesium phosphide	[Cs+].[Cs+].[Cs+].[P-]1P2P3[P-]P1[P-]P23
 Hexakis(trimethylphosphine)tungsten	C[P+](C)(C)[W-6]([P+](C)(C)C)([P+](C)(C)C)([P+](C)(C)C)([P+](C)(C)C)[P+](C)(C)C
 Caesium zirconate	[O-][Zr](=O)[O-].[Cs+].[Cs+]
 Neptunium(III) phosphide	[Np]#P
