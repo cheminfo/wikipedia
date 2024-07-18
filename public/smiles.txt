@@ -6296,7 +6296,7 @@ Methylcrotonyl-CoA	CC(=CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@
 3-Methylglutaconyl-CoA	CC(=CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O)CC(=O)O
 Bromoacetic acid	C(C(=O)O)Br
 Glutaryl-CoA	O=C(O)CCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
-Crotonyl-CoA	O=S(=O)(c1ccc(cc1)C)N(CC(C)C)[C@H](C(=O)OC)CCCCNC(=O)[C@@H](NS(=O)(=O)c2ccc(cc2)C)Cc4c3ccccc3[nH]c4
+Crotonyl-CoA	CC=CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
 Imidazol-4-one-5-propionic acid	O=C1N\C=N/C1CCC(=O)O
 Formiminoglutamic acid	C(CC(=O)O)C(C(=O)O)N=CN
 1-Pyrroline-5-carboxylic acid	O=C(O)C1/N=C\CC1
@@ -21346,3 +21346,4 @@ Tetrachloroethylene carbonate	C1(=O)OC(C(O1)(Cl)Cl)(Cl)Cl
 Imidaclothiz	C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl
 Paichongding	CCCOC1CC(C(=C2N1CCN2CC3=CN=C(C=C3)Cl)[N+](=O)[O-])C
 Sagopilone	C[C@H]1CCC[C@@]2([C@@H](O2)C[C@H](OC(=O)C[C@@H](C(C(=O)[C@@H]([C@H]1O)CC=C)(C)C)O)C3=CC4=C(C=C3)SC(=N4)C)C
+Caesium fluoroaluminate	O=[Cr](=O)=O
