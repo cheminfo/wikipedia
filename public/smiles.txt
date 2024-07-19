@@ -20946,6 +20946,7 @@ Isofalcarintriol	[C@H]([C@@H](/C=C/CCCCCC)O)(C#CC#C[C@H](CC)O)O
 Metamitron	CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
 Cis-1,3,3,3-Tetrafluoropropene	C(=C\F)\C(F)(F)F
 Zosurabalpin	CN1[C@H](C(=O)NCC2=C(C=CC=C2SC3=C(CN[C@H](C(=O)N[C@H](C1=O)CCCCN)CCCN)C=CC=N3)C4=CC=C(C=C4)C(=O)O)CC5=CNC6=CC=CC=C65
+Indium(I) chloride	Cl[In]
 Promethocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Pm+3]
 Scandocene	c1ccc[cH-]1.c2ccc[cH-]2.c3ccc[cH-]3.[Sc+3]
 Pelubiprofen	CC(C1=CC=C(C=C1)/C=C/2\CCCCC2=O)C(=O)O
@@ -21347,3 +21348,6 @@ Imidaclothiz	C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl
 Paichongding	CCCOC1CC(C(=C2N1CCN2CC3=CN=C(C=C3)Cl)[N+](=O)[O-])C
 Sagopilone	C[C@H]1CCC[C@@]2([C@@H](O2)C[C@H](OC(=O)C[C@@H](C(C(=O)[C@@H]([C@H]1O)CC=C)(C)C)O)C3=CC4=C(C=C3)SC(=N4)C)C
 Caesium fluoroaluminate	O=[Cr](=O)=O
+Thallium(I) hexafluorophosphate	F[P-](F)(F)(F)(F)F.[Tl+]
+Tetrahydrofuranitazene	CCN(CC)CCN1C(CC2=CC=C(OCC3)C3=C2)=NC4=CC([N+]([O-])=O)=CC=C14
+Secbutonitazene	CCC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
