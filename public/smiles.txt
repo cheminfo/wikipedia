@@ -10764,6 +10764,7 @@ Ubenimex	CC(C)C[C@@H](C(=O)O)NC(=O)[C@H]([C@@H](CC1=CC=CC=C1)N)O
 Integrasone	O=C1O[C@H](CCCCCC)C2=C1[C@@H](O)[C@@H]3[C@@H](O3)[C@@H]2O
 Diphenylhexatriene	C1=CC=C(C=C1)/C=C/C=C/C=C/C2=CC=CC=C2
 Telomestatin	CC1=C(C2=NC(C3=NC(C4=NC(C5=NC(C6=NC(C7=NC(C8=N[C@@]9([H])CS8)=CO7)=CO6)=CO5)=CO4)=CO3)=C(C)O2)N=C9O1
+D-Phenylalanine	C1=CC=C(C=C1)C[C@H](C(=O)O)N
 Disulfite	[O-][S+2]([O-])([O-])[S+]([O-])[O-]
 Chloramben	C1=C(C=C(C(=C1N)Cl)C(=O)O)Cl
 Merrilactone A	O=C2OC[C@]3([C@]54OC(=O)C[C@@]51[C@](O[C@H]1[C@@]23C)([C@@H](O)C4)C)C
@@ -11751,6 +11752,7 @@ Allylbenzene	C=CCC1=CC=CC=C1
 Isocoumarin	O=C2O\C=C/c1c2cccc1
 Hexacyclinol	O=C5[C@]34[C@H](\C=C2\C(=O)[C@H]1O[C@H]1[C@H](O)[C@H]2[C@@H]3[C@@H](O[C@@H]4\C=C(/C)C)[C@@H]6O[C@H]56)C(OC)(C)C
 Gastrodin	O(c1ccc(cc1)CO)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
+Samarium monosulfide	[S-2].[Sm+2]
 Oxaziridine	C1NO1
 (1,1'-Bis(diphenylphosphino)ferrocene)palladium(II) dichloride	[CH-]1C=CC=C1P(C2=CC=CC=C2)C3=CC=CC=C3.[CH-]1C=CC=C1P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Pd]Cl.[Fe+2]
 Triformin	C(C(COC=O)OC=O)OC=O
@@ -21378,3 +21380,5 @@ Palustric acid	CC(C)C1=CC2=C(CC1)[C@]3(CCC[C@@]([C@@H]3CC2)(C)C(=O)O)C
 Calcium(I) fluoride	[Ca]F
 Pinocarvone	CC1(C2CC1C(=C)C(=O)C2)C
 2C-T-21.5	COC1=CC(=C(C=C1CCN)OC)SCCC(F)F
+Neodymium monosulfide	[Nd].[S]
+Praseodymium monosulfide	[S-2].[Pr+2]
