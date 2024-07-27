@@ -1648,8 +1648,8 @@ MCPA	Cl-C1=CC=C(OCC(=O)O)C(C)=C1
 Sesamex	O1c2ccc(OC(OCCOCCOCC)C)cc2OC1
 Anisole	COc1ccccc1
 Methazole	CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl
-Copper(II) chloride	Cl[Cu]Cl
 Copper(II) chloride	[Cu+2].[Cl-].[Cl-]
+Copper(II) chloride	Cl[Cu-2](Cl)([OH2+])[OH2+]
 Tungsten trioxide	O=[W](=O)=O
 Titanium carbide	[Ti+]#[C-]
 Nimesulide	[O-][N+](=O)c2cc(Oc1ccccc1)c(cc2)NS(=O)(=O)C
@@ -18966,7 +18966,7 @@ Tin(IV) nitrate	[N+](=O)([O-])O[Sn](O[N+](=O)[O-])(O[N+](=O)[O-])O[N+](=O)[O-]
 Mobocertinib	CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
 Otenaproxesul	COC1=CC2=CC=C(C=C2C=C1)C(C)C(=O)OC3=CC=C(C=C3)C(N)=S
 Cotadutide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)N)C(=O)O
-Nitryl chloride	[NH+](=O)[O-].[Cl-]
+Nitryl chloride	[O-][N+](=O)Cl
 4-ANPP	C1CN(CCC1NC2=CC=CC=C2)CCC3=CC=CC=C3
 Tabernanthalog	CN1CCC2=C(CC1)NC3=C2C=CC(=C3)OC
 Ammonium propionate	CCC(=O)[O-].[NH4+]
@@ -21382,3 +21382,4 @@ Pinocarvone	CC1(C2CC1C(=C)C(=O)C2)C
 2C-T-21.5	COC1=CC(=C(C=C1CCN)OC)SCCC(F)F
 Neodymium monosulfide	[Nd].[S]
 Praseodymium monosulfide	[S-2].[Pr+2]
+Lanthanum monosulfide	[S-2].[La+2]
