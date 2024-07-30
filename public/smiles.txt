@@ -1665,6 +1665,7 @@ DAPI	[H]/N=C(/c1ccc(cc1)c2cc3ccc(cc3[nH]2)/C(=N/[H])/N)\N
 Aprepitant	FC(F)(F)c1cc(cc(c1)C(F)(F)F)[C@H](O[C@H]4OCCN(CC/2=N/C(=O)NN\2)[C@H]4c3ccc(F)cc3)C
 Crystal violet	[Cl-].CN(C)c1ccc(cc1)[C+](c1ccc(cc1)N(C)C)c1ccc(cc1)N(C)C
 Chromium(III) chloride	Cl[Cr](Cl)Cl
+Chromium(III) chloride	Cl[Cr-3](Cl)([OH2+])([OH2+])([OH2+])[OH2+].[Cl-].O.O
 Mercury(II) oxide	[Hg]=O
 Desipramine	c1cc3c(cc1)CCc2c(cccc2)N3CCCNC
 Methyl butyrate	CCCC(=O)OC
@@ -4296,7 +4297,7 @@ Ethoxzolamide	O=S(=O)(c1nc2ccc(OCC)cc2s1)N
 Ethionamide	S=C(c1ccnc(c1)CC)N
 Acridine orange	n1c3c(cc2c1cc(N(C)C)cc2)ccc(c3)N(C)C
 Thiamphenicol	ClC(Cl)C(=O)N[C@@H]([C@H](O)c1ccc(cc1)S(=O)(=O)C)CO
-Germanium telluride	[Te]=[Ge]=[Te]
+Germanium telluride	[Ge]=[Te]
 Chromocene	[Cr+2].[cH-]1cccc1.c1[cH-]ccc1
 Cobalt(II) oxide	[Co]=O
 Cobalt(II) oxide	[Co+2].[O-2]
@@ -21390,4 +21391,10 @@ Dimethylaziridine carboxylic acid	CC1([C@H](N1)C(=O)O)C
 Lanthanum(III) sulfide	[S-2].[S-2].[S-2].[La+3].[La+3]
 Promethium(III) sulfide	[Pm+3].[Pm+3].[S-2].[S-2].[S-2]
 Promethium monosulfide	[Pm].[S]
+TH-030418	OC1=C(O[C@H]2C(OC)(C=C6)C(C(O)(C)CCC7=CC=CS7)CC36[C@@]42CCN5C)C4=C(C[C@H]35)C=C1
+TH-030418	OC1=C(O[C@H]2C(OC)(CC6)=CCC36[C@@]42CCN5C)C4=C(C[C@H]35)C=C1
+TH-030418	C(O)(C)CCC7=CC=CS7
+TH-030418	OC1=C(O[C@H]2C(OC)(CC6)C(C(O)(C)CCC7=CC=CS7)CC36[C@@]42CCN5C)C4=C(C[C@H]35)C=C1
 Holmium monosulfide	[Ho].[S]
+Dysprosium monosulfide	[Dy].S
+Desmethylselegiline	CC(CC1=CC=CC=C1)NCC#C
