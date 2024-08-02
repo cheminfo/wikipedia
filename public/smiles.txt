@@ -4046,6 +4046,7 @@ Bretazenil	O=C(OC(C)(C)C)c1ncn2c4c(C(=O)N3[C@H](c12)CCC3)c(Br)ccc4
 Pagoclone	Clc1nc2nc(ccc2cc1)N4C(=O)c3ccccc3C4CC(=O)CCC(C)C
 Caesium chromate	[Cs+].[Cs+].[O-][Cr]([O-])(=O)=O
 Tellurium tetrachloride	Cl[Te](Cl)(Cl)Cl
+Tellurium tetrachloride	[Cl+2]12[Te-2](Cl)(Cl)(Cl)3[Cl+2]4[Te-2](Cl)(Cl)(Cl)1[Cl+2]5[Te-2](Cl)(Cl)(Cl)2[Cl+2]3[Te-2]45(Cl)(Cl)(Cl)
 Antimony pentachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[SbH3+3]
 Disilane	[SiH3][SiH3]
 Xenon difluoride	F[Xe]F
@@ -12493,7 +12494,8 @@ Esuprone	O=S(=O)(Oc2ccc\1c(OC(=O)/C(=C/1C)C)c2)CC
 Canertinib	Fc1ccc(cc1Cl)Nc4ncnc3cc(OCCCN2CCOCC2)c(NC(=O)\C=C)cc34
 Withaferin A	O=C/1O[C@H](CC(=C\1CO)\C)[C@@H](C)[C@H]6CC[C@@H]4[C@]6(C)CC[C@@H]3[C@]5(C(=O)\C=C/[C@H](O)[C@]52O[C@@H]2C[C@H]34)C
 Trisulfane	SSS
-(2,4,6-Trimethylphenyl)gold	Cc1cc(C)c([Au])c(C)c1
+(2,4,6-Trimethylphenyl)gold	CC1=CC(C)=C([Au])C(C)=C1
+(2,4,6-Trimethylphenyl)gold	[Au+]1[C-]2(=C(C)C=C(C)C=C2(C))[Au+][C-]3(=C(C)C=C(C)C=C3(C))[Au+][C-]4(=C(C)C=C(C)C=C4(C))[Au+][C-]5(=C(C)C=C(C)C=C5(C))[Au+][C-]16(=C(C)C=C(C)C=C6(C))
 Naloxol	OC1=C2C3=C(C=C1)C[C@@H]4[C@]5(O)CC[C@H](O)[C@H](O2)[C@@]53CCN4CC=C
 Naloxol	OC1=C2C3=C(C=C1)C[C@@H]4[C@]5(O)CC[C@@H](O)[C@H](O2)[C@@]53CCN4CC=C
 Geranylgeraniol	OC/C=C(/CC/C=C(/CC\C=C(/C)CC\C=C(/C)C)C)C
@@ -21408,3 +21410,6 @@ Pocapavir	COC1=CC(=C(C=C1)OCC2=CC=C(C=C2)COC3=C(C=CC=C3Cl)Cl)Cl
 Diiodine tetroxide	O=IOI(=O)=O
 Tris-biphenyl triazine	C1=CC=C(C=C1)C2=CC=C(C=C2)C3=NC(=NC(=N3)C4=CC=C(C=C4)C5=CC=CC=C5)C6=CC=C(C=C6)C7=CC=CC=C7
 Thiocyanuric acid	C1(=S)NC(=S)NC(=S)N1
+Methanesulfonyl azide	CS(=O)(=O)N=[N+]=[N-]
+Diiodine hexaoxide	O=[I+]=O.O=[I+](=O)(=O)=O
+Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
