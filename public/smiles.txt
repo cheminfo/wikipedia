@@ -3406,7 +3406,7 @@ Emylcamate	O=C(OC(C)(CC)CC)N
 Alclometasone	C[C@@H]1C[C@H]2[C@@H]3[C@@H](CC4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)C)Cl
 Phytol	C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C
 Di-tert-butyl dicarbonate	O=C(OC(=O)OC(C)(C)C)OC(C)(C)C
-Plutonium tetrafluoride	F[Pu](F)(F)F
+Plutonium(IV) fluoride	F[Pu](F)(F)F
 Phenprobamate	O=C(OCCCc1ccccc1)N
 Metharbital	O=C1N(C(=O)NC(=O)C1(CC)CC)C
 Ethoxyquin	O(c2ccc1c(\C(=C/C(N1)(C)C)C)c2)CC
@@ -3500,7 +3500,7 @@ Porphine	C1=CC2=CC5=CC=C(C=C4C=CC(C=C3C=CC(=CC1=N2)N3)=N4)N5
 Copper(II) arsenate	[Cu+2].[Cu+2].[Cu+2].[O-][As]([O-])(=O)[O-].[O-][As]([O-])([O-])=O
 Monosodium methyl arsonate	C[As](=O)(O)[O-].[Na+]
 TASF reagent	F[Si-](F)(C)(C)C.N([S+](N(C)C)N(C)C)(C)C
-Scheele's Green	[Cu+2].[O-][As]([O-])O
+Scheele's green	[Cu+2].[O-][As]([O-])O
 Euxanthic acid	OC(=O)[C@H]4O[C@@H](Oc1ccc2Oc3cccc(O)c3C(=O)c2c1)[C@H](O)[C@@H](O)[C@@H]4O
 Euxanthone	c1cc(c2c(c1)oc3ccc(cc3c2=O)O)O
 Chlorotrifluoromethane	ClC(F)(F)F
@@ -5745,8 +5745,7 @@ HOT-17	CC(CC)Sc1cc(OC)c(cc1OC)CCNO
 Thymol blue	O=S2(=O)OC(c1ccccc12)(c3cc(c(O)cc3C)C(C)C)c4cc(c(O)cc4C)C(C)C
 Cholesteryl oleyl carbonate	O=C(OCCCCCCCC\C=C/CCCCCCCC)O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Cholesteryl oleyl carbonate	C[C@H](CCCC(C)C)[C@H]4CC[C@@]3([H])[C@]2([H])CC=C1C[C@@H](OC(OCCCCCCCC/C=C\CCCCCCCC)=O)CC[C@@](C)1[C@]([H])2CC[C@@]34C
-Cholesteryl benzoate	O=C(O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4)c5ccccc5
-Cholesteryl benzoate	C[C@H](CCCC(C)C)[C@H]4CC[C@@]3([H])[C@]2([H])CC=C1C[C@@H](OC(c5ccccc5)=O)CC[C@@](C)1[C@]([H])2CC[C@@]34C
+Cholesteryl benzoate	c1ccccc1C(=O)O[C@@H]2C/C3=C/C[C@@H]4[C@@H]([C@@]3(C)CC2)CC[C@@]5(C)[C@H]4CC[C@@H]5[C@H](C)CCCC(C)C
 Cholesteryl chloride	CC(C)CCC[C@@H](C)[C@H]4CC[C@@H]3[C@]4(C)CC[C@H]2[C@H]3C\C=C1\CC(Cl)CC[C@@]12C
 Cholesteryl chloride	Cl[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Pinocembrin	O=C2c3c(OC(c1ccccc1)C2)cc(O)cc3O
@@ -9774,7 +9773,7 @@ Nemifitide	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)N)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=
 Α-Hexachlorocyclohexane	Cl[C@H]1[C@@H](Cl)[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl
 EDTMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CP(=O)(O)O)CP(=O)(O)O
 DTPMP	O=P(O)(O)CN(CP(=O)(O)O)CCN(CCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O
-4-Cyano-4'-pentylbiphenyl	N#Cc2ccc(c1ccc(cc1)CCCCC)cc2
+4-Cyano-4'-pentylbiphenyl	N#Cc1ccc(cc1)c2ccc(cc2)CCCCC
 3,4-Dihydroxyphenylacetaldehyde	Oc1ccc(CC=O)cc1O
 Homovanillyl alcohol	Oc1ccc(cc1OC)CCO
 1,2-Bis(dimethylphosphino)ethane	P(C)(C)CCP(C)C
@@ -20182,6 +20181,7 @@ Sulfur dicyanide	C(#N)SC#N
 Aluminium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Al+3]
 Magnesium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Mg+2]
 Fipravirimat	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(CC=C(C5(C)C)C6=CC[C@@](CC6)(CF)C(=O)O)C)C)NCCN7CCS(=O)(=O)CC7
+Razpipadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)OC(F)F)C3=C(C(=O)NC(=O)N3C)C
 Darigabat	CCN1C=NC2=C1N=NC=C2C3=CC(=C(C=C3)F)C4=C(C=C(C=C4)S(=O)(=O)CC)OC
 Bromal	C(=O)C(Br)(Br)Br
 Technetium (99mTc) pentetic acid	C(CN(CC(=O)[O-])CC(=O)[O-])N(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Na+].[99Tc+4]
@@ -21354,6 +21354,7 @@ DM-506	CN1CCC2=C(CC1)NC3=CC=CC=C23
 Mizagliflozin	CC1=C(C=CC(=C1)OCCCNCC(C)(C)C(=O)N)CC2=C(NN=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(C)C
 Rongliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)[C@@H](C)O)O)O)O)Cl
 Licogliflozin	CCC1=C(C=C(C=C1)[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)CC3=CC4=C(C=C3)OCCO4
+Jun12682	CCN1C=CC(=N1)C2=CC(=CC(=C2)[C@@H](C)NC(=O)C3=C(C=CC(=C3)OCCN(C)C)C)C4=CN(N=C4)C
 Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
 2-MCPD	C(C(CO)Cl)O
 Tetrachloroethylene carbonate	C1(=O)OC(C(O1)(Cl)Cl)(Cl)Cl
@@ -21413,3 +21414,4 @@ Thiocyanuric acid	C1(=S)NC(=S)NC(=S)N1
 Methanesulfonyl azide	CS(=O)(=O)N=[N+]=[N-]
 Diiodine hexaoxide	O=[I+]=O.O=[I-](=O)(=O)=O
 Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
+3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
