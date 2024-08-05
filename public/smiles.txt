@@ -3406,7 +3406,7 @@ Emylcamate	O=C(OC(C)(CC)CC)N
 Alclometasone	C[C@@H]1C[C@H]2[C@@H]3[C@@H](CC4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)C)Cl
 Phytol	C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C
 Di-tert-butyl dicarbonate	O=C(OC(=O)OC(C)(C)C)OC(C)(C)C
-Plutonium(IV) fluoride	F[Pu](F)(F)F
+Plutonium tetrafluoride	F[Pu](F)(F)F
 Phenprobamate	O=C(OCCCc1ccccc1)N
 Metharbital	O=C1N(C(=O)NC(=O)C1(CC)CC)C
 Ethoxyquin	O(c2ccc1c(\C(=C/C(N1)(C)C)C)c2)CC
@@ -12052,7 +12052,7 @@ Lupeol	CC([C@@H]1CC[C@@]2(C)[C@@]1([H])[C@@]3([H])CC[C@]4([H])[C@@]5(C)CC[C@H](O
 Lysergic acid 3-pentyl amide	[H][C@@]12C(C3=C4C(NC=C4C2)=CC=C3)=C[C@@H](C(NC(CC)CC)=O)CN1C
 5-OH-DPAT	Oc1cccc2c1CC[C@H](N(CCC)CCC)C2
 5-OH-DPAT	CCCN(CCC)C1CCc2c(O)cccc2C1
-2,6-Diaminopurine	c1[nH]c2c(nc(nc2n1)N)N
+2,6-Diaminopurine	Nc1nc(N)nc2c1nc[nH]2
 1,2,3-Trimethylbenzene	c1(cccc(c1C)C)C
 Obatoclax	Cc1cc([nH]c1/C=C/2\C(=CC(=N2)c3cc4ccccc4[nH]3)OC)C
 Omecamtiv mecarbil	O=C(Nc1ccc(nc1)C)Nc2c(F)c(ccc2)CN3CCN(C(=O)OC)CC3
@@ -21415,3 +21415,4 @@ Methanesulfonyl azide	CS(=O)(=O)N=[N+]=[N-]
 Diiodine hexaoxide	O=[I+]=O.O=[I-](=O)(=O)=O
 Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
 3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
+Benzgalantamine	COc1ccc2c3c1O[C@H]1C[C@@H](OC(=O)c4ccccc4)C=C[C@@]31CCN(C)C2
