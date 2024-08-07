@@ -3516,7 +3516,7 @@ Proxymetacaine	O=C(OCCN(CC)CC)c1ccc(OCCC)c(c1)N
 Cyclopentadienyl radical	[CH]1C=CC=C1
 Uranium trioxide	O=[U](=O)=O
 Isopropyl acetate	CC(OC(C)C)=O
-URB597	O=C(NC1CCCCC1)OC2=CC=CC(C3=CC=CC(C(N)=O)=C3)=C2
+EX-597	O=C(NC1CCCCC1)OC2=CC=CC(C3=CC=CC(C(N)=O)=C3)=C2
 Spiperone	c1ccc(cc1)N2CNC(=O)C23CCN(CC3)CCCC(=O)c4ccc(cc4)F
 Raclopride	Clc1c(O)c(c(OC)c(Cl)c1)C(=O)NC[C@H]2N(CC)CCC2
 Flupentixol	FC(F)(F)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
@@ -14231,7 +14231,7 @@ Marinone	CC1=C[C@H]2[C@@H](CC1)[C@](OC3=C2C(=O)C4=C(C3=O)C(=CC(=C4Br)O)O)(C)CCC=
 Harmol	CC1=C2C(=C3C=CC(=O)C=C3N2)C=CN1
 Vasicine	C1CN2CC3=CC=CC=C3N=C2C1O
 Vasicinone	C1CN2C(=NC3=CC=CC=C3C2=O)[C@H]1O
-NSI-189	CC(C)CCNC1=C(C=CC=N1)C(=O)N2CCN(CC2)CC3=CC=CC=C3
+ALTO-100	CC(C)CCNC1=C(C=CC=N1)C(=O)N2CCN(CC2)CC3=CC=CC=C3
 Bacillibactin	C[C@@H]1[C@@H](C(=O)O[C@@H]([C@@H](C(=O)O[C@@H]([C@@H](C(=O)O1)NC(=O)CNC(=O)c2cccc(c2O)O)C)NC(=O)CNC(=O)c3cccc(c3O)O)C)NC(=O)CNC(=O)c4cccc(c4O)O
 Bismuth hydroxide	[OH-].[OH-].[OH-].[Bi+3]
 PNU-181731	C12=CC=CC=C1N3C(CCNCC3)=C2
@@ -21417,3 +21417,5 @@ Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
 3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
 Frontalin	C[C@@]12CCC[C@@](O1)(OC2)C
 Benzgalantamine	COc1ccc2c3c1O[C@H]1C[C@@H](OC(=O)c4ccccc4)C=C[C@@]31CCN(C)C2
+1-Fluorobutane	CCCCF
+1-Fluorohexane	CCCCCCF
