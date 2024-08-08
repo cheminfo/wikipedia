@@ -17056,7 +17056,7 @@ Prorenoate potassium	C[C@]12CCC(=O)C=C1[C@@H]3C[C@@H]3[C@@H]4[C@@H]2CC[C@]5([C@H
 Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)3CCC(C=C3[C@@]([H])3C[C@]3([H])[C@@]21[H])=O
 2,3,4-Pentanetrione	CC(=O)C(=O)C(=O)C
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
-Diethylphosphite	CCOP(O)OCC
+Diethylphosphite	CCOP(OCC)=O
 DMTMM	C[N+]1(CCOCC1)C2=NC(=NC(=N2)OC)OC.[Cl-]
 1-Hexadecene	CCCCCCCCCCCCCCC=C
 Dimethylphosphite	COP(O)OC
@@ -21417,5 +21417,10 @@ Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
 3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
 Frontalin	C[C@@]12CCC[C@@](O1)(OC2)C
 Benzgalantamine	COc1ccc2c3c1O[C@H]1C[C@@H](OC(=O)c4ccccc4)C=C[C@@]31CCN(C)C2
+Diiodosyl sulfate	[I+]=O.[I+]=O.[O-]S([O-])(=O)=O
 1-Fluorobutane	CCCCF
 1-Fluorohexane	CCCCCCF
+1-Chlorohexane	CCCCCCCl
+5-BPDi	CCCCC(C(=O)C1=CC2=C(CCC2)C=C1)N3CCCC3
+Foslevodopa	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)OP(=O)(O)O
+Foscarbidopa	C[C@](CC1=CC(=C(C=C1)OP(=O)(O)O)O)(C(=O)O)NN
