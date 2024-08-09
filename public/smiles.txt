@@ -20927,6 +20927,7 @@ Mafoprazine	COC1=C(OCCCN2CCN(CC2)C3=C(F)C=CC=C3)C=CC(NC(C)=O)=C1
 Minzasolmin	CCCC[C@H](CC1=CNC2=CC=CC=C21)NC(=O)C3=CN=C(S3)N4CCN(CC4)C
 Leriglitazone	CC(C1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3)O
 Diethofencarb	CCOC1=C(C=C(C=C1)NC(=O)OC(C)C)OCC
+Picropodophyllin	COC1=CC(=CC(=C1OC)OC)[C@H]2[C@H]3[C@H](COC3=O)[C@H](C4=CC5=C(C=C24)OCO5)O
 Tylvalosin	CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
 Tylvalosin	O[C@H]([C@@H](O)C(O)=O)C(O)=O.CC[C@H]1OC(=O)C[C@@H](OC(C)=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@@H]([C@H]2O)N(C)C)[C@@H](CC=O)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC
 Velagliflozin	C1CC1C2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C#N
@@ -21424,3 +21425,5 @@ Diiodosyl sulfate	[I+]=O.[I+]=O.[O-]S([O-])(=O)=O
 5-BPDi	CCCCC(C(=O)C1=CC2=C(CCC2)C=C1)N3CCCC3
 Foslevodopa	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)OP(=O)(O)O
 Foscarbidopa	C[C@](CC1=CC(=C(C=C1)OP(=O)(O)O)O)(C(=O)O)NN
+1-Iodohexane	CCCCCCI
+2-Chloronicotinic acid	C1=CC(=C(N=C1)Cl)C(=O)O
