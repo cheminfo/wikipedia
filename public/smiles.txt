@@ -3516,7 +3516,7 @@ Proxymetacaine	O=C(OCCN(CC)CC)c1ccc(OCCC)c(c1)N
 Cyclopentadienyl radical	[CH]1C=CC=C1
 Uranium trioxide	O=[U](=O)=O
 Isopropyl acetate	CC(OC(C)C)=O
-EX-597	O=C(NC1CCCCC1)OC2=CC=CC(C3=CC=CC(C(N)=O)=C3)=C2
+EX-597	C1CCC(CC1)NC(=O)OC2=CC=CC(=C2)C3=CC(=CC=C3)C(=O)N
 Spiperone	c1ccc(cc1)N2CNC(=O)C23CCN(CC3)CCCC(=O)c4ccc(cc4)F
 Raclopride	Clc1c(O)c(c(OC)c(Cl)c1)C(=O)NC[C@H]2N(CC)CCC2
 Flupentixol	FC(F)(F)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
@@ -21429,4 +21429,10 @@ Foslevodopa	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)OP(=O)(O)O
 Foscarbidopa	C[C@](CC1=CC(=C(C=C1)OP(=O)(O)O)O)(C(=O)O)NN
 1-Iodohexane	CCCCCCI
 2-Chloronicotinic acid	C1=CC(=C(N=C1)Cl)C(=O)O
+Copper(I) acetate	CC(=O)[O-].[Cu+]
 LIH383	CSCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)CNC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N
+White phosphorus	P12P3P1P23
+4-Hydroxybenzyl isothiocyanate	C1=CC(=CC=C1CN=C=S)O
+Glovadalen	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC4=C3C(=NN4C)Cl)Cl)CO)C(=CC=C2)C(C)(C)O
+PRX-14040	C1CC(C1)(C2=CC(=C(C=C2)Cl)Cl)C(C[NH+]3CC4CC3CO4)O.[Cl-]
+MRZ-9547	C1[C@@H](CN(C1=O)CC(=O)N)C2=CC=CC=C2
