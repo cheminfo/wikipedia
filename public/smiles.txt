@@ -3800,6 +3800,7 @@ Silver telluride	[Ag][Te][Ag]
 Rubidium bromide	[Rb+].[Br-]
 Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au]
 Disodium aurothiomalate	[Na]OC(=O)CC(C(=O)O[Na])S[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au-][S+](C(C(=O)O[Na])C(C(=O)O[Na]))[Au]
+Disodium aurothiomalate	C(C(C(=O)[O-])[S-])C(=O)[O-].O.[Na+].[Na+].[Au+]
 DBDMH	O=C1N(Br)C(=O)N(Br)C1(C)C
 Calcium ascorbate	[Ca+2].O=C1C(\O)=C(\[O-])O[C@@H]1[C@@H](O)CO.O=C1C(\O)=C(\[O-])O[C@@H]1[C@@H](O)CO.O.O
 Sodium ascorbate	OC1=C([O-])[C@]([C@@H](O)CO)([H])OC1=O.[Na+]
@@ -21438,3 +21439,7 @@ Glovadalen	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC4=C3C(=NN4C)Cl)Cl)CO)C(=CC=C2)C(
 PRX-14040	C1CC(C1)(C2=CC(=C(C=C2)Cl)Cl)C(C[NH+]3CC4CC3CO4)O.[Cl-]
 MRZ-9547	C1[C@@H](CN(C1=O)CC(=O)N)C2=CC=CC=C2
 Chaulmoogric acid	C(CCCCCCCCCCCC(O)=O)[C@H]1CCC=C1
+Chlodantane	C1C2CC3CC1CC(C2)C3NC(=O)C4=CC=C(C=C4)Cl
+Dopamantine	C1C2CC3CC1CC(C2)(C3)C(=O)NCCC4=CC(=C(C=C4)O)O
+Indolylpropylaminopentane	CCCC(CC1=CNC2=CC=CC=C21)NCCC
+Sunvozertinib	COC1=CC(N2CC[C@H](C2)N(C)C)=C(NC(=O)C=C)C=C1NC1=NC=CC(NC2=CC(Cl)=C(F)C=C2C(C)(C)O)=N1
