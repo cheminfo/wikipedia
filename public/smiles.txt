@@ -16939,6 +16939,7 @@ Hibarimicinone	CCC[C@@]1([C@H]([C@@H]([C@H]([C@@H]2[C@]1(C(=O)c3c(cc4c(c3O)c(c(c
 Methyl 2-bromoacetate	COC(=O)CBr
 Isoserine	C(C(C(=O)O)O)N
 N-Propylbenzene	CCCC1=CC=CC=C1
+TS-121	CC(C)NC(=O)CN1C(=NN(C1=O)C2=CC=C(C=C2)CCN3CCOCC3)C4=CC(=CC=C4)Cl
 Methyl perchlorate	COCl(=O)(=O)=O
 1-Fluoronaphthalene	C1=CC=C2C(=C1)C=CC=C2F
 Vibriobactin	C[C@H]1[C@@H](N=C(O1)C2=C(C(=CC=C2)O)O)C(=O)NCCCN(CCCNC(=O)C3=C(C(=CC=C3)O)O)C(=O)[C@@H]4[C@H](OC(=N4)C5=C(C(=CC=C5)O)O)C
@@ -20183,6 +20184,7 @@ Aluminium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-]
 Magnesium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Mg+2]
 Fipravirimat	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(CC=C(C5(C)C)C6=CC[C@@](CC6)(CF)C(=O)O)C)C)NCCN7CCS(=O)(=O)CC7
 Razpipadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)OC(F)F)C3=C(C(=O)NC(=O)N3C)C
+CVL-354	CN1C=C(C(=N1)OC)[C@@H]2CCCN2CC3=CC=C(C=C3)OC4=CC=C(C=C4)C(=O)N
 Darigabat	CCN1C=NC2=C1N=NC=C2C3=CC(=C(C=C3)F)C4=C(C=C(C=C4)S(=O)(=O)CC)OC
 Bromal	C(=O)C(Br)(Br)Br
 Technetium (99mTc) pentetic acid	C(CN(CC(=O)[O-])CC(=O)[O-])N(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Na+].[99Tc+4]
