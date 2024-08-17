@@ -13039,7 +13039,7 @@ Prinaberel	O=C3\C=C/C(=C2/Oc1c(cc(O)cc1N2)\C=C)/C=C3/F
 Nitecapone	[O-][N+](=O)c1cc(\C=C(/C(=O)C)C(=O)C)cc(O)c1O
 Radequinil	COc1cccc(c1)c3nccc2NC(=O)\C(=C/c23)c4nc(C)on4
 LBP-1 (drug)	ClC1=C(N(CC2CCOCC2)C=C3C4=NOC(CN5CCN(CC(N)=O)CC5)=N4)C3=CC=C1
-PF-04457845	n4ncccc4NC(=O)N(CC3)CC\C3=C/c2cc(ccc2)Oc(cc1)ncc1C(F)(F)F
+Redafamdastat	n4ncccc4NC(=O)N(CC3)CC\C3=C/c2cc(ccc2)Oc(cc1)ncc1C(F)(F)F
 Copper(I) sulfate	[O-]S(=O)(=O)[O-].[Cu+].[Cu+]
 Luteic acid	C1=C2C(=C(C(=C1O)O)O)C3=C(C(=C(C=C3C(=O)O)O)O)OC2=O
 OUP-16	CN=C(NC[C@H]1CC[C@@H](O1)C2=CN=CN2)NC#N
@@ -21449,3 +21449,6 @@ Linustedastat	C[C@]1\2CC[C@H]3[C@H]([C@@H]1[C@@H](C/C2=N\O)CCC(=O)NC4=NC=C(C=C4)
 3-F-BPAP	CCCC(CC1=CC2=CC=CC=C2O1)NCCC(F)(F)F
 Ibuzatrelvir	CC(C)(C)[C@@H](C(=O)N1C[C@@H](C[C@H]1C(=O)N[C@@H](C[C@@H]2CCNC2=O)C#N)C(F)(F)F)NC(=O)OC
 RTI-7470-44	C1=CN=C(N=C1)NC(=O)CSC2=C(C(=CC(=N2)C3=CC=C(C=C3)Cl)C(F)(F)F)C#N
+JTK-109	C1CCC(CC1)N2C3=C(C=C(C=C3)C(=O)O)N=C2C4=C(C=C(C=C4)OCC5=C(C=CC(=C5)N6CCCC6=O)C7=CC=C(C=C7)Cl)F
+ASP2535	CC(C)C1=NN=C(N1C2=CC=CC3=NON=C32)C4=CN=C(C=C4)C5=CC=CC=C5
+Virapinib	CC1CCN(CC1)C2=CC=C(C=C2)C(=O)N3CCC(C3)C4=NC5=C(CCN(C5)C)C(=N4)NC
