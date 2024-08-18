@@ -6821,7 +6821,9 @@ Plicamycin	CO[C@H](C(=O)[C@@H](O)[C@@H](C)O)C1Cc2cc3cc(O[C@H]4C[C@@H](O[C@H]5C[C
 Xantphos	O6c1c(cccc1P(c2ccccc2)c3ccccc3)C(c7cccc(P(c4ccccc4)c5ccccc5)c67)(C)C
 Hydroxylammonium chloride	[Cl-].O[NH3+]
 Acephate	O=C(NP(=O)(OC)SC)C
-1-Octen-3-ol	OC(C=C)CCCCC
+1-Octen-3-ol	CCCCCC(C=C)O
+1-Octen-3-ol	CCCCC[C@@H](O)C=C
+1-Octen-3-ol	CCCCC[C@H](O)C=C
 Naphthalocyanine	C1(/N=C(C2=C/3C=C4C=CC=CC4=C2)\NC3=N/C(C5=C/6C=C(C=CC=C7)C7=C5)=NC6=N/8)=N/C(C9=CC%10=CC=CC=C%10C=C19)=N\C%11=C%12C=C%13C=CC=CC%13=CC%12=C8N%11
 Hexafluoroacetylacetone	FC(F)(F)C(=O)CC(=O)C(F)(F)F
 Cefpirome	CON=C(c1csc(n1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[n+]4cccc5c4CCC5)C(=O)[O-]
@@ -20757,6 +20759,7 @@ Cadmium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cd+2]
 Copper(I) azide	[N-]=[N+]=[N-].[Cu+]
 Chloropentammineplatinum chloride	N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Nickel azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ni+2]
+Desmethylzopiclone	C1CN(CCN1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl
 Cobalt(II) azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Co+2]
 Chromium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Cr+3]
 Cagrilintide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N3CCC[C@H]3C(=O)N)NC(=O)[C@@H]4CCCN4C(=O)CNC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@@H](CC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC7=CC=CC=C7)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@@H]8CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N8)[C@@H](C)O)C)[C@@H](C)O)CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O
@@ -21437,6 +21440,7 @@ Copper(I) acetate	CC(=O)[O-].[Cu+]
 LIH383	CSCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)CNC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N
 White phosphorus	P12P3P1P23
 4-Hydroxybenzyl isothiocyanate	C1=CC(=CC=C1CN=C=S)O
+RTI-5152-12	CCCCCN1CC[C@H](/C(=C\C)/C1)C(=O)C2=CC3=CC=CC=C3N2
 Glovadalen	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC4=C3C(=NN4C)Cl)Cl)CO)C(=CC=C2)C(C)(C)O
 PRX-14040	C1CC(C1)(C2=CC(=C(C=C2)Cl)Cl)C(C[NH+]3CC4CC3CO4)O.[Cl-]
 MRZ-9547	C1[C@@H](CN(C1=O)CC(=O)N)C2=CC=CC=C2
@@ -21451,4 +21455,10 @@ Ibuzatrelvir	CC(C)(C)[C@@H](C(=O)N1C[C@@H](C[C@H]1C(=O)N[C@@H](C[C@@H]2CCNC2=O)C
 RTI-7470-44	C1=CN=C(N=C1)NC(=O)CSC2=C(C(=CC(=N2)C3=CC=C(C=C3)Cl)C(F)(F)F)C#N
 JTK-109	C1CCC(CC1)N2C3=C(C=C(C=C3)C(=O)O)N=C2C4=C(C=C(C=C4)OCC5=C(C=CC(=C5)N6CCCC6=O)C7=CC=C(C=C7)Cl)F
 ASP2535	CC(C)C1=NN=C(N1C2=CC=CC3=NON=C32)C4=CN=C(C=C4)C5=CC=CC=C5
+1S-LSD	C[Si](CCC(=O)N1C=C2C[C@H]3N(C[C@@H](C=C3C=3C=CC=C1C32)C(=O)N(CC)CC)C)(C)C
 Virapinib	CC1CCN(CC1)C2=CC=C(C=C2)C(=O)N3CCC(C3)C4=NC5=C(CCN(C5)C)C(=N4)NC
+ORG-24598	CN(CCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F)CC(=O)O
+SR-95103	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2
+SR-95103	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
+EF-1502	CC1=C(SC=C1)C(=CCCN(C)C2CCCC3=C2C(=O)NO3)C4=C(C=CS4)C
+CGP-39551	CCOC(=O)C(/C=C(\C)/CP(=O)(O)O)N
