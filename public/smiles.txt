@@ -21463,3 +21463,6 @@ SR-95103	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
 EF-1502	CC1=C(SC=C1)C(=CCCN(C)C2CCCC3=C2C(=O)NO3)C4=C(C=CS4)C
 CGP-39551	CCOC(=O)C(/C=C(\C)/CP(=O)(O)O)N
 ZD-9379	CC1=C(C=CC(=C1)OC)N2C(=O)C3=C(C(=O)N2)NC4=C(C3=O)C=CC(=C4)Cl
+(2R,3R)-Hydroxybupropion	C[C@@H]1[C@](OCC(N1)(C)C)(C2=CC(=CC=C2)Cl)O
+Thiamphenicol glycinate acetylcysteine	CC(=O)NC(CS)C(=O)O.CS(=O)(=O)C1=CC=C(C=C1)C(C(COC(=O)CN)NC(=O)C(Cl)Cl)O
+Cyclic adenosine-inosine monophosphate	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=CNC4=O)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
