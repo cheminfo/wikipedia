@@ -11077,7 +11077,7 @@ Pirfenidone	CC1=CN(C(=O)C=C1)C2=CC=CC=C2
 Glicaramide	C0CCCCC0NC(=O)NS(=O)(=O)c1ccc(cc1)CCNC(=O)c2cnc3n(CC)nc(C)c3c2OCCC(C)C
 Adatanserin	O=C(NCCN2CCN(c1ncccn1)CC2)C35CC4CC(CC(C3)C4)C5
 NBUMP	COc1ccccc1N2CCN(CC2)CCCCNC(=O)C34CC5CC(C3)CC(C5)C4
-CRL-40,941	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)NO)F
+Fladrafinil	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)NO)F
 Batanopride	Clc1cc(c(OC(C(=O)C)C)cc1N)C(=O)NCCN(CC)CC
 Roxindole	Oc1ccc2c(c1)c(c[nH]2)CCCCN4C/C=C(/c3ccccc3)CC4
 Gamfexine	c1ccccc1C(CCN(C)C)C2CCCCC2
@@ -15652,7 +15652,7 @@ Topilutamide	C[C@@](CNC(=O)C(F)(F)F)(C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F)O
 MDMB-FUBICA	COC(=O)[C@@H](NC(=O)c1cn(Cc2ccc(F)cc2)c3ccccc13)C(C)(C)C
 Adamantyl-THPINACA	C12C(C3CC(CC(C1)C3)C2)NC(=O)C2=NN(C3=CC=CC=C23)CC2CCOCC2
 BIM-018	CCCCCn1c2ccccc2nc1C(=O)c1cccc2c1cccc2
-CRL-40,940	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
+Flmodafinil	C1=CC(=CC=C1C(C2=CC=C(C=C2)F)S(=O)CC(=O)N)F
 2-Phenyl-3-aminobutane	C1(=CC=CC=C1)C(C)C(C)N
 Kethoxal	CCOC(C)C(=O)C(O)O
 Jiadifenolide	O=C1OC[C@@]2(C)[C@@]3(OC4=O)[C@@]([C@H](C)CC3)([C@]4(O)O5)C[C@]5([H])[C@]21O
@@ -21458,11 +21458,12 @@ ASP2535	CC(C)C1=NN=C(N1C2=CC=CC3=NON=C32)C4=CN=C(C=C4)C5=CC=CC=C5
 1S-LSD	C[Si](CCC(=O)N1C=C2C[C@H]3N(C[C@@H](C=C3C=3C=CC=C1C32)C(=O)N(CC)CC)C)(C)C
 Virapinib	CC1CCN(CC1)C2=CC=C(C=C2)C(=O)N3CCC(C3)C4=NC5=C(CCN(C5)C)C(=N4)NC
 ORG-24598	CN(CCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F)CC(=O)O
-SR-95103	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2
-SR-95103	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
+Famiraprinium	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2
+Famiraprinium	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
 EF-1502	CC1=C(SC=C1)C(=CCCN(C)C2CCCC3=C2C(=O)NO3)C4=C(C=CS4)C
 CGP-39551	CCOC(=O)C(/C=C(\C)/CP(=O)(O)O)N
 ZD-9379	CC1=C(C=CC(=C1)OC)N2C(=O)C3=C(C(=O)N2)NC4=C(C3=O)C=CC(=C4)Cl
 (2R,3R)-Hydroxybupropion	C[C@@H]1[C@](OCC(N1)(C)C)(C2=CC(=CC=C2)Cl)O
 Thiamphenicol glycinate acetylcysteine	CC(=O)NC(CS)C(=O)O.CS(=O)(=O)C1=CC=C(C=C1)C(C(COC(=O)CN)NC(=O)C(Cl)Cl)O
 Cyclic adenosine-inosine monophosphate	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=CNC4=O)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
+Lazertinib	CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC
