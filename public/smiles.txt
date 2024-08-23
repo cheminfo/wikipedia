@@ -15986,7 +15986,7 @@ Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
 Magnesium taurate	C(CS(=O)(=O)[O-])N.C(CS(=O)(=O)[O-])N.[Mg+2]
-Meso-Zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
+Meso-zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 Ximenynic acid	CCCCCCC=CC#CCCCCCCCC(=O)O
 AP20187	CCC(C1=CC(=C(C(=C1)OC)OC)OC)C(=O)N2CCCCC2C(=O)OC(CCC3=CC(=C(C=C3)OC)OC)C4=CC(=CC=C4)OCC(=O)NCC(CNC(=O)COC5=CC=CC(=C5)C(CCC6=CC(=C(C=C6)OC)OC)OC(=O)C7CCCCN7C(=O)C(CC)C8=CC(=C(C(=C8)OC)OC)OC)CN(C)C
@@ -18349,7 +18349,6 @@ Hydrogen diselenide	[SeH][SeH]
 2-Methyltetrahydroquinoline	C[C@H]1CCC2=CC=CC=C2N1
 1,8-Naphthyridine	C1=CC2=C(N=C1)N=CC=C2
 1,6-Dioxecane-2,7-dione	C1CC(=O)OCCCC(=O)OC1
-Hexamethylenediimine	C=NCCCCCCN=C
 Lithium disilicate	[Li+].[Li+].[O-][Si](=O)O[Si](=O)[O-]
 Masofaniten	CC(C)(C1=CC=C(C=C1)OCC2=NC(=NC=C2)NS(=O)(=O)C)C3=CC(=C(C(=C3)Cl)OCCCl)C#N
 Strontium hydride	[SrH2]
@@ -21463,7 +21462,14 @@ Famiraprinium	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
 EF-1502	CC1=C(SC=C1)C(=CCCN(C)C2CCCC3=C2C(=O)NO3)C4=C(C=CS4)C
 CGP-39551	CCOC(=O)C(/C=C(\C)/CP(=O)(O)O)N
 ZD-9379	CC1=C(C=CC(=C1)OC)N2C(=O)C3=C(C(=O)N2)NC4=C(C3=O)C=CC(=C4)Cl
+LSN2463359	CC(C)NC(=O)C1=NC=C(C=C1)C#CC2=CC=NC=C2
 (2R,3R)-Hydroxybupropion	C[C@@H]1[C@](OCC(N1)(C)C)(C2=CC(=CC=C2)Cl)O
 Thiamphenicol glycinate acetylcysteine	CC(=O)NC(CS)C(=O)O.CS(=O)(=O)C1=CC=C(C=C1)C(C(COC(=O)CN)NC(=O)C(Cl)Cl)O
 Cyclic adenosine-inosine monophosphate	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=CNC4=O)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
 Lazertinib	CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC
+Ammonium hexafluorostannate	[NH4+].[NH4+].F[Sn--](F)(F)(F)(F)F
+Ondelopran	C1COCCC1CCNCC2=CC(=C(C=C2)OC3=NC=C(C=C3)C(=O)N)F
+Sodium ferrate	[O-][Fe](=O)(=O)[O-].[Na+].[Na+]
+VU-0152099	CC1=CC(=NC2=C1C(=C(S2)C(=O)NCC3=CC4=C(C=C3)OCO4)N)C
+L-701324	C1=CC=C(C=C1)OC2=CC=CC(=C2)C3=C(C4=C(C=C(C=C4)Cl)NC3=O)O
+Ammonium hexafluoroferrate	[NH4+].[NH4+].[NH4+].F[Fe-3](F)(F)(F)(F)F
