@@ -6960,7 +6960,8 @@ Pivoxazepam	Clc3cc\1c(NC(=O)C(OC(=O)C(C)(C)C)/N=C/1c2ccccc2)cc3
 Rilmazafone	ClC1=C(C(C2=CC(Cl)=CC=C2N3C(CNC(CN)=O)=NC(C(N(C)C)=O)=N3)=O)C=CC=C1
 Copper(I) fluoride	F[Cu]
 Sodium ferrocyanide	[Na+].[Na+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[Na+].[Na+]
-MK-9470	CCOc1ccc(C[C@H]([C@H](C)NC(=O)C(C)(C)Oc2ccc(C)cn2)c3cccc(c3)C#N)cc1
+MK-9470	CC1=CN=C(C=C1)OC(C)(C)C(=O)N[C@@H](C)[C@@H](CC2=CC=C(C=C2)OCCF)C3=CC=CC(=C3)C#N
+MK-9470	[C@@H](CC1=CC=C(OCC[18F])C=C1)([C@@H](NC(C(OC2=CC=C(C)C=N2)(C)C)=O)C)C3=CC(C#N)=CC=C3
 Caesium dodecaborate	[Cs+].[Cs+].[BH]1234[BH]567[BH]189[BH]2%10%11[BH]8%12%13[BH]%10%14%15[BH]%16%17%18[BH]35([BH]6%16%19[BH]%12%14%17[BH-]79%13%19)[BH-]4%11%15%18
 POPOP	C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=C(C=C3)C4=NC=C(O4)C5=CC=CC=C5
 Ziziphin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CO[C@H]([C@@H]([C@H]2O)O)O[C@H]3CC[C@@]4([C@H]5CC[C@@H]6[C@H]7[C@@](C[C@@H](O[C@@]78C[C@]6([C@@]5(CC[C@H]4C3(C)C)C)CO8)C=C(C)C)(C)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)OC(=O)C)OC(=O)C)C)O)O)O
@@ -15684,6 +15685,7 @@ Ulimorelin	C[C@@H]1CN[C@H](C(=O)N([C@@H](C(=O)N[C@@H](C(=O)NCCCC2=CC=CC=C2O1)CC3
 3C-DFE	COc1cc(CC(N)C)cc(OC)c1OCC(F)F
 1P-LSD	CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3cn(C(=O)CC)c4cccc(C2=C1)c34
 Nifoxipam	O=C1C(O)N=C(C2=CC=CC=C2F)C3=CC([N+]([O-])=O)=CC=C3N1
+Recreational use of nitrous oxide	[N-]=[N+]=O
 Trimethyldiborane	C[B]1(C)[H][BH](C)[H]1
 Etridiazole	CCOC1=NC(=NS1)C(Cl)(Cl)Cl
 Methyldiborane	C[BH]1[H][BH2][H]1
@@ -15986,7 +15988,7 @@ Lifitegrast	CS(=O)(=O)c1cccc(c1)C[C@@H](C(=O)O)NC(=O)c2c(cc3c(c2Cl)CCN(C3)C(=O)c
 Isoxicam	CC1=CC(=NO1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
 Pseudotropine	CN1[C@@H]2CC[C@H]1C[C@@H](C2)O
 Magnesium taurate	C(CS(=O)(=O)[O-])N.C(CS(=O)(=O)[O-])N.[Mg+2]
-Meso-zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
+Meso-Zeaxanthin	CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@@H](CC2(C)C)O)C)\C)\C)/C)/C
 Edifenphos	CCOP(=O)(Sc1ccccc1)Sc2ccccc2
 Ximenynic acid	CCCCCCC=CC#CCCCCCCCC(=O)O
 AP20187	CCC(C1=CC(=C(C(=C1)OC)OC)OC)C(=O)N2CCCCC2C(=O)OC(CCC3=CC(=C(C=C3)OC)OC)C4=CC(=CC=C4)OCC(=O)NCC(CNC(=O)COC5=CC=CC(=C5)C(CCC6=CC(=C(C=C6)OC)OC)OC(=O)C7CCCCN7C(=O)C(CC)C8=CC(=C(C(=C8)OC)OC)OC)CN(C)C
@@ -20470,9 +20472,10 @@ Alloisoleucine	CC[C@H](C)[C@H](C(=O)O)N
 Alloisoleucine	CCC(C)C(C(=O)O)N
 Disorazol	C/C=C/C(C(C)(C)C1C/C=C\C=C/C=CC(CC2=NC(=CO2)C(=O)OC(C/C=C\C3C(O3)/C=C/C=C\C4=NC(=CO4)C(=O)O1)C(C)(C)C(/C=C/C)O)OC)O
 Ethenedithione	C(=C=S)=S
-Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)N)O
 Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)N)O)O)O
 Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)N)O)O
+Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)N)O
+Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O)O)O
 Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
 2-Phenyl-2-propanol	CC(C)(C1=CC=CC=C1)O
@@ -21461,6 +21464,9 @@ Famiraprinium	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2
 Famiraprinium	CC1=CC(=NN(C1=N)CCCC(=O)O)C2=CC=CC=C2.Cl
 EF-1502	CC1=C(SC=C1)C(=CCCN(C)C2CCCC3=C2C(=O)NO3)C4=C(C=CS4)C
 CGP-39551	CCOC(=O)C(/C=C(\C)/CP(=O)(O)O)N
+Modafiendz	CNC(=O)CS(=O)C(C1=CC=C(C=C1)F)C2=CC=C(C=C2)F
+RDS03-94	C[C@@H]1CN(C[C@@H](N1CC(C)O)C)CCSC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
+JJC8-088	C1CN(CCN1CCS(=O)C(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)CC(CC4=CC=CC=C4)O
 ZD-9379	CC1=C(C=CC(=C1)OC)N2C(=O)C3=C(C(=O)N2)NC4=C(C3=O)C=CC(=C4)Cl
 LSN2463359	CC(C)NC(=O)C1=NC=C(C=C1)C#CC2=CC=NC=C2
 (2R,3R)-Hydroxybupropion	C[C@@H]1[C@](OCC(N1)(C)C)(C2=CC(=CC=C2)Cl)O
@@ -21473,3 +21479,6 @@ Sodium ferrate	[O-][Fe](=O)(=O)[O-].[Na+].[Na+]
 VU-0152099	CC1=CC(=NC2=C1C(=C(S2)C(=O)NCC3=CC4=C(C=C3)OCO4)N)C
 L-701324	C1=CC=C(C=C1)OC2=CC=CC(=C2)C3=C(C4=C(C=C(C=C4)Cl)NC3=O)O
 Ammonium hexafluoroferrate	[NH4+].[NH4+].[NH4+].F[Fe-3](F)(F)(F)(F)F
+Ammonium hexafluorovanadate	[F-].[F-].[F-].[F-].[F-].[F-].[V].[NH4+].[NH4+].[NH4+]
+Ferrous tungstate	[O-][W](=O)(=O)[O-].[Fe+2]
+Ammonium hexachlorostannate	[NH4+].[NH4+].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Sn+4]
