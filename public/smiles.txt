@@ -19032,6 +19032,7 @@ Dasiglucagon	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=
 3-APPA	C(CN)CP(=O)O
 Diruthenium tetraacetate chloride	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.Cl[Ru].[Ru]
 Iron(II) perchlorate	O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+2]
+Octachlorotetraphosphazene	N1=P(N=P(N=P(N=P1(Cl)Cl)(Cl)Cl)(Cl)Cl)(Cl)Cl
 Monopotassium arsenate	O[As](=O)(O)[O-].[K+]
 Dysprosium stannate	[Dy+3].[Dy+3].[Sn+4].[Sn+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
 Fominoben	CN(CC1=C(C=CC=C1Cl)NC(=O)C2=CC=CC=C2)CC(=O)N3CCOCC3
@@ -21481,4 +21482,6 @@ L-701324	C1=CC=C(C=C1)OC2=CC=CC(=C2)C3=C(C4=C(C=C(C=C4)Cl)NC3=O)O
 Ammonium hexafluoroferrate	[NH4+].[NH4+].[NH4+].F[Fe-3](F)(F)(F)(F)F
 Ammonium hexafluorovanadate	[F-].[F-].[F-].[F-].[F-].[F-].[V].[NH4+].[NH4+].[NH4+]
 Ferrous tungstate	[O-][W](=O)(=O)[O-].[Fe+2]
+Ammonium hexafluorochromate	[NH4+].[NH4+].[NH4+].F[Cr-3](F)(F)(F)(F)F
 Ammonium hexachlorostannate	[NH4+].[NH4+].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Sn+4]
+Triprene	C(CCCC(C/C=C/C(=C/C(SCC)=O)/C)C)(OC)(C)C
