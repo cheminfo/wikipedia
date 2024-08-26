@@ -21447,6 +21447,7 @@ RTI-5152-12	CCCCCN1CC[C@H](/C(=C\C)/C1)C(=O)C2=CC3=CC=CC=C3N2
 Glovadalen	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC4=C3C(=NN4C)Cl)Cl)CO)C(=CC=C2)C(C)(C)O
 PRX-14040	C1CC(C1)(C2=CC(=C(C=C2)Cl)Cl)C(C[NH+]3CC4CC3CO4)O.[Cl-]
 MRZ-9547	C1[C@@H](CN(C1=O)CC(=O)N)C2=CC=CC=C2
+Isoproturon	N(C(N(C)C)=O)C1=CC=C(C(C)C)C=C1
 Chaulmoogric acid	C(CCCCCCCCCCCC(O)=O)[C@H]1CCC=C1
 Chlodantane	C1C2CC3CC1CC(C2)C3NC(=O)C4=CC=C(C=C4)Cl
 Dopamantine	C1C2CC3CC1CC(C2)(C3)C(=O)NCCC4=CC(=C(C=C4)O)O
@@ -21485,3 +21486,4 @@ Ferrous tungstate	[O-][W](=O)(=O)[O-].[Fe+2]
 Ammonium hexafluorochromate	[NH4+].[NH4+].[NH4+].F[Cr-3](F)(F)(F)(F)F
 Ammonium hexachlorostannate	[NH4+].[NH4+].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Sn+4]
 Triprene	C(CCCC(C/C=C/C(=C/C(SCC)=O)/C)C)(OC)(C)C
+Potassium hexabromorhenate	[K+].[K+].Br[Re-2](Br)(Br)(Br)(Br)Br
