@@ -20910,6 +20910,7 @@ Avenciguat	CCOC1=C(C=NN1C2=CC=CC(=N2)C3=CC=CC(=C3OCC4=C(C5=C(CN(CC5)C6CCOCC6)C=C
 Runcaciguat	C[C@H]([C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=C(C=CC(=C2)[C@@H](CC(=O)O)C3CC3)Cl)C(F)(F)F
 Inaxaplin	C1[C@H]([C@@H](C(=O)N1)NC(=O)CCC2=C(NC3=C2C=C(C=C3F)F)C4=CC=C(C=C4)F)O
 SPH3127	CC1=NC2=C(C=C1)C(=NN2CCCNC(=O)OC)[C@@H](C)N(C3CC3)C(=O)[C@H]4CNCCO4
+SER150	C(/C=C\CCC(O)=O)[C@H]1[C@H](O[C@H](OC1)C2=C(Cl)C=CC=C2)C3=C(O)C=CC=C3
 Holmium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Holmium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ho+3].[Ho+3]
 Cerium(IV) selenate	[Ce+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O
@@ -21001,6 +21002,10 @@ Thorium(IV) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Th+4].O.O.O.O.O.
 Gadolinium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Gd+3].[Gd+3]
 Benzimidazolinone	C1=CC=C2C(=C1)NC(=O)N2
 1,2-Dichloro-1,1-difluoroethane	C(C(F)(F)Cl)Cl
+Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C(C(=C(C=C2)O)O)/C=C/C3=CC(=C(C=C3)O)O)O)O
+Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C3[C@@H]([C@H](OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)O[C@H](CC5=CC(=C(C=C5)O)O)C(=O)O)O)O
+Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C3C=C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)O)O
+Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C(C(=C(C=C2)O)O)CC(=O)O)O)O
 RepSox	CC1=NC(=CC=C1)C2=C(C=NN2)C3=NC4=C(C=C3)N=CC=C4
 Thorium diiodide	[Th+2].[I-].[I-]
 1,3,5,7-Adamantanetetracarboxylic acid	C1C2(CC3(CC1(CC(C2)(C3)C(=O)O)C(=O)O)C(=O)O)C(=O)O
