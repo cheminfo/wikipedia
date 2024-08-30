@@ -1782,6 +1782,7 @@ Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]
 Glycopyrronium bromide	C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C
 Mannitol hexanitrate	C([C@H]([C@H]([C@@H]([C@@H](CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 Boron trifluoride	FB(F)F
+Boron trifluoride	[F+]=[B-](F)F
 2-Methylindole	Cc2cc1ccccc1[nH]2
 7-Methylindole	Cc1cccc2c1[nH]cc2
 1-Methylindole	Cn1ccc2c1cccc2
@@ -14613,6 +14614,7 @@ GBR-13098	CS(=O)(=O)O.CS(=O)(=O)O.C1CN(CCN1CCCC2=CC=C(C=C2)F)CCOC(C3=CC=C(C=C3)F
 GBR-13119	C1CN(CCN1CCCC2=CC=C(C=C2)F)CCOC(C3=CC=CC=C3)C4=CC=CC=C4
 Mefexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)OC
 Leptacline	C1CCC(CC1)CN2CCCCC2
+Cinnamedrine	CC(C(C1=CC=CC=C1)O)N(C)C/C=C/C2=CC=CC=C2
 2-Methyl-3-phenylpiperidine	CC1C(CCCN1)C2=CC=CC=C2
 4-Hydroxy-3-methoxymethamphetamine	CC(CC1=CC(=C(C=C1)O)OC)NC
 Manganese violet	[N+H4].[Mn+3].O=P([O-])([O-])OP([O-])([O-])=O
@@ -21497,3 +21499,4 @@ Potassium hexafluororhenate	[K+].[F-][Re+4]([F-])([F-])([F-])([F-])[F-]
 Potassium hexaiodorhenate	[K+].[K+].I[Re--](I)(I)(I)(I)I
 Ammonium hexafluorogermanate	[NH4+].[NH4+].F[Ge-2](F)(F)(F)(F)F
 Desglymidodrine	COC1=CC(=C(C=C1)OC)C(CN)O
+Ammonium hexafluorotantalate	[NH4+].F[Ta-](F)(F)(F)(F)F
