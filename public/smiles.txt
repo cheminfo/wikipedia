@@ -10912,6 +10912,7 @@ Spinochrome B	Oc1cc(O)c2c(c1)C(=O)C(\O)=C(\O)C2=O
 Grandinin	C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)C8(C(C(C(O8)CO)O)O)O)OC(=O)C9=CC(=C(C(=C9C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Naphthazarin	O=C\2c1c(O)ccc(O)c1C(=O)/C=C/2
 Racephedrine	CC(C(C1=CC=CC=C1)O)NC
+Racepinefrine	CNCC(C1=CC(=C(C=C1)O)O)O
 Quinalizarin	C1=CC(=C(C2=C1C(=O)C3=C(C=CC(=C3C2=O)O)O)O)O
 RTI-229	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)I)C(=O)N4CCCC4
 Dimemebfe	CN(C)CCc1coc(c1c2)ccc2OC
@@ -12883,6 +12884,7 @@ Punicacortein C	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(
 Punicacortein D	c12[C@@H]([C@H]3OC(=O)c1c(c1c(cc(c(c1O)O)O)C(=O)O[C@@H]3[C@@H]1OC(=O)c3c(c4c5c6c7c(oc5=O)c(c(c(c7c(=O)oc6c(c4O)O)c4c(c(c(cc4C(=O)OC[C@@H]1O)O)O)O)O)O)c(c(c(c3)O)O)O)c(c(c2O)O)O)O
 Punicacortein B	Oc1cc(cc(O)c1O)C(=O)OC[C@@H](O)[C@@H](O)[C@@H]5OC(=O)c2cc(O)c(O)c(O)c2c3c(O)c(O)c(O)c4[C@H](O)[C@@H]5OC(=O)c34
 Punicafolin	Oc4c(O)cc(cc4O)C(=O)OC6C(OC(=O)c(cc1O)c-5c(O)c1O)C(OC(=O)c(cc7O)cc(O)c7O)C(OC(=O)c(cc3O)cc(O)c3O)OC6COC(=O)c(cc(O)c2O)c-5c2O
+Iodous acid	O[I+][O-]
 Granatin A	C1C2C3C(C(C(O2)C(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)OC(=O)C6=CC(=O)C7(C(C6C8=C(O7)C(=C(C=C8C(=O)O3)O)O)(O)O)O)O
 Granatin B	C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=O)C(C6(C5C7=C(O6)C(=C(C=C7C(=O)O3)O)O)O)(O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
 N-(1-Naphthyl)ethylenediamine	NCCNc1c2ccccc2ccc1
@@ -13755,6 +13757,7 @@ ELQ-300	Cc1c(c(=O)c2cc(c(cc2[nH]1)OC)Cl)c3ccc(cc3)Oc4ccc(cc4)OC(F)(F)F
 Mezerein	OC[C@]12O[C@H]1[C@H]1[C@H]3O[C@]4(O[C@]1([C@H]1[C@@]([C@@H]2O)(O)C(=O)C(=C1)C)[C@@H]([C@H]([C@@]3(O4)C(=C)C)OC(=O)/C=C/C=C/c1ccccc1)C)c1ccccc1
 Delamanid	FC(F)(F)Oc5ccc(OC4CCN(c3ccc(OC[C@@]2(Oc1nc(cn1C2)[N+]([O-])=O)C)cc3)CC4)cc5
 O-1602	CC1=C[C@@H](C2=C(C)C=C(O)C=C2O)[C@H](C(C)=C)CC1
+Etilefrine pivalate	CCNCC(C1=CC(=CC=C1)OC(=O)C(C)(C)C)O
 O-1918	CC1=C[C@@H](C2=C(OC)C=C(C)C=C2OC)[C@H](C(C)=C)CC1
 Mallotojaponin B	Cc1c(c(c(c(c1OC)Cc2c(c(c(c(c2OC)CC=C(C)C)O)C(=O)C)O)O)C(=O)C)O
 Mallotophenone	Cc1c(O)c(C(=O)C)c(O)c(c1OC)Cc(c(OC)c2C)c(O)c(C(C)=O)c2O
@@ -21506,3 +21509,7 @@ Ammonium hexafluorotantalate	[NH4+].F[Ta-](F)(F)(F)(F)F
 Ammonium hexafluoroindate	[NH4+].[NH4+].[NH4+].F[In-3](F)(F)(F)(F)F
 Robinetin	C1=CC2=C(C=C1O)OC(=C(C2=O)O)C3=CC(=C(C(=C3)O)O)O
 Ammonium perbromate	[NH4+].[O-]Br(=O)(=O)=O
+Ammonium hexafluoroniobate	[NH4+].F[Nb-](F)(F)(F)(F)F
+Ammonium hexafluorogallate	[NH4+].[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[Ga+3]
+Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
+2,4-di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
