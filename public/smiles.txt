@@ -12756,7 +12756,7 @@ Epicriptine	CCC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@@H]
 Barium tungstate	[O-][W](=O)(=O)[O-].[Ba+2]
 Dibenzyl ether	C1=CC=C(C=C1)COCC2=CC=CC=C2
 SoRI-20041	c2ccccc2C(c3ccccc3)CCNc(nc4-c5ccccc5)c1ccccc1n4
-N-Methylephedrine	O[C@H](c1ccccc1)[C@@H](N(C)C)C
+N-Methylephedrine	C[C@@H]([C@@H](C1=CC=CC=C1)O)N(C)C
 Ethyl decanoate	O=C(OCC)CCCCCCCCC
 2-Furonitrile	N#Cc1occc1
 O-1269	CCCCCNC(=O)c2nn(c(c2C)-c(cc3)ccc3Cl)-c1ccc(Cl)cc1Cl
@@ -21512,4 +21512,9 @@ Ammonium perbromate	[NH4+].[O-]Br(=O)(=O)=O
 Ammonium hexafluoroniobate	[NH4+].F[Nb-](F)(F)(F)(F)F
 Ammonium hexafluorogallate	[NH4+].[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[Ga+3]
 Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
+Butylamphetamine	CCCCNC(C)CC1=CC=CC=C1
 2,4-di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
+(R)-1-Aminoindan	C1CC2=CC=CC=C2[C@@H]1N
+1-Aminoindan	C1CC2=CC=CC=C2C1N
+Bedoradrine	CN(C)C(=O)COC1=CC2=C(CC[C@@H](C2)NC[C@@H](C3=CC(=C(C=C3)O)CCO)O)C=C1
+Dioxethedrin	CCNC(C)C(C1=CC(=C(C=C1)O)O)O
