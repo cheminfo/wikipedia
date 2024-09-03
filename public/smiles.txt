@@ -928,7 +928,7 @@ Parathion	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)OCC
 2C-D	O(c1cc(c(OC)cc1CCN)C)C
 2C-T-21	COc1cc(SCCF)c(cc1CCN)OC
 2,5-Dimethoxy-4-methylamphetamine	O(c1cc(c(OC)cc1C[C@H](N)C)C)C
-2,5-Dimethoxy-4-bromoamphetamine	Brc1cc(OC)c(cc1OC)CC(N)C
+2,5-Dimethoxy-4-bromoamphetamine	CC(CC1=CC(=C(C=C1OC)Br)OC)N
 Fludrocortisone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]1(/C(=C\C(=O)CC1)CC[C@H]4[C@@H]2CC3)C)C
 3,4-Methylenedioxyamphetamine	NC(C)CC1=CC2=C(C=C1)OCO2
 Frovatriptan	CN[C@@H]3CCc2[nH]c1ccc(C(N)=O)cc1c2C3
@@ -6751,7 +6751,7 @@ N-Acetylglycinamide	CC(=O)NCC(N)=O
 TRIMU 5	Oc1ccc(C[C@@H](N)C(=O)N[C@H](C)C(=O)NC(=O)CNCCC(C)C)cc1
 Aminomethylbenzoic acid	O=C(O)c1ccc(cc1)CN
 Sodium sesquicarbonate	C(=O)(O)[O-].C(=O)([O-])[O-].[Na+].[Na+].[Na+]
-Ifenprodil	OC(c1ccc(O)cc1)C(N2CCC(CC2)Cc3ccccc3)C
+Ifenprodil	CC(C(C1=CC=C(C=C1)O)O)N2CCC(CC2)CC3=CC=CC=C3
 Magnesium gluconate	[Mg+2].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Tioclomarol	c1ccc2c(c1)c(c(c(=O)o2)C(CC(c3ccc(cc3)Cl)O)c4ccc(s4)Cl)O
 Diphenadione	O=C2c1ccccc1C(=O)C2C(=O)C(c3ccccc3)c4ccccc4
@@ -12756,7 +12756,7 @@ Epicriptine	CCC(C)[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@@H]
 Barium tungstate	[O-][W](=O)(=O)[O-].[Ba+2]
 Dibenzyl ether	C1=CC=C(C=C1)COCC2=CC=CC=C2
 SoRI-20041	c2ccccc2C(c3ccccc3)CCNc(nc4-c5ccccc5)c1ccccc1n4
-N-Methylephedrine	C[C@@H]([C@@H](C1=CC=CC=C1)O)N(C)C
+Methylephedrine	C[C@@H]([C@@H](C1=CC=CC=C1)O)N(C)C
 Ethyl decanoate	O=C(OCC)CCCCCCCCC
 2-Furonitrile	N#Cc1occc1
 O-1269	CCCCCNC(=O)c2nn(c(c2C)-c(cc3)ccc3Cl)-c1ccc(Cl)cc1Cl
@@ -21513,8 +21513,12 @@ Ammonium hexafluoroniobate	[NH4+].F[Nb-](F)(F)(F)(F)F
 Ammonium hexafluorogallate	[NH4+].[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[Ga+3]
 Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
 Butylamphetamine	CCCCNC(C)CC1=CC=CC=C1
-2,4-di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
+2,4-Di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
 (R)-1-Aminoindan	C1CC2=CC=CC=C2[C@@H]1N
 1-Aminoindan	C1CC2=CC=CC=C2C1N
 Bedoradrine	CN(C)C(=O)COC1=CC2=C(CC[C@@H](C2)NC[C@@H](C3=CC(=C(C=C3)O)CCO)O)C=C1
 Dioxethedrin	CCNC(C)C(C1=CC(=C(C=C1)O)O)O
+Dioxifedrine	CC(C(C1=CC(=C(C=C1)O)O)O)NC
+Stachydrine	C[N+]1(C)CCC[C@H]1C([O-])=O
+Stachydrine	C(=O)([O-])[C@@H]1[N+](CCC1)(C)C
+Ammonium hexafluoroplatinate	[NH4+].[NH4+].F[Pt-2](F)(F)(F)(F)F
