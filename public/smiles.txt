@@ -20804,6 +20804,7 @@ Fruquintinib	CNC(=O)C1=C(C)OC2=CC(OC3=NC=NC4=CC(OC)=C(OC)C=C34)=CC=C12
 Methoxyqualone	CC1=NC2=CC=CC=C2C(=O)N1C3=CC=CC=C3OC
 SCQ1	O=C3C[C@@]1(CN2CCC1CC2)Oc4c3ccc5ccccc45
 Retagliptin	COC(=O)C1=C2CN(CCN2C(=N1)C(F)(F)F)C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N
+Jaktinib	N(C=1N=C(C2=CC=C(C(NCC#N)=O)C=C2)C=CN1)C3=CC=C(C=C3)N4C(COCC4([2H])[2H])([2H])[2H]
 Butyl oleate	CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC
 25O-NBcP	COc1cc(CCNCc2ccccc2C2CC2)c(OC)cc1OC
 2C2-NBOMe	COc1ccccc1CNCCc1cc2OCOc2cc1OC
@@ -20825,6 +20826,7 @@ Baxdrostat	CCC(=O)N[C@@H]1CCCC2=C1C=NC=C2C3=CC4=C(C=C3)N(C(=O)CC4)C
 Enlicitide chloride	CC1C(=O)NC(C(=O)NC2CC3=CC(=CC=C3)CNC(=O)COC4CCN5C4C(=O)NC(C(=O)NC(C(=O)N6CCCC6(C(=O)NCCC7=CC=C(CN(CCCCCCN8C=C(CC(C5=O)NC2=O)C9=C8C=CC(=C9)F)C(=O)CCC(=O)N1)C=C7)C)CC1=CC=C(C=C1)OC)C(C)O)CNC(=O)CCCCC[N+](C)(C)C.[Cl-]
 Navafenterol	CN(CCCN1C2=C(C=C(C=C2)CNC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)N=N1)C5CCC(CC5)OC(=O)C(C6=CC=CS6)(C7=CC=CS7)O
 AZD-1390	CC(C)N1C2=C(C=NC3=CC(=C(C=C32)C4=CN=C(C=C4)OCCCN5CCCCC5)F)N(C1=O)C
+Frespaciguat	O=C(O)CCC1=CC=C(C=C1)C2(C(=O)NC=3N=C(N=C(N)C32)C4=NN(C=5C=C(Cl)C=CC45)CCC(F)(F)C(F)(F)F)C
 Mosliciguat	C1C[C@@H](C2=C(C1)N=C(C=C2)C(=O)O)N(CCC3=CC=C(C=C3)C(=O)O)CCC4=CC=CC=C4OCC5=C(C=C(C=C5)C6=CC=C(C=C6)C(F)(F)F)Cl
 MK-8189	CC1=CN=C(C=C1)[C@H]2C[C@@H]2COC3=NC(=NC(=C3)NCC4=NN=C(S4)C)C
 Asundexian	CC[C@@H](C(=O)NC1=CC(=C(C=C1)C(=O)N)F)N2C=C(C(=CC2=O)C3=C(C=CC(=C3)Cl)N4C=C(N=N4)C(F)(F)F)OC
@@ -20927,6 +20929,7 @@ Zirconium selenate	[Zr+4].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].O.O.O.O
 Niobium perchlorate	O=Cl(=O)(=O)O[Nb](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
 Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3]
 Cerium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Ce+3].[Ce+3].O.O.O.O.O
+S-309309	FC1=C2[C@@]3(CC=4C(C(=O)N3)=C(NC(CS(C)(=O)=O)=O)N(N4)C5=CC=C(C)C=N5)CCOC2=CC(F)=C1
 Vutiglabridin	CCOC1=CC(=C(C=C1)C2CC3=C(C4=C(C=C3)OC(CC4)(C)C)OC2)O
 NNZ-2591	C=CC[C@@]12CCCN1C(=O)CNC2=O
 JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
@@ -21319,6 +21322,8 @@ Holmium arsenide	[As]#[Ho]
 Holmium antimonide	[Ho].[Sb]
 Sodium tetrapropylborate	CCC[B-](CCC)(CCC)CCC.[Na+]
 Holmium bismuthide	[Ho].[Bi]
+Androprostamine	C(=C(\NC([C@@H](NC(C[C@H](CCCCNC(CC[C@@H](C(O)=O)N)=O)N)=O)[C@@](C)(C)O)=O)/C(O)=O)\C1=CC(O)=C(Cl)C(O)=C1
+Androprostamine	C(=C(NC(C(NC(CC(CCCCNC(CCC(NC(=O)C1CCCN1)C(O)=O)=O)N)=O)C(C)(C)O)=O)C(O)=O)C2=CC(O)=C(Cl)C(O)=C2
 Dysprosium arsenide	[As]#[Dy]
 Dysprosium antimonide	[Dy].[Sb]
 Dysprosium bismuthide	[Dy].[Bi]
@@ -21327,6 +21332,7 @@ Homocysteine thiolactone	C1CSC(=O)[C@H]1N
 Methyl violet 6B	CN=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C3=CC=C(C=C3)N(C)C)C=C1.Cl
 IM-250	CC1=C(SC(=N1)N(C)C(=O)CC2=CC=C(C=C2)C3=C(C=CC(=C3)F)F)S(=N)(=O)C
 Methyl violet 2B	CN(C)C1=CC=C(C=C1)C(=C2C=CC(=N)C=C2)C3=CC=C(C=C3)N(C)C.Cl
+N-Propylmagnesium bromide	CC[CH2-].[Mg+2].[Br-]
 2,4,6-Tris(dimethylaminomethyl)phenol	CN(C)CC1=CC(=C(C(=C1)CN(C)C)O)CN(C)C
 KL-50	FCCN1N=NC2=C(C(=O)N)N=CN2C(=O)1
 Perfluoro(4-ethylcyclohexane)sulfonic acid	C1(C(C(C(C(C1(F)F)(F)F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)F
@@ -21515,7 +21521,7 @@ Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
 Butylamphetamine	CCCCNC(C)CC1=CC=CC=C1
 2,4-Di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
 (R)-1-Aminoindan	C1CC2=CC=CC=C2[C@@H]1N
-1-Aminoindan	C1CC2=CC=CC=C2C1N
+1-Aminoindane	C1CC2=CC=CC=C2C1N
 Bedoradrine	CN(C)C(=O)COC1=CC2=C(CC[C@@H](C2)NC[C@@H](C3=CC(=C(C=C3)O)CCO)O)C=C1
 Dioxethedrin	CCNC(C)C(C1=CC(=C(C=C1)O)O)O
 Dioxifedrine	CC(C(C1=CC(=C(C=C1)O)O)O)NC
