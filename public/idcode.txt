@@ -1998,7 +1998,7 @@ diDNPHSB[aBHjHrRRjQVeP@	Dichlorine heptoxide
 eMIHbFHRZ@	Dichlorine monoxide
 ff}@J@HHpPuoQAVEDQDHbHdHdIBPbRqQZuUU@ls@P@@	Dess–Martin periodinane
 fl}AA`D`bBQCHbTQjHMDYEEEIihlXeS`eNCzLTsUUUUUUTKDiAQRmGStb`@	Dieldrin
-dg~H@AAJYYm^avzjB`b@@	Phendimetrazine
+dg~H@AAJYYm^avzjB`bDbE@@	Phendimetrazine
 dmtD`DpHaImYVUfh@@@@	Benzyl chloroformate
 gB@BQZRHTQh`[NW[`@@	Rhodium(III) chloride
 gB@BQYRHTQh`[NW[`@@	Iridium(III) chloride
@@ -3727,7 +3727,6 @@ fnkPa@IQDTDPvHrJJIJPjJ[QKIgMVCGMXBBjhJAHh@@	Cloxazolam
 fcoPP@CAASj|dTtRRrbbTRrLrwINBt]AAEMTEAEP`@@	Tofisopam
 ffcPa@N^ldDQVHRYeg[f]Udg^bVBAbBhFH`@@	Lormetazepam
 ffsHC@FJLxFH`HSDYEDdeEEEMGEbTUXsbuijjYfB@Z@@@	Brotizolam
-fi{pa@AJFDhHbLadTRTtRTTRbRIuNZ]el@PuAU@qY@@@	Cinolazepam
 fakQa@AJBWhHbLadTRTtRTTRbRIisSlm`BFhJhFH`@@	Doxefazepam
 f`aQ`@DX@pRSJsvwtxuSMMU@@@	Vinylbital
 do}L@DpFEIeY{WkfjYjj`@	Butobarbital
@@ -13721,9 +13720,6 @@ ffk`b@OTbBHRYYVUVY}gARlEwdyjZjhJhJbbdEaLgEi@@	Α-Chlorocodide
 f`qQb@LD``P@cIICDhhlUrSoKUST@@@@	Bentazon
 gBAhXlHp[NW[`@@	Indium(III) hydroxide
 eeXpE@@@DIODikdZV\bbTTTVtRRbtJRTrVbRtQSGFefSQUTvrqwpIKKTEPQUMLu@`USUPuD`PbX@@	Xylindein
-gOp@DjWkZj`@	Methylcyclohexene
-gOp@DiYKZj`@	Methylcyclohexene
-gOp@DiUMZj`@	Methylcyclohexene
 dclD@@qJZ[esfFjjjj@@	Multistriatin
 daxL@@RdfVVih@@	Ethyl pyruvate
 fgo@P@@RMdhRDaHaHQDSDqDaHRDcAabffjjjeVjjjP@@	Lupulone
@@ -20391,6 +20387,8 @@ gNAbSVKJUbkMVCYr{\@@	Iridium(III) iodide
 ffc@rAHHpRc@[`Mmp^srUUJjlllblhIluUJjuUUU@@@	Praseodymium acetylacetonate
 eLCp|hA`A[g`@	Neodymium(II) hydride
 ffi@rAHLE[qPDPMqrncvAJKPEQZ@jKQjYjYjX@@	Erbium acetylacetonate
+gOp@DjWkZj`@	1-Methylcyclohexene
+gOp@DiYKZj`@	3-Methylcyclohexene
 ea^P@@@DjWVWeuey]Y^Wyjjjjjjjjjjjjj@@@	Biphytane
 gNpN@uRPTai@rEdGHQUT@@	Radon hexafluoride
 fnkh@@@LUhNRJIQQQIIIYXbuYOlabuP@pAPUpH@@	Pyeazolam
@@ -21515,6 +21513,7 @@ daZ@yNBRbPRPrPJPjPZPCnfOuUP@@	Ammonium hexafluorotantalate
 de[@xnFPcHdDdLdBdJdFd@kiFYfOqUT@@	Ammonium hexafluoroindate
 ffcAp@@DEEIZyEEEMDmEdeDVBtxNViB`@Bbh@@@	Robinetin
 gFXXkEbLP}Ycrl@@	Ammonium perbromate
+fncHbPDXmD@ePFh@t@z@}@A`BpEXAlAdTTTTTbTfmtcIQRuUMUUSUL@CDeHFd@r@y@|`APBhETAj@	D9-Caffeine
 daZ@yNBTbPRPrPJPjPZPCnfOuUP@@	Ammonium hexafluoroniobate
 deC@y^FP~HdDdLdBdJdFd@vNSlxnkf{iFYd@@	Ammonium hexafluorogallate
 daZ@yNCLbPRPrPJPjPZPCnfOuUP@@	Ammonium hexafluoroantimonate
@@ -21529,3 +21528,5 @@ deVDABADxiR[feiZjjhr@@	Stachydrine
 deVDABADxiR[feiZjjhq@@	Stachydrine
 diY@{NDGJIAICI@iBiAi@FzQfOrjh@@	Ammonium hexafluoroplatinate
 daZ@yNBDbPRPrPJPjPZPCnfOuUP@@	Ammonium hexafluoroarsenate
+gOp@DiUMZj`@	4-Methylcyclohexene
+fi{aADCQADCdCRdrnrnjwJ}FZLwl@D@ETp@P@@@	HPP+

@@ -1998,7 +1998,7 @@ Dichlorine heptoxide	O=Cl(=O)(=O)OCl(=O)(=O)=O
 Dichlorine monoxide	ClOCl
 Dess–Martin periodinane	CC(=O)OI1(c2ccccc2C(=O)O1)(OC(=O)C)OC(=O)C
 Dieldrin	ClC5(Cl)[C@]3(Cl)C(\Cl)=C(\Cl)[C@@]5(Cl)[C@H]4[C@H]1C[C@H]([C@@H]2O[C@H]12)[C@@H]34
-Phendimetrazine	O2C(c1ccccc1)C(N(C)CC2)C
+Phendimetrazine	C[C@H]1[C@@H](OCCN1C)C2=CC=CC=C2
 Benzyl chloroformate	ClC(=O)OCc1ccccc1
 Rhodium(III) chloride	[Rh+3].[Cl-].[Cl-].[Cl-]
 Iridium(III) chloride	[Cl-].[Cl-].[Cl-].[Ir+3]
@@ -3727,7 +3727,6 @@ Cloxazolam	Clc1ccccc1C42OCCN2CC(=O)Nc3c4cc(Cl)cc3
 Tofisopam	O(c3ccc(C\2=N\N=C(/C(c1c/2cc(OC)c(OC)c1)CC)C)cc3OC)C
 Lormetazepam	ClC1=CC=CC=C1C2=NC(C(N(C)C3=C2C=C(C=C3)Cl)=O)O
 Brotizolam	ClC1=CC=CC=C1C2=NCC3=NN=C(C)N3C4=C2C=C(Br)S4
-Cinolazepam	FC1=CC=CC=C1C2=NC(C(N(CCC#N)C3=C2C=C(C=C3)Cl)=O)O
 Doxefazepam	FC1=CC=CC=C1C2=NC(C(N(CCO)C3=C2C=C(C=C3)Cl)=O)O
 Vinylbital	O=C1NC(=O)NC(=O)C1(\C=C)C(C)CCC
 Butobarbital	O=C1NC(=O)NC(=O)C1(CCCC)CC
@@ -13721,9 +13720,6 @@ Neurosporene	CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C
 Bentazon	O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12
 Indium(III) hydroxide	[OH-].[OH-].[OH-].[In+3]
 Xylindein	CCC[C@@H](C0)OC(=O)c(c1O)c0c2Oc3cC(=O)c4c5c3c6c2c1C(=O)cc6Oc5c7c(c4O)C(=O)O[C@H](C7)CCC
-Methylcyclohexene	CC1=CCCCC1
-Methylcyclohexene	CC1CCCC=C1
-Methylcyclohexene	CC1CCC=CC1
 Multistriatin	CCC12C(CC(C(O1)CO2)C)C
 Ethyl pyruvate	CCOC(=O)C(=O)C
 Lupulone	O=C1C(/C\C=C(/C)C)=C(/O)\C(=C(\O)C1(C\C=C(/C)C)C\C=C(/C)C)C(=O)CC(C)C
@@ -20391,6 +20387,8 @@ Iridium(III) iodide	O.O.O.[I-].[I-].[I-].[Ir+3]
 Praseodymium acetylacetonate	CC1=O[Pr+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
 Neodymium(II) hydride	[H-].[H-].[Nd+2]
 Erbium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Er+3]
+1-Methylcyclohexene	CC1=CCCCC1
+3-Methylcyclohexene	CC1CCCC=C1
 Biphytane	CCC(C)CCCC(C)CCCC(C)CCCC(C)CCC(C)CCCC(C)CCCC(C)CCCC(C)CC
 Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
@@ -21515,6 +21513,7 @@ Ammonium hexafluorotantalate	[NH4+].F[Ta-](F)(F)(F)(F)F
 Ammonium hexafluoroindate	[NH4+].[NH4+].[NH4+].F[In-3](F)(F)(F)(F)F
 Robinetin	C1=CC2=C(C=C1O)OC(=C(C2=O)O)C3=CC(=C(C(=C3)O)O)O
 Ammonium perbromate	[NH4+].[O-]Br(=O)(=O)=O
+D9-Caffeine	[2H]C([2H])([2H])N1C=NC2=C1C(=O)N(C(=O)N2C([2H])([2H])[2H])C([2H])([2H])[2H]
 Ammonium hexafluoroniobate	[NH4+].F[Nb-](F)(F)(F)(F)F
 Ammonium hexafluorogallate	[NH4+].[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[Ga+3]
 Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
@@ -21529,3 +21528,5 @@ Stachydrine	C[N+]1(C)CCC[C@H]1C([O-])=O
 Stachydrine	C(=O)([O-])[C@@H]1[N+](CCC1)(C)C
 Ammonium hexafluoroplatinate	[NH4+].[NH4+].F[Pt-2](F)(F)(F)(F)F
 Ammonium hexafluoroarsenate	[NH4+].F[As-](F)(F)(F)(F)F
+4-Methylcyclohexene	CC1CCC=CC1
+HPP+	C1=CC(=CC=C1C2=CC=[N+](C=C2)CCCC(=O)C3=CC=C(C=C3)F)Cl
