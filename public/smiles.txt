@@ -3727,6 +3727,7 @@ Cloxazolam	Clc1ccccc1C42OCCN2CC(=O)Nc3c4cc(Cl)cc3
 Tofisopam	O(c3ccc(C\2=N\N=C(/C(c1c/2cc(OC)c(OC)c1)CC)C)cc3OC)C
 Lormetazepam	ClC1=CC=CC=C1C2=NC(C(N(C)C3=C2C=C(C=C3)Cl)=O)O
 Brotizolam	ClC1=CC=CC=C1C2=NCC3=NN=C(C)N3C4=C2C=C(Br)S4
+Cinolazepam	FC1=CC=CC=C1C2=NC(C(N(CCC#N)C3=C2C=C(C=C3)Cl)=O)O
 Doxefazepam	FC1=CC=CC=C1C2=NC(C(N(CCO)C3=C2C=C(C=C3)Cl)=O)O
 Vinylbital	O=C1NC(=O)NC(=O)C1(\C=C)C(C)CCC
 Butobarbital	O=C1NC(=O)NC(=O)C1(CCCC)CC
@@ -21444,6 +21445,7 @@ Methanesulfonyl azide	CS(=O)(=O)N=[N+]=[N-]
 Diiodine hexaoxide	O=[I+]=O.O=[I-](=O)(=O)=O
 Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
 3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
+MK-7845	CC(C)(C)[C@@H](C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)N[C@@H](CCC(C)(F)F)C(=O)C(=O)NC)NC(=O)OC
 Frontalin	C[C@@]12CCC[C@@](O1)(OC2)C
 Benzgalantamine	COc1ccc2c3c1O[C@H]1C[C@@H](OC(=O)c4ccccc4)C=C[C@@]31CCN(C)C2
 Diiodosyl sulfate	[I+]=O.[I+]=O.[O-]S([O-])(=O)=O
