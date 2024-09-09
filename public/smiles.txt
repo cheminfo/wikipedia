@@ -18793,7 +18793,7 @@ GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
 HS665	C1CC(C1)CN(CCC2=CC=CC=C2)CCC3=CC(=CC=C3)O
 ML-SA1	CC1CC(N(C2=CC=CC=C12)C(=O)CN3C(=O)C4=CC=CC=C4C3=O)(C)C
 MK6-83	CC1=CC=C(S1)S(=O)(=O)NC2=CC=CC=C2N3CCCCC3
-WS-12	C[C@@H]1CC[C@H]([C@@H](C1)C(=O)NC2=CC=C(C=C2)OC)C(C)C
+Acoltremon	C[C@@H]1CC[C@H]([C@@H](C1)C(=O)NC2=CC=C(C=C2)OC)C(C)C
 ML-SI3	COC1=CC=CC=C1N2CCN(CC2)[C@H]3CCCC[C@@H]3NS(=O)(=O)C4=CC=CC=C4
 SN-2	CC1=CC(=C(C(=C1)C)C2=NOC3C2C4CCC3C4)C
 ML2-SA1	Clc4cccc(Cl)c4C3=NOC2C1CC(CC1)C23
@@ -19978,8 +19978,8 @@ Constictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)C=O)OC
 Bis(allyl)nickel	[CH2-]C=C.[CH2-]C=C.[Ni+2]
 7-Methylxanthine	CN1C=NC2=C1C(=O)NC(=O)N2
 Potassium perrhenate	[K+].[O-][Re](=O)(=O)=O
-Erythrohydrobupropion	CC(C(C1=CC(=CC=C1)Cl)O)NC(C)(C)C
-Threohydrobupropion	CC(C(C1=CC(=CC=C1)Cl)O)NC(C)(C)C
+Erythrohydrobupropion	[C@H]([C@H](NC(C)(C)C)C)(O)C1=CC(Cl)=CC=C1
+Threohydrobupropion	[C@H]([C@@H](NC(C)(C)C)C)(O)C1=CC(Cl)=CC=C1
 Rhenium(III) bromide	Br[Re](Br)Br
 Silver tungstate	[O-][W](=O)(=O)[O-].[Ag+].[Ag+]
 Potassium phosphide	[P-3].[K+].[K+].[K+]
@@ -21533,3 +21533,12 @@ Ammonium hexafluoroarsenate	[NH4+].F[As-](F)(F)(F)(F)F
 4-Methylcyclohexene	CC1CCC=CC1
 HPP+	C1=CC(=CC=C1C2=CC=[N+](C=C2)CCCC(=O)C3=CC=C(C=C3)F)Cl
 5-Hydroxyindoleacetaldehyde	C1=CC2=C(C=C1O)C(=CN2)CC=O
+LY-2365109	CC(C)(C)C1=C(C=CC(=C1)C2=CC3=C(C=C2)OCO3)OCCN(C)CC(=O)O
+1,6-Bis(2,3-epoxypropoxy)naphthalene	C1C(O1)COC2=CC3=C(C=C2)C(=CC=C3)OCC4CO4
+Bezuclastinib	CC1=C(NN=C1C(=O)NC2=CN=C3C(=C2)C=C(N3)C4=CC=CC=C4)C
+Camlipixant	CC1=CC2=NC(=C(N2C=C1)C[C@H]3CN(CCO3)C(=O)OC)C4=C(C=C(C=C4F)C(=O)NC)F
+Cenerimod	CCC1=C(C(=CC(=C1)C2=NOC(=N2)C3=CC(=NC(=C3)OC)C4CCCC4)C)OC[C@H](CO)O
+Ceralasertib	C[C@@H]1COCCN1C2=NC(=NC(=C2)C3(CC3)[S@](=N)(=O)C)C4=C5C=CNC5=NC=C4
+3,4-Dihydroxyphenylglycolaldehyde	C1=CC(=C(C=C1C(C=O)O)O)O
+Γ-Aminobutyraldehyde	C(CC=O)CN
+4-Amino-1-butanol	C(CCO)CN
