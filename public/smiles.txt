@@ -21227,6 +21227,7 @@ Thujaplicinol	CC(C)C1=CC(=O)C(=C(C=C1)O)O
 8-Bromocaffeine	CN1C2=C(N=C1Br)N(C(=O)N(C2=O)C)C
 Tin triphosphide	[Sn+2].[Sn+4].[P-]1=[P-][P-]=[P-][P-]=[P-]1
 Neptunium monocarbide	[Np+4].[C-4]
+Selatogrel	CCCCOC(=O)N1CCN(CC1)C(=O)[C@H](CP(=O)(O)O)NC(=O)C2=CC(=NC(=N2)C3=CC=CC=C3)N4CC[C@@H](C4)OC
 Platinum(IV) iodide	I[Pt](I)(I)I
 Indium(I) iodide	[In]I
 Alpha-D2PV	C1CCN(C1)C(C2=CC=CC=C2)C(=O)C3=CC=CC=C3
@@ -21555,3 +21556,14 @@ Sepetaprost	CC(C)OC(=O)CCC[C@H]1CC[C@H]2[C@H](C[C@H]([C@@H]2/C=C/[C@H](COC3=C(C=
 Tigulixostat	CC(C)N1C=C(C2=C1C=CC(=C2)N3C=C(C=N3)C(=O)O)C#N
 Tinlarebant	CC(=O)N1CCC2=C(C1)NN=C2C(=O)N3CCC(CC3)C4=C(C(=C(C=C4)F)F)C(F)(F)F
 Zatolmilast	C1=CC(=CC(=C1)Cl)C2=NC(=CC(=C2)CC3=CC=C(C=C3)CC(=O)O)C(F)(F)F
+Camizestrant	C[C@@H]1CC2=C(C=CC3=C2C=NN3)[C@H](N1CC(F)(F)F)C4=NC=C(C=C4)NC5CN(C5)CCCF
+Ibcasertib	COC1=CC2=NC=CC(=C2C=C1)OC3=CC4=C(C=C3)C(=CC=C4)C(=O)NC5=CC=CC=C5N
+Milademetan	CC1(CCC2(CC1)[C@@]3([C@H]([C@@H](N2)C(=O)N[C@@H]4CC[C@H](OC4)C(=O)N)C5=C(C(=NC=C5)Cl)F)C6=C(C=C(C=C6)Cl)NC3=O)C
+Reldesemtiv	C1C(CC1(CNC2=NC=C(C=N2)N3C=CC(=C3)C(=O)N)C4=C(C=CC=N4)F)F
+Valiltramiprosate	CC(C)[C@@H](C(=O)NCCCS(=O)(=O)O)N
+Vidofludimus	COC1=CC=CC(=C1)C2=CC(=C(C=C2)NC(=O)C3=C(CCC3)C(=O)O)F
+Vimseltinib	CC1=C(C=CC(=N1)C2=CN=C(N(C2=O)C)NC(C)C)OC3=CC(=NC=C3)C4=CN(N=C4)C
+Buloxibutid	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(S1)CC(C)C)C2=CC=C(C=C2)CN3C=CN=C3
+Zandelisib	CC(C)(CC1=CC=CC=C1C2CCN(CC2)C)NC3=NC(=NC(=N3)N4CCOCC4)N5C6=CC=CC=C6N=C5C(F)F
+Senaparib	C1CN(CCN1C2=NC=CC=N2)C(=O)C3=C(C=CC(=C3)CN4C5=C(C(=CC=C5)F)C(=O)NC4=O)F
+Lysergine	C[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
