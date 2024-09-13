@@ -20779,6 +20779,7 @@ Nitrosyl perchlorate	N(=O)OCl(=O)(=O)=O
 Pentachlorocyclopropane	C1(C(C1(Cl)Cl)(Cl)Cl)Cl
 Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
+CVN45502	C[C@@]1(CCC[C@@H]1NC(=O)C2=C(C=CC=N2)N3N=CC=N3)NC4=NC=C(N=C4)C(F)(F)F
 Ecnoglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC6=CNC=N6)N
 HGH Fragment 176–191	N(C([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@H](CC1=CC=CC=C1)N)=O)CC(C)C)=O)CCCNC(=N)N)=O)[C@H](CC)C)=O)[C@H](C)C)=O)CCC(N)=O)=O)[C@@H]2C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@H](C(NCC(N[C@@H](CC3=CC=CC=C3)C(O)=O)=O)=O)CSSC2
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
@@ -21556,6 +21557,7 @@ Sepetaprost	CC(C)OC(=O)CCC[C@H]1CC[C@H]2[C@H](C[C@H]([C@@H]2/C=C/[C@H](COC3=C(C=
 Tigulixostat	CC(C)N1C=C(C2=C1C=CC(=C2)N3C=C(C=N3)C(=O)O)C#N
 Tinlarebant	CC(=O)N1CCC2=C(C1)NN=C2C(=O)N3CCC(CC3)C4=C(C(=C(C=C4)F)F)C(F)(F)F
 Zatolmilast	C1=CC(=CC(=C1)Cl)C2=NC(=CC(=C2)CC3=CC=C(C=C3)CC(=O)O)C(F)(F)F
+Dihydronicotinamide mononucleotide	C1C=CN(C=C1C(=O)N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
 Camizestrant	C[C@@H]1CC2=C(C=CC3=C2C=NN3)[C@H](N1CC(F)(F)F)C4=NC=C(C=C4)NC5CN(C5)CCCF
 Ibcasertib	COC1=CC2=NC=CC(=C2C=C1)OC3=CC4=C(C=C3)C(=CC=C4)C(=O)NC5=CC=CC=C5N
 Milademetan	CC1(CCC2(CC1)[C@@]3([C@H]([C@@H](N2)C(=O)N[C@@H]4CC[C@H](OC4)C(=O)N)C5=C(C(=NC=C5)Cl)F)C6=C(C=C(C=C6)Cl)NC3=O)C
@@ -21567,4 +21569,7 @@ Buloxibutid	CCCCOC(=O)NS(=O)(=O)C1=C(C=C(S1)CC(C)C)C2=CC=C(C=C2)CN3C=CN=C3
 Zandelisib	CC(C)(CC1=CC=CC=C1C2CCN(CC2)C)NC3=NC(=NC(=N3)N4CCOCC4)N5C6=CC=CC=C6N=C5C(F)F
 Senaparib	C1CN(CCN1C2=NC=CC=N2)C(=O)C3=C(C=CC(=C3)CN4C5=C(C(=CC=C5)F)C(=O)NC4=O)F
 Lysergine	C[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+2,3-Dichloroaniline	C1=CC(=C(C(=C1)Cl)Cl)N
+3,5-Dichloroaniline	C1=C(C=C(C=C1Cl)Cl)N
 2,4-Dichloroaniline	ClC1=C(N)C=CC(Cl)=C1
+4-Fluoroephedrine	CC(C(C1=CC=C(C=C1)F)O)NC
