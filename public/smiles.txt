@@ -8848,7 +8848,7 @@ Arenobufagin	C[C@]12CC[C@@H](C[C@H]1CCC3C2[C@@H](C(=O)[C@]4([C@@]3(CC[C@@H]4C5=C
 Cinobufagin	O=C\1O\C=C(/C=C/1)[C@@H]4[C@@]6(C)CC[C@H]3[C@@H](CC[C@@H]2C[C@@H](O)CC[C@@]23C)[C@]65O[C@@H]5[C@@H]4OC(=O)C
 Azapride	Clc1cc(c(OC)cc1/N=[N+]=[N-])C(=O)NC3CCN(Cc2ccccc2)CC3
 Chloroethylclonidine	ClCCN(C)Cc2cc(Cl)c(N/C1=N/CCN1)c(Cl)c2
-Chlornaltrexamine	O[C@@]13[C@]2([C@@H]5[C@H](N(CCCl)CCCl)CC3)C4=C(C=CC(O)=C4O5)C[C@H]1N(CC6CC6)CC2
+Chlornaltrexamine	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1N(CCCl)CCCl)OC5=C(C=C4)O)O
 N-Ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline	CCOC1C=CC2=CC=CC=C2N1C(=O)OCC
 Chloroethylnorapomorphine	C1CN([C@@H]2CC3=C(C4=C2C1=CC=C4)C(=C(C=C3)O)O)CCCl
 Pentorex	CC(C1=CC=CC=C1)C(C)(C)N
@@ -16795,6 +16795,7 @@ Violacein	C1=CC=C2C(=C1)/C(=C\3/C=C(NC3=O)C4=CNC5=C4C=C(C=C5)O)/C(=O)N2
 Niobium diselenide	[Se]=[Nb]=[Se]
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
+GML-1	CN(CC1=CC=CC=C1)C(=O)C2=CN3C=CC=C3C(=N2)C4=CC=CC=C4
 Manganese(II) hydroxide	[OH-].[OH-].[Mn+2]
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
@@ -21572,4 +21573,12 @@ Lysergine	C[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 2,3-Dichloroaniline	C1=CC(=C(C(=C1)Cl)Cl)N
 3,5-Dichloroaniline	C1=C(C=C(C=C1Cl)Cl)N
 2,4-Dichloroaniline	ClC1=C(N)C=CC(Cl)=C1
-4-Fluoroephedrine	CC(C(C1=CC=C(C=C1)F)O)NC
+2,6-Dichloro-4-nitroaniline	C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-]
+4-Fluoroephedrine	C[C@H]([C@H](C1=CC=C(C=C1)F)O)NC
+Hemantane	C1CCCN(CC1)C2C3CC4CC(C3)CC2C4
+Fosgonimeton	CCCCCC(=O)N[C@@H](CC1=CC=C(C=C1)OP(=O)(O)O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCCCC(=O)N
+Carmantadine	C1CN(C1C(=O)O)C23CC4CC(C2)CC(C4)C3
+Xevinapant	C[C@@H](C(=O)N[C@H]1CN(CC[C@H]2CC[C@H](N2C1=O)C(=O)NC(C3=CC=CC=C3)C4=CC=CC=C4)C(=O)CC(C)C)NC
+Ethofumesate	CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C
+Methoclocinnamox	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)C(=O)CC5)NC(=O)/C=C/C7=CC=C(C=C7)Cl)C=C1
+BMS‐986122	COC1=C(C=C(C=C1)C2N(CCS2)S(=O)(=O)C3=CC=C(C=C3)Cl)Br
