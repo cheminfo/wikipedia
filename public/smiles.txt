@@ -11737,6 +11737,7 @@ Coniferyl aldehyde	COC1=C(C=CC(=C1)C=CC=O)O
 Lithium chlorate	[Li+].[O-]Cl(=O)=O
 Thiamethoxam	Clc1ncc(s1)CN2/C(=N\[N+]([O-])=O)N(C)COC2
 Indium trihydride	[InH3]
+Dolichyl β-D-glucosyl phosphate	CC(CC/C=C(/C)\CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)CCOP(=O)(O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Dolichol monophosphate mannose	CC(CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)CCOP(=O)(O)O[C@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Mercury(I) hydride	[Hg][H]
 Mannose 1-phosphate	O=P(O)(OC1O[C@@H]([C@@H](O)[C@H](O)[C@@H]1O)CO)O
@@ -16044,7 +16045,7 @@ Tarocin	CC1C(OC(=O)N1C(=O)CC2=CC=CC3=CC=CC=C32)C4=CC(=CC(=C4)C(F)(F)F)C(F)(F)F
 Alpelisib	CC1=C(SC(=N1)NC(=O)N2CCCC2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
 AMG 319	C[C@@H](c1cc2ccc(cc2nc1c3ccccn3)F)Nc4c5c([nH]cn5)ncn4
 Sodium arsenide	[Na][As]([Na])[Na]
-Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\C/C=C\CCC1[C@H](O1)CCCC(=O)O
+Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\C/C=C\CC1[C@H](O1)CCCC(=O)O
 Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\C/C=C\CC1O[C@H]1CCCC(=O)O
 Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\C/C=C\CC1O[C@H]1C/C=C\CCCC(=O)O
 Epoxyeicosatetraenoic acid	CC/C=C\C/C=C\CC1O[C@H]1C/C=C\C/C=C\CCCC(=O)O
@@ -21597,3 +21598,5 @@ Tolebrutinib	C=CC(=O)N1CCC[C@H](C1)N2C3=C(C(=NC=C3)N)N(C2=O)C4=CC=C(C=C4)OC5=CC=
 5,6-Dihydroxytryptamine	C1=C2C(=CC(=C1O)O)NC=C2CCN
 Xylamine	CCN(CCCl)CC1=CC=CC=C1C
 Brensocatib	CN1C2=C(C=CC(=C2)C3=CC=C(C=C3)C[C@@H](C#N)NC(=O)[C@@H]4CNCCCO4)OC1=O
+(S)-MK-26	C1=CC=C(Cl)C=C1C([S@@](=O)CC1SC=NC=1)C1=CC(Cl)=CC=C1
+Ammonium hexachlororhenate	[NH4+].[NH4+].Cl[Re-2](Cl)(Cl)(Cl)(Cl)Cl
