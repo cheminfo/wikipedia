@@ -5303,6 +5303,8 @@ Androstane	C3C1CCCC[C@@]1([C@H]2CC[C@]4([C@H]([C@@H]2C3)CCC4)C)C
 Androstane	C[C@@]12[C@](CCC2)([H])[C@]3([H])CCC4([H])CCCC[C@]4(C)[C@@]3([H])CC1
 Mitiglinide	O=C(O)[C@@H](Cc1ccccc1)CC(=O)N3C[C@H]2CCCC[C@H]2C3
 Γ-Glutamylmethylamide	O=C(NC)CC[C@H](N)C(=O)O
+1,3-Cyclobutanedione	C1C(=O)CC1=O
+1,3-Cyclobutanedione	C1C(=CC1=O)O
 Triphenylarsine	C1=CC=C(C=C1)[As](C1=CC=CC=C1)C1=CC=CC=C1
 Ambucetamide	O=C(N)C(c1ccc(OC)cc1)N(CCCC)CCCC
 Boromycin	CC(C)C([NH3+])C(=O)O[C@H](C)[C@H]7OC(=O)C4O[B-]25O[C@@H](C(=O)O[C@H]1C[C@H](O[C@@H]1C)CCC[C@@H](O)C(C)(C)[C@@H]3CC[C@@H](C)[C@@]4(O2)O3)[C@]6(O5)O[C@@H](CC[C@H]6C)C(C)(C)[C@@H](O)CC\C=C/C7
@@ -18536,7 +18538,6 @@ Conophylline	CCC12CC(=C3C4(C1N(CC4)C5C(C2O)OC6=CC7=C(C=C56)C89CCN1C8C(CC(=C9N7)C
 Isovoacristine	C[C@@H]([C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=CC(=C5)OC)C(=O)OC)O
 Californium(III) chloride	[Cl-].[Cl-].[Cl-].[Cf+3]
 Conofoline	CC[C@]12CC[C@H]3[C@@]4([C@H]1N(CC4)C[C@@H]5[C@H]2O5)C6=C(N3C)C=CC(=C6)[C@@H]7[C@@H]8[C@@H](O8)[C@]9(CC(=C1[C@@]2([C@H]9N7CC2)C2=CC(=C(C(=C2N1)OC)OC)O)C(=O)OC)CC
-Ervaticine	C/C=C\1/CN2CC[C@@H]1C(=O)C3=C(C2)C4=CC=CC=C4N3
 Ervatinine	Oc1ccc2c3CC(=O)N4CC(CCc3[NH]c2c1)(CC)C1OC1C4
 Vobasine	C/C=C\1/CN([C@H]2CC3=C(C(=O)C[C@@H]1[C@@H]2C(=O)OC)NC4=CC=CC=C34)C
 Voacristine	C[C@@H]([C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC)O
@@ -21309,7 +21310,7 @@ QL sulfide	CCOP(=S)(C)OCCN(C(C)C)C(C)C
 Azadiradione	CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC(=O)[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C
 Tetrapropylammonium	[N+](CCC)(CCC)(CCC)CCC
 Ytterbium(III) hydroxide	[OH-].[OH-].[OH-].[Yb+3]
-Strontium carbide	[Sr+2].[C-]#[C-]
+Strontium carbide	[Sr]1C#C1
 Maxacalcitol	C[C@@H]([C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C)OCCC(C)(C)O
 Gumarontinib	CN1C=C(C=N1)C2=CN3C(=NC=C3S(=O)(=O)N4C5=C(C=N4)N=CC(=C5)C6=CN(N=C6)C)C=C2
 10-Hydroxyketotifen	OC1c2c(/C(c3ccccc3C1)=C4CCN(CC\4)C)ccs2
@@ -21652,4 +21653,12 @@ DRC-5593	CC(=O)NC1CCC(CC1)CC2CCCCC2
 MSX-4	COC1=CC=CC(/C=C/C2N(C)C3=C(N(CCCOC(=O)[C@](C(C)C)N([H])[H])C(=O)N(CC#C)C3=O)N=2)=C1
 MSX-2	CN1C(=NC2=C1C(=O)N(C(=O)N2CCCO)CC#C)/C=C/C3=CC(=CC=C3)OC
 Lu AA41063	CC(C)(C)CC(=O)NC1=C(C=C(C=C1F)C(=O)NC2=NC=CS2)F
+1,2-Cyclobutanedione	C1CC(=O)C1=O
 Levacetylleucine	O=C(NC(C(=O)O)CC(C)C)C
+GSK-598809	CC1=C(OC=N1)C2=NN=C(N2C)SCCCN3C[C@@H]4C[C@@]4(C3)C5=C(C=C(C=C5)C(F)(F)F)F
+Armesocarb	C[C@H](CC1=CC=CC=C1)[N+]2=NOC(=C2)N=C(NC3=CC=CC=C3)[O-]
+Mesdopetam	CCCNCCOC1=CC(=CC(=C1)S(=O)(=O)C)F
+RGPU-95	C1C(CN(C1=O)CC(=O)N)C2=CC=C(C=C2)Cl
+Ampreloxetine	C1CNCCC1C2=CC=CC=C2COC3=C(C=C(C=C3F)F)F
+Benzoylphenylurea	C1=CC=C(C=C1)C(=O)N(C2=CC=CC=C2)C(=O)N
+Pirepemat	CO[C@@]1(CCNC1)C2=C(C(=CC=C2)F)F
