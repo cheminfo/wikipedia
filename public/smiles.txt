@@ -1125,7 +1125,7 @@ Sodium amide	[Na]N
 Sodium amide	[NH2-].[Na+]
 Tetraethylammonium	CC[N+](CC)(CC)CC
 Bicuculline	O=C1O[C@H](c3c1c2OCOc2cc3)[C@@H]5c4cc6OCOc6cc4CCN5C
-L-DOPA	O=C(O)[C@@H](N)Cc1cc(O)c(O)cc1
+L-DOPA	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O
 Pyridoxal phosphate	O=Cc1c(O)c(C)ncc1COP(O)(O)=O
 Miconazole	Clc1cc(Cl)ccc1C(Cn2ccnc2)OCc3ccc(Cl)cc3Cl
 Agmatine	NCCCCNC(N)=N
@@ -8481,6 +8481,7 @@ Aescin	CC=C(C)C(=O)OC1C(C2(C(CC1(C)C)C3=CCC4C5(CCC(C(C5CCC4(C3(CC2O)C)C)(C)CO)OC
 Mellitic anhydride	O=C2OC(=O)c1c4c(c3c(c12)C(=O)OC3=O)C(=O)OC4=O
 Pempidine	CC1(CCCC(N1C)(C)C)C
 Imetit	C1=C(NC=N1)CCSC(=N)N
+Levodopa	O=C(O)[C@@H](N)Cc1cc(O)c(O)cc1
 Potassium aluminium fluoride	[K+].F[Al-](F)(F)F
 Mandelonitrile	N#CC(O)c1ccccc1
 Benzene	c1ccccc1
@@ -19617,6 +19618,7 @@ Zinc lactate	CC(C(=O)O)O.CC(C(=O)O)O.[Zn]
 Aluminium lactate	CC(C(=O)O[Al](OC(=O)C(C)O)OC(=O)C(C)O)O
 Glycine methyl ester hydrochloride	COC(=O)CN.Cl
 H4-CBD	Oc1c(c(O)cc(c1)CCCCC)C2\CC(/CCC2\C(C)C)C
+H2-CBD	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(CC[C@H]2C(=C)C)C)O
 Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
 5-Fluoro-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)F
@@ -19693,6 +19695,7 @@ Guisinol	C/C=C(\C)/C1=CC(=C(C(=C1)OC(=O)C2=C(C(=C(C(=C2O)C)O)Cl)/C(=C/C)/C)C)O
 2-Chloro-6-fluorobenzaldehyde	C1=CC(=C(C(=C1)Cl)C=O)F
 Spenolimycin	C[C@@H]1C=C([C@]2([C@@H](O1)O[C@@H]3[C@H]([C@@H]([C@@H]([C@@H]([C@H]3O2)NC)O)NC)O)O)OC
 Actinobolin	CC1C(C2C(C(CC(=C2C(=O)O1)O)O)O)NC(=O)C(C)N
+Fumigatonin	C[C@H]1C[C@@H]([C@@H]2[C@@]3([C@]14C[C@@]5([C@H]([C@@H]6[C@@H]([C@@](OC6=O)(OC5(O4)OC3)C)OC(=O)C)C)C)C=CC(=O)OC2(C)C)OC(=O)C
 Phlebiarubrone	C1OC2=C(C(=O)C(=O)C(=C2O1)C3=CC=CC=C3)C4=CC=CC=C4
 Proroxan	C1CN(CC1C2=CC=CC=C2)CCC(=O)C3=CC4=C(C=C3)OCCO4
 Neodymium(III) hydride	[NdH3]
@@ -21661,4 +21664,9 @@ Mesdopetam	CCCNCCOC1=CC(=CC(=C1)S(=O)(=O)C)F
 RGPU-95	C1C(CN(C1=O)CC(=O)N)C2=CC=C(C=C2)Cl
 Ampreloxetine	C1CNCCC1C2=CC=CC=C2COC3=C(C=C(C=C3F)F)F
 Benzoylphenylurea	C1=CC=C(C=C1)C(=O)N(C2=CC=CC=C2)C(=O)N
+Tert-Butyl methacrylate	CC(=C)C(=O)OC(C)(C)C
 Pirepemat	CO[C@@]1(CCNC1)C2=C(C(=CC=C2)F)F
+Flerobuterol	CC(C)(C)NCC(C1=CC=CC=C1F)O
+Centpropazine	CCC(=O)C1=CC=C(C=C1)OCC(CN2CCN(CC2)C3=CC=CC=C3)O
+XP-21279	C[C@H](COC(=O)[C@H](CC1=CC(=C(C=C1)O)O)N)OC(=O)C2=CC=CC=C2
+Flurpiridaz (18F)	CC(C)(C)N1N=CC(OCC2=CC=C(COCC[18F])C=C2)=C(Cl)C1=O
