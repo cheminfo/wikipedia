@@ -10624,6 +10624,7 @@ Iodoresiniferatoxin	O=C1C(C)=C[C@@]([C@]1(O)CC(COC(CC2=CC(OC)=C(O)C(I)=C2)=O)=C[
 Α-Viniferin	OC(C=C1)=CC=C1[C@@H]2[C@@H](C3=C4C(O[C@@H](C5=CC=C(O)C=C5)[C@@H]4C6=C([C@@H]7[C@H](C8=CC=C(O)C=C8)O9)C9=CC(O)=C6)=CC(O)=C3)C%10=C7C=C(O)C=C%10O2
 Trans-Diptoindonesin B	OC1=CC(/C=C/C2=CC=C(O[C@H](C3=CC=C(O)C=C3)[C@H]4C5=CC(O)=CC6=C5[C@H](C7=CC(O)=CC(O)=C7)[C@@H](C8=CC=C(O)C=C8)O6)C4=C2)=CC(O)=C1
 Furanomycin	C[C@H]1C=C[C@@H](O1)[C@@H](C(=O)O)N
+Diptoindonesin A	C(=C/C1=CC=C(O)C=C1)\C2=C3C(=C(C(O)=C2)[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)O[C@H]([C@@H]3C5=CC(O)=CC(O)=C5)C6=CC=C(O)C=C6
 E-4031	Cc1cccc(n1)CCN2CCC(CC2)C(=O)c3ccc(cc3)NS(=O)(=O)C
 Phorbol 12,13-dibutyrate	CCCC(=O)O[C@@H]1[C@H]([C@]2([C@@H](C=C(C[C@]3([C@H]2C=C(C3=O)C)O)CO)[C@H]4[C@@]1(C4(C)C)OC(=O)CCC)O)C
 Bay K8644	CC1=C(C(C(=C(N1)C)[N+](=O)[O-])C2=CC=CC=C2C(F)(F)F)C(=O)OC
@@ -17734,7 +17735,7 @@ V-sub x	CCOP(=O)(C)SCCSCC
 Butirosin	C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@@H](CCN)O)O)O[C@@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)N)N
 7α-Thiomethylspironolactone sulfoxide	C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@]45CCC(=O)O5)C)S(=O)C
 Sodium hydrogenoxalate	[Na+].[O-]C(=O)C(=O)O
-EA-2613	[I-].[I-].CC(C)(C)C(C)OP(=O)(C)Oc1cc([N+](C)(C)C)cc(c1)OCCCCOc2cccc(c2)[N+](C)(C)C
+EA-2613	[I-].[I-].CC(C)(C)C(C)OP(=O)(C)Oc1cc([N+](C)(C)C)cc(c1)OCCCOc2cccc(c2)[N+](C)(C)C
 Vanadium(III) acetylacetonate	CC(=CC(=O)C)O.CC(=CC(=O)C)O.CC(=CC(=O)C)O.[V]
 EA-2012	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CC(C)OP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCCOc6cccc(c6)[N+](C)(C)C
 EA-2054	[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.[B-](c1ccccc1)(c2ccccc2)(c3ccccc3)c4ccccc4.CC(C)OP(=O)(C)Oc5cc([N+](C)(C)C)cc(c5)OCCCOc6cccc(c6)[N+](C)(C)C
@@ -21676,3 +21677,6 @@ Flurpiridaz (18F)	CC(C)(C)N1N=CC(OCC2=CC=C(COCC[18F])C=C2)=C(Cl)C1=O
 PF-04455242	CC(C)CNCC1=CC=C(C=C1)C2=CC=CC=C2S(=O)(=O)N3CCCC3
 Bisorcic	CC(=O)NCCC[C@@H](C(=O)O)NC(=O)C
 Prodipine	CC(C)N1CCC(CC1)(C2=CC=CC=C2)C3=CC=CC=C3
+2,4-Dichlorobenzoic acid	C1=CC(=C(C=C1Cl)Cl)C(=O)O
+Phenatine	CC(CC1=CC=CC=C1)NC(=O)C2=CN=CC=C2
+BMS-202	CC1=C(C=CC=C1C2=CC=CC=C2)COC3=NC(=C(C=C3)CNCCNC(=O)C)OC
