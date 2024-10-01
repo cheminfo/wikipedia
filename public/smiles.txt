@@ -9980,6 +9980,7 @@ Levosulpiride	CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC
 Prothipendyl	CN(C)CCCN1C2=CC=CC=C2SC3=C1N=CC=C3
 Clotiapine	Clc2ccc1Sc4c(/N=C(\c1c2)N3CCN(C)CC3)cccc4
 Oxaflozane	O1CCN(C(C)C)CC1c2cc(C(F)(F)F)ccc2
+Oxitriptan	C1=CC2=C(C=C1O)C(=CN2)C[C@@H](C(=O)O)N
 Dimetacrine	CC1(C2=CC=CC=C2N(C3=CC=CC=C31)CCCN(C)C)C
 Etohexadiol	CCCC(C(CC)CO)O
 Bioallethrin	C/C(C)=C/[C@@H]2[C@@H](C(=O)OC1CC(=O)C(\CC=C)=C1\C)C2(C)C
@@ -14224,6 +14225,7 @@ Purmorphamine	C1(N(C2CCCCC2)C=N3)=C3C(NC4=CC=C(N5CCOCC5)C=C4)=NC(OC6=CC=CC7=C6C=
 Tomopenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](N(C3)C)C(=O)N4CC[C@@H](C4)NC(=O)CNC(=N)N)C(=O)O)[C@@H](C)O
 Lenapenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)[C@@H](CCNC)O)C(=O)O)[C@@H](C)O
 Cornusiin E	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)OC8=CC(=CC(=C8O)O)C(=O)O[C@@H]9[C@H]([C@H]1[C@@H](COC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O)O[C@H]9OC(=O)C1=CC(=C(C(=C1)O)O)O)OC(=O)C1=CC(=C(C(=C1)O)O)O)O
+Cornusiin E	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)OC8=C(C(=C(C=C8C(=O)O[C@@H]9[C@H]([C@H]1[C@@H](COC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O)O[C@H]9OC(=O)C1=CC(=C(C(=C1)O)O)O)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O)O
 Yuanhunine	O(c1c4c(ccc1O)[C@@H]([C@@H]3c2c(cc(OC)c(OC)c2)CCN3C4)C)C
 Lobelanidine	CN1C(CCCC1CC(C2=CC=CC=C2)O)CC(C3=CC=CC=C3)O
 Lobelanine	CN1[C@H](CCC[C@H]1CC(=O)C2=CC=CC=C2)CC(=O)C3=CC=CC=C3
@@ -20241,6 +20243,7 @@ Olibanic acid	CCCCCCCC[C@H]1C[C@H]1C(=O)O
 Copper(II) telluride	[Cu]=[Te]
 Copper(I) telluride	[Cu][Te][Cu]
 Copper ditelluride	[Cu]1[Te][Te]1
+Copper ditelluride	[Cu].[Te].[Te]
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
 Benzaldehyde oxime	C1=CC=C(C=C1)\C=N/O
 Benzaldehyde oxime	C1=CC=C(C=C1)/C=N/O
@@ -21680,3 +21683,13 @@ Prodipine	CC(C)N1CCC(CC1)(C2=CC=CC=C2)C3=CC=CC=C3
 2,4-Dichlorobenzoic acid	C1=CC(=C(C=C1Cl)Cl)C(=O)O
 Phenatine	CC(CC1=CC=CC=C1)NC(=O)C2=CN=CC=C2
 BMS-202	CC1=C(C=CC=C1C2=CC=CC=C2)COC3=NC(=C(C=C3)CNCCNC(=O)C)OC
+N-Acetylputrescine	CC(=O)NCCCCN
+N-Acetyl-γ-aminobutyric acid	CC(=O)NCCCC(=O)O
+N-Acetyl-γ-aminobutyraldehyde	CC(=O)NCCCC=O
+ODMA (drug)	CC(CC1=CC2=NON=C2C=C1)NC
+TDMA (drug)	N1SN=C2C=CC(=CC=12)CC(C)N([H])C
+SeDMA	N1[Se]N=C2C=CC(=CC=12)CC(C)N([H])C
+O,O′-Diacetyldopamine	CC(=O)OC1=C(C=C(C=C1)CCN)OC(=O)C
+DA-Phen	C1=CC=C(C=C1)CC(C(=O)NCCC2=CC(=C(C=C2)O)O)N
+O,O′-Dipivaloyldopamine	CC(C)(C)C(=O)OC1=C(C=C(C=C1)CCN)OC(=O)C(C)(C)C
+3,4-Dihydroxymethamphetamine	CC(CC1=CC(=C(C=C1)O)O)NC
