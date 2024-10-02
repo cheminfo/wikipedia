@@ -1161,7 +1161,7 @@ Etiracetam	CCC(C(=O)N)N1CCCC1=O
 Nefiracetam	O=C2N(CC(=O)Nc1c(cccc1C)C)CCC2
 Rolziracetam	O=C2N1C(=O)CCC1CC2
 Nebracetam	O=C2N(Cc1ccccc1)CC(C2)CN
-Fasoracetam	O=C(N1CCCCC1)[C@@H]2NC(=O)CC2
+Fasoracetam	C1CCN(CC1)C(=O)[C@H]2CCC(=O)N2
 Carfentanil	CCC(=O)N(c1ccccc1)C2(C(=O)OC)CCN(CC2)CCc3ccccc3
 Pyritinol	Oc1c(c(cnc1C)CSSCc2c(c(O)c(nc2)C)CO)CO
 Abamectin	CC[C@H](C)[C@H]1O[C@@]2(C[C@@H]3C[C@@H](C\C=C(/C)\[C@@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)[C@@H](C)\C=C\C=C\6/CO[C@@H]7[C@H](O)C(=C[C@@H](C(=O)O3)[C@]67O)C)O2)C=C[C@@H]1C
@@ -20242,8 +20242,7 @@ Olibanic acid	CCCCCCCC[C@@H]1C[C@@H]1C(=O)O
 Olibanic acid	CCCCCCCC[C@H]1C[C@H]1C(=O)O
 Copper(II) telluride	[Cu]=[Te]
 Copper(I) telluride	[Cu][Te][Cu]
-Copper ditelluride	[Cu]1[Te][Te]1
-Copper ditelluride	[Cu].[Te].[Te]
+Copper ditelluride	[Te][Cu][Te]
 Choline hydroxide	C[N+](C)(C)CCO.[OH-]
 Benzaldehyde oxime	C1=CC=C(C=C1)\C=N/O
 Benzaldehyde oxime	C1=CC=C(C=C1)/C=N/O
@@ -20340,6 +20339,7 @@ Oxygen monofluoride	[O]F
 Iodine monoxide	[O]I
 Osmium(IV) fluoride	[F-].[F-].[F-].[F-].[Os+4]
 Krypton tetrafluoride	[Kr](F)(F)(F)F
+Krypton hexafluoride	F[Kr](F)(F)(F)(F)F
 Palladium hexafluoride	F[Pd](F)(F)(F)(F)F
 Zeteletinib	CC(C)(C1=NOC(=C1)NC(=O)CC2=CN=C(C=C2)C3=CN=C4C=C(C(=CC4=C3)OC)OC)C(F)(F)F
 Americium hexafluoride	F[Am](F)(F)(F)(F)F
@@ -20485,6 +20485,7 @@ Ligustilide	O=C1OC(=CCCC)C2=C1C=CCC2
 Abaucin	C1CN(CCC12C3=CC=CC=C3NC(=O)O2)CCC4=CC=C(C=C4)C(F)(F)F
 Jamaicamide A	CC1C=CC(=O)N1C(=O)C=C(CCNC(=O)CCC=CC(C)CCC(=CCl)CCCC#CBr)OC
 Jamaicamide A	CC1C=CC(=O)N1C(=O)/C=C(\CCNC(=O)CC/C=C/C(C)CC/C(=C/Cl)/CCCC#CBr)/OC
+Jamaicamide A	CO/C(=C/C(=O)N1C(=O)C=C[C@@H]1C)CCNC(=O)CC/C=C/C(C)CC/C(=C/Cl)CCCC#CBr
 3-Quinuclidone	C1CN2CCC1C(=O)C2
 Pladienolide B	CC[C@@H]([C@@H](C)[C@@H]1[C@H](O1)C[C@H](C)/C=C/C=C(\C)/[C@@H]2[C@H](/C=C/[C@@H]([C@](CC[C@H](CC(=O)O2)O)(C)O)OC(=O)C)C)O
 Fluorocyclopropane	C1CC1F
@@ -21693,3 +21694,4 @@ O,O′-Diacetyldopamine	CC(=O)OC1=C(C=C(C=C1)CCN)OC(=O)C
 DA-Phen	C1=CC=C(C=C1)CC(C(=O)NCCC2=CC(=C(C=C2)O)O)N
 O,O′-Dipivaloyldopamine	CC(C)(C)C(=O)OC1=C(C=C(C=C1)CCN)OC(=O)C(C)(C)C
 3,4-Dihydroxymethamphetamine	CC(CC1=CC(=C(C=C1)O)O)NC
+Trans-2-Hexenal	CCC/C=C/C=O
