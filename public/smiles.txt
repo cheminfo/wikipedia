@@ -11414,7 +11414,7 @@ Nafenopin	O=C(O)C(Oc1ccc(cc1)C3c2ccccc2CCC3)(C)C
 Aptazapine	c42c(N3C(c1cccn1C2)CN(CC3)C)cccc4
 Tilomisole	Clc4ccc(c1c(sc2nc3ccccc3n12)CC(=O)O)cc4
 Gemopatrilat	CC1(CCC[C@@H](C(=O)N1CC(=O)O)NC(=O)[C@H](CC2=CC=CC=C2)S)C
-Tanomastat	Clc3ccc(c2ccc(C(=O)CC(C(=O)O)CSc1ccccc1)cc2)cc3
+Tanomastat	C1=CC=C(C=C1)SC[C@@H](CC(=O)C2=CC=C(C=C2)C3=CC=C(C=C3)Cl)C(=O)O
 Etalocib	Fc1ccc(cc1)c4c(O)cc(OCCCOc3cccc(Oc2ccccc2C(=O)O)c3CCC)c(c4)CC
 Melissic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Octenidine dihydrochloride	CCCCCCCCN=C1C=CN(C=C1)CCCCCCCCCCN2C=CC(=NCCCCCCCC)C=C2.Cl.Cl
@@ -12165,6 +12165,7 @@ Nickel(II) acetate	O=C(C)O[Ni-4](OC(C)=O)([O+H2])([O+H2])([O+H2])[O+H2]
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
 4,4'-Methylenedianiline	c1cc(N)ccc1Cc2ccc(N)cc2
 Intravenous sodium bicarbonate	C(=O)(O)[O-].[Na+]
+Ethylisopropyllysergamide	CCN(C(C)C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Chlormerodrin	COC(CNC(N)=O)C[Hg]Cl
 Rhoeadine	CN1CCC2=CC3=C(C=C2[C@@H]4[C@H]1C5=C([C@H](O4)OC)C6=C(C=C5)OCO6)OCO3
 Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
@@ -21702,3 +21703,4 @@ Trans-2-Hexenal	CCC/C=C/C=O
 2′-CH3-MPTP	CC1=CC=CC=C1C2=CCN(CC2)C
 2,4-Dichloroamphetamine	CC(CC1=C(C=C(C=C1)Cl)Cl)N
 3-Chloroamphetamine	CC(CC1=CC(=CC=C1)Cl)N
+1,9-Dibromononane	C(CCCCBr)CCCCBr
