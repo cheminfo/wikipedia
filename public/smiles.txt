@@ -14548,7 +14548,7 @@ Xestoquinone	C[C@@]12CCCC3=COC(=C31)C(=O)C4=C2C=C5C(=O)C=CC(=O)C5=C4
 Oreobeiline	CN1CCC23CC(C(CC2C1CC4=CC(=C(C=C34)OC)O)O)OC
 Nostocarboline	C[N+]1=CC2=C(C=C1)C3=C(N2)C=CC(=C3)Cl
 Majdine	C[C@H]1[C@@H]2CN3CC[C@]4([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)C5=C(C(=C(C=C5)OC)OC)NC4=O
-Girolline	C1=C(NC(=N1)N)C(C(CN)Cl)O
+Girolline	[C@H]([C@H](CN)Cl)(O)C=1NC(N)=NC1
 Hirsuteine	CO/C=C(\[C@H]1C[C@@H]2C3=C(CCN2C[C@@H]1C=C)C4=CC=CC=C4N3)/C(=O)OC
 Hirsutine	CC[C@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=CC=CC=C34
 Liriodenine	C1OC2=C(O1)C3=C4C(=C2)C=CN=C4C(=O)C5=CC=CC=C53
@@ -19865,6 +19865,7 @@ Tetracenomycin C	O=C1C=2C(C(=O)[C@@]3(O)[C@]1(O)[C@H](O)C(OC)=CC3=O)=C(O)C=4C(C2
 Magnesium ozonide	[Mg+].[O-]O[O]
 Hordatine A	C1=CC(=CC=C1[C@@H]2[C@H](C3=C(O2)C=CC(=C3)/C=C/C(=O)NCCCCN=C(N)N)C(=O)NCCCCN=C(N)N)O
 Hordatine A	C1=CC(=CC=C1C2C(C3=C(O2)C(=CC(=C3)C=CC(=O)NCCCCN=C(N)N)O)C(=O)NCCCCN=C(N)N)OC4C(C(C(C(O4)CO)O)O)O
+Prescopranone	CCC1=C(O)C(=C(OC1=O)C(/CC)=C/C)CC(CC)CC
 Saphenamycin	CC1=C(C(=CC=C1)O)C(=O)OC(C)C2=CC=CC3=NC4=C(C=CC=C4N=C32)C(=O)O
 Saphenamycin	C[C@@H](OC(=O)c1c(C)cccc1O)c2cccc3nc4c(cccc4nc23)C(=O)O
 Lemonomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)OC[C@H]2C3=C(C[C@@H]4N2[C@H]([C@@H]5C[C@H]([C@H]4N5)C(O)O)O)C(=O)C(=C(C3=O)OC)C)(C)O)N(C)C
@@ -21706,5 +21707,9 @@ Ammonium hexachloroplumbate	[NH4+].[NH4+].Cl[Pb-2](Cl)(Cl)(Cl)(Cl)Cl
 1,9-Dibromononane	C(CCCCBr)CCCCBr
 Pyridoxiphen	CC1=NC=C(C(=C1O)CO)CNC(C)CC2=CC=CC=C2
 3,3-Dimethylbutyraldehyde	CC(C)(C)CC=O
-Ammonium hexachloropalladate	[NH4+].[NH4+].Cl[Pd--](Cl)(Cl)(Cl)(Cl)Cl
+Ammonium hexachloropalladate	[NH4+].[NH4+].Cl[Pd-2](Cl)(Cl)(Cl)(Cl)Cl
 Α-Methyltryptophan	C[C@](CC1=CNC2=CC=CC=C21)(C(=O)O)N
+Α-Methylphenylalanine	C[C@](CC1=CC=CC=C1)(C(=O)O)N
+Α-Methylmelatonin	O(C)C1C=CC2=C(C=1)C(=CN2[H])CC(C)N([H])C(C)=O
+Nebicapone	C1=CC=C(C=C1)CC(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]
+Tepirindole	CCCN1CCC(=CC1)C2=CNC3=C2C=C(C=C3)Cl
