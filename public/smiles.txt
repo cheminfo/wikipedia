@@ -21708,8 +21708,16 @@ Ammonium hexachloroplumbate	[NH4+].[NH4+].Cl[Pb-2](Cl)(Cl)(Cl)(Cl)Cl
 Pyridoxiphen	CC1=NC=C(C(=C1O)CO)CNC(C)CC2=CC=CC=C2
 3,3-Dimethylbutyraldehyde	CC(C)(C)CC=O
 Ammonium hexachloropalladate	[NH4+].[NH4+].Cl[Pd-2](Cl)(Cl)(Cl)(Cl)Cl
+Ammonium hexachloroselenate	[NH4+].[NH4+].Cl[Se-2](Cl)(Cl)(Cl)(Cl)Cl
 Α-Methyltryptophan	C[C@](CC1=CNC2=CC=CC=C21)(C(=O)O)N
 Α-Methylphenylalanine	C[C@](CC1=CC=CC=C1)(C(=O)O)N
+Α-Methyl-5-hydroxytryptophan	C[C@](CC1=CNC2=C1C=C(C=C2)O)(C(=O)O)N
 Α-Methylmelatonin	O(C)C1C=CC2=C(C=1)C(=CN2[H])CC(C)N([H])C(C)=O
 Nebicapone	C1=CC=C(C=C1)CC(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]
 Tepirindole	CCCN1CCC(=CC1)C2=CNC3=C2C=C(C=C3)Cl
+Neluxicapone	CC1=CC=C(C=C1)CC2=C(C(=C(C=C2C#N)O)O)C#N
+Benzotript	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)C3=CC=C(C=C3)Cl
+Dextrofemine	CC(CC1=CC=CC=C1)NC(C)COC2=CC=CC=C2
+Racefemine	CC(CC1=CC=CC=C1)NC(C)COC2=CC=CC=C2
+Emestedastat	C1C[C@H]2CC(C[C@@H]1N2C(=O)C3=CSC(=C3)C4=CNN=C4)(C5=NC=CC=N5)O
+SB269652	C1CC(CCC1CCN2CCC3=C(C2)C=C(C=C3)C#N)NC(=O)C4=CC5=CC=CC=C5N4
