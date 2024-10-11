@@ -5169,7 +5169,7 @@ Dimethyl carbonate	COC(=O)OC
 Benzeneselenol	[SeH]c1ccccc1
 Diphenyl diselenide	c1ccc(cc1)[Se][Se]c2ccccc2
 Evodiamine	O=C4N3CCc2c([nH]c1ccccc12)C3N(c5ccccc45)C
-PK-11195	CCC(C)N(C)C(=O)c3cc1ccccc1c(n3)-c2ccccc2Cl
+PK 11195	CCC(C)N(C)C(=O)c3cc1ccccc1c(n3)-c2ccccc2Cl
 Methyllycaconitine	CCN1CC2(CCC(C34C2C(C(C31)(C5(CC(C6CC4C5C6OC)OC)O)O)OC)OC)COC(=O)C7=CC=CC=C7N8C(=O)CC(C8=O)C
 Trestolone	O=C4\C=C2/[C@@H]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1[C@H](C)C2)C)CC4
 Trestolone acetate	C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)OC(=O)C
@@ -21721,3 +21721,4 @@ Dextrofemine	CC(CC1=CC=CC=C1)NC(C)COC2=CC=CC=C2
 Racefemine	CC(CC1=CC=CC=C1)NC(C)COC2=CC=CC=C2
 Emestedastat	C1C[C@H]2CC(C[C@@H]1N2C(=O)C3=CSC(=C3)C4=CNN=C4)(C5=NC=CC=N5)O
 SB269652	C1CC(CCC1CCN2CCC3=C(C2)C=C(C=C3)C#N)NC(=O)C4=CC5=CC=CC=C5N4
+DopAmide	C1=CC(=C(C=C1CC(C(=O)N)N)O)O
