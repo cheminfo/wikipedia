@@ -289,6 +289,7 @@ Citrulline	NC(CCCNC(N)=O)C(O)=O
 Superoxide	O=[O-]
 Ammonium nitrate	[O-][N+]([O-])=O.[NH4+]
 Succinic acid	C(CC(=O)O)C(=O)O
+Laetrile	c1ccc(cc1)[C@H](C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C(=O)O)O)O)O
 Isoprene	CC(=C)C=C
 Coenzyme Q10	O=C1/C(=C(\C(=O)C(\OC)=C1\OC)C)C\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C
 Haematoxylin	Oc2cc3C[C@]4(O)COc1c(O)c(O)ccc1C4c3cc2O
@@ -981,6 +982,7 @@ Barium sulfate	[Ba+2].[O-]S([O-])(=O)=O
 Barium oxide	[Ba]=O
 Calcium fluoride	[Ca+2].[F-].[F-]
 Calcium fluoride	F[Ca]F
+Nickel arsenide	[Ni].[As]
 Zinc carbonate	C(=O)([O-])[O-].[Zn+2]
 Bethanechol	O=C(OC(C)C[N+](C)(C)C)N
 Carbachol	[Cl-].O=C(OCC[N+](C)(C)C)N
@@ -19448,7 +19450,7 @@ Curium(III) bromide	[Br-].[Br-].[Br-].[Cm]
 Potassium pertechnetate	[K+].[O-][Tc](=O)(=O)=O
 Regonyl	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC=CC4)C)C)C#C
 Pterorhodin	C(=C/1\C(=O)NC2=C(N1)N=C(NC2=O)N)\C3=NC4=C(C(=O)NC(=N4)N)NC3=O
-Potassium hypochromate	O=[Mn-3](=O)(=O)=O.[K+].[K+].[K+]
+Potassium hypochromate	O=[Cr-3](=O)(=O)=O.[K+].[K+].[K+]
 N-t-Butyltryptamine	CC(C)(C)NCCC1=CNC2=CC=CC=C21
 Arsenic(III) telluride	[As].[As].[Te].[Te].[Te]
 Germanium tetrabromide	[Ge](Br)(Br)(Br)Br
@@ -21713,6 +21715,7 @@ Ammonium hexachloroselenate	[NH4+].[NH4+].Cl[Se-2](Cl)(Cl)(Cl)(Cl)Cl
 Α-Methyl-5-hydroxytryptophan	C[C@](CC1=CNC2=C1C=C(C=C2)O)(C(=O)O)N
 Α-Methylmelatonin	O(C)C1C=CC2=C(C=1)C(=CN2[H])CC(C)N([H])C(C)=O
 Nebicapone	C1=CC=C(C=C1)CC(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]
+4-Nitrobiphenyl	C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-]
 Tepirindole	CCCN1CCC(=CC1)C2=CNC3=C2C=C(C=C3)Cl
 Neluxicapone	CC1=CC=C(C=C1)CC2=C(C(=C(C=C2C#N)O)O)C#N
 Benzotript	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)C3=CC=C(C=C3)Cl
@@ -21721,4 +21724,7 @@ Racefemine	CC(CC1=CC=CC=C1)NC(C)COC2=CC=CC=C2
 Emestedastat	C1C[C@H]2CC(C[C@@H]1N2C(=O)C3=CSC(=C3)C4=CNN=C4)(C5=NC=CC=N5)O
 SB269652	C1CC(CCC1CCN2CCC3=C(C2)C=C(C=C3)C#N)NC(=O)C4=CC5=CC=CC=C5N4
 DopAmide	C1=CC(=C(C=C1CC(C(=O)N)N)O)O
+Nitralin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]
+Methenamine	C1N2CN3CN1CN(C2)C3
+2-Ethylhexanal	CCCCC(CC)C=O
 4-tert-butylbenzaldehyde	[H]C(=O)c1ccc(cc1)C(C)(C)C
