@@ -289,7 +289,6 @@ Citrulline	NC(CCCNC(N)=O)C(O)=O
 Superoxide	O=[O-]
 Ammonium nitrate	[O-][N+]([O-])=O.[NH4+]
 Succinic acid	C(CC(=O)O)C(=O)O
-Laetrile	c1ccc(cc1)[C@H](C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C(=O)O)O)O)O
 Isoprene	CC(=C)C=C
 Coenzyme Q10	O=C1/C(=C(\C(=O)C(\OC)=C1\OC)C)C\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)C
 Haematoxylin	Oc2cc3C[C@]4(O)COc1c(O)c(O)ccc1C4c3cc2O
@@ -8837,6 +8836,7 @@ N,N'-Methylenebisacrylamide	C=CC(=O)NCNC(=O)C=C
 3-MCPD	ClCC(O)CO
 Sodium diacetate	O=C(C)O[H-]OC(C)=O.[Na+]
 Xanthopterin	O=C1/N=C(\NC=2/N=C\C(=O)NC1=2)N
+K-selectride	[B-](C(C)CC)(C(C)CC)C(C)CC.[K+]
 EMDT	CCc2[nH]c1ccc(OC)cc1c2CCN(C)C
 Trifluoroacetic anhydride	C(=O)(C(F)(F)F)OC(=O)C(F)(F)F
 Methiocarb	O=C(Oc1cc(c(SC)c(c1)C)C)NC
@@ -10689,7 +10689,7 @@ Potassium amide	[NH2-].[K+]
 Potassium azide	[N-]=[N+]=[N-].[K+]
 Actinidiolide	CC12OC(=O)C=C1C(C)(C)CC=C2
 JWH-398	c14ccccc1n(CCCCC)cc4C(=O)c(cc3)c2ccccc2c3Cl
-Clerici solution	C(C(=O)[O-])C(=O)OC(=O)[O-].[Tl+].[Tl+]
+Clerici solution	C(C(=O)[O-])C(=O)[O-].C(=O)[O-].[Tl+].[Tl+].[Tl+].O
 6-Diazo-5-oxo-L-norleucine	O=C(CC[C@H](N)C(O)=O)\C=[N+]=[N-]
 Azocine	N=1\C=C/C=C\C=C/C=1
 Azocane	N1CCCCCCC1
@@ -21728,3 +21728,4 @@ Nitralin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]
 Methenamine	C1N2CN3CN1CN(C2)C3
 2-Ethylhexanal	CCCCC(CC)C=O
 4-tert-butylbenzaldehyde	[H]C(=O)c1ccc(cc1)C(C)(C)C
+Α-Zeacarotene	CC1=CCCC([C@H]1/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)/C)/C)(C)C
