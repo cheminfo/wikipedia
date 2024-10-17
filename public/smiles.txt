@@ -7632,6 +7632,7 @@ Brilliant green (dye)	[O-]S(=O)(=O)O.[N+](=C/1\C=C/C(C=C\1)=C(/c2ccccc2)c3ccc(N(
 Wurster's blue	CN(C)c1ccc(cc1)N(C)C
 8-Oxoguanine	c12=NC(=O)N=c1[nH]c(nc2=O)N
 8-Oxoguanine	O=C2NC=1N\C(=N/C(=O)C=1N2)N
+Corazonin	CC(C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CO)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)N)NC(=O)C5CCC(=O)N5)O
 Oleoylethanolamide	CCCCCCCC\C=C/CCCCCCCC(=O)NCCO
 Carbon diselenide	[Se]=C=[Se]
 Diphenylphosphine	c2c(Pc1ccccc1)cccc2
@@ -8972,6 +8973,7 @@ Clocinizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)C\C=C\c4ccccc4
 4-Methyldiphenhydramine	O(CCN(C)C)C(c1ccccc1)c2ccc(cc2)C
 Iproheptine	CC(C)CCCC(C)NC(C)C
 Lagochilin	C[C@@]1(CO)[C@@H](O)CC[C@@]2(C)[C@]([H])1CC[C@@H](C)[C@]32O[C@](CO)(CCO)CC3
+Desbutal	CCCC(C)C1(C(=O)NC(=O)NC1=O)CC.CC(CC1=CC=CC=C1)NC.Cl
 Conorfone	O=C4[C@@H]5Oc1c2c(ccc1OC)CC3N(CC[C@]25[C@H]3[C@@H](CC)C4)CC6CC6
 Benzylisoquinoline	c13ccccc3ccnc1Cc2ccccc2
 Oxetorone	CN(C)CCC=C1C2=CC=CC=C2OCC3=C1OC4=CC=CC=C34
@@ -16449,7 +16451,7 @@ Estriol glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O[C@H]4[C@@H]([C
 Hydrocarboxyl	O=[C]O
 Ammonium iodate	[NH4+].[O-]I(=O)=O
 Β-Funaltrexamine	COC(=O)/C=C/C(=O)N[C@@H]1CC[C@]2([C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)O)CCN3CC6CC6)O
-Β-Fuoxymorphamine	O=C(OC)\C=C\C(=O)N[C@H]4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C
+Β-Fuoxymorphamine	O[C@]12[C@@]34C=5C(O[C@]3([C@H](NC(/C=C/C(OC)=O)=O)CC1)[H])=C(O)C=CC5C[C@]2(N(C)CC4)[H]
 Uvitic acid	Cc1cc(cc(c1)C(=O)O)C(=O)O
 Molybdenum carbide	C(=[Mo])=[Mo]
 Molybdenum carbide	[C]=[Mo]
@@ -21300,6 +21302,7 @@ Manganese(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mn+2]
 Mesitaldehyde	CC1=CC(=C(C(=C1)C)C=O)C
 4'-Hydroxyflavanone	C1C(OC2=CC=CC=C2C1=O)C3=CC=C(C=C3)O
 Tricaprin	CCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCC)OC(=O)CCCCCCCCC
+Pharmacology of ethanol	CCO
 Methylammonium formate	C[NH3+].C(=O)[O-]
 9-Oxodecenoic acid	CC(=O)CCCCC/C=C/C(=O)O
 Thorium dichloride	[Th+2].[Cl-].[Cl-]
@@ -21729,3 +21732,6 @@ Methenamine	C1N2CN3CN1CN(C2)C3
 2-Ethylhexanal	CCCCC(CC)C=O
 4-tert-butylbenzaldehyde	[H]C(=O)c1ccc(cc1)C(C)(C)C
 Α-Zeacarotene	CC1=CCCC([C@H]1/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)/C)/C)(C)C
+GSK-2849466	C[C@@H](C(C)(C)O)NC1=C(C(=C(C=C1)C#N)Cl)Cl
+GSK-971086	CC1=CC2=C(N1CC3=NOC(=N3)C4=CC(=CC=C4)C(F)(F)F)C=CC(=C2C(F)(F)F)C#N
+Ammonium hexachlororhodate(III)	[Rh+3]([Cl-])([Cl-])([Cl-])([Cl-])([Cl-])[Cl-].[NH4+]
