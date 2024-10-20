@@ -6389,6 +6389,9 @@ Siramesine	C1CN(CCC12C3=CC=CC=C3CO2)CCCCC4=CN(C5=CC=CC=C54)C6=CC=C(C=C6)F
 1-Cyclohexylpiperazine	N2CCN(C1CCCCC1)CC2
 PB-28	COc1c(CCCC2CCCN3CCN(C4CCCCC4)CC3)c2ccc1
 Fenoterol	Oc1cc(cc(O)c1)C(O)CNC(C)Cc2ccc(O)cc2
+Stearyl palmityl tartrate	CCCCCCCCCCCCCCCCOC(=O)C(O)C(O)C(=O)OCCCCCCCCCCCCCCCCCC
+Stearyl palmityl tartrate	CCCCCCCCCCCCCCCCOC(=O)C(O)C(O)C(=O)OCCCCCCCCCCCCCCCC
+Stearyl palmityl tartrate	CCCCCCCCCCCCCCCCCCOC(=O)C(O)C(O)C(=O)OCCCCCCCCCCCCCCCCCC
 Calcium inosinate	[Ca+2].[O-]P([O-])(=O)OC[C@H]3O[C@@H](n2cnc1c2ncnc1O)[C@H](O)[C@@H]3O
 Calcium inosinate	[O-]P(OC[C@H]1O[C@@H](N2C(NC=NC3=O)=C3N=C2)[C@H](O)[C@@H]1O)([O-])=O.[Ca+2]
 Tetrabromobisphenol A	CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1
@@ -17780,6 +17783,7 @@ Trithionic acid	OS(=O)(=O)SS(=O)(=O)O
 Lithium tetrahydridogallate	[Li+].[GaH4-]
 Levoglucosenone	C1[C@@H]2C=CC(=O)[C@H](O1)O2
 Magnesocene	[cH-]1cccc1.[cH-]1cccc1.[Mg+2]
+Silicalite	[Si].[O].[O]
 Haloxon	CC1=C(Cl)C(=O)Oc2cc(OP(=O)(OCCCl)OCCCl)ccc12
 Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(=O)(=O)O)CO)O[C@@H]2C[C@@]([C@@H]3[C@@](C2)([C@H]4[C@@]5([C@H](C(=C)[C@@H](C5)CC4)O)CC3)C)(C(=O)O)C(=O)O)C
 4-Vinylpyridine	C=CC1=CC=NC=C1
@@ -19338,7 +19342,7 @@ Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[T
 Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Tm+3]
 Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.[Tm+3]
 Thulium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.[Tm+3]
-Promethium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pm]
+Promethium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pm+3]
 Polonium tetranitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Po]
 JWH-369	O=C(C=1C=C(C=2C=CC=CC2Cl)N(C1)CCCCC)C3=CC=CC=4C=CC=CC43
 JWH-373	O=C(C=1C=C(C=2C=CC(=CC2)CCCC)N(C1)CCCCC)C3=CC=CC=4C=CC=CC43
@@ -21733,7 +21737,7 @@ DopAmide	C1=CC(=C(C=C1CC(C(=O)N)N)O)O
 Nitralin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]
 Methenamine	C1N2CN3CN1CN(C2)C3
 2-Ethylhexanal	CCCCC(CC)C=O
-4-tert-butylbenzaldehyde	[H]C(=O)c1ccc(cc1)C(C)(C)C
+4-tert-Butylbenzaldehyde	[H]C(=O)c1ccc(cc1)C(C)(C)C
 Α-Zeacarotene	CC1=CCCC([C@H]1/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)/C)/C)(C)C
 GSK-2849466	C[C@@H](C(C)(C)O)NC1=C(C(=C(C=C1)C#N)Cl)Cl
 GSK-971086	CC1=CC2=C(N1CC3=NOC(=N3)C4=CC(=CC=C4)C(F)(F)F)C=CC(=C2C(F)(F)F)C#N
@@ -21751,3 +21755,5 @@ Clofenetamine	CCN(CC)CCOC(C)(C1=CC=CC=C1)C2=CC=C(C=C2)Cl
 Etaminile	CCC(CC(C)N(C)C)(C#N)C1=CC=CC=C1
 Fotretamine	C1CN1P2(=NP(=NP(=N2)(N3CC3)N4CCOCC4)(N5CC5)N6CC6)N7CC7
 Clorprenaline	CC(C)NCC(C1=CC=CC=C1Cl)O
+Balipodect	COC1=CN(N=C(C1=O)C2=CC=NN2C3=CC=CC=C3)C4=C(C=C(C=C4)N5C=CC=N5)F
+Traneurocin	C1C[C@H]2C(=O)NCC(=O)N2C1
