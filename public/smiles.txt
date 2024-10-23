@@ -13588,6 +13588,7 @@ Phlorofucofuroeckol A	C1=C(C=C(C=C1O)OC2=C(C=C(C3=C2OC4=CC(=C5C(=C43)OC6=C(O5)C(
 Dieckol	Oc4cc(O)c6Oc(cc(O)cc3O)c3Oc6c4Oc(cc2O)cc(O)c2Oc(cc1Oc5c(O)cc7O)cc(O)c1Oc5c7Oc(c8)cc(O)cc8O
 Tetraphlorethol C	c4c(O)cc(O)cc4Oc1c(O)cc(cc1O)Oc3c(O)cc(cc3O)Oc2c(O)cc(O)cc2O
 Tetrafucol A	Oc3cc(O)cc(O)c3-c4c(O)c(c(O)cc4O)-c(c1O)c(O)cc(O)c1-c2c(O)cc(O)cc2O
+Tetrafucol A	CC(=O)Oc1cc(OC(C)=O)c(-c2c(OC(C)=O)cc(OC(C)=O)c(-c3c(OC(C)=O)cc(OC(C)=O)c(-c4c(OC(C)=O)cc(OC(C)=O)cc4OC(C)=O)c3OC(C)=O)c2OC(C)=O)c(OC(C)=O)c1
 Peroxynitric acid	[N+](=O)([O-])OO
 Lithium cyanide	[Li+].[C-]#N
 Oxathiazolones	O=C1OC=NS1
@@ -21776,3 +21777,11 @@ Odapipam	CN1CCC2=CC(=C(C=C2[C@H](C1)C3=CC=CC4=C3OCC4)O)Cl
 Delequamine	COC1=CC2=C(C=C1)[C@@H]3C[C@H]4[C@H](CCCN4S(=O)(=O)C)CN3CC2
 AZD-2327	CCN(CC)C(=O)C1=CC=C(C=C1)[C@H](C2=CC(=CC=C2)N)N3CCN(CC3)CC4=CC=C(C=C4)F
 AZD-7268	CN(CCO)C(=O)C1=CC=C(C=C1)C(=C2CCN(CC2)CC3=CSC=N3)C4=CC=CC5=C4N=CC=C5
+Lu 29-252	C1CN(CCC12C3=CC=CC=C3CO2)CCCCN4CCC5(CC4)C6=CC=CC=C6CO5
+ENX-104	[2H]C([2H])([2H])NC1=CC(OC)=C(C(N[C@@H](CC2)[C@H](C)N2C([2H])([2H])C3=CC=CC=C3)=O)C=C1Cl
+Bromine perchlorate	O=Cl(=O)(=O)OBr
+N-Methylamisulpride	CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)NC)S(=O)(=O)CC
+JNJ-37654032	C=CC(C1=NC2=CC(=C(C=C2N1)Cl)Cl)(C(F)(F)F)O
+JNJ-26146900	CCS(=O)(=O)C[C@@](C)(C1=CC2=CC(=C(C=C2N1)C(F)(F)F)C#N)O
+GTx-027	C[C@](COC1=CC=C(C=C1)C#N)(C(=O)NC2=CC(=C(C=C2)C#N)Cl)O
+MK-4541	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NC(=O)OCC(F)(F)F)CC[C@@H]4[C@@]3(C=CC(=O)N4C)C
