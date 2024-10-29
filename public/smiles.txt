@@ -5910,7 +5910,6 @@ Hypoiodous acid	IO
 Pentanal	O=CCCCC
 Trimethylamine N-oxide	C[N+](C)(C)[O-]
 Beatrice (psychedelic)	O(c1cc(c(OC)cc1CC(NC)C)C)C
-Ariadne (drug)	O(c1cc(c(OC)cc1CC(N)CC)C)C
 Ariadne (drug)	O(c1cc(c(OC)cc1C[C@H](N)CC)C)C
 Α-Ethylmescaline	O(c1cc(cc(OC)c1OC)CC(N)CC)C
 Allylescaline	COc1cc(cc(OC)c1OCC=C)CCN
@@ -21813,3 +21812,6 @@ GR-55562	CN(C)CCCC1=C(C=CC(=C1)C(=O)NC2=CC=C(C=C2)C3=CC=NC=C3)O
 Altohyrtin A	C=C(C[C@H]([C@@H](O)[C@@H]1OC(C[C@@H]2O[C@@]3(O[C@@H](CC([C@H]([C@@H]([C@@H](C(C[C@H]4O[C@]5(C[C@@H](O)C[C@H](/C=C\CCC[C@H]6O[C@]7(O)C[C@H](O)[C@H]6C)O5)C[C@@H](OC)C4)=O)C)OC(C)=O)C)=C)C[C@@](O)(C)C3)C[C@@H](OC(C)=O)C2)=O)O[C@@]([C@@H]1C)([H])[C@@H]7O)C[C@H](O)/C=C/C(Cl)=C
 RG7713	CN(C)CCN1C=C(C2=C1C=C(C=C2)Cl)C(=O)N3CCC4(CC3)C5=CC=CC=C5CO4
 4-Hydroxytryptamine	C1=CC2=C(C(=C1)O)C(=CN2)CCN
+NAS-181	C1CO[C@H](CN1)COC2=CC=CC3=C2OCC(=C3)CN4CCOCC4
+Tocinoic acid	CC[C@H](C)C1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)O)CC(=O)N)CCC(=O)N
+(R)-MDMA	C[C@H](CC1=CC2=C(C=C1)OCO2)NC
