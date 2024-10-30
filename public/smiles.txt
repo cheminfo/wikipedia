@@ -21566,6 +21566,7 @@ Ammonium hexachlorostannate	[NH4+].[NH4+].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[S
 Triprene	C(CCCC(C/C=C/C(=C/C(SCC)=O)/C)C)(OC)(C)C
 Potassium hexabromorhenate	[K+].[K+].Br[Re-2](Br)(Br)(Br)(Br)Br
 N1-Acetyl-N2-formyl-5-methoxykynuramine	CC(=O)NCCC(=O)C1=C(C=CC(=C1)OC)NC=O
+4-HO-TMT	C[N+](C)(C)CCC1=CNC2=C1C(=CC=C2)O
 Potassium hexafluororhenate	[K+].[F-][Re+4]([F-])([F-])([F-])([F-])[F-]
 Potassium hexaiodorhenate	[K+].[K+].I[Re--](I)(I)(I)(I)I
 Ammonium hexafluorogermanate	[NH4+].[NH4+].F[Ge-2](F)(F)(F)(F)F
@@ -21815,3 +21816,6 @@ RG7713	CN(C)CCN1C=C(C2=C1C=C(C=C2)Cl)C(=O)N3CCC4(CC3)C5=CC=CC=C5CO4
 NAS-181	C1CO[C@H](CN1)COC2=CC=CC3=C2OCC(=C3)CN4CCOCC4
 Tocinoic acid	CC[C@H](C)C1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)O)CC(=O)N)CCC(=O)N
 (R)-MDMA	C[C@H](CC1=CC2=C(C=C1)OCO2)NC
+Bexicaserin	C[C@H]1CN2CCNCC3=C2C1=C(C=C3)C(=O)NCC(F)F
+RO5263397	CC1=C(C=CC=C1F)[C@H]2COC(=N2)N
+Alogabat	CC1=NC=C(C=C1)C2=NOC(=C2COC3=NN=C(C=C3)C(=O)NC4CCOCC4)C
