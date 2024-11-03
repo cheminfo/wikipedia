@@ -375,7 +375,6 @@ Ziprasidone	O=C1Cc2c(N1)cc(Cl)c(c2)CCN3CCN(CC3)c4nsc5ccccc45
 Olanzapine	CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
 Benzatropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
 Propranolol	OC(COC1=C2C=CC=CC2=CC=C1)CNC(C)C
-Propranolol	CC(C)NCC(COC1=CC=CC2=C1C=CCC2)O
 Dinitrogen tetroxide	[O-][N+](=O)[N+]([O-])=O
 Clarithromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
 Mefloquine	FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3
@@ -7538,7 +7537,7 @@ Acetarsol	CC(=O)Nc1cc(ccc1O)[As](O)(O)=O
 Broxyquinoline	Brc1c(O)c2ncccc2c(Br)c1
 Succinylsulfathiazole	OC(=O)CCC(=O)Nc1ccc(cc1)S(=O)(=O)Nc2nccs2
 Sulfaguanidine	c1cc(N)ccc1S(=O)(=O)N=C(N)N
-Phthalylsulfathiazole	OC(=O)c1ccccc1C(=O)Nc2ccc(cc2)S(=O)(=O)Nc3nccs3
+Phthalylsulfathiazole	C1=CC=C(C(=C1)C(=O)NC2=CC=C(C=C2)S(=O)(=O)NC3=NC=CS3)C(=O)O
 Batimastat	O=C(NC)[C@@H](NC(=O)[C@@H]([C@@H](C(=O)NO)CSc1sccc1)CC(C)C)Cc2ccccc2
 Lithium cobalt oxide	[Li+].[O-2].[Co+3].[O-2]
 Blattellaquinone	O=C/1/C=C\C(=O)\C=C\1COC(=O)CC(C)C
@@ -15371,6 +15370,7 @@ Enduracididine	C1[C@H](NC(=N)N1)C[C@@H](C(=O)O)N
 Zoxazolamine	C1=CC2=C(C=C1Cl)N=C(O2)N
 Taxadienone	[H][C@]12CCC(C)=C(CC[C@]3(C)CCC=C(C)[C@@]3([H])C1=O)C2(C)C
 N-Benzoyl-N'-phenylurea	O=C(NC(Nc1ccccc1)=O)c2ccccc2
+BPC-157	C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@@H]2CCCN2C(=O)[C@@H]3CCCN3C(=O)[C@@H]4CCCN4C(=O)[C@H](CCC(=O)O)NC(=O)CN
 Chlorotrifluorosilane	F[Si](F)(F)Cl
 N,N'-Di-n-butylthiourea	CCCCNC(=S)NCCCC
 Ombitasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C(=O)Nc2ccc(cc2)[C@@H]3CC[C@H](N3c4ccc(cc4)C(C)(C)C)c5ccc(cc5)NC(=O)[C@@H]6CCCN6C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
@@ -20458,6 +20458,7 @@ Sodium technetate(V)	[Na+].[O-][Tc](=O)=O
 Indigoidine	C1=C(C(=O)NC(=O)C1=N)C2=C(NC(=O)C(=C2)N)O
 Iridium tetrabromide	Br[Ir](Br)(Br)Br
 Gold(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Au+3]
+Zirconium(IV) acetate	[Zr+4].[Zr+4].[Zr+4].[Zr+4].[Zr+4].[Zr+4].[OH-].[OH-].[OH-].[OH-].[O-2].[O-2].[O-2].[O-2].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-]
 Rhenium tetraiodide	I[Re](I)(I)I
 Barium selenide	[Se-2].[Ba+2]
 Rubidium selenide	[Se-2].[Rb+].[Rb+]
@@ -21768,6 +21769,7 @@ Clofenetamine	CCN(CC)CCOC(C)(C1=CC=CC=C1)C2=CC=C(C=C2)Cl
 Etaminile	CCC(CC(C)N(C)C)(C#N)C1=CC=CC=C1
 Fotretamine	C1CN1P2(=NP(=NP(=N2)(N3CC3)N4CCOCC4)(N5CC5)N6CC6)N7CC7
 Clorprenaline	CC(C)NCC(C1=CC=CC=C1Cl)O
+Penflufen	CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C
 Balipodect	COC1=CN(N=C(C1=O)C2=CC=NN2C3=CC=CC=C3)C4=C(C=C(C=C4)N5C=CC=N5)F
 Bersacapavir	C[C@@H](C(F)(F)F)NS(=O)(=O)C1=CN(C(=C1)C(=O)NC2=CC(=C(C=C2)F)C#N)C
 Crisdesalazine	C1=CC(=CC=C1CCNC2=CC(=C(C=C2)O)C(=O)O)C(F)(F)F
@@ -21835,5 +21837,9 @@ Ortho-Methoxyphenylpiperazine	COC1=CC=CC=C1N2CCNCC2
 Fazamorexant	CC1=CC(=C(C=C1)C2=NC=CC=N2)C(=O)N3[C@H]4CC[C@H]([C@@H]3CC4)COC5=NC=C(C=C5)F
 Bavdegalutamide	C1CC(CCC1NC(=O)C2=NN=C(C=C2)N3CCC(CC3)CN4CCN(CC4)C5=C(C=C6C(=C5)C(=O)N(C6=O)C7CCC(=O)NC7=O)F)OC8=CC(=C(C=C8)C#N)Cl
 (R)-2,3-Dihydroxy-isovalerate	CC(C)([C@H](C(=O)O)O)O
+Octadecanolide	C1CCCCCCCCC(=O)OCCCCCCCC1
 Luxdegalutamide	CC1(C(C(C1OC2=CC(=C(C=C2)C#N)OC)(C)C)NC(=O)C3=CC=C(C=C3)N4CCC(CC4)CN5CCN(CC5)C6=CC(=C(C=C6)C(=O)N[C@H]7CCC(=O)NC7=O)F)C
 Gridegalutamide	CCC1=C(C=CC(=C1)N2C(=S)N(C(=O)C2(C)C)C3=CC(=C(C=C3)C#N)C(F)(F)F)OCCN4CCN([C@@H](C4)C)CC(=O)NC5=CC=CC(=C5)N[C@@H]6CCC(=O)NC6=O
+Eicosanolide	C1CCCCCCCCCC(=O)OCCCCCCCCC1
+Giredestrant	C[C@@H]1CC2=C([C@H](N1CC(CO)(F)F)C3=C(C=C(C=C3F)NC4CN(C4)CCCF)F)NC5=CC=CC=C25
+Amcenestrant	C1CC2=C(C=CC(=C2)C(=O)O)C(=C(C1)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)O[C@H]5CCN(C5)CCCF
