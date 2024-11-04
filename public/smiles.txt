@@ -19775,6 +19775,7 @@ Melatonin as a medication and supplement	COC1=CC2=C(NC=C2CCNC(C)=O)C=C1
 Caesium superoxide	[Cs+].[O-][O]
 Epanorin	CC(C)C[C@@H](C(=O)OC)NC(=O)C(=C1C(=C(C(=O)O1)C2=CC=CC=C2)O)C3=CC=CC=C3
 1,6-Hexanediol diglycidyl ether	C1C(O1)COCCCCCCOCC2CO2
+Copper naproxen	COc1cc2ccc(cc2cc1)[C@H](C)C(=O)[O-].COc1cc2ccc(cc2cc1)[C@H](C)C(=O)[O-].[Cu+2]
 Methidiumpropyl-EDTA	O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)NCCCNC(=O)C1=CC=C(C=C1)C=2C3=CC(N)=CC=C3C=4C=CC(N)=CC4[N+]2C
 1,4-Cyclohexanedimethanol diglycidyl ether	C1CC(CCC1COCC2CO2)COCC3CO3
 C12–C14 alcohol glycidyl ether	CCCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
@@ -21812,6 +21813,8 @@ Phα1β	N[C@@]([H])(C)C(=O)N[C@@]([H])(CS7)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)
 Alpiropride	CNS(=O)(=O)C1=C(C=C(C(=C1)C(=O)NCC2CCCN2CC=C)OC)N
 ENX-105	C(N[C@H]1[C@@H](C)N(C(C2=CC=CC=C2)([2H])[2H])CC1)(=O)C3=C(OC)C=C(NC([2H])([2H])[2H])C(Cl)=C3
 Ethylcyclohexane	CCC1CCCCC1
+LqhαIT	N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CS6)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)N)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)NCC(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CS6)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+LqhαIT	N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)N)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)NCC(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCCCN)C(=O)O
 6-MeO-DMT	CN(C)CCC1=CNC2=C1C=CC(=C2)OC
 Itameline	CO/N=C/C1=CCCN(C1)C(=O)OC2=CC=C(C=C2)Cl
 Revosimeline	CCOC(=O)N1[C@@H]2CC[C@H]1CC(C2)N3CCC4(CC3)CC(=O)NC4
@@ -21843,3 +21846,11 @@ Gridegalutamide	CCC1=C(C=CC(=C1)N2C(=S)N(C(=O)C2(C)C)C3=CC(=C(C=C3)C#N)C(F)(F)F)
 Eicosanolide	C1CCCCCCCCCC(=O)OCCCCCCCCC1
 Giredestrant	C[C@@H]1CC2=C([C@H](N1CC(CO)(F)F)C3=C(C=C(C=C3F)NC4CN(C4)CCCF)F)NC5=CC=CC=C25
 Amcenestrant	C1CC2=C(C=CC(=C2)C(=O)O)C(=C(C1)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)O[C@H]5CCN(C5)CCCF
+Ferrocenecarboxaldehyde	[CH-]1C=CC=C1.C1=C[C-](C=C1)C=O.[Fe+2]
+Ferrocenecarboxaldehyde	C(=O)[C-]12[Fe+2]3456789([CH]1=[CH]3[CH]4=[CH]52)[CH-]%10[CH]6=[CH]7[CH]8=[CH]9%10
+Bexirestrant	CC1=C([C@@H](OC2=C1C=CC(=C2)O)C3=CC=C(C=C3)/C=C/CN4CC(C4)CF)C5=CC(=CC(=C5)F)F
+Caleicine	OC1=CC=C(/C=C/C(O[C@H]2C(CC[C@]3(CCCC([C@]23[H])=C)C)C(C)C)=O)C=C1
+Palazestrant	CCCN1CC(C1)OC2=CC=C(C=C2)[C@@H]3C4=C(C[C@H](N3CC(C)(C)F)C)C5=CC=CC=C5N4
+Rintodestrant	CC1=CC(=CC(=C1C(=O)C2=C(C3=C(S2)C=C(C=C3)O)OC4=CC=C(C=C4)/C=C/C(=O)O)C)F
+Taragarestrant	C[C@@H]1CC2=C([C@H](N1CC(C)(C)F)C3=C(C=C(C=C3Cl)/C=C/C(=O)O)Cl)NC4=CC=CC=C24
+Dipropalin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C)[N+](=O)[O-]
