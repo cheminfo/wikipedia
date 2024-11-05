@@ -5209,7 +5209,7 @@ Hypofluorous acid	OF
 N-Acetylmannosamine	O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1NC(C)=O
 Iohexol	O=C(N(c1c(I)c(c(I)c(c1I)C(=O)NCC(O)CO)C(=O)NCC(O)CO)CC(O)CO)C
 Rutinose	O(C[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O)[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
-Benzopyran	c12ccccc1CC=CO2
+Benzopyran	C1=Cc2ccccc2OC1
 3-Nitroaniline	O=[N+]([O-])c1cccc(N)c1
 2,2′-Bipyridine	n1ccccc1-c2ccccn2
 HMG-CoA	O=C(O)C[C@@](O)(C)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
@@ -10839,6 +10839,7 @@ ORG-21465	O=S(=O)(OCC(=O)[C@H]5CC[C@@H]1[C@]5(C)CC(=O)[C@H]3[C@H]1CC[C@H]4C[C@H]
 5-Fluoro-DMT	CN(C)CCC1=CNC2=C1C=C(C=C2)F
 Eritoran	CCCCCCCCCCCC(=O)CC(=O)NC1C(C(C(OC1OP(=O)(O)O)COC2C(C(C(C(O2)COC)OP(=O)(O)O)OCCC(CCCCCCC)OC)NC(=O)CCCCCCCCCC=CCCCCCC)O)OCCCCCCCCCC
 Cephaeline	CC[C@H]1CN2CCc3cc(c(cc3[C@@H]2C[C@@H]1C[C@@H]4c5cc(c(cc5CCN4)O)OC)OC)OC
+Dronabinol	CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O
 ORG-37684	O(c1c(OC)ccc2c1CCC2)[C@H]3CCNC3
 Myrcenol	C=CC(=C)CCCC(C)(C)O
 Fenclofenac	OC(=O)Cc1ccccc1Oc2ccc(Cl)cc2Cl
@@ -21854,3 +21855,7 @@ Palazestrant	CCCN1CC(C1)OC2=CC=C(C=C2)[C@@H]3C4=C(C[C@H](N3CC(C)(C)F)C)C5=CC=CC=
 Rintodestrant	CC1=CC(=CC(=C1C(=O)C2=C(C3=C(S2)C=C(C=C3)O)OC4=CC=C(C=C4)/C=C/C(=O)O)C)F
 Taragarestrant	C[C@@H]1CC2=C([C@H](N1CC(C)(C)F)C3=C(C=C(C=C3Cl)/C=C/C(=O)O)Cl)NC4=CC=CC=C24
 Dipropalin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C)[N+](=O)[O-]
+Ammonium dihydrogen arsenate	[As](=O)(O)(O)O.N
+3-Methoxymethcathinone	CC(C(=O)C1=CC(=CC=C1)OC)NC
+Junenol	CC(C)[C@@H]1CC[C@]2(CCCC(=C)[C@@H]2[C@H]1O)C
+Zytron	CC(C)NP(=S)(OC)OC1=C(C=C(C=C1)Cl)Cl
