@@ -20957,6 +20957,7 @@ Rencofilstat	CC[C@H]1C(=O)N([C@@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[
 BK-5-MAPB	CC(C(=O)C1=CC2=C(C=C1)OC=C2)NC
 Selvigaltin	C1=C(C=C(C(=C1F)F)F)C2=CN(N=N2)[C@H]3[C@H]([C@H](O[C@@H]([C@@H]3O)SC4=CC(=CN=C4)Br)CO)O
 Survodutide	CC[C@H](C)[C@@H](C(=O)N[C@H](CCCCNC(=O)CNC(=O)CNC(=O)[C@@H](CO)NC(=O)CNC(=O)[C@@H](CO)NC(=O)CNC(=O)CCC(C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](CO)C(=O)N[C@H](C)C(=O)N)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CC=C(C=C5)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC6=CC=CC=C6)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)C7(CCC7)NC(=O)[C@H](CC8=CNC=N8)N
+AXA1125	N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N(C(=O)C)[C@@]([H])(CS)C(=O)O
 EDP-305	CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCNC(=O)NS(=O)(=O)C5=CC=C(C=C5)C(C)(C)C)C)C)O
 Azemiglitazone	COC1=CC=CC(=C1)C(=O)COC2=CC=C(C=C2)CC3C(=O)NC(=O)S3
 Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
@@ -21838,6 +21839,7 @@ M-MTDATA	CC1=CC(=CC=C1)N(C2=CC=CC=C2)C3=CC=C(C=C3)N(C4=CC=C(C=C4)N(C5=CC=CC=C5)C
 Bexicaserin	C[C@H]1CN2CCNCC3=C2C1=C(C=C3)C(=O)NCC(F)F
 RO5263397	CC1=C(C=CC=C1F)[C@H]2COC(=N2)N
 Alogabat	CC1=NC=C(C=C1)C2=NOC(=C2COC3=NN=C(C=C3)C(=O)NC4CCOCC4)C
+Pymetrozine	CC1=NNC(=O)N(C1)/N=C/C2=CN=CC=C2
 Menisdaurin	C1[C@@H](C=C/C(=C/C#N)/[C@@H]1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O
 Alpertine	CCOC(=O)C1=C(C2=CC(=C(C=C2N1)OC)OC)CCN3CCN(CC3)C4=CC=CC=C4
 Milipertine	CC1=C(C2=CC(=C(C=C2N1)OC)OC)CCN3CCN(CC3)C4=CC=CC=C4OC
