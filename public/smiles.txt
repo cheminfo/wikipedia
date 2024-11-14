@@ -3167,7 +3167,7 @@ Sabinene	C=C2C1CC1(C(C)C)CC2
 Humulene	C\1=C/C(C)(C)C/C=C(/CC/C=C(/C/1)C)C
 Guaiazulene	CC1=C2C=CC(=C2C=C(C=C1)C(C)C)C
 Vetivazulene	c12c(cccc(c1cc(c2)C(C)C)C)C
-3-Carene	CC2(C)C\1CCC(C)/C=C/12
+3-Carene	CC1=CCC2C(C1)C2(C)C
 3,4-Dihydroxyphenylacetic acid	O=C(O)Cc1cc(O)c(O)cc1
 Potassium chromate	[O-][Cr](=O)(=O)[O-].[K+].[K+]
 Phellandrene	CC1=CCC(C=C1)C(C)C
@@ -10787,7 +10787,6 @@ Solasulfone	[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)C(c1ccccc1)CC(Nc2ccc(cc2)S(=O)(
 Axona	O=C(OCC(OC(=O)CCCCCCC)COC(=O)CCCCCCC)CCCCCCC
 Dihydroimidazol-2-ylidene	[C]1NCCN1
 Zometapine	Clc3cccc(C/2=N/CC/N=C1/N(N\C(=C1\2)C)C)c3
-Levopropylhexedrine	N([C@H](CC1CCCCC1)C)C
 6-Nitroquipazine	[O-][N+](=O)c3cc1c(nc(cc1)N2CCNCC2)cc3
 Ditophal	CCSC(=O)C1=CC(=CC=C1)C(=O)SCC
 Ubenimex	CC(C)C[C@@H](C(=O)O)NC(=O)[C@H]([C@@H](CC1=CC=CC=C1)N)O
@@ -13439,7 +13438,7 @@ Lead(IV) chloride	Cl[Pb](Cl)(Cl)Cl
 Triamiphos	O=P(n1nc(nc1N)c2ccccc2)(N(C)C)N(C)C
 Triazofos	S=P(OCC)(OCC)Oc1ncn(n1)c2ccccc2
 Trichloronate	Clc1cc(OP(=S)(OCC)CC)c(Cl)cc1Cl
-Β-Naphthol methyl ether	O(c2ccc1c(cccc1)c2)C
+2-Methoxynaphthalene	O(c2ccc1c(cccc1)c2)C
 Calcium perchlorate	[Ca+2].O=Cl(=O)(=O)[O-].[O-]Cl(=O)(=O)=O
 Triethoxysilane	O(CC)[SiH](OCC)OCC
 Rotundone	O=C1\C2=C(/[C@H](C1)C)C[C@H](\C(=C)C)CC[C@@H]2C
@@ -21664,7 +21663,7 @@ Ethofumesate	CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C
 Methoclocinnamox	COC1=C2C3=C(C[C@@H]4[C@]5([C@]3(CCN4CC6CC6)[C@@H](O2)C(=O)CC5)NC(=O)/C=C/C7=CC=C(C=C7)Cl)C=C1
 BMS‐986122	COC1=C(C=C(C=C1)C2N(CCS2)S(=O)(=O)C3=CC=C(C=C3)Cl)Br
 Gludantan	C1C2CC3CC1CC(C2)(C3)N[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O
-Naltrexamine	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1N)OC5=C(C=C4)O)O
+Β-Naltrexamine	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1N)OC5=C(C=C4)O)O
 SU-11739	CN(CC#C)C1CCC2=CC=CC=C12
 AGN-1135	C#CCNC1CCC2=CC=CC=C12
 Tolebrutinib	C=CC(=O)N1CCC[C@H](C1)N2C3=C(C(=NC=C3)N)N(C2=O)C4=CC=C(C=C4)OC5=CC=CC=C5
@@ -21883,3 +21882,4 @@ VU0530244	CC1=CC2=C(C=C1)N=C(N2)C3CN(C3)C(=O)C4=CC(=NN4C)C5=CC=C(C=C5)F
 Revumenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)CC5CCC(CC5)NS(=O)(=O)CC
 Darovasertib	CC1(CCN(CC1)C2=C(N=CC=C2)NC(=O)C3=NC(=CN=C3N)C4=C(C=CC=N4)C(F)(F)F)N
 Phenacylamine	C1=CC=C(C=C1)C(=O)CN
+Docarpamine	CCOC(=O)OC1=C(C=C(C=C1)CCNC(=O)[C@H](CCSC)NC(=O)C)OC(=O)OCC
