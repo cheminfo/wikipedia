@@ -4435,6 +4435,7 @@ Methoxyflurane	ClC(Cl)C(F)(F)OC
 Gestrinone	O=C4\C=C3/C(=C2/C=C\[C@]1([C@@H](CC[C@]1(C#C)O)[C@@H]2CC3)CC)CC4
 Desvenlafaxine	OC2(C(c1ccc(O)cc1)CN(C)C)CCCCC2
 Semicarbazide	C(=O)(N)NN
+Ammonium ferric citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.N.[Fe+3]
 Bromodeoxyuridine	c1c(c(=O)[nH]c(=O)n1[C@H]2C[C@@H]([C@H](O2)CO)O)Br
 Ethylammonium nitrate	CC[NH3+].[N+](=O)([O-])[O-]
 Dipotassium phosphate	[K+].[K+].[O-]P([O-])(=O)O
@@ -15002,6 +15003,7 @@ Perinone	O=c1n2c3ccccc3nc2c4ccc5c(=O)n6c7ccccc7nc6c8c5c4c1cc8
 Ochnaflavone	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)OC4=C(C=CC(=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O
 Magnesium orthosilicate	[O-][Si]([O-])([O-])[O-].[Mg+2].[Mg+2]
 Aluminium arsenate	[O-][As](=O)([O-])[O-].[Al+3]
+Aluminium arsenate	O.O.O.O.O.O.O.O.O=[As]([O-])([O-])[O-].[Al+3]
 1,1-Diethoxyethane	CCOC(C)OCC
 Triadimefon	CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl
 Dolichodial	CC1CCC(C1C=O)C(=C)C=O
@@ -15261,9 +15263,10 @@ Lanierone	CC1=CC(C)(C)C=C(C1=O)O
 Disodium 4,4'-dinitrostilbene-2,2'-disulfonate	c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)[O-])/C=C/c2ccc(cc2S(=O)(=O)[O-])[N+](=O)[O-].[Na+].[Na+]
 Cyclooctatetraenide anion	c1=c[cH-]c=c[cH-]c=c1
 2-Octyne	CC#CCCCCC
+Americium(IV) fluoride	[F-].[F-].[F-].[F-].[Am+4]
 Americium(III) fluoride	F[Am](F)F
-Americium(III) bromide	[Br-].[Br-].[Br-].[Am]
-Americium(III) iodide	[I-].[I-].[I-].[Am]
+Americium(III) bromide	[Br-].[Br-].[Br-].[Am+3]
+Americium(III) iodide	[I-].[I-].[I-].[Am+3]
 Americium(II) bromide	[Br-].[Br-].[Am+2]
 Americium(II) iodide	[I-].[I-].[Am+2]
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
@@ -21885,6 +21888,7 @@ Cis-1,2-Dihydrocatechol	C1=C[C@H]([C@H](C=C1)O)O
 Vafidemstat	C1[C@H]([C@@H]1NCC2=NN=C(O2)N)C3=CC=C(C=C3)OCC4=CC=CC=C4
 Ipglycermides	O=C(NC(CC1=CC=C(O)C=C1)C(NC(CC(C)C)C(NC(CC2=CC=C(O)C=C2)C(NCC(NC(C(O)C)C(NC(CS)C(NCC(N)=O)=O)=O)=O)=O)=O)=O)[C@@H]3CSCC(N[C@H](CC4=CC=C(O)C=C4)C(NC(CC(O)=O)C(N[C@H](CC5=CC=C(O)C=C5)C(N6C(CCC6)C(NCC(N[C@@H](CC(O)=O)C(N[C@@H](CC7=CC=CC=C7)C(N3)=O)=O)=O)=O)=O)=O)=O)=O
 1,3,5-Tris(4-(tert-butyl)-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazinane-2,4,6-trione	C(N1C(=O)N(CC2=C(C)C(O)=C(C(C)(C)C)C=C2C)C(=O)N(CC3=C(C)C(O)=C(C(C)(C)C)C=C3C)C1=O)C4=C(C)C(O)=C(C(C)(C)C)C=C4C
+ARM390	CCN(CC)C(=O)C1=CC=C(C=C1)C(=C2CCNCC2)C3=CC=CC=C3
 4-Trifluoromethylbenzaldehyde	C1=CC(=CC=C1C=O)C(F)(F)F
 VU0530244	CC1=CC2=C(C=C1)N=C(N2)C3CN(C3)C(=O)C4=CC(=NN4C)C5=CC=C(C=C5)F
 Revumenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)CC5CCC(CC5)NS(=O)(=O)CC
@@ -21899,3 +21903,4 @@ BW-501C67	C1=CC=C(C=C1)NCC(=NCCCOC2=CC=CC=C2Cl)N
 Isotryptamine	C1=CC=C2C(=C1)C=CN2CCN
 Protactinyl nitrate	[Pa](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Dibromo neopentyl glycol diglycidyl ether	CC(C)(C(OCC1CO1)Br)C(OCC2CO2)Br
+Dipentaerythritol	C(C(CO)(CO)COCC(CO)(CO)CO)O
