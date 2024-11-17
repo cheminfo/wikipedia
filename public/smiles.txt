@@ -13683,7 +13683,7 @@ Afzelin	OC(C=C1)=CC=C1C2=C(O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)C(C4=C(O)C
 Gadoleic acid	O=C(O)CCCCCCC\C=C/CCCCCCCCCC
 Tetrachlorvinphos	COP(=O)(OC)O/C(=C\Cl)/c1cc(c(cc1Cl)Cl)Cl
 Amurensin K	C1=CC(=CC=C1[C@@H]2[C@H](C3=CC(=CC4=C3[C@@H]([C@H](O4)C5=CC=C(C=C5)O)C6=CC(=CC(=C26)O)O)O)C7=C(C=CC(=C7)C8=CC9=C1[C@@H]([C@H](OC1=CC(=C9O8)O)C1=CC=C(C=C1)O)C1=CC(=CC(=C1)O)O)O)O
-Amurensine	CN1CC2C3=CC(=C(C=C3CC1C4=CC5=C(C=C24)OCO5)OC)O
+Amurensine	CN1C[C@@H]2C3=CC(=C(C=C3C[C@H]1C4=CC5=C(C=C24)OCO5)OC)O
 Pavine (molecule)	COc1cc2c(cc1OC)C3Cc4cc(c(cc4C(C2)N3)OC)OC
 Quadrangularin A	C1=CC(=CC=C1C=C2C(C(C3=C(C=C(C=C23)O)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O
 Isorhapontigenin	COC1=C(C=CC(=C1)C=CC2=CC(=CC(=C2)O)O)O
@@ -13968,7 +13968,6 @@ O-1871	CC(C1)(C)CCCC1C2=C(O)C=C(C(C)(C)CCCCCC)C=C2O
 Crotyl chloride	C/C=C/CCl
 Tetrafluoroberyllate	[Be-2](F)(F)(F)F
 Marmesin	CC(C)([C@@H]1CC2=C(O1)C=C3C(=C2)C=CC(=O)O3)O
-1-Nonylnaphthalene	CCCCCCCCCc1cccc2c1cccc2
 Ammonium hexafluorotitanate	[NH4+].[NH4+].F[Ti-2](F)(F)(F)(F)F
 Ailanthone	CC1=CC(=O)[C@H]([C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@]([C@@H](C(=C)[C@@H]4CC(=O)O3)O)(OC5)O)C)O
 Hexaethyl tetraphosphate	[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O.CC.CC.CC.CC.CC.CC.[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O
@@ -14547,7 +14546,6 @@ Karstedt's catalyst	C[Si](C)(C=C)O[Si](C)(C)C=C.[Pt]
 Chlorobis(dppe)iron hydride	Cl[FeH-4]56([P+](c1ccccc1)(c2ccccc2)CC[P+]5(c3ccccc3)c4ccccc4)[P+](c1ccccc1)(c2ccccc2)CC[P+]6(c3ccccc3)c4ccccc4
 Inotodiol	C[C@@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)[C@@H](CC=C(C)C)O
 Hispolon	CC(=O)C=C(C=CC1=CC(=C(C=C1)O)O)O
-Phellinstatin	C1=CC(=C(C=C1/C=C/C2=CC(=C(C(=O)O2)C3=CC(=C(C=C3/C=C/C4=CC5=C([C@@H]([C@H](O5)C6=CC(=C(C=C6)O)O)C7=CC(=CC(=O)O7)O)C(=O)O4)O)O)O)O)O
 Hypholomine B	C1=CC(=C(C=C1/C=C/C2=CC3=C(C(C(O3)C4=CC(=C(C=C4)O)O)C5=CC(=CC(=O)O5)O)C(=O)O2)O)O
 Interfungin	CC(=O)/C=C(/C(=C\C1=CC(=C(C=C1)O)O)/C2=C(C=C(OC2=O)/C=C/C3=CC(=C(C=C3)O)O)O)\O
 Interfungin	CC(=O)/C(=C\C1=CC(=C(C=C1)O)O)/C2=C(C=C(OC2=O)/C=C/C3=CC(=C(C=C3)O)O)O
@@ -21506,6 +21504,7 @@ Praseodymium monosulfide	[S-2].[Pr+2]
 Lanthanum monosulfide	[S-2].[La+2]
 Dimethylaziridine carboxylic acid	CC1(C(N1)C(=O)O)C
 Dimethylaziridine carboxylic acid	CC1([C@H](N1)C(=O)O)C
+4-Acetamido-TEMPO	CC(=O)NC1CC(N(C(C1)(C)C)[O])(C)C
 Lanthanum(III) sulfide	[S-2].[S-2].[S-2].[La+3].[La+3]
 Asengeprast	COC1=C(C=CC(=C1)/C=C/C(=O)NC2=CC=CC=C2C(=O)O)OCC#C
 Promethium(III) sulfide	[Pm+3].[Pm+3].[S-2].[S-2].[S-2]
