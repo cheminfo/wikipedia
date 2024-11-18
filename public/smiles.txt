@@ -8059,6 +8059,7 @@ Tert-Amyl alcohol	CCC(C)(C)O
 XF-73	C[N+](C)(C)CCCOC(C=C1)=CC=C1/C(C2=CC=C(/C=C3C=CC(/C(C4=CC=C(OCCC[N+](C)(C)C)C=C4)=C(N/5)/C=CC5=C\6)=N/3)N2)=C7N=C6C=C/7.[Cl-].[Cl-]
 Laropiprant	CS(=O)(=O)C1=CC(=CC2=C1N(C3=C2CC[C@@H]3CC(=O)O)CC4=CC=C(C=C4)Cl)F
 Propylnorapomorphine	CCCN1CCC2=CC=CC3=C2C1CC4=C3C(=C(C=C4)O)O
+Benzenediazonium tetrafluoroborate	[B-](F)(F)(F)F.C1=CC=C(C=C1)[N+]#N
 Diboron tetrafluoride	FB(F)B(F)F
 Zotarolimus	CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)n5cnnn5)C)C)O)OC)C)C)C)OC
 Chloroformic acid	ClC(=O)O
@@ -16887,6 +16888,8 @@ Anagyrine	C1CCN2CC3CC(C2C1)CN4C3=CC=CC4=O
 25I-NB3OMe	COC1=CC=CC(=C1)CNCCC2=CC(=C(C=C2OC)I)OC
 25iP-NBOMe	CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC
 Moroidin	CC(C)C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2Cc3c4ccc(cc4[nH]c3-n5cc(nc5)C[C@H](NC(=O)CNC(=O)[C@@H](NC2=O)CCCNC(=[NH2+])N)C(=O)[O-])[C@H]([C@@H](C(=O)N1)NC(=O)[C@@H]6CCC(=O)N6)C(C)C)C(C)C
+Atractyloside	CC(C)CC(=O)O[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2C[C@H]([C@H]3CC[C@@]45C[C@@H](CC[C@H]4[C@@]3(C2)C)C(=C)[C@@H]5O)C(=O)O)CO)OS(=O)(=O)O)OS(=O)(=O)O
+Atractyloside	C=C1[C@@H]2CC[C@H]3[C@]4(C)C[C@H](O[C@@H]5O[C@H](CO)[C@@H](OS(=O)(=O)[O-])[C@H](OS(=O)(=O)[O-])[C@H]5OC(=O)CC(C)C)C[C@@H](C(=O)O)[C@H]4CC[C@]3(C2)[C@H]1O.[K+].[K+]
 Kaitocephalin	O=C(O)[C@H](N)[C@H](O)[C@]2(C(=O)O)N[C@@H](C[C@H](NC(=O)c1cc(Cl)c(O)c(Cl)c1)C(=O)O)CC2
 Gallium(I) oxide	O([Ga])[Ga]
 Cyanogen azide	C(#N)N=[N+]=[N-]
@@ -17240,6 +17243,7 @@ Benzophenone imine	C1=CC=C(C=C1)C(=N)C2=CC=CC=C2
 1,2,4,5-Tetrabromobenzene	C1=C(C(=CC(=C1Br)Br)Br)Br
 Metanil Yellow	C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)[O-].[Na+]
 2-Carboxybenzaldehyde	C1=CC=C(C(=C1)C=O)C(=O)O
+Azoxybenzene	C1=CC=C(C=C1)N=[N+](C2=CC=CC=C2)[O-]
 Amesergide	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)NC4CCCCC4)C5=C2C1=CC=C5
 Neohexene	CC(C)(C)C=C
 Barium thiocyanate	C(#N)[S-].C(#N)[S-].[Ba+2]
@@ -19508,6 +19512,7 @@ Bromomethyl ethyl ketone	CCC(=O)CBr
 Hafnium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Hf+4]
 Asciminib	O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2ccn[nH]2)c1
 Avarol	C[C@H]1CC[C@]2([C@H]([C@]1(C)CC3=C(C=CC(=C3)O)O)CCC=C2C)C
+Antimony(III) oxide hydroxide nitrate	[Sb+3].[Sb+3].[Sb+3].[Sb+3].[O-2].[O-2].[O-2].[O-2].[OH-].[OH-].O=[N+]([O-])[O-].O=[N+]([O-])[O-]
 (+)-Morphine	CN1CC[C@@]23[C@H]4[C@@H]1CC5=C2C(=C(C=C5)O)O[C@@H]3[C@@H](C=C4)O
 Bromine nitrate	[N+](=O)([O-])OBr
 Tetraoxygen difluoride	FOOOOF
@@ -21901,5 +21906,6 @@ BW-501C67	C1=CC=C(C=C1)NCC(=NCCCOC2=CC=CC=C2Cl)N
 4-Hydroxy-3-methoxyamphetamine	CC(CC1=CC(=C(C=C1)O)OC)N
 Isotryptamine	C1=CC=C2C(=C1)C=CN2CCN
 Protactinyl nitrate	[Pa](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
-Dibromo neopentyl glycol diglycidyl ether	CC(C)(C(OCC1CO1)Br)C(OCC2CO2)Br
+Dibromo neopentyl glycol diglycidyl ether	BrCC(COCC1CO1)(COCC2CO2)CBr
 Dipentaerythritol	C(C(CO)(CO)COCC(CO)(CO)CO)O
+Bentranil	C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=O)O2
