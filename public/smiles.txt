@@ -3885,7 +3885,7 @@ Mercury(II) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Hg+2]
 Asparagusic acid	O=C(O)C1CSSC1
 Coumatetralyl	OC=1c4ccccc4OC(=O)C=1C3CCCc2ccccc23
 Uranyl zinc acetate	O=C(C)[O-].[O+]#[U]#[O+].O=C(C)[O-].O=C(C)[O-].[Zn+2].O=C(C)[O-]
-Phenylhydroxylamine	ONC1=CC=CC=C1
+N-Phenylhydroxylamine	ONC1=CC=CC=C1
 Cupferron	O=NN([O-])c1ccccc1.[NH4+]
 Cadmium oxide	[Cd]=O
 Uranium(III) chloride	Cl[U](Cl)Cl
@@ -21909,3 +21909,5 @@ Protactinyl nitrate	[Pa](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Dibromo neopentyl glycol diglycidyl ether	BrCC(COCC1CO1)(COCC2CO2)CBr
 Dipentaerythritol	C(C(CO)(CO)COCC(CO)(CO)CO)O
 Bentranil	C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=O)O2
+Glyphosine	C(C(=O)O)N(CP(=O)(O)O)CP(=O)(O)O
+McN-481	CCC1(C(=O)NC(=O)NC1=O)C(C)C=C(C)C
