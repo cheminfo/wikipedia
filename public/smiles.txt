@@ -3573,6 +3573,7 @@ Lithium triborate	[Li+].B(=O)OB([O-])OB=O
 Biperiden	OC(c1ccccc1)(CCN2CCCCC2)C4C3\C=C/C(C3)C4
 Sodium dichloroisocyanurate	[Na+].ClN1C(=O)[N-]C(=O)N(Cl)C1=O
 TSQ	O=S(=O)(c1ccc(cc1)C)Nc2cc(OC)cc3cccnc23
+Beryllium telluride	[Be]=[Te]
 Sunitinib	CCN(CC)CCNC(=O)c1c(c([nH]c1C)/C=C\2/c3cc(ccc3NC2=O)F)C
 Uranium tetrafluoride	F[U](F)(F)F
 Uranyl acetate	O=C(C)[O-].[O+]#[U]#[O+].O=C(C)[O-]
@@ -8538,7 +8539,7 @@ PEAQX	C[C@@H](C1=CC=C(C=C1)Br)NC(C2=C3C(=CC=C2)N=C(C(=N3)O)O)P(=O)(O)O
 Quipazine	C1CN(CCN1)C2=NC3=CC=CC=C3C=C2
 Camostat	CN(C)C(=O)COC(=O)CC1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)N=C(N)N
 Arotinolol	CC(C)(C)NCC(CSC1=NC(=CS1)C2=CC=C(S2)C(=O)N)O
-CJC-1295	CCC(C)C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C(C)O)C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)N)NC(=O)C(C)NC(=O)C(CC(=O)O)NC(=O)C(C)NC(=O)C(CC3=CC=C(C=C3)O)N
+CJC-1295	NC([C@H](CCCCNC(CCN1C(C=CC1=O)=O)=O)NC([C@H](CCCNC(N)=N)NC([C@H](CO)NC([C@H](CC(C)C)NC([C@@]([C@H](CC)C)([H])NC([C@@H](NC([C@H](CCC(N)=O)NC([C@H](CC(C)C)NC([C@H](CC(C)C)NC([C@H](CCCCN)NC([C@H](CCCNC(N)=N)NC([C@@H](NC([C@H](CO)NC([C@H](CC(C)C)NC([C@H](CCC(N)=O)NC([C@@H](NC([C@H](CC(C)C)NC([C@H](C(C)C)NC([C@H](CCCCN)NC([C@H](CCCNC(N)=N)NC([C@@H](NC([C@H](CO)NC([C@H](CCC(N)=O)NC([C@@]([C@@H](C)O)([H])NC([C@@H](NC([C@@]([C@H](CC)C)([H])NC([C@@H](NC([C@@H](NC([C@H](NC([C@@H](N[H])CC2=CC=C(O)C=C2)=O)C)=O)CC(O)=O)=O)C)=O)=O)CC3=CC=CC=C3)=O)=O)=O)=O)CC4=CC=C(O)C=C4)=O)=O)=O)=O)=O)C)=O)=O)=O)=O)C)=O)=O)=O)=O)=O)=O)CC(O)=O)=O)=O)=O)=O)=O)=O
 Tiapride	CCN(CC)CCNC(=O)C1=C(C=CC(=C1)S(=O)(=O)C)OC
 Sultopride	O=S(=O)(c1cc(c(OC)cc1)C(=O)NCC2N(CC)CCC2)CC
 Stepholidine	COC1=C(C=C2[C@@H]3CC4=C(CN3CCC2=C1)C(=C(C=C4)O)OC)O
@@ -14046,6 +14047,9 @@ Vermiculine	CC(=O)C[C@@H]1CCC(=O)/C=C/C(=O)O[C@H](CC(C)=O)CCC(=O)/C=C/C(=O)O1
 Botryodiplodin	C(C)(=O)[C@H]1[C@@H](C)C(O)OC1
 Verrucosidin	C[C@@H]1[C@@]2([C@@H](O2)[C@](O1)(C)/C=C(\C)/C=C(\C)/[C@H]3[C@](O3)(C)C4=C(C(=C(C(=O)O4)C)OC)C)C
 Sorbicillactone A	C/C=C/C=C/C(=C/1\[C@H]2[C@@](C(=O)C(=C1O)C)(OC(=O)[C@@]2(C)NC(=O)/C=C/C(=O)O)C)/O
+Fumitremorgin	CC(=CCO[C@H]1C2=C3[C@H](CC(OO[C@@H](N3C4=C2C=CC(=C4)OC)C=C(C)C)(C)C)N5[C@@]1(C(=O)N6CCC[C@H]6C5=O)O)C
+Fumitremorgin	CC(=CCN1C2=C(C=CC(=C2)OC)C3=C1[C@@H](N4C(=O)[C@@H]5CCCN5C(=O)[C@@]4([C@H]3O)O)C=C(C)C)C
+Fumitremorgin	CC(=C[C@H]1C2=C(C[C@@H]3N1C(=O)[C@@H]4CCCN4C3=O)C5=C(N2)C=C(C=C5)OC)C
 Plakevulin A	CCCCCCCCCCCCCCCC[C@@]1(C=C[C@@H]([C@H]1C(=O)OC)O)O
 Penostatin A	O=C2/C=C1/C[C@H](O)C[C@H]1[C@@H]3/C=C(/C)[C@@H](O[C@@H]23)/C=C/CCCCCCC
 Nupharamine	C[C@@H]1CC[C@H](N[C@H]1CCC(C)(C)O)C2=COC=C2
@@ -20434,6 +20438,7 @@ Lys-MDA	CC(Cc2ccc1OCOc1c2)NC(=O)C(N)CCCCN
 Pynazolam	CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=N4
 2-Chloro-1,1-difluoroethylene	C(=C(F)F)Cl
 3-Methyl-3-sulfanylhexan-1-ol	CCCC(C)(CCO)S
+Beryllium chromate	[Be+2].[O-][Cr](=O)(=O)[O-]
 Gallium perrhenate	[Ga+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-]
 Gallium perrhenate	[Ga+3].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O=[Re](=O)(=O)[O-].O.O.O.O.O.O.O.O
 Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O
@@ -21913,3 +21918,6 @@ Glyphosine	C(C(=O)O)N(CP(=O)(O)O)CP(=O)(O)O
 McN-481	CCC1(C(=O)NC(=O)NC1=O)C(C)C=C(C)C
 6-MeO-isoDMT	CN(C)CCN1C=CC2=C1C=C(C=C2)OC
 Ainuovirine	CCN1C(=C(C(=O)NC1=O)C(C)C)C(=O)C2=CC(=CC(=C2)C#N)C
+Tetrabromobisphenol A diglycidyl ether	CC(C)(C1=CC(=C(C(=C1)Br)OCC2CO2)Br)C3=CC(=C(C(=C3)Br)OCC4CO4)Br
+Difenoxuron	CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC
+1,10-Phenanthroline-5,6-dione	C1=CC2=C(C3=C(C=CC=N3)C(=O)C2=O)N=C1
