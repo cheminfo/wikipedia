@@ -17618,7 +17618,7 @@ Mirubactin	C1=CC(=C(C(=C1)O)O)C(=O)N[C@H](CCCN=C(N)N)C(=O)N[C@H](CCCN(C=O)OC(=O)
 Dihydromaltophilin	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]4C/C=C\C(=O)NCCC(C5C(=C(C(=O)/C=C/[C@@H]4C[C@@H]([C@H]3[C@@H]2[C@H]1C)O)C(=O)N5)O)O
 Cembratrienol	C/C/1=C\CCC(/C=C/[C@@H](CC/C(=C/CC1)/C)C(C)C)(C)O
 Vancosamine	CC(C(C(C)(CC=O)N)O)O
-Bis(triphenylphosphine)rhodium carbonyl chloride	Cl[Rh-2]([P+](c0ccccc0)(c0ccccc0)c0ccccc0)([P+](c0ccccc0)(c0ccccc0)c0ccccc0)=C=O
+Bis(triphenylphosphine)rhodium carbonyl chloride	[C-]#[O+].C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Cl-].[Rh]
 4-Hydroxyphenylglycine	C1=CC(=CC=C1C(C(=O)O)N)O
 Sterculic acid	CCCCCCCCC1=C(C1)CCCCCCCC(=O)O
 Flumezapine	CC1=CC2=C(NC3=C(C=CC(=C3)F)N=C2S1)N4CCN(CC4)C
@@ -21921,3 +21921,4 @@ Ainuovirine	CCN1C(=C(C(=O)NC1=O)C(C)C)C(=O)C2=CC(=CC(=C2)C#N)C
 Tetrabromobisphenol A diglycidyl ether	CC(C)(C1=CC(=C(C(=C1)Br)OCC2CO2)Br)C3=CC(=C(C(=C3)Br)OCC4CO4)Br
 Difenoxuron	CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC
 1,10-Phenanthroline-5,6-dione	C1=CC2=C(C3=C(C=CC=N3)C(=O)C2=O)N=C1
+5-MeO-isoDMT	CN(C)CCN1C=CC2=C1C=CC(=C2)OC
