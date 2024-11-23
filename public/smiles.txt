@@ -3217,6 +3217,7 @@ Methohexital	O=C1N(C(=O)NC(=O)C1(C\C=C)C(C#CCC)C)C
 Green S	[Na+].[O-]S(=O)(=O)c1ccc4c(c1)cc(c(O)c4/C(=C2\C=C/C(=[N+](/C)C)/C=C2)c3ccc(N(C)C)cc3)S([O-])(=O)=O
 Brilliant Black BN	CC(=O)NC1=C2C(=C(C=C1)S(=O)(=O)[O-])C=C(C(=NNC3=C4C=C(C=CC4=C(C=C3)N=NC5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-])C2=O)S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Black 7984	[O-]S(C(C=C4)=CC=C4/N=N/C(C=C2)=C3C(C=C(S([O-])(=O)=O)C=C3)=C2/N=N/C1=C(S([O-])(=O)=O)C=C(C=C(S([O-])(=O)=O)C(N)=C5)C5=C1O)(=O)=O.[Na+].[Na+].[Na+].[Na+]
+Black 7984	Nc1cc2c(O)c(/N=N/c3ccc(/N=N/c4ccc(S(=O)(=O)O)cc4)c4ccc(S(=O)(=O)O)cc34)c(S(=O)(=O)O)cc2cc1S(=O)(=O)O
 Lithol Rubine BK	[Ca+2].[O-]S(=O)(=O)c3cc(C)ccc3/N=N/c1c2ccccc2cc(C([O-])=O)c1O
 2C-TFM	FC(F)(C1=C(OC)C=C(CCN)C(OC)=C1)F
 Iloprost	CC#CCC(C)[C@@H](/C=C/[C@H]1[C@@H](C[C@H]2[C@@H]1C/C(=C/CCCC(=O)O)/C2)O)O
@@ -21922,3 +21923,5 @@ Tetrabromobisphenol A diglycidyl ether	CC(C)(C1=CC(=C(C(=C1)Br)OCC2CO2)Br)C3=CC(
 Difenoxuron	CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC
 1,10-Phenanthroline-5,6-dione	C1=CC2=C(C3=C(C=CC=N3)C(=O)C2=O)N=C1
 5-MeO-isoDMT	CN(C)CCN1C=CC2=C1C=CC(=C2)OC
+Chloronitramide anion	[N-]([N+](=O)[O-])Cl
+Quinmerac	CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1
