@@ -4406,6 +4406,7 @@ Etonogestrel	CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34
 Decamethonium	[Br-].[Br-].C(CCCC[N+](C)(C)C)CCCCC[N+](C)(C)C
 Gemifloxacin	Fc2c(nc1N(/C=C(/C(=O)O)C(=O)c1c2)C3CC3)N4C/C(=N\OC)C(C4)CN
 Grepafloxacin	O=C(O)\C2=C\N(c1cc(c(F)c(c1C2=O)C)N3CC(NCC3)C)C4CC4
+Brown FK	CC1=CC(=C(C=C1N)N)N=NC2=CC=C(C=C2)S(=O)(=O)[O-].C1=CC(=CC=C1N=NC2=CC(=C(C=C2N)N)N=NC3=CC=C(C=C3)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]
 Brown HT	[Na+].[Na+].Oc3c(cc(CO)c(O)c3N=Nc2ccc(c1ccccc12)S([O-])(=O)=O)N=Nc5ccc(c4ccccc45)S([O-])(=O)=O
 Tert-Butylhydroquinone	Oc1ccc(O)cc1C(C)(C)C
 Hexanitrohexaazaisowurtzitane	[O-][N+](=O)N1C2C3N(C4C(N3[N+]([O-])=O)N(C(C1N4[N+]([O-])=O)N2[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
@@ -8824,6 +8825,7 @@ Nysted reagent	Br[Zn]C[Zn]C[Zn]Br.C1CCCO1
 Tetrabromoethane	BrC(Br)C(Br)Br
 Dibutyltin oxide	CCCC[Sn](=O)CCCC
 Nepicastat	Fc1cc3c(c(F)c1)CC[C@H](N2/C(=C\NC2=S)CN)C3
+Brilliant cresyl blue	CC[N+](=C1C=CC2=NC3=C(C=C(C(=C3)C)N)OC2=C1)CC.CC[N+](=C1C=CC2=NC3=C(C=C(C(=C3)C)N)OC2=C1)CC.[Cl-].[Cl-].Cl[Zn]Cl
 Titan yellow	[Na+].[Na+].[O-]S(=O)(=O)c2c(ccc1nc(sc12)c6ccc(/N=N/Nc5ccc(c3nc4ccc(c(c4s3)S([O-])(=O)=O)C)cc5)cc6)C
 Darapladib	FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=C/4CCC5)CCN(CC)CC
 Naphthol yellow S	C1=CC2=C(C=C1S(=O)(=O)[O-])C(=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[O-].[Na+].[Na+]
@@ -13503,7 +13505,7 @@ Salsoline	C[C@H]1NCCC2=CC(O)=C(C=C12)OC
 Cadmium chromate	[O-][Cr](=O)(=O)[O-].[Cd+2]
 Wybutosine	Cc1c(n2c(=O)c3c(n(c2n1)C)n(cn3)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)CC[C@@H](C(=O)OC)NC(=O)OC
 Potassium ethoxide	CC[O-].[K+]
-Bromopentaamminecobalt(III) bromide	[Co+3][Br-].[Br-].[Br-].N.N.N.N.N
+Bromopentaamminecobalt(III) bromide	[Co+3].[Br-].[Br-].[Br-].N.N.N.N.N
 Homoarginine	C(CCN=C(N)N)C[C@@H](C(=O)O)N
 2-Aminofluorene	c1cccc3c1c2c(cc(N)cc2)C3
 Chromium(II) oxalate	C(=O)(C(=O)[O-])[O-].[Cr+2]
@@ -17252,6 +17254,7 @@ Azoxybenzene	C1=CC=C(C=C1)N=[N+](C2=CC=CC=C2)[O-]
 Amesergide	CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)NC4CCCCC4)C5=C2C1=CC=C5
 Neohexene	CC(C)(C)C=C
 Barium thiocyanate	C(#N)[S-].C(#N)[S-].[Ba+2]
+Bromotrifluoroethylene	C(=C(F)Br)(F)F
 Decernotinib	CC[C@](C)(C(=O)NCC(F)(F)F)NC1=NC(=NC=C1)C2=CNC3=C2C=CC=N3
 Pinoxepin	C1CN(CCN1CC/C=C\2/C3=CC=CC=C3COC4=C2C=C(C=C4)Cl)CCO
 1,5-Hexadiene	C=CCCC=C
@@ -19652,6 +19655,7 @@ Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 3,5-Difluoro-4-hydroxybenzylidene imidazolinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
 3,5-Difluoromethcathinone	CC(C(=O)C1=CC(=CC(=C1)F)F)NC
+Glucovanillin	COC1=C(C=CC(=C1)C=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Curium(III) chloride	Cl[Cm](Cl)Cl
 Lithium lactate	[Li+].CC(C(=O)[O-])O
 Manganese lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Mn+2]
@@ -20171,6 +20175,7 @@ S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
 Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
 Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].Br[Bi-3](Br)(Br)(Br)(Br)Br
+Brassylic acid	C(CCCCCC(=O)O)CCCCCC(=O)O
 2-Methoxyethoxymethyl chloride	COCCOCCl
 4-686-293-01	[Br-].[Br-].C[N+](Cc1ncccc1OC(=O)N(C)C)(CC)CCCCCCCCCC[N+](C)(Cc1ncccc1OC(=O)N(C)C)CC
 Chloromethyl methyl sulfide	CSCCl
@@ -21925,3 +21930,6 @@ Difenoxuron	CN(C)C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)OC
 5-MeO-isoDMT	CN(C)CCN1C=CC2=C1C=CC(=C2)OC
 Chloronitramide anion	[N-]([N+](=O)[O-])Cl
 Quinmerac	CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1
+Ziritaxestat	CCC1=C(N2C=C(C=C(C2=N1)C)N3CCN(CC3)CC(=O)N4CC(C4)O)N(C)C5=NC(=C(S5)C#N)C6=CC=C(C=C6)F
+MC-2973	CCC(CC)(CCO)CO
+Admilparant	CCCN(C)C(=O)OCC1=C(N=NN1C)C2=NC(=C(C=C2)O[C@H]3CCC[C@@H](C3)C(=O)O)C
