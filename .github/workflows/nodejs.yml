@@ -13,4 +13,4 @@ jobs:
     with:
       node-version-matrix: '[20]'
       lint-check-types: true
-      npm-setup-command: 'npm ci'
+      upload-coverage: false
