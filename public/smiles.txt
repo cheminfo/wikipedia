@@ -3062,6 +3062,7 @@ Curium(III) oxide	[O--].[O--].[O--].[Cm+3].[Cm+3]
 Sulbactam	O=S2(=O)C([C@@H](N1C(=O)C[C@H]12)C(=O)O)(C)C
 Sultamicillin	O=C(OCOC(=O)[C@@H]2N1C(=O)C[C@H]1S(=O)(=O)C2(C)C)[C@@H]4N5C(=O)[C@@H](NC(=O)[C@@H](c3ccccc3)N)[C@H]5SC4(C)C
 Sodium thioantimoniate	O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+].[S-][Sb](=S)([S-])[S-]
+Chromium(II) oxide	O=[Cr]
 Mellitic acid	O=C(O)c1c(c(c(c(c1C(=O)O)C(=O)O)C(=O)O)C(=O)O)C(=O)O
 1,1-Dichloroethane	ClC(Cl)C
 Olmesartan	CCCc1nc(c(n1Cc2ccc(cc2)c3ccccc3c4[nH]nnn4)C(=O)OCc5c(oc(=O)o5)C)C(C)(C)O
@@ -8059,6 +8060,7 @@ Clothianidin	CNC(N[N+]([O-])=O)=NCC1=CN=C(Cl)S1
 1-(Furan-2-yl)undecan-1-ol	CCCCCCCCCCC(O)C1=CC=CO1
 3-Aminobenzoic acid	O=C(O)c1cc(N)ccc1
 SPhos	COc1cccc(c1c2ccccc2P(C3CCCCC3)C4CCCCC4)OC
+Chromium(III) sulfide	[S-2].[S-2].[S-2].[Cr+3].[Cr+3]
 Norbinaltorphimine	C1CC1CN2CC[C@]34[C@@H]5C6=C(C[C@]3([C@H]2CC7=C4C(=C(C=C7)O)O5)O)C8=C(N6)[C@H]9[C@@]12CCN([C@@H]([C@@]1(C8)O)CC1=C2C(=C(C=C1)O)O9)CC1CC1
 XPhos	P(c2ccccc2c1c(cc(cc1C(C)C)C(C)C)C(C)C)(C3CCCCC3)C4CCCCC4
 Disiamylborane	B(C(C(C)C)C)C(C)C(C)C
@@ -21972,6 +21974,12 @@ Icotrokinra	CC1=C2C(=CC=C1)C(=CN2)C[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(SSC([C@@H](C
 IAG933	CNC(=O)C1=CN=C(C(=C1C2=C3C[C@@](OC3=CC(=C2Cl)F)([C@@H]4CCCN4)C5=CC=CC=C5)F)OCCO
 R6890	CC(C1=CC=C(C=C1)Cl)N2CCC3(CC2)C(=O)NCN3C4=CC=CC=C4
 Napropamide	CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21
+Clodazon	CN(C)CCCN1C2=C(C=C(C=C2)Cl)N(C1=O)C3=CC=CC=C3
+Napactadine	CNC(=NC)CC1=CC2=CC=CC=C2C=C1
+Nitrafudam	C1=CC=C(C(=C1)C2=CC=C(O2)C(=N)N)[N+](=O)[O-]
 Melicopidine	CN1C2=CC=CC=C2C(=O)C3=C1C(=C4C(=C3OC)OCO4)OC
 Benzoylferrocene	[CH-]1C=CC=C1.[CH-]1C=CC=C1C(=O)C2=CC=CC=C2.[Fe+2]
+Indriline	CN(C)CCC1(C=CC2=CC=CC=C21)C3=CC=CC=C3
 2,3,6-Trichlorobenzoic acid	C1=CC(=C(C(=C1Cl)C(=O)O)Cl)Cl
+Zuomihuanglong	CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=NN2C3=CC=CC=N3)C(=O)OC)C
+Utreloxastat	O=C(C(C)=C1C)C(CCCCCCCCC)=C(C)C1=O
