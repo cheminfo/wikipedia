@@ -7,8 +7,8 @@ import { useMediaQuery } from 'usehooks-ts';
 import {
   SearchType,
   useMoleculeContext,
-} from '../../contexts/molecule_context';
-import SimpleTable from '../SimpleTable';
+} from '../../contexts/molecule_context.js';
+import SimpleTable from '../SimpleTable.js';
 
 interface HelpButtonProps {
   setShowHelp: Dispatch<SetStateAction<boolean>>;
@@ -48,10 +48,9 @@ function Board() {
   const handleResize = (refObs: ObservedSize) =>
     setBoardWidth(refObs.width || 470);
 
+  // @ts-expect-error use-resize-observer types are wrong.
   const { ref } = useResizeObserver<HTMLDivElement>({
-    onResize: (refObs) => {
-      handleResize(refObs);
-    },
+    onResize: handleResize,
   });
 
   const isMobile = !useMediaQuery('(min-width: 640px)');

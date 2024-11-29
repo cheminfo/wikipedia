@@ -15,12 +15,12 @@ import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
 import useResizeObserver from 'use-resize-observer';
 
-import { useDataContext } from '../../contexts/data_context';
-import { useMoleculeContext } from '../../contexts/molecule_context';
-import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data';
-import SimpleTable from '../SimpleTable';
+import { useDataContext } from '../../contexts/data_context.js';
+import { useMoleculeContext } from '../../contexts/molecule_context.js';
+import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
+import SimpleTable from '../SimpleTable.js';
 
-import { MoleculeInfo } from './MoleculeInfo';
+import { MoleculeInfo } from './MoleculeInfo.js';
 
 interface FilterProps {
   filter: string;
@@ -135,10 +135,9 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
         : 3,
     );
 
+  // @ts-expect-error use-resize-observer types are wrong.
   const { ref } = useResizeObserver<HTMLDivElement>({
-    onResize: () => {
-      handleResize();
-    },
+    onResize: handleResize,
   });
 
   function getRowCount(molLen: number) {

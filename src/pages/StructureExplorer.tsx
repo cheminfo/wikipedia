@@ -1,11 +1,11 @@
 import { Dispatch, SetStateAction, useState } from 'react';
 
-import About from '../components/About';
-import HelpDialog from '../components/HelpDialog';
-import { DrawStructure } from '../components/StructureExplorer/DrawStructure';
-import { MoleculeList } from '../components/StructureExplorer/MoleculeList';
-import { Wikipedia } from '../components/StructureExplorer/Wikipedia';
-import { useDataContext } from '../contexts/data_context';
+import About from '../components/About.js';
+import HelpDialog from '../components/HelpDialog.js';
+import { DrawStructure } from '../components/StructureExplorer/DrawStructure.js';
+import { MoleculeList } from '../components/StructureExplorer/MoleculeList.js';
+import { Wikipedia } from '../components/StructureExplorer/Wikipedia.js';
+import { useDataContext } from '../contexts/data_context.js';
 
 interface StructureExplorerProps {
   showAbout: boolean;

@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import * as util from './util.js';
 
 /**
- * @type {import('./types').WikiIds}
+ * @type {import('./types.js').WikiIds}
  */
 let total = [];
 

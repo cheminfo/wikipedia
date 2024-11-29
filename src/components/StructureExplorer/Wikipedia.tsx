@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 
-import { useMoleculeContext } from '../../contexts/molecule_context';
-import SimpleTable from '../SimpleTable';
+import { useMoleculeContext } from '../../contexts/molecule_context.js';
+import SimpleTable from '../SimpleTable.js';
 
 function OpenWiki() {
   const { selectedTitle } = useMoleculeContext();

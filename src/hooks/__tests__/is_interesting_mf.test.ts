@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 
-import { isInterestingMF } from '../is_interesting_mf';
+import { isInterestingMF } from '../is_interesting_mf.js';
 
 test('isInterestingMF', async () => {
   expect(isInterestingMF('NO2')).toBe(false);
