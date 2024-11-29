@@ -1,7 +1,7 @@
-import SimpleTable from '../SimpleTable';
+import SimpleTable from '../SimpleTable.js';
 
-import { ErrorSection } from './ErrorSection';
-import ErrorTableContent from './ErrorTableContent';
+import { ErrorSection } from './ErrorSection.js';
+import ErrorTableContent from './ErrorTableContent.js';
 
 interface NotFoundProps {
   number: number;

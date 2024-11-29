@@ -1,8 +1,8 @@
 import { Dispatch, SetStateAction, useState } from 'react';
 
-import { useMoleculeContext } from '../../contexts/molecule_context';
+import { useMoleculeContext } from '../../contexts/molecule_context.js';
 
-import { ErrorSection } from './ErrorSection';
+import { ErrorSection } from './ErrorSection.js';
 
 interface ISMILEError {
   id: number;

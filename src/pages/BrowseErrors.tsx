@@ -1,11 +1,11 @@
 import { Dispatch, SetStateAction } from 'react';
 
-import About from '../components/About';
-import { Duplicates } from '../components/BrowseErrors/Duplicates';
-import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES';
-import { NotFound } from '../components/BrowseErrors/NotFound';
-import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors';
-import { useDataContext } from '../contexts/data_context';
+import About from '../components/About.js';
+import { Duplicates } from '../components/BrowseErrors/Duplicates.js';
+import { NoCorrectSMILES } from '../components/BrowseErrors/NoCorrectSMILES.js';
+import { NotFound } from '../components/BrowseErrors/NotFound.js';
+import { SMILESErrors } from '../components/BrowseErrors/SMILESErrors.js';
+import { useDataContext } from '../contexts/data_context.js';
 
 interface BrowseErrorsProps {
   showAbout: boolean;

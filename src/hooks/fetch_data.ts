@@ -5,9 +5,9 @@ import {
   WikipediaData,
   WikipediaJson,
   WikipediaMolecule,
-} from '../../dump/types';
+} from '../../dump/types.js';
 
-import { isInterestingMF } from './is_interesting_mf';
+import { isInterestingMF } from './is_interesting_mf.js';
 
 export async function fetchData() {
   const response = await fetch('data.json', {

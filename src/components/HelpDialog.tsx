@@ -1,6 +1,6 @@
 import { Dispatch, SetStateAction } from 'react';
 
-import DialogWindow from './DialogWindow';
+import DialogWindow from './DialogWindow.js';
 
 interface HelpDialogProps {
   showHelp: boolean;

@@ -1,7 +1,6 @@
 import fs from 'node:fs';
 import { parseArgs } from 'node:util';
 
-// @ts-expect-error Untyped package
 import { MF } from 'mf-parser';
 import OCL from 'openchemlib';
 // @ts-expect-error Untyped package
@@ -173,7 +172,7 @@ for (let i = 0; i < length; i++) {
           continue; // If exact same molecule is already present for this page, skip
         }
         const oclMF = molecule.getMolecularFormula();
-        /** @type {import('./types').WikipediaMolecule} */
+        /** @type {import('./types.js').WikipediaMolecule} */
         const result = {
           id: page.id,
           title: page.title,
@@ -191,6 +190,7 @@ for (let i = 0; i < length; i++) {
           const info = mf.getInfo();
           result.mf = mf.toMF();
           result.mw = info.mass;
+          // @ts-expect-error It exists.
           result.em = info.monoisotopicMass;
         } catch (e) {
           // MF parsing error
@@ -218,7 +218,7 @@ for (let i = 0; i < length; i++) {
   bar.tick();
 }
 
-/** @type {import('./types').WikipediaJson} */
+/** @type {import('./types.js').WikipediaJson} */
 const theResult = {
   stats: {
     date: new Date().toISOString(),

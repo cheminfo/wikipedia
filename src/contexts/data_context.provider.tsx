@@ -2,9 +2,9 @@ import OCL from 'openchemlib/full';
 import { MoleculesDB } from 'openchemlib-utils';
 import { ReactNode, useEffect, useMemo, useState } from 'react';
 
-import { ExtendedWikipediaJson, fetchData } from '../hooks/fetch_data';
+import { ExtendedWikipediaJson, fetchData } from '../hooks/fetch_data.js';
 
-import { dataContext, initData } from './data_context';
+import { dataContext, initData } from './data_context.js';
 
 export function DataContextProvider({ children }: { children: ReactNode }) {
   const [allData, setAllData] = useState<ExtendedWikipediaJson>(initData);

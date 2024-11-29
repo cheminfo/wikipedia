@@ -1,6 +1,6 @@
 import { ReactNode, useMemo, useState } from 'react';
 
-import { moleculeContext, SearchType } from './molecule_context';
+import { moleculeContext, SearchType } from './molecule_context.js';
 
 export function MoleculeContextProvider({ children }: { children: ReactNode }) {
   const [selectedId, setSelectedId] = useState<number | null>(null);

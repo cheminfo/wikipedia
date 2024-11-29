@@ -6,7 +6,7 @@ import ProgressBar from 'progress';
 import * as util from './util.js';
 
 /**
- * @type {import('./types').WikiIds}
+ * @type {import('./types.js').WikiIds}
  */
 const ids = JSON.parse(fs.readFileSync('./data/ids.json', 'utf-8'));
 
@@ -14,11 +14,11 @@ let start = 0;
 const length = ids.length;
 
 /**
- * @type {import('./types').WikiRevs}
+ * @type {import('./types.js').WikiRevs}
  */
 const revisions = [];
 /**
- * @type {import('./types').WikiRevMissing}
+ * @type {import('./types.js').WikiRevMissing}
  */
 const missing = [];
 

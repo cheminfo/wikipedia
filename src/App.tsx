@@ -2,12 +2,12 @@ import { Provider as TooltipProvider } from '@radix-ui/react-tooltip';
 import { useState } from 'react';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 
-import { Footer } from './components/Footer';
-import { Navbar } from './components/Navbar';
-import { DataContextProvider } from './contexts/data_context.provider';
-import { MoleculeContextProvider } from './contexts/molecule_context.provider';
-import { BrowseErrors } from './pages/BrowseErrors';
-import { StructureExplorer } from './pages/StructureExplorer';
+import { Footer } from './components/Footer.js';
+import { Navbar } from './components/Navbar.js';
+import { DataContextProvider } from './contexts/data_context.provider.js';
+import { MoleculeContextProvider } from './contexts/molecule_context.provider.js';
+import { BrowseErrors } from './pages/BrowseErrors.js';
+import { StructureExplorer } from './pages/StructureExplorer.js';
 
 export default function App() {
   const [showAbout, setShowAbout] = useState(false);

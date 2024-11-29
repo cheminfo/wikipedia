@@ -6,12 +6,12 @@ import ProgressBar from 'progress';
 import * as util from './util.js';
 
 /**
- * @type {import('./types').WikiRevs}
+ * @type {import('./types.js').WikiRevs}
  */
 const allRevs = JSON.parse(fs.readFileSync('./data/rev.json', 'utf-8'));
 
 /**
- * @type {import('./types').WikiUpdate}
+ * @type {import('./types.js').WikiUpdate}
  */
 let pageInfo;
 try {
@@ -96,7 +96,7 @@ function saveInfo() {
 }
 
 /**
- * @param {import("./types").WikiRev} page
+ * @param {import("./types.js").WikiRev} page
  */
 function markUpdated(page) {
   let idx = indexOfPage(page);
@@ -110,7 +110,7 @@ function markUpdated(page) {
 }
 
 /**
- * @param {import("./types").WikiRev} page
+ * @param {import("./types.js").WikiRev} page
  */
 function indexOfPage(page) {
   for (let i = 0; i < pageInfo.length; i++) {
