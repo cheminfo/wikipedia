@@ -1,10 +1,13 @@
 import { ReactNode, useMemo, useState } from 'react';
 
+import { WikipediaMolecule } from '../../dump/types.js';
+
 import { moleculeContext, SearchType } from './molecule_context.js';
 
 export function MoleculeContextProvider({ children }: { children: ReactNode }) {
   const [selectedId, setSelectedId] = useState<number | null>(null);
-  const [selectedTitle, setSelectedTitle] = useState('');
+  const [selectedStructure, setSelectedStructure] =
+    useState<WikipediaMolecule | null>(null);
   const [idAndIdCode, setIdAndIdCode] = useState({ id: 0, idCode: '' });
   const [search, setSearch] = useState<SearchType>('substructure');
 
@@ -12,8 +15,8 @@ export function MoleculeContextProvider({ children }: { children: ReactNode }) {
     () => ({
       selectedId,
       setSelectedId,
-      selectedTitle,
-      setSelectedTitle,
+      selectedStructure,
+      setSelectedStructure,
       id: idAndIdCode.id,
       idCode: idAndIdCode.idCode,
       setIdAndIdCode,
@@ -23,8 +26,8 @@ export function MoleculeContextProvider({ children }: { children: ReactNode }) {
     [
       selectedId,
       setSelectedId,
-      selectedTitle,
-      setSelectedTitle,
+      selectedStructure,
+      setSelectedStructure,
       idAndIdCode,
       setIdAndIdCode,
       search,
