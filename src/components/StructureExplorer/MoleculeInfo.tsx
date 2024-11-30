@@ -12,8 +12,12 @@ interface MoleculeInfoProps {
 }
 
 export function MoleculeInfo({ mol }: MoleculeInfoProps) {
-  const { selectedTitle, setSelectedTitle, setSearch, setIdAndIdCode } =
+  const { selectedStructure, setSelectedStructure, setSearch, setIdAndIdCode } =
     useMoleculeContext();
+
+  const isSelected =
+    mol.id === selectedStructure?.id &&
+    mol.idCode === selectedStructure?.idCode;
 
   return (
     <button
@@ -21,11 +25,11 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps) {
       className={clsx(
         'group flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
         {
-          'border-darkgray bg-darkgray': mol.title === selectedTitle,
-          'hover:bg-lightgray': mol.title !== selectedTitle,
+          'border-darkgray bg-darkgray': isSelected,
+          'hover:bg-lightgray': !isSelected,
         },
       )}
-      onClick={() => setSelectedTitle(mol.title)}
+      onClick={() => setSelectedStructure(mol)}
     >
       <Hint info="Similar molecules" className="absolute top-1.5 left-2">
         <div

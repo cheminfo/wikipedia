@@ -4,11 +4,15 @@ import { useMoleculeContext } from '../../contexts/molecule_context.js';
 import SimpleTable from '../SimpleTable.js';
 
 function OpenWiki() {
-  const { selectedTitle } = useMoleculeContext();
+  const { selectedStructure } = useMoleculeContext();
+
+  if (!selectedStructure) {
+    return null;
+  }
 
   return (
     <a
-      href={`https://en.wikipedia.org/wiki/${selectedTitle}`}
+      href={`https://en.wikipedia.org/wiki/${selectedStructure.title}`}
       target="_blank"
       rel="noopener noreferrer"
       className="cursor-pointer text-white"
@@ -21,7 +25,7 @@ function OpenWiki() {
 function WikiPage() {
   const [url, setUrl] = useState('');
   const [iframeHeight, setIframeHeight] = useState(0);
-  const { selectedTitle } = useMoleculeContext();
+  const { selectedStructure } = useMoleculeContext();
   const iframeRef = useRef<HTMLIFrameElement>(null);
 
   const handleIframeLoad = () => {
@@ -33,8 +37,8 @@ function WikiPage() {
   };
 
   useEffect(() => {
-    if (!selectedTitle) return;
-    const link = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedTitle}`;
+    if (!selectedStructure) return;
+    const link = `https://en.wikipedia.org/api/rest_v1/page/html/${selectedStructure.title}`;
     let url: string;
     let aborted = false;
     void fetch(link)
@@ -61,7 +65,7 @@ function WikiPage() {
         URL.revokeObjectURL(url);
       }
     };
-  }, [selectedTitle]);
+  }, [selectedStructure]);
 
   return (
     <iframe

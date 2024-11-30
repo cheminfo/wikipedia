@@ -107,11 +107,12 @@ function dbToMolecules(moleculeDb: any): ExtendedWikipediaMolecule[] {
 }
 
 function Molecules({ gridRef, molecules }: MoleculesProps) {
-  const { selectedTitle, setSelectedTitle } = useMoleculeContext();
+  const { selectedStructure, setSelectedStructure } = useMoleculeContext();
 
   useEffect(() => {
-    if (selectedTitle === '') {
-      setSelectedTitle(molecules[0]?.title);
+    const firstMolecule = molecules[0];
+    if (selectedStructure === null && firstMolecule) {
+      setSelectedStructure(firstMolecule);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);

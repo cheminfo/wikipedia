@@ -1,12 +1,14 @@
 import { createContext, Dispatch, SetStateAction, useContext } from 'react';
 
+import { WikipediaMolecule } from '../../dump/types.js';
+
 export type SearchType = 'substructure' | 'exact' | 'similarity';
 
 interface MoleculeContext {
   selectedId: number | null;
   setSelectedId: Dispatch<SetStateAction<number | null>>;
-  selectedTitle: string;
-  setSelectedTitle: Dispatch<SetStateAction<string>>;
+  selectedStructure: WikipediaMolecule | null;
+  setSelectedStructure: Dispatch<SetStateAction<WikipediaMolecule | null>>;
   id: number;
   idCode: string;
   setIdAndIdCode: Dispatch<SetStateAction<{ id: number; idCode: string }>>;
@@ -17,8 +19,8 @@ interface MoleculeContext {
 export const moleculeContext = createContext<MoleculeContext>({
   selectedId: null,
   setSelectedId: () => undefined,
-  selectedTitle: '',
-  setSelectedTitle: () => undefined,
+  selectedStructure: null,
+  setSelectedStructure: () => undefined,
   id: 0,
   idCode: '',
   setIdAndIdCode: () => undefined,
