@@ -2523,10 +2523,6 @@ N,N-Diisopropylethylamine	CCN(C(C)C)C(C)C
 Stiripentol	O1c2ccc(cc2OC1)/C=C/C(O)C(C)(C)C
 Aziridine	C1CN1
 Plutonium(IV) oxide	[O-2].[O-2].[Pu+4]
-Oxazolidinone	C1COC(=O)N1
-Oxazolidinone	C1CONC1=O
-Oxazolidinone	C1C(=O)NCO1
-Oxazolidinone	C1C(=O)CON1
 Tantalum(V) chloride	Cl[Ta](Cl)(Cl)(Cl)Cl
 Voriconazole	Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C
 TATB	c1(c(c(c(c(c1[N+](=O)[O-])N)[N+](=O)[O-])N)[N+](=O)[O-])N
@@ -9246,6 +9242,7 @@ Pancratistatin	C1OC2=C(O1)C(=C3C(=C2)[C@@H]4[C@H]([C@@H]([C@@H]([C@H]([C@@H]4O)O
 BAY 60–6583	N#Cc1c(SCC(N)=O)nc(N)c(C#N)c1-c3ccc(cc3)OCC2CC2
 SCH-442,416	n1n3c(nc4c(c3nc1c2occc2)cnn4CCCc5ccc(OC)cc5)N
 Vitamin D5	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CC[C@H](CC)C(C)C)C
+Cobalt sulfide	S=[Co]
 Sodium fluorosilicate	[Na+].[Na+].F[Si--](F)(F)(F)(F)F
 Methyl cyanoacrylate	C=C(C(OC)=O)C#N
 Butyl cyanoacrylate	N#CC(=C)C(=O)OCCCC
@@ -15231,6 +15228,7 @@ Fluxapyroxad	CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
 Pigment Red 149	Cc1cc(cc(c1)N2C(=O)c3ccc4c5ccc6c7c5c(ccc7C(=O)N(C6=O)c8cc(cc(c8)C)C)c9c4c3c(cc9)C2=O)C
 Pigment Red 178	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N3C(=O)C4=C5C(=CC=C6C5=C(C=C4)C7=C8C6=CC=C9C8=C(C=C7)C(=O)N(C9=O)C1=CC=C(C=C1)N=NC1=CC=CC=C1)C3=O
 Pigment Red 179	CN1C(=O)c2ccc3c4ccc5c6c4c(ccc6C(=O)N(C5=O)C)c7c3c2c(cc7)C1=O
+Cobalt boride	B#[Co]
 N-Succinimidyl 4-fluorobenzoate	FC1=CC=C(C(ON2C(CCC2=O)=O)=O)C=C1
 N-Succinimidyl 4-fluorobenzoate	C1CC(=O)N(C1=O)OC(=O)C2=CC=C(C=C2)[18F]
 Pentethylcyclanone	C1CC=C(C1)C2(CCCC2=O)CCN3CCOCC3
