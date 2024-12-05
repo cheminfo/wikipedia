@@ -16086,6 +16086,7 @@ Ridinilazole	c6cc(c5nc4ccc(c3ccc2nc(c1ccncc1)[nH]c2c3)cc4[nH]5)ccn6
 Oxymorphone-3-methoxynaltrexonazine	CN1CCC23C4C(=NN=C5CCC6(C7CC8=C9C6(C5OC9=C(C=C8)OC)CCN7CC5CC5)O)CCC2(C1CC1=C3C(=C(C=C1)O)O4)O
 Phenypressin	C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=CC=C4)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N
 Dibutyrylmorphine	CCCC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)CCC)CCN3C
+Manganese disulfide	S=[Mn]=S
 Mercaptobenzothiazole	c1ccc2c(c1)[nH]c(=S)s2
 Geniposide	COC(=O)C1=COC(C2C1CC=C2CO)OC3C(C(C(C(O3)CO)O)O)O
 2-Aminothiophenol	c1ccc(c(c1)N)S
@@ -21182,7 +21183,7 @@ VU6067416	Brc1cc2c(n[NH]c2cc1)C=1CNCCC=1
 Plutonium nitride	[N].[Pu]
 ADX-71441	CC(=O)NC1=C(C=CC(=C1)N2C(=O)N(C(=O)C(=N2)OC)CC3=CC(=C(C=C3)Cl)F)F
 U-93631	CC1(C2=C(N=CN2C3=CC=CC=C3N1)C(=O)OC(C)(C)C)C
-Γ-Acetylenic-GABA	C#CC(CCC(=O)O)N
+Γ-Acetylenic GABA	C#CC(CCC(=O)O)N
 Peroxytaurine	O=S(=O)(OO)CCN
 1,3-Dimethylimidazolium nitrate	CN1C=C[N+](=C1)C.[N+](=O)([O-])[O-]
 2-Hydroxysaclofen	C1=CC(=CC=C1C(CN)(CS(=O)(=O)O)O)Cl
@@ -21996,3 +21997,6 @@ Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
 ID-4708	C1CN(CCC1(C2=CC(=CC=C2)C(F)(F)F)O)CCCC(=O)C3=C(C=C(C=C3)F)N
 Flufenoxine	C1CNCCC1C(C2=CC=CC=C2)OC3=CC(=CC=C3)F
+Cyclopentadecane	C1CCCCCCCCCCCCCC1
+Cyclohexadecane	C1CCCCCCCCCCCCCCC1
+Tris(3,5-di-tert-butyl-4-hydroxybenzyl) isocyanurate	C(N1C(=O)N(CC2=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C2)C(=O)N(CC3=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C3)C1=O)C4=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C4
