@@ -13372,7 +13372,7 @@ Tributylamine	N(CCCC)(CCCC)CCCC
 Clazuril	Clc1ccc(cc1)C(C#N)c3c(Cl)cc(N2/N=C\C(=O)NC2=O)cc3
 Epsiprantel	O=C4N2C(c1c(cccc1)CCC2)CN(C(=O)C3CCCCC3)C4
 Tagetitoxin	O=C(N)[C@]1(O)SC[C@@]2(O[C@@H]1[C@H](OC(=O)C)[C@@H](N)[C@H]2OP(=O)(O)O)C(=O)O
-JNJ-Q2	Fc1c(c(OC)c2c(c1)C(=O)C(\C(=O)O)=C/N2C3CC3)N4C/C(=C(/F)CN)CCC4
+Aravofloxacin	Fc1c(c(OC)c2c(c1)C(=O)C(\C(=O)O)=C/N2C3CC3)N4C/C(=C(/F)CN)CCC4
 Adipostatin A	CCCCCCCCCCCCCCCC1=CC(=CC(=C1)O)O
 Elobixibat	O=C(O)CNC(=O)[C@@H](c1ccccc1)NC(=O)COc4cc3c(N(c2ccccc2)CC(CS3(=O)=O)(CCCC)CCCC)cc4SC
 Uranium hexoxide	O=[U](=O)(=O)(=O)(=O)=O
@@ -21992,6 +21992,7 @@ Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl
 Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl.O
 Ammonium dicyanoaurate	[C-]#N.[C-]#N.[NH4+].[Au+]
 Alloxydim	CCC/C(=N\OCC=C)/C1=C(C(C(CC1=O)(C)C)C(=O)OC)O
+Danitracen	CN1CCC(=C2C3=CC=CC=C3CSC4=CC=CC=C42)CC1
 Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
@@ -22000,3 +22001,9 @@ Flufenoxine	C1CNCCC1C(C2=CC=CC=C2)OC3=CC(=CC=C3)F
 Cyclopentadecane	C1CCCCCCCCCCCCCC1
 Cyclohexadecane	C1CCCCCCCCCCCCCCC1
 Tris(3,5-di-tert-butyl-4-hydroxybenzyl) isocyanurate	C(N1C(=O)N(CC2=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C2)C(=O)N(CC3=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C3)C1=O)C4=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C4
+Sodium hypoiodite	[O-]I.[Na+]
+Enmetazobactam	C[C@@]1([C@@H](N2[C@H](S1(=O)=O)CC2=O)C(=O)[O-])CN3C=C[N+](=N3)C
+Zidebactam	C1C[C@H](CNC1)C(=O)NNC(=O)[C@@H]2CC[C@@H]3CN2C(=O)N3OS(=O)(=O)O
+Nafithromycin	CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)[C@H](C(=O)O1)C)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)[C@@H](C(=O)O2)/C(=N/O[C@@H](C)C4=NN=C(S4)C5=CC=CC=N5)/N)C
+Delpazolid	CN1CCN(C=N1)C2=C(C=C(C=C2)N3C[C@@H](OC3=O)CO)F
+Benapenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)NCC4=CC=C(C=C4)S(=O)(=O)N)C(=O)O)[C@@H](C)O
