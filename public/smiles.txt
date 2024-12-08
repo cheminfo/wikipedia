@@ -21993,6 +21993,7 @@ Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl.O
 Ammonium dicyanoaurate	[C-]#N.[C-]#N.[NH4+].[Au+]
 Alloxydim	CCC/C(=N\OCC=C)/C1=C(C(C(CC1=O)(C)C)C(=O)OC)O
 Danitracen	CN1CCC(=C2C3=CC=CC=C3CSC4=CC=CC=C42)CC1
+RMC-9805	O=C(N1CCC[C@@H]2N1)[C@H](C[C@@H](C3)OCCN3C4=CC5=C(N(CC(F)(F)F)[C@]([C@]6=C([C@H](C)OC)N=CC(N7CCN(C8CC8)CC7)=C6)=C5CC(C)(C)COC2=O)C=C4)NC([C@@H](N9C[C@]%10(CN(C([C@@H]%11N(C)[C@@H]%11C%12CC%12)=O)CC%10)CC9)C%13CCCC%13)=O
 Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
