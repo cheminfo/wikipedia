@@ -12574,6 +12574,7 @@ AB-001	CCCCCn1cc(c2c1cccc2)C(=O)C34CC5CC(C3)CC(C5)C4
 Benzedrone	c2ccccc2CNC(C)C(=O)c(cc1)ccc1C
 4,5-DHP-DMT	CN(C)CCc1c[nH]c3ccc2OCCCc2c13
 Syringin	O(c1c(OC)cc(/C=C/CO)cc1OC)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO
+CZTS	[Cu+].[Cu+].[Zn+2].[S-][Sn]([S-])([S-])[S-]
 BI 224436	CC1=NC2=CC=CC=C2C(=C1[C@@H](C(=O)O)OC(C)(C)C)C3=C4C5=C(C=C3)OCCC5=CC=N4
 Cycloocta-1,3,6-triene	C1C=CCC=CC=C1
 Pentedrone	O=C(C(CCC)NC)C1=CC=CC=C1
@@ -15776,6 +15777,7 @@ Dibromine trioxide	BrO[Br](=O)=O
 Setipiprant	c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
 6,14-Endoethenotetrahydrooripavine	[H][C@]12OC3=C4C(C[C@H]5N(C)CC[C@@]14[C@@]51CC[C@]2(OC)C=C1)=CC=C3O
 Etelcalcetide	C[C@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@@H](CSSC[C@@H](C(=O)O)N)NC(=O)C
+Org 6582	C1C=C[C@@H]2CC3=C([C@H]1[C@@H]2N)C=CC(=C3)Cl
 Nitrogen difluoride	[N](F)F
 3,5-Diiodothyronine	C1=CC(=CC=C1O)OC2=C(C=C(C=C2I)CC(C(=O)O)N)I
 Aripiprazole lauroxil	CCCCCCCCCCCC(=O)OCN1C(=O)CCC2=C1C=C(C=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
@@ -17570,7 +17572,7 @@ Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=
 Hydrazinium azide	N[NH3+].[N-]=[N+]=[N-]
 Methylphosphinic acid	CP(=O)O
 Estrone sulfate (medication)	O=S(=O)(O)Oc1cc4c(cc1)[C@H]3CC[C@@]2(C(=O)CC[C@H]2[C@@H]3CC4)C
-Dibenzoylhydrazine	C1=CC=C(C=C1)C(=O)NNC(=O)C2=CC=CC=C2
+Diacylhydrazine insecticide	O=C(c1cc(cc(c1)C)C)N(NC(=O)c2ccc(cc2)CC)C(C)(C)C
 Barettin	C1=CC2=C(C=C1Br)NC=C2C=C3C(=O)NC(C(=O)N3)CCCN=C(N)N
 Aluminium dihydrogenphosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].[Al+3]
 Dimethyl selenide	C[Se]C
