@@ -5352,6 +5352,8 @@ Hexachloroethane	ClC(Cl)(Cl)C(Cl)(Cl)Cl
 Gliotoxin	O=C1N([C@@]2(SS[C@@]14N(C2=O)[C@H]3C(=C\C=C/[C@@H]3O)/C4)CO)C
 Isobutyraldehyde	CC(C)C=O
 Borirane	B1CC1
+Borirene	B1C=C1
+Borirene	[B]1C=C1
 Fluorobenzene	Fc1ccccc1
 Cyclododecahexaene	C1=CC=CC=CC=CC=CC=C1
 Cyclododecahexaene	C\1=C/C=C\C=C\C=C/C=C\C=C1
@@ -7890,7 +7892,7 @@ Naloxazone	C=CCN1CCC23C4C(=NN)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O
 2-Ethylanthraquinone	O=C2c1c(cccc1)C(=O)c3c2ccc(c3)CC
 1-Octacosanol	OCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Hexachlorobutadiene	Cl/C(Cl)=C(\Cl)C(\Cl)=C(/Cl)Cl
-1-Methylnaphthalene	Cc1cccc2cccc12
+1-Methylnaphthalene	Cc1cccc2ccccc12
 Ukrain	C[N+]1(CC2=C(C=CC3=C2OCO3)C4C1C5=CC6=C(C=C5CC4O)OCO6)CCNP(=S)(NCC[N+]7(CC8=C(C=CC9=C8OCO9)C1C7C2=CC3=C(C=C2CC1O)OCO3)C)NCC[N+]1(CC2=C(C=CC3=C2OCO3)C2C1C1=CC3=C(C=C1CC2O)OCO3)C.[OH-].[OH-].[OH-]
 Medifoxamine	CN(C)CC(OC1=CC=CC=C1)OC2=CC=CC=C2
 Minaprine	CC1=CC(=NN=C1NCCN2CCOCC2)C3=CC=CC=C3
@@ -18075,7 +18077,9 @@ Tetraethylenepentamine	C(CNCCNCCNCCN)N
 N-Methylpiperazine	CN1CCNCC1
 Deflectin	CCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Deflectin	CCCCCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
+Deflectin	CCCCCCCC[C@H](C)C(=O)C1=C2C3=COC(C)=CC3=CC(=O)[C@]2(C)OC1=O
 Deflectin	CCCCCCCCCC[C@H](C)C(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
+Deflectin	CCCCCCCCCCCCC(=O)C1=C2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)C
 Nickel silicide	[Si](=[Ni])=[Ni]
 Decyl(triphenyl)phosphonium	CCCCCCCCCCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
 Isotonitazene	CCN(CCn1c(Cc2ccc(cc2)OC(C)C)nc2c1ccc(c2)N(=O)=O)CC
