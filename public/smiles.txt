@@ -1832,6 +1832,7 @@ Cyclopentanone	C1CCC(=O)C1
 Bromethalin	Brc2cc(Br)cc(Br)c2N(c1c([N+]([O-])=O)cc([N+]([O-])=O)cc1C(F)(F)F)C
 Primaquine	O(c1cc(NC(C)CCCN)c2ncccc2c1)C
 Gliadorphin	c1ccc(cc1)C[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
+Tetraborane	[H]B123([H])[H]B145([H])[H]B41([H])([H])[H]B215([H])[H]3
 Γ-Butyrolactone	O=C1OCCC1
 Butyl nitrite	CCCCON=O
 Ethyl nitrite	O=NOCC
@@ -2735,7 +2736,7 @@ Copper(I) iodide	[Cu]I
 Azelaic acid	O=C(O)CCCCCCCC(=O)O
 Butyraldehyde	O=CCCC
 4-Aminosalicylic acid	OC(=O)c1ccc(N)cc1O
-Hexazinone	O=C(N1C2CCCCC2)N=C(N(C)C)N(C)C1=O
+Hexazinone	O=C1/N=C(\N(C(=O)N1C2CCCCC2)C)N(C)C
 Nitrogen trifluoride	FN(F)F
 Copper(II) hydroxide	[Cu+2].[OH-].[OH-]
 Ethyl acetoacetate	CCOC(=O)CC(=O)C
@@ -5454,6 +5455,7 @@ Fluoroboric acid	F[B-](F)(F)[FH+]
 Fluoroboric acid	[H+].F[B-](F)(F)F
 PAC-1	C=CCc3cccc(/C=N\NC(=O)CN2CCN(Cc1ccccc1)CC2)c3O
 Silver acetylide	[Ag+].[Ag+].[C-]#[C-]
+Silver acetylide	[Ag+].[C-]#C
 Potassium tetraphenylborate	[K+].c1c(cccc1)[B-](c2ccccc2)(c3ccccc3)c4ccccc4
 Perosamine	C[C@H]([C@H]([C@@H]([C@@H](C=O)O)O)N)O
 Nickel oxide hydroxide	O[Ni]=O
@@ -21484,7 +21486,7 @@ Potassium hexafluoroaluminate	F[Al-3](F)(F)(F)(F)F.[K+].[K+].[K+]
 Lithium hexafluoroaluminate	[Li+].[Li+].[Li+].F[Al-3](F)(F)(F)(F)F
 Methionylglycine	CSCC[C@H](N)C(=O)NCC(O)=O
 Glycylmethionine	CSCCC(C(=O)O)NC(=O)CN
-Methionyl-tyrosine	CSCCC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N
+Methionyl-tyrosine	CSCC[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O)N
 Barium hexafluorogermanate	F[Ge-2](F)(F)(F)(F)F.[Ba+2]
 Lithium hexafluorosilicate	[Li+].[Li+].F[Si-2](F)(F)(F)(F)F
 Barium hexafluorosilicate	F[Si-2](F)(F)(F)(F)F.[Ba+2]
@@ -22004,6 +22006,8 @@ Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
 ID-4708	C1CN(CCC1(C2=CC(=CC=C2)C(F)(F)F)O)CCCC(=O)C3=C(C=C(C=C3)F)N
+U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F.Cl
+U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
 Flufenoxine	C1CNCCC1C(C2=CC=CC=C2)OC3=CC(=CC=C3)F
 Cyclopentadecane	C1CCCCCCCCCCCCCC1
 Cyclohexadecane	C1CCCCCCCCCCCCCCC1
