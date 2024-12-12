@@ -6342,6 +6342,7 @@ Bedaquiline	Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
 Pretomanid	C1[C@@H](COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F
 Hexafluoroethane	FC(F)(F)C(F)(F)F
 1,2-Dioxetane	O1OCC1
+Diethylaluminium cyanide	CC[Al](CC)C#N
 Amorolfine	O2[C@@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)CC)C[C@@H]2C)C
 Mercury(I) sulfate	[O-]S(=O)(=O)[O-].[Hg+][Hg+]
 Dehydroretinal	O=C\C=C(\C=C\C=C(\C=C\C1=C(\C=C/CC1(C)C)C)C)C
@@ -18194,6 +18195,7 @@ Adavosertib	CN1CCN(CC1)c2ccc(Nc3ncc4C(=O)N(CC=C)N(c5cccc(n5)C(C)(C)O)c4n3)cc2
 MgCu2	[Mg].[Cu].[Cu]
 Isoindenone	C1=CC2=CC(=O)C=C2C=C1
 Propetamphos	O([P@@](NCC)(OC)=S)\C(=C/C(OC(C)C)=O)C
+Dichloro(1,2-bis(diphenylphosphino)ethane)nickel	Cl[Ni]1(Cl)[P](c2ccccc2)(c2ccccc2)CC[P]1(c1ccccc1)c1ccccc1
 1-Pentadecanol	CCCCCCCCCCCCCCCO
 Go 6976	O=C1NCC2=C3C(N(CCC#N)C4=CC=CC=C43)=C5C(C6=CC=CC=C6N5C)=C21
 BX-912	BrC1=C(NCCC2=CN=CN2)N=C(NC2=CC=CC(NC(=O)N3CCCC3)=C2)N=C1
@@ -18559,7 +18561,9 @@ GSK2881078	C[C@H](CS(=O)(=O)C)N1C=CC2=C1C=CC(=C2C(F)(F)F)C#N
 Sodium hydroselenide	[Na+].[SeH-]
 Indisulam	C1=CC2=C(C(=C1)NS(=O)(=O)C3=CC=C(C=C3)S(=O)(=O)N)NC=C2Cl
 Dihydrolanosterol	C[C@H](CCCC(C)C)[C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
+Dichlorine pentoxide	O=ClOOCl(=O)=O
 Dichlorine pentoxide	ClOOCl(=O)(=O)=O
+Dichlorine pentoxide	O=Cl(=O)OCl(=O)=O
 Cyameluric acid	C1(=O)NC2=NC(=O)NC3=NC(=O)N=C(N23)N1
 Hydromelonic acid	C(#N)NC1=NC2=NC(=NC#N)N=C3N2C(=N1)NC(=NC#N)N3
 Thorium(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Th+4]
@@ -19476,7 +19480,7 @@ Neptunium(VII) oxide-hydroxide	[Np+3](=O)=O.[OH-].[OH-].[OH-]
 Tavapadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)C(F)(F)F)C3=C(C(=O)NC(=O)N3C)C
 Germyl	[GeH3-]
 Germyl	[GeH3]
-MALT (psychedelic drug)	CN(CCC1=CNC2=CC=CC=C21)CC=C
+MALT (drug)	CN(CCC1=CNC2=CC=CC=C21)CC=C
 Pentaethylenehexamine	NCCNCCNCCNCCNCCN
 9-Hydroxyhexahydrocannabinol	CCCCCC1=CC(=C2C3CC(CCC3C(OC2=C1)(C)C)(C)O)O
 Chlorsulfuron	O=C(NC1=NC(=NC(=N1)C)OC)NS(=O)(=O)C=2C=CC=CC2Cl
@@ -21674,7 +21678,7 @@ Cenerimod	CCC1=C(C(=CC(=C1)C2=NOC(=N2)C3=CC(=NC(=C3)OC)C4CCCC4)C)OC[C@H](CO)O
 Ceralasertib	C[C@@H]1COCCN1C2=NC(=NC(=C2)C3(CC3)[S@](=N)(=O)C)C4=C5C=CNC5=NC=C4
 Ioxynil	C1=C(C=C(C(=C1I)O)I)C#N
 3,4-Dihydroxyphenylglycolaldehyde	C1=CC(=C(C=C1C(C=O)O)O)O
-Γ-Aminobutyraldehyde	C(CC=O)CN
+4-Aminobutanal	C(CC=O)CN
 SCH-221510	CC1=CC=CC=C1C(C2=CC=CC=C2C)N3[C@@H]4CC[C@H]3CC(C4)(C5=CC=CC=C5)O
 4-Amino-1-butanol	C(CCO)CN
 Dordaviprone	CC1=CC=CC=C1CN2C(=O)C3=C(CCN(C3)CC4=CC=CC=C4)N5C2=NCC5
@@ -22019,3 +22023,5 @@ Nafithromycin	CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)
 Delpazolid	CN1CCN(C=N1)C2=C(C=C(C=C2)N3C[C@@H](OC3=O)CO)F
 Benapenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)NCC4=CC=C(C=C4)S(=O)(=O)N)C(=O)O)[C@@H](C)O
 Carfentrazone	CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F
+1,10-Decanediol	OCCCCCCCCCCO
+AZD-1134	CCC(=O)N1CCN(CC1)C2=CC=C(C=C2)NC(=O)C3=CC(=O)C4=C(O3)C(=CC(=C4)F)N5CCN(CC5)C
