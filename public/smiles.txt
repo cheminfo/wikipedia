@@ -1281,6 +1281,7 @@ Decaborane	[H]1[BH]234[BH]156[BH]278[BH]39([H]4)[BH]712[BH]853[BH]645[BH]311[BH]
 Cadmium sulfate	[Cd+2].[O-]S([O-])(=O)=O
 Cyclohexa-1,4-diene	C1C=CCC=C1
 Cytochalasin B	C[C@@H]1CCC[C@H](/C=C/C(=O)O[C@]23[C@@H](/C=C/C1)[C@@H](C(=C)[C@H]([C@H]2[C@@H](NC3=O)Cc4ccccc4)C)O)O
+Dolichol	CC(CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(/C)\CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(/C)\CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)CCO
 20-Hydroxyecdysone	O=C1\C=C3/[C@@H]([C@]2(C[C@H](O)[C@H](O)C[C@@H]12)C)CC[C@]4([C@@]3(O)CC[C@@H]4[C@](O)(C)[C@H](O)CCC(O)(C)C)C
 Boron carbide	B12B3B4B1C234
 Cyanogen chloride	ClC#N
@@ -17868,6 +17869,7 @@ Ro 3-0422	CCOP(=O)(OCC)Oc1cc2ccccc2[n+](c1)C.COS(=O)(=O)[O-]
 Tetramethylxylylene diisocyanate	CC(C)(C1=CC(=CC=C1)C(C)(C)N=C=O)N=C=O
 GH (nerve agent)	CC(C)CC(C)OP(=O)(C)F
 Cefiderocol	CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4(CCCC4)CCNC(=O)C5=C(C(=C(C=C5)O)O)Cl)C(=O)[O-]
+DPEphos	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3OC4=CC=CC=C4P(C5=CC=CC=C5)C6=CC=CC=C6
 Cerdulatinib	CCS(=O)(=O)N1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4CC4)C(=O)N
 Methylene imine	C=N
 Vilsmeier reagent	C[N+](=CCl)C.[Cl-]
@@ -21574,7 +21576,7 @@ TH-030418	C(O)(C)CCC7=CC=CS7
 TH-030418	OC1=C(O[C@H]2C(OC)(CC6)C(C(O)(C)CCC7=CC=CS7)CC36[C@@]42CCN5C)C4=C(C[C@H]35)C=C1
 Methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate	CCOCCOC(=O)C(=C1CCCC(=C1)NCCCOC)C#N
 Holmium monosulfide	[Ho].[S]
-Dysprosium monosulfide	[Dy].S
+Dysprosium monosulfide	[Dy].[S]
 1,2,3,4-Butanetetracarboxylic acid	C(C(C(CC(=O)O)C(=O)O)C(=O)O)C(=O)O
 Desmethylselegiline	CC(CC1=CC=CC=C1)NCC#C
 Ethyl copper	C[CH2-].[Cu+]
@@ -22036,3 +22038,6 @@ Benapenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)NCC4=CC=C(C=C4
 Carfentrazone	CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F
 1,10-Decanediol	OCCCCCCCCCCO
 AZD-1134	CCC(=O)N1CCN(CC1)C2=CC=C(C=C2)NC(=O)C3=CC(=O)C4=C(O3)C(=CC(=C4)F)N5CCN(CC5)C
+Tribenzylamine	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)CC3=CC=CC=C3
+Diboraanthracene	B1C2=CC=CC=C2BC3=CC=CC=C31
+B777-81	CN1CCC(CC1)(C2=CC=CC=C2)OC3=CC=C(C=C3)N
