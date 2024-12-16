@@ -21670,7 +21670,7 @@ Ammonium hexafluorogallate	[NH4+].[NH4+].[NH4+].[F-].[F-].[F-].[F-].[F-].[F-].[G
 Ammonium hexafluoroantimonate	[NH4+].F[Sb-](F)(F)(F)(F)F
 Butylamphetamine	CCCCNC(C)CC1=CC=CC=C1
 2,4-Di-tert-butylphenol	CC(C)(C)c1ccc(O)c(c1)C(C)(C)C
-(R)-1-Aminoindan	C1CC2=CC=CC=C2[C@@H]1N
+(R)-1-Aminoindane	C1CC2=CC=CC=C2[C@@H]1N
 1-Aminoindane	C1CC2=CC=CC=C2C1N
 Bedoradrine	CN(C)C(=O)COC1=CC2=C(CC[C@@H](C2)NC[C@@H](C3=CC(=C(C=C3)O)CCO)O)C=C1
 Dioxethedrin	CCNC(C)C(C1=CC(=C(C=C1)O)O)O
@@ -22017,7 +22017,7 @@ Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl
 Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl.O
 Ammonium dicyanoaurate	[C-]#N.[C-]#N.[NH4+].[Au+]
 Alloxydim	CCC/C(=N\OCC=C)/C1=C(C(C(CC1=O)(C)C)C(=O)OC)O
-Danitracen	CN1CCC(=C2C3=CC=CC=C3CSC4=CC=CC=C42)CC1
+Danitracen	CN1CCC(=C2C3=CC=CC=C3C(C4=CC=CC=C42)O)CC1
 RMC-9805	O=C(N1CCC[C@@H]2N1)[C@H](C[C@@H](C3)OCCN3C4=CC5=C(N(CC(F)(F)F)[C@]([C@]6=C([C@H](C)OC)N=CC(N7CCN(C8CC8)CC7)=C6)=C5CC(C)(C)COC2=O)C=C4)NC([C@@H](N9C[C@]%10(CN(C([C@@H]%11N(C)[C@@H]%11C%12CC%12)=O)CC%10)CC9)C%13CCCC%13)=O
 Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
@@ -22042,3 +22042,4 @@ Tribenzylamine	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)CC3=CC=CC=C3
 Diboraanthracene	B1C2=CC=CC=C2BC3=CC=CC=C31
 Anidoxime	CCN(CC)CCC(=NOC(=O)NC1=CC=C(C=C1)OC)C2=CC=CC=C2
 B777-81	CN1CCC(CC1)(C2=CC=CC=C2)OC3=CC=C(C=C3)N
+Potassium asparaginate	[K+].N[C@@H](CC(N)=O)C([O-])=O
