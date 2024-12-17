@@ -12421,7 +12421,7 @@ Flavogallonic acid dilactone	O=c4oc3c1c(c(c2O)oc(=O)c1cc(O)c3O)c4cc2-c(c(O)c5O)c
 PPADS	Oc2c(C=O)c(COP(O)(=O)O)c(/N=N/c1ccc(cc1S(O)(=O)=O)S(O)(=O)=O)nc2C
 Thiocarbonic acid	C(=S)(S)S
 1,2,6-Trigalloyl glucose	O[C@@H]1[C@@H](COC(C2=CC(O)=C(O)C(O)=C2)=O)O[C@@H](OC(C3=CC(O)=C(O)C(O)=C3)=O)[C@H](OC(C4=CC(O)=C(O)C(O)=C4)=O)[C@H]1O
-1,2,3,4,6-Pentagalloyl glucose	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O
+Pentagalloylglucose	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O
 1,3,6-Trigalloyl glucose	c1c(cc(c(c1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)c3cc(c(c(c3)O)O)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O
 Chebulic acid	c1c2c(c(c(c1O)O)O)[C@@H]([C@H](OC2=O)C(=O)O)[C@H](CC(=O)O)C(=O)O
 Promin	[Na+].[Na+].[O-]S(=O)(=O)[C@H](Nc1ccc(cc1)S(=O)(=O)c2ccc(N[C@@H](S([O-])(=O)=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc2)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
@@ -16265,7 +16265,7 @@ CM156	c1ccc2c(c1)n(c(=S)s2)CCCCN3CCN(CC3)C4CCCCC4
 4-Hydroxy-1-methyl-4-(4-methylphenyl)-3-piperidyl 4-methylphenyl ketone	O=C(c1ccc(cc1)C)[C@H]3[C@](O)(c2ccc(cc2)C)CCN(C)C3
 NE-CHMIMO	O=C(c1cccc2ccccc12)c3cn(CC4CCCCC4)c5ccccc35
 Diethylbenzenes	CCC1=CC=CC=C1CC
-Fourphit	c1ccc(cc1)C2(CCCCC2)N3CCC(CC3)N=C=S
+Fourphit	C1CCC(CC1)(C2=CC=CC=C2)N3CCC(CC3)N=C=S
 Cingestol	C[C@]12CC[C@H]3[C@@H](CC=C4CCCC[C@H]34)[C@@H]1CC[C@@]2(O)C#C
 Tigestol	CC12CCC3C(C1CCC2(C#C)O)CCC4=C3CCCC4
 Segesterone	CC(=O)C1(C(=C)CC2C1(CCC3C2CCC4=CC(=O)CCC34)C)O
@@ -21034,6 +21034,7 @@ HEC96719	C1CC1C2=C(C(=NO2)C3=C(C=CC=C3Cl)Cl)COC4=NC5=C(C=C4)OC6=C(CC57CC7)C=CC(=
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
 ZED1227	CCC(CC)CNC(=O)CN1C=CC=C(C1=O)NC(=O)[C@H](CC/C=C/C(=O)OC)NC(=O)C2=CN(C=N2)C
 Luvadaxistat	C1=CC(=CC=C1CCC2=CC(=O)C(=O)NN2)C(F)(F)F
+Crinecerfont	FC1=CC(=CC=C1C)C(N(C2=NC(C=3C=C(C(OC)=CC3Cl)C)=C(S2)C)CC#C)CC4CC4
 Onfasprodil	O([C@@H]1C[C@@]2([C@](C1)(CN(C[C@H](O)C3=CC=C(O)C=N3)C2)[H])[H])C4=C(F)C=CC=C4
 1,4-Butanedithiol	C(CCS)CS
 Iberdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCOCC5
@@ -22043,3 +22044,4 @@ Diboraanthracene	B1C2=CC=CC=C2BC3=CC=CC=C31
 Anidoxime	CCN(CC)CCC(=NOC(=O)NC1=CC=C(C=C1)OC)C2=CC=CC=C2
 B777-81	CN1CCC(CC1)(C2=CC=CC=C2)OC3=CC=C(C=C3)N
 Potassium asparaginate	[K+].N[C@@H](CC(N)=O)C([O-])=O
+Lanthanum(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[La+3].[La+3]
