@@ -2010,7 +2010,7 @@ Rhodium(III) chloride	[Rh+3].[Cl-].[Cl-].[Cl-]
 Iridium(III) chloride	[Cl-].[Cl-].[Cl-].[Ir+3]
 Stearyl alcohol	OCCCCCCCCCCCCCCCCCC
 Caesium hydroxide	[OH-].[Cs+]
-Ergometrine	[H][C@@]12Cc3c[nH]c4cccc(C1=C[C@@H](C(=O)N[C@@H](C)CO)CN2C)c34
+Ergonovine	[H][C@@]12Cc3c[nH]c4cccc(C1=C[C@@H](C(=O)N[C@@H](C)CO)CN2C)c34
 Penicillamine	CC(C)([C@H](C(=O)O)N)S
 Dunnite	C1=C(C=C(C(=C1[N+](=O)[O-])[O-])[N+](=O)[O-])[N+](=O)[O-].[NH4+]
 9-Borabicyclo(3.3.1)nonane	B1([H]3)(C2CCCC1CCC2)[H]B34C2CCCC4CCC2
@@ -12420,9 +12420,9 @@ Flavogallonic acid	OC(=O)c1cc(O)c(O)c(O)c1-c2cc(C(=O)O)c(cc2O)-c(cc3O)c(C(=O)O)c
 Flavogallonic acid dilactone	O=c4oc3c1c(c(c2O)oc(=O)c1cc(O)c3O)c4cc2-c(c(O)c5O)c(C(O)=O)cc5O
 PPADS	Oc2c(C=O)c(COP(O)(=O)O)c(/N=N/c1ccc(cc1S(O)(=O)=O)S(O)(=O)=O)nc2C
 Thiocarbonic acid	C(=S)(S)S
-1,2,6-Trigalloyl glucose	O[C@@H]1[C@@H](COC(C2=CC(O)=C(O)C(O)=C2)=O)O[C@@H](OC(C3=CC(O)=C(O)C(O)=C3)=O)[C@H](OC(C4=CC(O)=C(O)C(O)=C4)=O)[C@H]1O
+1,2,6-Trigalloylglucose	O[C@@H]1[C@@H](COC(C2=CC(O)=C(O)C(O)=C2)=O)O[C@@H](OC(C3=CC(O)=C(O)C(O)=C3)=O)[C@H](OC(C4=CC(O)=C(O)C(O)=C4)=O)[C@H]1O
 Pentagalloylglucose	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O
-1,3,6-Trigalloyl glucose	c1c(cc(c(c1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)c3cc(c(c(c3)O)O)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O
+1,3,6-Trigalloylglucose	c1c(cc(c(c1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)c3cc(c(c(c3)O)O)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O
 Chebulic acid	c1c2c(c(c(c1O)O)O)[C@@H]([C@H](OC2=O)C(=O)O)[C@H](CC(=O)O)C(=O)O
 Promin	[Na+].[Na+].[O-]S(=O)(=O)[C@H](Nc1ccc(cc1)S(=O)(=O)c2ccc(N[C@@H](S([O-])(=O)=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)cc2)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Beloranib	O=C(O[C@H]2[C@@H](OC)[C@@H]([C@]1(OC1)CC2)[C@]3(O[C@@H]3C\C=C(/C)C)C)\C=C\c4ccc(OCCN(C)C)cc4
@@ -13828,7 +13828,7 @@ AB-005	CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CC4CCCCN4C)C
 ADDA (amino acid)	OC([C@@H](C)[C@@H](N)/C=C/C(C)=C/[C@H](C)[C@@H](OC)CC1=CC=CC=C1)=O
 Barium hypochlorite	[O-]Cl.[O-]Cl.[Ba+2]
 Pencycuron	Clc1ccc(cc1)CN(C(=O)Nc2ccccc2)C3CCCC3
-1,6-Digalloyl glucose	C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
+1,6-Digalloylglucose	C1=C(C=C(C(=C1O)O)O)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
 Methyl propionate	O=C(OC)CC
 Methylenecyclopropane	C=C1CC1
 Zearalanone	O=C1O[C@H](CCCC(=O)CCCCCc2cc(O)cc(O)c12)C
@@ -22045,3 +22045,9 @@ Anidoxime	CCN(CC)CCC(=NOC(=O)NC1=CC=C(C=C1)OC)C2=CC=CC=C2
 B777-81	CN1CCC(CC1)(C2=CC=CC=C2)OC3=CC=C(C=C3)N
 Potassium asparaginate	[K+].N[C@@H](CC(N)=O)C([O-])=O
 Lanthanum(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[La+3].[La+3]
+Milverine (drug)	C1=CC=C(C=C1)C(CCNC2=CC=NC=C2)C3=CC=CC=C3
+Vamicamide	C[C@H](C[C@@](C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)N(C)C
+Pipramadol	CC(C(=O)N(C)C1CCCCC1)C2(CCN(CC2)CCC3=CC=CC=C3Cl)O
+RO5203648	C1[C@@H](N=C(O1)N)C2=CC(=C(C=C2)Cl)Cl
+R1317	CCC(=O)OC1(CCN(CC1)C/C=C/C2=CC=CC=C2)C3=CC=CC=C3
+M.G. 6669	CC(C1CCC(CC1)C2=CC=CC=C2)N
