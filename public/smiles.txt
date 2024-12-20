@@ -7283,6 +7283,7 @@ SNC-80	O=C(N(CC)CC)c1ccc(cc1)[C@@H](N2C[C@H](N(C\C=C)C[C@@H]2C)C)c3cccc(OC)c3
 Isoguanine	O=C1\N=C2\N=C/NC2=C(\N1)N
 Isocytosine	O=C1/C=C\N=C(\N)N1
 Tributylphosphine	CCCCP(CCCC)CCCC
+AFPep	O=C1N2[C@](C(=O)N[C@@H]([C@H](C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N3[C@@](C[C@@H](O)C3)(C(=O)NCC(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@]1([C@@H](C)O)[H])[H])(C[C@@H](O)C2)[H]
 SB-277,011-A	c4cccc1c4nccc1C(=O)NC3CCC(CC3)CCN(CCc2c5)Cc2ccc5C#N
 Enadoline	O=C(Cc1cccc2occc12)N(C)C1CCC2(CCCO2)CC1N1CCCC1
 Cobalt(II) chlorate	[Co+2].[O-]Cl(=O)=O.[O-]Cl(=O)=O
@@ -20521,7 +20522,7 @@ Radon hexafluoride	F[Rn](F)(F)(F)(F)F
 Pyeazolam	CC1=NN=C2N1C3=C(C=C(C=C3)C#C)C(=NC2)C4=CC=CC=N4
 Serinol	C(C(CO)N)O
 Diplopterol	C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CCCC5(C)C)C)C)C)C(C)(C)O
-Gold hexafluoride	[Au+6].[F-].[F-].[F-].[F-].[F-].[F-]
+Gold hexafluoride	F[Au](F)(F)(F)(F)F
 Platinum(II) fluoride	F[Pt]F
 Iridium trifluoride	[Ir+3].[F-].[F-].[F-]
 Iridium(IV) iodide	I[Ir](I)(I)I
@@ -22048,6 +22049,7 @@ B777-81	CN1CCC(CC1)(C2=CC=CC=C2)OC3=CC=C(C=C3)N
 Potassium asparaginate	[K+].N[C@@H](CC(N)=O)C([O-])=O
 Dazepinil	CC1=NC2=CC=CC=C2CC(N1C)C3=CC=CC=C3
 BW247	CNCC=C(C1=CC=CC=C1)C2=CC=CC=C2
+Potassium aspartate	C([C@@H](C(=O)[O-])[NH3+])C(=O)[O-].[K+]
 Spasmolytic A29	CC(C=C(C1=CC=CC=C1)C2=CC=CC=C2)N(C)C
 RU-1205	C1COCCN1CCN2C3=CC=CC=C3N4C2=NC(=C4)C5=CC=C(C=C5)F
 GR-45809	C1CCN(C1)CC2CC3(CCN2C(=O)CC4=CC(=C(C=C4)Cl)Cl)OCCO3
@@ -22058,6 +22060,10 @@ Pipramadol	CC(C(=O)N(C)C1CCCCC1)C2(CCN(CC2)CCC3=CC=CC=C3Cl)O
 RO5203648	C1[C@@H](N=C(O1)N)C2=CC(=C(C=C2)Cl)Cl
 R1317	CCC(=O)OC1(CCN(CC1)C/C=C/C2=CC=CC=C2)C3=CC=CC=C3
 M.G. 6669	CC(C1CCC(CC1)C2=CC=CC=C2)N
+N-Methylacetamide	CC(=O)NC
+1,1-Dimethylurea	CN(C)C(=O)N
 Cyclopenta(cd)pyrene	C1=CC2=C3C(=C1)C=C4C=CC5=C4C3=C(C=C2)C=C5
 5-Methylchrysene	CC1=CC2=CC=CC=C2C3=C1C4=CC=CC=C4C=C3
 Bis(2,4-di-tert-butylphenyl) pentaerythritol diphosphite	O(P1OCC2(COP(OC3=C(C(C)(C)C)C=C(C(C)(C)C)C=C3)OC2)CO1)C4=C(C(C)(C)C)C=C(C(C)(C)C)C=C4
+McN 5707	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC=CC=C4Cl
+Aminoxytriphene	CN(C)CC(=C(C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC)C3=CC=C(C=C3)OC
