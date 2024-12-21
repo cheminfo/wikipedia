@@ -19574,6 +19574,7 @@ Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)O
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
 Potassium diplatinum(II) tetrakispyrophosphite	[K+].[K+].[K+].[K+].[Pt+2]1234[Pt+2]([P-](=O)(O)O[P-](=O)(O)1)([P-](=O)(O)O[P-](=O)(O)2)([P-](=O)(O)O[P-](=O)(O)3)[P-](=O)(O)O[P-](=O)(O)4.O.O
 Flupyradifurone	C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+9-Borafluorene	B1C2=CC=CC=C2C3=CC=CC=C31
 4-Phenylphenol	C1=CC=C(C=C1)C2=CC=C(C=C2)O
 1,1,1-Tris(diphenylphosphinomethyl)ethane	CC(CP(C1=CC=CC=C1)C2=CC=CC=C2)(CP(C3=CC=CC=C3)C4=CC=CC=C4)CP(C5=CC=CC=C5)C6=CC=CC=C6
 Rubidium ozonide	[Rb+].[O-]O[O]
@@ -20273,6 +20274,7 @@ Buntanetap	C[C@]12CCN([C@H]1N(C3=C2C=C(C=C3)OC(=O)NC4=CC=CC=C4)C)C
 EA-3887	CN(C)C(=O)Oc1cccnc1C[N+](C)(C)CCCCCCCCCC[N+](C)(C)Cc2ncccc2OC(=O)N(C)C.[Br-].[Br-]
 Cyhexatin	C1CCC(CC1)[Sn](C2CCCCC2)(C3CCCCC3)O
 Tris(trifluoropropyl)trimethylcyclotrisiloxane	C[Si]1(O[Si](O[Si](O1)(C)CCC(F)(F)F)(C)CCC(F)(F)F)CCC(F)(F)F
+Sarmentosin	C(/C=C(/CO)\C#N)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Apafant	CC1=NN=C2N1C3=C(C=C(S3)CCC(=O)N4CCOCC4)C(=NC2)C5=CC=CC=C5Cl
 Argopsin	CC1=C2C(=C(C(=C1Cl)O)C=O)OC3=C(C(=C(C(=C3OC2=O)C)OC)Cl)C
 Tetrakis(trifluoropropyl)tetramethylcyclotetrasiloxane	C[Si]1(O[Si](O[Si](O[Si](O1)(C)CCC(F)(F)F)(C)CCC(F)(F)F)(C)CCC(F)(F)F)CCC(F)(F)F
@@ -21592,6 +21594,7 @@ Thiocyanuric acid	C1(=S)NC(=S)NC(=S)N1
 Methanesulfonyl azide	CS(=O)(=O)N=[N+]=[N-]
 Diiodine hexaoxide	O=[I+]=O.O=[I-](=O)(=O)=O
 Dysprosium(III) sulfide	[Dy+3].[Dy+3].[S-2].[S-2].[S-2]
+Dicalcium ruthenate	[Ca+2].[Ca+2].[O-][Ru]([O-])([O-])[O-]
 3-Phenoxymandelonitrile	C1=CC=C(C=C1)OC2=CC=CC(=C2)[C@@H](C#N)O
 MK-7845	CC(C)(C)[C@@H](C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)N[C@@H](CCC(C)(F)F)C(=O)C(=O)NC)NC(=O)OC
 Frontalin	C[C@@]12CCC[C@@](O1)(OC2)C
@@ -21756,7 +21759,7 @@ SPR741	C[C@H]([C@H]1C(=O)NCC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C
 Ammonium hexacyanoferrate(II)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[NH4+].[NH4+].[NH4+].[NH4+].[Fe+2]
 LPC-233	C[C@]([C@@H](C(=O)NO)NC(=O)C1=CC=C(C=C1)C#CC#CC2CC2)(C(F)F)O
 TP0586532	C[C@@H](C1=NC=CN1CC2=NOC(=C2)C3=CC=C(C=C3)C#CC4[C@H]5[C@@H]4CN(C5)CCCC(=O)O)O
-BTMPS	CC1(C)CC(CC(C)(C)N1)OC(=O)CCCCCCCCC(=O)OC2CC(C)(C)NC(C)(C)C2
+Bis(2,2,6,6-tetramethyl-4-piperidyl) sebacate	CC1(C)CC(CC(C)(C)N1)OC(=O)CCCCCCCCC(=O)OC2CC(C)(C)NC(C)(C)C2
 Potassium tetraiodoplatinate	[K+].[K+].[I-][Pt+2]([I-])([I-])[I-]
 S-Methylcysteine sulfoxide	CS(=O)CC(C(=O)O)N
 Fluorothiazinone	CCOC1=C(C=CC(=C1)CN2C(=O)CSC(=N2)C(=O)NC3=C(C=C(C=C3)F)F)O
@@ -22067,3 +22070,7 @@ Cyclopenta(cd)pyrene	C1=CC2=C3C(=C1)C=C4C=CC5=C4C3=C(C=C2)C=C5
 Bis(2,4-di-tert-butylphenyl) pentaerythritol diphosphite	O(P1OCC2(COP(OC3=C(C(C)(C)C)C=C(C(C)(C)C)C=C3)OC2)CO1)C4=C(C(C)(C)C)C=C(C(C)(C)C)C=C4
 McN 5707	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC=CC=C4Cl
 Aminoxytriphene	CN(C)CC(=C(C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC)C3=CC=C(C=C3)OC
+Hafnium(IV) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Hf+4]
+Hafnium(IV) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Hf+4].O.O.O.O
+Ensartinib	C[C@@H](OC1=C(N)N=NC(=C1)C(=O)NC2=CC=C(C=C2)C(=O)N3C[C@H](C)N[C@H](C)C3)C4=C(Cl)C(F)=CC=C4Cl
+Grayanic acid	CCCCCCCC1=C(C(=CC2=C1OC3=C(C(=CC(=C3)OC)C)C(=O)O2)O)C(=O)O
