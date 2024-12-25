@@ -4839,7 +4839,7 @@ Di-tert-butylzinc	CC(C)(C)[Zn]C(C)(C)C
 Cinchocaine	O=C(c1c2ccccc2nc(OCCCC)c1)NCCN(CC)CC
 Propanidid	O=C(OCCC)Cc1cc(OC)c(OCC(=O)N(CC)CC)cc1
 Isonipecotic acid	C1CNCCC1C(=O)O
-Phenoperidine	OC(C1=CC=CC=C1)CCN(CC2)CCC2(C3=CC=CC=C3)OC(CC)=O
+Phenoperidine	O=C(OCC)C1(CCN(CC1)CCC(O)c1ccccc1)c1ccccc1
 Pizotifen	s1c3c(cc1)C(\c2c(cccc2)CC3)=C4/CCN(C)CC4
 Prodigiosin	CCCCCc3cc(=Cc2[nH]c(c1ccc[nH]1)cc2OC)nc3C
 1,2-Dibromo-3-chloropropane	BrC(CBr)CCl
@@ -7634,6 +7634,7 @@ Propane-1,2,3-tricarboxylic acid	C(C(CC(=O)O)C(=O)O)C(=O)O
 Viminol	CCC(C)N(C(C)CC)CC(O)C1=CC=CN1CC2=CC=CC=C2Cl
 Akuammine	COC(=O)C46CO[C@]35N(C)c1ccc(O)cc1[C@]56CCN2C/C(=C\C)[C@H]4CC23
 Ruboxistaurin	CN(C[C@]1([H])CCN2C=C(C(C(O)=NC3=O)=C3C(C4=CC=CC=C45)=CN5CCO1)C6=CC=CC=C62)C
+Crustacean cardioactive peptide	C[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@@H]3CCCN3)C(=O)N)[C@@H](C)O)CC4=CC=CC=C4
 2-Aminopurine	Nc2ncc1nc[nH]c1n2
 4-Deoxypyridoxine	Oc1c(c(cnc1C)CO)C
 8-Anilinonaphthalene-1-sulfonic acid	c1ccc(cc1)Nc2cccc3c2c(ccc3)S(=O)(=O)O
@@ -19479,7 +19480,7 @@ Secofentanyl	CCC(=O)N(C1=CC=CC=C1)C(C)CCN(C)CCC2=CC=CC=C2
 Barium bromate	[O-]Br(=O)=O.[O-]Br(=O)=O.[Ba+2]
 3-Chlorophenmetrazine	CC1C(OCCN1)C2=CC(=CC=C2)Cl
 Methylenedioxyphenmetrazine	CC1NCCOC1c1cc2OCOc2cc1
-Piflufolastat F-18	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)=O)C(O)=O
+Piflufolastat (18F)	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)=O)C(O)=O
 Flubrotizolam	CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4F
 Fluetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4F)C
 Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
@@ -20694,8 +20695,8 @@ Periplocin	C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2CC[C@@]3([C@H]4CC[C@@]5([C@H](C
 Ritlecitinib	C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=C3C=CNC3=NC=N2
 Europium(II) hydroxide	[OH-].[OH-].[Eu+2]
 Europium(II) telluride	[Te]=[Eu]
-Flotufolastat F-18	CC(C)(C)[Si]([18F])(C1=CC=C(C=C1)C(=O)NC[C@@H](NC(=O)CC[C@H](N1CCN(CC(O)=O)CCN(CC(O)=O)CCN(CC(O)=O)CC1)C(O)=O)C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@@H](NC(=O)CC[C@H](NC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)C(C)(C)C
-Flotufolastat F-18	CC(C)(C)[Si](C1=CC=C(C=C1)C(=O)NC[C@H](C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)NC(=O)CC[C@@H](C(=O)O)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(C(C)(C)C)[18F].[Ga+3]
+Flotufolastat (18F)	CC(C)(C)[Si]([18F])(C1=CC=C(C=C1)C(=O)NC[C@@H](NC(=O)CC[C@H](N1CCN(CC(O)=O)CCN(CC(O)=O)CCN(CC(O)=O)CC1)C(O)=O)C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@@H](NC(=O)CC[C@H](NC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)C(C)(C)C
+Flotufolastat (18F)	CC(C)(C)[Si](C1=CC=C(C=C1)C(=O)NC[C@H](C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)NC(=O)CC[C@@H](C(=O)O)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(C(C)(C)C)[18F].[Ga+3]
 4'-Nitroflavonol	C1=CC=C2C(=C1)C(=O)C(=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])O
 Actinium oxyfluoride	[Ac+3].[F-].[O-2]
 Europium(III) telluride	[Eu+3].[Eu+3].[Te-2].[Te-2].[Te-2]
@@ -22087,8 +22088,16 @@ Grayanic acid	CCCCCCCC1=C(C(=CC2=C1OC3=C(C(=CC(=C3)OC)C)C(=O)O2)O)C(=O)O
 Ilunocitinib	C1CC1S(=O)(=O)N2CC(C2)(CC#N)N3C=C(C=N3)C4=C5C=CNC5=NC=N4
 Heptyl butyrate	CCCCCCCOC(=O)CCC
 Zastaprazan	CC1=C(C(=CC=C1)C)CNC2=CC(=CN3C2=NC(=C3C)C)C(=O)N4CCC4
+Golidocitinib	C[C@H](C(=O)NC1=CC=CC2=C1NC=C2C3=NC(=NC=C3)NC4=CN(N=C4OC)C)N5CCN(CC5)C
 Noviflumuron	C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F
 Methyl nicotinate	COC(=O)C1=CN=CC=C1
 Consalazinic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)CO)O
 Gynocardin	C1=C[C@]([C@@H]([C@H]1O)O)(C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Daphnetin	C1=CC(=C(C2=C1C=CC(=O)O2)O)O
+Ammonium tellurate	[NH4+].[NH4+].[O-][Te](=O)(=O)[O-]
+Emrusolmin	C1OC2=C(O1)C=C(C=C2)C3=CC(=NN3)C4=CC(=CC=C4)Br
+Butamisole	CC(C)C(=O)NC1=CC=CC(=C1)C2CN3CCSC3=N2
+Amidantel	CC(=NC1=CC=C(C=C1)NC(=O)COC)N(C)C
+Evobrutinib	C=CC(=O)N1CCC(CC1)CNC2=NC=NC(=C2C3=CC=C(C=C3)OC4=CC=CC=C4)N
+Kynuramine	C1=CC=C(C(=C1)C(=O)CCN)N
+Taniborbactam	B1([C@H](CC2=C(O1)C(=CC=C2)C(=O)O)NC(=O)CC3CCC(CC3)NCCN)O
