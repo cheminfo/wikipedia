@@ -21569,6 +21569,8 @@ CUMYL-3TMS-PRINACA	C[Si](C)(C)CCCn1nc(C(=O)NC(C)(C)c2ccccc2)c2ccccc12
 3-Me-PVP	CCCC(C(=O)C1=CC=CC(=C1)C)N2CCCC2
 Technetium(IV) sulfide	[Tc].[S].[S]
 Palustric acid	CC(C)C1=CC2=C(CC1)[C@]3(CCC[C@@]([C@@H]3CC2)(C)C(=O)O)C
+Octan-3-ol	CCCCCC(CC)O
+Octan-3-ol	[C@@H](CCCCC)(CC)O
 3,4-Pr-PipVP	CCCC(C(=O)C1=CC2=C(CCC2)C=C1)N3CCCCC3
 Calcium(I) fluoride	[Ca]F
 Pinocarvone	CC1(C2CC1C(=C)C(=O)C2)C
@@ -21653,6 +21655,7 @@ JJC8-088	C1CN(CCN1CCS(=O)C(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)CC(CC4=CC=CC=C4)O
 ZD-9379	CC1=C(C=CC(=C1)OC)N2C(=O)C3=C(C(=O)N2)NC4=C(C3=O)C=CC(=C4)Cl
 ADL-5859	CCN(CC)C(=O)C1=CC=C(C=C1)C2=CC3(CCNCC3)OC4=CC=CC(=C42)O
 LSN2463359	CC(C)NC(=O)C1=NC=C(C=C1)C#CC2=CC=NC=C2
+Furaltadone	C1COCCN1CC2CN(C(=O)O2)/N=C/C3=CC=C(O3)[N+](=O)[O-]
 (2R,3R)-Hydroxybupropion	C[C@@H]1[C@](OCC(N1)(C)C)(C2=CC(=CC=C2)Cl)O
 Thiamphenicol glycinate acetylcysteine	CC(=O)NC(CS)C(=O)O.CS(=O)(=O)C1=CC=C(C=C1)C(C(COC(=O)CN)NC(=O)C(Cl)Cl)O
 Cyclic adenosine-inosine monophosphate	C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C3N=CNC4=O)O)OP(=O)(OC[C@@H]5[C@H]([C@H]([C@@H](O5)N6C=NC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O
@@ -22095,9 +22098,11 @@ Consalazinic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)CO)O
 Gynocardin	C1=C[C@]([C@@H]([C@H]1O)O)(C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Daphnetin	C1=CC(=C(C2=C1C=CC(=O)O2)O)O
 Ammonium tellurate	[NH4+].[NH4+].[O-][Te](=O)(=O)[O-]
+Ammonium tetrathiovanadate	[NH4+].[NH4+].[NH4+].[S-][V](=S)([S-])[S-]
 Emrusolmin	C1OC2=C(O1)C=C(C=C2)C3=CC(=NN3)C4=CC(=CC=C4)Br
 Butamisole	CC(C)C(=O)NC1=CC=CC(=C1)C2CN3CCSC3=N2
 Amidantel	CC(=NC1=CC=C(C=C1)NC(=O)COC)N(C)C
 Evobrutinib	C=CC(=O)N1CCC(CC1)CNC2=NC=NC(=C2C3=CC=C(C=C3)OC4=CC=CC=C4)N
 Kynuramine	C1=CC=C(C(=C1)C(=O)CCN)N
 Taniborbactam	B1([C@H](CC2=C(O1)C(=CC=C2)C(=O)O)NC(=O)CC3CCC(CC3)NCCN)O
+9,10-Dihydro-9-oxa-10-phosphaphenanthrene-10-oxide	C1=CC=C2C(=C1)C3=CC=CC=C3P(=O)O2
