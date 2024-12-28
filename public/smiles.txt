@@ -3954,7 +3954,8 @@ Bromodifluoroacetyl chloride	C(=O)(C(F)(F)Br)Cl
 Prilocaine	O=C(Nc1ccccc1C)C(NCCC)C
 Oxacillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1)C(O)=O
 Etidocaine	O=C(Nc1c(C)cccc1C)C(CC)N(CC)CCC
-Chloroprocaine	O=C(OCCN(CC)CC)c1ccc(cc1Cl)N
+Chloroprocaine	CCN(CC)CCOC(=O)C1=C(Cl)C=C(N)C=C1
+Chloroprocaine	Cl.CCN(CC)CCOC(=O)C1=C(Cl)C=C(N)C=C1
 Trimethobenzamide	O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
 Barium fluoride	F[Ba]F
 Barium fluoride	[Ba+2].[F-].[F-]
@@ -20340,6 +20341,7 @@ Strontium lactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Sr+2]
 Terbium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Tb+3]
 Titanium tetralactate	CC(C(=O)[O-])O.CC(C(=O)[O-])O.CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Ti+4]
 Silver stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Ag+]
+Gadolinium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Gd+3]
 Resmetirom	CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl
 Tin(II) stearate	CCCCCCCCCCCCCCCCCC(=O)O.[Sn]
 Olibanic acid	CCCCCCCCC1CC1C(=O)O
@@ -21019,7 +21021,7 @@ Mavorixafor	C1C[C@@H](C2=C(C1)C=CC=N2)N(CCCCN)CC3=NC4=CC=CC=C4N3
 DA-1241	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
 Olverembatinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CC5=C(NN=C5)N=C4
 Prusogliptin	CC(C)(CC(=O)N1CCCC1)NCC(=O)N2C[C@H](C[C@H]2C#N)F
-BMF-219	C=CC(=O)N[C@@H]1CCCN(C1)CC2=CC(=NC=C2)C(=O)NC3=CC=C(C=C3)C4=CC5=C(N4)N=CN=C5N6CCOCC6
+Icovamenib	C=CC(=O)N[C@@H]1CCCN(C1)CC2=CC(=NC=C2)C(=O)NC3=CC=C(C=C3)C4=CC5=C(N4)N=CN=C5N6CCOCC6
 1,3-Dithiolane	C1CSCS1
 Janagliflozin	C1[C@H]2[C@@H]1CC(C2)OC3=CC=C(C=C3)CC4=C(C=CC(=C4)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)Cl
 Samarium(III) arsenate	[O-][As](=O)([O-])[O-].[Sm+3]
@@ -22106,3 +22108,6 @@ Evobrutinib	C=CC(=O)N1CCC(CC1)CNC2=NC=NC(=C2C3=CC=C(C=C3)OC4=CC=CC=C4)N
 Kynuramine	C1=CC=C(C(=C1)C(=O)CCN)N
 Taniborbactam	B1([C@H](CC2=C(O1)C(=CC=C2)C(=O)O)NC(=O)CC3CCC(CC3)NCCN)O
 9,10-Dihydro-9-oxa-10-phosphaphenanthrene-10-oxide	C1=CC=C2C(=C1)C3=CC=CC=C3P(=O)O2
+Atumelnant	CC[C@@H]1CN(CCN1C2=C(N=C(C=C2)C3=CC=CC=C3OCC)C(=O)N[C@@H]4CN5CCC4CC5)C(=O)C6(CCC6)C(F)(F)F
+Gildeuretinol	[2H]C([2H])([2H])/C(=C\CO)/C=C/C=C(\C)/C=C/C1=C(CCCC1(C)C)C
+Imocitrelvir	CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC#C)N2C=CC=C(C2=O)NC(=O)C3=NOC(=C3)C
