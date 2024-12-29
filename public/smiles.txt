@@ -8825,6 +8825,7 @@ Pentamine	CC[N+](C)(C)CCN(C)CC[N+](C)(C)CC
 Piperidolate	CCN1CCCC(C1)OC(=O)C(C2=CC=CC=C2)C3=CC=CC=C3
 Difemerine	OC(C(=O)OC(C)(C)CN(C)C)(c1ccccc1)c2ccccc2
 Dihexyverine	C1CCC(CC1)C2(CCCCC2)C(=O)OCCN3CCCCC3
+Rociverine	CCN(CC)CC(C)OC(=O)[C@H]1CCCC[C@@]1(C2CCCCC2)O
 Trimebutine	CCC(COC(=O)C1=CC(=C(C(=C1)OC)OC)OC)(C2=CC=CC=C2)N(C)C
 Camylofin	O=C(OCCC(C)C)C(NCCN(CC)CC)c1ccccc1
 Vedaclidine	CCCCSC1=NSN=C1[C@@H]2CN3CCC2CC3
@@ -9914,6 +9915,7 @@ Phaseic acid	CC(\C=C[C@]1(O)[C@@]2(C)CO[C@]1(C)CC(=O)C2)=C\C(O)=O
 Kendomycin	C[C@H]\1CC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)C3=C(C(=O)C(=C4C3=C[C@@](O4)([C@H](C[C@@H](C/C(=C1)/C)C)C)O)C)O)C)O)C
 AGN-2979	O=C1NC(=O)CC(C1(c2cccc(OC)c2)CCCN(C)C)(C)C
 Apaziquone	Cn1c(c(c2c1C(=O)C=C(C2=O)N3CC3)CO)/C=C/CO
+Germanium monoselenide	[Ge]=[Se]
 DBL-583	CCCCCCCCCC(=O)OC(CCN1CCN(CC1)CCOC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)C4=CC=CC=C4
 Momilactone B	C[C@]1(CC[C@@H]2C(=CC3[C@@H]4[C@]25CCC([C@@]4(C(=O)O3)C)(OC5)O)C1)C=C
 Adenosine thiamine diphosphate	CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)OC[C@@H]3[C@@H]([C@@H]([C@@H](O3)N4C=NC5=C(N=CN=C54)N)O)O
@@ -10662,6 +10664,7 @@ Trans-Diptoindonesin B	OC1=CC(/C=C/C2=CC=C(O[C@H](C3=CC=C(O)C=C3)[C@H]4C5=CC(O)=
 Furanomycin	C[C@H]1C=C[C@@H](O1)[C@@H](C(=O)O)N
 Diptoindonesin A	C(=C/C1=CC=C(O)C=C1)\C2=C3C(=C(C(O)=C2)[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)O[C@H]([C@@H]3C5=CC(O)=CC(O)=C5)C6=CC=C(O)C=C6
 E-4031	Cc1cccc(n1)CCN2CCC(CC2)C(=O)c3ccc(cc3)NS(=O)(=O)C
+1-α-O-Galloylpunicalagin	C1C2[C@H]([C@@H]3[C@@H](C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O3)O)O)O)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C9C2=C8C(=O)OC3=C(C(=C(C4=C(C(=C(C=C4C(=O)O1)O)O)O)C(=C23)C(=O)O9)O)O)O)O)O)O)O
 Phorbol 12,13-dibutyrate	CCCC(=O)O[C@@H]1[C@H]([C@]2([C@@H](C=C(C[C@]3([C@H]2C=C(C3=O)C)O)CO)[C@H]4[C@@]1(C4(C)C)OC(=O)CCC)O)C
 Bay K8644	CC1=C(C(C(=C(N1)C)[N+](=O)[O-])C2=CC=CC=C2C(F)(F)F)C(=O)OC
 Binedaline	c1cccc2c1c(cn2N(CCN(C)C)C)c3ccccc3
@@ -14004,6 +14007,7 @@ Cerium(III) acetylacetonate	[Ce+3].O=C(/C=C(\[O-])C)C.[O-]\C(=C/C(=O)C)C.[O-]\C(
 Dysprosium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Dy+3]
 Europium acetylacetonate	CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].CC(=CC(=O)C)[O-].[Eu+3]
 Gadolinium acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Gd+3]
+Gallium acetylacetonate	C/C(=C/C(=O)C)/O[Ga](O/C(=C\C(=O)C)/C)O/C(=C\C(=O)C)/C
 Hafnium acetylacetonate	[Hf+4].O=C(C)\C=C(/[O-])C.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O.[O-]\C(C)=C/C(C)=O
 Indium acetylacetonate	CC(=CC(=O)C)O[In](OC(=CC(=O)C)C)OC(=CC(=O)C)C
 Iridium acetylacetonate	CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Ir+3]
@@ -19690,7 +19694,7 @@ Pyrrole-2-carboxylic acid	C1=CNC(=C1)C(=O)O
 Thiophene-2-carboxylic acid	C1=CSC(=C1)C(=O)O
 Omidenepag	CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1
 Terbium phosphide	P#[Tb]
-Gadolinium phosphide	[Gd]#P
+Gadolinium phosphide	[Gd].[P]
 2-Acetylthiophene	CC(=O)C1=CC=CS1
 Thiophene-2-acetic acid	C1=CSC(=C1)CC(=O)O
 Berkelium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Bk+3]
@@ -21952,6 +21956,7 @@ Streptothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@@H]([C@H]([
 Streptothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@@H]([C@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCN)N)O
 Giredestrant	C[C@@H]1CC2=C([C@H](N1CC(CO)(F)F)C3=C(C=C(C=C3F)NC4CN(C4)CCCF)F)NC5=CC=CC=C25
 Amcenestrant	C1CC2=C(C=CC(=C2)C(=O)O)C(=C(C1)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)O[C@H]5CCN(C5)CCCF
+Gallium monofluoride	F[Ga]
 Ferrocenecarboxaldehyde	[CH-]1C=CC=C1.C1=C[C-](C=C1)C=O.[Fe+2]
 Ferrocenecarboxaldehyde	C(=O)[C-]12[Fe+2]3456789([CH]1=[CH]3[CH]4=[CH]52)[CH-]%10[CH]6=[CH]7[CH]8=[CH]9%10
 Bexirestrant	CC1=C([C@@H](OC2=C1C=CC(=C2)O)C3=CC=C(C=C3)/C=C/CN4CC(C4)CF)C5=CC(=CC(=C5)F)F
@@ -22111,3 +22116,8 @@ Taniborbactam	B1([C@H](CC2=C(O1)C(=CC=C2)C(=O)O)NC(=O)CC3CCC(CC3)NCCN)O
 Atumelnant	CC[C@@H]1CN(CCN1C2=C(N=C(C=C2)C3=CC=CC=C3OCC)C(=O)N[C@@H]4CN5CCC4CC5)C(=O)C6(CCC6)C(F)(F)F
 Gildeuretinol	[2H]C([2H])([2H])/C(=C\CO)/C=C/C=C(\C)/C=C/C1=C(CCCC1(C)C)C
 Imocitrelvir	CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC#C)N2C=CC=C(C2=O)NC(=O)C3=NOC(=C3)C
+Enerisant	C[C@@H]1CCCN1CCCOC2=CC=C(C=C2)N3C=C(C=N3)C(=O)N4CCOCC4
+Lomedeucitinib	[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=C(C=CC=N2)S(=O)(=O)C)NC(=O)[C@@H]3CC34CC4
+Lunresertib	CC1=C(C(=C(C=C1)O)C)N2C(=C(C3=C2N=C(C(=C3)C)C)C(=O)N)N
+Camonsertib	C[C@@H]1COCCN1C2=NC3=C(C=NN3C4=CC=NN4)C(=C2)C5(C[C@H]6CC[C@@H](C5)O6)O
+Nibrozetone	C1C(CN1C(=O)CBr)([N+](=O)[O-])[N+](=O)[O-]

@@ -8825,6 +8825,7 @@ f`~p@B@\tB]SddbQtVTbjjjjj@@	Pentamine
 fak``@K@QdTRbbbbRRRfq]dMTmZjh@h@hJ@@@	Piperidolate
 fasa`@O@QSHheHiMEDTdhmEn^mUUPA@E@@@@	Difemerine
 fns``@K@QdTRdRbRRVbJq`~sUkUUUUUUUT@@	Dihexyverine
+fasa`@K@QKHheEEHdXmDldXI^mUUUUUUURLJd@@	Rociverine
 fcwaP@E@Q[s\bbTRRdTRbbRQQtgSvuAAUEPUPP@@@	Trimebutine
 fn}P`@JQ@cHheDeDdeDkLgIZjhJBhj`@@	Camylofin
 fdepA@HHl@HhDIRjllj~BV}XMKUUUUUPY@@	Vedaclidine
@@ -9914,6 +9915,7 @@ fbuAP@@LtgNQQIRJZMJKRgFRZjjjYijpRTgEAr@	Phaseic acid
 elVPF@@@BECDflbbbfbrbrbbbLRqTTUXDt\BJ~aZejfjjjjjjjjfRQVQr^PIYHj[PzPTp	Kendomycin
 fasQ`@DE@INQQJQQQQEESKQd`yZjfBhJJj@@@	AGN-2979
 fj}PP@BZ@zI\bbbbbRaRQrXhTmFZejifijhDHp	Apaziquone
+eFAAD`RJ@	Germanium monoselenide
 ekPtLD@@naM`PI@jPRYWYYU^U}VVY]}UZFOHfnlZX@JhHHjjjjA`bjjB@@@	DBL-583
 fag@P@@HdkHheHeHlldTeLQagF}XNRmUUUMUUSUULQbL`sL@@	Momilactone B
 ecPyELHJHdlhZ^U]YGO@fnacodP@cSpJ|JIrQQIKIJJQQ[FQXjIQYSQIYXTYUO@l|rjtsUTCQDMUUUU@`TTD[RyOHF@@	Adenosine thiamine diphosphate
@@ -10662,6 +10664,7 @@ elupI@@@GEckomPt|dTTRTRbRTtvRbbTRVcRVVRfRbpXDLBjz^FVaIye}chJ@Hh@h@Jh`@`R`BJ@`BDD
 dmvL@BAFR[nUFVjjZsIRE@@	Furanomycin
 ekTpM@@@IMCKOHj^US\dTTTTRTTuRrRTTRRRbtRRihTBRrJ~IaYeujjBjbHji@H@@bBJHCbBHPaTIQYHiP]P	Diptoindonesin A
 fcoqb@LI[AA`AFRRGQIYSQIYIQIRRhifmZ`@fjjh@H`@@	E-4031
+giiL@b@@@B@pxBEF`rXl^PlUIdjm^fuxBqxrUIgsERyRkWjMrJIQQQJJJJIJ[JJZIHqQZJISYJKJZIIQIZIIPjYIQDzKOQD\]KaKdFuYhrxl~GGcpfCihaWMUjBbJj@jjbFjahFfhHFBBB@AbbBJhjHBH@pDIpea@@	1-α-O-Galloylpunicalagin
 eb^PA@@@FMLfncglbbbdjTbfTrbJbQbfrQGAcdQQUSSUUTuUUUSMUUPfBxdbLedBdRJ`@	Phorbol 12,13-dibutyrate
 fikPSBKYbeoPRBICDaZT|TIDEBPbIAPdIBPbPLe^sU@PUKMTtP@@	Bay K8644
 ffcp@@@PmddTTRrRVbfQXKSbujhFB`J@`@@	Binedaline
@@ -14004,6 +14007,7 @@ ffi@rAHLE[qPK`MYunKvAJKPEQZ@jKQiiiiihFLLgr@	Cerium(III) acetylacetonate
 ffi@rAHLE[qPHPMqrncvAJKPEQZ@jKQjYjYjX@@	Dysprosium acetylacetonate
 ffi@rAHLE[qP_`MYunKvAJKPEQZ@jKQiiiiih@@	Europium acetylacetonate
 ffi@rAHLE[qP@PMqrncvAJKPEQZ@jKQjYjYjX@@	Gadolinium acetylacetonate
+ffu@r@HHpEIP_BUJlsO|sUULsULs@pqDjP	Gallium acetylacetonate
 fkc@JEHLE[qV{@I@MgVxo[{@eEhBhm@UEhBhmFfffffff`Dpr_MT	Hafnium acetylacetonate
 ffu@r@HHpEIPQbUJlsO|sUULsULs@@@	Indium acetylacetonate
 ffi@rAHLE[qPVPMYunKvAJKPEQZ@jKQiiiiih@@	Iridium acetylacetonate
@@ -19690,7 +19694,7 @@ daFD@BADfyVyjZP@	Pyrrole-2-carboxylic acid
 daDD`Fx@aJYXjjUh@@	Thiophene-2-carboxylic acid
 ejQVBH@LMKFechDGo`@cIICEDdeEEdeimdhhecCHlnja`XUj`h@@@HJjYZ`H@@	Omidenepag
 eFABBoBN@	Terbium phosphide
-eFA@BoBN@	Gadolinium phosphide
+eDA@Bo@@_qP@	Gadolinium phosphide
 daDH`F@HRfVJjeZ@@	2-Acetylthiophene
 didD`ND@aJY~rjYf`@	Thiophene-2-acetic acid
 dkgIaTYXpjxYtpa`uIsbyi{ayYwc{@e@U@UFff`@	Berkelium(III) nitrate
@@ -21952,6 +21956,7 @@ ecWUI@@DJIM@kgd^]PEKJfnacb\bbTRRQTRbbRRfJbeRRfTrSG@ddRSUTuUUUUMSUUMUUTiaFIpcDxoI
 elZQA@@DJIM@kgdPEKJfnaclbbTRRQTRbbRRfJbeRXxDdbRZjfjjjjijZjjiLHqNDXgEyHheMh@@	Streptothricin
 ejYRHJ@IMGKg`ICbPFdIi@fPrJJIQQFJIQIJFQIUIUI`SrHjkj{xF@bJjfjjj`hJhbDJHY@@	Giredestrant
 efUXLL@@Umc`HaRHidLbbbTRTQbbRRvrTQbRrSDcbQWSPpLLDCET@P@EMUUTPTEr@@	Amcenestrant
+eFACxiBL@	Gallium monofluoride
 dkLHcHAXA\x~pIJI@qIntv@@@@@	Ferrocenecarboxaldehyde
 fkMABFC@V@KKe\TQDQDQDKdDPhafBXxPUILeqPeUUUT`@@@@OxeBdUbbURfUraTj`	Ferrocenecarboxaldehyde
 el^XDL@KkI`IAbPQdLbbRbLTTTLRRVrrRbrhxl|JzZF~A`BIjh@@@ijjbB`TdBt@	Bexirestrant
@@ -22111,3 +22116,8 @@ foQ@b@HHAxIUlrj}NJlYsT@@@P@@@	9,10-Dihydro-9-oxa-10-phosphaphenanthrene-10-oxide
 ecXzLL@IOJefQIhPIABPpdLbdLbbLrTrTtRTvTTTRbRrwBcggPvHkLkJmUTuUUPDCTEPUQUPTaXch@@	Atumelnant
 facAC@@\`APDhCHdheHjhlhhiDWmMMTtsUUPBHjRjtqcb@I@d`@	Gildeuretinol
 efQZN@@DFKLdPCONo`X\bbbbTQbTrtTrRrTtTVo@gPrNKURuMM[UKUSMUUaPhdmHAh	Imocitrelvir
+ek`RL@@DEMN`CLlbbbbRRNbRrRRbbdLTtbRVNZjZZ`@jjjjJ@Z@@	Enerisant
+e`\VBB@NAGHlbhDDe`@cj@F`IhCIICMDdXhdhbeHhxiHhED]\}|m@PPDCUUMUATFt@XpzPAdBY@@	Lomedeucitinib
+fakH`@DLyhCTfyf]YVYy`c^suijB@BHjH@@@	Lunresertib
+eglVL@@JACOJi`DmldRTvbRbTRdtJRTQEFegdPvtrquuUT@QUUSUUPsXXKjCH@	Camonsertib
+dg_J`bF\WSlLPYf]z~RVyyf[jZjfZ@@	Nibrozetone
