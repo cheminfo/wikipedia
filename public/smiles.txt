@@ -315,6 +315,7 @@ Ethylene glycol	OCCO
 Salvinorin A	O=C(OC)[C@H]2[C@@]3(CC[C@H]4C(=O)O[C@H](c1ccoc1)C[C@@]4([C@H]3C(=O)[C@@H](OC(=O)C)C2)C)C
 Gallium arsenide	[Ga]#[As]
 Gallium arsenide	[Ga+3].[As-3]
+Thyroxine	C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N
 Atropine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2
 Octane	CCCCCCCC
 Vancomycin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3c4cc5cc3Oc6ccc(cc6Cl)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7c8ccc(c(c8)-c9c(cc(cc9O)O)[C@H](NC(=O)[C@H]([C@@H](c1ccc(c(c1)Cl)O4)O)NC7=O)C(=O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)CO)O)O)(C)N)O
@@ -3711,7 +3712,7 @@ Pelargonic acid	CCCCCCCCC(=O)O
 Mephenytoin	O=C2N(C(=O)NC2(c1ccccc1)CC)C
 Cefradine	O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](C/3=C/C\C=C/C\3)N)C)C(=O)O
 Silver cyanide	[C-]#N.[Ag+]
-Liothyronine	[Na+].[O-]C(=O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2.O
+Liothyronine	C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O
 Lymecycline	C[C@@]1([C@H]2C[C@H]3[C@@H](C(=C(C(=O)[C@]3(C(=C2C(=O)C4=C1C=CC=C4O)O)O)C(=O)NCNCCCC[C@@H](C(=O)O)N)O)N(C)C)O
 Carveol	CC(=C)C1CC=C(C)C(O)C1
 Nimetazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3)=O)=O
@@ -22145,7 +22146,9 @@ Allisartan isoproxil	CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)OCOC
 Chloroatranorin	CC1=CC(=C(C(=C1C(=O)OC)O)C)OC(=O)C2=C(C(=C(C(=C2O)C=O)O)Cl)C
 Lobaric acid	CCCCCC1=C(C(=CC2=C1OC3=CC(=CC(=C3C(=O)O2)C(=O)CCCC)OC)O)C(=O)O
 Envudeucitinib	[2H]C([2H])([2H])CC(=O)C1=CN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C([2H])([2H])[2H])NC(=O)C4CC4
+2-Methoxy-4-nitroaniline	COC1=C(C=CC(=C1)[N+](=O)[O-])N
 Protocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3CO)O)C(=O)O)C)C=O)O
+Pigment Yellow 97	CC(=O)C(C(=O)NC1=CC(=C(C=C1OC)Cl)OC)N=NC2=CC(=C(C=C2OC)S(=O)(=O)NC3=CC=CC=C3)OC
 Titanium tetraazide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ti+4]
 Fumarprotocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3COC(=O)/C=C/C(=O)O)O)C(=O)O)C)C=O)O
 Enzomenib	CC(C)N(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)C(=O)[C@@H]5[C@@H]6CC[C@H](N5)CC6=C
@@ -22153,3 +22156,4 @@ Epsametostat	CC1=NN=C(C=C1)C2=C3C=C(C(=C(N3C=C2)[C@@H](C)N4CCN(CC4)CC(F)(F)F)C)C
 Chiodectonic acid	COC1=C(O)C(=O)c2c(c(O)c3oc(C(C)=O)c(O)c3c2O)C1=O
 Copper(II) selenide	[Cu].[Se]
 RO5073012	CC(C)N(CC1=CN=CN1)C2=CC=C(C=C2)Cl
+3,4-Diphenylpiperidine	C1CNCC(C1C2=CC=CC=C2)C3=CC=CC=C3
