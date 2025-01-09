@@ -14892,7 +14892,7 @@ Dinaciclib	CCC1=C2N=C(C=C(N2N=C1)NCC3=C[N+](=CC=C3)[O-])N4CCCC[C@H]4CCO
 Iodite	[O-][I+][O-]
 3-Methyl-2-pentanone	CCC(C)C(=O)C
 Veronicastroside	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O
-Pigment yellow 83	COc1cc(Cl)c(OC)cc1NC(=O)C(C(=O)C)/N=Nc2ccc(cc2Cl)-c3cc(Cl)c(cc3)/N=N/C(C(=O)C)C(=O)Nc4cc(OC)c(Cl)cc4OC
+Pigment Yellow 83	COc1cc(Cl)c(OC)cc1NC(=O)C(C(=O)C)/N=Nc2ccc(cc2Cl)-c3cc(Cl)c(cc3)/N=N/C(C(=O)C)C(=O)Nc4cc(OC)c(Cl)cc4OC
 Topiroxostat	C1=CN=CC=C1C2=NC(=NN2)C3=CC(=NC=C3)C#N
 Taxine alkaloids	CC1=C2C(C(=O)C3(CC(=CC(C(C2(C)C)CC1OC(=O)C)OC(=O)C)C(CC3O)OC(=O)C(C(C4=CC=CC=C4)N(C)C)O)C)O
 Antrocamphin B	CC1=C(C(=CC(=C1OC)OC)OC)C#CC(=O)C
@@ -22149,11 +22149,15 @@ Envudeucitinib	[2H]C([2H])([2H])CC(=O)C1=CN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C([
 2-Methoxy-4-nitroaniline	COC1=C(C=CC(=C1)[N+](=O)[O-])N
 Protocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3CO)O)C(=O)O)C)C=O)O
 Pigment Yellow 97	CC(=O)C(C(=O)NC1=CC(=C(C=C1OC)Cl)OC)N=NC2=CC(=C(C=C2OC)S(=O)(=O)NC3=CC=CC=C3)OC
+Pigment Yellow 3	CC(=O)C(C(=O)NC1=CC=CC=C1Cl)N=NC2=C(C=C(C=C2)Cl)[N+](=O)[O-]
 Titanium tetraazide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Ti+4]
 Fumarprotocetraric acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=C(C(=C3COC(=O)/C=C/C(=O)O)O)C(=O)O)C)C=O)O
 Enzomenib	CC(C)N(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)C(=O)[C@@H]5[C@@H]6CC[C@H](N5)CC6=C
 Epsametostat	CC1=NN=C(C=C1)C2=C3C=C(C(=C(N3C=C2)[C@@H](C)N4CCN(CC4)CC(F)(F)F)C)C(=O)NCC5=C(C=C(NC5=O)C)OC
+Chromium(III) selenide	[Cr+3].[Cr+3].[Se-2].[Se-2].[Se-2]
 Chiodectonic acid	COC1=C(O)C(=O)c2c(c(O)c3oc(C(C)=O)c(O)c3c2O)C1=O
 Copper(II) selenide	[Cu].[Se]
 RO5073012	CC(C)N(CC1=CN=CN1)C2=CC=C(C=C2)Cl
 3,4-Diphenylpiperidine	C1CNCC(C1C2=CC=CC=C2)C3=CC=CC=C3
+R-salt	C1N(CN(CN1N=O)N=O)N=O
+2,2,4-Trimethyl-1,2-dihydroquinoline	CC=1C=2C(NC(C)(C)C1)=CC=CC2
