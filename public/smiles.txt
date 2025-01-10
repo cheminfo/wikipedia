@@ -11625,7 +11625,7 @@ Pentadecylic acid	O=C(O)CCCCCCCCCCCCCC
 Scandium monosulfide	[Sc+3].[S-2]
 Famprofazone	O=C2\C(=C(/N(N2c1ccccc1)C)CN(C(C)Cc3ccccc3)C)C(C)C
 PSI-6130	C[C@]1([C@@H]([C@H](O[C@H]1n2ccc(nc2=O)N)CO)O)F
-Carbonite ion	[C]([O-])[O-]
+Carbonite (ion)	[C]([O-])[O-]
 Tafamidis	O=C(O)c3ccc1nc(oc1c3)-c2cc(Cl)cc(Cl)c2
 2-Methoxyethyl-18-methoxycoronaridinate	COCCOC(=O)C12CC(C4)CN(C2C4CCOC)CCc5c1[nH]c3ccccc35
 Cipargamin	C[C@H]1Cc2c3cc(c(cc3[nH]c2[C@]4(N1)c5cc(ccc5NC4=O)Cl)Cl)F
@@ -22158,6 +22158,8 @@ Chromium(III) selenide	[Cr+3].[Cr+3].[Se-2].[Se-2].[Se-2]
 Chiodectonic acid	COC1=C(O)C(=O)c2c(c(O)c3oc(C(C)=O)c(O)c3c2O)C1=O
 Copper(II) selenide	[Cu].[Se]
 RO5073012	CC(C)N(CC1=CN=CN1)C2=CC=C(C=C2)Cl
-3,4-Diphenylpiperidine	C1CNCC(C1C2=CC=CC=C2)C3=CC=CC=C3
 R-salt	C1N(CN(CN1N=O)N=O)N=O
 2,2,4-Trimethyl-1,2-dihydroquinoline	CC=1C=2C(NC(C)(C)C1)=CC=CC2
+L-687,414	C[C@H]1CN(C(=O)[C@H]1N)O
+Lenacil	C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
+Nephroarctin	O=CC=1C(O)=C(C=O)C(=C(C(=O)OC=2C(=C(OC)C=C(C2C)C)C)C1O)C
