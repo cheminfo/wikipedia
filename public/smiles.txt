@@ -6633,6 +6633,8 @@ Sodium nitride	[Na+].[Na+].[Na+].[N-3]
 Sodium nitride	[Na+].[Na][N-][Na]
 BOP reagent	F[P-](F)(F)(F)(F)F.n1nn(O[P+](N(C)C)(N(C)C)N(C)C)c2ccccc12
 Naratriptan	O=S(=O)(NC)CCc3ccc1c(c(c[nH]1)C2CCN(C)CC2)c3
+Guanosine pentaphosphate	O[C@H]1[C@H](N2C3=C(N=C2)C(=O)N=C(N)N3)O[C@H](COP(OP(=O)(O)O)(=O)O)[C@H]1OP(OP(=O)(O)O)(=O)O
+Guanosine pentaphosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)OP(=O)(O)OP(=O)(O)O)O)N=C(NC2=O)N
 Sodium zincate	[OH-].[OH-].[OH-].[OH-].[Na+].[Na+].[Zn+2]
 Bendiocarb	CNC(=O)Oc1cccc2c1OC(C)(C)O2
 Sulfanilic acid	OS(=O)(=O)c1ccc(N)cc1
@@ -13090,6 +13092,7 @@ Diphenyl sulfone	O=S(=O)(c1ccccc1)c2ccccc2
 Polonium hexafluoride	F[Po](F)(F)(F)(F)F
 Levomethadone	O=C(C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC
 Iomazenil	CCOC(=O)c1c2n(cn1)-c3cccc(c3C(=O)N(C2)C)I
+Pseudophenmetrazine	C[C@@H]1[C@@H](OCCN1)C2=CC=CC=C2
 L-Norpseudoephedrine	O[C@H](c1ccccc1)[C@H](N)C
 Omiloxetine	Fc1ccc(cc1)C(=O)CN3CC[C@H](c2ccc(F)cc2)[C@H](C3)COc4ccc5OCOc5c4
 Tofenacin	O(CCNC)C(c1ccccc1)c2ccccc2C
@@ -17324,7 +17327,7 @@ Triphenylmethanethiol	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)S
 N-Methyl-2-thiazolidinethione	CN1CCSC1=S
 Koningic acid	CC(C)[C@H]1CC[C@@]2(CO2)[C@@H]3[C@@H]1C=C(COC3=O)C(=O)O
 Nickel bis(dimethyldithiocarbamate)	CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Ni+2]
-Guaijaverin	C1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+Guaijaverin	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
 Chlorophyllide	CCC1=C(C)C2=Cc3c(C=C)c(C)c4C=C5[C@@H](C)[C@H](CCC(O)=O)C6=[N+]5[Mg--]5(n34)n3c(=CC1=[N+]25)c(C)c1C(=O)[C@H](C(=O)OC)C6=c31
 Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3]
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
@@ -22163,3 +22166,8 @@ R-salt	C1N(CN(CN1N=O)N=O)N=O
 L-687,414	C[C@H]1CN(C(=O)[C@H]1N)O
 Lenacil	C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
 Nephroarctin	O=CC=1C(O)=C(C=O)C(=C(C(=O)OC=2C(=C(OC)C=C(C2C)C)C)C1O)C
+2-Phenylmorpholine	C1COC(CN1)C2=CC=CC=C2
+Glycerol triglycidyl ether	C1C(O1)COCC(COCC2CO2)OCC3CO3
+Α,N,N,O-TMS	CC(CC1=CNC2=C1C=C(C=C2)OC)N(C)C
+Cryptostictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)CO)OC
+Fragilin	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)OC)Cl)O
