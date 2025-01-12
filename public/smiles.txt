@@ -22164,6 +22164,7 @@ RO5073012	CC(C)N(CC1=CN=CN1)C2=CC=C(C=C2)Cl
 R-salt	C1N(CN(CN1N=O)N=O)N=O
 2,2,4-Trimethyl-1,2-dihydroquinoline	CC=1C=2C(NC(C)(C)C1)=CC=CC2
 L-687,414	C[C@H]1CN(C(=O)[C@H]1N)O
+Ga-68-Trivehexin	C[C@H]1C(=O)N[C@H](C(=O)N2CCC[C@@H]2C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC(C)C)CC(=O)O)CCCNC(=N)N)CC3=CC=C(C=C3)O)CCCCNC(=O)CCC4=CN(N=N4)CCCNC(=O)CCP(=O)(CN5CCN(CCN(CC5)CP(=O)(CCC(=O)NCCCN6C=C(N=N6)CCC(=O)NCCCC[C@H]7C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N8CCC[C@@H]8C(=O)N7C)CC9=CC=C(C=C9)O)C)CC(C)C)CC(=O)O)CCCNC(=N)N)CC1=CC=C(C=C1)O)[O-])CP(=O)(CCC(=O)NCCCN1C=C(N=N1)CCC(=O)NCCCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@@H]2C(=O)N1C)CC1=CC=C(C=C1)O)C)CC(C)C)CC(=O)O)CCCNC(=N)N)CC1=CC=C(C=C1)O)[O-])[O-])C)CC1=CC=C(C=C1)O.[68Ga+3]
 Lenacil	C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
 Nephroarctin	O=CC=1C(O)=C(C=O)C(=C(C(=O)OC=2C(=C(OC)C=C(C2C)C)C)C1O)C
 2-Phenylmorpholine	C1COC(CN1)C2=CC=CC=C2
@@ -22171,3 +22172,7 @@ Glycerol triglycidyl ether	C1C(O1)COCC(COCC2CO2)OCC3CO3
 Α,N,N,O-TMS	CC(CC1=CNC2=C1C=C(C=C2)OC)N(C)C
 Cryptostictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)CO)OC
 Fragilin	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)OC)Cl)O
+Ethylnaphthylaminopropane	CCNC(C)CC1=CC2=CC=CC=C2C=C1
+2-Chloroamphetamine	CC(CC1=CC=CC=C1Cl)N
+Para-Bromomethamphetamine	CC(CC1=CC=C(C=C1)Br)NC
+Oenethyl	CCCCCC(C)NC
