@@ -10189,6 +10189,7 @@ Dinoxyline	c3ccc(Oc24)c1c3CNCC1c4ccc(O)c2O
 Doxanthrine	c1ccc2c(c1)CN[C@H]3[C@H]2c4cc(c(cc4OC3)O)O
 Naphthol Green B	C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].C1=CC2=C(C=CC(=C2N=O)[O-])C=C1S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Fe+3]
 RTI-31	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC
+Phenylpropylamine	C1=CC=C(C=C1)CCCN
 3,4-Methylenedioxyphenethylamine	C1OC2=C(O1)C=C(C=C2)CCN
 Homarylamine	CNCCC1=CC2=C(C=C1)OCO2
 Castanospermine	O[C@H]1CCN2[C@H]1[C@@H](O)[C@H](O)[C@@H](O)C2
@@ -10501,7 +10502,7 @@ RTI-353	CCC1=C(C=C(C=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3)I
 Desmethylcitalopram	CNCCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
 Desmethylsertraline	Clc1ccc(cc1Cl)[C@H]3c2c(cccc2)[C@@H](N)CC3
 4-Methylamphetamine	NC(Cc1ccc(cc1)C)C
-Mephedrine	c1cc(C)ccc1CC(C)NC
+4-Methylmethamphetamine	c1cc(C)ccc1CC(C)NC
 Para-Bromoamphetamine	Brc1ccc(cc1)CC(N)C
 Para-Iodoamphetamine	CC(CC1=CC=C(C=C1)I)N
 Actarit	O=C(O)Cc1ccc(cc1)NC(=O)C
@@ -20981,6 +20982,7 @@ Baxdrostat	CCC(=O)N[C@@H]1CCCC2=C1C=NC=C2C3=CC4=C(C=C3)N(C(=O)CC4)C
 Enlicitide chloride	CC1C(=O)NC(C(=O)NC2CC3=CC(=CC=C3)CNC(=O)COC4CCN5C4C(=O)NC(C(=O)NC(C(=O)N6CCCC6(C(=O)NCCC7=CC=C(CN(CCCCCCN8C=C(CC(C5=O)NC2=O)C9=C8C=CC(=C9)F)C(=O)CCC(=O)N1)C=C7)C)CC1=CC=C(C=C1)OC)C(C)O)CNC(=O)CCCCC[N+](C)(C)C.[Cl-]
 Navafenterol	CN(CCCN1C2=C(C=C(C=C2)CNC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)N=N1)C5CCC(CC5)OC(=O)C(C6=CC=CS6)(C7=CC=CS7)O
 AZD-1390	CC(C)N1C2=C(C=NC3=CC(=C(C=C32)C4=CN=C(C=C4)OCCCN5CCCCC5)F)N(C1=O)C
+AM-2-19	[C@H]1[C@H](C)OC(C[C@H](O)C[C@H](O)CC[C@@H](O)[C@H](O)C[C@H](O)C[C@](O2)(O)C[C@H](O)[C@@H](C(NC(CO)CO)=O)[C@@H]2C[C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@H](N)[C@H]3O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](C)[C@H]1O)=O
 Frespaciguat	O=C(O)CCC1=CC=C(C=C1)C2(C(=O)NC=3N=C(N=C(N)C32)C4=NN(C=5C=C(Cl)C=CC45)CCC(F)(F)C(F)(F)F)C
 Mosliciguat	C1C[C@@H](C2=C(C1)N=C(C=C2)C(=O)O)N(CCC3=CC=C(C=C3)C(=O)O)CCC4=CC=CC=C4OCC5=C(C=C(C=C5)C6=CC=C(C=C6)C(F)(F)F)Cl
 MK-8189	CC1=CN=C(C=C1)[C@H]2C[C@@H]2COC3=NC(=NC(=C3)NCC4=NN=C(S4)C)C
@@ -22170,9 +22172,14 @@ Nephroarctin	O=CC=1C(O)=C(C=O)C(=C(C(=O)OC=2C(=C(OC)C=C(C2C)C)C)C1O)C
 2-Phenylmorpholine	C1COC(CN1)C2=CC=CC=C2
 Glycerol triglycidyl ether	C1C(O1)COCC(COCC2CO2)OCC3CO3
 Α,N,N,O-TMS	CC(CC1=CNC2=C1C=C(C=C2)OC)N(C)C
+4-Mercaptobenzoic acid	C1=CC(=CC=C1C(=O)O)S
 Cryptostictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)CO)OC
 Fragilin	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)OC)Cl)O
+12-Methoxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=C3C(=C(C=C4)OC)C2=C1)C
 Ethylnaphthylaminopropane	CCNC(C)CC1=CC2=CC=CC=C2C=C1
 2-Chloroamphetamine	CC(CC1=CC=CC=C1Cl)N
 Para-Bromomethamphetamine	CC(CC1=CC=C(C=C1)Br)NC
 Oenethyl	CCCCCC(C)NC
+5-Chloro-αET	CCC(CC1=CNC2=C1C=C(C=C2)Cl)N
+4-Methylthiomethamphetamine	CC(CC1=CC=C(C=C1)SC)NC
+N,N-Dimethyl-4-methylthioamphetamine	CC(CC1=CC=C(C=C1)SC)N(C)C
