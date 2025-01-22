@@ -11598,6 +11598,7 @@ Tigilanol tiglate	CCC(C)C(=O)O[C@@]12[C@@H](C1(C)C)[C@@H]3[C@H]4[C@](O4)([C@H]([
 Methylethyl ketone oxime	CC/C(=N/O)/C
 Taxodone	O=C1\C(=C/C=2/C(=C1/O)[C@]3(C)[C@@H]([C@@H](O)C=2)C(C)(C)CCC3)C(C)C
 Staphyloxanthin	O=C(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)\C(=C\C=C\C(C)(C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C(\C=C/CCCCCCCC(C)CC)C=O)C
+JV-1-36	N=C(NCCC[C@@H](NC([C@@H](NC(CC1=CC=CC=C1)=O)CC2=CC=C(C=C2)O)=O)C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@@H](C(N[C@H](C(N)=O)CCCCNC(N)=N)=O)CCCNC(N)=N)=O)CCCC)=O)[C@H](CC)C)=O)CC(O)=O)=O)CCC(N)=O)=O)CC(C)C)=O)CC(C)C)=O)CCCCN)=O)CCCNC(N)=N)=O)C)=O)CO)=O)CC(C)C)=O)CCC(N)=O)=O)CC)=O)CC(C)C)=O)C(C)C)=O)CCCCN)=O)CCCNC(N)=N)=O)CC3=CC=C(OC)C=C3)=O)CCCCNC(N)=N)=O)CC(N)=O)=O)[C@@H](C)O)=O)CC4=CC=C(Cl)C=C4)=O)[C@H](CC)C)=O)C)=O)CC(O)=O)=O)N
 Toxoflavin	O=C2\N=C1C(=N/C=N\N1C)\C(=O)N2C
 Triflunordazepam	C1C(=O)NC2=C(C=C(C=C2)C(F)(F)F)C(=N1)C3=CC=CC=C3
 Rhodocene	[cH-]1cccc1.[cH-]1cccc1.[Rh+2]
@@ -21265,7 +21266,7 @@ KRM-II-81	C#CC1=CC2=C(C=C1)N3C=NC(=C3CN=C2C4=CC=CC=N4)C5=CN=CO5
 Ormetoprim	CC1=CC(=C(C=C1CC2=CN=C(N=C2N)N)OC)OC
 Americium nitride	[Am]#N
 FEM-1689	FC(F)(F)c1ccc(cc1)c1cc2c(cc1)C1CC2N(CC1)CCCO
-KNT-127	CN1CCC23CC4=NC5=CC=CC=C5C=C4CC2(C1CC6=C3C=C(C=C6)O)O
+KNT-127	CN1CC[C@]23CC4=NC5=CC=CC=C5C=C4C[C@]2([C@H]1CC6=C3C=C(C=C6)O)O
 Molybdenum nitride	[Mo].[Mo].[N]
 Gadolinium(III) nitride	[Gd]#N
 Parietinic acid	COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O
@@ -21343,6 +21344,7 @@ Caesium zirconate	[O-][Zr](=O)[O-].[Cs+].[Cs+]
 Neptunium(III) phosphide	[Np]#P
 Arogenic acid	C1=CC(C=CC1O)(CC(C(=O)[O-])N)C(=O)O
 Arogenic acid	C1=CC(C=CC1O)(CC(C(=O)[O-])[NH3+])C(=O)[O-]
+Zilebesiran	C[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OCCCCC(=O)NCCCNC(=O)CCOCC(COCCC(=O)NCCCNC(=O)CCCCO[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)NC(=O)C)(COCCC(=O)NCCCNC(=O)CCCCO[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)NC(=O)CCCCCCCCCCC(=O)N4C[C@@H](C[C@H]4COP(=O)([O-])O[C@@H]5[C@H](O[C@H]([C@@H]5OC)N6C=NC7=C(N=CN=C76)N)CO)O)NC(=O)C)O)O.[Na+]
 Terbium(III) oxalate	[Tb+3].[Tb+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Zirconium monophosphide	P#[Zr]
 Zirconium diphosphide	[P].[P].[Zr]
@@ -22233,5 +22235,10 @@ Descarboxylysergic acid	CN1CCC=C2[C@H]1CC3=CNC4=CC=CC2=C34
 Ezobresib	CC1=C(N(N=N1)C)C2=CC3=C(C4=C(N3[C@@H](C5CCOCC5)C6=CC=CC=C6)C=C(C=C4)C(C)(C)O)N=C2
 Flezurafenib	C1CC(=O)NC2=NC=CC(=C21)OC3=CC4=C(C=C3)OC[C@@H](C4)C5=NC=C(N5)C6=CC=C(C=C6)F
 3,4-Ethylenedioxymethcathinone	CC(C(=O)C1=CC2=C(C=C1)OCCO2)NC
+Dibenzylamine	C1=CC=C(C=C1)CNCC2=CC=CC=C2
+Dibenzylamine	C1=CC=C(C=C1)CNCC2=CC=CC=C2.Cl
 5-tert-Butyl-m-xylene	CC1=CC(=CC(=C1)C(C)(C)C)C
 6-MBPB	CCC(CC1=CC2=C(C=C1)C=CO2)NC
+Ammonium periodate	[NH4+].[O-]I(=O)(=O)=O
+Catenarin	CC1=CC(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)O)O)O
+1H-LSD	CN1CC(C=C2[C@H]1Cc1cn(C(=O)CCCCC)c3cccc2c31)C(=O)N(CC)CC
