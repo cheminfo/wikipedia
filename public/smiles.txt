@@ -11107,6 +11107,7 @@ Gallagic acid	Oc4c6c1c(c5c(=O)o6)c(oc(=O)c1c(c4O)-c(c(O)c2O)c(C(O)=O)cc2O)c(O)c(
 Stibole	[SbH]1C=CC=C1
 Bismole	C1=C[BiH]C=C1
 Stannole	[SnH2]1C=CC=C1
+Calcofluor-white	[Na+].[Na+].[H]C(=C([H])c1ccc(Nc2nc(Nc3ccccc3)nc(n2)N(CCO)CCO)cc1S([O-])(=O)=O)c1ccc(Nc2nc(Nc3ccccc3)nc(n2)N(CCO)CCO)cc1S([O-])(=O)=O
 2-Fluoromethamphetamine	CC(CC1=CC=CC=C1F)NC
 Stizolobic acid	c1c(cc(=O)oc1C(=O)O)C[C@@H](C(=O)O)N
 Adimolol	O=C2Nc1ccccc1N2CCC(NCC(O)COc4c3ccccc3ccc4)(C)C
@@ -13060,6 +13061,7 @@ EMPA (drug)	CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C
 Panicudine	O[C@@]12[C@]3([C@]45C([C@@]6(C7([C@]4(C[C@](C6=O)(C(=C)C7)[H])[H])C1)[H])[N@@]2C[C@]3(C)C[C@H](O)C5)[H]
 N6-Methyladenosine	n2c1c(ncnc1NC)n(c2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO
 6-Chloro-5-ethoxy-N-(pyridin-2-yl)indoline-1-carboxamide	c3cccnc3NC(=O)N(c1cc2Cl)CCc1cc2OCC
+Lambertianin D	C1C2C(C3C(C(O2)OC(=O)C4=CC(=C(C(=C4)OC5=C(C(=C(C6=C5C(=O)OC7C(COC(=O)C8=CC(=C(C(=C86)O)O)O)OC(C9C7OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O9)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2)OC2=C(C(=C(C4=C2C(=O)OC2C(COC(=O)C5=CC(=C(C(=C54)O)O)O)OC(C4C2OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O4)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2)OC2=C(C(=C(C4=C2C(=O)OC2C(COC(=O)C5=CC(=C(C(=C54)O)O)O)OC(C4C2OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O4)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O3)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Glemanserin	OC(c1ccccc1)C3CCN(CCc2ccccc2)CC3
 Tropanserin	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)c2cc(C)cc(C)c2
 Iferanserin	O=C(\C=C\c1ccccc1)Nc2ccccc2CC[C@H]3N(C)CCCC3
@@ -13403,6 +13405,7 @@ Chlorbisan	Clc2cc(c(Sc1c(cc(Cl)cc1O)C)c(O)c2)C
 M-Cumenyl methylcarbamate	O=C(Oc1cc(ccc1)C(C)C)NC
 Macitentan	Brc1ccc(cc1)c3c(ncnc3OCCOc2ncc(Br)cn2)NS(=O)(=O)NCCC
 Violdelphin	CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C([O+]=C4C=C(C=C(C4=C3)O)OC5C(C(C(C(O5)COC(=O)C6=CC=C(C=C6)OC7C(C(C(C(O7)COC(=O)C8=CC=C(C=C8)O)O)O)O)O)O)O)C9=CC(=C(C(=C9)O)O)O)O)O)O)O)O)O
+Knölker complex	[H-][Fe+2]1234(C#O)(C#O)C5(O)=C4(C=63CCCCC62[C-]51[Si](C)(C)C)[Si](C)(C)C
 Tributylamine	N(CCCC)(CCCC)CCCC
 Clazuril	Clc1ccc(cc1)C(C#N)c3c(Cl)cc(N2/N=C\C(=O)NC2=O)cc3
 Epsiprantel	O=C4N2C(c1c(cccc1)CCC2)CN(C(=O)C3CCCCC3)C4
@@ -20418,7 +20421,7 @@ Nickel(II) stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ni+2]
 Dityrosine	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)C2=C(C=CC(=C2)C[C@@H](C(=O)O)N)O)O
 Strontium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Sr+2]
 Zirconium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zr+4]
-Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O.[La]
+Lanthanum stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[La+3]
 Xanthatin	CC1CC2C(CC=C1C=CC(=O)C)C(=C)C(=O)O2
 Cerium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ce+3]
 Trimethoxysilane	CO[Si](OC)OC
@@ -21943,6 +21946,7 @@ JNJ-37654032	C=CC(C1=NC2=CC(=C(C=C2N1)Cl)Cl)(C(F)(F)F)O
 JNJ-26146900	CCS(=O)(=O)C[C@@](C)(C1=CC2=CC(=C(C=C2N1)C(F)(F)F)C#N)O
 GTx-027	C[C@](COC1=CC=C(C=C1)C#N)(C(=O)NC2=CC(=C(C=C2)C#N)Cl)O
 MK-4541	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NC(=O)OCC(F)(F)F)CC[C@@H]4[C@@]3(C=CC(=O)N4C)C
+ITI-1549	CN1c2cccc3c2N(CC21CC2)[C@H]1CCN(C[C@H]13)CCc1noc2ccccc21
 Isopropalin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-]
 Cibinetide	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H]1CCC(=O)N1
 Ammonium hexabromoplatinate	[NH4+].[NH4+].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-].[Pt+4]
@@ -22081,6 +22085,7 @@ RMC-9805	O=C(N1CCC[C@@H]2N1)[C@H](C[C@@H](C3)OCCN3C4=CC5=C(N(CC(F)(F)F)[C@]([C@]
 Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
+Kuicaoxi	CCOC(=O)C(C(=C)C)OC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
 ID-4708	C1CN(CCC1(C2=CC(=CC=C2)C(F)(F)F)O)CCCC(=O)C3=C(C=C(C=C3)F)N
 U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F.Cl
 U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
@@ -22242,3 +22247,7 @@ Dibenzylamine	C1=CC=C(C=C1)CNCC2=CC=CC=C2.Cl
 Ammonium periodate	[NH4+].[O-]I(=O)(=O)=O
 Catenarin	CC1=CC(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)O)O)O
 1H-LSD	CN1CC(C=C2[C@H]1Cc1cn(C(=O)CCCCC)c3cccc2c31)C(=O)N(CC)CC
+Fosdesdenosine sipalabenamide	C[C@@H](C(=O)OCC1=CC=CC=C1)NP(=O)(OC[C@@H]2C[C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OC5=CC=CC=C5
+Foselutoclax	CC1=C(C(=C(N1C(C)C)C2=CC=C(C=C2)Cl)C3=CC(=CC=C3)N4CCN(CC4)C5=CC=C(C=C5)NS(=O)(=O)C6=CC(=C(C=C6)N[C@H](CCN7CCC(CC7)OP(=O)(O)O)CSC8=CC=CC=C8)S(=O)(=O)C(F)(F)F)C(=O)O
+ST-148 (D2L antagonist)	CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)NCCCCN3CCN(CC3)C4=CC=CC=C4OC
+ST-148 (antiviral)	C1CCC2=CC3=C(N=C2CC1)SC(=C3N)C(=O)NC4=NN=C(S4)C5=CC=CC=C5
