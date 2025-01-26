@@ -112,7 +112,7 @@ Xenon	[Xe]
 Paclitaxel	CC1=C2[C@@]([C@]([C@H]([C@@H]3[C@]4([C@H](OC4)C[C@@H]([C@]3(C(=O)[C@@H]2OC(=O)C)C)O)OC(=O)C)OC(=O)c5ccccc5)(C[C@@H]1OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7)O)(C)C
 Nitrous oxide	N#[N+][O-]
 Nitrous oxide	[N-]=[N+]=O
-Niacin	OC(=O)c1cccnc1
+Nicotinic acid	OC(=O)c1cccnc1
 Phenylalanine	c1ccc(cc1)C[C@@H](C(=O)O)N
 Phenylalanine	c1ccc(cc1)C[C@H](C(=O)O)N
 Phenylalanine	[NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O
@@ -17925,6 +17925,7 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 (2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
+Lithium cyclopentadienide	[Li+].C1C=CC=[C-]1
 Chromium(III) acetate	O1C(C)=[O+][Cr-3]6(O23)([OH2+])([O+]=C(C)O4)[O+]=C(C)O[Cr-3]24([OH2+])([O+]=C(C)O5)[O+]=C(C)O[Cr-3]135([OH2+])[O+]=C(C)O6
 Tulipalin A	C=C1CCOC1=O
 TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
@@ -19735,6 +19736,9 @@ ACT-462206	O=C(NC=1C=C(C=C(C1)C)C)C2N(CCC2)S(=O)(=O)C3=CC=C(OC)C=C3
 Rubidium peroxide	[Rb+].[Rb+].[O-][O-]
 1,1,6-Trimethyl-1,2-dihydronaphthalene	CC1=CC2=C(C=C1)C(CC=C2)(C)C
 3,5-Difluoro-4-hydroxybenzylidene imidazolinone	CC1=N/C(=C\C2=CC(=C(C(=C2)F)O)F)/C(=O)N1C
+Lithium arsenide	[Li][As]([Li])[Li]
+Lithium arsenide	[Li][As]
+Lithium arsenide	[Li+].[Li+].[Li+].[As]12[As-][As]3[As-][As]1[As]2[As-]3
 Acetoxolutamide	CC(=O)NC1=CC=C(C=C1)OC[C@](C)(C(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)O
 3,5-Difluoromethcathinone	CC(C(=O)C1=CC(=CC(=C1)F)F)NC
 Glucovanillin	COC1=C(C=CC(=C1)C=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
@@ -22257,3 +22261,4 @@ NBoc-DMT	CC(C)(C)OC(=O)N1C=C(C2=CC=CC=C21)CCN(C)C
 Pigment Yellow 14	CC1=CC=CC=C1NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4C)Cl)Cl
 Benzotrifuroxan	C12=NO[N+](=C1C3=NO[N+](=C3C4=NO[N+](=C24)[O-])[O-])[O-]
 S-Ethyl dipropylthiocarbamate	N(C(SCC)=O)(CCC)CCC
+Γ-Fagarine	COC1=CC=CC2=C1N=C3C(=C2OC)C=CO3
