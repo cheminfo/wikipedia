@@ -2760,7 +2760,7 @@ Phosphoryl chloride	O=P(Cl)(Cl)Cl
 Phosphoryl chloride	[O-][P+](Cl)(Cl)Cl
 Naringin	O=C4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)C)cc5O[C@H](c3ccc(O)cc3)C4
 IAEDANS	O=S(=O)(O)c1cccc2c1cccc2NCCNC(=O)CI
-Uranium(IV) sulfate	[U+2].[O-]S([O-])(=O)=O
+Uranium(IV) sulfate	[U+4].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Tellurite	[O-][Te+]([O-])[O-]
 Ellagic acid	O=C1Oc3c2c4c1cc(O)c(O)c4OC(=O)c2cc(O)c3O
 Manganese(II) carbonate	[Mn+2].[O-]C([O-])=O
@@ -22261,4 +22261,8 @@ NBoc-DMT	CC(C)(C)OC(=O)N1C=C(C2=CC=CC=C21)CCN(C)C
 Pigment Yellow 14	CC1=CC=CC=C1NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4C)Cl)Cl
 Benzotrifuroxan	C12=NO[N+](=C1C3=NO[N+](=C3C4=NO[N+](=C24)[O-])[O-])[O-]
 S-Ethyl dipropylthiocarbamate	N(C(SCC)=O)(CCC)CCC
+Rebimastat	CNC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](S)CCN1C(=O)N(C)C(C)(C)C1=O)C(C)(C)C
 Γ-Fagarine	COC1=CC=CC2=C1N=C3C(=C2OC)C=CO3
+Protolichesterinic acid	O=C1OC(CCCCCCCCCCCCC)C(C(=O)O)C1=C
+Vioxanthin	C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C5C=C4OC)O)O)OC)O)C(=O)O1
+Compound 22 (TAAR1 antagonist)	C1=CC(=CC=C1CNCC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3
