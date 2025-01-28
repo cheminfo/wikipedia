@@ -15559,6 +15559,7 @@ Prostaglandin G2	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2
 Homosildenafil	CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1
 Dictyophorine	CC1=CC(=O)C[C@@]2([C@]13[C@H](O3)[C@H](CC2)C(=C)C)C
 Dictyophorine	[H][C@]12C(C)=CC(=O)C[C@@]1(C)CC[C@H](C(C)C)C2=O
+Dicyanamide	C(=[N-])=NC#N
 Platinum tetrafluoride	F[Pt](F)(F)F
 Platinum pentafluoride	F[Pt](F)(F)(F)F
 Platinum pentafluoride	F[Pt-]1(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-](F)(F)(F)(F)[F+][Pt-]([F+]1)(F)(F)(F)F
@@ -22266,3 +22267,4 @@ Rebimastat	CNC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](S)CCN1C(=O)N(C)C(C)(C)C
 Protolichesterinic acid	O=C1OC(CCCCCCCCCCCCC)C(C(=O)O)C1=C
 Vioxanthin	C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C5C=C4OC)O)O)OC)O)C(=O)O1
 Compound 22 (TAAR1 antagonist)	C1=CC(=CC=C1CNCC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3
+Boric acid (vaginal)	B(O)(O)O
