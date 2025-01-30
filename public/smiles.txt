@@ -8872,6 +8872,7 @@ Combretastatin A-4	COC1=C(C=C(C=C1)C=CC2=CC(=C(C(=C2)OC)OC)OC)O
 Arbekacin	C1C[C@H]([C@H](O[C@@H]1CN)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)NC(=O)[C@H](CCN)O)N)N
 Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Prasterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
+Cyclic olefin polymer	C12CC(CC1)C=C2
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
 Acid Orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
@@ -22275,3 +22276,10 @@ Vioxanthin	C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C
 Compound 22 (TAAR1 antagonist)	C1=CC(=CC=C1CNCC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3
 Boric acid (vaginal)	B(O)(O)O
 Ammonium hypochlorite	[NH4+].[O-]Cl
+Α-Propylphenethylamine	CCCC(CC1=CC=CC=C1)N
+TACT908	CN(C)CCC1=C2C=CC=CN2C=C1
+1ZP2MA	CC(CC1=C2C=CC=CN2C=C1)NC
+1,3-Benzodioxolylpentanamine	CCCC(CC1=CC2=C(C=C1)OCO2)N
+Methylenedioxyphenylpropylaminopentane	CCCNC(CCC)CC1=CC2OCOC2C=C1
+Naphthylpropylaminopentane	CCCC(CC1=CC2=CC=CC=C2C=C1)NCCC
+1Z2MAP1O	CC(C(=O)C1=CC=C2N1C=CC=C2)NC
