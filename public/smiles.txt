@@ -21921,6 +21921,7 @@ Etaminile	CCC(CC(C)N(C)C)(C#N)C1=CC=CC=C1
 Fotretamine	C1CN1P2(=NP(=NP(=N2)(N3CC3)N4CCOCC4)(N5CC5)N6CC6)N7CC7
 Clorprenaline	CC(C)NCC(C1=CC=CC=C1Cl)O
 Penflufen	CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C
+Profluralin	CCCN(CC1CC1)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
 Balipodect	COC1=CN(N=C(C1=O)C2=CC=NN2C3=CC=CC=C3)C4=C(C=C(C=C4)N5C=CC=N5)F
 Bersacapavir	C[C@@H](C(F)(F)F)NS(=O)(=O)C1=CN(C(=C1)C(=O)NC2=CC(=C(C=C2)F)C#N)C
 Crisdesalazine	C1=CC(=CC=C1CCNC2=CC(=C(C=C2)O)C(=O)O)C(F)(F)F
@@ -22276,6 +22277,7 @@ Vioxanthin	C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C
 Compound 22 (TAAR1 antagonist)	C1=CC(=CC=C1CNCC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3
 Boric acid (vaginal)	B(O)(O)O
 Ammonium hypochlorite	[NH4+].[O-]Cl
+Dibenzocyclooctatetraene	C1=CC=C/2C(=C1)/C=C\C3=CC=CC=C3/C=C2
 Α-Propylphenethylamine	CCCC(CC1=CC=CC=C1)N
 TACT908	CN(C)CCC1=C2C=CC=CN2C=C1
 1ZP2MA	CC(CC1=C2C=CC=CN2C=C1)NC
@@ -22283,3 +22285,9 @@ TACT908	CN(C)CCC1=C2C=CC=CN2C=C1
 Methylenedioxyphenylpropylaminopentane	CCCNC(CCC)CC1=CC2OCOC2C=C1
 Naphthylpropylaminopentane	CCCC(CC1=CC2=CC=CC=C2C=C1)NCCC
 1Z2MAP1O	CC(C(=O)C1=CC=C2N1C=CC=C2)NC
+Ammonium bromate	[NH4+].[O-]Br(=O)=O
+4-(4-Chlorophenoxy)butanoic acid	C1=CC(=CC=C1OCCCC(=O)O)Cl
+Chlorthal	C1(=C(C(=C(C(=C1Cl)Cl)C(=O)O)Cl)Cl)C(=O)O
+2-Furylethylamine	C1=COC(=C1)CCN
+2,3,4,5-Tetramethoxyphenethylamine	COC1=C(C(=C(C(=C1)CCN)OC)OC)OC
+3-APBT	CC(CC1=CSC2=CC=CC=C21)N
