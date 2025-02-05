@@ -1341,8 +1341,6 @@ Baeocystin	CNCCc1c[nH]c2cccc(OP(=O)(O)O)c12
 Norbaeocystin	NCCc1c[nH]c2cccc(OP(=O)(O)O)c12
 Melittin	CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(C(C)CC)C(=O)NC(CO)C(=O)NC(Cc2c[nH]c3c2cccc3)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)N)NC(=O)CN
 2,5-Dimethoxy-4-iodoamphetamine	IC(C=C1OC)=C(OC)C=C1CC(C)N
-2,5-Dimethoxy-4-iodoamphetamine	IC(C=C1OC)=C(OC)C=C1C[C@@H](C)N
-2,5-Dimethoxy-4-iodoamphetamine	IC(C=C1OC)=C(OC)C=C1C[C@H](C)N
 Bromo-DragonFLY	CC(N)Cc1c2ccoc2c(Br)c2ccoc12
 VM (nerve agent)	O=P(OCC)(SCCN(CC)CC)C
 VG (nerve agent)	O=P(OCC)(OCC)SCCN(CC)CC
@@ -14983,6 +14981,8 @@ Friulimicin	C[C@H]1[C@@H](C(=O)N2CCCC[C@@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)
 Ferrous tartrate	C(C(C(=O)[O-])O)(C(=O)[O-])O.[Fe+2]
 Florbetaben (18F)	CNC1=CC=C(C=C1)/C=C/C2=CC=C(C=C2)OCCOCCOCC[18F]
 Novaluron	C1=CC(=C(C(=C1)F)C(NC(NC2=CC(=C(C=C2)OC([C@@H](F)OC(F)(F)F)(F)F)Cl)=O)=O)F
+Lutetium–yttrium oxyorthosilicate	[O-2].[O-2].[O-][Si](=O)[O-].[Lu+3].[Lu+3]
+Lutetium–yttrium oxyorthosilicate	[O-2].[O-][Si]([O-])([O-])[O-].[Y+3].[Y+3]
 Diallyl trisulfide	C=CCSSSCC=C
 Sulfur in pharmacy	S1SSSSSSS1
 Zabofloxacin	Fc1c(nc2c(c1)C(=O)C(\C(=O)O)=C/N2C3CC3)N5C\C(=N\OC)C4(CNC4)C5
@@ -19873,7 +19873,7 @@ Neopentyl glycol diglycidyl ether	CC(C)(COCC1CO1)COCC2CO2
 Aetokthonotoxin	C1=CC2=C(C=C1Br)C(=C(N2C3=C(C4=C(N3)C(=CC(=C4)Br)Br)C#N)Br)Br
 Tetrabutylammonium triiodide	CCCC[N+](CCCC)(CCCC)CCCC.I[I-]I
 2-Acetylbutyrolactone	CC(=O)C1CCOC1=O
-LY3372689	CC(NC1=NC(F)=C(CN2CC[C@H](OCC3=NOC(C)=N3)C[C@@H]2C)S1)=O
+Ceperognastat	CC(NC1=NC(F)=C(CN2CC[C@H](OCC3=NOC(C)=N3)C[C@@H]2C)S1)=O
 Neodymium(III) sulfide	[S-2].[S-2].[S-2].[Nd+3].[Nd+3]
 Folipastatin	C/C=C(/C)\C1=CC(=C(C2=C1C(=O)OC3=C(O2)C(=CC(=C3C)O)/C(=C\C)/C)C)O
 Neodymium(II) iodide	[I-].[I-].[Nd+2]
@@ -20678,6 +20678,7 @@ Chlorine trifluoride dioxide	O=[Cl](F)(F)(F)=O
 Β-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
+Lyngbyastatins	CCC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
 Radium iodide	[I-].[I-].[Ra+2]
 Radium hydroxide	[Ra+2].[O-H].[O-H]
 Radium oxide	[Ra+2].[O-2]
@@ -22308,3 +22309,12 @@ Homo-MDMA	CC(C)CN(C)C1=CC2=C(C=C1)OCO2
 Homo-MDA	CC(CCC1=CC2=C(C=C1)OCO2)N
 6-AB	C1CC(CC2=CC=CC=C2C1)N
 7-AB	C1CC2=CC=CC=C2CCC1N
+Olivetoric acid	CCCCCC1=C(C(=CC(=C1)OC(=O)C2=C(C=C(C=C2O)O)CC(=O)CCCCC)O)C(=O)O
+Leritrelvir	C1CCC(CC1)[C@@H](C(=O)N2C[C@@H]3CCC[C@@H]3[C@H]2C(=O)N[C@@H](C[C@@H]4CCNC4=O)C(=O)C(=O)NC5CCCC5)NC(=O)C(F)(F)F
+Ingavirin	C1=C(NC=N1)CCNC(=O)CCCC(=O)O
+Ammonium selenate	[NH4+].[NH4+].[O-][Se](=O)(=O)[O-]
+Thiophanic acid	CC1=C2C(=C(C(=C1Cl)O)Cl)OC3=C(C(=C(C(=C3C2=O)O)Cl)O)Cl
+Iodoantipyrine	CC1=C(C(=O)N(N1C)C2=CC=CC=C2)I
+2,5-Dimethoxy-4-cyanoamphetamine	CC(CC1=CC(=C(C=C1OC)C#N)OC)N
+5-APBT	CC(CC1=CC2=C(C=C1)SC=C2)N
+6-APBT	CC(N([H])[H])CC1=CC2SC=CC=2C=C1
