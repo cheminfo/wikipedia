@@ -10536,7 +10536,7 @@ Naphyrone	CCCC(C(C1=CC2=C(C=C1)C=CC=C2)=O)N3CCCC3
 4'-Methyl-α-pyrrolidinohexiophenone	c2cc(C)ccc2C(=O)C(CCCC)N1CCCC1
 Romidepsin	C/C=C\1/C(=O)N[C@H](C(=O)O[C@H]\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C
 Α-Pyrrolidinobutiophenone	C2CCCN2C(CC)C(=O)c1ccccc1
-5-IT	CC(N)Cc2cc1cc[nH]c1cc2
+5-(2-Aminopropyl)indole	CC(N)Cc2cc1cc[nH]c1cc2
 2,3-Methylenedioxyamphetamine	CC(N)Cc2c1OCOc1ccc2
 Tetuin	C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O)OC4C(C(C(C(O4)CO)O)O)O)O
 RTI-352	CN1[C@H]2CC[C@@H]1[C@@H]([C@@](OC)=O)[C@H]([C@@]3=CC=C(I)C=C3)C2
@@ -15422,6 +15422,7 @@ Ralfinamide	C[C@@H](C(=O)N)NCc1ccc(cc1)OCc2ccccc2F
 Haloprogesterone	CC(=O)[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)F)C)Br
 Hydromadinone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)Cl)C)O
 Hydromadinone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C
+Magnesium glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Mg+2]
 Dipicolylamine	c1ccnc(c1)CNCc2ccccn2
 Eoxin A4	CCCCC[C@H]1[C@@H](O1)/C=C/C=C/C=C\C/C=C\CCCC(=O)O
 Eoxin C4	CCCCC[C@@H]([C@@H](/C=C/C=C/C=C\C/C=C\CCCC(=O)O)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N)O
@@ -22318,3 +22319,5 @@ Iodoantipyrine	CC1=C(C(=O)N(N1C)C2=CC=CC=C2)I
 2,5-Dimethoxy-4-cyanoamphetamine	CC(CC1=CC(=C(C=C1OC)C#N)OC)N
 5-APBT	CC(CC1=CC2=C(C=C1)SC=C2)N
 6-APBT	CC(N([H])[H])CC1=CC2SC=CC=2C=C1
+2,5-Dimethoxy-4-hexylamphetamine	CCCCCCC1=CC(=C(C=C1OC)CC(C)N)OC
+Beflubutamid	CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F
