@@ -4697,7 +4697,7 @@ Propantheline bromide	[Br-].O=C(OCC[N+](C(C)C)(C(C)C)C)C2c3c(Oc1c2cccc1)cccc3
 GM1	O[C@H]1[C@H](O[C@@H]2O[C@H](CO)[C@H](O[C@@H]3O[C@H](CO)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O)[C@H]3NC(C)=O)[C@H](O[C@@]5(C(O)=O)O[C@@]([H])([C@H](O)[C@H](O)CO)[C@H](NC(C)=O)[C@@H](O)C5)[C@H]2O)[C@@H](CO)O[C@@H](OC[C@@H]([C@@H](O)/C=C/CCCCCCCCCCCCCCC)NC(CCCCCCCCCCCCCCCCCCC)=O)[C@@H]1O
 Zirconium(IV) hydroxide	[Zr+4].[OH-].[OH-].[OH-].[OH-]
 2,3-Dimercapto-1-propanesulfonic acid	O=S(=O)(O)CC(S)CS
-4-Hydroxy-5-methoxydimethyltryptamine	CN(C)CCc2c[nH]c1ccc(OC)c(O)c12
+Psilomethoxin	CN(C)CCc2c[nH]c1ccc(OC)c(O)c12
 Lead(IV) acetate	CC(=O)O[Pb](OC(C)=O)(OC(C)=O)OC(C)=O
 Lead(IV) acetate	O0[C-](C)O[Pb+4]0123(O[C-](C)O1)(O[C-]C(C)O2)O[C-](C)O3
 Antimony trifluoride	F[Sb](F)F
@@ -22321,4 +22321,6 @@ Iodoantipyrine	CC1=C(C(=O)N(N1C)C2=CC=CC=C2)I
 6-APBT	CC(N([H])[H])CC1=CC2SC=CC=2C=C1
 2,5-Dimethoxy-4-hexylamphetamine	CCCCCCC1=CC(=C(C=C1OC)CC(C)N)OC
 Beflubutamid	CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F
+Cridanimod	C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3N2CC(=O)O
 LK00764	ClC1C=CC(C2C=CC(C3=NN=C(CCN([H])[H])N3[H])=CC=2)=CC=1
+Mebfap	CC(CC1=COC2=C1C=C(C=C2)OC)N
