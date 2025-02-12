@@ -783,8 +783,8 @@ Hydrochlorothiazide	O=S(=O)(N)c1c(Cl)cc2c(c1)S(=O)(=O)NCN2
 Ribulose 1,5-bisphosphate	O=P(O)(OCC(=O)[C@H](O)[C@H](O)COP(=O)(O)O)O
 Lithium hydroxide	[Li+].[OH-]
 Melamine	Nc1nc(N)nc(N)n1
-Phosphite anion	P([O-])([O-])=O
-Phosphite anion	[H][P+]([O-])([O-])[O-]
+Phosphite (ion)	P([O-])([O-])=O
+Phosphite (ion)	[H][P+]([O-])([O-])[O-]
 Copper(II) nitrate	[Cu+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Clonidine	Clc1cccc(Cl)c1N/C2=N/CCN2
 Dihydroxyacetone	O=C(CO)CO
@@ -14231,6 +14231,7 @@ Ternatin heptapeptide	CCC(C)C1C(=O)N(C(C(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N
 Ternatin heptapeptide	CC[C@H](C)[C@H]1NC(=O)[C@@H]([C@H](O)C(C)C)NC(=O)[C@@H](C)N(C)C(=O)[C@H](C)N(C)C(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)N(C)C1=O
 Ethacizine	CCN(CC)CCC(=O)N1C2=CC=CC=C2SC3=C1C=C(C=C3)NC(=O)OCC
 Yaequinolone J1	O=C4Nc2c(c1O[C@@](/C=C\c1cc2)(C)CC\C=C(/C)C)[C@](O)(c3ccc(OC)cc3)[C@H]4OC
+Streptonigrin	CC1=C(C(=C(N=C1C(=O)O)C2=NC3=C(C=C2)C(=O)C(=C(C3=O)N)OC)N)C4=C(C(=C(C=C4)OC)OC)O
 Lavendamycin	Cc1c2c3ccccc3[nH]c2c(nc1C(=O)O)c4ccc5c(n4)C(=O)C(=CC5=O)N
 Molybdenum(III) chloride	Cl[Mo](Cl)Cl
 Molybdenum(III) bromide	Br[Mo](Br)Br
@@ -22329,3 +22330,5 @@ Mebfap	CC(CC1=COC2=C1C=C(C=C2)OC)N
 4-Hydroxy-5-methoxytryptamine	COC1=C(C2=C(C=C1)NC=C2CCN)O
 6,7-Dihydroxytryptamine	C1=CC(=C(C2=C1C(=CN2)CCN)O)O
 5-Methoxypsilocybin	COc1ccc2c(c1OP(=O)(O)O)c(CCN(C)C)c[nH]2
+4-PhPr-3,5-DMA	CC(CC1=CC(=C(C(=C1)OC)CCCC2=CC=CC=C2)OC)N
+Lancotrione	CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)OCCC3OCCO3
