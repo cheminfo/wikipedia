@@ -20976,7 +20976,7 @@ Ecnoglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC
 HGH Fragment 176–191	N(C([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@H](CC1=CC=CC=C1)N)=O)CC(C)C)=O)CCCNC(=N)N)=O)[C@H](CC)C)=O)[C@H](C)C)=O)CCC(N)=O)=O)[C@@H]2C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@H](C(NCC(N[C@@H](CC3=CC=CC=C3)C(O)=O)=O)=O)CSSC2
 Isotonitazepyne	CC(C)OC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]
 Mazdutide	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)NCC(=O)N)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)C(C)(C)NC(=O)[C@H](CC8=CNC=N8)N)O
-Suzetrigine	CC1C(C(OC1(C)C(F)(F)F)C(=O)NC2=CC(=NC=C2)C(=O)N)C3=C(C(=C(C=C3)F)F)OC
+Suzetrigine	COc1c([C@H]2[C@H](C(=O)Nc3ccnc(C(N)=O)c3)O[C@@](C)(C(F)(F)F)[C@H]2C)ccc(F)c1F
 BPI-16350	CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C6N5C(CCC6)C)F
 Obicetrapib	CC[C@@H]1C[C@@H](C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=NC=C(C=N4)OCCCC(=O)O
 Govorestat	C1=CC2=C(C=C1C(F)(F)F)N=C(S2)CN3C(=O)C4=CSC=C4C(=N3)CC(=O)O
@@ -22333,3 +22333,4 @@ Mebfap	CC(CC1=COC2=C1C=C(C=C2)OC)N
 4-PhPr-3,5-DMA	CC(CC1=CC(=C(C(=C1)OC)CCCC2=CC=CC=C2)OC)N
 Lancotrione	CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)OCCC3OCCO3
 Elacomine	CC(C)C[C@H]1[C@@]2(CCN1)C3=C(C=C(C=C3)O)NC2=O
+Portimine A	C[C@H]1C[C@H](C(=O)[C@@H]2[C@H]3C=C(CC[C@@]34CCN=C4[C@H](C[C@]5(O2)CC[C@@H]1O5)O)C=C)O
