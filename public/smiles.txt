@@ -3484,7 +3484,7 @@ Thioflavin	[Cl-].s2c1cc(ccc1[n+](c2c3ccc(N(C)C)cc3)C)C
 Azetidine	N1CCC1
 4-Hydroxybenzoic acid	c1cc(ccc1C(=O)O)O
 Cyclizine	CN(CC1)CCN1C(C2=CC=CC=C2)C3=CC=CC=C3
-2-Butyne	C(#CC)C
+2-Butyne	CC#CC
 Tautomycin	O=C\1OC(=O)/C(=C/1C)[C@H](O)CC(=O)O[C@H](C(C)C)[C@H](OC)[C@H](O)CC(=O)[C@@H](C)[C@@H](O)CC[C@H]([C@@H]3O[C@@]2(O[C@H]([C@H](C)CC2)CC[C@@H](C(=O)C)C)CC[C@@H]3C)C
 Laminarin	O([C@H]1[C@H](O)[C@H](OC(O)[C@@H]1O)CO)C3O[C@@H]([C@@H](O)[C@H](OC2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]3O)CO
 Mepivacaine	O=C(Nc1c(cccc1C)C)C2N(C)CCCC2
@@ -22336,3 +22336,5 @@ Lancotrione	CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)OCCC3OCCO3
 Elacomine	CC(C)C[C@H]1[C@@]2(CCN1)C3=C(C=C(C=C3)O)NC2=O
 Portimine A	C[C@H]1C[C@H](C(=O)[C@@H]2[C@H]3C=C(CC[C@@]34CCN=C4[C@H](C[C@]5(O2)CC[C@@H]1O5)O)C=C)O
 Mirdametinib	O=C(NOCC(O)CO)C1=CC=C(F)C(F)=C1NC2=CC=C(I)C=C2F
+2C-iBu	CC(C)CC1=C(C=C(C(=C1)OC)CCN)OC
+2,5-Dimethoxy-4-isobutylamphetamine	CC(C)CC1=CC(=C(C=C1OC)CC(C)N)OC
