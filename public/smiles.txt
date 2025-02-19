@@ -1382,7 +1382,6 @@ Bendroflumethiazide	FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N
 Cobalt blue	[O-][Al]=O.[O-][Al]=O.[Co+2]
 Canthaxanthin	CC(CC1)(C)C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C(C)(C)CC2)=C(C)C2=O)=C(C)C1=O
 Indanthrone blue	O=C6c5c4Nc3c(c2C(=O)c1ccccc1C(=O)c2cc3)Nc4ccc5C(=O)c7ccccc67
-Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
 2C-T-4	CC(C)Sc1cc(OC)c(cc1OC)CCN
 Sodium fluoroacetate	[Na+].[O-]C(=O)CF
 Adamantane	C1C3CC2CC(CC1C2)C3
@@ -5940,6 +5939,7 @@ Quisqualic acid	O=C1NC(=O)ON1C[C@H](N)C(=O)O
 Methylecgonidine	CN2[C@@H]/1CC[C@@H]2C\C=C\1C(=O)OC
 Ecgonidine	OC(=O)\C2=C\C[C@@H]1CC[C@H]2N1
 Ecgonidine	CN1C2CCC1C(=CC2)C(=O)O
+Massoia lactone	CCCCC[C@@H]1CC=CC(=O)O1
 Massoia lactone	CCCCCC1CC=CC(=O)O1
 Bis-TOM	CSc1cc(C)c(cc1CC(C)N)SC
 BOB (psychedelic)	COc1cc(c(cc1Br)OC)C(CN)OC
