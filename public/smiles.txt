@@ -1382,6 +1382,7 @@ Bendroflumethiazide	FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N
 Cobalt blue	[O-][Al]=O.[O-][Al]=O.[Co+2]
 Canthaxanthin	CC(CC1)(C)C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C(C)(C)CC2)=C(C)C2=O)=C(C)C1=O
 Indanthrone blue	O=C6c5c4Nc3c(c2C(=O)c1ccccc1C(=O)c2cc3)Nc4ccc5C(=O)c7ccccc67
+Methyl orange	[Na+].CN(C)c2ccc(/N=N/c1ccc(cc1)S([O-])(=O)=O)cc2
 2C-T-4	CC(C)Sc1cc(OC)c(cc1OC)CCN
 Sodium fluoroacetate	[Na+].[O-]C(=O)CF
 Adamantane	C1C3CC2CC(CC1C2)C3
@@ -22343,3 +22344,4 @@ Mirdametinib	O=C(NOCC(O)CO)C1=CC=C(F)C(F)=C1NC2=CC=C(I)C=C2F
 2,5-Dimethoxy-4-tert-butylamphetamine	CC(CC1=CC(=C(C=C1OC)C(C)(C)C)OC)N
 2,5-Dimethoxy-4-sec-butylamphetamine	CCC(C)C1=C(C=C(C(=C1)OC)CC(C)N)OC
 2C-T-33	COC1=CC=CC(=C1)CSC2=C(C=C(C(=C2)OC)CCN)OC
+GM-1020	CN[C@]1(CCCCC1=O)C2=CC=C(C=C2)F
