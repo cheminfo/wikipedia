@@ -11623,7 +11623,7 @@ Norvaline	CCC[C@H](C(=O)O)N
 4-Fluoro-5-methoxy-DMT	CN(C)CCC1=CNC2=C1C(=C(C=C2)OC)F
 Gallane	[GaH3]
 GSK 299423	COc1ccc2c(c1)c(c(cn2)C#N)CCN3CCC(CC3)NCc4cc5c(cn4)OCS5
-BNC-210	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
+Soclenicant	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
 Dihydroxymethylidene	O[C]O
 JWH-019	c3cccc2c3cccc2C(=O)c1cn(CCCCCC)c4c1cccc4
 Methylcyclopentane	CC1CCCC1
@@ -19312,7 +19312,7 @@ Infigratinib	CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1
 Nandrolone nonanoate	CCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C
 Guluronic acid	C(=O)[C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O
 Mannuronic acid	[C@@H]1([C@@H]([C@H](OC([C@H]1O)O)C(=O)O)O)O
-DLX-001	CN(C)[C@H](C)Cn1ccc2cc(ccc21)OC
+Zalsupindole	CN(C)[C@H](C)Cn1ccc2cc(ccc21)OC
 R-16661	CCN1CC(OC1=NP(=O)(OC)SC)C
 Tetramethylammonium perchlorate	C[N+](C)(C)C.[O-]Cl(=O)(=O)=O
 Sethoxydim	CCC/C(=N\OCC)/C1=C(CC(CC1=O)CC(C)SCC)O
@@ -19769,7 +19769,7 @@ Glycine methyl ester hydrochloride	COC(=O)CN.Cl
 H4-CBD	Oc1c(c(O)cc(c1)CCCCC)C2\CC(/CCC2\C(C)C)C
 H2-CBD	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(CC[C@H]2C(=C)C)C)O
 Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
-5-Fluoro-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
+Bretisilocin	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)F
 6-Fluoro-DET	CCN(CC)CCC1=CNC2=C1C=CC(=C2)F
@@ -22344,4 +22344,6 @@ Mirdametinib	O=C(NOCC(O)CO)C1=CC=C(F)C(F)=C1NC2=CC=C(I)C=C2F
 2,5-Dimethoxy-4-tert-butylamphetamine	CC(CC1=CC(=C(C=C1OC)C(C)(C)C)OC)N
 2,5-Dimethoxy-4-sec-butylamphetamine	CCC(C)C1=C(C=C(C(=C1)OC)CC(C)N)OC
 2C-T-33	COC1=CC=CC(=C1)CSC2=C(C=C(C(=C2)OC)CCN)OC
-GM-1020	CN[C@]1(CCCCC1=O)C2=CC=C(C=C2)F
+Blixeprodil	CN[C@]1(CCCCC1=O)C2=CC=C(C=C2)F
+Vanadium ditelluride	[V](=[Te])=[Te]
+Rifaquizinone	C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCC(CC5)N(C)C6(CC6)[C@@H]7CCN(C7)C8=C(C9=C(C=C(C(=O)N9C=C8F)C(=O)O)C1CC1)C)/C
