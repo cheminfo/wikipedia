@@ -1292,7 +1292,6 @@ Chromotropic acid	O=S(=O)(O)c1cc(O)c2c(c1)cc(cc2O)S(=O)(=O)O
 Prostratin	O=C1\C(=C/[C@H]2[C@]3(O)[C@@H](/C=C(/CO)C[C@]12O)[C@H]4[C@@](OC(=O)C)(C[C@H]3C)C4(C)C)C
 Titanium diboride	[B].[Ti].[B]
 Propylhexedrine	N(C(CC1CCCCC1)C)C
-Sterol	C1CC2CCC3C4CCC(CC4CCC3C2C1)O
 Dimercaprol	OCC(S)CS
 Phosphorine	C1=CC=PC=C1
 Zopiclone	O=C(OC3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
@@ -4166,6 +4165,7 @@ Sebacoyl chloride	ClC(=O)CCCCCCCC(=O)CCl
 Cytisine	O=C1/C=C\C=C2/N1C[C@@H]3CNC[C@H]2C3
 Parecoxib	O=C(NS(=O)(=O)c3ccc(c2c(onc2c1ccccc1)C)cc3)CC
 Silicon tetrafluoride	F[Si](F)(F)F
+2-Indolinethione	C1C2=CC=CC=C2NC1=S
 Tetrazolium chloride	[Cl-].n1c[nH+]nn1
 Silver acetate	CC(=O)[O-].[Ag+]
 Silver acetate	C[C-]0O[Ag+]O[C-](C)O[Ag]O0
@@ -15614,7 +15614,7 @@ Pisatin	COc1ccc2c(c1)OC[C@]3([C@@H]2Oc4c3cc5c(c4)OCO5)O
 ADX-71149	CCCCN1C=CC(=C(C1=O)Cl)N2CCC(CC2)C3=CC=CC=C3
 Thienorphine	C[C@@](CCc1cccs1)([C@H]2C[C@@]34CCC2([C@H]5[C@@]36CCN([C@@H]4Cc7c6c(c(cc7)O)O5)CC8CC8)OC)O
 Modimelanotide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N3CCC[C@H]3C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](Cc4ccccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](Cc6ccc(cc6)O)NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)C
-Β-Melanocyte-stimulating hormone	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC=N3)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)NC(CO)C(=O)N7CCCC7C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)O)N
+Β-Melanocyte-stimulating hormone	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC3=CNC=N3)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)N[C@@H](CO)C(=O)N7CCC[C@H]7C(=O)N8CCC[C@H]8C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)O)N
 Γ-Melanocyte-stimulating hormone	CC(C)[C@@H](C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)NCC(=O)O)NC(=O)[C@H](CC6=CC=C(C=C6)O)N
 Ketocaine	CCCC(=O)C1=CC=CC=C1OCCN(C(C)C)C(C)C
 Quinestradol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OC5CCCC5
@@ -22347,3 +22347,7 @@ Mirdametinib	O=C(NOCC(O)CO)C1=CC=C(F)C(F)=C1NC2=CC=C(I)C=C2F
 Blixeprodil	CN[C@]1(CCCCC1=O)C2=CC=C(C=C2)F
 Vanadium ditelluride	[V](=[Te])=[Te]
 Rifaquizinone	C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCC(CC5)N(C)C6(CC6)[C@@H]7CCN(C7)C8=C(C9=C(C=C(C(=O)N9C=C8F)C(=O)O)C1CC1)C)/C
+Ammonium hexaiodoplatinate(IV)	[NH4+].[NH4+].I[Pt-2](I)(I)(I)(I)I
+Pravibismane	C1CS[Bi](S1)SCCS[Bi]2SCCS2
+Nilofabicin	CC1=C(C=CC=C1N)CN2C=CC(=CC2=O)OCCC3=CC=CS3
+Voxvoganan	CC(C)(C)C1=CC2=C(C(=C1)C(C)(C)C)NC(=C2C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCCC3=CC=CC=C3)NC(=O)[C@H](CCCN=C(N)N)N)C(C)(C)C
