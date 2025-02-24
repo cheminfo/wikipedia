@@ -22353,6 +22353,15 @@ Nilofabicin	CC1=C(C=CC=C1N)CN2C=CC(=CC2=O)OCCC3=CC=CS3
 Voxvoganan	CC(C)(C)C1=CC2=C(C(=C1)C(C)(C)C)NC(=C2C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCCC3=CC=CC=C3)NC(=O)[C@H](CCCN=C(N)N)N)C(C)(C)C
 Remlifanserin	CN1CCC(CC1)N(CC2=C(C=C(C=C2)F)F)C(=O)NCC3=CC=C(C=C3)OC4CC4
 Cefilavancin	C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)NCCCO/N=C(/C1=C(SC(=N1)N)Cl)\C(=O)N[C@H]1[C@@H]2N(C1=O)C(=C(CS2)C[N+]1=CC=CC=C1)C(=O)[O-])CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
+Ammonium hexabromomercurate(II)	[NH4+].[NH4+].[NH4+].[NH4+].[Br-][Hg+2]([Br-])([Br-])([Br-])([Br-])[Br-]
 ETX0462	CN=C([C@@H]1C2=C(C=NN2C)[C@@H]3CN1C(=O)N3OS(=O)(=O)O)NO
 N-Isopropyltryptamine	CC(C)NCCC1=CNC2=CC=CC=C21
 4-F-5-MeO-pyr-T	COC1=C(C2=C(C=C1)NC=C2CCN3CCCC3)F
+Catequentinib	CC1=CC2=C(N1)C=CC(=C2F)OC3=C4C=C(C(=CC4=NC=C3)OCC5(CC5)N)OC
+Fenpicoxamid	C[C@H]1[C@@H]([C@H](C(=O)OC[C@@H](C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C
+Flumioxazin	C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F
+Naxagolide	CCCN1CCO[C@H]2[C@H]1CCC3=C2C=C(C=C3)O
+Voxergolide	CN1C[C@@H](O[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CSC
+Tisolagiline	C[C@@H](C(=O)N)NCC1=CC=C(C=C1)C2=CC=C(C=C2)C(F)(F)F
+Adarigiline	CC1=C(ON=C1C2=CC=C(S2)C(=O)N3CCC(CC3)O)C(F)(F)F
+Sembragiline	CC(=O)N[C@H]1CC(=O)N(C1)C2=CC=C(C=C2)OCC3=CC(=CC=C3)F
