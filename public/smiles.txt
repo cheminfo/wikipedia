@@ -8126,6 +8126,7 @@ G2ZT	NN1C(N)=[NH+]N=C1N.NN1C(N)=[NH+]N=C1N.N1=NN=N[C-]1N=N[C-]2N=NN=N2
 HBT (explosive)	N(Nc1nn[nH]n1)c1nn[nH]n1
 HBT (explosive)	C1(NNC2=NN=NN2)=NN=NN1
 Butyltolylquinuclidine	C3CC1CCN3C(CCCC)C1c(cc2)ccc2C
+Mercury(II) bromide	Br[Hg]Br
 Mercury(I) bromide	Br[Hg][Hg]Br
 Benzbromarone	Brc1cc(cc(Br)c1O)C(=O)c2c3ccccc3oc2CC
 Monolaurin	OCC(O)COC(=O)CCCCCCCCCCC
@@ -15641,7 +15642,7 @@ Atrop-abyssomicin C	C[C@@H]1C[C@]23OC(=O)C4=C2OC1[C@H](O)C3\C=C\C(=O)[C@@H](C)C[
 Difluorophosphate	[O-]P(=O)(F)F
 Neboglamine	CC1(CCC(CC1)NC(=O)C(CCC(=O)O)N)C
 Basmisanil	CC1=C(C(=NO1)C2=CC=C(C=C2)F)COC3=NC=C(C=C3)C(=O)N4CCS(=O)(=O)CC4
-AVN-101	Cc1ccc2c(c1)c3c(n2CCc4ccccc4)CCN(C3)C
+Maritupirdine	Cc1ccc2c(c1)c3c(n2CCc4ccccc4)CCN(C3)C
 Pralmorelin	C[C@H](C(=O)N[C@H](CC1=CC2=CC=CC=C2C=C1)C(=O)N[C@@H](C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCCN)C(=O)N)N
 Curacin A	C[C@H]1C[C@H]1C2=N[C@@H](CS2)/C=C\CC/C=C/C=C(\C)/CC[C@H](CC=C)OC
 Stenusin	CCC(C)CC1CCCN(C1)CC
@@ -17420,6 +17421,7 @@ Tetrachlorozincate	Cl[Zn-2](Cl)(Cl)Cl
 Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
 RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
+Methyl dimethyldithiocarbamate	CN(C)C(=S)SC
 Dihydrofluoxymesterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@]2([C@H](C[C@]4([C@H]3CC[C@]4(C)O)C)O)F
 9-Methyl-β-carboline	CN1C2=CC=CC=C2C3=C1C=NC=C3
 Oxofluoxymesterone	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2(C(=O)C[C@]4([C@H]3CC[C@]4(C)O)C)F
@@ -22365,3 +22367,6 @@ Voxergolide	CN1C[C@@H](O[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CSC
 Tisolagiline	C[C@@H](C(=O)N)NCC1=CC=C(C=C1)C2=CC=C(C=C2)C(F)(F)F
 Adarigiline	CC1=C(ON=C1C2=CC=C(S2)C(=O)N3CCC(CC3)O)C(F)(F)F
 Sembragiline	CC(=O)N[C@H]1CC(=O)N(C1)C2=CC=C(C=C2)OCC3=CC(=CC=C3)F
+SRX251	CN(CC1=CC(=CC=C1)C(F)(F)F)C(=O)[C@@H](CC(=O)N2CCC(CC2)N3CCCCC3)N4[C@@H]([C@@H](C4=O)N5[C@H](COC5=O)C6=CC=CC=C6)/C=C/C7=CC=CC=C7
+Cendifensine	CCC[C@@]1(CCNC1)C(=O)C2=CC(=C(C=C2)Cl)Cl
+Merigolix	C1CN(CCC12C3=C(CO2)N(C(=O)N(C3=O)C[C@@H](C4=CC=CC=C4)NCCCC(=O)O)CC5=C(C=CC=C5F)C(F)(F)F)CC6=CC=C(O6)C(F)(F)F
