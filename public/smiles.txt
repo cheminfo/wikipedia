@@ -12064,6 +12064,7 @@ Rivastigmine	O=C(Oc1cc(ccc1)[C@@H](N(C)C)C)N(CC)C
 Pentafluoroethane	FC(F)C(F)(F)F
 Propionaldehyde	CCC=O
 Pentylenetetrazol	C1CCc2nnnn2CC1
+Ammonium magnesium sulfate	N.N.OS(=O)(=O)[O-].OS(=O)(=O)[O-].[Mg+2]
 Docosanedioic acid	C(CCCCCCCCCCC(=O)O)CCCCCCCCCC(=O)O
 Stenophyllanin A	C1C(C(OC2=C1C(=CC(=C2C3C4C(OC(=O)C5=CC(=C(C(=C5C6=C(C3=C(C(=C6O)O)O)C(=O)O4)O)O)O)C7C(COC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O7)O)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O)C1=CC(=C(C=C1)O)O)O
 Allixin	O=C1C(/OC)=C(\O/C(=C1/O)CCCCC)C
@@ -18159,6 +18160,7 @@ Bilirubin glucuronide	CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C
 Phototrexate	C1(=NC(=NC2=C1C=C(C=C2)N=NC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)N)N
 Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
 1-Indanone	C1CC(=O)C2=CC=CC=C21
+Methyl phenyldiazoacetate	COC(=O)C(=[N+]=[N-])C1=CC=CC=C1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
 Tropifexor	C1C[C@H]2CC(C[C@@H]1N2C3=NC4=C(C=C(C=C4S3)C(=O)O)F)OCC5=C(ON=C5C6=CC=CC=C6OC(F)(F)F)C7CC7
 Trifluoromethyl cation	[C+](F)(F)F
@@ -21074,6 +21076,7 @@ Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C
 Mavorixafor	C1C[C@@H](C2=C(C1)C=CC=N2)N(CCCCN)CC3=NC4=CC=CC=C4N3
 DA-1241	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
 Olverembatinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CC5=C(NN=C5)N=C4
+Bivamelagon	CC1CCC(CC1)N([C@H]2C[C@H](N(C2)C(=O)[C@@H]3CN(C[C@H]3C4=CC=C(C=C4)Cl)C(C)(C)C)C(=O)N5CCOCC5)C(=O)C(C)C
 Prusogliptin	CC(C)(CC(=O)N1CCCC1)NCC(=O)N2C[C@H](C[C@H]2C#N)F
 Icovamenib	C=CC(=O)N[C@@H]1CCCN(C1)CC2=CC(=NC=C2)C(=O)NC3=CC=C(C=C3)C4=CC5=C(N4)N=CN=C5N6CCOCC6
 1,3-Dithiolane	C1CSCS1
@@ -22370,3 +22373,14 @@ Sembragiline	CC(=O)N[C@H]1CC(=O)N(C1)C2=CC=C(C=C2)OCC3=CC(=CC=C3)F
 SRX251	CN(CC1=CC(=CC=C1)C(F)(F)F)C(=O)[C@@H](CC(=O)N2CCC(CC2)N3CCCCC3)N4[C@@H]([C@@H](C4=O)N5[C@H](COC5=O)C6=CC=CC=C6)/C=C/C7=CC=CC=C7
 Cendifensine	CCC[C@@]1(CCNC1)C(=O)C2=CC(=C(C=C2)Cl)Cl
 Merigolix	C1CN(CCC12C3=C(CO2)N(C(=O)N(C3=O)C[C@@H](C4=CC=CC=C4)NCCCC(=O)O)CC5=C(C=CC=C5F)C(F)(F)F)CC6=CC=C(O6)C(F)(F)F
+ErSO	C1=CC2=C(C(=C1)C(F)(F)F)NC(=O)[C@]2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)OC(F)(F)F
+Anilofos	CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC
+Arsenic triazide	[N-]=[N+]=N[As](N=[N+]=[N-])N=[N+]=[N-]
+Mifomelatide	CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H]2CCCN2C1=O)CC3=CC4=CC=CC=C4C=C3)CCCN=C(N)N)CC5=CNC6=CC=CC=C65)C(=O)N[C@H](C(C)C)C(=O)N7CCC[C@@H]7C(=O)N)NC(=O)C
+Solangepras	CC(=O)N1CCC2=C(C1)N=C(C(=N2)N3CCC(CC3)OC4=C(C=C(C=C4)F)F)N[C@@H]5CCOC5
+Selonabant	CC(C)(C)NC(=O)N1CC(C1)O[C@H](C2=CC=C(C=C2)Cl)C3=CC=CC=C3C(F)(F)F
+Oveporexton	CCS(=O)(=O)N[C@@H]1[C@@H](N(CC1(F)F)C(=O)C(C)(C)O)CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F
+Rosolutamide	COC1=C(C=C(C=C1)/C=C/C(=O)C(C(=O)/C=C/C2=CC(=C(C=C2)OC)OC)CC3CCC3)OC
+Inidascamine	C1CCN(C1)C(=O)[C@@H]([C@H](C2=CC=NC=C2)O)N
+Padsevonil	COCC1=NN2C(=C(N=C2S1)C(F)(F)F)CN3C[C@H](CC3=O)CC(F)(F)Cl
+Plosaracetam	C1[C@@H](CN(C1=O)CN2C(=NC=N2)Cl)C3=CC(=C(C(=C3)F)F)F
