@@ -22382,6 +22382,7 @@ Anilofos	CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC
 Arsenic triazide	[N-]=[N+]=N[As](N=[N+]=[N-])N=[N+]=[N-]
 Mifomelatide	CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H]2CCCN2C1=O)CC3=CC4=CC=CC=C4C=C3)CCCN=C(N)N)CC5=CNC6=CC=CC=C65)C(=O)N[C@H](C(C)C)C(=O)N7CCC[C@@H]7C(=O)N)NC(=O)C
 Solangepras	CC(=O)N1CCC2=C(C1)N=C(C(=N2)N3CCC(CC3)OC4=C(C=C(C=C4)F)F)N[C@@H]5CCOC5
+Tetrapyrazinoporphyrazine	C1=CN=C2C(=N1)C3=NC4=C5N=CC=NC5=C(N4)N=C6C7=NC=CN=C7C(=N6)N=C8C9=NC=CN=C9C(=N8)N=C2N3
 Selonabant	CC(C)(C)NC(=O)N1CC(C1)O[C@H](C2=CC=C(C=C2)Cl)C3=CC=CC=C3C(F)(F)F
 Oveporexton	CCS(=O)(=O)N[C@@H]1[C@@H](N(CC1(F)F)C(=O)C(C)(C)O)CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F
 Rosolutamide	COC1=C(C=C(C=C1)/C=C/C(=O)C(C(=O)/C=C/C2=CC(=C(C=C2)OC)OC)CC3CCC3)OC
@@ -22389,6 +22390,7 @@ Inidascamine	C1CCN(C1)C(=O)[C@@H]([C@H](C2=CC=NC=C2)O)N
 Padsevonil	COCC1=NN2C(=C(N=C2S1)C(F)(F)F)CN3C[C@H](CC3=O)CC(F)(F)Cl
 Plosaracetam	C1[C@@H](CN(C1=O)CN2C(=NC=N2)Cl)C3=CC(=C(C(=C3)F)F)F
 Brexanolone caprilcerbate	CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CC(C)CC(=O)OCOC(=O)O[C]1CC[C@@]2(C)[C@@H](CC[C@H]3[C@@H]4CC[C](C(C)=O)[C@@]4(C)CC[C@H]23)C1
+Deulumateperone	CN1C([2H])([2H])CN2[C@H]3CCN(C[C@H]3C4=C2C1=CC=C4)CCCC(=O)C5=CC=C(C=C5)F
 Ammonium tetrathioarsenate	[NH4+].[NH4+].[NH4+].[S-][As](=S)([S-])[S-]
 Ammonium calcium phosphate	[NH4+].[O-]P(=O)([O-])[O-].[Ca+2]
 Ammonium calcium phosphate	[NH4+].O.O.O.O.O.O.O.[O-]P(=O)([O-])[O-].[Ca+2]
@@ -22401,3 +22403,21 @@ Quinprenaline	CC(C)NCC(C1=C2C=CC=NC2=C(C=C1)O)O
 Metiprenaline	CC(C)NCC(C1=CC(=C(C=C1)O)OC)O
 Levisoprenaline	CC(C)NC[C@@H](C1=CC(=C(C=C1)O)O)O
 Dibutepinephrine	CC(C)C(=O)OC1=C(C=C(C=C1)[C@H](CNC)O)OC(=O)C(C)C
+4-APBT	CC(Cc1cccc2c1ccs2)N
+7-APBT	CC(CC1=CC=CC2=C1SC=C2)N
+2-APBT	CC(CC1=CC2=CC=CC=C2S1)N
+Methylenedioxytrimethylamphetamine	O1COC2C=CC(=CC1=2)CC(C)[N+](C)(C)C
+Methylenedioxytrimethylamphetamine	O1COC2C=CC(=CC1=2)CC(C)[N+](C)(C)C.[I-]
+UM171	CN1N=C(N=N1)C2=CC3=C(C=C2)C4=C(N3)N=C(N=C4NC5CCC(CC5)N)CC6=CC=CC=C6
+Isocyclamine	CC(CC1CCCC1)N
+2-APB (entactogen)	CC(CC1=CC2=CC=CC=C2O1)N
+2-Pyrrolylethylamine	C1=CNC(=C1)CCN
+3-Pyrrolylethylamine	C1=CNC=C1CCN
+4-APB	CC(CC1=C2C=COC2=CC=C1)N
+Ammonium tetrathiotungstate	N.N.[SH-].[SH-].S=[W]=S
+7-APB	CC(CC1=CC=CC2=C1OC=C2)N
+Phenylbutenamine	CC(C=CC1=CC=CC=C1)N
+Phenylbutynamine	CC(C#CC1=CC=CC=C1)N
+2-Tetrahydrofurylethylamine	C1CC(OC1)CCN
+3,4,5-Trimethylphenethylamine	CC1=CC(=CC(=C1C)C)CCN
+ACBI3	C[C@H]1CN(CCCN1C2=NC=CC(=N2)C3=NOC(=N3)[C@]4(CCCC5=C4C(=C(S5)N)C#N)C)CCCCOC6=CN(N=N6)[C@@H](C(C)C)C(=O)N7C[C@@H](C[C@H]7C(=O)N[C@@H](CO)C8=CC=C(C=C8)C9=C(N=CS9)C)O
