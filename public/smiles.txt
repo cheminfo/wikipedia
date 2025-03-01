@@ -11246,7 +11246,7 @@ Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
 Nomegestrol acetate	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4C1=CC(=O)CC4
 Hydroxyquinol	Oc1cc(O)c(O)cc1
-Candocuronium iodide	[I-].[I-].C\53=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CCC[N+]2(C)C)C)[C@@]3(C)CC[C@H]([N+]4(C)CCCC4)C/5
+Candocuronium iodide	[I-].[I-].C53=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CCC[N+]2(C)C)C)[C@@]3(C)CC[C@H]([N+]4(C)CCCC4)C/5
 SKF-77,434	c3ccccc3C2CN(CC=C)CCc(cc1O)c2cc1O
 Almoxatone	Clc1cccc(c1)COc3ccc(N2C(=O)O[C@H](CNC)C2)cc3
 Amixetrine	O(CCC(C)C)C(c1ccccc1)CN2CCCC2
@@ -21457,7 +21457,7 @@ Neptunium tetrabromide	[Np+4].[Br-].[Br-].[Br-].[Br-]
 Protactinium tetrafluoride	[Pa+4].[F-].[F-].[F-].[F-]
 Protactinium tetraiodide	[Pa+4].[I-].[I-].[I-].[I-]
 Parsaclisib	CCOC1=C(C(=C(C=C1[C@H](C)N2C3=NC=NC(=C3C(=N2)C)N)Cl)F)[C@H]4CC(=O)NC4
-Lithium bis(oxalate)borate	[Li+].[B-]12(OC(=O)C(=O)O1)OC(=O)C(=O)O2
+Lithium bis(oxalato)borate	[Li+].[B-]12(OC(=O)C(=O)O1)OC(=O)C(=O)O2
 Californium tetrafluoride	[Cf+4].[F-].[F-].[F-].[F-]
 Thorium triiodide	[Th+3].[I-].[I-].[I-]
 THC-VHS	CC1(C)Oc2cc(cc(OC(=O)[C@H](NC(=O)CCC(=O)O)C(C)C)c2[C@@H]2C=C(C)CC[C@H]21)CCCCC
@@ -22421,3 +22421,17 @@ Phenylbutynamine	CC(C#CC1=CC=CC=C1)N
 2-Tetrahydrofurylethylamine	C1CC(OC1)CCN
 3,4,5-Trimethylphenethylamine	CC1=CC(=CC(=C1C)C)CCN
 ACBI3	C[C@H]1CN(CCCN1C2=NC=CC(=N2)C3=NOC(=N3)[C@]4(CCCC5=C4C(=C(S5)N)C#N)C)CCCCOC6=CN(N=N6)[C@@H](C(C)C)C(=O)N7C[C@@H](C[C@H]7C(=O)N[C@@H](CO)C8=CC=C(C=C8)C9=C(N=CS9)C)O
+Salcaprozate sodium	C1=CC=C(C(=C1)C(=O)NCCCCCCCC(=O)[O-])O.[Na+]
+13-Fluorolysergol	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC(=CC2=C34)F)CO
+AZD-3783	CN1CCN(CC1)C2=CC(=CC3=C2O[C@H](CC3)C(=O)NC4=CC=C(C=C4)N5CCOCC5)OC
+SB-224289	CC1=C(C=CC(=C1)C2=NOC(=N2)C)C3=CC=C(C=C3)C(=O)N4CCC5=CC6=C(C=C54)C7(CCN(CC7)C)CO6
+4-PhPr-2,5-DMA	CC(CC1=C(C=C(C(=C1)OC)CCCC2=CC=CC=C2)OC)N
+2C-T-27	COC1=CC(=C(C=C1CCN)OC)SCC2=CC=CC=C2
+Ammonium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[NH4+]
+XOB	COC1=CC(=C(C=C1CCNCCCCCCOCCCCC2=CC=CC=C2)OC)Br
+2,5-Dimethoxy-4-benzylamphetamine	CC(CC1=C(C=C(C(=C1)OC)CC2=CC=CC=C2)OC)N
+2,5-Dimethoxy-4-acetylamphetamine	CC(CC1=CC(=C(C=C1OC)C(=O)C)OC)N
+3-Hydroxy-N,N-dimethylphenethylamine	CN(C)CCC1=CC(=CC=C1)O
+GSK-588045	CC1=NC2=C(C=C1)C(=CC=C2)N3CCN(CC3)CCC4=C5C(=CC=C4)N6C=NC(=C6CO5)C(=O)N
+ICI-170809	CC(C)(CSC1=NC2=CC=CC=C2C=C1C3=CC=CC=C3)N(C)C
+SB-245570	CC1=C(C=CC(=C1)N2CCCC2=O)C3=CC=C(C=C3)C(=O)N4CCC5=CC6=C(C=C54)C7(CCN(CC7)C)CO6
