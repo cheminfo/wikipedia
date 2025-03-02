@@ -5228,7 +5228,7 @@ Hypofluorous acid	OF
 N-Acetylmannosamine	O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1NC(C)=O
 Iohexol	O=C(N(c1c(I)c(c(I)c(c1I)C(=O)NCC(O)CO)C(=O)NCC(O)CO)CC(O)CO)C
 Rutinose	O(C[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O)[C@@H]2O[C@H]([C@H](O)[C@@H](O)[C@H]2O)C
-Benzopyran	C1=Cc2ccccc2OC1
+4H-1-Benzopyran	C1C=COC2=CC=CC=C21
 3-Nitroaniline	O=[N+]([O-])c1cccc(N)c1
 2,2′-Bipyridine	n1ccccc1-c2ccccn2
 HMG-CoA	O=C(O)C[C@@](O)(C)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n2cnc1c(ncnc12)N)[C@H](O)[C@@H]3OP(=O)(O)O
@@ -22435,3 +22435,8 @@ XOB	COC1=CC(=C(C=C1CCNCCCCCCOCCCCC2=CC=CC=C2)OC)Br
 GSK-588045	CC1=NC2=C(C=C1)C(=CC=C2)N3CCN(CC3)CCC4=C5C(=CC=C4)N6C=NC(=C6CO5)C(=O)N
 ICI-170809	CC(C)(CSC1=NC2=CC=CC=C2C=C1C3=CC=CC=C3)N(C)C
 SB-245570	CC1=C(C=CC(=C1)N2CCCC2=O)C3=CC=C(C=C3)C(=O)N4CCC5=CC6=C(C=C54)C7(CCN(CC7)C)CO6
+Xylachlor	CC1=C(C(=CC=C1)N(C(C)C)C(=O)CCl)C
+Fluchloralin	CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+2H-1-Benzopyran	C1=Cc2ccccc2OC1
+5-MeO-NET	CCNCCc1c[nH]c2c1cc(OC)cc2
+5-MeO-NiPT	COc1ccc2c(c1)c(CCNC(C)C)c[nH]2
