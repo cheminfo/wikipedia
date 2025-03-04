@@ -6638,7 +6638,7 @@ Styramate	C1=CC=CC=C1C(COC(=O)N)O
 Pipecuronium bromide	[Br-].[Br-].O=C(O[C@H]6[C@@H](N1CC[N+](C)(C)CC1)C[C@@H]5[C@]6(C)CC[C@H]3[C@H]5CC[C@H]4C[C@H](OC(=O)C)[C@@H](N2CC[N+](CC2)(C)C)C[C@]34C)C
 Hexafluronium bromide	[Br-].[Br-].c1cccc3c1c2c(cccc2)C3[N+](CCCCCC[N+](C6c4ccccc4c5ccccc56)(C)C)(C)C
 Fazadinium bromide	Cc1c(n(c2[n+]1cccc2)N=Nn3c4cccc[n+]4c(c3c5ccccc5)C)c6ccccc6.[Br-].[Br-]
-Dimethyltubocurarinium chloride	C[N+]1(CCc2cc(c3cc2[C@@H]1Cc4ccc(cc4)Oc5c6c(cc(c5OC)OC)CC[N+]([C@@H]6Cc7ccc(c(c7)O3)OC)(C)C)OC)C.[Cl-].[Cl-]
+Dimethyltubocurarine chloride	C[N+]1(CCc2cc(c3cc2[C@@H]1Cc4ccc(cc4)Oc5c6c(cc(c5OC)OC)CC[N+]([C@@H]6Cc7ccc(c(c7)O3)OC)(C)C)OC)C.[Cl-].[Cl-]
 Nalorphine	O[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(O)ccc3C4)C\C=C
 Sodium nitride	[Na]N([Na])[Na]
 Sodium nitride	[Na+].[Na+].[Na+].[N-3]
@@ -22443,3 +22443,6 @@ Fluchloralin	CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
 2H-1-Benzopyran	C1=Cc2ccccc2OC1
 5-MeO-NET	CCNCCc1c[nH]c2c1cc(OC)cc2
 5-MeO-NiPT	COc1ccc2c(c1)c(CCNC(C)C)c[nH]2
+PF-3758309	CC1=NC2=C(C(=N1)NC3=NNC4=C3CN(C4(C)C)C(=O)N[C@H](CN(C)C)C5=CC=CC=C5)SC=C2
+Methalpropalin	CCCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+BCL3ANT	C1=CC(=C(C=C1C2=CSC(=N2)NC=C(C(=O)N)C(=O)N)Cl)Cl
