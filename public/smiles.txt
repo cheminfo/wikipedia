@@ -13718,7 +13718,7 @@ Boron phosphate	B12OP(=O)(O1)O2
 EPN (insecticide)	CCOP(=S)(c1ccccc1)Oc2ccc(cc2)[N+]([O-])=O
 Tripalmitin	O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCC
 Diboron tetrachloride	ClB(Cl)B(Cl)Cl
-Ammonium diethyl dithiophosphate	[S-]P(=S)(OCC)OCC.[NH4+]
+Ammonium diethyldithiophosphate	[S-]P(=S)(OCC)OCC.[NH4+]
 3-Deoxy-D-arabino-heptulosonic acid 7-phosphate	C([C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O)C(=O)C(=O)O
 Roche ester	C[C@H](CO)C(=O)OC
 Roche ester	C[C@@H](CO)C(=O)OC
@@ -21412,7 +21412,6 @@ Fentanyl tropane	CCC(=O)N(C1C[C@H]2CC[C@@H](C1)N2CCC3=CC=CC=C3)C4=CC=CC=C4
 Thorium heptaphosphide	[Th+4].[P-].[P-].[P-].[P-].[P].[P].[P]
 Praseodymium pentaphosphide	[Pr+2].[P-].[P-].[P].[P].[P]
 Thorium diselenide	[Se].[Se].[Th]
-Gold phosphide	[P-3].[Au+3]
 2,3,7,8-Tetrachlorodibenzofuran	ClC1=C(Cl)C=C2C(OC3=CC(Cl)=C(Cl)C=C23)=C1
 Praseodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Pr+3]
 Neodymium(III) iodate	[O-]I(=O)=O.[O-]I(=O)=O.[O-]I(=O)=O.[Nd+3]
@@ -22446,3 +22445,6 @@ Fluchloralin	CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
 PF-3758309	CC1=NC2=C(C(=N1)NC3=NNC4=C3CN(C4(C)C)C(=O)N[C@H](CN(C)C)C5=CC=CC=C5)SC=C2
 Methalpropalin	CCCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
 BCL3ANT	C1=CC(=C(C=C1C2=CSC(=N2)NC=C(C(=O)N)C(=O)N)Cl)Cl
+Elimusertib	C[C@@H]1COCCN1C2=NC3=C(C=CN=C3C4=CC=NN4)C(=C2)C5=CC=NN5C
+Bay 1436032	C[C@H]1C[C@H](CC(C1)(C)C)N2C3=C(C=C(C=C3)CCC(=O)O)N=C2NC4=CC=C(C=C4)OC(F)(F)F
+PRT543	C1=CC(=CC=C1[C@H]([C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC4=C(N=CN=C43)N)O)O)O)Cl
