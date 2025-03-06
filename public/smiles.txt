@@ -20174,6 +20174,7 @@ Manganese(III) chloride	Cl[Mn](Cl)Cl
 Solorinic acid	CCCCCC(=O)C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC)O
 GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
 Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CCO)=CC2C)C
+Monostrontium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Sr+2]
 Hexamethoxymethylmelamine	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC
 Darinaparsin	C[As](C)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N
 Cobalt oleate	CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Co+2]
@@ -22448,3 +22449,7 @@ BCL3ANT	C1=CC(=C(C=C1C2=CSC(=N2)NC=C(C(=O)N)C(=O)N)Cl)Cl
 Elimusertib	C[C@@H]1COCCN1C2=NC3=C(C=CN=C3C4=CC=NN4)C(=C2)C5=CC=NN5C
 Bay 1436032	C[C@H]1C[C@H](CC(C1)(C)C)N2C3=C(C=C(C=C3)CCC(=O)O)N=C2NC4=CC=C(C=C4)OC(F)(F)F
 PRT543	C1=CC(=CC=C1[C@H]([C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC4=C(N=CN=C43)N)O)O)O)Cl
+Ammonium tartrate	C(C(C(=O)O)O)(C(=O)O)O.N.N
+Nitrofor	CCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+Ammonium succinate	C(CC(=O)O)C(=O)O.N.N
+Olomorasib	C=CC(=O)N1CCN2[C@H](C1)CCOC3=C(C(=C(C=C3C2=O)F)C4=C5C(=C(SC5=C(C=C4)F)N)C#N)Cl
