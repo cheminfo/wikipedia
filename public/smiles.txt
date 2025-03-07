@@ -3048,7 +3048,7 @@ Isothiazole	n1sccc1
 Cubebene	C[C@@H]1CC[C@H]([C@H]2C13[C@@H]2C(=CC3)C)C(C)C
 Cubebene	C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C
 Ethinylestradiol/norethisterone acetate	CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C#C.CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
-Levmetamfetamine	N([C@@H](Cc1ccccc1)C)C
+Levomethamphetamine	N([C@@H](Cc1ccccc1)C)C
 1,2-Naphthoquinone	O=C1c2ccccc2\C=C/C1=O
 Itaconic acid	O=C(O)C(=C)CC(=O)O
 Chromium(III) fluoride	[Cr+3].[F-].[F-].[F-]
@@ -11246,7 +11246,7 @@ Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
 Nomegestrol acetate	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4C1=CC(=O)CC4
 Hydroxyquinol	Oc1cc(O)c(O)cc1
-Candocuronium iodide	[I-].[I-].C53=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CCC[N+]2(C)C)C)[C@@]3(C)CC[C@H]([N+]4(C)CCCC4)C/5
+Candocuronium iodide	[I-].[I-].C\53=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CCC[N+]2(C)C)C)[C@@]3(C)CC[C@H]([N+]4(C)CCCC4)C/5
 SKF-77,434	c3ccccc3C2CN(CC=C)CCc(cc1O)c2cc1O
 Almoxatone	Clc1cccc(c1)COc3ccc(N2C(=O)O[C@H](CNC)C2)cc3
 Amixetrine	O(CCC(C)C)C(c1ccccc1)CN2CCCC2
@@ -17371,6 +17371,7 @@ Bismuth subcitrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)
 N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
 Dichlone	C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
+Cyaphide	[C-]#P
 Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
 Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
 Erythrophleine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCNC)[C@]3(CCC[C@]([C@@H]3C[C@@H]2O)(C)C(=O)OC)C
@@ -22453,3 +22454,8 @@ Ammonium tartrate	C(C(C(=O)O)O)(C(=O)O)O.N.N
 Nitrofor	CCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
 Ammonium succinate	C(CC(=O)O)C(=O)O.N.N
 Olomorasib	C=CC(=O)N1CCN2[C@H](C1)CCOC3=C(C(=C(C=C3C2=O)F)C4=C5C(=C(SC5=C(C=C4)F)N)C#N)Cl
+Vanadyl acetate	CC(=O)O.CC(=O)O.O=[V]
+Divarasib	C[C@H]1CN(CCN1C2=NC(=NC3=C(C(=C(C=C32)Cl)C4=C(C(=CC(=N4)N)C)C(F)(F)F)F)OC[C@@H]5CCCN5C)C(=O)C=C
+Ammonium oleate	CCCCCCCCC=CCCCCCCCC(=O)O.N
+Flamprop	CC(C(=O)O)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2
+LMT-28	CCCCCC(=C)[C@H]([C@H](C)C(=O)N1[C@H](COC1=O)C(C)C)O
