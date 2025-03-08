@@ -12929,7 +12929,7 @@ Carnidazole	[O-][N+](=O)c1cnc(n1CCNC(=S)OC)C
 Ipronidazole	[O-][N+](=O)c1cnc(n1C)C(C)C
 2,6-Diisopropylnaphthalene	CC(C)C1=CC2=C(C=C1)C=C(C=C2)C(C)C
 AZD1305	O=C(OC(C)(C)C)NCCN1CC2OC(C1)CN(C2)CCOc3ccc(C#N)cc3F
-Perchloromethyl mercaptan	ClC(Cl)(Cl)SCl
+Trichloromethane sulfenyl chloride	ClC(Cl)(Cl)SCl
 Phenamidine	O(c1ccc(C(=[N@H])N)cc1)c2ccc(cc2)C(=[N@H])N
 Maduramicin	O=C(O)C[C@@]1(O)O[C@H]([C@H](OC)[C@@H](OC)[C@@H]1C)[C@H](C)[C@H]7O[C@]6(O[C@](C)([C@@H]5O[C@](C)([C@@H]4O[C@@H]([C@H]2O[C@@](O)(C)[C@H](C)C[C@@H]2C)C[C@@H]4O[C@H]3O[C@@H](C)[C@H](OC)[C@@H](OC)C3)CC5)CC6)C[C@H](O)[C@H]7C
 Mavacoxib	C1=CC(=CC=C1C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F)F
@@ -22459,3 +22459,4 @@ Divarasib	C[C@H]1CN(CCN1C2=NC(=NC3=C(C(=C(C=C32)Cl)C4=C(C(=CC(=N4)N)C)C(F)(F)F)F
 Ammonium oleate	CCCCCCCCC=CCCCCCCCC(=O)O.N
 Flamprop	CC(C(=O)O)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2
 LMT-28	CCCCCC(=C)[C@H]([C@H](C)C(=O)N1[C@H](COC1=O)C(C)C)O
+Chlorocarbonylsulfenyl chloride	C(=O)(SCl)Cl
