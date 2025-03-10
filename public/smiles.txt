@@ -20067,6 +20067,7 @@ Gentianine	C=CC1=CN=CC2=C1CCOC2=O
 XAP044	C1=CC(=CC=C1OC2=COC3=C(C2=O)C=CC(=C3)O)I
 LSP2-9166	C1=CC(=C(C=C1C(O)P(=O)(CC[C@@H](C(=O)O)N)O)OC(F)(F)F)OCC(=O)O
 Neodymium(III) acetylacetonate	CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Nd+3]
+Neodymium molybdate	[Nd+3].[Nd+3].[O-][Mo](=O)(=O)[O-].[O-][Mo](=O)(=O)[O-].[O-][Mo](=O)(=O)[O-]
 Ardisiaquinone	COC1=CC(=O)C(=C(C1=O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)O
 Ardisiaquinone	CC1=C(C(=O)C(=C(C1=O)O)CCCCCCC/C=C\CCCCCCCC2=C(C(=O)C=C(C2=O)OC)O)OC
@@ -22463,6 +22464,8 @@ LMT-28	CCCCCC(=C)[C@H]([C@H](C)C(=O)N1[C@H](COC1=O)C(C)C)O
 Chlorocarbonylsulfenyl chloride	C(=O)(SCl)Cl
 SP4206	CC(C)C[C@H](C(=O)NCC(=O)N1CCC(CC1)C2=CC(=NN2C)C3=C(C(=C(C=C3)OCC4=CC=C(O4)C(=O)O)Cl)Cl)N=C(N)N
 Procysteine	C1[C@H](NC(=O)S1)C(=O)O
-BRINP2-related peptide	[H]N[C@]([C@@H](C)O)([H])C(N[C@H](C(N[C@@H](CCCNC(N)=N)C(N[C@]([C@H](CC)C)([H])C(N[C@@H](CC(C)C)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CCCNC(N)=N)C(N[C@@H](CC(C)C)C(N[C@H](C(N[C@@H](CC(N)=O)C(N[C@@H](CC(C)C)C(N[C@H](C(N)=O)CS)=O)=O)=O)CC1=CC=CC=C1)=O)=O)=O)=O)=O)=O)=O)CC2=CN=CN2)=O
+BRINP2-related peptide	CC[C@H](C)[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)[C@@H](C)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CS)C(N)=O
 IL-4-inhibitor-1	C1=CC(=CC=C1C2=NC(=C(C(=C2)C3=CC(=C(C=C3)O)O)C#N)N)F
 R-7050	C1=CC=C(C=C1)SC2=NC3=C(C=C(C=C3)Cl)N4C2=NN=C4C(F)(F)F
+1,2,4-Dithiazolidine-3,5-dione	C1(=O)NC(=O)SS1
+6-Fluorotryptamine	C1=CC2=C(C=C1F)NC=C2CCN
