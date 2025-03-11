@@ -22469,3 +22469,7 @@ IL-4-inhibitor-1	C1=CC(=CC=C1C2=NC(=C(C(=C2)C3=CC(=C(C=C3)O)O)C#N)N)F
 R-7050	C1=CC=C(C=C1)SC2=NC3=C(C=C(C=C3)Cl)N4C2=NN=C4C(F)(F)F
 1,2,4-Dithiazolidine-3,5-dione	C1(=O)NC(=O)SS1
 6-Fluorotryptamine	C1=CC2=C(C=C1F)NC=C2CCN
+2C-Bu	CCCCC1=CC(=C(C=C1OC)CCN)OC
+2C-tBu	CC(C)(C)C1=C(C=C(C(=C1)OC)CCN)OC
+Ammonium neodymium nitrate	[NH4+].[NH4+].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Nd+3]
+Biscaline	NCCc1cc(OC)c(c(c1)OC)c1ccccc1
