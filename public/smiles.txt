@@ -22484,3 +22484,17 @@ Eltanexor	C1=C(C=C(C=C1C(F)(F)F)C(F)(F)F)C2=NN(C=N2)/C=C(\C3=CN=CN=C3)/C(=O)N
 Eprenetapopt	COCC1(C(=O)C2CCN1CC2)CO
 Diammonium tetrachloroplatinate	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].Cl[Pt--](Cl)(Cl)Cl
 Metoprine	CC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl
+Benpyrine	C1[C@@H](CN(C1=O)CC2=CC=CC=C2)NC3=NC=NC4=C3NC=N4
+Propylcathinone	CCCNC(C)C(=O)C1=CC=CC=C1
+Α-Methylmethcathinone	CC(C)(C(=O)C1=CC=CC=C1)NC
+Β-Keto-N-methylphenethylamine	CNCC(=O)C1=CC=CC=C1
+Ammonium tetrachloropalladate(II)	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].Cl[Pd--](Cl)(Cl)Cl
+1-Methyltryptamine	CN1C=C(C2=CC=CC=C21)CCN
+Zabedosertib	O=S(=O)(C)CCn1nc2cc(c(NC(=O)c3cc(ccc3)C(F)(F)F)cc2c1)C(O)(C)C
+3-Chloro-N-cyclopropylcathinone	CC(C(=O)C1=CC(=CC=C1)Cl)NC2CC2
+Potassium tetrachloropalladate(II)	[K+].[K+].Cl[Pd--](Cl)(Cl)Cl
+BK-5F-NM-AMT	CC(C(=O)C1=CNC2=C1C=C(C=C2)F)NC
+BK-5Br-NM-AMT	CC(C(=O)C1=CNC2=C1C=C(C=C2)Br)NC
+BK-5Cl-NM-AMT	CC(C(=O)C1=CNC2=C1C=C(C=C2)Cl)NC
+3-Trifluoromethyl-4-chlorophenylpiperazine	C1CN(CCN1)C2=CC(=C(C=C2)Cl)C(F)(F)F
+Para-Nitrophenylpiperazine	C1CN(CCN1)C2=CC=C(C=C2)[N+](=O)[O-]
