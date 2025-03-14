@@ -11325,7 +11325,7 @@ Spirodecanedione	O=C1CCC(=O)C12CCCCC2
 Glutarimide	C1CC(=O)NC(=O)C1
 2,3-Dichlorophenylpiperazine	Clc1c(Cl)c(ccc1)N2CCNCC2
 Batoprazine	O=C/2Oc1c(cccc1\C=C\2)N3CCNCC3
-Naphthylpiperazine	c2cc(c1ccccc1c2)N3CCNCC3
+1-(1-Naphthyl)piperazine	c2cc(c1ccccc1c2)N3CCNCC3
 Filaminast	CC(=NOC(=O)N)C1=CC(=C(C=C1)OC)OC2CCCC2
 Bismuth tribromide	Br[Bi](Br)Br
 Hederagenin	O=C(O)[C@]35[C@H](C\2=C\C[C@@H]1[C@@]4([C@@H](CC[C@]1([C@]/2(C)CC3)C)[C@](C)(CO)[C@@H](O)CC4)C)CC(C)(C)CC5
@@ -22433,6 +22433,7 @@ SB-224289	CC1=C(C=CC(=C1)C2=NOC(=N2)C)C3=CC=C(C=C3)C(=O)N4CCC5=CC6=C(C=C54)C7(CC
 Ammonium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[NH4+]
 Ammonium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[NH4+].O.O.O.O
 Ammonium pentaborate	B(=O)OB1OB2OB(OB(O2)O1)[O-].[NH4+].O.O.O.O.O.O.O.O
+3,3-Diphenyl-3H-naphthopyran	C1=CC=C(C=C1)C2(C=CC3=C(O2)C=CC4=CC=CC=C43)C5=CC=CC=C5
 XOB	COC1=CC(=C(C=C1CCNCCCCCCOCCCCC2=CC=CC=C2)OC)Br
 2,5-Dimethoxy-4-benzylamphetamine	CC(CC1=C(C=C(C(=C1)OC)CC2=CC=CC=C2)OC)N
 2,5-Dimethoxy-4-acetylamphetamine	CC(CC1=CC(=C(C=C1OC)C(=O)C)OC)N
@@ -22478,12 +22479,13 @@ Biscaline	NCCc1cc(OC)c(c(c1)OC)c1ccccc1
 Barium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ba+2].[Ba+2].[Ba+2]
 2C-Ph	NCCc1cc(OC)c(cc1OC)c1ccccc1
 Balinatunfib	CN1[C@@H]2C[C@H](C3=C(C1=O)C=CC=C3OC(F)F)N4C2=NC5=C4C=C(C=C5)C6=CN=C(N=C6)C7(CCC7)N
-Azepinoindole	C1=CC=NC2=CC=C3C=CN=C3C2=C1
+Azepinoindole	C1CNCCC2=C1N=C3CC=CC=C23
 Propylone	CCCNC(C)C(=O)C1=CC2=C(C=C1)OCO2
 Eltanexor	C1=C(C=C(C=C1C(F)(F)F)C(F)(F)F)C2=NN(C=N2)/C=C(\C3=CN=CN=C3)/C(=O)N
 Eprenetapopt	COCC1(C(=O)C2CCN1CC2)CO
 Diammonium tetrachloroplatinate	[H][N+]([H])([H])[H].[H][N+]([H])([H])[H].Cl[Pt--](Cl)(Cl)Cl
 Metoprine	CC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl
+3,4-Dichloro-1,2,5-thiadiazole	C1(=NSN=C1Cl)Cl
 Benpyrine	C1[C@@H](CN(C1=O)CC2=CC=CC=C2)NC3=NC=NC4=C3NC=N4
 Propylcathinone	CCCNC(C)C(=O)C1=CC=CC=C1
 Α-Methylmethcathinone	CC(C)(C(=O)C1=CC=CC=C1)NC
@@ -22498,3 +22500,12 @@ BK-5Br-NM-AMT	CC(C(=O)C1=CNC2=C1C=C(C=C2)Br)NC
 BK-5Cl-NM-AMT	CC(C(=O)C1=CNC2=C1C=C(C=C2)Cl)NC
 3-Trifluoromethyl-4-chlorophenylpiperazine	C1CN(CCN1)C2=CC(=C(C=C2)Cl)C(F)(F)F
 Para-Nitrophenylpiperazine	C1CN(CCN1)C2=CC=C(C=C2)[N+](=O)[O-]
+NP3-146	CC(C)C1=CC(=CC(=C1NC(=O)NS(=O)(=O)C2=CC(=CO2)C(C)(C)O)C(C)C)Cl
+2,3-Dimethylphenylpiperazine	CC1=C(C(=CC=C1)N2CCNCC2)C
+YKL-05-099	CC1=C(C(=CC=C1)Cl)N2CC3=CN=C(N=C3N(C2=O)C4=NC=C(C=C4)OC)NC5=C(C=C(C=C5)C6CCN(CC6)C)OC
+PEPITEM	O=C(N[C@@H](CCC(=O)N)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CO)C(C)C)[C@H](O)C)CCC(=O)O
+1-(2-Naphthyl)piperazine	C1CN(CCN1)C2=CC3=CC=CC=C3C=C2
+Lysergic acid cyclobutylamide	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NC5CCC5
+CYP-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C5CC5
+Propisergide	C[C@@H](CO)NC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
+Para-Methylphenylpiperazine	CC1=CC=C(C=C1)N2CCNCC2
