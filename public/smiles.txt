@@ -8800,6 +8800,7 @@ DMDM hydantoin	O=C1N(C(=O)C(N1CO)(C)C)CO
 Diethyl tartrate	O=C(OCC)[C@@H](O)[C@H](O)C(=O)OCC
 Germanium monoxide	[Ge]=O
 Iridium hexafluoride	F[Ir](F)(F)(F)(F)F
+Zinc ammonium chloride	[NH4+].[NH4+].Cl[Zn-2](Cl)(Cl)Cl
 Bergapten	COC1=C2C=CC(=O)OC2=CC3=C1C=CO3
 Lepidine	Cc1ccnc2ccccc12
 Propagermanium	C(C[Ge](=O)O[Ge](=O)CCC(=O)O)C(=O)O
@@ -22508,4 +22509,15 @@ PEPITEM	O=C(N[C@@H](CCC(=O)N)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[
 Lysergic acid cyclobutylamide	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NC5CCC5
 CYP-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C5CC5
 Propisergide	C[C@@H](CO)NC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
+Bornylene	C1=CC2(C)CCC1C2(C)C
 Para-Methylphenylpiperazine	CC1=CC=C(C=C1)N2CCNCC2
+Soquelitinib	C[C@@H]1CN(CCCN1C(=O)C=C)C(=O)C2=C(C=C(C(=C2)SC3=CN=C(S3)NC(=O)C4CC4)C)OC
+2C-BI-8	NCCc1cc(OC)c(cc1OC)c1ccc(cc1)OC
+YQ128	CCCOC1=C(C=C(C=C1)Cl)CN(CCC2=CC=C(C=C2)S(=O)(=O)NCC#C)C(=O)CC3=CSC=C3
+Α-Ethyl-N-methylphenethylamine	CCC(CC1=CC=CC=C1)NC
+5-Fluorotryptamine	C1=CC2=C(C=C1F)C(=CN2)CCN
+Β,N,N-Trimethylphenethylamine	CC(CN(C)C)C1=CC=CC=C1
+3,4-Dihydroxymethcathinone	CC(C(=O)C1=CC(=C(C=C1)O)O)NC
+4-Hydroxy-3-methoxymethcathinone	CC(C(=O)C1=CC(=C(C=C1)O)OC)NC
+7-Chlorotryptamine	C1=CC2=C(C(=C1)Cl)NC=C2CCN
+Primisulfuron	C1=CC=C(C(=C1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
