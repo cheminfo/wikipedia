@@ -16312,6 +16312,9 @@ Hexestrol diacetate	CCC(C1=CC=C(C=C1)OC(=O)C)C(CC)C2=CC=C(C=C2)OC(=O)C
 Hexestrol dipropionate	CCC(C1=CC=C(C=C1)OC(=O)CC)C(CC)C2=CC=C(C=C2)OC(=O)CC
 Hexestrol diphosphate	CCC(C1=CC=C(C=C1)OP(=O)(O)O)C(CC)C2=CC=C(C=C2)OP(=O)(O)O
 Quingestrone	CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(=C4)OC5CCCC5)C)C
+Nickel succinate	C(CC(=O)[O-])C(=O)[O-].[Ni+2]
+Nickel succinate	C(CC(=O)[O-])C(=O)[O-].O.O.O.O.[Ni+2]
+Nickel succinate	C(CC(=O)[O-])C(=O)[O-].C(CC(=O)[O-])C(=O)[O-].C(CC(=O)[O-])C(=O)[O-].C(CC(=O)[O-])C(=O)[O-].O.O.O.O.O.O.O.O.O.O.[O-H].[O-H].[O-H].[O-H].[O-H].[O-H].[Ni+2].[Ni+2].[Ni+2].[Ni+2].[Ni+2].[Ni+2].[Ni+2]
 Ethyl cyanoacetate	CCOC(=O)CC#N
 CM156	c1ccc2c(c1)n(c(=S)s2)CCCCN3CCN(CC3)C4CCCCC4
 4-Hydroxy-1-methyl-4-(4-methylphenyl)-3-piperidyl 4-methylphenyl ketone	O=C(c1ccc(cc1)C)[C@H]3[C@](O)(c2ccc(cc2)C)CCN(C)C3
@@ -21664,6 +21667,7 @@ TH-030418	C(O)(C)CCC7=CC=CS7
 TH-030418	OC1=C(O[C@H]2C(OC)(CC6)C(C(O)(C)CCC7=CC=CS7)CC36[C@@]42CCN5C)C4=C(C[C@H]35)C=C1
 Methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate	CCOCCOC(=O)C(=C1CCCC(=C1)NCCCOC)C#N
 Holmium monosulfide	[Ho].[S]
+Peroxynonanoic acid	CCCCCCCCC(=O)OO
 Dysprosium monosulfide	[Dy].[S]
 1,2,3,4-Butanetetracarboxylic acid	C(C(C(CC(=O)O)C(=O)O)C(=O)O)C(=O)O
 Desmethylselegiline	CC(CC1=CC=CC=C1)NCC#C
@@ -22524,3 +22528,9 @@ YQ128	CCCOC1=C(C=C(C=C1)Cl)CN(CCC2=CC=C(C=C2)S(=O)(=O)NCC#C)C(=O)CC3=CSC=C3
 7-Chlorotryptamine	C1=CC2=C(C(=C1)Cl)NC=C2CCN
 Primisulfuron	C1=CC=C(C(=C1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
 2-Methylpentanal	CCCC(C)C=O
+Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
+3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
+Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
+Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
+Ammonium tetrachloroaurate	[NH4+].O.Cl[Au-](Cl)(Cl)Cl
+2-Methyltryptamine	CC1=C(C2=CC=CC=C2N1)CCN
