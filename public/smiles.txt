@@ -1907,7 +1907,6 @@ Citronellal	O=CCC(CC/C=C(/C)C)C
 Citral	O=CC=C(C)CCC=C(C)C
 Citral	O=C/C=C(/CC/C=C(/C)C)C
 Ionone	O=C(\C=C\C1\C(=C)CCCC1(C)C)C
-Lead(IV) hydroxide	[OH-].[OH-].[OH-].[OH-].[Pb+4]
 Para red	O=N(=O)c1ccc(cc1)/N=N/c2c3ccccc3ccc2O
 Diphenoxylate	N#CC(c1ccccc1)(c2ccccc2)CCN4CCC(c3ccccc3)(C(=O)OCC)CC4
 Lactisole	[Na+].[O-]C(=O)C(Oc1ccc(OC)cc1)C
@@ -22533,4 +22532,6 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
 Ammonium tetrachloroaurate	[NH4+].O.Cl[Au-](Cl)(Cl)Cl
+2-Aminobenzothiazole	C1=CC=C2C(=C1)N=C(S2)N
 2-Methyltryptamine	CC1=C(C2=CC=CC=C2N1)CCN
+Benzscaline	COC1=CC(=CC(=C1OCC2=CC=CC=C2)OC)CCN
