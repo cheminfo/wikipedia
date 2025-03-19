@@ -6242,6 +6242,7 @@ Manganese(II) phthalocyanine	C1=CC=C2C(=C1)C1=NC4=[N+]3C(=NC5=C6C=CC=CC6=C(N5[Mn
 Propynyl (psychedelic)	COc1cc(cc(OC)c1OCC#C)CCN
 3-Methoxy-4-ethoxyphenethylamine	O(c1ccc(cc1OC)CCN)CC
 MMDA-2	O1c2cc(c(OC)cc2OC1)CC(N)C
+MMDA-3a	CC(CC1=C(C2=C(C=C1)OCO2)OC)N
 Methyl-MMDA-2	CC(Cc1cc2c(cc1OC)OCO2)NC
 Metaproscaline	COc1c(cc(cc1OCCC)CCN)OC
 Cefoxitin	O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)Cc3sccc3)COC(=O)N)C(=O)O
@@ -16939,6 +16940,7 @@ Niobium diselenide	[Se]=[Nb]=[Se]
 Silmitasertib	C1=CC(=CC(=C1)Cl)NC2=C3C=CN=CC3=C4C=CC(=CC4=N2)C(=O)O
 Hafnium disulfide	S=[Hf]=S
 GML-1	CN(CC1=CC=CC=C1)C(=O)C2=CN3C=CC=C3C(=N2)C4=CC=CC=C4
+Nickel hydrazine nitrate	[Ni+2]([NH2]N)([NH2]N)[NH2]N.N(=O)(=O)[O-].N(=O)(=O)[O-]
 Manganese(II) hydroxide	[OH-].[OH-].[Mn+2]
 Erastin	O=C1N(C2=CC=CC=C2OCC)C(C(C)N3CCN(C(COC4=CC=C(Cl)C=C4)=O)CC3)=NC5=CC=CC=C51
 PD-137889	c12c(cccc1)C3(NC)CCCCC3C2
@@ -19438,11 +19440,12 @@ Tetraphenylarsonium chloride	C1=CC=C(C=C1)[As+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=C
 Conopharyngine	CCC1CC2CC3(C1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC)C(=O)OC
 Manganese oxalate	C(=O)(C(=O)[O-])[O-].[Mn+2]
 Tin(II) oxalate	C(=O)(C(=O)O)O.[Sn]
-Neptunium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Np]
+Neptunium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Np+4]
 Plutonium selenide	[Pu].[Se]
 Samarium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Sm+3].[Sm+3]
 Samarium(III) iodide	I[Sm](I)I
 Neptunium arsenide	[Np].[As]
+Neptunium diarsenide	[As-2][As-2].[Np+4]
 Samarium(III) nitrate	[Sm+3].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[H]O[H].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Ralmitaront	CCC1=C(C(=NN1)C(=O)NC2=CC=C(C=C2)[C@H]3CNCCO3)C
 Indospicine	C(CCC(=N)N)C[C@@H](C(=O)O)N
@@ -21300,6 +21303,7 @@ Crinine	C1CN2CC3=CC4=C(C=C3[C@]15[C@H]2C[C@H](C=C5)O)OCO4
 KRM-II-81	C#CC1=CC2=C(C=C1)N3C=NC(=C3CN=C2C4=CC=CC=N4)C5=CN=CO5
 6-Methylapigenin	CC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)O)O
 Ormetoprim	CC1=CC(=C(C=C1CC2=CN=C(N=C2N)N)OC)OC
+Neptunium nitride	[Np+3].[N-3]
 Americium nitride	[Am]#N
 FEM-1689	FC(F)(F)c1ccc(cc1)c1cc2c(cc1)C1CC2N(CC1)CCCO
 KNT-127	CN1CC[C@]23CC4=NC5=CC=CC=C5C=C4C[C@]2([C@H]1CC6=C3C=C(C=C6)O)O
@@ -22137,6 +22141,7 @@ Delpazolid	CN1CCN(C=N1)C2=C(C=C(C=C2)N3C[C@@H](OC3=O)CO)F
 Benapenem	C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)NCC4=CC=C(C=C4)S(=O)(=O)N)C(=O)O)[C@@H](C)O
 Carfentrazone	CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F
 1,10-Decanediol	OCCCCCCCCCCO
+3,5-Dimethoxyamphetamine	CC(CC1=CC(=CC(=C1)OC)OC)N
 3,4-Dimethoxyamphetamine	CC(CC1=CC(=C(C=C1)OC)OC)N
 2,4-Dimethoxyamphetamine	CC(CC1=C(C=C(C=C1)OC)OC)N
 AZD-1134	CCC(=O)N1CCN(CC1)C2=CC=C(C=C2)NC(=O)C3=CC(=O)C4=C(O3)C(=CC(=C4)F)N5CCN(CC5)C
@@ -22534,4 +22539,12 @@ Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
 Ammonium tetrachloroaurate	[NH4+].O.Cl[Au-](Cl)(Cl)Cl
 2-Aminobenzothiazole	C1=CC=C2C(=C1)N=C(S2)N
 2-Methyltryptamine	CC1=C(C2=CC=CC=C2N1)CCN
+Pentacarbonyl(tetrahydrofuran)tungsten	O1CCCC1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[W]
 Benzscaline	COC1=CC(=CC(=C1OCC2=CC=CC=C2)OC)CCN
+5-Allyloxy-AMT	C=CCOc1ccc2c(c1)c(c[nH]2)CC(N)C
+Ammonium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[NH4+]
+CT-5252	COC(=O)C1=CCC(CC2CNc3ccc(Br)cc23)N(C)C1
+10,11-Secoergoline	C1CCNC(C1)CC2=CNC3=CC=CC=C32
+Pip-Tryptamine	C1CCN(CC1)CCC2=CNC3=CC=CC=C32
+RU-27849	C1C(CC2=CNC3=CC=CC1=C23)N
+N-DEAOP-NMT	CCN(CC)C(=O)CCN(C)CCc1c[nH]c2ccccc12
