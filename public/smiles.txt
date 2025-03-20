@@ -3717,6 +3717,7 @@ Silver cyanide	[C-]#N.[Ag+]
 Liothyronine	C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O
 Lymecycline	C[C@@]1([C@H]2C[C@H]3[C@@H](C(=C(C(=O)[C@]3(C(=C2C(=O)C4=C1C=CC=C4O)O)O)C(=O)NCNCCCC[C@@H](C(=O)O)N)O)N(C)C)O
 Carveol	CC(=C)C1CC=C(C)C(O)C1
+Nickel(III) oxide	[O-2].[O-2].[O-2].[Ni+3].[Ni+3]
 Nimetazepam	[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3)=O)=O
 Adinazolam	Clc3cc2\C(=N/Cc1nnc(n1c2cc3)CN(C)C)c4ccccc4
 Halazepam	FC(F)(CN1C(CN=C(C2=CC=CC=C2)C3=C1C=CC(Cl)=C3)=O)F
@@ -4004,6 +4005,7 @@ Carvonic acid	CC1=CC[C@@H](CC1=O)C(=C)C(=O)O
 Etomidate	O=C(OCC)c1cncn1C(c2ccccc2)C
 Carglumic acid	C(CC(=O)O)[C@@H](C(=O)O)NC(=O)N
 Nickel(II) iodide	[Ni](I)I
+Nickel(II) iodide	I[Ni]I.O.O.O.O.O.O
 Silver carbonate	[Ag]OC(=O)O[Ag]
 Hexacene	c1c2cc3cc4cc5cc6ccccc6cc5cc4cc3cc2ccc1
 4-Methylthioamphetamine	NC(C)CC(C=C1)=CC=C1SC
@@ -4736,6 +4738,7 @@ Kassinin	CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](C(C)C)NC(=O)[C
 Carboprost	O=C(O)CCC/C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@](O)(C)CCCCC
 Enprostil	COC(=O)CCC=C=CC[C@@H]1[C@H]([C@@H](CC1=O)O)/C=C/[C@H](COc2ccccc2)O
 Gold(I) chloride	[Au]Cl
+Niobium nitride	N#[Nb]
 Salicin	OCc1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
 DNQX	O=c2[nH]c1cc(N(=O)=O)c(N(=O)=O)cc1[nH]c2=O
 2-Deoxy-D-glucose	O[C@H](C(CO)O[C@H](O)C1)[C@H]1O
@@ -7668,7 +7671,7 @@ Diglycolic acid	C(C(=O)O)OCC(=O)O
 4-Aminoquinoline	n1ccc(c2ccccc12)N
 Sulfadoxine	COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N
 Brilliant green (dye)	[O-]S(=O)(=O)O.[N+](=C/1\C=C/C(C=C\1)=C(/c2ccccc2)c3ccc(N(CC)CC)cc3)(\CC)CC
-Wurster's blue	CN(C)c1ccc(cc1)N(C)C
+1,4-Bis(dimethylamino)benzene	CN(C)c1ccc(cc1)N(C)C
 8-Oxoguanine	c12=NC(=O)N=c1[nH]c(nc2=O)N
 8-Oxoguanine	O=C2NC=1N\C(=N/C(=O)C=1N2)N
 Corazonin	CC(C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CO)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)N)NC(=O)C5CCC(=O)N5)O
@@ -12226,7 +12229,6 @@ L-368,899	CC1(C)[C@@]2(CS(N3CCN(C4=CC=CC=C4C)CC3)(=O)=O)CC[C@@H]1C[C@@H]2NC([C@H
 Biotin sulfoxide	C1[C@H]2[C@@H]([C@@H](S1=O)CCCCC(=O)O)NC(=O)N2
 Nickel(II) acetate	[Ni+2].[O-]C(=O)C.[O-]C(=O)C
 Nickel(II) acetate	O=C(C)O[Ni]OC(C)=O
-Nickel(II) acetate	O=C(C)O[Ni-4](OC(C)=O)([O+H2])([O+H2])([O+H2])[O+H2]
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
 4,4'-Methylenedianiline	c1cc(N)ccc1Cc2ccc(N)cc2
 Intravenous sodium bicarbonate	C(=O)(O)[O-].[Na+]
@@ -22548,3 +22550,7 @@ CT-5252	COC(=O)C1=CCC(CC2CNc3ccc(Br)cc23)N(C)C1
 Pip-Tryptamine	C1CCN(CC1)CCC2=CNC3=CC=CC=C32
 RU-27849	C1C(CC2=CNC3=CC=CC1=C23)N
 N-DEAOP-NMT	CCN(CC)C(=O)CCN(C)CCc1c[nH]c2ccccc12
+Ammonium butyrate	C(C(O)=O)CC.N
+Roccellic acid	CCCCCCCCCCCC[C@H]([C@H](C)C(=O)O)C(=O)O
+4-Fluoro-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)F
+12-Hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=C3C(=C(C=C4)O)C2=C1)C
