@@ -7671,7 +7671,7 @@ Diglycolic acid	C(C(=O)O)OCC(=O)O
 4-Aminoquinoline	n1ccc(c2ccccc12)N
 Sulfadoxine	COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N
 Brilliant green (dye)	[O-]S(=O)(=O)O.[N+](=C/1\C=C/C(C=C\1)=C(/c2ccccc2)c3ccc(N(CC)CC)cc3)(\CC)CC
-1,4-Bis(dimethylamino)benzene	CN(C)c1ccc(cc1)N(C)C
+Tetramethylphenylenediamine	CN(C)c1ccc(cc1)N(C)C
 8-Oxoguanine	c12=NC(=O)N=c1[nH]c(nc2=O)N
 8-Oxoguanine	O=C2NC=1N\C(=N/C(=O)C=1N2)N
 Corazonin	CC(C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CO)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)N)NC(=O)C5CCC(=O)N5)O
@@ -22529,6 +22529,7 @@ YQ128	CCCOC1=C(C=C(C=C1)Cl)CN(CCC2=CC=C(C=C2)S(=O)(=O)NCC#C)C(=O)CC3=CSC=C3
 Α-Ethyl-N-methylphenethylamine	CCC(CC1=CC=CC=C1)NC
 5-Fluorotryptamine	C1=CC2=C(C=C1F)C(=CN2)CCN
 Β,N,N-Trimethylphenethylamine	CC(CN(C)C)C1=CC=CC=C1
+Radiocaine	CCN(CC[18F])CC(=O)NC1=C(C=CC=C1C)C
 3,4-Dihydroxymethcathinone	CC(C(=O)C1=CC(=C(C=C1)O)O)NC
 4-Hydroxy-3-methoxymethcathinone	CC(C(=O)C1=CC(=C(C=C1)O)OC)NC
 7-Chlorotryptamine	C1=CC2=C(C(=C1)Cl)NC=C2CCN
@@ -22554,3 +22555,9 @@ Ammonium butyrate	C(C(O)=O)CC.N
 Roccellic acid	CCCCCCCCCCCC[C@H]([C@H](C)C(=O)O)C(=O)O
 4-Fluoro-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)F
 12-Hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=C3C(=C(C=C4)O)C2=C1)C
+Diammonium malonate	C(C(=O)[O-])C(=O)[O-].[NH4+].[NH4+]
+Ammonium mandelate	C(C(O)=O)(O)C1=CC=CC=C1.N
+LGK974	CC1=CC(=CN=C1C2=CC(=NC=C2)C)CC(=O)NC3=NC=C(C=C3)C4=NC=CN=C4
+Bay 11-7082	CC1=CC=C(C=C1)S(=O)(=O)/C=C/C#N
+Firategrast	CCOCC1=CC(=C(C(=C1)OC)C2=CC=C(C=C2)C[C@@H](C(=O)O)NC(=O)C3=C(C=CC=C3F)F)OC
+DEIMDHPCA	CCN(CC)C(=O)[C@H]1CN(CC(=C1)C2=C3C=CNC3=CC=C2)C
