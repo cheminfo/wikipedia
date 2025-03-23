@@ -9251,7 +9251,7 @@ JWH-359	C[C@H](CC)C(C)(C)c1cc2OC(C)(C)[C@@H]3CC=C(C)C[C@H]3c2c(OC)c1
 Allylmagnesium bromide	[Br-].[Mg+]CC=C
 BRL-50481	Cc1ccc(N(=O)=O)cc1S(=O)(=O)N(C)C
 Varacin	NCCc2cc(OC)c(OC)c1SSSSSc12
-Dimethyl-4-phenylenediamine	CN(C)C1=CC=C(C=C1)N
+N,N-Dimethylphenylenediamine	CN(C)C1=CC=C(C=C1)N
 Baicalein	O=C\1c3c(O)c(O)c(O)cc3O/C(=C/1)c2ccccc2
 Methyl dihydrojasmonate	O=C(OC)CC1C(C(=O)CC1)CCCCC
 Vadimezan	CC1=C(OC(C(CC(O)=O)=CC=C3)=C3C2=O)C2=CC=C1C
@@ -22248,7 +22248,7 @@ Lenacil	C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
 Nephroarctin	O=CC=1C(O)=C(C=O)C(=C(C(=O)OC=2C(=C(OC)C=C(C2C)C)C)C1O)C
 2-Phenylmorpholine	C1COC(CN1)C2=CC=CC=C2
 Glycerol triglycidyl ether	C1C(O1)COCC(COCC2CO2)OCC3CO3
-Α,N,N,O-TMS	CC(CC1=CNC2=C1C=C(C=C2)OC)N(C)C
+Α,N,N,O-TeMS	CC(CC1=CNC2=C1C=C(C=C2)OC)N(C)C
 4-Mercaptobenzoic acid	C1=CC(=CC=C1C(=O)O)S
 Cryptostictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)CO)OC
 Fragilin	CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)OC)Cl)O
@@ -22560,6 +22560,7 @@ Ammonium mandelate	C(C(O)=O)(O)C1=CC=CC=C1.N
 LGK974	CC1=CC(=CN=C1C2=CC(=NC=C2)C)CC(=O)NC3=NC=C(C=C3)C4=NC=CN=C4
 Bay 11-7082	CC1=CC=C(C=C1)S(=O)(=O)/C=C/C#N
 Firategrast	CCOCC1=CC(=C(C(=C1)OC)C2=CC=C(C=C2)C[C@@H](C(=O)O)NC(=O)C3=C(C=CC=C3F)F)OC
+KW-6356	O=C(C1=CN=C(C)C=C1)NC2=NC(C3=CC=CO3)=C(C(C4CCOCC4)=O)S2
 DEIMDHPCA	CCN(CC)C(=O)[C@H]1CN(CC(=C1)C2=C3C=CNC3=CC=C2)C
 Ammonium palmitate	CCCCCCCCCCCCCCCC(=O)O.N
 Ammonium myristate	CCCCCCCCCCCCCC(=O)[O-].[NH4+]
@@ -22569,3 +22570,8 @@ Ammonium valerate	CCCCC(=O)O.N
 Ammonium linoleate	CCCCCC=CCC=CCCCCCCCC(=O)[O-].[NH4+]
 RS130-180	C(OC)1=C(N(C)C)C=C(OC)C(CCN([H])CC2=C(OCC#C)C=CC=C2)=C1
 Batoprotafib	C[C@H]1[C@H](C2(CCN(CC2)C3=CN=C(C(=N3)N)SC4=C(C(=NC=C4)N)Cl)CO1)N
+LY-178210	CCCN(CCC)C1CC2=CNC3=C2C(=C(C=C3)C(=O)N)C1
+Ammonium heptadecanoate	CCCCCCCCCCCCCCCCC(=O)O.N
+Octatriacontylic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+Nonatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+Tetracontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
