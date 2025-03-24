@@ -1142,7 +1142,6 @@ Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
 Bismuth subsalicylate	O[Bi]1OC(=O)C2CCCCC2O1
 Adapalene	COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5
 Cinnamic acid	O=C(O)\C=C\c1ccccc1
-Rifamycin	CC1C=CC=C(C(=O)NC2=CC(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
 Rifampicin	CN1CCN(CC1)/N=C/c2c(O)c3c5C(=O)[C@@]4(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc2c(O)c3c(O)c(C)c5O4
 Cyclobenzaprine	c3cc\2c(\C=C/c1c(cccc1)C/2=C/CCN(C)C)cc3
 Lithium nitrate	[Li+].[N+](=O)([O-])[O-]
@@ -3258,7 +3257,7 @@ Phosphotungstic acid	[W]18%21%24(O[W]%16%18%23(O[W]56(O1)(O[W]247(O[W]9%22(O[W]%
 Dicalcium phosphate	O.O.OP(=O)([O-])[O-].[Ca+2]
 Isoproscaline	CC(C)Oc1c(cc(cc1OC)CCN)OC
 Roxatidine acetate	O=C(C)OCC(=O)NCCCOc1cccc(c1)CN2CCCCC2
-2,5-Dimethoxy-4-nitroamphetamine	[O-][N+](=O)c1cc(OC)c(cc1OC)CC(N)C
+2,5-Dimethoxy-4-nitroamphetamine	COc1cc(c(cc1CC(C)N)OC)N(=O)=O
 Nomifensine	CN1Cc2c(N)cccc2C(c2ccccc2)C1
 N-Acetylglutamic acid	CC(=O)NC(CCC(=O)O)C(=O)O
 Neutral red	Cl.n1c3c(nc2c1cc(c(c2)N)C)cc(N(C)C)cc3
@@ -5963,14 +5962,14 @@ BOM (psychedelic)	COc1c(cc(cc1OC)C(CN)OC)OC
 Acylfulvene	O=C1C/3=C/C(=CC\3=C(/C2([C@]1(O)C)CC2)C)C
 Acylfulvene	CC1=CC2=C(C3(CC3)C(C(=O)C2=C1)(C)O)C
 Beta-D	COc1c(cc(cc1OC)C([2H])([2H])CN)OC
-2,5-Dimethoxy-4-butylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCCC)C
+2,5-Dimethoxy-4-butylamphetamine	C1(=CC(=C(C=C1CC(C)N)OC)CCCC)OC
 Cycloheptane	C1CCCCCC1
 Dimethyl malonate	COC(=O)CC(=O)OC
 3-Nitrobenzoic acid	O=[N+]([O-])c1cc(C(=O)O)ccc1
 2,5-Dimethoxy-4-(2-fluoroethyl)amphetamine	COc1cc(CC(C)N)c(cc1CCF)OC
 2,5-Dimethoxy-4-propylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCC)C
 3,4-Dimethoxyphenethylamine	O(c1ccc(cc1OC)CCN)C
-2,5-Dimethoxy-4-amylamphetamine	COc1cc(CCCCC)c(cc1CC(C)N)OC
+2,5-Dimethoxy-4-amylamphetamine	CCCCCC1=CC(OC)=C(CC(C)N)C=C1OC
 2,5-Dimethoxy-4-methylphenylcyclopropylamine	O(c1c(cc(OC)c(c1)C2CC2N)C)C
 Clostebol	O=C4C(\Cl)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 DME (psychedelic)	O(c1ccc(cc1OC)C(O)CN)C
@@ -22353,6 +22352,7 @@ Cridanimod	C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3N2CC(=O)O
 LK00764	ClC1C=CC(C2C=CC(C3=NN=C(CCN([H])[H])N3[H])=CC=2)=CC=1
 Mebfap	CC(CC1=COC2=C1C=C(C=C2)OC)N
 5′-(N-Ethylcarboxamido)adenosine	CCNC(=O)[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O
+Molybdenum imido alkylidene complexes	CC(C)C1=C(C(=CC=C1)C(C)C)N=[Mo]=CC(C)(C)C2=CC=CC=C2.CC(C(F)(F)F)(C(F)(F)F)O.CC(C(F)(F)F)(C(F)(F)F)O
 4,5-Dihydroxytryptamine	C1=CC(=C(C2=C1NC=C2CCN)O)O
 4-Hydroxy-5-methoxytryptamine	COC1=C(C2=C(C=C1)NC=C2CCN)O
 6,7-Dihydroxytryptamine	C1=CC(=C(C2=C1C(=CN2)CCN)O)O
@@ -22560,7 +22560,7 @@ Ammonium mandelate	C(C(O)=O)(O)C1=CC=CC=C1.N
 LGK974	CC1=CC(=CN=C1C2=CC(=NC=C2)C)CC(=O)NC3=NC=C(C=C3)C4=NC=CN=C4
 Bay 11-7082	CC1=CC=C(C=C1)S(=O)(=O)/C=C/C#N
 Firategrast	CCOCC1=CC(=C(C(=C1)OC)C2=CC=C(C=C2)C[C@@H](C(=O)O)NC(=O)C3=C(C=CC=C3F)F)OC
-KW-6356	O=C(C1=CN=C(C)C=C1)NC2=NC(C3=CC=CO3)=C(C(C4CCOCC4)=O)S2
+Sipagladenant	CC1=NC=C(C=C1)C(=O)NC2=NC(=C(S2)C(=O)C3CCOCC3)C4=CC=CO4
 DEIMDHPCA	CCN(CC)C(=O)[C@H]1CN(CC(=C1)C2=C3C=CNC3=CC=C2)C
 Ammonium palmitate	CCCCCCCCCCCCCCCC(=O)O.N
 Ammonium myristate	CCCCCCCCCCCCCC(=O)[O-].[NH4+]
@@ -22572,6 +22572,7 @@ RS130-180	C(OC)1=C(N(C)C)C=C(OC)C(CCN([H])CC2=C(OCC#C)C=CC=C2)=C1
 Batoprotafib	C[C@H]1[C@H](C2(CCN(CC2)C3=CN=C(C(=N3)N)SC4=C(C(=NC=C4)N)Cl)CO1)N
 LY-178210	CCCN(CCC)C1CC2=CNC3=C2C(=C(C=C3)C(=O)N)C1
 Ammonium heptadecanoate	CCCCCCCCCCCCCCCCC(=O)O.N
-Octatriacontylic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+Octatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Nonatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Tetracontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+Lysergic acid dipropylamide	CCCN(CCC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
