@@ -1142,6 +1142,7 @@ Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
 Bismuth subsalicylate	O[Bi]1OC(=O)C2CCCCC2O1
 Adapalene	COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5
 Cinnamic acid	O=C(O)\C=C\c1ccccc1
+Rifamycin	CC1C=CC=C(C(=O)NC2=CC(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
 Rifampicin	CN1CCN(CC1)/N=C/c2c(O)c3c5C(=O)[C@@]4(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc2c(O)c3c(O)c(C)c5O4
 Cyclobenzaprine	c3cc\2c(\C=C/c1c(cccc1)C/2=C/CCN(C)C)cc3
 Lithium nitrate	[Li+].[N+](=O)([O-])[O-]
@@ -5725,7 +5726,7 @@ Dichlorosilane	Cl[SiH2]Cl
 Ioxilan	O=C(N(c1c(I)c(c(I)c(c1I)C(=O)NCCO)C(=O)NCC(O)CO)CC(O)CO)C
 Titanium isopropoxide	CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C
 Acid fuchsin	CC1=CC(=CC(=C1N)S(=O)(=O)[O-])/C(=C\2/C=CC(=[NH2+])C(=C2)S(=O)(=O)[O-])/C3=CC(=C(C=C3)N)S(=O)(=O)[O-].[Na+].[Na+]
-Aleph (psychedelic)	O(c1cc(c(OC)cc1SC)CC(N)C)C
+Aleph (psychedelic)	C1(=C(C=C(C(=C1)SC)OC)CC(C)N)OC
 Normetanephrine	Oc1ccc(cc1OC)C(O)CN
 Cicletanine	Clc1ccc(cc1)C3OCc2c3cnc(c2O)C
 Valspodar	C/C=C/C[C@@H](C)C(=O)[C@H]1C(=O)N[C@H](C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C)C(C)C
@@ -5966,7 +5967,7 @@ Beta-D	COc1c(cc(cc1OC)C([2H])([2H])CN)OC
 Cycloheptane	C1CCCCCC1
 Dimethyl malonate	COC(=O)CC(=O)OC
 3-Nitrobenzoic acid	O=[N+]([O-])c1cc(C(=O)O)ccc1
-2,5-Dimethoxy-4-(2-fluoroethyl)amphetamine	COc1cc(CC(C)N)c(cc1CCF)OC
+2,5-Dimethoxy-4-(2-fluoroethyl)amphetamine	C1(=CC(=C(C=C1CC(C)N)OC)CCF)OC
 2,5-Dimethoxy-4-propylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCC)C
 3,4-Dimethoxyphenethylamine	O(c1ccc(cc1OC)CCN)C
 2,5-Dimethoxy-4-amylamphetamine	CCCCCC1=CC(OC)=C(CC(C)N)C=C1OC
@@ -22576,3 +22577,6 @@ Octatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Nonatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Tetracontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Lysergic acid dipropylamide	CCCN(CCC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+3-Pyrrolylpropylamine	CC(CC1=CNC=C1)N
+1-Propyl-5-MeO-AMT	CCCN1C=C(C2=C1C=CC(=C2)OC)CC(C)N
+Ethylpropyllysergamide	CCCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC
