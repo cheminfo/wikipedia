@@ -22484,6 +22484,7 @@ R-7050	C1=CC=C(C=C1)SC2=NC3=C(C=C(C=C3)Cl)N4C2=NN=C4C(F)(F)F
 6-Fluorotryptamine	C1=CC2=C(C=C1F)NC=C2CCN
 2C-Bu	CCCCC1=CC(=C(C=C1OC)CCN)OC
 2C-tBu	CC(C)(C)C1=C(C=C(C(=C1)OC)CCN)OC
+Allylpotassium	[K+].[CH2-]C=C
 Ammonium neodymium nitrate	[NH4+].[NH4+].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Nd+3]
 Ammonium neodymium nitrate	[NH4+].[NH4+].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Nd+3].O.O.O.O
 Ziftomenib	CC1=C(C=CC2=C1C=C(N2C[C@H](C)N3CCN(CC3)S(=O)(=O)C)C#N)CN4CCC(CC4)NC5=C6C=C(SC6=NC(=N5)NC)CC(F)(F)F
@@ -22521,6 +22522,7 @@ PEPITEM	O=C(N[C@@H](CCC(=O)N)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[
 Lysergic acid cyclobutylamide	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NC5CCC5
 CYP-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C5CC5
 Propisergide	C[C@@H](CO)NC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
+Resibufogenin	C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@]35[C@H](O5)C[C@@H]4C6=COC(=O)C=C6)C)O
 Prothiofos	CCCSP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl
 Bornylene	C1=CC2(C)CCC1C2(C)C
 Para-Methylphenylpiperazine	CC1=CC=C(C=C1)N2CCNCC2
@@ -22577,6 +22579,11 @@ Octatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Nonatriacontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Tetracontanoic acid	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
 Lysergic acid dipropylamide	CCCN(CCC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+Sodium tetracarbonylcobaltate	[Co-](C#O)(C#O)(C#O)C#O.[Na+]
 3-Pyrrolylpropylamine	CC(CC1=CNC=C1)N
 1-Propyl-5-MeO-AMT	CCCN1C=C(C2=C1C=CC(=C2)OC)CC(C)N
 Ethylpropyllysergamide	CCCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC
+Mitochondrial fusion promoter M1	C/C(=N/NC1=C(C=C(C=C1Cl)Cl)Cl)/C2=C(C=CC(=C2)Cl)O
+Iron(I) phosphide	P12[Fe]3[Fe]1[Fe]23
+S-Methyl methanethiosulfonate	CSS(=O)(=O)C
+Ammonium nicotinate	C1=CC(=CN=C1)C(=O)[O-].[NH4+]
