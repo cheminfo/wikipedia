@@ -1373,7 +1373,7 @@ Tegaserod	CCCCCNC(=N)NN=Cc1c[nH]c2ccc(OC)cc12
 Rimonabant	O=C(NN1CCCCC1)c4nn(c2ccc(Cl)cc2Cl)c(c3ccc(Cl)cc3)c4C
 Sodium azide	[N-]=[N+]=[N-].[Na+]
 3C-E	CCOc1c(cc(cc1OC)CC(C)N)OC
-Escaline	O(c1c(OC)cc(cc1OC)CCN)CC
+Escaline	NCCC1=CC(OC)=C(OCC)C(OC)=C1
 Copper(II) oxide	[Cu]=O
 Copper(II) oxide	[Cu+2].[O-2]
 Potassium dichromate	[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
@@ -9801,6 +9801,7 @@ Manganese(II) acetate	CC([O-])=O.CC([O-])=O.[Mn+2]
 Neopentyl glycol	CC(C)(CO)CO
 Trimethylstibine	C[Sb](C)C
 Propyl benzoate	O=C(OCCC)c1ccccc1
+Niobium(IV) chloride	Cl[Nb](Cl)(Cl)Cl
 4-Benzylpiperidine	C1CNCCC1CC2=CC=CC=C2
 Benocyclidine	C1(SC(C2(CCCCC2)N3CCCCC3)=C4)=C4C=CC=C1
 2-Aminoindane	C1C(CC2=CC=CC=C21)N
