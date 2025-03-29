@@ -1341,6 +1341,8 @@ Norbaeocystin	NCCc1c[nH]c2cccc(OP(=O)(O)O)c12
 Melittin	CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(C(C)CC)C(=O)NC(CO)C(=O)NC(Cc2c[nH]c3c2cccc3)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)N)NC(=O)CN
 2,5-Dimethoxy-4-iodoamphetamine	IC(C=C1OC)=C(OC)C=C1CC(C)N
 Bromo-DragonFLY	CC(N)Cc1c2ccoc2c(Br)c2ccoc12
+Bromo-DragonFLY	C[C@H](CC1=C2C=COC2=C(C3=C1OC=C3)Br)N
+Bromo-DragonFLY	C[C@@H](CC1=C2C=COC2=C(C3=C1OC=C3)Br)N
 VM (nerve agent)	O=P(OCC)(SCCN(CC)CC)C
 VG (nerve agent)	O=P(OCC)(OCC)SCCN(CC)CC
 VE (nerve agent)	O=P(OCC)(SCCN(CC)CC)CC
@@ -10841,6 +10843,7 @@ Dihydroimidazol-2-ylidene	[C]1NCCN1
 Zometapine	Clc3cccc(C/2=N/CC/N=C1/N(N\C(=C1\2)C)C)c3
 6-Nitroquipazine	[O-][N+](=O)c3cc1c(nc(cc1)N2CCNCC2)cc3
 Ditophal	CCSC(=O)C1=CC(=CC=C1)C(=O)SCC
+Octacalcium phosphate	O.O.O.O.O.OP(=O)([O-])[O-].OP(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Ubenimex	CC(C)C[C@@H](C(=O)O)NC(=O)[C@H]([C@@H](CC1=CC=CC=C1)N)O
 Integrasone	O=C1O[C@H](CCCCCC)C2=C1[C@@H](O)[C@@H]3[C@@H](O3)[C@@H]2O
 Diphenylhexatriene	C1=CC=C(C=C1)/C=C/C=C/C=C/C2=CC=CC=C2
@@ -11762,6 +11765,7 @@ Gold(I) sulfide	[S-2].[Au+].[Au+]
 Cyclotetradecaheptaene	C1C=CC=CC=CC=CC=CC=CC=1
 Dipotassium cyclooctatetraenide	[K+].c1=c[cH-]c=c[cH-]c=c1.[K+]
 Ilomastat	CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
+Isoergine	CN1C[C@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N
 CP-93129	C3CNCC=C3c(c1n2)cnc1ccc2=O
 Salubrinal	C1=CC=C(C=C1)/C=C/C(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3
 Bromo(tetrahydrothiophene)gold(I)	Br[Au-][S+]1CCCC1
@@ -13212,6 +13216,7 @@ Polonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Po]
 Clofexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)Cl
 Tebufenozide	O=C(c1cc(cc(c1)C)C)N(NC(=O)c2ccc(cc2)CC)C(C)(C)C
 Methacrylamide	O=C(\C(=C)C)N
+Verrucarin A	C[C@@H]1CCOC(=O)/C=C/C=C\C(=O)O[C@@H]2C[C@@H]3[C@]4([C@]2([C@]5(CCC(=C[C@H]5O3)C)COC(=O)[C@H]1O)C)CO4
 DPA-713	CCN(CC)C(=O)CC1=C2N=C(C=C(N2N=C1C3=CC=C(C=C3)OC)C)C
 Bipinnatin J	Cc1cc/2oc1[C@H]([C@@H](CCC3=C[C@H](C/C(=C2)/C)OC3=O)C(=C)C)O
 Lactamide	O=C(N)C(O)C
@@ -22354,7 +22359,7 @@ Cridanimod	C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3N2CC(=O)O
 LK00764	ClC1C=CC(C2C=CC(C3=NN=C(CCN([H])[H])N3[H])=CC=2)=CC=1
 Mebfap	CC(CC1=COC2=C1C=C(C=C2)OC)N
 5′-(N-Ethylcarboxamido)adenosine	CCNC(=O)[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O
-Molybdenum imido alkylidene complexes	CC(C)C1=C(C(=CC=C1)C(C)C)N=[Mo]=CC(C)(C)C2=CC=CC=C2.CC(C(F)(F)F)(C(F)(F)F)O.CC(C(F)(F)F)(C(F)(F)F)O
+Molybdenum imido alkylidene complex	CC(C)C1=C(C(=CC=C1)C(C)C)N=[Mo]=CC(C)(C)C2=CC=CC=C2.CC(C(F)(F)F)(C(F)(F)F)O.CC(C(F)(F)F)(C(F)(F)F)O
 4,5-Dihydroxytryptamine	C1=CC(=C(C2=C1NC=C2CCN)O)O
 4-Hydroxy-5-methoxytryptamine	COC1=C(C2=C(C=C1)NC=C2CCN)O
 6,7-Dihydroxytryptamine	C1=CC(=C(C2=C1C(=CN2)CCN)O)O
@@ -22538,6 +22543,7 @@ Radiocaine	CCN(CC[18F])CC(=O)NC1=C(C=CC=C1C)C
 4-Hydroxy-3-methoxymethcathinone	CC(C(=O)C1=CC(=C(C=C1)O)OC)NC
 7-Chlorotryptamine	C1=CC2=C(C(=C1)Cl)NC=C2CCN
 Primisulfuron	C1=CC=C(C(=C1)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F
+Roridin E	CC1=C[C@@H]2[C@@]3(CC1)COC(=O)/C=C(/CCO[C@H](/C=C/C=C\C(=O)O[C@H]4[C@]3([C@]5(CO5)[C@@H](C4)O2)C)[C@@H](C)O)\C
 2-Methylpentanal	CCCC(C)C=O
 Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
@@ -22591,3 +22597,8 @@ Ammonium nicotinate	C1=CC(=CN=C1)C(=O)[O-].[NH4+]
 Braegen-02	C1=CC(=CC=C1C#N)C2=CC(=O)C3=C(O2)C4=C(C=C3)NC(=N4)C(F)(F)F
 Taminadenant	C1=CN(N=C1)C2=NC(=NC(=C2Br)N)N3C=CC=N3
 Ammonium laurate	CCCCCCCCCCCC(=O)[O-].[NH4+]
+Fermium dichloride	[Fm+2].[Cl-].[Cl-]
+4-HO-DALT	C=CCN(CCC1=CNC2=C1C(=CC=C2)O)CC=C
+Bufoviridine	CN(C)CCC1=CNC2=C1C=C(C=C2)OS(=O)(=O)O
+Fexagratinib	C[C@@H]1CN(C[C@@H](N1)C)C2=CC=C(C=C2)C(=O)NC3=NNC(=C3)CCC4=CC(=CC(=C4)OC)OC
+TTNPB	C/C(=C\C1=CC=C(C=C1)C(=O)O)/C2=CC3=C(C=C2)C(CCC3(C)C)(C)C
