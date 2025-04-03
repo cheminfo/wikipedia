@@ -19790,7 +19790,6 @@ Zinc lactate	CC(C(=O)O)O.CC(C(=O)O)O.[Zn]
 Aluminium lactate	CC(C(=O)O[Al](OC(=O)C(C)O)OC(=O)C(C)O)O
 Glycine methyl ester hydrochloride	COC(=O)CN.Cl
 H4-CBD	Oc1c(c(O)cc(c1)CCCCC)C2\CC(/CCC2\C(C)C)C
-H2-CBD	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(CC[C@H]2C(=C)C)C)O
 Sulopenem	C[C@H]([C@@H]1[C@@H]2N(C1=O)C(=C(S2)S[C@H]3CC[S@@](=O)C3)C(=O)O)O
 Bretisilocin	CCN(C)CCC1=CNC2=C1C=C(C=C2)F
 5-Fluoro-EPT	CCCN(CC)CCC1=CNC2=C1C=C(C=C2)F
@@ -22623,3 +22622,5 @@ RU-28253	COC1=CC2=C(C=C1)NC=C2C3=CCCNC3
 RE-109	CN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)CCCC(=O)O
 Ximenic acid	CCCCCCCC\C=C\CCCCCCCCCCCCCCCC(O)=O
 BB-Cl-Amidine	C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)N[C@@H](CCCN=C(CCl)N)C3=NC4=CC=CC=C4N3
+Lumequeic acid	CCCCCCCC/C=C\CCCCCCCCCCCCCCCCCCCC(=O)O
+Hypogeic acid	CCCCCCCC/C=C/CCCCCC(=O)O
