@@ -190,7 +190,6 @@ for (let i = 0; i < length; i++) {
           const info = mf.getInfo();
           result.mf = mf.toMF();
           result.mw = info.mass;
-          // @ts-expect-error It exists.
           result.em = info.monoisotopicMass;
         } catch (e) {
           // MF parsing error
