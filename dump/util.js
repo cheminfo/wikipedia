@@ -2,7 +2,7 @@
  * @param {Record<string, string|number|undefined>} [params]
  * @returns Promise<any>
  */
-export async function request(params) {
+export async function request(params, debug = false) {
   const url = new URL('https://en.wikipedia.org/w/api.php');
   if (params) {
     for (const [name, value] of Object.entries(params)) {
@@ -19,7 +19,14 @@ export async function request(params) {
         'WikipediaSMILES/1.0 (https://wikipedia.cheminfo.org) fetch/1.0',
     },
   });
-  return response.json();
+  if (debug) {
+    console.log('status:', response.status);
+    const data = await response.text();
+    console.log('response:', data);
+    return JSON.parse(data);
+  } else {
+    return response.json();
+  }
 }
 
 /**
