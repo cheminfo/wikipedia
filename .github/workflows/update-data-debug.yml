@@ -1,0 +1,25 @@
+name: Update data (debug)
+
+on:
+  pull_request:
+
+jobs:
+  update-data-debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: 'package.json'
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Update data
+        run: |
+          cd dump
+          node wiki-ids.js
+          node wiki-rev.js
+          node wiki-update.js
+          node wiki-parse.js -p
