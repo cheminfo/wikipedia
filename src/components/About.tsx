@@ -22,7 +22,7 @@ export default function About({ showAbout, setShowAbout }: AboutProps) {
 
 function AboutContent() {
   return (
-    <div className="scrollbar flex h-full flex-col space-y-5 overflow-y-auto p-5 pb-20 sm:h-auto sm:pb-5">
+    <div className="scrollbar flex h-full flex-col gap-5 overflow-y-auto p-5 pb-20 sm:h-auto sm:pb-5">
       <p>
         Wikipedia Chemical Structure Explorer: Substructure and similarity
         searching of molecules from Wikipedia Peter Ertl, Luc Patiny, Thomas

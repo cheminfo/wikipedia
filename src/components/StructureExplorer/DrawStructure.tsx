@@ -1,8 +1,6 @@
 import { Dispatch, SetStateAction, useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
-import { StructureEditor } from 'react-ocl/full';
-import useResizeObserver, { ObservedSize } from 'use-resize-observer';
-import { useMediaQuery } from 'usehooks-ts';
+import { useCanvasEditor } from 'react-ocl/full';
 
 import {
   SearchType,
@@ -41,33 +39,25 @@ function Search() {
   );
 }
 
-function Board() {
-  const { id, idCode, setIdAndIdCode } = useMoleculeContext();
-  const [boardWidth, setBoardWidth] = useState(470);
+function StructureEditor() {
+  const { id, idCode, setIdAndIdCode, search } = useMoleculeContext();
 
-  const handleResize = (refObs: ObservedSize) =>
-    setBoardWidth(refObs.width || 470);
-
-  // @ts-expect-error use-resize-observer types are wrong.
-  const { ref } = useResizeObserver<HTMLDivElement>({
-    onResize: handleResize,
+  const [initialIdcode] = useState(idCode);
+  const canvasEditor = useCanvasEditor({
+    initialMode: 'molecule',
+    inputFormat: 'idcode',
+    inputValue: initialIdcode,
+    fragment: search === 'substructure',
+    onChange: (event) => {
+      setIdAndIdCode({ id, idCode: event.getIdcode() });
+    },
   });
 
-  const isMobile = !useMediaQuery('(min-width: 640px)');
-  const editorHeight = isMobile ? 390 : 490;
-
   return (
-    <div key={id} className="lg:w-[470px] [&_canvas]:rounded-b-lg" ref={ref}>
-      <StructureEditor
-        height={editorHeight}
-        width={boardWidth}
-        fragment
-        initialIDCode={idCode}
-        onChange={(molfile, molecule) => {
-          setIdAndIdCode({ id, idCode: molecule.getIDCode() });
-        }}
-      />
-    </div>
+    <div
+      className="lg:w-[470px] h-full rounded-b-lg overflow-hidden"
+      ref={canvasEditor.elementRef}
+    />
   );
 }
 
@@ -80,14 +70,16 @@ function HelpButton({ setShowHelp }: HelpButtonProps) {
 }
 
 export function DrawStructure({ setShowHelp }: DrawStructureProps) {
+  const { id } = useMoleculeContext();
   return (
     <SimpleTable
       title="Draw a structure"
       help={<HelpButton setShowHelp={setShowHelp} />}
       option={<Search />}
-      className="sm:h-[505px] bg-lightblue"
+      className="sm:h-[506px] h-[405px] flex flex-col bg-lightblue"
+      height="flex-1 min-h-0"
     >
-      <Board />
+      <StructureEditor key={id} />
     </SimpleTable>
   );
 }
