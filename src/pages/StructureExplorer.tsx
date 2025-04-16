@@ -30,7 +30,7 @@ export function StructureExplorer({
           <About showAbout={showAbout} setShowAbout={setShowAbout} />
           <HelpDialog showHelp={showHelp} setShowHelp={setShowHelp} />
           <div className="px-2.5 pt-2.5 sm:pt-5 sm:px-20 xl:px-28 2xl:px-60">
-            <div className="flex flex-col justify-center lg:flex-row lg:space-x-5">
+            <div className="flex flex-col justify-center lg:flex-row lg:gap-5">
               <DrawStructure setShowHelp={setShowHelp} />
               <MoleculeList />
             </div>
