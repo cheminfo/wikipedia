@@ -1,6 +1,7 @@
-import { createContext, Dispatch, SetStateAction, useContext } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
+import { createContext, useContext } from 'react';
 
-import { WikipediaMolecule } from '../../dump/types.js';
+import type { WikipediaMolecule } from '../../dump/types.js';
 
 export type SearchType = 'substructure' | 'exact' | 'similarity';
 

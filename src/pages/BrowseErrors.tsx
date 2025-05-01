@@ -1,4 +1,4 @@
-import { Dispatch, SetStateAction } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
 
 import About from '../components/About.js';
 import { Duplicates } from '../components/BrowseErrors/Duplicates.js';

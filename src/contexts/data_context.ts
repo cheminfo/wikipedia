@@ -2,7 +2,7 @@ import OCL from 'openchemlib/full';
 import { MoleculesDB } from 'openchemlib-utils';
 import { createContext, useContext } from 'react';
 
-import { ExtendedWikipediaJson } from '../hooks/fetch_data.js';
+import type { ExtendedWikipediaJson } from '../hooks/fetch_data.js';
 
 interface DataContext {
   allData: ExtendedWikipediaJson;

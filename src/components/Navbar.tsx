@@ -1,7 +1,8 @@
 /* eslint-disable import/no-absolute-path */
 import { Transition } from '@headlessui/react';
 import clsx from 'clsx';
-import { Dispatch, SetStateAction, useState } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
+import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
 import github from '/logo/github.png';
