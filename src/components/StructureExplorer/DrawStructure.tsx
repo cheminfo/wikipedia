@@ -1,7 +1,7 @@
 import type { Dispatch, SetStateAction } from 'react';
 import { useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
-import { useCanvasEditor } from 'react-ocl/full';
+import { useCanvasEditor } from 'react-ocl';
 
 import type { SearchType } from '../../contexts/molecule_context.js';
 import { useMoleculeContext } from '../../contexts/molecule_context.js';

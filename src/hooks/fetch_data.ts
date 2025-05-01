@@ -1,4 +1,4 @@
-import OCL from 'openchemlib/full';
+import * as OCL from 'openchemlib';
 import { MoleculesDB } from 'openchemlib-utils';
 
 import type {

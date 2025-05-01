@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import { parseArgs } from 'node:util';
 
 import { MF } from 'mf-parser';
-import OCL from 'openchemlib';
+import { Molecule } from 'openchemlib';
 // @ts-expect-error Untyped package
 import ProgressBar from 'progress';
 
@@ -163,7 +163,7 @@ for (let i = 0; i < length; i++) {
   if (smiles.length) {
     for (let j = 0; j < smiles.length; j++) {
       try {
-        let molecule = OCL.Molecule.fromSmiles(smiles[j]);
+        let molecule = Molecule.fromSmiles(smiles[j]);
         allError = false; // At least one SMILES is good for this file
         let idCode = molecule.getIDCode();
         let uniqid = `${id}_${idCode}`;
