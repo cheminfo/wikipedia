@@ -22,7 +22,7 @@ function Search() {
             setSearch(e.target.value as SearchType);
           }
         }}
-        className="h-6 w-36 cursor-pointer rounded-lg px-2 py-1 text-sm font-normal focus:outline-none"
+        className="h-6 w-36 cursor-pointer rounded-lg px-2 py-1 text-sm bg-gray-200 font-normal focus:outline-hidden"
       >
         <option value="substructure">Substructure</option>
         <option value="exact">Exact structure</option>

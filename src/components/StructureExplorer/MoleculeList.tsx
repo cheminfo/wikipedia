@@ -56,7 +56,7 @@ function Filter({ filter, setFilter }: FilterProps) {
         <input
           type="text"
           name="filter"
-          className="h-full w-full px-2 font-normal focus:outline-none"
+          className="h-full w-full px-2 font-normal focus:outline-hidden"
           placeholder="Molecule name"
           value={filter}
           onChange={(e) => {

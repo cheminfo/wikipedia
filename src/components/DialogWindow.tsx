@@ -41,7 +41,7 @@ export default function DialogWindow({
           leaveFrom="opacity-100"
           leaveTo="opacity-0"
         >
-          <div className="fixed inset-0 hidden bg-black bg-opacity-50 transition-opacity sm:block" />
+          <div className="fixed inset-0 hidden bg-black/50 transition-opacity sm:block" />
         </TransitionChild>
 
         <div className="mt-28 h-full sm:fixed sm:inset-0 sm:mt-0 sm:overflow-y-auto">
