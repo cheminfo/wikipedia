@@ -1,4 +1,5 @@
-import { Dispatch, SetStateAction, useState } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
+import { useState } from 'react';
 
 import About from '../components/About.js';
 import HelpDialog from '../components/HelpDialog.js';

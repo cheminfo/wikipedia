@@ -1,8 +1,10 @@
 import OCL from 'openchemlib/full';
 import { MoleculesDB } from 'openchemlib-utils';
-import { ReactNode, useEffect, useMemo, useState } from 'react';
+import type { ReactNode } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
-import { ExtendedWikipediaJson, fetchData } from '../hooks/fetch_data.js';
+import type { ExtendedWikipediaJson } from '../hooks/fetch_data.js';
+import { fetchData } from '../hooks/fetch_data.js';
 
 import { dataContext, initData } from './data_context.js';
 

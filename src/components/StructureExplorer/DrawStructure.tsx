@@ -1,18 +1,11 @@
-import { Dispatch, SetStateAction, useState } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
+import { useState } from 'react';
 import { AiOutlineQuestionCircle } from 'react-icons/ai';
 import { useCanvasEditor } from 'react-ocl/full';
 
-import {
-  SearchType,
-  useMoleculeContext,
-} from '../../contexts/molecule_context.js';
+import type { SearchType } from '../../contexts/molecule_context.js';
+import { useMoleculeContext } from '../../contexts/molecule_context.js';
 import SimpleTable from '../SimpleTable.js';
-
-interface HelpButtonProps {
-  setShowHelp: Dispatch<SetStateAction<boolean>>;
-}
-
-interface DrawStructureProps extends HelpButtonProps {}
 
 function Search() {
   const { search, setSearch } = useMoleculeContext();
@@ -61,6 +54,10 @@ function StructureEditor() {
   );
 }
 
+interface HelpButtonProps {
+  setShowHelp: Dispatch<SetStateAction<boolean>>;
+}
+
 function HelpButton({ setShowHelp }: HelpButtonProps) {
   return (
     <button type="button" className="flex" onClick={() => setShowHelp(true)}>
@@ -69,7 +66,7 @@ function HelpButton({ setShowHelp }: HelpButtonProps) {
   );
 }
 
-export function DrawStructure({ setShowHelp }: DrawStructureProps) {
+export function DrawStructure({ setShowHelp }: HelpButtonProps) {
   const { id } = useMoleculeContext();
   return (
     <SimpleTable

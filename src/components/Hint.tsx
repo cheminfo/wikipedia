@@ -1,5 +1,5 @@
 import * as Tooltip from '@radix-ui/react-tooltip';
-import { ReactElement } from 'react';
+import type { ReactElement } from 'react';
 
 interface TooltipProps {
   children: ReactElement;

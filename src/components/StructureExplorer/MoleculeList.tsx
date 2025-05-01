@@ -1,15 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import {
-  CSSProperties,
-  Dispatch,
-  RefObject,
-  SetStateAction,
-  useEffect,
-  useLayoutEffect,
-  useMemo,
-  useRef,
-  useState,
-} from 'react';
+import type { CSSProperties, Dispatch, RefObject, SetStateAction } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
@@ -17,7 +8,7 @@ import useResizeObserver from 'use-resize-observer';
 
 import { useDataContext } from '../../contexts/data_context.js';
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
-import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
+import type { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
 import SimpleTable from '../SimpleTable.js';
 
 import { MoleculeInfo } from './MoleculeInfo.js';

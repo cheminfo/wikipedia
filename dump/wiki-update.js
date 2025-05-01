@@ -16,7 +16,7 @@ const allRevs = JSON.parse(fs.readFileSync('./data/rev.json', 'utf-8'));
 let pageInfo;
 try {
   pageInfo = JSON.parse(fs.readFileSync('./data/update.json', 'utf-8'));
-} catch (e) {
+} catch {
   pageInfo = [];
 }
 

@@ -1,8 +1,10 @@
-import { ReactNode, useMemo, useState } from 'react';
+import type { ReactNode } from 'react';
+import { useMemo, useState } from 'react';
 
-import { WikipediaMolecule } from '../../dump/types.js';
+import type { WikipediaMolecule } from '../../dump/types.js';
 
-import { moleculeContext, SearchType } from './molecule_context.js';
+import type { SearchType } from './molecule_context.js';
+import { moleculeContext } from './molecule_context.js';
 
 export function MoleculeContextProvider({ children }: { children: ReactNode }) {
   const [selectedId, setSelectedId] = useState<number | null>(null);

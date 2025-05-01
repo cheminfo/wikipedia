@@ -4,7 +4,7 @@ import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
 
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
-import { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
+import type { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
 import Hint from '../Hint.js';
 
 interface MoleculeInfoProps {

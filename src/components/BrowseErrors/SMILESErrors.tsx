@@ -1,4 +1,5 @@
-import { Dispatch, SetStateAction, useState } from 'react';
+import type { Dispatch, SetStateAction } from 'react';
+import { useState } from 'react';
 
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
 
