@@ -16,7 +16,7 @@
     "test-only": "vitest run src"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.19",
+    "@headlessui/react": "^2.2.2",
     "@radix-ui/react-tooltip": "^1.2.4",
     "@types/react-virtualized": "^9.22.2",
     "clsx": "^2.1.1",

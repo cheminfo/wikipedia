@@ -1,4 +1,10 @@
-import { Dialog, Transition } from '@headlessui/react';
+import {
+  Dialog,
+  DialogPanel,
+  DialogTitle,
+  Transition,
+  TransitionChild,
+} from '@headlessui/react';
 import clsx from 'clsx';
 import type { Dispatch, ReactNode, SetStateAction } from 'react';
 import { Fragment } from 'react';
@@ -20,13 +26,13 @@ export default function DialogWindow({
   className,
 }: DialogWindowProps) {
   return (
-    <Transition.Root show={showDialog} as={Fragment}>
+    <Transition show={showDialog} as={Fragment}>
       <Dialog
         className="fixed inset-0 flex items-center justify-center"
         open={showDialog}
         onClose={() => setShowDialog(false)}
       >
-        <Transition.Child
+        <TransitionChild
           as={Fragment}
           enter="ease-out duration-300"
           enterFrom="opacity-0"
@@ -36,11 +42,11 @@ export default function DialogWindow({
           leaveTo="opacity-0"
         >
           <div className="fixed inset-0 hidden bg-black bg-opacity-50 transition-opacity sm:block" />
-        </Transition.Child>
+        </TransitionChild>
 
         <div className="mt-28 h-full sm:fixed sm:inset-0 sm:mt-0 sm:overflow-y-auto">
           <div className="flex h-full items-center justify-center sm:mx-4 sm:min-h-full">
-            <Transition.Child
+            <TransitionChild
               as={Fragment}
               enter="ease-out duration-300"
               enterFrom="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
@@ -49,24 +55,24 @@ export default function DialogWindow({
               leaveFrom="opacity-100 translate-y-0 sm:scale-100"
               leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
             >
-              <Dialog.Panel
+              <DialogPanel
                 className={clsx(
                   'flex flex-col justify-center bg-white sm:rounded-xl sm:shadow-xl',
                   className,
                 )}
               >
                 <div className="flex justify-between space-x-2 bg-lightblue px-5 py-2 font-medium text-darkblue sm:rounded-t-xl sm:pt-2">
-                  <Dialog.Title>{title}</Dialog.Title>
+                  <DialogTitle>{title}</DialogTitle>
                   <button type="button" onClick={() => setShowDialog(false)}>
                     <MdClose size={20} />
                   </button>
                 </div>
                 {children}
-              </Dialog.Panel>
-            </Transition.Child>
+              </DialogPanel>
+            </TransitionChild>
           </div>
         </div>
       </Dialog>
-    </Transition.Root>
+    </Transition>
   );
 }
