@@ -69,7 +69,7 @@ async function getRevisions(ids) {
     continue: '',
     pageids: ids.join('|'),
   };
-  const result = await util.request(params, true);
+  const result = await util.request(params);
   const pages = result.query.pages;
   for (let i = 0; i < ids.length; i++) {
     const page = pages[ids[i]];

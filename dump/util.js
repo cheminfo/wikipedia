@@ -1,3 +1,5 @@
+import { setTimeout as wait } from 'node:timers/promises';
+
 /** @type {HeadersInit} */
 const fetchHeaders = {
   Accept: 'application/json',
@@ -8,7 +10,7 @@ const fetchHeaders = {
  * @param {Record<string, string|number|undefined>} [params]
  * @returns Promise<any>
  */
-export async function request(params, debug = false) {
+export async function request(params) {
   const url = new URL('https://en.wikipedia.org/w/api.php');
   if (params) {
     for (const [name, value] of Object.entries(params)) {
@@ -18,16 +20,32 @@ export async function request(params, debug = false) {
     }
     url.searchParams.set('format', 'json');
   }
-  const response = await fetch(url, {
-    headers: fetchHeaders,
-  });
-  if (debug) {
-    console.log('status:', response.status);
-    const data = await response.text();
-    console.log('response:', data);
-    return JSON.parse(data);
+  const response = await fetchWithRetry(url, 0);
+  return response.json();
+}
+
+/**
+ * Fetch a url and retry a couple times with exponential wait time if a rate limit is hit.
+ * @see https://www.mediawiki.org/wiki/API:Etiquette
+ * @param url {URL}
+ * @param attempt {number}
+ */
+async function fetchWithRetry(url, attempt) {
+  const response = await fetch(url, { headers: fetchHeaders });
+  if (response.ok) {
+    return response;
+  } else if (response.status === 429) {
+    if (attempt > 2) {
+      throw new Error(`Rate limit still hit after attempt: ${attempt}`);
+    }
+    const retryAfter = 100 * 10 ** attempt;
+    console.log(`Rate limit hit for ${url}. Retry in ${retryAfter}ms`);
+    await wait(retryAfter);
+    return fetchWithRetry(url, attempt + 1);
   } else {
-    return response.json();
+    throw new Error(
+      `Unexpected response from ${url}. Status: ${response.status}`,
+    );
   }
 }
 
