@@ -1,3 +1,15 @@
+const apiToken = process.env.WIKIPEDIA_API_KEY;
+
+/** @type {HeadersInit} */
+const fetchHeaders = {
+  Accept: 'application/json',
+  'User-Agent': 'WCSEBot/1.0 (https://github.com/cheminfo/wikipedia) fetch/1.0',
+};
+
+if (apiToken) {
+  fetchHeaders.Authorization = `Bearer ${apiToken}`;
+}
+
 /**
  * @param {Record<string, string|number|undefined>} [params]
  * @returns Promise<any>
@@ -13,11 +25,7 @@ export async function request(params) {
     url.searchParams.set('format', 'json');
   }
   const response = await fetch(url, {
-    headers: {
-      Accept: 'application/json',
-      'User-Agent':
-        'WikipediaSMILES/1.0 (https://wikipedia.cheminfo.org) fetch/1.0',
-    },
+    headers: fetchHeaders,
   });
   return response.json();
 }
