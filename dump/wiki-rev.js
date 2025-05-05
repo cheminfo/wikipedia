@@ -50,7 +50,7 @@ function getNextEntries() {
   return getRevisions(idsToGet).then(async () => {
     bar.tick(idsToGet.length);
     if (start < length) {
-      await wait(500);
+      await wait(10_000);
       return getNextEntries();
     }
   });
