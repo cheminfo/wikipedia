@@ -36,6 +36,7 @@ async function fetchWithRetry(url, attempt) {
     return response;
   } else if (response.status === 429) {
     if (attempt > 3) {
+      console.log(Array.from(response.headers.entries()));
       throw new Error(`Rate limit still hit after ${attempt} attempts`);
     }
     const retryAfter = 100 * 10 ** (attempt - 1);
