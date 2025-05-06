@@ -1,6 +1,5 @@
 import fs from 'node:fs';
 
-// import { setTimeout as wait } from 'node:timers/promises';
 import * as util from './util.js';
 
 /**
@@ -43,7 +42,6 @@ function getForTemplate(templateName) {
   async function concatResult(result) {
     total = total.concat(result.ids);
     if (result.eicontinue) {
-      // await wait(10_000);
       return getList(templateName, result.eicontinue).then(concatResult);
     }
   }
