@@ -20,7 +20,6 @@ export async function request(params) {
     }
     url.searchParams.set('format', 'json');
   }
-  console.log(`Fetching ${url}`);
   const response = await fetchWithRetry(url, 1);
   return response.json();
 }
