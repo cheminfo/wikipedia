@@ -198,14 +198,28 @@ for (let i = 0; i < length; i++) {
         }
         results.push(result);
         uniq[uniqid] = true;
-      } catch (e) {
+      } catch (error) {
         // SMILES parsing error
-        errors.push({
-          id,
-          smiles: smiles[j],
-          // @ts-expect-error Should always be an Error.
-          error: e.toString().match(/.*?:.*?: (?<message>.*)/).groups.message,
-        });
+        // @ts-expect-error Should always be an Error.
+        const errorMessage = error.toString();
+        const smilesParserError = errorMessage.match(/.*?:.*?: (?<message>.*)/);
+        if (smilesParserError) {
+          errors.push({
+            id,
+            smiles: smiles[j],
+            error: smilesParserError.groups.message,
+          });
+        } else {
+          console.log(
+            `Unexpected SmilesParser error for article ${id}: ${smiles[j]}`,
+          );
+          console.log(error);
+          errors.push({
+            id,
+            smiles: smiles[j],
+            error: `Unexpected error: ${errorMessage}`,
+          });
+        }
       }
     }
     if (allError) {
