@@ -1,6 +1,6 @@
 import fs from 'node:fs';
-import { setTimeout as wait } from 'node:timers/promises';
 
+// import { setTimeout as wait } from 'node:timers/promises';
 // @ts-expect-error Untyped package
 import ProgressBar from 'progress';
 
@@ -50,7 +50,7 @@ function getNextEntries() {
   return getRevisions(idsToGet).then(async () => {
     bar.tick(idsToGet.length);
     if (start < length) {
-      await wait(10_000);
+      // await wait(10_000);
       return getNextEntries();
     }
   });

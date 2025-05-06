@@ -20,6 +20,7 @@ export async function request(params) {
     }
     url.searchParams.set('format', 'json');
   }
+  console.log(`Fetching ${url}`);
   const response = await fetchWithRetry(url, 1);
   return response.json();
 }
@@ -39,9 +40,10 @@ async function fetchWithRetry(url, attempt) {
       console.log(Array.from(response.headers.entries()));
       throw new Error(`Rate limit still hit after ${attempt} attempts`);
     }
-    const retryAfter = 100 * 10 ** (attempt - 1);
-    console.log(`Rate limit hit for ${url}\nRetry in ${retryAfter}ms.`);
-    await wait(retryAfter);
+    // const retryAfter = 100 * 10 ** (attempt - 1);
+    const retryAfter = response.headers.get('retry-after');
+    console.log(`Rate limit hit for ${url}\nRetry in ${retryAfter}s.`);
+    await wait(Number(retryAfter) * 1000);
     return fetchWithRetry(url, attempt + 1);
   } else {
     throw new Error(
