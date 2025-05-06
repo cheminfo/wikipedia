@@ -134,7 +134,8 @@ function savePage(id, content) {
 }
 
 /**
- * https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=1912|4191
+ * https://en.wikipedia.org/w/api.php?action=help&modules=query%2Brevisions
+ * https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&pageids=1912|4191
  * Max 50 page ids at the same time
  * @param {import('./types.ts').WikiRevs} pages
  */
@@ -143,6 +144,7 @@ async function getPages(pages) {
     action: 'query',
     prop: 'revisions',
     rvprop: 'content',
+    rvslots: 'main',
     continue: '',
     pageids: pages.map((page) => page.id).join('|'),
   };
@@ -157,7 +159,7 @@ async function getPages(pages) {
       {
         id: page.pageid,
         title: page.title,
-        content: page.revisions[0]['*'],
+        content: page.revisions[0].slots.main['*'],
       },
       null,
       2,

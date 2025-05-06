@@ -37,8 +37,6 @@ jobs:
           node wiki-rev.js
           node wiki-update.js
           node wiki-parse.js -p
-        env:
-          WIKIPEDIA_API_KEY: ${{ secrets.WIKIPEDIA_API_KEY }}
       - name: Commit changes
         run: |
           git config --local user.email "admin@cheminfo.org"
