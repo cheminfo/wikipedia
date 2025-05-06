@@ -25,7 +25,7 @@ export async function request(params) {
 }
 
 /**
- * Fetch a url and retry a couple times with exponential wait time if a rate limit is hit.
+ * Fetch a url and retry a couple times if a rate limit is hit.
  * @see https://www.mediawiki.org/wiki/API:Etiquette
  * @param url {URL}
  * @param attempt {number}
@@ -39,7 +39,6 @@ async function fetchWithRetry(url, attempt) {
       console.log(Array.from(response.headers.entries()));
       throw new Error(`Rate limit still hit after ${attempt} attempts`);
     }
-    // const retryAfter = 100 * 10 ** (attempt - 1);
     const retryAfter = response.headers.get('retry-after');
     console.log(`Rate limit hit for ${url}\nRetry in ${retryAfter}s.`);
     await wait(Number(retryAfter) * 1000);
