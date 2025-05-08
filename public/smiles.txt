@@ -1858,8 +1858,8 @@ Vaska's complex	c1ccc(cc1)[P+](c2ccccc2)(c3ccccc3)[Ir-2](=C=O)([P+](c4ccccc4)(c5
 Grubbs catalyst	Cl[Ru-2](Cl)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)([P+](C1CCCCC1)(C1CCCCC1)C1CCCCC1)=Cc1ccccc1
 Methylene diphenyl diisocyanate	O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1
 Permanganate	[O-][Mn](=O)(=O)=O
-Guanosine monophosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)NC(=NC2=O)N
-Thymidine monophosphate	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O
+Guanosine monophosphate	Nc1nc2n(cnc2c(=O)[nH]1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+Thymidine monophosphate	Cc1cn([C@H]2C[C@H](O)[C@@H](COP([O-])([O-])=O)O2)c(=O)[nH]c1=O
 Uridine monophosphate	c1cn(c(=O)[nH]c1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
 Cytidine monophosphate	c1cn(c(=O)nc1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
 FOX-7	N/C(N)=C([N+]([O-])=O)\[N+]([O-])=O
@@ -5206,7 +5206,7 @@ Carbamic acid	O=C(O)N
 Fluorenone	c1ccc2c(c1)-c3ccccc3C2=O
 Deoxyguanosine diphosphate	O=P(O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n1cnc2c1NC(=N/C2=O)\N)C[C@@H]3O
 Deoxycytidine diphosphate	O=P(O)(O)OP(=O)(O)OC[C@H]2O[C@@H](N/1C(=O)/N=C(/N)\C=C\1)C[C@@H]2O
-Deoxyguanosine monophosphate	C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2N=C(N=C3O)N)COP(=O)(O)O)O
+Deoxyguanosine monophosphate	Nc1nc2n(cnc2c(=O)[nH]1)[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1
 Deoxyadenosine monophosphate	c1nc(c2c(n1)n(cn2)[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)N
 Deoxyadenosine diphosphate	C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)O)O
 Hexafluorophosphate	F[P-](F)(F)(F)(F)F
@@ -22047,6 +22047,7 @@ Ipglycermides	O=C(NC(CC1=CC=C(O)C=C1)C(NC(CC(C)C)C(NC(CC2=CC=C(O)C=C2)C(NCC(NC(C
 1,3,5-Tris(4-(tert-butyl)-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazinane-2,4,6-trione	C(N1C(=O)N(CC2=C(C)C(O)=C(C(C)(C)C)C=C2C)C(=O)N(CC3=C(C)C(O)=C(C(C)(C)C)C=C3C)C1=O)C4=C(C)C(O)=C(C(C)(C)C)C=C4C
 ARM390	CCN(CC)C(=O)C1=CC=C(C=C1)C(=C2CCNCC2)C3=CC=CC=C3
 4-Trifluoromethylbenzaldehyde	C1=CC(=CC=C1C=O)C(F)(F)F
+Cycloxaprid	C1C[C@H]2N3CCN(C3=C([C@@H]1O2)[N+](=O)[O-])CC4=CN=C(C=C4)Cl
 VU0530244	CC1=CC2=C(C=C1)N=C(N2)C3CN(C3)C(=O)C4=CC(=NN4C)C5=CC=C(C=C5)F
 Revumenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)CC5CCC(CC5)NS(=O)(=O)CC
 Darovasertib	CC1(CCN(CC1)C2=C(N=CC=C2)NC(=O)C3=NC(=CN=C3N)C4=C(C=CC=N4)C(F)(F)F)N
@@ -22697,3 +22698,5 @@ ML337	COC1=CC=C(C=C1)C#CC2=CC(=C(C=C2)C(=O)N3CCC[C@H](C3)O)F
 Cyclopyrimorate	CC1=C(C(=CC=C1)C2CC2)OC3=NN=C(C=C3OC(=O)N4CCOCC4)Cl
 Tetflupyrolimet	CN1C[C@@H]([C@H](C1=O)C(=O)NC2=CC=CC=C2F)C3=CC(=CC=C3)C(F)(F)F
 RTI-122	C[C@H]([C@@H](CN(C1=CC=C(C=C1)C2=CC=C(C=C2)OC(C)C)C(=O)[C@@H]3C[C@H]3C4=NC=C(C=C4)F)N)OC
+PSB-22040	CN1C(=NC2=C1C(=O)N(C(=O)N2CCCCP(=O)(O)O)CC#C)CCC3=CC(=CC=C3)OC
+Nelremagpran	C1=CC(=C(C(=C1)C(=O)O)F)COC2=C(C=C(C=C2)C(F)(F)F)Cl
