@@ -1455,7 +1455,7 @@ Saxitoxin	O=C(OC[C@@H]2/N=C(/N)N3[C@]1(/N=C(\N[C@H]12)N)C(O)(O)CC3)N
 Lisinopril	C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O
 Ramipril	O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@H]12)C)CCc3ccccc3
 Mercury(I) chloride	Cl[Hg][Hg]Cl
-Candesartan	CCOc2nc1cccc(C(=O)O)c1n2Cc5ccc(c3ccccc3c4nn[nH]n4)cc5
+Candesartan	CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)OC(C)OC(=O)OC6CCCCC6
 Felodipine	O=C(OCC)\C1=C(\N/C(=C(/C(=O)OC)C1c2cccc(Cl)c2Cl)C)C
 Formoterol	O=CNc1cc(ccc1O)[C@@H](O)CN[C@H](C)Cc2ccc(OC)cc2
 Selegiline	C#CCN([C@@H](Cc1ccccc1)C)C
@@ -7623,7 +7623,7 @@ Xipamide	CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N
 Nervonic acid	O=C(O)CCCCCCCCCCCCC\C=C/CCCCCCCC
 1-Methylcyclopropene	C\1=C(/C)C/1
 Eribulin	CC1CC2CCC3C(=C)CC(O3)CCC45CC6C(O4)C7C(O6)C(O5)C8C(O7)CCC(O8)CC(=O)CC9C(CC(C1=C)O2)OC(C9OC)CC(CN)O
-Oxepin	C1=CC=COC=C1
+Oxepine	C1=CC=COC=C1
 Zaragozic acid	CC[C@H](C)C[C@H](C)/C=C/C(=O)O[C@@H]1[C@H]([C@]2(O[C@@H]([C@]([C@@]1(O2)C(=O)O)(C(=O)O)O)C(=O)O)CCC(=C)[C@H]([C@H](C)CC3=CC=CC=C3)OC(=O)C)O
 Dimethyldioxirane	CC1(OO1)C
 Aerobactin	CC(=O)N(CCCC[C@@H](C(=O)O)NC(=O)CC(CC(=O)N[C@@H](CCCCN(C(=O)C)O)C(=O)O)(C(=O)O)O)O
@@ -20809,6 +20809,7 @@ Iridium(III) bromide	Br[Ir](Br)Br
 Germanium dibromide	Br[Ge]Br
 Dysprosium(III) selenide	[Se-2].[Se-2].[Se-2].[Dy+3].[Dy+3]
 Germanium diselenide	[Ge](=[Se])=[Se]
+Diacetamide	CC(=O)NC(=O)C
 Rubidium germanium iodide	[Ge+2].[I-].[I-].[I-].[Rb+]
 Einsteinium(II) chloride	[Es+2].[Cl-].[Cl-]
 Hassium tetroxide	O=[Hs](=O)(=O)=O
@@ -22354,6 +22355,7 @@ Molybdenum imido alkylidene complex	CC(C)C1=C(C(=CC=C1)C(C)C)N=[Mo]=CC(C)(C)C2=C
 4-PhPr-3,5-DMA	CC(CC1=CC(=C(C(=C1)OC)CCCC2=CC=CC=C2)OC)N
 Lancotrione	CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)OCCC3OCCO3
 Elacomine	CC(C)C[C@H]1[C@@]2(CCN1)C3=C(C=C(C=C3)O)NC2=O
+Acetyl phosphate	CC(=O)OP(=O)(O)O
 Portimine A	C[C@H]1C[C@H](C(=O)[C@@H]2[C@H]3C=C(CC[C@@]34CCN=C4[C@H](C[C@]5(O2)CC[C@@H]1O5)O)C=C)O
 Mirdametinib	O=C(NOCC(O)CO)C1=CC=C(F)C(F)=C1NC2=CC=C(I)C=C2F
 2C-iBu	CC(C)CC1=C(C=C(C(=C1)OC)CCN)OC
@@ -22661,6 +22663,9 @@ JRT (drug)	CCN(CC)C(=O)C1CN([C@@H]2CN3C=CC4=C3C(=CC=C4)C2=C1)C
 Toyocamycin	N#CC1CN([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C2NCNC(N)C12
 Thymolphthalexone	CC1=C(C=C(C(=C1CN(CC(=O)O)CC(=O)O)O)C(C)C)C2(C3=CC=CC=C3C(=O)O2)C4=C(C(=C(C(=C4)C(C)C)O)CN(CC(=O)O)CC(=O)O)C
 CHK-336	NS(=O)(=O)C1=C(F)C=C(CC2=C(CC3CC3)N(N=C2C4=CC=C(F)C=C4)C5=NC(=CS5)C(O)=O)C=C1
+Picoline-N-oxide	CC1=CC=CC=[N+]1[O-]
+Picoline-N-oxide	CC1=C[N+](=CC=C1)[O-]
+Picoline-N-oxide	CC1=CC=[N+](C=C1)[O-]
 O-Methyl-AL-34662	C[C@@H](CN1C2=C(C=CC(=C2)OC)C=N1)N
 Tetrahydrocarbazole	C1CCC2=C(C1)C3=CC=CC=C3N2
 Direct Yellow 4	[Na].O=S(=O)(O)C1=CC(N=NC2=CC=C(O)C=C2)=CC=C1C=CC3=CC=C(N=NC4=CC=C(O)C=C4)C=C3S(=O)(=O)O
@@ -22679,6 +22684,7 @@ A-286501	C1[C@@H]([C@H]([C@H]([C@@H]1N2C=C(C3=C(N=CN=C32)N)Br)O)O)N
 ABT-702	C1COCCN1C2=NC=C(C=C2)C3=NC4=NC=NC(=C4C(=C3)C5=CC(=CC=C5)Br)N
 Psora-4	C1=CC=C(C=C1)CCCCOC2=C3C=CC(=O)OC3=CC4=C2C=CO4
 Pentachloroaniline	C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)N
+Cerocene	C\1=C\[C-]=C/C=C\[C-]=C1.C\1=C\[C-]=C/C=C\[C-]=C1.[Ce+4]
 PSB-KK1415	CN1C2=C(C(=O)N(C1=O)C)N(C(=N2)NCCC3=CNC4=CC=CC=C43)CC5=CC=C(C=C5)Cl
 PSB-KD107	CN1C2=C(C(=O)N(C1=O)C)N3CCCN(C3=N2)CCC4=CNC5=CC=CC=C54
 5-Carboxylcytosine	C1=NC(=O)NC(=C1C(=O)O)N
