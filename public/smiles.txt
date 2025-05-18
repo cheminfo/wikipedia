@@ -17908,9 +17908,9 @@ Haloxon	CC1=C(Cl)C(=O)Oc2cc(OP(=O)(OCCCl)OCCCl)ccc12
 Carboxyatractyloside	CC(CC(=O)O[C@H]1[C@@H](O[C@@H]([C@H]([C@@H]1OS(=O)(=O)O)OS(=O)(=O)O)CO)O[C@@H]2C[C@@]([C@@H]3[C@@](C2)([C@H]4[C@@]5([C@H](C(=C)[C@@H](C5)CC4)O)CC3)C)(C(=O)O)C(=O)O)C
 4-Vinylpyridine	C=CC1=CC=NC=C1
 Thiocarbonyldiimidazole	C1=CN(C=N1)C(=S)N2C=CN=C2
-Tellurophenes	C1=C[Te]C=C1
 2-Ethoxycarbonyl-1-methylvinyl cyclohexyl methylphosphonate	CCOC(=O)C=C(C)O[P](C)(=O)OC1CCCCC1
 Sodium bromite	[O-]Br=O.[Na+]
+Tellurophene	C1=C[Te]C=C1
 Crotylsarin	C/C=C/COP(=O)(C)F
 Tazemetostat	CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5
 Diethynylbenzene dianion	[C-]#Cc0ccccc0C#[C-]
@@ -22732,3 +22732,4 @@ S6821	CC1=C(C(=NO1)C)CN2C=C(C=N2)N3C(=O)CN(C3=O)CC4=CC(=CC=C4)O
 Oligoporin D	C[C@@]12C[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C3=C(CC[C@@H]4[C@]3(C)CCC(=O)C4(C)C)[C@]2(C)CC[C@@H]1[C@H](C)CC\C=C(\C)C(=O)O
 Pseudovitamin B12	N#[C-][Co+3]1234[N]5=CN(C=6C(=NC=NC65)N)C7OC(CO)C(OP(=O)([O-])OC(C)CNC(=O)CCC8(C9=C(C%10=[N]4C(=CC%11=[N]3C(=C(C%12=[N]2C(C)(C([N-]91)C8CC(=O)N)C(C)(CC(=O)N)C%12CCC(=O)N)C)C(C)(CC(=O)N)C%11CCC(=O)N)C(C)(C)C%10CCC(=O)N)C)C)C7O
 Lithium phosphate	[Li+].[Li+].[Li+].[O-]P([O-])([O-])=O
+4-O-Desmethylmescaline	COC1=CC(=CC(=C1O)OC)CCN
