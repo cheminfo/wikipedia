@@ -1831,7 +1831,7 @@ Pseudaconitine	O=C(O[C@H]5[C@]3(O)C[C@H]4[C@@]16C2N(CC)C[C@]([C@H]1[C@@H](OC)[C@
 Cyclopentanone	C1CCC(=O)C1
 Bromethalin	Brc2cc(Br)cc(Br)c2N(c1c([N+]([O-])=O)cc([N+]([O-])=O)cc1C(F)(F)F)C
 Primaquine	O(c1cc(NC(C)CCCN)c2ncccc2c1)C
-Gliadorphin	c1ccc(cc1)C[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
+Gliadorphin-7	c1ccc(cc1)C[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](Cc5ccc(cc5)O)N
 Tetraborane	[H]B123([H])[H]B145([H])[H]B41([H])([H])[H]B215([H])[H]3
 Γ-Butyrolactone	O=C1OCCC1
 Butyl nitrite	CCCCON=O
@@ -22733,3 +22733,5 @@ Oligoporin D	C[C@@]12C[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C3=C(CC[C
 Pseudovitamin B12	N#[C-][Co+3]1234[N]5=CN(C=6C(=NC=NC65)N)C7OC(CO)C(OP(=O)([O-])OC(C)CNC(=O)CCC8(C9=C(C%10=[N]4C(=CC%11=[N]3C(=C(C%12=[N]2C(C)(C([N-]91)C8CC(=O)N)C(C)(CC(=O)N)C%12CCC(=O)N)C)C(C)(CC(=O)N)C%11CCC(=O)N)C(C)(C)C%10CCC(=O)N)C)C)C7O
 Lithium phosphate	[Li+].[Li+].[Li+].[O-]P([O-])([O-])=O
 4-O-Desmethylmescaline	COC1=CC(=CC(=C1O)OC)CCN
+1,2,3,4-Tetraphenylbutadiene	C1=CC=C(C=C1)/C=C(/C(=C/C2=CC=CC=C2)/C3=CC=CC=C3)\C4=CC=CC=C4
+Taxoleic acid	CCCCCCCC/C=C\CC/C=C\CCCC(=O)O
