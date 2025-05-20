@@ -22732,6 +22732,10 @@ S6821	CC1=C(C(=NO1)C)CN2C=C(C=N2)N3C(=O)CN(C3=O)CC4=CC(=CC=C4)O
 Oligoporin D	C[C@@]12C[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C3=C(CC[C@@H]4[C@]3(C)CCC(=O)C4(C)C)[C@]2(C)CC[C@@H]1[C@H](C)CC\C=C(\C)C(=O)O
 Pseudovitamin B12	N#[C-][Co+3]1234[N]5=CN(C=6C(=NC=NC65)N)C7OC(CO)C(OP(=O)([O-])OC(C)CNC(=O)CCC8(C9=C(C%10=[N]4C(=CC%11=[N]3C(=C(C%12=[N]2C(C)(C([N-]91)C8CC(=O)N)C(C)(CC(=O)N)C%12CCC(=O)N)C)C(C)(CC(=O)N)C%11CCC(=O)N)C(C)(C)C%10CCC(=O)N)C)C)C7O
 Lithium phosphate	[Li+].[Li+].[Li+].[O-]P([O-])([O-])=O
+Demethylzeylasteral	C[C@]12CC[C@@](C[C@H]1[C@@]3(CC[C@]4(C5=CC(=C(C(=C5C(=O)C=C4[C@]3(CC2)C)C=O)O)O)C)C)(C)C(=O)O
 4-O-Desmethylmescaline	COC1=CC(=CC(=C1O)OC)CCN
 1,2,3,4-Tetraphenylbutadiene	C1=CC=C(C=C1)/C=C(/C(=C/C2=CC=CC=C2)/C3=CC=CC=C3)\C4=CC=CC=C4
 Taxoleic acid	CCCCCCCC/C=C\CC/C=C\CCCC(=O)O
+TAS2R14 agonist 28.1	CC1=CC(=NC(=N1)NC2=CC=CC=C2C3=NNN=N3)C(F)(F)F
+S9632	CC1=C(C(=C2C(=N1)C=CC=C2OCC(C)(C)C(=O)NC(C)C)N)C(=O)O
+Defenuron	CNC(=O)NC1=CC=CC=C1
