@@ -9923,6 +9923,7 @@ Benzenesulfonic acid	OS(=O)(=O)c1ccccc1
 Ammonium azide	[NH+4].[N-]=[N+]=[N-]
 SDZ SER-082	CN1CC[C@@H]2CN3CCC4=C3C(=CC=C4)[C@@H]2C1
 Calcium titanate	[Ca+2].[O-][Ti]([O-])=O
+Osmium dioxide	O=[Os]=O
 SB-649915	O=C4COc1ccc(cc1N4)CC(CC5)CCN5CCOc(cccc2n3)c2ccc3C
 3,4-Dihydroxystyrene	Oc1ccc(\C=C)cc1O
 Ethyltrifluoromethylaminoindane	CCNC1CC2=C(C1)C=C(C=C2)C(F)(F)F
@@ -11394,7 +11395,7 @@ RAM-378	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CCC6=CC=CC=C6)[C@H]([C@H]1O)OC5=C(C=C4)O
 14-Hydroxydihydrocodeine	COc5ccc1CC2C4(O)CCC(O)C3Oc5c1C34CCN2C
 Xanthosine	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)NC(=O)NC2=O
 Emoxypine	Oc1ccc(nc1CC)C
-Gigantine	O(c1cc2c(c(O)c1OC)CCN(C)[C@H]2C)C
+Gigantine	CC1C2=CC(=C(C(=C2CCN1C)O)OC)OC
 Neocuproine	n1c3c(ccc1C)ccc2ccc(nc23)C
 Vicianin	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)O[C@@H](C#N)C3=CC=CC=C3)O)O)O)O)O)O
 Enpiprazole	Clc3ccccc3N2CCN(CCc1cn(nc1)C)CC2
@@ -22739,3 +22740,19 @@ Taxoleic acid	CCCCCCCC/C=C\CC/C=C\CCCC(=O)O
 TAS2R14 agonist 28.1	CC1=CC(=NC(=N1)NC2=CC=CC=C2C3=NNN=N3)C(F)(F)F
 S9632	CC1=C(C(=C2C(=N1)C=CC=C2OCC(C)(C)C(=O)NC(C)C)N)C(=O)O
 Defenuron	CNC(=O)NC1=CC=CC=C1
+SBI-553	CN(CCO)C1=CC2=C(C=C1)N=C(N=C2N3CCC(CC3)C4=CC=CC=C4OC)C5(CC5)F
+Magnesium asparaginate	C([C@@H](C(=O)[O-])N)C(=O)N.C([C@@H](C(=O)[O-])N)C(=O)N.[Mg+2]
+Heliamine	COC1=C(C=C2CNCCC2=C1)OC
+Tehaunine	CN1CCC2=C(C(=C(C=C2C1)OC)OC)OC
+Lemaireocereine	COC1=C(C2=C(CCNC2)C=C1)OC
+Weberine	CN1CCC2=C(C1)C(=C(C(=C2OC)OC)OC)OC
+Carnegine	CC1C2=CC(=C(C=C2CCN1C)OC)OC
+N-Methylheliamine	CN1CCC2=CC(=C(C=C2C1)OC)OC
+Tehaunine N-oxide	COc1cc2CN(=O)(C)CCc2c(c1OC)OC
+Anhalonine	CC1C2=C3C(=C(C=C2CCN1)OC)OCO3
+Salsolidine	COc1cc2C(C)NCCc2cc1OC
+Peyotine	COc1c(OC)cc2c(c1O)C(C)[N+](CC2)(C)C
+Peyophorine	CCN1CCC2=CC(=C3C(=C2C1C)OCO3)OC
+O-Methylanhalonidine	CC1C2=C(C(=C(C=C2CCN1)OC)OC)OC
+N-Methylanhalinine	CN1CCC2=CC(=C(C(=C2C1)OC)OC)OC
+O-Methylpellotine	CC1C2=C(C(=C(C=C2CCN1C)OC)OC)OC
