@@ -22748,11 +22748,18 @@ Lemaireocereine	COC1=C(C2=C(CCNC2)C=C1)OC
 Weberine	CN1CCC2=C(C1)C(=C(C(=C2OC)OC)OC)OC
 Carnegine	CC1C2=CC(=C(C=C2CCN1C)OC)OC
 N-Methylheliamine	CN1CCC2=CC(=C(C=C2C1)OC)OC
+N-Methylheliamine	C1C=2C(=CC(OC)=C(C2)OC)CC[NH+]1C
 Tehaunine N-oxide	COc1cc2CN(=O)(C)CCc2c(c1OC)OC
 Anhalonine	CC1C2=C3C(=C(C=C2CCN1)OC)OCO3
+Anhalonine	C[C@H]1C=2C3=C(C(OC)=CC2CCN1)OCO3
 Salsolidine	COc1cc2C(C)NCCc2cc1OC
 Peyotine	COc1c(OC)cc2c(c1O)C(C)[N+](CC2)(C)C
 Peyophorine	CCN1CCC2=CC(=C3C(=C2C1C)OCO3)OC
 O-Methylanhalonidine	CC1C2=C(C(=C(C=C2CCN1)OC)OC)OC
 N-Methylanhalinine	CN1CCC2=CC(=C(C(=C2C1)OC)OC)OC
 O-Methylpellotine	CC1C2=C(C(=C(C=C2CCN1C)OC)OC)OC
+CTW0404	C1CN[C@@H](C[C@@H]1CCC2=CC=CC=C2)C(=O)NCCN3CCOCC3
+Noruron	O=C(NC1CC2CC1C3CCCC23)N(C)C
+Beryllium perchlorate	[Be+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+3-O-Desmethylmescaline	COC1=CC(=CC(=C1OC)O)CCN
+DOM-CR	CC1=CC(=C2CCNCC2=C1OC)OC
