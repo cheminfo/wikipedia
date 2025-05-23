@@ -22753,6 +22753,7 @@ Tehaunine N-oxide	COc1cc2CN(=O)(C)CCc2c(c1OC)OC
 Anhalonine	CC1C2=C3C(=C(C=C2CCN1)OC)OCO3
 Anhalonine	C[C@H]1C=2C3=C(C(OC)=CC2CCN1)OCO3
 Salsolidine	COc1cc2C(C)NCCc2cc1OC
+Peyotine	OC1=C2C(=CC(OC)=C1OC)CC[N+](C)(C)[C@H]2C
 Peyotine	COc1c(OC)cc2c(c1O)C(C)[N+](CC2)(C)C
 Peyophorine	CCN1CCC2=CC(=C3C(=C2C1C)OCO3)OC
 O-Methylanhalonidine	CC1C2=C(C(=C(C=C2CCN1)OC)OC)OC
@@ -22760,6 +22761,12 @@ N-Methylanhalinine	CN1CCC2=CC(=C(C(=C2C1)OC)OC)OC
 O-Methylpellotine	CC1C2=C(C(=C(C=C2CCN1C)OC)OC)OC
 CTW0404	C1CN[C@@H](C[C@@H]1CCC2=CC=CC=C2)C(=O)NCCN3CCOCC3
 Noruron	O=C(NC1CC2CC1C3CCCC23)N(C)C
+Ropanicant	C1[C@H]2C[C@H]2N[C@@H]1COC3=CN=C(C=C3)Cl
 Beryllium perchlorate	[Be+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 3-O-Desmethylmescaline	COC1=CC(=CC(=C1OC)O)CCN
 DOM-CR	CC1=CC(=C2CCNCC2=C1OC)OC
+Cadmium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cd+2].[Cd+2].[Cd+2]
+DOM-AT	CC1=CC(=C2CC(CCC2=C1OC)N)OC
+Lutetium-177 NeoBOMB1	C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC1=CN=CN1)C(=O)NC(CC(C)C)CC(C)C)NC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H](CC4=CC=CC=C4)NC(=O)COCC(=O)NC5=CC=C(C=C5)CNC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[177Lu+3]
+DETQ	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)C(=CC=C2)C(C)(C)O
+225Ac-PSMA-617	C1CC(CCC1CNC(=O)CN2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)N[C@@H](CC3=CC4=CC=CC=C4C=C3)C(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O.[Ac].[225Ac]
