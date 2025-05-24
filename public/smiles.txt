@@ -12425,7 +12425,7 @@ Saridegib	C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC[C@@H]6C[C@@H](CC
 PF-4840154	O=C(NCC1=CC=CC=C1)C(C=N2)=C(NCC(C)C)N=C2N(CC3)CCN3CC4CCCOC4
 Arachidonyl-2'-chloroethylamide	ClCCNC(=O)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
 Arachidonylcyclopropylamide	O=C(NC1CC1)CCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC
-Trinitroanisole	COc1cc(c(c(c1)N(=O)=O)N(=O)=O)N(=O)=O
+Trinitroanisole	COc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]
 Hydrangenol	C1C(OC(=O)C2=C1C=CC=C2O)C3=CC=C(C=C3)O
 Phyllodulcin	COc1ccc(cc1O)[C@H]2Cc3cccc(c3C(=O)O2)O
 Kopexil	c1cnc([n+](c1N)[O-])N
@@ -22163,6 +22163,7 @@ Pipramadol	CC(C(=O)N(C)C1CCCCC1)C2(CCN(CC2)CCC3=CC=CC=C3Cl)O
 Pipradimadol	CC(C)(C(=O)N(C)C1CCCCC1)C2(CCN(CC2)CCC3=CC=CC=C3Cl)O
 RO5203648	C1[C@@H](N=C(O1)N)C2=CC(=C(C=C2)Cl)Cl
 R1317	CCC(=O)OC1(CCN(CC1)C/C=C/C2=CC=CC=C2)C3=CC=CC=C3
+Dazadrol	C1CN=C(N1)C(C2=CC=C(C=C2)Cl)(C3=CC=CC=N3)O
 M.G. 6669	CC(C1CCC(CC1)C2=CC=CC=C2)N
 N-Methylacetamide	CC(=O)NC
 1,1-Dimethylurea	CN(C)C(=O)N
@@ -22763,6 +22764,7 @@ CTW0404	C1CN[C@@H](C[C@@H]1CCC2=CC=CC=C2)C(=O)NCCN3CCOCC3
 Noruron	O=C(NC1CC2CC1C3CCCC23)N(C)C
 Ropanicant	C1[C@H]2C[C@H]2N[C@@H]1COC3=CN=C(C=C3)Cl
 Beryllium perchlorate	[Be+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Beryllium perchlorate	[Be+2].O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 3-O-Desmethylmescaline	COC1=CC(=CC(=C1OC)O)CCN
 DOM-CR	CC1=CC(=C2CCNCC2=C1OC)OC
 Cadmium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Cd+2].[Cd+2].[Cd+2]
@@ -22770,3 +22772,12 @@ DOM-AT	CC1=CC(=C2CC(CCC2=C1OC)N)OC
 Lutetium-177 NeoBOMB1	C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC1=CN=CN1)C(=O)NC(CC(C)C)CC(C)C)NC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H](CC4=CC=CC=C4)NC(=O)COCC(=O)NC5=CC=C(C=C5)CNC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[177Lu+3]
 DETQ	C[C@H]1C2=C(C[C@@H](N1C(=O)CC3=C(C=CC=C3Cl)Cl)CO)C(=CC=C2)C(C)(C)O
 225Ac-PSMA-617	C1CC(CCC1CNC(=O)CN2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)N[C@@H](CC3=CC4=CC=CC=C4C=C3)C(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O.[Ac].[225Ac]
+Belamide A	CC(C)[C@@H](C(=O)N(C)[C@@H](C(C)C)C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)N2[C@H](C(=CC2=O)OC)CC3=CC=CC=C3)N(C)C
+LUF6000	C1CCC(CC1)C2=NC3=C(N2)C(=NC4=CC=CC=C43)NC5=CC(=C(C=C5)Cl)Cl
+Anthracene–maleic anhydride adduct	C1=CC=C2C3[C@@H]4[C@H](C(C2=C1)C5=CC=CC=C35)C(=O)OC4=O
+Tonapofylline	CCCN1C2=C(C(=O)N(C1=O)CCC)NC(=N2)C34CCC(CC3)(CC4)CCC(=O)O
+Empesertib	C[C@H](C1=CC=C(C=C1)F)C(=O)NC2=CC=C(C=C2)C3=CN4C(=NC(=N4)NC5=C(C=C(C=C5)S(=O)(=O)C)OC)C=C3
+4-Chlorophenylacetonitrile	C1=CC(=CC=C1CC#N)Cl
+Masticadienonic acid	CC(CC/C=C(\C)/C(=O)O)C1CCC2(C1(CCC3C2=CCC4C3(CCC(=O)C4(C)C)C)C)C
+Masticadienonic acid	C/C(=C/CC[C@H](C)[C@@H]1CC[C@]2(C)C3=CC[C@H]4C(C)(C)C(=O)CC[C@]4(C)[C@H]3CC[C@@]12C)C(=O)O
+4-Bromoresveratrol	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)Br
