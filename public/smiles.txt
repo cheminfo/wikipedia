@@ -16902,6 +16902,7 @@ Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)C
 Ponceau 3R	CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]
 Triangulene	c1cc2cc3cccc4c3c-5c2c(c1)[CH]c6c5c(ccc6)[CH]4
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
+Hexamethyl Dewar benzene	CC1=C(C2(C1(C(=C2C)C)C)C)C
 Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
 Sulfoxylic acid	OSO
 Danoprevir	CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
@@ -22795,3 +22796,12 @@ Encyprate	CCOC(=O)N(CC1=CC=CC=C1)C2CC2
 Cerium(III) phosphate	[O-]P(=O)([O-])[O-].[Ce+3]
 5C-D	CCCC(CC1=C(C=C(C(=C1)OC)C)OC)N
 6-Methoxyharmalan	CC1=NCCC2=C1NC3=C2C=C(C=C3)OC
+DFV890	CC(C)(C1=CN=C(S1)S(=CC(=O)NC2=C3CCCC3=CC4=C2CCC4)(=O)N)O
+JPC0323	CCCCCCCC/C=C\CCCCCCCC(=O)NC(CO)(CO)CO
+Dihexyltryptamine	CCCCCCN(CCCCCC)CCC1=CNC2=CC=CC=C21
+N-Methyl-DOI	CC(CC1=CC(=C(C=C1OC)I)OC)NC
+Desethylibogamine	c1ccc2c(c1)[nH]c1c2CCN2[C@@H]3[C@H]1C[C@H](C2)CC3
+Noribogaminalog	C1CNCCC2=C1C3=CC=CC=C3N2
+CT-5172	COC1C(Cl)=CC(Cl)=C(OC)C=1CCN([H])[H]
+CT-4719	C(OC)1=C(Cl)C=C(Cl)C(OCCN([H])[H])=C1
+CT-5126	C(Cl)1=CC(Cl)=C2OCC(N([H])[H])CC2=C1OC
