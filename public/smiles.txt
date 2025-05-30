@@ -5491,7 +5491,6 @@ Copper(I) acetylide	[C-]#[C-].[Cu+].[Cu+]
 Phytane	CCC(C)CCCC(C)CCCC(C)CCCC(C)C
 Tetrahydroxyborate	O[B-](O)(O)O
 Γ-Carotene	C(/C1=C(/CCCC1(C)C)C)=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C)C
-Calcium borate	[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-]
 Calcium borate	[Ca+2].[Ca+2].[Ca+2].[O-]B([O-])[O-].[O-]B([O-])[O-]
 Flibanserin	FC(F)(F)c4cc(N3CCN(CCN2c1ccccc1NC2=O)CC3)ccc4
 Undecylenic acid	C=CCCCCCCCCC(=O)O
@@ -22812,3 +22811,9 @@ Vipivotide tetraxetan	C1CC(CCC1CNC(=O)CN2CCN(CCN(CCN(CC2)CC(=O)O)CC(=O)O)CC(=O)O
 VA012	C1=CC=C(C=C1)CN2C=C(C3=CC=CC=C32)CNC4=CN=CC=C4
 CTW0415	C1CN[C@@H](C[C@@H]1C2=CC=CC=C2)C(=O)NC[C@@H](CO)O
 Tulmimetostat	CC1=CC(=C(C(=O)N1)CNC(=O)C2=CC(=C3C(=C2C)O[C@@](O3)(C)C4CCC(CC4)N5CC(C5)OC)Cl)SC
+Caesium phosphate	[O-]P(=O)([O-])[O-].[Cs+].[Cs+].[Cs+]
+MRS7292	CNC1=C2C(=NC(=N1)C#CC3=CC=C(S3)Cl)N(C=N2)[C@@H]4[C@H]5C[C@]5([C@H]([C@H]4O)O)C(=O)OC
+Buturon	CC(C#C)N(C)C(=O)NC1=CC=C(C=C1)Cl
+ABT-354	CCC1CN(N=C1)C(=NCC)NS(=O)(=O)C2=CC=C(S2)CNC(=O)C3=CC=CC=C3
+Fenharmane	C1CNC(C2=C1C3=CC=CC=C3N2)CC4=CC=CC=C4
+EZS-8	C1=CC=C2C(=C1)C(=O)N(C(=O)N2)CCN
