@@ -14095,7 +14095,6 @@ Epolactaene	C/C=C(\C=C(/C)\C=C\CC/C=C(\C)/C(=O)[C@@]12[C@@H](O1)C(NC2=O)(C)O)/C(
 Aurantiomide	CC(C)C[C@]1(c2nc3ccccc3c(=O)n2[C@H](C(=O)N1)CCC(=O)N)OC
 Aurantiomide	CC(C)C[C@]1(c2nc3ccccc3c(=O)n2[C@H](C(=O)N1)CCC(=O)N)O
 Aurantiomide	CC(C)/C=C\1/C2=NC3=CC=CC=C3C(=O)N2[C@H](C(=O)N1)CCC(=O)N
-Vermistatin	C/C=C/C1=CC(=O)C(=CO1)[C@H]2C3=C(C=C(C=C3C(=O)O2)OC)OC
 Vermiculine	CC(=O)C[C@@H]1CCC(=O)/C=C/C(=O)O[C@H](CC(C)=O)CCC(=O)/C=C/C(=O)O1
 Botryodiplodin	C(C)(=O)[C@H]1[C@@H](C)C(O)OC1
 Verrucosidin	C[C@@H]1[C@@]2([C@@H](O2)[C@](O1)(C)/C=C(\C)/C=C(\C)/[C@H]3[C@](O3)(C)C4=C(C(=C(C(=O)O4)C)OC)C)C
@@ -22818,3 +22817,9 @@ ABT-354	CCC1CN(N=C1)C(=NCC)NS(=O)(=O)C2=CC=C(S2)CNC(=O)C3=CC=CC=C3
 Fenharmane	C1CNC(C2=C1C3=CC=CC=C3N2)CC4=CC=CC=C4
 EZS-8	C1=CC=C2C(=C1)C(=O)N(C(=O)N2)CCN
 NBOMe-escaline	CCOC1=C(C=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC
+Juniperonic acid	CC/C=C\C/C=C\C/C=C\CCCC/C=C\CCCC(=O)O
+Adrenolutin	CN1C=C(C2=CC(=C(C=C21)O)O)O
+DOB-NBOMe	COc1cc(Br)c(cc1CC(NCc1ccccc1OC)C)OC
+DOI-NBOMe	COc1cc(I)c(cc1CC(NCc1ccccc1OC)C)OC
+DOM-NBOMe	CC1=CC(=C(C=C1OC)CC(C)NCC2=CC=CC=C2OC)OC
+DEMPDHPCA-2C-D	CCN(CC)C(C1C=C(C2=CC(OC)=C(C)C=C2OC)CN(C)C1)=O
