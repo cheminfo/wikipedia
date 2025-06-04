@@ -22597,6 +22597,7 @@ Bufoviridine	CN(C)CCC1=CNC2=C1C=C(C=C2)OS(=O)(=O)O
 Phenylethyl resorcinol	CC(C1=CC=CC=C1)C2=C(C=C(C=C2)O)O
 Fexagratinib	C[C@@H]1CN(C[C@@H](N1)C)C2=CC=C(C=C2)C(=O)NC3=NNC(=C3)CCC4=CC(=CC(=C4)OC)OC
 Arotinoid acid	C/C(=C\C1=CC=C(C=C1)C(=O)O)/C2=CC3=C(C=C2)C(CCC3(C)C)(C)C
+Iso-LSD	CCN(CC)C(=O)[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Curium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Cm+3].[Cm+3]
 Ammonium picolinate	C1=CC=NC(=C1)C(=O)[O-].[NH4+]
 Ammonium cinnamate	C1=CC=C(C=C1)C=CC(=O)[O-].[NH4+]
@@ -22838,3 +22839,6 @@ O-Methylnordehydrobufotenine	CN1CCC2=CNC3=C2C1=C(C=C3)OC
 2C-B-morpholine	COC1=CC(=C(C=C1C2CNCCO2)OC)Br
 Para-Iodomethamphetamine	CC(CC1=CC=C(C=C1)I)NC
 2,3-Dihydro-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3CNC4=CC=CC(=C34)C2=C1)C
+9,10-Dihydro-LSD	CCN(CC)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
+Phosphoryl dichloride fluoride	O=P(F)(Cl)Cl
+Nor-LSD	CCN(CC)C(=O)[C@H]1CN[C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1
