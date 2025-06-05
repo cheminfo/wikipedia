@@ -21123,6 +21123,7 @@ Mezigdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCN(CC5)C6
 Danicamtiv	C[C@@](C1CCN(CC1)C(=O)NC2=NOC=C2)(F)S(=O)(=O)C3=CN(N=C3C(F)F)C
 Avadomide	CC1=NC2=CC=CC(=C2C(=O)N1C3CCC(=O)NC3=O)N
 Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
+Palladium diarsenide	[Pd].[As].[As]
 Calcium arsenide	[Ca+2].[As-2][As-2].[Ca+2]
 Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 Ninerafaxstat	COC1=C(C(=C(C=C1)CN2CCN(CC2)CCOC(=O)C3=CN=CC=C3)OC)OC
@@ -22842,3 +22843,6 @@ Para-Iodomethamphetamine	CC(CC1=CC=C(C=C1)I)NC
 9,10-Dihydro-LSD	CCN(CC)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 Phosphoryl dichloride fluoride	O=P(F)(Cl)Cl
 Nor-LSD	CCN(CC)C(=O)[C@H]1CN[C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1
+FG-5893	COC(=O)C1=C(N=CC=C1)N2CCN(CC2)CCCC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F
+Hiragonic acid	CC=CCCC=CCCC=CCCCCC(=O)O
+LA-Aziridine	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1C(C1C)C
