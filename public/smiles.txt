@@ -6275,7 +6275,7 @@ Dehydroandrosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@H](C4)O)
 Honokiol	Oc1ccc(cc1C/C=C)c2cc(ccc2O)C\C=C
 Palonosetron	O=C5N([C@H]2C1CCN(CC1)C2)C[C@@H]4c3c5cccc3CCC4
 Monosodium phosphate	[Na+].[O-]P(=O)(O)O
-Orotidine 5'-monophosphate	c1c(n(c(=O)nc1O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C(=O)O
+Orotidine 5′-monophosphate	c1c(n(c(=O)nc1O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C(=O)O
 Solenopsin	CCCCCCCCCCC[C@@H]1CCC[C@H](N1)C
 Tropisetron	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(=O)c3c[nH]c2ccccc23
 Deoxycytidine monophosphate	c1cn(c(=O)nc1N)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O
@@ -11213,7 +11213,7 @@ Isoglutamine	C(CC(=O)O)[C@H](C(=O)N)N
 Dibenzocycloheptene	c1cc3c(cc1)Cc2c(cccc2)CC3
 Doxpicomine	CN(C)C(C1COCOC1)C2=CN=CC=C2
 RH-34	O=C1C=2C(NC(=O)N1CCNCC3=C(OC)C=CC=C3)=CC=CC2
-LSD-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
+LA-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
 AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
 WAY-181187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
 Pruvanserin	N#Cc2c1cccc(c1[nH]c2)C(=O)N4CCN(CCc3ccc(F)cc3)CC4
@@ -22615,6 +22615,9 @@ Japanic acid	C(CCCCCCCCCC(=O)O)CCCCCCCCCC(=O)O
 RU-28253	COC1=CC2=C(C=C1)NC=C2C3=CCCNC3
 RE-109	CN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)CCCC(=O)O
 Ximenic acid	CCCCCCCC/C=C\CCCCCCCCCCCCCCCC(O)=O
+Botryococcenes	C[C@H](CC/C=C(\C)/CCC=C(C)C)/C=C/[C@@](C)(CC/C=C(\C)/CCC=C(C)C)C=C
+Botryococcenes	CC(CCC(C)C(=C)CCC(C)C(=C)C)/C=C/C(C)(CC/C=C(\C)/CCC(C)C(=C)C)C=C
+Botryococcenes	C[C@H](CC[C@H](C)C(=C)CC[C@H](C)C(=C)C)/C=C/[C@@](C)(CC[C@H](C)C(=C)CC[C@H](C)C(=C)C)C=C
 BB-Cl-Amidine	C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)N[C@@H](CCCN=C(CCl)N)C3=NC4=CC=CC=C4N3
 Tridecanal	CCCCCCCCCCCCC=O
 Lumequeic acid	CCCCCCCC/C=C\CCCCCCCCCCCCCCCCCCCC(=O)O
@@ -22843,6 +22846,11 @@ Para-Iodomethamphetamine	CC(CC1=CC=C(C=C1)I)NC
 9,10-Dihydro-LSD	CCN(CC)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 Phosphoryl dichloride fluoride	O=P(F)(Cl)Cl
 Nor-LSD	CCN(CC)C(=O)[C@H]1CN[C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1
+Lysergic acid pyrrolinide	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1CC=CC1
 FG-5893	COC(=O)C1=C(N=CC=C1)N2CCN(CC2)CCCC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F
 Hiragonic acid	CC=CCCC=CCCC=CCCCCC(=O)O
+FG5865	C1CN(CCN1CCCC(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F)C4=C(C=CC=N4)C(=O)N
 LA-Aziridine	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1C(C1C)C
+2'-Deoxy-2'-fluorocytidine	C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)F
+LA-3Cl-SB	CC(Cl)C(C)NC(=O)C1CN(C)C2Cc3c[nH]c4cccc(C2=C1)c34
+MPD-75	CN1C[C@@H](C=C2[C@H]1CC3=CN(C4=CC=CC2=C34)C)C(=O)N5CCCC5
