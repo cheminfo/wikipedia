@@ -7313,7 +7313,7 @@ Lactaldehyde	O=CC(O)C
 Benzocyclobutadiene	C12=CC=CC=C1C=C2
 1,3-Dimethyl-2-imidazolidinone	CN1CCN(C1=O)C
 Alprenolol	O(c1ccccc1C\C=C)CC(O)CNC(C)C
-N-Formylmethionine-leucyl-phenylalanine	OC(=O)C(NC=O)CCSC.CC(C)CC(N)C(=O)NC(Cc1ccccc1)C(O)=O
+N-Formylmethionine-leucyl-phenylalanine	CC(C)C[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)NC(=O)[C@H](CCSC)NC=O
 DADLE	N[C@H](C(N[C@H](C)C(NCC(N[C@@H](CC1=CC=CC=C1)C(N[C@H](CC(C)C)C(O)=O)=O)=O)=O)=O)CC2=CC=C(O)C=C2
 Aloin	c1cc2c(c(c1)O)C(=O)c3c(cc(cc3O)CO)[C@H]2[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
 Tetrahydroisoquinoline	c1ccc2c(c1)CCNC2
@@ -15030,6 +15030,7 @@ Efinaconazole	C[C@H]([C@](CN1C=NC=N1)(C2=C(C=C(C=C2)F)F)O)N3CCC(=C)CC3
 4-Fluoro-L-threonine	C([C@H]([C@@H](C(=O)O)N)O)F
 N,N-Dimethylethylamine	CCN(C)C
 Balapiravir	O=c1nc(N)ccn1C2OC(N=[N+]=[N-])(COC(=O)C(C)C)C(OC(=O)C(C)C)C2OC(=O)C(C)C
+Pentamethylcyclopentadienyl ruthenium dichloride dimer	CC1=C([C](C(=C1C)C)C)C.CC1=C([C](C(=C1C)C)C)C.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]
 Pentamethylcyclopentadienyl ruthenium dichloride dimer	CC1=[C-]C(C(=C1C)C)(C)C.Cl[Ru]Cl
 Lithium metasilicate	[Li+].[Li+].[O-][Si](=O)[O-]
 Strictinin	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O
@@ -17960,6 +17961,7 @@ Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C
 Theasinensin D	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin E	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)O)O)O)O)O)O)O)O
 Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
+(Pentamethylcyclopentadienyl)aluminium(I)	C[C-]12[Al+]34567([Al+]89%10%11%12([Al+]3%13%14%15%16([Al+]48%17%18%19%20[C-]%21(C)C%17(C)=C%18(C)C%19(C)=C%20%21C)[C-]%22(C)C%13(C)=C%14(C)C%15(C)=C%16%22C)[C-]%23(C)C9(C)=C%10(C)C%11(C)=C%12%23C)C1(C)=C5(C)C6(C)=C72C
 Schradan	CN(C)P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C
 Bisphenol Z	C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
 Ibogaline	CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)OC)OC
@@ -18131,7 +18133,6 @@ Crenarchaeol	C[C@@H]1CCC[C@@H](C2CCC(C2)CCC[C@@H](COC[C@@H](OC[C@H](CCCC3CCC(C3)
 Color Developing Agent 3	CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O
 Color Developing Agent 4	CCN(CCO)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O
 Solvent Yellow 7	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
-Carrelame	c1ccc(cc1)C(c2ccccc2)N/C(=N/CC(=O)O)/Nc3cc(cc(c3)Cl)Cl
 Succinyl chloride	ClC(=O)CCC(Cl)=O
 3-Hydroxyasparagine	[C@H](C(C(=O)N)O)(C(=O)O)N
 Methyl phenyl sulfoxide	CS(=O)C1=CC=CC=C1
@@ -22855,4 +22856,11 @@ LA-Aziridine	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1C(C1C)C
 LA-3Cl-SB	CC(Cl)C(C)NC(=O)C1CN(C)C2Cc3c[nH]c4cccc(C2=C1)c34
 MPD-75	CN1C[C@@H](C=C2[C@H]1CC3=CN(C4=CC=CC2=C34)C)C(=O)N5CCCC5
 LR-1111	C1CN(CCN(C1)CCOC(C2=CC=CC=C2)C3=CC=CC=C3)CCCC4=CC=CC=C4
+Mefeclorazine	COC1=C(C=C(C=C1)CCN2CCN(CC2)C3=CC=CC=C3Cl)OC
+Aminocyclopropane	C1CC1N
 N-Methyl-2C-I	CNCCc1cc(OC)c(cc1OC)I
+Imazosulfuron	COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
+13-Hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC(=CC(=C34)C2=C1)O)C
+6-Hydroxy-DMT	CN(C)CCC1=CNC2=C1C=CC(=C2)O
+Lysergic acid ethyl-2-hydroxyethylamide	CCN(CCO)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+5-HO-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)O
