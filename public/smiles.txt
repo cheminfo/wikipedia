@@ -1245,7 +1245,7 @@ Hexadecane	CCCCCCCCCCCCCCCC
 Heptadecane	CCCCCCCCCCCCCCCCC
 Octadecane	C(CCCCCCCCCCCCCCCC)C
 Nonadecane	C(CCCCCCCCCCCCCCCCC)C
-Icosane	CCCCCCCCCCCCCCCCCCCC
+Eicosane	CCCCCCCCCCCCCCCCCCCC
 Alfentanil	O=C1N(\N=N/N1CC)CCN3CCC(N(c2ccccc2)C(=O)CC)(CC3)COC
 Nicotinamide adenine dinucleotide phosphate	O=C(N)c1ccc[n+](c1)[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(=O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4ncnc5N)[C@@H]([C@@H]3O)OP(=O)(O)O
 Chitosan	COC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)N)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)N)O)CO)CO)CO)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)N)O)N)O)N)O)N)O)N)O)N)O
@@ -22869,3 +22869,5 @@ Clofuperol	C1CN(CCC1(C2=CC(=C(C=C2)Cl)C(F)(F)F)O)CCCC(=O)C3=CC=C(C=C3)F
 Cloperidone	C1CN(CCN1CCCN2C(=O)C3=CC=CC=C3NC2=O)C4=CC(=CC=C4)Cl
 3-Me-PCE	CCNC1(CCCCC1)c2cc(C)ccc2
 Cyclopropane carboxylic acid	C1CC1C(=O)O
+25O-NBOMe	COc1cc(OC)c(cc1CCNCc1ccccc1OC)OC
+Corchorifatty acid F	CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
