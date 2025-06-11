@@ -10777,6 +10777,7 @@ L-Deoxyribose	OC[C@@H]1OC(O)C[C@H]1O
 Fabomotizole	CCOc3ccc2nc(SCCN1CCOCC1)[nH]c2c3
 Ammonium fluorosilicate	F[Si-2](F)(F)(F)(F)F.[NH4+].[NH4+]
 Peroxydicarbonate	[O-]C(=O)OOC([O-])=O
+Peroxydicarbonate	O=C(O)OOC(=O)O
 Peroxycarbonate	C(=O)([O-])O[O-]
 Abnormal cannabidiol	CCCCCC1=CC(=CC(=C1[C@H]2C=C(CC[C@H]2C(=C)C)C)O)O
 Scammonin I	O=C(CCCCCCCCC[C@H](CCCCC)O[C@H]1[C@@]2([H])[C@@H](O)[C@H](O)[C@@H](C)O1)O[C@H]([C@](O[C@@H]3O[C@H](C)[C@@H](OC(/C(C)=C/C)=O)[C@H](O)[C@H]3O)([H])[C@H](C)O4)[C@@H](OC([C@H](CC)C)=O)[C@@H]4O[C@@]5([H])[C@H](O2)O[C@H](CO)[C@@H](O)[C@@H]5O
@@ -20166,6 +20167,7 @@ Neodymium(III) phosphate	[O-]P(=O)([O-])[O-].[Nd+3]
 Ethyl trifluoroacetate	CCOC(=O)C(F)(F)F
 Constictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3CO)O)C(=O)OC4O)C=O)OC
 Bis(allyl)nickel	[CH2-]C=C.[CH2-]C=C.[Ni+2]
+Eicosadienoic acid	CCCCCC=CCC=CCCCCCCCCCC(=O)O
 7-Methylxanthine	CN1C=NC2=C1C(=O)NC(=O)N2
 Potassium perrhenate	[K+].[O-][Re](=O)(=O)=O
 Erythrohydrobupropion	[C@H]([C@H](NC(C)(C)C)C)(O)C1=CC(Cl)=CC=C1
@@ -22855,6 +22857,7 @@ LA-Aziridine	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1C(C1C)C
 2'-Deoxy-2'-fluorocytidine	C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)F
 LA-3Cl-SB	CC(Cl)C(C)NC(=O)C1CN(C)C2Cc3c[nH]c4cccc(C2=C1)c34
 MPD-75	CN1C[C@@H](C=C2[C@H]1CC3=CN(C4=CC=CC2=C34)C)C(=O)N5CCCC5
+S-350 (drug)	C1CN(CCN1CCC(=O)O)CCOC(C2=CC=CC=C2)C3=CC=C(C=C3)F
 LR-1111	C1CN(CCN(C1)CCOC(C2=CC=CC=C2)C3=CC=CC=C3)CCCC4=CC=CC=C4
 Mefeclorazine	COC1=C(C=C(C=C1)CCN2CCN(CC2)C3=CC=CC=C3Cl)OC
 Aminocyclopropane	C1CC1N
@@ -22871,3 +22874,6 @@ Cloperidone	C1CN(CCN1CCCN2C(=O)C3=CC=CC=C3NC2=O)C4=CC(=CC=C4)Cl
 Cyclopropane carboxylic acid	C1CC1C(=O)O
 25O-NBOMe	COc1cc(OC)c(cc1CCNCc1ccccc1OC)OC
 Corchorifatty acid F	CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
+A-85380	C1CN[C@@H]1COC2=CN=CC=C2
+Rezuforimod	CC(C)C[C@@H](C(=O)NCC(=O)O)NC(=O)NC1=CC=C(C=C1)Br
+DDD-016	CN1CCC2=C(C1)C3=C4N2C5=CC=CC=C5CSC4=CC=C3
