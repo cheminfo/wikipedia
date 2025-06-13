@@ -4092,7 +4092,7 @@ Seliciclib	CC[C@H](CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=CC=C3
 Thiophosgene	ClC(Cl)=S
 Promethium(III) oxide	[O-2].[O-2].[O-2].[Pm+3].[Pm+3]
 Genistein	Oc1ccc(cc1)C\3=C\Oc2cc(O)cc(O)c2C/3=O
-6-Monoacetylmorphine	CC(=O)O[C@H]1/C=C\[C@H]2[C@H]3Cc4ccc(O)c5O[C@@H]1[C@]2(CCN3C)c45
+6-Monoacetylmorphine	[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2OC(C)=O
 Ethyl diazoacetate	CCOC(=O)C=[N+]=[N-]
 Triazabicyclodecene	N\2=C1/NCCCN1CCC/2
 Levosalbutamol	OCc1cc(ccc1O)[C@@H](O)CNC(C)(C)C
@@ -4354,7 +4354,6 @@ Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
 Indium(III) sulfide	S=[In]S[In]=S
 Indium(III) sulfate	[In+3].[In+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Indium(III) telluride	[Te]=[In][Te][In]=[Te]
-Lanthanum carbide	[C-]#[C].[La]
 Lanthanum(III) chloride	Cl[La](Cl)Cl
 Lead(II) fluoride	F[Pb]F
 Lithium aluminate	[Li+].[O-][Al]=O
@@ -18169,7 +18168,7 @@ Methyl phenyldiazoacetate	COC(=O)C(=[N+]=[N-])C1=CC=CC=C1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
 Tropifexor	C1C[C@H]2CC(C[C@@H]1N2C3=NC4=C(C=C(C=C4S3)C(=O)O)F)OCC5=C(ON=C5C6=CC=CC=C6OC(F)(F)F)C7CC7
 Trifluoromethyl cation	[C+](F)(F)F
-Hexaamminenickel chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Ni+2]
+Hexaamminenickel chloride	[NH3+][Ni-4]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+].[Cl-].[Cl-]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC.[Cl-]
@@ -19410,7 +19409,7 @@ Hemimellitic acid	C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
 4-Et-PVP	CCCC(C(=O)c1ccc(CC)cc1)N1CCCC1
 4-Fluoroethylphenidate	Fc1ccc(cc1)C(C(=O)OCC)C1CCCCN1
 Lascufloxacin	COC1=C2C(=CC(=C1N3C[C@@H]([C@@H](C3)F)CNC4CC4)F)C(=O)C(=CN2CCF)C(=O)O
-Potassium tetracyanonickelate	[K+].[K+].N#C[Ni-2](C#N)(C#N)C#N
+Potassium tetracyanonickelate	[K+].[K+].[N-]#C[Ni+2](C#[N-])(C#[N-])C#[N-]
 Decahydroisoquinoline	C1CCC2CNCCC2C1
 5F-JWH-398	Clc1ccc(c2ccccc21)C(=O)c1cn(CCCCCF)c2ccccc21
 CHM-081	COC1=CC=C(C2=CC=CC=C21)C(=O)C3=CN(C4=CC=CC=C43)CC5CCCCC5
@@ -22877,8 +22876,14 @@ Corchorifatty acid F	CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
 A-85380	C1CN[C@@H]1COC2=CN=CC=C2
 Rezuforimod	CC(C)C[C@@H](C(=O)NCC(=O)O)NC(=O)NC1=CC=C(C=C1)Br
 DDD-016	CN1CCC2=C(C1)C3=C4N2C5=CC=CC=C5CSC4=CC=C3
+Ni(COD)(DQ)	CC1=C(C(=O)C(=C(C1=O)C)C)C.C1CC=CCCC=C1.[Ni]
+Maleamic acid	C(=C\C(=O)O)\C(=O)N
 1-Methyl-4-piperidone	CN1CCC(=O)CC1
 THC methylcarbonate	COC(=O)Oc1cc(CCCCC)cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c21
+Citenamide	C1=CC=C2C(C3=CC=CC=C3C=CC2=C1)C(=O)N
 Dazucorilant	C1CN(C[C@@]2(C1=CC3=C(C2)C=NN3C4=CC=C(C=C4)F)C(=O)C5=CC=CC=N5)S(=O)(=O)C6=CC=C(C=C6)C(F)(F)F
 AW-15'1129	C1CN2C(NC3=CC=CC=C3C2=N1)C4=CC=C(C=C4)Cl
 Ro07-3953	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=C(C=CC=C3F)F
+AB-MDMSBA	CC1=C(C=C(C=C1)C(=O)N[C@@H](C(C)C)C(=O)N)S(=O)(=O)N(C)C
+Cychlorphine	CC(C1=CC=C(C=C1)Cl)N2CCC(CC2)N3C4=CC=CC=C4N(C3=O)CCC#N
+Docosadienoic acid	CCCCCCCCCCCCCCCCCC=CC=CC(=O)O
