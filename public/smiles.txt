@@ -13380,7 +13380,6 @@ Methylmercuric dicyanamide	C[Hg]N=C(N)NC#N
 Metolcarb	O=C(Oc1cc(ccc1)C)NC
 Olcegepant	C1CN(CCC1N2CC3=CC=CC=C3NC2=O)C(=O)N[C@H](CC4=CC(=C(C(=C4)Br)O)Br)C(=O)N[C@@H](CCCCN)C(=O)N5CCN(CC5)C6=CC=NC=C6
 Malvidin glucoside-ethyl-catechin	CC(c1c2[o+]c(c(cc2c(O)cc1O)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)-c1cc(OC)c(O)c(c1)OC)c1c2OC(C(O)Cc2c(O)cc1O)c1cc(O)c(O)cc1
-Tetrakis(pyridine)silver(II) peroxydisulfate	[Ag].[O-]S(=O)(=O)OOS([O-])(=O)=O.n1ccccc1.n1ccccc1.n1ccccc1.n1ccccc1
 Zofenoprilat	C[C@H](CS)C(=O)N1C[C@H](C[C@H]1C(O)=O)SC1=CC=CC=C1
 Rhenium(VII) sulfide	S=[Re](=S)(=S)S[Re](=S)(=S)=S
 Paramenthane hydroperoxide	CC1CCC(C(C1)OO)C(C)C
@@ -22884,6 +22883,13 @@ Citenamide	C1=CC=C2C(C3=CC=CC=C3C=CC2=C1)C(=O)N
 Dazucorilant	C1CN(C[C@@]2(C1=CC3=C(C2)C=NN3C4=CC=C(C=C4)F)C(=O)C5=CC=CC=N5)S(=O)(=O)C6=CC=C(C=C6)C(F)(F)F
 AW-15'1129	C1CN2C(NC3=CC=CC=C3C2=N1)C4=CC=C(C=C4)Cl
 Ro07-3953	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=C(C=CC=C3F)F
+Spirodecanone	C1CNCCC12C(=O)NCN2C3=CC=CC=C3
 AB-MDMSBA	CC1=C(C=C(C=C1)C(=O)N[C@@H](C(C)C)C(=O)N)S(=O)(=O)N(C)C
 Cychlorphine	CC(C1=CC=C(C=C1)Cl)N2CCC(CC2)N3C4=CC=CC=C4N(C3=O)CCC#N
 Docosadienoic acid	CCCCCCCCCCCCCCCCCC=CC=CC(=O)O
+Mioflazine	C1CN(C(CN1CC(=O)NC2=C(C=CC=C2Cl)Cl)C(=O)N)CCCC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F
+Isochorismic acid	O=C(O)C(OC1C=CC=C(C(=O)O)C1O)=C
+Isochorismic acid	C=C(C(=O)[O-])O[C@H]1C=CC=C([C@@H]1O)C(=O)[O-]
+Allocinnamic acid	C1=CC=C(C=C1)C=CC(=O)O
+Taletrectinib	C[C@@H](N)COc1ccc(-c2cnc3ccc(N[C@H](C)c4cccc(F)c4)nn23)cc1
+NBOMe-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CC5=CC=CC=C5OC
