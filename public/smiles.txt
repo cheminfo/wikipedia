@@ -11940,6 +11940,7 @@ Quizartinib	CC(C)(C)c1cc(no1)NC(=O)Nc2ccc(cc2)c3cn4c5ccc(cc5sc4n3)OCCN6CCOCC6
 KT5720	CCCCCCOC(=O)[C@@]1(C[C@H]2N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N(C7=C53)[C@@]1(O2)C)CNC6=O)O
 A-834,735	C4COCCC4Cn(c3)c2ccccc2c3C(=O)C1C(C)(C)C1(C)C
 GW-842,166X	C3COCCC3CNC(=O)c1cnc(nc1C(F)(F)F)Nc2ccc(Cl)cc2Cl
+Glycolide	O=C1COC(=O)CO1
 Sinensetin	COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC
 Vince lactam	O=C1N[C@@H]2\C=C/[C@H]1C2
 Vince lactam	C1[C@H]2C=C[C@@H]1NC2=O
@@ -13110,6 +13111,7 @@ Diphenyl sulfone	O=S(=O)(c1ccccc1)c2ccccc2
 Polonium hexafluoride	F[Po](F)(F)(F)(F)F
 Levomethadone	O=C(C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC
 Iomazenil	CCOC(=O)c1c2n(cn1)-c3cccc(c3C(=O)N(C2)C)I
+Trifluoromethylation	[C+](F)(F)F
 Pseudophenmetrazine	C[C@@H]1[C@@H](OCCN1)C2=CC=CC=C2
 L-Norpseudoephedrine	O[C@H](c1ccccc1)[C@H](N)C
 Omiloxetine	Fc1ccc(cc1)C(=O)CN3CC[C@H](c2ccc(F)cc2)[C@H](C3)COc4ccc5OCOc5c4
@@ -18166,7 +18168,6 @@ Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
 Methyl phenyldiazoacetate	COC(=O)C(=[N+]=[N-])C1=CC=CC=C1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
 Tropifexor	C1C[C@H]2CC(C[C@@H]1N2C3=NC4=C(C=C(C=C4S3)C(=O)O)F)OCC5=C(ON=C5C6=CC=CC=C6OC(F)(F)F)C7CC7
-Trifluoromethyl cation	[C+](F)(F)F
 Hexaamminenickel chloride	[NH3+][Ni-4]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+].[Cl-].[Cl-]
 Hexaammineplatinum(IV) chloride	N.N.N.N.N.N.[Cl-].[Cl-].[Cl-].[Cl-].[Pt+4]
 Dioleoyl-3-trimethylammonium propane	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
@@ -22799,6 +22800,7 @@ Dehydroabietic acid	CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)C(=O)O)C
 Ethylbromazolam	BrC1=CC=C(C2=C1)N3C(CN=C2C4=CC=CC=C4)=NN=C3CC
 DOM-AI	CC1=CC(=C2CC(CC2=C1OC)N)OC
 Encyprate	CCOC(=O)N(CC1=CC=CC=C1)C2CC2
+Cyprolidol	C1C(C1C(C2=CC=CC=C2)(C3=CC=CC=C3)O)C4=CC=NC=C4
 Cerium(III) phosphate	[O-]P(=O)([O-])[O-].[Ce+3]
 Diphenylacetonitrile	C1=CC=C(C=C1)C(C#N)C2=CC=CC=C2
 5C-D	CCCC(CC1=C(C=C(C(=C1)OC)C)OC)N
@@ -22893,3 +22895,6 @@ Isochorismic acid	C=C(C(=O)[O-])O[C@H]1C=CC=C([C@@H]1O)C(=O)[O-]
 Allocinnamic acid	C1=CC=C(C=C1)C=CC(=O)O
 Taletrectinib	C[C@@H](N)COc1ccc(-c2cnc3ccc(N[C@H](C)c4cccc(F)c4)nn23)cc1
 NBOMe-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CC5=CC=CC=C5OC
+N-Bn-THAZ	C1CNCCC2=C1C(=O)N(O2)CC3=CC=CC=C3
+Fosenazide	C1=CC=C(C=C1)P(=O)(CC(=O)NN)C2=CC=CC=C2
+N-Benzyltryptamine	C1=CC=C(C=C1)CNCCC2=CNC3=CC=CC=C32
