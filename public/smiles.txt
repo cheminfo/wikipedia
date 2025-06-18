@@ -6705,7 +6705,7 @@ Propiverine	CCCOC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OC3CCN(CC3)C
 Meladrazine	CCN(CC)C1=NC(=NN)N=C(N1)N(CC)CC
 Emepronium bromide	CC[N+](C)(C)C(C)CC(c1ccccc1)c2ccccc2.[Br-]
 Triclocarban	Clc2ccc(NC(=O)Nc1ccc(Cl)cc1)cc2Cl
-Etybenzatropine	CCN1[C@@H]2CC[C@H]1C[C@H](C2)OC(c3ccccc3)c4ccccc4
+Etybenzatropine	CCN1[C@@H]2CC[C@H]1CC(C2)OC(C3=CC=CC=C3)C4=CC=CC=C4
 Etanautine	O=C2N(c1ncn(c1C(=O)N2C)CC(=O)O)C.O(CCN(C)C)C(c1ccccc1)c2ccccc2
 Tropatepine	S3c1ccccc1/C(c2c(cccc2)C3)=C5/CC4N(C)C(CC4)C5
 Bornaprine	O=C(OCCCN(CC)CC)C2(c1ccccc1)CC3CCC2C3
@@ -22907,3 +22907,11 @@ Tubercidin	C1=CN(C2=NC=NC(=C21)N)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O
 Feclemine	CCN(CC)CC(CN(CC)CC)C(C1CCCCC1)C2=CC=CC=C2
 SANA (drug)	C1=CC(=C(C=C1C=C[N+](=O)[O-])C(=O)O)O
 DragonFLY	CC(CC1=C2C(=CC3=C1C=CO3)C=CO2)N
+DOH-FLY	CC(CC1=C2C(=CC3=C1CCO3)CCO2)N
+Mescaline-FLY	COC1=C2C(=C(C3=C1OCC3)CCN)CCO2
+Iminodibenzyl	C1CC2=CC=CC=C2NC3=CC=CC=C31
+3-Oxopropanoic acid	C([C-]=O)C(=O)O
+6-Methoxytryptamine	COC1=CC2=C(C=C1)C(=CN2)CCN
+6-Hydroxytryptamine	C1=CC2=C(C=C1O)NC=C2CCN
+5-HO-DPT	CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)O
+5-Methoxyharmalan	CC1=NCCC2=C1NC3=C2C(=CC=C3)OC
