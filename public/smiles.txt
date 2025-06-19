@@ -1490,8 +1490,7 @@ Pralatrexate	O=C(O)[C@@H](NC(=O)c1ccc(cc1)C(CC#C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
 12-O-Tetradecanoylphorbol-13-acetate	CCCCCCCCCCCCCC(=O)O[C@@H]2C(C)[C@]1(O)C4/C=C(/C)C(=O)[C@@]4(O)CC(\CO)=C/[C@H]1[C@H]3[C@]2(OC(C)=O)C3(C)C
 Tanespimycin	C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCC=C)/C)OC)OC(=O)N)\C)C)O)OC
 2-Methoxyestradiol	Oc1cc3c(cc1OC)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@@H]2CC3)C
-3-Aminopyridine-2-carboxaldehyde thiosemicarbazone	S=C(N\N=C\c1ncccc1N)N
-3-Aminopyridine-2-carboxaldehyde thiosemicarbazone	C1=CC(=C(N=C1)C=NNC(=S)N)N
+Triapine	C1=CC(=C(N=C1)/C=N/NC(=S)N)N
 Idarubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@@](O)(C(=O)C)C[C@@H]5O[C@@H]4O[C@H]([C@@H](O)[C@@H](N)C4)C
 4-Nitroquinoline 1-oxide	[O-][N+](=O)c2c1c(cccc1)[n+]([O-])cc2
 Fluorouracil	O=C1NC(=O)NC=C1F
@@ -8871,7 +8870,7 @@ Glycerol 1-phosphate	C([C@@H](COP(=O)(O)O)O)O
 Prasterone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C
 Cyclic olefin polymer	C12CC(CC1)C=C2
 Acid orange 5	c1ccc(cc1)Nc2ccc(cc2)/N=N/c3ccc(cc3)S(=O)(=O)[O-].[Na+]
-Acid Orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
+Acid orange 7	[Na+].[O-]S(=O)(=O)c1ccc(cc1)N=Nc2c3ccccc3ccc2O
 Performic acid	O=COO
 3-Chloropropanoic acid	C(CCl)C(=O)O
 Coelenterazine	C1=CC=C(C=C1)CC2=C3N=C(C(=O)N3C=C(N2)C4=CC=C(C=C4)O)CC5=CC=C(C=C5)O
@@ -9550,7 +9549,7 @@ P-Azobenzenearsonate	O[As](O)(=O)c2ccc(/N=N/c1ccc(cc1)[As](O)(O)=O)cc2
 P-Azobenzenearsonate	O[As](O)(=O)C1=CC=C(C=C1)N=NC1=CC=C(C=C1)[As](O)(O)=O
 Arsenamide	O=C(N)c1ccc(cc1)[As](SCC(=O)O)SCC(=O)O
 Methasterone	O=C2C[C@@H]1CC[C@@H]3[C@@H]([C@@]1(C)C[C@H]2C)CC[C@]4([C@H]3CC[C@@]4(O)C)C
-Atevirdine	O=C(N2CCN(c1ncccc1NCC)CC2)c4cc3cc(OC)ccc3[nH]4
+Atevirdine	CCNC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)OC
 Lodenosine	F[C@H]3C[C@H](O[C@H]3n2cnc1c(ncnc12)N)CO
 Emivirine	CCOCN1C(=C(C(=O)NC1=O)C(C)C)CC2=CC=CC=C2
 Capravirine	O=C(OCc2nc(c(Sc1cc(Cl)cc(Cl)c1)n2Cc3ccncc3)C(C)C)N
@@ -17277,7 +17276,7 @@ Dibenzoxepin	C1=CC=C2C(=C1)C=C3C=CC=CC3=CO2
 Cidoxepin	CN(C)CC/C=C\1/C2=CC=CC=C2COC3=CC=CC=C31
 Direct Blue 15	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)NN=C3C(=CC4=CC(=CC(=C4C3=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-])OC)NN=C5C(=CC6=CC(=CC(=C6C5=O)N)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 Dibudinic acid	CC(C)(C)C1=C(C2=C(C=C1)C(=C(C=C2)C(C)(C)C)S(=O)(=O)O)S(=O)(=O)O
-Acid Red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
+Acid red 13	C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])NN=C3C4=C(C=CC3=O)C=C(C=C4)S(=O)(=O)[O-].[Na+].[Na+]
 Selenophene	C1=C[Se]C=C1
 Methylidynetricobaltnonacarbonyl	[O+]#C[Co-3]12(C#[O+])(C#[O+])[Co-3]3(C#[O+])(C#[O+])(C#[O+])[Co-3]1(C#[O+])(C#[O+])(C#[O+])C23
 Borane carbonyl	[BH3-]C#[O+]
@@ -22915,3 +22914,7 @@ Iminodibenzyl	C1CC2=CC=CC=C2NC3=CC=CC=C31
 6-Hydroxytryptamine	C1=CC2=C(C=C1O)NC=C2CCN
 5-HO-DPT	CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)O
 5-Methoxyharmalan	CC1=NCCC2=C1NC3=C2C(=CC=C3)OC
+4-Methoxytryptamine	COC1=CC=CC2=C1C(=CN2)CCN
+Diisopropylamine dichloroacetate	CC(C)NC(C)C.OC(=O)C(Cl)Cl
+Thorium disilicide	[Si]=[Th]=[Si]
+7-MeO-DMT	CN(C)CCC1=CNC2=C1C=CC=C2OC
