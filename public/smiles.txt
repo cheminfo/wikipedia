@@ -614,7 +614,7 @@ Uranium hexafluoride	F[U](F)(F)(F)(F)F
 Aldosterone	O=C(CO)[C@@H]4[C@@]3(C=O)C[C@H](O)[C@@H]2[C@@]1(/C(=C\C(=O)CC1)CC[C@H]2[C@@H]3CC4)C
 Glyceraldehyde	O=CC(O)CO
 Cyanogen	N#CC#N
-Lead(II) sulfate	[O-]S(=O)(=O)[O-].[PbH4+2]
+Lead(II) sulfate	[O-]S(=O)(=O)[O-].[Pb+2]
 Bupropion	O=C(C(C)NC(C)(C)C)C1=CC=CC(Cl)=C1
 Nitrous acid	O=NO
 Nitrite	N(=O)[O-]
@@ -18953,7 +18953,7 @@ Indium(III) nitrate	[N+](=O)([O-])O[In](O[N+](=O)[O-])O[N+](=O)[O-].O.O.O.O
 Tetrabromo-o-xylene	C1=CC=C(C(=C1)C(Br)Br)C(Br)Br
 18-Hydroxycortisol	C1(=O)CC[C@@]2([C@]3([C@H](C[C@@]4([C@@](CC[C@]4([C@@]3(CCC2=C1)[H])[H])(C(=O)CO)O)CO)O)[H])C
 Iodine nitrate	[N+](=O)([O-])OI
-Δ-8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
+Δ8-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3CC(=CCC3C(OC2=C1)(C)C)C)O
 GSK417651A	COC1=CC=C(C=C1)NC2=NC(=CS2)C(=O)N3CCC4=CC=CC=C4C3
 HS665	C1CC(C1)CN(CCC2=CC=CC=C2)CCC3=CC(=CC=C3)O
 ML-SA1	CC1CC(N(C2=CC=CC=C12)C(=O)CN3C(=O)C4=CC=CC=C4C3=O)(C)C
@@ -19187,16 +19187,16 @@ Indaziflam	C[C@H]1CC2=C([C@@H]1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
 7-Hydroxycannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)CO)O
 Ammonium selenide	[NH4+].[NH4+].[Se-2]
 Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O
-Δ-4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
+Δ4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
 Tetraethylammonium tetrachloroferrate	CC[N+](CC)(CC)CC.[Cl-].Cl[Fe](Cl)Cl
 Tetraethylammonium tetrachloronickelate	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Ni]([Cl-])([Cl-])Cl
 Bisantrene	C(=NNC1=NCCN1)c1c2ccccc2c(C=NNC2=NCCN2)c2ccccc12
-Δ-3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
-Δ-7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
+Δ3-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=C(CC[C@@H](C3)C)C(OC2=C1)(C)C)O
+Δ7-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](C=C[C@H]3C(OC2=C1)(C)C)C)O
 2-Methyloctane	CCCCCCCCC
 Aszonalenin	CC(C)(C=C)[C@]12C[C@@H]3C(=O)NC4=CC=CC=C4C(=O)N3[C@H]1NC5=CC=CC=C25
-Δ-10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
+Δ10-Tetrahydrocannabinol	CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O
 Butafenacil	CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
 Rhodium(III) bromide	[Br-].[Br-].[Br-].[Rh+3]
 Dasiglucagon	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)NC(C)(C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CNC=N7)N)O
@@ -19538,12 +19538,12 @@ Piflufolastat (18F)	OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O
 Flubrotizolam	CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4F
 Fluetizolam	CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4F)C
 Bis(trifluoromethyl) disulfide	C(F)(F)(F)SSC(F)(F)F
-Δ-6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
+Δ6-Cannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2CC(=CC[C@H]2C(=C)C)C)O
 THC morpholinylbutyrate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCCN4CCOCC4
 THC hemisuccinate	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)CCC(=O)O
 8,11-Dihydroxytetrahydrocannabinol	CCCCCc1cc2OC(C)(C)[C@@H]3C[C@@H](O)C(=C[C@H]3c2c(O)c1)CO
 Cannabidiol dimethyl ether	CCCCCC1=CC(=C(C(=C1)OC)[C@@H]2C=C(CC[C@H]2C(=C)C)C)OC
-11-Hydroxy-Δ-8-THC	CCCCCC1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)CO)O
+11-Hydroxy-Δ8-THC	CCCCCC1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)CO)O
 3'-Hydroxy-THC	CC[C@H](O)CCc1cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c2c(O)c1
 Silanide	[SiH3-]
 Arsinide	[AsH2-]
@@ -20460,7 +20460,7 @@ Zinc acetylacetonate	C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].O.[Zn+2]
 Potassium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
 Lead stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Pb+2]
 C4-FN	C(#N)C(C(F)(F)F)(C(F)(F)F)F
-Δ-11-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(=C)CC[C@H]3C(OC2=C1)(C)C)O
+Δ11-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(=C)CC[C@H]3C(OC2=C1)(C)C)O
 Caesium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Cs+]
 (3-(2-Furoyl)-quinoline-2 carboxaldehyde)	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
 Ferric stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Fe+3]
@@ -20986,6 +20986,7 @@ Nitrosyl perchlorate	N(=O)OCl(=O)(=O)=O
 Pentachlorocyclopropane	C1(C(C1(Cl)Cl)(Cl)Cl)Cl
 Tellurium tetraazide	[N-]=[N+]=N\[Te](\N=[N+]=[N-])(\N=[N+]=[N-])\N=[N+]=[N-]
 Selenium tetraazide	[N-]=[N+]=N[Se](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
+Crisugabalin	C1C[C@@H]2[C@@H]3C[C@H]1C[C@@H]3[C@@]2(CC(=O)O)CN
 CVN45502	C[C@@]1(CCC[C@@H]1NC(=O)C2=C(C=CC=N2)N3N=CC=N3)NC4=NC=C(N=C4)C(F)(F)F
 Ecnoglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC6=CNC=N6)N
 HGH Fragment 176–191	N(C([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@H](CC1=CC=CC=C1)N)=O)CC(C)C)=O)CCCNC(=N)N)=O)[C@H](CC)C)=O)[C@H](C)C)=O)CCC(N)=O)=O)[C@@H]2C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@H](C(NCC(N[C@@H](CC3=CC=CC=C3)C(O)=O)=O)=O)CSSC2
@@ -22912,6 +22913,7 @@ Iminodibenzyl	C1CC2=CC=CC=C2NC3=CC=CC=C31
 3-Oxopropanoic acid	C([C-]=O)C(=O)O
 6-Methoxytryptamine	COC1=CC2=C(C=C1)C(=CN2)CCN
 6-Hydroxytryptamine	C1=CC2=C(C=C1O)NC=C2CCN
+Dysprosium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Dy+3].[Dy+3]
 5-HO-DPT	CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)O
 5-Methoxyharmalan	CC1=NCCC2=C1NC3=C2C(=CC=C3)OC
 4-Methoxytryptamine	COC1=CC=CC2=C1C(=CN2)CCN
@@ -22923,4 +22925,15 @@ CX1739	CN(C1CCOCC1)C(=O)C2=CC3=NON=C3C=C2
 ACEA-1328	CC1=CC2=C(C(=C1C)[N+](=O)[O-])NC(=O)C(=O)N2
 P-7521	COC1(C2CCCC1CN(C2)CCC3=CC=CC=C3)C4=CC(=CC=C4)O
 Nolomirole	CC(C)C(=O)OC1=C(C2=C(CC(CC2)NC)C=C1)OC(=O)C(C)C
+CHF-1024	CNC1CCC2=C(C1)C=CC(=C2O)O
 Carmoxirole	C1CN(CC=C1C2=CC=CC=C2)CCCCC3=CNC4=C3C=C(C=C4)C(=O)O
+DPP-26	CCS(=O)(=O)C(CC(C)N1CCCCC1)(C2=CC=CC=C2)C3=CC=CC=C3
+N-Benzyl-N-desmethyltramadol	CN(C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O)CC3=CC=CC=C3
+Chloroosmic acid	[H+].[H+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
+N,N-Dimethyletonitazene	CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)[N+](=O)[O-]
+Lanthanum disilicide	[Si].[La].[Si]
+10-Hydroxy-THC	CCCCCC1=CC(=C2[C@H]3[C@@H](CC=C([C@@H]3O)C)C(OC2=C1)(C)C)O
+10-Hydroxy-HHC	CC1(C)Oc2cc(CCCCC)cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21
+10-Hydroxy-HHCP	CC1(C)Oc2cc(cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21)CCCCCCC
+2C-CN	COC1=CC(=C(C=C1CCN)OC)C#N
+DOYN	COc1cc(C#C)c(cc1CC(N)C)OC
