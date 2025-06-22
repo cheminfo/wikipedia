@@ -18719,8 +18719,8 @@ Peroxydiphosphoric acid	OP(=O)(O)OOP(=O)(O)O
 Iodine tribromide	BrI(Br)Br
 Togni reagent II	C1=CC=C2C(=C1)C(=O)OI2C(F)(F)F
 Cyclobutanol	OC1CCC1
-Nickel dicyanide	[C-]#N.[C-]#N.[Ni+2]
-Nickel dicyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
+Nickel(II) cyanide	[C-]#N.[C-]#N.[Ni+2]
+Nickel(II) cyanide	[C-]#N.[C-]#N.O.O.O.O.[Ni+2]
 Brinzolamide/brimonidine	CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC.C1CN=C(N1)NC2=C(C3=NC=CN=C3C=C2)Br
 SCH-79797	CC(C)C1=CC=C(C=C1)CN2C=CC3=C2C=CC4=C3C(=NC(=N4)NC5CC5)N
 Sucrose octapropionate	O=C(O[C@H]1[C@H](O[C@H](COC(=O)CC)[C@@H](OC(=O)CC)[C@@H]1OC(=O)CC)O[C@@]2(O[C@@H]([C@@H](OC(=O)CC)[C@@H]2OC(=O)CC)COC(=O)CC)COC(=O)CC)CC
@@ -22914,10 +22914,12 @@ Iminodibenzyl	C1CC2=CC=CC=C2NC3=CC=CC=C31
 6-Methoxytryptamine	COC1=CC2=C(C=C1)C(=CN2)CCN
 6-Hydroxytryptamine	C1=CC2=C(C=C1O)NC=C2CCN
 Dysprosium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Dy+3].[Dy+3]
+Dysprosium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].O.O.O.O.O.O.O.O.O.O.[Dy+3].[Dy+3]
 5-HO-DPT	CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)O
 5-Methoxyharmalan	CC1=NCCC2=C1NC3=C2C(=CC=C3)OC
 4-Methoxytryptamine	COC1=CC=CC2=C1C(=CN2)CCN
 Diisopropylamine dichloroacetate	CC(C)NC(C)C.OC(=O)C(Cl)Cl
+Thorium difluoride	F[Th]F
 Thorium disilicide	[Si]=[Th]=[Si]
 7-MeO-DMT	CN(C)CCC1=CNC2=C1C=CC=C2OC
 Thorium monosilicide	[Th].[Si]
@@ -22931,9 +22933,18 @@ DPP-26	CCS(=O)(=O)C(CC(C)N1CCCCC1)(C2=CC=CC=C2)C3=CC=CC=C3
 N-Benzyl-N-desmethyltramadol	CN(C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O)CC3=CC=CC=C3
 Chloroosmic acid	[H+].[H+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
 N,N-Dimethyletonitazene	CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)[N+](=O)[O-]
+Dibenzosuberone	C1CC2=CC=CC=C2C(=O)C3=CC=CC=C31
 Lanthanum disilicide	[Si].[La].[Si]
 10-Hydroxy-THC	CCCCCC1=CC(=C2[C@H]3[C@@H](CC=C([C@@H]3O)C)C(OC2=C1)(C)C)O
 10-Hydroxy-HHC	CC1(C)Oc2cc(CCCCC)cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21
 10-Hydroxy-HHCP	CC1(C)Oc2cc(cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21)CCCCCCC
 2C-CN	COC1=CC(=C(C=C1CCN)OC)C#N
 DOYN	COc1cc(C#C)c(cc1CC(N)C)OC
+Delta-8-THCM	CCCCCC1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)C)C(=C1)OC
+VIP36	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=C1C=CC(=C2)OCCCCN=C(N)N)CC3=CC=C(C=C3)F
+MDMB-5'Br-4en-PINACA	CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=C1C=C(C=C2)Br)CCCC=C
+A1APU	CC1=C(C=C(C=C1)C[C@@H](C(=O)NC)NC(=O)CSC2=C(C3=CC=CC=C3C=C2)C4=CC(=CN=C4)OCC5=CC=CC=C5)OC
+Dibenzosuberenone	C1=CC=C2C(=C1)C=CC3=CC=CC=C3C2=O
+Dysprosium disilicide	[Si].[Si].[Dy]
+CJ-1639	CCCN(CCC1(CC(C1)NC(=O)C2=CC3=CC=CC=C3C=C2)O)[C@H]4CCC5=C(C4)SC(=N5)N
+CGP-25454A	CCN(CC)CCNC(=O)C1=C(C=C(C(=C1)C#N)Cl)OC
