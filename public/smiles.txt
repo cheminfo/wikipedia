@@ -22935,6 +22935,7 @@ Chloroosmic acid	[H+].[H+].Cl[Os-2](Cl)(Cl)(Cl)(Cl)Cl
 N,N-Dimethyletonitazene	CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(C)C)C=CC(=C3)[N+](=O)[O-]
 Dibenzosuberone	C1CC2=CC=CC=C2C(=O)C3=CC=CC=C31
 Lanthanum disilicide	[Si].[La].[Si]
+BIBN 99	CCCC(C)(C)C(=O)N(CC)CCCC1CCN(CC1)CC(=O)N2C3=C(C=C(C=C3)Cl)C(=O)NC4=C2N=CC=C4
 10-Hydroxy-THC	CCCCCC1=CC(=C2[C@H]3[C@@H](CC=C([C@@H]3O)C)C(OC2=C1)(C)C)O
 10-Hydroxy-HHC	CC1(C)Oc2cc(CCCCC)cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21
 10-Hydroxy-HHCP	CC1(C)Oc2cc(cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21)CCCCCCC
@@ -22948,3 +22949,5 @@ Dibenzosuberenone	C1=CC=C2C(=C1)C=CC3=CC=CC=C3C2=O
 Dysprosium disilicide	[Si].[Si].[Dy]
 CJ-1639	CCCN(CCC1(CC(C1)NC(=O)C2=CC3=CC=CC=C3C=C2)O)[C@H]4CCC5=C(C4)SC(=N5)N
 CGP-25454A	CCN(CC)CCNC(=O)C1=C(C=C(C(=C1)C#N)Cl)OC
+S3608	C1COC2=C1C=C(C=C2)CN3CCN(CC3)C4=NC=CS4
+CA-170	C[C@H]([C@@H](C(=O)O)NC(=O)N[C@@H](CC(=O)N)C1=NC(=NO1)[C@H](CO)N)O
