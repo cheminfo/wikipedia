@@ -8413,7 +8413,7 @@ Muramic acid	CC(OC1C(N)C(O)OC(CO)C1O)C(O)=O
 ICRF 193	O=C2NC(=O)CN(C(C(N1CC(=O)NC(=O)C1)C)C)C2
 Terguride	CCN(CC)C(=O)N[C@H]1C[C@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 Nifekalant	Cn1c(NCCN(CCO)CCCc2ccc([N+](=O)[O-])cc2)cc(=O)n(C)c1=O
-1-Aminopentane	CCCCCN
+Pentylamine	CCCCCN
 Deoxyepinephrine	Oc1ccc(cc1O)CCNC
 Oxidopamine	c1c(c(cc(c1O)O)O)CCN
 Cysteinyldopa	O=C(O)C(N)Cc1cc(SCC(C(=O)O)N)c(O)c(O)c1
@@ -22955,3 +22955,8 @@ Diphenyl selenide	C1=CC=C(C=C1)[Se]C2=CC=CC=C2
 Setogepram	CCCCCC1=CC(=CC=C1)CC(=O)O
 Dexclamol	CC(C)[C@]1(CCN2C[C@@H]3C4=CC=CC=C4CCC5=C3C(=CC=C5)[C@H]2C1)O
 Cyheptamide	C1CC2=CC=CC=C2C(C3=CC=CC=C31)C(=O)N
+Hexanitrogen	[N-]=[N+]=NN=[N+]=[N-]
+Osmyl tetra-ammine chloride	N.N.N.N.O=[Os+2]=O.[Cl-].[Cl-](Cl)Cl
+Ytterbium disilicide	[Yb].[Si].[Si]
+Europium disilicide	[Si].[Si].[Eu]
+F-17475	CCN(CC)C(=O)C1(CC(C1)N)C2=CC=CC=C2
