@@ -5547,7 +5547,7 @@ Nifurtimox	CC1CS(=O)(=O)CCN1N=CC2=CC=C(O2)[N+](=O)[O-]
 Peroxynitrous acid	OON=O
 Thioacetic acid	O=C(S)C
 Piceid	OC1=CC(/C=C/C3=CC=C(O)C=C3)=CC(O[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O2)=C1
-Persin	CCCCCC=CCC=CCCCCCCCC(=O)CC(COC(=O)C)O
+Persin	CCCCC/C=C/C/C=C/CCCCCCCC(=O)CC(COC(=O)C)O
 Trimethylsilyl azide	[N-]=[N+]=N[Si](C)(C)C
 Artelinic acid	O=C(O)c1ccc(cc1)CO[C@H]4O[C@@H]5O[C@@]3(OO[C@]52[C@@H](CC[C@@H](C)[C@@H]2CC3)[C@H]4C)C
 EDDS	O=C(O)CC(NCCNC(CC(=O)O)C(=O)O)C(=O)O
@@ -14095,6 +14095,7 @@ Epolactaene	C/C=C(\C=C(/C)\C=C\CC/C=C(\C)/C(=O)[C@@]12[C@@H](O1)C(NC2=O)(C)O)/C(
 Aurantiomide	CC(C)C[C@]1(c2nc3ccccc3c(=O)n2[C@H](C(=O)N1)CCC(=O)N)OC
 Aurantiomide	CC(C)C[C@]1(c2nc3ccccc3c(=O)n2[C@H](C(=O)N1)CCC(=O)N)O
 Aurantiomide	CC(C)/C=C\1/C2=NC3=CC=CC=C3C(=O)N2[C@H](C(=O)N1)CCC(=O)N
+Vermistatin	C/C=C/C1=CC(=O)C(=CO1)[C@H]2C3=C(C=C(C=C3C(=O)O2)OC)OC
 Vermiculine	CC(=O)C[C@@H]1CCC(=O)/C=C/C(=O)O[C@H](CC(C)=O)CCC(=O)/C=C/C(=O)O1
 Botryodiplodin	C(C)(=O)[C@H]1[C@@H](C)C(O)OC1
 Verrucosidin	C[C@@H]1[C@@]2([C@@H](O2)[C@](O1)(C)/C=C(\C)/C=C(\C)/[C@H]3[C@](O3)(C)C4=C(C(=C(C(=O)O4)C)OC)C)C
@@ -18133,6 +18134,7 @@ Crenarchaeol	C[C@@H]1CCC[C@@H](C2CCC(C2)CCC[C@@H](COC[C@@H](OC[C@H](CCCC3CCC(C3)
 Color Developing Agent 3	CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.CCN(CCNS(=O)(=O)C)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O
 Color Developing Agent 4	CCN(CCO)C1=CC(=C(C=C1)N)C.OS(=O)(=O)O
 Solvent Yellow 7	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O
+Carrelame	c1ccc(cc1)C(c2ccccc2)N/C(=N/CC(=O)O)/Nc3cc(cc(c3)Cl)Cl
 Succinyl chloride	ClC(=O)CCC(Cl)=O
 3-Hydroxyasparagine	[C@H](C(C(=O)N)O)(C(=O)O)N
 Methyl phenyl sulfoxide	CS(=O)C1=CC=CC=C1
@@ -22959,4 +22961,9 @@ Hexanitrogen	[N-]=[N+]=NN=[N+]=[N-]
 Osmyl tetra-ammine chloride	N.N.N.N.O=[Os+2]=O.[Cl-].[Cl-](Cl)Cl
 Ytterbium disilicide	[Yb].[Si].[Si]
 Europium disilicide	[Si].[Si].[Eu]
-F-17475	CCN(CC)C(=O)C1(CC(C1)N)C2=CC=CC=C2
+F-17475	CCN(CC)C(=O)[C@@]1(C[C@@H](N)C1)c1ccccc1
+Diethyl oxalate	CCOC(=O)C(=O)OCC
+S42 (selective androgen receptor modulator)	C[C@]12CC[C@H]3[C@@H](CCc4c3cccc4C)[C@@H]1CC[C@@H]2C(=O)C
+GLPG1205	C1CC1C#CC2=CC3=C(C=C2)C4=CC(=NC(=O)N4CC3)OC[C@@H]5COCCO5
+Strontium disilicide	[Si-].[Si-].[Sr+2]
+Agerafenib	CC(C)(C1=CC(=NO1)NC(=O)NC2=CC(=CC=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(F)(F)F
