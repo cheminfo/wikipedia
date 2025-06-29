@@ -19458,6 +19458,7 @@ Neptunium silicide	[Np].[Si].[Si]
 Plutonium silicide	[Pu].[Si]
 Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pu+4]
 Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.[Pu+4]
+Plutonium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.[Pu+4]
 Neptunium(IV) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Np+4]
 Actinium(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ac]
 Dysprosium(III) nitrate	O.[Dy+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
@@ -22973,3 +22974,7 @@ Agerafenib	CC(C)(C1=CC(=NO1)NC(=O)NC2=CC(=CC=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(F
 AP8	C[C@@H](C1=C(C=CC(=C1)F)OC(F)(F)F)N2CCC(CC2)[C@H]3CCC4=C(O3)C=C(C=C4)[C@H](C5CC5)[C@H](C)C(=O)O
 Holmium disilicide	[Si]#[Si].[Ho]
 Lupane (compound)	CC(C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CCCC([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)C)C
+Benanserin	CC1=C(C2=C(N1CC3=CC=CC=C3)C=CC(=C2)OC)CCN
+Ketamir-2	CNC1(CCCC1=O)C2=CC=CC=C2Cl
+25T-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)SC)OC
+25F-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)F)OC
