@@ -1136,6 +1136,7 @@ Rizatriptan	n1cncn1Cc2cc3c(cc2)[nH]cc3CCN(C)C
 Pimecrolimus	Cl[C@@H]1CC[C@H](C[C@H]1OC)\C=C(/C)[C@H]2OC(=O)[C@@H]4CCCCN4C(=O)C(=O)[C@]3(O)O[C@H]([C@H](C[C@@H](C)CC(\C)=C\[C@@H](CC)C(=O)C[C@H](O)[C@H]2C)OC)[C@@H](OC)C[C@H]3C
 Guaifenesin	O(c1ccccc1OC)CC(O)CO
 Potassium alum	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
+Potassium alum	O.O.O.O.O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
 Allantoin	C1(C(=O)NC(=O)N1)NC(=O)N
 Bismuth subsalicylate	O[Bi]1OC(=O)C2CCCCC2O1
 Adapalene	COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5
@@ -19635,7 +19636,7 @@ Tetraoxygen difluoride	FOOOOF
 Tungsten trisulfide	S=[W](=S)=S
 Chromium(II) sulfide	[S-2].[Cr+2]
 Polonium sulfide	[Po]=[S]
-Polonium tetraiodide	[I-].[I-].[I-].[I-].[Po]
+Polonium tetraiodide	I[Po](I)(I)I
 Yttrium iodide	[Y](I)(I)I
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
 Ohmecarfentanil	CCC(=O)N(C1=CC=CC=C1)[C@]2(CCN(C[C@H]2C)CC(C3=CC=CC=C3)O)C(=O)OC
@@ -22978,3 +22979,10 @@ Benanserin	CC1=C(C2=C(N1CC3=CC=CC=C3)C=CC(=C2)OC)CCN
 Ketamir-2	CNC1(CCCC1=O)C2=CC=CC=C2Cl
 25T-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)SC)OC
 25F-NBOMe	COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)F)OC
+Samarium disilicide	[Si].[Si].[Sm]
+LME-54	CCN(C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+Lysergic acid methylamide	CNC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+LBB-66	CCCCN(CCCC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+S-Methyl thioacrylate	CSC(=O)C=C
+14-Hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=C(C=CC(=C34)C2=C1)O)C
+CPM-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CC5CC5
