@@ -6494,6 +6494,7 @@ Abiraterone acetate	CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=
 Orsellinic acid	O=C(O)c1c(cc(O)cc1O)C
 Butyl nitrate	[O-][N+](=O)OCCCC
 Potassium arsenite	[O-][As]=O.[K+]
+Potassium arsenite	[K+].[K+].[K+].[O-][As]([O-])[O-]
 ABT-510	CCC[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H]([C@@H](C)CC)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)CN(C)C(=O)C
 Decamethyldizincocene	C[C-]1C(=C(C(=C1C)C)C)C.C[C-]1C(=C(C(=C1C)C)C)C.[Zn+].[Zn+]
 Matairesinol	O=C2OC[C@H](Cc1cc(OC)c(O)cc1)[C@H]2Cc3ccc(O)c(OC)c3
@@ -13147,8 +13148,7 @@ Metribuzin	CC(C)(C)C1=NN=C(N(C1=O)N)SC
 Ruthenium hexafluoride	F[Ru](F)(F)(F)(F)F
 Methyl 2-chloroacrylate	COC(=O)C(=C)Cl
 Magnesium iron hexahydride	[Mg+2].[Mg+2].[FeH6-4]
-Chloroethyl chloroformate	ClC(OC(Cl)C)=O
-Chloroethyl chloroformate	ClC(=O)OCCCl
+1-Chloroethyl chloroformate	ClC(OC(Cl)C)=O
 Chlorthiophos	CCOP(=S)(OCC)OC1=CC(=C(C=C1Cl)SC)Cl
 Dialifor	ClCC(SP(=S)(OCC)OCC)N2C(=O)c1ccccc1C2=O
 Diepoxybutane	C1OC1C2CO2
@@ -13156,6 +13156,7 @@ Osmium hexafluoride	F[Os](F)(F)(F)(F)F
 Olympicene	C1C=C2C=CC3=C4C2=C5C1=CC=CC5=CC4=CC=C3
 3β-Androstanediol	O[C@H]4CC[C@]3([C@@H](CC[C@H]2[C@@H]1CC[C@H](O)[C@@]1(C)CC[C@@H]23)C4)C
 Megestrol	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](O)(C(=O)C)CC[C@@H]12)C)[C@@]3(C)CC4)C
+2-Chloroethyl chloroformate	ClC(=O)OCCCl
 6-Hydroxymellein	O=C1OC(Cc2cc(O)cc(O)c12)C
 Cyproterone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)OC(=O)C
 Cyproterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O
@@ -18679,7 +18680,7 @@ Upamostat	CCOC(=O)N1CCN(CC1)C(=O)[C@H](CC2=CC(=CC=C2)/C(=N\O)/N)NS(=O)(=O)C3=C(C
 Opaganib	C1C2CC3(CC1CC(C2)(C3)C(=O)NCC4=CC=NC=C4)C5=CC=C(C=C5)Cl
 Dichlorotetrakis(pyridine)rhodium(III) chloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Cl-].[Cl-].[Cl-].[Rh+3]
 Uridine diphosphate N-acetylgalactosamine	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
-Fluoroestradiol F-18	CC12CCC3C(C1CC(C2O)[18F])CCC4=C3C=CC(=C4)O
+Fluoroestradiol (18F)	CC12CCC3C(C1CC(C2O)[18F])CCC4=C3C=CC(=C4)O
 Iodine azide	IN=[N+]=[N-]
 Europium(II) fluoride	F[Eu]F
 Europium(II) fluoride	[F-].[F-].[Eu+2]
@@ -23001,3 +23002,10 @@ PHENETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCC5=CC=CC=C5
 10,11-Seco-LSD	O=C([C@@]1C=C[C@@]([H])(CC2=CN([H])C3=CC=CC=C23)N(C)C1)N(CC)CC
 Lysergic acid propylamide	CCCNC(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3
 2-Oxo-3-hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3(C4=C(C2=C1)C=CC=C4NC3=O)O)C
+Gadolinium disilicide	[Si].[Si].[Gd+3]
+GW-1100	CCOC1=NC=C(C=N1)CC2=CN(C(=NC2=O)SCC3=CC=C(C=C3)F)C4=CC=C(C=C4)C(=O)OCC
+GW9508	C1=CC=C(C=C1)OC2=CC=CC(=C2)CNC3=CC=C(C=C3)CCC(=O)O
+3,4-Dimethylphenethylamine	CC1=C(C=C(C=C1)CCN)C
+2,3-Dimethoxyphenethylamine	COC1=CC=CC(=C1OC)CCN
+2,4-Dimethoxyphenethylamine	COC1=CC(=C(C=C1)CCN)OC
+2,6-Dimethoxyphenethylamine	COC1=C(C(=CC=C1)OC)CCN
