@@ -9601,6 +9601,8 @@ Lauryldimethylamine oxide	CCCCCCCCCCCC[N+](C)(C)[O-]
 Hexanitrodiphenylamine	C1=C(C=C(C(=C1[N+](=O)[O-])NC2=C(C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 Calcium permanganate	[Ca+2].O=[Mn](=O)(=O)[O-].[O-][Mn](=O)(=O)=O
 Potassium hexanitritocobaltate(III)	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co]
+Potassium hexanitritocobaltate(III)	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].O.[K+].[K+].[K+].[Co+3]
+Potassium hexanitritocobaltate(III)	N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].N(=O)[O-].[K+].[K+].[K+].[Co].O.O.O
 3-Hexyne	CCC#CCC
 Salicylanilide	C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2O
 Rafoxanide	C1=CC(=CC=C1OC2=C(C=C(C=C2)NC(=O)C3=CC(=CC(=C3O)I)I)Cl)Cl
@@ -18824,6 +18826,7 @@ Trioxoglutaric acid	OC(=O)C(=O)C(=O)C(=O)C(=O)O
 15α-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H](C[C@@H]2O)O)CCC4=C3C=CC(=C4)O
 Potassium octacyanomolybdate(IV)	[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(C#N)(C#N)(C#N)C#N
 Potassium octacyanomolybdate(IV)	O.O.[K+].[K+].[K+].[K+].N#C[Mo-4](C#N)(C#N)(C#N)(C#N)(C#N)(C#N)C#N
+Potassium octacyanomolybdate(IV)	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.O.O.[K+].[K+].[K+].[K+].[Mo+4]
 Rilmazolam	CN(C)C(=O)C1=NN2C(=N1)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4Cl
 Brorphine	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC=CC=C4NC3=O
 Etodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OCC
@@ -23014,3 +23017,11 @@ DFL23916	CC1=CC(=C(C=C1NS(=O)(=O)C2=CC=CC(=C2)CCCCCCC(=O)O)C3=CC=CC=C3)F
 Erbium disilicide	[Si].[Si].[Er]
 2-Methoxyphenethylamine	COC1=CC=CC=C1CCN
 3-Methoxyphenethylamine	COC1=CC=CC(=C1)CCN
+4-Methoxyphenethylamine	COC1=CC=C(C=C1)CCN
+Pentamethoxyphenethylamine	COC1=C(C(=C(C(=C1OC)OC)OC)OC)CCN
+TeMPEA-3	COC1=CC(=C(C(=C1OC)CCN)OC)OC
+TUG-891	CC1=CC=C(C=C1)C2=C(C=C(C=C2)F)COC3=CC=C(C=C3)CCC(=O)O
+Praseodymium disilicide	[Si]=[Pr]=[Si]
+2C-MMDA-2	COC1=CC2=C(C=C1CCN)OCO2
+GPR120 compound A	C1CC2(CCC1CC(=O)O)CCN(CC2)C3=C(C=CC(=C3)OC(F)(F)F)Cl
+EMDA-2	CCOC1=CC2=C(C=C1CC(C)N)OCO2
