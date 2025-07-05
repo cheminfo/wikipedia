@@ -1768,6 +1768,7 @@ Dodecahedrane	C12C3C4C5C1C6C7C2C8C3C9C4C1C5C6C2C7C8C9C12
 Catechol	Oc1c(O)cccc1
 Salicylaldoxime	Oc1ccccc1/C=N\O
 2,4,5-Trimethoxyamphetamine	CC(CC1=CC(=C(C=C1OC)OC)OC)N
+2,4,6-Trimethoxyamphetamine	CC(CC1=C(C=C(C=C1OC)OC)OC)N
 3,4,5-Trimethoxyamphetamine	CC(CC1=CC(=C(C(=C1)OC)OC)OC)N
 Xylulose	C([C@@H]([C@H](C(=O)CO)O)O)O
 Ribulose	C([C@H]([C@H](C(=O)CO)O)O)O
@@ -16447,6 +16448,8 @@ Clovamide	c1cc(c(cc1C[C@@H](C(=O)O)NC(=O)/C=C\c2ccc(c(c2)O)O)O)O
 N-Ethylhexedrone	CCCCC(NCC)C(=O)c1ccccc1
 Hexedrone	CCCCC(C(=O)C1=CC=CC=C1)NC
 Octatetraene	C=C/C=C/C=C/C=C
+Potassium tetrachloridocuprate(II)	[Cl-].[Cl-].[Cl-].[Cl-].[K+].[K+].[Cu+2]
+Potassium tetrachloridocuprate(II)	O.O.[Cl-].[Cl-].[Cl-].[Cl-].[K+].[K+].[Cu+2]
 Acoziborole	CC2(C)OB(O)c3c2ccc(c3)NC(=O)c1ccc(F)cc1C(F)(F)F
 Diphenylphosphine oxide	c1ccc(cc1)P(=O)c2ccccc2
 Β-Hydroxy β-methylbutyryl-CoA	CC(C)(CC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O)O
@@ -21864,6 +21867,7 @@ LPC-233	C[C@]([C@@H](C(=O)NO)NC(=O)C1=CC=C(C=C1)C#CC#CC2CC2)(C(F)F)O
 TP0586532	C[C@@H](C1=NC=CN1CC2=NOC(=C2)C3=CC=C(C=C3)C#CC4[C@H]5[C@@H]4CN(C5)CCCC(=O)O)O
 Bis(2,2,6,6-tetramethyl-4-piperidyl) sebacate	CC1(C)CC(CC(C)(C)N1)OC(=O)CCCCCCCCC(=O)OC2CC(C)(C)NC(C)(C)C2
 Potassium tetraiodoplatinate	[K+].[K+].[I-][Pt+2]([I-])([I-])[I-]
+Potassium tetraiodoplatinate	[K+].[K+].[I-][Pt+2]([I-])([I-])[I-].O.O
 S-Methylcysteine sulfoxide	CS(=O)CC(C(=O)O)N
 Fluorothiazinone	CCOC1=C(C=CC(=C1)CN2C(=O)CSC(=N2)C(=O)NC3=C(C=C(C=C3)F)F)O
 Aurodox	CC[C@H](C(=O)NC/C=C/C=C(\C)/[C@H]([C@@H](C)[C@H]1[C@H]([C@H]([C@H](O1)/C=C/C=C/C=C(\C)/C(=O)C2=C(C=CN(C2=O)C)O)O)O)OC)[C@@]3([C@@H]([C@@H](C([C@@H](O3)/C=C/C=C\C)(C)C)O)O)O
@@ -23025,3 +23029,7 @@ Praseodymium disilicide	[Si]=[Pr]=[Si]
 2C-MMDA-2	COC1=CC2=C(C=C1CCN)OCO2
 GPR120 compound A	C1CC2(CCC1CC(=O)O)CCN(CC2)C3=C(C=CC(=C3)OC(F)(F)F)Cl
 EMDA-2	CCOC1=CC2=C(C=C1CC(C)N)OCO2
+Strontium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Sr+2].[Sr+2].[Sr+2]
+Praseodymium oxyiodide	[I-].[O-2].[Pr+3]
+Praseodymium oxychloride	[Cl-].[O-2].[Pr+3]
+AH-7614	CC1=CC=C(C=C1)S(=O)(=O)NC2C3=CC=CC=C3OC4=CC=CC=C24
