@@ -19758,6 +19758,7 @@ AC-90179	CC1=CC=C(C=C1)CN(C2CCN(CC2)C)C(=O)CC3=CC=C(C=C3)OC
 Dysprosium phosphide	P#[Dy]
 Pyrrole-2-carboxylic acid	C1=CNC(=C1)C(=O)O
 Thiophene-2-carboxylic acid	C1=CSC(=C1)C(=O)O
+Propargylamine	C#CCN
 Omidenepag	CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1
 Terbium phosphide	P#[Tb]
 Gadolinium phosphide	[Gd].[P]
@@ -21710,6 +21711,7 @@ MK-7845	CC(C)(C)[C@@H](C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)N[C@@H](CCC(C)(F)F)C(
 Frontalin	C[C@@]12CCC[C@@](O1)(OC2)C
 Benzgalantamine	COc1ccc2c3c1O[C@H]1C[C@@H](OC(=O)c4ccccc4)C=C[C@@]31CCN(C)C2
 Diiodosyl sulfate	[I+]=O.[I+]=O.[O-]S([O-])(=O)=O
+Prosulfocarb	CCCN(CCC)C(=O)SCC1=CC=CC=C1
 1-Fluorobutane	CCCCF
 1-Fluorohexane	CCCCCCF
 1-Chlorohexane	CCCCCCCl
@@ -23044,5 +23046,14 @@ Praseodymium oxychloride	[Cl-].[O-2].[Pr+3]
 AH-7614	CC1=CC=C(C=C1)S(=O)(=O)NC2C3=CC=CC=C3OC4=CC=CC=C24
 Praseodymium oxyfluoride	[F-].[O-2].[Pr+3]
 Samarium oxychloride	[Cl-].[O-2].[Sm+3]
+Neodymium oxychloride	[Nd+3].[O-2].[Cl-]
 2-Methoxy-3,5-dimethylpyrazine	CC1=CN=C(C(=N1)C)OC
 GSK137647A	CC1=CC(=C(C(=C1)C)NS(=O)(=O)C2=CC=C(C=C2)OC)C
+DOB-NDEPA	BrC1C=C(C(=CC=1OC)CC(C)N(CCC(=O)N(CC)CC)[H])OC
+DOI-NDEPA	IC1C=C(C(=CC=1OC)CC(C)N(CCC(=O)N(CC)CC)[H])OC
+DOTFM-NDEPA	C(F)(F)(F)C1C=C(C(=CC=1OC)CC(C)N(CCC(=O)N(CC)CC)[H])OC
+Samarium oxyfluoride	[F-].[O-2].[Sm+3]
+Sodium hydrazide	N[NH-].[Na+]
+Tomscaline	NCC1Cc2c1cc(c(c2OC)OC)OC
+DOB-CR	COC1=CC(=C(C2=C1CCNC2)OC)Br
+1-Aminomethylindane	C1CC2=CC=CC=C2C1CN
