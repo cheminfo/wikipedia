@@ -13603,6 +13603,7 @@ Cobalt(II) formate	C(=O)[O-].C(=O)[O-].[Co+2]
 Nickel(II) titanate	[O-2].[O-2].[O-2].[Ti+4].[Ni+2]
 Nickel(II) nitrite	N(=O)[O-].N(=O)[O-].[Ni+2]
 Tracheal cytotoxin	C[C@@H](C(=O)N[C@H](CCC(=O)N[C@@H](CCC[C@H](C(=O)O)N)C(=O)N[C@H](C)C(=O)O)C(=O)O)NC(=O)[C@@H](C)O[C@@H]1[C@H]([C@@H]2OC[C@H]([C@H]1O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)NC(=O)C)O2)NC(=O)C
+Drisapersen	CO[C@@H]1[C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=S)(O)O[C@@H]3[C@H](O[C@H]([C@@H]3OC)N4C=CC(=NC4=O)N)COP(=S)(O)O[C@@H]5[C@H](O[C@H]([C@@H]5OC)N6C=CC(=O)NC6=O)COP(=S)(O)O[C@@H]7[C@H](O[C@H]([C@@H]7OC)N8C=CC(=O)NC8=O)COP(=S)(O)O[C@@H]9[C@H](O[C@H]([C@@H]9OC)N1C=CC(=O)NC1=O)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=CC(=NC1=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=CC(=O)NC1=O)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=NC2=C(N=CN=C21)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=CC(=NC1=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OC)N1C=CC(=O)NC1=O)CO)O
 EAM-2201	CCC1=CC=C(C(C2=CN(CCCCCF)C3=C2C=CC=C3)=O)C4=C1C=CC=C4
 APICA (synthetic cannabinoid drug)	CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c5ccccc15
 Fluorodopa (18F)	C1=C(C(=CC(=C1O)O)F)CC(C(=O)O)N
@@ -15486,6 +15487,7 @@ Deacetylvindoline	CC[C@@]12C=CCN3[C@@H]1[C@@]4(CC3)c5ccc(cc5N([C@H]4[C@]([C@@H]2
 Chlorobis(cyclooctene)rhodium dimer	C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.[Cl-].[Cl-].[Rh].[Rh]
 Chlorobis(cyclooctene)iridium dimer	C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.C1CCCC=CCC1.[Cl-].[Cl-].[Ir].[Ir]
 Chlorobis(ethylene)rhodium dimer	C=C.C=C.C=C.C=C.[Cl-].[Cl-].[Rh].[Rh]
+Rhodium carbonyl chloride	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Cl-].[Cl-].[Rh+].[Rh+]
 4,21-Dehydrogeissoschizine	[H][C@@]12C[C@H](\C(=C\O)C(=O)OC)\C(=C/C)C=[N+]1CCC1=C2NC2=CC=CC=C12
 Preakuammicine	C/C=C\1/CN2CC[C@@]34[C@@H]2C[C@@H]1[C@](C3=Nc5c4cccc5)(CO)C(=O)OC
 Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
@@ -21727,6 +21729,7 @@ Foscarbidopa	C[C@](CC1=CC(=C(C=C1)OP(=O)(O)O)O)(C(=O)O)NN
 Copper(I) acetate	CC(=O)[O-].[Cu+]
 LIH383	CSCC[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)CNC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)N
 White phosphorus	P12P3P1P23
+Red phosphorus	[P]
 2,5-Undecanedione	CCCCCCC(=O)CCC(=O)C
 4-Hydroxybenzyl isothiocyanate	C1=CC(=CC=C1CN=C=S)O
 RTI-5152-12	CCCCCN1CC[C@H](/C(=C\C)/C1)C(=O)C2=CC3=CC=CC=C3N2
@@ -23067,3 +23070,7 @@ Erbium oxyfluoride	[O-2].[F-].[Er+3]
 2,3,4,6-Tetramethoxyphenethylamine	COC1=CC(=C(C(=C1CCN)OC)OC)OC
 Pentamethoxyamphetamine	CC(CC1=C(C(=C(C(=C1OC)OC)OC)OC)OC)N
 Noribogainalog	CN1CCC2=C(CC1)NC3=C2C=C(C=C3)O
+Terbium oxyfluoride	[O-2].[F-].[Tb+3]
+JXL069	C1=CC2=C(N=C1)N(C=C2C=C(C#N)C(=O)O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
+AR420626	CC1=C(C(C2=C(N1)CCCC2=O)C3=CC=CO3)C(=O)NC4=C(C=CC(=C4)Cl)Cl
+CFMB (drug)	CC(C)(C)[C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=NC=C(S2)C3=CC=CC=C3
