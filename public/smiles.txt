@@ -2175,6 +2175,7 @@ Ammonium hydrosulfide	[SH-].[NH4+]
 Heptazine	C1=NC2=NC=NC3=NC=NC(=N1)N23
 Iron(II) sulfide	[Fe+2].[S-2]
 Sodium aluminate	O=[Al-]=O.[Na+]
+Sodium aluminate	O[Al-](O)(O)O.[Na+]
 Merbromin	[Na+].[Na+].[O-]C(=O)c4ccccc4C=1c3cc(Br)c([O-])c([Hg]O)c3O/C/2=C/C(=O)C(/Br)=C\C=1\2
 Phenyltoloxamine	O(c1ccccc1Cc2ccccc2)CCN(C)C
 Perrhenic acid	[OH2+][Re-2](=O)(=O)(=O)([OH2+])O[Re](=O)(=O)=O
@@ -12125,6 +12126,8 @@ G-130	CC1(C)NCC(OC1)C2=CC=CC=C2
 3-Benzhydrylmorpholine	C1(C(C2=CC=CC=C2)C3NCCOC3)=CC=CC=C1
 Glyceollin III	CC(=C)[C@@H]1Cc2cc3c(cc2O1)OC[C@@]4([C@H]3Oc5c4ccc(c5)O)O
 RTI-120	CN1[C@@H]2C[C@H](C3=CC=C(C)C=C3)[C@H](C(OC4=CC=CC=C4)=O)[C@H]1CC2
+Sodium aluminium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Al+3].[Al+3]
+Sodium aluminium phosphate	O.O.O.O.OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)(O)[O-].OP(=O)([O-])[O-].OP(=O)([O-])[O-].[Na+].[Al+3].[Al+3].[Al+3]
 Antimony(III) sulfate	[SbH3+3].[SbH3+3].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
 Fertaric acid	Oc1ccc(cc1OC)/C=C/C(=O)OC(C(=O)O)C(O)C(=O)O
 Fertaric acid	COC1=C(C=CC(=C1)/C=C/C(=O)O[C@@H]([C@@H](C(=O)O)O)C(=O)O)O
@@ -14520,6 +14523,7 @@ Arecaidine	CN1CCC=C(C1)C(=O)O
 Guvacine	C1CNCC(=C1)C(=O)O
 CI-966	C1CN(CC(=C1)C(=O)O)CCOC(C2=CC=C(C=C2)C(F)(F)F)C3=CC=C(C=C3)C(F)(F)F
 NNC-711	C1CN(CC(=C1)C(=O)O)CCON=C(C2=CC=CC=C2)C3=CC=CC=C3
+SKF-89976A	C1CC(CN(C1)CCC=C(C2=CC=CC=C2)C3=CC=CC=C3)C(=O)O
 Iron tetraboride	[B].[B].[B].[B].[Fe]
 Βk-2C-B	COC1=CC(C(=O)CN)=C(OC)C=C1Br
 Lichesterol	C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CCC3=C2CC=C4[C@@]3(CC[C@@H](C4)O)C)C
@@ -20019,6 +20023,7 @@ Trazpiroben	C1CCC(CC1)N2CN(C(=O)C23CCN(CC3)CCCC(=O)C4=CC=CC=C4)CC5=CC(=CC=C5)C(=
 Lutetium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Lu+3]
 Tautomycetin	CCC(=CC(=O)CC(C)CC(C)CCC(C(C)C(=O)CC(C(C)C(C)OC(=O)CC(C1=C(C(=O)OC1=O)C)O)O)O)C=C
 Aurenin	CCCCCC(C1C(CC(CC(CC(CC(C(C(/C(=C\C=C/C=C\C=C/C=C\C(C(OC1=O)C)O)/C)O)O)O)O)O)O)O)O
+Sibiromycin	C/C=C/C1=CN2[C@@H](C1)[C@H](NC3=C(C(=C(C=C3C2=O)O[C@H]4[C@@H]([C@]([C@H]([C@@H](O4)C)NC)(C)O)O)C)O)O
 AZ12216052	CCC(C)C1=CC=C(C=C1)NC(=O)CSCC2=CC=C(C=C2)Br
 Drimentine G	CC(C)[C@H]1C(=O)N2[C@@H](C[C@@]3([C@H]2NC4=CC=CC=C43)C[C@H]5C(=C)CC[C@@H]6[C@@]5(CCCC6(C)C)C)C(=O)N1
 Aureoverticillactam	CCC/C=C/CC1C/C=C/C=C(/C=C/C=C\C(CC(C(/C=C/C=C/C=C/C(=O)N1)O)O)O)\C
@@ -23082,3 +23087,4 @@ AR420626	CC1=C(C(C2=C(N1)CCCC2=O)C3=CC=CO3)C(=O)NC4=C(C=CC(=C4)Cl)Cl
 CFMB (drug)	CC(C)(C)[C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=NC=C(S2)C3=CC=CC=C3
 CF3-MQC	CC1=CC=CC=C1NC(=O)C2=C(NC3=C(C2C4=CC=C(O4)C5=CC=CC=C5OC(F)(F)F)C(=O)CCC3)C
 Plutonium oxyfluoride	[F-].[O-2].[Pu+3]
+Plutonium oxychloride	[Cl-].[O-2].[Pu+3]
