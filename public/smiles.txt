@@ -1119,6 +1119,8 @@ Prostacyclin	OC(=O)CCC\C=C1\C[C@@H]2[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C[C@@H]2O
 Chlorhexidine	Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1
 Psilocin	CN(C)CCc1c[nH]c2cccc(O)c12
 Thiamine pyrophosphate	Cc2ncc(C[n+]1csc(CCOP(=O)(O)OP(=O)(O)O)c1C)c(N)n2
+Sodium triphosphate	[O-]P(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+]
+Sodium triphosphate	O.O.O.O.O.O.O=P([O-])([O-])OP(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+]
 Disodium guanylate	C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]
 Sodium benzoate	[Na+].[O-]C(=O)c1ccccc1
 Sodium amide	[Na]N
@@ -3006,6 +3008,7 @@ Mangostin	CC(=CCC1=C(C=C2C(=C1O)C(=O)C3=C(C(=C(C=C3O2)O)OC)CC=C(C)C)O)C
 1,2,3-Triazole	c1cnn[nH]1
 Thiamazole	Cn1cc[nH]c1=S
 Sodium trimetaphosphate	O=P(OP(O1)([O-])=O)([O-])OP1([O-])=O.[Na+].[Na+].[Na+]
+Sodium trimetaphosphate	O.O.O.O.O.O.[O-]P1(=O)OP(=O)(OP(=O)(O1)[O-])[O-].[Na+].[Na+].[Na+]
 Pentostatin	n1c3c(n(c1)[C@@H]2O[C@@H]([C@@H](O)C2)CO)N\C=N/C[C@H]3O
 Ethylene glycol dimethacrylate	CC(=C)C(=O)OCCOC(=O)C(=C)C
 4-HO-MiPT	CN(C(C)C)CCC2=CNC1=CC=CC(O)=C12
@@ -6798,6 +6801,7 @@ N-Acetylglycinamide	CC(=O)NCC(N)=O
 TRIMU 5	Oc1ccc(C[C@@H](N)C(=O)N[C@H](C)C(=O)NC(=O)CNCCC(C)C)cc1
 Aminomethylbenzoic acid	O=C(O)c1ccc(cc1)CN
 Sodium sesquicarbonate	C(=O)(O)[O-].C(=O)([O-])[O-].[Na+].[Na+].[Na+]
+Sodium sesquicarbonate	C(=O)(O)[O-].C(=O)([O-])[O-].O.O.[Na+].[Na+].[Na+]
 Ifenprodil	CC(C(C1=CC=C(C=C1)O)O)N2CCC(CC2)CC3=CC=CC=C3
 Magnesium gluconate	[Mg+2].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Tioclomarol	c1ccc2c(c1)c(c(c(=O)o2)C(CC(c3ccc(cc3)Cl)O)c4ccc(s4)Cl)O
@@ -12322,6 +12326,7 @@ BI 811283	FC(F)(F)C(C=N1)=C(N[C@@]2(CCC[C@@]2(C(NC(C)C)=O)[H])[H])N=C1NC3=CC=C(C
 Capnellene	C1(=C)\[C@H]2[C@@H](CC1)C[C@]3([C@@H]2C(C)(C)CC3)C
 Benzilylcholine mustard	CN(CCOC(=O)C(C1=CC=CC=C1)(C2=CC=CC=C2)O)CCCl
 Spiruchostatin	CC(C)[C@H]1NC(=O)[C@H]2CSSCC\C=C\[C@H](CC(=O)N[C@H](C)C(=O)N2)OC(=O)C[C@@H]1O
+Spiruchostatin	CC[C@H](C)[C@H]1/N=C(/O)[C@H]2CSSCC/C=C/C(C/C(O)=N/[C@H](C)/C(O)=N/2)OC(=O)C[C@@H]1O
 Pasireotide	C1[C@H](CN2[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C2=O)CC3=CC=CC=C3)CC4=CC=C(C=C4)OCC5=CC=CC=C5)CCCCN)CC6=CNC7=CC=CC=C76)C8=CC=CC=C8)OC(=O)NCCN
 Ciluprevir	O=C2N[C@]7(C(=O)O)C[C@H]7/C=C\CCCCC[C@H](NC(=O)OC1CCCC1)C(=O)N6[C@H]2C[C@@H](Oc3cc(nc4c3ccc(OC)c4)c5nc(sc5)NC(C)C)C6
 Zolantidine	n1c4ccccc4sc1NCCCOc2cc(ccc2)CN3CCCCC3
@@ -12965,6 +12970,7 @@ Methyl anisate	O=C(OC)c1ccc(OC)cc1
 Β-Aminobutyric acid	O=C(O)CC(N)C
 Istaroxime	C[C@]12CCC(=NOCCN)C[C@@H]1C(=O)C[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C
 Sodium tetrathionate	O.O.[O-]S(=O)(=O)SSS(=O)(=O)[O-].[Na+].[Na+]
+Sodium tetrathionate	[O-]S(=O)(=O)SSS(=O)(=O)[O-].[Na+].[Na+]
 Leptophos	c1([P@@](Oc2c(cc(Br)c(c2)Cl)Cl)(OC)=S)ccccc1
 Silver thiocyanate	C(#N)[S-].[Ag+]
 Α-Vetivone	O=C2\C=C1\CC/C(=C(/C)C)C[C@@]1(C)[C@H](C)C2
@@ -17999,6 +18005,7 @@ DNI-Glutamate	COC1=C(C=C(C2=C1CCN2C(=O)CC[C@@H](C(=O)O)N)[N+](=O)[O-])[N+](=O)[O
 Isobutylbenzene	CC(C)CC1=CC=CC=C1
 Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
 Sorbitan monooleate	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H]([C@@H]1[C@@H]([C@H](CO1)O)O)O
+Sorbitan monopalmitate	CCCCCCCCCCCCCCCC(=O)OCC([C@@H]1[C@H]([C@@H](CO1)O)O)O
 Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
 Calcium ferrocyanide	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Ca+2].[Ca+2].[Fe+2]
@@ -19221,6 +19228,7 @@ Ammonium selenide	[NH4+].[NH4+].[Se-2]
 Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O
 Δ4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
+Sodium trimethylsiloxide	C[Si](C)(C)[O-].[Na+]
 Tetraethylammonium tetrachloroferrate	CC[N+](CC)(CC)CC.[Cl-].Cl[Fe](Cl)Cl
 Tetraethylammonium tetrachloronickelate	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Ni]([Cl-])([Cl-])Cl
 Bisantrene	C(=NNC1=NCCN1)c1c2ccccc2c(C=NNC2=NCCN2)c2ccccc12
@@ -22072,7 +22080,10 @@ Octadecanolide	C1CCCCCCCCC(=O)OCCCCCCCC1
 Luxdegalutamide	CC1(C(C(C1OC2=CC(=C(C=C2)C#N)OC)(C)C)NC(=O)C3=CC=C(C=C3)N4CCC(CC4)CN5CCN(CC5)C6=CC(=C(C=C6)C(=O)N[C@H]7CCC(=O)NC7=O)F)C
 Gridegalutamide	CCC1=C(C=CC(=C1)N2C(=S)N(C(=O)C2(C)C)C3=CC(=C(C=C3)C#N)C(F)(F)F)OCCN4CCN([C@@H](C4)C)CC(=O)NC5=CC=CC(=C5)N[C@@H]6CCC(=O)NC6=O
 Eicosanolide	C1CCCCCCCCCC(=O)OCCCCCCCCC1
+Streptothricin	NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)N[C@@H]1[C@H](O)[C@@H](OC(N)=O)[C@@H](CO)O[C@H]1NC1=N[C@@H]2C(=O)NC[C@@H](O)[C@H]2N1
+Streptothricin	NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)N[C@@H]1[C@H](O)[C@@H](OC(N)=O)[C@@H](CO)O[C@H]1NC1=N[C@@H]2C(=O)NC[C@@H](O)[C@H]2N1
 Streptothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@@H]([C@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCNC(=O)C[C@H](CCCNC(=O)C[C@H](CCCNC(=O)C[C@H](CCCN)N)N)N)N)O
+Streptothricin	NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)NCCC[C@H](N)CC(=O)N[C@@H]1[C@H](O)[C@@H](OC(N)=O)[C@@H](CO)O[C@H]1/N=C1\N[C@@H]2[C@H](O)CNC(=O)[C@H]2N1
 Streptothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@@H]([C@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCNC(=O)C[C@H](CCCN)N)N)O
 Streptothricin	C1[C@H]([C@@H]2[C@@H](C(=O)N1)N=C(N2)N[C@H]3[C@@H]([C@@H]([C@H]([C@H](O3)CO)OC(=O)N)O)NC(=O)C[C@H](CCCN)N)O
 Giredestrant	C[C@@H]1CC2=C([C@H](N1CC(CO)(F)F)C3=C(C=C(C=C3F)NC4CN(C4)CCCF)F)NC5=CC=CC=C25
@@ -23094,3 +23105,10 @@ CF3-MQC	CC1=CC=CC=C1NC(=O)C2=C(NC3=C(C2C4=CC=C(O4)C5=CC=CC=C5OC(F)(F)F)C(=O)CCC3
 Plutonium oxyfluoride	[F-].[O-2].[Pu+3]
 Plutonium oxychloride	[Cl-].[O-2].[Pu+3]
 Cloransulam-methyl	CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)C(=O)OC)F
+Gadolinium oxychloride	[Cl-].[Gd+3].[O-2]
+Plutonium oxybromide	[Br-].[O-2].[Pu+3]
+3-Phenylpiperidine	C1CC(CNC1)C2=CC=CC=C2
+F (psychedelic)	CC(CC1=C(C=C2CCOC2=C1)OC)N
+MMALM	COc1cc(CC(N)C)c(cc1OCC(=C)C)OC
+GLPG0974	C[C@@]1(CCN1C(=O)C2=CSC3=CC=CC=C32)C(=O)N(CCCC(=O)O)CC4=CC(=CC=C4)Cl
+MALM (drug)	C=CCOc1cc(OC)c(cc1OC)CC(N)C
