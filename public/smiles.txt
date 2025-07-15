@@ -3363,7 +3363,12 @@ P-Anisic acid	O=C(O)C1=CC=C(OC)C=C1
 Safranal	O=C\C1=C(\C=C/CC1(C)C)C
 Picrocrocin	O=C\C2=C(/C)C[C@@H](O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)CC2(C)C
 2,6-Xylenol	CC1=C(C(=CC=C1)C)O
+Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Sr+2].[Sr+2].[Sr+2].[Sr+2]
+Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Sr+2]
+Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Sr+2]
 Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Sr+2].[Sr+2]
+Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Sr+2]
+Strontium aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Sr+2].[Sr+2].[Sr+2]
 Terpinene	CC1=CC=C(C(C)C)CC1
 Terpinene	C=C1CC=C(C(C)C)CC1
 Terpinene	CC1=CCC(C(C)C)=CC1
@@ -6270,7 +6275,7 @@ Diethylene glycol dinitrate	C(CO[N+](=O)[O-])OCCO[N+](=O)[O-]
 HEPPS (buffer)	O=S(=O)(O)CCCN1CCN(CCO)CC1
 Epigallocatechin gallate	O=C(O[C@@H]2Cc3c(O[C@@H]2c1cc(O)c(O)c(O)c1)cc(O)cc3O)c4cc(O)c(O)c(O)c4
 3-Nitrobenzyl alcohol	[O-][N+](=O)c1cccc(c1)CO
-MPM (psychedelic)	COc1cc(OC)c(cc1OCCC)CC(C)N
+MPM (drug)	COc1cc(OC)c(cc1OCCC)CC(C)N
 MME (psychedelic)	COc1cc(OC)c(cc1OCC)CC(C)N
 Ubiquinol	CC1=C(C(C(=C(C1O)OC)OC)O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C
 Silodosin	FC(F)(F)COc3ccccc3OCCN[C@H](C)Cc1cc2c(c(c1)C(=O)N)N(CC2)CCCO
@@ -8719,7 +8724,6 @@ Safinamide	O=C(N)[C@@H](NCc2ccc(OCc1cccc(F)c1)cc2)C
 Lurasidone	C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]7CC[C@@H](C7)[C@H]6C5=O
 Geiparvarin	CC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C3=CC(=O)C(O3)(C)C
 Geiparvarin	O=C/3Oc2c(ccc(OC/C=C(/C=1OC(C(=O)C=1)(C)C)C)c2)\C=C\3
-Stryker's reagent	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CuH].[CuH].[CuH].[CuH].[CuH].[CuH]
 Docusate	CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(O)(=O)=O
 Docusate	[Na+].[O-]S(=O)(=O)C(C(=O)OCC(CC)CCCC)CC(=O)OCC(CC)CCCC
 Clofilium	Clc1ccc(cc1)CCCC[N+](CC)(CC)CCCCCCC
@@ -23112,3 +23116,9 @@ F (psychedelic)	CC(CC1=C(C=C2CCOC2=C1)OC)N
 MMALM	COc1cc(CC(N)C)c(cc1OCC(=C)C)OC
 GLPG0974	C[C@@]1(CCN1C(=O)C2=CSC3=CC=CC=C32)C(=O)N(CCCC(=O)O)CC4=CC(=CC=C4)Cl
 MALM (drug)	C=CCOc1cc(OC)c(cc1OC)CC(N)C
+Plutonium oxyiodide	[I-].[O-2].[Pu+3]
+MTFEM	COc1cc(CC(N)C)c(cc1OCC(F)(F)F)OC
+Actinium oxychloride	[Ac+3].[Cl-].[O-2]
+Actinium(III) oxybromide	[Ac+3].[Br-].[O-2]
+Phenoxyethylamine	C1=CC=C(C=C1)OCCN
+Praseodymium oxybromide	[Br-].[O-2].[Pr+3]
