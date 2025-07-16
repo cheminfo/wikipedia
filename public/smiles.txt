@@ -3811,6 +3811,7 @@ Altrose	O[C@@H]1[C@H](O)[C@H](OC(O)[C@H]1O)CO
 Altrose	OCC(O)[C@@H](O)[C@@H](O)[C@H](O)C=O
 Talose	O=C[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO
 Tebbe's reagent	C[Al-]1(C[Ti+2][Cl+]1)C.[cH-]1cccc1.[cH-]1cccc1
+Tellurium tetrafluoride	F[Te](F)(F)F
 1,8-Diazafluoren-9-one	O=C3c1ncccc1c2c3nccc2
 Hesperetin	O=C2c3c(O[C@H](c1ccc(OC)c(O)c1)C2)cc(O)cc3O
 Apigenin	O=C\1c3c(O/C(=C/1)c2ccc(O)cc2)cc(O)cc3O
@@ -16002,6 +16003,7 @@ Polyporic acid	C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O
 Granadaene	C[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](O1)OC(C)C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)N[C@@H](CCCN)C(=O)O
 Indenone	c1ccc2c(c1)C=CC2=O
 Ciraparantag	C1CN(CCN1CCCNC(=O)[C@H](CCCNC(=N)N)N)CCCNC(=O)[C@H](CCCNC(=N)N)N
+Copper peroxide	[Cu+2].[O-][O-]
 Trifluoromescaline	COc1cc(CCN)cc(OC)c1OC(F)(F)F
 Naphthalenetetracarboxylic diimide	c1cc2c3c(ccc4c3c1C(=O)NC4=O)C(=O)NC2=O
 Desmethylflunitrazepam	FC1=C(C=CC=C1)C2=NCC(NC3=C2C=C(C=C3)[N+](=O)[O-])=O
@@ -16159,6 +16161,7 @@ Oxosilanol	O=[SiH]O
 Pentazine	C1=NN=NN=N1
 Ravidasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C2=NC3=C(N2)C=C(C=C3)C4=CC5=C(C=C4)C=C(C=C5)C6=CN=C(N6)[C@@H]7CCCN7C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 L-Streptose	C[C@H]1[C@@]([C@H]([C@@H](O1)O)O)(C=O)O
+Sulfometuron methyl	CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C
 Pentafluorothiophenol	c1(c(c(c(c(c1F)F)S)F)F)F
 Phenethyl acetate	CC(=O)OCCc1ccccc1
 Δ-Nonalactone	CCCCC1CCCC(=O)O1
@@ -21701,6 +21704,7 @@ Technetium(IV) sulfide	[Tc].[S].[S]
 Palustric acid	CC(C)C1=CC2=C(CC1)[C@]3(CCC[C@@]([C@@H]3CC2)(C)C(=O)O)C
 3-Octanol	CCCCCC(CC)O
 3-Octanol	[C@@H](CCCCC)(CC)O
+Technetium(VII) sulfide	[S-2].[S-2].[S-2].[S-2].[S-2].[S-2].[S-2].[Tc+7].[Tc+7]
 3,4-Pr-PipVP	CCCC(C(=O)C1=CC2=C(CCC2)C=C1)N3CCCCC3
 Calcium(I) fluoride	[Ca]F
 Pinocarvone	CC1(C2CC1C(=C)C(=O)C2)C
@@ -23122,3 +23126,8 @@ Actinium oxychloride	[Ac+3].[Cl-].[O-2]
 Actinium(III) oxybromide	[Ac+3].[Br-].[O-2]
 Phenoxyethylamine	C1=CC=C(C=C1)OCCN
 Praseodymium oxybromide	[Br-].[O-2].[Pr+3]
+DOTFE	COc1cc(CC(F)(F)F)c(cc1CC(N)C)OC
+Holmium oxyfluoride	[F-].[Ho+3].[O-2]
+Holmium oxychloride	[Cl-].[Ho+3].[O-2]
+CATPB	C1=CC(=CC(=C1)Cl)CC(=O)N[C@@H](CC2=CC=C(C=C2)C(F)(F)F)CC(=O)O
+4-CMTB	CC(C)C(C1=CC=C(C=C1)Cl)C(=O)NC2=NC=CS2
