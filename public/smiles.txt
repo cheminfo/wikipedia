@@ -1805,6 +1805,7 @@ Cyanuric acid	O=C1NC(=O)NC(=O)N1
 Bufotalin	CC(=O)O[C@H]1C[C@@]2(C3CC[C@@H]4C[C@H](CC[C@@]4(C3CC[C@@]2([C@H]1C5=COC(=O)C=C5)C)C)O)O
 Arsole	[AsH]1C=CC=C1
 Tetrasodium pyrophosphate	[O-]P(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+Tetrasodium pyrophosphate	O.O.O.O.O.O.O.O.O.O.O=P([O-])([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
 Triclabendazole	CSc3nc2cc(Cl)c(Oc1cccc(Cl)c1Cl)cc2[nH]3
 Benzoyl chloride	c1ccc(cc1)C(=O)Cl
 Nabilone	O=C3CC[C@@H]1[C@H](c2c(OC1(C)C)cc(cc2O)C(C)(C)CCCCCC)C3
@@ -5398,6 +5399,7 @@ NP-40	CCCCCCCCCC1=CC=C(C=C1)OCCOCCO
 Dioxathion	S=P(SC1OCCOC1SP(=S)(OCC)OCC)(OCC)OCC
 Bis(trimethylsilyl)sulfide	C[Si](C)(C)S[Si](C)(C)C
 Sodium diethyldithiocarbamate	[Na+].[S-]C(=S)N(CC)CC
+Dithiocarbamate	C(=S)(N)[S-]
 Sodium dimethyldithiocarbamate	CN(C)C(=S)[S-].[Na+]
 Monosodium citrate	C(C(=O)O)C(CC(=O)O)(C(=O)[O-])O.[Na+]
 Disodium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)O)O.[Na+].[Na+]
@@ -5755,6 +5757,7 @@ Nitazoxanide	O=C(Nc1ncc(s1)[N+]([O-])=O)c2ccccc2OC(=O)C
 Mannosamine	C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)N)O)O)O
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@@]2(F)C1(F)F
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@]2(F)C1(F)F
+Tetrasodium tris(bathophenanthroline disulfonate)ruthenium(II)	C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Ru+2]
 Disodium hydrogen phosphite	[H+].[Na+].[Na+].[O-]P([O-])[O-]
 Disodium hydrogen phosphite	O=P([O-])([O-])[H].[Na+].[Na+]
 Disodium phosphate	OP(=O)([O-])[O-].[Na+].[Na+]
@@ -14414,6 +14417,7 @@ Cheilanthifoline	COC1=C(C=C2[C@@H]3CC4=C(CN3CCC2=C1)C5=C(C=C4)OCO5)O
 Cheilanthifoline	COc1cc2c(cc1O)CCN3C2Cc4ccc5c(c4C3)OCO5
 Pingbeinine	O[C@]1(C)CC[C@@H](N(C)C1)[C@@H](C)[C@H]4[C@@H](O)C[C@H]3[C@@H]5C/C=C2/C[C@@H](O)CC[C@]2(C)[C@H]5CC[C@@]34C
 Chelidonine	CN1CC2=C(C=CC3=C2OCO3)[C@@H]4[C@H]1C5=CC6=C(C=C5C[C@@H]4O)OCO6
+Ψ-2C-T-4	CC(C)SC1=CC(=C(C(=C1)OC)CCN)OC
 Disulfur dibromide	S(SBr)Br
 Sulfur dibromide	S(Br)Br
 Hernandezine	CN1CCc2cc(c3cc2[C@@H]1Cc4ccc(cc4)Oc5cc(ccc5OC)C[C@H]6c7c(c(c(c(c7O3)OC)OC)OC)CCN6C)OC
@@ -14933,6 +14937,7 @@ Chromium(III) phosphate	[O-]P(=O)([O-])[O-].[Cr+3]
 Fagaronine	C[n+]2cc4cc(OC)c(cc4c1ccc3cc(O)c(OC)cc3c12)OC
 Inoscavin A	CC1=CC(=O)C2(O1)C(OC3=C2C(=O)OC(=C3)/C=C/C4=CC(=C(C=C4)O)O)C5=CC(=C(C=C5)O)O
 Ethylidene diacetate	CC(OC(=O)C)OC(=O)C
+Tetranitratoborate	[O-][N+](=O)O[B-](O[N+](=O)[O-])(O[N+](=O)[O-])O[N+](=O)[O-]
 Nicotinamide riboside	c1cc(c[n+](c1)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
 25N-NBOMe	COC1=C(CCNCC2=C(OC)C=CC=C2)C=C(OC)C([N+]([O-])=O)=C1
 Sesamolin	c1cc2c(cc1[C@@H]3[C@H]4CO[C@@H]([C@H]4CO3)Oc5ccc6c(c5)OCO6)OCO2
@@ -16908,6 +16913,7 @@ Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
 Tris(trimethylsilyl)phosphine	C[Si](C)(C)P([Si](C)(C)C)[Si](C)(C)C
 Dobesilic acid	C1=CC(=C(C=C1O)S(=O)(=O)O)O
+Tetramethylthiuram sulfide	CN(C)C(=S)SC(=S)N(C)C
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
 Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
@@ -23160,3 +23166,13 @@ Zuretinol acetate	CC1=C(C(CCC1)(C)C)/C=C/C(=C\C=C\C(=C\COC(=O)C)\C)/C
 Xyloxadine	CC1=CC(=C(C=C1)C)C(C)S(=O)(=O)C2=CC=CC=[N+]2[O-]
 Methyl-TMA-2	CC(CC1=CC(=C(C=C1OC)OC)OC)NC
 2,4,6-Trimethoxyphenethylamine	COC1=CC(=C(C(=C1)OC)CCN)OC
+N-Desethylprotonitazene	CCCOC1=CC=C(CC2=NC3=CC([N+]([O-])=O)=CC=C3N2CCNCC)C=C1
+2C-B-PYR	COC1=CC(=C(C=C1C2CCNC2)OC)Br
+NF-56-EJ40	CN1CCN(CC1)CC2=CC=C(C=C2)C3=CC(=CC=C3)C(=O)NC4=CC=CC=C4CC(=O)O
+Difenzoquat	CN1C(=CC(=[N+]1C)C2=CC=CC=C2)C3=CC=CC=C3
+AZ'5538	O=C(Nc1sc2ccc(CN3CCN(C)CC3)cc2n1)NC(=O)c1cc(N2CCOCC2)c(OCC)cc1Cl
+GSK256073	CCCCCN1C2=C(C(=O)NC1=O)NC(=N2)Cl
+Pinoxaden	CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C
+2,3,4,6-Tetramethoxyamphetamine	COc1cc(OC)c(c(c1CC(N)C)OC)OC
+2,3,5,6-Tetramethoxyamphetamine	COc1cc(OC)c(c(c1OC)CC(N)C)OC
+MK6892	CC(C)(CC1=NC(=NO1)C2=NC=C(C=C2)O)C(=O)NC3=C(CCCC3)C(=O)O
