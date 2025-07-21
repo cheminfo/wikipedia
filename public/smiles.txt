@@ -15531,6 +15531,7 @@ Iridodial	C[C@H]1CC[C@@H]([C@H]1C=O)[C@H](C)C=O
 7-Deoxyloganetic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O
 7-Deoxyloganic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
+Thorium oxalate	C(=O)(C(=O)O)O.C(=O)(C(=O)O)O.[Th]
 Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 Anol	CC=CC1=CC=C(C=C1)O
@@ -15886,7 +15887,7 @@ Dihydrotanshinone I	O=C2c3c(C=1OCC(C=1C2=O)C)ccc4c(cccc34)C
 Imidazolate	c1cnc[n-]1
 Myxoxanthophyll	C/C(=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(C)/C=C/[C@@H](O[C@@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O)C(C)(C)O)/C=C/C2=C(C)C[C@@H](O)CC2(C)C
 Cyclopentyl methyl ether	COC1CCCC1
-DEG monobutyl ether	CCCCOCCOCCO
+Diethylene glycol butyl ether	CCCCOCCOCCO
 Fludioxonil	c1cc(c2c(c1)OC(O2)(F)F)c3c[nH]cc3C#N
 Sodium triethylborohydride	[B-](CC)(CC)CC.[Na+]
 Perfluorocyclohexane	C1(C(C(C(C(C1(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
@@ -23176,3 +23177,8 @@ Pinoxaden	CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C
 2,3,4,6-Tetramethoxyamphetamine	COc1cc(OC)c(c(c1CC(N)C)OC)OC
 2,3,5,6-Tetramethoxyamphetamine	COc1cc(OC)c(c(c1OC)CC(N)C)OC
 MK6892	CC(C)(CC1=NC(=NO1)C2=NC=C(C=C2)O)C(=O)NC3=C(CCCC3)C(=O)O
+IBC 293	CC(C)N1C2=C(C=C(C=C2)C(=O)O)N=N1
+Cycloeucalenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CC[C@@]35[C@@]2(C5)CC[C@@H]1O)C)[C@H](C)CCC(=C)C(C)C)C
+Esprocarb	CCN(C(C)C(C)C)C(=O)SCc1ccccc1
+Zymosterone	C[C@]1(CC2)C(CCC3=C1CC[C@@]4(C)C3CCC4[C@@H](CCC=C(C)C)C)CC2=O
+Lithium ozonide	[Li+].[O-]O[O]
