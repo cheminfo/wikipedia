@@ -5757,7 +5757,7 @@ Nitazoxanide	O=C(Nc1ncc(s1)[N+]([O-])=O)c2ccccc2OC(=O)C
 Mannosamine	C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)N)O)O)O
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@@]2(F)C1(F)F
 Perfluorodecalin	FC1(F)C(F)(F)C(F)(F)[C@]2(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[C@]2(F)C1(F)F
-Tetrasodium tris(bathophenanthroline disulfonate)ruthenium(II)	C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Ru+2]
+Tetrasodium tris(bathophenanthroline disulfonate)ruthenium(II)	C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].C1=CC(=CC=C1C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Ru+2]
 Disodium hydrogen phosphite	[H+].[Na+].[Na+].[O-]P([O-])[O-]
 Disodium hydrogen phosphite	O=P([O-])([O-])[H].[Na+].[Na+]
 Disodium phosphate	OP(=O)([O-])[O-].[Na+].[Na+]
@@ -11766,6 +11766,7 @@ Zafuleptine	Fc1ccc(cc1)CNC(CCCCCC(=O)O)C(C)C
 Lomevactone	Clc1ccc(cc1)C2C(C(=O)OC(C)C2)c3ccccc3
 Metostilenol	OC(\C=C\c1ccc(OC)cc1)CN2CCOCC2
 Potassium trispyrazolylborate	[H][B-](N1N=CC=C1)(N2N=CC=C2)N3N=CC=C3.[K+]
+Potassium borohydride	[BH4-].[K+]
 Meclizine	Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)Cc4cccc(c4)C
 Boron monofluoride	[BH0]F
 Boron monofluoride	[B-]=[F+]
@@ -18459,6 +18460,7 @@ TH-PVP	CCCC(C(=O)C1=CC2=C(CCCC2)C=C1)N3CCCC3
 1,2-Bis(dichlorophosphino)ethane	C(CP(Cl)Cl)P(Cl)Cl
 Bis(diethylamino)chlorophosphine	C1=CC=C(C(=C1)P(Cl)Cl)P(Cl)Cl
 Dimethylaminophosphorus dichloride	CN(C)P(Cl)Cl
+Madecassoside	CC1CCC2(CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5C(O)CC34C)C2C1C)C(=O)OC1OC(COC2OC(CO)C(OC3OC(C)C(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O
 Sulfachlorpyridazine	C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl
 Barium carbide	[C-]#[C-].[Ba+2]
 Tris(dimethylamino)phosphine	CN(C)P(N(C)C)N(C)C
@@ -23181,4 +23183,10 @@ IBC 293	CC(C)N1C2=C(C=C(C=C2)C(=O)O)N=N1
 Cycloeucalenol	C[C@H]1[C@@H]2CC[C@H]3[C@@]4(CC[C@@H]([C@]4(CC[C@@]35[C@@]2(C5)CC[C@@H]1O)C)[C@H](C)CCC(=C)C(C)C)C
 Esprocarb	CCN(C(C)C(C)C)C(=O)SCc1ccccc1
 Zymosterone	C[C@]1(CC2)C(CCC3=C1CC[C@@]4(C)C3CCC4[C@@H](CCC=C(C)C)C)CC2=O
+O-Ethyl thioacetate	CCOC(=S)C
+Ethyl thioacetate	CCSC(=O)C
 Lithium ozonide	[Li+].[O-]O[O]
+Tetramethylammonium ozonide	C[N+](C)(C)C.[O-]O[O]
+Madecassic acid	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O
+TC-G 1005	CC1=CC(=C(C=C1)C)OC2=C(C=NC=C2)C(=O)N3CCN(C4=CC=CC=C43)C5CC5
+Votoplam	CC1(CC(CC(N1)(C)C)N2C3=NN=C(C=C3N=N2)C4=C(C=C(C=C4)N5N=CC=N5)O)C
