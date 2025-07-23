@@ -1655,7 +1655,7 @@ Methazole	CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl
 Copper(II) chloride	[Cu+2].[Cl-].[Cl-]
 Copper(II) chloride	Cl[Cu-2](Cl)([OH2+])[OH2+]
 Tungsten trioxide	O=[W](=O)=O
-Titanium carbide	[Ti+]#[C-]
+Titanium carbide	[C].[Ti]
 Nimesulide	[O-][N+](=O)c2cc(Oc1ccccc1)c(cc2)NS(=O)(=O)C
 Tetrabutylammonium hydroxide	[OH-].CCCC[N+](CCCC)(CCCC)CCCC
 Sodium acetate	[Na+].[O-]C(=O)C
@@ -4414,6 +4414,7 @@ Tin(II) sulfate	[O-]S(=O)(=O)[O-].[SnH2+2]
 Tin(IV) sulfide	[S-2].[S-2].[Sn+4]
 Tin(IV) sulfide	S=[Sn]=S
 Titanium(III) fluoride	F[Ti](F)F
+Titanium hydride	[H-].[H-].[Ti+2]
 Calcium fumarate	O=C1O[Ca]OC(=O)\C=C\1
 Potassium fumarate	[K+].[K+].[O-]C(=O)\C=C\C([O-])=O
 Sodium fumarate	[Na+].[Na+].[O-]C(=O)\C=C\C([O-])=O
@@ -20795,6 +20796,7 @@ Lithium periodate	[Li+].[O-]I(=O)(=O)=O
 Sodium astatide	[Na+].[At-]
 Tin(IV) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Sn+4]
 Tin(II) acetate	CC(=O)[O-].CC(=O)[O-].[Sn+2]
+Tin(II) acetate	CC(=O)O.CC(=O)O.CC(=O)[O-].CC(=O)[O-].[Sn+2]
 Barium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Ba+2]
 Rhenium trioxide fluoride	O=[Re](=O)(=O)F
 Rhenium dioxide trifluoride	O=[Re](F)(F)(F)=O
@@ -23190,3 +23192,7 @@ Tetramethylammonium ozonide	C[N+](C)(C)C.[O-]O[O]
 Madecassic acid	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O
 TC-G 1005	CC1=CC(=C(C=C1)C)OC2=C(C=NC=C2)C(=O)N3CCN(C4=CC=CC=C43)C5CC5
 Votoplam	CC1(CC(CC(N1)(C)C)N2C3=NN=C(C=C3N=N2)C4=C(C=C(C=C4)N5N=CC=N5)O)C
+Potassium osmiamate	N#[Os](=O)(=O)[O-].[K+]
+Euphol	C[C@H](CCC=C(C)C)[C@@H]1CC[C@]2([C@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
+Nivegacetor	COC1=NN=CC(=C1)N2C[C@H]3CC[C@@H](C2)C3NC4=NN5CC[C@H](C5=N4)OC6=CC(=CC(=C6)F)F
+Achilleol A	CC(=CCC/C(=C/CC/C(=C/CC/C=C(\C)/CC[C@@H]1C(=C)CC[C@@H](C1(C)C)O)/C)/C)C
