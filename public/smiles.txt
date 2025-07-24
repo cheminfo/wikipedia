@@ -4528,7 +4528,6 @@ Thorium(IV) iodide	[I-].[I-].[I-].[I-].[Th+4]
 Thorium(IV) orthosilicate	[Th+4].[O-][Si]([O-])([O-])[O-]
 Thorium(IV) sulfide	[Th+4].[S-2].[S-2]
 Technetium hexafluoride	F[Tc](F)(F)(F)(F)F
-Titanium(II) oxide	O=[Ti]
 Titanium(II) sulfide	[S].[Ti]
 Titanium tetrafluoride	F[Ti](F)(F)F
 Titanium disilicide	[Si]=[Ti]=[Si]
@@ -5699,6 +5698,7 @@ Valencene	C\12=C\CC[C@H]([C@@]/1(C[C@H](\C(=C)C)CC2)C)C
 Met-enkephalin	CSCCC(NC(=O)C(Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)C(N)Cc1ccc(O)cc1)C(O)=O
 Copper silicide	[Si].[Cu].[Cu].[Cu].[Cu].[Cu]
 Properidine	O=C(OC(C)C)C2(c1ccccc1)CCN(C)CC2
+Titanium yellow	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Ni+2].[Sb+3].[Sb+3].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4].[Ti+4]
 2C-F	Fc1cc(OC)c(cc1OC)CCN
 Tantalum hafnium carbide	[C].[C].[C].[C].[C].[Hf].[Ta].[Ta].[Ta].[Ta]
 Magnesium benzoate	[Mg+2].[O-]C(=O)c1ccccc1.[O-]C(=O)c1ccccc1
@@ -23196,3 +23196,5 @@ Potassium osmiamate	N#[Os](=O)(=O)[O-].[K+]
 Euphol	C[C@H](CCC=C(C)C)[C@@H]1CC[C@]2([C@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C
 Nivegacetor	COC1=NN=CC(=C1)N2C[C@H]3CC[C@@H](C2)C3NC4=NN5CC[C@H](C5=N4)OC6=CC(=CC(=C6)F)F
 Achilleol A	CC(=CCC/C(=C/CC/C(=C/CC/C=C(\C)/CC[C@@H]1C(=C)CC[C@@H](C1(C)C)O)/C)/C)C
+Zymostenol	C[C@H](CCCC(C)C)[C@@]1([H])CC[C@@]([C@]1(C)CC2)([H])C3=C2[C@]4(C)[C@](CC3)([H])C[C@@H](O)CC4
+Helvolic acid	CC1C2C(C(=O)C3(C(C2(C=CC1=O)C)CCC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)C)OC(=O)C
