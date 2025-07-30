@@ -2151,7 +2151,6 @@ Lithium tantalate	[Li+].[O-2].[O-2].[O-2].[Ta+5]
 Caesium chloride	[Cs+].[Cl-]
 Palladium(II) chloride	Cl[Pd]Cl
 Palladium(II) chloride	[Cl+]0[Pd-2]12[Cl+][Pd-2]34[Cl+][Pd-2]05[Cl+][Pd-2]6([Cl+]1)[Cl+][Pd-2]([Cl+]2)([Cl+]3)[Cl+][Pd-2]([Cl+]4)([Cl+]5)[Cl+]6
-Arsenic trioxide	O1[As]3O[As]2O[As](O3)O[As]1O2
 Antimony trioxide	O=[Sb]O[Sb]=O
 Brefeldin A	O=C/1O[C@H](CCC/C=C/[C@H]2[C@H]([C@H](O)/C=C\1)C[C@@H](O)C2)C
 Tröger's base	c1(ccc3c(c1)CN4c2ccc(cc2CN3C4)C)C
@@ -8717,6 +8716,7 @@ Tisopurine	c1c2c([nH]n1)ncnc2S
 Troxipide	COc1cc(cc(c1OC)OC)C(=O)NC2CCCNC2
 Aluminium glycinate	O[Al+]O.[O-]C(=O)CN
 Aloglutamol	C([C@H]([C@H]([C@@H]([C@H](C(=O)O[Al](O)O)O)O)O)O)O.C(C(CO)(CO)N)O
+Aluminium acetoacetate	CC(=O)CC(=O)[O-].CC(=O)CC(=O)[O-].CC(=O)CC(=O)[O-].[Al+3]
 Carbaldrate	C(=O)([O-])[O-].O.[OH-].[OH-].[Na+].[Al+3]
 Netropsin	[H]/N=C(/CCNC(=O)c1cc(cn1C)NC(=O)c2cc(cn2C)NC(=O)CN=C(N)N)\N
 ICI-118,551	CC1=C2CCCC2=C(C=C1)OCC(C(C)NC(C)C)O
@@ -15500,6 +15500,7 @@ N-Methyl-PPPA	CNCCC(Oc1ccccc1)c2ccccc2
 Lipid II	CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(C)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CO)OP(=O)(O)OP(=O)(O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)NC(=O)C
 Carbon monophosphide	[C]#P
 Cyanoform	C(#N)C(C#N)C#N
+Potassium tetrafluoroborate	[B-](F)(F)(F)F.[K+]
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
 Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
@@ -23254,3 +23255,6 @@ IPLA	CC(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 L-LSD	CCN(CC)C(=O)[C@@H]1CN([C@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 L-Iso-LSD	CCN(CC)C(=O)[C@H]1CN([C@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 2CBecca	COc1cc(Br)c(cc1C1CNCc2c1cccc2)OC
+Cyclohexyne	C1CCC#CC1
+Huprine Y	CC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
+IHCH-7179	C1CN2C(CC3=CNC4=C3C2=CC=C4)CN1CCCC(=O)C5=CC=C(C=C5)F
