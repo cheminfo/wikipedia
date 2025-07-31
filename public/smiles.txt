@@ -7754,7 +7754,6 @@ Sucrose octaacetate	CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@
 Sodium monothiophosphate	[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
 Sodium monothiophosphate	O.O.O.O.O.O.O.O.O.[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
 Sodium monothiophosphate	O.O.O.O.O.O.O.O.O.O.O.O.[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
-LY-334370	CN1CCC(c2c3cc(N([H])C(c4ccc(F)cc4)=O)ccc3n([H])c2)CC1
 Trimagnesium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg+2]
 Monomagnesium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Mg+2]
 Dimagnesium phosphate	O=P([O-])(O)[O-].[Mg+2]
@@ -23258,3 +23257,4 @@ L-Iso-LSD	CCN(CC)C(=O)[C@H]1CN([C@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Cyclohexyne	C1CCC#CC1
 Huprine Y	CC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
 IHCH-7179	C1CN2C(CC3=CNC4=C3C2=CC=C4)CN1CCCC(=O)C5=CC=C(C=C5)F
+IHCH-7162	C1CC2=CC=CC=C2N3C1CN(CC3)CCCC(=O)C4=CC=C(C=C4)F
