@@ -9409,6 +9409,7 @@ Pheneticillin	CC(C(=O)N[C@H]1[C@@H]2N(C1=O)[C@H](C(S2)(C)C)C(=O)O)OC3=CC=CC=C3
 Penamecillin	CC(=O)OCOC(=O)[C@H]1C(S[C@H]2N1C(=O)[C@H]2NC(=O)CC3=CC=CC=C3)(C)C
 Clometocillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)C(OC)c1ccc(Cl)c(Cl)c1)[C@H]3SC2(C)C
 Benzathine	C1=CC=C(C=C1)CNCCNCC2=CC=CC=C2
+Benzathine phenoxymethylpenicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C.CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C.C1=CC=C(C=C1)CNCCNCC2=CC=CC=C2
 Cyfluthrin	Cl/C(Cl)=C/[C@H]3[C@@H](C(=O)O[C@@H](C#N)c2ccc(F)c(Oc1ccccc1)c2)C3(C)C
 Etofenprox	O(c1ccccc1)c2cc(ccc2)COCC(c3ccc(OCC)cc3)(C)C
 Propoxur	CC(C)Oc1ccccc1OC(=O)NC
@@ -15364,6 +15365,7 @@ Norstictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)C=O)O
 RB-64	C[C@@]12CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]1C(=O)[C@H](C[C@H]2C(=O)OC)OC(=O)CSC#N)C)C4=COC=C4
 Methyltrimethoxysilane	CO[Si](C)(OC)OC
 Homophthalic acid	OC(=O)C1=CC=CC=C1CC(O)=O
+Aramchol	[H][C@@]1(CC[C@H]2[C@]3([H])[C@H](O)C[C@@H]4C[C@H](CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C)NC(=O)CCCCCCCCCCCCCCCCCCC)[C@H](C)CCC(O)=O
 Fluralaner	Cc1cc(ccc1C(=O)NCC(=O)NCC(F)(F)F)C2=NOC(C2)(c3cc(cc(c3)Cl)Cl)C(F)(F)F
 Propoxate	CCCOC(=O)c1cncn1C(C)c2ccccc2
 Nitrapyrin	c1cc(nc(c1)Cl)C(Cl)(Cl)Cl
@@ -20143,6 +20145,7 @@ Holmium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ho+3]
 Tetraboric acid	OB(OB=O)OB(O)OB=O
 Orthoborate	B([O-])([O-])[O-]
 Erbium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Er+3]
+Rentosertib	CC(C)N1C=NC(=C1C2=NC=C(N2)C(=O)NC3=CC=C(C=C3)N4CCN(CC4)C)C5=CC=C(C=C5)F
 2-Pinanol	CC1(C2CCC(C1C2)(C)O)C
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@](C)(O)CC2
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@@](C)(O)CC2
@@ -21230,6 +21233,7 @@ Iberdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCOCC5
 Mezigdomide	C1CC(=O)NC(=O)[C@H]1N2CC3=C(C2=O)C=CC=C3OCC4=CC=C(C=C4)CN5CCN(CC5)C6=C(C=C(C=C6)C#N)F
 5-MAPBT	CC(CC1=CC2=C(C=C1)SC=C2)NC
 Danicamtiv	C[C@@](C1CCN(CC1)C(=O)NC2=NOC=C2)(F)S(=O)(=O)C3=CN(N=C3C(F)F)C
+Balcinrenone	CNC(=O)C[C@H]1COC2=C(N1C(=O)C3=CC4=C(C=C3)OCC(=O)N4)C=CC(=C2)F
 Avadomide	Cc1nc2cccc(N)c2c(=O)n1C1CCC(=O)NC1=O
 Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
 Palladium diarsenide	[Pd].[As].[As]
@@ -21730,6 +21734,7 @@ Jun12682	CCN1C=CC(=N1)C2=CC(=CC(=C2)[C@@H](C)NC(=O)C3=C(C=CC(=C3)OCCN(C)C)C)C4=C
 Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
 2-MCPD	C(C(CO)Cl)O
 Pentadecanoylcarnitine	CCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C
+Aspoxicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)NC(=O)[C@@H](CC(=O)NC)N)C(=O)O)C
 Tetrachloroethylene carbonate	C1(=O)OC(C(O1)(Cl)Cl)(Cl)Cl
 Imidaclothiz	C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl
 Paichongding	CCCOC1CC(C(=C2N1CCN2CC3=CN=C(C=C3)Cl)[N+](=O)[O-])C
@@ -22532,7 +22537,7 @@ Rosolutamide	COC1=C(C=C(C=C1)/C=C/C(=O)C(C(=O)/C=C/C2=CC(=C(C=C2)OC)OC)CC3CCC3)O
 Inidascamine	C1CCN(C1)C(=O)[C@@H]([C@H](C2=CC=NC=C2)O)N
 Padsevonil	COCC1=NN2C(=C(N=C2S1)C(F)(F)F)CN3C[C@H](CC3=O)CC(F)(F)Cl
 Plosaracetam	C1[C@@H](CN(C1=O)CN2C(=NC=N2)Cl)C3=CC(=C(C(=C3)F)F)F
-Brexanolone caprilcerbate	CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CC(C)CC(=O)OCOC(=O)O[C]1CC[C@@]2(C)[C@@H](CC[C@H]3[C@@H]4CC[C](C(C)=O)[C@@]4(C)CC[C@H]23)C1
+Brexanolone caprilcerbate	CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CC(C)CC(=O)OCOC(=O)O[C@@H]1CC[C@]2([C@H](C1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)C)C)C
 Deulumateperone	CN1C([2H])([2H])CN2[C@H]3CCN(C[C@H]3C4=C2C1=CC=C4)CCCC(=O)C5=CC=C(C=C5)F
 Ammonium tetrathioarsenate	[NH4+].[NH4+].[NH4+].[S-][As](=S)([S-])[S-]
 Ammonium calcium phosphate	[NH4+].[O-]P(=O)([O-])[O-].[Ca+2]
@@ -23258,3 +23263,8 @@ Cyclohexyne	C1CCC#CC1
 Huprine Y	CC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
 IHCH-7179	C1CN2C(CC3=CNC4=C3C2=CC=C4)CN1CCCC(=O)C5=CC=C(C=C5)F
 IHCH-7162	C1CC2=CC=CC=C2N3C1CN(CC3)CCCC(=O)C4=CC=C(C=C4)F
+Alixorexton	O=C1N2CCC[C@@H]([C@@H]2CO[C@@H]3CC[C@@H](CC3)C4=C(OC1)C=CC=C4)NS(=O)(C)=O
+Oxa-noribogaine	CC[C@H]1C[C@H]2C[C@@H]3C1N(C2)CCC4=C3OC5=C4C=C(C=C5)O
+CTAP (peptide)	C[C@H]([C@H]1C(=O)N[C@@H](C(SSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCN=C(N)N)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)[C@@H](CC5=CC=CC=C5)N)(C)C)C(=O)N[C@@H]([C@@H](C)O)C(=O)N)O
+Velnacrine	C1CC(C2=C(C3=CC=CC=C3N=C2C1)N)O
+Catharanthalog	CN1CCC2=C(C(C1)C(=O)OC)NC3=CC=CC=C23
