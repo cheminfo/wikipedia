@@ -8984,6 +8984,7 @@ Otilonium bromide	CCCCCCCCOC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)OCC[N+](C)(CC)CC.[
 Penthienate	CC[N+](C)(CC)CCOC(=O)C(C1CCCC1)(C2=CC=CS2)O
 Oxyphenonium bromide	OC(C(=O)OCC[N+](C)(CC)CC)(c1ccccc1)C2CCCCC2.[Br-]
 Benzilone	O=C(OC1CC[N+](CC)(CC)C1)C(O)(c2ccccc2)c3ccccc3
+Cimetropium bromide	C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@@H](CO)C4=CC=CC=C4)CC5CC5.[Br-]
 Methylatropine	C[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C
 Chebulagic acid	C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O
 Alpine borane	CC4(C)[C@@H]1C[C@H]4[C@@H](C)[C@@H](C1)B3C2CCCC3CCC2
@@ -20319,7 +20320,7 @@ Quaterpyridine	C1=CC(=NC=C1)C2=CC=CC(=N2)C3=CC=CC(=N3)C4=CC=CC=N4
 T-1152	CNC(=O)OC1=CC=CC(=C1)[N+](C)(C)C.[I-]
 1D-LSD	[H][C@@]12CC3=CN(C(=O)C4(C)CCC4C)C4=C3C(=CC=C4)C1=C[C@H](CN2C)C(=O)N(CC)CC
 Dinitroglycoluril	C12C(NC(=O)N1[N+](=O)[O-])N(C(=O)N2)[N+](=O)[O-]
-Ferrocenecarboxylic acid	[CH-]1C=CC=C1.C1=C[C-](C=C1)C(=O)O.[Fe+2]
+Ferrocenyl carboxylic acid	[CH-]1C=CC=C1.C1=C[C-](C=C1)C(=O)O.[Fe+2]
 Nitryl cyanide	[O-][N+](=O)C#N
 1,1'-Ferrocenedicarboxylic acid	[CH]1[CH][CH][C]([CH]1)C(=O)O.[CH]1[CH][CH][C]([CH]1)C(=O)O.[Fe]
 1,1'-Diaminoferrocene	C1=C[C-](C=C1)N.C1=C[C-](C=C1)N.[Fe+2]
@@ -23276,4 +23277,4 @@ INT-777	CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3C[C@@H]([C@]4([C@H]([C@@H]3[C@@H]
 BAY 36-7620	C=C1C[C@@H]2COC(=O)[C@@]2(C1)CC3=CC4=CC=CC=C4C=C3
 Jasplakinolide	C[C@@H]\1C[C@@H](OC(=O)C[C@@H](NC(=O)[C@H](N(C(=O)[C@@H](NC(=O)[C@H](C/C(=C1)/C)C)C)C)CC2=C(NC3=CC=CC=C32)Br)C4=CC=C(C=C4)O)C
 Arsinothricin	C[As](=O)(CCC(C(=O)O)N)O
-Α-Methyletonitazene	CC(c1nc2cc(ccc2n1CCN(CC)CC)[N+](=O)[O-])c1ccc(OCC)cc1
+Α'-Methyletonitazene	CC(c1nc2cc(ccc2n1CCN(CC)CC)[N+](=O)[O-])c1ccc(OCC)cc1
