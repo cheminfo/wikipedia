@@ -7402,6 +7402,7 @@ Trans-2-Methyl-2-butenal	O=C/C(=C/C)C
 GYKI 52895	O1c2c(OC1)cc3c(c2)C(=N/NC(C3)C)\c4ccc(N)cc4
 Nerisopam	O(c1c(OC)cc/2c(c1)C/C(=N\N=C\2c3ccc(N)cc3)C)C
 Feprosidnine	n1oc([NH-])c[n+]1C(Cc2ccccc2)C
+Rubidium silver iodide	[Rb+].[Ag+].[Ag+].[Ag+].[Ag+].[I-].[I-].[I-].[I-].[I-]
 Rubidium carbonate	[Rb+].[Rb+].[O-]C([O-])=O
 Sodium alum	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Na+].[Al+3]
 Catecholborane	[B]1OC2=CC=CC=C2O1
@@ -23283,3 +23284,4 @@ Arsinothricin	C[As](=O)(CCC(C(=O)O)N)O
 Cycloheptyne	C1CCC#CCC1
 Thioformamide	C(=S)N
 Luvometinib	CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(N=C2C4=CC(=CC=C4)NS(=O)(=O)C5CC5)C6CC6
+Cyclononyne	C1CCCC#CCCC1
