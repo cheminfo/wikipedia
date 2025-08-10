@@ -23269,6 +23269,7 @@ IHCH-7162	C1CC2=CC=CC=C2N3C1CN(CC3)CCCC(=O)C4=CC=C(C=C4)F
 Alixorexton	O=C1N2CCC[C@@H]([C@@H]2CO[C@@H]3CC[C@@H](CC3)C4=C(OC1)C=CC=C4)NS(=O)(C)=O
 Vatinoxan	[H][C@@]12C[C@@]3(CNC(=O)N3CCNS(C)(=O)=O)CCN1CCC1=C2OC2=CC=CC=C12
 Oxa-noribogaine	CC[C@H]1C[C@H]2C[C@@H]3C1N(C2)CCC4=C3OC5=C4C=C(C=C5)O
+Scandium(III) phosphate	[O-]P(=O)([O-])[O-].[Sc+3]
 CTAP (peptide)	C[C@H]([C@H]1C(=O)N[C@@H](C(SSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCN=C(N)N)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)[C@@H](CC5=CC=CC=C5)N)(C)C)C(=O)N[C@@H]([C@@H](C)O)C(=O)N)O
 Velnacrine	C1CC(C2=C(C3=CC=CC=C3N=C2C1)N)O
 Catharanthalog	CN1CCC2=C(C(C1)C(=O)OC)NC3=CC=CC=C23
@@ -23285,3 +23286,5 @@ Cycloheptyne	C1CCC#CCC1
 Thioformamide	C(=S)N
 Luvometinib	CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(N=C2C4=CC(=CC=C4)NS(=O)(=O)C5CC5)C6CC6
 Cyclononyne	C1CCCC#CCCC1
+Cyclodecyne	C1CCCCC#CCCC1
+Chlorine fluorosulfate	ClOS(=O)(=O)F
