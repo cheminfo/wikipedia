@@ -23287,4 +23287,7 @@ Thioformamide	C(=S)N
 Luvometinib	CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(N=C2C4=CC(=CC=C4)NS(=O)(=O)C5CC5)C6CC6
 Cyclononyne	C1CCCC#CCCC1
 Cyclodecyne	C1CCCCC#CCCC1
+MDO-NPA	CCCN1CCC2=C3[C@H]1CC4=C(C3=CC=C2)C5=C(C=C4)OCO5
 Chlorine fluorosulfate	ClOS(=O)(=O)F
+Fluorosulfonyl azide	F[S](=O)(=O)N=[N+]=[N-]
+Zongertinib	C=CC(=O)NC1CCN(CC1)c2ncc3c(c(ncn3)Nc4ccc(c(C)c4)Oc5ccc6c(c5)ncn6C)n2
