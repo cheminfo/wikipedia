@@ -1996,6 +1996,7 @@ Phorone	O=C(C=C(C)C)C=C(C)C
 3,3'-Diaminobenzidine	c2(c1cc(N)c(N)cc1)ccc(N)c(N)c2
 Tinidazole	CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C
 Heneicosane	CCCCCCCCCCCCCCCCCCCCC
+Pentatriacontane	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 CX717	C1COCCN1C(=O)C2=CC3=NON=C3C=C2
 Lithium tetramethylpiperidide	[Li]N1C(C)(C)CCCC1(C)C
 Lithium tetramethylpiperidide	CC1(C)CCCC(C)(C)[N+]01[Li-][N+]1(C(C)(C)CCCC1(C)C)[Li-][N+]1(C(C)(C)CCCC1(C)C)[Li-][N+]1([Li-]0)C(C)(C)CCCC1(C)C
@@ -3940,6 +3941,7 @@ Hippuristanol	OC(C(=O)NNCNC(=O)c1ccccc1)(c2ccccc2)c3ccccc3
 Hippuristanol	[H][C@@]23CC[C@@]1([H])C[C@H](O)CC[C@@](C)1[C@]([H])2[C@@H](O)C[C@@]4(C)[C@@](C[C@@]5([H])[C@@]([H])4[C@](O)(C)[C@]6(C[C@H](C)C(C)(C)O6)O5)3[H]
 Melanotan II	CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC1=O)CC2=CN=CN2)CC3=CC=CC=C3)CCCN=C(N)N)CC4=CNC5=CC=CC=C54)C(=O)N)NC(=O)C
 Cytochalasin E	C[C@H]1C/C=C/[C@H]2[C@H]3[C@](O3)([C@H]([C@@H]4[C@]2(C(=O)N[C@H]4CC5=CC=CC=C5)OC(=O)O/C=C/[C@@](C1=O)(C)O)C)C
+Hectane	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 Urea phosphate	C(=O)(N)N.OP(=O)(O)O
 Dimethyldioctadecylammonium chloride	[Cl-].C(CCCCC[N+](C)(CCCCCCCCCCCCCCCCCC)C)CCCCCCCCCCCC
 Veratridine	O=C(O[C@H]7CC[C@@]1([C@@]65O[C@@]7(O)[C@H]1CC[C@H]6[C@@]2(O)[C@](O)([C@H]4[C@](O)([C@@H](O)C2)[C@@](O)(C)[C@H]3N(C[C@@H](C)CC3)C4)C5)C)c8ccc(OC)c(OC)c8
@@ -23291,3 +23293,6 @@ MDO-NPA	CCCN1CCC2=C3[C@H]1CC4=C(C3=CC=C2)C5=C(C=C4)OCO5
 Chlorine fluorosulfate	ClOS(=O)(=O)F
 Fluorosulfonyl azide	F[S](=O)(=O)N=[N+]=[N-]
 Zongertinib	C=CC(=O)NC1CCN(CC1)c2ncc3c(c(ncn3)Nc4ccc(c(C)c4)Oc5ccc6c(c5)ncn6C)n2
+Diaminocyclohexanetetraacetic acid	C1CC[C@H]([C@@H](C1)N(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+Diaminocyclohexanetetraacetic acid	C1CC[C@H]([C@@H](C1)N(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O.O
+Circumcoronene	c1cc2cc3ccc4cc5ccc6cc7ccc8cc9ccc%10cc%11ccc%12cc1c1c2c2c3c4c3c5c6c4c7c8c5c9c%10c6c%11c%12c1c1c2c3c4c5c61
