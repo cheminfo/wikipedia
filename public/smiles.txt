@@ -7788,7 +7788,7 @@ Potassium sulfite	[O-]S(=O)[O-].[K+].[K+]
 Calcium bisulfite	OS(=O)[O-].OS(=O)[O-].[Ca+2]
 DAMGO	C[C@@H](NC([C@@H](N)CC1=CC=C(O)C=C1)=O)C(NCC(N([C@H](C(NCCO)=O)CC2=CC=CC=C2)C)=O)=O
 Buflomedil	O=C(c1c(OC)cc(OC)cc1OC)CCCN2CCCC2
-Octyl gallate	CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)
+Octyl gallate	CCCCCCCCOC(=O)C1=CC(O)(=C(C(=C1)O)O)
 Dodecyl gallate	CCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O
 Icilin	O=C3N(c1c(O)cccc1)C/C=C(/c2cccc([N+]([O-])=O)c2)N3
 Rivoglitazone	CN1C2=C(C=CC(=C2)OC)N=C1COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4
@@ -21241,6 +21241,7 @@ Danicamtiv	C[C@@](C1CCN(CC1)C(=O)NC2=NOC=C2)(F)S(=O)(=O)C3=CN(N=C3C(F)F)C
 Balcinrenone	CNC(=O)C[C@H]1COC2=C(N1C(=O)C3=CC4=C(C=C3)OCC(=O)N4)C=CC(=C2)F
 Avadomide	Cc1nc2cccc(N)c2c(=O)n1C1CCC(=O)NC1=O
 Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
+Evazarsen sodium	COCCO[C@@H]1[C@H](O)[C@@H](COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(=O)(O)OCCCCCCNC(=O)CCCC(=O)NC(COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)(COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)O[C@H]1n1cc(C)c(=O)[nH]c1=O
 Palladium diarsenide	[Pd].[As].[As]
 Calcium arsenide	[Ca+2].[As-2][As-2].[Ca+2]
 Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
@@ -23295,4 +23296,7 @@ Fluorosulfonyl azide	F[S](=O)(=O)N=[N+]=[N-]
 Zongertinib	C=CC(=O)NC1CCN(CC1)c2ncc3c(c(ncn3)Nc4ccc(c(C)c4)Oc5ccc6c(c5)ncn6C)n2
 Diaminocyclohexanetetraacetic acid	C1CC[C@H]([C@@H](C1)N(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
 Diaminocyclohexanetetraacetic acid	C1CC[C@H]([C@@H](C1)N(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O.O
+Plutonium(III) phosphate	[O-]P(=O)([O-])[O-].[Pu+3]
 Circumcoronene	c1cc2cc3ccc4cc5ccc6cc7ccc8cc9ccc%10cc%11ccc%12cc1c1c2c2c3c4c3c5c6c4c7c8c5c9c%10c6c%11c%12c1c1c2c3c4c5c61
+Americium(III) phosphate	[O-]P(=O)([O-])[O-].[Am+3]
+Erbium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Er+3].[Er+3]
