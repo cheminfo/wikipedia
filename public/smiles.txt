@@ -10206,7 +10206,7 @@ Chloranil	ClC=1C(=O)C(\Cl)=C(\Cl)C(=O)C=1Cl
 2,3,3-Trimethylpentane	CCC(C)(C)C(C)C
 RTI-113	CN1C2CCC1[C@H]([C@H](C2)C3=CC=C(C=C3)Cl)C(=O)OC4=CC=CC=C4
 RTI-112	CC1=C(C=CC(=C1)[C@H]2C[C@@H]3CC[C@H]([C@H]2C(=O)OC)N3C)Cl
-N-Phenylacetyl-L-prolylglycine ethyl ester	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
+Omberacetam	c2ccccc2CC(=O)N1CCC[C@@H]1C(=O)NCC(=O)OCC
 MMPIP	COc3ccc(cc3)C2CC(C1C(=O)N2C)ON=C1c4ccncc4
 Pomaglumetad	C1[C@]([C@@H]2[C@H]([C@@H]2S1(=O)=O)C(=O)O)(C(=O)O)N
 ADX-47273	FC1=CC=C(C(N2CCC[C@@H](C2)C3=NC(C4=CC=C(F)C=C4)=NO3)=O)C=C1
@@ -15940,7 +15940,7 @@ Salicyl alcohol	c1ccc(c(c1)CO)O
 Imetelstat	CCCCCCCCCCCCCCCC(=O)NCC(COP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N2C=C(C(=O)NC2=O)C)NP(=S)(O)OC[C@@H]3[C@H](C[C@@H](O3)N4C=NC5=C(N=CN=C54)N)NP(=S)(O)OC[C@@H]6[C@H](C[C@@H](O6)N7C=NC8=C7N=C(NC8=O)N)NP(=S)(O)OC[C@@H]9[C@H](C[C@@H](O9)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=O)NC1=O)C)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=O)NC1=O)C)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=CC(=NC1=O)N)NP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)NP(=O)(OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)N)S)O
 Metizolam	ClC1=C(C=CC=C1)C3=NCC2=NN=C[N]2C4=C3C=C(S4)CC
 20-Hydroxyeicosatetraenoic acid	C(CC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O)CCO
-Ideain	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
+Idaein	C1=CC(=C(C=C1C2=C(C=C3C(=CC(=CC3=[O+]2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O.[Cl-]
 Fluopyram	FC(F)(F)c1ccccc1C(=O)NCCc2ncc(cc2Cl)C(F)(F)F
 Methamnetamine	CNC(C)Cc1ccc2ccccc2c1
 Dibenzpyrenequinone	O=C2c1ccccc1c6c5c2ccc4c3ccccc3C(=O)c(c45)cc6
@@ -21296,6 +21296,7 @@ Androstenetriol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](C=C4[C@@]3(CC[C@@H]
 Bezisterim	C[C@]12CC[C@@H](CC1=C[C@@H]([C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C)O)O
 Arpraziquantel	[H][C@@]12CN(CC(=O)N1CCC1=CC=CC=C21)C(=O)C1CCCCC1
 Acephenanthrylene	C1=CC=C2C(=C1)C=C3C=CC4=C3C2=CC=C4
+Bepirovirsen	COCCO[C@@H]1[C@H](O)[C@@H](COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2CO)O[C@H]1n1cc(C)c(N)nc1=O
 Uranium(III) bromide	Br[U](Br)Br
 Cyanomethine	CC1=CC(=NC(=N1)C)N
 Tris(2,4,6-trimethoxyphenyl)phosphine	COC1=CC(=C(C(=C1)OC)P(C2=C(C=C(C=C2OC)OC)OC)C3=C(C=C(C=C3OC)OC)OC)OC
@@ -23303,3 +23304,12 @@ Erbium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Er+3]
 Peroxydisulfuryl difluoride	O=S(=O)(OOS(=O)(=O)F)F
 Methionitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)SC
 CB-86	CCCCCCC(C)(C)C1=CC(=CC(=C1)OCCCCCCCC(=O)NC2CC2)O
+Bromine(III) fluorosulfonate	O=S(=O)(OBr(OS(=O)(=O)F)OS(=O)(=O)F)F
+Bromine(I) fluorosulfonate	O=S(=O)(OBr)F
+Iodine(I) fluorosulfonate	O=S(=O)(OI)F
+Allidochlor	C=CCN(CC=C)C(=O)CCl
+Erbium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Er+3].[Er+3]
+Thulium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tm+3].[Tm+3]
+Disulfuryl fluoride	O=S(=O)(OS(=O)(=O)F)F
+Fluetonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCCF
+Fluetonitazepyne	C1CCN(C1)CCN2C3=C(C=C(C=C3)[N+](=O)[O-])N=C2CC4=CC=C(C=C4)OCCF
