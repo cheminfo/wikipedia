@@ -12148,6 +12148,7 @@ Grape reaction product	Oc1cc(cc(c1O)SCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(O)=O)\C=C\C(
 Dinitro-ortho-cresol	[O-][N+](=O)c1cc(O)c(c([N+]([O-])=O)c1)C
 Trisulfur	[S-][S+]=S
 Trisulfur	[S-]S[S]
+Oxfendazole	COC(=O)Nc1nc2ccc(S(=O)c3ccccc3)cc2[nH]1
 Pirinixic acid	Cc1cccc(c1C)Nc2cc(nc(n2)SCC(=O)O)Cl
 TAPS (buffer)	C(CNC(CO)(CO)CO)CS(=O)(=O)O
 TAPSO	O=S(=O)(O)CC(O)CNC(CO)(CO)CO
@@ -15561,6 +15562,7 @@ Loganic acid	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([
 Thorium oxalate	C(=O)(C(=O)O)O.C(=O)(C(=O)O)O.[Th]
 Mycosubtilin	CCC(C)CCCCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CC(=O)N)CO)CC(=O)N)CC(=O)N)Cc3ccc(cc3)O)CCC(=O)N)CC(=O)N
 Tetracalcium phosphate	[O-2].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
+Sphinganine	C(CCCCCCCCCCCCCC)[C@H]([C@H](CO)N)O
 Anol	CC=CC1=CC=C(C=C1)O
 Tetramethyl acetyloctahydronaphthalenes	CC(=O)[C@]1(C)CC2=C(C[C@H]1C)CCCC2(C)C
 Filgotinib	O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1
@@ -16026,6 +16028,7 @@ Phosphorus tetroxide	O=P12OP3OP(=O)(O1)OP(=O)(O3)O2
 Vosilasarm	ClC1=C(C#N)C=CC(=C1C)N[C@H]([C@H](C)O)C2=NN=C(O2)C3=CC=C(C=C3)C#N
 Hexaborane(12)	[BH2]12[BH]34([H]1)[BH]256[BH]38([H]4)[BH]75([H]6)[BH2]8[H]7
 ML-154	[Br-].C1(=CC=CC=C1)[P](=S)(C2=C([N+](=C3C=CC=C[N]23)C\C=C\C4=CC=CC=C4)C)C5=CC=CC=C5
+Ricobendazole	CCCS(=O)c1ccc2[nH]c(NC(=O)OC)nc2c1
 Apoatropine	CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3
 Belladonnine	CN1C2CCC1CC(C2)OC(=O)[C@H]3CC[C@@](C4=CC=CC=C34)(C5=CC=CC=C5)C(=O)OC6CC7CCC(C6)N7C
 Bis(diphenylphosphinoethyl)phenylphosphine	C1=CC=C(C=C1)P(CCP(C2=CC=CC=C2)C3=CC=CC=C3)CCP(C4=CC=CC=C4)C5=CC=CC=C5
@@ -16128,6 +16131,7 @@ Anordrin	CCC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@](C4)(C
 Doisynolic acid	CCC1C2CCC3=C(C2CCC1(C)C(=O)O)C=CC(=C3)O
 Doisynoestrol	CCC1C2=C(CCC1(C)C(=O)O)C3=C(C=C2)C=C(C=C3)OC
 Sodium lauryl sulfoacetate	CCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+]
+Copper(I) thiocyanate	C(#N)[S-].[Cu+]
 Bicalicene	C1=CC2=C3C=C3C4=CC=CC4=C5C=C5C2=C1
 Siponimod	CCC1=C(C=CC(=C1)C(=NOCC2=CC(=C(C=C2)C3CCCCC3)C(F)(F)F)C)CN4CC(C4)C(=O)O
 Tetrakis(cyclopentadienyl)uranium(IV)	[CH-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[U+4]
@@ -18268,7 +18272,7 @@ Trisporic acid	CCCC/C=C(\C)/C=C/C1=C(C(=O)CC[C@]1(C)C(=O)O)C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CCC(=O)C)/C
 Trisporic acid	CC1=C([C@@](CCC1=O)(C)C(=O)O)/C=C/C(=C/CC[C@@H](C)O)/C
 Diphenpipenol	COc4ccccc4N1CCN(CC1)C(Cc2cccc(O)c2)c3ccccc3
-Grapiprant	CCC1=NC2=C(C)N=C(C)C=C2N1C1=CC=C(CCNC(=O)NS(=O)(=O)C2=CC=C(C)C=C2)C=C1
+Grapiprant	CCc1nc2c(C)nc(C)cc2n1-c1ccc(CCNC(=O)NS(=O)(=O)c2ccc(C)cc2)cc1
 2F-Viminol	FC1=C(CN2C=CC=C2C(O)CN(C(CC)C)C(C)CC)C=CC=C1
 UV-328	CCC(C)(C)C1=CC(=C(C(=C1)N2N=C3C=CC=CC3=N2)O)C(C)(C)CC
 Tetrahymanol	C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)C)(C)C
@@ -20396,7 +20400,7 @@ CUMYL-NBMINACA	CC(C)(C1=CC=CC=C1)NC(=O)C2=NN(C3=CC=CC=C32)CC4CC5CCC4C5
 2-Me-PVP	CCCC(C(=O)C1=CC=CC=C1C)N2CCCC2
 Metaphedrine	CC1=CC(=CC=C1)CC(C)NC
 S-(2-Aminoethyl)isothiuronium bromide hydrobromide	C(CSC(=N)N)N.Br.Br
-Olutasidenib	C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2
+Olutasidenib	C[C@H](Nc1ccc(C#N)n(C)c1=O)c1cc2cc(Cl)ccc2[nH]c1=O
 N-Cyclohexylmethylone	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC3CCCCC3
 Dicaesium silver hexabromobismuthate	[Cs+].[Cs+].[Ag+].Br[Bi-3](Br)(Br)(Br)(Br)Br
 Brassylic acid	C(CCCCCC(=O)O)CCCCCC(=O)O
@@ -20997,7 +21001,7 @@ Manganese(III) phosphate	[O-]P(=O)([O-])[O-].[Mn+3]
 2,5-Furandicarboxaldehyde	C1=C(OC(=C1)C=O)C=O
 Sanglifehrin	CCC1CC(C2(C(C(C(C(O2)CC(C(C)CCC=CC=C(C)C3CC=CC=CC(C(C(C(C(=O)NC(C(=O)NC(C(=O)N4CCCC(N4)C(=O)O3)CC5=CC(=CC=C5)O)C(C)C)CCC(=O)C)O)C)O)O)C)O)C)NC1=O)C
 Vorasidenib	C[C@H](C(F)(F)F)NC1=NC(=NC(=N1)C2=NC(=CC=C2)Cl)N[C@H](C)C(F)(F)F
-Monepantel	C[C@@](COC1=C(C=CC(=C1)C#N)C(F)(F)F)(C#N)NC(=O)C2=CC=C(C=C2)SC(F)(F)F
+Monepantel	C[C@](C#N)(COc1cc(C#N)ccc1C(F)(F)F)NC(=O)c1ccc(SC(F)(F)F)cc1
 Magnesium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Mg+2]
 Strontium azide	[N-]=[N+]=[N-].[N-]=[N+]=[N-].[Sr+2]
 CP 42,096	CC(CCCC1=CC=CC=C1)OC2=CC(=C3[C@@H]4C[C@@H](CC[C@H]4C(OC3=C2)(C)C)O)O
@@ -23335,3 +23339,7 @@ Triiodine fluorosulfate	O=S(=O)([O-])F.I[I+]I
 Beryllium cyanide	[Be+2].[C-]#N.[C-]#N
 SKF-64139	C1CNCC2=C1C=CC(=C2Cl)Cl
 1,5-Diisocyanonaphthalene	[C-]#[N+]C1=CC=CC2=C1C=CC=C2[N+]#[C-]
+Trisulfuryl chloride	O=S(=O)(OS(=O)(=O)Cl)OS(=O)(=O)Cl
+LY-78335	CC(C1=C(C(=CC=C1)Cl)Cl)N
+Kolaflavanone	COC1=C(C=C(C=C1)[C@@H]2[C@H](C(=O)C3=C(C=C(C(=C3O2)[C@@H]4[C@H](OC5=CC(=CC(=C5C4=O)O)O)C6=CC=C(C=C6)O)O)O)O)OCOC1=C(C=C(C=C1)[C@@H]2[C@H](C(=O)C3=C(C=C(C(=C3O2)[C@@H]4[C@H](OC5=CC(=CC(=C5C4=O)O)O)C6=CC=C(C=C6)O)O)O)O)O
+Trisulfuryl fluoride	O=S(=O)(OS(=O)(=O)F)OS(=O)(=O)F
