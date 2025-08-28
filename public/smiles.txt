@@ -16992,6 +16992,7 @@ Octaethylporphyrin	CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)C
 Ponceau 3R	CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]
 Triangulene	c1cc2cc3cccc4c3c-5c2c(c1)[CH]c6c5c(ccc6)[CH]4
 2-Fluorobenzoic acid	O=C(O)c1ccccc1F
+Cerium(III) fluoride	[F-].[F-].[F-].[Ce+3]
 Hexamethyl Dewar benzene	CC1=C(C2(C1(C(=C2C)C)C)C)C
 Oclacitinib	CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2[nH]cnc3nccc23
 Sulfoxylic acid	OSO
@@ -17199,6 +17200,7 @@ Dicarbonyl(acetylacetonato)rhodium(I)	CC(=C[C-](C)O1)O[Rh+]1(C#[O])C#[O]
 Dicarbonyl(acetylacetonato)rhodium(I)	C/C(=C/C(=O)C)/[O-].[C-]#[O+].[C-]#[O+].[Rh+]
 Pentamethyltantalum	C[Ta](C)(C)(C)C
 Trithiapentalene	C1=CSS2=C1C=CS2
+Monosodium xenate	[Na+].O[Xe](=O)(=O)[O-]
 Hydrazobenzene	c1ccc(cc1)NNc2ccccc2
 Umbralisib	CC(C)OC1=C(C=C(C=C1)C2=NN(C3=NC=NC(=C23)N)C(C)C4=C(C(=O)C5=C(O4)C=CC(=C5)F)C6=CC(=CC=C6)F)F
 Gladiolin	C[C@H]1C/C=C/C=C\C[C@H](CCC[C@H](C[C@H](OC(=O)C[C@H]([C@H]([C@@H](C[C@@H]1O)O)C)O)[C@H](C)[C@H](C)/C=C(\C)/CC/C=C/C=C/CC(CC(C)CCC(=O)O)O)O)OC
@@ -17566,6 +17568,7 @@ Vanadium(II) sulfate	[V+2].[O-]S([O-])(=O)=O
 Vanadium(II) sulfate	O.O.O.O.O.O.O=S(=O)([O-])[O-].[V+2]
 Vanadium(II) sulfate	O.O.O.O.O.O.O.O=S(=O)([O-])[O-].[V+2]
 Titanyl sulfate	[O-]S(=O)(=O)[O-].O=[Ti+2]
+Titanyl sulfate	O.[O-]S(=O)(=O)[O-].O=[Ti+2]
 Bemcentinib	Nc1nc(Nc2ccc3c(c2)CC[C@H](N2CCCC2)CC3)nn1-c1cc2c(nn1)-c1ccccc1CCC2
 4-Fluoroisobutyrfentanyl	CC(C)C(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F
 Epitalon	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NCC(=O)O)N
@@ -17573,7 +17576,9 @@ Epitalon	CC(C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NCC(=O)O)N
 Isatoic anhydride	C1=CC=C2C(=C1)C(=O)OC(=O)N2
 Phenyl(trichloromethyl)mercury	C1=CC=C(C=C1)[Hg]C(Cl)(Cl)Cl
 Thiocoraline	CN1[C@H]2CSSC[C@@H](C(=O)N([C@H](C(=O)SC[C@H](C(=O)NCC1=O)NC(=O)C3=NC4=CC=CC=C4C=C3O)CSC)C)N(C(=O)CNC(=O)[C@@H](CSC(=O)[C@@H](N(C2=O)C)CSC)NC(=O)C5=NC6=CC=CC=C6C=C5O)C
+Copper(I) tert-butoxide	CC(C)(C)[O-].[Cu+]
 2-Naphthalenethiol	C1=CC=C2C=C(C=CC2=C1)S
+1,3-Diphenylisobenzofuran	C1=CC=C(C=C1)C2=C3C=CC=CC3=C(O2)C4=CC=CC=C4
 3-Dimethylaminoacrolein	CN(C)/C=C/C=O
 2-Methyleneglutaronitrile	C=C(CCC#N)C#N
 O-Dianisidine	COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N
@@ -17877,6 +17882,7 @@ Aflatoxin B1 exo-8,9-epoxide	COc1cc2c(c3c1c4c(c(=O)o3)C(=O)CC4)[C@@H]5[C@@H]6[C@
 Parthenin	C[C@H]1CC[C@@H]2[C@H]([C@]3([C@]1(C=CC3=O)O)C)OC(=O)C2=C
 Cyclodiol	C[C@]12CC[C@H]3[C@H](C14CCC2(CC4)O)CCC5=C3C=CC(=C5)O
 Cyclotriol	C[C@]12CC[C@H]3[C@H]([C@@]14CC[C@@]2([C@@H](C4)O)O)CCC5=C3C=CC(=C5)O
+(Benzene)ruthenium dichloride dimer	C1=CC=CC=C1.C1=CC=CC=C1.Cl[Ru]Cl.Cl[Ru]Cl
 Estradiol 17β-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC4CCCCO4)CCC5=C3C=CC(=C5)O
 Estradiol 3-tetrahydropyranyl ether	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC5CCCCO5
 Estriol sulfamate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)N
@@ -18057,6 +18063,7 @@ TL-1238	CC[N+](C)(CC)c1cccc(c1)OC(=O)N(C)C.[I-]
 Ruthenium(III) acetate	O1C(C)=[O+][Ru-3]6(O23)([OH2+])([O+]=C(C)O4)[O+]=C(C)O[Ru-3]24([OH2+])([O+]=C(C)O5)[O+]=C(C)O[Ru-3]135([OH2+])[O+]=C(C)O6
 Theasinensin A	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin B	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)O
+Theasinensin C	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)O)O)O)O)O)O)O)O
 Theasinensin D	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
 Theasinensin E	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)O)O)O)O)O)O)O)O
 Theasinensin F	C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3C4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
@@ -18071,6 +18078,9 @@ Isobutylbenzene	CC(C)CC1=CC=CC=C1
 Ethyl lauroyl arginate	CCCCCCCCCCCC(=O)NC(CCCN=C(N)N)C(=O)OCC
 Sorbitan monooleate	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H]([C@@H]1[C@@H]([C@H](CO1)O)O)O
 Sorbitan monopalmitate	CCCCCCCCCCCCCCCC(=O)OCC([C@@H]1[C@H]([C@@H](CO1)O)O)O
+Heterometallic copper-aluminum superatom	[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu]
+Heterometallic copper-aluminum superatom	c1ccccc1.c1ccccc1.c1ccccc1.[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu]
+Heterometallic copper-aluminum superatom	c1ccccc1.c1ccccc1.c1ccccc1.c1ccccc1.c1ccccc1.c1ccccc1.[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].[Al+].CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.CC1=C(C)[C-](C)C(C)=C1C.[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu].[Cu]
 Triammonium citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+]
 Octenylsuccinic acid	CCCCCC/C=C/C(CC(=O)O)C(=O)O
 Calcium ferrocyanide	[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Ca+2].[Ca+2].[Fe+2]
@@ -20353,7 +20363,7 @@ Quaterpyridine	C1=CC(=NC=C1)C2=CC=CC(=N2)C3=CC=CC(=N3)C4=CC=CC=N4
 T-1152	CNC(=O)OC1=CC=CC(=C1)[N+](C)(C)C.[I-]
 1D-LSD	[H][C@@]12CC3=CN(C(=O)C4(C)CCC4C)C4=C3C(=CC=C4)C1=C[C@H](CN2C)C(=O)N(CC)CC
 Dinitroglycoluril	C12C(NC(=O)N1[N+](=O)[O-])N(C(=O)N2)[N+](=O)[O-]
-Ferrocenyl carboxylic acid	[CH-]1C=CC=C1.C1=C[C-](C=C1)C(=O)O.[Fe+2]
+Ferrocenecarboxylic acid	[CH-]1C=CC=C1.C1=C[C-](C=C1)C(=O)O.[Fe+2]
 Nitryl cyanide	[O-][N+](=O)C#N
 1,1'-Ferrocenedicarboxylic acid	[CH]1[CH][CH][C]([CH]1)C(=O)O.[CH]1[CH][CH][C]([CH]1)C(=O)O.[Fe]
 1,1'-Diaminoferrocene	C1=C[C-](C=C1)N.C1=C[C-](C=C1)N.[Fe+2]
@@ -23398,3 +23408,4 @@ TKX-50	[NH3+]O.[NH3+]O.[O-]N1N=NN=C1C2=NN=NN2[O-]
 1,1'-Azobis(1,2,3,4-tetrazole)	C1=NN=NN1N=NN2C=NN=N2
 Octachlorocyclobutane	C1(C(C(C1(Cl)Cl)(Cl)Cl)(Cl)Cl)(Cl)Cl
 R-5260	CCC(=O)C(CCN1CCC2(CC1)C(=O)NCN2C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
+Compound 9 (opioid antagonist)	C1=CC=C(C=C1)CCNCC2=CC=C(C=C2)OC3=NC=C(C=C3)C(=O)N
