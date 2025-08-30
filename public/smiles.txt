@@ -23427,3 +23427,7 @@ Ferrugine	CN1C2CCC(C1CC2)C(=O)C3=CC=CC=C3
 Compound 9 (opioid antagonist)	C1=CC=C(C=C1)CCNCC2=CC=C(C=C2)OC3=NC=C(C=C3)C(=O)N
 Anthranilamide	C1=CC=C(C(=C1)C(=O)N)N
 Fluorodiiodomethane	C(F)(I)I
+Chlorodiiodomethane	C(Cl)(I)I
+Bromodiiodomethane	C(Br)(I)I
+Bromochloroiodomethane	C(Cl)(Br)I
+JNJ-63533054	C[C@@H](C1=CC=CC=C1)NC(=O)CNC(=O)C2=CC(=CC=C2)Cl
