@@ -15229,6 +15229,7 @@ Rislenemdaz	CC1=CC=C(C=C1)COC(=O)N2CC[C@@H]([C@@H](C2)F)CNC3=NC=CC=N3
 Tremetone	O=C(C1=CC=C(O[C@@H](C(C)=C)C2)C2=C1)C
 Heptasulfur imide	N1SSSSSSS1
 Tavaborole	B1(C2=C(CO1)C=C(C=C2)F)O
+Palmitoyl pentapeptide-4	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CO)C(=O)O
 Ammonium cyanate	C(#N)[O-].[NH4+]
 Triuret	C(=O)(N)NC(=O)NC(=O)N
 Pyromellitic dianhydride	C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O
@@ -16212,7 +16213,6 @@ AP20187	CCC(C1=CC(=C(C(=C1)OC)OC)OC)C(=O)N2CCCCC2C(=O)OC(CCC3=CC(=C(C=C3)OC)OC)C
 Tribromoacetic acid	C(=O)(C(Br)(Br)Br)O
 2-Fluorodeschloroketamine	CNC1(CCCCC1=O)c2ccccc2F
 4-Methoxybutyrfentanyl	CCCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccc(OC)cc3
-Oxosilanol	O=[SiH]O
 Pentazine	C1=NN=NN=N1
 Ravidasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1C2=NC3=C(N2)C=C(C=C3)C4=CC5=C(C=C4)C=C(C=C5)C6=CN=C(N6)[C@@H]7CCCN7C(=O)[C@H](C(C)C)NC(=O)OC)NC(=O)OC
 L-Streptose	C[C@H]1[C@@]([C@H]([C@@H](O1)O)O)(C=O)O
@@ -17278,7 +17278,6 @@ Vamorolone	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4(C3=CC[C@@]2([C@]1(C(=O)CO)
 Acrocinonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)C=C)C(=O)CO)CCC5=CC(=O)C=C[C@@]53C)F)O
 Amcinafal	CCC1(O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@]4([C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)F)C)CC
 Amcinafide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(O[C@](O4)(C)C5=CC=CC=C5)C(=O)CO)CCC6=CC(=O)C=C[C@@]63C)F)O
-Cicortonide	CC(=O)OCC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(C[C@@H]([C@]4([C@H]3CC(=C5[C@@]4(CCC(=C5)OCCCl)C)C#N)F)O)C)OC(O2)(C)C
 Ciprocinonide	C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)COC(=O)C5CC5)C[C@@H](C6=CC(=O)C=C[C@@]63C)F)F)O
 Descinolone acetonide	CC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(C[C@@H]([C@]4([C@H]3CCC5=CC(=O)C=C[C@@]54C)F)O)C)OC(O2)(C)C
 Dexbudesonide	CCC[C@@H]1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C
@@ -23431,3 +23430,4 @@ Chlorodiiodomethane	C(Cl)(I)I
 Bromodiiodomethane	C(Br)(I)I
 Bromochloroiodomethane	C(Cl)(Br)I
 JNJ-63533054	C[C@@H](C1=CC=CC=C1)NC(=O)CNC(=O)C2=CC(=CC=C2)Cl
+TC-O 9311	COC1=CC(=CC(=C1)C(=O)NNC(=O)NC2=CC=CC3=CC=CC=C32)OC
