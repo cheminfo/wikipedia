@@ -1751,7 +1751,7 @@ Methylcyclopentadienyl manganese tricarbonyl	CC1=C[CH-]C=C1.[O+]#C[Mn-2](C#[O+])
 Zosuquidar	Cl.Cl.Cl.FC4(F)[C@@H]3c1ccccc1C(c2c(cccc2)[C@@H]34)N5CCN(CC5)C[C@@H](O)COc7c6cccnc6ccc7
 Gemcitabine	c1cn(c(=O)nc1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
 Trolamine salicylate	O=C(O)c1ccccc1O.OCCN(CCO)CCO
-Diazoxide	CC1=NS(=O)(=O)c2cc(Cl)ccc2N1
+Diazoxide	Clc1ccc2c(c1)S(=O)(=O)/N=C(\N2)C
 Nelfinavir	O=C(c1cccc(O)c1C)N[C@@H](CSc2ccccc2)[C@H](O)CN4[C@H](C(=O)NC(C)(C)C)C[C@@H]3CCCC[C@@H]3C4
 Betaxolol	O(CCc1ccc(OCC(O)CNC(C)C)cc1)CC2CC2
 Alachlor	CCc1cccc(c1N(COC)C(=O)CCl)CC
@@ -23431,3 +23431,7 @@ Bromodiiodomethane	C(Br)(I)I
 Bromochloroiodomethane	C(Cl)(Br)I
 JNJ-63533054	C[C@@H](C1=CC=CC=C1)NC(=O)CNC(=O)C2=CC(=CC=C2)Cl
 TC-O 9311	COC1=CC(=CC(=C1)C(=O)NNC(=O)NC2=CC=CC3=CC=CC=C32)OC
+NCGC00135472	CC1=C(N=C2N1C=CC=N2)C3=CC(=CC=C3)NC(=O)C4=CC(=C(C=C4)F)F
+Chlorofluoroiodomethane	C(F)(Cl)I
+Bromofluoroiodomethane	FC(Br)I
+Dichlorodiiodomethane	ClC(Cl)(I)I
