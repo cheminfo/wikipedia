@@ -14316,6 +14316,7 @@ Villalstonine	C/C=C/1\CN2CCC34CC5C6CC7C8=C(CC(C6COC5(OC39C2CC1C(N9C1=CC=CC=C41)C
 Macrocarpamine	C/C=C\1/CN2CC[C@@H]3C4=CC=CC=C4N5[C@@]3([C@@H]2C[C@@H]1[C@H]5C(=O)OC)/C=C/C6=COC[C@@H]7[C@H]6C[C@H]8C9=C(C[C@@H]7N8C)C1=CC=CC=C1N9C
 Terreulactone A	C[C@@]12CC[C@]34[C@@]([C@@]1(CC5=C(O2)C=C(OC5=O)C6=CC=C(C=C6)OC)O)(C(=O)[C@](C3(C)C)(C(=O)O4)OC)C
 Gabunamine	CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=CC(=C(C=C45)[C@H]6C[C@@H]\7C([C@@H](CC8=C6NC9=CC=CC=C89)NC/C7=C/C)C(=O)OC)OC)C(=O)OC
+Tabernamine	CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=CC(=C5)C6CC\7C(C(CC8=C6NC9=CC=CC=C89)N(C/C7=C/C)C)C(=O)OC
 Niphimycin	CC1CCC(C(C(CC(C(/C=C/C(C(C(=O)O[C@@H](C(/C=C/C=C/C(C(C(CC(CC(CC2CC(C(C(O2)(CC1O)O)O)O)OC(=O)CC(=O)O)O)O)C)O)C)[C@@H](C)C[C@@H](C)CCC/C=C/CCCNC(=NC)N)C)O)C)O)O)C)O
 Spiculisporic acid	CCCCCCCCCCC(C(=O)O)C1(CCC(=O)O1)C(=O)O
 Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H](C(C)(C)O)OC=O)O
@@ -14459,6 +14460,7 @@ Ergostine	CC[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)Cc4ccccc4)NC(=O)[C@H
 Lophophorine	CC1C2=C3C(=C(C=C2CCN1C)OC)OCO3
 Peyonine	COc1cc(cc(c1OC)OC)CCn2cccc2C(=O)O
 Dicentrine	CN1CCc2cc3c(c-4c2[C@@H]1Cc5c4cc(c(c5)OC)OC)OCO3
+Lycoctonine	CCN1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H]([C@]([C@H]31)([C@]5(C[C@@H]([C@H]6C[C@@H]4[C@@H]5[C@H]6OC)OC)O)O)OC)OC)CO
 Magnoflorine	C[N+]1(CCC2=CC(=C(C3=C2[C@@H]1CC4=C3C(=C(C=C4)OC)O)O)OC)C
 Cycleanine	CN1CCc2cc(c(c3c2[C@H]1Cc4ccc(cc4)Oc5c6c(cc(c5OC)OC)CCN([C@@H]6Cc7ccc(cc7)O3)C)OC)OC
 Catharanthine	CCC1=C[C@H]2C[C@]3([C@@H]1N(C2)CCc4c3[nH]c5c4cccc5)C(=O)OC
@@ -23441,4 +23443,6 @@ Bromofluoroiodomethane	FC(Br)I
 Dichlorodiiodomethane	ClC(Cl)(I)I
 Methyl astatide	C[211At]
 Astatobenzene	C1=CC=C(C=C1)[At]
-Capuride	CC(C)c1ccc(cc1)S(=O)(=O)C(=O)N=C(N)N
+Capuride	CCC(C)C(CC)C(=O)NC(=O)N
+Dibromodiiodomethane	C(Br)(Br)(I)I
+Difluoroiodomethane	C(F)(F)I
