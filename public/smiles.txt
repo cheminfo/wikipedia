@@ -9367,6 +9367,7 @@ Cinepazide	O=C(N1CCCC1)CN3CCN(C(=O)\C=C\c2cc(OC)c(OC)c(OC)c2)CC3
 Cetiedil	O=C(OCCN1CCCCCC1)C(c2ccsc2)C3CCCCC3
 Visnadine	CC[C@H](C(=O)O[C@H]1[C@@](OC2=C([C@H]1OC(=O)C)C3=C(C=CC(=O)O3)C=C2)(C)C)C
 Butalamine	n1c(onc1c2ccccc2)NCCN(CCCC)CCCC
+Suloctidil	CCCCCCCCNC(C)C(C1=CC=C(C=C1)SC(C)C)O
 Vinburnine	CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=CC=CC=C5N4C(=O)C2
 Cyclandelate	O=C(OC1CC(CC(C1)(C)C)C)C(O)c2ccccc2
 Etofylline nicotinate	Cn1c2c(c(=O)n(c1=O)C)n(cn2)CCOC(=O)c3cccnc3
@@ -23258,6 +23259,11 @@ Terbium oxyfluoride	[O-2].[F-].[Tb+3]
 JXL069	C1=CC2=C(N=C1)N(C=C2C=C(C#N)C(=O)O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 AR420626	CC1=C(C(C2=C(N1)CCCC2=O)C3=CC=CO3)C(=O)NC4=C(C=CC(=C4)Cl)Cl
 CFMB (drug)	CC(C)(C)[C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=NC=C(S2)C3=CC=CC=C3
+Plutonium sulfides	[Pu+2].[S-2]
+Plutonium sulfides	[Pu+2].[Pu+3].[Pu+3].[S-2].[S-2].[S-2].[S-2]
+Plutonium sulfides	[Pu+2].[Pu+2].[Pu+2].[Pu+3].[Pu+3].[S-2].[S-2].[S-2].[S-2].[S-2].[S-][S-]
+Plutonium sulfides	[Pu+3].[Pu+3].[S-2].[S-2].[S-2]
+Plutonium sulfides	[Pu+4].[S-2].[S-2]
 CF3-MQC	CC1=CC=CC=C1NC(=O)C2=C(NC3=C(C2C4=CC=C(O4)C5=CC=CC=C5OC(F)(F)F)C(=O)CCC3)C
 Plutonium oxyfluoride	[F-].[O-2].[Pu+3]
 Plutonium oxychloride	[Cl-].[O-2].[Pu+3]
@@ -23437,6 +23443,7 @@ Bromodiiodomethane	C(Br)(I)I
 Bromochloroiodomethane	C(Cl)(Br)I
 JNJ-63533054	C[C@@H](C1=CC=CC=C1)NC(=O)CNC(=O)C2=CC(=CC=C2)Cl
 TC-O 9311	COC1=CC(=CC(=C1)C(=O)NNC(=O)NC2=CC=CC3=CC=CC=C32)OC
+CTDP-32476	CC(C)C[C@H]([C@@H]1CCCCN1)C2=CC=C(C=C2)Cl
 NCGC00135472	CC1=C(N=C2N1C=CC=N2)C3=CC(=CC=C3)NC(=O)C4=CC(=C(C=C4)F)F
 Chlorofluoroiodomethane	C(F)(Cl)I
 Bromofluoroiodomethane	FC(Br)I
@@ -23446,3 +23453,9 @@ Astatobenzene	C1=CC=C(C=C1)[At]
 Capuride	CCC(C)C(CC)C(=O)NC(=O)N
 Dibromodiiodomethane	C(Br)(Br)(I)I
 Difluoroiodomethane	C(F)(F)I
+Dibromoiodomethane	C(Br)(Br)I
+Navamepent	CC(C)OC(=O)CCC[C@@H](C#C/C=C/C=C/[C@@H](CC#C)O)O
+Bromotriiodomethane	C(Br)(I)(I)I
+Atirmociclib	CC(C)N1C2=C(C(=CC(=C2)C3=NC(=NC=C3Cl)N[C@@H]4CCOC[C@H]4O)F)N=C1C(C)(C)O
+Difluorodiiodomethane	C(F)(F)(I)I
+Dibromodichloromethane	C(Cl)(Cl)(Br)Br
