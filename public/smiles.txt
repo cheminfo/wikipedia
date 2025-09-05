@@ -14176,7 +14176,9 @@ Plakevulin A	CCCCCCCCCCCCCCCC[C@@]1(C=C[C@@H]([C@H]1C(=O)OC)O)O
 Penostatin A	O=C2/C=C1/C[C@H](O)C[C@H]1[C@@H]3/C=C(/C)[C@@H](O[C@@H]23)/C=C/CCCCCCC
 Nupharamine	C[C@@H]1CC[C@H](N[C@H]1CCC(C)(C)O)C2=COC=C2
 Castoramine	OC[C@@H]3CN2[C@H](c1ccoc1)CC[C@@H](C)[C@@H]2CC3
-Cyclohexane-1,2-diol	O[C@H]1CCCC[C@@H]1O
+Cyclohexane-1,2-diol	C1CCC(C(C1)O)O
+Cyclohexane-1,2-diol	C1CC[C@@H]([C@@H](C1)O)O
+Cyclohexane-1,2-diol	C1CC[C@H]([C@@H](C1)O)O
 Asterric acid	CC1=CC(=C(C(=C1)OC2=C(C=C(C=C2C(=O)OC)O)OC)C(=O)O)O
 Berkeleydione	CC1=C2CC(=O)OC(C2=CC[C@]3([C@H]1C[C@@]4(C(=C)[C@]3(C(=O)[C@@](C4=O)(C)O)C(=O)OC)C)C)(C)C
 Berkelic acid	CCCCC[C@@H]1Cc2cc(c(c3c2[C@@H](O1)C[C@]4(O3)[C@H]([C@@H](CO4)CC(=O)[C@](C)(CC)C(=O)OC)C)C(=O)O)O
@@ -14260,6 +14262,7 @@ Vincaminol	CC[C@@]12CCCN3[C@@H]1c4c(c5ccccc5n4[C@](C2)(CO)O)CC3
 Strictamine	C/C=C\1/CN2CCC34[C@H]([C@H]1C[C@H]2C3=NC5=CC=CC=C45)C(=O)OC
 Vineridine	C[C@H]1[C@@H]2CN3CC[C@@]4([C@H]3C[C@@H]2C(=CO1)C(=O)OC)c5ccc(cc5NC4=O)OC
 Akuammicine	C123C(=C(C4CC1N(CC3)CC4=CC)C(OC)=O)Nc1c2cccc1
+Tombozine	C/C=C\1/CN2[C@H]3C[C@@H]1C([C@@H]2CC4=C3NC5=CC=CC=C45)CO
 Boonein	O=C1OCC[C@H]2C[C@H](O)[C@H](C)[C@@H]12
 Loganin	C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O
 Echitamidine	C[C@@H]([C@@H]1CN2CCC34[C@@H]2C[C@@H]1C(=C3NC5=CC=CC=C45)C(=O)OC)O
@@ -23261,9 +23264,8 @@ AR420626	CC1=C(C(C2=C(N1)CCCC2=O)C3=CC=CO3)C(=O)NC4=C(C=CC(=C4)Cl)Cl
 CFMB (drug)	CC(C)(C)[C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=NC=C(S2)C3=CC=CC=C3
 Plutonium sulfides	[Pu+2].[S-2]
 Plutonium sulfides	[Pu+2].[Pu+3].[Pu+3].[S-2].[S-2].[S-2].[S-2]
-Plutonium sulfides	[Pu+2].[Pu+2].[Pu+2].[Pu+3].[Pu+3].[S-2].[S-2].[S-2].[S-2].[S-2].[S-][S-]
 Plutonium sulfides	[Pu+3].[Pu+3].[S-2].[S-2].[S-2]
-Plutonium sulfides	[Pu+4].[S-2].[S-2]
+Plutonium sulfides	[Pu+3].[Pu+3].[S-2].[S-2].[S-][S-]
 CF3-MQC	CC1=CC=CC=C1NC(=O)C2=C(NC3=C(C2C4=CC=C(O4)C5=CC=CC=C5OC(F)(F)F)C(=O)CCC3)C
 Plutonium oxyfluoride	[F-].[O-2].[Pu+3]
 Plutonium oxychloride	[Cl-].[O-2].[Pu+3]
@@ -23459,3 +23461,7 @@ Bromotriiodomethane	C(Br)(I)(I)I
 Atirmociclib	CC(C)N1C2=C(C(=CC(=C2)C3=NC(=NC=C3Cl)N[C@@H]4CCOC[C@H]4O)F)N=C1C(C)(C)O
 Difluorodiiodomethane	C(F)(F)(I)I
 Dibromodichloromethane	C(Cl)(Cl)(Br)Br
+Ilimaquinone	CC1CCC2(C(C1(C)CC3=C(C(=O)C=C(C3=O)OC)O)CCCC2=C)C
+Chlorodifluoroiodomethane	C(F)(F)(Cl)I
+Tribromoiodomethane	C(Br)(Br)(Br)I
+VU0514009	CC1=CC(=C(C=C1)OC)NC(=O)CSC2=NC=C(C(=O)N2)S(=O)(=O)C3=CC(=C(C=C3)C)Cl
