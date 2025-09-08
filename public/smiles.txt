@@ -23486,3 +23486,6 @@ Bromotrichloromethane	C(Cl)(Cl)(Cl)Br
 Dichlorofluoroiodomethane	ClC(Cl)(F)I
 Lacmoid	O=C1C=C2OC3=CC(N)=C(C=C3N=C2C=C1C=4C=CC(O)=CC4O)C=5C=CC(O)=CC5O
 Stenoparib	O=C1NN=C2NC(CN3CC4=C(C3)C=CC=C4)=NC3=C2C1=CC=C3
+Lithium formate	[Li+].C(=O)[O-]
+Lithium formate	[Li+].C(=O)[O-].O
+Bromodichlorofluoromethane	C(Br)(Cl)(Cl)F
