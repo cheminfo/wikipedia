@@ -3458,15 +3458,17 @@ Emylcamate	O=C(OC(C)(CC)CC)N
 Alclometasone	C[C@@H]1C[C@H]2[C@@H]3[C@@H](CC4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)C)Cl
 Phytol	C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C
 Di-tert-butyl dicarbonate	O=C(OC(=O)OC(C)(C)C)OC(C)(C)C
+Caesium lithium borate	[Cs+].[Li+].O1B([O-])O[B+]O[B-]1([O-])OB2OB([O-])O[B+]O2
 Plutonium tetrafluoride	F[Pu](F)(F)F
 Phenprobamate	O=C(OCCCc1ccccc1)N
 Metharbital	O=C1N(C(=O)NC(=O)C1(CC)CC)C
 Ethoxyquin	O(c2ccc1c(\C(=C/C(N1)(C)C)C)c2)CC
 Peracetic acid	CC(=O)OO
-Zinc telluride	[TeH+2]12[ZnH2-2][TeH+2]3[ZnH2-2][TeH+2]([ZnH-2]14)[ZnH-2]1[Te+2]5([ZnH-2]38)[Zn-2]26[TeH+2]2[ZnH-2]([Te+2]4)[TeH+2]1[ZnH2-2][TeH+2]3[ZnH-2]2[Te+2][ZnH-2]([TeH+2]6[ZnH-2]([TeH+2])[TeH+2]68)[TeH+2]([ZnH2-2]6)[ZnH-2]35
+Zinc telluride	[Zn]=[Te]
 Lead selenide	[Se]=[Pb]
 Gallium phosphide	[Ga]#P
 Gallium phosphide	[Ga+3].[P-3]
+Aluminium gallium indium phosphide	[Al+3].[Ga+3].[In+3].[P-3].[P-3].[P-3]
 Droperidol	c1ccc2c(c1)nc(n2C3=CCN(CC3)CCCC(=O)c4ccc(cc4)F)O
 Droperidol	Fc1ccc(cc1)C(=O)CCCN2CC=C(CC2)N3c4ccccc4NC3=O
 Chloroxylenol	Cc1cc(O)cc(C)c1Cl
@@ -3482,6 +3484,7 @@ Solvent Yellow 124	N(=N/c1ccc(N(CCOC(OCC(C)C)C)CC)cc1)\c2ccccc2
 Potassium aluminium borate	[Al+3].[Al+3].[O-][B-]([O-])([O-])O[B-]([O-])([O-])[O-].[K+].[K+]
 Nd:YAB	B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].[Al+3].[Al+3].[Al+3].[Y+3]
 Arsenic pentoxide	O=[As](=O)O[As](=O)=O
+Lead carbonate	C(=O)([O-])[O-].[Pb+2]
 Glufosinate	O=P(O)(CCC(C(=O)O)N)C
 Sodium stearate	[Na+].[O-]C(=O)CCCCCCCCCCCCCCCCC
 Sodium arsenite	[O-][As]=O.[Na+]
@@ -3632,6 +3635,7 @@ Eletriptan	CN1CCC[C@@H]1Cc3c[nH]c4ccc(CCS(=O)(=O)c2ccccc2)cc34
 Norbornane	C1CC2CCC1C2
 Tangeretin	O=C2C1=C(OC)C(OC)=C(OC)C(OC)=C1OC(C3=CC=C(OC)C=C3)=C2
 Boron trichloride	ClB(Cl)Cl
+Lead telluride	[Te]=[Pb]
 D-DOPA	O=C(O)[C@H](N)Cc1cc(O)c(O)cc1
 2-Pyrrolidone	O=C1NCCC1
 Azirine	C1C=N1
@@ -3641,6 +3645,8 @@ Oleocanthal	O=CC[C@H](C(=C/C)\C=O)CC(=O)OCCc1ccc(O)cc1
 Methacrylic acid	CC(C(O)=O)=C
 5-Methyluridine triphosphate	CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Fluoroacetic acid	FCC(O)=O
+Magnesium aluminide	[Mg].[Mg].[Al].[Al].[Al]
+Magnesium aluminide	[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al]
 Titanium aluminide	[Al].[Ti]
 Strontium fluoride	[Sr+2].[F-].[F-]
 Potassium hydride	[H-].[K+]
@@ -4180,6 +4186,7 @@ Milrinone	c1cnccc1-c2c(C)[nH]c(=O)c(C#N)c2
 Tricine	O=C(O)CNC(CO)(CO)CO
 Cyclobutyne	C1#CCC1
 Thallium(I) oxide	O([Tl])[Tl]
+Zinc chromate	[O-][Cr](=O)(=O)[O-].[Zn+2]
 Rongalite	[Na+].[O-]S(=O)CO
 Boron phosphide	[B+3].[P-3]
 Boron phosphide	B#P
@@ -4269,6 +4276,7 @@ Sodium persulfate	[Na+].[Na+].O=S(=O)([O-])OOS([O-])(=O)=O
 Sodium thiocyanate	[Na+].[S-]C#N
 Nickel(II) carbonate	[Ni+2].[O-]C([O-])=O
 Nickel(II) oxide	[O-2].[Ni+2]
+Lead(II) chromate	[O-][Cr](=O)(=O)[O-].[Pb+2]
 Zinc peroxide	[Zn+2].[O-][O-]
 Zirconium(II) hydride	[ZrH2]
 Zirconium(II) hydride	[H-].[H-].[Zr+2]
@@ -23489,3 +23497,10 @@ Stenoparib	O=C1NN=C2NC(CN3CC4=C(C3)C=CC=C4)=NC3=C2C1=CC=C3
 Lithium formate	[Li+].C(=O)[O-]
 Lithium formate	[Li+].C(=O)[O-].O
 Bromodichlorofluoromethane	C(Br)(Cl)(Cl)F
+Dibromofluoroiodomethane	C(F)(Br)(Br)I
+Dibromochlorofluoromethane	C(F)(Cl)(Br)Br
+Seclidemstat	C/C(=N\NC(=O)C1=CC(=CC=C1)S(=O)(=O)N2CCN(CC2)C)/C3=C(C=CC(=C3)Cl)O
+Clesacostat	CC(C)N1C2=C(CC3(CCN(CC3)C(=O)C4=CC(=NC(=C4)OC)C5=CC=C(C=C5)C(=O)O)CC2=O)C=N1
+Bromodifluoroiodomethane	C(F)(F)(Br)I
+Difluoramine	N(F)F
+Fluloprazolam	CN1CCN(CC1)/C=C\2/C(=O)N3C(=N2)CN=C(C4=C3C=CC(=C4)[N+](=O)[O-])C5=CC=CC=C5F
