@@ -12401,6 +12401,7 @@ Spiruchostatin	CC[C@H](C)[C@H]1/N=C(/O)[C@H]2CSSCC/C=C/C(C/C(O)=N/[C@H](C)/C(O)=
 Pasireotide	C1[C@H](CN2[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C2=O)CC3=CC=CC=C3)CC4=CC=C(C=C4)OCC5=CC=CC=C5)CCCCN)CC6=CNC7=CC=CC=C76)C8=CC=CC=C8)OC(=O)NCCN
 Ciluprevir	O=C2N[C@]7(C(=O)O)C[C@H]7/C=C\CCCCC[C@H](NC(=O)OC1CCCC1)C(=O)N6[C@H]2C[C@@H](Oc3cc(nc4c3ccc(OC)c4)c5nc(sc5)NC(C)C)C6
 Zolantidine	n1c4ccccc4sc1NCCCOc2cc(ccc2)CN3CCCCC3
+Cantharidic acid	CC1(C2CCC(C1(C)C(=O)O)O2)C(=O)O
 Taspine	CN(C)CCC1=CC(=C2C3=C1C(=O)OC4=C(C=CC(=C34)C(=O)O2)OC)OC
 Chrysosporide	O=C1N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H]1CC(C)C)CC(C)C)C)C(C)C)CC(C)C
 BMS-345541	n1c3c(n2c(cnc2c1NCCN)C)cc(cc3)C
@@ -23516,3 +23517,5 @@ Bromochlorodiiodomethane	C(Cl)(Br)(I)I
 Tribromochloromethane	C(Cl)(Br)(Br)Br
 Osivelotor	C1COC[C@H](N1C(=O)C2=C(N=CC=C2)CCO)COC3=CC=CC(=C3C=O)O
 A-CHMINACA	C1CCC(CC1)CN2C3=CC=CC=C3C(=N2)C(=O)NC45CC6CC(C4)CC(C6)C5
+Mevrometostat	CC1=CC(=C(C(=O)N1)CN2CCC3=C(C=C(C(=C3C2=O)Cl)[C@@H](C4COC4)OC)Cl)OC
+Orfornine	C1CCN(CC1)C(=O)C2=CC=CC=C2NC3=CC=NC=C3
