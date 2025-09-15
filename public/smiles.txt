@@ -13307,6 +13307,7 @@ Chloroprednisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2C[
 Gold monoiodide	[Au]I
 Gold(I) fluoride	[Au]F
 Isopimpinellin	COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC
+Trichlorofluorosilane	F[Si](Cl)(Cl)Cl
 Diadinoxanthin	CC23CC(O)(O)CC(C)(C)C3(/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)C#C\C1=C(/C)CCCC1(C)C)O2
 Diatoxanthin	O[C@@H]2C/C(=C(/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C#C\C1=C(/C)C[C@@H](O)CC1(C)C)C)C)C)C)C(C)(C)C2)C
 Dinoxanthin	C[C@@]13O[C@]1(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/[C@@H]=C=C2C(C)(C)C[C@@H](OC(C)=O)C[C@]2(C)O)C(C)(C)C[C@H](O)C3
@@ -13328,6 +13329,7 @@ Germicidin	CC1=C(C=C(OC1=O)C(C)C)O
 Baricitinib	CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1
 Elymoclavine	OCC\2=C\[C@@H]3c4cccc1c4c(c[nH]1)C[C@H]3N(C/2)C
 Polonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Po]
+Polonium dioxide	O=[Po]=O
 Clofexamide	CCN(CC)CCNC(=O)COC1=CC=C(C=C1)Cl
 Tebufenozide	O=C(c1cc(cc(c1)C)C)N(NC(=O)c2ccc(cc2)CC)C(C)(C)C
 Methacrylamide	O=C(\C(=C)C)N
@@ -13337,6 +13339,7 @@ Bipinnatin J	Cc1cc/2oc1[C@H]([C@@H](CCC3=C[C@H](C/C(=C2)/C)OC3=O)C(=C)C)O
 Lactamide	O=C(N)C(O)C
 2-Nitropropane	CC(C)[N+](=O)[O-]
 Pseudopterosin A	O[C@H]4[C@H](Oc1c3c2c(c(c1O)C)[C@@H](\C=C(/C)C)C[C@H](C)[C@H]2CC[C@@H]3C)OC[C@@H](O)[C@@H]4O
+Polonium trioxide	O=[Po](=O)=O
 3-Nitrotoluene	O=[N+]([O-])c1cccc(C)c1
 Fenpropimorph	O2[C@H](CN(CC(C)Cc1ccc(cc1)C(C)(C)C)C[C@H]2C)C
 (Z)-9-Tricosene	C(=C\CCCCCCCCCCCCC)\CCCCCCCC
@@ -13422,6 +13425,7 @@ Masitinib	O=C(c1ccc(cc1)CN2CCN(C)CC2)Nc3cc(c(cc3)C)Nc4nc(cs4)c5cccnc5
 Undecanal	O=CCCCCCCCCCC
 Dodecanal	O=CCCCCCCCCCCC
 Phosphoryl bromide	O=P(Br)(Br)Br
+Dimethylsilane	C[SiH2]C
 Trimethylsilane	C[SiH](C)C
 Methylammonium chloride	C[NH3+].[Cl-]
 Formetanate	O=C(Oc1cccc(\N=C\N(C)C)c1)NC
@@ -13636,6 +13640,7 @@ Dimethylbutadiene	CC(=C)C(=C)C
 4-Iodo-N,N-dimethylaniline	Ic1ccc(N(C)C)cc1
 Glyceryl hydroxystearate	O=C(OC(CO)CO)C(O)CCCCCCCCCCCCCCCC
 Strontium oxalate	[Sr+2].[O-]C(=O)C([O-])=O
+Nickel selenide	[Ni].[Se]
 Manganese(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mn+2].[Mn+2].[Mn+2]
 Nickel sulfide	[Ni]=S
 Nickel sulfide	[Ni+2].[S-2]
@@ -23549,10 +23554,12 @@ Tribromochloromethane	C(Cl)(Br)(Br)Br
 Osivelotor	C1COC[C@H](N1C(=O)C2=C(N=CC=C2)CCO)COC3=CC=CC(=C3C=O)O
 A-CHMINACA	C1CCC(CC1)CN2C3=CC=CC=C3C(=N2)C(=O)NC45CC6CC(C4)CC(C6)C5
 Mevrometostat	CC1=CC(=C(C(=O)N1)CN2CCC3=C(C=C(C(=C3C2=O)Cl)[C@@H](C4COC4)OC)Cl)OC
-Orfornine	C1CCN(CC1)C(=O)C2=CC=CC=C2NC3=CC=NC=C3
+Ofornine	C1CCN(CC1)C(=O)C2=CC=CC=C2NC3=CC=NC=C3
 Enecadin	CC1=NC(=CC(=N1)OCCCCCN2CCCCC2)C3=CC=C(C=C3)F
 MDL-811	C[C@@H]1COCCN1CC2=C(C=CC(=C2)NS(=O)(=O)C3=CC(=CC(=C3)Cl)Cl)S(=O)(=O)NC4=CC(=C(C=C4C)F)Br
 JYQ-42	C1=C(C=C(C=C1C(F)(F)F)Cl)/C=N/NC(=O)C2=CN(N=N2)C3=NON=C3N
 1,4,8,11-Tetraazaundecane	C(CNCCN)CNCCN
 UBCS039	C1=CC=C2C(=C1)NC(C3=CC=CN32)C4=CN=CC=C4
 OSS-128167	C1=CC(=CC(=C1)NC(=O)C2=CC=CO2)C(=O)NC3=CC(=C(C=C3)O)C(=O)O
+SIRT6 activator 12q	C1=CC=C(C=C1)C(C2=CC=CC=C2)NC(=O)C3=CC(=NC4=CC=CC=C43)C5=CC6=CC=CC=C6O5
+Kenazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCNC(=O)CBr
