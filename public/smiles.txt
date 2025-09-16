@@ -6808,7 +6808,7 @@ Diiodohydroxypropane	OC(CI)CI
 Trimethylsilanol	O[Si](C)(C)C
 Thiocarlide	S=C(Nc1ccc(OCCC(C)C)cc1)Nc2ccc(OCCC(C)C)cc2
 Terizidone	O=C3NOCC3/N=C/c2ccc(/C=N/C1C(=O)NOC1)cc2
-Prothionamide	CCCc1cc(ccn1)C(=S)N
+Protionamide	CCCc1cc(ccn1)C(=S)N
 Morinamide	O=C(NCN1CCOCC1)c1cnccn1
 Hernandulcin	CC1=CC(=O)[C@@H](CC1)[C@](C)(CCC=C(C)C)O
 Dysprosium titanate	[Dy+3].[Dy+3].[Ti+4].[Ti+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
@@ -13763,6 +13763,7 @@ Cucurbitacin E	CC(=O)OC(C)(C)/C=C/C(=O)[C@@](C)([C@H]1[C@@H](C[C@@]2([C@@]1(CC(=
 4-Chlorophenyl azide	Clc1ccc(\N=[N+]=[N-])cc1
 Rifalazil	C[C@H]1C=CC=C(C(=O)N=C2C3=C(C4=C5C(=C(C(=C4C2=O)O)C)O[C@@](C5=O)(OC=C[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)NC6=C(O3)C=C(C=C6O)N7CCN(CC7)CC(C)C)C
 Einsteinium(III) iodide	I[Es](I)I
+Einsteinium(III) oxide	[Es+3].[Es+3].[O-2].[O-2].[O-2]
 N-Ethylbuphedrone	CCNC(CC)C(=O)c1ccccc1
 Imazaquin	O=C(O)c2c(nc1ccccc1c2)/C3=N/C(C(=O)N3)(C(C)C)C
 Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
@@ -13852,6 +13853,7 @@ Roche ester	C[C@H](CO)C(=O)OC
 Roche ester	C[C@@H](CO)C(=O)OC
 Quisinostat	O=C(NO)c1cnc(nc1)N2CCC(CC2)CNCc4c3ccccc3n(c4)C
 Neptunium(VI) fluoride	F[Np](F)(F)(F)(F)F
+D-Fructose-L-histidine	C1=C(NC=N1)C[C@@H](C(=O)OCC(=O)[C@H]([C@@H]([C@@H](CO)O)O)O)N
 Galactose-α-1,3-galactose	O([C@@H]1[C@@H](O)C(O)O[C@H](CO)[C@@H]1O)[C@H]2O[C@@H]([C@H](O)[C@H](O)[C@H]2O)CO
 8-Prenylnaringenin	CC(=CCC1=C2C(=C(C=C1O)O)C(=O)C[C@H](O2)C3=CC=C(C=C3)O)C
 Iridium tetroxide	O=[Ir](=O)(=O)=O
@@ -23563,3 +23565,6 @@ UBCS039	C1=CC=C2C(=C1)NC(C3=CC=CN32)C4=CN=CC=C4
 OSS-128167	C1=CC(=CC(=C1)NC(=O)C2=CC=CO2)C(=O)NC3=CC(=C(C=C3)O)C(=O)O
 SIRT6 activator 12q	C1=CC=C(C=C1)C(C2=CC=CC=C2)NC(=O)C3=CC(=NC4=CC=CC=C43)C5=CC6=CC=CC=C6O5
 Kenazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCNC(=O)CBr
+UBCS385	c1cc(Cl)cc2c1NC(=N2)SC(c1ccccc1)C(=O)NC1=NC=C(S1)S(=O)(=O)c1ccc([N+](=O)[O+])cc1
+ADTL-SA1215	CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCCN4CCCC4)I
+2-APQC	CCCCCNC(=O)C1=C(N(C2=NC3=CC=CC=C3N=C12)CC4=CC=C(C=C4)F)N
