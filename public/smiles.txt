@@ -18317,7 +18317,7 @@ Niobium disulfide	S=[Nb]=S
 4-Thiouracil	O=C1\C=C/NC(=S)N1
 Sodium trifluoroacetate	C(C(=O)[O-])(F)(F)F.[Na+]
 Cyanazine	CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N
-P-Phenetidine	CCOC1=CC=C(C=C1)N
+P-Phenetidine	CCOc1ccc(N)cc1
 Potassium trifluoroacetate	C(=O)(C(F)(F)F)[O-].[K+]
 Trans-Propenylbenzene	C(=C/C)\C1=CC=CC=C1
 Glycitin	COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
@@ -23483,6 +23483,7 @@ Fluorine fluorosulfate	FS(=O)(=O)OF
 Triiodine fluorosulfate	O=S(=O)([O-])F.I[I+]I
 Beryllium cyanide	[Be+2].[C-]#N.[C-]#N
 SKF-64139	C1CNCC2=C1C=CC(=C2Cl)Cl
+LY-134046	C1CC2=C(CNC1)C(=C(C=C2)Cl)Cl
 1,5-Diisocyanonaphthalene	[C-]#[N+]C1=CC=CC2=C1C=CC=C2[N+]#[C-]
 Trisulfuryl chloride	O=S(=O)(OS(=O)(=O)Cl)OS(=O)(=O)Cl
 LY-78335	CC(C1=C(C(=CC=C1)Cl)Cl)N
@@ -23568,3 +23569,6 @@ Kenazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCNC(=O)CBr
 UBCS385	c1cc(Cl)cc2c1NC(=N2)SC(c1ccccc1)C(=O)NC1=NC=C(S1)S(=O)(=O)c1ccc([N+](=O)[O+])cc1
 ADTL-SA1215	CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCCN4CCCC4)I
 2-APQC	CCCCCNC(=O)C1=C(N(C2=NC3=CC=CC=C3N=C12)CC4=CC=C(C=C4)F)N
+Dibromochloroiodomethane	40809-93-6
+MC3482	C1=CC=C(C=C1)COC(=O)N[C@@H](CCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)OCC2=CC=CC=C2)C(=O)NC3=CC=CC=C3
+MC3138	CCOC(=O)C1=CN(C=C(C1C2=CC(=CC=C2)OC)C(=O)OCC)C(=O)C3=CC=CC=C3
