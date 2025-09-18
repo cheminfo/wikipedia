@@ -23370,6 +23370,8 @@ Carbonylchlorohydrotris(triphenylphosphine)osmium	[H-].[C-]#[O+].C1=CC=C(C=C1)P(
 Methyl-TMA	CC(CC1=CC(=C(C(=C1)OC)OC)OC)NC
 Zuretinol acetate	CC1=C(C(CCC1)(C)C)/C=C/C(=C\C=C\C(=C\COC(=O)C)\C)/C
 Xyloxadine	CC1=CC(=C(C=C1)C)C(C)S(=O)(=O)C2=CC=CC=[N+]2[O-]
+Neptunyl carbonates	O=[Np+2]=O.[O-]C(=O)[O-]
+Neptunyl carbonates	[NH4+].O=[Np+]=O.[O-]C(=O)[O-]
 Methyl-TMA-2	CC(CC1=CC(=C(C=C1OC)OC)OC)NC
 2,4,6-Trimethoxyphenethylamine	COC1=CC(=C(C(=C1)OC)CCN)OC
 N-Desethylprotonitazene	CCCOC1=CC=C(CC2=NC3=CC([N+]([O-])=O)=CC=C3N2CCNCC)C=C1
@@ -23562,6 +23564,8 @@ Enecadin	CC1=NC(=CC(=N1)OCCCCCN2CCCCC2)C3=CC=C(C=C3)F
 MDL-811	C[C@@H]1COCCN1CC2=C(C=CC(=C2)NS(=O)(=O)C3=CC(=CC(=C3)Cl)Cl)S(=O)(=O)NC4=CC(=C(C=C4C)F)Br
 JYQ-42	C1=C(C=C(C=C1C(F)(F)F)Cl)/C=N/NC(=O)C2=CN(N=N2)C3=NON=C3N
 1,4,8,11-Tetraazaundecane	C(CNCCN)CNCCN
+6-Methylnicotine	CC1=NC=C(C=C1)2CCCN2C
+6-Methylnicotine	CC1=NC=C(C=C1)[C@@H]2CCCN2C
 UBCS039	C1=CC=C2C(=C1)NC(C3=CC=CN32)C4=CN=CC=C4
 OSS-128167	C1=CC(=CC(=C1)NC(=O)C2=CC=CO2)C(=O)NC3=CC(=C(C=C3)O)C(=O)O
 SIRT6 activator 12q	C1=CC=C(C=C1)C(C2=CC=CC=C2)NC(=O)C3=CC(=NC4=CC=CC=C43)C5=CC6=CC=CC=C6O5
@@ -23572,3 +23576,7 @@ ADTL-SA1215	CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCCN4CCCC4)I
 Dibromochloroiodomethane	40809-93-6
 MC3482	C1=CC=C(C=C1)COC(=O)N[C@@H](CCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)OCC2=CC=CC=C2)C(=O)NC3=CC=CC=C3
 MC3138	CCOC(=O)C1=CN(C=C(C1C2=CC(=CC=C2)OC)C(=O)OCC)C(=O)C3=CC=CC=C3
+VT (nerve agent)	CC(C(C)(C)C)OP(=O)(C)SCCN(C)C
+EA-5488	CN(C)P(=O)(F)OC12CN(CC1)CCC2
+VR-56 (nerve agent)	C1CCCCCC1O[P](C)(=O)[Se]CCN(C(C)C)C(C)C
+Bixlozone	CC1(CON(C1=O)CC2=C(C=C(C=C2)Cl)Cl)C
