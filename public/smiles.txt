@@ -5054,7 +5054,8 @@ Butenafine	N(C)(Cc1ccc(cc1)C(C)(C)C)Cc3c2ccccc2ccc3
 Benzylamine	c1ccc(cc1)CN
 Platinum on carbon	[Pt]
 Iron(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Fe+3]
-Iron(III) acetate	O1[C-](C)O[Fe+3]6([O-2]23)([OH2])(O[C-](C)O4)O[C-](C)O[Fe+3]24([OH2])(O[C-](C)O5)O[C-](C)O[Fe+3]135([OH2])O[C-]C(C)O6
+Iron(III) acetate	O1[C-](C)O[Fe+3]6([O-2]23)([OH2])(O[C-](C)O4)O[C-](C)O[Fe+3]24([OH2])(O[C-](C)O5)O[C-](C)O[Fe+3]135([OH2])O[C-](C)O6.[O-]C(C)=O
+Iron(III) acetate	O1[C-](C)O[Fe+3]6([O-2]23)([OH2])(O[C-](C)O4)O[C-](C)O[Fe+3]24([OH2])(O[C-](C)O5)O[C-](C)O[Fe+3]135([OH2])O[C-](C)O6
 Benzal chloride	ClC(Cl)c1ccccc1
 Phenylacetylene	C#Cc1ccccc1
 Etynodiol diacetate	O=C(O[C@@H]4/C=C3\[C@@H]([C@H]2CC[C@]1([C@@H](CC[C@]1(C#C)OC(=O)C)[C@@H]2CC3)C)CC4)C
@@ -15275,7 +15276,7 @@ Dihydrodeoxycorticosterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3C
 Cyphostemmin A	c1cc(ccc1C2=C([C@@H](c3c(cc(cc3O)O)C2)c4cc(cc(c4)O)O)c5ccc(cc5)O)O
 Cyphostemmin B	c1cc(ccc1/C=C\2/c3cc(cc(c3[C@H]([C@@H]2c4cc(cc(c4)O)O)c5ccc(cc5)O)O)O)O
 Pinostilbene	COC1=CC(=CC(=C1)O)/C=C/C2=CC=C(C=C2)O
-Aspergillomarasmine A	C(C(C(=O)O)NCC(C(=O)O)NCC(C(=O)O)N)C(=O)O
+Aspergillomarasmine A	C([C@@H](C(=O)O)NC[C@H](C(=O)O)NC[C@H](C(=O)O)N)C(=O)O
 Isopregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
 Renanolone	CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(O)[C@H]3C(=O)C[C@]12C
 Clometerone	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)CC[C@@]4([C@H]3CC[C@@]2([C@H]1C(=O)C)C)C)Cl
@@ -23580,3 +23581,5 @@ VT (nerve agent)	CC(C(C)(C)C)OP(=O)(C)SCCN(C)C
 EA-5488	CN(C)P(=O)(F)OC12CN(CC1)CCC2
 VR-56 (nerve agent)	C1CCCCCC1O[P](C)(=O)[Se]CCN(C(C)C)C(C)C
 Bixlozone	CC1(CON(C1=O)CC2=C(C=C(C=C2)Cl)Cl)C
+DBI33-50	C[C@H]([C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)N)O
+Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CCCN(C)CCOC)C(C)C
