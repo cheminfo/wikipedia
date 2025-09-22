@@ -3511,7 +3511,7 @@ Tropylium cation	c1=cc=c[cH+]c=c1
 Aliquat 336	CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[Cl-]
 1-Butyl-3-methylimidazolium hexafluorophosphate	CCCCn1cc[n+](c1)C.F[P-](F)(F)(F)(F)F
 Diphenylamine	c1ccc(cc1)Nc2ccccc2
-Icaridin	O=C(OC(C)CC)N1C(CCO)CCCC1
+Picaridin	O=C(OC(C)CC)N1C(CCO)CCCC1
 Endrin	C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl
 Tirapazamine	C1=CC=C2C(=C1)N(C(=N)N=[N+]2[O-])O
 Strontium hydroxide	[Sr+2].[OH-].[OH-]
@@ -11918,7 +11918,7 @@ Tris(tert-butoxy)silanethiol	CC(C)(C)O[Si](S)(OC(C)(C)C)OC(C)(C)C
 Beryllium azide	[Be+2].[N-]=[N+]=[N-].[N-]=[N+]=[N-]
 Isoeugenol	C/C=C/C1=CC(=C(C=C1)O)OC
 Methyl eugenol	COc1cc(ccc1OC)CC=C
-Dienedione	CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2=O
+Dienedione	C[C@]12CCC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CCC2=O
 Methyl isoeugenol	CC=CC1=CC(OC)=C(OC)C=C1
 Diphenolic acid	CC(CCC(=O)O)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
 3,4-Dihydroxybenzaldehyde	C1=CC(=C(C=C1C=O)O)O
@@ -23150,7 +23150,7 @@ MPD-75	CN1C[C@@H](C=C2[C@H]1CC3=CN(C4=CC=CC2=C34)C)C(=O)N5CCCC5
 S-350 (drug)	C1CN(CCN1CCC(=O)O)CCOC(C2=CC=CC=C2)C3=CC=C(C=C3)F
 LR-1111	C1CN(CCN(C1)CCOC(C2=CC=CC=C2)C3=CC=CC=C3)CCCC4=CC=CC=C4
 Mefeclorazine	COC1=C(C=C(C=C1)CCN2CCN(CC2)C3=CC=CC=C3Cl)OC
-Aminocyclopropane	C1CC1N
+Cyclopropylamine	C1CC1N
 N-Methyl-2C-I	CNCCc1cc(OC)c(cc1OC)I
 Imazosulfuron	COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
 13-Hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC(=CC(=C34)C2=C1)O)C
@@ -23585,3 +23585,5 @@ VR-56 (nerve agent)	C1CCCCCC1O[P](C)(=O)[Se]CCN(C(C)C)C(C)C
 Bixlozone	CC1(CON(C1=O)CC2=C(C=C(C=C2)Cl)Cl)C
 DBI33-50	C[C@H]([C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)N)O
 Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CCCN(C)CCOC)C(C)C
+Cyclobutylamine	C1CC(C1)N
+Cyclopentylamine	C1CCC(C1)N
