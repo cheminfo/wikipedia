@@ -2639,6 +2639,7 @@ Miroprofen	O=C(O)C(c3ccc(c1nc2ccccn2c1)cc3)C
 Cyclobutene	C\1=C\CC/1
 (E)-Stilbene	c2(\C=C\c1ccccc1)ccccc2
 Β-Hydroxy β-methylbutyric acid	CC(C)(CC(=O)O)O
+1-Butyne	C#CCC
 Rubidium nitrate	[Rb+].[O-][N+]([O-])=O
 Oxandrolone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@]3(COC(=O)C4)C
 Methylone	CC(NC)C(=O)C1=CC=C(OCO2)C2=C1
@@ -10284,7 +10285,7 @@ Potassium hydrosulfide	[SH-].[K+]
 Ferrocenium tetrafluoroborate	C1=C[CH-]C=C1.[Fe+3].C2=C[CH-]C=C2.F[B-](F)(F)F
 Mercury(I) nitrate	[N+](=O)([O-])[O-].[Hg+][Hg+].[N+](=O)([O-])[O-]
 Mercury(I) nitrate	[N+](=O)([O-])[O-].[OH2+][Hg][Hg][OH2+].[N+](=O)([O-])[O-]
-CPCCOEt	CCOC(=O)C23Oc1ccccc1\C(=N\O)\C2C3
+CPCCOEt	CCOC(=O)[C@]12CC1/C(=N\O)c1ccccc1O2
 Ro01-6128	c2ccccc2C(C(=O)NC(=O)OCC)c1ccccc1
 Ro67-4853	c3cccc2c3Oc1ccccc1C2C(=O)NC(=O)OCCCC
 LY-307,452	C1=CC=C(C=C1)C(CCC[C@@H](C[C@@H](C(=O)O)N)C(=O)O)C2=CC=CC=C2
@@ -17795,7 +17796,7 @@ RU-16117	C[C@]12C[C@H]([C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O)OC
 Pyribenzoxim	COc1cc(nc(n1)Oc2cccc(c2C(=O)ON=C(c3ccccc3)c4ccccc4)Oc5nc(cc(n5)OC)OC)OC
 Nivalenol	CC1=C[C@H]2O[C@@H]3[C@H](O)[C@@H](O)[C@@](C)([C@]34CO4)[C@@]2(CO)[C@H](O)C1=O
 RU-2309	CC[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(C)O
-Dimethyldienolone	O([H])[C@](C)1CC[C@]([H])2[C@@]([H])3[C@](C)CC4=CC(CCC4=C3CC[C@@]21C)=O
+Dimethyldienolone	C[C@@H]1CC2=CC(=O)CCC2=C3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C)O
 7α-Methylestradiol	[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3C[C@@H](C)[C@@]21[H]
 Triisopropylsilane	CC(C)[Si](C(C)C)C(C)C
 Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
@@ -20441,6 +20442,7 @@ Oxime V	C(=N/O)\C=1CC=C(COC)CC1
 Isosulfan blue	[Na+].CCN(CC)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC)C1=CC(=CC=C1S([O-])(=O)=O)S([O-])(=O)=O
 Isosulfan blue	CCN(CC)c1ccc(cc1)C(=C2C=CC(=[N+](CC)CC)C=C2)c3cc(ccc3S(=O)(=O)[O-])S(=O)(=O)O
 1,1-Dichloro-1,2-difluoroethane	C(C(F)(Cl)Cl)F
+CPP-115	C1[C@H](CC(=C(F)F)[C@H]1N)C(=O)O
 1,2,4,5-Tetrachloro-3-nitrobenzene	C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl
 Niobium(V) oxynitrate	[Nb](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Undecaprenyl phosphate	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/COP(=O)(O)O)/C)/C)/C)/C)/C)/C)/C)/C)/C)/C)C
@@ -21171,7 +21173,7 @@ Lanifibranor	C1=CC2=C(C=C1S(=O)(=O)N3C4=C(C=C(C=C4)Cl)C=C3CCCC(=O)O)SC=N2
 3,4-MDO-U-47700	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=C(C=C2)OCO3
 U-48800	CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)CC2=C(C=C(C=C2)Cl)Cl
 Etoacetazene	CCN(CC)CCN1C2=C(C=C(C=C2)C(=O)C)N=C1CC3=CC=C(C=C3)OCC
-Etocyanazene	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
+Etocyanozene	CCN(CC)CCN1C2=C(C=C(C=C2)C#N)N=C1CC3=CC=C(C=C3)OCC
 Putylone	CCCNC(CC)C(=O)C1=CC2=C(C=C1)OCO2
 SR-14968	CC(C1=CC=C(C=C1)Br)N2CCC(CC2)N3C4=CC(=C(C=C4NC3=O)Cl)Cl
 Pyranthrene (molecule)	C1=CC=C2C(=C1)C=C3C=CC4=CC5=C6C(=CC7=CC=CC=C75)C=CC8=CC2=C3C4=C86
@@ -23478,7 +23480,7 @@ Fluetonitazepyne	C1CCN(C1)CCN2C3=C(C=C(C=C3)[N+](=O)[O-])N=C2CC4=CC=C(C=C4)OCCF
 Menitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)C
 Propylnitazene	CCCC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
 Para-Nitroazaprocin	CCC(=O)N1C2CCC1CN(C2)C/C=C/C3=CC=C(C=C3)[N+](=O)[O-]
-Isotocyanazene	CC(C)Oc1ccc(cc1)Cc1nc2cc(ccc2n1CCN(CC)CC)C#N
+Isotocyanozene	CC(C)Oc1ccc(cc1)Cc1nc2cc(ccc2n1CCN(CC)CC)C#N
 Protodesnitazene	CCCOC1=CC=C(C=C1)CC2=NC3=CC=CC=C3N2CCN(CC)CC
 MS15203	CC(=C)C(=O)NC1=CC(=CC(=C1)C(=O)O)C(=O)O
 Disulfuryl chloride	O=S(=O)(OS(=O)(=O)Cl)Cl
@@ -23587,3 +23589,4 @@ DBI33-50	C[C@H]([C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@
 Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CCCN(C)CCOC)C(C)C
 Cyclobutylamine	C1CC(C1)N
 Cyclopentylamine	C1CCC(C1)N
+Potassium trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].[K+]
