@@ -11757,6 +11757,7 @@ Iodine monofluoride	FI
 Dexpramipexole	CCCN[C@@H]1CCC(N=C(N)S2)=C2C1
 Plicadin	Oc4cc5oc2c(C(=O)Oc1c3C=CC(C)(C)Oc3ccc12)c5cc4
 Cartazolate	O=C(C1=CN=C(N(CC)N=C2)C2=C1NCCCC)OCC
+Hexachloroplatinate	Cl[Pt-2](Cl)(Cl)(Cl)(Cl)Cl
 Pentadecylic acid	O=C(O)CCCCCCCCCCCCCC
 Scandium monosulfide	[Sc].[S]
 Famprofazone	O=C2\C(=C(/N(N2c1ccccc1)C)CN(C(C)Cc3ccccc3)C)C(C)C
@@ -23590,3 +23591,4 @@ Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CC
 Cyclobutylamine	C1CC(C1)N
 Cyclopentylamine	C1CCC(C1)N
 Potassium trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].[K+]
+Perfluorodecanesulfonic acid	C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F
