@@ -6725,6 +6725,7 @@ Guanosine pentaphosphate	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O
 Sodium zincate	[OH-].[OH-].[OH-].[OH-].[Na+].[Na+].[Zn+2]
 Bendiocarb	CNC(=O)Oc1cccc2c1OC(C)(C)O2
 Sulfanilic acid	OS(=O)(=O)c1ccc(N)cc1
+Brazilin	C1C2=CC(=C(C=C2[C@H]3[C@@]1(COC4=C3C=CC(=C4)O)O)O)O
 Scyllo-Inositol	O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
 Nitroxoline	[O-][N+](=O)c1ccc(O)c2ncccc12
 Clofoctol	Clc1cc(Cl)ccc1Cc2cc(ccc2O)C(C)(C)CC(C)(C)C
@@ -21656,7 +21657,6 @@ Zirconium diphosphide	[P].[P].[Zr]
 Holmium(III) oxalate	[Ho+3].[Ho+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].O.O
 Holmium(III) oxalate	[Ho+3].[Ho+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].O.O.O.O.O.O.O.O.O.O
 Holmium(III) oxalate	[Ho+3].[Ho+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
-Lysergide d-tartrate	CN1[C@]2(C(C=3C=4C(C2)=CNC4C=CC3)=C[C@@H](C(N(CC)CC)=O)C1)[H].[C@H]([C@@H](C(O)=O)O)(C(O)=O)O
 Molybdenum monophosphide	[Mo]#P
 Α-Arbutin	C1=CC(=CC=C1O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Trimolybdenum phosphide	[P].[Mo].[Mo].[Mo]
@@ -23596,3 +23596,10 @@ Hexachloroplutonate	Cl[Pu-2](Cl)(Cl)(Cl)(Cl)Cl
 Perfluorodecanesulfonic acid	C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F
 Plutonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Pu]
 Neptunium tetraiodide	[I-].[I-].[I-].[I-].[Np]
+TGF-8027	C1=C(C#N)C(OC)=CC(CCN([H])C(C)C2=CC=CC=C2O[H])=C1OC
+Dihydromuscimol	C1C(ONC1=O)CN
+CORT-108297	CCOC[C@]12CC3=C(C=C1CCN(C2)S(=O)(=O)C4=CC=C(C=C4)C(F)(F)F)N(N=C3)C5=CC=C(C=C5)F
+GT-2203	C1[C@H]([C@@H]1N)C2=CN=CN2
+CYM50308	COCC\N=C1/S\C(=C/c2cc(C)n(c3ccc(F)cc3F)c2C)C(=O)N1C
+RF9 (drug)	O=C(N[C@H]([C@](N[C@H](C(N)=O)CC4=CC=CC=C4)=O)CCCNC(N)=N)C1(CC(C3)C2)CC3CC2C1
+RF3286	CC(C)C[C@@H](C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)C=C(C1=CC=CC=C1)C2=CC=CC=C2
