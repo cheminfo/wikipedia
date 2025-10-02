@@ -23609,14 +23609,18 @@ Protactinium triiodide	I[Pa](I)I
 RF3286	CC(C)C[C@@H](C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)C=C(C1=CC=CC=C1)C2=CC=CC=C2
 ASP-8062	CC1=NC(=C2C=C(SC2=N1)C3CCC(CC3)(C)C)CN4CCS(=O)(=O)CC4
 Valiloxybate	CC(C)[C@@H](C(=O)OCCCC(=O)O)N
-Zerlasiran	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1OCCCCOP(=S)(O)OCCCOCC(COCCCCCCOP(=S)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=NC3=O)N)OC)O)(COCCCOP(=S)(O)OCCCCO[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)NC(=O)C)COCCCOP(=S)(O)OCCCCO[C@H]5[C@@H]([C@H]([C@H]([C@H](O5)CO)O)O)NC(=O)C)CO)O)O
 MES207	C1CN(CCC1(C(=O)NCCN=C(N)N)NC2=CC=CC=C2)CC3=CC=CC=C3
 AC-263093	C1=CC(=C(C=C1/C=N/N=C(N)N)Br)Br
 Muvalaplin	C1CNC[C@H]1[C@H](CC2=CC(=CC=C2)CN(CC3=CC=CC(=C3)C[C@@H]([C@H]4CCNC4)C(=O)O)CC5=CC=CC(=C5)C[C@@H]([C@H]6CCNC6)C(=O)O)C(=O)O
 KGOP01	CC1=CC(=CC(=C1C[C@@H](C(=O)N[C@H](CCCN=C(N)N)C(=O)N[C@H]2CC3=CC=CC=C3CN(C2=O)CCC(=O)N)N)C)O
+Plutonyl fluoride	O=[Pu](F)(F)=O
 Elcubragistat	C1CCN(C1)C2=C(C=CC(=C2)C(F)(F)F)CN3CCN(CC3)C(=O)OC(C(F)(F)F)C(F)(F)F
 Usmarapride	CC(C)N1C2=CC=CC=C2C(=N1)C3=NN=C(O3)C4CCN(CC4)CCCOC
 Pomaglumetad methionil	CSCC[C@@H](C(=O)N[C@]1(CS(=O)(=O)[C@@H]2[C@H]1[C@H]2C(=O)O)C(=O)O)N
 Talaglumetad	C[C@@H](C(=O)N[C@]1(CC[C@@H]2[C@H]1[C@H]2C(=O)O)C(=O)O)N
 Miltirone	CC(C)C1=CC2=C(C3=C(C=C2)C(CCC3)(C)C)C(=O)C1=O
-Piperidine-4-sulphonic acid	C1CNCCC1S(=O)(=O)O
+Piperidine-4-sulfonic acid	C1CNCCC1S(=O)(=O)O
+Imidazoleacetic acid	C1=C(NC=N1)CC(=O)O
+IU1	CC1=CC(=C(N1C2=CC=C(C=C2)F)C)C(=O)CN3CCCC3
+PA-915	C1C(CN(C1=O)C2=NNC3=C2C=CC=C3Cl)C(=O)NCCC4=CN=CN4
+2C-Te	NCCc1cc(OC)c(cc1OC)[Te]C
