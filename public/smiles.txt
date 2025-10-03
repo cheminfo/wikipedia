@@ -8710,6 +8710,7 @@ Glyclopyramide	C1CCN(C1)NC(=O)NS(=O)(=O)C2=CC=C(C=C2)Cl
 Colforsin daropate	CC(=O)O[C@H]1[C@H]([C@H]2C(CC[C@@H]([C@@]2([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O)(C)C)OC(=O)CCN(C)C
 Sivelestat	CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=C2C(=O)NCC(=O)O
 Landiolol	CC1(OCC(O1)COC(=O)CCC2=CC=C(C=C2)OCC(CNCCNC(=O)N3CCOCC3)O)C
+Carbidopa/levodopa/entacapone	CCN(CC)C(=O)/C(=C/C1=CC(=C(C(=C1)O)O)[N+](=O)[O-])/C#N.C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN.C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O
 JNJ-7777120	C3CN(C)CCN3C(=O)c(cc1c2)[nH]c1ccc2Cl
 4-Methylhistamine	CC1=C(N=CN1)CCN
 2-Pyridylethylamine	NCCc1ccccn1
@@ -23624,3 +23625,8 @@ Imidazoleacetic acid	C1=C(NC=N1)CC(=O)O
 IU1	CC1=CC(=C(N1C2=CC=C(C=C2)F)C)C(=O)CN3CCCC3
 PA-915	C1C(CN(C1=O)C2=NNC3=C2C=CC=C3Cl)C(=O)NCCC4=CN=CN4
 2C-Te	NCCc1cc(OC)c(cc1OC)[Te]C
+BAY 2686013	C1=CC(=CC=C1NC(=O)CN)OCC2=CC(=CC(=C2)C(F)(F)F)C(F)(F)F
+VLX1570	C=CC(=O)N1CC/C(=C\C2=CC(=C(C=C2)F)[N+](=O)[O-])/C(=O)/C(=C/C3=CC(=C(C=C3)F)[N+](=O)[O-])/C1
+Degrasyn	CCC[C@@H](C1=CC=CC=C1)NC(=O)/C(=C/C2=NC(=CC=C2)Br)/C#N
+Tasipimidine	COC1=CC=CC2=C1CCOC2C3=NCCN3
+PD-0299685	CCC[C@@H](C)C[C@@H](CC(=O)O)CN
