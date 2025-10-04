@@ -11540,7 +11540,7 @@ Nitroscanate	C1=CC(=CC=C1N=C=S)OC2=CC=C(C=C2)[N+](=O)[O-]
 1,3-Benzodioxole	C1Oc2ccccc2O1
 Fluoroacetyl chloride	FCC(Cl)=O
 Convallamarin	O[C@@H]%10[C@H](O)[C@@H](O)[C@H](O[C@H]%10O[C@H]1[C@@H](O)[C@@H](O)[C@@H](O[C@@H]1C)O[C@@H]5C[C@H](O[C@@H]3O[C@H](C)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H]3O)C[C@H]6CC[C@H]4[C@H]9[C@](CC[C@@H]4[C@@]56C)([C@@H]7[C@@H](O[C@@](O)([C@H]7C)CCC(=C)\CO[C@@H]8O[C@H](CO)[C@H](O)[C@H](O)[C@H]8O)C9)C)C
-Desmethylclozapine	Clc1ccc2Nc4ccccc4C(=N\c2c1)/N3CCNCC3
+Desmethylclozapine	C1CN(CCN1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42
 Convallatoxin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)CC[C@H]4[C@H]6CC[C@]5(O)C[C@@H](O[C@@H]3O[C@H]([C@H](O)[C@@H](O)[C@H]3O)C)CC[C@]45C=O
 Litracen	c3ccc2c(/C(c1c(cccc1)C2(C)C)=C\CCNC)c3
 Losindole	Clc1ccc3c(c1)[C@@H](c2ccccc2)[C@H]4[C@@H](C3)CN(C4)C
@@ -17836,6 +17836,7 @@ Deoxyadenosyl radical	[CH2]C1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
 Sodium cobalt oxide	[Na+].[Co+3].[O-2].[O-2]
 AGH-107	CCn1cncc1-c1c[nH]c2ccc(I)cc12
 Methyldichlorophosphine	CP(Cl)Cl
+Cannabisol	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1CC4=C(C5=C(C=C4CCCCC)OC([C@H]6[C@H]5C=C(CC6)C)(C)C)O)O
 Tetrasodium iminodisuccinate	C(C(C(=O)[O-])NC(CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+].[Na+]
 BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
@@ -23630,3 +23631,6 @@ VLX1570	C=CC(=O)N1CC/C(=C\C2=CC(=C(C=C2)F)[N+](=O)[O-])/C(=O)/C(=C/C3=CC(=C(C=C3
 Degrasyn	CCC[C@@H](C1=CC=CC=C1)NC(=O)/C(=C/C2=NC(=CC=C2)Br)/C#N
 Tasipimidine	COC1=CC=CC2=C1CCOC2C3=NCCN3
 PD-0299685	CCC[C@@H](C)C[C@@H](CC(=O)O)CN
+THPO (drug)	C1CNCC2=C1ONC2=O
+Mercury(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Hg+2]
+2C-Se-TFM	NCCc1cc(OC)c(cc1OC)[Se]C(F)(F)F
