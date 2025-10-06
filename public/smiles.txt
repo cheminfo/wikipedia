@@ -3887,7 +3887,7 @@ Perillartine	CC([C@H]1CCC(/C=N/O)=CC1)=C
 Padimate O	O=C(OCC(CC)CCCC)c1ccc(N(C)C)cc1
 Padimate A	CC(C)CCOC(=O)c1ccc(cc1)N(C)C
 1,2-Dimethoxybenzene	COc1ccccc1OC
-Plutonium hydride	[H-].[H-].[Pu++]
+Plutonium dihydride	[H-].[H-].[Pu++]
 Elaidic acid	O=C(O)CCCCCCC/C=C/CCCCCCCC
 Propiophenone	CCC(=O)c1ccccc1
 Apterin	CC(C)([C@@H]1[C@@H](c2c(ccc3c2oc(=O)cc3)O1)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
@@ -23638,3 +23638,9 @@ BGB-16673	CC1=C(C=CC(=C1)C2=C3C=C(NC3=NC=N2)C4=CN=C(C=C4)N5CCN(CC5)CC6CCN(CC6)C7
 Zelebrudomide	C1CCN(CC1)C2=CN=C(C(=N2)NC3=CC=C(C=C3)C4CCN(CC4)C[C@@H]5CCN(C5)C6=CC7=C(C=C6)C(=O)N(C7=O)C8CCC(=O)NC8=O)C(=O)N
 Bexobrutideg	CN1CCN(C1=O)[C@@H]2CCCN(C2)C3=CN=C(C(=N3)NC4=CC=C(C=C4)C5CCN(CC5)CC6CCN(CC6)C7=CN=C(C=C7)C(=O)N[C@H]8CCC(=O)NC8=O)C(=O)N
 Thio-THIP	C1CNCC2=C1C(=O)NS2
+Aza-THIP	C1CNCC2=C1C(=O)NN2
+Iso-THIP	C1CNCC2=C1C(=O)ON2
+THAZ	C1CNCCC2=C1C(=O)NO2
+Plutonium trihydride	[HH].[HH].[HH].[Pu]
+Epilupinine	C1CCN2CCC[C@@H]([C@H]2C1)CO
+Gabamide	C(CC(=O)N)CN
