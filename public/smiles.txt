@@ -23655,3 +23655,11 @@ LY-2624803	CC(C)(CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=CC=CC=C42)C(=O)O
 YZG-331	CC[C@@H](C1=CC=CC=C1)NC2=C3C(=NC=N2)N(C=N3)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O
 Thio-4-PIOL	C1CNCCC1C2=CC(=O)NS2
 4-AHP	C1=C(C=NN1O)CN
+2C-T-29	COC1=CC(=C(C=C1CCN)OC)SCC#C
+2C-T-35	COC1=CC(=C(C=C1CCN)OC)SC(F)F
+2C-CPE	COC1=CC(=C(C=C1CCN)OC)C2CCCC2
+Eisenin	CC(C(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C1CCC(=O)N1
+Eisenin	C[C@H](NC(=O)[C@H](CCC(N)=O)NC(=O)[C@@H]1CCC(=O)N1)C(=O)O
+Isopropyl formate	CC(C)OC=O
+Ethylenediaminetriacetic acid	C(CN(CC(=O)O)CC(=O)O)NCC(=O)O
+Potassium hexachloroosmate	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[K+].[K+].[Os+4]
