@@ -7686,7 +7686,7 @@ Methylammonium nitrate	C[NH3+].[N+](=O)([O-])[O-]
 DMPU	O=C1N(C)CCCN1C
 M1G	C1=CN2C(=O)C3=C(N=CN3)N=C2N=C1
 Phenylglyoxylic acid	C1=CC=C(C=C1)C(=O)C(=O)O
-Testolactone	CC12CCC3C(C1CCC(=O)O2)CCC4=CC(=O)C=CC34C
+Testolactone	C[C@]12CC[C@@]3([H])[C@](CCC4=CC(C=C[C@]34C)=O)([H])[C@]1([H])CCC(O2)=O
 Cuneane	C12C3C4C3C5C1C2C45
 Oblimersen	Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O[C@H]3C[C@@H](O[C@@H]3COP(=O)(O[C@H]4C[C@@H](O[C@@H]4COP(=O)(O[C@H]5C[C@@H](O[C@@H]5COP(=O)(O[C@H]6C[C@@H](O[C@@H]6COP(=O)(O[C@H]7C[C@@H](O[C@@H]7COP(=O)(O[C@H]8C[C@@H](O[C@@H]8COP(=O)(O[C@H]9C[C@@H](O[C@@H]9COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1CO)n1cc(c(=O)[nH]c1=O)C)S)n1ccc(nc1=O)N)S)n1cc(c(=O)[nH]c1=O)C)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1ncnc2N)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1nc([nH]c2=O)N)S)n1cc(c(=O)[nH]c1=O)C)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1ncnc2N)S)O
 Chloroauric acid	[H+].Cl[Au-](Cl)(Cl)Cl
@@ -23668,3 +23668,8 @@ Isopropyl formate	CC(C)OC=O
 Ethylenediaminetriacetic acid	C(CN(CC(=O)O)CC(=O)O)NCC(=O)O
 Potassium hexachloroosmate	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[K+].[K+].[Os+4]
 DALDA (opioid peptide)	C1=CC=C(C=C1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@H](CC2=CC=C(C=C2)O)N
+Mesaconitine	CC(=O)O[C@@]12[C@@H]3[C@@H](C[C@@]([C@@H]3OC(=O)C4=CC=CC=C4)([C@H]([C@@H]1O)OC)O)[C@]56[C@H](C[C@H]([C@@]7([C@H]5[C@H]([C@H]2[C@H]6N(C7)C)OC)COC)O)OC
+Mesaconitine	CC(O[C@@]12[C@@]3([H])[C@H](OC)[C@]4([H])[C@](COC)(CN(C)[C@H]35)[C@H](O)C[C@H](OC)[C@@]45[C@]([H])(C[C@@H](OC)[C@@H]2O)[C@]1([H])C(OC(C6=CC=CC=C6)=O)O)=O
+4-HO-EiPT	CCN(CCC1=CNC2=C1C(=CC=C2)O)C(C)C
+Potassium osmyl oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].O=[Os+2]=O.[K+].[K+]
+Potassium pentachloronitridoosmate	N#[Os-2](Cl)(Cl)(Cl)(Cl)Cl.[K+].[K+]
