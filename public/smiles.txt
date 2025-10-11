@@ -19791,7 +19791,7 @@ Neptunium(VII) oxide-hydroxide	[Np+3](=O)=O.[OH-].[OH-].[OH-]
 Tavapadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)C(F)(F)F)C3=C(C(=O)NC(=O)N3C)C
 Germyl	[GeH3-]
 Germyl	[GeH3]
-MALT (drug)	CN(CCC1=CNC2=CC=CC=C21)CC=C
+Methylallyltryptamine	CN(CCC1=CNC2=CC=CC=C21)CC=C
 Pentaethylenehexamine	NCCNCCNCCNCCNCCN
 9-Hydroxyhexahydrocannabinol	CCCCCC1=CC(=C2C3CC(CCC3C(OC2=C1)(C)C)(C)O)O
 Chlorsulfuron	O=C(NC1=NC(=NC(=N1)C)OC)NS(=O)(=O)C=2C=CC=CC2Cl
@@ -23670,6 +23670,10 @@ Potassium hexachloroosmate	[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[K+].[K+].[Os+4]
 DALDA (opioid peptide)	C1=CC=C(C=C1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@H](CC2=CC=C(C=C2)O)N
 Mesaconitine	CC(=O)O[C@@]12[C@@H]3[C@@H](C[C@@]([C@@H]3OC(=O)C4=CC=CC=C4)([C@H]([C@@H]1O)OC)O)[C@]56[C@H](C[C@H]([C@@]7([C@H]5[C@H]([C@H]2[C@H]6N(C7)C)OC)COC)O)OC
 Mesaconitine	CC(O[C@@]12[C@@]3([H])[C@H](OC)[C@]4([H])[C@](COC)(CN(C)[C@H]35)[C@H](O)C[C@H](OC)[C@@]45[C@]([H])(C[C@@H](OC)[C@@H]2O)[C@]1([H])C(OC(C6=CC=CC=C6)=O)O)=O
+Nerandomilast	C1CC(C1)(CO)NC2=NC(=NC3=C2[S@](=O)CC3)N4CCC(CC4)C5=NC=C(C=N5)Cl
 4-HO-EiPT	CCN(CCC1=CNC2=C1C(=CC=C2)O)C(C)C
 Potassium osmyl oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].O=[Os+2]=O.[K+].[K+]
 Potassium pentachloronitridoosmate	N#[Os-2](Cl)(Cl)(Cl)(Cl)Cl.[K+].[K+]
+CYM51010	CCOC(=O)C1(CCN(CC1)CC2=CC=C(C=C2)NC(=O)C)CCC3=CC=CC=C3
+TAN-821	CN(CCC1=CC=CC=C1)C(=O)[C@H]2C[C@@]34C=C[C@@]2([C@H]5[C@@]36CCN([C@@H]4CC7=C6C(=C(C=C7)O)O5)CC8CC8)O
+5-MeO-MPT	CCCN(C)CCC1=CNC2=C1C=C(C=C2)OC
