@@ -1951,7 +1951,7 @@ Ionomycin	C[C@H](CCC(=O)O)C[C@H](C)C[C@H](C)C(=O)/C=C(/[C@H](C)C[C@H](C)C/C=C/[C
 Triethylamine	CCN(CC)CC
 Caspofungin	[C@@]12(N(C[C@@H](C1)O)C([C@H]([C@@H](C)O)NC(=O)[C@](C[C@H]([C@@H](NCCN)NC([C@@H]3[C@H](CCN3C([C@H]([C@@H](CCN)O)NC(=O)[C@H]([C@@H]([C@H](C4=CC=C(C=C4)O)O)O)NC2=O)=O)O)=O)O)(NC(CCCCCCCC[C@H](C[C@H](CC)C)C)=O)[H])=O)[H]
 Caspofungin	CC(O)=O.CC(O)=O.[H][C@@]12C[C@@H](O)CN1C(=O)[C@@H](NC(=O)[C@]([H])(C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]1[C@@H](O)CCN1C(=O)[C@@H](NC(=O)[C@@H](NC2=O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@H](O)CCN)NC(=O)CCCCCCCC[C@@H](C)C[C@@H](C)CC)[C@@H](C)O
-4-Acetoxy-DiPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
+4-AcO-DIPT	CC(C)N(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C(C)C
 5-MeO-DET	CCN(CC)CCc1c[nH]c2ccc(OC)cc12
 Nitroguanidine	NC(N)=N[N+]([O-])=O
 Trigonelline	O=C([O-])c1ccc[n+](c1)C
@@ -23677,3 +23677,14 @@ Potassium pentachloronitridoosmate	N#[Os-2](Cl)(Cl)(Cl)(Cl)Cl.[K+].[K+]
 CYM51010	CCOC(=O)C1(CCN(CC1)CC2=CC=C(C=C2)NC(=O)C)CCC3=CC=CC=C3
 TAN-821	CN(CCC1=CC=CC=C1)C(=O)[C@H]2C[C@@]34C=C[C@@]2([C@H]5[C@@]36CCN([C@@H]4CC7=C6C(=C(C=C7)O)O5)CC8CC8)O
 5-MeO-MPT	CCCN(C)CCC1=CNC2=C1C=C(C=C2)OC
+4-HO-NBnT	C1=CC=C(C=C1)CNCCC2=CNC3=C2C(=CC=C3)O
+5-MeO-NBnT	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC=CC=C3
+MGM-15	CC[C@@H]1CN2CC[C@]3([C@@H]([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC)O
+7-Acetoxymitragynine	CC[C@@H]1CN2CC[C@]3(C(=NC4=C3C(=CC=C4)OC)[C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)OC(=O)C
+4-AcO-MPT	CCCN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
+4-PrO-DiPT	CCC(=O)c1cccc2c1c(CCN(C(C)C)C(C)C)c[nH]2
+4-HO-AET	CCC(CC1=CNC2=C1C(=CC=C2)O)N
+(R)-70	C[C@H]1CN(CC(=C1)C2=CNC3=C2C=CC=N3)C
+Milsaperidone	C[C@@H](C1=CC(=C(C=C1)OCCCN2CCC(CC2)C3=NOC4=C3C=CC(=C4)F)OC)O
+1-Dimethylaminomethyl-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CN(C)C)CC
+MLA-74	CCNC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
