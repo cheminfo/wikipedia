@@ -7107,6 +7107,7 @@ Manganese(III) acetate	O1[C-](C)O[Mn+3]6([O-2]23)([OH])(O[C-](C)O4)O[C-](C)O[Mn+
 Lonafarnib	C=12CCC=3C=C(C=C(C3[C@H](C1N=CC(=C2)Br)C4CCN(CC4)C(=O)CC5CCN(CC5)C(N)=O)Br)Cl
 Dynorphin B	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)[C@H](CCCN/C(=N/[H])/N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc2ccccc2)NC(=O)CNC(=O)CNC(=O)[C@H](Cc3ccc(cc3)O)N
 Leu-enkephalin	O=C(O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)Cc2ccccc2)CC(C)C
+Trifluoroacetate	C(=O)(C(F)(F)F)[O-]
 Amlexanox	O=C1c3cc(ccc3Oc2nc(c(cc12)C(=O)O)N)C(C)C
 Adrenalone	O=C(c1cc(O)c(O)cc1)CNC
 Mepartricin	CNc1ccc(cc1)C(=O)CC(O)CCC(C)C3OC(=O)CC(O)CC(=O)CC(O)CC(O)CC(O)CC(O)CC4(O)CC(O)C(C(=O)OC)C(CC(O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)/C=C/C=C/C=C/C=C\C=C/C=C/C=C/C3C)O4
@@ -9599,7 +9600,7 @@ Chlorozotocin	ClCCN(N=O)C(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO
 DHA-paclitaxel	O=C(c1ccccc1)N[C@@H](c2ccccc2)[C@@H](OC(=O)CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC)C(=O)O[C@@H]5C(=C4/[C@@H](OC(=O)C)C(=O)[C@]7([C@H]([C@H](OC(=O)c3ccccc3)[C@@](O)(C4(C)C)C5)[C@@]6(OC(=O)C)[C@H](OC6)C[C@@H]7O)C)/C
 Mitozolomide	NC(=O)c1ncn2C(=O)N(CCCl)\N=N/c12
 Ro 04-6790	Nc2ccc(cc2)S(=O)(=O)Nc1cc(NC)nc(NC)n1
-Ro60-0175	C[C@@H](Cn1ccc2c1cc(c(c2)F)Cl)N
+Ro60-0175	C[C@@H](CN1C=CC2=CC(=C(C=C21)Cl)F)N
 Delafloxacin	Fc4cc(F)c(nc4N1\C=C(\C(=O)O)C(=O)c2c1c(Cl)c(c(F)c2)N3CC(O)C3)N
 Benzyl fluoride	FCc1ccccc1
 Ro4-1539	C3CCCC1C35c2cc(O)ccc2CC1N(CC5)CCc4ccco4
@@ -22902,7 +22903,7 @@ Iso-LSD	CCN(CC)C(=O)[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Curium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Cm+3].[Cm+3]
 Ammonium picolinate	C1=CC=NC(=C1)C(=O)[O-].[NH4+]
 Ammonium cinnamate	C1=CC=C(C=C1)C=CC(=O)[O-].[NH4+]
-1-Hydroxymethyl-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CO)CC
+OML-632	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CO)CC
 4-PIOL	C1CNCCC1C2=CC(=O)NO2
 25D-NM-NDEAOP	CCN(CC)C(=O)CCN(C)CCC1=C(C=C(C(=C1)OC)C)OC
 H-151	CCC1=CC=C(C=C1)NC(=O)NC2=CNC3=CC=CC=C32
@@ -23688,3 +23689,5 @@ MGM-15	CC[C@@H]1CN2CC[C@]3([C@@H]([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C
 Milsaperidone	C[C@@H](C1=CC(=C(C=C1)OCCCN2CCC(CC2)C3=NOC4=C3C=CC(=C4)F)OC)O
 1-Dimethylaminomethyl-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CN(C)C)CC
 MLA-74	CCNC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
+ALA-10	CCNC(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C)C
+Daraxonrasib	CCN1C2=C3C=C(C=C2)C4=CSC(=N4)C[C@@H](C(=O)N5CCC[C@H](N5)C(=O)OCC(CC3=C1C6=C(N=CC(=C6)N7CCN(CC7)C)[C@H](C)OC)(C)C)NC(=O)[C@H]8C[C@@H]8C
