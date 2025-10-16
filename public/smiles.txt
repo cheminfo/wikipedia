@@ -17625,7 +17625,7 @@ Triazolate	C1=N[N-]N=C1
 Tetrachlorozincate	Cl[Zn-2](Cl)(Cl)Cl
 Canniprene	CC(=CCC1=C(C=CC(=C1O)OC)CCC2=CC(=CC(=C2)OC)O)C
 RD-162	CNC(=O)C1=C(C=C(C=C1)N2C(=S)N(C(=O)C23CCC3)C4=CC(=C(C=C4)C#N)C(F)(F)F)F
-RU-59063	CC1(C(=O)N(C(=S)N1CCCCO)C2=CC(=C(C=C2)C#N)C(F)(F)F)C
+RU-59063	N#CC1=CC=C(N2C(N(CCCCO)C(C)(C)C2=O)=S)C=C1C(F)(F)F
 Methylenebis(dibutyldithiocarbamate)	CCCCN(CCCC)C(=S)SCSC(=S)N(CCCC)CCCC
 Methyl dimethyldithiocarbamate	CN(C)C(=S)SC
 Dihydrofluoxymesterone	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@]2([C@H](C[C@]4([C@H]3CC[C@]4(C)O)C)O)F
@@ -23698,4 +23698,8 @@ SKF-39315	C1CNCCC2=CC(=C(C=C21)O)O
 7-Chlorolorcaserin	C[C@H]1CNCCC2=CC(=C(C=C12)Cl)Cl
 Santalin	COC1=CC2=C(C(=C3C(=CC4=CC(=C(C=C4O3)O)O)C2=C(C1=O)OC)CC5=CC(=C(C=C5)O)OC)C6=C(C=C(C=C6)O)OC
 Phemerazole	CC1=CC(=NN1)C2=CC=CC=C2
+Agathic acid	C/C(=C\C(=O)O)/CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C
 6-Methoxyharman	CC1=NC=CC2=C1NC3=C2C=C(C=C3)OC
+Lysergic acid tert-butylamide	CC(C)(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+AWD 52-39	CC(=O)OCCN(CCOC(=O)C)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
+LY2828360	CC1=NC2=C(C(=N1)N3CCN(CC3)C)N=C(N2C4CCOCC4)C5=CC=CC=C5Cl
