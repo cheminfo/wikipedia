@@ -6027,7 +6027,7 @@ Carbonyl cyanide m-chlorophenyl hydrazone	Clc1cc(N\N=C(/C#N)C#N)ccc1
 (+)-CPCA	Clc1ccc(cc1)[C@@H]2[C@@H](C(=O)OC)CN(C)CC2
 BOHD (drug)	COc1cc(C)c(cc1C(O)CN)OC
 BOM (drug)	COc1c(cc(cc1OC)C(CN)OC)OC
-4-Bromo-3,5-dimethoxyamphetamine	Brc1c(OC)cc(cc1OC)CC(N)C
+4-Bromo-3,5-dimethoxyamphetamine	C1=C(C(=C(C=C1CC(C)N)OC)Br)OC
 2-Bromo-4,5-methylenedioxyamphetamine	CC(Cc1cc2c(cc1Br)OCO2)N
 4-D (psychedelic)	[2H]C([2H])([2H])OC1=C(OC)C=C(CCN)C=C1OC
 Acylfulvene	O=C1C/3=C/C(=CC\3=C(/C2([C@]1(O)C)CC2)C)C
@@ -23655,7 +23655,9 @@ THAZ	C1CNCCC2=C1C(=O)NO2
 Plutonium trihydride	[PuH3]
 Epilupinine	C1CCN2CCC[C@@H]([C@H]2C1)CO
 Plutonium diboride	[Pu].[B].[B]
+Plutonium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+3].[Pu+3]
 Gabamide	C(CC(=O)N)CN
+Plutonium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+4]
 SCH-50971	C[C@H]1CNC[C@@H]1C2=CN=CN2
 BP 2.94	C[C@H](CC1=CN=CN1)N=C(C2=CC=CC=C2)C3=CC=CC=C3O
 LY-2624803	CC(C)(CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=CC=CC=C42)C(=O)O
@@ -23703,3 +23705,8 @@ Agathic acid	C/C(=C\C(=O)O)/CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C
 Lysergic acid tert-butylamide	CC(C)(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 AWD 52-39	CC(=O)OCCN(CCOC(=O)C)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 LY2828360	CC1=NC2=C(C(=N1)N3CCN(CC3)C)N=C(N2C4CCOCC4)C5=CC=CC=C5Cl
+Communic acid	CC(=CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C)C=C
+Fluoroproscaline	COC1=CC(=CC(=C1OCCCF)OC)CCN
+Cycloproscaline	COC1=CC(=CC(=C1OC2CC2)OC)CCN
+Difluoromescaline	COC1=CC(=CC(=C1OC(F)F)OC)CCN
+Trifluoroescaline	COC1=CC(=CC(=C1OCC(F)(F)F)OC)CCN
