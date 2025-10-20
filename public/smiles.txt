@@ -15407,7 +15407,7 @@ Y-320	O=C(C1=C(C)N(C2=CC=C(Cl)C=C2)N=C1)NC(C=C3)=CC(C#N)=C3N(CC4)CCC4N5CCOCC5
 Titanium(IV) nitrate	[Ti](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
 Titanium perchlorate	[Ti](O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)(O[Cl](=O)(=O)=O)O[Cl](=O)(=O)=O
 Methylphenylpiracetam	C[C@H]1[C@H](CC(=O)N1CC(=O)N)C2=CC=CC=C2
-6-Isopropyl-6-nor-lysergic acid diethylamide	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C(C)C
+IP-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C(C)C
 Vanadyl nitrate	[V](O[N+]([O-])=O)(O[N+]([O-])=O)(O[N+]([O-])=O)=O
 Caffeoylmalic acid	C1=CC(=C(C=C1C=CC(=O)OC(CC(=O)O)C(=O)O)O)O
 Vanadyl perchlorate	O=[V](OCl(=O)(=O)=O)(OCl(=O)(=O)=O)OCl(=O)(=O)=O
@@ -18609,7 +18609,7 @@ Cenobamate	C1=CC=C(C(=C1)C(CN2N=CN=N2)OC(=O)N)Cl
 Cyclohexylbenzene	C1CCC(CC1)C2=CC=CC=C2
 Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3]
 NDTDI	CCN(CC)C(=O)CCN(C)C1Cc3cccc2ncc(C1)c23
-ECPLA	CCN(C1CC1)C(=O)[C@@H]3C=C2c4cccc5ncc(C[C@H]2N(C)C3)c45
+EcPLA	CCN(C1CC1)C(=O)[C@@H]3C=C2c4cccc5ncc(C[C@H]2N(C)C3)c45
 ETFELA	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC(F)(F)F
 Cannabichromevarin	CCCC1=CC(=C2C=CC(OC2=C1)(C)CCC=C(C)C)O
 Darobactin	NCCC[C@@H]1[C@H](NC(=O)[C@H](CO)NC(=O)[C@H]2NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CC3=CNC4=C3C=CC=C4O[C@@H]2C2=CNC3=CC=C1C=C23)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
@@ -23298,7 +23298,7 @@ Dosergoside	CCCCCCCCCCCCC/C=C/[C@H]([C@H](CO)NC(=O)[C@@H]1C[C@H]2[C@@H](CC3=CNC4
 GYKI-32887	CN1CC(=C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CN(CCN=[N+]=[N-])S(=O)(=O)C
 14-Methoxy-LSD	O=C([C@@]1C=C2C3C=CC(OC)=C4C=3C(=CN4[H])C[C@@]2([H])N(C)C1)N(CC)CC
 PHENETH-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCC5=CC=CC=C5
-1P-MIPLA	CCC(=O)n1cc2c3c1cccc3C1=C[C@H](CN([C@@H]1C2)C)C(=O)N(C(C)C)C
+1P-MiPLA	CCC(=O)n1cc2c3c1cccc3C1=C[C@H](CN([C@@H]1C2)C)C(=O)N(C(C)C)C
 10,11-Seco-LSD	O=C([C@@]1C=C[C@@]([H])(CC2=CN([H])C3=CC=CC=C23)N(C)C1)N(CC)CC
 Lysergic acid propylamide	CCCNC(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3
 2-Oxo-3-hydroxy-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3(C4=C(C2=C1)C=CC=C4NC3=O)O)C
@@ -23427,11 +23427,11 @@ Naminidil	C[C@H](C(C)(C)C)N=C(NC#N)NC1=CC=C(C=C1)C#N
 P-1075	CCC(C)(C)N=C(NC#N)NC1=CN=CC=C1
 MAL-LAD	CCN(C(=O)[C@H]1CN(CC(=C)C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC
 Chrysophenine	CCOC1=CC=C(C=C1)N=NC2=CC(=C(C=C2)C=CC3=C(C=C(C=C3)N=NC4=CC=C(C=C4)OCC)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
-1cP-MIPLA	CN1C[C@@H](C=C2[C@H]1Cc1cn(c3c1c2ccc3)C(=O)C1CC1)C(=O)N(C(C)C)C
+1cP-MiPLA	CN1C[C@@H](C=C2[C@H]1Cc1cn(c3c1c2ccc3)C(=O)C1CC1)C(=O)N(C(C)C)C
 4-AcO-MALT	C=CCN(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C
 3,4,5-Trimethoxytranylcypromine	COc1cc(cc(c1OC)OC)C1CC1N
 1F-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3C=O)CC
-DIPLA	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N(C(C)C)C(C)C
+DiPLA	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N(C(C)C)C(C)C
 SPL028	[2H]C([2H])(CC1=CNC2=CC=CC=C21)N(C)C
 Zervimesine	CC(C)(C)OC1=C(C=CC(=C1)CCC(C)(C)N2CC3=C(C2)C=C(C=C3)S(=O)(=O)C)O
 Zizyberenalic acid	CC(=C)[C@@H]1CC[C@]2(C1C3CCC4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(C(=CC5(C)C)C=O)C)C)C(=O)O
@@ -23720,3 +23720,9 @@ Isobuscaline	CC(C)COC1=C(C=C(C=C1OC)CCN)OC
 Trifluoroproscaline	COC1=CC(=CC(=C1OCCC(F)(F)F)OC)CCN
 2-Bromo-TMA	COc1cc(CC(N)C)c(c(c1OC)OC)Br
 3C-TFE	CC(CC1=CC(=C(C(=C1)OC)OCC(F)(F)F)OC)N
+Ψ-2C-DFMO	NCCc1c(OC)cc(cc1OC)OC(F)F
+Ψ-DODFMO	COc1cc(OC(F)F)cc(c1CC(N)C)OC
+Bromotomscaline	NCC1Cc2c1c(Br)c(c(c2OC)OC)OC
+Bromojimscaline	NCC1CCc2c1c(Br)c(OC)c(c2OC)OC
+MBL-61	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)Br)C
+LA-Azepane	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1CCCCCC1
