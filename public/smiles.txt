@@ -3605,7 +3605,7 @@ Metolazone	O=S(=O)(c3c(Cl)cc2c(C(=O)N(c1ccccc1C)C(N2)C)c3)N
 Triethylborane	B(CC)(CC)CC
 Aluminium nitrate	[Al+3].O=[N+]([O-])[O-].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Phthalocyanine Green G	C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C3=NC4=NC(=NC5=C6C(=C([N-]5)N=C7C8=C(C(=C(C(=C8Cl)Cl)Cl)Cl)C(=N7)N=C2[N-]3)C(=C(C(=C6Cl)Cl)Cl)Cl)C9=C4C(=C(C(=C9Cl)Cl)Cl)Cl.[Cu+2]
-Ensulizole	O=S(=O)(O)c3ccc2[nH]c(c1ccccc1)nc2c3
+Phenylbenzimidazole sulfonic acid	O=S(=O)(O)c3ccc2[nH]c(c1ccccc1)nc2c3
 Propyl gallate	O=C(OCCC)c1cc(O)c(O)c(O)c1
 Mitotane	Clc1ccccc1C(c2ccc(Cl)cc2)C(Cl)Cl
 Ambrein	O[C@@]1(CCC3[C@]([C@H]1CC\C=C(/C)CC[C@@H]2C(=C)\CCCC2(C)C)(C)CCCC3(C)C)C
@@ -22907,7 +22907,7 @@ Iso-LSD	CCN(CC)C(=O)[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Curium oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Cm+3].[Cm+3]
 Ammonium picolinate	C1=CC=NC(=C1)C(=O)[O-].[NH4+]
 Ammonium cinnamate	C1=CC=C(C=C1)C=CC(=O)[O-].[NH4+]
-1-Hydroxymethyl-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CO)CC
+OML-632	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3CO)CC
 4-PIOL	C1CNCCC1C2=CC(=O)NO2
 25D-NM-NDEAOP	CCN(CC)C(=O)CCN(C)CCC1=C(C=C(C(=C1)OC)C)OC
 H-151	CCC1=CC=C(C=C1)NC(=O)NC2=CNC3=CC=CC=C32
@@ -23726,3 +23726,4 @@ Bromotomscaline	NCC1Cc2c1c(Br)c(c(c2OC)OC)OC
 Bromojimscaline	NCC1CCc2c1c(Br)c(OC)c(c2OC)OC
 MBL-61	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)Br)C
 LA-Azepane	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1CCCCCC1
+1-Methyl-2-iodo-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)I)C
