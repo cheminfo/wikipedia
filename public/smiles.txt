@@ -9025,8 +9025,8 @@ Sarmazenil	CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC=C3Cl)C
 Climazolam	ClC1=CC=CC=C1C2=NCC3=CN=C(C)N3C4=C2C=C(C=C4)Cl
 Lysergic acid 2,4-dimethylazetidide	C[C@H]1C[C@@H](N1C(=O)[C@H]2CN([C@@H]3CC4=CNC5=CC=CC(=C45)C3=C2)C)C
 Benzylbutylbarbiturate	O=C1NC(=O)NC(=O)C1(CCCC)Cc2ccccc2
-Methylisopropyllysergamide	C4N(C)C1Cc2c[nH]c(ccc3)c2c3C1=CC4C(=O)N(C)C(C)C
-Lysergic acid 2-butyl amide	CN1C[C@@H](C(N[C@H](C)CC)=O)C=C2C1CC3=CNC4=C3C2=CC=C4
+MiPLA	C4N(C)C1Cc2c[nH]c(ccc3)c2c3C1=CC4C(=O)N(C)C(C)C
+Lysergic acid 2-butylamide	CN1C[C@@H](C(N[C@H](C)CC)=O)C=C2C1CC3=CNC4=C3C2=CC=C4
 Flutemazepam	FC1=CC=CC=C1C2=NC(C(N(C)C3=C2C=C(C=C3)Cl)=O)O
 Acetic acid	CC(O)=O
 Hydrochloric acid	[OH3+].[Cl-]
@@ -12264,7 +12264,7 @@ Chloroxine	Clc1c(O)c2ncccc2c(Cl)c1
 Ex-Rad	C1=CC(=CC=C1CS(=O)(=O)/C=C/C2=CC=C(C=C2)C(=O)[O-])Cl.[Na+]
 Cycloastragenol	CC(C)(O)[C@@H]1CC[C@@](C)(O1)[C@H]3[C@@H](O)C[C@@]2(C)[C@@H]4C[C@H](O)[C@H]6[C@](C)(C)[C@@H](O)CC[C@@]65C[C@@]45CC[C@@]23C
 Lupeol	CC([C@@H]1CC[C@@]2(C)[C@@]1([H])[C@@]3([H])CC[C@]4([H])[C@@]5(C)CC[C@H](O)C(C)(C)[C@]5([H])CC[C@@]4(C)[C@]3(C)CC2)=C
-Lysergic acid 3-pentyl amide	[H][C@@]12C(C3=C4C(NC=C4C2)=CC=C3)=C[C@@H](C(NC(CC)CC)=O)CN1C
+Lysergic acid 3-pentylamide	[H][C@@]12C(C3=C4C(NC=C4C2)=CC=C3)=C[C@@H](C(NC(CC)CC)=O)CN1C
 5-OH-DPAT	Oc1cccc2c1CC[C@H](N(CCC)CCC)C2
 5-OH-DPAT	CCCN(CCC)C1CCc2c(O)cccc2C1
 2,6-Diaminopurine	Nc1nc(N)nc2c1nc[nH]2
@@ -23720,6 +23720,7 @@ Isobuscaline	CC(C)COC1=C(C=C(C=C1OC)CCN)OC
 Trifluoroproscaline	COC1=CC(=CC(=C1OCCC(F)(F)F)OC)CCN
 2-Bromo-TMA	COc1cc(CC(N)C)c(c(c1OC)OC)Br
 3C-TFE	CC(CC1=CC(=C(C(=C1)OC)OCC(F)(F)F)OC)N
+Tetrasulfane	SSSS
 Ψ-2C-DFMO	NCCc1c(OC)cc(cc1OC)OC(F)F
 Ψ-DODFMO	COc1cc(OC(F)F)cc(c1CC(N)C)OC
 Bromotomscaline	NCC1Cc2c1c(Br)c(c(c2OC)OC)OC
@@ -23727,3 +23728,5 @@ Bromojimscaline	NCC1CCc2c1c(Br)c(OC)c(c2OC)OC
 MBL-61	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)Br)C
 LA-Azepane	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1CCCCCC1
 1-Methyl-2-iodo-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)I)C
+Peptide 021	CC(C)C[C@@H](C(=O)NC12C[C@@H]3C[C@H](C1)CC(C3)(C2)C(=O)N)NC(=O)CNC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)C
+LA-MeO	COCCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC
