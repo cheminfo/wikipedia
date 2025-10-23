@@ -23727,6 +23727,10 @@ Bromotomscaline	NCC1Cc2c1c(Br)c(c(c2OC)OC)OC
 Bromojimscaline	NCC1CCc2c1c(Br)c(OC)c(c2OC)OC
 MBL-61	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)Br)C
 LA-Azepane	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N1CCCCCC1
+P-Mentha-8-thiol-3-one	CC1CCC(C(=O)C1)C(C)(C)S
 1-Methyl-2-iodo-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=C(N(C4=CC=CC(=C34)C2=C1)C)I)C
 Peptide 021	CC(C)C[C@@H](C(=O)NC12C[C@@H]3C[C@H](C1)CC(C3)(C2)C(=O)N)NC(=O)CNC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)C
 LA-MeO	COCCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC
+Adamax	O=C(N)C12CC3(NC(=O)[C@@H]4CCCN4C(=O)CNC(=O)[C@@H]4CCCN4C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)C)CCSC)CCC(O)=O)Cc4nc[NH]c4)Cc4ccccc4)CC(C1)CC(C3)C2
+4-MeO-DiPT	CC(C)N(CCC1=CNC2=C1C(=CC=C2)OC)C(C)C
+FP-LAD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CCCF
