@@ -15291,7 +15291,7 @@ Cyphostemmin B	c1cc(ccc1/C=C\2/c3cc(cc(c3[C@H]([C@@H]2c4cc(cc(c4)O)O)c5ccc(cc5)O
 Pinostilbene	COC1=CC(=CC(=C1)O)/C=C/C2=CC=C(C=C2)O
 Aspergillomarasmine A	C([C@@H](C(=O)O)NC[C@H](C(=O)O)NC[C@H](C(=O)O)N)C(=O)O
 Isopregnanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C
-Renanolone	CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(O)[C@H]3C(=O)C[C@]12C
+Renanolone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C
 Clometerone	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)CC[C@@]4([C@H]3CC[C@@]2([C@H]1C(=O)C)C)C)Cl
 Chunganenol	[H][C@@]12[C@H]([C@@H](C3=C(O)C=C4O[C@H](C5=CC=C(O)C=C5)[C@]([H])(C4=C13)C1=CC(O)=CC(O)=C1[C@@H]2C1=CC=C(O)C=C1)C1=C(CC2=C(O)C=C(C=C2O)[C@@H]2[C@H](OC3=C2C(\C=C\C2=CC=C(O)C=C2)=C2[C@@H]([C@H](OC2=C3)C2=CC=C(O)C=C2)C2=CC(O)=CC(O)=C2)C2=CC=C(O)C=C2)C(O)=CC(O)=C1)C1=CC=C(O)C=C1
 Fructose-asparagine	C1C(C(C(C(O1)(CNC(CC(=O)N)C(=O)O)O)O)O)O
@@ -23430,7 +23430,7 @@ Chrysophenine	CCOC1=CC=C(C=C1)N=NC2=CC(=C(C=C2)C=CC3=C(C=C(C=C3)N=NC4=CC=C(C=C4)
 1cP-MiPLA	CN1C[C@@H](C=C2[C@H]1Cc1cn(c3c1c2ccc3)C(=O)C1CC1)C(=O)N(C(C)C)C
 4-AcO-MALT	C=CCN(CCc1c[nH]c2c1c(ccc2)OC(=O)C)C
 3,4,5-Trimethoxytranylcypromine	COc1cc(cc(c1OC)OC)C1CC1N
-1F-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3C=O)CC
+1-Formyl-LSD	CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3C=O)CC
 DiPLA	CN1C[C@@H](C=C2[C@H]1Cc1c[nH]c3c1c2ccc3)C(=O)N(C(C)C)C(C)C
 SPL028	[2H]C([2H])(CC1=CNC2=CC=CC=C21)N(C)C
 Zervimesine	CC(C)(C)OC1=C(C=CC(=C1)CCC(C)(C)N2CC3=C(C2)C=C(C=C3)S(=O)(=O)C)O
@@ -23739,3 +23739,5 @@ UK-5099	C1=CC=C(C=C1)N2C=C(C3=CC=CC=C32)/C=C(\C#N)/C(=O)O
 Dalosirvat	C1COC2=C(O1)C=CC(=C2)C(=O)CCC(=O)C3=CC=CC=C3
 AS-601811	CC1=CC2=C(C=C1)N3CCC(=O)C(=C3CC2)C
 JXL082	CCOC(=O)/C(=C/C1=CN(C2=C1C=CC=N2)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)/C#N
+FOXO4-DRI	CC[C@@H](C)[C@H](C(=O)N[C@H](C)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CO)C(=O)N[C@H]([C@H](C)CC)C(=O)N[C@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](C)C(=O)N[C@H](CC1=CC=C(C=C1)O)C(=O)N[C@H](CO)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CC(=O)N)C(=O)NCC(=O)N[C@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@H](C)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CO)C(=O)NCC(=O)NCC(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)N4CCC[C@@H]4C(=O)N5CCC[C@@H]5C(=O)N6CCC[C@@H]6C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CO)NC(=O)[C@@H](C)NC(=O)[C@H]7CCCN7C(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]([C@H](C)O)NC(=O)[C@@H](CC(C)C)N
+1F-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5=CC=CO5)C
