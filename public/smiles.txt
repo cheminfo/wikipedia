@@ -19835,7 +19835,7 @@ Potassium pertechnetate	[K+].[O-][Tc](=O)(=O)=O
 Regonyl	CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC=CC4)C)C)C#C
 Pterorhodin	C(=C/1\C(=O)NC2=C(N1)N=C(NC2=O)N)\C3=NC4=C(C(=O)NC(=N4)N)NC3=O
 Potassium hypochromate	O=[Cr-3](=O)(=O)=O.[K+].[K+].[K+]
-N-t-Butyltryptamine	CC(C)(C)NCCC1=CNC2=CC=CC=C21
+N-tert-Butyltryptamine	CC(C)(C)NCCC1=CNC2=CC=CC=C21
 Arsenic(III) telluride	[As].[As].[Te].[Te].[Te]
 Germanium tetrabromide	[Ge](Br)(Br)(Br)Br
 Deudomperidone	[2H]C1=C(C(=C2C(=C1[2H])NC(=O)N2CCCN3CCC(CC3)N4C5=C(C=C(C=C5)Cl)NC4=O)[2H])[2H]
@@ -21427,6 +21427,7 @@ S-309309	FC1=C2[C@@]3(CC=4C(C(=O)N3)=C(NC(CS(C)(=O)=O)=O)N(N4)C5=CC=C(C)C=N5)CCO
 Vutiglabridin	CCOC1=CC(=C(C=C1)C2CC3=C(C4=C(C=C3)OC(CC4)(C)C)OC2)O
 Dapiglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@](C)(CCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC6=CNC=N6)N
 Ercanetide	C=CC[C@@]12CCCN1C(=O)CNC2=O
+MOTS-c	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)CNC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCSC)N
 JNJ-3792165	CC1=CC(=CC=C1)NC(=O)C2=NN(C(=C2)C)CC3=C(C=CC=C3Cl)Cl
 Halosulfuron-methyl	CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
 2-(2-(Dimethylamino)ethoxy)ethanol	CN(C)CCOCCO
@@ -23741,3 +23742,9 @@ AS-601811	CC1=CC2=C(C=C1)N3CCC(=O)C(=C3CC2)C
 JXL082	CCOC(=O)/C(=C/C1=CN(C2=C1C=CC=N2)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)/C#N
 FOXO4-DRI	CC[C@@H](C)[C@H](C(=O)N[C@H](C)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CO)C(=O)N[C@H]([C@H](C)CC)C(=O)N[C@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](C)C(=O)N[C@H](CC1=CC=C(C=C1)O)C(=O)N[C@H](CO)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CC(=O)N)C(=O)NCC(=O)N[C@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@H](C)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CO)C(=O)NCC(=O)NCC(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)N4CCC[C@@H]4C(=O)N5CCC[C@@H]5C(=O)N6CCC[C@@H]6C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CO)NC(=O)[C@@H](C)NC(=O)[C@H]7CCCN7C(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]([C@H](C)O)NC(=O)[C@@H](CC(C)C)N
 1F-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5=CC=CO5)C
+KPV tripeptide	CC(C)[C@@H](C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@@H]1CCCN1
+Davunetide	CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)N
+4-Methyl-5-phenyl-1,3-oxazolidine	CC1C(OCN1)C2=CC=CC=C2
+N-sec-Butyltryptamine	CCC(C)NCCC1=CNC2=CC=CC=C21
+Azelaprag	CC1=CC(=CN=C1)C2=NN=C(N2C3=C(C=CC=C3OC)OC)NS(=O)(=O)[C@@H](C)[C@H](C)C4=NC=C(C=N4)C
+AM-8123	CC1=CC(=CN=C1)C2=NN=C(N2C3=C(C=CC=C3OC)OC)NS(=O)(=O)[C@@H](C)[C@H](C4=NC=C(C=N4)C)OC(C)C
