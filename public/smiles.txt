@@ -4809,7 +4809,7 @@ MLD-41	O=C(N(CC)CC)[C@@H]3/C=C2/c4cccc1c4c(cn1C)C[C@H]2N(C3)C
 LAE-32	CCNC(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C)C2)c34
 LPD-824	O=C(N1CCCC1)[C@@H]4C=C3c5cccc2c5c(c[nH]2)C[C@H]3N(C4)C
 LSM-775	O=C(N1CCOCC1)[C@@H]5C=C4c2cccc3c2c(c[nH]3)C[C@H]4N(C)C5
-Dimethyllysergamide	O=C(N(C)C)[C@@H]3C=C2c4cccc1c4c(c[nH]1)C[C@H]2N(C3)C
+DAM-57	O=C(N(C)C)[C@@H]3C=C2c4cccc1c4c(c[nH]1)C[C@H]2N(C3)C
 Diallyllysergamide	C=CCN(CC=C)C(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C)C2)c34
 Cholane	C41CCCC[C@@]1([C@@H]3[C@H]([C@@H]2CC[C@@H]([C@@]2(C)CC3)[C@H](C)CCC)CC4)C
 Cholane	CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C
@@ -6041,7 +6041,7 @@ Dimethyl malonate	COC(=O)CC(=O)OC
 2,5-Dimethoxy-4-propylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCC)C
 3,4-Dimethoxyphenethylamine	O(c1ccc(cc1OC)CCN)C
 2,5-Dimethoxy-4-amylamphetamine	CCCCCC1=CC(OC)=C(CC(C)N)C=C1OC
-2,5-Dimethoxy-4-methylphenylcyclopropylamine	O(c1c(cc(OC)c(c1)C2CC2N)C)C
+DMCPA	O(c1c(cc(OC)c(c1)C2CC2N)C)C
 Clostebol	O=C4C(\Cl)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 DME (drug)	O(c1ccc(cc1OC)C(O)CN)C
 DMMDA	CC(N)Cc1cc(OC)c2OCOc2c1OC
@@ -8062,7 +8062,7 @@ Adipic acid dihydrazide	O=C(NN)CCCCC(=O)NN
 4-Phenylthiosemicarbazide	S=C(Nc1ccccc1)NN
 Rolofylline	CCCn1c(=O)c2[nH]c(C34CC5CC(CC(C5)C3)C4)nc2n(CCC)c1=O
 TCB-2	COc1c(Br)cc(OC)c2c1CC2CN
-2,5-Dimethoxy-4-trifluoromethylamphetamine	FC(F)(F)c1cc(OC)c(cc1OC)CC(N)C
+DOTFM	FC(F)(F)c1cc(OC)c(cc1OC)CC(N)C
 2C-YN	COc1cc(CCN)c(OC)cc1C#C
 5-Methyl-MDA	O2COc1c2cc(CC(N)C)cc1C
 25I-NBOH	Oc2ccccc2CNCCc(c(OC)cc1I)cc1OC
@@ -12310,7 +12310,6 @@ Motesanib	O=C(c2cccnc2NCc1ccncc1)Nc3ccc4c(c3)NCC4(C)C
 Tert-Butylthiol	SC(C)(C)C
 Tert-Butylphosphaacetylene	P#CC(C)(C)C
 Α-Ketovaleric acid	O=C(C(=O)O)CCC
-Bromodiphenylmethane	BrC(c1ccccc1)c2ccccc2
 Ethylaluminium sesquichloride	CC[Al](CC)Cl.CC[Al](Cl)Cl
 Ethylaluminium sesquichloride	CC[Al-]1(Cl)[Cl+][Al-]([Cl+]1)(CC)CC
 Idoxifene	CC/C(=C(/C1=CC=C(C=C1)OCCN2CCCC2)\C3=CC=C(C=C3)I)/C4=CC=CC=C4
@@ -12358,7 +12357,7 @@ Nickel(II) acetate	O=C(C)O[Ni]OC(C)=O
 Teprotide	O=C(O)[C@H]7N(C(=O)[C@H]6N(C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H]5N(C(=O)[C@@H](NC(=O)[C@H]4N(C(=O)[C@@H](NC(=O)[C@H]1NC(=O)CC1)Cc3c2ccccc2[nH]c3)CCC4)CCC/N=C(\N)N)CCC5)CCC(=O)N)[C@@H](C)CC)CCC6)CCC7
 4,4'-Methylenedianiline	c1cc(N)ccc1Cc2ccc(N)cc2
 Intravenous sodium bicarbonate	C(=O)(O)[O-].[Na+]
-Ethylisopropyllysergamide	CCN(C(C)C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+EiPLA	CCN(C(C)C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Chlormerodrin	COC(CNC(N)=O)C[Hg]Cl
 Rhoeadine	CN1CCC2=CC3=C(C=C2[C@@H]4[C@H]1C5=C([C@H](O4)OC)C6=C(C=C5)OCO6)OCO3
 Silicon tetraazide	[N-]=[N+]=N[Si](N=[N+]=[N-])(N=[N+]=[N-])N=[N+]=[N-]
@@ -12745,7 +12744,7 @@ Silicon oxynitride	N#[Si]O[Si]#N
 Sulfanyl	[SH]
 Milacemide	CCCCCNCC(N)=O
 Isoethcathinone	CCNC(C(C)=O)c1ccccc1
-1-Methylamino-1-(3,4-methylenedioxyphenyl)propane	CNC(CC)C1=CC2=C(C=C1)OCO2
+M-ALPHA	CNC(CC)C1=CC2=C(C=C1)OCO2
 AB-001	CCCCCn1cc(c2c1cccc2)C(=O)C34CC5CC(C3)CC(C5)C4
 Benzedrone	c2ccccc2CNC(C)C(=O)c(cc1)ccc1C
 4,5-DHP-DMT	CN(C)CCc1c[nH]c3ccc2OCCCc2c13
@@ -23748,3 +23747,11 @@ Davunetide	CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[
 N-sec-Butyltryptamine	CCC(C)NCCC1=CNC2=CC=CC=C21
 Azelaprag	CC1=CC(=CN=C1)C2=NN=C(N2C3=C(C=CC=C3OC)OC)NS(=O)(=O)[C@@H](C)[C@H](C)C4=NC=C(C=N4)C
 AM-8123	CC1=CC(=CN=C1)C2=NN=C(N2C3=C(C=CC=C3OC)OC)NS(=O)(=O)[C@@H](C)[C@H](C4=NC=C(C=N4)C)OC(C)C
+BMS-986224	CCOCC1=C(C(=C(C(=O)N1)C2=NN=C(O2)CC3=NC=C(C=C3)Cl)O)C4=C(C=CC=C4OC)OC
+CMF-019	CCC(CC)N1C2=C(C=C(C=C2)C(=O)N[C@@H](CC(C)C)CC(=O)O)N=C1CC3=CC=CS3
+NEtPhOH-THPI	O([H])C1C=CC=CC=1CCN1CC(C2C3C(=CC=CC=3)N([H])C=2)=CCC1
+ML221	C1=CN=C(N=C1)SCC2=CC(=O)C(=CO2)OC(=O)C3=CC=C(C=C3)[N+](=O)[O-]
+WS-23	CC(C)C(C)(C(C)C)C(=O)NC
+DODB	COc1c(Br)cc(c(c1Br)CC(N)C)OC
+2C-DB	NCCc1c(OC)cc(c(c1Br)OC)Br
+2C-B-AN	COC1=CC(=C(C=C1CCNC(C#N)C2=CC=CC=C2)OC)Br
