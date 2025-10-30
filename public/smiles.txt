@@ -6318,6 +6318,7 @@ Propynyl (drug)	COc1cc(cc(OC)c1OCC#C)CCN
 3-Methoxy-4-ethoxyphenethylamine	O(c1ccc(cc1OC)CCN)CC
 MMDA-2	O1c2cc(c(OC)cc2OC1)CC(N)C
 MMDA-3a	CC(CC1=C(C2=C(C=C1)OCO2)OC)N
+4T-MMDA-2	CC(CC1=CC2=C(C=C1OC)SCO2)N
 Methyl-MMDA-2	CC(Cc1cc2c(cc1OC)OCO2)NC
 Metaproscaline	COc1c(cc(cc1OCCC)CCN)OC
 Cefoxitin	O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)Cc3sccc3)COC(=O)N)C(=O)O
@@ -23761,3 +23762,5 @@ DOTMA	COc1c(C)c(CC(N)C)c(c(c1C)C)OC
 Desaurin	C=C1SC(=C)S1
 Trithiolane	C1CSSS1
 Trithiolane	C1SCSS1
+6-Chloro-MDA	CC(CC1=CC2=C(C=C1Cl)OCO2)N
+6-Bromo-MDMA	CC(CC1=CC2=C(C=C1Br)OCO2)NC
