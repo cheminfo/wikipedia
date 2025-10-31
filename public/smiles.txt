@@ -6585,7 +6585,7 @@ Sorbitan tristearate	CCCCCCCCCCCCCCCCCC(=O)OCC([C@@H]1[C@H]([C@@H](CO1)O)OC(=O)C
 Ractopamine	OC(c1ccc(O)cc1)CNC(C)CCc2ccc(O)cc2
 2-Cyanoguanidine	N#CNC(=N)N
 2-Cyanoguanidine	N#CN=C(N)N
-2-Cyanoguanidine	N#CNC(=[N-])[NH3+]
+2-Cyanoguanidine	N#CN=C([NH-])[NH3+]
 Thonzylamine	n1cccnc1N(CCN(C)C)Cc2ccc(OC)cc2
 Thenalidine	s1c(ccc1)CN(c2ccccc2)C3CCN(C)CC3
 Tolpropamine	c1cc(ccc1C(c2ccccc2)CCN(C)C)C
@@ -21621,7 +21621,7 @@ WAY-470	C1CCCC2=C(CC1)C3=CC=CC4=C3N2CCNC4
 2-Amino-5-chlorobenzophenone	C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)N
 Lithium hexafluorotitanate	[Li+].[Li+].F[Ti-2](F)(F)(F)(F)F
 MS-377	COCCN1CCN(CC1)C[C@H]2CCN(C2=O)C3=CC=C(C=C3)Cl
-ΒOH-2C-B	NCC(c1cc(OC)c(cc1OC)Br)O
+BOH-2C-B	NCC(c1cc(OC)c(cc1OC)Br)O
 5,7-Dihydroxy-6-methoxy-2-(4-phenoxyphenyl)chromen-4-one	COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)OC4=CC=CC=C4)O
 MRTX1133	C#CC1=C(C=CC2=CC(=CC(=C21)C3=NC=C4C(=C3F)N=C(N=C4N5CC6CCC(C5)N6)OC[C@@]78CCCN7C[C@@H](C8)F)O)F
 2F-NENDCK	CCNC1(CCCCC1=O)C2=CC=CC=C2F
@@ -23764,3 +23764,8 @@ Trithiolane	C1CSSS1
 Trithiolane	C1SCSS1
 6-Chloro-MDA	CC(CC1=CC2=C(C=C1Cl)OCO2)N
 6-Bromo-MDMA	CC(CC1=CC2=C(C=C1Br)OCO2)NC
+3C-BOH	CC(C(C1=CC2=C(C=C1)OCO2)OC)N
+2C-MMDA-3a	COC1=C(C=CC2=C1OCO2)CCN
+MTDA	CC(CC1=CC2=C(C(=C1)OC)OCCCO2)N
+N,N-Diformylmescaline	COC1=CC(=CC(=C1OC)OC)CCN(C=O)C=O
+N-Formylmescaline	COC1=CC(=CC(=C1OC)OC)CCNC=O
