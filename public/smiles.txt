@@ -7501,7 +7501,6 @@ Brostallicin	CN1C=C(C=C1C(=O)NCCN=C(N)N)NC(=O)C2=CC(=CN2C)NC(=O)C3=CC(=CN3C)NC(=
 Treosulfan	CS(=O)(=O)OC[C@@H]([C@H](COS(=O)(=O)C)O)O
 Glucic acid	O=CC(O)C=O
 MPP+	C[n+]1ccc(cc1)c2ccccc2
-CCPA (biochemistry)	Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)CO)NC4CCCC4
 Dipropylcyclopentylxanthine	CCCn3c(=O)c2nc(C1CCCC1)[nH]c2n(CCC)c3=O
 SCH-58261	c1ccccc1CCN1N=CC2=C1N=C(N)N3C2=NC(C4=CC=CO4)=N3
 Eltrombopag	CC1=NN(c2ccc(C)c(C)c2)C(=O)/C1=N\Nc1cccc(-c2cccc(C(=O)O)c2)c1O
@@ -19494,8 +19493,8 @@ Reutericyclin	C(/C=C/CCCCCCC)(=O)N1[C@H](CC(C)C)C(=O)C(C(C)=O)=C1O
 Tetravinyltin	C=C[Sn](C=C)(C=C)C=C
 2-Iodomelatonin	CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)I
 Belzutifan	CS(=O)(=O)c1ccc(Oc2cc(F)cc(C#N)c2)c2c1[C@H](O)[C@H](F)[C@@H]2F
-Sodium naphthalene	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
-Lithium naphthalene	[Li].C1=CC=C2C=CC=CC2=C1
+Sodium naphthalenide	c1ccc2=C[CH][CH-]C=c2c1.[Na+]
+Lithium naphthalenide	[Li].C1=CC=C2C=CC=CC2=C1
 Azumolene	C1C(=O)NC(=O)N1/N=C/C2=NC=C(O2)C3=CC=C(C=C3)Br
 Nirmatrelvir	CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)C(F)(F)F)C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)C
 Aclonifen	Nc1c([N+](=O)[O-])ccc(Oc2ccccc2)c1Cl
@@ -23769,3 +23768,10 @@ Trithiolane	C1SCSS1
 MTDA	CC(CC1=CC2=C(C(=C1)OC)OCCCO2)N
 N,N-Diformylmescaline	COC1=CC(=CC(=C1OC)OC)CCN(C=O)C=O
 N-Formylmescaline	COC1=CC(=CC(=C1OC)OC)CCNC=O
+Pentathiepane	C1CSSSSS1
+Pentathiepane	C1SCSSSS1
+Pentathiepane	C1SSCSSS1
+Pentathiepine	C1=CSSSSS1
+Juno (psychedelic)	COc1c(C)cc(c(c1C)CC(N)C)OC
+ADRIANA	CCN\1C2=C(C=CC(=C2)F)S/C1=C\C(=O)C
+PZKKN-94	C1CN(CCN1)C2=CC=CC3=C2CN(C3)S(=O)(=O)C4=C(C=C(C=C4)F)F
