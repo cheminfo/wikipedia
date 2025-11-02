@@ -3492,7 +3492,7 @@ Glufosinate	O=P(O)(CCC(C(=O)O)N)C
 Sodium stearate	[Na+].[O-]C(=O)CCCCCCCCCCCCCCCCC
 Sodium arsenite	[O-][As]=O.[Na+]
 Sodium dichromate	[Na+].[Na+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
-9,10-Dithioanthracene	SC1=C2C(C=CC=C2)=C(S)C3=CC=CC=C31
+Anthracene-9,10-dithiol	SC1=C2C(C=CC=C2)=C(S)C3=CC=CC=C31
 Azlocillin	O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)NCC2)[C@H]4SC3(C)C
 Tolazamide	O=S(=O)(c1ccc(cc1)C)NC(=O)NN2CCCCCC2
 Calcium propanoate	CCC(=O)[O-].CCC(=O)[O-].[Ca+2]
@@ -14187,7 +14187,7 @@ Indium acetylacetonate	CC(=CC(=O)C)O[In](OC(=CC(=O)C)C)OC(=CC(=O)C)C
 Iridium acetylacetonate	CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Ir+3]
 Silver arsenate	[O-][As](=O)([O-])[O-].[Ag+].[Ag+].[Ag+]
 4-AcO-DALT	CC(=O)Oc1cccc2c1c(c[nH]2)CCN(CC=C)CC=C
-4-HO-DSBT	CCC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)CC
+4-HO-DsBT	CCC(C)N(CCc1c[nH]c2cccc(O)c12)C(C)CC
 Silver nitrite	N(=O)[O-].[Ag+]
 6-Fluoro-AMT	NC(C)CC1=CNC2=CC(F)=CC=C21
 5-HO-DiPT	CC(C)N(CCC1=CNC2=C1C=C(C=C2)O)C(C)C
@@ -23527,7 +23527,7 @@ Rilzabrutinib	CC(C)(/C=C(\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C
 1,1'-Azobis(1,2,3,4-tetrazole)	C1=NN=NN1N=NN2C=NN=N2
 Octachlorocyclobutane	C1(C(C(C1(Cl)Cl)(Cl)Cl)(Cl)Cl)(Cl)Cl
 R-5260	CCC(=O)C(CCN1CCC2(CC1)C(=O)NCN2C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
-Ferrugine	CN1C2CCC(C1CC2)C(=O)C3=CC=CC=C3
+Ferrugine	C(=O)([C@@H]1[C@]2(N(C)[C@@](CC1)(CC2)[H])[H])C3=CC=CC=C3
 Compound 9 (opioid antagonist)	C1=CC=C(C=C1)CCNCC2=CC=C(C=C2)OC3=NC=C(C=C3)C(=O)N
 Anthranilamide	C1=CC=C(C(=C1)C(=O)N)N
 Fluorodiiodomethane	C(F)(I)I
@@ -23774,4 +23774,8 @@ Pentathiepane	C1SSCSSS1
 Pentathiepine	C1=CSSSSS1
 Juno (psychedelic)	COc1c(C)cc(c(c1C)CC(N)C)OC
 ADRIANA	CCN\1C2=C(C=CC(=C2)F)S/C1=C\C(=O)C
+Methyloxonium	C[OH2+]
 PZKKN-94	C1CN(CCN1)C2=CC=CC3=C2CN(C3)S(=O)(=O)C4=C(C=C(C=C4)F)F
+6-MAPBT	CC(CC1=CC2=C(C=C1)C=CS2)NC
+BK-5-MAPBT	CC(C(=O)C1=CC2=C(C=C1)SC=C2)NC
+AZ10419369	CC1=C2C(=O)C=C(OC2=C(C=C1)N3CCN(CC3)C)C(=O)NC4=CC=C(C=C4)N5CCOCC5
