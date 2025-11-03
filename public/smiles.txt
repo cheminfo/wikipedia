@@ -23570,6 +23570,7 @@ Dibromochlorofluoromethane	C(F)(Cl)(Br)Br
 Seclidemstat	C/C(=N\NC(=O)C1=CC(=CC=C1)S(=O)(=O)N2CCN(CC2)C)/C3=C(C=CC(=C3)Cl)O
 Clesacostat	CC(C)N1C2=C(CC3(CCN(CC3)C(=O)C4=CC(=NC(=C4)OC)C5=CC=C(C=C5)C(=O)O)CC2=O)C=N1
 Bromodifluoroiodomethane	C(F)(F)(Br)I
+Diacetonamine	CC(=O)CC(C)(C)N
 Difluoramine	N(F)F
 Fluloprazolam	CN1CCN(CC1)/C=C\2/C(=O)N3C(=N2)CN=C(C4=C3C=CC(=C4)[N+](=O)[O-])C5=CC=CC=C5F
 Bromofluorodiiodomethane	C(F)(Br)(I)I
@@ -23779,3 +23780,4 @@ PZKKN-94	C1CN(CCN1)C2=CC=CC3=C2CN(C3)S(=O)(=O)C4=C(C=C(C=C4)F)F
 6-MAPBT	CC(CC1=CC2=C(C=C1)C=CS2)NC
 BK-5-MAPBT	CC(C(=O)C1=CC2=C(C=C1)SC=C2)NC
 AZ10419369	CC1=C2C(=O)C=C(OC2=C(C=C1)N3CCN(CC3)C)C(=O)NC4=CC=C(C=C4)N5CCOCC5
+Pyr-AI	C1CCN(C1)C2CC3=CC=CC=C3C2
