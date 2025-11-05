@@ -20563,7 +20563,7 @@ Diethyl dixanthogen disulfide	S=C(SSC(=S)OCC)OCC
 2C-AL	COC1=CC(=C(C=C1CCN)OC)CC=C
 Sodium tris(carbonato)cobalt(III)	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Na+].[Na+].[Na+].[Co+3].O.O.O
 Tris(glycinato)cobalt(III)	C(C(=O)O)N.C(C(=O)O)N.C(C(=O)O)N.[Co]
-5F-MPMI	CN1CCC[C@@H]1Cc2c[nH]c3ccc(F)cc23
+5-Fluoro-MPMI	CN1CCC[C@@H]1Cc2c[nH]c3ccc(F)cc23
 Γ-Cyclodextrin	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O
 Bis(triphenylphosphineoxide) manganese(III) chloride	[Mn+3].[Cl-].[Cl-].[Cl-].O=P(c1ccccc1)(c2ccccc2)c3ccccc3.O=P(c1ccccc1)(c2ccccc2)c3ccccc3
 Hafnium(III) iodide	[I-].[I-].[I-].[Hf+3]
@@ -23783,3 +23783,8 @@ AZ10419369	CC1=C2C(=O)C=C(OC2=C(C=C1)N3CCN(CC3)C)C(=O)NC4=CC=C(C=C4)N5CCOCC5
 Pyr-AI	C1CCN(C1)C2CC3=CC=CC=C3C2
 4-HO-MBT	CCCCN(C)CCC1=CNC2=C1C(=CC=C2)O
 Diamyltryptamine	CCCCCN(CCc1c[nH]c2c1cccc2)CCCCC
+Doxecitine	O=C1N=C(N)C=CN1C2OC(CO)C(O)C2
+Doxribtimine	O=C1NC(=O)N(C=C1C)C2OC(CO)C(O)C2
+Isopropoxate	CC(C)OC(=O)C1=CN=CN1C(C)C2=CC=CC=C2
+Flutomidate	CCOC(=O)C1=CN=CN1C(C)C2=CC=C(C=C2)F
+4-MeO-DET	CCN(CC)CCC1=CNC2=C1C(=CC=C2)OC
