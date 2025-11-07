@@ -473,6 +473,7 @@ Nitromethane	C[N+](=O)[O-]
 Cypermethrin	Cl/C(Cl)=C/C3C(C(=O)OC(C#N)c2cccc(Oc1ccccc1)c2)C3(C)C
 Phenolphthalein	O=C1OC(C2=C1C=CC=C2)(C3=CC=C(C=C3)O[H])C4=CC=C(C=C4)O[H]
 Magnesium sulfate	[Mg+2].[O-]S([O-])(=O)=O
+Magnesium sulfate	[OH2+][Mg-4]([OH2+])([OH2+])([OH2+])([OH2+])[OH2+].[O-]S(=O)(=O)[O-]
 Minocycline	CN(C)c1ccc(c2c1C[C@H]3C[C@H]4[C@@H](C(=C(C(=O)[C@]4(C(=C3C2=O)O)O)C(=O)N)O)N(C)C)O
 Cyclamate	[Na+].O=S([O-])(=O)NC1CCCCC1
 Herapathite	COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O.I[I-]I.I[I-]I.I[I-]I.I[I-]I
@@ -2344,6 +2345,7 @@ Butyramide	O=C(N)CCC
 Maltitol	OC[C@H](O)[C@@H](O)[C@]([C@H](O)CO)([H])O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
 Pregabalin	CC(C)CC(CC(=O)O)CN
 Pentobarbital	O=C1NC(=O)NC(=O)C1(C(C)CCC)CC
+Oxone	OS(=O)(=O)[O-].OS(=O)(=O)O[O-].OS(=O)(=O)O[O-].[O-]S(=O)(=O)[O-].[K+].[K+].[K+].[K+].[K+]
 Methylprednisolone acetate	C[C@H]1CC2C3CC[C@@]([C@]3(C[C@@H](C2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)C)O
 Methylprednisolone succinate	C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)O)O
 Trimipramine	c1cc3c(cc1)CCc2c(cccc2)N3CC(C)CN(C)C
@@ -23793,3 +23795,8 @@ CF3-Etomidate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCC(F)(F)F
 Anhalotine	[I-].COc1c(OC)c(O)c2c(c1)CC[N+](C)(C)C2
 Butomidate	O=C(C1=CN=CN1C(C2=CC=CC=C2)C)OCCCC
 Sec-butomidate	O=C(C1=CN=CN1C(C2=CC=CC=C2)C)OC(C)CC
+Iso-butomidate	CC(n1cncc1C(=O)OCC(C)C)c1ccccc1
+2,6-Dichloro-3-fluoroetomidate	O=C(OCC)c1cncn1C(C)c1c(Cl)ccc(F)c1Cl
+CF2-Etomidate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCC(F)F
+CF3-Propoxate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCCC(F)(F)F
+2-FXPr	CCCNC2(c1ccccc1F)CCCCC2=O
