@@ -23800,3 +23800,5 @@ Iso-butomidate	CC(n1cncc1C(=O)OCC(C)C)c1ccccc1
 CF2-Etomidate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCC(F)F
 CF3-Propoxate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCCC(F)(F)F
 2-FXPr	CCCNC2(c1ccccc1F)CCCCC2=O
+Paluratide	CC[C@H](C)[C@H]1C(=O)N([C@H](C(=O)N2CC[C@H]2C(=O)N([C@H](C(=O)N(CC(=O)N[C@H](C(=O)N3CCC[C@H]3C(=O)NC4(CCCC4)C(=O)N([C@H](C(=O)N([C@@H](CC(=O)N([C@H](C(=O)N1)CC(C)C)C)C(=O)N(C)C)C)C5CCCC5)C)CCC6=CC(=C(C(=C6)F)C(F)(F)F)F)C)CC7=CC=C(C=C7)C)CC)C)C
+A-NK	O=C1CCCCC1(NCCCC#C)c1ccccc1Cl
