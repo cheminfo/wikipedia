@@ -23715,6 +23715,7 @@ Agathic acid	C/C(=C\C(=O)O)/CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C
 Lysergic acid tert-butylamide	CC(C)(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 AWD 52-39	CC(=O)OCCN(CCOC(=O)C)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 LY2828360	CC1=NC2=C(C(=N1)N3CCN(CC3)C)N=C(N2C4CCOCC4)C5=CC=CC=C5Cl
+Etripamil	CC(C)[C@](CCCN(C)CCC1=CC(=CC=C1)C(=O)OC)(C#N)C2=CC(=C(C=C2)OC)OC
 Communic acid	CC(=CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C)C=C
 Fluoroproscaline	COC1=CC(=CC(=C1OCCCF)OC)CCN
 Cycloproscaline	COC1=CC(=CC(=C1OC2CC2)OC)CCN
@@ -23809,3 +23810,7 @@ A-NK	O=C1CCCCC1(NCCCC#C)c1ccccc1Cl
 PCPEP	C1CCN(CC1)C2(CCCC2)C3=CC=CC=C3
 Chlorofluorodiiodomethane	C(F)(Cl)(I)I
 1,3-Bis(trifluoromethyl)benzene	C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F
+2CB7	COC1=CC(=C2C3=C1C(CCCC3CO2)CN)Br
+MPEP (drug)	CC(CC1=CC=CC=C1)N2CCCC2
+Β-Methyl-DOM	CC1=CC(=C(C=C1OC)C(C)C(C)N)OC
+Dimethylhomotryptamine	CN(C)CCCC1=CNC2=CC=CC=C21
