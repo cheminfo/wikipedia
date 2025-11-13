@@ -2731,6 +2731,7 @@ Palladium(II) acetate	[Pd+2].[O-]C(=O)C.[O-]C(=O)C
 Palladium(II) acetate	O0[C-](C)O[Pd+2]3(O[C-](C)O1)O[C-](C)O[Pd+2]1(O[C-](C)O2)O[C-](C)O[Pd-2]02O[C-](C)O3
 Isethionic acid	O=S(=O)(O)CCO
 Hafnium tetrachloride	Cl[Hf](Cl)(Cl)Cl
+Hafnium tetrachloride	Cl[Hf-2](Cl)(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)([Cl+]1)[Cl+][Hf-2]1(Cl)(Cl)(Cl)Cl
 Erbium(III) chloride	Cl[Er](Cl)Cl
 Gadolinium(III) chloride	Cl[Gd](Cl)Cl
 Germanium tetrachloride	Cl[Ge](Cl)(Cl)Cl
@@ -3855,6 +3856,7 @@ Hesperetin	O=C2c3c(O[C@H](c1ccc(OC)c(O)c1)C2)cc(O)cc3O
 Apigenin	O=C\1c3c(O/C(=C/1)c2ccc(O)cc2)cc(O)cc3O
 Tantalum pentoxide	O=[Ta](=O)O[Ta](=O)=O
 Zirconium(IV) chloride	Cl[Zr](Cl)(Cl)Cl
+Zirconium(IV) chloride	Cl[Zr-2](Cl)(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)([Cl+]1)[Cl+][Zr-2]1(Cl)(Cl)(Cl)Cl
 N-Ethylmaleimide	O=C1\C=C/C(=O)N1CC
 Ethephon	ClCCP(=O)(O)O
 Reversine	C1CCC(CC1)NC2=NC(=NC3=C2NC=N3)NC4=CC=C(C=C4)N5CCOCC5
@@ -5166,7 +5168,7 @@ Methapyrilene	n1ccccc1N(CCN(C)C)Cc2sccc2
 Tripelennamine	CN(C)CCN(CC1=CC=CC=C1)C2=NC=CC=C2
 Nitrendipine	O=C(OCC)\C1=C(\N/C(=C(/C(=O)OC)C1c2cccc([N+]([O-])=O)c2)C)C
 Pristanic acid	O=C(O)C(CCCC(CCCC(C)CCCC(C)C)C)C
-Ferroin	[Fe+2].[O-]S([O-])(=O)=O.n3c2c1ncccc1ccc2ccc3.n3c2c1ncccc1ccc2ccc3.n1c3c(ccc1)ccc2cccnc23
+Ferroin	c12c3[n+]4cccc3ccc2ccc[n+]1[Ru-4]456(c7cccc(c78)ccc(c78)ccc[n+]67)[n+]1cccc2ccc3ccc[n+1]5c3c12
 Sec-Butyllithium	[Li]C(C)CC
 Lumiflavin	O=C2/N=C\1/N(c3cc(c(cc3/N=C/1C(=O)N2)C)C)C
 Triphenylphosphine oxide	O=P(c1ccccc1)(c2ccccc2)c3ccccc3
@@ -5724,8 +5726,8 @@ Deuterated methanol	[2H]OC([2H])([2H])[2H]
 Deuterated THF	[2H]C1([2H])OC([2H])([2H])C([2H])([2H])C1([2H])[2H]
 Dodecacalcium hepta-aluminate	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
 8-Chlorotheophylline	Cn2c(=O)c1[nH]c(Cl)nc1n(C)c2=O
-Tris(bipyridine)ruthenium(II) chloride	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.Cl[Ru]Cl
-Tris(bipyridine)ruthenium(II) chloride	C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O.O.O.O.O.O.[Cl-].[Cl-].[Ru+2]
+Tris(bipyridine)ruthenium(II) chloride	[n+]12ccccc1c1cccc[n+1]1[Ru-4]234([n+]1ccccc1c1cccc[n+1]13)[n+]1ccccc1c1cccc[n+1]14.[Cl-].[Cl-]
+Tris(bipyridine)ruthenium(II) chloride	[n+]12ccccc1c1cccc[n+1]1[Ru-4]234([n+]1ccccc1c1cccc[n+1]13)[n+]1ccccc1c1cccc[n+1]14.O.O.O.O.O.O.[Cl-].[Cl-]
 Limonin	O=C4[C@@]6(C)[C@@]72O[C@@H]7C(=O)O[C@@H](c1ccoc1)[C@]2(C)CC[C@@H]6[C@]35COC(=O)C[C@@H]5OC([C@@H]3C4)(C)C
 Pipradrol	OC(c1ccccc1)(c2ccccc2)C3NCCCC3
 Vinconate	O=C(OC)C/1=C/CC3c2n\1c4ccccc4c2CCN3CC
@@ -18515,8 +18517,8 @@ Butyl methacrylate	CCCCOC(=O)C(=C)C
 Ethyl methacrylate	CCOC(=O)C(=C)C
 2,4-Lutidine	CC1=CC(=NC=C1)C
 3,5-Lutidine	CC1=CC(=CN=C1)C
-Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.O.O.Cl[Ru]Cl
-Cis-Dichlorobis(bipyridine)ruthenium(II)	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.O.Cl[Ru]Cl
+Cis-Dichlorobis(bipyridine)ruthenium(II)	[n+]12ccccc1c1cccc[n+1]1[Ru-4]23(Cl)(Cl)[n+]1ccccc1c1cccc[n+1]13.O.O
+Cis-Dichlorobis(bipyridine)ruthenium(II)	[n+]12ccccc1c1cccc[n+1]1[Ru-4]23(Cl)(Cl)[n+]1ccccc1c1cccc[n+1]13.O
 Cocaine reverse ester	CC(=O)O[C@H]1[C@H](CC2CCC1N2C)OC(=O)C3=CC=CC=C3
 (Terpyridine)ruthenium trichloride	c1ccnc(c1)c2cccc(n2)c3ccccn3.[Ru+3].[Cl-].[Cl-].[Cl-]
 Triflumuron	C1=CC=C(C(=C1)C(=O)NC(=O)NC2=CC=C(C=C2)OC(F)(F)F)Cl
@@ -21222,7 +21224,7 @@ TNP-470	CC(=CC[C@@H]1[C@@](O1)(C)[C@H]2[C@@H]([C@@H](CC[C@]23CO3)OC(=O)NC(=O)CCl
 Diethyl acetamidomalonate	CCOC(=O)C(C(=O)OCC)NC(=O)C
 Tetraiodoethylene	C(=C(I)I)(I)I
 Bromal hydrate	C(C(Br)(Br)Br)(O)O
-Tris(bipyridine)iron(II) chloride	C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.C1=CC=NC(=C1)C2=CC=CC=N2.[Cl-].[Cl-].[Fe+2]
+Tris(bipyridine)iron(II) chloride	[n+]12ccccc1c1cccc[n+1]1[Fe-4]234([n+]1ccccc1c1cccc[n+1]13)[n+]1ccccc1c1cccc[n+1]14.[Cl-].[Cl-]
 Dithionitronium hexafluoroarsenate	[N+](=S)=S.F[As-](F)(F)(F)(F)F
 TTFB (chemical)	C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)N=C(N2)C(F)(F)F
 Azomethane	CN=NC
@@ -23715,7 +23717,6 @@ Agathic acid	C/C(=C\C(=O)O)/CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C
 Lysergic acid tert-butylamide	CC(C)(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 AWD 52-39	CC(=O)OCCN(CCOC(=O)C)C(=O)[C@@H]1CC2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)C
 LY2828360	CC1=NC2=C(C(=N1)N3CCN(CC3)C)N=C(N2C4CCOCC4)C5=CC=CC=C5Cl
-Etripamil	CC(C)[C@](CCCN(C)CCC1=CC(=CC=C1)C(=O)OC)(C#N)C2=CC(=C(C=C2)OC)OC
 Communic acid	CC(=CC[C@H]1C(=C)CC[C@@H]2[C@@]1(CCC[C@]2(C)C(=O)O)C)C=C
 Fluoroproscaline	COC1=CC(=CC(=C1OCCCF)OC)CCN
 Cycloproscaline	COC1=CC(=CC(=C1OC2CC2)OC)CCN
@@ -23814,3 +23815,4 @@ Chlorofluorodiiodomethane	C(F)(Cl)(I)I
 MPEP (drug)	CC(CC1=CC=CC=C1)N2CCCC2
 Β-Methyl-DOM	CC1=CC(=C(C=C1OC)C(C)C(C)N)OC
 Dimethylhomotryptamine	CN(C)CCCC1=CNC2=CC=CC=C21
+Prifetrastat	COC1=CC=CC=C1S(=O)(=O)NC2=NOC3=C2C(=CC(=C3)CN4C=CC=N4)OC
