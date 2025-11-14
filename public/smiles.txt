@@ -6010,7 +6010,7 @@ Pentanal	O=CCCCC
 Trimethylamine N-oxide	C[N+](C)(C)[O-]
 Beatrice (drug)	O(c1cc(c(OC)cc1CC(NC)C)C)C
 Ariadne (drug)	O(c1cc(c(OC)cc1C[C@H](N)CC)C)C
-Α-Ethylmescaline	O(c1cc(cc(OC)c1OC)CC(N)CC)C
+Α-Ethylmescaline	COc1c(cc(cc1OC)CC(N)CC)OC
 Allylescaline	COc1cc(cc(OC)c1OCC=C)CCN
 Combretastatin	O(c1cc(cc(OC)c1OC)C(O)Cc2ccc(OC)c(O)c2)C
 Quisqualic acid	O=C1NC(=O)ON1C[C@H](N)C(=O)O
@@ -23816,3 +23816,5 @@ MPEP (drug)	CC(CC1=CC=CC=C1)N2CCCC2
 Β-Methyl-DOM	CC1=CC(=C(C=C1OC)C(C)C(C)N)OC
 Dimethylhomotryptamine	CN(C)CCCC1=CNC2=CC=CC=C21
 Prifetrastat	COC1=CC=CC=C1S(=O)(=O)NC2=NOC3=C2C(=CC(=C3)CN4C=CC=N4)OC
+Premethylenomycin C lactone	O=C1[C@]2([C@@](C(C)=C1C)(C(=O)OC2)[H])[H]
+TCTHP	C1CCC(CC1)(C2=CC=CS2)N3CCC=CC3
