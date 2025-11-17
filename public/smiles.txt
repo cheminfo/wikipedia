@@ -6048,7 +6048,7 @@ Dimethyl malonate	COC(=O)CC(=O)OC
 2,5-Dimethoxy-4-amylamphetamine	CCCCCC1=CC(OC)=C(CC(C)N)C=C1OC
 DMCPA	O(c1c(cc(OC)c(c1)C2CC2N)C)C
 Clostebol	O=C4C(\Cl)=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
-DME (drug)	O(c1ccc(cc1OC)C(O)CN)C
+DME (drug)	COc1cc(ccc1OC)C(O)CN
 DMMDA	CC(N)Cc1cc(OC)c2OCOc2c1OC
 IDNNA	Ic1cc(OC)c(cc1OC)CC(N(C)C)C
 IRIS (psychedelic)	COc1cc(C)c(cc1CC(C)N)OCC
@@ -11103,7 +11103,6 @@ Rufigallol	C1=C2C(=C(C(=C1O)O)O)C(=O)C3=CC(=C(C(=C3C2=O)O)O)O
 Spinochrome D	Oc1c(O)cc(O)c2C(=O)C(\O)=C(\O)C(=O)c12
 Spinochrome D	O=C(C1=C2C(O)=C(O)C(O)=C1O)C(O)=CC2=O
 Diethyl carbonate	O=C(OCC)OCC
-Copper ibuprofenate	c0cc(CC(C)C)ccc0C(C)[C-](O[Cu+2]123)O[Cu+2](O[C-](O1)C(C)c0ccc(CC(C)C)cc0)(O[C-](O2)C(C)c0ccc(CC(C)C)cc0)O[C-](O3)C(C)c0ccc(CC(C)C)cc0
 Spinochrome B	Oc1cc(O)c2c(c1)C(=O)C(\O)=C(\O)C2=O
 Grandinin	C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)C8(C(C(C(O8)CO)O)O)O)OC(=O)C9=CC(=C(C(=C9C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Naphthazarin	O=C\2c1c(O)ccc(O)c1C(=O)/C=C/2
@@ -23813,15 +23812,22 @@ A-NK	O=C1CCCCC1(NCCCC#C)c1ccccc1Cl
 5-MeO-IsoqT	COC1=CC2=C(C=C1)NC=C2CCN3CC4CCC3CC4
 PCPEP	C1CCN(CC1)C2(CCCC2)C3=CC=CC=C3
 Chlorofluorodiiodomethane	C(F)(Cl)(I)I
+2-Methylnonane	CCCCCCCC(C)C
 1,3-Bis(trifluoromethyl)benzene	C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F
 2CB7	COC1=CC(=C2C3=C1C(CCCC3CO2)CN)Br
 MPEP (drug)	CC(CC1=CC=CC=C1)N2CCCC2
 Β-Methyl-DOM	CC1=CC(=C(C=C1OC)C(C)C(C)N)OC
 Dimethylhomotryptamine	CN(C)CCCC1=CNC2=CC=CC=C21
 Prifetrastat	COC1=CC=CC=C1S(=O)(=O)NC2=NOC3=C2C(=CC(=C3)CN4C=CC=N4)OC
+Rm4a	N[C@@]([H])(Cc1ccccc1)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N
+Do6a	N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)NCC(=O)N
 Ugr 9-1	N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)O)C(=O)NCC(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)NCC(=O)N[C@@]([H])(CS4)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)O
 (R)-Ketoprofen	C[C@H](C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
 Premethylenomycin C lactone	O=C1[C@]2([C@@](C(C)=C1C)(C(=O)OC2)[H])[H]
 Seliforant	CC(C)CC1=NC(=CC(=N1)N2CC(C2)NC)N
 TCTHP	C1CCC(CC1)(C2=CC=CS2)N3CCC=CC3
 BOED	CCOC(c1cc(OC)c(cc1OC)C)CN
+Polonium dichloride dibromide	Br[Po](Cl)(Cl)Br
+Aluminium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Al+3]
+Aluminium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Al+3].O.O.O.O.O.O.O.O.O
+2C-B-OH	COC1=CC(=C(C=C1CCNO)OC)Br
