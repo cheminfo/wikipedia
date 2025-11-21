@@ -13449,6 +13449,7 @@ Phosphoryl bromide	O=P(Br)(Br)Br
 Dimethylsilane	C[SiH2]C
 Trimethylsilane	C[SiH](C)C
 Methylammonium chloride	C[NH3+].[Cl-]
+Diboryne	B#B
 Formetanate	O=C(Oc1cccc(\N=C\N(C)C)c1)NC
 Fluenetil	O=C(OCCF)Cc1ccc(cc1)c2ccccc2
 Formothion	O=C(N(C=O)C)CSP(=S)(OC)OC
@@ -23856,3 +23857,6 @@ Noravizafone desglycyl	C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)NC(=O)CN
 Clonazafone desglycyl	C1=CC=C(C(=C1)C(=O)C2=C(C=CC(=C2)[N+](=O)[O-])NC(=O)CN)Cl
 Quilostigmine	C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)N4CCC5=CC=CC=C5C4)C)C
 Oxazepam hemisuccinate	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)OC(=O)CCC(=O)O
+TMU4142	O[C](CNCCCN1C(=O)CC2(CCCC2)CC1=O)COc3cccc4[nH]ccc34
+Propofol hemisuccinate	CC(C)C1=C(C(=CC=C1)C(C)C)OC(=O)CCC(=O)O
+2-Imidazolidinone	O=C1NCCN1
