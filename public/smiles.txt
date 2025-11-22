@@ -5943,6 +5943,9 @@ Dextrothyroxine	O=C(O)[C@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2
 S-Nitroso-N-acetylpenicillamine	O=C(N[C@@H](C(=O)O)C(SN=O)(C)C)C
 Hydroxyprogesterone caproate	O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@](OC(=O)CCCCC)(C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 3C-BZ	CC(N)Cc2cc(OC)c(OCc1ccccc1)c(c2)OC
+2C-G-3	COC1=C2CCCC2=C(C(=C1)CCN)OC
+2C-G-4	COC1=C2CCCCC2=C(C(=C1)CCN)OC
+2C-G-N	COC1=CC(=C(C2=CC=CC=C21)OC)CCN
 3,4-Methylenedioxy-N-propylamphetamine	CC(NCCC)Cc1ccc2OCOc2c1
 Calcium formate	[Ca+2].[O-]C=O.[O-]C=O
 Tributyltin hydride	CCCC[SnH](CCCC)CCCC
@@ -23860,3 +23863,9 @@ Oxazepam hemisuccinate	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)OC(=O)CCC(=O)O
 TMU4142	O[C](CNCCCN1C(=O)CC2(CCCC2)CC1=O)COc3cccc4[nH]ccc34
 Propofol hemisuccinate	CC(C)C1=C(C(=CC=C1)C(C)C)OC(=O)CCC(=O)O
 2-Imidazolidinone	O=C1NCCN1
+Sevabertinib	COC1=C(C=CC=C1Cl)NC2=C(NC3=C2C(=O)NCC3)C4=C(C=NC=C4)OC[C@@H]5COCCO5
+Pannarin	CC1=CC(=C(C2=C1OC3=C(C(=C(C(=C3C(=O)O2)C)Cl)O)C=O)C)OC
+3,4,5-Trimethoxyphenoxyethylamine	COC1=CC(=CC(=C1OC)OC)OCCN
+Daporinad	C1CN(CCC1CCCCNC(=O)/C=C/C2=CN=CC=C2)C(=O)C3=CC=CC=C3
+Padnarsertib	C1CN(CCC1(F)F)C(=O)C2=CC=C(C=C2)C3=CC(=C4C(=C3)C=C(O4)CNC(=O)/C=C/C5=CN=C(C=C5)N)C6=CC=C(C=C6)F
+GR-103545	OC(/C=C/C(O)=O)=O.ClC(C=C1CC(N2[C@@H](CN(CC2)C(OC)=O)CN3CCCC3)=O)=C(C=C1)Cl
