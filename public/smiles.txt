@@ -736,7 +736,7 @@ Janus Green B	CCN(CC)C1=CC2=[N+](C3=C(C=CC(=C3)N=NC4=CC=C(C=C4)N(C)C)N=C2C=C1)C5
 Doxapram	O=C4N(CC)CC(CCN1CCOCC1)C4(c2ccccc2)c3ccccc3
 Lithium aluminium hydride	[Li+].[AlH4-]
 Zinc oxide	[Zn]=O
-Fluorescein	c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
+Fluorescein	C12C=CC([O-])=CC=1OC3=CC(=O)C=CC3=C2c4ccccc4C(O)=O
 Iodide	[I-]
 Venlafaxine	OC2(C(c1ccc(OC)cc1)CN(C)C)CCCCC2
 Sodium hydride	[H-].[Na+]
@@ -4865,7 +4865,7 @@ Cytochalasin D	C[C@H]1C/C=C/[C@H]2[C@@H](C(=C)[C@H]([C@@H]3[C@@]2([C@@H](/C=C/[C
 Acecainide	CCN(CC)CCNC(=O)C1=CC=C(C=C1)NC(=O)C
 2,8-Dihydroxyadenine	O=C2N/C/1=N/C(=O)N\C(=C\1N2)N
 Phosphoribosyl pyrophosphate	O=P(O[C@H]1O[C@@H]([C@@H](O)[C@H]1O)COP(=O)(O)O)(O)OP(=O)(O)O
-6-Carboxyfluorescein	c1cc2c(cc1C(=O)O)C3(c4ccc(cc4Oc5c3ccc(c5)O)O)OC2=O
+6-Carboxyfluorescein	C12C=CC(=O)C=C1Oc3cc(O)ccc3C=2c4cc(C(O)=O)ccc4C(O)=O
 Calcein	c1ccc2c(c1)C(=O)OC23c4cc(c(cc4Oc5c3cc(c(c5)O)CN(CC(=O)O)CC(=O)O)O)CN(CC(=O)O)CC(=O)O
 Bisbenzimide	CCOc1ccc(cc1)c2[nH]c3cc(ccc3n2)c4[nH]c5cc(ccc5n4)N6CCN(CC6)C
 Triiron dodecacarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Fe].[Fe].[Fe]
@@ -22436,7 +22436,7 @@ Pelabresib	CC1=NOC2=C1C3=CC=CC=C3C(=N[C@H]2CC(=O)N)C4=CC=C(C=C4)Cl.O
 Ammonium dicyanoaurate	[C-]#N.[C-]#N.[NH4+].[Au+]
 Alloxydim	CCC/C(=N\OCC=C)/C1=C(C(C(CC1=O)(C)C)C(=O)OC)O
 Danitracen	CN1CCC(=C2C3=CC=CC=C3C(C4=CC=CC=C42)O)CC1
-RMC-9805	O=C(N1CCC[C@@H]2N1)[C@H](C[C@@H](C3)OCCN3C4=CC5=C(N(CC(F)(F)F)[C@]([C@]6=C([C@H](C)OC)N=CC(N7CCN(C8CC8)CC7)=C6)=C5CC(C)(C)COC2=O)C=C4)NC([C@@H](N9C[C@]%10(CN(C([C@@H]%11N(C)[C@@H]%11C%12CC%12)=O)CC%10)CC9)C%13CCCC%13)=O
+Zoldonrasib	O=C(N1CCC[C@@H]2N1)[C@H](C[C@@H](C3)OCCN3C4=CC5=C(N(CC(F)(F)F)[C@]([C@]6=C([C@H](C)OC)N=CC(N7CCN(C8CC8)CC7)=C6)=C5CC(C)(C)COC2=O)C=C4)NC([C@@H](N9C[C@]%10(CN(C([C@@H]%11N(C)[C@@H]%11C%12CC%12)=O)CC%10)CC9)C%13CCCC%13)=O
 Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
@@ -23869,3 +23869,7 @@ Pannarin	CC1=CC(=C(C2=C1OC3=C(C(=C(C(=C3C(=O)O2)C)Cl)O)C=O)C)OC
 Daporinad	C1CN(CCC1CCCCNC(=O)/C=C/C2=CN=CC=C2)C(=O)C3=CC=CC=C3
 Padnarsertib	C1CN(CCC1(F)F)C(=O)C2=CC=C(C=C2)C3=CC(=C4C(=C3)C=C(O4)CNC(=O)/C=C/C5=CN=C(C=C5)N)C6=CC=C(C=C6)F
 GR-103545	OC(/C=C/C(O)=O)=O.ClC(C=C1CC(N2[C@@H](CN(CC2)C(OC)=O)CN3CCCC3)=O)=C(C=C1)Cl
+JGB-1-155	CC(C)C1(CCOC(C1)(C)C)CCN(CC2=CC=C(C=C2)N(C)C)C(=O)C3=CC=CO3
+Myricanol	COC1=C2C=C(CCCC[C@H](CCC3=CC2=C(C=C3)O)O)C(=C1OC)O
+SBI-797812	C1CC2CN(CC1O2)S(=O)(=O)C3=CC=C(C=C3)NC(=O)NCC4=CC=NC=C4
+C8 (NAMPT activator)	C1=CC(=CC=C1NC(=O)NCC2=CC=NC=C2)S(=O)(=O)NCC3=C(C=CC(=C3)F)F
