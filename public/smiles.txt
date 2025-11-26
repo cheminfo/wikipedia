@@ -23487,6 +23487,7 @@ Cycloheptyne	C1CCC#CCC1
 Thioformamide	C(=S)N
 Luvometinib	CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(N=C2C4=CC(=CC=C4)NS(=O)(=O)C5CC5)C6CC6
 2C-T-22	COC1=CC(=C(C=C1CCN)OC)SCC(F)(F)F
+2C-T-25	CC(C)CSC1=C(C=C(C(=C1)OC)CCN)OC
 2C-T-30	COC1=CC(=C(C=C1CCN)OC)SCCCCF
 Cyclononyne	C1CCCC#CCCC1
 Cyclodecyne	C1CCCCC#CCCC1
@@ -23884,6 +23885,10 @@ IPALT	CC(C)N(CCC1=CNC2=CC=CC=C21)CC=C
 Α-Propyltryptamine	CCCC(CC1=CNC2=CC=CC=C21)N
 1-Methyl-DMT	CN1C=C(C2=CC=CC=C21)CCN(C)C
 Propylallyltryptamine	CCCN(CCC1=CNC2=CC=CC=C21)CC=C
+Triuranium heptoxide	[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[U+4].[U+5].[U+5]
 Tetrauranium nonaoxide	[O].[O].[O].[O].[O].[O].[O].[O].[O].[U].[U].[U].[U]
 2-Chloromescaline	NCCc1cc(OC)c(c(c1Cl)OC)OC
 2,6-Dibromomescaline	COC1=C(C(=C(C(=C1OC)Br)CCN)Br)OC
+2,6-Dichloromescaline	NCCc1c(Cl)c(OC)c(c(c1Cl)OC)OC
+Cyclobutrifluram	C1C[C@H]([C@H]1C2=C(C=C(C=C2)Cl)Cl)NC(=O)C3=C(N=CC=C3)C(F)(F)F
+Cyclohexyl hydroperoxide	C1CCC(CC1)OO
