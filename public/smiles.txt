@@ -23815,6 +23815,8 @@ Pyr-AI	C1CCN(C1)C2CC3=CC=CC=C3C2
 Diamyltryptamine	CCCCCN(CCc1c[nH]c2c1cccc2)CCCCC
 Isopropoxate	CC(C)OC(=O)C1=CN=CN1C(C)C2=CC=CC=C2
 Flutomidate	CCOC(=O)C1=CN=CN1C(C)C2=CC=C(C=C2)F
+Charmian (drug)	CC1=CC(=C(C=C1OC)CC(C)(C)N)OC
+Florence (drug)	CCOc1cc(C)c(cc1CC(N)C)OC
 4-MeO-DET	CCN(CC)CCC1=CNC2=C1C(=CC=C2)OC
 6-Hydroxy-DET	CCN(CC)CCC1=CNC2=C1C=CC(=C2)O
 CF3-Etomidate	CC(C1=CC=CC=C1)N2C=NC=C2C(=O)OCC(F)(F)F
@@ -23892,3 +23894,13 @@ Tetrauranium nonaoxide	[O].[O].[O].[O].[O].[O].[O].[O].[O].[U].[U].[U].[U]
 2,6-Dichloromescaline	NCCc1c(Cl)c(OC)c(c(c1Cl)OC)OC
 Cyclobutrifluram	C1C[C@H]([C@H]1C2=C(C=C(C=C2)Cl)Cl)NC(=O)C3=C(N=CC=C3)C(F)(F)F
 Cyclohexyl hydroperoxide	C1CCC(CC1)OO
+2-Methylmescaline	CC1=C(C(=C(C=C1CCN)OC)OC)OC
+2,6-Dimethylmescaline	NCCc1c(C)c(OC)c(c(c1C)OC)OC
+2-Iodomescaline	COC1=C(C(=C(C(=C1)CCN)I)OC)OC
+DOB-5-hemiFLY	CC(CC1=C2CCOC2=C(C=C1OC)Br)N
+DOH-5-hemiFLY	CC(CC1=C(C=CC2=C1CCO2)OC)N
+Dehydrobufotenine	C[N+]1(CCC2=CNC3=C2C1=C(C=C3)[O-])C
+Iodocubane	C12C3C4C1C5C2C3C45I
+4-HO-NET	CCNCCC1=CNC2=C1C(=CC=C2)O
+4-HO-NPT	CCCNCCC1=CNC2=C1C(=CC=C2)O
+2CB-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)Br
