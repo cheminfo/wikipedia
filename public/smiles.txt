@@ -168,7 +168,6 @@ Sorbitol	OC([C@H](O)[C@@H](O)[C@H](O)CO)CO
 Galactose	O[C@H]1[C@@H](O)[C@H](O[C@H](O)[C@@H]1O)CO
 Ammonium perchlorate	[O-]Cl(=O)(=O)=O.[NH4+]
 Perchloric acid	O[Cl+3]([O-])([O-])[O-]
-Mercury(II) fulminate	[O-][N+]#C[Hg]C#[N+][O-]
 Pentaerythritol	OCC(CO)(CO)CO
 Tetryl	CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
 HMX	C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
@@ -15143,6 +15142,7 @@ Isobutylidenediurea	CC(C)C(NC(=O)N)NC(=O)N
 Potassium selenate	[K+].[K+].[O-][Se]([O-])(=O)=O
 Strontium barium niobate	[O-][Nb](=O)=O.[O-][Nb](=O)=O.[O-][Nb](=O)=O.[O-][Nb](=O)=O.[Sr+2].[Ba+2]
 Retronecine	C1CN2CC=C([C@@H]2[C@@H]1O)CO
+Enramycin	CCC(C)CCCC/C=C/C=C/C(=O)NC(CC(=O)O)C(=O)NC1C(OC(=O)C(NC(=O)C(NC(=O)C(NC(=O)NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)N(C(=O)C(NC1=O)C2=CC=C(C=C2)O)CCCCN)C(C)O)C3=CC=C(C=C3)O)C4=CC=C(C=C4)O)C(C)O)CCCNC(=O)N)CC5CNC(=N5)N)C6=CC=C(C=C6)O)CO)C7=CC(=C(C(=C7)Cl)O)Cl)CC8CNC(=N8)N)C)C9=CC=C(C=C9)O)C.O
 JNJ-26489112	NS(=O)(=O)NC[C@H]1COC2=C(O1)C=CC(Cl)=C2
 4,4'-Dimethylaminorex	CC(N=C(N)O1)C1C2=CC=C(C)C=C2
 Vanillylamine	Oc1ccc(cc1OC)CN
@@ -22807,6 +22807,8 @@ Procysteine	C1[C@H](NC(=O)S1)C(=O)O
 BRINP2-related peptide	CC[C@H](C)[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)[C@@H](C)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CS)C(N)=O
 IL-4-inhibitor-1	C1=CC(=CC=C1C2=NC(=C(C(=C2)C3=CC(=C(C=C3)O)O)C#N)N)F
 R-7050	C1=CC=C(C=C1)SC2=NC3=C(C=C(C=C3)Cl)N4C2=NN=C4C(F)(F)F
+G-3 (drug)	CC(CC1=CC(=C2CCCC2=C1OC)OC)N
+G-5 (drug)	CC(CC1=CC(=C2C3CCC(C3)C2=C1OC)OC)N
 1,2,4-Dithiazolidine-3,5-dione	C1(=O)NC(=O)SS1
 6-Fluorotryptamine	C1=CC2=C(C=C1F)NC=C2CCN
 2C-Bu	CCCCC1=CC(=C(C=C1OC)CCN)OC
@@ -22875,6 +22877,8 @@ Ammonium tetrachloroaurate	[NH4+].O.Cl[Au-](Cl)(Cl)Cl
 2-Aminobenzothiazole	C1=CC=C2C(=C1)N=C(S2)N
 2-Methyltryptamine	CC1=C(C2=CC=CC=C2N1)CCN
 Pentacarbonyl(tetrahydrofuran)tungsten	O1CCCC1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[W]
+G-4 (drug)	CC(CC1=CC(=C2CCCCC2=C1OC)OC)N
+G-N (drug)	CC(CC1=C(C2=CC=CC=C2C(=C1)OC)OC)N
 Benzscaline	COC1=CC(=CC(=C1OCC2=CC=CC=C2)OC)CCN
 5-Allyloxy-AMT	C=CCOc1ccc2c(c1)c(c[nH]2)CC(N)C
 Ammonium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[NH4+]
@@ -23899,8 +23903,10 @@ Cyclohexyl hydroperoxide	C1CCC(CC1)OO
 2-Iodomescaline	COC1=C(C(=C(C(=C1)CCN)I)OC)OC
 DOB-5-hemiFLY	CC(CC1=C2CCOC2=C(C=C1OC)Br)N
 DOH-5-hemiFLY	CC(CC1=C(C=CC2=C1CCO2)OC)N
+Plutonium(III) oxide	[O-2].[O-2].[O-2].[Pu+3].[Pu+3]
 Dehydrobufotenine	C[N+]1(CCC2=CNC3=C2C1=C(C=C3)[O-])C
 Iodocubane	C12C3C4C1C5C2C3C45I
 4-HO-NET	CCNCCC1=CNC2=C1C(=CC=C2)O
 4-HO-NPT	CCCNCCC1=CNC2=C1C(=CC=C2)O
 2CB-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)Br
+Fadolmidine	C1=CC=C(C=C1)CC(=O)NC2=CC=C(C=C2)NC3=C4C=CC=CC4=NC5=CC=CC=C53
