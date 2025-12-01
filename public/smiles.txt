@@ -8075,7 +8075,7 @@ Meconic acid	C1=C(OC(=C(O)O)C(=O)C1=O)C(=O)O
 Adipic acid dihydrazide	O=C(NN)CCCCC(=O)NN
 4-Phenylthiosemicarbazide	S=C(Nc1ccccc1)NN
 Rolofylline	CCCn1c(=O)c2[nH]c(C34CC5CC(CC(C5)C3)C4)nc2n(CCC)c1=O
-TCB-2	COc1c(Br)cc(OC)c2c1CC2CN
+TCB-2	COC1=CC(=C(C2=C1C(C2)CN)OC)Br
 DOTFM	FC(F)(F)c1cc(OC)c(cc1OC)CC(N)C
 2C-YN	COc1cc(CCN)c(OC)cc1C#C
 5-Methyl-MDA	O2COc1c2cc(CC(N)C)cc1C
@@ -23640,10 +23640,12 @@ DBI33-50	C[C@H]([C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@
 Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CCCN(C)CCOC)C(C)C
 Cyclobutylamine	C1CC(C1)N
 Cyclopentylamine	C1CCC(C1)N
+N4-Acetylcytidine	CC(=O)NC1=NC(=O)N(C=C1)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
 Potassium trifluoromethanesulfonate	C(F)(F)(F)S(=O)(=O)[O-].[K+]
 Dicaesium hexachloroplutonate	[Cs+].[Cs+].Cl[Pu-2](Cl)(Cl)(Cl)(Cl)Cl
 Hexachloroplutonate	Cl[Pu-2](Cl)(Cl)(Cl)(Cl)Cl
 Perfluorodecanesulfonic acid	C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F
+EA-1699	CCOP(C)(=O)SCCN(C)C
 Plutonium tetrachloride	[Cl-].[Cl-].[Cl-].[Cl-].[Pu+4]
 Neptunium tetraiodide	[I-].[I-].[I-].[I-].[Np+4]
 CYM50769	COC1=CC=C(C=C1)OC2=C(C=NN(C2=O)C3C4=CC=CC=C4C5=CC=CC=C35)Cl
