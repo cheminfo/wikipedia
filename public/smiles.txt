@@ -20399,7 +20399,7 @@ Thulium(II) fluoride	[F-].[F-].[Tm+2]
 Ruthenium(III) fluoride	F[Ru](F)F
 Europium(III) arsenate	[O-][As](=O)([O-])[O-].[Eu+3]
 Dysprosium(III) bromide	[Br-].[Br-].[Br-].[Dy+3]
-Protactinium(V) iodide	F[Pa](F)(F)(F)F
+Protactinium(V) iodide	I[Pa](I)(I)(I)I
 ISAM-140	CC1=C(C(N2C3=CC=CC=C3N=C2N1)C4=CC=CO4)C(=O)OC(C)C
 Tricarbonylchloroglycinatoruthenium(II)	[C-]#[O+].[C-]#[O+].[C-]#[O+].C(C(=O)O)N.Cl[Ru]
 Dichlororuthenium tricarbonyl dimer	O#C[Ru+2]1([Cl-])(C#O)(C#O)[Cl-][Ru+2]([Cl-])(C#O)(C#O)(C#O)[Cl-]1
@@ -23922,3 +23922,4 @@ Isocycloseram	CCN1C(=O)[C@@H](CO1)NC(=O)C2=C(C=C(C=C2)C3=NO[C@@](C3)(C4=CC(=C(C(
 7-Hydroxy-DMT	CN(C)CCC1=CNC2=C1C=CC=C2O
 TB-500	C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)C)O
 Goralatide	CC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)O
+Z2876442907	CCOC(=O)C1=CN=C(S1)CNCCC2=CNC3=CC=CC(=C32)C
