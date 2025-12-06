@@ -13237,6 +13237,7 @@ Asunaprevir	CC(C)(C)[C@@H](C(=O)N1C[C@@H](C[C@H]1C(=O)N[C@@]2(C[C@H]2C=C)C(=O)NS
 Menabitan	CCCCCC(C)C(C)C1=CC2=C(C3=C(CCN(C3)CC#C)C(O2)(C)C)C(=C1)OC(=O)C(C)CCN4CCCCC4C
 Gastrol	C1=CC(=CC=C1CC2=C(C=CC(=C2)COCC3=CC=C(C=C3)O)O)O
 Gastrodigenin	C1=CC(=CC=C1CO)O
+Mechano growth factor	C[C@H]([C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CO)NC(=O)[C@@H]2CCCN2C(=O)[C@@H]3CCCN3C(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC4=CC=C(C=C4)O)N)O
 Cypionic acid	O=C(O)CCC1CCCC1
 Tetrahydrocorticosterone	C[C@]12C[C@H](O)[C@H]3[C@@H](CC[C@@H]4C[C@H](O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO
 GRN-529	O=C(N1CC(C=CC=N2)=C2C1)C3=CC(C#CC4=CC=CC=N4)=C(OC(F)F)C=C3
@@ -23921,6 +23922,8 @@ Isocycloseram	CCN1C(=O)[C@@H](CO1)NC(=O)C2=C(C=C(C=C2)C3=NO[C@@](C3)(C4=CC(=C(C(
 2,3,6-Trimethoxyphenethylamine	COC1=C(C(=C(C=C1)OC)OC)CCN
 7-Hydroxy-DMT	CN(C)CCC1=CNC2=C1C=CC=C2O
 TB-500	C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)C)O
-Goralatide	CC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)O
+Ac-SDKP	CC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)O
 Z2876442907	CCOC(=O)C1=CN=C(S1)CNCCC2=CNC3=CC=CC(=C32)C
 Link-N	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC2=CN=CN2)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC3=CC=C(C=C3)O)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CN=CN4)NC(=O)[C@H](CC(=O)O)N
+Cartalax	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)O)N
+Decapaptide-12	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC5=CC=C(C=C5)O)N
