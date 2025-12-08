@@ -1811,6 +1811,7 @@ Behentrimonium chloride	[Cl-].C(CCCC[N+](C)(C)C)CCCCCCCCCCCCCCCCC
 Ajoene	O=S(C/C=C/SSC/C=C)C\C=C
 Ketorolac	O=C(c1ccc2n1CCC2C(=O)O)c3ccccc3
 Perfluoro(2-methyl-3-pentanone)	FC(F)(F)C(F)(C(=O)C(F)(F)C(F)(F)F)C(F)(F)F
+Kryptonium	[KrH+]
 Erythorbic acid	OC=1[C@H](OC(=O)C=1O)[C@H](O)CO
 Cyanuric acid	Oc1nc(O)nc(O)n1
 Cyanuric acid	O=C1NC(=O)NC(=O)N1
@@ -13259,7 +13260,6 @@ Drinabant	Fc1cc(cc(F)c1)N(C4CN(C(c2ccc(Cl)cc2)c3ccc(Cl)cc3)C4)S(=O)(=O)C
 Naloxegol	COCCOCCOCCOCCOCCOCCOCCO[C@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC=C)O)O
 Nafoxadol	O1CC4OC1(c3cc2ccccc2cc3)CNC4
 Methade	CN(C(CC(CCC)(C1=CC=CC=C1)C2=CC=CC=C2)C)C
-Kryptonium ion	[KrH+]
 Xenonium	[XeH+]
 Bicyclo(2.2.1)heptane-2-carbonitrile	N#CC2CC1CCC2C1
 Bis(chloromethyl) ketone	ClCC(=O)CCl
@@ -23934,3 +23934,7 @@ Conantokin G	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C(=O)O)C(=
 McN-5908	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC=C(C=C4)N
 Ozopromide	C1CCNC(=O)C(C1)NC(=O)C2CCCN2
 Licoflavone C	CC(=CCC1=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC=C(C=C3)O)C
+McN-5292	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC=C(C=C4)Cl
+PE 22-28	OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CN)C(C)C)CO)Cc1c[NH]c2ccccc21)CCCCN)CCCNC(N)=N
+14-Hydroxycodeine	CN1CC[C@]23[C@@H]4[C@H](C=C[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O)O
+Livagen	C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCCN)N
