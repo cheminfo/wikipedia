@@ -23223,6 +23223,7 @@ Maleamic acid	C(=C\C(=O)O)\C(=O)N
 THC methylcarbonate	COC(=O)Oc1cc(CCCCC)cc2OC(C)(C)[C@@H]3CCC(C)=C[C@H]3c21
 Citenamide	C1=CC=C2C(C3=CC=CC=C3C=CC2=C1)C(=O)N
 Dazucorilant	C1CN(C[C@@]2(C1=CC3=C(C2)C=NN3C4=CC=C(C=C4)F)C(=O)C5=CC=CC=N5)S(=O)(=O)C6=CC=C(C=C6)C(F)(F)F
+Ribocil	CNC1=NC=C(C=N1)CN2CCCC(C2)C3=NC(=CC(=O)N3)C4=CC=CS4
 AW-15'1129	C1CN2C(NC3=CC=CC=C3C2=N1)C4=CC=C(C=C4)Cl
 Ro07-3953	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=C(C=CC=C3F)F
 Spirodecanone	C1CNCCC12C(=O)NCN2C3=CC=CC=C3
@@ -23861,7 +23862,6 @@ Premethylenomycin C lactone	O=C1[C@@]2([C@](C(C)=C1C)(C(=O)OC2)[H])[H]
 Seliforant	CC(C)CC1=NC(=CC(=N1)N2CC(C2)NC)N
 TCTHP	C1CCC(CC1)(C2=CC=CS2)N3CCC=CC3
 BOED	CCOC(c1cc(OC)c(cc1OC)C)CN
-Polonium dichloride dibromide	Br[Po](Cl)(Cl)Br
 Aluminium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Al+3]
 Aluminium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Al+3].O.O.O.O.O.O.O.O.O
 1-Methylpiperidine	CN1CCCCC1
@@ -23920,6 +23920,8 @@ Fadolmidine	C1=CC=C(C=C1)CC(=O)NC2=CC=C(C=C2)NC3=C4C=CC=CC4=NC5=CC=CC=C53
 Isocycloseram	CCN1C(=O)[C@@H](CO1)NC(=O)C2=C(C=C(C=C2)C3=NO[C@@](C3)(C4=CC(=C(C(=C4)Cl)F)Cl)C(F)(F)F)C
 2,3,5-Trimethoxyphenethylamine	COC1=CC(=C(C(=C1)OC)OC)CCN
 2,3,6-Trimethoxyphenethylamine	COC1=C(C(=C(C=C1)OC)OC)CCN
+Guanine radical cation	C1=[NH+]C2=C(N1)C(=O)NC(=N2)N
+Erogorgiaene	C[C@H]1CC[C@@H](C2=C1C=CC(=C2)C)[C@@H](C)CCC=C(C)C
 7-Hydroxy-DMT	CN(C)CCC1=CNC2=C1C=CC=C2O
 TB-500	C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)C)O
 Ac-SDKP	CC(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)O
@@ -23936,5 +23938,7 @@ Ozopromide	C1CCNC(=O)C(C1)NC(=O)C2CCCN2
 Licoflavone C	CC(=CCC1=C2C(=C(C=C1O)O)C(=O)C=C(O2)C3=CC=C(C=C3)O)C
 McN-5292	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC=C(C=C4)Cl
 PE 22-28	OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CN)C(C)C)CO)Cc1c[NH]c2ccccc21)CCCCN)CCCNC(N)=N
+AQW-051	CC1=CC=C(C=C1)C2=NC=C(C=C2)O[C@H]3CN4CCC3CC4
 14-Hydroxycodeine	CN1CC[C@]23[C@@H]4[C@H](C=C[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O)O
 Livagen	C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCCN)N
+Cortagen	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O)O)N
