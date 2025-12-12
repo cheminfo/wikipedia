@@ -18066,6 +18066,7 @@ Tetramethylphosphonium bromide	C[P+](C)(C)C.[Br-]
 Bis-oxadiazole	[O-][N+](=O)OCC1=NC(=NO1)C1=NOC(CO[N+]([O-])=O)=N1
 Tert-Butyldimethylsilyl chloride	CC(C)(C)[Si](C)(C)Cl
 Amenamevir	Cc1cccc(C)c1N(CC(=O)Nc1ccc(-c2ncon2)cc1)C(=O)C1CCS(=O)(=O)CC1
+Evocalcet	C[C@H](C1=CC=CC2=CC=CC=C21)N[C@H]3CCN(C3)C4=CC=C(C=C4)CC(=O)O
 Fosravuconazole	C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@@](Cn1cncn1)(OCOP(=O)(O)O)c1ccc(F)cc1F
 Carbonyl selenide	[Se]=C=O
 TBPO	CC(C)(C)C12COP(=O)(OC1)OC2
@@ -23913,6 +23914,7 @@ DOH-5-hemiFLY	CC(CC1=C(C=CC2=C1CCO2)OC)N
 Plutonium(III) oxide	[O-2].[O-2].[O-2].[Pu+3].[Pu+3]
 Dehydrobufotenine	C[N+]1(CCC2=CNC3=C2C1=C(C=C3)[O-])C
 Iodocubane	C12C3C4C1C5C2C3C45I
+Ribose aminooxazoline	C(C1C(C2C(O1)N=C(O2)N)O)O
 4-HO-NET	CCNCCC1=CNC2=C1C(=CC=C2)O
 4-HO-NPT	CCCNCCC1=CNC2=C1C(=CC=C2)O
 2CB-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)Br
