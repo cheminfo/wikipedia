@@ -9065,6 +9065,7 @@ Penthienate	CC[N+](C)(CC)CCOC(=O)C(C1CCCC1)(C2=CC=CS2)O
 Oxyphenonium bromide	OC(C(=O)OCC[N+](C)(CC)CC)(c1ccccc1)C2CCCCC2.[Br-]
 Benzilone	O=C(OC1CC[N+](CC)(CC)C1)C(O)(c2ccccc2)c3ccccc3
 Cimetropium bromide	C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@@H](CO)C4=CC=CC=C4)CC5CC5.[Br-]
+Fentonium bromide	C[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)CC(=O)C4=CC=C(C=C4)C5=CC=CC=C5.[Br-]
 Methylatropine	C[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C
 Chebulagic acid	C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O
 Alpine borane	CC4(C)[C@@H]1C[C@H]4[C@@H](C)[C@@H](C1)B3C2CCCC3CCC2
@@ -23949,3 +23950,9 @@ Cortagen	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O
 Triphenylmethyl hydroperoxide	C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OO
 McN-5558	C1C[C@@H]2C3=CC=CC=C3[C@@H](CN2C1)C4=CC(=CC=C4)C(F)(F)F
 Hypostictic acid	CC1=CC(=C(C2=C1C(=O)OC3=C(O2)C4=C(C(=C3C)O)C(=O)OC4O)C)OC
+Indanol	OC1CCc2ccccc21
+Indanol	OC1Cc2ccccc2C1
+Indanol	Oc1cccc2c1CCC2
+Indanol	Oc1ccc2c(c1)CCC2
+Perlatolic acid	CCCCC1=C(C(=CC(=C1)OC)O)C(=O)OC2=CC(=C(C(=C2)O)C(=O)O)CCCCC
+Hydrindane	C1CCC2CCCC2C1
