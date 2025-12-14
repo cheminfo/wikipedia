@@ -3660,6 +3660,8 @@ Fluoroacetic acid	FCC(O)=O
 Magnesium aluminide	[Mg].[Mg].[Al].[Al].[Al]
 Magnesium aluminide	[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Mg].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al].[Al]
 Titanium aluminide	[Al].[Ti]
+Titanium aluminide	[Al].[Ti].[Ti].[Ti]
+Titanium aluminide	[Al].[Al].[Al].[Ti]
 Strontium fluoride	[Sr+2].[F-].[F-]
 Potassium hydride	[H-].[K+]
 Boron tribromide	BrB(Br)Br
@@ -23632,6 +23634,7 @@ Kenazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCNC(=O)CBr
 UBCS385	c1cc(Cl)cc2c1NC(=N2)SC(c1ccccc1)C(=O)NC1=NC=C(S1)S(=O)(=O)c1ccc([N+](=O)[O+])cc1
 ADTL-SA1215	CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCCN4CCCC4)I
 2-APQC	CCCCCNC(=O)C1=C(N(C2=NC3=CC=CC=C3N=C12)CC4=CC=C(C=C4)F)N
+Bromodichloroiodomethane	ClC(Cl)(Br)I
 Dibromochloroiodomethane	40809-93-6
 MC3482	C1=CC=C(C=C1)COC(=O)N[C@@H](CCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)OCC2=CC=CC=C2)C(=O)NC3=CC=CC=C3
 MC3138	CCOC(=O)C1=CN(C=C(C1C2=CC(=CC=C2)OC)C(=O)OCC)C(=O)C3=CC=CC=C3
@@ -23956,3 +23959,5 @@ Indanol	Oc1cccc2c1CCC2
 Indanol	Oc1ccc2c(c1)CCC2
 Perlatolic acid	CCCCC1=C(C(=CC(=C1)OC)O)C(=O)OC2=CC(=C(C(=C2)O)C(=O)O)CCCCC
 Hydrindane	C1CCC2CCCC2C1
+Methionine sulfone	CS(=O)(=O)CC[C@@H](C(=O)O)N
+2-Methylserine	CC(CO)(C(=O)O)N
