@@ -8670,6 +8670,7 @@ Tranilast	COC1=C(C=C(C=C1)C=CC(=O)NC2=CC=CC=C2C(=O)O)OC
 EA-3167	C1CCC(C1)C(C2=CC=CC=C2)(C(=O)OC3CN4CCC3CC4)O
 Vesnarinone	COC1=C(C=C(C=C1)C(=O)N2CCN(CC2)C3=CC4=C(C=C3)NC(=O)CC4)OC
 Mozavaptan	Cc1ccccc1C(=O)Nc2ccc(cc2)C(=O)N3c4ccccc4C(CCC3)N(C)C
+Haematin	CC1C2CC3NC(CC4C(=C(C([N-]4)CC5NC(CC(C1CCC(=O)O)[N-]2)C(=C5C)CCC(=O)O)C)C=C)C(=C3C=C)C.[OH-].[Fe+3]
 Methanesulfonic acid	O=S(=O)(O)C
 Methanesulfonic anhydride	O=S(=O)(OS(=O)(=O)C)C
 Dimethylphenylpiperazinium	C[N+]1(CCN(CC1)C2=CC=CC=C2)C
@@ -23959,5 +23960,8 @@ Indanol	Oc1cccc2c1CCC2
 Indanol	Oc1ccc2c(c1)CCC2
 Perlatolic acid	CCCCC1=C(C(=CC(=C1)OC)O)C(=O)OC2=CC(=C(C(=C2)O)C(=O)O)CCCCC
 Hydrindane	C1CCC2CCCC2C1
+4-Methylacetophenone	CC1=CC=C(C=C1)C(=O)C
 Methionine sulfone	CS(=O)(=O)CC[C@@H](C(=O)O)N
 2-Methylserine	CC(CO)(C(=O)O)N
+Methyl heptanoate	CCCCCCC(=O)OC
+Β-U10	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=CC=CC=C3C=C2
