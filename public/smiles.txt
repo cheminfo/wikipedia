@@ -1571,7 +1571,6 @@ Diethyl ether peroxide	CC(OCC)OO
 Caesium fluoride	[F-].[Cs+]
 Methylmercury	C[Hg+]
 Mucic acid	[C@@H]([C@@H]([C@H](C(=O)O)O)O)([C@@H](C(=O)O)O)O
-Cisplatin	[NH3+][Pt+2](Cl)(Cl)[NH3+]
 Pyrene	c1cc2cccc3c2c4c1cccc4cc3
 Obidoxime	c1c(cc[n+](c1)COC[n+]2ccc(cc2)/C=N\O)/C=N\O
 Biricodar	O=C(C(=O)c1cc(OC)c(OC)c(OC)c1)N4[C@H](C(=O)OC(CCCc2cccnc2)CCCc3cccnc3)CCCC4
@@ -17641,8 +17640,6 @@ Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo+2][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C([C@@H](C(=O)O)N)[Te]
-Transplatin	N.N.[Pt+2].[Cl-].[Cl-]
-Transplatin	Cl[Pt-2](Cl)([NH3+])[NH3+]
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
@@ -21355,6 +21352,7 @@ Imlunestrant	C1C(CN1CCOC2=CC=C(C=C2)[C@@H]3C4=C5C=CC(=CC5=NC=C4C6=C(O3)C=C(C=C6)
 (2.2)Paracyclophane	C=1C=C2C=CC1CCC3=CC=C(C=C3)CC2
 THQ-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)N3CCCC4=CC=CC=C43
 4-Methylbenzyltrimethylammonium hydroxide	[OH-].C=1C=C(C=CC1C)C[N+](C)(C)C
+Fosigotifator	C1CC2(CCC1(C[C@@H]2OCOP(=O)(O)O)NC(=O)COC3=CC(=C(C=C3)Cl)F)NC(=O)COC4=CC(=C(C=C4)Cl)F
 Tetraethynylmethane	C#CC(C#C)(C#C)C#C
 MDMB-5'Br-BUTINACA	CCCCN1C2=C(C=C(C=C2)Br)C(=N1)C(=O)N[C@H](C(=O)OC)C(C)(C)C
 ADB-5'Br-BUTINACA	NC(=O)[C@@H](NC(=O)c1nn(CCCC)c2ccc(Br)cc21)C(C)(C)C
@@ -23963,5 +23961,8 @@ Hydrindane	C1CCC2CCCC2C1
 4-Methylacetophenone	CC1=CC=C(C=C1)C(=O)C
 Methionine sulfone	CS(=O)(=O)CC[C@@H](C(=O)O)N
 2-Methylserine	CC(CO)(C(=O)O)N
+2-Methylserine	C[C@](CO)(C(=O)O)N
 Methyl heptanoate	CCCCCCC(=O)OC
+Ifupinostat	CNC1=NC=C(C=C1)C2=NC3=C(C(=N2)N4CCOCC4)SC(=C3)CN(C)C5=NC=C(C=N5)C(=O)NO
+Onradivir	C1CC2CCC1[C@@H]([C@H]2NC3=NC(=NC(=C3F)C4CC4)C5=C6C=C(C=NC6=NN5)F)C(=O)O
 Β-U10	CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)C2=CC3=CC=CC=C3C=C2
