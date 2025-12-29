@@ -23996,3 +23996,6 @@ Rogocekib	CC1=NC2=C(N1CC3=NN=C(O3)[C@@H](C)F)C=C(C=N2)C4=C5C(=NC=NN5C=C4)OC
 Diphenyl telluride	C1=CC=C(C=C1)[Te]C2=CC=CC=C2
 Tertomotide	CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCN)C(=O)O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)N
 THPC (drug)	CCN(CC)C(=O)C1=CCCN(C1)C
+Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)[O-])/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+Yingzhaosu A	C[C@@H]1CC[C@H]2C[C@@H]1OO[C@]2(C)/C=C/[C@@H](C(C)(C)O)O
