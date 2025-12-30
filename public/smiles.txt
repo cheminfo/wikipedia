@@ -12935,7 +12935,7 @@ Monoctanoin	O=C(OCC(O)CO)CCCCCCC
 IBNtxA	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CC6CC6)[C@H]([C@@H]1NC(=O)C7=CC(=CC=C7)I)OC5=C(C=C4)O)O
 OSU-6162	CCCN1CCC[C@H](C1)C2=CC(=CC=C2)S(=O)(=O)C
 Nitrosoprodenafil	CCCc1c2c(c(nc(n2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)Oc5ncc(s5)N(C)N=O)n(n1)C
-Technetium (99mTc) mebrofenin	CC1=CC(=C(C(=C1NC(=O)CN(CC(=O)O)CC(=O)O)C)Br)C.[99Tc]
+Technetium (99mTc) mebrofenin	Cc3c(Br)c(C)cc(C)c3NC(=O)CN(CC(=O)O1)CC(=O)O[99Tc-]12OC(=O)CN(CC(=O)O2)CC(=O)Nc4c(C)cc(C)c(Br)c4C
 RU-28306	c13c(C2)cccc1[nH]cc3CC2N(C)C
 Diethylethanolamine	CCN(CC)CCO
 Trans-1,3,3,3-Tetrafluoropropene	F[C@H]=CC(F)(F)F
@@ -15543,7 +15543,6 @@ Americium(IV) fluoride	[F-].[F-].[F-].[F-].[Am+4]
 Americium(III) fluoride	F[Am](F)F
 Americium(III) bromide	[Br-].[Br-].[Br-].[Am+3]
 Americium(III) iodide	[I-].[I-].[I-].[Am+3]
-Americium(II) bromide	[Br-].[Br-].[Am+2]
 Americium(II) iodide	[I-].[I-].[Am+2]
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
@@ -21868,6 +21867,7 @@ Perruthenate	[O-][Ru](=O)(=O)=O
 Pseudodillapiole	COC1=C(C2=C(C(=C1)CC=C)OCO2)OC
 Acetamidine hydrochloride	Cl.N=C(N)C
 Coerulescine	O=C2Nc1c(cccc1)C23CN(CC3)C
+LM11A-31	CC[C@H](C)[C@@H](C(=O)NCCN1CCOCC1)N
 Lead(II) phthalocyanine	C1=CC=C2C(=C1)C3=NC4=C5C=CC=CC5=C6N4[Pb]N7C(=NC2=N3)C8=CC=CC=C8C7=NC9=NC(=N6)C1=CC=CC=C19
 CDD-2807	O=C(N1CC2(C1)CNCCC2)c1cc2c([NH]nc2C#Cc2ccccc2c2ccccc2)cc1
 Phosphine oxide	[O-][PH3+]
@@ -23999,3 +23999,5 @@ THPC (drug)	CCN(CC)C(=O)C1=CCCN(C1)C
 Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)[O-])/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Yingzhaosu A	C[C@@H]1CC[C@H]2C[C@@H]1OO[C@]2(C)/C=C/[C@@H](C(C)(C)O)O
+Alizarin cyanine R	C1=C(C2=C(C(=C1O)O)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O)O
+Imidazole propionate	C1=C(NC=N1)CCC(=O)O
