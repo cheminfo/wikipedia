@@ -19053,6 +19053,7 @@ Aluminium monohydroxide	[Al]O
 Nangibotide	C[C@@H](C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)NCC(=O)N[C@@H](CS)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)N
 1,1,1,3,3,3-Hexachloropropane	C(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl
 1,2-Dichloro-1,1,2-trifluoroethane	C(C(F)(F)Cl)(F)Cl
+M2613	c1ccccc1C(Br)=C(c1ccc(OC)cc1)c1ccc(OCC)cc1
 Desmethylchlorotrianisene	OC1=CC=C(/C(C2=CC=C(OC)C=C2)=C(Cl)/C3=CC=C(OC)C=C3)C=C1
 Nitrosyl cyanide	C(#N)N=O
 Terbium(IV) fluoride	[F-].[F-].[Tb+4].[F-].[F-]
@@ -23999,5 +24000,8 @@ THPC (drug)	CCN(CC)C(=O)C1=CCCN(C1)C
 Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Glucoberteroin	CSCCCCC/C(=N\OS(=O)(=O)[O-])/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
 Yingzhaosu A	C[C@@H]1CC[C@H]2C[C@@H]1OO[C@]2(C)/C=C/[C@@H](C(C)(C)O)O
+Pigment Red 122	CC1=CC2=C(C=C1)NC3=CC4=C(C=C3C2=O)NC5=C(C4=O)C=C(C=C5)C
+Disperse Yellow 56	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N=NC3=C(C4=CC=CC=C4NC3=O)O
 Alizarin cyanine R	C1=C(C2=C(C(=C1O)O)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O)O
 Imidazole propionate	C1=C(NC=N1)CCC(=O)O
+Butodesnitazene	CCN(CC)CCn1c(nc2ccccc12)Cc1ccc(OCCCC)cc1
