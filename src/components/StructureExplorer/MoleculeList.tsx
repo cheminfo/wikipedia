@@ -4,11 +4,11 @@ import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { MdClose } from 'react-icons/md';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { FixedSizeGrid as Grid } from 'react-window';
-import useResizeObserver from 'use-resize-observer';
 
 import { useDataContext } from '../../contexts/data_context.js';
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
 import type { ExtendedWikipediaMolecule } from '../../hooks/fetch_data.js';
+import { useResizeObserver } from '../../hooks/use_resize_observer.js';
 import SimpleTable from '../SimpleTable.js';
 
 import { MoleculeInfo } from './MoleculeInfo.js';
@@ -20,7 +20,7 @@ interface FilterProps {
 
 interface MoleculesProps {
   molecules: ExtendedWikipediaMolecule[];
-  gridRef: RefObject<Grid>;
+  gridRef: RefObject<Grid | null>;
 }
 
 interface CellProps {
@@ -127,10 +127,8 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
         : 3,
     );
 
-  // @ts-expect-error use-resize-observer types are wrong.
-  const { ref } = useResizeObserver<HTMLDivElement>({
-    onResize: handleResize,
-  });
+  const [ref, size] = useResizeObserver();
+  useEffect(handleResize, [size]);
 
   function getRowCount(molLen: number) {
     if (molLen % colItemsCount === 0) {

@@ -11,6 +11,7 @@ jobs:
     # Documentation: https://github.com/zakodium/workflows#nodejs-ci
     uses: zakodium/workflows/.github/workflows/nodejs.yml@nodejs-v1
     with:
-      node-version-matrix: '[22]'
+      node-version-matrix: '[24]'
       lint-check-types: true
       upload-coverage: false
+      disable-test-package: true
