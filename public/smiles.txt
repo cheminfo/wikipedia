@@ -8004,8 +8004,8 @@ Temocapril	CCOC(=O)[C@H](CCc1ccccc1)NC2CS[C@@H](CN(C2=O)CC(=O)O)c3cccs3
 Baicalin	O=C3\C=C(/Oc2cc(O[C@@H]1O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]1O)c(O)c(O)c23)c4ccccc4
 Tris(2-aminoethyl)amine	NCCN(CCN)CCN
 Eupatilin	O=C\1c3c(O)c(OC)c(O)cc3O/C(=C/1)c2ccc(OC)c(OC)c2
-Technetium (99mTc) exametazime	CC1(C)CN2[Tc]3(N4C1)([N](O[H]O[N]3=C(C)[C@H]4C)=C(C)[C@H]2C)=O
-Technetium (99mTc) exametazime	CC1(C)CN2[Tc]3(N4C1)([N](O[H]O[N]3=C(C)[C@@H]4C)=C(C)[C@@H]2C)=O
+Technetium (99mTc) exametazime	CC1(C)CN2[Tc-]3(N4C1)([N+](O[H-]O[N+]3=C(C)[C@H]4C)=C(C)[C@H]2C)=O
+Technetium (99mTc) exametazime	CC1(C)CN2[Tc-]3(N4C1)([N+](O[H-]O[N+]3=C(C)[C@@H]4C)=C(C)[C@@H]2C)=O
 Chloromorphide	Cl[C@H]2\C=C/[C@H]5[C@@H]4N(CC[C@@]51c3c(O[C@H]12)c(O)ccc3C4)C
 IC-26	CCS(=O)(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2
 14-Methoxymetopon	C[C@]12C(=O)CC[C@@]3([C@]14CCN([C@@H]3CC5=C4C(=C(C=C5)O)O2)C)OC
@@ -9646,6 +9646,7 @@ SB-216641	CN(C)CCOc1cc(ccc1OC)NC(=O)c3ccc(cc3)-c2ccc(cc2C)-c4noc(C)n4
 SeHCAT	C[C@H](C[75Se]CC(NCCS(O)(=O)=O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@@]21C
 OSI-7904	CC1=NC2=C(C3=C(C=CC(=C3)CNC4=CC5=C(C=C4)C(=O)N(C5)[C@@H](CCC(=O)O)C(=O)O)C=C2)C(=O)N1
 Dichloro(cycloocta-1,5-diene)platinum(II)	Cl[Pt]Cl.C\1=C\CC/C=C\CC/1
+Technetium (99mTc) tetrofosmin	CCOCC[P+]1(CCOCC)CC[P+](CCOCC)(CCOCC)[99Tc-4]12([P+](CCOCC)(CCOCC)CC[P+]2(CCOCC)CCOCC)(=O)=O
 Hydroxymetronidazole	C1=C(N(C(=N1)CO)CCO)[N+](=O)[O-]
 Zirconocene dichloride	[cH-]1cccc1.[cH-]1cccc1.[Cl-].[Cl-].[Zr+4]
 Sodium cyclopentadienide	[Na+].c1[cH-]ccc1
@@ -14838,7 +14839,7 @@ Sodium metatungstate	O.[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O
 Prostaglandin E3	CC/C=C\C[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O)O
 5-Androstenedione	C[C@]12CC[C@H]3[C@@H](CC=C4CC(=O)CC[C@]34C)[C@@H]1CCC2=O
 Eprobemide	C1COCCN1CCCNC(=O)C2=CC=C(C=C2)Cl
-Technetium (99mTc) etarfolatide	C1=CC(=CC=C1C(=O)N[C@H](CCC(=O)NC[C@@H](C(=O)[N-][C@@H](CC(=O)O)C(=O)[N-][C@@H](C[S-])C(=O)O)[NH-])C(=O)O)NCC2=CN=C3C(=N2)C(=O)N=C(N3)N.O=[99Tc+4]
+Technetium (99mTc) etarfolatide	n1c2C(=O)NC(N)=Nc2ncc1CNc(cc3)ccc3C(=O)N[C@@H](C(=O)O)CCC(=O)NC[C@H]([N+H2]4)C(=O)N5[C@@H](CC(=O)O)C(=O)N6[C@H](C(=O)O)CS[99Tc-]456=O
 FlAsH-EDT2	c1ccc(c(c1)c2c3ccc(c(c3oc-4c(c(=O)ccc24)[As]5SCCS5)[As]6SCCS6)O)C(=O)O
 Potassium tris(3,5-dimethyl-1-pyrazolyl)borate	[BH-](n1c(cc(n1)C)C)(n2c(cc(n2)C)C)n3c(cc(n3)C)C.[K+]
 Urolithin A	Oc1ccc2c3ccc(O)cc3OC(=O)c2c1
@@ -20676,7 +20677,7 @@ Lanthanum laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[La]
 4-Iodobenzoic acid	C1=CC(=CC=C1C(=O)O)I
 Sulfur dicyanide	C(#N)SC#N
 Aluminium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Al+3]
-Technetium (99mTc) mertiatide	C(C(=NCC(=O)[O-])[O-])N=C(CN=C(C[S-])[O-])[O-].O=[99Tc+3].[Na+].[Na+]
+Technetium (99mTc) mertiatide	[Na+].O1C(=O)CN2C(=O)CN3C(=O)CN4C(=O)CS[99Tc-2]1234=O.[Na+]
 Magnesium laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Mg+2]
 Fipravirimat	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4(CC=C(C5(C)C)C6=CC[C@@](CC6)(CF)C(=O)O)C)C)NCCN7CCS(=O)(=O)CC7
 Razpipadon	CC1=C(C=CC(=C1)OC2=C(C=CC=N2)OC(F)F)C3=C(C(=O)NC(=O)N3C)C
@@ -24004,4 +24005,10 @@ Pigment Red 122	CC1=CC2=C(C=C1)NC3=CC4=C(C=C3C2=O)NC5=C(C4=O)C=C(C=C5)C
 Disperse Yellow 56	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N=NC3=C(C4=CC=CC=C4NC3=O)O
 Alizarin cyanine R	C1=C(C2=C(C(=C1O)O)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O)O
 Imidazole propionate	C1=C(NC=N1)CCC(=O)O
+Methanesulfonamide	CS(=O)(=O)N
 Butodesnitazene	CCN(CC)CCn1c(nc2ccccc12)Cc1ccc(OCCCC)cc1
+Isotodesnitazene	CCN(CC)CCN1C2=CC=CC=C2N=C1CC3=CC=C(C=C3)OC(C)C
+MR-2034	CC1[C@H]2CC3=C([C@@]1(CCN2C[C@H]4CCCO4)C)C=C(C=C3)O
+Dimethyl peroxide	COOC
+Dehydrozingerone	CC(=O)/C=C/C1=CC(=C(C=C1)O)OC
+P7C3-A20	COC1=CC=CC(=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)F
