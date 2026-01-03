@@ -6093,7 +6093,7 @@ Syn-Propanethial-S-oxide	O=S=C/CC
 Ribose 5-phosphate	C([C@H]([C@H]([C@H](C=O)O)O)O)OP(=O)(O)O
 Xylulose 5-phosphate	[O-]P([O-])(=O)OC[C@@H](O)[C@H](O)C(=O)CO
 Sedoheptulose 7-phosphate	O=P(O)(OC[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO)O
-Erythrose 4-phosphate	[O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O
+Erythrose 4-phosphate	O=C[C@H](O)[C@H](O)COP(=O)(O)O
 6-Phosphogluconolactone	O=C1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H](O)[C@H]1O
 Chlorobutanol	ClC(Cl)(Cl)C(C)(C)O
 Thiophosphoryl chloride	P(=S)(Cl)(Cl)Cl
@@ -21033,6 +21033,7 @@ Tin(II) acetate	CC(=O)[O-].CC(=O)[O-].[Sn+2]
 Tin(II) acetate	CC(=O)O.CC(=O)O.CC(=O)[O-].CC(=O)[O-].[Sn+2]
 Barium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Ba+2]
 Rhenium trioxide fluoride	O=[Re](=O)(=O)F
+Rhenium trioxide fluoride	O0[Re-]9(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]01(=O)(=O)[F+]9
 Rhenium dioxide trifluoride	O=[Re](F)(F)(F)=O
 Manganese trioxide fluoride	O=[Mn](F)(=O)=O
 Hexachlorodisiloxane	O([Si](Cl)(Cl)Cl)[Si](Cl)(Cl)Cl
@@ -24032,3 +24033,7 @@ CTOP	CC(C1C(=O)NC(C(SSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CC2=CNC3=CC=CC=C32
 2,4,6-TMPEA-NBOMe	COc1cc(OC)c(c(c1)OC)CCNCc1ccccc1OC
 4-AcO-EPT	CCCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
 5-MeO-MsBT	CCC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC
+7-Aminoflunitrazepam	CN1C(=O)CN=C(C2=C1C=CC(=C2)N)C3=CC=CC=C3F
+B115	CN1CCC(=CC1)/C=C/C2=CC=CC3=CC=CC=C32
+Serratenediol	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC[C@H]4C(=CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C2)(CC[C@@H](C3(C)C)O)C
+4-AcO-EiPT	CCN(CCC1=CNC2=C1C(=CC=C2)OC(=O)C)C(C)C
