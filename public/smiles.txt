@@ -2554,6 +2554,7 @@ Stiripentol	O1c2ccc(cc2OC1)/C=C/C(O)C(C)(C)C
 Aziridine	C1CN1
 Plutonium(IV) oxide	[O-2].[O-2].[Pu+4]
 Tantalum(V) chloride	Cl[Ta](Cl)(Cl)(Cl)Cl
+Tantalum(V) chloride	Cl[Ta-]1(Cl)(Cl)(Cl)[Cl+][Ta-]([Cl+]1)(Cl)(Cl)(Cl)Cl
 Voriconazole	Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C
 TATB	c1(c(c(c(c(c1[N+](=O)[O-])N)[N+](=O)[O-])N)[N+](=O)[O-])N
 Octafluoropropane	FC(F)(F)C(F)(F)C(F)(F)F
@@ -4461,6 +4462,7 @@ Strontium nitrate	[Sr+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Foscarnet	O=C(O)P(=O)(O)O
 Trioxidane	OOO
 Tantalum(V) fluoride	F[Ta](F)(F)(F)F
+Tantalum(V) fluoride	F[Ta-]0(F)(F)(F)[F+][Ta-](F)(F)(F)(F)[F+][Ta-](F)(F)(F)(F)[F+][Ta-](F)(F)(F)([F+]0)F
 Terbium(III) bromide	[Br-].[Br-].[Br-].[Tb+3]
 Terbium(III) chloride	Cl[Tb](Cl)Cl
 Thallium(I) bromide	Br[Tl]
@@ -4571,6 +4573,7 @@ Phenibut	O=C(O)CC(c1ccccc1)CN
 Tantalum(IV) sulfide	S=[Ta]=S
 Tantalum trialuminide	[Al].[Al].[Al].[Ta]
 Tantalum(V) bromide	Br[Ta](Br)(Br)(Br)Br
+Tantalum(V) bromide	Br[Ta-]1(Br)(Br)(Br)[Br+][Ta-]([Br+]1)(Br)(Br)(Br)Br
 Tantalum nitride	N#[Ta]
 Terbium(III) iodide	I[Tb](I)I
 Terbium(III) oxide	[O-2].[O-2].[O-2].[Tb+3].[Tb+3]
@@ -9813,6 +9816,8 @@ Silver bromate	[Ag+].[O-]Br(=O)=O
 Pimavanserin	CC(C)COc3ccc(cc3)CNC(=O)N(C(CC2)CCN2C)Cc(cc1)ccc1F
 Bisulepin	CN(C)CC\C=C1\c2ccsc2SCc2ccccc12
 Niobium(V) bromide	[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]
+Niobium(V) bromide	Br[Nb](Br)(Br)(Br)Br
+Niobium(V) bromide	Br[Nb-]1(Br)(Br)(Br)[Br+][Nb-]([Br+]1)(Br)(Br)(Br)Br
 Α-Methylserotonin	c2cc(O)cc1c2[nH]cc1CC(N)C
 Silver selenite	[Ag+].[Ag+].[O-][Se]([O-])=O
 CB-13	c13ccccc1cccc3C(=O)c4ccc(OCCCCC)c2ccccc24
@@ -14802,7 +14807,7 @@ Trimethylsilyl cyclopentadiene	C[Si](C)(C)C1C=CC=C1
 Karstedt's catalyst	C[Si](C)(C=C)O[Si](C)(C)C=C.[Pt]
 2-Acetylfuran	CC(=O)C1=CC=CO1
 Tris(acetonitrile)cyclopentadienylruthenium hexafluorophosphate	CC#N.CC#N.CC#N.C1=C[CH]C=C1.F[P-](F)(F)(F)(F)F.[Ru+]
-Potassium octachlorodirhenate	[K+].[K+].Cl[Re-2](Cl)(Cl)(Cl)$[Re-2](Cl)(Cl)(Cl)Cl
+Potassium octachlorodirhenate	[K+].[K+].Cl[Re-](Cl)(Cl)(Cl)$[Re-](Cl)(Cl)(Cl)Cl
 Chlorobis(dppe)iron hydride	Cl[FeH-4]56([P+](c1ccccc1)(c2ccccc2)CC[P+]5(c3ccccc3)c4ccccc4)[P+](c1ccccc1)(c2ccccc2)CC[P+]6(c3ccccc3)c4ccccc4
 Inotodiol	C[C@@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)[C@@H](CC=C(C)C)O
 Hispolon	CC(=O)C=C(C=CC1=CC(=C(C=C1)O)O)O
@@ -15752,8 +15757,10 @@ Elbasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]cc(n2)c3ccc4c(c3)cc-5n4[C@@H](Oc6c5cc
 Hafnium tetrabromide	Br[Hf](Br)(Br)Br
 Sedanolide	CCCCC1C2CCCC=C2C(=O)O1
 AI-10-49	FC(F)(F)OC1=CC2=C(C=C1)NC(C(C=C3)=NC=C3OCCOCCOC(C=C4)=CN=C4C5=NC6=CC(OC(F)(F)F)=CC=C6N5)=N2
-Tantalum(V) iodide	[I-].[I-].[I-].[I-].[I-].[Ta+5]
+Tantalum(V) iodide	I[Ta](I)(I)(I)I
+Tantalum(V) iodide	I[Ta-]1(I)(I)(I)[I+][Ta-]([I+]1)(I)(I)(I)I
 Niobium pentaiodide	[Nb](I)(I)(I)(I)I
+Niobium pentaiodide	I[Nb-](I)(I)(I)([I+]1)[I+][Nb-]1(I)(I)(I)I
 THJ-2201	c1ccc2c(c1)cccc2C(=O)c3c4ccccc4n(n3)CCCCCF
 Perillyl alcohol	CC(=C)C1CCC(=CC1)CO
 Binimetinib	Cn1cnc2c(F)c(Nc3ccc(Br)cc3F)c(C(=O)NOCCO)cc21
@@ -21035,6 +21042,8 @@ Barium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Ba+2]
 Rhenium trioxide fluoride	O=[Re](=O)(=O)F
 Rhenium trioxide fluoride	O0[Re-]9(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]1(=O)(=O)(O1)[F+][Re-]01(=O)(=O)[F+]9
 Rhenium dioxide trifluoride	O=[Re](F)(F)(F)=O
+Rhenium dioxide trifluoride	[F+]1[Re-](=O)(F)(F)(=O)[F+][Re-](=O)(F)(F)(=O)[F+][Re-]1(=O)(F)(F)=O
+Rhenium dioxide trifluoride	F[Re-]1(F)(=O)(=O)[F+][Re-](=O)(F)(F)(=O)[F+][Re-](=O)(F)(F)(=O)[F+][Re-](=O)(F)(F)(=O)[F+]1
 Manganese trioxide fluoride	O=[Mn](F)(=O)=O
 Hexachlorodisiloxane	O([Si](Cl)(Cl)Cl)[Si](Cl)(Cl)Cl
 Rhenium trioxide chloride	O=[Re](=O)(=O)Cl
@@ -24037,3 +24046,8 @@ CTOP	CC(C1C(=O)NC(C(SSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CC2=CNC3=CC=CC=C32
 B115	CN1CCC(=CC1)/C=C/C2=CC=CC3=CC=CC=C32
 Serratenediol	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC[C@H]4C(=CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C2)(CC[C@@H](C3(C)C)O)C
 4-AcO-EiPT	CCN(CCC1=CNC2=C1C(=CC=C2)OC(=O)C)C(C)C
+Glycyl-prolyl-hydroxyproline	C1C[C@H](N(C1)C(=O)CN)C(=O)N2C[C@@H](C[C@H]2C(=O)O)O
+4-AcO-McPT	CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C3CC3
+Mitochonic acid 5	C1=CC=C2C(=C1)C(=CN2)C(CC(=O)C3=C(C=C(C=C3)F)F)C(=O)O
+Β-Ethynylserine	C#C[C@H]([C@@H](C(=O)O)N)O
+Palmitoyl Tripeptide-38	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCS(=O)(=O)C)C(=O)N[C@@H](CCCCN)C(=O)O
