@@ -2165,6 +2165,7 @@ Ecamsule	O=S(=O)(O)CC45C(=O)\C(=C/c1ccc(cc1)/C=C2\C(=O)C3(CCC2C3(C)C)CS(=O)(=O)O
 Lithium tantalate	[Li+].[O-2].[O-2].[O-2].[Ta+5]
 Caesium chloride	[Cs+].[Cl-]
 Palladium(II) chloride	Cl[Pd]Cl
+Palladium(II) chloride	Cl[Pd-2](Cl)([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1([Cl+]1)[Cl+][Pd-2]1(Cl)Cl
 Palladium(II) chloride	[Cl+]0[Pd-2]12[Cl+][Pd-2]34[Cl+][Pd-2]05[Cl+][Pd-2]6([Cl+]1)[Cl+][Pd-2]([Cl+]2)([Cl+]3)[Cl+][Pd-2]([Cl+]4)([Cl+]5)[Cl+]6
 Arsenic trioxide	O1[As]2O[As]3O[As]1O[As](O2)O3
 Antimony trioxide	O=[Sb]O[Sb]=O
@@ -4741,6 +4742,7 @@ Perchloryl fluoride	FCl(=O)(=O)=O
 Alaproclate	Clc1ccc(cc1)CC(OC(=O)C(N)C)(C)C
 Etoperidone	Clc3cccc(N2CCN(CCCN1/N=C(\N(C1=O)CC)CC)CC2)c3
 Betulinic acid	O=C(O)[C@@]54[C@@H]([C@@H]3[C@@]([C@]1([C@@H]([C@]2(C)[C@@H](CC1)C(C)(C)[C@@H](O)CC2)CC3)C)(C)CC4)[C@H](C(=C)C)CC5
+Calcium α-ketoglutarate	C(CC(=O)[O-])C(=O)C(=O)[O-].[Ca+2]
 Pendimethalin	CCC(CC)Nc1c([N+](=O)[O-])cc(C)c(C)c1[N+](=O)[O-]
 Dichlorvos	O=P(O\C=C(/Cl)Cl)(OC)OC
 Methorphan	CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
@@ -11736,6 +11738,7 @@ P7C3	c4ccccc4NCC(O)Cn2c1ccc(Br)cc1c(c3)c2ccc3Br
 BRL-54443	Oc3ccc1c(c(c[nH]1)C2CCN(C)CC2)c3
 Chlorophenylbiguanide	c1ccc(Cl)cc1NC(=N)NC(=N)N
 Purpurogallin	C1=CC(=O)C(=C2C(=C1)C=C(C(=C2O)O)O)O
+Oleyl oleate	CCCCCCCC/C=C\CCCCCCCCOC(=O)CCCCCCC/C=C\CCCCCCCC
 CY-208,243	c15c4[nH]cc5CC2C(c1ccc4)c3ccccc3CN2C
 Sulfur mononitride	[N+][S-]
 Δ-Carotene	CC1=CCCC(C1C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C)C)C)(C)C
@@ -11782,7 +11785,7 @@ Norvaline	CCC[C@H](C(=O)O)N
 4-Fluoro-5-methoxy-DMT	CN(C)CCC1=CNC2=C1C(=C(C=C2)OC)F
 Gallane	[GaH3]
 GSK 299423	COc1ccc2c(c1)c(c(cn2)C#N)CCN3CCC(CC3)NCc4cc5c(cn4)OCS5
-Soclenicant	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O)N
+Soclenicant	CCN1C=C(C(=O)C2=C1N=CC(=C2)NC3CC4=CC=CC=C4C3)C(=O)N5CCOCC5
 Dihydroxymethylidene	O[C]O
 JWH-019	c3cccc2c3cccc2C(=O)c1cn(CCCCCC)c4c1cccc4
 Methylcyclopentane	CC1CCCC1
@@ -13255,6 +13258,7 @@ Tedalinab	CC(C)(C)NC(=O)C1=NN(C2=C1[C@@H]3CC[C@H]2C3)C4=C(C=C(C=C4)F)F
 Cofactor F430	CC12CC(=O)NC13CC4C(C(C(=N4)CC5C(C6CCC(=O)C(=C7C(C(C(=CC(=N3)C2CCC(=O)O)[N-]7)CC(=O)O)CCC(=O)O)C6=N5)CC(=O)O)(C)CC(=O)N)CCC(=O)O.[Ni]
 2,4-Bis(4-hydroxybenzyl)phenol	c2cc(O)ccc2Cc1cc(ccc1O)Cc3ccc(O)cc3
 Germanium(II) iodide	I[Ge]I
+Myristyl myristate	CCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCC
 5-Methylcytidine	O=C1/N=C(/N)\C(=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)C
 Asunaprevir	CC(C)(C)[C@@H](C(=O)N1C[C@@H](C[C@H]1C(=O)N[C@@]2(C[C@H]2C=C)C(=O)NS(=O)(=O)C3CC3)OC4=NC=C(C5=C4C=C(C=C5)Cl)OC)NC(=O)OC(C)(C)C
 Menabitan	CCCCCC(C)C(C)C1=CC2=C(C3=C(CCN(C3)CC#C)C(O2)(C)C)C(=C1)OC(=O)C(C)CCN4CCCCC4C
@@ -13823,6 +13827,7 @@ Einsteinium(III) oxide	[Es+3].[Es+3].[O-2].[O-2].[O-2]
 N-Ethylbuphedrone	CCNC(CC)C(=O)c1ccccc1
 Imazaquin	O=C(O)c2c(nc1ccccc1c2)/C3=N/C(C(=O)N3)(C(C)C)C
 Cycasin	[O-]/[N+](=N/CO[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C
+Mucochloric acid	O=CC(Cl)=C(Cl)C(O)=O
 2-Vinylpyridine	C=CC1=CC=CC=N1
 6-Nonenal	O=CCCCCC=CCC
 6-Nonenal	O=CCCCC/C=C/CC
@@ -24043,6 +24048,7 @@ CTOP	CC(C1C(=O)NC(C(SSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CC2=CNC3=CC=CC=C32
 2,4,6-TMPEA-NBOMe	COc1cc(OC)c(c(c1)OC)CCNCc1ccccc1OC
 4-AcO-EPT	CCCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
 5-MeO-MsBT	CCC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC
+N-Methylsuccinimide	CN1C(=O)CCC1=O
 7-Aminoflunitrazepam	CN1C(=O)CN=C(C2=C1C=CC(=C2)N)C3=CC=CC=C3F
 B115	CN1CCC(=CC1)/C=C/C2=CC=CC3=CC=CC=C32
 Serratenediol	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC[C@H]4C(=CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C2)(CC[C@@H](C3(C)C)O)C
@@ -24057,3 +24063,10 @@ Hexapeptide-10	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@
 Propargylglycine	C#CC[C@@H](C(=O)O)N
 Propargylglycine	C#CCC(C(=O)O)N
 Hexapeptide-12	C[C@@H](C(=O)N1CCC[C@H]1C(=O)NCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](C(C)C)N
+Palmitoyl tetrapeptide-7	CCCCCCCCCCCCCCCC(=O)NCC(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
+Cadmium sulfite	[O-]S(=O)[O-].[Cd+2]
+1BP-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccc(cc4)B5OC(CC)(CC)C(CC)(CC)O5)c6cccc(C2=C1)c36
+Diisopropylmercury	CC(C)[Hg]C(C)C
+5-HO-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)O
+Methylcyclopropyltryptamine	CN(CCC1=CNC2=CC=CC=C21)C3CC3
+5-MeO-NsBT	CCC(C)NCCC1=CNC2=C1C=C(C=C2)OC
