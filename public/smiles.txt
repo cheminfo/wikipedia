@@ -20352,7 +20352,6 @@ Holmium acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Ho+3]
 Tetraboric acid	OB(OB=O)OB(O)OB=O
 Orthoborate	B([O-])([O-])[O-]
 Erbium(III) acetate	CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Er+3]
-Rentosertib	CC(C)N1C=NC(=C1C2=NC=C(N2)C(=O)NC3=CC=C(C=C3)N4CCN(CC4)C)C5=CC=C(C=C5)F
 2-Pinanol	CC1(C2CCC(C1C2)(C)O)C
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@](C)(O)CC2
 2-Pinanol	CC1(C)[C@@H]2C[C@H]1[C@@](C)(O)CC2
@@ -24070,3 +24069,10 @@ Diisopropylmercury	CC(C)[Hg]C(C)C
 5-HO-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)O
 Methylcyclopropyltryptamine	CN(CCC1=CNC2=CC=CC=C21)C3CC3
 5-MeO-NsBT	CCC(C)NCCC1=CNC2=C1C=C(C=C2)OC
+4-Methyl-DMT	CC1=C2C(=CC=C1)NC=C2CCN(C)C
+6-Methyl-DMT	CC1=CC2=C(C=C1)C(=CN2)CCN(C)C
+Rentosertib	CC(C)N1C=NC(=C1C2=NC=C(N2)C(=O)NC3=CC=C(C=C3)N4CCN(CC4)C)C5=CC=C(C=C5)F
+Isovanillyl alcohol	COC1=C(C=C(C=C1)CO)O
+Icafolin	C=CC1(CC(=NO1)C2=CC(=CC(=C2)F)F)C(=O)NC3CC(OC3)C(=O)O
+Icafolin-methyl	FC=1C=C(C=C(C1)F)C1=NO[C@@](C1)(C=C)C(=O)N[C@@H]1C[C@@H](OC1)C(=O)OC
+3C-DFM	CC(CC1=CC(=C(C(=C1)OC)OC(F)F)OC)N
