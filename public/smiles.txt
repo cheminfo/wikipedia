@@ -23329,6 +23329,7 @@ Dibenzosuberenone	C1=CC=C2C(=C1)C=CC3=CC=CC=C3C2=O
 Dysprosium disilicide	[Si].[Si].[Dy]
 CJ-1639	CCCN(CCC1(CC(C1)NC(=O)C2=CC3=CC=CC=C3C=C2)O)[C@H]4CCC5=C(C4)SC(=N5)N
 CGP-25454A	CCN(CC)CCNC(=O)C1=C(C=C(C(=C1)C#N)Cl)OC
+Pernitride	[N-2][N-2]
 S3608	C1COC2=C1C=C(C=C2)CN3CCN(CC3)C4=NC=CS4
 CA-170	C[C@H]([C@@H](C(=O)O)NC(=O)N[C@@H](CC(=O)N)C1=NC(=NO1)[C@H](CO)N)O
 Diphenyl selenide	C1=CC=C(C=C1)[Se]C2=CC=CC=C2
@@ -24062,6 +24063,7 @@ Hexapeptide-10	CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@
 Propargylglycine	C#CC[C@@H](C(=O)O)N
 Propargylglycine	C#CCC(C(=O)O)N
 Hexapeptide-12	C[C@@H](C(=O)N1CCC[C@H]1C(=O)NCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](C(C)C)N
+2-Methylpentadecane	CCCCCCCCCCCCCC(C)C
 Palmitoyl tetrapeptide-7	CCCCCCCCCCCCCCCC(=O)NCC(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
 Cadmium sulfite	[O-]S(=O)[O-].[Cd+2]
 1BP-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccc(cc4)B5OC(CC)(CC)C(CC)(CC)O5)c6cccc(C2=C1)c36
@@ -24076,3 +24078,10 @@ Isovanillyl alcohol	COC1=C(C=C(C=C1)CO)O
 Icafolin	C=CC1(CC(=NO1)C2=CC(=CC(=C2)F)F)C(=O)NC3CC(OC3)C(=O)O
 Icafolin-methyl	FC=1C=C(C=C(C1)F)C1=NO[C@@](C1)(C=C)C(=O)N[C@@H]1C[C@@H](OC1)C(=O)OC
 3C-DFM	CC(CC1=CC(=C(C(=C1)OC)OC(F)F)OC)N
+RW-93	O=C(Nc1ccc(cc1Br)OCc1cnc(s1)NC(=O)CSc1nc(C)cc(C)n1)c1cnn(C)c1
+MiPBF	CC(C)N(C)CCC1=COC2=CC=CC=C21
+Elunetirom	CC(C)C1=C(C=CC(=C1)CC2=C(C=C(C=C2Cl)OCC(=O)NC)Cl)O
+1-Benzyl-4-piperidone	C1CN(CCC1=O)CC2=CC=CC=C2
+Isobavachalcone	CC(=CCC1=C(C=CC(=C1O)C(=O)/C=C/C2=CC=C(C=C2)O)O)C
+5-APB-NBOMe	CC(CC1=CC2=C(C=C1)OC=C2)NCC3=CC=CC=C3OC
+PEA-NBOMe	COC1=CC=CC=C1CNCCC2=CC=CC=C2
