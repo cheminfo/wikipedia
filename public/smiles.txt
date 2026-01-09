@@ -8215,6 +8215,7 @@ Chloroformic acid	ClC(=O)O
 Pirlimycin	CC[C@@H]1CCN[C@@H](C1)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl
 Cyamemazine	N#Cc2cc1N(c3c(Sc1cc2)cccc3)CC(C)CN(C)C
 Ajmalan	CC[C@@H]1CN2[C@H]3C[C@@H]1[C@H]4[C@@H]2C[C@]5(C4)[C@H]3N(c6c5cccc6)C
+Ethylene glycol diethyl ether	CCOCCOCC
 Propadiene	C=C=C
 2,3-Dimethylbutane	CC(C)C(C)C
 Zinc protoporphyrin	CC1=C(CCC(O)=O)C2=[N]3C1=Cc1c(C)c(C=C)c4C=C5C(C)=C(C=C)C6=[N]5[Zn]3(n14)n1c(=C6)c(C)c(CCC(O)=O)c1=C2
@@ -12144,7 +12145,7 @@ Org 28312	COc2cccc1c2n(CC4CCCCC4)cc1C(=O)N(CC3C)CC(C)N3C
 AM-2233	Ic3ccccc3C(=O)c1cn(CC2CCCCN2C)c4c1cccc4
 Thianthrene	S1c3c(Sc2c1cccc2)cccc3
 Α-Tocotrienol	CC1=C(C(=C2CC[C@@](OC2=C1C)(C)CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)C)O
-TM-38837	O=C(C1=NN(C2=CC=C(Cl)C=C2Cl)C(C3=CC=C(C#CC4=CC=C(C(F)(F)F)C=C4)S3)=C1CC)NN5CCCCC5
+TM-38837	ClC(C=C1)=C(C=C1)N(N=C1C(=O)N[C@H](C)C(C=CC2C(F)(F)F)=CC=2)C(=C1CC(N=N1)=NN1)C(C=CC1Cl)=CC=1
 2-Nitrofluorene	[O-][N+](=O)c1ccc2c(Cc3ccccc-23)c1
 POPC	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC
 Cycloheptanone	O=C1CCCCCC1
@@ -24083,5 +24084,11 @@ MiPBF	CC(C)N(C)CCC1=COC2=CC=CC=C21
 Elunetirom	CC(C)C1=C(C=CC(=C1)CC2=C(C=C(C=C2Cl)OCC(=O)NC)Cl)O
 1-Benzyl-4-piperidone	C1CN(CCC1=O)CC2=CC=CC=C2
 Isobavachalcone	CC(=CCC1=C(C=CC(=C1O)C(=O)/C=C/C2=CC=C(C=C2)O)O)C
+D-Ribose-L-cysteine	C1[C@H](NC(S1)[C@@H]([C@@H]([C@@H](CO)O)O)O)C(=O)O
 5-APB-NBOMe	CC(CC1=CC2=C(C=C1)OC=C2)NCC3=CC=CC=C3OC
 PEA-NBOMe	COC1=CC=CC=C1CNCCC2=CC=CC=C2
+5-MeO-T-NB3OMe	COC1=CC2=C(C=C1)NC=C2CCNCC3=CC(=CC=C3)OC
+Atractylodin	C/C=C/C#CC#C/C=C/C1=CC=CO1
+4-PhPr-PEA	C1=CC=C(C=C1)CCCC2=CC=C(C=C2)CCN
+5-Phenoxytryptamine	C1=CC=C(C=C1)OC2=CC3=C(C=C2)NC=C3CCN
+S-DMT	CN(C)CCC1=CSC2=CC=CC=C21
