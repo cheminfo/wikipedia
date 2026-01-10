@@ -5869,7 +5869,7 @@ HOT-2	CCSc1cc(OC)c(cc1OC)CCNO
 Uridine diphosphate glucose	O=P(O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)(O)OP(=O)(O)OC[C@H]3O[C@@H](N2/C=C\C(=O)NC2=O)[C@H](O)[C@@H]3O
 Codeine	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O
 HOT-7	COc1cc(SCCC)c(cc1CCNO)OC
-HOT-17	CC(CC)Sc1cc(OC)c(cc1OC)CCNO
+HOT-17	CCC(C)SC1=C(C=C(C(=C1)OC)CCNO)OC
 Thymol blue	O=S2(=O)OC(c1ccccc12)(c3cc(c(O)cc3C)C(C)C)c4cc(c(O)cc4C)C(C)C
 Cholesteryl oleyl carbonate	O=C(OCCCCCCCC\C=C/CCCCCCCC)O[C@@H]4C/C3=C/C[C@@H]1[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Cholesteryl benzoate	c1ccccc1C(=O)O[C@@H]2C/C3=C/C[C@@H]4[C@@H]([C@@]3(C)CC2)CC[C@@]5(C)[C@H]4CC[C@@H]5[C@H](C)CCCC(C)C
@@ -6022,7 +6022,7 @@ Azaserine	O=C(OC[C@H](N)C(O)=O)/C=[N+]=[N-]
 Cipemastat	CC1(C)NC(=O)N(C[C@@H]([C@@H](CC2CCCC2)C(=O)N3CCCCC3)C(=O)NO)C1=O
 2C-H	COC1=CC(=C(C=C1)OC)CCN
 3,4-Methylenedioxy-N-hydroxy-N-methylamphetamine	C1=C2C(=CC=C1CC(C)N(C)O)OCO2
-Ψ-DOM	COc1cc(C)cc(OC)c1CC(C)N
+Ψ-DOM	CC1=CC(=C(C(=C1)OC)CC(C)N)OC
 Oritavancin	C[C@H]1[C@@H]([C@@](C[C@@H](O1)O[C@H]2[C@H]3C(=O)N[C@H](C4=C(C(=CC(=C4)O)O)C5=C(C=CC(=C5)[C@H](C(=O)N3)NC(=O)[C@H]6C7=CC(=C(C(=C7)OC8=C(C=C(C=C8)[C@H]([C@H](C(=O)N[C@H](C(=O)N6)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O[C@H]1C[C@]([C@H]([C@@H](O1)C)O)(C)NCC1=CC=C(C=C1)C1=CC=C(C=C1)Cl)OC1=C(C=C2C=C1)Cl)O)C(=O)O)(C)N)O
 Hypoiodous acid	IO
 Pentanal	O=CCCCC
@@ -6062,7 +6062,7 @@ Cycloheptane	C1CCCCCC1
 Dimethyl malonate	COC(=O)CC(=O)OC
 3-Nitrobenzoic acid	O=[N+]([O-])c1cc(C(=O)O)ccc1
 2,5-Dimethoxy-4-(2-fluoroethyl)amphetamine	C1(=CC(=C(C=C1CC(C)N)OC)CCF)OC
-2,5-Dimethoxy-4-propylamphetamine	O(c1cc(c(OC)cc1CC(N)C)CCC)C
+2,5-Dimethoxy-4-propylamphetamine	CCCC1=CC(=C(C=C1OC)CC(C)N)OC
 3,4-Dimethoxyphenethylamine	O(c1ccc(cc1OC)CCN)C
 2,5-Dimethoxy-4-amylamphetamine	CCCCCC1=CC(OC)=C(CC(C)N)C=C1OC
 DMCPA	O(c1c(cc(OC)c(c1)C2CC2N)C)C
@@ -10969,7 +10969,7 @@ Borane dimethylsulfide	[BH3-][S+](C)C
 Alniditan	C1CNC(=NC1)NCCCNCC2CCC3=CC=CC=C3O2
 2,5-Dimethoxyamphetamine	CC(CC1=C(C=CC(=C1)OC)OC)N
 Amfecloral	ClC(Cl)(Cl)/C=N/C(Cc1ccccc1)C
-2,5-Dimethoxy-4-fluoroamphetamine	CC(Cc1cc(c(cc1OC)F)OC)N
+2,5-Dimethoxy-4-fluoroamphetamine	CC(CC1=CC(=C(C=C1OC)F)OC)N
 Apocholic acid	C[C@H](CCC(O)=O)[C@@]1([H])CCC2=C3CC[C@]4([H])C[C@H](O)CC[C@]4(C)C3C[C@H](O)[C@@]21C
 Dithizone	S=C(/N=N/c1ccccc1)NNc2ccccc2
 Toxol	O=C(c2cc1c(O[C@@H](\C(=C)C)[C@@H]1O)cc2)C
@@ -11728,7 +11728,7 @@ PD-168,077	Cc2cc(ccc2)C(=O)NCN(CC3)CCN3c1ccccc1C#N
 Ro10-5824	c3ccccc3C(=CC2)CCN2Cc1cnc(C)nc1N
 L-745,870	c1cc2c(c[nH]c2nc1)CN3CCN(CC3)c4ccc(cc4)Cl
 CP-226,269	n4ccccc4N3CCN(CC3)Cc2cc1cc(F)ccc1[nH]2
-2CB-Ind	COc1c(Br)cc(OC)c2c1CCC2CN
+2CB-Ind	COC1=CC(=C(C2=C1C(CC2)CN)OC)Br
 Quinelorane	CCCN1CCC[C@H]2[C@H]1CC3=CN=C(N=C3C2)N
 SKF-89,145	Oc1ccc(cc1O)C2CN(C)Cc3sccc23
 BP-897	COc1ccccc1N3CCN(CC3)CCCCNC(=O)c4ccc2ccccc2c4
@@ -22670,7 +22670,7 @@ ST-148 (antiviral)	C1CCC2=CC3=C(N=C2CC1)SC(=C3N)C(=O)NC4=NN=C(S4)C5=CC=CC=C5
 NBoc-DMT	CC(C)(C)OC(=O)N1C=C(C2=CC=CC=C21)CCN(C)C
 Pigment Yellow 14	CC1=CC=CC=C1NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC=CC=C4C)Cl)Cl
 Benzotrifuroxan	C12=NO[N+](=C1C3=NO[N+](=C3C4=NO[N+](=C24)[O-])[O-])[O-]
-S-Ethyl dipropylthiocarbamate	N(C(SCC)=O)(CCC)CCC
+EPTC (herbicide)	N(C(SCC)=O)(CCC)CCC
 Rebimastat	CNC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](S)CCN1C(=O)N(C)C(C)(C)C1=O)C(C)(C)C
 Γ-Fagarine	COC1=CC=CC2=C1N=C3C(=C2OC)C=CO3
 Tetrakis(acetoxymercuri)methane	CC(=O)O[Hg]C([Hg]OC(=O)C)([Hg]OC(=O)C)[Hg]OC(=O)C
@@ -24092,3 +24092,6 @@ Atractylodin	C/C=C/C#CC#C/C=C/C1=CC=CO1
 4-PhPr-PEA	C1=CC=C(C=C1)CCCC2=CC=C(C=C2)CCN
 5-Phenoxytryptamine	C1=CC=C(C=C1)OC2=CC3=C(C=C2)NC=C3CCN
 S-DMT	CN(C)CCC1=CSC2=CC=CC=C21
+Tilmetamine	CNC1(CCCCC1=O)C2=CC=CS2
+Citrostadienol	CC=C(CCC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4C)O)C)C)C(C)C
+Lexanopadol	CNC1(CCC2(CC1)C3=C(CCO2)C4=C(N3)C=CC(=C4)F)C5=CC=CC=C5
