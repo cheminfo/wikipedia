@@ -377,6 +377,7 @@ Ziprasidone	O=C1Cc2c(N1)cc(Cl)c(c2)CCN3CCN(CC3)c4nsc5ccccc45
 Olanzapine	CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
 Benzatropine	CN4[C@@H]1CC[C@H]4C[C@H](C1)OC(c2ccccc2)c3ccccc3
 Propranolol	OC(COC1=C2C=CC=CC2=CC=C1)CNC(C)C
+Propranolol	Cl.CC(C)NCC(O)COC1=CC=CC2=CC=CC=C12
 Dinitrogen tetroxide	[O-][N+](=O)[N+]([O-])=O
 Clarithromycin	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
 Mefloquine	FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3
@@ -3173,7 +3174,7 @@ Trichostatin A	O=C(NO)\C=C\C(=C\[C@H](C(=O)c1ccc(N(C)C)cc1)C)C
 2,5-Dimethoxy-4-chloroamphetamine	ClC1=C(OC)C=C(CC(C)N)C(OC)=C1
 Proscaline	COc1cc(cc(OC)c1OCCC)CCN
 Torcetrapib	FC(F)(F)c1cc(cc(c1)C(F)(F)F)CN(C(=O)OC)[C@@H]3c2c(ccc(c2)C(F)(F)F)N(C(=O)OCC)[C@@H](C3)CC
-2C-T	CSc1cc(OC)c(cc1OC)CCN
+2C-T	COC1=CC(=C(C=C1CCN)OC)SC
 Ethyl cyanoacrylate	N#CC(=C)C(=O)OCC
 Metanephrine	Oc1ccc(cc1OC)C(O)CNC
 Oil Red O	Cc4cc(/N=N/c1cc(C)c(cc1C)/N=N/c2c3ccccc3ccc2O)c(C)cc4
@@ -20889,7 +20890,7 @@ Veratric acid	COC1=C(C=C(C=C1)C(=O)O)OC
 Pinealon	C(C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)N)CN=C(N)N
 Platinum(II) iodide	[Pt+2].[I-].[I-]
 T-1194	CC[N+](C)(C)C1=CC(=CC=C1)OC(=O)NC.[I-]
-Osmium(III) bromide	[Os+2].[Br-].[Br-].[Br-]
+Osmium(III) bromide	[Os+3].[Br-].[Br-].[Br-]
 Osmium heptafluoride	F[Os](F)(F)(F)(F)(F)F
 GS-7	CSP(=O)(N)SC
 Technetium(V) fluoride	F[Tc](F)(F)(F)F
@@ -23536,6 +23537,7 @@ Arsinothricin	C[As](=O)(CCC(C(=O)O)N)O
 Cycloheptyne	C1CCC#CCC1
 Thioformamide	C(=S)N
 Luvometinib	CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(N=C2C4=CC(=CC=C4)NS(=O)(=O)C5CC5)C6CC6
+2C-O-22	COC1=CC(=C(C=C1CCN)OC)OCC(F)(F)F
 2C-T-22	COC1=CC(=C(C=C1CCN)OC)SCC(F)(F)F
 2C-T-25	CC(C)CSC1=C(C=C(C(=C1)OC)CCN)OC
 2C-T-30	COC1=CC(=C(C=C1CCN)OC)SCCCCF
@@ -24095,3 +24097,10 @@ S-DMT	CN(C)CCC1=CSC2=CC=CC=C21
 Tilmetamine	CNC1(CCCCC1=O)C2=CC=CS2
 Citrostadienol	CC=C(CCC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4C)O)C)C)C(C)C
 Lexanopadol	CNC1(CCC2(CC1)C3=C(CCO2)C4=C(N3)C=CC(=C4)F)C5=CC=CC=C5
+Tert-Butyl iodide	IC(C)(C)C
+Vorolanib	CC1=C(NC(=C1C(=O)N[C@H]2CCN(C2)C(=O)N(C)C)C)/C=C\3/C4=C(C=CC(=C4)F)NC3=O
+Netanasvir	C[C@H]1CC[C@H](N1C(=O)[C@H](C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=C3C=CC(=C4)C5=C6CCCC6=C(C=C5)C7=CN=C(N7)[C@@H]8C[C@@H](CN8C(=O)[C@@H](C9=CC=CC=C9)NC(=O)OC)COC
+Βk-2C-I	COC1=CC(=C(C=C1C(=O)CN)OC)I
+NB-5-MeO-MiPT	COc1ccc2c(c1)c(CCN(C(C)C)C)cn2C(=O)OC(C)(C)C
+NB-5-MeO-DALT	C=CCN(CCc1cn(c2c1cc(OC)cc2)C(=O)OC(C)(C)C)CC=C
+Isopropyl fluoride	CC(C)F
