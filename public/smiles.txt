@@ -24101,6 +24101,13 @@ Tert-Butyl iodide	IC(C)(C)C
 Vorolanib	CC1=C(NC(=C1C(=O)N[C@H]2CCN(C2)C(=O)N(C)C)C)/C=C\3/C4=C(C=CC(=C4)F)NC3=O
 Netanasvir	C[C@H]1CC[C@H](N1C(=O)[C@H](C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=C3C=CC(=C4)C5=C6CCCC6=C(C=C5)C7=CN=C(N7)[C@@H]8C[C@@H](CN8C(=O)[C@@H](C9=CC=CC=C9)NC(=O)OC)COC
 Βk-2C-I	COC1=CC(=C(C=C1C(=O)CN)OC)I
+Encofosbuvir	C[C@]1(F)[C@@H](O[C@H](COP(OC2=CC=CC=C2)(N[C@H](C(OC(C)C)=O)C)=O)[C@H]1O)N3C(=O)N(COC([C@@H](NC(OC)=O)CCSC)=O)C(=O)C=C3
 NB-5-MeO-MiPT	COc1ccc2c(c1)c(CCN(C(C)C)C)cn2C(=O)OC(C)(C)C
 NB-5-MeO-DALT	C=CCN(CCc1cn(c2c1cc(OC)cc2)C(=O)OC(C)(C)C)CC=C
 Isopropyl fluoride	CC(C)F
+Envonalkib	C[C@H]1CNCCN1C2=NC=C(C(=C2)OC)C3=CC(=C(N=C3)N)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl
+Garsorasib	C[C@@H]1CN([C@H](CN1C(=O)C=C)C)C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=C4F)N)C5=C(N=CN=C5C6CC6)C7CC7
+Fluorosulfonyl isocyanate	C(=NS(=O)(=O)F)=O
+Motugivatrep	C1CC2=C(C[C@@H]1O)C(=CC=C2)NC(=O)/C=C/3\CCOC4=C3C=CC(=C4)C(F)(F)F
+Pseudocodeine	CN1CC[C@]23[C@@H]4C=C[C@@H]([C@H]2[C@H]1CC5=C3C(=C(C=C5)OC)O4)O
+Vesugen	C(CCN)C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)O)N
