@@ -7391,10 +7391,10 @@ PEPAP	O=C(C)OC1(CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 Difenoxin	C(CCN1CCC(CC1)(C(O)=O)C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C#N
 Pethidine intermediate A	CN1CCC(CC1)(C#N)c2ccccc2
 Levuglandin	CCCCC[C@@H](/C=C/[C@H]([C@@H](C/C=C\CCCC(=O)O)C=O)C(=O)C)O
-Heptene	C=CCCCCC
-Heptene	CCCC=CCC
-Heptene	CCCC/C=C\C
-Heptene	CCCC/C=C/C
+1-Heptene	C=CCCCCC
+1-Heptene	CCCC=CCC
+1-Heptene	CCCC/C=C\C
+1-Heptene	CCCC/C=C/C
 Decene	CCCCCCCCC=C
 Norpatchoulenol	C[C@]31CCC2CC3/C=C\CC1(O)C2(C)C
 3-Allylfentanyl	O=C(N(c1ccccc1)[C@@H]3CCN(CCc2ccccc2)C[C@@H]3C\C=C)CC
@@ -12185,7 +12185,7 @@ SRT-1460	COc1cc(cc(c1OC)OC)C(=O)Nc2ccccc2c3cn4c(csc4n3)CN5CCNCC5
 Methoxymethylfurfural	O=Cc1oc(cc1)COC
 Acetylferrocene	CC(=O)[C]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Fe]
 Elinogrel	CNC1=C(C=C2C(=C1)NC(=O)N(C2=O)C3=CC=C(C=C3)NC(=O)NS(=O)(=O)C4=CC=C(S4)Cl)F
-Bufothionine	O=S(O)Oc1ccc2c3c1[N+](CCc3c[nH]2)(C)C
+Bufothionine	C[N+]1(CCC2=CNC3=C2C1=C(C=C3)OS(=O)(=O)[O-])C
 2,2-Diphenylpropylamine	CC(CN)(C1=CC=CC=C1)C2=CC=CC=C2
 3,3-Diphenylpropylamine	C1=CC=C(C=C1)C(CCN)C2=CC=CC=C2
 2,3-Diphenylpropylamine	C1=CC=C(C=C1)CC(CN)C2=CC=CC=C2
@@ -24110,4 +24110,8 @@ Garsorasib	C[C@@H]1CN([C@H](CN1C(=O)C=C)C)C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=
 Fluorosulfonyl isocyanate	C(=NS(=O)(=O)F)=O
 Motugivatrep	C1CC2=C(C[C@@H]1O)C(=CC=C2)NC(=O)/C=C/3\CCOC4=C3C=CC(=C4)C(F)(F)F
 Pseudocodeine	CN1CC[C@]23[C@@H]4C=C[C@@H]([C@H]2[C@H]1CC5=C3C(=C(C=C5)OC)O4)O
+2-Methylhexadecane	CCCCCCCCCCCCCCC(C)C
 Vesugen	C(CCN)C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)O)N
+Sulfuryl bromide fluoride	O=S(=O)(F)Br
+AXS-17	CCCNC(=O)C1=NN=C2C(=C1N)C=CC=C2C3=C(C=CC=C3F)OC
+Fluoroalanine	C([C@H](C(=O)O)N)F
