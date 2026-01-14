@@ -6242,7 +6242,7 @@ Urotensin-II	C[C@H]([C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]2CSSC
 Nabitan	O=C(Oc2cc(cc1OC(C\3=C(/c12)CN(CC/3)CC#C)(C)C)C(C)C(C)CCCCC)CCCN4CCCCC4
 THC-O-acetate	O=C(Oc2cc(cc1OC([C@@H]3CC/C(=C\[C@H]3c12)C)(C)C)CCCCC)C
 Dichlorodiphenyldichloroethane	Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)Cl
-11-Hydroxy-THC	Oc2cc(cc1OC(C3CC/C(=C\C3c12)CO)(C)C)CCCCC
+11-Hydroxy-THC	OC1=C2[C@]3([C@](C(C)(C)OC2=CC(CCCCC)=C1)(CCC(CO)=C3)[H])[H]
 Lenabasum	OC(C1=CC[C@](C(C)(C)OC2=C3C(O)=CC(C(C)(C)CCCCCC)=C2)([H])[C@@]3([H])C1)=O
 2,3-Oxidosqualene	CC(=CCC/C(=C/CC/C(=C/CC/C=C(\C)/CC/C=C(\C)/CCC1C(O1)(C)C)/C)/C)C
 Mesocarb	O=C(\N=C1/C=[N+](\[N-]O1)C(C)Cc2ccccc2)Nc3ccccc3
@@ -24051,7 +24051,6 @@ CTOP	CC(C1C(=O)NC(C(SSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CC2=CNC3=CC=CC=C32
 2,4,6-TMPEA-NBOMe	COc1cc(OC)c(c(c1)OC)CCNCc1ccccc1OC
 4-AcO-EPT	CCCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
 5-MeO-MsBT	CCC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC
-N-Methylsuccinimide	CN1C(=O)CCC1=O
 7-Aminoflunitrazepam	CN1C(=O)CN=C(C2=C1C=CC(=C2)N)C3=CC=CC=C3F
 B115	CN1CCC(=CC1)/C=C/C2=CC=CC3=CC=CC=C32
 Serratenediol	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC[C@H]4C(=CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C2)(CC[C@@H](C3(C)C)O)C
