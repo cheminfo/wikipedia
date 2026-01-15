@@ -10059,7 +10059,7 @@ Phlorizin	c1cc(ccc1CCC(=O)c2c(cc(cc2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 U46619	CCCCC[C@H](O)/C=C/[C@H]1[C@@H]2OC[C@@H](C2)[C@@H]1C/C=C\CCCC(O)=O
 CataCXium F sulf	c1ccc2c(c1)-c3ccc(cc3C2(CCCc4ccc(cc4)S(=O)(=O)O)[PH+](C5CCCCC5)C6CCCCC6)S(=O)(=O)O.OS(=O)(=O)[O-]
 Suosan	C1=CC(=CC=C1NC(=O)NCCC(=O)O)[N+](=O)[O-]
-Pimagedine	NC(N)N=N
+Aminoguanidine	NC(N)N=N
 Botrydial	O=C[C@]1(CC([C@@H]2[C@@H](OC(=O)C)C[C@H]([C@H](C=O)[C@]12O)C)(C)C)C
 Toceranib	Fc1ccc2c(c1)/C(C(=O)N2)=C/c4c(c(C(=O)NCCN3CCCC3)c([nH]4)C)C
 Bismuth pentafluoride	F[Bi](F)(F)(F)F
@@ -24104,6 +24104,7 @@ Encofosbuvir	C[C@]1(F)[C@@H](O[C@H](COP(OC2=CC=CC=C2)(N[C@H](C(OC(C)C)=O)C)=O)[C
 NB-5-MeO-MiPT	COc1ccc2c(c1)c(CCN(C(C)C)C)cn2C(=O)OC(C)(C)C
 NB-5-MeO-DALT	C=CCN(CCc1cn(c2c1cc(OC)cc2)C(=O)OC(C)(C)C)CC=C
 Isopropyl fluoride	CC(C)F
+Plutonium tetroxide	O=[Pu+]=O.O=[O-]
 Envonalkib	C[C@H]1CNCCN1C2=NC=C(C(=C2)OC)C3=CC(=C(N=C3)N)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl
 Garsorasib	C[C@@H]1CN([C@H](CN1C(=O)C=C)C)C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=C4F)N)C5=C(N=CN=C5C6CC6)C7CC7
 Fluorosulfonyl isocyanate	C(=NS(=O)(=O)F)=O
@@ -24114,3 +24115,8 @@ Vesugen	C(CCN)C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)O)N
 Sulfuryl bromide fluoride	O=S(=O)(F)Br
 AXS-17	CCCNC(=O)C1=NN=C2C(=C1N)C=CC=C2C3=C(C=CC=C3F)OC
 Fluoroalanine	C([C@H](C(=O)O)N)F
+KNX-100	CN1C2=C(CNC3=CC=CC=C3N2)C=N1
+Sulfonyl diisocyanate	O=C=NS(=O)(=O)N=C=O
+NBI-75043	C[C@@H](C1=CC=CC=N1)C2=C(SC3=CC=CC=C32)CCN(C)C
+4C-TFM	CCC(CC1=CC(=C(C=C1OC)C(F)(F)F)OC)N
+4C-P	CCCC1=CC(=C(C=C1OC)CC(CC)N)OC
