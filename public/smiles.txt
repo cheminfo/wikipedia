@@ -10114,7 +10114,7 @@ Miroestrol	CC1([C@@H]2C3=C(C=C(C=C3)O)OC=C2[C@]4([C@H]5C1CC([C@@H]5O)(CC4=O)O)O)
 Racemoramide	O=C(N1CCCC1)C(c2ccccc2)(c3ccccc3)C(C)CN4CCOCC4
 2-Methylpentane	CCCC(C)C
 KML-010	O=C1NCN(C)C1(CC2)CCN2CCCC(=O)c(cc3)ccc3F
-Volinanserin	c3cc(F)ccc3CCN(CC2)CCC2C(O)c(c1OC)cccc1OC
+Volinanserin	COC1=CC=CC(=C1OC)[C@@H](C2CCN(CC2)CCC3=CC=C(C=C3)F)O
 Spiramide	c2cc(F)ccc2OCCCN3CCC1(CC3)N(CNC1=O)c4ccccc4
 4-Bromoaniline	Brc1ccc(N)cc1
 EA-3443	C1CN(C)CCC1OC(=O)C(O)(C3CCCC3)c2ccccc2
@@ -11380,7 +11380,7 @@ RH-34	O=C1C=2C(NC(=O)N1CCNCC3=C(OC)C=CC=C3)=CC=CC2
 LA-Pip	CN1C[C@@H](C=C2[C@H]1Cc3c[nH]c4c3c2ccc4)C(=O)N5CCCCC5
 AH-7921	ClC1=CC=C(C(NCC2(CCCCC2)N(C)C)=O)C=C1Cl
 WAY-181187	NCCc1cn(c2ccccc12)S(=O)(=O)c1c(Cl)nc2sccn12
-Pruvanserin	N#Cc2c1cccc(c1[nH]c2)C(=O)N4CCN(CCc3ccc(F)cc3)CC4
+Pruvanserin	C1CN(CCN1CCC2=CC=C(C=C2)F)C(=O)C3=CC=CC4=C3NC=C4C#N
 Elzasonan	Clc4c(Cl)cc(N1C(=O)C(\SCC1)=C\c3ccccc3N2CCN(C)CC2)cc4
 WAY-208466	CN(C)CCN1C=C(C2=C1N=CC=C2)S(=O)(=O)C3=CC=CC(=C3)F
 Eutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NCC
@@ -24106,6 +24106,7 @@ NB-5-MeO-DALT	C=CCN(CCc1cn(c2c1cc(OC)cc2)C(=O)OC(C)(C)C)CC=C
 Isopropyl fluoride	CC(C)F
 Plutonium tetroxide	O=[Pu+]=O.O=[O-]
 Envonalkib	C[C@H]1CNCCN1C2=NC=C(C(=C2)OC)C3=CC(=C(N=C3)N)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl
+Zinc glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Zn+2]
 Garsorasib	C[C@@H]1CN([C@H](CN1C(=O)C=C)C)C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=C4F)N)C5=C(N=CN=C5C6CC6)C7CC7
 Fluorosulfonyl isocyanate	C(=NS(=O)(=O)F)=O
 Motugivatrep	C1CC2=C(C[C@@H]1O)C(=CC=C2)NC(=O)/C=C/3\CCOC4=C3C=CC(=C4)C(F)(F)F
@@ -24120,3 +24121,8 @@ Sulfonyl diisocyanate	O=C=NS(=O)(=O)N=C=O
 NBI-75043	C[C@@H](C1=CC=CC=N1)C2=C(SC3=CC=CC=C32)CCN(C)C
 4C-TFM	CCC(CC1=CC(=C(C=C1OC)C(F)(F)F)OC)N
 4C-P	CCCC1=CC(=C(C=C1OC)CC(CC)N)OC
+4C-I	CCC(CC1=CC(=C(C=C1OC)I)OC)N
+Copper histidinate	C1=C(NC=N1)C[C@@H](C(=O)[O-])N.C1=C(NC=N1)C[C@@H](C(=O)[O-])N.[Cu+2]
+Nitrosyl iodide	N(=O)I
+Aminomethylsulfonic acid	C(N)S(=O)(=O)O
+Radiprodil	C1CN(CCC1CC2=CC=C(C=C2)F)C(=O)C(=O)NC3=CC4=C(C=C3)NC(=O)O4
