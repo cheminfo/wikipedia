@@ -24104,6 +24104,7 @@ Encofosbuvir	C[C@]1(F)[C@@H](O[C@H](COP(OC2=CC=CC=C2)(N[C@H](C(OC(C)C)=O)C)=O)[C
 NB-5-MeO-MiPT	COc1ccc2c(c1)c(CCN(C(C)C)C)cn2C(=O)OC(C)(C)C
 NB-5-MeO-DALT	C=CCN(CCc1cn(c2c1cc(OC)cc2)C(=O)OC(C)(C)C)CC=C
 Isopropyl fluoride	CC(C)F
+Plutonium trioxide	[Pu+6].[O-2].[O-2].[O-2].O
 Plutonium tetroxide	O=[Pu+]=O.O=[O-]
 Envonalkib	C[C@H]1CNCCN1C2=NC=C(C(=C2)OC)C3=CC(=C(N=C3)N)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl
 Zinc glycinate	C(C(=O)[O-])N.C(C(=O)[O-])N.[Zn+2]
@@ -24126,3 +24127,12 @@ Copper histidinate	C1=C(NC=N1)C[C@@H](C(=O)[O-])N.C1=C(NC=N1)C[C@@H](C(=O)[O-])N
 Nitrosyl iodide	N(=O)I
 Aminomethylsulfonic acid	C(N)S(=O)(=O)O
 Radiprodil	C1CN(CCC1CC2=CC=C(C=C2)F)C(=O)C(=O)NC3=CC4=C(C=C3)NC(=O)O4
+Irindalone	C1CN(C(=O)N1)CCN2CCN(CC2)[C@@H]3C[C@H](C4=CC=CC=C34)C5=CC=C(C=C5)F
+Thiomyristoyl	CCCCCCCCCCCCCC(=S)NCCCC[C@@H](C(=O)NC1=CC=CC=C1)NC(=O)OCC2=CC=CC=C2
+Seganserin	CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(=C(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F)CC3
+Chlorodifluoroamine	N(F)(F)Cl
+Temanogrel	CN1C(=CC=N1)C2=C(C=CC(=C2)NC(=O)C3=CC(=CC=C3)OC)OCCN4CCOCC4
+Butanserin	C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCCCN3C(=O)C4=CC=CC=C4NC3=O
+Trelanserin	C1CN(CCN1CCC2=CC(=O)N(C3=C2C=CC(=C3)F)CC(=O)N)C4=NC=CC5=C4C=CS5
+AGK2 (SIRT2 inhibitor)	C1=CC2=C(C=CC=N2)C(=C1)NC(=O)/C(=C/C3=CC=C(O3)C4=C(C=CC(=C4)Cl)Cl)/C#N
+FLS-359	CC1=CN(C(=N1)C)C2=CC3=C(CCN(C3)C4=NC=C(S4)CC5=CC=C(C=C5)N6C=CC=N6)C=C2
