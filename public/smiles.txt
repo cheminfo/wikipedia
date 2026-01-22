@@ -6012,7 +6012,7 @@ Bilane	C1=CNC(=C1)CC2=CC=C(N2)CC3=CC=C(N3)CC4=CC=CN4
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
 Fluorosulfonate	[O-]S(=O)(=O)F
-TME (psychedelics)	CCSC1=CC(=CC(=C1OC)OC)CCN
+Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
 Heme O	OC(=O)CC/c6c(\C)c3n7c6cc2c(/CCC(O)=O)c(/C)c1cc5n8c(cc4n([Fe]78n12)c(c=3)c(C=C)c4c)c(\C(O)CC\C=C(/C)CC\C=C(/C)CC\C=C(C)/C)c5\C
 Heme C	OC(=O)CC/c6c(\C)c3n7c6cc2c(/CCC(O)=O)c(/C)c1cc5n8c(cc4n([Fe]78n12)c(c=3)c(C(S)=C)c4c)c(\C(S)=C)c5\C
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
@@ -6129,7 +6129,6 @@ Rhodium(II) acetate	[OH2][Rh+3]1234#[Rh+3]([OH2])(O[C-](C)O1)(O[C-](C)O2)(O[C-](
 Monopotassium phosphite	OP(O)[O-].[K+]
 2,3,4,5-Tetramethoxyamphetamine	CC(Cc1cc(c(c(c1OC)OC)OC)OC)N
 F-22 (drug)	C1=C2C(=CC(=C1CC(C)N)OC)CC(O2)(C)C
-Thioescaline	CCOc1c(cc(cc1SC)CCN)OC
 Tartronic acid	O=C(O)C(O)C(=O)O
 Coptisine	O1c3c(OC1)c2c[n+]6c(cc2cc3)c5cc4OCOc4cc5CC6
 Methylcyclopentadiene	C\1=C\C=C(\C)C/1
@@ -17636,8 +17635,8 @@ N-Ethyl-N-(2-chloroethyl)aniline	CCN(CCCl)C1=CC=CC=C1
 Basic Red 18	CCN(CC[N+](C)(C)C)C1=CC=C(C=C1)N=NC2=C(C=C(C=C2)[N+](=O)[O-])Cl
 Dichlone	C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl
 Cyaphide	[C-]#P
-Sirohydrochlorin	C[C@@]1([C@@H](C2=NC1=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=C2)N5)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)[C@@]([C@@H]3CCC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O
-Dihydrosirohydrochlorin	CC1(C(C2=CC3=NC(=CC4=C(C(=C(N4)CC5=C(C(=C(N5)C=C1N2)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)C(C3(C)CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O
+Sirohydrochlorin	C[C@@]1(CC(=O)O)c2cc3[nH]c(cc4nc(cc5[nH]c(cc(n2)[C@H]1CCC(=O)O)[C@@](C)(CC(=O)O)[C@@H]5CCC(=O)O)C(CC(=O)O)=C4CCC(=O)O)c(CCC(=O)O)c3CC(=O)O
+Dihydrosirohydrochlorin	C[C@@]1(CC(=O)O)/C2=C/c3[nH]c(c(CCC(=O)O)c3CC(=O)O)Cc3[nH]c(c(CC(=O)O)c3CCC(=O)O)/C=C3\N/C(=C\C(=N2)[C@H]1CCC(=O)O)[C@@](C)(CC(=O)O)[C@@H]3CCC(=O)O
 Erythrophleine	C[C@@H]\1[C@H]2[C@H](CC/C1=C\C(=O)OCCNC)[C@]3(CCC[C@]([C@@H]3C[C@@H]2O)(C)C(=O)OC)C
 Folpet	C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
 Ivosidenib	c1ccc(c(c1)[C@@H](C(=O)NC2CC(C2)(F)F)N(c3cc(cnc3)F)C(=O)[C@@H]4CCC(=O)N4c5cc(ccn5)C#N)Cl
@@ -22921,8 +22920,10 @@ Roridin E	CC1=C[C@@H]2[C@@]3(CC1)COC(=O)/C=C(/CCO[C@H](/C=C/C=C\C(=O)O[C@H]4[C@]
 2-Methylpentanal	CCCC(C)C=O
 Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 3-Thioescaline	CCOC1=C(C=C(C=C1SC)CCN)OC
+4-Thioescaline	CCSC1=C(C=C(C=C1OC)CCN)OC
 3-Thiomescaline	COC1=C(C(=CC(=C1)CCN)SC)OC
 4-Thiomescaline	COC1=CC(=CC(=C1SC)OC)CCN
+3-Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -23006,7 +23007,7 @@ Botryococcenes	C[C@H](CC[C@H](C)C(=C)CC[C@H](C)C(=C)C)/C=C/[C@@](C)(CC[C@H](C)C(
 BB-Cl-Amidine	C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)N[C@@H](CCCN=C(CCl)N)C3=NC4=CC=CC=C4N3
 Tridecanal	CCCCCCCCCCCCC=O
 Lumequeic acid	CCCCCCCC/C=C\CCCCCCCCCCCCCCCCCCCC(=O)O
-Hypogeic acid	CCCCCCCC/C=C/CCCCCC(=O)O
+Hypogeic acid	CCCCCCCC/C=C\CCCCCC(=O)O
 GSK484	CN1C2=C(C=C(C=C2OC)C(=O)N3CC[C@H]([C@H](C3)N)O)N=C1C4=CC5=CC=CC=C5N4CC6CC6
 Luteoliflavan	C1CC2=C(C=C(C=C2OC1C3=CC(=C(C=C3)O)O)O)O
 AFM-30a	CN1C2=CC=CC=C2N=C1[C@H](CCCN=C(CF)N)NC(=O)C3=CC=CC4=C3C(=O)NC4
@@ -24147,6 +24148,7 @@ Trelanserin	C1CN(CCN1CCC2=CC(=O)N(C3=C2C=CC(=C3)F)CC(=O)N)C4=NC=CC5=C4C=CS5
 AGK2 (SIRT2 inhibitor)	C1=CC2=C(C=CC=N2)C(=C1)NC(=O)/C(=C/C3=CC=C(O3)C4=C(C=CC(=C4)Cl)Cl)/C#N
 FLS-359	CC1=CN(C(=N1)C)C2=CC3=C(CCN(C3)C4=NC=C(S4)CC5=CC=C(C=C5)N6C=CC=N6)C=C2
 SirReal2	CC1=CC(=NC(=N1)SCC(=O)NC2=NC=C(S2)CC3=CC=CC4=CC=CC=C43)C
+Trimethylphosphine oxide	CP(=O)(C)C
 Metrenperone	CC1=CN2C(=NC(=C(C2=O)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F)C)C=C1
 MT-1207	C1CN(CCN1CCCCN2C3=CC=CC=C3N=N2)C4=NSC5=CC=CC=C54
 5-Heptadecylresorcinol	CCCCCCCCCCCCCCCCCC1=CC(=CC(=C1)O)O
@@ -24166,3 +24168,6 @@ YC8-02	CCCCCCCCCCCCCC(=S)NCCCC[C@@H](C(=O)NC1=CC(=CC=C1)O)NCC[P+](C2=CC=CC=C2)(C
 Propyl isocyanate	CCCN=C=O
 2-Hydroxyethyl methyl terephthalate	COC(=O)C1=CC=C(C=C1)C(=O)OCCO
 Butyl isocyanate	CCCCN=C=O
+Pentyl isocyanate	CCCCCN=C=O
+2T-2CTFM-3PIP	CSc1cc(c(cc1C1CCCNC1)OC)C(F)(F)F
+2C-5-TOET	CCC1=CC(=C(C=C1SC)CCN)OC
