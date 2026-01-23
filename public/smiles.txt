@@ -22924,6 +22924,7 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 3-Thiomescaline	COC1=C(C(=CC(=C1)CCN)SC)OC
 4-Thiomescaline	COC1=CC(=CC(=C1SC)OC)CCN
 3-Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
+4-Thiometaescaline	CCOC1=CC(=CC(=C1SC)OC)CCN
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -24171,3 +24172,7 @@ Butyl isocyanate	CCCCN=C=O
 Pentyl isocyanate	CCCCCN=C=O
 2T-2CTFM-3PIP	CSc1cc(c(cc1C1CCCNC1)OC)C(F)(F)F
 2C-5-TOET	CCC1=CC(=C(C=C1SC)CCN)OC
+But-3-enoic acid	OC(=O)CC=C
+Gorlic acid	C1C[C@H](C=C1)CCCCCC/C=C\CCCCC(=O)O
+Grevillol	CCCCCCCCCCCCCC1=CC(=CC(=C1)O)O
+Holmium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ho+3].[Ho+3]
