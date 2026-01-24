@@ -6012,7 +6012,6 @@ Bilane	C1=CNC(=C1)CC2=CC=C(N2)CC3=CC=C(N3)CC4=CC=CN4
 Dihydrolipoamide	O=C(N)CCCCC(S)CCS
 Cilengitide	O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
 Fluorosulfonate	[O-]S(=O)(=O)F
-Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
 Heme O	OC(=O)CC/c6c(\C)c3n7c6cc2c(/CCC(O)=O)c(/C)c1cc5n8c(cc4n([Fe]78n12)c(c=3)c(C=C)c4c)c(\C(O)CC\C=C(/C)CC\C=C(/C)CC\C=C(C)/C)c5\C
 Heme C	OC(=O)CC/c6c(\C)c3n7c6cc2c(/CCC(O)=O)c(/C)c1cc5n8c(cc4n([Fe]78n12)c(c=3)c(C(S)=C)c4c)c(\C(S)=C)c5\C
 Heme B	OC(=O)CC/C6=C(\C)/C=3/N=C6/C=C2/C(/CCC(O)=O)=C(/C)\C1=C\C5=N\C(=C/c4n([Fe]N12)c(C=3)c(C=C)c4C)C(\C=C)=C5\C
@@ -22925,6 +22924,7 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 4-Thiomescaline	COC1=CC(=CC(=C1SC)OC)CCN
 3-Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
 4-Thiometaescaline	CCOC1=CC(=CC(=C1SC)OC)CCN
+5-Thiometaescaline	CCOC1=C(C(=CC(=C1)CCN)SC)OC
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -23603,6 +23603,7 @@ Ferruginine	CC(=O)C1=CCC2CCC1N2C
 Benzoylprop	CCOC(=O)C(C)N(C1=CC(=C(C=C1)Cl)Cl)C(=O)C2=CC=CC=C2
 Sulfaclozine	Nc1ccc(S(=O)(=O)Nc2cncc(Cl)n2)cc1
 Flufenauxirim	COC1=C(C=CC(=C1F)C2=NC(=C(C(=N2)N)OC)C(=O)O)C(F)(F)F
+Isoxafenacil	CCOC(=O)C1(C)CC(c2cc(-n3c(=O)cc(C(F)(F)F)n(C)c3=O)c(F)cc2Cl)=NO1
 Trifluoroacetyl fluoride	C(=O)(C(F)(F)F)F
 Benzoyl fluoride	C1=CC=C(C=C1)C(=O)F
 Tegtociclib	CC(C)NC(=O)O[C@@H]1CC[C@@H](C1)C2=CC(=NN2)NC(=O)C3=CC(=NN3C)COC
@@ -24176,3 +24177,10 @@ But-3-enoic acid	OC(=O)CC=C
 Gorlic acid	C1C[C@H](C=C1)CCCCCC/C=C\CCCCC(=O)O
 Grevillol	CCCCCCCCCCCCCC1=CC(=CC(=C1)O)O
 Holmium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Ho+3].[Ho+3]
+Holmium(III) sulfate	O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Ho+3].[Ho+3]
+Holmium(III) sulfate	O.O.O.O.O.O.O.O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Ho+3].[Ho+3]
+SW033291	CCCCS(=O)C1=C(C2=C(C=C(C=C2S1)C3=CC=CS3)C4=CC=CC=C4)N
+2,3-Dioxopropanoic acid	O=CC(=O)C(=O)O
+HW201877	O=C1N2C=CC(=CC2=NN1C)N1C[C@H]2C[C@H]2c2cc(cnc12)C(=O)N1CCC(F)(F)CC1
+ML148	CC1=CC(=CC=C1)N2C=NC3=C2C=CC(=C3)C(=O)N4CCCCC4
+SW209415	Cn1c(cnc1C)c1cc(nc2sc([S@](=O)CCCC)c(N)c21)c1sccn1
