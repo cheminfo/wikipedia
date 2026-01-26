@@ -22925,6 +22925,7 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 3-Thiometaescaline	CCSC1=CC(=CC(=C1OC)OC)CCN
 4-Thiometaescaline	CCOC1=CC(=CC(=C1SC)OC)CCN
 5-Thiometaescaline	CCOC1=C(C(=CC(=C1)CCN)SC)OC
+3-Thioasymbescaline	CCOC1=C(C=C(C=C1SCC)CCN)OC
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -24186,3 +24187,12 @@ ML148	CC1=CC(=CC=C1)N2C=NC3=C2C=CC(=C3)C(=O)N4CCCCC4
 SW209415	Cn1c(cnc1C)c1cc(nc2sc([S@](=O)CCCC)c(N)c21)c1sccn1
 Cinchomeronic acid	O=C(O)C=1C=NC=CC1C(=O)O
 SW222746	CN1C=CC2=C(C1=O)C=CC(=C2)C3=CN=C4C=CC(=CC4=N3)C(=O)N5CCCCC5
+Sodium antimonide	[Na+].[Na+].[Na+].[Sb-3]
+Borofalan	B(C1=CC=C(C=C1)C[C@@H](C(=O)O)N)(O)O
+Borofalan	[10B](C1=CC=C(C=C1)C[C@@H](C(=O)O)N)(O)O
+Bupleurotoxin	CCC[C@@H](CC/C=C/C=C/C#CC#C/C=C\CO)O
+Matsupexole	CCCN(C(=O)[C@@H]1C[C@@H]2CC3=C(C[C@H]2N(C1)C)SC(=C3C#N)N)C(=O)NCCN(C)C
+Azidophenylalanine	C1=CC(=CC=C1C[C@@H](C(=O)O)N)N=[N+]=[N-]
+IS-159	C1=CC(=CC=C1C[C@@H](C(=O)NCC(=O)N)NC(=O)COC2=CC3=C(C=C2)NC=C3CCN)O
+SB-616234	C[C@@H]1CN(C[C@@H](N1)C)C2=C(C=C3CCN(C3=C2)C(=O)C4=CC=C(C=C4)C5=C(C=C(C=C5)C6=NOC(=N6)C)C)OC
+SB-247853	CC1=CC2=C(C=C1C(F)(F)F)N(CC2)C(=O)NC3=CN=C(C=C3)OCC4=CC=CC=N4
