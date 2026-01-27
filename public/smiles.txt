@@ -3581,7 +3581,7 @@ Chlorotrifluoromethane	ClC(F)(F)F
 Oxamniquine	CC(C)NCC1CCC2=CC(=C(C=C2N1)[N+](=O)[O-])CO
 1-Nonanol	CCCCCCCCCO
 2-Methylheptane	CCCCCC(C)C
-Phycoerythrobilin	C/C=C/1\[C@H](C(=O)N\C1=C/c2c(c(c([nH]2)/C=C\3/C(=C(C(=N3)C[C@@H]4C(=C(C(=O)N4)C=C)C)C)CCC(=O)O)CCC(=O)O)C)C
+Phycoerythrobilin	C=CC1=C(C)[C@@H](CC2=N/C(=C\c3[nH]c(/C=C4\NC(=O)[C@H](C)\C4=C/C)c(C)c3CCC(=O)O)C(CCC(=O)O)=C2C)NC1=O
 New methylene blue	[Cl-].Cc1cc2nc3cc(C)c(cc3[s+]c2cc1NCC)NCC
 Oxybuprocaine	O=C(OCCN(CC)CC)c1cc(OCCCC)c(cc1)N
 Tetracaine	O=C(OCCN(C)C)c1ccc(NCCCC)cc1
@@ -22517,7 +22517,6 @@ Carfentrazone	CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)CC(C(=O)O)Cl)Cl)F
 2,4-Dimethoxyamphetamine	CC(CC1=C(C=C(C=C1)OC)OC)N
 AZD-1134	CCC(=O)N1CCN(CC1)C2=CC=C(C=C2)NC(=O)C3=CC(=O)C4=C(O3)C(=CC(=C4)F)N5CCN(CC5)C
 Tribenzylamine	C1=CC=C(C=C1)CN(CC2=CC=CC=C2)CC3=CC=CC=C3
-Diboraanthracene	B1C2=CC=CC=C2BC3=CC=CC=C31
 Anidoxime	CCN(CC)CCC(=NOC(=O)NC1=CC=C(C=C1)OC)C2=CC=CC=C2
 Dimefadane	CN(C)C1CC(C2=CC=CC=C12)C3=CC=CC=C3
 Zirconium silicon sulfide	[Zr].[Si].[S]
@@ -22926,6 +22925,8 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 4-Thiometaescaline	CCOC1=CC(=CC(=C1SC)OC)CCN
 5-Thiometaescaline	CCOC1=C(C(=CC(=C1)CCN)SC)OC
 3-Thioasymbescaline	CCOC1=C(C=C(C=C1SCC)CCN)OC
+4-Thioasymbescaline	CCOC1=CC(=CC(=C1SCC)OC)CCN
+5-Thioasymbescaline	CCOC1=C(C(=CC(=C1)CCN)SC)OCC
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -24196,3 +24197,7 @@ Azidophenylalanine	C1=CC(=CC=C1C[C@@H](C(=O)O)N)N=[N+]=[N-]
 IS-159	C1=CC(=CC=C1C[C@@H](C(=O)NCC(=O)N)NC(=O)COC2=CC3=C(C=C2)NC=C3CCN)O
 SB-616234	C[C@@H]1CN(C[C@@H](N1)C)C2=C(C=C3CCN(C3=C2)C(=O)C4=CC=C(C=C4)C5=C(C=C(C=C5)C6=NOC(=N6)C)C)OC
 SB-247853	CC1=CC2=C(C=C1C(F)(F)F)N(CC2)C(=O)NC3=CN=C(C=C3)OCC4=CC=CC=N4
+Potassium antimonide	[K+].[K+].[K+].[Sb-3]
+SXC-2023	CC1=CC=C(C=C1)C(=O)SC[C@@H](C(=O)O)NC(=O)C
+Rapanone	CCCCCCCCCCCCCC1=C(C(=O)C=C(C1=O)O)O
+Pudafensine	COC1=CC2=C(C=C(C=C2)OC3C[C@H]4CC[C@@H](C3)N4)OC1=O
