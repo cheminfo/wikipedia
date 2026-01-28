@@ -6883,7 +6883,7 @@ Norfenfluramine	FC(F)(F)c1cccc(c1)CC(N)C
 Indalpine	c2(c1ccccc1[nH]c2)CCC3CCNCC3
 Femoxetine	O(c1ccc(OC)cc1)C[C@@H]3[C@@H](c2ccccc2)CCN(C)C3
 7-Hydroxyamoxapine	C1CN(CCN1)C2=NC3=C(C=C(C=C3)O)OC4=C2C=C(C=C4)Cl
-Phycocyanobilin	CC[C@@H]\1[C@H](C(=O)N/C1=C\C2=C(C(=C(N2)/C=C\3/C(=C(/C(=C\C4=NC(=O)C(=C4C)CC)/N3)C)CCC(=O)O)CCC(=O)O)C)C
+Phycocyanobilin	C/C=C1C(=C/c2[nH]c(/C=C3\N=C(/C=C4\NC(=O)C(CC)=C4C)C(C)=C3CCC(=O)O)c(CCC(=O)O)c2C)/NC(=O)[C@@H]/1C
 Bisdisulizole disodium	C1=CC(=CC=C1C2=NC3=C(C=C(C=C3N2)S(=O)(=O)O)S(=O)(=O)[O-])C4=NC5=C(C=C(C=C5N4)S(=O)(=O)O)S(=O)(=O)[O-].[Na+].[Na+]
 Methoxamine	O(c1ccc(OC)cc1C(O)C(N)C)C
 Dapagliflozin	CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1
@@ -13554,7 +13554,7 @@ N-Methylpseudoephedrine	O[C@@H](c1ccccc1)[C@@H](N(C)C)C
 4-Pyridylnicotinamide	O=C(Nc1ccncc1)c2cccnc2
 Trioctylphosphine	CCCCCCCCP(CCCCCCCC)CCCCCCCC
 Perfluorobutanesulfonyl fluoride	C(C(C(F)(F)S(=O)(=O)F)(F)F)(C(F)(F)F)(F)F
-PF-592,379	CCCN([C@@H](C)CO1)C[C@H]1C2=CN=C(N)C=C2
+PF-592379	CCCN([C@@H](C)CO1)C[C@H]1C2=CN=C(N)C=C2
 RJR-2429	C1(C2N(CC3)CCC3C2)=CN=CC=C1
 Quinclorac	O=C(O)c1c(Cl)ccc2cc(Cl)cnc12
 Chelidonic acid	O=C\1/C=C(\O/C(C(=O)O)=C/1)C(=O)O
@@ -23969,7 +23969,7 @@ DOH-5-hemiFLY	CC(CC1=C(C=CC2=C1CCO2)OC)N
 Plutonium(III) oxide	[O-2].[O-2].[O-2].[Pu+3].[Pu+3]
 Dehydrobufotenine	C[N+]1(CCC2=CNC3=C2C1=C(C=C3)[O-])C
 Iodocubane	C12C3C4C1C5C2C3C45I
-Ribose aminooxazoline	C(C1C(C2C(O1)N=C(O2)N)O)O
+Ribose aminooxazoline	C([C@@H]1[C@H]([C@@H]2[C@H](O1)N=C(O2)N)O)O
 4-HO-NET	CCNCCC1=CNC2=C1C(=CC=C2)O
 4-HO-NPT	CCCNCCC1=CNC2=C1C(=CC=C2)O
 2CB-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)Br
@@ -24184,6 +24184,7 @@ Holmium(III) sulfate	O.O.O.O.O.O.O.O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)
 SW033291	CCCCS(=O)C1=C(C2=C(C=C(C=C2S1)C3=CC=CS3)C4=CC=CC=C4)N
 2,3-Dioxopropanoic acid	O=CC(=O)C(=O)O
 HW201877	O=C1N2C=CC(=CC2=NN1C)N1C[C@H]2C[C@H]2c2cc(cnc12)C(=O)N1CCC(F)(F)CC1
+Silver decamolybdate	[Ag+].[Ag+].[Ag+].[Ag+].[Ag+].[Ag+].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[Mo+6].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
 ML148	CC1=CC(=CC=C1)N2C=NC3=C2C=CC(=C3)C(=O)N4CCCCC4
 SW209415	Cn1c(cnc1C)c1cc(nc2sc([S@](=O)CCCC)c(N)c21)c1sccn1
 Cinchomeronic acid	O=C(O)C=1C=NC=CC1C(=O)O
@@ -24201,3 +24202,9 @@ Potassium antimonide	[K+].[K+].[K+].[Sb-3]
 SXC-2023	CC1=CC=C(C=C1)C(=O)SC[C@@H](C(=O)O)NC(=O)C
 Rapanone	CCCCCCCCCCCCCC1=C(C(=O)C=C(C1=O)O)O
 Pudafensine	COC1=CC2=C(C=C(C=C2)OC3C[C@H]4CC[C@@H](C3)N4)OC1=O
+N-Acetylcysteine ethyl ester	CCOC(=O)[C@H](CS)NC(=O)C
+Lithium antimonide	[Li+].[Li+].[Li+].[Sb-3]
+Orenetide	C[C@H]([C@@H](C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(=O)N2CCC[C@H]2C(=O)O)N)O
+Cligosiban	COCC1=NN=C(N1C2=CN=C(C=C2)OC)N3CC(C3)OC4=C(C=C(C=C4)F)Cl
+Deuterated testosterone	[2H]C([2H])([2H])[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C
+UK-447841	COCC[C@H](CC1(CCCC1)C(=O)NCCCC2=CC=C(C=C2)Cl)C(=O)O
