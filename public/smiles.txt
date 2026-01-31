@@ -6325,7 +6325,7 @@ Indatraline	Clc1ccc(cc1Cl)[C@@H]3C[C@H](NC)c2ccccc23
 K-Strophanthidin	C[C@]12CC[C@H]3[C@H]([C@]1(CC[C@@H]2C4=CC(=O)OC4)O)CC[C@]5([C@@]3(CC[C@@H](C5)O)C=O)O
 Artemotil	CCO[C@@H]1[C@@H]([C@@H]2CC[C@H]([C@H]3[C@]24[C@H](O1)O[C@@](CC3)(OO4)C)C)C
 Sulfolene	C1C=CCS1(=O)=O
-Peonidin	Oc1cc2c(O)cc(O)cc2[o+]c1c3cc(OC)c(O)cc3
+Peonidin	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2O)ccc1O.[Cl-]
 Chloroiodomethane	ClCI
 Bromoiodomethane	BrCI
 Mazindol	ClC1=CC=C(C2(C3=CC=CC=C3C4=NCCN42)O)C=C1
@@ -17708,7 +17708,7 @@ Biferrocene	C1=C[CH-]C=C1.[Fe+2].C2=C[C-](C=C2)[C-](C=C3)C=C3.[Fe+2].C1=C[CH-]C=
 17α-Allyl-19-nortestosterone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(CC=C)O)CCC4=CC(=O)CC[C@H]34
 Vinylferrocene	C=C[C-]1C=CC=C1.C=C[C-]1C=CC=C1.[CH-]1C=CC=C1.[CH-]1C=CC=C1.[Fe+2].[Fe+2]
 3-Methylhistidine	CN1C=NC=C1CC(C(=O)O)N
-Azeloprazole	Cc1cnc(c(c1OCC2COC(OC2)(C)C)C)CS(=O)c3[nH]c4ccccc4n3
+Azeloprazole	CC1=CN=C(C(=C1OCC2COC(OC2)(C)C)C)C[S@@](=O)C3=NC4=CC=CC=C4N3
 Ertugliflozin	CCOc1ccc(cc1)Cc2cc(ccc2Cl)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O
 Netarsudil	Cc1ccc(c(c1)C)C(=O)OCc2ccc(cc2)[C@@H](CN)C(=O)Nc3ccc4cnccc4c3
 Latanoprostene bunod	C1[C@H]([C@@H]([C@H]([C@H]1O)C/C=C\CCCC(=O)OCCCCO[N+](=O)[O-])CC[C@H](CCC2=CC=CC=C2)O)O
@@ -24216,3 +24216,14 @@ PF-06412562	CC1=C(C=CC(=C1)OC2=NC=CC3=C2C=NN3)C4=C(N=CN=C4C)C
 Sandaracopimaric acid	CC1(CCC2C(=C1)CCC3C2(CCCC3(C)C(=O)O)C)C=C
 DPAI	CCCN(CCC)CCC1=C2C=CNC2=CC=C1
 Osmium oxide pentafluoride	F[Os](F)(F)(F)(F)=O
+7-Hydroxyropinirole	CCCN(CCC)CCC1=C2CC(=O)NC2=C(C=C1)O
+SD36	C1C[C@H](N2[C@H]1CCN(C[C@@H](C2=O)NC(=O)C3=CC4=C(N3)C=CC(=C4)C(F)(F)P(=O)(O)O)C(=O)CCCCCC#CC5=C6CN(C(=O)C6=CC=C5)C7CCC(=O)NC7=O)C(=O)N[C@@H](CCC(=O)N)C(=O)NC(C8=CC=CC=C8)C9=CC=CC=C9
+Stattic	C1=CC(=CC2=C1C=CS2(=O)=O)[N+](=O)[O-]
+Napabucasin	CC(=O)C1=CC2=C(O1)C(=O)C3=CC=CC=C3C2=O
+2,6-Dihydroxynaphthalene	C1=CC2=C(C=CC(=C2)O)C=C1O
+SHP099	CC1(CCN(CC1)C2=CN=C(C(=N2)N)C3=C(C(=CC=C3)Cl)Cl)N
+SA-8 (drug)	O=C\1Nc2ccc(I)cc2/C/1=C/c1cc(Br)c(OCC(=O)NCCOCCOCCOCCOCCn2nnc(c2)CNC2(C)CCN(CC2)c2nc(N)c(nc2)c2cccc(Cl)c2Cl)c(Br)c1
+CNS-5161	CN(C1=CC(=CC=C1)SC)C(=NC2=C(C=CC(=C2)SC)Cl)N
+BI-3406	CC1=NC2=CC(=C(C=C2C(=N1)N[C@H](C)C3=CC(=CC(=C3)N)C(F)(F)F)O[C@H]4CCOC4)OC
+13-Hydroxylergotrile	ClC1=C2C3C(=CC(O[H])=CC=3[C@]([H])3C[C@@](CC#N)CN(C)[C@]3([H])C2)N1[H]
+RU-24213	CCCN(CCC1=CC=CC=C1)CCC2=CC(=CC=C2)O
