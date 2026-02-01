@@ -5787,7 +5787,7 @@ Desoxypipradrol	C1(C(C2NCCCC2)C3=CC=CC=C3)=CC=CC=C1
 Fluproquazone	Fc3ccc(C/1=N/C(=O)N(c2cc(ccc\12)C)C(C)C)cc3
 Parahexyl	Oc2cc(cc1OC(C\3=C(/c12)CC(CC/3)C)(C)C)CCCCCC
 ABT-239	N#CC1=CC=C(C2=CC3=C(C=C2)OC(CCN4[C@@H](CCC4)C)=C3)C=C1
-Armstrong's acid	O=S(=O)(O)c1cccc2c1cccc2S(=O)(=O)O
+Armstrong acid	O=S(=O)(O)c1cccc2c1cccc2S(=O)(=O)O
 Ammonium cerium(IV) sulfate	[Ce+4].[O-]S(=O)(=O)[O-].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.O.O.[NH4+].[NH4+].[NH4+].[NH4+]
 7-Dehydrositosterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CC[C@@H](CC)C(C)C)C)[C@@]3(C)CC4
 Hexamethyltungsten	C[W](C)(C)(C)(C)C
@@ -10350,6 +10350,7 @@ A-68930	Oc1c(O)ccc2c1C[C@H](O[C@H]2CN)c3ccccc3
 7-OH-DPAT	CCCN(CCC)C1CCc2ccc(O)cc2C1
 SKF-81,297	Clc1c(O)c(O)cc2c1CCNCC2c3ccccc3
 A-86929	Oc1cc3c(cc1O)CCC4C3c2cc(CCC)sc2CN4
+Adrogolide	CCCC1=CC2=C(S1)CN[C@H]3[C@H]2C4=CC(=C(C=C4CC3)OC(=O)C)OC(=O)C
 Dinapsoline	Oc1c3c(ccc1O)[C@H]4c2c(cccc2C3)CNC4
 Dinoxyline	c3ccc(Oc24)c1c3CNCC1c4ccc(O)c2O
 Doxanthrine	c1ccc2c(c1)CN[C@H]3[C@H]2c4cc(c(cc4OC3)O)O
@@ -18965,7 +18966,7 @@ Upamostat	CCOC(=O)N1CCN(CC1)C(=O)[C@H](CC2=CC(=CC=C2)/C(=N\O)/N)NS(=O)(=O)C3=C(C
 Opaganib	C1C2CC3(CC1CC(C2)(C3)C(=O)NCC4=CC=NC=C4)C5=CC=C(C=C5)Cl
 Dichlorotetrakis(pyridine)rhodium(III) chloride	C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.C1=CC=NC=C1.[Cl-].[Cl-].[Cl-].[Rh+3]
 Uridine diphosphate N-acetylgalactosamine	CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O
-Fluoroestradiol (18F)	CC12CCC3C(C1CC(C2O)[18F])CCC4=C3C=CC(=C4)O
+Fluoroestradiol (18F)	C[C@]12CC[C@@]3([H])[C@](CCC4=C3C=CC(O)=C4)([H])C1C[C@@H]([18F])[C@@H]2O
 Iodine azide	IN=[N+]=[N-]
 Europium(II) fluoride	F[Eu]F
 Europium(II) fluoride	[F-].[F-].[Eu+2]
@@ -24063,6 +24064,7 @@ CTOP	C(C=1C=2C(NC1)=CC=CC2)[C@H]3NC(=O)[C@H](CC4=CC=C(O)C=C4)NC(=O)[C@@H](NC([C@
 2,4,6-TMPEA-NBOMe	COc1cc(OC)c(c(c1)OC)CCNCc1ccccc1OC
 4-AcO-EPT	CCCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
 5-MeO-MsBT	CCC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC
+N-Methylsuccinimide	CN1C(=O)CCC1=O
 7-Aminoflunitrazepam	CN1C(=O)CN=C(C2=C1C=CC(=C2)N)C3=CC=CC=C3F
 B115	CN1CCC(=CC1)/C=C/C2=CC=CC3=CC=CC=C32
 Serratenediol	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC[C@H]4C(=CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C2)(CC[C@@H](C3(C)C)O)C
@@ -24227,3 +24229,16 @@ CNS-5161	CN(C1=CC(=CC=C1)SC)C(=NC2=C(C=CC(=C2)SC)Cl)N
 BI-3406	CC1=NC2=CC(=C(C=C2C(=N1)N[C@H](C)C3=CC(=CC(=C3)N)C(F)(F)F)O[C@H]4CCOC4)OC
 13-Hydroxylergotrile	ClC1=C2C3C(=CC(O[H])=CC=3[C@]([H])3C[C@@](CC#N)CN(C)[C@]3([H])C2)N1[H]
 RU-24213	CCCN(CCC1=CC=CC=C1)CCC2=CC(=CC=C2)O
+BAY-293	CC1=NC2=CC(=C(C=C2C(=N1)N[C@H](C)C3=CC(=CS3)C4=CC=CC=C4CNC)OC)OC
+Vociprotafib	C[C@H]1[C@H](C2(CCN(CC2)C3=NC(=C(N=C3CO)SC4=C(C(=NC=C4)N)Cl)C)CO1)N
+Retrorsine	C/C=C\1/C[C@H]([C@@](C(=O)OCC2=CCN3[C@H]2[C@@H](CC3)OC1=O)(CO)O)C
+S32504	CCCN1CCO[C@H]2[C@H]1CCC3=C2C=C(C=C3)C(=O)N
+Sitneprotafib	C1CN(CCC12CC3=C([C@H]2N)C=CC=N3)C4=CN=C(C=N4)SC5=C(C(=NC=C5)N)Cl
+Glecirasib	CC1=C(C(=NC=C1)C(C)C)N2C3=NC(=C(C=C3C(=C(C2=O)C#N)N4CCN(CC4)C(=O)C=C)Cl)C5=C(C(=C(C(=C5F)F)F)F)N
+Etrabamine	CNC1CCC2=C(C1)SC=N2
+NLX-266	C1CN(CCC1(CNCCOC2=NC=CC(=C2)F)F)C(=O)C3=CC(=C(C=C3)F)Cl
+VUBI1	CC1=CC(=CC(=C1F)C)CN2C3=C(C(=CC(=C3)Cl)N4CCN(CC4)C)N=C2N5CC6(C5)CNC6
+Ordopidine	CCN1CCC(CC1)C2=C(C(=CC=C2)S(=O)(=O)C)F
+SIAIS562055	O=C1N(Cc2c(SCCCCCCCCCCCCN3CCC(Oc4cc5c(nc(C)nc5cc4OC)N[C@H](C)c4cc(N)cc(c4)C(F)(F)F)CC3)cccc12)C1CCC(=O)NC1=O
+Lithium propionate	[Li+].[O-]C(=O)CC
+Fipamezole	CCC1(CC2=C(C1)C=C(C=C2)F)C3=CN=CN3
