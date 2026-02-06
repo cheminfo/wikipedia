@@ -14499,7 +14499,7 @@ Daphnoretin	COC1=C(C=C2C(=C1)C=C(C(=O)O2)OC3=CC4=C(C=C3)C=CC(=O)O4)O
 Cryptopine	CN1CCc2cc(c(cc2C(=O)Cc3ccc4c(c3C1)OCO4)OC)OC
 Fangchinoline	C12=CC(=C3C=C1[C@@H](N(CC2)C)CC4=CC=C(C=C4)OC5=CC(C[C@]6(C=7C(=C(C(=CC7CCN6C)OC)O)O3)[H])=CC=C5OC)OC
 Isopavine	COC1=C(C=C2C3CNC(CC2=C1)C4=CC(=C(C=C34)OC)OC)OC
-Tetrahydrocoptisine	C1CN2CC3=C(CC2C4=CC5=C(C=C41)OCO5)C=CC6=C3OCO6
+Tetrahydrocoptisine	c1cc2c(c3c1C[C@H]1c4cc5c(cc4CCN1C3)OCO5)OCO2
 Acetylcorynoline	CC(=O)O[C@H]1CC2=CC3=C(C=C2[C@@H]4[C@]1(C5=C(CN4C)C6=C(C=C5)OCO6)C)OCO3
 Corydaline	C[C@@H]1[C@@H]2C3=CC(=C(C=C3CCN2CC4=C1C=CC(=C4OC)OC)OC)OC
 Corynoline	O1c2c(OC1)c3c(cc2)[C@@]5([C@H](N(C3)C)c4cc6OCOc6cc4C[C@@H]5O)C
@@ -14581,7 +14581,6 @@ Gigactonine	CCN1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2[C@@H]([C@@](C31)([C@]5(C[C@@H]([
 Phantasmidine	C1C[C@]23[C@H]1NC[C@H]2C4=C(O3)N=C(C=C4)Cl
 1-Deoxynojirimycin	C1[C@@H]([C@H]([C@@H]([C@H](N1)CO)O)O)O
 Cheilanthifoline	COC1=C(C=C2[C@@H]3CC4=C(CN3CCC2=C1)C5=C(C=C4)OCO5)O
-Cheilanthifoline	COc1cc2c(cc1O)CCN3C2Cc4ccc5c(c4C3)OCO5
 Pingbeinine	O[C@]1(C)CC[C@@H](N(C)C1)[C@@H](C)[C@H]4[C@@H](O)C[C@H]3[C@@H]5C/C=C2/C[C@@H](O)CC[C@]2(C)[C@H]5CC[C@@]34C
 Chelidonine	CN1CC2=C(C=CC3=C2OCO3)[C@@H]4[C@H]1C5=CC6=C(C=C5C[C@@H]4O)OCO6
 Ψ-2C-T-4	CC(C)SC1=CC(=C(C(=C1)OC)CCN)OC
@@ -24257,3 +24256,8 @@ Friedelane	C[C@H]1CCC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4
 N-Hydroxyamphetamine	CC(CC1=CC=CC=C1)NO
 N-Hydroxymethamphetamine	CC(CC1=CC=CC=C1)N(C)O
 Subasumstat	CC1=C(C=C(S1)C(=O)C2=CN=CN=C2N[C@@H]3C[C@@H]([C@H](C3)O)COS(=O)(=O)N)[C@H]4C5=C(CCN4)C=CC(=C5)Cl
+Butenachlor	N(COC/C=C\C)(C(CCl)=O)C1=C(CC)C=CC=C1CC
+INCB086550	CC1=C(C=CC=C1C2=NC3=CC(=CC(=C3O2)C#N)CN4CC[C@H](C4)C(=O)O)C5=C(C(=CC=C5)NC6=NC=CC7=CC(=CN=C76)CN8CC[C@H](C8)O)C
+VVD-214	CC(C1=NC=C(C(=N1)OC2=CC=CC=C2)C(=O)N[C@H](/C=C/S(=O)(=O)C)C3CC3)(F)F
+Geranylfarnesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)C
+Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O)O
