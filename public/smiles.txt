@@ -7602,7 +7602,6 @@ Sodium tetrafluoroborate	[B-](F)(F)(F)F.[Na+]
 Nitronium tetrafluoroborate	[B-](F)(F)(F)F.[N+](=O)=O
 Sigmodal	CCCC(C)C1(C(=O)NC(=O)NC1=O)CC(=C)Br
 Petrichloral	ClC(Cl)(Cl)C(O)OCC(COC(O)C(Cl)(Cl)Cl)(COC(O)C(Cl)(Cl)Cl)COC(O)C(Cl)(Cl)Cl
-Allotropes of phosphorus	P12P3P1P23
 Pentosidine	C1=CN(C2=NC(=NC2=C1)NCCC[C@@H](C(=O)O)N)CCCC[C@@H](C(=O)O)N
 Axitinib	CNC(=O)c1ccccc1Sc4ccc3c(C=Cc2ccccn2)n[nH]c3c4
 Diketene	O=C1OC(=C)C1
@@ -24262,3 +24261,7 @@ INCB086550	CC1=C(C=CC=C1C2=NC3=CC(=CC(=C3O2)C#N)CN4CC[C@H](C4)C(=O)O)C5=C(C(=CC=
 VVD-214	CC(C1=NC=C(C(=N1)OC2=CC=CC=C2)C(=O)N[C@H](/C=C/S(=O)(=O)C)C3CC3)(F)F
 Geranylfarnesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)C
 Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O)O
+2-chloro-2-phenylethylamine	C1=CC=C(C=C1)C(CN)Cl
+Erucamide	CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N
+Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
+Benzadox-ammonium	C1=CC=C(C=C1)C(=O)NOCC(=O)[O-].[NH4+]
