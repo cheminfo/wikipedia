@@ -15667,7 +15667,6 @@ Cyanoform	C(#N)C(C#N)C#N
 Potassium tetrafluoroborate	[B-](F)(F)(F)F.[K+]
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
-Pentacyanocyclopentadiene	C(#N)C1C(=C(C(=C1C#N)C#N)C#N)C#N
 17α-Estradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
 Tropoflavin	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 1,2-Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
@@ -24265,3 +24264,5 @@ Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O
 Erucamide	CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N
 Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
 Benzadox-ammonium	C1=CC=C(C=C1)C(=O)NOCC(=O)[O-].[NH4+]
+Nopol	CC1(C2CC1C(=C2)CCO)C
+Nopol	C(CO)C=1[C@]2(C(C)(C)[C@](C2)(CC1)
