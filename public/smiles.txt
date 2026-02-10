@@ -6193,7 +6193,7 @@ Troparil	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)C3=CC=CC=C3)C(=O)OC
 Anatoxin-a	CC(=O)C1=CCCC2CCC1N2
 Cylindrospermopsin	O=C1/C=C(\N=C(\O)N1)[C@@H](O)[C@H]2C[C@H]4C[C@H](OS(O)(=O)=O)[C@H](C)C3C\[NH+]=C(\N2)N34
 4-Nitrophenol	c1cc(ccc1[N+](=O)[O-])O
-Para-Methoxymethamphetamine	C1=CC(=CC=C1CC(C)NC)OC
+Para-Methoxymethamphetamine	CC(CC1=CC=C(C=C1)OC)NC
 Para-Methoxy-N-ethylamphetamine	O(c1ccc(cc1)CC(NCC)C)C
 Etilamfetamine	N(C(Cc1ccccc1)C)CC
 Methylcyclohexane	CC1CCCCC1
@@ -15579,7 +15579,7 @@ CP-132,484	Cn1cc(c2c1ccc3c2CCCO3)CCN
 1-Methylpsilocin	CN(C)CCc(cn1C)c2c1cccc2O
 DR-4485	c4cc(Cl)ccc4C(CC5)=CCN5CCCCC2(CCC3)c1c3c(Cl)ccc1NC2=O
 CID16020046	Cc5ccc(c3n[nH]c4C(=O)N(c1ccc(C(=O)O)cc1)C(c2cccc(O)c2)c34)cc5
-Lespedamine	O(n2c1ccccc1c(c2)CCN(C)C)C
+Lespedamine	CN(C)CCC1=CN(C2=CC=CC=C21)OC
 PSB-CB5	Clc4ccc(cc4)COc(c2)cccc2\C=C(\C1=O)/N=C3N1CCCS3
 Calcium monosilicide	[Si]=[Ca]
 WB-4101	COc1cccc(c1OCCNCC2COc3ccccc3O2)OC
@@ -16111,7 +16111,7 @@ PF-3845	O=C(NC1=CN=CC=C1)N(CC2)CCC2CC3=CC=CC(OC4=NC=C(C(F)(F)F)C=C4)=C3
 Gomberg's dimer	C1=CC=C(C=C1)C(=C2C=CC(C=C2)C(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5)C6=CC=CC=C6
 Benzocyclooctatetraene	c1cccc2\C=C/C=C\C=C/c12
 Omarigliptin	CS(=O)(=O)n1cc2c(n1)CN(C2)[C@@H]3C[C@@H]([C@H](OC3)c4cc(ccc4F)F)N
-NBOMe-mescaline	COC1=CC(CCNCC2=C(OC)C=CC=C2)=CC(OC)=C1OC.Cl
+NBOMe-mescaline	COC1=CC=CC=C1CNCCC2=CC(=C(C(=C2)OC)OC)OC
 5-Oxo-eicosatetraenoic acid	CCCCC\C=C/C\C=C/C\C=C/C=C/C(=O)CCCC(O)=O
 Diapocynin	CC(=O)C1=CC(=C(C(=C1)OC)O)C2=C(C(=CC(=C2)C(=O)C)OC)O
 1,6-Methano(10)annulene	c1ccc2ccccc(c1)C2
@@ -24266,3 +24266,8 @@ Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
 Benzadox-ammonium	C1=CC=C(C=C1)C(=O)NOCC(=O)[O-].[NH4+]
 Nopol	CC1(C2CC1C(=C2)CCO)C
 Nopol	C(CO)C=1[C@]2(C(C)(C)[C@](C2)(CC1)
+Swep	COC(=O)NC1=CC(=C(C=C1)Cl)Cl
+Lambertianic acid	CC12CCCC(C1CCC(=C)C2CCC3=COC=C3)C(=O)OC
+Tetraethylsilane	CC[Si](CC)(CC)CC
+Dipropyldopamine	CCCN(CCC)CCC1=CC(=C(C=C1)O)O
+Debenzergoline	C1C2CC3=CN([H])C=C3C[C@@]2([H])N(CCC)CC1
