@@ -5925,6 +5925,7 @@ Chrysene	c1ccc2c(c1)ccc3c2ccc4c3cccc4
 Prostaglandin D2	CCCCC[C@@H](/C=C/[C@@H]1[C@H]([C@H](CC1=O)O)C/C=C\CCCC(=O)O)O
 18-Hydroxycorticosterone	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@H](C(=O)CO)CC[C@H]3[C@@H]1CC2)CO)(C)CC4
 Acibenzolar-S-methyl	CSC(=O)c1cccc2nnsc12
+Chrome orange	[O-][Cr](=O)(=O)[O-].O=[Pb].[Pb+2]
 DiOC6	[I-].o1c4ccccc4[n+](c1C=CC=C3Oc2ccccc2N3CCCCCC)CCCCCC
 Fluoroamine	FN
 CHES (buffer)	O=S(=O)(O)CCNC1CCCCC1
@@ -24271,3 +24272,6 @@ Lambertianic acid	CC12CCCC(C1CCC(=C)C2CCC3=COC=C3)C(=O)OC
 Tetraethylsilane	CC[Si](CC)(CC)CC
 Dipropyldopamine	CCCN(CCC)CCC1=CC(=C(C=C1)O)O
 Debenzergoline	C1C2CC3=CN([H])C=C3C[C@@]2([H])N(CCC)CC1
+Diaza-2C-DFLY	N([H])([H])CCC1=C2C=CNC2=CC2=C1NC=C2
+4-(2-Aminopropyl)indole	CC(CC1=C2C=CNC2=CC=C1)N
+Methallatal	CCC1(C(=O)NC(=S)NC1=O)CC(=C)C
