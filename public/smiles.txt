@@ -937,7 +937,7 @@ Parathion	S=P(Oc1ccc(cc1)[N+]([O-])=O)(OCC)OCC
 2C-C	COc1cc(CCN)c(cc1Cl)OC
 2C-D	O(c1cc(c(OC)cc1CCN)C)C
 2C-T-21	COc1cc(SCCF)c(cc1CCN)OC
-2,5-Dimethoxy-4-methylamphetamine	O(c1cc(c(OC)cc1C[C@H](N)C)C)C
+2,5-Dimethoxy-4-methylamphetamine	CC1=CC(=C(C=C1OC)CC(C)N)OC
 2,5-Dimethoxy-4-bromoamphetamine	CC(CC1=CC(=C(C=C1OC)Br)OC)N
 Fludrocortisone	O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]1(/C(=C\C(=O)CC1)CC[C@H]4[C@@H]2CC3)C)C
 3,4-Methylenedioxyamphetamine	NC(C)CC1=CC2=C(C=C1)OCO2
@@ -4828,7 +4828,7 @@ Zolazepam	FC1=CC=CC=C1C2=NCC(N(C)C3=C2C(C)=NN3C)=O
 Vanadium hexacarbonyl	O=C=[V](=C=O)(=C=O)(=C=O)(=C=O)=C=O
 Tetrazepam	CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3
 MLD-41	O=C(N(CC)CC)[C@@H]3/C=C2/c4cccc1c4c(cn1C)C[C@H]2N(C3)C
-LAE-32	CCNC(=O)[C@@H]2C=C1c3cccc4[nH]cc(C[C@H]1N(C)C2)c34
+LAE-32	CCNC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 LPD-824	O=C(N1CCCC1)[C@@H]4C=C3c5cccc2c5c(c[nH]2)C[C@H]3N(C4)C
 LSM-775	O=C(N1CCOCC1)[C@@H]5C=C4c2cccc3c2c(c[nH]3)C[C@H]4N(C)C5
 DAM-57	O=C(N(C)C)[C@@H]3C=C2c4cccc1c4c(c[nH]1)C[C@H]2N(C3)C
@@ -23029,7 +23029,7 @@ Chloroxynil	C1=C(C=C(C(=C1Cl)O)Cl)C#N
 Chlorocitric acid	OC(=O)CC(O)(C(Cl)C(O)=O)C(O)=O
 AG-270	COC1=CC=C(C(C2=O)=C(N=C3C(C4=CCCCC4)=C(NN32)C5=CC=CC=C5)NC6=CC=CC=N6)C=C1
 Exocarpic acid	C(CCCCCCCC#CC#C\C=C\CCCC)(=O)O
-CE-LAD	CCN(C([C@H]1CN([C@]2([H])CC3=CN([H])C4=CC=CC(C2=C1)=C34)CCCl)=O)CC
+CE-LAD	CCN(CC)C([C@H]1CN(CCCl)[C@@]2(CC3=CNC4=CC=CC(C2=C1)=C34)[H])=O
 Isanic acid	OC(=O)CCCCCCCC#CC#CCCCCC=C
 Helenynolic acid	CCCCCC#CC=CC(CCCCCCCC(=O)O)O
 SRI-42127	CN(C1CCOCC1)C2=NN3C(=NC=C3C4=CC5=C(C=C4)C=NN5)C=C2
@@ -24054,7 +24054,7 @@ P7C3-A20	COC1=CC=CC(=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)F
 1Fe-LSD	CCN(C([C@H]1CN(C)[C@]2([H])Cc3c4c(C2=C1)cccc4n(C(c5ccc[cH-]5)=O)c3)=O)CC.c6[cH-]ccc6.[Fe+2]
 1SB-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccc(cc4)[Si](C)(C)C)c5cccc(C2=C1)c35
 1Bz-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccccc4)c5cccc(C2=C1)c35
-1D-AL-LAD	CCN(CC)C(=O)[C]1CN(CC=C)[C@@H]2Cc3cn(C(=O)C4(C)CCC4C)c5cccc(C2=C1)c35
+1D-AL-LAD	C=CCN1C[C@H](C(N(CC)CC)=O)C=C2C3C=CC=C4C3C(C[C@]21[H])=CN4C(C5(CCC5([H])C)C)=O
 4-PrO-MET	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)CC
 4-Fluorodeprenyl	CC(CC1=CC=C(C=C1)F)N(C)CC#C
 Tolserine	CC1=CC=CC=C1NC(=O)OC2=CC3=C(C=C2)N([C@@H]4[C@]3(CCN4C)C)C
@@ -24081,7 +24081,7 @@ Agrocybin	C(C#CC#CC#CC(=O)N)O
 2-Methylpentadecane	CCCCCCCCCCCCCC(C)C
 Palmitoyl tetrapeptide-7	CCCCCCCCCCCCCCCC(=O)NCC(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
 Cadmium sulfite	[O-]S(=O)[O-].[Cd+2]
-1BP-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccc(cc4)B5OC(CC)(CC)C(CC)(CC)O5)c6cccc(C2=C1)c36
+1BP-LSD	CCN(C([C@H](C=C1[C@@]2([H])CC3=CN(C(CCB4OC(C)(C)C(C)(C)O4)=O)C5=CC=CC1=C35)CN2C)=O)CC
 Diisopropylmercury	CC(C)[Hg]C(C)C
 5-HO-MET	CCN(C)CCC1=CNC2=C1C=C(C=C2)O
 Methylcyclopropyltryptamine	CN(CCC1=CNC2=CC=CC=C21)C3CC3
@@ -24275,3 +24275,4 @@ Debenzergoline	C1C2CC3=CN([H])C=C3C[C@@]2([H])N(CCC)CC1
 Diaza-2C-DFLY	N([H])([H])CCC1=C2C=CNC2=CC2=C1NC=C2
 4-(2-Aminopropyl)indole	CC(CC1=C2C=CNC2=CC=C1)N
 Methallatal	CCC1(C(=O)NC(=S)NC1=O)CC(=C)C
+Antiarigenin	C[C@@]12[C@H](CC[C@@]1([C@@H]3CC[C@@]4(CCCC[C@@]4([C@H]3C[C@H]2O)C=O)O)O)C5=CC(=O)OC5
