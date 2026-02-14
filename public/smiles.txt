@@ -3946,7 +3946,7 @@ Zearalenone	C[C@H]1CCCC(=O)CCC/C=C/c2cc(cc(c2C(=O)O1)O)O
 Thyronamine	O(c1ccc(cc1)CCN)c2ccc(O)cc2
 Chlorosulfuric acid	ClS(=O)(=O)O
 Deferasirox	OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O
-Sulindac	O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
+Sulindac	CC1=C(CC(O)=O)C2=CC=CC=C2/C1=C\C3=CC=C(S(C)=O)C=C3
 2-Chlorophenol	Oc1ccccc1Cl
 Gadopentetic acid	[Gd+3].[O-]C(=O)CN(CCN(CC(=O)O)CC([O-])=O)CCN(CC([O-])=O)CC(=O)O.O[C@H]([C@@H](O)CNC)[C@H](O)[C@H](O)CO.O[C@@H](CNC)[C@@H](O)[C@H](O)[C@H](O)CO
 Solketal	OCC1COC(C)(C)O1
@@ -8396,8 +8396,8 @@ Azasetron	CN1C(=O)COc2c1cc(Cl)cc2C(=O)NC3CN4CCC3CC4
 Plutonium(III) fluoride	[F-].[F-].[F-].[Pu+3]
 (E,E)-2,4-Decadienal	CCCCC\C=C\C=C\C=O
 Phenylacetaldehyde	O=CCc1ccccc1
-4-HO-MPMI	OC1=C2C(C[C@@]3([H])CCCN3C)=CNC2=CC=C1
-5-MeO-MPMI	CN1CCC[C@@H]1CC2=CNC3=C2C=C(C=C3)OC
+4-HO-MPMI	CN1CCCC1CC2=CNC3=C2C(=CC=C3)O
+5-MeO-MPMI	CN1CCCC1CC2=CNC3=C2C=C(C=C3)OC
 Chiraphos	P(c1ccccc1)(c2ccccc2)[C@H]([C@@H](P(c3ccccc3)c4ccccc4)C)C
 Tetramethylammonium pentafluoroxenate	C[N+](C)(C)C.F[Xe-](F)(F)(F)F
 2-C-Methyl-D-erythritol-2,4-cyclopyrophosphate	C[C@]1([C@H](COP(=O)(OP(=O)(O1)O)O)O)CO
@@ -9176,7 +9176,7 @@ Ethyl gallate	CCOC(=O)c1cc(c(c(c1)O)O)O
 Pyocyanin	CN1C2=CC=CC=C2N=C3C1=CC=CC3=O
 Thymoquinone	CC1=CC(=O)C(=CC1=O)C(C)C
 Bactoprenol	C/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CCC(C)CCO
-5-APDB	Cl.CC(N)Cc1cc2CCOc2cc1
+5-APDB	CC(CC1=CC2=C(C=C1)OCC2)N
 Ripazepam	CCN1C2=C(C(=N1)C)NC(=O)CN=C2C3=CC=CC=C3
 Ibutamoren	O=S(C)(=O)N(C2)c1ccccc1C23CCN(CC3)C(=O)C(NC(=O)C(N)(C)C)COCc4ccccc4
 SM-130686	FC(F)(F)c3c1c(cc(c3)C(N)=O)N(CCN(CC)CC)C(=O)C1(O)c2ccccc2Cl
@@ -9631,7 +9631,7 @@ Dichloroacetamide	ClC(Cl)C(=O)N
 2-Heptanol	OC(C)CCCCC
 Ethylmagnesium bromide	Br[Mg]CC
 Trimetozine	COC1=CC(=CC(=C1OC)OC)C(=O)N2CCOCC2
-2CBCB-NBOMe	COc1ccccc1CNCC3c2c(C3)c(OC)c(Br)cc2OC
+2CBCB-NBOMe	COC1=CC=CC=C1CNCC2CC3=C2C(=CC(=C3OC)Br)OC
 Chlorozotocin	ClCCN(N=O)C(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO
 DHA-paclitaxel	O=C(c1ccccc1)N[C@@H](c2ccccc2)[C@@H](OC(=O)CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC)C(=O)O[C@@H]5C(=C4/[C@@H](OC(=O)C)C(=O)[C@]7([C@H]([C@H](OC(=O)c3ccccc3)[C@@](O)(C4(C)C)C5)[C@@]6(OC(=O)C)[C@H](OC6)C[C@@H]7O)C)/C
 Mitozolomide	NC(=O)c1ncn2C(=O)N(CCCl)\N=N/c12
@@ -9815,7 +9815,7 @@ Zalospirone	O=C1N(C(=O)[C@@H]4[C@H]1[C@@H]2\C=C/[C@H]4[C@H]3\C=C/[C@@H]23)CCCCN6
 Ergothioneine	S=C1N\C(=C/N1)C[C@@H](C([O-])=O)[N+](C)(C)C
 Ergothioneine	C[N+](C)(C)C(CC1=CNC(=S)N1)C(=O)[O-]
 Azetidine-2-carboxylic acid	O=C(O)[C@H]1NCC1
-Jimscaline	COC1=C(C(=C2CC[C@H](C2=C1)CN)OC)OC
+Jimscaline	COC1=C(C(=C2CCC(C2=C1)CN)OC)OC
 UH-232	CC2C(N(CCC)CCC)CCc1c2cccc1OC
 9-Aminomethyl-9,10-dihydroanthracene	c3cccc1c3Cc2ccccc2C1CN
 Silver bromate	[Ag+].[O-]Br(=O)=O
@@ -10011,7 +10011,7 @@ Dioxane tetraketone	O=C(O1)C(OC(C1=O)=O)=O
 Eperezolid	CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCN(CC3)C(=O)CO)F
 Posizolid	O=C1N(CC3=CC(F)=C(C4=CCN(C([C@@H](O)CO)=O)CC4)C(F)=C3)C[C@H](OC2=NOC=C2)O1
 2CBFly-NBOMe	COc1ccccc1CNCCc1c2CCOc2c(Br)c2CCOc12
-TFMFly	c13OCCc3c(C(F)(F)F)c2OCCc2c1CC(C)N
+TFMFly	CC(CC1=C2CCOC2=C(C3=C1OCC3)C(F)(F)F)N
 PSN-632,408	CC(C)(C)OC(=O)N1CCC(CC1)OCc2nc(no2)-c3ccncc3
 AR-231,453	Fc2cc(S(=O)(C)=O)ccc2Nc1ncnc(c1N(=O)=O)N(CC3)CCC3c(n4)onc4C(C)C
 PSN-375,963	C3CC(CCCC)CCC3c(on1)nc1-c2ccncc2
@@ -15760,7 +15760,7 @@ Vinylcyclohexene dioxide	C1CC2C(O2)CC1C3CO3
 3,4-Epoxycyclohexylmethyl-3',4'-epoxycyclohexane carboxylate	C1CC2C(O2)CC1COC(=O)C3CCC4C(C3)O4
 HBTU	CN(C)C(=[N+](C)C)ON1C2=CC=CC=C2N=N1.F[P-](F)(F)(F)(F)F
 Hafnium(IV) iodide	I[Hf](I)(I)I
-Grazoprevir	O=C1C(C(C)(C)C)NC(=O)OC3CC3CCCCCc2nc4ccc(OC)cc4nc2OC(C6)CN1C6C(=O)NC5(CC5C=C)C(=O)NS(=O)(=O)C7CC7
+Grazoprevir	O=C1[C@@H](NC(O[C@H]2C[C@H]2CCCCCC3=NC4=CC=C(C=C4N=C3O[C@@H]5C[C@@H](C(N[C@]6(C(NS(=O)(C7CC7)=O)=O)C[C@H]6C=C)=O)N1C5)OC)=O)C(C)(C)C
 Elbasvir	CC(C)[C@@H](C(=O)N1CCC[C@H]1c2[nH]cc(n2)c3ccc4c(c3)cc-5n4[C@@H](Oc6c5ccc(c6)c7c[nH]c(n7)[C@@H]8CCCN8C(=O)[C@H](C(C)C)NC(=O)OC)c9ccccc9)NC(=O)OC
 12-Hydroxyheptadecatrienoic acid	CCCCC[C@@H](/C=C/C=C/C/C=C\CCCC(=O)O)O
 Hafnium tetrabromide	Br[Hf](Br)(Br)Br
@@ -18663,7 +18663,7 @@ Dimethyl chlorothiophosphate	COP(=S)(OC)Cl
 2-(Ethylamino)-1,2-diphenylethanone	CCNC(C1=CC=CC=C1)C(=O)C2=CC=CC=C2
 Givosiran	C[C@@H]1C[C@H](CN1C(=O)CCCCCCCCCCC(=O)NC(COCCC(=O)NCCCNC(=O)CCCCO[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)NC(=O)C)(COCCC(=O)NCCCNC(=O)CCCCO[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)NC(=O)C)COCCC(=O)NCCCNC(=O)CCCCO[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)NC(=O)C)O
 Cenobamate	C1=CC=C(C(=C1)C(CN2N=CN=N2)OC(=O)N)Cl
-4-HO-McPT	Oc3cccc2ncc(CCN(C)C1CC1)c23
+4-HO-McPT	CN(CCC1=CNC2=C1C(=CC=C2)O)C3CC3
 4-HO-McPeT	CN(CCC1=CNC2=C1C(=CC=C2)O)C3CCCC3
 Cyclohexylbenzene	C1CCC(CC1)C2=CC=CC=C2
 Ferric maltol	CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3]
@@ -20624,7 +20624,7 @@ Diethyl dixanthogen disulfide	S=C(SSC(=S)OCC)OCC
 2C-AL	COC1=CC(=C(C=C1CCN)OC)CC=C
 Sodium tris(carbonato)cobalt(III)	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Na+].[Na+].[Na+].[Co+3].O.O.O
 Tris(glycinato)cobalt(III)	C(C(=O)O)N.C(C(=O)O)N.C(C(=O)O)N.[Co]
-5-Fluoro-MPMI	CN1CCC[C@@H]1Cc2c[nH]c3ccc(F)cc23
+5-Fluoro-MPMI	CN1CCCC1CC2=CNC3=C2C=C(C=C3)F
 Γ-Cyclodextrin	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O
 Bis(triphenylphosphineoxide) manganese(III) chloride	Cl[Mn-2](Cl)(O[P+](c1ccccc1)(c2ccccc2)c3ccccc3)(Cl)O[P+](c1ccccc1)(c2ccccc2)c3ccccc3
 Hafnium(III) iodide	[I-].[I-].[I-].[Hf+3]
@@ -24268,6 +24268,7 @@ Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
 Benzadox-ammonium	C1=CC=C(C=C1)C(=O)NOCC(=O)[O-].[NH4+]
 Nopol	CC1(C2CC1C(=C2)CCO)C
 Nopol	C(CO)C=1[C@]2(C(C)(C)[C@](C2)(CC1)
+Benzenetellurol	C1=CC=C(C=C1)[TeH]
 Swep	COC(=O)NC1=CC(=C(C=C1)Cl)Cl
 Lambertianic acid	CC12CCCC(C1CCC(=C)C2CCC3=COC=C3)C(=O)OC
 Tetraethylsilane	CC[Si](CC)(CC)CC
@@ -24279,3 +24280,8 @@ Methallatal	CCC1(C(=O)NC(=S)NC1=O)CC(=C)C
 Antiarigenin	C[C@@]12[C@H](CC[C@@]1([C@@H]3CC[C@@]4(CCCC[C@@]4([C@H]3C[C@H]2O)C=O)O)O)C5=CC(=O)OC5
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Dy+3].[Dy+3]
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].O.O.O.O.[Dy+3].[Dy+3]
+SVT-NH-ethyl	C[C@@H](O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](N)CO)C(C)C)C(=O)NCC
+Gly-Pro-Glu	C1C[C@H](N(C1)C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+CyRL-QN15	O=C(O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CSSC1)CCC(=O)N)Cc1ccccc1)Cc1[NH]cnc1)Cc1ccc(O)cc1)CCSC
+Ethachlor	CCC1=CC=CC=C1N(COCC)C(=O)CCl
+Guanidinium carbonate	C(=N)(N)N.C(=N)(N)N.C(=O)(O)O
