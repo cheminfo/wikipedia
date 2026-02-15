@@ -7837,6 +7837,7 @@ Sucrose octaacetate	CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@
 Sodium monothiophosphate	[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
 Sodium monothiophosphate	O.O.O.O.O.O.O.O.O.[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
 Sodium monothiophosphate	O.O.O.O.O.O.O.O.O.O.O.O.[O-]P(=S)([O-])[O-].[Na+].[Na+].[Na+]
+LY-334370	CN1CCC(CC1)C2=CNC3=C2C=C(C=C3)NC(=O)C4=CC=C(C=C4)F
 Trimagnesium phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg+2]
 Monomagnesium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Mg+2]
 Dimagnesium phosphate	O=P([O-])(O)[O-].[Mg+2]
@@ -8598,7 +8599,7 @@ Amidephrine	O=S(=O)(Nc1cc(ccc1)C(O)CNC)C
 Anisodamine	O=C(O[C@@H]1C[C@@H]2N(C)[C@H](C1)C[C@@H]2O)[C@@H](c3ccccc3)CO
 Indanidine	CN1C=C2C(C=CC=C2NC2=NCCN2)=N1
 Mivazerol	O=C(c1c(O)c(ccc1)Cc2cnc[nH]2)N
-Talipexole	C=CCN1CCC2=C(CC1)SC(=N2)N
+Talipexole	C=CCN1CCC2=C(SC(N)=N2)CC1
 Guanoxabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)NO
 Aptiganel	CCC1=CC(=CC=C1)N(C)C(=NC2=CC=CC3=CC=CC=C32)N
 Selfotel	C1CN[C@@H](C[C@@H]1CP(=O)(O)O)C(=O)O
@@ -22567,7 +22568,7 @@ Butamisole	CC(C)C(=O)NC1=CC=CC(=C1)C2CN3CCSC3=N2
 Amidantel	CC(=NC1=CC=C(C=C1)NC(=O)COC)N(C)C
 Evobrutinib	C=CC(=O)N1CCC(CC1)CNC2=NC=NC(=C2C3=CC=C(C=C3)OC4=CC=CC=C4)N
 Kynuramine	C1=CC=C(C(=C1)C(=O)CCN)N
-Taniborbactam	B1([C@H](CC2=C(O1)C(=CC=C2)C(=O)O)NC(=O)CC3CCC(CC3)NCCN)O
+Taniborbactam	O=C(O)C1=CC=CC2=C1OB(O)[C@@H](NC(C[C@@H]3CC[C@@H](NCCN)CC3)=O)C2
 9,10-Dihydro-9-oxa-10-phosphaphenanthrene-10-oxide	C1=CC=C2C(=C1)C3=CC=CC=C3P(=O)O2
 Atumelnant	CC[C@@H]1CN(CCN1C2=C(N=C(C=C2)C3=CC=CC=C3OCC)C(=O)N[C@@H]4CN5CCC4CC5)C(=O)C6(CCC6)C(F)(F)F
 Gildeuretinol	[2H]C([2H])([2H])/C(=C\CO)/C=C/C=C(\C)/C=C/C1=C(CCCC1(C)C)C
@@ -24285,3 +24286,6 @@ Gly-Pro-Glu	C1C[C@H](N(C1)C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
 CyRL-QN15	O=C(O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CSSC1)CCC(=O)N)Cc1ccccc1)Cc1[NH]cnc1)Cc1ccc(O)cc1)CCSC
 Ethachlor	CCC1=CC=CC=C1N(COCC)C(=O)CCl
 Guanidinium carbonate	C(=N)(N)N.C(=N)(N)N.C(=O)(O)O
+NYX-2925	C[C@H]([C@@H](C(=O)N)N1C[C@@]2(C1=O)CCCN2C(=O)C(C)C)O
+SePP	C1=CC=CC=C1CC(N2CCCCC2)C3[Se]C=CC=3
+6-MeO-RU-28306	CN(C)C1CC2=CNC3=C2C(=C(C=C3)OC)C1
