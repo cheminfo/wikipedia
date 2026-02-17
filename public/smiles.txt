@@ -15569,6 +15569,7 @@ Americium(IV) fluoride	[F-].[F-].[F-].[F-].[Am+4]
 Americium(III) fluoride	F[Am](F)F
 Americium(III) bromide	[Br-].[Br-].[Br-].[Am+3]
 Americium(III) iodide	[I-].[I-].[I-].[Am+3]
+Americium(II) bromide	[Br-].[Br-].[Am+2]
 Americium(II) iodide	[I-].[I-].[Am+2]
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
@@ -19486,7 +19487,7 @@ Terrein	C/C=C/C1=CC(=O)[C@@H]([C@H]1O)O
 Indaziflam	C[C@H]1CC2=C([C@@H]1NC3=NC(=NC(=N3)N)C(C)F)C=C(C=C2)C
 7-Hydroxycannabidiol	CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)CO)O
 Ammonium selenide	[NH4+].[NH4+].[Se-2]
-Lenacapavir	CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O
+Lenacapavir	CC(C#CC1=NC([C@@H](NC(CN2N=C(C3=C2C(F)([C@@H]4C[C@H]34)F)C(F)(F)F)=O)CC5=CC(F)=CC(F)=C5)=C(C6=CC=C(C7=C6N(CC(F)(F)F)N=C7NS(C)(=O)=O)Cl)C=C1)(S(C)(=O)=O)C
 Δ4-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O
 Tetraethylammonium diiron oxyhexachloride	CC[N+](CC)(CC)CC.CC[N+](CC)(CC)CC.Cl[Fe-](Cl)(Cl)O[Fe-](Cl)(Cl)(Cl)
 Sodium trimethylsiloxide	C[Si](C)(C)[O-].[Na+]
@@ -20278,7 +20279,7 @@ N-Acetyltryptamine	CC(=O)NCCC1=CNC2=CC=CC=C21
 Speciociliatine	CC[C@@H]1CN2CCC3=C([C@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
 Enisamium iodide	C[N+]1=CC=C(C=C1)C(=O)NCC2=CC=CC=C2.[I-]
 C12–C13 alcohol glycidyl ether	CCCCCCCCCCCCCOCC1CO1.CCCCCCCCCCCCOCC1CO1
-F-11461	O=C1C=NN(C(=O)N1C)CCCCN2CCN(C3=CC=CC4=CC=C(O[11C])C=C43)CC2
+F-11461	CN1C(=O)C=NN(C1=O)CCCCN2CCN(CC2)C3=CC=CC4=C3C=C(C=C4)OC
 Tebideutorexant	[2H]C1([2H])[C@H]2C[C@@H](Oc3ccc(C(F)(F)F)cn3)[C@H](C2)N1C(=O)c1cccc(F)c1-c1ncccn1
 LAMPA	CCCN(C)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Aurantimycin A	C[C@H]1[C@@H](CC[C@](O1)([C@](C)(C(=O)N[C@H]2[C@@H](OC(=O)[C@H](N(C(=O)[C@@H]3CCCNN3C(=O)CNC(=O)[C@@H](N(C(=O)[C@H]4CCCNN4C2=O)O)COC)O)C)C(C)C)O)O)CC(C)C
@@ -23789,7 +23790,7 @@ TAN-821	CN(CCC1=CC=CC=C1)C(=O)[C@H]2C[C@@]34C=C[C@@]2([C@H]5[C@@]36CCN([C@@H]4CC
 MGM-15	CC[C@@H]1CN2CC[C@]3([C@@H]([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC)O
 7-Acetoxymitragynine	CC[C@@H]1CN2CC[C@]3(C(=NC4=C3C(=CC=C4)OC)[C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)OC(=O)C
 4-AcO-MPT	CCCN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
-4-PrO-DiPT	CCC(=O)c1cccc2c1c(CCN(C(C)C)C(C)C)c[nH]2
+4-PrO-DiPT	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C(C)C)C(C)C
 4-HO-AET	CCC(CC1=CNC2=C1C(=CC=C2)O)N
 (R)-70	C[C@H]1CN(CC(=C1)C2=CNC3=C2C=CC=N3)C
 Milsaperidone	C[C@@H](C1=CC(=C(C=C1)OCCCN2CCC(CC2)C3=NOC4=C3C=CC(=C4)F)OC)O
@@ -24059,6 +24060,7 @@ P7C3-A20	COC1=CC=CC(=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)F
 1Bz-LSD	CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccccc4)c5cccc(C2=C1)c35
 1D-AL-LAD	C=CCN1C[C@H](C(N(CC)CC)=O)C=C2C3C=CC=C4C3C(C[C@]21[H])=CN4C(C5(CCC5([H])C)C)=O
 4-PrO-MET	CCC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)CC
+Trimethylsilyl acetate	CC(=O)O[Si](C)(C)C
 4-Fluorodeprenyl	CC(CC1=CC=C(C=C1)F)N(C)CC#C
 Tolserine	CC1=CC=CC=C1NC(=O)OC2=CC3=C(C=C2)N([C@@H]4[C@]3(CCN4C)C)C
 CTOP	C(C=1C=2C(NC1)=CC=CC2)[C@H]3NC(=O)[C@H](CC4=CC=C(O)C=C4)NC(=O)[C@@H](NC([C@@H](CC5=CC=CC=C5)N)=O)CSSC(C)(C)[C@@H](C(N[C@@H]([C@@H](C)O)C(N)=O)=O)NC(=O)[C@]([C@@H](C)O)(NC(=O)[C@H](CCCN)NC3=O)[H]
@@ -24264,6 +24266,7 @@ INCB086550	CC1=C(C=CC=C1C2=NC3=CC(=CC(=C3O2)C#N)CN4CC[C@H](C4)C(=O)O)C5=C(C(=CC=
 VVD-214	CC(C1=NC=C(C(=N1)OC2=CC=CC=C2)C(=O)N[C@H](/C=C/S(=O)(=O)C)C3CC3)(F)F
 Geranylfarnesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)C
 Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O)O
+Tetramethylgermanium	C[Ge](C)(C)C
 2-chloro-2-phenylethylamine	C1=CC=C(C=C1)C(CN)Cl
 Erucamide	CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N
 Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
@@ -24293,3 +24296,6 @@ SePP	C1=CC=CC=C1CC(N2CCCCC2)C3[Se]C=CC=3
 Difamilast	CCOC1=CC=CC=C1C(=O)NCC2=COC(=N2)C3=CC=C(OC(F)F)C(OC(C)C)=C3
 5-Methoxytryptophan	COC1=CC2=C(C=C1)NC=C2C[C@@H](C(=O)O)N
 Dimethyltin dichloride	C[Sn](C)(Cl)Cl
+2,2-Dichloropropane	CC(C)(Cl)Cl
+GS (nerve agent)	P(C)(=O)(OC1CCCC1)F
+2CT2-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)SCC
