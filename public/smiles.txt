@@ -9929,7 +9929,7 @@ MDMAI	C3c2cc1OCOc1cc2CC3NC
 Rhodium(IV) oxide	[Rh+4].[O-2].[O-2]
 5-IAI	c2c1CC(N)Cc1ccc2I
 RU-24969	c3cc(OC)cc1c3[nH]cc1C=2CCNCC=2
-UH-301	C2Cc1c(c(O)ccc1F)CC2N(CCC)CCC
+UH-301	CCCN(CCC)[C@H]1CCC2=C(C=CC(=C2C1)O)F
 NAN-190	O=C1c2ccccc2C(=O)N1CCCCN4CCN(CC4)c3ccccc3OC
 U-92016-A	N#Cc3cc1c(ccc2c1C[C@H](N(CCC)CCC)CC2)[nH]3
 Naluzotan	O=C(Nc3cccc(N2CCN(CCCCNS(=O)(=O)CC1CCCCC1)CC2)c3)C
@@ -24299,3 +24299,5 @@ Dimethyltin dichloride	C[Sn](C)(Cl)Cl
 2,2-Dichloropropane	CC(C)(Cl)Cl
 GS (nerve agent)	P(C)(=O)(OC1CCCC1)F
 2CT2-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)SCC
+5-hydroxyindoline	C1CNC2=C1C=C(C=C2)O
+Trimethyltin hydroxide	O[Sn](C)(C)C
