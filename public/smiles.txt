@@ -13611,7 +13611,7 @@ Tagetitoxin	O=C(N)[C@]1(O)SC[C@@]2(O[C@@H]1[C@H](OC(=O)C)[C@@H](N)[C@H]2OP(=O)(O
 Aravofloxacin	Fc1c(c(OC)c2c(c1)C(=O)C(\C(=O)O)=C/N2C3CC3)N4C/C(=C(/F)CN)CCC4
 Adipostatin A	CCCCCCCCCCCCCCCC1=CC(=CC(=C1)O)O
 Elobixibat	O=C(O)CNC(=O)[C@@H](c1ccccc1)NC(=O)COc4cc3c(N(c2ccccc2)CC(CS3(=O)=O)(CCCC)CCCC)cc4SC
-Uranium hexoxide	O=[U](=O)(=O)(=O)(=O)=O
+Uranium hexaoxide	O=[U](=O)(=O)(=O)(=O)=O
 Menthofuran	o1c2c(c(c1)C)CCC(C2)C
 Para-tert-Butylbenzoic acid	O=C(O)c1ccc(cc1)C(C)(C)C
 Sodium polysulfide	[Na+].[Na+].[S-]SS[S-]
@@ -15574,7 +15574,7 @@ Americium(II) iodide	[I-].[I-].[Am+2]
 1,5-Dihydroxynaphthalene	c1cc2c(cccc2O)c(c1)O
 Lysophosphatidylinositol	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)O)O)O)O
 Megazol	Cn1c(cnc1c2nnc(s2)N)[N+](=O)[O-]
-Cinazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)OC(=O)CCC(=O)O)Cl
+Nalobrazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)OC(=O)CCC(=O)O)Cl
 3-Hydroxyphenazepam	c1ccc(c(c1)C2=NC(C(=O)Nc3c2cc(cc3)Br)O)Cl
 Fluroxene	C=COCC(F)(F)F
 LGD-4033	FC([C@H](O)[C@H]1CCCN1C2=CC(=C(C#N)C=C2)C(F)(F)F)(F)F
@@ -21421,7 +21421,7 @@ Tungsten(II) iodide	[I-].[I-].[W+2]
 Lorundrostat	CC1=CC=C(C=C1)C2=CN=NC(=N2)N3CCN(CC3)CC(=O)NC4CCC(CC4)NC(=O)C
 Brigimadlin	CC1=C(C=CC2=C3C[C@H]4[C@@H](N3N=C12)[C@@H]([C@]5(N4CC6CC6)C7=C(C=C(C=C7)Cl)NC5=O)C8=C(C(=CC=C8)Cl)F)C(=O)O
 Mavorixafor	C1C[C@@H](C2=C(C1)C=CC=N2)N(CCCCN)CC3=NC4=CC=CC=C4N3
-DA-1241	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
+Vanoglipel	CCC1=CN=C(N=C1)N1CCC(CCCOC2=CC(F)=C(C3=NOC(=N3)C(C)C)C(F)=C2)CC1
 Olverembatinib	CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CC5=C(NN=C5)N=C4
 Bivamelagon	CC1CCC(CC1)N([C@H]2C[C@H](N(C2)C(=O)[C@@H]3CN(C[C@H]3C4=CC=C(C=C4)Cl)C(C)(C)C)C(=O)N5CCOCC5)C(=O)C(C)C
 Prusogliptin	CC(C)(CC(=O)N1CCCC1)NCC(=O)N2C[C@H](C[C@H]2C#N)F
@@ -21450,7 +21450,7 @@ AXA1125	N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C(C)
 EDP-305	CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCNC(=O)NS(=O)(=O)C5=CC=C(C=C5)C(C)(C)C)C)C)O
 Azemiglitazone	COC1=CC=CC(=C1)C(=O)COC2=CC=C(C=C2)CC3C(=O)NC(=O)S3
 Denifanstat	CC1=CC(=C(C=C1C(=O)N2CCC(CC2)C3=CC=C(C=C3)C#N)C4=NNC(=N4)C)C5CCC5
-HU6	CN1C(=CN=C1[N+](=O)[O-])COC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]
+Dinifedriton	CN1C(=CN=C1[N+](=O)[O-])COC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]
 HEC96719	C1CC1C2=C(C(=NO2)C3=C(C=CC=C3Cl)Cl)COC4=NC5=C(C=C4)OC6=C(CC57CC7)C=CC(=C6)C(=O)O
 Tipelukast	CCCC1=C(C=CC(=C1OCCCC(=O)O)C(=O)C)OCCCSC2=C(C(=C(C=C2)C(=O)C)O)CCC
 ZED1227	CCC(CC)CNC(=O)CN1C=CC=C(C1=O)NC(=O)[C@H](CC/C=C/C(=O)OC)NC(=O)C2=CN(C=N2)C
@@ -22930,6 +22930,8 @@ Karsil	CCCC(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
 3-Thioasymbescaline	CCOC1=C(C=C(C=C1SCC)CCN)OC
 4-Thioasymbescaline	CCOC1=CC(=CC(=C1SCC)OC)CCN
 5-Thioasymbescaline	CCOC1=C(C(=CC(=C1)CCN)SC)OCC
+3-Thiosymbescaline	CCOC1=C(C(=CC(=C1)CCN)SCC)OC
+4-Thiosymbescaline	CCOC1=CC(=CC(=C1SC)OCC)CCN
 3,5-Dimethoxyphenethylamine	COC1=CC(=CC(=C1)CCN)OC
 Ortho-Bromophenylpiperazine	C1CN(CCN1)C2=CC=CC=C2Br
 Ammonium tetrachloroaurate	[NH4+].Cl[Au-](Cl)(Cl)Cl
@@ -24240,6 +24242,7 @@ Sitneprotafib	C1CN(CCC12CC3=C([C@H]2N)C=CC=N3)C4=CN=C(C=N4)SC5=C(C(=NC=C5)N)Cl
 Glecirasib	CC1=C(C(=NC=C1)C(C)C)N2C3=NC(=C(C=C3C(=C(C2=O)C#N)N4CCN(CC4)C(=O)C=C)Cl)C5=C(C(=C(C(=C5F)F)F)F)N
 Etrabamine	CNC1CCC2=C(C1)SC=N2
 NLX-266	C1CN(CCC1(CNCCOC2=NC=CC(=C2)F)F)C(=O)C3=CC(=C(C=C3)F)Cl
+NTB (explosive)	O=N(=O)c2nnn(C(CN(CC(N(=O)=O)(N(=O)=O)n1nnc(N(=O)=O)n1)N(=O)=O)(N(=O)=O)N(=O)=O)n2
 VUBI1	CC1=CC(=CC(=C1F)C)CN2C3=C(C(=CC(=C3)Cl)N4CCN(CC4)C)N=C2N5CC6(C5)CNC6
 Ordopidine	CCN1CCC(CC1)C2=C(C(=CC=C2)S(=O)(=O)C)F
 SIAIS562055	O=C1N(Cc2c(SCCCCCCCCCCCCN3CCC(Oc4cc5c(nc(C)nc5cc4OC)N[C@H](C)c4cc(N)cc(c4)C(F)(F)F)CC3)cccc12)C1CCC(=O)NC1=O
@@ -24299,5 +24302,10 @@ Dimethyltin dichloride	C[Sn](C)(Cl)Cl
 2,2-Dichloropropane	CC(C)(Cl)Cl
 GS (nerve agent)	P(C)(=O)(OC1CCCC1)F
 2CT2-2-EtO	CCOC1=CC(=C(C=C1CCN)OC)SCC
+Epronaz	CCCN(CC)C(=O)N1C=NC(=N1)S(=O)(=O)CCC
 5-hydroxyindoline	C1CNC2=C1C=C(C=C2)O
 Trimethyltin hydroxide	O[Sn](C)(C)C
+7-Hydroxytryptophan	C1=CC2=C(C(=C1)O)NC=C2CC(C(=O)O)N
+Conveglipron	C1CO[C@@H]1CN2C3=C(C=CC(=C3)C(=O)O)N=C2CN4CCC(CC4)C5=NC(=CC=C5)OCC6=C(C=C(C=C6)C7COC7)F
+Susineridine	CC(C)C1CC(C2=CC=NN12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
+Linepemat	C1C(CN1)OC2=C(C(=CC=C2)F)F
