@@ -3284,7 +3284,7 @@ Labetalol	c1ccccc1CCC(C)NCC(O)c2ccc(O)c(C(=O)N)c2
 Lysergol	OC[C@@H]3/C=C2/c4cccc1c4c(c[nH]1)C[C@H]2N(C3)C
 Zinc gluconate	[Zn+2].[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.[O-]C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
 Aluminium arsenide	[AsH+]12[Al-][AsH+]3[Al-][AsH+]([AlH-]14)[AlH-]1[As+]5([AlH-]38)[Al-]26[AsH+]2[AlH-]([As+]4)[AsH+]1[Al-][AsH+]3[AlH-]2[As+][AlH-]([AsH+]6[AlH-]([AsH+])[AsH+]68)[AsH+]([Al-]6)[AlH-]35
-Lanosterol	C[C@H](CCC=C(C)C)[C@H]1CC[C@]2(C)C1CCC3=C2CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C
+Lanosterol	O[C@H]1CC[C@@]2(C)[C@@H](CCC3=C2CC[C@@]4(C)[C@@]3(C)CC[C@@H]4[C@@H](CC/C=C(C)/C)C)C1(C)C
 Aluminium isopropoxide	CC(C)[O-].CC(C)[O-].CC(C)[O-].[Al+3]
 5-MeO-AET	CCC(N)Cc2c[nH]c1ccc(cc12)OC
 Aluminium monofluoride	F[Al]
@@ -9800,7 +9800,7 @@ Musk xylene	CC1=C(C(=C(C(C)=C1N(=O)=O)N(=O)=O)C(C)(C)C)N(=O)=O
 Cadmium acetate	[Cd+2].[O-]C(=O)C.[O-]C(=O)C
 Cadmium acetate	O=C(C)O[Cd]OC(C)=O
 MDAI	C1C(CC2=CC3=C(C=C21)OCO3)N
-Eplivanserin	c2cc(O)ccc2\C=C\C(=N\OCCN(C)C)\c1ccccc1F
+Eplivanserin	CN(C)CCO/N=C(/C=C/C1=CC=C(C=C1)O)\C2=CC=CC=C2F
 1-Naphthol	Oc2cccc1ccccc12
 Squalamine	CC(C)[C@@H](CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@H]4C[C@H](CC[C@]4(C)[C@H]3CC[C@]12C)NCCCNCCCCN)OS(=O)(=O)O
 Norpropoxyphene	O=C(O[C@@](c1ccccc1)(Cc2ccccc2)[C@H](C)CNC)CC
@@ -16240,7 +16240,7 @@ Nickel(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ni+2].[Ni+2].[Ni+2
 2-Oxoquazepam	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
 Irazepine	C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN=C=S
 Filibuvir	CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
-Venetoclax	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(c(c4)Oc5cc6cc[nH]c6nc5)C(=O)NS(=O)(=O)c7ccc(c(c7)[N+](=O)[O-])NCC8CCOCC8)C
+Venetoclax	CC1(C)CCC(CN2CCN(C3=CC(OC4=CN=C5C(C=CN5)=C4)=C(C(NS(=O)(C6=CC([N+]([O-])=O)=C(NCC7CCOCC7)C=C6)=O)=O)C=C3)CC2)=C(C8=CC=C(Cl)C=C8)C1
 Triciribine	CN1c2c3c(cn(c3ncn2)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N
 Toludesvenlafaxine	Cc1ccc(cc1)C(=O)Oc2ccc(cc2)C(CN(C)C)C3(CCCCC3)O
 AdipoRon	C1CN(CCC1NC(=O)COC2=CC=C(C=C2)C(=O)C3=CC=CC=C3)CC4=CC=CC=C4
@@ -24310,3 +24310,4 @@ Conveglipron	C1CO[C@@H]1CN2C3=C(C=CC(=C3)C(=O)O)N=C2CN4CCC(CC4)C5=NC(=CC=C5)OCC6
 Susineridine	CC(C)C1CC(C2=CC=NN12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
 Linepemat	C1C(CN1)OC2=C(C(=CC=C2)F)F
 Pariceract	CCCCCOC1CCC(CC1)NC(=O)C2=C3N=C(C=C(N3N=C2)C)C
+2,3-Dihydro-DMT	CN(C)CCC1CNC2=CC=CC=C12
