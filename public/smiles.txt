@@ -3336,7 +3336,7 @@ Potassium tert-butoxide	[K+].[O-]C(C)(C)C
 Copaene	CC(C)[C@@H]1CC[C@@]3(C)[C@@H]2C(/C)=C\C[C@H]3[C@H]12
 Diflunisal	O=C(O)c1cc(ccc1O)c2ccc(F)cc2F
 Copper(I) phosphide	[Cu+].[Cu+].[Cu+].[PH6-3]
-MMDA (drug)	O1c2cc(cc(OC)c2OC1)CC(N)C
+MMDA (drug)	CC(CC1=CC2=C(C(=C1)OC)OCO2)N
 Diphenylmethanol	OC(c1ccccc1)c2ccccc2
 M-Xylene	Cc1cccc(c1)C
 Macromerine	O(c1ccc(cc1OC)C(O)CN(C)C)C
@@ -23531,6 +23531,7 @@ L-Iso-LSD	CCN(CC)C(=O)[C@H]1CN([C@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 2CBecca	COc1cc(Br)c(cc1C1CNCc2c1cccc2)OC
 Cyclohexyne	C1CCC#CC1
 Huprine Y	CC1=CC2CC(C1)C3=C(C4=C(C=C(C=C4)Cl)N=C3C2)N
+Caesium dichloroiodate	Cl[I-]Cl.[Cs+]
 IHCH-7179	C1CN2C(CC3=CNC4=C3C2=CC=C4)CN1CCCC(=O)C5=CC=C(C=C5)F
 Centpyraquin	C1CC2=CC=CC=C2N3C1CN(CC3)CCCC(=O)C4=CC=C(C=C4)F
 Alixorexton	O=C1N2CCC[C@@H]([C@@H]2CO[C@@H]3CC[C@@H](CC3)C4=C(OC1)C=CC=C4)NS(=O)(C)=O
@@ -23689,7 +23690,7 @@ UBCS385	c1cc(Cl)cc2c1NC(=N2)SC(c1ccccc1)C(=O)NC1=NC=C(S1)S(=O)(=O)c1ccc([N+](=O)
 ADTL-SA1215	CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCCN4CCCC4)I
 2-APQC	CCCCCNC(=O)C1=C(N(C2=NC3=CC=CC=C3N=C12)CC4=CC=C(C=C4)F)N
 Bromodichloroiodomethane	ClC(Cl)(Br)I
-Dibromochloroiodomethane	40809-93-6
+Dibromochloroiodomethane	[C@H](Cl)(Br)I
 MC3482	C1=CC=C(C=C1)COC(=O)N[C@@H](CCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)OCC2=CC=CC=C2)C(=O)NC3=CC=CC=C3
 MC3138	CCOC(=O)C1=CN(C=C(C1C2=CC(=CC=C2)OC)C(=O)OCC)C(=O)C3=CC=CC=C3
 VT (nerve agent)	CC(C(C)(C)C)OP(=O)(C)SCCN(C)C
@@ -24311,3 +24312,7 @@ Susineridine	CC(C)C1CC(C2=CC=NN12)NCC[C@]3(CCOC4(C3)CCCC4)C5=CC=CC=N5
 Linepemat	C1C(CN1)OC2=C(C(=CC=C2)F)F
 Pariceract	CCCCCOC1CCC(CC1)NC(=O)C2=C3N=C(C=C(N3N=C2)C)C
 2,3-Dihydro-DMT	CN(C)CCC1CNC2=CC=CC=C12
+Diethyl sebacate	CCOC(=O)CCCCCCCCC(=O)OCC
+Tetradecanedioic acid	C(CCCCCCC(=O)O)CCCCCC(=O)O
+Zymonic acid	CC1(C=C(C(=O)O1)O)C(=O)O
+6-sulfatoxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)OS(=O)(=O)O
