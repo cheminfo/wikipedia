@@ -6348,7 +6348,7 @@ MMDA-3a	CC(CC1=C(C2=C(C=C1)OCO2)OC)N
 MMDA-3b	CC(CC1=C2C(=C(C=C1)OC)OCO2)N
 2T-MMDA-3a	CC(CC1=C(C2=C(C=C1)OCO2)SC)N
 4T-MMDA-2	CC(CC1=CC2=C(C=C1OC)SCO2)N
-Methyl-MMDA-2	CC(Cc1cc2c(cc1OC)OCO2)NC
+Methyl-MMDA-2	CC(CC1=CC2=C(C=C1OC)OCO2)NC
 Metaproscaline	COc1c(cc(cc1OCCC)CCN)OC
 Cefoxitin	O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)Cc3sccc3)COC(=O)N)C(=O)O
 Triethylcholine	CC[N+](CC)(CC)CCO
@@ -24271,7 +24271,7 @@ VVD-214	CC(C1=NC=C(C(=N1)OC2=CC=CC=C2)C(=O)N[C@H](/C=C/S(=O)(=O)C)C3CC3)(F)F
 Geranylfarnesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)C
 Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O)O
 Tetramethylgermanium	C[Ge](C)(C)C
-2-chloro-2-phenylethylamine	C1=CC=C(C=C1)C(CN)Cl
+2-Chloro-2-phenylethylamine	C1=CC=C(C=C1)C(CN)Cl
 Erucamide	CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N
 Benzadox	C1=CC=C(C=C1)C(=O)NOCC(=O)O
 Benzadox-ammonium	C1=CC=C(C=C1)C(=O)NOCC(=O)[O-].[NH4+]
@@ -24290,7 +24290,7 @@ Antiarigenin	C[C@@]12[C@H](CC[C@@]1([C@@H]3CC[C@@]4(CCCC[C@@]4([C@H]3C[C@H]2O)C=
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Dy+3].[Dy+3]
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].O.O.O.O.[Dy+3].[Dy+3]
 SVT-NH-ethyl	C[C@@H](O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](N)CO)C(C)C)C(=O)NCC
-Gly-Pro-Glu	C1C[C@H](N(C1)C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Glypromate	C1C[C@H](N(C1)C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O
 CyRL-QN15	O=C(O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CSSC1)CCC(=O)N)Cc1ccccc1)Cc1[NH]cnc1)Cc1ccc(O)cc1)CCSC
 Ethachlor	CCC1=CC=CC=C1N(COCC)C(=O)CCl
 Guanidinium carbonate	C(=N)(N)N.C(=N)(N)N.C(=O)(O)O
@@ -24315,4 +24315,7 @@ Pariceract	CCCCCOC1CCC(CC1)NC(=O)C2=C3N=C(C=C(N3N=C2)C)C
 Diethyl sebacate	CCOC(=O)CCCCCCCCC(=O)OCC
 Tetradecanedioic acid	C(CCCCCCC(=O)O)CCCCCC(=O)O
 Zymonic acid	CC1(C=C(C(=O)O1)O)C(=O)O
-6-sulfatoxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)OS(=O)(=O)O
+6-Sulfatoxymelatonin	CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)OS(=O)(=O)O
+Phenyl dihydrogen phosphate	C1=CC=C(C=C1)OP(=O)(O)O
+2,5-Dimethoxy-3-bromoamphetamine	COc1cc(CC(N)C)c(c(c1)Br)OC
+MIPM	CC(C)OC1=C(C=C(C(=C1)OC)CC(C)N)OC
