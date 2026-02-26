@@ -6169,7 +6169,6 @@ Isobutylamine	CC(C)CN
 Α-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
 Lithium superoxide	[Li+].O=[O-]
 3-Hydroxypicolinic acid	c1cc(c(nc1)C(=O)O)O
-Thiotrisescaline	CCOc1cc(cc(c1OCC)SCC)CCN
 Trisescaline	CCOc1c(cc(cc1OCC)CCN)OCC
 Clofedanol	Clc1ccccc1C(O)(c2ccccc2)CCN(C)C
 Temafloxacin	Fc1ccc(c(F)c1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CC(NCC4)C
@@ -23397,6 +23396,8 @@ Gadolinium disilicide	[Si].[Si].[Gd+3]
 GW-1100	CCOC1=NC=C(C=N1)CC2=CN(C(=NC2=O)SCC3=CC=C(C=C3)F)C4=CC=C(C=C4)C(=O)OCC
 GW9508	C1=CC=C(C=C1)OC2=CC=CC(=C2)CNC3=CC=C(C=C3)CCC(=O)O
 3,4-Dimethylphenethylamine	CC1=C(C=C(C=C1)CCN)C
+3-Thiotrisescaline	CCOC1=C(C(=CC(=C1)CCN)SCC)OCC
+4-Thiotrisescaline	CCOC1=CC(=CC(=C1SCC)OCC)CCN
 2,3-Dimethoxyphenethylamine	COC1=CC=CC(=C1OC)CCN
 2,4-Dimethoxyphenethylamine	COC1=CC(=C(C=C1)CCN)OC
 2,6-Dimethoxyphenethylamine	COC1=C(C(=CC=C1)OC)CCN
@@ -24286,7 +24287,7 @@ Debenzergoline	C1C2CC3=CN([H])C=C3C[C@@]2([H])N(CCC)CC1
 Diaza-2C-DFLY	N([H])([H])CCC1=C2C=CNC2=CC2=C1NC=C2
 4-(2-Aminopropyl)indole	CC(CC1=C2C=CNC2=CC=C1)N
 Methallatal	CCC1(C(=O)NC(=S)NC1=O)CC(=C)C
-Antiarigenin	C[C@@]12[C@H](CC[C@@]1([C@@H]3CC[C@@]4(CCCC[C@@]4([C@H]3C[C@H]2O)C=O)O)O)C5=CC(=O)OC5
+Antiarigenin	C[C@@]12[C@H](CC[C@@]1([C@@H]3CC[C@@]4(C[C@H](CC[C@@]4([C@H]3C[C@H]2O)C=O)O)O)O)C5=CC(=O)OC5
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Dy+3].[Dy+3]
 Dysprosium(III) carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].O.O.O.O.[Dy+3].[Dy+3]
 SVT-NH-ethyl	C[C@@H](O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](N)CO)C(C)C)C(=O)NCC
@@ -24332,3 +24333,7 @@ Secodehydroabietic acid	CC1CCC[C@@](C1CCC2=CC(=CC=C2)C(C)C)(C)C(=O)O
 Trimethylsilyl bromide	Br[Si](C)(C)C
 Cinobufotenine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)O
 4-Heptanol	CCCC(CCC)O
+Neoabietic acid	CC(=C1CCC2C(=C1)CCC3C2(CCCC3(C)C(=O)O)C)C
+Trimethylsilyl fluoride	F[Si](C)(C)C
+4-Bromomescaline	COC1=CC(=CC(=C1Br)OC)CCN
+D2-MDMA	[2H]C1(OC2=C(O1)C=C(C=C2)CC(C)NC)[2H]
