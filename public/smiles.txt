@@ -24328,7 +24328,7 @@ Mercusic acid	C[C@@H](CC[C@H]1C(=C)CC[C@@H]2[C@]1(C)CCC[C@]2(C)C(=O)O)CC(=O)O
 5-Methyl-2-hexanone	CC(C)CCC(=O)C
 5-MeO-DMT-d4	[2H]C([2H])(C1=CNC2=C1C=C(C=C2)OC)C([2H])([2H])N(C)C
 DMT-d4	[2H]C([2H])(C1=CNC2=CC=CC=C21)C([2H])([2H])N(C)C
-Fluoroformic acid	[13C](=O)(O)F
+Fluoroformic acid	C(=O)(O)F
 Secodehydroabietic acid	CC1CCC[C@@](C1CCC2=CC(=CC=C2)C(C)C)(C)C(=O)O
 Trimethylsilyl bromide	Br[Si](C)(C)C
 Cinobufotenine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)O
@@ -24337,3 +24337,10 @@ Neoabietic acid	CC(=C1CCC2C(=C1)CCC3C2(CCCC3(C)C(=O)O)C)C
 Trimethylsilyl fluoride	F[Si](C)(C)C
 4-Bromomescaline	COC1=CC(=CC(=C1Br)OC)CCN
 D2-MDMA	[2H]C1(OC2=C(O1)C=C(C=C2)CC(C)NC)[2H]
+KDP34	O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[NH]c2ccccc21)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(=O)N)C(O)=O)C(C)C)[C@H](O)C)[C@@H](N)CC(=O)O
+Nootkatin	CC(C)C1=CC(=O)C(=CC=C1CC=C(C)C)O
+Benzoylhydrazine	C1=CC=C(C=C1)P
+Butynone	CC(=O)C#C
+Trimethylgermanium chloride	Cl[Ge](C)(C)C
+DFMDMA	CC(NC)CC1=CC(O2)=C(OC2(F)F)C=C1
+MDTFEA	CC(CC1=CC2=C(C=C1)OCO2)NCC(F)(F)F
