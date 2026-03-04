@@ -149,7 +149,7 @@ Carbonic acid	O=C(O)O
 Inositol trisphosphate	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@@H]1OP(=O)(O)O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
 Putrescine	NCCCCN
 Cadaverine	NCCCCCN
-Xanthine	c1[nH]c2c(n1)nc(nc2O)O
+Xanthine	c1[nH]c2c(n1)C(=O)NC(=O)N2
 7-Dehydrocholesterol	O[C@@H]4C/C3=C/C=C1\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@H](C)CCCC(C)C)C)[C@@]3(C)CC4
 Cysteine	C([C@@H](C(=O)O)N)S
 Cysteine	C([C@@H](C(=O)[O-])[NH3+])S
@@ -8284,7 +8284,7 @@ Trioctylmethylammonium bis(trifluoromethylsulfonyl)imide	FC(F)(F)S(=O)(=O)[N-]S(
 Fenoverine	C1CN(CCN1CC2=CC3=C(C=C2)OCO3)CC(=O)N4C5=CC=CC=C5SC6=CC=CC=C64
 Cobalt(II) iodide	[Co+2].[I-].[I-]
 Rhenium(IV) oxide	O=[Re]=O
-3-Hydroxykynurenine	O=C(O)C(N)CC(=O)c1cccc(O)c1N
+3-Hydroxykynurenine	C1=CC(=C(C(=C1)O)N)C(=O)CC(C(=O)O)N
 2-Aminomuconic semialdehyde	C(=CC=O)C=C(C(=O)O)N
 3-Hydroxyanthranilic acid	c1cc(c(c(c1)O)N)C(=O)O
 2-Amino-3-carboxymuconic semialdehyde	C(=CC(=C(C(=O)O)N)C(=O)O)C=O
@@ -24069,6 +24069,7 @@ P7C3-A20	COC1=CC=CC(=C1)NCC(CN2C3=C(C=C(C=C3)Br)C4=C2C=CC(=C4)Br)F
 Trimethylsilyl acetate	CC(=O)O[Si](C)(C)C
 4-Fluorodeprenyl	CC(CC1=CC=C(C=C1)F)N(C)CC#C
 Tolserine	CC1=CC=CC=C1NC(=O)OC2=CC3=C(C=C2)N([C@@H]4[C@]3(CCN4C)C)C
+Trimethyltin acetate	CC(=O)O[Sn](C)(C)C
 CTOP	C(C=1C=2C(NC1)=CC=CC2)[C@H]3NC(=O)[C@H](CC4=CC=C(O)C=C4)NC(=O)[C@@H](NC([C@@H](CC5=CC=CC=C5)N)=O)CSSC(C)(C)[C@@H](C(N[C@@H]([C@@H](C)O)C(N)=O)=O)NC(=O)[C@]([C@@H](C)O)(NC(=O)[C@H](CCCN)NC3=O)[H]
 2,4,6-TMPEA-NBOMe	COc1cc(OC)c(c(c1)OC)CCNCc1ccccc1OC
 4-AcO-EPT	CCCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C
@@ -24272,6 +24273,7 @@ Butenachlor	N(COC/C=C\C)(C(CCl)=O)C1=C(CC)C=CC=C1CC
 INCB086550	CC1=C(C=CC=C1C2=NC3=CC(=CC(=C3O2)C#N)CN4CC[C@H](C4)C(=O)O)C5=C(C(=CC=C5)NC6=NC=CC7=CC(=CN=C76)CN8CC[C@H](C8)O)C
 VVD-214	CC(C1=NC=C(C(=N1)OC2=CC=CC=C2)C(=O)N[C@H](/C=C/S(=O)(=O)C)C3CC3)(F)F
 Geranylfarnesol	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)/C)C
+Trimethylselenonium iodide	C[Se+](C)C.[I-]
 Zavondemstat	CC(C)C1=CC=C(C=C1)N(C)C2=CC3=C(C=C2)[C@@H](CCO3)CNC4=C(C=CN=C4)C(=O)O
 Tetramethylgermanium	C[Ge](C)(C)C
 2-Chloro-2-phenylethylamine	C1=CC=C(C=C1)C(CN)Cl
@@ -24355,4 +24357,8 @@ MMDA-5	CC(CC1=C(C=CC2=C1OCO2)OC)N
 3C-FP	CC(CC1=CC(=C(C(=C1)OC)OCCCF)OC)N
 3-methoxy-4,5-dihydroxyphenethylamine	COC1=CC(=CC(=C1O)O)CCN
 Trimethylbismuth	[Bi](C)(C)C
+1,4-Dihydronaphthalene	C1C=CCC2=CC=CC=C21
 Mercury(I) carbonate	C(=O)([O-])[O-].[Hg+].[Hg+]
+2-Chloroanthraquinone	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)Cl
+2-Aminoanthraquinone	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)N
+Ethylflualprazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=NN=C(CC)N42)=C1
