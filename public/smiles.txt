@@ -24355,10 +24355,14 @@ Dioxopromethazine	CC(CN1C2=CC=CC=C2S(=O)(=O)C3=CC=CC=C31)N(C)C
 MMDA-5	CC(CC1=C(C=CC2=C1OCO2)OC)N
 5-Nitrotryptamine	C1=CC2=C(C=C1[N+](=O)[O-])C(=CN2)CCN
 3C-FP	CC(CC1=CC(=C(C(=C1)OC)OCCCF)OC)N
-3-methoxy-4,5-dihydroxyphenethylamine	COC1=CC(=CC(=C1O)O)CCN
+3-Methoxy-4,5-dihydroxyphenethylamine	COC1=CC(=CC(=C1O)O)CCN
 Trimethylbismuth	[Bi](C)(C)C
 1,4-Dihydronaphthalene	C1C=CCC2=CC=CC=C21
 Mercury(I) carbonate	C(=O)([O-])[O-].[Hg+].[Hg+]
 2-Chloroanthraquinone	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)Cl
 2-Aminoanthraquinone	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)N
+1-Chloroanthraquinone	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)Cl
+Anthraquinone-1-sulfonic acid	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)S(=O)(=O)O
 Ethylflualprazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=NN=C(CC)N42)=C1
+Geranyl-linalool	CC(=CCC/C(=C/CC/C(=C/CCC(C)(C=C)O)/C)/C)C
+Pentaphenylbismuth	C1=CC=C(C=C1)[Bi](C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
