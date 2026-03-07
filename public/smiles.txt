@@ -19883,7 +19883,7 @@ Berkelium(IV) oxide	[O-2].[O-2].[Bk+4]
 Phosphanide	[H][P-][H]
 Potassium thiosulfate	[O-]S(=O)(=S)[O-].[K+].[K+]
 DOB-FLY	CC(CC1=C2CCOC2=C(C3=C1OCC3)Br)N
-2C-B-DRAGONFLY	C1=COC2=C(C3=C(C(=C21)CCN)OC=C3)Br
+2C-B-DragonFLY	C1=COC2=C(C3=C(C(=C21)CCN)OC=C3)Br
 2C-E-FLY	NCCc1c2OCCc2c(c2c1CCO2)CC
 Hypidone	C1CN(CCC1(CN2C=CC=CC2=O)O)CC3=CC=CC=C3
 Cobalt tricarbonyl nitrosyl	[C]=O.[C]=O.[C]=O.N(=O)[Co]
@@ -24366,3 +24366,8 @@ Anthraquinone-1-sulfonic acid	C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)S(=O)(=O)O
 Ethylflualprazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=NN=C(CC)N42)=C1
 Geranyl-linalool	CC(=CCC/C(=C/CC/C(=C/CCC(C)(C=C)O)/C)/C)C
 Pentaphenylbismuth	C1=CC=C(C=C1)[Bi](C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
+T-5224	C1CCC(C1)OC2=CC(=C(C=C2)C(=O)C3=CC(=C(C=C3)OCC4=CC5=C(C=C4)C(=O)NO5)CCC(=O)O)O
+Mercury(I) acetate	[Hg]([Hg]OC(C)=O)OC(C)=O
+2,6-Dichloro-1,4-benzoquinone	C1=C(C(=O)C(=CC1=O)Cl)Cl
+Nitrosomethane	CN=O
+Carane	CC1CCC2C(C1)C2(C)C
