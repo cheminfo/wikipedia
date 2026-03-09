@@ -423,7 +423,7 @@ Potassium oxide	O([K])[K]
 Silicon carbide	[C-]#[Si+]
 Azadirachtin	O=C(OC)[C@@]1(O)OC[C@]82[C@@H](OC(=O)/C(=C/C)C)C[C@@H](OC(=O)C)[C@@]7(C(=O)OC)CO[C@@H]([C@@H](O)[C@](C)([C@H]12)[C@]64O[C@]6([C@@H]3[C@@]5(O)/C=C\O[C@H]5O[C@H]4C3)C)[C@@H]78
 Hyoscyamine	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)[C@H](CO)c2ccccc2
-Estradiol	C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@@H]2O)O
+Estradiol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5
 Silver nitrate	[N+](=O)([O-])[O-].[Ag+]
 Nickel tetracarbonyl	[O+]#C[Ni-4](C#[O+])(C#[O+])C#[O+]
 Vanillin	c1(C=O)cc(OC)c(O)cc1
@@ -699,7 +699,7 @@ C-peptide	CC(C)CC(C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)NCC(=O)N
 Corticosterone	O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@H](C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4
 Cholecalciferol	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CCCC(C)C)C
 Ergocalciferol	O[C@@H]1CC(\C(=C)CC1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@@H](/C=C/[C@H](C)C(C)C)C)C
-Estrone	O=C4[C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3CC4)C
+Estrone	Oc1ccc2[C@H]3CC[C@]4(C)C(CC[C@H]4[C@@H]3CCc2c1)=O
 Iron(II) oxide	[Fe]=O
 Dextroamphetamine	C[C@@H](Cc1ccccc1)N
 Quassin	O=C1C(\OC)=C/[C@@H](C)[C@H]4[C@]1([C@H]3C(=O)C(\OC)=C(/[C@@H]2CC(=O)O[C@@H]([C@@]23C)C4)C)C
@@ -898,7 +898,7 @@ Amlodipine	Clc1ccccc1C2/C(C(=O)OC)=C(/C)N/C(COCCN)=C2/C(=O)OCC
 Fenvalerate	Clc1ccc(cc1)C(C(=O)OC(C#N)c3cccc(Oc2ccccc2)c3)C(C)C
 Atomoxetine	CC1=C(C=CC=C1)O[C@H](CCNC)C2=CC=CC=C2
 Midazolam	ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
-Estriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O
+Estriol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 Phenanthrene	C1=CC=C2C(=C1)C=CC3=CC=CC=C32
 Rofecoxib	O=C2OCC(=C2\c1ccccc1)\c3ccc(cc3)S(=O)(=O)C
 Celecoxib	c1cc(C)ccc1c2cc(C(F)(F)F)nn2c3ccc(cc3)S(=O)(=O)N
@@ -1503,7 +1503,7 @@ Pralatrexate	O=C(O)[C@@H](NC(=O)c1ccc(cc1)C(CC#C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
 12-O-Tetradecanoylphorbol-13-acetate	CCCCCCCCCCCCCC(=O)O[C@@H]1[C@H]([C@]2([C@@H](C=C(C[C@]3([C@H]2C=C(C3=O)C)O)CO)[C@H]4[C@@]1(C4(C)C)OC(=O)C)O)C
 12-O-Tetradecanoylphorbol-13-acetate	CCCCCCCCCCCCCC(=O)O[C@@H]2C(C)[C@]1(O)C4/C=C(/C)C(=O)[C@@]4(O)CC(\CO)=C/[C@H]1[C@H]3[C@]2(OC(C)=O)C3(C)C
 Tanespimycin	C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCC=C)/C)OC)OC(=O)N)\C)C)O)OC
-2-Methoxyestradiol	Oc1cc3c(cc1OC)[C@H]2CC[C@@]4([C@@H](O)CC[C@H]4[C@@H]2CC3)C
+2-Methoxyestradiol	Oc1c(OC)cc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5
 Triapine	C1=CC(=C(N=C1)/C=N/NC(=S)N)N
 Idarubicin	O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@@](O)(C(=O)C)C[C@@H]5O[C@@H]4O[C@H]([C@@H](O)[C@@H](N)C4)C
 4-Nitroquinoline 1-oxide	[O-][N+](=O)c2c1c(cccc1)[n+]([O-])cc2
@@ -2531,7 +2531,7 @@ Shikimic acid	C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O
 Chorismic acid	O=C(O)C1=C/[C@@H](O/C(C(=O)O)=C)[C@H](O)/C=C1
 Ponceau 4R	[Na+].[Na+].[Na+].[O-]S(=O)(=O)c4ccc(c3ccccc34)/N=N/c1c2c(ccc1O)cc(S(=O)(=O)[O-])cc2S(=O)(=O)[O-]
 Estradiol acetate	CC(=O)OC1=CC2=C(C=C1)[C@H]3CC[C@]4([C@H]([C@@H]3CC2)CC[C@@H]4O)C
-Estradiol valerate	CCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
+Estradiol valerate	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).CCCCC(=O)O5
 Morphine-6-glucuronide	O=C(O)[C@H]6O[C@@H](O[C@H]1/C=C\[C@@H]5[C@@]24c3c(ccc(O)c3O[C@@H]12)C[C@H]5N(C)CC4)[C@H](O)[C@@H](O)[C@@H]6O
 Arsenous acid	O[As](O)O
 Adamsite	Cl[As]2c1ccccc1Nc3c2cccc3
@@ -3318,6 +3318,7 @@ Testosterone enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=
 Testosterone propionate	CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Tolcapone	[O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
 Cortisone acetate	CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Polyestradiol phosphate	[*]Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5P([*])(=O)O
 Indium arsenide	[In+3].[As-3]
 Indium arsenide	[In]#[As]
 Exenatide	[H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc8ccccc8)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](Cc9cnc[nH]9)N
@@ -9835,7 +9836,7 @@ Glucose 1,6-bisphosphate	O=P(O)(O)OC[C@H]1O[C@H](OP(=O)(O)O)[C@H](O)[C@@H](O)[C@
 Pregnanediol	O[C@@H]4CC[C@]3([C@H](CC[C@H]2[C@@H]1CC[C@@H]([C@@]1(C)CC[C@@H]23)[C@@H](O)C)C4)C
 Pregnanetriol	O[C@H]4C[C@@H]3[C@]([C@@H]1[C@H]([C@H]2[C@](C)(CC1)[C@@](O)([C@@H](O)C)CC2)CC3)(C)CC4
 5α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CCC(=O)C4)C)C
-Estetrol	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
+Estetrol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6[C@@]7[C@H]4[C@@H]3CCc2c1).O7.O6.O5
 Tetrahydrocortisone	O=C2[C@H]3[C@H]([C@@H]1CC[C@](O)(C(=O)CO)[C@@]1(C)C2)CC[C@@H]4C[C@H](O)CC[C@]34C
 Tetrahydrocortisol	O=C(CO)[C@@]4(O)CC[C@H]3[C@H]2[C@@H]([C@@]1([C@@H](C[C@H](O)CC1)CC2)C)[C@@H](O)C[C@@]34C
 Zirconium lactate	[Zr+4].O=C(O)C([O-])C.[O-]C(C(=O)O)C.[O-]C(C(=O)O)C.[O-]C(C(=O)O)C
@@ -11400,7 +11401,7 @@ Promestriene	CCCOc1ccc2c(c1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4OC)C
 Methallenestril	CCC(c1ccc2cc(OC)ccc2c1)C(C)(C)C(=O)O
 Moxestrol	CC12CC(C3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O)OC
 Aglepristone	C/C=C\[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O
-Epimestrol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@H]2O)O)CCC4=C3C=CC(=C4)OC
+Epimestrol	O(C)c1ccc2[C@H]3CC[C@]4(C)[C@@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 Estrane	CC12CCCC1C1CCC3CCCCC3C1CC2
 Nomegestrol acetate	CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4C1=CC(=O)CC4
 Hydroxyquinol	Oc1cc(O)c(O)cc1
@@ -12046,7 +12047,7 @@ Momordol	CCC(CO)C(O)CC(O)C(C)CCC(C)CCCC1(C)C(CC)C(=O)C=CC1(C)O
 RCS-4	CCCCCn1cc(c2c1cccc2)C(=O)c3ccc(cc3)OC
 RCS-8	COc1ccccc1CC(=O)c2cn(c3c2cccc3)CCC4CCCCC4
 Torulene	C(/C1=C(/CCCC1(C)C)C)=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)C)C)C)C)C)C
-Alfatradiol	OC1CCC3C1(C)CCC(c2cc4)C3CCc2cc4O
+Alfatradiol	Oc1ccc2[C@H]3CC[C@]4(C)[C@@]5(CC[C@H]4[C@@H]3CCc2c1).O5
 Trinitramide	O=N(=O)N(N(=O)=O)N(=O)=O
 JWH-167	CCCCCn1cc(c2c1cccc2)C(=O)Cc3ccccc3
 JWH-249	CCCCCn1cc(c2c1cccc2)C(=O)Cc3ccccc3Br
@@ -15669,7 +15670,7 @@ Cyanoform	C(#N)C(C#N)C#N
 Potassium tetrafluoroborate	[B-](F)(F)(F)F.[K+]
 Finafloxacin	O=C(O)C1=CN(C2CC2)c3c(C1=O)cc(F)c(c3C#N)N4C[C@H]5[C@H](C4)NCCO5
 Netupitant	Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
-17α-Estradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O
+17α-Estradiol	Oc1ccc2[C@H]3CC[C@]4(C)[C@@]5(CC[C@H]4[C@@H]3CCc2c1).O5
 Tropoflavin	c1ccc(cc1)c2cc(=O)c3ccc(c(c3o2)O)O
 1,2-Bis(dicyclohexylphosphino)ethane	C1CCC(CC1)P(CCP(C2CCCCC2)C3CCCCC3)C4CCCCC4
 HIOC	c1cc2c(cc1O)c(c[nH]2)CCNC(=O)C3CCCNC3=O
@@ -16154,7 +16155,7 @@ Ozanimod	CC(C)Oc1ccc(cc1C#N)c2nc(no2)c3cccc4c3CC[C@@H]4NCCO
 Spiropentane	C1CC12CC2
 Amastatin	CC(C)CC(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(CC(=O)O)C(=O)O)O)N
 Isobutyronitrile	CC(C)C#N
-2C-B-BUTTERFLY	O3CCCc1c3c(Br)c2CCCOc2c1CCN
+2C-B-ButterFLY	O3CCCc1c3c(Br)c2CCCOc2c1CCN
 Fenethazine	CN(C)CCN1C2=CC=CC=C2SC3=CC=CC=C31
 Nothoapiole	COC1=C(C(=C(C2=C1OCO2)OC)OC)CC=C
 Lipo-oxytocin-1	CCCCCCCCCCCCCCCC(=O)NC1CSSCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CC2=CC=C(C=C2)OC(=O)CCCCCCCCCCCCCCC)C(C)CC)CCC(=O)N)CC(=O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N
@@ -16540,7 +16541,7 @@ FAUC50	O=C1NC2=C(C([C@@H](O)CNCCC3=CC=C(OCCCSSCCN)C(OC)=C3)=CC=C2O)C=C1
 Thiouric acid	c12c([nH]c(=O)[nH]1)[nH]c(=O)[nH]c2=S
 Epacadostat	c1cc(c(cc1N/C(=N\O)/c2c(non2)NCCNS(=O)(=O)N)Br)F
 Benzyl isothiocyanate	c1ccc(cc1)CN=C=S
-Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
+Epiestriol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 Estradiol phenylpropionate	CC12CCC3C(C1CCC2OC(=O)CCC4=CC=CC=C4)CCC5=C3C=CC(=C5)O
 17α-Dihydroequilin	CC12CCC3C(=CCC4=C3C=CC(=C4)O)C1CCC2O
 Bifluranol	CCC(C1=CC(=C(C=C1)O)F)C(C)C2=CC(=C(C=C2)O)F
@@ -16674,7 +16675,7 @@ DIMP (antiandrogen)	CC1=C(C(=NO1)C)CN2C(=O)C3=CC=CC=C3C2=O
 Acetothiolutamide	CC(=O)NC1=CC=C(C=C1)SCC(C)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
 LG121071	CCC1CCNC2=C1C=C3C(=CC(=O)NC3=C2)C(F)(F)F
 Spirodiclofen	CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)c3cc(cc(c3)Cl)Cl
-17α-Epiestriol	CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
+17α-Epiestriol	Oc1ccc2[C@H]3CC[C@]4(C)[C@@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 Tetronic acid	O=C1CC(CO1)=O
 Tetronic acid	O=C1C=C(O)CO1
 Trimethyltrienolone	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
@@ -16770,12 +16771,12 @@ Phenestrol	CCC(C1=CC=C(C=C1)OC(=O)CC2=CC=C(C=C2)N(CCCl)CCCl)C(CC)C3=CC=C(C=C3)OC
 17α-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@H]2O)C=CC4=C3C=CC(=C4)O
 17β-Dihydroequilenin	C[C@]12CCC3=C([C@@H]1CC[C@@H]2O)C=CC4=C3C=CC(=C4)O
 8,9-Dehydroestrone	C[C@]12CCC3=C([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O
-2-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=C(C=C34)O)O
-16β,17α-Epiestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]([C@H]2O)O)CCC4=C3C=CC(=C4)O
+2-Hydroxyestradiol	Oc1c(O)cc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5
+16β,17α-Epiestriol	Oc1ccc2[C@H]3CC[C@]4(C)[C@@]5([C@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 1-Keto-1,2,3,4-tetrahydrophenanthrene	C1CC2=C(C=CC3=CC=CC=C23)C(=O)C1
 Estriol triacetate	CC(=O)O[C@@H]1C[C@H]2[C@@H]3CCC4=C([C@H]3CC[C@@]2([C@H]1OC(=O)C)C)C=CC(=C4)OC(=O)C
 Estradiol mustard	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl)CCC5=C3C=CC(=C5)OC(=O)CC6=CC=C(C=C6)N(CCCl)CCCl
-16α-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H](C2=O)O)CCC4=C3C=CC(=C4)O
+16α-Hydroxyestrone	Oc1ccc2[C@H]3CC[C@]4(C)C([C@@]6C[C@H]4[C@@H]3CCc2c1)=O.O6
 FERb 033	c1cc(c(cc1c2ccc(c(c2Cl)O)/C=N/O)F)O
 WAY-166818	OC1=CC=C(C=C1)C1=NC2=CC(O)=CC=C2O1
 Estradiol benzoate butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)OC(=O)C5=CC=CC=C5)C
@@ -16876,7 +16877,7 @@ Testosterone butyrate	CCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC
 9-Methylene-fluorene	C=C1C2=CC=CC=C2C3=CC=CC=C13
 Vinyltriethoxysilane	CCO[Si](C=C)(OCC)OCC
 Elassovalene	C1=CC=C2C=CC3C2C(=C1)C=C3
-Estradiol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+Estradiol (medication)	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5
 P-Dioxanone	C1COC(=O)CO1
 Progesterone (medication)	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
 Mecigestone	C[C@H]1C[C@@H]2[C@H](CC[C@]3([C@H]2C[C@@H]4[C@]3(CCCC4)C(=O)C)C)[C@@]5(C1=CC(=O)CC5)C
@@ -16937,7 +16938,7 @@ Estrone glucuronide	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O[C@H]5[C
 Estriol sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 Estriol sulfate glucuronide	[H][C@@]12C[C@@H](OC3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OS(O)(=O)=O)C=C3
 Flumedroxone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H](C4=CC(=O)CC[C@]34C)C(F)(F)F)C)OC(=O)C
-2-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=C(C=C34)O)O
+2-Hydroxyestrone	Oc1c(O)cc2[C@H]3CC[C@]4(C)C(CC[C@H]4[C@@H]3CCc2c1)=O
 Androsterone glucuronide	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 Etiocholanolone glucuronide	C[C@]12CC[C@H](C[C@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)C(=O)O)O)O)O
 Testosterone glucuronide	[H][C@@]12CC[C@H](O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
@@ -16988,8 +16989,8 @@ Aminoestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2N)CCC4=C3C=CC(=C4)O
 Estradiol decanoate	CCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
 Estradiol cyclooctyl acetate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4CCCCCCC4)CCC5=C3C=CC(=C5)O
 Taleranol	C[C@H]1CCC[C@@H](O)CCCCCc2cc(O)cc(O)c2C(=O)O1
-4-Hydroxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4O)O
-4-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4O)O
+4-Hydroxyestradiol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1O).O5
+4-Hydroxyestrone	Oc1ccc2[C@H]3CC[C@]4(C)C(CC[C@H]4[C@@H]3CCc2c1O)=O
 21-Deoxycortisone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
 ERB-196	C1(=CC2=C(C(=C1)C#N)C=C(C=C2)O)C1=CC(=C(C=C1)O)F
 WAY-214156	C1C2=C(C=CC(=C2)O)C3=C(O1)C4=C(C=C(C=C4C#N)O)C(=C3)C#N
@@ -17026,7 +17027,7 @@ N-Oleyl-1,3-propanediamine	CCCCCCCC/C=C\CCCCCCCCNCCCN
 Cloprostenol	c1cc(cc(c1)Cl)OC[C@@H](/C=C/[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)O
 Triphenylphosphine phenylimide	c1ccc(cc1)N=P(c2ccccc2)(c3ccccc3)c4ccccc4
 Glucagon (medication)	C[C@H]([C@@H](C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccc(cc2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc4ccccc4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](Cc5c[nH]c6c5cccc6)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](Cc7cnc[nH]7)N)O
-2-Hydroxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=CC(=C(C=C34)O)O
+2-Hydroxyestriol	Oc1c(O)cc2[C@H]3CC[C@]4(C)[C@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
 4-Hydroxyestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4O)O
 2,2'-Bithiophene	c1cc(sc1)c2cccs2
 ICI-164384	CCCCN(C)C(=O)CCCCCCCCCC[C@@H]1CC2=C(C=CC(=C2)O)[C@@H]3[C@@H]1[C@@H]4CC[C@@H]([C@]4(CC3)C)O
@@ -17072,7 +17073,7 @@ SC-4289	CCC(C1=CC=C2C=C(OCC3=CC=CC=C3)C=CC2=C1)C(C)(C)CO
 SERBA-2	C1C[C@@H]2[C@H](C1)C3=C(C=CC(=C3)O)O[C@@H]2C4=CC=C(C=C4)O
 Phosphorus trifluorodichloride	FP(F)(Cl)(Cl)Cl
 2-Methoxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=C(C=C34)OC)O
-4-Methoxyestradiol	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4OC)O
+4-Methoxyestradiol	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1OC).O5
 4-Methoxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4OC)O
 (S,S)-Tetrahydrochrysene	CC[C@H]1CC2=C(C=CC(=C2)O)C3=C1C4=C(C[C@@H]3CC)C=C(C=C4)O
 ERA-63	C[C@@H]1CC2=C(CCC(=C)C2)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O
@@ -17725,7 +17726,7 @@ Vinyl norbornene	C=CC1CC2CC1C=C2
 1,3,4-Oxadiazole	C1=NN=CO1
 3,4-Ethylenedioxythiophene	C1COC2=CSC=C2O1
 3-Chlorobenzoic acid	C1=CC(=CC(=C1)Cl)C(=O)O
-Estradiol phosphate	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)O
+Estradiol phosphate	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5(CC[C@H]4[C@@H]3CCc2c1).O5P(O)(=O)O
 Diethyl oxomalonate	CCOC(=O)C(=O)C(=O)OCC
 Tolylfluanid	CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
 Dimethomorph	O=C(\C=C(/c1ccc(Cl)cc1)c2ccc(OC)c(OC)c2)N3CCOCC3
@@ -17873,8 +17874,8 @@ Triisopropylsilane	CC(C)[Si](C(C)C)C(C)C
 Phenylglycine	C1=CC=C(C=C1)C(C(=O)O)N
 2-Ethoxyethyl acetate	CCOCCOC(=O)C
 N-Phenylglycine	C1=CC=C(C=C1)NCC(=O)O
-Estriol (medication)	Oc1cc3c(cc1)[C@H]2CC[C@@]4([C@@H](O)[C@H](O)C[C@H]4[C@@H]2CC3)C
-Estrone (medication)	O=C4[C@]3(CC[C@@H]2c1ccc(O)cc1CC[C@H]2[C@@H]3CC4)C
+Estriol (medication)	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5
+Estrone (medication)	Oc1ccc2[C@H]3CC[C@]4(C)C(CC[C@H]4[C@@H]3CCc2c1)=O
 Α-Fluoromethylhistidine	c1c([nH]cn1)CC(CF)(C(=O)O)N
 Nickel bis(dimethylglyoximate)	CC(=C(C)N=O)NO.CC(=C(C)N=O)NO.[Ni]
 Histidine methyl ester	COC(=O)[C@H](Cc1c[nH]cn1)N
@@ -17909,7 +17910,7 @@ BIDN	C1CC2CC1C(C2(C(F)(F)F)C(F)(F)F)(C#N)C#N
 Caldoramide	CC(C)CC(C(=O)N1C(C(=CC1=O)OC)CC2=CC=CC=C2)N(C)C(=O)C(C(C)C)N(C)C(=O)C(C(C)C)NC(=O)C(C(C)C)N(C)C
 Dimethylaminoethyl acrylate	CN(C)CCOC(=O)C=C
 Iridium trihydride	[IrH3]
-Estetrol (medication)	C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O
+Estetrol (medication)	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6[C@@]7[C@H]4[C@@H]3CCc2c1).O7.O6.O5
 2-Hydroxyethyl terephthalic acid	C1=CC(=CC=C1C(=O)O)C(=O)OCCO
 Hydrazinium azide	N[NH3+].[N-]=[N+]=[N-]
 Methylphosphinic acid	CP(=O)O
@@ -18216,6 +18217,7 @@ Ro 3-0419	CCOP(=O)(OCC)Oc1cc2ccccc2nc1
 (2R)-2-Methylpent-4-enoic acid	CC(CC=C)C(=O)O
 2-Chlorobenzaldehyde	c1ccc(c(c1)C=O)Cl
 Zoliflodacin	C[C@@H]1CN2[C@H]([C@@H](O1)C)C3(CC4=C2C(=C5C(=C4)C(=NO5)N6[C@H](COC6=O)C)F)C(=O)NC(=O)NC3=O
+Polyestriol phosphate	[*]Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5P([*])(=O)O
 Lithium cyclopentadienide	[Li+].C1C=CC=[C-]1
 Chromium(III) acetate	O1C(C)=[O+][Cr-3]6(O23)([OH2+])([O+]=C(C)O4)[O+]=C(C)O[Cr-3]24([OH2+])([O+]=C(C)O5)[O+]=C(C)O[Cr-3]135([OH2+])[O+]=C(C)O6
 Tulipalin A	C=C1CCOC1=O
@@ -18345,7 +18347,7 @@ Methanediamine	C(N)N.Cl.Cl
 Neodymium(III) fluoride	F[Nd](F)F
 (Cyclopentadienyl)zirconium trichloride	C1C=CC=[C-]1.[Cl-].[Cl-].[Cl-].[Zr+4]
 1,3-Diisopropylbenzene	CC(C)C1=CC(=CC=C1)C(C)C
-Estriol phosphate	C[C@]1([C@](C[C@H]2O[H])([H])[C@@]3([H])[C@](C4=C(CC3)C=C(C=C4)O[H])([H])CC1)[C@H]2OP(O[H])(O[H])=O
+Estriol phosphate	Oc1ccc2[C@H]3CC[C@]4(C)[C@]5([C@@]6C[C@H]4[C@@H]3CCc2c1).O6.O5P(O)(=O)O
 1-Methylcytosine	CN1C=CC(=NC1=O)N
 2,4,6-Tribromoaniline	C1=C(C=C(C(=C1Br)N)Br)Br
 5-Aza-7-deazaguanine	C1=CN2C(=O)NC(=NC2=N1)N
@@ -19021,7 +19023,7 @@ Guvacoline	COC(=O)C1=CCCNC1
 Pinacyanol	CC[n+]1c(ccc2c1cccc2)C=CC=C3C=Cc4ccccc4N3CC.[I-]
 Scandium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Sc+3]
 BAM15	C1=CC=C(C(=C1)NC2=NC3=NON=C3N=C2NC4=CC=CC=C4F)F
-16β-Hydroxyestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H](C2=O)O)CCC4=C3C=CC(=C4)O
+16β-Hydroxyestrone	Oc1ccc2[C@H]3CC[C@]4(C)C([C@]6C[C@H]4[C@@H]3CCc2c1)=O.O6
 16-Ketoestrone	C[C@]12CC[C@H]3[C@H]([C@@H]1CC(=O)C2=O)CCC4=C3C=CC(=C4)O
 Butestrol	C[C@@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
 Meso-Butestrol	C[C@H](C1=CC=C(C=C1)O)[C@@H](C)C2=CC=C(C=C2)O
@@ -24371,3 +24373,5 @@ Mercury(I) acetate	[Hg]([Hg]OC(C)=O)OC(C)=O
 2,6-Dichloro-1,4-benzoquinone	C1=C(C(=O)C(=CC1=O)Cl)Cl
 Nitrosomethane	CN=O
 Carane	CC1CCC2C(C1)C2(C)C
+Nitronium hexafluoroantimonate	[N+](=O)=O.F[Sb-](F)(F)(F)(F)F
+Refisolone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]4[C@H]2O4)CCC5=CC(=O)CC[C@]35O
