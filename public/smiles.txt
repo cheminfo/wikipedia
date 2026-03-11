@@ -725,7 +725,7 @@ Iodobenzamide	Ic1ccc(OC)c(c1O)C(=O)NC[C@H]2N(CC)CCC2
 Zinc sulfate	[Zn+2].[O-]S([O-])(=O)=O
 Cyclopentolate	O=C(OCCN(C)C)C(c1ccccc1)C2(O)CCCC2
 Nocodazole	O=C(C2=CC=CS2)C1=CC=C(N=C(NC(OC)=O)N3)C3=C1
-Naproxen	COc1cc2ccc(cc2cc1)[C@H](C)C(=O)O
+Naproxen	COc1cc2ccc(cc2cc1)[C@@H](C)C(=O)O
 Azathioprine	Cn1cnc(N(=O)=O)c1Sc2ncnc3nc[nH]c23
 Skatole	Cc1c[nH]c2ccccc12
 Thiophene	c1ccsc1
@@ -21860,7 +21860,7 @@ Tiazotic acid	CC1=NC(=NN1)SCC(=O)O
 Centhaquine	CC1=CC(=CC=C1)N2CCN(CC2)CCC3=NC4=CC=CC=C4C=C3
 Trifluoroethylene	C(=C(F)F)F
 2-Aminooxazole	C1=COC(=N1)N
-CYB210010	COC1=CC(=C(C=C1CCN)OC)SC(F)(F)F
+2C-T-36	COC1=CC(=C(C=C1CCN)OC)SC(F)(F)F
 Palladium(II) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Pd+2]
 QL sulfide	CCOP(=S)(C)OCCN(C(C)C)C(C)C
 Azadiradione	CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC(=O)[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C
@@ -24348,6 +24348,7 @@ KDP34	O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[
 Nootkatin	CC(C)C1=CC(=O)C(=CC=C1CC=C(C)C)O
 Benzoylhydrazine	C1=CC=C(C=C1)P
 Butynone	CC(=O)C#C
+Cyclobutenone	C1C=CC1=O
 Trimethylgermanium chloride	Cl[Ge](C)(C)C
 DFMDMA	CC(NC)CC1=CC(O2)=C(OC2(F)F)C=C1
 MDTFEA	CC(CC1=CC2=C(C=C1)OCO2)NCC(F)(F)F
@@ -24373,5 +24374,7 @@ Mercury(I) acetate	[Hg]([Hg]OC(C)=O)OC(C)=O
 2,6-Dichloro-1,4-benzoquinone	C1=C(C(=O)C(=CC1=O)Cl)Cl
 Nitrosomethane	CN=O
 Carane	CC1CCC2C(C1)C2(C)C
+Hexachloroborazine	B1(N(B(N(B(N1Cl)Cl)Cl)Cl)Cl)Cl
 Nitronium hexafluoroantimonate	[N+](=O)=O.F[Sb-](F)(F)(F)(F)F
 Refisolone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]4[C@H]2O4)CCC5=CC(=O)CC[C@]35O
+L-817818	C[C@@H](COC(=O)[C@H](CCCCN)NC(=O)CC1=C(NC2=C1C=CC3=CC=CC=C32)C4=CC5=CC=CC=C5C=C4)N
