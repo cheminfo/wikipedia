@@ -1812,7 +1812,6 @@ Behentrimonium chloride	[Cl-].C(CCCC[N+](C)(C)C)CCCCCCCCCCCCCCCCC
 Ajoene	O=S(C/C=C/SSC/C=C)C\C=C
 Ketorolac	O=C(c1ccc2n1CCC2C(=O)O)c3ccccc3
 Perfluoro(2-methyl-3-pentanone)	FC(F)(F)C(F)(C(=O)C(F)(F)C(F)(F)F)C(F)(F)F
-Kryptonium	[KrH+]
 Erythorbic acid	OC=1[C@H](OC(=O)C=1O)[C@H](O)CO
 Cyanuric acid	Oc1nc(O)nc(O)n1
 Cyanuric acid	O=C1NC(=O)NC(=O)N1
@@ -24371,6 +24370,7 @@ Geranyl-linalool	CC(=CCC/C(=C/CC/C(=C/CCC(C)(C=C)O)/C)/C)C
 Pentaphenylbismuth	C1=CC=C(C=C1)[Bi](C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
 T-5224	C1CCC(C1)OC2=CC(=C(C=C2)C(=O)C3=CC(=C(C=C3)OCC4=CC5=C(C=C4)C(=O)NO5)CCC(=O)O)O
 Mercury(I) acetate	[Hg]([Hg]OC(C)=O)OC(C)=O
+Phaseolotoxin	C[C@@H](C(=O)N[C@@H](CCCCN=C(N)N)C(=O)O)NC(=O)[C@H](CCCNP(=O)(N)NS(=O)(=O)O)N
 2,6-Dichloro-1,4-benzoquinone	C1=C(C(=O)C(=CC1=O)Cl)Cl
 Nitrosomethane	CN=O
 Carane	CC1CCC2C(C1)C2(C)C
@@ -24378,3 +24378,6 @@ Hexachloroborazine	B1(N(B(N(B(N1Cl)Cl)Cl)Cl)Cl)Cl
 Nitronium hexafluoroantimonate	[N+](=O)=O.F[Sb-](F)(F)(F)(F)F
 Refisolone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]4[C@H]2O4)CCC5=CC(=O)CC[C@]35O
 L-817818	C[C@@H](COC(=O)[C@H](CCCCN)NC(=O)CC1=C(NC2=C1C=CC3=CC=CC=C32)C4=CC5=CC=CC=C5C=C4)N
+Zavolosotine	C[C@@H](C(F)(F)F)NC(=O)C1=CN=C(C(=C1N2CC[C@@H](C2)N)C3=CC(=CC(=C3)F)F)C#N
+L-797591	CC(CCN)CC(C)(C)CNC(=O)[C@@H](CC1=CC=CC2=CC=CC=C21)NC(=O)N(CCC3=CC=CC=C3)CCC4=CC=CC=N4
+2C-EF-FLY	C1COC2=C(C3=C(C(=C21)CCN)OCC3)CCF
