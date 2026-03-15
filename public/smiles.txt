@@ -24385,3 +24385,7 @@ Triethanolamine borate	C1CN2CCOB(O1)OCC2
 Cyclohexasilane	[SiH2]1[SiH2][SiH2][SiH2][SiH2][SiH2]1
 3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate	C1=C[C@@H]([C@@H](C(=C1)CCC(=O)O)O)O
 3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate	O=C([O-])CCC1=CC=C[C@H](O)[C@@H]1O
+Triiodoacetic acid	C(=O)(C(I)(I)I)O
+Rhenium oxytetrachloride	O=[Re](Cl)(Cl)(Cl)Cl
+AP503	CCN1CCN(CC1)C2=C(C=C(C=C2)C(=O)OC)NC(=O)COC3=C(C=C(C=C3)C)C
+GL64	C1=CC=C2C(=C1)C(=O)N(C(N2)C3=CC(=CC=C3)OCC4=C(C=C(C=C4)Cl)Cl)C5=CC=C(C=C5)Cl
