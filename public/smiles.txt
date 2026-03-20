@@ -5488,7 +5488,7 @@ Trimethylphosphine	CP(C)C
 Octaethylene glycol monododecyl ether	O(CCOCCOCCCCCCCCCCCC)CCOCCOCCOCCOCCOCCO
 Pentaethylene glycol monododecyl ether	O(CCO)CCOCCOCCOCCOCCCCCCCCCCCC
 Muramyl dipeptide	O=C(N)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O[C@H]1[C@H](O)[C@H](OC(O)[C@@H]1NC(=O)C)CO)C)C)CCC(=O)O
-Trabectedin	Cc1cc2c(c(c1OC)O)[C@@H]3[C@@H]4[C@H]5c6c(c7c(c(c6OC(=O)C)C)OCO7)[C@@H](N4[C@H]([C@H](C2)N3C)O)COC(=O)[C@@]8(CS5)c9cc(c(cc9CCN8)O)OC
+Trabectedin	CC1=CC2=C(C(O)=C1OC)[C@@H]3[C@@H]4[C@H]5C6=C(OC(C)=O)C(C)=C7C(OCO7)=C6[C@H](COC([C@]8(C(C=C(OC)C(O)=C9)=C9CCN8)CS5)=O)N4[C@@H](O)[C@@H](N3C)C2
 Tetralin	c1ccc2c(c1)CCCC2
 Phenazepam	c1ccc(c(c1)C2=NCC(=O)Nc3c2cc(cc3)Br)Cl
 3-Amino-1,2,4-triazole	n1c[nH]nc1N
@@ -14354,7 +14354,7 @@ Ptilomycalin A	CC[C@H]1CCCC[C@]2(O1)C[C@@H]3CC[C@H]4[N+]3=C(N2)N[C@]5([C@H]4C(=O
 Gymnochrome E	CCC[C@H](Cc1c2c3c(c(c(c4c3c5c6c(c(cc(c6c4=O)O)O)c7c(cc(c8c7c5c2c(c8=O)c(c1Br)O)O)O)O)Br)C[C@H](C)O)O
 Arylomycin A2	C[C@H]1C(=O)N[C@@H](Cc2ccc(c(c2)-c3cc(ccc3O)[C@@H](C(=O)N1)N(C)C(=O)CNC(=O)[C@@H](C)NC(=O)[C@@H](CO)N(C)C(=O)C)O)C(=O)O
 Mannopeptimycin glycopeptide	CC(C)CC(=O)O[C@H]1[C@H](O)[C@@H](CO)O[C@H](O[C@H]2[C@H](O)[C@H](O)[C@@H](Oc3ccc(C[C@H]4NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CO)NC(=O)[C@H](NC(=O)[C@@H](NC4=O)[C@@H](O)[C@@H]5CN=C(N)N5)[C@@H](O)[C@@H]6CN=C(N)N6[C@H]7O[C@H](O)[C@@H](O)[C@H](O)[C@@H]7O)[C@@H](C)c8ccccc8)cc3)O[C@@H]2CO)[C@H]1O
-Avibactam	[C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
+Avibactam	NC([C@H]1[N@](C(N2OS(O)(=O)=O)=O)C[C@H]2CC1)=O
 Nemonoxacin	C[C@H]1C[C@H](N)CN(C1)c2ccc3c(c2OC)n(C4CC4)cc(c3=O)C(=O)O
 Omadacycline	CC(C)(C)CNCc1cc(c2c(c1O)C(=O)C3=C([C@]4([C@@H](C[C@@H]3C2)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)N(C)C
 Plazomicin	CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3OC(=CC[C@H]3N)CNCCO)[C@@H](N)C[C@H]2NC(=O)[C@@H](O)CCN)OC[C@]1(C)O
@@ -24399,3 +24399,4 @@ Bocidelpar	CC1=CN=C(N1CC2=CC=CC=C2OCCC[C@@H](C)CC(=O)O)C3=CC=C(C=C3)C(F)(F)F
 Phenyl formate	C1=CC=C(C=C1)OC=O
 Cis-Diamminediiodoplatinum(II)	N.N.I[Pt]I
 Phescaline	COC1=C(OC2=CC=CC=C2)C(OC)=CC(CCN)=C1
+Deutivacaftor	[2H]C([2H])([2H])C(c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O)(C([2H])([2H])[2H])C([2H])([2H])[2H]
