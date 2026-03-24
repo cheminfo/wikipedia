@@ -19527,6 +19527,7 @@ Pregnanetriolone	CC(C1(CCC2C1(CC(=O)C3C2CCC4C3(CCC(C4)O)C)C)O)O
 2-Methylpentamethylenediamine	CC(CCCN)CN
 Ketopantoic acid	CC(C)(CO)C(=O)C(=O)O
 Rhodium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Rh+3]
+Rhodium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Rh+3].[Rh+3]
 Rhodium(III) sulfate	O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Rh+3].[Rh+3]
 Rhodium(III) sulfate	O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Rh+3].[Rh+3]
 Serazapine	O=C(OC)C1=C2N(C3=C1C=CC=C3)CC4=CC=CC=C4N5C2CN(C)CC5
@@ -24402,10 +24403,11 @@ Bocidelpar	CC1=CN=C(N1CC2=CC=CC=C2OCCC[C@@H](C)CC(=O)O)C3=CC=C(C=C3)C(F)(F)F
 2C-I-FLY	C1COC2=C(C3=C(C(=C21)CCN)OCC3)I
 Phenyl formate	C1=CC=C(C=C1)OC=O
 Phescaline	COC1=C(OC2=CC=CC=C2)C(OC)=CC(CCN)=C1
-2,5-dimethoxy-4-hydroxyamphetamine	CC(CC1=CC(=C(C=C1OC)O)OC)N
+2,5-Dimethoxy-4-hydroxyamphetamine	CC(CC1=CC(=C(C=C1OC)O)OC)N
 1-Fluoro(18F)-1-deoxyephedrine	C[C@@H]([C@@H](C1=CC=CC=C1)[18F])NC
 Cyclopropylflualprazolam	Fc1ccccc1C1=NCc2nnc(n2c2ccc(Cl)cc12)C1CC1
 Phenyl benzoate	C1=CC=C(C=C1)C(=O)OC2=CC=CC=C2
 (−)-N-Methylpseudoephedrine	C[C@H]([C@@H](C1=CC=CC=C1)O)N(C)C
 4-Methylephedrine	CC1=CC=C(C=C1)C(C(C)NC)O
 Cyclohexyl acetate	CC(=O)OC1CCCCC1
+Methyl trichloroacetate	COC(=O)C(Cl)(Cl)Cl
