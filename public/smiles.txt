@@ -11094,7 +11094,7 @@ Isohexanol	OCCCC(C)C
 2,4,6-Tribromoanisole	COc1c(Br)cc(Br)cc1Br
 Methyl chloroformate	O=C(Cl)OC
 2,4,6-Tribromophenol	Brc1cc(Br)cc(Br)c1O
-Estradiol enantate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
+Estradiol enanthate	CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C3C=CC(=C4)O)C
 Chebulinic acid	C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O
 Microcystin-LR	CC1C(NC(=O)C(NC(=O)C(C(NC(=O)C(NC(=O)C(NC(=O)C(=C)N(C(=O)CCC(NC1=O)C(=O)O)C)C)CC(C)C)C(=O)O)C)CCCN=C(N)N)C=CC(=CC(C)C(CC2=CC=CC=C2)OC)C
 Glycine betaine aldehyde	O=CC[N+](C)(C)C
@@ -24412,3 +24412,5 @@ Phenyl benzoate	C1=CC=C(C=C1)C(=O)OC2=CC=CC=C2
 Cyclohexyl acetate	CC(=O)OC1CCCCC1
 Methyl trichloroacetate	COC(=O)C(Cl)(Cl)Cl
 Linerixibat	CCCC[C@@]1(CS(=O)(=O)C2=C(C=C(C(=C2)CNC(CC(=O)O)CC(=O)O)OC)[C@H](N1)C3=CC=CC=C3)CC
+Dimethylsilanediol	C[Si](C)(O)O
+FP802	CCN(CCN)CC1=CC(=CC=C1)Cl
