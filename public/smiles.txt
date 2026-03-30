@@ -23767,7 +23767,6 @@ Plutonium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-]
 Gabamide	C(CC(=O)N)CN
 Plutonium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+4]
 Plutonium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+4].O
-Plutonium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+4].O.O.O.O
 Plutonium(IV) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Pu+4].O.O.O.O.O.O
 SCH-50971	C[C@H]1CNC[C@@H]1C2=CN=CN2
 BP 2.94	C[C@H](CC1=CN=CN1)N=C(C2=CC=CC=C2)C3=CC=CC=C3O
@@ -23848,6 +23847,7 @@ UK-5099	C1=CC=C(C=C1)N2C=C(C3=CC=CC=C32)/C=C(\C#N)/C(=O)O
 Dalosirvat	C1COC2=C(O1)C=CC(=C2)C(=O)CCC(=O)C3=CC=CC=C3
 AS-601811	CC1=CC2=C(C=C1)N3CCC(=O)C(=C3CC2)C
 JXL082	CCOC(=O)/C(=C/C1=CN(C2=C1C=CC=N2)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)/C#N
+2,4,6-Triaminopyrimidine	C1=C(N=C(N=C1N)N)N
 FOXO4-DRI	CC[C@@H](C)[C@H](C(=O)N[C@H](C)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CO)C(=O)N[C@H]([C@H](C)CC)C(=O)N[C@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](C)C(=O)N[C@H](CC1=CC=C(C=C1)O)C(=O)N[C@H](CO)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CC(=O)N)C(=O)NCC(=O)N[C@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@H](C)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CO)C(=O)NCC(=O)NCC(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)N4CCC[C@@H]4C(=O)N5CCC[C@@H]5C(=O)N6CCC[C@@H]6C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCC(=O)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCCN)C(=O)N[C@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CO)NC(=O)[C@@H](C)NC(=O)[C@H]7CCCN7C(=O)[C@@H](CCC(=O)O)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]([C@H](C)O)NC(=O)[C@@H](CC(C)C)N
 1F-LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5=CC=CO5)C
 KPV tripeptide	CC(C)[C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)N
