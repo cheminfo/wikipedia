@@ -16054,6 +16054,7 @@ Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
 3β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@H](CC[C@]34C)O)C
+Andrane	CC1CCC2C13CC(C2(C)C)C4(C(C3)O4)C
 Sirius Red	C1=CC(=CC=C1N=NC2=CC(=C(C=C2)N/N=C/3\C(=O)C4=C(C=C3S(=O)(=O)[O-])C=C(C=C4)NC(=O)NC5=CC6=C(C(=O)/C(=N\NC7=C(C=C(C=C7)N=NC8=CC=C(C=C8)S(=O)(=O)[O-])S(=O)(=O)[O-])/C(=C6)S(=O)(=O)[O-])C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
@@ -24427,3 +24428,4 @@ N-(3-sulfopropyl)aniline	O=S(=O)(CCCNC1=CC=CC=C1)O
 2CT2-5-EtO	CCSC(C(OCC)=C1)=CC(OC)=C1CCN
 Pentaphene	C=1C=CC=2C=C3C(C=CC=4C=C5C=CC=CC5=CC43)=CC2C1
 Cedramber	C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
+Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
