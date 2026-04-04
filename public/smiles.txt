@@ -18450,7 +18450,7 @@ KB-16	COC(=O)N(CCCl)N=O
 Bilirubin glucuronide	CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)/C=C\5/C(=C(C(=O)N5)C=C)C
 Phototrexate	C1(=NC(=NC2=C1C=C(C=C2)N=NC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)N)N
 Custirsen	COCCO[C@H]1[C@@H](O[C@@H]([C@H]1OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=NC=2C(N)=NC=NC12)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=NC=2C(=O)NC(N)=NC12)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C(=O)N=C(N)C(=C1)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(N)=NC=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(=O)NC(N)=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)N=C(N)C=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(N)=NC=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(=O)NC(N)=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(N)=NC=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(=O)NC(N)=NC12)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)NC(=O)C(C)=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)N=C(N)C=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)NC(=O)C(C)=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)NC(=O)C(C)=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C(=O)N=C(N)C=C1)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC=2C(N)=NC=NC12)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C(=O)NC(=O)C(=C1)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C(=O)N=C(N)C(=C1)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=NC=2C(N)=NC=NC12)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C(=O)NC(=O)C(=C1)C)OCCOC)O)CO)N1C(=O)N=C(N)C(=C1)C
-Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
+1,2,3,4-Tetrahydroquinoline	C1CC2=CC=CC=C2NC1
 1-Indanone	C1CC(=O)C2=CC=CC=C21
 Methyl phenyldiazoacetate	COC(=O)C(=[N+]=[N-])C1=CC=CC=C1
 Chlorobactane	CC1=C(C(=C(C=C1)C)CCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C)C
@@ -24429,3 +24429,6 @@ N-(3-sulfopropyl)aniline	O=S(=O)(CCCNC1=CC=CC=C1)O
 Pentaphene	C=1C=CC=2C=C3C(C=CC=4C=C5C=CC=CC5=CC43)=CC2C1
 Cedramber	C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
 Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
+2MePI	CN1CCC2=C(C1)C3=CC=CC=C3N2
+Methylcyclobutane	CC1CCC1
+11-Chloroasimilobine	COC1=C(C=C2CCNC3C2=C1C4=C(C3)C=CC=C4Cl)O
