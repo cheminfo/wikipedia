@@ -52,6 +52,7 @@ Hydrogen peroxide	OO
 Hydrocodone	O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@H]3CC4)C
 Ketamine	Clc1ccccc1C2(NC)CCCCC2=O
 Ketoprofen	CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O
+Kerosene	CCCCCCCCCCCCCCC.CCCCCCCCCC1CCCCC1.CCCCCCCCCC1=CC=CC=C1.CCC1CCCC(CC2=CC=CC=C2)C1.CCC1(CC2CCCCC2)CCCCC1.CCCCCCCCCCCCC(C)CC.CCCCCCCCCCCC(C)(C)CC.CCCCC(CC)(CC(C)C)C(CC)CC
 Α-Ketoglutaric acid	O=C(O)C(=O)CCC(=O)O
 LSD	CCN(CC)C(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C
 Lithium citrate	[Li+].[Li+].[Li+].O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-]
@@ -13288,7 +13289,6 @@ Drinabant	Fc1cc(cc(F)c1)N(C4CN(C(c2ccc(Cl)cc2)c3ccc(Cl)cc3)C4)S(=O)(=O)C
 Naloxegol	COCCOCCOCCOCCOCCOCCOCCO[C@H]1CC[C@]2([C@H]3Cc4ccc(c5c4[C@]2([C@H]1O5)CCN3CC=C)O)O
 Nafoxadol	O1CC4OC1(c3cc2ccccc2cc3)CNC4
 Methade	CN(C(CC(CCC)(C1=CC=CC=C1)C2=CC=CC=C2)C)C
-Xenonium	[XeH+]
 Bicyclo(2.2.1)heptane-2-carbonitrile	N#CC2CC1CCC2C1
 Bis(chloromethyl) ketone	ClCC(=O)CCl
 Tirpate	O=C(ON=CC1(SCC(S1)C)C)NC
@@ -24437,3 +24437,6 @@ Methylcyclobutane	CC1CCC1
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
 1-(2,4,5-Trimethoxyphenyl)-6-chlorotryptoline	COC1=CC(=C(C=C1C2C3=C(CCN2)C4=C(N3)C=CC(=C4)Cl)OC)OC
 2-Hydroxy-11-(2-methylallyl)oxynoraporphine	CC(=C)COC1=CC=CC2=C1C3=CC(=CC4=C3C(C2)NCC4)O
+5-Methylpsilocybin	CC1=C(C2=C(C=C1)NC=C2CCN(C)C)OP(=O)(O)O
+Cleminorexton	C1C[C@@H]([C@@H]2CC3=C(C(=CC=C3)C4=C(C(=CC(=C4)F)F)OCCC(=O)N2C1)F)NS(=O)(=O)C5(CC5)F
+Erythrin	CC1=C(C(=O)OC2=CC(C)=C(C(=O)OC[C@H](O)[C@H](O)CO)C(O)=C2)C(O)=CC(O)=C1
