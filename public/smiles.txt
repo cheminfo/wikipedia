@@ -14696,7 +14696,7 @@ Bifenox	COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+](=O)[O-]
 N,α-Diethylphenethylamine	C(C)NC(CC1=CC=CC=C1)CC
 SR-57227	ClC1=CC=CC(N2CCC(N)CC2)=N1
 Anonaine	C1CN[C@@H]2CC3=CC=CC=C3C4=C2C1=CC5=C4OCO5
-Asimilobine	COC1=C(C=C2CCN[C@@H]3C2=C1C4=CC=CC=C4C3)O
+Asimilobine	COC1=C(C=C2CCN[C@H]3C2=C1C4=CC=CC=C4C3)O
 Mesembranol	CN1CC[C@]2([C@@H]1C[C@@H](CC2)O)c3ccc(c(c3)OC)OC
 Arisugacin A	C[C@@]12CC[C@@]3([C@@]([C@]1(CC4=C(O2)C=C(OC4=O)C5=CC(=C(C=C5)OC)OC)O)(C(=O)C=CC3(C)C)C)O
 Tortuosamine	CNCC[C@@]1(CCC2=C(C1)C=CC=N2)C3=CC(=C(C=C3)OC)OC
@@ -24432,6 +24432,7 @@ Pentaphene	C=1C=CC=2C=C3C(C=CC=4C=C5C=CC=CC5=CC43)=CC2C1
 Cedramber	C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
 Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
 2MePI	CN1CCC2=C(C1)C3=CC=CC=C3N2
+N-ethyl-lanicemine	CCNC(CC1=CC=CC=N1)C2=CC=CC=C2
 Methylcyclobutane	CC1CCC1
 11-Chloroasimilobine	COC1=C(C=C2CCNC3C2=C1C4=C(C3)C=CC=C4Cl)O
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
@@ -24440,3 +24441,8 @@ Methylcyclobutane	CC1CCC1
 5-Methylpsilocybin	CC1=C(C2=C(C=C1)NC=C2CCN(C)C)OP(=O)(O)O
 Cleminorexton	C1C[C@@H]([C@@H]2CC3=C(C(=CC=C3)C4=C(C(=CC(=C4)F)F)OCCC(=O)N2C1)F)NS(=O)(=O)C5(CC5)F
 Erythrin	CC1=C(C(=O)OC2=CC(C)=C(C(=O)OC[C@H](O)[C@H](O)CO)C(O)=C2)C(O)=CC(O)=C1
+Atherosperminine	CN(C)CCC1=CC(=C(C2=C1C=CC3=CC=CC=C32)OC)OC
+MQ02-439	COC1=C2C3=CC=CC=C3CC4C2=C(CCN4)C=C1
+Nornuciferine	COC1=C(C2=C3C(CC4=CC=CC=C42)NCCC3=C1)OC
+11-Methoxyasimilobine	COC1=CC=CC2=C1C3=C4C(C2)NCCC4=CC(=C3OC)O
+1-Ethyl-6-hydroxytryptoline	CCC1C2=C(CCN1)C3=C(N2)C=CC(=C3)O
