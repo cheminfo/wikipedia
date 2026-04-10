@@ -11878,7 +11878,7 @@ Ciclopramine	c14c2c(ccc1)C(NC)CCN2c3ccccc3CC4
 Clocapramine	Clc1ccc3c(c1)N(c2ccccc2CC3)CCCN5CCC(C(=O)N)(N4CCCCC4)CC5
 Depramine	c3cc2c(\C=C/c1c(cccc1)N2CCCN(C)C)cc3
 Fenmetozole	Clc2ccc(OCC/1=N/CCN\1)cc2Cl
-Fenmetramide	O=C1NC(C(OC1)c2ccccc2)C
+Fenmetramide	CC1C(OCC(=O)N1)C2=CC=CC=C2
 Aminoacetonitrile	NCC#N
 Amezepine	c3cc2c(\C=C(/c1c(cccc1)N2C)CCNC)cc3
 Clazolam	Clc2ccc1N(C(=O)CN4C(c1c2)c3c(cccc3)CC4)C
@@ -24441,6 +24441,7 @@ Methylcyclobutane	CC1CCC1
 Cleminorexton	C1C[C@@H]([C@@H]2CC3=C(C(=CC=C3)C4=C(C(=CC(=C4)F)F)OCCC(=O)N2C1)F)NS(=O)(=O)C5(CC5)F
 Erythrin	CC1=C(C(=O)OC2=CC(C)=C(C(=O)OC[C@H](O)[C@H](O)CO)C(O)=C2)C(O)=CC(O)=C1
 Atherosperminine	CN(C)CCC1=CC(=C(C2=C1C=CC3=CC=CC=C32)OC)OC
+Oxazosulfyl	CCS(=O)(=O)C1=C(N=CC=C1)C2=NC3=C(O2)C=CC(=C3)S(=O)(=O)C(F)(F)F
 MQ02-439	COC1=C2C3=CC=CC=C3CC4C2=C(CCN4)C=C1
 Nornuciferine	COC1=C(C2=C3C(CC4=CC=CC=C42)NCCC3=C1)OC
 11-Methoxyasimilobine	COC1=CC=CC2=C1C3=C4C(C2)NCCC4=CC(=C3OC)O
@@ -24456,3 +24457,11 @@ Mazisotine	CC(C)(COc1ncccc1C)NC(=O)[C@H]1[C@@H]2CNC[C@H]12
 2CT4-2-EtO	CCOC1=CC(SC(C)C)=C(OC)C=C1CCN
 SKF-89626	C1[C@H](C2=C(CN1)SC=C2)C3=CC(=C(C=C3)O)O
 RU-29717	CCCN1CCOC2[C@H]1CC3=CNC4=CC=CC2=C34
+9-Oxaergoline	C1CO[C@H]2[C@H](N1)CC3=CNC4=CC=CC2=C34
+J-2156	CC1=CC=C(C2=CC=CC=C12)S(=O)(=O)N[C@@H](CCN)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N
+N-Methylnorsalsolinol	CN1CCC2=CC(=C(C=C2C1)O)O
+Hydrocotarnine	CN1CCC2=CC3=C(C(=C2C1)OC)OCO3
+6-Ethyl-9-oxaergoline	CCN1CCOC2[C@H]1CC3=CNC4=CC=CC2=C34
+6-Chloro-2-(1-piperazinyl)quinoxaline	C1CN(CCN1)C2=CN=C3C=C(C=CC3=N2)Cl
+2CB-5-EtO	CCOC1=C(Br)C=C(OC)C(CCN)=C1
+2CT-2-EtO	CCOC1=CC(SC)=C(OC)C=C1CCN
