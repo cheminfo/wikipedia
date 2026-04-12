@@ -17123,7 +17123,7 @@ Bictegravir	c1c(cc(c(c1F)CNC(=O)c2cn3c(c(c2=O)O)C(=O)N4[C@H]5CC[C@H](C5)O[C@@H]4
 Plecanatide	CC1C(=O)NC2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)CNC(=O)C(NC2=O)C(C)O)C(=O)NC(CC(C)C)C(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)C)CC(=O)N)C(C)C)CC(C)C)CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)N)N
 Tris(trimethylsilyl)phosphine	C[Si](C)(C)P([Si](C)(C)C)[Si](C)(C)C
 Dobesilic acid	C1=CC(=C(C=C1O)S(=O)(=O)O)O
-Tetramethylthiuram sulfide	CN(C)C(=S)SC(=S)N(C)C
+Tetramethylthiuram monosulfide	CN(C)C(=S)SC(=S)N(C)C
 Doxifluridine	C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
 Inosine triphosphate	C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
 Poziotinib	COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
@@ -24467,3 +24467,8 @@ Hydrocotarnine	CN1CCC2=CC3=C(C(=C2C1)OC)OCO3
 2CT-2-EtO	CCOC1=CC(SC)=C(OC)C=C1CCN
 Dysprosium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Dy+3].[Dy+3]
 Dysprosium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Dy+3].[Dy+3]
+4-Nitromethamphetamine	CC(CC1=CC=C(C=C1)[N+](=O)[O-])NC
+Terbium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3].[Tb+3]
+Terbium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3].[Tb+3]
+GATC-1021	CN1CCC(C2=CC(OC)=C(F)C=C2N3)=C3CC1
+2CI-2-EtO	CCOC1=CC(I)=C(OC)C=C1CCN
