@@ -24445,6 +24445,7 @@ Oxazosulfyl	CCS(=O)(=O)C1=C(N=CC=C1)C2=NC3=C(O2)C=CC(=C3)S(=O)(=O)C(F)(F)F
 MQ02-439	COC1=C2C3=CC=CC=C3CC4C2=C(CCN4)C=C1
 Nornuciferine	COC1=C(C2=C3C(CC4=CC=CC=C42)NCCC3=C1)OC
 11-Methoxyasimilobine	COC1=CC=CC2=C1C3=C4C(C2)NCCC4=CC(=C3OC)O
+Silver(III) oxide	[Ag+3].[Ag+3].[O-2].[O-2].[O-2]
 1-Ethyl-6-hydroxytryptoline	CCC1C2=C(CCN1)C3=C(N2)C=CC(=C3)O
 2CD-2-EtO	CCC(C(OCC)=C1)=CC(OC)=C1CCN
 2-Methyltryptoline	CN1CCC2=C(C1)NC3=CC=CC=C23
@@ -24472,3 +24473,9 @@ Terbium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3
 Terbium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3].[Tb+3]
 GATC-1021	CN1CCC(C2=CC(OC)=C(F)C=C2N3)=C3CC1
 2CI-2-EtO	CCOC1=CC(I)=C(OC)C=C1CCN
+Alorac	C(=C(C(=O)O)Cl)(C(=O)C(Cl)(Cl)Cl)Cl
+Carvotroline	C1CN(CC2=C1NC3=C2C=C(C=C3)F)CCC4=CC=NC=C4
+2CB-2,5-DiEtO	CCOC1=CC(Br)=C(OCC)C=C1CCN
+2CD-2,5-DiEtO	CCOC1=CC(CCN)=C(OCC)C=C1C
+2CT2-2,5-DiEtO	CCOC1=CC(SCC)=C(OCC)C=C1CCN
+DOM-2,5-DiEtO	CCOC1=CC(CC(N)C)=C(OCC)C=C1C
