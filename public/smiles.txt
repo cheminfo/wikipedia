@@ -8384,7 +8384,7 @@ Fluoran	O=C2OC4(c1ccccc12)c5ccccc5Oc3ccccc34
 Manganese(II) bromide	[Mn](Br)Br
 Manganese(II) bromide	O.O.O.O.[Mn+2].[Br-].[Br-]
 Thiambutenes	s1cccc1C(=CC(N)C)c2sccc2
-Acetyl hexapeptide-3	CSCC[C@H](NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CCC(O)=O)NC(C)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(N)=O
+Acetyl hexapeptide-8	CSCC[C@H](NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CCC(O)=O)NC(C)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(N)=O
 Platinum(IV) bromide	Br[Pt](Br)(Br)Br
 Indium(III) fluoride	F[In](F)F
 Bismuth(III) iodide	[I-].[I-].[I-].[BiH3+3]
@@ -12552,6 +12552,7 @@ Ro60-0213	C[C@@H](Cn1ccc2c1-c3cc(ccc3C2)OC)N
 Alphacetylmethadol	CC[C@H](C(C[C@@H](C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C
 Betacetylmethadol	O=C(O[C@H](C(c1ccccc1)(c2ccccc2)C[C@H](N(C)C)C)CC)C
 1,6-Hexanediol	OCCCCCCO
+Triphenylphosphine dibromide	C1=CC=C(C=C1)[P+](C2=CC=CC=C2)(C3=CC=CC=C3)Br.[Br-]
 Tosyl azide	O=S(=O)([N-][N+]#N)c1ccc(cc1)C
 Sodium tert-butoxide	CC(C)(C)[O-].[Na+]
 Ferric oxalate	[Fe+3].[Fe+3].O=C([O-])C([O-])=O.[O-]C(=O)C([O-])=O.[O-]C(=O)C([O-])=O
@@ -21528,6 +21529,7 @@ Acephenanthrylene	C1=CC=C2C(=C1)C=C3C=CC4=C3C2=CC=C4
 Bepirovirsen	COCCO[C@@H]1[C@H](O)[C@@H](COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2CO)O[C@H]1n1cc(C)c(N)nc1=O
 Uranium(III) bromide	Br[U](Br)Br
 Cyanomethine	CC1=CC(=NC(=N1)C)N
+Facinicline	C1CN2CCC1[C@@H](C2)NC(=O)C3=NNC4=CC=CC=C43
 Tris(2,4,6-trimethoxyphenyl)phosphine	COC1=CC(=C(C(=C1)OC)P(C2=C(C=C(C=C2OC)OC)OC)C3=C(C=C(C=C3OC)OC)OC)OC
 AOD9604	CC[C@H](C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]1CSSC[C@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC1=O)CCCNC(=N)N)CO)C(C)C)CCC(=O)O)CO)C(=O)NCC(=O)N[C@@H](CC2=CC=CC=C2)C(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC3=CC=C(C=C3)O)N
 Neptunium(III) bromide	[Np+3].[Br-].[Br-].[Br-]
@@ -24468,14 +24470,20 @@ Hydrocotarnine	CN1CCC2=CC3=C(C(=C2C1)OC)OCO3
 2CT-2-EtO	CCOC1=CC(SC)=C(OC)C=C1CCN
 Dysprosium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Dy+3].[Dy+3]
 Dysprosium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Dy+3].[Dy+3]
+Tetrakis(hydroxymethyl)phosphonium sulfate	C(O)[P+](CO)(CO)CO.C(O)[P+](CO)(CO)CO.[O-]S(=O)(=O)[O-]
 4-Nitromethamphetamine	CC(CC1=CC=C(C=C1)[N+](=O)[O-])NC
 Terbium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3].[Tb+3]
 Terbium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Tb+3].[Tb+3]
 GATC-1021	CN1CCC(C2=CC(OC)=C(F)C=C2N3)=C3CC1
 2CI-2-EtO	CCOC1=CC(I)=C(OC)C=C1CCN
+2-Bromonaphthalene	C1=CC=C2C=C(C=CC2=C1)Br
 Alorac	C(=C(C(=O)O)Cl)(C(=O)C(Cl)(Cl)Cl)Cl
 Carvotroline	C1CN(CC2=C1NC3=C2C=C(C=C3)F)CCC4=CC=NC=C4
 2CB-2,5-DiEtO	CCOC1=CC(Br)=C(OCC)C=C1CCN
 2CD-2,5-DiEtO	CCOC1=CC(CCN)=C(OCC)C=C1C
 2CT2-2,5-DiEtO	CCOC1=CC(SCC)=C(OCC)C=C1CCN
 DOM-2,5-DiEtO	CCOC1=CC(CC(N)C)=C(OCC)C=C1C
+4-Allyl-6-oxa-noribogainalog	CN1CCC2=C(CC1CC=C)OC3=C2C=C(C=C3)O
+4-Methyl-N,N-dimethylcathinone	CN(C(C(=O)c1ccc(cc1)C)C)C
+Tetrapropylammonium chloride	CCC[N+](CCC)(CCC)CCC.[Cl-]
+Abrine	CN[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O
