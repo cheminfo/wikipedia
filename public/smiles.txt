@@ -23594,6 +23594,7 @@ Thulium(III) sulfate	O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Tm
 Thulium(III) sulfate	O.O.O.O.O.O.O.O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Tm+3].[Tm+3]
 Disulfuryl fluoride	O=S(=O)(OS(=O)(=O)F)F
 Fluetonitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCCF
+Quizalofop-P-ethyl	CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
 Fluetonitazepyne	C1CCN(C1)CCN2C3=C(C=C(C=C3)[N+](=O)[O-])N=C2CC4=CC=C(C=C4)OCCF
 Menitazene	CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)C
 Propylnitazene	CCCC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]
@@ -24487,3 +24488,10 @@ DOM-2,5-DiEtO	CCOC1=CC(CC(N)C)=C(OCC)C=C1C
 4-Methyl-N,N-dimethylcathinone	CN(C(C(=O)c1ccc(cc1)C)C)C
 Tetrapropylammonium chloride	CCC[N+](CCC)(CCC)CCC.[Cl-]
 Abrine	CN[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O
+MBM (drug)	CCCCOC1=C(C=C(C(=C1)OC)CC(C)N)OC
+Tropanyl phenylacetate	CN1C2CCC1CC(C2)OC(=O)CC3=CC=CC=C3
+Gadolinium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Gd+3].[Gd+3]
+Gadolinium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Gd+3].[Gd+3]
+LEK-8804	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NCC#C
+MAM (drug)	CCCCCOC(C=C1OC)=C(OC)C=C1CC(N)C
+LEK-8842	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(C)CC#C
