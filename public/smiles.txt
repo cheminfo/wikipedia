@@ -17230,6 +17230,7 @@ Potassium ferrooxalate	[K+].[K+].O=C(-C(=O)O1)O[Fe-2]12OC(-C(=O)O2)=O
 Bis(cyclopentadienyl)titanium(III) chloride	c1[cH-]ccc1.Cl[Ti+2].c1[cH-]ccc1
 Bis(cyclopentadienyl)titanium(III) chloride	c1[cH-]ccc1.c1[cH-]ccc1.Cl1[Ti+2]Cl[Ti+2]1.c1[cH-]ccc1.c1[cH-]ccc1
 25B-NBF	COC1=CC(CCNCC2=CC=CC=C2F)=C(OC)C=C1Br
+25C-NBF	COC1=CC(=C(C=C1CCNCC2=CC=CC=C2F)OC)Cl
 25G-NBOMe	CC1=C(C=C(C(=C1C)OC)CCNCC2=CC=CC=C2OC)OC
 25H-NBOMe	COC1=CC(=C(C=C1)OC)CCNCC2=CC=CC=C2OC
 Bis-GMA	CC(=C)C(=O)OCC(COC1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)OCC(COC(=O)C(=C)C)O)O
@@ -24351,7 +24352,7 @@ Cinobufotenine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)O
 4-Heptanol	CCCC(CCC)O
 Neoabietic acid	CC(=C1CCC2C(=C1)CCC3C2(CCCC3(C)C(=O)O)C)C
 Trimethylsilyl fluoride	F[Si](C)(C)C
-4-Bromomescaline	COC1=CC(=CC(=C1Br)OC)CCN
+Desoxybromoscaline	COC1=CC(=CC(=C1Br)OC)CCN
 D2-MDMA	[2H]C1(OC2=C(O1)C=C(C=C2)CC(C)NC)[2H]
 KDP34	O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[NH]c2ccccc21)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(=O)N)C(O)=O)C(C)C)[C@H](O)C)[C@@H](N)CC(=O)O
 Nootkatin	CC(C)C1=CC(=O)C(=CC=C1CC=C(C)C)O
@@ -24381,7 +24382,6 @@ Geranyl-linalool	CC(=CCC/C(=C/CC/C(=C/CCC(C)(C=C)O)/C)/C)C
 Pentaphenylbismuth	C1=CC=C(C=C1)[Bi](C2=CC=CC=C2)(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
 T-5224	C1CCC(C1)OC2=CC(=C(C=C2)C(=O)C3=CC(=C(C=C3)OCC4=CC5=C(C=C4)C(=O)NO5)CCC(=O)O)O
 Mercury(I) acetate	[Hg]([Hg]OC(C)=O)OC(C)=O
-Phaseolotoxin	C[C@@H](C(=O)N[C@@H](CCCCN=C(N)N)C(=O)O)NC(=O)[C@H](CCCNP(=O)(N)NS(=O)(=O)O)N
 2,6-Dichloro-1,4-benzoquinone	C1=C(C(=O)C(=CC1=O)Cl)Cl
 Nitrosomethane	CN=O
 Carane	CC1CCC2C(C1)C2(C)C
@@ -24427,14 +24427,14 @@ Rusfertide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@H]1C(=O)N[C@H](C(=O)N[C@H]
 Nonacene	C1=CC=C2C=C3C=C4C=C5C=C6C=C7C=C8C=C9C=CC=CC9=CC8=CC7=CC6=CC5=CC4=CC3=CC2=C1
 BCPC (herbicide)	CCC(C)OC(=O)NC1=CC(=CC=C1)Cl
 4-Propylamphetamine	CCCC1=CC=C(C=C1)CC(C)N
-N-(3-sulfopropyl)aniline	O=S(=O)(CCCNC1=CC=CC=C1)O
+N-(3-Sulfopropyl)aniline	O=S(=O)(CCCNC1=CC=CC=C1)O
 2CE-5-EtO	CCC(C(OCC)=C1)=CC(OC)=C1CCN
 2CT2-5-EtO	CCSC(C(OCC)=C1)=CC(OC)=C1CCN
 Pentaphene	C=1C=CC=2C=C3C(C=CC=4C=C5C=CC=CC5=CC43)=CC2C1
 Cedramber	C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
 Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
 2MePI	CN1CCC2=C(C1)C3=CC=CC=C3N2
-N-ethyl-lanicemine	CCNC(CC1=CC=CC=N1)C2=CC=CC=C2
+N-Ethyl-lanicemine	CCNC(CC1=CC=CC=N1)C2=CC=CC=C2
 Methylcyclobutane	CC1CCC1
 11-Chloroasimilobine	COC1=C(C=C2CCNC3C2=C1C4=C(C3)C=CC=C4Cl)O
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
@@ -24490,8 +24490,13 @@ Tetrapropylammonium chloride	CCC[N+](CCC)(CCC)CCC.[Cl-]
 Abrine	CN[C@@H](CC1=CNC2=CC=CC=C21)C(=O)O
 MBM (drug)	CCCCOC1=C(C=C(C(=C1)OC)CC(C)N)OC
 Tropanyl phenylacetate	CN1C2CCC1CC(C2)OC(=O)CC3=CC=CC=C3
+Tetramethylammonium nitrate	C[N+](C)(C)C.[N+](=O)([O-])[O-]
 Gadolinium(III) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Gd+3].[Gd+3]
 Gadolinium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Gd+3].[Gd+3]
 LEK-8804	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NCC#C
 MAM (drug)	CCCCCOC(C=C1OC)=C(OC)C=C1CC(N)C
 LEK-8842	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(C)CC#C
+LEK-8829	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)CN(C)CC#C
+B-193	CN1C2=CC=CC=C2C3=C1C(=O)N(CC3)CCCN4CCN(CC4)C5=CC=CC=C5
+MFEM (drug)	CC(N)CC1=CC(OC)=C(OCCF)C=C1OC
+MDFEM	CC(N)CC1=CC(OC)=C(OCC(F)F)C=C1OC
