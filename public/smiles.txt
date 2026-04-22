@@ -13973,7 +13973,7 @@ Mesembrenone	O=C3\C=C/[C@]2(c1ccc(OC)c(OC)c1)[C@@H](N(CC2)C)C3
 Nupharin A	O=C3O[C@H]7[C@H](OC(=O)c1c(c(O)c(O)c(O)c1)c2c(O)c(O)c(O)cc23)[C@@H](OC(=O)c4cc(O)c(O)c(O)c4)[C@H](OC(=O)c5cc(O)c(O)c(O)c5)O[C@@H]7COC(=O)c6cc(O)c(O)c(O)c6
 Dopachrome	C1C(NC2=CC(=O)C(=O)C=C21)C(=O)O
 DHICA	C1=C2C=C(NC2=CC(=C1O)O)C(=O)O
-Propanethiol	CCCS
+1-Propanethiol	CCCS
 EPI-001	ClCC(O)COc1ccc(cc1)C(c2ccc(OCC(O)CO)cc2)(C)C
 Streptolidine	C(C(C1C(N=C(N1)N)C(=O)O)O)N
 (S)-Ipsdienol	CC(=C[C@H](CC(=C)C=C)O)C
@@ -24502,3 +24502,7 @@ MFEM (drug)	CC(N)CC1=CC(OC)=C(OCCF)C=C1OC
 MDFEM	CC(N)CC1=CC(OC)=C(OCC(F)F)C=C1OC
 2C-T-31	FC(F)(F)C1=CC=C(CSC(C(OC)=C2)=CC(OC)=C2CCN)C=C1
 Para-Chlorophenethylamine	C1=CC(=CC=C1CCN)Cl
+Hexyl isocyanate	CCCCCCN=C=O
+Tetraethylammonium nitrate	[N+](CC)(CC)(CC)CC.[N+](=O)([O-])[O-]
+BQ-869	CNC1=CC2=C3C4=C1C=CC=C4NC3=C(Cl)C=C2
+R-102444	CCCCCCCCCCCC(=O)O[C@@H]1C[C@H](N(C1)C)CCOC2=CC=CC=C2CCC3=CC(=CC=C3)OC
