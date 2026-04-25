@@ -10036,7 +10036,7 @@ Hexaoxotricyclobutabenzene	O=C1C(=O)C2=C3C(=O)C(=O)C3=C3C(=O)C(=O)C3=C12
 Naringin dihydrochalcone	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H]([C@@H](O[C@@H]2Oc3cc(c(c(c3)O)C(=O)CCc4ccc(cc4)O)O)CO)O)O)O)O)O
 Agaritine	[O-]C(=O)[C@@H]([NH3+])CCC(=O)NNc1ccc(cc1)CO
 Methylarginine	CNC(=N)NCCCC(N)C(O)=O
-Hydrazine sulfate	O=S(=O)(O)O.NN
+Hydrazine sulfate	[NH3+]N.S(=O)(=O)(O)[O-]
 4,4'-Dinitro-3,3'-diazenofuroxan	C1(=NO[N+](=C1[N+](=O)[O-])[O-])N=NC2=NO[N+](=C2[N+](=O)[O-])[O-]
 Indocyanine green	[Na+].[O-]S(=O)(=O)CCCC[N+]=3c2ccc1c(cccc1)c2C(C=3C=CC=CC=CC=C6N(c5ccc4ccccc4c5C6(C)C)CCCCS([O-])(=O)=O)(C)C
 Taurolithocholic acid	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C
@@ -24517,5 +24517,9 @@ Ambrinol 95	CC1(CCC=C2C1CCC(C2)(C)O)C
 Bornafix	CC(CO)CO[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C
 Cetalor	CC1(CCCC2(C1CCC3(C2CCO3)C)C)C
 Grisalva	CCC12CCC3C(CCCC3(C1COC2)C)(C)C
+Tris(triphenylphosphine)platinum(0)	C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Pt]
 Tetramethylammonium sulfate	C[N+](C)(C)C.C[N+](C)(C)C.[O-]S(=O)(=O)[O-]
 Tetrasodium 1,3,6,8-pyrenetetrasulfonate	C1=CC2=C3C(=C(C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])C=CC4=C(C=C(C1=C43)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]
+Nitronium hexafluorouranate	O=[N+]=O.F[U-](F)(F)(F)(F)F
+Hydrazinium chloride	[NH3+]N.[Cl-]
+Oxonium hexafluorouranate	[OH3+].F[U-](F)(F)(F)(F)F
