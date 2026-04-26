@@ -24503,6 +24503,7 @@ MFEM (drug)	CC(N)CC1=CC(OC)=C(OCCF)C=C1OC
 MDFEM	CC(N)CC1=CC(OC)=C(OCC(F)F)C=C1OC
 2C-T-31	FC(F)(F)C1=CC=C(CSC(C(OC)=C2)=CC(OC)=C2CCN)C=C1
 Para-Chlorophenethylamine	C1=CC(=CC=C1CCN)Cl
+Mysantol	CC1=CCC(C1(C)C)C=CC(C)(C)C(C)O
 Hexyl isocyanate	CCCCCCN=C=O
 Tetraethylammonium nitrate	[N+](CC)(CC)(CC)CC.[N+](=O)([O-])[O-]
 Amber Xtreme	CC1C(C2CCC3CC(OC3C2C1(C)C)(C)C)(C)C
@@ -24511,7 +24512,7 @@ Nitrosonium hexafluoroantimonate	N#[O+].F[Sb-](F)(F)(F)(F)F
 BQ-869	CNC1=CC2=C3C4=C1C=CC=C4NC3=C(Cl)C=C2
 R-102444	CCCCCCCCCCCC(=O)O[C@@H]1C[C@H](N(C1)C)CCOC2=CC=CC=C2CCC3=CC(=CC=C3)OC
 Keverprazan	CNCC1=CN(C(=C1)C2=CC=CC=C2F)S(=O)(=O)C3=CC=CC(=C3)OCCCOC
-AGH-194	Cn1cncc1c2c[nH]c3ccc(I)c(F)c23
+AGH-194	CN1C=NC=C1C2=CNC3=C2C(=C(C=C3)I)F
 MTBSTFA	O=C(N(C)[Si](C)(C)C(C)(C)C)C(F)(F)F
 Ambrinol 95	CC1(CCC=C2C1CCC(C2)(C)O)C
 Bornafix	CC(CO)CO[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C
@@ -24523,3 +24524,9 @@ Tetrasodium 1,3,6,8-pyrenetetrasulfonate	C1=CC2=C3C(=C(C=C2S(=O)(=O)[O-])S(=O)(=
 Nitronium hexafluorouranate	O=[N+]=O.F[U-](F)(F)(F)(F)F
 Hydrazinium chloride	[NH3+]N.[Cl-]
 Oxonium hexafluorouranate	[OH3+].F[U-](F)(F)(F)(F)F
+Heptyl isocyanate	CCCCCCCN=C=O
+NNC 26-9100	C1=CC(=C(C=C1CN(CCCNC(=S)NCCCC2=CN=CN2)C3=NC=C(C=C3)Br)Cl)Cl
+Cycloheptanol	C1CCCCCC1O
+24H-NBOMe	COC1=CC(=C(C=C1)CCNCC2=CC=CC=C2OC)OC
+BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1C)CC2=CC=CC=C2)[C@@H](C)O)CCCCN)CC3=CNC4=CC=CC=C43)CC5=CC=CC=C5
+1-Fluoropropane	CCCF
