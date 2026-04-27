@@ -11204,7 +11204,7 @@ Hexahydroxybenzene trisoxalate	O=C1OC2=C3OC(=O)C(=O)OC3=C3OC(=O)C(=O)OC3=C2OC1=O
 Hexahydroxybenzene triscarbonate	O=C2Oc3c4OC(=O)Oc4c1OC(=O)Oc1c3O2
 Herbacetin	C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O
 Empenthrin	CCC=C(C)C(C#C)OC(=O)C1C(C1(C)C)C=C(C)C
-Ayanin	O=C1c3c(O/C(=C1/OC)c2ccc(OC)c(O)c2)cc(OC)cc3O
+Ayanin	COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC)O)OC)O
 Enterolactone	C1[C@@H]([C@H](C(=O)O1)CC2=CC(=CC=C2)O)CC3=CC(=CC=C3)O
 Enterodiol	C1=CC(=CC(=C1)O)C[C@@H](CO)[C@@H](CC2=CC(=CC=C2)O)CO
 Ap4A	C1=NC2=C(C(=N1)N)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=NC6=C5N=CN=C6N)O)O)O)O
@@ -12307,6 +12307,7 @@ Ex-Rad	C1=CC(=CC=C1CS(=O)(=O)/C=C/C2=CC=C(C=C2)C(=O)[O-])Cl.[Na+]
 Cycloastragenol	CC(C)(O)[C@@H]1CC[C@@](C)(O1)[C@H]3[C@@H](O)C[C@@]2(C)[C@@H]4C[C@H](O)[C@H]6[C@](C)(C)[C@@H](O)CC[C@@]65C[C@@]45CC[C@@]23C
 Lupeol	CC([C@@H]1CC[C@@]2(C)[C@@]1([H])[C@@]3([H])CC[C@]4([H])[C@@]5(C)CC[C@H](O)C(C)(C)[C@]5([H])CC[C@@]4(C)[C@]3(C)CC2)=C
 Lysergic acid 3-pentylamide	[H][C@@]12C(C3=C4C(NC=C4C2)=CC=C3)=C[C@@H](C(NC(CC)CC)=O)CN1C
+Phthaloyl chloride	C1=CC=C(C(=C1)C(=O)Cl)C(=O)Cl
 5-OH-DPAT	Oc1cccc2c1CC[C@H](N(CCC)CCC)C2
 5-OH-DPAT	CCCN(CCC)C1CCc2c(O)cccc2C1
 2,6-Diaminopurine	Nc1nc(N)nc2c1nc[nH]2
@@ -12516,7 +12517,7 @@ Tin(II) 2-ethylhexanoate	CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Sn+2]
 4,4'-Azobis(4-cyanopentanoic acid)	CC(CCC(=O)O)(C#N)N=NC(C)(CCC(=O)O)C#N
 Tris(2-pyridylmethyl)amine	c1ccnc(c1)CN(Cc2ccccn2)Cc3ccccn3
 Chromium hexafluoride	F[Cr](F)(F)(F)(F)F
-Conolidine	CC(=O)NC(=NCCC[C@H]1C(=O)N2CCC[C@@H]2C(=O)N[C@H]3C[C@H](N(C3=O)[C@H](C(=O)N[C@H](C(=O)N1)CCCC(=O)O)CC4=CN=CN4)O)N
+Conolidine	O=C(C(N1)=C(CN2C/3)C4=C1C=CC=C4)[C@](CC2)([H])C3=C/C
 YbGaGe	[Ga].[Ge].[Yb]
 Triazane	NNN
 Triphosphane	PPP
@@ -24507,6 +24508,8 @@ Mysantol	CC1=CCC(C1(C)C)C=CC(C)(C)C(C)O
 Hexyl isocyanate	CCCCCCN=C=O
 Tetraethylammonium nitrate	[N+](CC)(CC)(CC)CC.[N+](=O)([O-])[O-]
 Amber Xtreme	CC1C(C2CCC3CC(OC3C2C1(C)C)(C)C)(C)C
+Ambermor Ketal Crystal	CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C
+Ambermor Ketal Crystal	CC12CCC3C(O1)(CO2)CCC4(C)C3(C)CCCC4(C)(C)
 Ambermor Ketal IPM	CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C
 Nitrosonium hexafluoroantimonate	N#[O+].F[Sb-](F)(F)(F)(F)F
 BQ-869	CNC1=CC2=C3C4=C1C=CC=C4NC3=C(Cl)C=C2
@@ -24528,5 +24531,9 @@ Heptyl isocyanate	CCCCCCCN=C=O
 NNC 26-9100	C1=CC(=C(C=C1CN(CCCNC(=S)NCCCC2=CN=CN2)C3=NC=C(C=C3)Br)Cl)Cl
 Cycloheptanol	C1CCCCCC1O
 24H-NBOMe	COC1=CC(=C(C=C1)CCNCC2=CC=CC=C2OC)OC
+Dimethyldisulfanilamide	CN(C)S(=O)(=O)C1=CC=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N
 BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1C)CC2=CC=CC=C2)[C@@H](C)O)CCCCN)CC3=CNC4=CC=CC=C43)CC5=CC=CC=C5
 1-Fluoropropane	CCCF
+Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
+2-Methyl-4H-pyrido(1,2-a)pyrimidin-4-one	CC1=CC(=O)N2C=CC=CC2=N1
+4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
