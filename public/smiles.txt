@@ -13346,7 +13346,7 @@ Olympicene	C1C=C2C=CC3=C4C2=C5C1=CC=CC5=CC4=CC=C3
 3β-Androstanediol	O[C@H]4CC[C@]3([C@@H](CC[C@H]2[C@@H]1CC[C@H](O)[C@@]1(C)CC[C@@H]23)C4)C
 Megestrol	O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@@](O)(C(=O)C)CC[C@@H]12)C)[C@@]3(C)CC4)C
 2-Chloroethyl chloroformate	ClC(=O)OCCCl
-6-Hydroxymellein	O=C1OC(Cc2cc(O)cc(O)c12)C
+6-Hydroxymellein	CC1CC2=CC(=CC(=C2C(=O)O1)O)O
 Cyproterone acetate	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)OC(=O)C
 Cyproterone	CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O
 Tetrahydrocannabinolic acid	CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1C(=O)O)O
@@ -24539,3 +24539,4 @@ Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
 4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
 TRALA-12	CCN(C=C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 APA-01	C1C[C@@H](NC1)CC2=CC3=C(C=C2)OCO3
+Z5247692566	CC1(C)CCOC1CN1CCOCC1Cc1c[NH]c2ccccc21
