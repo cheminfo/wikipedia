@@ -4300,8 +4300,6 @@ Nickel(II) carbonate	[Ni+2].[O-]C([O-])=O
 Nickel(II) oxide	[O-2].[Ni+2]
 Lead(II) chromate	[O-][Cr](=O)(=O)[O-].[Pb+2]
 Zinc peroxide	[Zn+2].[O-][O-]
-Zirconium(II) hydride	[ZrH2]
-Zirconium(II) hydride	[H-].[H-].[Zr+2]
 Zirconium(IV) silicate	[Zr+4].[O-][Si]([O-])([O-])[O-]
 Zirconium(IV) bromide	Br[Zr](Br)(Br)Br
 Zirconium tetrafluoride	F[Zr](F)(F)F
@@ -24547,3 +24545,7 @@ Z8526711350	CC1=CC(=NN1C2=CC=CC(=C2)C(F)(F)F)C(=O)N[C@@](C)(C3=CC=CS3)C(=O)OC
 Manganese boride	B#[Mn]
 Dalapon-sodium	CC(C(=O)[O-])(Cl)Cl.[Na+]
 Gadusol	COC1=C(C(C(CC1=O)(CO)O)O)O
+1,3-Dihydroimidazol-2-one	C1=CNC(=O)N1
+4-(2,4-Dichlorophenoxy)aniline	C1=CC(=CC=C1N)OC2=C(C=C(C=C2)Cl)Cl
+SL88.0338	CCOC1=CC=CC(=C1)C(=O)N2CCC(CC2)CN3CCC4=C(C=CC(=C4C3)OC)OC
+Salvinorin C	CC(=O)O[C@H]1C=C([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2[C@H]1OC(=O)C)C)C4=COC=C4)C)C(=O)OC
