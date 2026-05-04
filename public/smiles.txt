@@ -19236,7 +19236,6 @@ Zinc diphosphide	[P-]=[P-].[Zn+2]
 2C-EF	COC1=CC(=C(C=C1CCN)OC)CCF
 Cadmium phosphide	[Cd+2].[Cd+2].[Cd+2].[P-3].[P-3]
 Trinaphthylene	C1=CC=C2C=C3C(=CC2=C1)C4=CC5=CC=CC=C5C=C4C6=CC7=CC=CC=C7C=C36
-Neptunium(III) chloride	Cl[Np](Cl)Cl
 Neptunium(III) chloride	[Cl-].[Np+3].[Cl-].[Cl-]
 2C-TFE	COC1=CC(=C(C=C1CCN)OC)CC(F)(F)F
 AM-7438	CC1=CC[C@@H]2[C@@H](C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)C(=O)OCCCC#N)O
@@ -23077,6 +23076,7 @@ L-760790	C1CN(C[C@@H]1CNCC2=CC=CC=C2)CCC3=CNC4=C3C=C(C=C4)N5C=NN=C5
 LY-344864	CN(C)[C@@H]1CCC2=C(C1)C3=C(N2)C=CC(=C3)NC(=O)C4=CC=C(C=C4)F
 UCSF648	CCS(=O)(=O)CCCNCC1=C2C(=C(C=C1)Cl)C=CC=N2
 JRT (drug)	CCN(CC)C(=O)C1CN([C@@H]2CN3C=CC4=C3C(=CC=C4)C2=C1)C
+JRT (drug)	CCN(CC)C(=O)[C@H]1CN([C@@H]2CN3C=CC4=C3C(=CC=C4)C2=C1)C
 Arabilin	CC1=C(OC(=C(C1=O)C)OC)C2CC(=CO2)/C=C(/C)\C=C(\C)/C/C(=C/C3=CC=C(C=C3)[N+](=O)[O-])/C
 Toyocamycin	N#CC1CN([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C2NCNC(N)C12
 Thymolphthalexone	CC1=C(C=C(C(=C1CN(CC(=O)O)CC(=O)O)O)C(C)C)C2(C3=CC=CC=C3C(=O)O2)C4=C(C(=C(C(=C4)C(C)C)O)CN(CC(=O)O)CC(=O)O)C
@@ -24547,5 +24547,6 @@ Dalapon-sodium	CC(C(=O)[O-])(Cl)Cl.[Na+]
 Gadusol	COC1=C(C(C(CC1=O)(CO)O)O)O
 1,3-Dihydroimidazol-2-one	C1=CNC(=O)N1
 4-(2,4-Dichlorophenoxy)aniline	C1=CC(=CC=C1N)OC2=C(C=C(C=C2)Cl)Cl
+Lauric acid diethanolamide	CCCCCCCCCCCC(=O)N(CCO)CCO
 SL88.0338	CCOC1=CC=CC(=C1)C(=O)N2CCC(CC2)CN3CCC4=C(C=CC(=C4C3)OC)OC
 Salvinorin C	CC(=O)O[C@H]1C=C([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2[C@H]1OC(=O)C)C)C4=COC=C4)C)C(=O)OC
