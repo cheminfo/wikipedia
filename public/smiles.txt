@@ -7220,7 +7220,6 @@ Fenoprofen	O=C(O)C(c2cc(Oc1ccccc1)ccc2)C
 Lornoxicam	CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
 Droxicam	CN1c2c(oc(=O)n(c2=O)c3ccccn3)-c4ccccc4S1(=O)=O
 Tenoxicam	CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O
-Aceclofenac	Clc2cccc(Cl)c2Nc1ccccc1CC(=O)OCC(=O)O
 Proglumetacin	CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccc(OC)cc23)CC1)NC(=O)c1ccccc1
 Oxametacin	CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)NO
 Difenpiramide	O=C(Nc1ncccc1)Cc3ccc(c2ccccc2)cc3
@@ -21588,6 +21587,7 @@ Thorium(IV) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Th+4].O.O.O.O.O.
 Gadolinium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Gd+3].[Gd+3]
 Benzimidazolinone	C1=CC=C2C(=C1)NC(=O)N2
 1,2-Dichloro-1,1-difluoroethane	C(C(F)(F)Cl)Cl
+Pigment orange 36	CC(=O)C(C(=O)NC1=CC2=C(C=C1)NC(=O)N2)N=NC3=C(C=C(C=C3)Cl)[N+](=O)[O-]
 Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C(C(=C(C=C2)O)O)/C=C/C3=CC(=C(C=C3)O)O)O)O
 Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C3[C@@H]([C@H](OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)O[C@H](CC5=CC(=C(C=C5)O)O)C(=O)O)O)O
 Salvianolic acids	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C3C=C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)O)O
@@ -24575,3 +24575,6 @@ Selutaront	CN1CCN2CCC3=C(C2C1)SC=C3
 T-NBOMe	COC1=CC=CC=C1CNCCC2=CNC3=CC=CC=C32
 Trichloromethanesulfonic acid	C(S(=O)(=O)O)(Cl)(Cl)Cl
 Cycloprolylproline	C1C[C@H]2C(=O)N3CCC[C@H]3C(=O)N2C1
+Pigment Yellow 154	CC(=O)C(C(=O)NC1=CC2=C(C=C1)NC(=O)N2)N=NC3=CC=CC=C3C(F)(F)F
+MM-77	COC1=CC=CC=C1N2CCN(CC2)CCCCN3C(=O)CCC3=O
+Zapnometinib	C1=CC(=C(C=C1I)Cl)NC2=C(C=CC(=C2F)F)C(=O)O
