@@ -713,6 +713,7 @@ Furosemide	o1cccc1CNc(cc2Cl)c(C(=O)O)cc2S(=O)(=O)N
 Calcium silicate	[Ca++].[Ca++].[O-][Si]([O-])([O-])[O-]
 Pentazocine	Oc1ccc3c(c1)[C@]2([C@H]([C@H](N(CC2)C\C=C(/C)C)C3)C)C
 Gabapentin	O=C(O)CC1(CN)CCCCC1
+Sulfite	[O-]S(=O)[O-]
 Potassium permanganate	[K+].[O-][Mn](=O)(=O)=O
 Omeprazole	CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
 5-Bromouracil	Br/C1=C/NC(=O)NC1=O
@@ -7220,6 +7221,7 @@ Fenoprofen	O=C(O)C(c2cc(Oc1ccccc1)ccc2)C
 Lornoxicam	CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
 Droxicam	CN1c2c(oc(=O)n(c2=O)c3ccccn3)-c4ccccc4S1(=O)=O
 Tenoxicam	CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O
+Aceclofenac	Clc2cccc(Cl)c2Nc1ccccc1CC(=O)OCC(=O)O
 Proglumetacin	CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccc(OC)cc23)CC1)NC(=O)c1ccccc1
 Oxametacin	CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)NO
 Difenpiramide	O=C(Nc1ncccc1)Cc3ccc(c2ccccc2)cc3
@@ -10924,6 +10926,7 @@ Tetramethylbutane	CC(C)(C)C(C)(C)C
 2.2.2-Propellane	C1C23C(CC2)(CC3)C1
 Tetramethylazodicarboxamide	CN(C)C(=O)N=NC(=O)N(C)C
 Rucaparib	CNCc1ccc(cc1)c2[nH]c3cc(F)cc4C(=O)NCCc2c34
+Salvinorin B	C[C@@]12CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]1C(=O)[C@H](C[C@H]2C(=O)OC)O)C)C4=COC=C4
 2,2,4,4-Tetramethyl-3-t-butyl-pentane-3-ol	OC(C(C)(C)C)(C(C)(C)C)C(C)(C)C
 Tetra-tert-butylmethane	CC(C)(C)C(C(C)(C)C)(C(C)(C)C)C(C)(C)C
 Tetracyclopropylmethane	C1(CC1)C(C2CC2)(C3CC3)C4CC4
@@ -24447,7 +24450,6 @@ Methylcyclobutane	CC1CCC1
 5-Methylpsilocybin	CC1=C(C2=C(C=C1)NC=C2CCN(C)C)OP(=O)(O)O
 Cleminorexton	C1C[C@@H]([C@@H]2CC3=C(C(=CC=C3)C4=C(C(=CC(=C4)F)F)OCCC(=O)N2C1)F)NS(=O)(=O)C5(CC5)F
 Erythrin	CC1=C(C(=O)OC2=CC(C)=C(C(=O)OC[C@H](O)[C@H](O)CO)C(O)=C2)C(O)=CC(O)=C1
-Pentane-1-thiol	SCCCCC
 Atherosperminine	CN(C)CCC1=CC(=C(C2=C1C=CC3=CC=CC=C32)OC)OC
 Oxazosulfyl	CCS(=O)(=O)C1=C(N=CC=C1)C2=NC3=C(O2)C=CC(=C3)S(=O)(=O)C(F)(F)F
 MQ02-439	COC1=C2C3=CC=CC=C3CC4C2=C(CCN4)C=C1
@@ -24576,7 +24578,13 @@ T-NBOMe	COC1=CC=CC=C1CNCCC2=CNC3=CC=CC=C32
 Trichloromethanesulfonic acid	C(S(=O)(=O)O)(Cl)(Cl)Cl
 Cycloprolylproline	C1C[C@H]2C(=O)N3CCC[C@H]3C(=O)N2C1
 Pigment Yellow 154	CC(=O)C(C(=O)NC1=CC2=C(C=C1)NC(=O)N2)N=NC3=CC=CC=C3C(F)(F)F
+1-Pentanethiol	SCCCCC
 MM-77	COC1=CC=CC=C1N2CCN(CC2)CCCCN3C(=O)CCC3=O
 Zapnometinib	C1=CC(=C(C=C1I)Cl)NC2=C(C=CC(=C2F)F)C(=O)O
 Ammonium orotate	C1=C(NC(=O)NC1=O)C(=O)[O-].[NH4+]
 AB-5'F-BUTINACA	CCCCN1C2=C(C=C(C=C2)F)C(=N1)C(=O)NC(C(C)C)C(=O)N
+4-Fluorotryptamine	C1=CC2=C(C(=C1)F)C(=CN2)CCN
+Benzindopyrine	C1=CC=C(C=C1)CN2C=C(C3=CC=CC=C32)CCC4=CC=NC=C4
+Ergosecaline	CC(C)[C@H]1C(=O)O[C@](C(=O)N1)(C)NC(=O)[C@H]2CN([C@@H]3CC4=CNC5=CC=CC(=C45)C3=C2)C
+Alpha-D	[2H]C([2H])(CC1=CC(=C(C(=C1)OC)OC)OC)N
+Lysergyl-L-valyl methyl ester	CC(C)C(C(=O)OC)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
