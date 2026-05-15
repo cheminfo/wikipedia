@@ -24541,7 +24541,6 @@ BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(
 1-Fluoropropane	CCCF
 Nocuolin A	CCCCCC1=NN(C(=O)CCO)OC(CCCCC)C1
 Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
-2-Methyl-4H-pyrido(1,2-a)pyrimidin-4-one	CC1=CC(=O)N2C=CC=CC2=N1
 4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
 TRALA-12	CCN(C=C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 APA-01	C1C[C@@H](NC1)CC2=CC3=C(C=C2)OCO3
@@ -24585,6 +24584,7 @@ Ammonium orotate	C1=C(NC(=O)NC1=O)C(=O)[O-].[NH4+]
 AB-5'F-BUTINACA	CCCCN1C2=C(C=C(C=C2)F)C(=N1)C(=O)NC(C(C)C)C(=O)N
 4-Fluorotryptamine	C1=CC2=C(C(=C1)F)C(=CN2)CCN
 Benzindopyrine	C1=CC=C(C=C1)CN2C=C(C3=CC=CC=C32)CCC4=CC=NC=C4
+Carbon sulfide selenide	C(=S)=[Se]
 S-1-Propenyl-L-cysteine	C/C=C/SC[C@@H](C(O)=O)N
 Ergosecaline	CC(C)[C@H]1C(=O)O[C@](C(=O)N1)(C)NC(=O)[C@H]2CN([C@@H]3CC4=CNC5=CC=CC(=C45)C3=C2)C
 Alpha-D	[2H]C([2H])(CC1=CC(=C(C(=C1)OC)OC)OC)N
@@ -24599,3 +24599,6 @@ LEK-8822	CN1C[C@@H](C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(C)CC#C
 Lysergic acid butylamide	CCCCNC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 5-Bromotryptamine	C1=CC2=C(C=C1Br)C(=CN2)CCN
 Lysergic acid 2-pentylamide	CCCC(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+Yttrium triflate	[Y+3].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
+6-Methyl-5-MeO-DMT	CC1=CC2=C(C=C1OC)C(=CN2)CCN(C)C
+Gyrocyanin	O=C1C(O)=C(C(=O)C1C2=CC=C(O)C=C2)C=3C=CC(O)=CC3
