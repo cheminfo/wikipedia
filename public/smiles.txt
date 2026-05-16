@@ -9728,8 +9728,8 @@ Linoleyl alcohol	CCCCC/C=C\C/C=C\CCCCCCCCO
 2-Methylisoborneol	OC2(C)CC1CCC2(C1(C)C)C
 Diphenylsilanediol	c1ccc(cc1)[Si](c2ccccc2)(O)O
 Diisodecyl phthalate	O=C(OCCCCCCCC(C)C)C1=CC=CC=C1C(OCCCCCCCC(C)C)=O
-Antiarin	CC1C(C(C(C(O1)OC2CCC3(C4CC(C5(C(CCC5(C4CCC3(C2)O)O)C6=CC(=O)OC6)C)O)C=O)O)O)O
 Antiarin	O=C\1OC/C(=C/1)[C@H]2CC[C@@]6(O)[C@]2(C)[C@H](O)C[C@H]4[C@H]6CC[C@]5(O)C[C@@H](O[C@@H]3O[C@@H]([C@H](O)[C@@H](O)[C@H]3O)C)CC[C@]45C=O
+Antiarin	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CC[C@@]3([C@H]4C[C@H]([C@@]5([C@H](CC[C@@]5([C@@H]4CC[C@@]3(C2)O)O)C6=CC(=O)OC6)C)O)C=O)O)O)O
 Polyethylene glycol cetyl ether	CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
 2-Hexanone	O=C(C)CCCC
 Tocofersolan	O=C(OCCO)CCC(=O)Oc2c(c(c1OC(CCc1c2C)(C)CCCC(C)CCCC(C)CCCC(C)C)C)C
@@ -20790,7 +20790,7 @@ C4-FN	C(#N)C(C(F)(F)F)(C(F)(F)F)F
 Δ11-Tetrahydrocannabinol	CCCCCC1=CC(=C2[C@@H]3CC(=C)CC[C@H]3C(OC2=C1)(C)C)O
 Yttrium acetylacetonate	CC1=O[Y+3]23(O=C(C)[CH-]C(C)=O2)(O=C(C)[CH-]C(C)=O3)O=C(C)[CH-]1
 Caesium stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].[Cs+]
-(3-(2-Furoyl)-quinoline-2 carboxaldehyde)	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
+3-(2-Furoyl)quinoline-2-carboxaldehyde	C1=CC=C2C(=C1)C=C(C(=N2)C=O)C(=O)C3=CC=CO3
 Ferric stearate	CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Fe+3]
 Silver hypochlorite	[O-]Cl.[Ag+]
 Lycopersene	CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)\C)/C)/C)/C)C
@@ -24591,6 +24591,7 @@ Alpha-D	[2H]C([2H])(CC1=CC(=C(C(=C1)OC)OC)OC)N
 Lysergyl-L-valyl methyl ester	CC(C)C(C(=O)OC)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Indium triflate	C(F)(F)(F)S(=O)(=O)O[In](OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F
 Indium triflate	[In+3].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
+Flumetsulam	CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC3=C(C=CC=C3F)F
 14-Methyl-LSD	CCN(C([C@@H](C1)C=C2C3=C4C(C[C@@]2([H])N1C)=CNC4=C(C)C=C3)=O)CC
 5-Chlorotryptamine	C1=CC2=C(C=C1Cl)C(=CN2)CCN
 N-Propyltryptamine	CCCNCCC1=CNC2=CC=CC=C21
@@ -24602,3 +24603,4 @@ Lysergic acid 2-pentylamide	CCCC(C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=
 Yttrium triflate	[Y+3].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
 6-Methyl-5-MeO-DMT	CC1=CC2=C(C=C1OC)C(=CN2)CCN(C)C
 Gyrocyanin	O=C1C(O)=C(C(=O)C1C2=CC=C(O)C=C2)C=3C=CC(O)=CC3
+Apadoline	CCCNC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2[C@H](C)CN4CCCC4
