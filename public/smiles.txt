@@ -24612,3 +24612,7 @@ Grevilline	C1=CC(=C(C=C1/C=C/2\C(=C(C(=O)C(=O)O2)C3=CC(=C(C=C3)O)O)O)O)O
 Grevilline	C1=CC(=C(C=C1/C=C/2\C(=C(C(=O)C(=O)O2)C3=C(C=CC(=C3)O)O)O)O)O
 LEK-8827	CN(CC#C)C(=O)[C@H]1C[N+]([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)(C)C
 Lysergic acid amylamide	CCCCCNC([C@@H](C1)C=C2C3=C4C(C[C@@]2([H])N1C)=CNC4=CC=C3)=O
+Nezavist	CCOC(=O)C1=NC2=C(C(=C1)NC(=O)N(C3=CC=CC=C3)C4=CC=CC=C4)C(=CC(=C2)Cl)Cl
+Cetyl-GABA	CCCCCCCCCCCCCCCCOC(=O)CCCN
+N-Benzoyl-GABA	C1=CC=C(C=C1)C(=O)NCCCC(=O)O
+N-Cyclopropyltryptamine	C1CC1NCCC2=CNC3=CC=CC=C32
