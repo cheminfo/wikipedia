@@ -76,7 +76,7 @@ Pyrimidine	n1cnccc1
 Phosphate	[O-]P([O-])([O-])=O
 Phosphate	[O-][P+]([O-])([O-])[O-]
 Pyridine	c1ccncc1
-Phenol	Oc1ccccc1
+Phenol	C1=CC=C(C=C1)O
 Phencyclidine	c1ccccc1C2(CCCCC2)N3CCCCC3
 PCHP	OC3CCN(C2(c1ccccc1)CCCCC2)CC3
 4-Phenyl-4-(1-piperidinyl)cyclohexanol	OC3CCC(c1ccccc1)(N2CCCCC2)CC3
@@ -24426,6 +24426,7 @@ Cyclohexyl acetate	CC(=O)OC1CCCCC1
 Methyl trichloroacetate	COC(=O)C(Cl)(Cl)Cl
 Linerixibat	CCCC[C@@]1(CS(=O)(=O)C2=C(C=C(C(=C2)CNC(CC(=O)O)CC(=O)O)OC)[C@H](N1)C3=CC=CC=C3)CC
 Dimethylsilanediol	C[Si](C)(O)O
+ProcellaCOR	COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl
 FP802	CCN(CCN)CC1=CC(=CC=C1)Cl
 CPI-CG-8	CN(CCC1=CNC2=CC=CC=C12)CCC3=CC(C=CC=C4)=C4N3
 Rusfertide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)[C@@H](C)CC)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC5=CNC=N5)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(=O)O)NC(=O)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N)CCCCN)CO)CCCNC(=N)N)CCC(=O)O)CC6=CC=CC=C6)C(=O)O
@@ -24620,3 +24621,10 @@ N-Benzoyl-GABA	C1=CC=C(C=C1)C(=O)NCCCC(=O)O
 N-Cyclopropyltryptamine	C1CC1NCCC2=CNC3=CC=CC=C32
 Trivanadium sulfide	[S].[V].[V].[V]
 Tellurocyanate	C(#N)[Te-]
+Harmalacidine	COC1=CC2=C(C=C1)C3=C(N2)C(=O)NCC3
+N-Desethylfluornitrazene	CCNCCN(C(CC1=CC=C(OCCF)C=C1)=N2)C3=C2C=C([N+]([O-])=O)C=C3
+SH-BC-893	CCCCCCCCC1=CC=C(C=C1)[C@H]2CCN[C@@H]2CO
+1-Ethyl-β-carboline	CCC1=NC=CC2=C1NC3=CC=CC=C23
+Rezatapopt	CNC(=O)C1=CC(=C(C=C1)NCC#CC2=CC3=C(C=CC=C3N2CC(F)(F)F)N[C@@H]4CCN(C[C@@H]4F)C)OC
+Irdabisant	C[C@@H]1CCCN1CCCOC2=CC=C(C=C2)C3=NNC(=O)C=C3
+Bavisant	C1CC1N2CCN(CC2)C(=O)C3=CC=C(C=C3)CN4CCOCC4
