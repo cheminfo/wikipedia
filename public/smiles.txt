@@ -5755,7 +5755,7 @@ Monocalcium aluminate	[O-][Al]=O.[O-][Al]=O.[Ca+2]
 Ranolazine	O=C(Nc1c(cccc1C)C)CN3CCN(CC(O)COc2ccccc2OC)CC3
 Alphenal	O=C1NC(=O)NC(=O)C1(c2ccccc2)C\C=C
 Butallylonal	O=C1NC(=O)NC(=O)C1(C(C)CC)CC(\Br)=C
-Aminomethanol	OCN
+Aminomethanol	C(N)O
 Pentabromodiphenyl ether	C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br
 Pentabromodiphenyl ether	C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br
 Magnesium citrate	C(C(=O)O)C(CC(=O)[O-])(C(=O)[O-])O.[Mg+2]
@@ -24644,3 +24644,6 @@ Pentabromobenzyl acrylate	C=CC(=O)OCC1=C(C(=C(C(=C1Br)Br)Br)Br)Br
 7-Fluorotryptamine	C1=CC2=C(C(=C1)F)NC=C2CCN
 3-Bromomethcathinone	CC(C(=O)C1=CC(=CC=C1)Br)NC
 7-Hydroxytryptamine	C1=CC2=C(C(=C1)O)NC=C2CCN
+Iron(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3]
+DU-125530	C1CN(CCN1CCCCN2C(=O)C3=CC=CC=C3S2(=O)=O)C4=C5C(=CC(=C4)Cl)OCCO5
+MAPEA	COC1=C(C=CC(=C1)CCN)OCC=C
