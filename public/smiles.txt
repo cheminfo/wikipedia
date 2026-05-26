@@ -5715,7 +5715,7 @@ Farampator	C1CCN(CC1)C(=O)C2=CC3=NON=C3C=C2
 Isophorone	O=C1\C=C(/CC(C)(C)C1)C
 Α,N,N-Trimethyltryptamine	CN(C)C(C)Cc2c[nH]c1ccccc12
 5,N,N-TMT	c1c(ccc2c1c(c[nH]2)CCN(C)C)C
-2,N,N-TMT	Cc1c(c2ccccc2[nH]1)CCN(C)C
+2-Methyl-DMT	Cc1c(c2ccccc2[nH]1)CCN(C)C
 5-Me-MiPT	CC(C)N(C)CCc1c[nH]c(cc2)c1cc2C
 5-MeO-2-TMT	CC1=C(C2=C(N1)C=CC(=C2)OC)CCN(C)C
 Marimastat	O=C(NO)[C@@H](O)[C@H](C(=O)N[C@H](C(=O)NC)C(C)(C)C)CC(C)C
@@ -24583,6 +24583,7 @@ T-NBOMe	COC1=CC=CC=C1CNCCC2=CNC3=CC=CC=C32
 Trichloromethanesulfonic acid	C(S(=O)(=O)O)(Cl)(Cl)Cl
 Cycloprolylproline	C1C[C@H]2C(=O)N3CCC[C@H]3C(=O)N2C1
 Pigment Yellow 154	CC(=O)C(C(=O)NC1=CC2=C(C=C1)NC(=O)N2)N=NC3=CC=CC=C3C(F)(F)F
+Fluorophosphite	[O-][PH](=O)F
 1-Pentanethiol	SCCCCC
 MM-77	COC1=CC=CC=C1N2CCN(CC2)CCCCN3C(=O)CCC3=O
 Zapnometinib	C1=CC(=C(C=C1I)Cl)NC2=C(C=CC(=C2F)F)C(=O)O
@@ -24642,8 +24643,16 @@ Fluoromethylidynium	[C+]F
 Pentabromobenzyl acrylate	C=CC(=O)OCC1=C(C(=C(C(=C1Br)Br)Br)Br)Br
 1-Trichloromethyl-1,2,3,4-tetrahydro-β-carboline	C1CNC(C2=C1C3=CC=CC=C3N2)C(Cl)(Cl)Cl
 7-Fluorotryptamine	C1=CC2=C(C(=C1)F)NC=C2CCN
+Neptunyl ammonium nitrate	[NH4+].O=[Np+2]=O.[O-]N(=O)=O.[O-]N(=O)=O.[O-]N(=O)=O
 3-Bromomethcathinone	CC(C(=O)C1=CC(=CC=C1)Br)NC
 7-Hydroxytryptamine	C1=CC2=C(C(=C1)O)NC=C2CCN
+Iron(III) perchlorate	O.O.O.O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3]
+Iron(III) perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3]
+Iron(III) perchlorate	O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3]
 Iron(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3]
 DU-125530	C1CN(CCN1CCCCN2C(=O)C3=CC=CC=C3S2(=O)=O)C4=C5C(=CC(=C4)Cl)OCCO5
+Disilicon carbide	[Si]=C=[Si]
+N,N′-Ethylenebis(tetrabromophthalimide)	C(CN1C(=O)C2=C(C1=O)C(=C(C(=C2Br)Br)Br)Br)N3C(=O)C4=C(C3=O)C(=C(C(=C4Br)Br)Br)Br
 MAPEA	COC1=C(C=CC(=C1)CCN)OCC=C
+Phenflutermine	CCNC(C)(C)CC1=CC(C(F)(F)F)=CC=C1
+1-Aminomethyl-6-methoxytetralin	COC1=CC2=C(C=C1)C(CCC2)CN
