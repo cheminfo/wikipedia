@@ -24430,7 +24430,7 @@ Cyclohexyl acetate	CC(=O)OC1CCCCC1
 Methyl trichloroacetate	COC(=O)C(Cl)(Cl)Cl
 Linerixibat	CCCC[C@@]1(CS(=O)(=O)C2=C(C=C(C(=C2)CNC(CC(=O)O)CC(=O)O)OC)[C@H](N1)C3=CC=CC=C3)CC
 Dimethylsilanediol	C[Si](C)(O)O
-ProcellaCOR	COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl
+Florpyrauxifen-benzyl	COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2F)N)Cl)C(=O)OCC3=CC=CC=C3)Cl
 FP802	CCN(CCN)CC1=CC(=CC=C1)Cl
 CPI-CG-8	CN(CCC1=CNC2=CC=CC=C12)CCC3=CC(C=CC=C4)=C4N3
 Rusfertide	CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)[C@@H](C)CC)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC5=CNC=N5)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(=O)O)NC(=O)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N)CCCCN)CO)CCCNC(=N)N)CCC(=O)O)CC6=CC=CC=C6)C(=O)O
@@ -24666,3 +24666,6 @@ Copper(II) hexafluoroantimonate	F[Sb-](F)(F)(F)(F)F.F[Sb-](F)(F)(F)(F)F.[Cu+2]
 ASP-4345	CN(CC1=NC2=C(N1)C=C(C=C2)C(F)(F)F)C(=O)CN3C4=C(C=CC(=C4)Cl)OC3=O
 WOBE437	CCCCCCC/C=C/C=C/C(=O)NCCC1=CC(=C(C=C1)OC)OC
 Α,α-Dideuterotryptamine	[2H]C([2H])(CC1=CNC2=CC=CC=C21)N
+Sofinicline	C1[C@H]2CN(C[C@H]2N1)C3=CC(=C(N=C3)Cl)Cl
+Α,α-Dideuterophenethylamine	[2H]C([2H])(CC1=CC=CC=C1)N
+N-(2-Cyanoethyl)phenethylamine	C1=CC=C(C=C1)CCNCCC#N
