@@ -21283,7 +21283,7 @@ Tricyclodecane	C1CC2C3CCC(C3)C2C1
 SLU-PP-332	C1=CC=C2C=C(C=CC2=C1)/C=N\NC(=O)C3=CC=C(C=C3)O
 Oleandrose	C[C@@H]([C@@H]([C@H](CC=O)OC)O)O
 4B-MAR	CC1C(OC(=N1)N)C2=CC=C(C=C2)Br
-Encukalner	CC1=CC(=CC(=C1NC(=O)CC(C)(C)C)C)N2CCC3=C(C2)C=CC(=C3)F
+Azetukalner	CC1=CC(=CC(=C1NC(=O)CC(C)(C)C)C)N2CCC3=C(C2)C=CC(=C3)F
 Copalic acid	C/C(=C\C(=O)O)/CC[C@@H]1C(=C)CC[C@H]2[C@]1(CCCC2(C)C)C
 2-Coumaranone	C1C2=CC=CC=C2OC1=O
 Firsocostat	CC1=C(SC2=C1C(=O)N(C(=O)N2C[C@@H](C3=CC=CC=C3OC)OC4CCOCC4)C(C)(C)C(=O)O)C5=NC=CO5
@@ -22509,6 +22509,7 @@ Ammonium phosphinate	[PH2](=O)O.N
 Silver hypobromite	[Ag+].[O-]Br
 Karbutilate	CC(C)(C)NC(=O)OC1=CC=CC(=C1)NC(=O)N(C)C
 Kuicaoxi	CCOC(=O)C(C(=C)C)OC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+Sodium bis(carbonato)cuprate(II)	C(=O)([O-])[O-].C(=O)([O-])[O-].[Na+].[Na+].[Cu+2]
 ID-4708	C1CN(CCC1(C2=CC(=CC=C2)C(F)(F)F)O)CCCC(=O)C3=C(C=C(C=C3)F)N
 U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F.Cl
 U-32,802A	C1CC(=CCC1NCCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
@@ -24676,3 +24677,10 @@ Alpha,Beta-D	COC1=CC(C(C(N)[2H])[2H])=CC(OC)=C1OC
 1-Acetyl-5-MeO-DMT	CC(=O)N1C=C(C2=C1C=CC(=C2)OC)CCN(C)C
 N-Phosphonooxymethyl-DMT	C[N+](C)(CCC1=CNC2=CC=CC=C21)COP(=O)(O)[O-]
 N-(Ethoxycarbonyl)phenethylamine	CCOC(=O)NCCC1=CC=CC=C1
+ANAVEX 1-41	CN(C)CC1CC(OC1)(C2=CC=CC=C2)C3=CC=CC=C3
+Ammonium pivalate	CC(C)(C)C(=O)[O-].[NH4+]
+AGX-201	C1=C(NC=N1)CCN.Cl.Cl
+F-14413	CO[C@@]1(COC2=C(O1)C=CC=C2F)C3=NCCN3
+Lu AF35700	[2H]C1=C(C(=C(C(=C1[2H])[2H])[C@@H]2C[C@H](C3=C2C=CC(=C3)Cl)N4CCN(C(C4)(C)C)C([2H])([2H])[2H])[2H])[2H]
+Opakalim	CC(C)(C)CC(=O)NC1=NC2=C(C=C(C(=C2N1C(C)(C)C)F)C#N)F
+Pynegabine	CC1=CC(=CC(=C1NC(=O)OC)C)N(CC#C)CC2=CC=C(C=C2)F
