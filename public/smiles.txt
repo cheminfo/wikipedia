@@ -23353,7 +23353,7 @@ Dibenzosuberone	C1CC2=CC=CC=C2C(=O)C3=CC=CC=C31
 Lanthanum disilicide	[Si].[La].[Si]
 BIBN 99	CCCC(C)(C)C(=O)N(CC)CCCC1CCN(CC1)CC(=O)N2C3=C(C=C(C=C3)Cl)C(=O)NC4=C2N=CC=C4
 10-Hydroxy-THC	CCCCCC1=CC(=C2[C@H]3[C@@H](CC=C([C@@H]3O)C)C(OC2=C1)(C)C)O
-10-Hydroxy-HHC	CC1(C)Oc2cc(CCCCC)cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21
+10-Hydroxyhexahydrocannabinol	CC1(C)Oc2cc(CCCCC)cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21
 10-Hydroxy-HHCP	CC1(C)Oc2cc(cc(O)c2[C@@H]2[C@@H](O)C(C)CC[C@H]21)CCCCCCC
 2C-CN	COC1=CC(=C(C=C1CCN)OC)C#N
 DOYN	COc1cc(C#C)c(cc1CC(N)C)OC
@@ -24681,6 +24681,7 @@ ANAVEX 1-41	CN(C)CC1CC(OC1)(C2=CC=CC=C2)C3=CC=CC=C3
 Ammonium pivalate	CC(C)(C)C(=O)[O-].[NH4+]
 AGX-201	C1=C(NC=N1)CCN.Cl.Cl
 F-14413	CO[C@@]1(COC2=C(O1)C=CC=C2F)C3=NCCN3
+Octabisvalene	C12C3C1C4C5C4C5C23
 Lu AF35700	[2H]C1=C(C(=C(C(=C1[2H])[2H])[C@@H]2C[C@H](C3=C2C=CC(=C3)Cl)N4CCN(C(C4)(C)C)C([2H])([2H])[2H])[2H])[2H]
 Opakalim	CC(C)(C)CC(=O)NC1=NC2=C(C=C(C(=C2N1C(C)(C)C)F)C#N)F
 Pynegabine	CC1=CC(=CC(=C1NC(=O)OC)C)N(CC#C)CC2=CC=C(C=C2)F
