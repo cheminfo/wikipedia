@@ -739,6 +739,8 @@ Copper(I) oxide	[Cu+].[Cu+].[O-2]
 Janus Green B	CCN(CC)C1=CC2=[N+](C3=C(C=CC(=C3)N=NC4=CC=C(C=C4)N(C)C)N=C2C=C1)C5=CC=CC=C5.[Cl-]
 Doxapram	O=C4N(CC)CC(CCN1CCOCC1)C4(c2ccccc2)c3ccccc3
 Lithium aluminium hydride	[Li+].[AlH4-]
+Lithium aluminium hydride	[2H][Al-]([2H])([2H])[2H].[Li+]
+Lithium aluminium hydride	[3H][Al-]([3H])([3H])[3H].[Li+]
 Zinc oxide	[Zn]=O
 Fluorescein	C12C=CC([O-])=CC=1OC3=CC(=O)C=CC3=C2c4ccccc4C(O)=O
 Iodide	[I-]
