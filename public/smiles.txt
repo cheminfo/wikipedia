@@ -11097,6 +11097,8 @@ Avitriptan	O=S(=O)(NC)Cc1ccc2c(c1)c(c[nH]2)CCCN4CCN(c3ncncc3OC)CC4
 Fluo-4	CC1=CC(OCCOC2=CC(=CC=C2N(CC(O)=O)CC(O)=O)C2=C3C=C(F)C(=O)C=C3OC3=C2C=C(F)C(O)=C3)=C(C=C1)N(CC(O)=O)CC(O)=O
 Nitroacetic acid	C(C(=O)O)[N+](=O)[O-]
 2-Pentanol	OC(C)CCC
+2-Pentanol	CCC[C@@H](C)O
+2-Pentanol	CCC[C@H](C)O
 3-Hexanol	CCCC(CC)O
 3-Methyl-1-pentanol	OCCC(C)CC
 2-Methyl-1-pentanol	OCC(C)CCC
@@ -16065,7 +16067,7 @@ Gardiquimod	CCNCc1nc2c(n1CC(C)(C)O)c3ccccc3nc2N
 Pregnenolone 16α-carbonitrile	CC(=O)[C@H]1[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C#N
 3α-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@@H](CC[C@]34C)O)C
 3β-Dihydroprogesterone	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=C[C@H](CC[C@]34C)O)C
-Andrane	CC1CCC2C13CC(C2(C)C)C4(C(C3)O4)C
+8,9-Epoxycedrane	CC1CCC2C13CC(C2(C)C)C4(C(C3)O4)C
 Sirius Red	C1=CC(=CC=C1N=NC2=CC(=C(C=C2)N/N=C/3\C(=O)C4=C(C=C3S(=O)(=O)[O-])C=C(C=C4)NC(=O)NC5=CC6=C(C(=O)/C(=N\NC7=C(C=C(C=C7)N=NC8=CC=C(C=C8)S(=O)(=O)[O-])S(=O)(=O)[O-])/C(=C6)S(=O)(=O)[O-])C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
 Norgesterone	CC12CCC3C(C1CCC2(C=C)O)CCC4=C3CCC(=O)C4
 Norgestomet	CC1CC2(C(CCC2(C(=O)C)OC(=O)C)C3C1C4CCC(=O)C=C4CC3)C
@@ -24695,3 +24697,5 @@ Vatiquinone	CC1=C(C(=O)C(=C(C1=O)C)CC[C@@](C)(CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)O)
 Seridopidine	CCN1CCC(CC1)C2=CC(=CC(=C2)S(=O)(=O)C)F
 Gemlapodect	CN1C(=C(C=N1)C(=O)N2CCOCC2)C(=O)NC3=CC4=NC(=NN4C=C3)C5=CC=CC=C5
 EHP-102	CCCCCC1=C(C(=C(C(=O)C1=O)C/C=C(\C)/CCC=C(C)C)O)NCC
+SDZ-PSD-958	CC1=C(C=CC(=C1)Cl)N2CCN([C@H]3[C@H]2CC4=C(C3)C=CC=C4O)C
+SDZ 208-912	CC(C)(C)C(=O)N[C@H]1C[C@H]2[C@@H](CC3=C(NC4=CC=CC2=C34)Cl)N(C1)C
