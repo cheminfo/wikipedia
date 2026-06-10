@@ -21555,6 +21555,8 @@ Thorium(IV) bromide	Br[Th](Br)(Br)Br
 Ethylcholine mustard	CCN(CCO)CCCl
 Macrophage-activating lipopeptide 2	[C@H](CC1=CC=CC=C1)(C(N[C@H](C(N[C@H](C(N[C@@H](CCCCN)C(O)=O)=O)CCC(O)=O)=O)CCCCN)=O)NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC(CNC([C@H](CSC[C@@H](COC(CCCCCCCCCCCCCCC)=O)OC(CCCCCCCCCCCCCCC)=O)N)=O)=O)CC(N)=O)=O)CC(N)=O)=O)CC(O)=O)=O)CCC(O)=O)=O)CO)=O)CC(N)=O)=O)[C@H](CC)C)=O)CO)=O
 2-Bromopentane	CCCC(C)Br
+2-Bromopentane	CCC[C@@H](C)Br
+2-Bromopentane	CCC[C@H](C)Br
 Olgotrelvir	CC(C)CC(C(=O)NC(CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)C2=CC3=CC=CC=C3N2
 Gallium arsenide antimonide	[Ga].[Ga].[As].[Sb]
 N-Methyliminodiacetic acid	CN(CC(=O)O)CC(=O)O
@@ -24734,3 +24736,7 @@ BOHH	C1OC2=C(O1)C=C(C=C2)C(CN)O
 GSK2981278	CCC1=CC=C(C=C1)N(CC(C)C)S(=O)(=O)C2=CC(=C(C=C2)OCC3CCOCC3)CO
 Β-Hydroxymescaline	COC1=CC(=CC(=C1OC)OC)C(CN)O
 MW073	CC1=CC(=NN=C1NCCN2CCN(CC2)C)C3=CC4=CC=CC=C4C=C3
+F-17464	CS(=O)(=O)NC1=CC(=CC=C1)N2CCN(CC2)CCCCC3=COC4=CC5=C(C=C4C3=O)OCO5
+Bromonordiazepam	C1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3
+Mescaloxylic acid	COC1=CC(=CC(=C1OC)OC)CCNCC(=O)O
+Mescaloruvic acid	CC(C(=O)O)NCCC1=CC(=C(C(=C1)OC)OC)OC
