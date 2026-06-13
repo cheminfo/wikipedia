@@ -10082,7 +10082,7 @@ Ammonium azide	[NH+4].[N-]=[N+]=[N-]
 SDZ SER-082	CN1CC[C@@H]2CN3CCC4=C3C(=CC=C4)[C@@H]2C1
 Calcium titanate	[Ca+2].[O-][Ti]([O-])=O
 Osmium dioxide	O=[Os]=O
-SB-649915	O=C4COc1ccc(cc1N4)CC(CC5)CCN5CCOc(cccc2n3)c2ccc3C
+SB-649915	CC1=NC2=C(C=C1)C(=CC=C2)OCCN3CCC(CC3)CC4=CC5=C(C=C4)OCC(=O)N5
 3,4-Dihydroxystyrene	Oc1ccc(\C=C)cc1O
 Ethyltrifluoromethylaminoindane	CCNC1CC2=C(C1)C=C(C=C2)C(F)(F)F
 Trifluoromethylaminoindane	C1C(CC2=C1C=CC(=C2)C(F)(F)F)N
@@ -24741,4 +24741,5 @@ Bromonordiazepam	C1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3
 Mescaloxylic acid	COC1=CC(=CC(=C1OC)OC)CCNCC(=O)O
 Mescaloruvic acid	CC(C(=O)O)NCCC1=CC(=C(C(=C1)OC)OC)OC
 AZD3676	CN(C)C(=O)C1=CC2=C(O1)C(=CC=C2)N3CCN(CC3)CCC4=CC=CC=N4
-Methylenedioxydeschlorobupropion	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)(C)C
+MDPT	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)(C)C
+MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
