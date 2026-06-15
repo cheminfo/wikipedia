@@ -13809,6 +13809,7 @@ Fluorodopa (18F)	C1=C(C(=CC(=C1O)O)F)CC(C(=O)O)N
 Eteplirsen	Cc1cn([C@H]2CN(P(=O)(OC[C@@H]3CN(P(=O)(OC[C@@H]4CN(P(=O)(OC[C@@H]5CN(P(=O)(OC[C@@H]6CN(P(=O)(OC[C@@H]7CN(P(=O)(OC[C@@H]8CN(P(=O)(OC[C@@H]9CN(P(=O)(OC[C@@H]%10CN(P(=O)(OC[C@@H]%11CN(P(=O)(OC[C@@H]%12CN(P(=O)(OC[C@@H]%13CN(P(=O)(OC[C@@H]%14CN(P(=O)(OC[C@@H]%15CN(P(=O)(OC[C@@H]%16CN(P(=O)(OC[C@@H]%17CN(P(=O)(OC[C@@H]%18CN(P(=O)(OC[C@@H]%19CN(P(=O)(OC[C@@H]%20CN(P(=O)(OC[C@@H]%21CN(P(=O)(OC[C@@H]%22CN(P(=O)(OC[C@@H]%23CN(P(=O)(OC[C@@H]%24CN(P(=O)(OC[C@@H]%25CN(P(=O)(OC[C@@H]%26CN(P(=O)(OC[C@@H]%27CN(P(=O)(OC[C@@H]%28CN(P(=O)(OC[C@@H]%29CN(P(=O)(OC[C@@H]%30CNC[C@H](n%31cnc%32c(=O)[nH]c(N)nc%32%31)O%30)N(C)C)C[C@H](n%30cnc%31c(N)ncnc%31%30)O%29)N(C)C)C[C@H](n%29cc(C)c(=O)[nH]c%29=O)O%28)N(C)C)C[C@H](n%28ccc(N)nc%28=O)O%27)N(C)C)C[C@H](n%27cc(C)c(=O)[nH]c%27=O)O%26)N(C)C)C[C@H](n%26cc(C)c(=O)[nH]c%26=O)O%25)N(C)C)C[C@H](n%25cc(C)c(=O)[nH]c%25=O)O%24)N(C)C)C[C@H](n%24cnc%25c(N)ncnc%25%24)O%23)N(C)C)C[C@H](n%23ccc(N)nc%23=O)O%22)N(C)C)C[C@H](n%22cnc%23c(=O)[nH]c(N)nc%23%22)O%21)N(C)C)C[C@H](n%21cnc%22c(=O)[nH]c(N)nc%22%21)O%20)N(C)C)C[C@H](n%20cc(C)c(=O)[nH]c%20=O)O%19)N(C)C)C[C@H](n%19cnc%20c(N)ncnc%20%19)O%18)N(C)C)C[C@H](n%18cnc%19c(=O)[nH]c(N)nc%19%18)O%17)N(C)C)C[C@H](n%17cnc%18c(N)ncnc%18%17)O%16)N(C)C)C[C@H](n%16cnc%17c(N)ncnc%17%16)O%15)N(C)C)C[C@H](n%15cnc%16c(=O)[nH]c(N)nc%16%15)O%14)N(C)C)C[C@H](n%14cnc%15c(=O)[nH]c(N)nc%15%14)O%13)N(C)C)C[C@H](n%13cnc%14c(N)ncnc%14%13)O%12)N(C)C)C[C@H](n%12cnc%13c(N)ncnc%13%12)O%11)N(C)C)C[C@H](n%11ccc(N)nc%11=O)O%10)N(C)C)C[C@H](n%10cc(C)c(=O)[nH]c%10=O)O9)N(C)C)C[C@H](n9cnc%10c(N)ncnc%109)O8)N(C)C)C[C@H](n8ccc(N)nc8=O)O7)N(C)C)C[C@H](n7cnc8c(N)ncnc87)O6)N(C)C)C[C@H](n6cnc7c(N)ncnc76)O5)N(C)C)C[C@H](n5ccc(N)nc5=O)O4)N(C)C)C[C@H](n4ccc(N)nc4=O)O3)N(C)C)C[C@@H](COP(=O)(N(C)C)N3C[C@@H](COP(=O)(N(C)C)N4CCN(C(=O)OCCOCCOCCO)CC4)O[C@@H](n4ccc(N)nc4=O)C3)O2)c(=O)[nH]c1=O
 Cyanoacetamide	N#CCC(=O)N
 Tetramethylammonium	C[N+](C)(C)C
+Methylmagnesium bromide	[Br-].[Mg+]C
 Lithium tungstate	[Li+].[Li+].[O-][W](=O)(=O)[O-]
 X-Gluc	Brc3ccc2c(c(O[C@@H]1O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]1O)c[nH]2)c3Cl
 Simeprevir	Cc1c(ccc2c1nc(cc2O[C@@H]3C[C@@H]4[C@@H](C3)C(=O)N(CCCC/C=C\[C@@H]5C[C@]5(NC4=O)C(=O)NS(=O)(=O)C6CC6)C)c7nc(cs7)C(C)C)OC
@@ -24745,3 +24746,4 @@ MDPT	CC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)(C)C
 MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
 Βk-BDB	CCC(C(=O)C1=CC2=C(C=C1)OCO2)N
 3-Hydroxydesalkylgidazepam	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)O
+Ammonium isobutyrate	[NH4+].CC(C)C([O-])=O
