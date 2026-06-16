@@ -798,7 +798,7 @@ Melamine	Nc1nc(N)nc(N)n1
 Phosphite (ion)	P([O-])([O-])=O
 Phosphite (ion)	[H][P+]([O-])([O-])[O-]
 Copper(II) nitrate	[Cu+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
-Clonidine	Clc1cccc(Cl)c1N/C2=N/CCN2
+Clonidine	C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl
 Dihydroxyacetone	O=C(CO)CO
 Captopril	O=C(O)[C@H]1N(C(=O)[C@H](C)CS)CCC1
 Erythrose	OC[C@@H](O)[C@@H](O)C=O
@@ -4692,7 +4692,7 @@ Rhodamine 123	[Cl-].COC(=O)c4ccccc4c1c3ccc(N)cc3[o+]c2cc(N)ccc12
 N-Acetylgalactosamine	O[C@@H](C(CO)O[C@H](O)[C@H]1NC(C)=O)[C@H]1O
 ABCN	N#CC1(CCCCC1)N=NC1(CCCCC1)C#N
 6-Benzylaminopurine	c3ccc(CNc1ncnc2[nH]cnc12)cc3
-Anabasine	n1cc(ccc1)C2CCCCN2
+Anabasine	C1CCN[C@@H](C1)C2=CN=CC=C2
 Penciclovir	O=C2/N=C(\Nc1n(cnc12)CCC(CO)CO)N
 Loxoprofen	O=C2C(Cc1ccc(cc1)C(C(=O)O)C)CCC2
 Galactosamine	O[C@H]1[C@@H](O)[C@H](OC(O)[C@@H]1N)CO
@@ -24747,3 +24747,4 @@ MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
 Βk-BDB	CCC(C(=O)C1=CC2=C(C=C1)OCO2)N
 3-Hydroxydesalkylgidazepam	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)O
 Ammonium isobutyrate	[NH4+].CC(C)C([O-])=O
+5-Iodo-A-85380	C1CN[C@@H]1COC2=CC(=CN=C2)I
