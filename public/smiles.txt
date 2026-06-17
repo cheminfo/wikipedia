@@ -23969,8 +23969,8 @@ Venenatine	COC1=CC=CC2=C1C3=C(N2)[C@H]4C[C@H]5[C@H](CC[C@H]([C@H]5C(=O)OC)O)CN4C
 2C-B-OH	COC1=CC(=C(C=C1CCNO)OC)Br
 N-Hydroxy-DOM	CC1=CC(=C(C=C1OC)CC(C)NO)OC
 N-Hydroxy-AMT	CC(CC1=CNC2=CC=CC=C21)NO
-Copper citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].O.O.O.O.O.[Cu+2].[Cu+2].[Cu+2].[Cu+2]
-Copper citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[Cu+2].[Cu+2]
+Copper(II) citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].O.O.O.O.O.[Cu+2].[Cu+2].[Cu+2].[Cu+2]
+Copper(II) citrate	C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[Cu+2].[Cu+2]
 Epyrifenacil	CCOC(=O)COC1=C(C=CC=N1)OC2=C(C=C(C(=C2)N3C(=O)C=C(N(C3=O)C)C(F)(F)F)F)Cl
 Mefenacet	CN(C1=CC=CC=C1)C(=O)COC2=NC3=CC=CC=C3S2
 Aldoxycarb	CC(C)(/C=N/OC(=O)NC)S(=O)(=O)C
@@ -24748,3 +24748,5 @@ MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
 3-Hydroxydesalkylgidazepam	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)O
 Ammonium isobutyrate	[NH4+].CC(C)C([O-])=O
 5-Iodo-A-85380	C1CN[C@@H]1COC2=CC(=CN=C2)I
+Flindokalner	COC1=C(C=C(C=C1)Cl)[C@]2(C3=C(C=C(C=C3)C(F)(F)F)NC2=O)F
+Α-Pyrrolidinooctanophenone	CCCCCCC(C(=O)C1=CC=CC=C1)N2CCCC2
