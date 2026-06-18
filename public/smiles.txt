@@ -17489,12 +17489,12 @@ Prorenoic acid	O([H])[C@](CCC(=O)[O-])1CC[C@@]([H])2[C@]1(C)CC[C@@]([H])1[C@](C)
 2,3,4-Pentanetrione	CC(=O)C(=O)C(=O)C
 Sulfanitran	CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]
 Terephtyl	Cc1cc(C)nc(NS(=O)(=O)c2ccc(/N=C/c3ccc(/C=N/c4ccc(S(=O)(=O)Nc5nc(C)cc(C)n5)cc4)cc3)cc2)n1
-Diethylphosphite	CCOP(OCC)=O
+Diethyl phosphite	CCOP(OCC)=O
 DMTMM	C[N+]1(CCOCC1)C2=NC(=NC(=N2)OC)OC.[Cl-]
 1-Hexadecene	CCCCCCCCCCCCCCC=C
-Dimethylphosphite	COP(O)OC
-Diphenylphosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
-Diisopropylphosphite	CC(C)OP(O)OC(C)C
+Dimethyl phosphite	COP(O)OC
+Diphenyl phosphite	C1=CC=C(C=C1)OP(O)OC2=CC=CC=C2
+Diisopropyl phosphite	CC(C)OP(O)OC(C)C
 Lithium monoxide anion	[Li]-[O-]
 Iridium tetrachloride	Cl[Ir](Cl)(Cl)Cl
 Holmium titanate	[Ho+3].[Ho+3].[Ti+4].[Ti+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
@@ -24749,4 +24749,7 @@ MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
 Ammonium isobutyrate	[NH4+].CC(C)C([O-])=O
 5-Iodo-A-85380	C1CN[C@@H]1COC2=CC(=CN=C2)I
 Flindokalner	COC1=C(C=C(C=C1)Cl)[C@]2(C3=C(C=C(C=C3)C(F)(F)F)NC2=O)F
+5-Hydroxyindole	C1=CC2=C(C=CN2)C=C1O
 Α-Pyrrolidinooctanophenone	CCCCCCC(C(=O)C1=CC=CC=C1)N2CCCC2
+VSN16R	C[C@H](CO)NC(=O)C1=CC=CC(=C1)/C=C\CCCC(=O)N(C)C
+Lithium ascorbate	[Li+].C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O
