@@ -2613,8 +2613,6 @@ Corannulene	C1=CC2=CC=C3C=CC4=C5C6=C(C2=C35)C1=CC=C6C=C4
 Ticarcillin	O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccsc1)C(=O)O)[C@H]3SC2(C)C
 Zirconium nitride	N#[Zr]
 Beryllium nitride	[Be]=N[Be]N=[Be]
-Beryllium nitride	[Be+2].[Be+2].[Be+2].[N-3].[N-3]
-Beryllium nitride	[Be]=[N-].[Be+2].[N-]=[Be]
 Deferoxamine	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN
 Phenylacetic acid	O=C(O)Cc1ccccc1
 Hetacillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)N3C(=O)[C@H](NC3(C)C)c4ccccc4)C(=O)O)C
@@ -2756,7 +2754,6 @@ Pramlintide	CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]
 Trihydrogen cation	[H+]1[H][H]1
 Calcium pyrophosphate	[Ca+2].[Ca+2].[O-]P([O-])(=O)OP([O-])([O-])=O
 Monocalcium phosphate	OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]
-Holmium(III) oxide	[O][Ho]O[Ho][O]
 Holmium(III) oxide	O=[Ho]O[Ho]=O
 Lanthanum oxide	[O-2].[O-2].[O-2].[La+3].[La+3]
 Lutetium(III) oxide	[Lu+3].[O-2].[O-2].[Lu+3].[O-2]
@@ -3573,7 +3570,7 @@ Lactucin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)CO
 Lactucopicrin	CC1=C2[C@@H]([C@@H]3[C@@H]([C@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)COC(=O)Cc4ccc(cc4)O
 Tricarbon	[C]=C=[C]
 Alpidem	CCCN(CCC)C(=O)CC1=C(N=C2N1C=C(C=C2)Cl)C3=CC=C(C=C3)Cl
-Magnesium nitride	[Mg+2].[Mg+2].[Mg+2].[N-3].[N-3]
+Magnesium nitride	[Mg]1[Mg]N=N[Mg]1
 Filipin	CCCCC[C@H](O)[C@H]1C(=O)O[C@H](C)[C@@H](O)\C=C\C=C\C=C\C=C\C=C(/C)[C@@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@H](O)C[C@@H]1O
 1,2-Dichlorotetrafluoroethane	ClC(F)(F)C(F)(F)Cl
 Porphine	C1=CC2=CC5=CC=C(C=C4C=CC(C=C3C=CC(=CC1=N2)N3)=N4)N5
@@ -4430,7 +4427,7 @@ Gallium(III) oxide	O=[Ga]O[Ga]=O
 Gallium(III) selenide	[Ga+3].[Ga+3].[Se-2].[Se-2].[Se-2]
 Gallium(III) telluride	[Ga]=[Te].[Ga]=[Te].[Te]
 Gallium(II) telluride	[Te]=[Ga][Ga]=[Te]
-Gadolinium(III) oxide	[Gd+3].[Gd+3].[O-2].[O-2].[O-2]
+Gadolinium(III) oxide	O=[Gd]O[Gd]=O
 Hafnium carbide	[Hf+]#[C-]
 Hafnium(IV) oxide	O=[Hf]=O
 Indium(III) oxide	[O-2].[O-2].[O-2].[In+3].[In+3]
@@ -4583,7 +4580,7 @@ Tantalum(V) bromide	Br[Ta](Br)(Br)(Br)Br
 Tantalum(V) bromide	Br[Ta-]1(Br)(Br)(Br)[Br+][Ta-]([Br+]1)(Br)(Br)(Br)Br
 Tantalum nitride	N#[Ta]
 Terbium(III) iodide	I[Tb](I)I
-Terbium(III) oxide	[O-2].[O-2].[O-2].[Tb+3].[Tb+3]
+Terbium(III) oxide	O=[Tb]O[Tb]=O
 Ditellurium bromide	[Te].[Te].[Br]
 Tritellurium dichloride	Cl[Te](=[Te])(=[Te])Cl
 Tellurium tetrabromide	Br[Te](Br)(Br)Br
@@ -14118,6 +14115,7 @@ Variegatic acid	O=C(C(C1=CC(O)=C(O)C=C1)=C/2O)OC2=C(C(O)=O)/C3=CC(O)=C(O)C=C3
 Rhodopin	OC(C)(C)CCC\C(=C\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(/C)CC\C=C(/C)C)C)C)C)C)C
 White–Chen catalyst	CC#N.CC#N.C1CC(N(C1)CC2=CC=CC=N2)C3CCCN3CC4=CC=CC=N4.F[Sb-](F)(F)(F)(F)F.F[Sb-](F)(F)(F)(F)F.[Fe+2]
 Pulvinic acid	O=C(O)C(=C2/OC(/O)=C(/c1ccccc1)C2=O)/c3ccccc3
+Triphosphorus pentanitride	N#P1N2P(#N)N1P2#N
 Triphosphorus pentanitride	N1=P23N=P45N2P1(=N4)N35
 Zeocin	CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=N[C@H](CS5)C6=NC(=CS6)C(=O)NCCCCN=C(N)N)O
 Bupirimate	CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
@@ -24753,3 +24751,4 @@ Flindokalner	COC1=C(C=C(C=C1)Cl)[C@]2(C3=C(C=C(C=C3)C(F)(F)F)NC2=O)F
 Α-Pyrrolidinooctanophenone	CCCCCCC(C(=O)C1=CC=CC=C1)N2CCCC2
 VSN16R	C[C@H](CO)NC(=O)C1=CC=CC(=C1)/C=C\CCCC(=O)N(C)C
 Lithium ascorbate	[Li+].C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O
+Paspalic acid	CN1CC(=C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)O
