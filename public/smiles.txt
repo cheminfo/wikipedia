@@ -14257,7 +14257,7 @@ Silver nitrite	N(=O)[O-].[Ag+]
 Bromopyruvic acid	BrCC(=O)C(=O)O
 Anthracimycin	C[C@@H]1/C=C\C=C\[C@H](OC(=O)[C@@H](C(=O)/C=C(/[C@H]2[C@@H]1C=C[C@@H]3[C@@H]2CC=C(C3)C)\O)C)C
 Razupenem	[H][C@]12N(C(C(O)=O)=C(SC3=NC(C4=C[C@H](C)NC4)=CS3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
-Tebipenem	[H][C@]12N(C(C(OCOC(C(C)(C)C)=O)=O)=C(SC3CN(C4=NCCS4)C3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
+Tebipenem pivoxil	[H][C@]12N(C(C(OCOC(C(C)(C)C)=O)=O)=C(SC3CN(C4=NCCS4)C3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
 Pyrazolam	CC1=NN=C2CN=C(C3=NC=CC=C3)C3=CC(Br)=CC=C3N12
 Scopolin	COC1=C(C=C2C(=C1)C=CC(=O)O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
 Skimmin	c1cc(cc2c1ccc(=O)o2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
