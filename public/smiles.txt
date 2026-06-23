@@ -1534,6 +1534,7 @@ Phenylephrine	O[C@H](c1cc(O)ccc1)CNC
 Lactulose	O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O[C@]2(O)CO)CO
 Cromoglicic acid	O=C(O)C=4Oc3cccc(OCC(O)COc2cccc1O/C(=C\C(=O)c12)C(=O)O)c3C(=O)C=4
 Iron(II,III) oxide	O1[Fe]2O[Fe]O[Fe]1O2
+Iron(II,III) oxide	O=[Fe]O[Fe]O[Fe]=O
 Iron(II,III) oxide	[O-2].[O-2].[O-2].[O-2].[Fe+2].[Fe+3].[Fe+3]
 Oxaprozin	O=C(O)CCc1nc(c(o1)c2ccccc2)c3ccccc3
 Formamide	O=CN
@@ -20910,6 +20911,7 @@ Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(
 Gadolinium perrhenate	[Gd+3].[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.[O-][Re](=O)(=O)=O.O.O.O.O
 Veratric acid	COC1=C(C=C(C=C1)C(=O)O)OC
 Pinealon	C(C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)O)N)CN=C(N)N
+Diallyl phthalate	C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C
 Platinum(II) iodide	[Pt+2].[I-].[I-]
 T-1194	CC[N+](C)(C)C1=CC(=CC=C1)OC(=O)NC.[I-]
 Osmium(III) bromide	[Os+3].[Br-].[Br-].[Br-]
