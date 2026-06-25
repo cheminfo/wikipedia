@@ -146,6 +146,7 @@ Melanin	CC1=C2C3=C(C4=CNC5=C(C(=O)C(=O)C(=C45)C3=CN2)C)C(=O)C1=O
 Domoic acid	O=C(O)[C@H]1NC[C@H](/C(=C\C=C\[C@H](C(=O)O)C)C)[C@@H]1CC(=O)O
 Sucrose	O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
 Sulfur dioxide	O=S=O
+Thalidomide	O=C1c2ccccc2C(=O)N1C3CCC(=O)NC3=O
 Carbonic acid	O=C(O)O
 Inositol trisphosphate	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@@H]1OP(=O)(O)O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
 Putrescine	NCCCCN
@@ -20510,7 +20511,6 @@ Manganese(III) chloride	Cl[Mn](Cl)Cl
 Solorinic acid	CCCCCC(=O)C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC)O
 GW-788,388	C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
 Black Hole Quencher 1	O=N(=O)C1=CC(=CC=C1N=NC=2C=C(OC)C(N=NC3=CC=C(C=C3)N(CCO)CCO)=CC2C)C
-Monostrontium ruthenate	[O-2].[O-2].[O-2].[Ru+4].[Sr+2]
 Hexamethoxymethylmelamine	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC
 Darinaparsin	C[As](C)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N
 Cobalt oleate	CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Co+2]
@@ -20702,6 +20702,7 @@ Silver laurate	CCCCCCCCCCCC(=O)[O-].[Ag+]
 Lead(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Pb+2]
 Cyclooctanone	C1CCCC(=O)CCC1
 1P-AL-LAD	CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC=C)C(=O)N(CC)CC)C4=C2C1=CC=C4
+Isocyanogen	[C-]#[N+]C#N
 4'Cl-CUMYL-PINACA	CCCCCN1C2=CC=CC=C2C(=N1)C(=O)NC(C)(C)C3=CC=C(C=C3)Cl
 Copper(II) laurate	CCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCC(=O)[O-].[Cu+2]
 Cobalt laurate	CCCCCCCCCCCC(=O)O.CCCCCCCCCCCC(=O)O.[Co]
@@ -24758,3 +24759,4 @@ Paspalic acid	CN1CC(=C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)O
 2CB-2OCD3	[2H]C([2H])([2H])OC1=CC(=C(C=C1CCN)OC)Br
 2CB-5OCD3	[2H]C([2H])([2H])OC1=C(C=C(C(=C1)CCN)OC)Br
 Lysergyl-alanine	C[C@@H](C(=O)O)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+Tetraiodomercurate(II)	I[Hg-2](I)(I)I
