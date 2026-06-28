@@ -23185,7 +23185,6 @@ N-Methylheliamine	CN1CCC2=CC(=C(C=C2C1)OC)OC
 N-Methylheliamine	C1C=2C(=CC(OC)=C(C2)OC)CC[NH+]1C
 Tehaunine N-oxide	COc1cc2CN(=O)(C)CCc2c(c1OC)OC
 Anhalonine	CC1C2=C3C(=C(C=C2CCN1)OC)OCO3
-Anhalonine	C[C@H]1C=2C3=C(C(OC)=CC2CCN1)OCO3
 Salsolidine	COc1cc2C(C)NCCc2cc1OC
 Peyotine	OC1=C2C(=CC(OC)=C1OC)CC[N+](C)(C)[C@H]2C
 Peyotine	COc1c(OC)cc2c(c1O)C(C)[N+](CC2)(C)C
@@ -24222,6 +24221,7 @@ YC8-02	CCCCCCCCCCCCCC(=S)NCCCC[C@@H](C(=O)NC1=CC(=CC=C1)O)NCC[P+](C2=CC=CC=C2)(C
 Propyl isocyanate	CCCN=C=O
 2-Hydroxyethyl methyl terephthalate	COC(=O)C1=CC=C(C=C1)C(=O)OCCO
 Butyl isocyanate	CCCCN=C=O
+Benzyl chloromethyl ether	C1=CC=C(C=C1)COCCl
 Pentyl isocyanate	CCCCCN=C=O
 2T-2CTFM-3PIP	CSc1cc(c(cc1C1CCCNC1)OC)C(F)(F)F
 2C-5-TOET	CCC1=CC(=C(C=C1SC)CCN)OC
@@ -24762,3 +24762,4 @@ Lysergyl-alanine	C[C@@H](C(=O)O)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)
 Tetraiodomercurate(II)	I[Hg-2](I)(I)I
 Silver tetraiodomercurate(II)	[Ag+].[Ag+].I[Hg-2](I)(I)I
 APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
+Gadoquatrane	CC(C(=O)NCC(=O)NCC(CNC(=O)CNC(=O)C(C)N1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(CNC(=O)CNC(=O)C(C)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CNC(=O)CNC(=O)C(C)N3CCN(CCN(CCN(CC3)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N4CCN(CCN(CCN(CC4)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3].[Gd+3].[Gd+3].[Gd+3]
