@@ -7879,6 +7879,7 @@ Icilin	O=C3N(c1c(O)cccc1)C/C=C(/c2cccc([N+]([O-])=O)c2)N3
 Rivoglitazone	CN1C2=C(C=CC(=C2)OC)N=C1COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4
 Ro48-6791	Fc4cc3c(n2cnc(c1nc(on1)CN(CCC)CCC)c2CN(C3=O)C)cc4
 Fosaprepitant	C[C@H](c1cc(cc(c1)C(F)(F)F)C(F)(F)F)O[C@@H]2[C@@H](N(CCO2)Cc3[nH]c(=O)n(n3)P(=O)(O)O)c4ccc(cc4)F
+Fosaprepitant	C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@@H]2[C@@H](N(CCO2)CC3=NN(C(=O)N3)P(=O)(O)O)C4=CC=C(C=C4)F.CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O.CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O
 Iodine pentoxide	O=I(=O)OI(=O)=O
 Tedisamil	C1CC2([C@H]3CN(C[C@@H]2CN(C3)CC4CC4)CC5CC5)CC1
 Vernakalant	O(c1ccc(cc1OC)CCO[C@@H]3CCCC[C@H]3N2CC[C@@H](O)C2)C
@@ -24762,4 +24763,6 @@ Lysergyl-alanine	C[C@@H](C(=O)O)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)
 Tetraiodomercurate(II)	I[Hg-2](I)(I)I
 Silver tetraiodomercurate(II)	[Ag+].[Ag+].I[Hg-2](I)(I)I
 APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
+2,7-Dimethylnaphthalene	CC1=CC2=C(C=C1)C=CC(=C2)C
 Gadoquatrane	CC(C(=O)NCC(=O)NCC(CNC(=O)CNC(=O)C(C)N1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(CNC(=O)CNC(=O)C(C)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CNC(=O)CNC(=O)C(C)N3CCN(CCN(CCN(CC3)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N4CCN(CCN(CCN(CC4)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3].[Gd+3].[Gd+3].[Gd+3]
+1,8-Dimethylnaphthalene	CC1=C2C(=CC=CC2=CC=C1)C
