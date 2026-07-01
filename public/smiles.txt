@@ -6168,6 +6168,8 @@ Sodium salicylate	[Na+].O=C([O-])c1ccccc1O
 Gentisic acid	O=C(O)c1cc(O)ccc1O
 Tert-Butylamine	CC(C)(C)N
 Sec-Butylamine	CCC(C)N
+Sec-Butylamine	CC[C@@H](C)N
+Sec-Butylamine	CC[C@H](C)N
 Isobutylamine	CC(C)CN
 Α-Cyano-4-hydroxycinnamic acid	c1cc(ccc1/C=C(\C#N)/C(=O)O)O
 Lithium superoxide	[Li+].O=[O-]
@@ -9785,6 +9787,8 @@ Orobol	C1=CC(=C(C=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O)O
 1-Hydroxy-7-azabenzotriazole	n1cccc2nnn(O)c12
 2,5-Dimethylhexane	CC(C)CCC(C)C
 2-Bromobutane	CCC(C)Br
+2-Bromobutane	CC[C@@H](C)Br
+2-Bromobutane	CC[C@H](C)Br
 2-Methyl-2-butene	C(=C(\C)C)\C
 Ethylene dione	O=C=C=O
 Oxalic anhydride	O=C1OC1=O
@@ -24766,3 +24770,5 @@ APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
 2,7-Dimethylnaphthalene	CC1=CC2=C(C=C1)C=CC(=C2)C
 Gadoquatrane	CC(C(=O)NCC(=O)NCC(CNC(=O)CNC(=O)C(C)N1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(CNC(=O)CNC(=O)C(C)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CNC(=O)CNC(=O)C(C)N3CCN(CCN(CCN(CC3)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N4CCN(CCN(CCN(CC4)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3].[Gd+3].[Gd+3].[Gd+3]
 1,8-Dimethylnaphthalene	CC1=C2C(=CC=CC2=CC=C1)C
+ZINC000443438219	C[C@@H]1CN(CCN1C2=NC(=CS2)C3=CC=C(C=C3)F)C
+UCD0168	CN1C=C(C2=C[C@@H](CC3)N(C)[C@@H]3C2)C4=C1C=CC=C4
