@@ -8407,7 +8407,7 @@ Phenylacetaldehyde	O=CCc1ccccc1
 Chiraphos	P(c1ccccc1)(c2ccccc2)[C@H]([C@@H](P(c3ccccc3)c4ccccc4)C)C
 Tetramethylammonium pentafluoroxenate	C[N+](C)(C)C.F[Xe-](F)(F)(F)F
 2-C-Methyl-D-erythritol-2,4-cyclopyrophosphate	C[C@]1([C@H](COP(=O)(OP(=O)(O1)O)O)O)CO
-4-Diphosphocytidyl-2-C-methylerythritol	O=P(OC[C@@H](O)[C@](O)(C)CO)(O)OP(=O)(O)OC[C@H]2O[C@@H](N/1C(=O)/N=C(/N)\C=C\1)[C@H](O)[C@@H]2O
+4-Diphosphocytidyl-2-C-methylerythritol	CC(CO)(C(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=CC(=NC2=O)N)O)O)O)O
 Satavaptan	C1COCCN1CCO[C@H]2CC[C@](CC2)3c4cc(OCC)ccc4N(C3=O)S(=O)(=O)c5ccc(cc5OC)C(=O)NC(C)(C)C
 Enzalutamide	CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F
 Ramoplanin	C[C@@H]1C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N1)CC(C)C)c2ccc(cc2)O)[C@@H](C)O)c3ccc(cc3)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O[C@@H]5[C@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)CCCN)Cc6ccccc6)[C@H](C)O)c7ccc(cc7)O)c8ccc(cc8)O)[C@@H](C)O)CCCN)c9ccc(cc9)O)NC(=O)[C@H](CC(=O)N)NC(=O)/C=C\C=C\CC(C)C)C(=O)N)c1ccc(c(c1)Cl)O
@@ -13727,7 +13727,7 @@ Vanillotoxin	N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS3)C(=O)
 Vanillotoxin	NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)NCC(=O)NCC(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCSC)C(=O)NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)NCC(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N
 Vanillotoxin	N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)NCC(=O)NCC(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)NCC(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N
 Methylglucoside	O[C@@H]1[C@@H](O)[C@H](O)[C@H](OC1OC)CO
-Linsitinib	C[C@]1(C[C@@H](C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=CC(=N5)C6=CC=CC=C6)C=C4)O
+Linsitinib	CC1(CC(C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=C4)C=CC(=N5)C6=CC=CC=C6)O
 Sodium stannate	[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Na+].[Na+].[Sn+4]
 Sodium tetrasulfide	[Na+].[Na+].[S-]SS[S-]
 Bromine azide	[N-]=[N+]=N\Br
@@ -23255,7 +23255,6 @@ Macluraxanthone	CC1(C=CC2=C(C3=C(C(=C2O1)C(C)(C)C=C)OC4=C(C3=O)C=CC(=C4O)O)O)C
 Caesium phosphate	[O-]P(=O)([O-])[O-].[Cs+].[Cs+].[Cs+]
 MRS7292	CNC1=C2C(=NC(=N1)C#CC3=CC=C(S3)Cl)N(C=N2)[C@@H]4[C@H]5C[C@]5([C@H]([C@H]4O)O)C(=O)OC
 Buturon	CC(C#C)N(C)C(=O)NC1=CC=C(C=C1)Cl
-ABT-354	CCC1CN(N=C1)C(=NCC)NS(=O)(=O)C2=CC=C(S2)CNC(=O)C3=CC=CC=C3
 Fenharmane	C1CNC(C2=C1C3=CC=CC=C3N2)CC4=CC=CC=C4
 EZS-8	C1=CC=C2C(=C1)C(=O)N(C(=O)N2)CCN
 NBOMe-escaline	CCOC1=C(C=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC
@@ -24801,3 +24800,12 @@ Florensocatib	CN1C2=C(C=CC(=C2)C3=CC(=C(C=C3)C[C@@H](C#N)NC(=O)[C@@H]4CNCCCO4)F)
 Imofinostat	C1CN(C2=C1C=C(C=C2)/C=C/C(=O)NO)S(=O)(=O)C3=CC=CC=C3
 Lenacapavir pacfosacil	CC1=CC(=C(C(=C1)OP(=O)(O)O)C(C)(C)CC(=O)N(C2=NN(C3=C(C=CC(=C32)Cl)C4=C(N=C(C=C4)C#CC(C)(C)S(=O)(=O)C)[C@H](CC5=CC(=CC(=C5)F)F)NC(=O)CN6C7=C([C@H]8C[C@H]8C7(F)F)C(=N6)C(F)(F)F)CC(F)(F)F)S(=O)(=O)C)CC(=O)O
 Lepetegravir	C[C@H]1C=C[C@H](N2CN1C(=O)C3=C(C(=O)C(=CN32)C(=O)NCC4=C(C=C(C=C4F)F)F)O)C
+Ligritinib	CC1=C(N=CC=C1)C2=CN=C(C=C2)C3=C4C=C(C=NC4=NN3)C5=CC6=C(CC[C@@H](CC6)N7C8CC7COC8)C=C5
+Lonitoclax	CC1=C(C=CC=C1OC)CN(C2=CC=C(C=C2)O)C(=O)C3=C(N(C(=C3)C4=C(C=CC(=C4)Cl)C(=O)N5CC6=CC=CC=C6C[C@H]5CN7CCOCC7)C)C
+Tegacorat	CC1=C(C(=C(C2=C1N3C(=NN=C3C(N2)(C)C)C)F)F)C4=C5C=CN(C5=CC(=C4)F)S(=O)(=O)C
+Engasertib	CCN1C(=O)COC2=C1C=C(C(=N2)C3=CC=C(C=C3)C4(CC(C4)O)N)C5=CC=CC=C5
+Olorigliflozin	CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)[C@@H](C)O)O)O)O)Cl
+Linvemastat	CC1=NC=CC(=C1)COC2=CC=C(C=C2)SC3=C(OC=C3)C4C(=O)NC(=O)N4
+Mirivadelgat	CC(C)[C@@H](C(=O)OCC1=C(N=CC=C1)C2=CC(=C(C=C2)OCC3CC3)C(=O)NCC4=CC(=C(C=C4)OC)F)N
+Navlimetostat	CN1C(=C(C=N1)C2=CC3=C(C=C2)C(=O)NN=C3CN)C4=C(C(=CC(=C4F)Cl)OC5CC5)C#N
+Ontunisertib	CC1=NC(=CC=C1)C2=NN(C=C2C3=CC=NC4=CC=CC=C34)CC(=O)NCC5=C(C=CC=C5F)F
