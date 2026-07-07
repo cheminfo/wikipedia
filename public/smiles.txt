@@ -5549,8 +5549,7 @@ Krypton difluoride	F[Kr]F
 Bromobenzyl cyanide	C1=CC=C(C=C1)C(C#N)Br
 Phenformin	N(=C(/N=C(\N)N)N)\CCc1ccccc1
 Calcium disilicide	[Si].[Si].[Ca]
-(E)-4-Hydroxy-3-methyl-but-2-enyl pyrophosphate	O=P(OP(=O)(O)O)(OC/C=C(/CO)C)O
-(E)-4-Hydroxy-3-methyl-but-2-enyl pyrophosphate	CC(=CCOP(=O)([O-])OP(=O)([O-])[O-])CO
+(E)-4-Hydroxy-3-methyl-but-2-enyl pyrophosphate	O=P(O)(O)OP(=O)(O)OCC=C(C)CO
 Glycerol 3-phosphate	C([C@H](COP(=O)(O)O)O)O
 Fluoroboric acid	F[B-](F)(F)[FH+]
 Fluoroboric acid	[H+].F[B-](F)(F)F
@@ -8406,7 +8405,7 @@ Phenylacetaldehyde	O=CCc1ccccc1
 5-MeO-MPMI	CN1CCCC1CC2=CNC3=C2C=C(C=C3)OC
 Chiraphos	P(c1ccccc1)(c2ccccc2)[C@H]([C@@H](P(c3ccccc3)c4ccccc4)C)C
 Tetramethylammonium pentafluoroxenate	C[N+](C)(C)C.F[Xe-](F)(F)(F)F
-2-C-Methyl-D-erythritol-2,4-cyclopyrophosphate	C[C@]1([C@H](COP(=O)(OP(=O)(O1)O)O)O)CO
+2-C-Methyl-D-erythritol-2,4-cyclopyrophosphate	CC1(C(COP(=O)(OP(=O)(O1)O)O)O)CO
 4-Diphosphocytidyl-2-C-methylerythritol	CC(CO)(C(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=CC(=NC2=O)N)O)O)O)O
 Satavaptan	C1COCCN1CCO[C@H]2CC[C@](CC2)3c4cc(OCC)ccc4N(C3=O)S(=O)(=O)c5ccc(cc5OC)C(=O)NC(C)(C)C
 Enzalutamide	CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F
@@ -11580,7 +11579,7 @@ Enpiprazole	Clc3ccccc3N2CCN(CCc1cn(nc1)C)CC2
 Elopiprazole	Fc1ccc(cc1)c2ccc([nH]2)CN5CCN(c4cccc3c4occ3)CC5
 Lorpiprazole	FC(F)(F)c1cc(ccc1)N5CCN(CCc4nnc2n4C[C@@H]3CCC[C@H]23)CC5
 Tolpiprazole	Cc3cccc(N2CCN(CCc1cc(C)[nH]n1)CC2)c3
-Sonepiprazole	O=S(=O)(N)c1ccc(cc1)N2CCN(CC2)CC[C@@H]4OCCc3ccccc34
+Sonepiprazole	C1CO[C@H](C2=CC=CC=C21)CCN3CCN(CC3)C4=CC=C(C=C4)S(=O)(=O)N
 Methyl hypochlorite	COCl
 Sodium 2-anthraquinonesulfonate	O=C1C2=C(C=CC(S(=O)([O-])=O)=C2)C(C3=CC=CC=C31)=O.[Na+]
 Tazolol	CC(C)NCC(COC1=NC=CS1)O
@@ -12994,7 +12993,7 @@ E-6837	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=CC4=C(C=C3)C(=CC=C4)Cl
 E-6801	CN(C)CCC1=CNC2=C1C=C(C=C2)NS(=O)(=O)C3=C(N=C4N3C=CS4)Cl
 Ethyl protocatechuate	CCOC(=O)C1=CC(=C(C=C1)O)O
 Corosolic acid	O=C(O)[C@@]54[C@H](/C3=C/C[C@H]1[C@](CC[C@@H]2[C@]1(C)C[C@@H](O)[C@H](O)C2(C)C)(C)[C@]3(C)CC4)[C@@H](C)[C@H](C)CC5
-F-15063	CC1(CC2=C(O1)C(=CC=C2)OCCNCC3=CC=CC(=C3)C4=CCCC4)C
+F-15063	CC1(CC2=C(O1)C(=CC=C2)OCCNCC3=CC(=CC=C3)C4=CCCC4)C
 C70 fullerene	C12=C3C4=C5C6=C7C8=C9C%10=C%11C%12=C%13C%10=C%10C8=C5C1=C%10C1=C%13C5=C8C1=C2C1=C3C2=C3C%10=C%13C%14=C3C1=C8C1=C3C5=C%12C5=C8C%11=C%11C9=C7C7=C9C6=C4C2=C2C%10=C4C(=C29)C2=C6C(=C8C8=C9C6=C4C%13=C9C(=C%141)C3=C85)C%11=C27
 Bullatacin	O=C\1O[C@H](/C=C/1C[C@H](O)CCCCCCCCCC[C@@H](O)[C@@H]3O[C@@H]([C@@H]2O[C@H](CC2)[C@@H](O)CCCCCCCCCC)CC3)C
 Rhenium hexafluoride	F[Re](F)(F)(F)(F)F
@@ -21997,7 +21996,6 @@ Rhodium(II) trifluoroacetate	C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.C(=O)(C(F)(F)F)O.
 ITI-333	C1CN(C[C@@H]2[C@H]1N3CC(=O)NC4=CC=CC2=C43)CCCOC5=CC=C(C=C5)F
 Ibogaminalog	CN1CCC2=C(CC1)NC3=CC=CC=C23
 Mizagliflozin	Cc1cc(OCCCNCC(C)(C)C(N)=O)ccc1Cc1c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)n[nH]c1C(C)C
-Rongliflozin	CCOc1ccc(Cc2cc([C@]34OC[C@]([C@@H](C)O)(O3)[C@@H](O)[C@H](O)[C@H]4O)ccc2Cl)cc1
 Licogliflozin	CCc1ccc([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1Cc1ccc2c(c1)OCCO2
 Jun12682	CCN1C=CC(=N1)C2=CC(=CC(=C2)[C@@H](C)NC(=O)C3=C(C=CC(=C3)OCCN(C)C)C)C4=CN(N=C4)C
 Pentafluoroselenium hypofluorite	F[Se](F)(F)(F)(F)OF
@@ -24794,6 +24792,7 @@ Elironrasib	CCN1C2=C3C=C(C=C2)N4CCO[C@H](C4)C[C@@H](C(=O)N5CCC[C@H](N5)C(=O)OCC(
 Elisrasib	CC1=CC(=C(C(=C1C(F)(F)F)[C@@H]2CC3=C(CO2)C(=NC(=N3)OC[C@@]45CCCN4C[C@@H](C5)F)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F)F)N
 Emvistegrast	CCOC(=O)[C@H](CC1=C2C=CC=NC2=C(C=C1)N3C(=O)C4=C(C=NC=C4)N(C3=O)C)NC(=O)C5=C(C=C(C=C5C)N6CCOC[C@@H]6C(F)(F)F)F
 Enozertinib	COC1=C(C=C(C(=C1)N2CCC(CC2)N3CCN(CC3)C4CC4)NC(=O)C=C)NC5=CC(=NC=N5)N6[C@H](CCO6)C7=CC(=CC(=C7)F)F
+Sodium diethyldiselenocarbamate	[Na+].[Se-]C(=[Se])N(CC)CC
 Eratrectinib	C1C[C@@H]2C3=C(CCN(NC(=O)C4=C5N=C(N2C1)C=CN5N=C4)C6CC6)N=CC(=C3)F
 Fexlamose	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CS)O)O)O)O)O)O)S
 Florensocatib	CN1C2=C(C=CC(=C2)C3=CC(=C(C=C3)C[C@@H](C#N)NC(=O)[C@@H]4CNCCCO4)F)OC1=O
@@ -24809,3 +24808,9 @@ Linvemastat	CC1=NC=CC(=C1)COC2=CC=C(C=C2)SC3=C(OC=C3)C4C(=O)NC(=O)N4
 Mirivadelgat	CC(C)[C@@H](C(=O)OCC1=C(N=CC=C1)C2=CC(=C(C=C2)OCC3CC3)C(=O)NCC4=CC(=C(C=C4)OC)F)N
 Navlimetostat	CN1C(=C(C=N1)C2=CC3=C(C=C2)C(=O)NN=C3CN)C4=C(C(=CC(=C4F)Cl)OC5CC5)C#N
 Ontunisertib	CC1=NC(=CC=C1)C2=NN(C=C2C3=CC=NC4=CC=CC=C34)CC(=O)NCC5=C(C=CC=C5F)F
+Palacaparib	CC1=NC2=C(C(=C(C=C2)CN3CCN(CC3)C4=C(N=C(C=C4)C(=O)NC)F)F)NC1=O
+Lu 35-138	CC(=O)N1C[C@H](C2=CC=CC=C21)CCN3CCC(=CC3)C4=CNC5=C4C=CC(=C5)Cl
+Lu 38-012	C1CN(CCN1CC2=CC3=C(C=C2)NC=C3)C4=CC=C(C=C4)Cl
+Glyceryl-tris-3-hydroxybutyrate	CC(CC(=O)OCC(COC(=O)CC(C)O)OC(=O)CC(C)O)O
+HTL26119	C1=CC(=CC=C1CC(=O)CCC(=O)O)OC2=C(C=C(C=C2Cl)Cl)C3=CC=C(C=C3)OCCN4C=C(C=N4)Cl
+ML398	C1CO[C@@H](CN1CC2=CC=C(C=C2)Cl)CCC3=CC=CC=C3
