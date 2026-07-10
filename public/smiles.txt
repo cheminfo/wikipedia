@@ -14890,6 +14890,7 @@ Hypophosphoric acid	OP(O)(P(O)(O)=O)=O
 Erbium tetraboride	[Er].[B].[B].[B].[B]
 Erbium(III) iodide	I[Er](I)I
 N-Vinylacetamide	CC(=O)NC=C
+Barium hexaboride	B#[Ba](#B)(#B)(#B)(#B)#B
 3-Nitrochlorobenzene	C1=CC(=CC(=C1)Cl)[N+](=O)[O-]
 Perfluorotributylamine	C(C(C(F)(F)F)(F)F)(C(N(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
 Icotinib	C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1
@@ -24816,3 +24817,5 @@ Vepugratinib	CC1=C(N=NN1C2CCN(CC2)C#N)C3=CN4C(=C(C=N4)Cl)C(=C3)O[C@H](CO)C5=NC=C
 Verducatib	C1C[C@@H]2C[C@H]1[C@H](N2)C(=O)N[C@@H](CC3=C(C=C(C=C3)C4=CC5=C(COC56CCN(CC6)C7COC7)C=C4)F)C#N
 Zavabresib	CC1=C(C(=NO1)C)C2=CC3=C(C(=CN3C(C)(C4=CC=CC=N4)C5=CC=CC=N5)C6=CC=C(C=C6)C(=O)O)N=C2
 Zedoresertib	CC1=C(C=CC(=C1)NC2=NC=C3C(=N2)N(CN(C3=O)C4=C(C=CC=C4Cl)Cl)C)C5CCN(CC5)C
+Zovegalisib	C1=CC(=C(C=C1F)[C@H]2C3=C(C=C(C=C3NC(=O)C4=CC(=CC(=C4)F)C(F)(F)F)C5=C(N6C(=NC=N6)C=C5)C#N)C(=O)N2)Cl
+Tripropionin	CCC(=O)OCC(COC(=O)CC)OC(=O)CC
