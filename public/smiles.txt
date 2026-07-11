@@ -11618,7 +11618,6 @@ Tris(acetylacetonato)iron(III)	CC(=C[C-](C)O1)O[Fe+3]123(OC(=C[C-](C)O2)C)OC(=C[
 Roburin A	C1[C@H]2[C@@H]([C@@H]3[C@@H]4[C@@H](C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)C8=C(C(=C(C9=C8C(=O)OC[C@@H]2[C@H]([C@@H]3[C@@H]4[C@@H](C5=C(C(=C(C(=C5C(=O)O4)C4=C(C(=C(C(=C4C(=O)O3)C3=C(C(=C(C=C3C(=O)O2)O)O)O)O)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C29)O)O)O)O)O)O)OC(=O)C2=CC(=C(C(=C2C2=C(C(=C(C=C2C(=O)O1)O)O)O)O)O)O
 Hydracarbazine	C1=CC(=NN=C1C(=O)N)NN
 Rogletimide	O=C1NC(=O)CCC1(c2ccncc2)CC
-Bufotenidine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)[O-]
 Neoconvalloside	C[C@@]12[C@@](CC[C@@H]2C3=CC(OC3)=O)(O)[C@]4([H])CC[C@]5(O)C[C@@H](O[C@]6([H])O[C@@H](O)[C@H](O)[C@@H](O)[C@H]6O[C@]7([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)CC[C@]5(C=O)[C@@]4([H])CC1
 Digitoxigenin	O=C/1OCC(=C\1)\[C@@H]2[C@@]4([C@](O)(CC2)[C@@H]5CC[C@@H]3C[C@@H](O)CC[C@]3(C)[C@H]5CC4)C
 Tazomeline	n2snc(/C1=C/CCN(C)C1)c2SCCCCCC
@@ -24751,6 +24750,7 @@ Lysergyl-alanine	C[C@@H](C(=O)O)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)
 Tetraiodomercurate(II)	I[Hg-2](I)(I)I
 Silver tetraiodomercurate(II)	[Ag+].[Ag+].I[Hg-2](I)(I)I
 APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
+Scillarenin	C[C@]12CC[C@@H](C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@H]4C5=COC(=O)C=C5)O)C)O
 2,7-Dimethylnaphthalene	CC1=CC2=C(C=C1)C=CC(=C2)C
 Gadoquatrane	CC(C(=O)NCC(=O)NCC(CNC(=O)CNC(=O)C(C)N1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(CNC(=O)CNC(=O)C(C)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CNC(=O)CNC(=O)C(C)N3CCN(CCN(CCN(CC3)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N4CCN(CCN(CCN(CC4)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3].[Gd+3].[Gd+3].[Gd+3]
 1,8-Dimethylnaphthalene	CC1=C2C(=CC=CC2=CC=C1)C
@@ -24819,3 +24819,4 @@ Zavabresib	CC1=C(C(=NO1)C)C2=CC3=C(C(=CN3C(C)(C4=CC=CC=N4)C5=CC=CC=N5)C6=CC=C(C=
 Zedoresertib	CC1=C(C=CC(=C1)NC2=NC=C3C(=N2)N(CN(C3=O)C4=C(C=CC=C4Cl)Cl)C)C5CCN(CC5)C
 Zovegalisib	C1=CC(=C(C=C1F)[C@H]2C3=C(C=C(C=C3NC(=O)C4=CC(=CC(=C4)F)C(F)(F)F)C5=C(N6C(=NC=N6)C=C5)C#N)C(=O)N2)Cl
 Tripropionin	CCC(=O)OCC(COC(=O)CC)OC(=O)CC
+Nolasiban	CC1=CC=CC=C1C2=CC=C(C=C2)C(=O)N3C/C(=N\OC)/C[C@H]3CO
