@@ -1,9 +1,10 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-import type { CSSProperties, Dispatch, RefObject, SetStateAction } from 'react';
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
+import type { MoleculesDB } from 'openchemlib-utils';
+import type { Dispatch, RefObject, SetStateAction } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useState } from 'react';
 import { MdClose } from 'react-icons/md';
-import AutoSizer from 'react-virtualized-auto-sizer';
-import { FixedSizeGrid as Grid } from 'react-window';
+import { AutoSizer } from 'react-virtualized-auto-sizer';
+import type { CellComponentProps, GridImperativeAPI } from 'react-window';
+import { Grid, useGridRef } from 'react-window';
 
 import { useDataContext } from '../../contexts/data_context.js';
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
@@ -20,13 +21,7 @@ interface FilterProps {
 
 interface MoleculesProps {
   molecules: ExtendedWikipediaMolecule[];
-  gridRef: RefObject<Grid | null>;
-}
-
-interface CellProps {
-  columnIndex: number;
-  rowIndex: number;
-  style: CSSProperties;
+  gridRef: RefObject<GridImperativeAPI | null>;
 }
 
 interface MolListFooterProps {
@@ -74,23 +69,25 @@ function Filter({ filter, setFilter }: FilterProps) {
   );
 }
 
-const cell =
-  (molecules: ExtendedWikipediaMolecule[]) =>
-  ({ columnIndex, rowIndex, style }: CellProps) => {
-    if (columnIndex + rowIndex * 3 < molecules.length) {
-      const mol = molecules[columnIndex + rowIndex * 3];
-      return (
-        <div style={style} className="overflow-x-hidden">
-          {mol && <MoleculeInfo mol={mol} />}
-        </div>
-      );
-    }
-    return null;
-  };
+type CellProps = CellComponentProps<{ molecules: ExtendedWikipediaMolecule[] }>;
 
-function dbToMolecules(moleculeDb: any): ExtendedWikipediaMolecule[] {
+function Cell({ columnIndex, rowIndex, style, molecules }: CellProps) {
+  if (columnIndex + rowIndex * 3 < molecules.length) {
+    const mol = molecules[columnIndex + rowIndex * 3];
+    return (
+      <div style={style} className="overflow-x-hidden">
+        {mol && <MoleculeInfo mol={mol} />}
+      </div>
+    );
+  }
+  return null;
+}
+
+function dbToMolecules(
+  moleculeDbSearchResult: ReturnType<MoleculesDB['search']>,
+): ExtendedWikipediaMolecule[] {
   const molecules: ExtendedWikipediaMolecule[] = [];
-  for (const entry of moleculeDb) {
+  for (const entry of moleculeDbSearchResult) {
     const data = entry.data;
     molecules.push(data);
   }
@@ -142,10 +139,12 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
 
   return (
     <div className="h-108.5 w-full overflow-x-hidden" ref={ref}>
-      <AutoSizer>
-        {({ height, width }) => (
+      <AutoSizer
+        renderProp={({ width = 1, height = 1 }) => (
           <Grid
-            ref={gridRef}
+            gridRef={gridRef}
+            cellComponent={Cell}
+            cellProps={{ molecules }}
             columnCount={colItemsCount}
             columnWidth={
               colItemsCount === 3
@@ -154,14 +153,11 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
             }
             rowCount={getRowCount(molecules.length) || 0}
             rowHeight={height / 2}
-            width={width}
-            height={height}
             className="scrollbar overflow-x-hidden"
-          >
-            {cell(molecules)}
-          </Grid>
+            style={{ width, height }}
+          />
         )}
-      </AutoSizer>
+      />
     </div>
   );
 }
@@ -200,11 +196,13 @@ export function MoleculeList() {
     );
   }, [filter, molSearchResult]);
 
-  const gridRef = useRef<Grid>(null);
+  const gridRef = useGridRef(null);
 
   useLayoutEffect(() => {
-    gridRef.current?.scrollTo({ scrollTop: 0 });
-  }, [molFiltered]);
+    if (molFiltered.length !== 0) {
+      gridRef.current?.scrollToRow({ index: 0 });
+    }
+  }, [molFiltered, gridRef]);
 
   return (
     <SimpleTable
