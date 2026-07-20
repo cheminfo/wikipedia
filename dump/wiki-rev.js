@@ -39,19 +39,18 @@ fs.writeFileSync('./data/rev-missing.json', JSON.stringify(missing));
 /**
  * @returns {Promise<void>}
  */
-function getNextEntries() {
+async function getNextEntries() {
   const idsToGet = [];
   const ii = Math.min(length, start + 50);
   for (; start < ii; start++) {
     idsToGet.push(ids[start]);
   }
   start = ii;
-  return getRevisions(idsToGet).then(() => {
-    bar.tick(idsToGet.length);
-    if (start < length) {
-      return getNextEntries();
-    }
-  });
+  await getRevisions(idsToGet);
+  bar.tick(idsToGet.length);
+  if (start < length) {
+    await getNextEntries();
+  }
 }
 
 /**

@@ -128,6 +128,8 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
     );
 
   const [ref, size] = useResizeObserver();
+  // TODO: Check if this can be done without an effect.
+  // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(handleResize, [size]);
 
   function getRowCount(molLen: number) {
@@ -139,7 +141,7 @@ function Molecules({ gridRef, molecules }: MoleculesProps) {
   }
 
   return (
-    <div className="h-[434px] w-full overflow-x-hidden" ref={ref}>
+    <div className="h-108.5 w-full overflow-x-hidden" ref={ref}>
       <AutoSizer>
         {({ height, width }) => (
           <Grid

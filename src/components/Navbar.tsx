@@ -1,6 +1,6 @@
 /* eslint-disable import/no-absolute-path */
 import { Transition } from '@headlessui/react';
-import clsx from 'clsx';
+import { clsx } from 'clsx';
 import type { Dispatch, SetStateAction } from 'react';
 import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
@@ -20,7 +20,7 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps) {
     { name: 'Download SMILES', link: '/smiles.txt', download: 'smiles.txt' },
   ];
 
-  const NavbarLinks = sections.map((section) =>
+  const navbarLinks = sections.map((section) =>
     section.download ? (
       <a
         key={section.name}
@@ -50,7 +50,7 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps) {
           Wikipedia Chemical Structure Explorer
         </Link>
         <nav className="hidden space-x-12 xl:block">
-          {NavbarLinks}
+          {navbarLinks}
           <button
             type="button"
             className={clsx('hover:text-lightblue', {
@@ -127,7 +127,7 @@ export function Navbar({ showAbout, setShowAbout }: NavbarProps) {
             onClick={() => setIsOpen(false)}
             className="flex flex-col items-center gap-y-4 bg-darkblue py-6 text-white"
           >
-            {NavbarLinks}
+            {navbarLinks}
             <button
               type="button"
               className="hover:text-lightblue"

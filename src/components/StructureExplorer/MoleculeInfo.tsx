@@ -1,4 +1,4 @@
-import clsx from 'clsx';
+import { clsx } from 'clsx';
 import { AiOutlineLink, AiOutlineSearch } from 'react-icons/ai';
 import { MF } from 'react-mf';
 import { IdcodeSvgRenderer } from 'react-ocl';
@@ -23,7 +23,7 @@ export function MoleculeInfo({ mol }: MoleculeInfoProps) {
     <button
       type="button"
       className={clsx(
-        'group flex h-[217px] w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
+        'group flex h-54.25 w-full flex-col items-center justify-between overflow-hidden border py-2 px-1 text-xs',
         {
           'border-darkgray bg-darkgray': isSelected,
           'hover:bg-lightgray': !isSelected,

@@ -5,7 +5,7 @@ import {
   Transition,
   TransitionChild,
 } from '@headlessui/react';
-import clsx from 'clsx';
+import { clsx } from 'clsx';
 import type { Dispatch, ReactNode, SetStateAction } from 'react';
 import { Fragment } from 'react';
 import { MdClose } from 'react-icons/md';
