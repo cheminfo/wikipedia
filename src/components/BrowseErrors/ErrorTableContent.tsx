@@ -1,4 +1,4 @@
-import clsx from 'clsx';
+import { clsx } from 'clsx';
 
 import { useMoleculeContext } from '../../contexts/molecule_context.js';
 
@@ -13,7 +13,7 @@ export default function ErrorTableContent({
 }: ErrorTableContentProps) {
   const { selectedId } = useMoleculeContext();
   return (
-    <div className="scrollbar grid max-h-[204px] grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
+    <div className="scrollbar grid max-h-51 grid-cols-3 overflow-y-auto overflow-x-hidden rounded-b-lg sm:grid-cols-5 xl:grid-cols-7">
       {data.map((id, key) => (
         <a
           href={`https://en.wikipedia.org/wiki?curid=${id}`}

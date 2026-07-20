@@ -36,7 +36,7 @@ function StructureEditor() {
   const { id, idCode, setIdAndIdCode, search } = useMoleculeContext();
 
   const [initialIdcode] = useState(idCode);
-  const canvasEditor = useCanvasEditor({
+  const { elementRef } = useCanvasEditor({
     initialMode: 'molecule',
     inputFormat: 'idcode',
     inputValue: initialIdcode,
@@ -48,8 +48,8 @@ function StructureEditor() {
 
   return (
     <div
-      className="lg:w-[470px] h-full rounded-b-lg overflow-hidden"
-      ref={canvasEditor.elementRef}
+      className="lg:w-117.5 h-full rounded-b-lg overflow-hidden"
+      ref={elementRef}
     />
   );
 }
@@ -73,7 +73,7 @@ export function DrawStructure({ setShowHelp }: HelpButtonProps) {
       title="Draw a structure"
       help={<HelpButton setShowHelp={setShowHelp} />}
       option={<Search />}
-      className="sm:h-[506px] h-[405px] flex flex-col bg-lightblue"
+      className="sm:h-126.5 h-101.25 flex flex-col bg-lightblue"
       height="flex-1 min-h-0"
     >
       <StructureEditor key={id} />

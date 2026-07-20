@@ -67,6 +67,10 @@ function WikiPage() {
     };
   }, [selectedStructure]);
 
+  if (url === '') {
+    return null;
+  }
+
   return (
     <iframe
       ref={iframeRef}

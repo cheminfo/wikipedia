@@ -57,12 +57,11 @@ async function getNextPages() {
   let tick = start - oldStart;
 
   if (pagesToGet.length) {
-    return getPages(pagesToGet).then(() => {
-      bar.tick(tick);
-      if (start < length) {
-        return getNextPages();
-      }
-    });
+    await getPages(pagesToGet);
+    bar.tick(tick);
+    if (start < length) {
+      await getNextPages();
+    }
   } else {
     bar.tick(tick);
   }
