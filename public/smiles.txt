@@ -1922,6 +1922,7 @@ Magnesium nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Mg+2]
 Succimer	O=C(O)[C@@H](S)[C@@H](S)C(=O)O
 Phosphorus pentachloride	ClP(Cl)(Cl)(Cl)Cl
 Phosphorus trichloride	ClP(Cl)Cl
+Phenazopyridine	NC1=NC(N)=CC=C1/N=N/C2=CC=CC=C2
 Atrazine	Clc1nc(nc(n1)NC(C)C)NCC
 Indium antimonide	[In]#[Sb]
 Benserazide	NC(CO)C(=O)NNCC1=C(O)C(O)=C(O)C=C1
@@ -4540,6 +4541,7 @@ Dipotassium phosphate	[K+].[K+].[O-]P([O-])(=O)O
 Dithioerythritol	SC[C@@H](O)[C@@H](O)CS
 Gallamine triethiodide	[I-].[I-].[I-].O(c1c(OCC[N+](CC)(CC)CC)cccc1OCC[N+](CC)(CC)CC)CC[N+](CC)(CC)CC
 Nickel(II) hydroxide	[Ni+2].[OH-].[OH-]
+Procyclidine	OC(C1=CC=CC=C1)(C2CCCCC2)CCN3CCCC3
 Cadmium nitrate	[Cd+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
 Iron(III) nitrate	[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Fe+3]
 Vildagliptin	N#C[C@H]4N(C(=O)CNC13CC2CC(C1)CC(O)(C2)C3)CCC4
@@ -6746,6 +6748,7 @@ Benzylthiouracil	S=C1N/C(=C\C(=O)N1)Cc2ccccc2
 Methylthiouracil	CC1=CC(=O)NC(=S)N1
 Flosequinan	CN1C=C(C(=O)C2=C1C=C(C=C2)F)S(=O)C
 Thiocolchicoside	O=C(N[C@@H]4C1=C\C(=O)C(/SC)=C\C=C1c3c(cc(O[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)c(OC)c3OC)CC4)C
+Pridinol	OC(C1=CC=CC=C1)(C2=CC=CC=C2)CCN3CCCCC3
 Fenyramidol	C1=CC=CC(=C1)C(CNC2=NC=CC=C2)O
 Febarbamate	C1(=O)NC(C(C(=O)N1CC(OC(=O)N)COCCCC)(C2=CC=CC=C2)CC)=O
 Styramate	C1=CC=CC=C1C(COC(=O)N)O
@@ -24852,4 +24855,7 @@ BMS641	CC1(CC=C(C2=C1C=CC(=C2)/C=C/C3=C(C=C(C=C3)C(=O)O)Cl)C4=CC=CC=C4)C
 CD2314	CC1(CCC(C2=C1C=C3C=CC(=CC3=C2)C4=CC(=CS4)C(=O)O)(C)C)C
 Bleximenib	CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=C(N=CN=N2)N3CCC4(C3)CN(C4)[C@H](CCCN(C)CCOC)C(C)C
 OT-12	CC[C@@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSCCCCC(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CSCC(=O)NCCOCCOCCC(=O)NCCOCCOCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+TH10785	C1CCC(CC1)NC2=NC(=NC3=CC=CC=C32)C4CC4
 TGOT	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CS)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)[C@H](C=S)N
+Pralurbactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NOCCON=C(N)N
+Nizubaglustat	C1[C@@H]([C@H]([C@@H]([C@@H](N1CCCCCOCC2=CC(=C(C=C2)C3=CC=CC=C3)F)CO)O)O)O
