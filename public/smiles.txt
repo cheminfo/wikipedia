@@ -19535,7 +19535,7 @@ Dasiglucagon	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=
 Diruthenium tetraacetate chloride	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.Cl[Ru].[Ru]
 Iron(II) perchlorate	O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+2]
 Octachlorotetraphosphazene	N1=P(N=P(N=P(N=P1(Cl)Cl)(Cl)Cl)(Cl)Cl)(Cl)Cl
-Monopotassium arsenate	O[As](=O)(O)[O-].[K+]
+Potassium dihydrogenarsenate	O[As](=O)(O)[O-].[K+]
 Fominoben	CN(CC1=C(C=CC=C1Cl)NC(=O)C2=CC=CC=C2)CC(=O)N3CCOCC3
 Deterenol	CC(C)NCC(C1=CC=C(C=C1)O)O
 Titanium(IV) acetate	CC(=O)O.CC(=O)O.CC(=O)O.CC(=O)O.[Ti]
@@ -24411,7 +24411,7 @@ Nitronium hexafluoroantimonate	[N+](=O)=O.F[Sb-](F)(F)(F)(F)F
 Refisolone	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]4[C@H]2O4)CCC5=CC(=O)CC[C@]35O
 L-817818	C[C@@H](COC(=O)[C@H](CCCCN)NC(=O)CC1=C(NC2=C1C=CC3=CC=CC=C32)C4=CC5=CC=CC=C5C=C4)N
 Zavolosotine	C[C@@H](C(F)(F)F)NC(=O)C1=CN=C(C(=C1N2CC[C@@H](C2)N)C3=CC(=CC(=C3)F)F)C#N
-LIT-002	OCC1=CN(N=N1)[C@H]2CN([C@@H](C2)C(N(C)C)=S)C(NCC3=C(C)C=C(C(N4CC5=C(NC6=C4C=CC=C6)N(C)N=C5)=O)C=C3)=O
+LIT-002	CC1=C(C=CC(=C1)C(=O)N2CC3=C(NC4=CC=CC=C42)N(N=C3)C)CNC(=O)N5C[C@@H](C[C@H]5C(=S)N(C)C)N6C=C(N=N6)CO
 L-797591	CC(CCN)CC(C)(C)CNC(=O)[C@@H](CC1=CC=CC2=CC=CC=C21)NC(=O)N(CCC3=CC=CC=C3)CCC4=CC=CC=N4
 Gymnodimine	CC1CC2CCC(C(=CC3C(=C(CCC34CCCN=C4CCC=C(C1O2)C)C5C=C(C(=O)O5)C)C)C)O
 2C-EF-FLY	C1COC2=C(C3=C(C(=C21)CCN)OCC3)CCF
@@ -24859,3 +24859,9 @@ TH10785	C1CCC(CC1)NC2=NC(=NC3=CC=CC=C32)C4CC4
 TGOT	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CS)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)[C@H](C=S)N
 Pralurbactam	C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)NOCCON=C(N)N
 Nizubaglustat	C1[C@@H]([C@H]([C@@H]([C@@H](N1CCCCCOCC2=CC(=C(C=C2)C3=CC=CC=C3)F)CO)O)O)O
+Huratoxin	C=C(C)[C@]12C[C@@H](C)[C@@]34O[C@](/C=C/C=C/CCCCCCCCC)(O[C@@H]1[C@@H]3[C@@H]1O[C@]1(CO)[C@@H](O)[C@]1(O)C(=O)C(C)=C[C@H]14)O2
+GYKI-13380	COC1=C(C=C(C=C1)CC2CNC(=O)N2)OC3CCCC3
+Neracorvir	CC1=CN2C(=C1)C(=O)NC3=C(S2(=O)=O)C=CC(=C3)C(=O)NCC[C@H]4COCCO4
+Dipotassium hydrogenarsenate	O[As](=O)([O-])[O-].[K+].[K+]
+LE135	CC1(CCC(C2=CC3=C(C=C21)N=C(C4=CC=CC=C4N3C)C5=CC=C(C=C5)C(=O)O)(C)C)C
+Fulzerasib	CC1=C(C(=NC=C1)C(C)C)N2C3=NC(=C(C=C3C4=C(C2=O)N(C(=O)[C@@]5(N4CCN(C5)C(=O)C=C)C)C)Cl)C6=C(C=CC=C6F)O
