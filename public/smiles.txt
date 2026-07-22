@@ -23475,7 +23475,7 @@ Erbium oxyfluoride	[O-2].[F-].[Er+3]
 Pentamethoxyamphetamine	CC(CC1=C(C(=C(C(=C1OC)OC)OC)OC)OC)N
 Noribogainalog	CN1CCC2=C(CC1)NC3=C2C=C(C=C3)O
 Terbium oxyfluoride	[O-2].[F-].[Tb+3]
-JXL069	C1=CC2=C(N=C1)N(C=C2C=C(C#N)C(=O)O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
+Suvomipic	C1=CC2=C(N=C1)N(C=C2/C=C(\C#N)/C(=O)O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F
 AR420626	CC1=C(C(C2=C(N1)CCCC2=O)C3=CC=CO3)C(=O)NC4=C(C=CC(=C4)Cl)Cl
 CFMB (drug)	CC(C)(C)[C@@H](C1=CC=C(C=C1)Cl)C(=O)NC2=NC=C(S2)C3=CC=CC=C3
 Plutonium sulfides	[Pu+2].[S-2]
@@ -24610,6 +24610,7 @@ S-1-Propenyl-L-cysteine	C/C=C/SC[C@@H](C(O)=O)N
 Ergosecaline	CC(C)[C@H]1C(=O)O[C@](C(=O)N1)(C)NC(=O)[C@H]2CN([C@@H]3CC4=CNC5=CC=CC(=C45)C3=C2)C
 Alpha-D	[2H]C([2H])(CC1=CC(=C(C(=C1)OC)OC)OC)N
 Lysergyl-L-valyl methyl ester	CC(C)C(C(=O)OC)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
+VCU-1012	C1CN(CCN1)C2=NC3=CC=CC=C3C=N2
 Indium triflate	C(F)(F)(F)S(=O)(=O)O[In](OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F
 Indium triflate	[In+3].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
 Flumetsulam	CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC3=C(C=CC=C3F)F
@@ -24865,3 +24866,6 @@ Neracorvir	CC1=CN2C(=C1)C(=O)NC3=C(S2(=O)=O)C=CC(=C3)C(=O)NCC[C@H]4COCCO4
 Dipotassium hydrogenarsenate	O[As](=O)([O-])[O-].[K+].[K+]
 LE135	CC1(CCC(C2=CC3=C(C=C21)N=C(C4=CC=CC=C4N3C)C5=CC=C(C=C5)C(=O)O)(C)C)C
 Fulzerasib	CC1=C(C(=NC=C1)C(C)C)N2C3=NC(=C(C=C3C4=C(C2=O)N(C(=O)[C@@]5(N4CCN(C5)C(=O)C=C)C)C)Cl)C6=C(C=CC=C6F)O
+Ficonalkib	CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC3=C2CCN3)NC4=C(C=C(C=C4)N5CCC(CC5)N(C)C)OC
+SR-14136	C1C[C@@H]2C[C@@H](CCN2[C@@H](C1)C3=CC=CC=C3)N4C5=CC=CC=C5NC4=O
+Elenestinib	C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)CCO)N
