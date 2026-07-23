@@ -3100,6 +3100,7 @@ Cobalt(III) fluoride	F[Co](F)F
 Isatin	O=C2c1ccccc1NC2=O
 Cyclamic acid	O=S(=O)(O)NC1CCCCC1
 2,2,2-Trichloroethanol	ClC(Cl)(Cl)CO
+Tioconazole	ClC1=CC=C(C(OCC2=C(Cl)SC=C2)CN3C=CN=C3)C(Cl)=C1
 1,4-Benzoquinone	C1=CC(=O)C=CC1=O
 1,2-Benzoquinone	C1=CC(=O)C(=O)C=C1
 Menadione	O=C\2c1c(cccc1)C(=O)/C(=C/2)C
@@ -24866,6 +24867,10 @@ Neracorvir	CC1=CN2C(=C1)C(=O)NC3=C(S2(=O)=O)C=CC(=C3)C(=O)NCC[C@H]4COCCO4
 Dipotassium hydrogenarsenate	O[As](=O)([O-])[O-].[K+].[K+]
 LE135	CC1(CCC(C2=CC3=C(C=C21)N=C(C4=CC=CC=C4N3C)C5=CC=C(C=C5)C(=O)O)(C)C)C
 Fulzerasib	CC1=C(C(=NC=C1)C(C)C)N2C3=NC(=C(C=C3C4=C(C2=O)N(C(=O)[C@@]5(N4CCN(C5)C(=O)C=C)C)C)Cl)C6=C(C=CC=C6F)O
+OSU-ERβ-12	[C@@H](CCCCCC)(O)C1234[BH]567[BH]89%10C%11%12%13([BH]%14%15%16[BH]%11%17%18[BH]%128%19[BH]954[BH]%17%193[BH]%14%182[BH]%1571[BH]%13%10%166)C%20=CC=C(O)C=C%20
 Ficonalkib	CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC3=C2CCN3)NC4=C(C=C(C=C4)N5CCC(CC5)N(C)C)OC
 SR-14136	C1C[C@@H]2C[C@@H](CCN2[C@@H](C1)C3=CC=CC=C3)N4C5=CC=CC=C5NC4=O
 Elenestinib	C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)CCO)N
+Canocapavir	C1C(=O)N([C@H](O1)C2=CN(N=C2C3=CC=C(C=C3)F)C4=CC=C(C=C4)Br)CCC5=CC6=C(C=C5)NC(=O)N6
+Zabaglurant	C1=CC(=NC=C1F)C2=CC(=NC=N2)C3=CC(=CC(=C3)C#N)Cl
+Spirobrorphine	CC(C1=CC=C(C=C1)Br)N2CCC3(CC2)C(=O)NCN3C4=CC=CC=C4
