@@ -11257,6 +11257,7 @@ Poriol	CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC=C(C=C3)O)O
 Retusin (flavonol)	COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC)O)OC)OC
 Retusin (isoflavone)	COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3O)O
 Amiflamine	N(c1cc(c(cc1)C[C@@H](N)C)C)(C)C
+Norfluoxetine	C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F
 Caroxazone	O=C(N)CN2C(=O)Oc1ccccc1C2
 Irilone	C1OC2=C(O1)C(=C3C(=C2)OC=C(C3=O)C4=CC=C(C=C4)O)O
 Pratensein	COC1=C(C=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O)O
@@ -24762,6 +24763,9 @@ Tetraiodomercurate(II)	I[Hg-2](I)(I)I
 Tectol	CC1(C=CC2=C(O1)C3=CC=CC=C3C(=C2C4=C(C5=CC=CC=C5C6=C4C=CC(O6)(C)C)O)O)C
 Silver tetraiodomercurate(II)	[Ag+].[Ag+].I[Hg-2](I)(I)I
 APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
+3-Chloroaniline	C1=CC(=CC(=C1)Cl)N
+Echinopine	C=C1CC[C@@H]2C[C@@H]3[C@H]1CC[C@]34[C@]2(C4)CC(=O)O
+Echinopine	COC(=O)C[C@@]12C[C@@]13CC[C@@H]4[C@H]3C[C@H]2CCC4=C
 Scillarenin	C[C@]12CC[C@@H](C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@@]3(CC[C@@H]4C5=COC(=O)C=C5)O)C)O
 2,7-Dimethylnaphthalene	CC1=CC2=C(C=C1)C=CC(=C2)C
 Gadoquatrane	CC(C(=O)NCC(=O)NCC(CNC(=O)CNC(=O)C(C)N1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(CNC(=O)CNC(=O)C(C)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CNC(=O)CNC(=O)C(C)N3CCN(CCN(CCN(CC3)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N4CCN(CCN(CCN(CC4)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3].[Gd+3].[Gd+3].[Gd+3]
@@ -24879,3 +24883,4 @@ Zidesamtinib	CCN1C2=C(CC3=NN(N=C3C4=C(C=C(C=C4)F)[C@H](OC5=C(N=CC2=C5)N)C)C)C=N1
 Safusidenib	CC1=CN(C2=CC=CC(=C12)/C=C/C(=O)O)C(=O)C3=C(ON=C3C4=C(C=C(C=C4Cl)Cl)Cl)C(C)(C)F
 Pyrasulfotole	CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C
 Quabodepistat	C1CC(=O)NC2=C(C=CC(=C21)OC[C@@]3(CCN(C[C@H]3O)C4=C(C=C(C=C4F)Cl)F)O)F
+4F-4PP	C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCCCC3=CC=CC=C3
