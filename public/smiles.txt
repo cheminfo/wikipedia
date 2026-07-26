@@ -11257,7 +11257,6 @@ Poriol	CC1=C(C2=C(C=C1O)O[C@@H](CC2=O)C3=CC=C(C=C3)O)O
 Retusin (flavonol)	COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC)O)OC)OC
 Retusin (isoflavone)	COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3O)O
 Amiflamine	N(c1cc(c(cc1)C[C@@H](N)C)C)(C)C
-Norfluoxetine	C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F
 Caroxazone	O=C(N)CN2C(=O)Oc1ccccc1C2
 Irilone	C1OC2=C(O1)C(=C3C(=C2)OC=C(C3=O)C4=CC=C(C=C4)O)O
 Pratensein	COC1=C(C=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O)O
@@ -22390,6 +22389,7 @@ GTx-027	C[C@](COC1=CC=C(C=C1)C#N)(C(=O)NC2=CC(=C(C=C2)C#N)Cl)O
 MK-4541	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NC(=O)OCC(F)(F)F)CC[C@@H]4[C@@]3(C=CC(=O)N4C)C
 ITI-1549	CN1c2cccc3c2N(CC12CC2)[C@H]1CCN(CCc2noc4ccccc24)C[C@@H]31
 Forvisirvat	C[C@@H]1CC(=O)C=C([C@]12C(=O)C3=C(C=C(C(=C3O2)Cl)C4=NN=C(O4)C)OC)OC
+Deupsilocin	[2H]C([2H])([2H])N(C([2H])([2H])[2H])C([2H])([2H])C([2H])([2H])C1=CNC2=C1C(=CC=C2)O
 Isopropalin	CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-]
 Cibinetide	C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H]1CCC(=O)N1
 Ammonium hexabromoplatinate	[NH4+].[NH4+].[Br-].[Br-].[Br-].[Br-].[Br-].[Br-].[Pt+4]
@@ -24880,7 +24880,13 @@ Zabaglurant	C1=CC(=NC=C1F)C2=CC(=NC=N2)C3=CC(=CC(=C3)C#N)Cl
 Spirobrorphine	CC(C1=CC=C(C=C1)Br)N2CCC3(CC2)C(=O)NCN3C4=CC=CC=C4
 Sovleplenib	CS(=O)(=O)N1CCC(CC1)C2=CC=C(C=C2)C3=CC4=NC=CN=C4C(=N3)NC[C@@H]5CNCCO5
 Zidesamtinib	CCN1C2=C(CC3=NN(N=C3C4=C(C=C(C=C4)F)[C@H](OC5=C(N=CC2=C5)N)C)C)C=N1
+Thiocoumarins	C1=CC=C2C(=C1)C=CC(=O)S2
+Thiocoumarins	C1=CC=C2C(=C1)C=CC(=S)O2
+Thiocoumarins	C1=CC=C2C(=C1)C=CC(=S)S2
 Safusidenib	CC1=CN(C2=CC=CC(=C12)/C=C/C(=O)O)C(=O)C3=C(ON=C3C4=C(C=C(C=C4Cl)Cl)Cl)C(C)(C)F
 Pyrasulfotole	CC1=C(C(=O)N(N1)C)C(=O)C2=C(C=C(C=C2)C(F)(F)F)S(=O)(=O)C
 Quabodepistat	C1CC(=O)NC2=C(C=CC(=C21)OC[C@@]3(CCN(C[C@H]3O)C4=C(C=C(C=C4F)Cl)F)O)F
 4F-4PP	C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCCCC3=CC=CC=C3
+Onvoloxastat	COC1=CC=CC(=C1O)CNC2=CC=C(C=C2)S(=O)(=O)NC3=NC4=CC=CC=C4S3
+LY2955303	CC(C)(C)C1=CC(=CC(=C1)C2=CC(=NN2C3=CC=C(C=C3)C(=O)N4CCN(CC4)C)C5=CC=C(C=C5)C(=O)O)C(C)(C)C
+Deucrictibant	[2H][C@](C)(C1=C(C(=CC(=C1)F)Cl)COC2=CC=CC3=C(C=C(N=C32)C)C4=NC=NN4C)NC(=O)COC(F)F
