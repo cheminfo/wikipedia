@@ -4392,7 +4392,7 @@ Platensimycin	O=C(O)c1c(O)c(c(O)cc1)NC(=O)CC[C@@]5(C(=O)\C=C/[C@@]34C[C@@]2(O[C@
 2-Methoxyethanol	OCCOC
 Enzacamene	O=C2\C(=C\c1ccc(cc1)C)C3CCC2(C)C3(C)C
 Thionyl bromide	BrS(Br)=O
-Selenium oxydichloride	O=[Se](Cl)Cl
+Seleninyl chloride	O=[Se](Cl)Cl
 Guanabenz	Clc1cccc(Cl)c1\C=N\N=C(/N)N
 Levosimendan	O=C2N/N=C(/c1ccc(N/N=C(\C#N)C#N)cc1)[C@H](C)C2
 P-Toluenesulfonic acid	Cc1ccc(cc1)S(=O)(=O)O
@@ -4626,7 +4626,7 @@ Selenium hexasulfide	S1SSS[Se][Se]SS1
 Selenium hexasulfide	S1S[Se]SSS[Se]S1
 Selenium trioxide	O=[Se](=O)=O
 Selenium trioxide	O=[Se]0(=O)O[Se](=O)(=O)O[Se](=O)(=O)O[Se](=O)(=O)O0
-Selenium oxybromide	Br[Se](Br)=O
+Seleninyl bromide	Br[Se](Br)=O
 Samarium(II) chloride	Cl[Sm]Cl
 Samarium(III) oxide	O=[Sm]O[Sm]=O
 Samarium(III) oxide	[Sm+3].[Sm+3].[O-2].[O-2].[O-2]
@@ -18667,7 +18667,7 @@ Fluorodeoxyuridylate	C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)COP(=O)(O)[O-])O.[
 Fluorodeoxyuridylate	C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)COP(=O)(O)O)O
 Methoxymethanol	COCO
 Neopentylene fluorophosphate	CC1(COP(=O)(OC1)F)C
-Chlorine trifluoride oxide	O=Cl(F)(F)F
+Chlorosyl trifluoride	O=Cl(F)(F)F
 Mitragynine	COC1=CC=CC2=C1C3=C([C@@](C[C@H](/C(C(OC)=O)=C\OC)[C@H](CC)C4)([H])N4CC3)N2
 4,4'-Bis(dimethylamino)benzhydrol	CN(C)C1=CC=C(C=C1)C(C2=CC=C(C=C2)N(C)C)O
 3,5-Dimethylpyrazole	CC1=CC(=NN1)C
@@ -21007,7 +21007,7 @@ Bromosyl trifluoride	O=Br(F)(F)F
 Iodosyl pentafluoride	F[I](=O)(F)(F)(F)F
 Periodyl fluoride	O=I(=O)(=O)F
 Iodyl fluoride	O=I(F)=O
-Iodine trifluoride dioxide	F[I](=O)(=O)(F)F
+Iodyl trifluoride	F[I](=O)(=O)(F)F
 Fentanyl carbamate	CCOC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
 Parafluorofuranylfentanyl	C1CN(CCC1N(C2=CC=C(C=C2)F)C(=O)C3=CC=CO3)CCC4=CC=CC=C4
 Bromocyclopropane	C1CC1Br
@@ -21050,7 +21050,7 @@ Trehalosamine	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([
 Bromyl fluoride	O=Br(=O)F
 Perbromyl fluoride	F[Br](=O)(=O)=O
 2-Phenyl-2-propanol	CC(C)(C1=CC=CC=C1)O
-Chlorine trifluoride dioxide	O=[Cl](F)(F)(F)=O
+Chloryl trifluoride	O=[Cl](F)(F)(F)=O
 Β-Cyclocitral	CC1=C(C(CCC1)(C)C)C=O
 Baikiain	C1C=CCN[C@@H]1C(=O)O
 Lyngbyastatins	CC[C@@H]1[C@@H](C(=O)O[C@H](C(=O)NCC(=O)N([C@H](C(=O)NCC(=O)N([C@H](C(=O)N([C@H](C(=O)NC(C(=O)C(C(=O)N([C@H](C(=O)N1)C)C)(C)C)C)CC2=CC=C(C=C2)OC)C)C(C)C)C)CC(C)C)C)[C@@H](C)CC)C
@@ -24892,3 +24892,4 @@ LY2955303	CC(C)(C)C1=CC(=CC(=C1)C2=CC(=NN2C3=CC=C(C=C3)C(=O)N4CCN(CC4)C)C5=CC=C(
 Deucrictibant	[2H][C@](C)(C1=C(C(=CC(=C1)F)Cl)COC2=CC=CC3=C(C=C(N=C32)C)C4=NC=NN4C)NC(=O)COC(F)F
 Etavopivat	C1COC2=C(O1)C=C(C=N2)S(=O)(=O)N3CC4=C(C3)CN(C4)C(=O)[C@H](CO)C5=CC=CC=C5
 Viprostol	CCCCC(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)OC)O)(C=C)O
+MGM-16	CC[C@@H]1CN2CC[C@]3([C@@H]([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=C(C=C4)F)OC)O
