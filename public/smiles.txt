@@ -8319,8 +8319,8 @@ Simmondsin	N#C\C=C2/[C@H](O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)C[C@H](OC)
 Benzylpenicillin	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)Cc3ccccc3)C(=O)O)C
 Difluoropine	CN1[C@@H]2CC[C@H]1[C@@H]([C@H](C2)OC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F)C(=O)OC
 Arsenobetaine	C[As+](C)(C)CC(=O)[O-]
-HDMP-28	O=C(OC)[C@H](c2cc1ccccc1cc2)[C@@H]3NCCCC3
 HDMP-28	O=C(OC)[C@H](C1=CC2=C(C=C1)C=CC=C2)[C@]3([H])CCCCN3
+HDMP-28	O=C(OC)[C@H](c2cc1ccccc1cc2)[C@@H]3NCCCC3
 Bis(cyclooctadiene)nickel(0)	C1CC=CCCC=C1.C1CC=CCCC=C1.[Ni]
 Phoxim	CCOP(=S)(OCC)ON=C(C#N)C1=CC=CC=C1
 Talnetant	CCC(C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)O
@@ -11480,7 +11480,7 @@ Phenylpyruvic acid	c1ccccc1CC(=O)C(=O)O
 Etozolin	CCOC(=O)/C=C1/N(C)C(=O)C(S1)N2CCCCC2
 Meta-Tyramine	Oc1cc(ccc1)CCN
 EXP-561	NC12CCC(CC1)(CC2)C3=CC=CC=C3
-CP-39,332	CNC1Cc2ccccc2C(C1)c3ccccc3
+CP-39,332	CNC1CC(C2=CC=CC=C2C1)C3=CC=CC=C3
 PIM-35	COC1=CC2=C(C=C1)NC(=C2)CN
 Fezolamine	n1c(c(cn1CCCN(C)C)c2ccccc2)c3ccccc3
 Ifoxetine	O(c1cccc(c1C)C)[C@H]2CCNC[C@H]2O
@@ -16244,7 +16244,7 @@ Metatartaric acid	C1(C(=O)OC(C(=O)O1)C(C(=O)O)O)C(C(=O)O)O
 Ethyl octanoate	O=C(OCC)CCCCCCC
 J147	CC1=C(C=CC(=C1)C)N(C(C(F)(F)F)=O)\N=C\C2=CC(=CC=C2)OC
 N-Methylornithine	CNC(CCCN)C(=O)O
-Centanafadine	C1=C(C=CC2=CC=CC=C12)[C@@]34C[C@@H]3CNC4
+Centanafadine	C1[C@H]2[C@@]1(CNC2)C3=CC4=CC=CC=C4C=C3
 3-Methylornithine	C[C@H](CCN)[C@H](C(=O)O)N
 Osimertinib	C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
 Tradipitant	Clc1ccccc1C(=O)c2c(nccc2)c3nnn(c3c4ccncc4)Cc5cc(cc(c5)C(F)(F)F)C(F)(F)F
@@ -19246,7 +19246,7 @@ Vanadium(V) chloride chlorimide	ClN=[V](Cl)(Cl)Cl
 Nickel monosilicide	[Si].[Ni]
 3-Chloropyridine	C1=CC(=CN=C1)Cl
 3-Bromopyridine	C1=CC(=CN=C1)Br
-C286	CC1=C2C=C(OC2=C(C=C1)C)C3=NC(=NO3)C4=CC=C(C=C4)C(=O)O
+KCL-286	CC1=C2C=C(OC2=C(C=C1)C)C3=NC(=NO3)C4=CC=C(C=C4)C(=O)O
 Bis(triphenylphosphine)iron tricarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Fe]
 (Triphenylphosphine)iron tetracarbonyl	[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Fe]
 JT-010	O=C(N(C1=NC(C2=CC=C(OC)C=C2)=CS1)CCCOC)CCl
@@ -22412,6 +22412,7 @@ RG7713	CN(C)CCN1C=C(C2=C1C=C(C=C2)Cl)C(=O)N3CCC4(CC3)C5=CC=CC=C5CO4
 NAS-181	C1CO[C@H](CN1)COC2=CC=CC3=C2OCC(=C3)CN4CCOCC4
 Tocinoic acid	CC[C@H](C)C1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)O)CC(=O)N)CCC(=O)N
 M-MTDATA	CC1=CC(=CC=C1)N(C2=CC=CC=C2)C3=CC=C(C=C3)N(C4=CC=C(C=C4)N(C5=CC=CC=C5)C6=CC=CC(=C6)C)C7=CC=C(C=C7)N(C8=CC=CC=C8)C9=CC=CC(=C9)C
+HLP004	[2H]C([2H])([2H])N(C([2H])([2H])[2H])C([2H])([2H])C([2H])([2H])C1=CNC2=CC=CC=C21
 (R)-MDMA	C[C@H](CC1=CC2=C(C=C1)OCO2)NC
 Bexicaserin	C[C@H]1CN2CCNCC3=C2C1=C(C=C3)C(=O)NCC(F)F
 RO5263397	CC1=C(C=CC=C1F)[C@H]2COC(=N2)N
@@ -24893,3 +24894,5 @@ Deucrictibant	[2H][C@](C)(C1=C(C(=CC(=C1)F)Cl)COC2=CC=CC3=C(C=C(N=C32)C)C4=NC=NN
 Etavopivat	C1COC2=C(O1)C=C(C=N2)S(=O)(=O)N3CC4=C(C3)CN(C4)C(=O)[C@H](CO)C5=CC=CC=C5
 Viprostol	CCCCC(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)OC)O)(C=C)O
 MGM-16	CC[C@@H]1CN2CC[C@]3([C@@H]([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=C(C=C4)F)OC)O
+Paliroden	C1CN(CC=C1C2=CC(=CC=C2)C(F)(F)F)CCC3=CC=C(C=C3)C4=CC=CC=C4
+Dezandrodeg	CCC1=C(C=CC(=C1)N2C(=S)N(C(=O)C2(C)C)C3=CC(=C(C=C3)C#N)C(F)(F)F)OCCN4CCN([C@@H](C4)C)CC(=O)NC5=CC=CC(=C5)NC6CCC(=O)NC6=O
