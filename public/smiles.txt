@@ -24898,3 +24898,7 @@ Paliroden	C1CN(CC=C1C2=CC(=CC=C2)C(F)(F)F)CCC3=CC=C(C=C3)C4=CC=CC=C4
 Dezandrodeg	CCC1=C(C=CC(=C1)N2C(=S)N(C(=O)C2(C)C)C3=CC(=C(C=C3)C#N)C(F)(F)F)OCCN4CCN([C@@H](C4)C)CC(=O)NC5=CC=CC(=C5)NC6CCC(=O)NC6=O
 Karakin	C(C[N+](=O)[O-])C(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC(=O)CC[N+](=O)[O-])OC(=O)CC[N+](=O)[O-])O)O
 BMS-505130	CN(C)C[C@H]1C[C@@H]1C2=CNC3=C2C=C(C=C3)C#N
+Crebinostat	C1=CC=C(C=C1)C2=CC=C(C=C2)/C=N/NC(=O)CCCCCC(=O)NO
+Neurinostat	C1=CC(=CN=C1)C2=CC=C(C=C2)/C=N/NC(=O)CCCCCC(=O)NO
+Synapsinostat	C1=CC=C(C(=C1)/C=N/NC(=O)CCCCCC(=O)NO)Br
+Tacedinaline	CC(=O)NC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N
