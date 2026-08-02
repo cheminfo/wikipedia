@@ -23987,6 +23987,7 @@ Pannarin	CC1=CC(=C(C2=C1OC3=C(C(=C(C(=C3C(=O)O2)C)Cl)O)C=O)C)OC
 3,4,5-Trimethoxyphenoxyethylamine	COC1=CC(=CC(=C1OC)OC)OCCN
 Daporinad	C1CN(CCC1CCCCNC(=O)/C=C/C2=CN=CC=C2)C(=O)C3=CC=CC=C3
 Padnarsertib	C1CN(CCC1(F)F)C(=O)C2=CC=C(C=C2)C3=CC(=C4C(=C3)C=C(O4)CNC(=O)/C=C/C5=CN=C(C=C5)N)C6=CC=C(C=C6)F
+Ametryn	CCNC1=NC(=NC(=N1)SC)NC(C)C
 GR-103545	OC(/C=C/C(O)=O)=O.ClC(C=C1CC(N2[C@@H](CN(CC2)C(OC)=O)CN3CCCC3)=O)=C(C=C1)Cl
 JGB-1-155	CC(C)C1(CCOC(C1)(C)C)CCN(CC2=CC=C(C=C2)N(C)C)C(=O)C3=CC=CO3
 Myricanol	COC1=C2C=C(CCCC[C@H](CCC3=CC2=C(C=C3)O)O)C(=C1OC)O
@@ -24376,6 +24377,7 @@ Cinobufotenine	C[N+](C)(C)CCC1=CNC2=C1C=C(C=C2)O
 4-Heptanol	CCCC(CCC)O
 Neoabietic acid	CC(=C1CCC2C(=C1)CCC3C2(CCCC3(C)C(=O)O)C)C
 Trimethylsilyl fluoride	F[Si](C)(C)C
+Trimethylsilyl pipecolate	C[Si](C)(C)OC(=O)C1CCCCN1
 Desoxybromoscaline	COC1=CC(=CC(=C1Br)OC)CCN
 D2-MDMA	[2H]C1(OC2=C(O1)C=C(C=C2)CC(C)NC)[2H]
 KDP34	O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[NH]c2ccccc21)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(=O)N)C(O)=O)C(C)C)[C@H](O)C)[C@@H](N)CC(=O)O
@@ -24905,3 +24907,4 @@ Tacedinaline	CC(=O)NC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N
 RGFP966	C1=CC=C(C=C1)/C=C/CN2C=C(C=N2)/C=C/C(=O)NC3=C(C=C(C=C3)F)N
 GHP-88310	CNC1=CC=CC(=C1C(=O)N)C2=C3C=CN=CC3=CN=C2
 Tianeptinaline	CN1C2=CC=CC=C2C(C3=C(S1(=O)=O)C=C(C=C3)Cl)NCCCCCCC(=O)NC4=CC=CC=C4N
+BRD-6929	CC(=O)NC1=CC=C(C=C1)C(=O)NC2=C(C=CC(=C2)C3=CC=CS3)N
