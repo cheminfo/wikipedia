@@ -16709,7 +16709,7 @@ Tetronic acid	O=C1CC(CO1)=O
 Tetronic acid	O=C1C=C(O)CO1
 Trimethyltrienolone	CC1(CC2=C3C=CC4(C(C3CCC2=CC1=O)CCC4(C)O)C)C
 11α-Hydroxyprogesterone	CC(=O)C1CCC2C1(CC(C3C2CCC4=CC(=O)CCC34C)O)C
-Martinostat	CN(Cc1ccc(cc1)/C=C/C(=O)NO)CC23CC4CC(C2)CC(C4)C3
+Martinostat	CN(CC1=CC=C(C=C1)/C=C/C(=O)NO)CC23CC4CC(C2)CC(C4)C3
 Ethinylestriol	C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@]2(C#C)O)O)CCC4=C3C=CC(=C4)O
 4-Vinylbenzyl chloride	C=Cc1ccc(cc1)CCl
 4-Vinyltoluene	CC1=CC=C(C=C)C=C1
@@ -24913,3 +24913,7 @@ BRD-6929	CC(=O)NC1=CC=C(C=C1)C(=O)NC2=C(C=CC(=C2)C3=CC=CS3)N
 Ricolinostat	C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=NC=C(C=N3)C(=O)NCCCCCCC(=O)NO
 Estianeptine	CN1C2=CC=CC=C2[C@@H](C3=C(S1(=O)=O)C=C(C=C3)Cl)NCCCCCCC(=O)O
 Tazbentetol	C1=CC=C2C(=C1)N=C(S2)C3=CC=C(C=C3)OCCOCCOCCOCCO
+Trimethylsilyl formate	C[Si](C)(C)OC=O
+RGFP136	CC1=CC=C(C=C1)C(=O)NCCCCCC(=O)NC2=C(C=C(C=C2)F)N
+RGFP963	C1=CC=C(C=C1)/C=C/CN2C=C(C=N2)/C=C/C(=O)NC3=CC=CC=C3N
+IHCH-8110	CCCCCCOC1=CC=C(CNC(N([C@@H]2CC[C@@H](N)CC2)C)=O)C=C1
