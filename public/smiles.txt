@@ -24562,7 +24562,7 @@ Cycloheptanol	C1CCCCCC1O
 Dimethyldisulfanilamide	CN(C)S(=O)(=O)C1=CC=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N
 BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1C)CC2=CC=CC=C2)[C@@H](C)O)CCCCN)CC3=CNC4=CC=CC=C43)CC5=CC=CC=C5
 1-Fluoropropane	CCCF
-Nocuolin A	CCCCCC1=NN(C(=O)CCO)OC(CCCCC)C1
+Nocuolin A	C(CCO)(=O)N1N=C(CCCCC)C[C@@H](CCCCC)O1
 Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
 4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
 TRALA-12	CCN(C=C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
@@ -24918,3 +24918,5 @@ RGFP136	CC1=CC=C(C=C1)C(=O)NCCCCCC(=O)NC2=C(C=C(C=C2)F)N
 RGFP963	C1=CC=C(C=C1)/C=C/CN2C=C(C=N2)/C=C/C(=O)NC3=CC=CC=C3N
 IHCH-8110	CCCCCCOC1=CC=C(CNC(N([C@@H]2CC[C@@H](N)CC2)C)=O)C=C1
 Oglufanide	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)[C@H](CCC(=O)O)N
+Libiguin A	C[C@]1(C(C2=COC=C2)=O)[C@@]([C@@]34[C@H](O5)[C@]([C@@H](OC(C(C)C)=O)[C@@]6(C)[C@@H]7CC(OC)=O)(OC(C(C)C)=O)[C@@](C6)(OC(O4)(C)O8)[C@]7(C)[C@@]38CC1)([H])CC5=O
+Flupropanate	C(C(C(=O)O)(F)F)(F)F
