@@ -5037,7 +5037,7 @@ Kynurenic acid	O=C\2c1c(cccc1)NC(=C/2)/C(=O)O
 Promazine	CN(C)CCCN1c2ccccc2Sc3c1cccc3
 Triflupromazine	CN(C)CCCN1c2ccccc2Sc2ccc(cc12)C(F)(F)F
 Acetophenazine	O=C(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4)C
-Dexmedetomidine	Cc2cccc([C@H](C)c1c[nH]cn1)c2C
+Dexmedetomidine	CC1=C(C(=CC=C1)[C@H](C)C2=CN=CN2)C
 Isopropyl nitrate	CC(C)O[N+](=O)[O-]
 Silver behenate	[Ag+].[O-]C(=O)CCCCCCCCCCCCCCCCCCCCC
 Scoulerine	Oc1c4c(ccc1OC)C[C@H]3c2c(cc(OC)c(O)c2)CCN3C4
