@@ -24919,8 +24919,7 @@ RGFP136	CC1=CC=C(C=C1)C(=O)NCCCCCC(=O)NC2=C(C=C(C=C2)F)N
 RGFP963	C1=CC=C(C=C1)/C=C/CN2C=C(C=N2)/C=C/C(=O)NC3=CC=CC=C3N
 IHCH-8110	CCCCCCOC1=CC=C(CNC(N([C@@H]2CC[C@@H](N)CC2)C)=O)C=C1
 Oglufanide	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)[C@H](CCC(=O)O)N
-Libiguin A	C[C@]1(C(C2=COC=C2)=O)[C@@]([C@@]34[C@H](O5)[C@]([C@@H](OC(C(C)C)=O)[C@@]6(C)[C@@H]7CC(OC)=O)(OC(C(C)C)=O)[C@@](C6)(OC(O4)(C)O8)[C@]7(C)[C@@]38CC1)([H])CC5=O
+Libiguin A	CC(C)C(=O)O[C@H]1[C@@]2(C[C@]34[C@]1([C@@H]5[C@]67[C@H](CC(=O)O5)[C@](CC[C@@]6([C@@]3([C@H]2CC(=O)OC)C)O[C@](O4)(O7)C)(C)C(=O)C8=COC=C8)OC(=O)C(C)C)C
 Flupropanate	C(C(C(=O)O)(F)F)(F)F
-Bismuth tungstate	[Bi+3].[Bi+3].[O-][W](=O)(=O)[O-]
 Californium(III) carbonate	[C](=O)([O-])[O-].[C](=O)([O-])[O-].[C](=O)([O-])[O-].[Cf+3].[Cf+3]
 Di-β-phenylisopropylamine	CC(CC1=CC=CC=C1)NC(C)CC2=CC=CC=C2
