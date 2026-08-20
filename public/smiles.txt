@@ -23305,7 +23305,7 @@ Imazosulfuron	COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
 Lysergic acid ethyl-2-hydroxyethylamide	CCN(CCO)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 5-HO-DET	CCN(CC)CCC1=CNC2=C1C=C(C=C2)O
 Fluperamide	CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC(=C(C=C2)Cl)C(F)(F)F)O)(C3=CC=CC=C3)C4=CC=CC=C4
-Clofuperol	C1CN(CCC1(C2=CC(=C(C=C2)Cl)C(F)(F)F)O)CCCC(=O)C3=CC=C(C=C3)F
+Clofluperol	C1CN(CCC1(C2=CC(=C(C=C2)Cl)C(F)(F)F)O)CCCC(=O)C3=CC=C(C=C3)F
 Cloperidone	C1CN(CCN1CCCN2C(=O)C3=CC=CC=C3NC2=O)C4=CC(=CC=C4)Cl
 3-Me-PCE	CCNC1(CCCCC1)c2cc(C)ccc2
 Cyclopropane carboxylic acid	C1CC1C(=O)O
@@ -24923,4 +24923,7 @@ Libiguin A	CC(C)C(=O)O[C@H]1[C@@]2(C[C@]34[C@]1([C@@H]5[C@]67[C@H](CC(=O)O5)[C@]
 Flupropanate	C(C(C(=O)O)(F)F)(F)F
 Californium(III) carbonate	[C](=O)([O-])[O-].[C](=O)([O-])[O-].[C](=O)([O-])[O-].[Cf+3].[Cf+3]
 Di-β-phenylisopropylamine	CC(CC1=CC=CC=C1)NC(C)CC2=CC=CC=C2
+Tetrabutylammonium borohydride	[BH4-].CCCC[N+](CCCC)(CCCC)CCCC
+Sodium phthalimide	C1=CC=C2C(=C1)C(=O)[N-]C2=O.[Na+]
 Vicadrostat	C[C@@]1(CC2=C(C(=O)O1)N(C=N2)C3=CC(=C(C=C3)C#N)Cl)CO
+MDL (drug)	CN1C[C@@H](CC2([C@H]1CC3=CNC4=CC=CC2=C34)OC)CO
