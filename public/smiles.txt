@@ -13392,7 +13392,7 @@ Gold monoiodide	[Au]I
 Gold(I) fluoride	[Au]F
 Isopimpinellin	COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC
 Trichlorofluorosilane	F[Si](Cl)(Cl)Cl
-Diadinoxanthin	CC23CC(O)(O)CC(C)(C)C3(/C=CC(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)C#C\C1=C(/C)CCCC1(C)C)O2
+Diadinoxanthin	CC1=C(C#C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/[C@@]23O[C@]2(C)C[C@@H](O)CC3(C)C)C(C)(C)C[C@H](O)C1
 Diatoxanthin	O[C@@H]2C/C(=C(/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C#C\C1=C(/C)C[C@@H](O)CC1(C)C)C)C)C)C)C(C)(C)C2)C
 Dinoxanthin	C[C@@]13O[C@]1(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/[C@@H]=C=C2C(C)(C)C[C@@H](OC(C)=O)C[C@]2(C)O)C(C)(C)C[C@H](O)C3
 DPA-714	CCN(CC)C(=O)Cc1c(nn2c1nc(cc2C)C)c3ccc(cc3)OCCF
@@ -20869,6 +20869,7 @@ Zeteletinib	CC(C)(C1=NOC(=C1)NC(=O)CC2=CN=C(C=C2)C3=CN=C4C=C(C(=CC4=C3)OC)OC)C(F
 Americium hexafluoride	F[Am](F)(F)(F)(F)F
 Cumyl alcohol	CC(C)C1=CC=C(C=C1)CO
 Esproquin	O=S(CC)CCCN1CC=2C=CC=CC2CC1
+Silver(II) sulfate	O=S(=O)([O-])[O-].[Ag+2]
 Enbezotinib	C[C@H]1CNC(=O)C2=C3N=C4C(=CN3N=C2)O[C@H]5CCC[C@H]5N4CC6=C(O1)N=CC(=C6)F
 Osmium(II) chloride	Cl[Os]Cl
 Osmium octafluoride	F[Os](F)(F)(F)(F)(F)(F)F
