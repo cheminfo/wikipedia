@@ -17703,6 +17703,7 @@ Pimeloyl chloride	C(CCC(=O)Cl)CCC(=O)Cl
 Molybdocene dihydride	[cH-]1cccc1.[cH-]1cccc1.[H][Mo+2][H]
 Metiapine	CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C
 Tellurocysteine	C([C@@H](C(=O)O)N)[Te]
+PTD-DBM	CC[C@H](C)[C@@H](C(=O)N[C@@H](CS)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CS)C(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC2=CN=CN2)NC(=O)CNC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)N
 MP196	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CCCNC(=N)N)N
 Vadadustat	Oc1cc(cnc1C(=O)NCC(=O)O)c2cccc(Cl)c2
 Roxadustat	CC1=NC(=C(C2=C1C=C(C=C2)OC3=CC=CC=C3)O)C(=O)NCC(=O)O
@@ -24943,3 +24944,6 @@ Potassium cuprocyanide	[C-]#N.[C-]#N.[K+].[Cu+]
 Octahydrobenzo(g)quinoline	C1CC2CC3=CC=CC=C3CC2NC1
 SDZ-GLC-756	CN1C[C@@H](C[C@H]2[C@H]1CC3=CC=CC=C3C2)CSC4=CC=CC=N4
 Florquinitau (18F)	C1=CC(=C(C2=CC(=NC=C21)N3C=CC4=C3C=NC=C4)N)F
+Metamizil	CCN(CC)CC(C)OC(=O)C(C1=CC=CC=C1)(C2=CC=CC=C2)O
+N-Phenethylnoroxymorphone	C1C[C@]2([C@H]3CC4=C5[C@@]2(CCN3CCC6=CC=CC=C6)[C@H](C1=O)OC5=C(C=C4)O)O
+THC butanenitrile oxime	CC1(C)Oc2cc(cc(O)c2[C@@H]2CC(C)=CC[C@H]21)/C(C)=N/OCCCC#N
