@@ -6858,7 +6858,6 @@ Protionamide	CCCc1cc(ccn1)C(=S)N
 Morinamide	O=C(NCN1CCOCC1)c1cnccn1
 Hernandulcin	CC1=CC(=O)[C@@H](CC1)[C@](C)(CCC=C(C)C)O
 Dysprosium titanate	[Dy+3].[Dy+3].[Ti+4].[Ti+4].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2]
-Hydroxymethyl group	[CH2]O
 Dibenzo-18-crown-6	O1c3c(OCCOCCOc2ccccc2OCCOCC1)cccc3
 Triflusal	CC(=O)Oc1cc(ccc1C(=O)O)C(F)(F)F
 Picotamide	O=C(NCc1cccnc1)c3cc(C(=O)NCc2cccnc2)c(OC)cc3
@@ -24952,3 +24951,5 @@ Acequinoline	CC1=C2C=CC(=CC2=NC(=C1C(=O)C)C)OC
 Α-Ethyldopamine	CCC(CC1=CC(=C(C=C1)O)O)N
 Acetiamine	CC1=NC=C(C(=N1)N)CN(C=O)/C(=C(/CCOC(=O)C)\SC(=O)C)/C
 12-Methacryloyloxydodecylpyridinium bromide	C=C(C)C(=O)OCCCCCCCCCCCC[n+]1ccccc1.[Br-]
+N,N,N-Trimethyl-DOB	CC(CC1=CC(=C(C=C1OC)Br)OC)[N+](C)(C)C
+Β-Methoxy-2,5-dimethoxy-4-bromoamphetamine	C[C@H]([C@@H](C1=CC(=C(C=C1OC)Br)OC)OC)N
