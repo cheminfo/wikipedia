@@ -24956,3 +24956,10 @@ N,N,N-Trimethyl-DOB	CC(CC1=CC(=C(C=C1OC)Br)OC)[N+](C)(C)C
 Ephedroxane	C[C@H]1[C@H](OC(=O)N1C)C2=CC=CC=C2
 Trifludimoxazin	CN1C(=O)N(C(=O)N(C1=S)C)C2=CC3=C(C=C2F)OC(C(=O)N3CC#C)(F)F
 PPQ (drug)	C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=O)N2C4=CC=CC=C4
+24H-NBF	COc1cc(OC)ccc1CCNCc1ccccc1F
+3,6-Dichlorosalicylic acid	C1=CC(=C(C(=C1Cl)C(=O)O)O)Cl
+PPTQ	CC1=CC=C(C=C1)N2C(=NC3=CC=CC=C3C2=O)C4=CC=CC=C4
+Adamantyl-HHC	CC1(C)Oc2cc(cc(O)c2[C@@H]2CC(C)CC[C@H]21)C12CC3CC(CC(C3)C2)C1
+MCPPQ	O=C1N(C(=Nc2c1cccc2C)c1ccccc1)c1ccccc1Cl
+3-FPO	Fc1cc(ccc1)C(c1onc(C)n1)C1CCCCN1
+2-Cl-HHC	CC1(C)Oc2cc(CCCCC)c(Cl)c(O)c2[C@@H]2CC(C)CC[C@H]21
