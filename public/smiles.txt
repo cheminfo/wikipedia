@@ -7541,6 +7541,7 @@ Glucic acid	O=CC(O)C=O
 MPP+	C[n+]1ccc(cc1)c2ccccc2
 Dipropylcyclopentylxanthine	CCCn3c(=O)c2nc(C1CCCC1)[nH]c2n(CCC)c3=O
 SCH-58261	c1ccccc1CCN1N=CC2=C1N=C(N)N3C2=NC(C4=CC=CO4)=N3
+Loreclezole	ClC1=CC=C(/C(Cl)=C/N2N=CN=C2)C(Cl)=C1
 Eltrombopag	CC1=NN(c2ccc(C)c(C)c2)C(=O)/C1=N\Nc1cccc(-c2cccc(C(=O)O)c2)c1O
 Trans-1,2-Diaminocyclohexane	N[C@H]1CCCC[C@@H]1N
 Coenzyme F420	C[C@@H](C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)OP(=O)(O)OC[C@H]([C@H]([C@H](CN1C2=CC(=O)C=CC2=CC3=C1NC(=O)NC3=O)O)O)O
@@ -24966,5 +24967,10 @@ MCPPQ	O=C1N(C(=Nc2c1cccc2C)c1ccccc1)c1ccccc1Cl
 1'-Dimethyl-Δ9-THCH	CC1(C)Oc2cc(cc(O)c2[C@@H]2C=C(C)CC[C@H]21)C(C)(C)CCCCC
 2-Allyl-Δ8-THC-O-acetate	CC1(C)Oc2cc(CCCCC)c(CC=C)c(OC(C)=O)c2[C@@H]2CC(C)=CC[C@H]21
 N,N-Dipropyldimethocaine	CC(C)(COC(=O)c1ccc(N)cc1)CN(CCC)CCC
+Tetroxanes	C1OOOOC1
+Tetroxanes	C1OOOCO1
+Tetroxanes	C1OOCOO1
 2C-T-14	CSCCSc1cc(OC)c(cc1OC)CCN
 Bikaverin	CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=O)C4=C(C3=O)C(=CC(=C4O)OC)O)OC
+2,5-Dimethoxyphenylacetaldehyde	COC1=CC(=C(C=C1)OC)CC=O
+Δ8-THC-DMH	CCCCCCC(C)(C)C1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)C)O
