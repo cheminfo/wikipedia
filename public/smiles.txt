@@ -16607,7 +16607,7 @@ Crotogoudin	CC(=C)[C@@H]1CC[C@]23CC[C@H](C[C@]24[C@]1(CCC(=O)O4)C)C(=C)C3=O
 Estradiol sulfate	CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 N-Butyl glycidyl ether	CCCCOCC1CO1
 N-Butyl lactate	CCCCOC(=O)C(C)O
-Trimethylthiazoline	CC1C(SC(=N1)C)C
+Trimethylthiazoline	N1=C(C)C(SC1C)C
 Estrofurate	CC(=O)OC1=CC2=C(C=C1)C3CCC4(C(C3=CC2)CCC4(C5=COC=C5)O)C
 Estrazinol	CC12CCC3C4=C(CCN3C1CCC2(C#C)O)C=C(C=C4)OC
 Etamestrol	CC1CC2=CC(=CC(=C2C3C1C4CCC(C4(CC3)C)(C#C)O)OC(=O)C5=CC=CC=C5)OC(=O)C6=CC=CC=C6
@@ -24755,6 +24755,7 @@ MADAM	CC1=CC(=C(C=C1)SC2=CC=CC=C2CN(C)C)N
 3-Hydroxydesalkylgidazepam	C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)O
 Ammonium isobutyrate	[NH4+].CC(C)C([O-])=O
 5-Iodo-A-85380	C1CN[C@@H]1COC2=CC(=CN=C2)I
+4-Oxo-TEMPO	CC1(CC(=O)CC(N1[O])(C)C)C
 Flindokalner	COC1=C(C=C(C=C1)Cl)[C@]2(C3=C(C=C(C=C3)C(F)(F)F)NC2=O)F
 5-Hydroxyindole	C1=CC2=C(C=CN2)C=C1O
 Α-Pyrrolidinooctanophenone	CCCCCCC(C(=O)C1=CC=CC=C1)N2CCCC2
@@ -24975,3 +24976,5 @@ Bikaverin	CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=O)C4=C(C3=O)C(=CC(=C4O)OC)O)OC
 2,5-Dimethoxyphenylacetaldehyde	COC1=CC(=C(C=C1)OC)CC=O
 Δ8-THC-DMH	CCCCCCC(C)(C)C1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)C)O
 Δ9-THCB-O-butanoate	C12[C@@H]3C=C(C)CC[C@H]3C(C)(C)OC1=CC(CCCC)=CC=2OC(=O)CCC
+1С-H	COc1ccc(OC)c(CN)c1
+SR-15099	C1CN(CCC1N2C3=CC(=C(C=C3NC2=O)Cl)Cl)CC4=CC=C(C=C4)Br
