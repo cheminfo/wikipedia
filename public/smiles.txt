@@ -307,7 +307,7 @@ Tabun (nerve agent)	N#CP(=O)(OCC)N(C)C
 Paroxetine	c1cc(ccc1[C@@H]2CCNC[C@H]2COc3ccc4c(c3)OCO4)F
 Hydroxyproline	C1[C@H](CN[C@@H]1C(=O)O)O
 3-Quinuclidinyl benzilate	O=C(C(C1=CC=CC=C1)(C2=CC=CC=C2)O)OC3CN4CCC3CC4
-Aluminium oxide	[Al+3].[Al+3].[O-2].[O-2].[O-2]
+Aluminium oxide	[O-2].[O-2].[O-2].[Al+3].[Al+3]
 Fentanyl	O=C(CC)N(C1CCN(CC1)CCc2ccccc2)c3ccccc3
 Triprolidine	n3c(\C(=C\CN1CCCC1)c2ccc(cc2)C)cccc3
 Trifluoperazine	FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4
@@ -24976,5 +24976,6 @@ Bikaverin	CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=O)C4=C(C3=O)C(=CC(=C4O)OC)O)OC
 2,5-Dimethoxyphenylacetaldehyde	COC1=CC(=C(C=C1)OC)CC=O
 Δ8-THC-DMH	CCCCCCC(C)(C)C1=CC(=C2[C@@H]3CC(=CC[C@H]3C(OC2=C1)(C)C)C)O
 Δ9-THCB-O-butanoate	C12[C@@H]3C=C(C)CC[C@H]3C(C)(C)OC1=CC(CCCC)=CC=2OC(=O)CCC
-1С-H	COc1ccc(OC)c(CN)c1
+1C-H	COc1ccc(OC)c(CN)c1
 SR-15099	C1CN(CCC1N2C3=CC(=C(C=C3NC2=O)Cl)Cl)CC4=CC=C(C=C4)Br
+GAMMA (drug)	C1OC2=C(O1)C=C(C=C2)CCCN
