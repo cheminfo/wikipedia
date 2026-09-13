@@ -24979,5 +24979,18 @@ Bikaverin	CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=O)C4=C(C3=O)C(=CC(=C4O)OC)O)OC
 1C-H	COc1ccc(OC)c(CN)c1
 SR-15099	C1CN(CCC1N2C3=CC(=C(C=C3NC2=O)Cl)Cl)CC4=CC=C(C=C4)Br
 GAMMA (drug)	C1OC2=C(O1)C=C(C=C2)CCCN
+Pentafluoropyridine	C1(=C(C(=NC(=C1F)F)F)F)F
 2C-B-FLY-NBOH	C1COC2=C(C3=C(C(=C21)CCNCC4=CC=CC=C4O)OCC3)Br
+Pentachloropyridine	C1(=C(C(=NC(=C1Cl)Cl)Cl)Cl)Cl
 UCD0068	O=C(N(CC)CC)C1CN(C)C(C2=C1)CCC3=C2C=CC=C3
+LSD-Quinoline	CCN(C([C@@H](C1)C=C2C3=C4C(C[C@@]2([H])N1C)=CC=NC4=CC=C3)=O)CC
+UCD0830	CN(C)C1CCC2=CC=CC=C2C1
+Thorium(IV) sulfate	[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Th+4]
+Neodymium(III) formate	C(=O)[O-].C(=O)[O-].C(=O)[O-].[Nd+3]
+Thioquinapiperifil	CCN1C2=C(C=C3C(=C2)N=CN=C3NCC4=CC=CC=C4N5CCC(CC5)CO)NC1=S
+Gisadenafil	COCCn1nc2C(=O)NC(=Nc2c1CC)c1cc(cnc1OCC)S(=O)(=O)N1CCN(CC1)CC
+CE-125	O=S(CC1=CSC(C2CC2)=N1)C(C3=CC=CC=C3)C4=CC=CC=C4
+Manganese(II) tungstate	[O-][W](=O)(=O)[O-].[Mn+2]
+4-methylthioethylamphetamine	CCNC(C)CC1=CC=C(C=C1)SC
+Copper(II) tungstate	[O-][W](=O)(=O)[O-].[Cu+2]
+N,N-Dimethyl-L-tryptophan	CN(C)[C@@H](Cc1c[nH]c2c1cccc2)C(O)=O
