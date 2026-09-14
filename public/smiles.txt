@@ -14483,7 +14483,7 @@ Spiculisporic acid	CCCCCCCCCCC(C(=O)O)C1(CCC(=O)O1)C(=O)O
 Varixanthone	CC1=CC2=C(C3=C1OC[C@@H]([C@H]3O)C(=C)C)C(=O)C4=C(C=CC(=C4O2)C[C@@H](C(C)(C)O)OC=O)O
 Glionitrin A	CN1C(=O)C23CC4=C(N2C(=O)C1(SS3)CO)C=C(C=C4)[N+](=O)[O-]
 Mayamycin	Cc1cc2c(c(c1)O)c3c(c(c2[C@H]4C[C@H]([C@@H]([C@H](O4)C)O)NC)O)C(=O)c5c(cccc5O)C3=O
-Cosmomycin B	CC[C@]1(CCc2c(c(c3c(c2O)C(=O)c4c(cccc4O)C3=O)O)[C@H]1O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@@H]([C@@H](O6)C)O[C@H]7CC[C@@H]([C@@H](O7)C)O)O)N(C)C)O
+Cosmomycin B	CC[C@]1(CCC2=C([C@H]1O[C@H]3C[C@@H]([C@@H]([C@@H](O3)C)O[C@H]4C[C@@H]([C@@H]([C@@H](O4)C)O[C@H]5CC[C@@H]([C@@H](O5)C)O)O)N(C)C)C(=C6C(=C2O)C(=O)C7=C(C6=O)C=CC=C7O)O)O
 Kidamycin	C/C=C(\C)/C1=CC(=O)C2=C(O1)C3=C(C=C2C)C(=O)C4=C(C3=O)C(=C(C=C4C5CC(C(C(O5)C)O)N(C)C)C6CC(C(C(O6)C)O)(C)N(C)C)
 Justicidin A	COC1=C(C=C2C(=C1)C(=C3C(=C2OC)COC3=O)C4=CC5=C(C=C4)OCO5)OC
 Hedamycin	CC1C(C(CC(O1)C2=CC(=C(C3=C2C(=O)C4=C(C3=O)C5=C(C(=C4)C)C(=O)C=C(O5)C6(C(O6)C7C(O7)C)C)O)C8CC(C(C(O8)C)O)(C)N(C)C)N(C)C)O
@@ -24991,6 +24991,16 @@ Thioquinapiperifil	CCN1C2=C(C=C3C(=C2)N=CN=C3NCC4=CC=CC=C4N5CCC(CC5)CO)NC1=S
 Gisadenafil	COCCn1nc2C(=O)NC(=Nc2c1CC)c1cc(cnc1OCC)S(=O)(=O)N1CCN(CC1)CC
 CE-125	O=S(CC1=CSC(C2CC2)=N1)C(C3=CC=CC=C3)C4=CC=CC=C4
 Manganese(II) tungstate	[O-][W](=O)(=O)[O-].[Mn+2]
-4-methylthioethylamphetamine	CCNC(C)CC1=CC=C(C=C1)SC
+4-Methylthioethylamphetamine	CCNC(C)CC1=CC=C(C=C1)SC
 Copper(II) tungstate	[O-][W](=O)(=O)[O-].[Cu+2]
 N,N-Dimethyl-L-tryptophan	CN(C)[C@@H](Cc1c[nH]c2c1cccc2)C(O)=O
+4-Hydroxygramine	CN(C)CC1=CNC2=C1C(=CC=C2)O
+Barium thiosulfate	[O-]S(=O)(=S)[O-].[Ba+2]
+Iron monoboride	[B].[Fe]
+Gallium(I,III) iodide	[Ga+].I[Ga-](I)(I)I
+Indium(I,III) iodide	[In+].I[In-](I)(I)I
+Dysprosium(II) bromide	Br[Dy]Br
+Α-Methyl-N-ethyltryptamine	CCNC(C)CC1=CNC2=CC=CC=C21
+Lutetium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Lu+3].[Lu+3]
+MK-7622	CC1=NC=C(C=C1)CC2=CC3=C(C4=CC=CC=C42)N=CN(C3=O)[C@H]5CCCC[C@@H]5O
+Indium(III) phosphate	[O-]P(=O)([O-])[O-].[In+3]
