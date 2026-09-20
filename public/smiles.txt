@@ -21505,7 +21505,6 @@ Verinurad	CC(C)(C(=O)O)SC1=C(C=NC=C1)C2=CC=C(C3=CC=CC=C32)C#N
 Evazarsen	COCCO[C@@H]1[C@H](O)[C@@H](COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(=O)[nH]c3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(=O)[nH]c(N)nc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2C[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cnc4c(N)ncnc43)O[C@@H]2COP(O)(=S)O[C@H]2[C@@H](OCCOC)[C@H](n3cc(C)c(N)nc3=O)O[C@@H]2COP(=O)(O)OCCCCCCNC(=O)CCCC(=O)NC(COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)(COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)COCCC(=O)NCCCCCCO[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2NC(C)=O)O[C@H]1n1cc(C)c(=O)[nH]c1=O
 Palladium diarsenide	[Pd].[As].[As]
 Calcium arsenide	[Ca+2].[As-2][As-2].[Ca+2]
-Gadolinium(III) perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 Ninerafaxstat	COC1=C(C(=C(C=C1)CN2CCN(CC2)CCOC(=O)C3=CN=CC=C3)OC)OC
 Relmapirazin	C([C@H](C(=O)O)NC(=O)C1=C(N=C(C(=N1)N)C(=O)N[C@H](CO)C(=O)O)N)O
 BFAI	C1C(CC2=C1C=C3C=COC3=C2)N
@@ -25025,3 +25024,7 @@ Lutetium perchlorate	[Lu+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Oxovanadium(IV) perchlorate	O=[V+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Clavicipitic acid	CC(=CC1C2=C3C(=CNC3=CC=C2)CC(N1)C(=O)O)C
 Cerium(III) perchlorate	[Ce+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Atoxifent	C1C[C@H]2CN(C[C@@H]1N2C3=CC(=CC=C3)O)CCCC4=CC=CC=C4
+Gadolinium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
+Europium(II) perchlorate	[Eu+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Shepherdine	CC1=NC=CC2=C1NC3=CC=CC=C23
