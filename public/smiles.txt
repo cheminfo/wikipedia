@@ -21096,7 +21096,7 @@ Vanadium dioxide fluoride	O=[V](F)=O
 1,3-Dibromobenzene	C1=CC(=CC(=C1)Br)Br
 Zabadinostat	CC1=NN(C=C1CN2CCC(CC2)C3=CC=C(C=C3)C(=O)NC4=CC=CC=C4N)C
 DMDEE	C1COCCN1CCOCCN2CCOCC2
-Praseodymium antimonide	[Pr].[Sb]
+Praseodymium monoantimonide	[Pr].[Sb]
 Samarium(III) oxyiodide	[Sm+3].[O-2].[I-]
 Fluorocyclohexane	C1CCC(CC1)F
 Iodocyclohexane	IC1CCCCC1
@@ -24471,6 +24471,7 @@ Pentafluorosulfate(IV)	F[S-](F)(F)(F)F
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
 1-(2,4,5-Trimethoxyphenyl)-6-chlorotryptoline	COC1=CC(=C(C=C1C2C3=C(CCN2)C4=C(N3)C=CC(=C4)Cl)OC)OC
 2-Hydroxy-11-(2-methylallyl)oxynoraporphine	CC(=C)COC1=CC=CC2=C1C3=CC(=CC4=C3C(C2)NCC4)O
+Thioacetaldehyde	CC=S
 5-Methylpsilocybin	CC1=C(C2=C(C=C1)NC=C2CCN(C)C)OP(=O)(O)O
 Cleminorexton	C1C[C@@H]([C@@H]2CC3=C(C(=CC=C3)C4=C(C(=CC(=C4)F)F)OCCC(=O)N2C1)F)NS(=O)(=O)C5(CC5)F
 Erythrin	CC1=C(C(=O)OC2=CC(C)=C(C(=O)OC[C@H](O)[C@H](O)CO)C(O)=C2)C(O)=CC(O)=C1
@@ -25027,4 +25028,9 @@ Cerium(III) perchlorate	[Ce+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=
 Atoxifent	C1C[C@H]2CN(C[C@@H]1N2C3=CC(=CC=C3)O)CCCC4=CC=CC=C4
 Gadolinium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 Europium(II) perchlorate	[Eu+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
-Shepherdine	CC1=NC=CC2=C1NC3=CC=CC=C23
+Shepherdine	CC1C2=C(CCN1)C3=C(N2)C=CC(=C3)O
+Praseodymium dicarbide	[C-]#[C].[Pr]
+Gallium perchlorate	[Ga+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
+Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
+Bismuth perchlorate	[Bi+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
