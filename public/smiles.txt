@@ -1370,6 +1370,7 @@ Lead zirconate titanate	[O-2].[O-2].[O-2].[O-2].[O-2].[Ti+4].[Zr+4].[Pb+2]
 Ondansetron	O=C1c2c3ccccc3n(C)c2CCC1Cn4ccnc4C
 Baclofen	NCC(CC(=O)O)c1ccc(Cl)cc1
 Polydimethylsiloxane	C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C
+Polydimethylsiloxane	(C)(C)O[Si](O)
 Triphenylmethane	c1c(cccc1)C(c2ccccc2)c3ccccc3
 Silver(I) fluoride	[Ag+].[F-]
 Piperine	O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2
@@ -3102,7 +3103,7 @@ Cyclamic acid	O=S(=O)(O)NC1CCCCC1
 Tioconazole	ClC1=CC=C(C(OCC2=C(Cl)SC=C2)CN3C=CN=C3)C(Cl)=C1
 1,4-Benzoquinone	C1=CC(=O)C=CC1=O
 1,2-Benzoquinone	C1=CC(=O)C(=O)C=C1
-Menadione	O=C\2c1c(cccc1)C(=O)/C(=C/2)C
+Menadione	CC1=CC(=O)C2=CC=CC=C2C1=O
 Phytomenadione	CC1=C(C(=O)c2ccccc2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C
 Iron(II) fluoride	[Fe+2].[F-].[F-]
 Cobalt(II) fluoride	F[Co]F
@@ -25035,3 +25036,5 @@ Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@@H
 Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
 Bismuth perchlorate	[Bi+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Benzalkonium saccharinate	CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.CCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-]
+Tin(II) perchlorate	[Sn+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Thallium(I) perchlorate	[O-]Cl(=O)(=O)=O.[Tl+]
