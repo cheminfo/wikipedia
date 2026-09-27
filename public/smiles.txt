@@ -24535,13 +24535,12 @@ MFEM (drug)	CC(N)CC1=CC(OC)=C(OCCF)C=C1OC
 MDFEM	CC(N)CC1=CC(OC)=C(OCC(F)F)C=C1OC
 2C-T-31	FC(F)(F)C1=CC=C(CSC(C(OC)=C2)=CC(OC)=C2CCN)C=C1
 Para-Chlorophenethylamine	C1=CC(=CC=C1CCN)Cl
-Mysantol	CC1=CCC(C1(C)C)C=CC(C)(C)C(C)O
+Polysantol	CC1=CCC(C1(C)C)C=CC(C)(C)C(C)O
 Hexyl isocyanate	CCCCCCN=C=O
 Tetraethylammonium nitrate	[N+](CC)(CC)(CC)CC.[N+](=O)([O-])[O-]
 Amber Xtreme	CC1C(C2CCC3CC(OC3C2C1(C)C)(C)C)(C)C
-Ambermor Ketal Crystal	CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C
-Ambermor Ketal Crystal	CC12CCC3C(O1)(CO2)CCC4(C)C3(C)CCCC4(C)(C)
-Ambermor Ketal IPM	CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C
+Amberketal	CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C
+Amberketal	CC12CCC3C(O1)(CO2)CCC4(C)C3(C)CCCC4(C)(C)
 Nitrosonium hexafluoroantimonate	N#[O+].F[Sb-](F)(F)(F)(F)F
 BQ-869	CNC1=CC2=C3C4=C1C=CC=C4NC3=C(Cl)C=C2
 R-102444	CCCCCCCCCCCC(=O)O[C@@H]1C[C@H](N(C1)C)CCOC2=CC=CC=C2CCC3=CC(=CC=C3)OC
@@ -25009,6 +25008,7 @@ Indium(III) phosphate	[O-]P(=O)([O-])[O-].[In+3]
 Aluminium selenate	[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[Al+3].[Al+3]
 2′-Bromonordazepam	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3Br
 Phenylisohexanol	CC(CCC1=CC=CC=C1)CCO
+Phenethyl benzoate	C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2
 Niobium arsenide	[As]#[Nb]
 Niobium ditelluride	[Te]=[Nb]=[Te]
 Citronellyl acetate	CC(CCC=C(C)C)CCOC(=O)C
@@ -25036,6 +25036,8 @@ Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@@H
 Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
 Bismuth perchlorate	[Bi+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Benzalkonium saccharinate	CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.CCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-]
+Acid Violet 13	C1=CC=C2C(=C1)C=CC=C2N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O)O.[Na+].[Na+]
+Acid Violet 6	CC(=O)NC1=CC=C(C=C1)N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)O.[Na+].[Na+]
 Acid Red 176	C1=CC(=CC=C1N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)O)[N+](=O)[O-].[Na+].[Na+]
 Acid Red 29	C1=CC=C(C=C1)N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)O.[Na+].[Na+]
 Tin(II) perchlorate	[Sn+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
@@ -25043,3 +25045,5 @@ Thallium(I) perchlorate	[O-]Cl(=O)(=O)=O.[Tl+]
 Meta-Hydroxyephedrine	CC(C(C1=CC(=CC=C1)O)O)NC
 Mercury(I) perchlorate	[Hg+][Hg+].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 IHCH-6122	C1CCC2=CN=C(C=C2C1)N3CCNCC3
+IHCH-2330	COc1cc(CCN(C)CCC=2C(=O)N3C=CC=CC3=NC=2C)c(OC)cc1C(F)(F)F
+Z3881312504	CN(CCC1=CC(=C(C=C1)O)Br)CCC2=NC=CS2
