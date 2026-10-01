@@ -24567,6 +24567,7 @@ BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(
 1-Fluoropropane	CCCF
 Nocuolin A	C(CCO)(=O)N1N=C(CCCCC)C[C@@H](CCCCC)O1
 Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
+Deuterium iodide	[2H]I
 4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
 TRALA-12	CCN(C=C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 APA-01	C1C[C@@H](NC1)CC2=CC3=C(C=C2)OCO3
@@ -25052,3 +25053,5 @@ Lirafugratinib	CC1=NC(=NC=C1)OC2=C(C=C(C=C2)C3=C(N(C4=NC=NC(=C34)N)C)C5=CC=C(C=C
 Zilurgisertib	C1COCCC1N2C[C@H]3C[C@]3(C2)C4=CC=C(C=C4)C5=CC(=C(N=C5)N)C(=O)NC67CCC(CC6)(CC7)O
 Floretyrosine (18F)	C([C@@H](C(O)=O)N)C1=CC=C(OCC[18F])C=C1
 2-Hydroxy-4,5-methylenedioxymethamphetamine	CC(CC1=CC2=C(C=C1O)OCO2)NC
+Didymin	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3O2)cc1
+2-Nitroso-1-phenylpropane	CC(CC1=CC=CC=C1)N=O
