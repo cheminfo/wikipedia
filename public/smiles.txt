@@ -21304,7 +21304,7 @@ Cod-THC	CN1CC[C@@]23c4c5C[C@@H]1[C@@H]2C=C[C@H](OC(=O)Oc1cc(CCCCC)cc2OC(C)(C)[C@
 Deuremidevir	[2H]c2cc([C@]1(C#N)O[C@H](COC(=O)C(C)C)[C@@H](OC(=O)C(C)C)[C@H]1OC(=O)C(C)C)n3ncnc(N)c23
 Soticlestat	C1CN(CCC1(CC2=CC=CC=C2)O)C(=O)C3=C(N=CC=C3)C4=CC=NC=C4
 Tricyclodecane	C1CC2C3CCC(C3)C2C1
-SLU-PP-332	C1=CC=C2C=C(C=CC2=C1)/C=N\NC(=O)C3=CC=C(C=C3)O
+SLU-PP-332	C1=CC=C2C=C(C=CC2=C1)/C=N/NC(=O)C3=CC=C(C=C3)O
 Oleandrose	C[C@@H]([C@@H]([C@H](CC=O)OC)O)O
 4B-MAR	CC1C(OC(=N1)N)C2=CC=C(C=C2)Br
 Azetukalner	CC1=CC(=CC(=C1NC(=O)CC(C)(C)C)C)N2CCC3=C(C2)C=CC(=C3)F
@@ -25053,5 +25053,8 @@ Lirafugratinib	CC1=NC(=NC=C1)OC2=C(C=C(C=C2)C3=C(N(C4=NC=NC(=C34)N)C)C5=CC=C(C=C
 Zilurgisertib	C1COCCC1N2C[C@H]3C[C@]3(C2)C4=CC=C(C=C4)C5=CC(=C(N=C5)N)C(=O)NC67CCC(CC6)(CC7)O
 Floretyrosine (18F)	C([C@@H](C(O)=O)N)C1=CC=C(OCC[18F])C=C1
 2-Hydroxy-4,5-methylenedioxymethamphetamine	CC(CC1=CC2=C(C=C1O)OCO2)NC
+Acequinocyl	CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C
 Didymin	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3O2)cc1
 2-Nitroso-1-phenylpropane	CC(CC1=CC=CC=C1)N=O
+4-Bromo-α-pyrrolidinopentiophenone	CCCC(C(=O)C1=CC=C(C=C1)Br)N2CCCC2
+Leptodactyline	Oc1ccc(cc1)CC[N+](C)(C)C
