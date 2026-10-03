@@ -6744,6 +6744,7 @@ Remikiren	O=S(=O)(C(C)(C)C)C[C@H](C(=O)N[C@H](C(=O)N[C@@H](CC1CCCCC1)[C@@H](O)[C
 Lithium nitrite	[Li+].N(=O)[O-]
 Gold(III) fluoride	[Au+3].[F-].[F-].[F-]
 Tiratricol	Ic2cc(Oc1c(I)cc(cc1I)CC(=O)O)ccc2O
+Tiratricol	[Na].O=C(O)CC1=CC(I)=C(OC2=CC=C(O)C(I)=C2)C(I)=C1
 Dibromotyrosine	Brc1cc(cc(Br)c1O)C[C@@H](C(=O)O)N
 Benzylthiouracil	S=C1N/C(=C\C(=O)N1)Cc2ccccc2
 Methylthiouracil	CC1=CC(=O)NC(=S)N1
@@ -24529,6 +24530,7 @@ Gadolinium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]
 LEK-8804	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)NCC#C
 MAM (drug)	CCCCCOC(C=C1OC)=C(OC)C=C1CC(N)C
 LEK-8842	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(C)CC#C
+Deuterium sulfide	[2H]S[2H]
 LEK-8829	CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)CN(C)CC#C
 B-193	CN1C2=CC=CC=C2C3=C1C(=O)N(CC3)CCCN4CCN(CC4)C5=CC=CC=C5
 MFEM (drug)	CC(N)CC1=CC(OC)=C(OCCF)C=C1OC
@@ -25057,4 +25059,5 @@ Acequinocyl	CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C
 Didymin	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3O2)cc1
 2-Nitroso-1-phenylpropane	CC(CC1=CC=CC=C1)N=O
 4-Bromo-α-pyrrolidinopentiophenone	CCCC(C(=O)C1=CC=C(C=C1)Br)N2CCCC2
-Leptodactyline	Oc1ccc(cc1)CC[N+](C)(C)C
+Leptodactyline	C[N+](C)(C)CCC1=CC(=CC=C1)[O-]
+RTI-6037-13	CCCC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
