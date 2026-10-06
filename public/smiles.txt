@@ -1531,7 +1531,7 @@ Sodium sulfite	[O-]S(=O)[O-].[Na+].[Na+]
 Conivaptan	c1ccccc1-c2ccccc2C(=O)Nc3ccc(cc3)C(=O)N4c5ccccc5-c6[nH]c(C)nc6CC4
 Atosiban	O=C(N)CNC(=O)[C@@H](NC(=O)[C@H]3N(C(=O)[C@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CCSSC1)Cc2ccc(OCC)cc2)[C@@H](C)CC)[C@H](O)C)CC(=O)N)CCC3)CCCN
 Optochin	CC[C@H]1CN2CC[C@H]1C[C@H]2[C@@H](c3ccnc4c3cc(cc4)OCC)O
-Phenylephrine	O[C@H](c1cc(O)ccc1)CNC
+Phenylephrine	O[C@@H](CNC)C1=CC(O)=CC=C1
 Lactulose	O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O[C@]2(O)CO)CO
 Cromoglicic acid	O=C(O)C=4Oc3cccc(OCC(O)COc2cccc1O/C(=C\C(=O)c12)C(=O)O)c3C(=O)C=4
 Iron(II,III) oxide	O1[Fe]2O[Fe]O[Fe]1O2
@@ -7769,6 +7769,7 @@ Clotrimazole	Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4
 Nefopam	CN1CCOC(C2=CC=CC=C2C1)C3=CC=CC=C3
 Estrone sulfate	C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
 8-Hydroxyguanosine	O=C3/N=C(/N)NC\1=C3\NC(=O)N/1C2OC(C(O)C2O)CO
+DMAI	CN(C)CCC1=C2C=CNC2=CC=C1
 Barium ferrate	[Ba++].[O-][Fe]([O-])(=O)=O
 Sarmentose (chemistry)	CO[C@@H]1CC(O)O[C@@H](C)[C@H]1O
 Propane-1,2,3-tricarboxylic acid	C(C(CC(=O)O)C(=O)O)C(=O)O
@@ -18324,7 +18325,7 @@ Methanedithiol	SCS
 Pentahydroxybenzene	C1=C(C(=C(C(=C1O)O)O)O)O
 Methyl pyruvate	CC(=O)C(=O)OC
 Lanthanum decahydride	[LaH10]
-SN-22	CN1CCC(CC1)c1c[nH]c2c1cccc2
+SN-22	CN1CCC(CC1)C2=CNC3=CC=CC=C32
 Choline m-bromophenyl ether	C[N+](C)(C)CCOc1cccc(c1)Br
 Isoflurothyl	COC(C(F)(F)F)C(F)(F)F
 Armine (chemical)	CCOP(=O)(CC)Oc1ccc(cc1)[N+](=O)[O-]
@@ -25065,3 +25066,7 @@ Glutamate diacetate	C(CC(=O)[O-])[C@@H](C(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].
 3-AMTBI	C1CC2=C3C(=CC=C2)NC=C3C1CN
 Calycanthine	CN1CC[C@@]23[C@@H]4NC5=CC=CC=C5[C@@]2([C@@H]1NC6=CC=CC=C36)CCN4C
 MTHPI	CN1CCC(=CC1)C2=CNC3=CC=CC=C32
+AHR-1709	C1CN(CC=C1C2=CC=CC=C2)CCC3=CNC4=CC=CC=C43
+AHR-1229	CCCCN(CCC1=CNC2=CC=CC=C21)C3CCN(C3)C4=CC=CC=C4
+Propyl cinnamate	CCCOC(=O)/C=C/C1=CC=CC=C1
+UCD0829	CN(C)C1CCC2=CNC=C2C1
