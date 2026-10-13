@@ -4037,7 +4037,7 @@ Trimethobenzamide	O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
 Barium fluoride	F[Ba]F
 Barium fluoride	[Ba+2].[F-].[F-]
 Sulfadiazine	Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1
-Asymmetric dimethylarginine	CN(C)C(=N)NCCC[C@H](N)C(=O)O
+Asymmetric dimethylarginine	CN(C)C(=NCCCC(C(=O)O)N)N
 Monocrotophos	O=P(O/C(=C/C(=O)NC)C)(OC)OC
 Lumisterol	O[C@@H]4C/C3=C/C=C1\[C@@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)C(C)C)C)C)[C@]3(C)CC4
 Citrinin	O=C2C(C(O)=O)=C(O)C1=CO[C@H](C)[C@@H](C)C1=C2C
@@ -12765,7 +12765,7 @@ CJ-033466	C3CN(CC(C)C)CCC3CNC(=O)c1cc(Cl)c(N)n(cc2C)c1n2
 SB-206553	Cn2ccc(c2c3)cc1c3CCN1C(=O)Nc4cccnc4
 CP-135807	CN1CCC[C@@H]1Cc2c[nH]c3c2cc(cc3)Nc4c(cccn4)[N+](=O)[O-]
 Sodium lignosulfonate	COC1=CC=CC(=C1O)C[C@H](CS(=O)(=O)[O-])OC2=C(C=C(C=C2)CCCS(=O)(=O)[O-])OC.[Na+].[Na+]
-2,4-Dichlorophenoxyacetic acid	Clc1cc(Cl)ccc1OCC(=O)O
+2,4-D	Clc1cc(Cl)ccc1OCC(=O)O
 Pyridinium p-toluenesulfonate	CC1=CC=C(S(=O)([O-])=O)C=C1.C2=[NH+]C=CC=C2
 Calcium stearoyl-2-lactylate	O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.O=C(C(C)OC(CCCCCCCCCCCCCCCCC)=O)OC(C)C([O-])=O.[Ca+2]
 Cortistatins	C[C@]12CC=C3C=C4[C@H]([C@@H]([C@H](C[C@]45CC[C@@]3([C@@H]1CC[C@@H]2c6ccc7ccncc7c6)O5)N(C)C)O)O
@@ -25081,11 +25081,14 @@ Isopentylamine	CC(C)CCN
 Crotonaldehyde 2,4-dinitrophenylhydrazone	CC=CC=NNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
 Tert-Butylhydrazine	CC(C)(C)NN
 Terbumeton	CCNC1=NC(=NC(=N1)OC)NC(C)(C)C
-Dimethylsulfoxonium Methylide	CS(=C)(=O)C
-Dimethylsulfoxonium Methylide	O=[S+](C)([CH2-])C
+Dimethylsulfoxonium methylide	CS(=C)(=O)C
+Dimethylsulfoxonium methylide	O=[S+](C)([CH2-])C
+6-Aminodopamine	C1=C(C(=CC(=C1O)O)N)CCN
 PAV-0056	CCCOC1C(=O)N(C2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3)CC(=O)OC
 3-Mercapto-1-propanol	OCCCS
 AC-102	CC1=NC=CC2=C1NC3=C2C=C(C=C3)F
 2-Indanone oxime	C1C(=NO)CC2=CC=CC=C21
 Einsteinium oxybromide	[O-2].[Br-].[Es+3]
 Phosphonium bromide	[PH4+].[Br-]
+Tri-tert-butylphosphine	P(C(C)(C)C)(C(C)(C)C)C(C)(C)C
+N-Isopropylbutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
