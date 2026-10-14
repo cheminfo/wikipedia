@@ -24470,6 +24470,7 @@ Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
 N-Ethyl-lanicemine	CCNC(CC1=CC=CC=N1)C2=CC=CC=C2
 Methylcyclobutane	CC1CCC1
 11-Chloroasimilobine	COC1=C(C=C2CCNC3C2=C1C4=C(C3)C=CC=C4Cl)O
+Methylammonium fluoride	C[NH3+].[F-]
 Pentafluorosulfate(IV)	F[S-](F)(F)(F)F
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
 1-(2,4,5-Trimethoxyphenyl)-6-chlorotryptoline	COC1=CC(=C(C=C1C2C3=C(CCN2)C4=C(N3)C=CC(=C4)Cl)OC)OC
@@ -25092,3 +25093,4 @@ Einsteinium oxybromide	[O-2].[Br-].[Es+3]
 Phosphonium bromide	[PH4+].[Br-]
 Tri-tert-butylphosphine	P(C(C)(C)C)(C(C)(C)C)C(C)(C)C
 N-Isopropylbutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
+3-Hydroxy-4-methoxyphenethylamine	COC1=C(C=C(C=C1)CCN)O
