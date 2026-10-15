@@ -24470,7 +24470,6 @@ Pharm-136	CC1=C2C(=C(C=C1)O)C3=C(N2)CCNCC3
 N-Ethyl-lanicemine	CCNC(CC1=CC=CC=N1)C2=CC=CC=C2
 Methylcyclobutane	CC1CCC1
 11-Chloroasimilobine	COC1=C(C=C2CCNC3C2=C1C4=C(C3)C=CC=C4Cl)O
-Methylammonium fluoride	C[NH3+].[F-]
 Pentafluorosulfate(IV)	F[S-](F)(F)(F)F
 4-MeS-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)SC
 1-(2,4,5-Trimethoxyphenyl)-6-chlorotryptoline	COC1=CC(=C(C=C1C2C3=C(CCN2)C4=C(N3)C=CC(=C4)Cl)OC)OC
@@ -25074,14 +25073,16 @@ AHR-1709	C1CN(CC=C1C2=CC=CC=C2)CCC3=CNC4=CC=CC=C43
 AHR-1229	CCCCN(CCC1=CNC2=CC=CC=C21)C3CCN(C3)C4=CC=CC=C4
 Propyl cinnamate	CCCOC(=O)/C=C/C1=CC=CC=C1
 UCD0829	CN(C)C1CCC2=CNC=C2C1
-Acetone 2,4-dinitrophenylhydrazone	CC(C)=NNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
+Acetone 2,4-dinitrophenylhydrazone	CC(=NNC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-])C
 2-(β-D-Glucopyranosyl)-5-methyl-1,3,4-oxadiazole	CC1=NN=C(O1)[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
 Isopropyl propionate	CCC(=O)OC(C)C
 VUFB-6683	CN1C[C@@H](C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CC(=O)N
 Isopentylamine	CC(C)CCN
+Pyridaben	CC(C)(C)C1=CC=C(C=C1)CSC2=C(C(=O)N(N=C2)C(C)(C)C)Cl
 Crotonaldehyde 2,4-dinitrophenylhydrazone	CC=CC=NNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
 Tert-Butylhydrazine	CC(C)(C)NN
 Terbumeton	CCNC1=NC(=NC(=N1)OC)NC(C)(C)C
+Tert-Butylmagnesium chloride	C[C-](C)C.[Mg+2].[Cl-]
 Dimethylsulfoxonium methylide	CS(=C)(=O)C
 Dimethylsulfoxonium methylide	O=[S+](C)([CH2-])C
 6-Aminodopamine	C1=C(C(=CC(=C1O)O)N)CCN
@@ -25092,5 +25093,6 @@ AC-102	CC1=NC=CC2=C1NC3=C2C=C(C=C3)F
 Einsteinium oxybromide	[O-2].[Br-].[Es+3]
 Phosphonium bromide	[PH4+].[Br-]
 Tri-tert-butylphosphine	P(C(C)(C)C)(C(C)(C)C)C(C)(C)C
+Chlorodi-tert-butylphosphine	CC(C)(C)P(C(C)(C)C)Cl
 N-Isopropylbutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
 3-Hydroxy-4-methoxyphenethylamine	COC1=C(C=C(C=C1)CCN)O
