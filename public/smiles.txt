@@ -25057,6 +25057,7 @@ Z3881312504	CN(CCC1=CC(=C(C=C1)O)Br)CCC2=NC=CS2
 Uranyl perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.O=[U+2]=O
 Lirafugratinib	CC1=NC(=NC=C1)OC2=C(C=C(C=C2)C3=C(N(C4=NC=NC(=C34)N)C)C5=CC=C(C=C5)NC(=O)C(=C)C)F
 Zilurgisertib	C1COCCC1N2C[C@H]3C[C@]3(C2)C4=CC=C(C=C4)C5=CC(=C(N=C5)N)C(=O)NC67CCC(CC6)(CC7)O
+Bixafen	CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl
 Bitertanol	CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O
 Floretyrosine (18F)	C([C@@H](C(O)=O)N)C1=CC=C(OCC[18F])C=C1
 2-Hydroxy-4,5-methylenedioxymethamphetamine	CC(CC1=CC2=C(C=C1O)OCO2)NC
@@ -25101,3 +25102,4 @@ Chlorodi-tert-butylphosphine	CC(C)(C)P(C(C)(C)C)Cl
 N-Isopropylbutylone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
 3-Hydroxy-4-methoxyphenethylamine	COC1=C(C=C(C=C1)CCN)O
 H77/77	CC1=C(C=C(C=C1)CC(C)N)O
+Glepaglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CNC2=CC=CC=C21)NC(=O)[C@H](C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](CC5=CNC=N5)N
