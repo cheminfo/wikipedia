@@ -7796,8 +7796,7 @@ Diglycolic acid	C(C(=O)O)OCC(=O)O
 Sulfadoxine	COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N
 Brilliant green (dye)	[O-]S(=O)(=O)O.[N+](=C/1\C=C/C(C=C\1)=C(/c2ccccc2)c3ccc(N(CC)CC)cc3)(\CC)CC
 Tetramethylphenylenediamine	CN(C)c1ccc(cc1)N(C)C
-8-Oxoguanine	c12=NC(=O)N=c1[nH]c(nc2=O)N
-8-Oxoguanine	O=C2NC=1N\C(=N/C(=O)C=1N2)N
+8-Oxoguanine	C12=C(NC(=NC1=O)N)NC(=O)N2
 Corazonin	CC(C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCC(=O)N)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CO)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)N)NC(=O)C5CCC(=O)N5)O
 Oleoylethanolamide	CCCCCCCC\C=C/CCCCCCCC(=O)NCCO
 Carbon diselenide	[Se]=C=[Se]
@@ -24997,6 +24996,7 @@ Neodymium(III) formate	C(=O)[O-].C(=O)[O-].C(=O)[O-].[Nd+3]
 Thioquinapiperifil	CCN1C2=C(C=C3C(=C2)N=CN=C3NCC4=CC=CC=C4N5CCC(CC5)CO)NC1=S
 Gisadenafil	COCCn1nc2C(=O)NC(=Nc2c1CC)c1cc(cnc1OCC)S(=O)(=O)N1CCN(CC1)CC
 CE-125	O=S(CC1=CSC(C2CC2)=N1)C(C3=CC=CC=C3)C4=CC=CC=C4
+CE-103	O=S(CC1=NC=CS1)C(C2=CC=CC=C2)C3=CC=CC=C3
 Manganese(II) tungstate	[O-][W](=O)(=O)[O-].[Mn+2]
 4-Methylthioethylamphetamine	CCNC(C)CC1=CC=C(C=C1)SC
 Copper(II) tungstate	[O-][W](=O)(=O)[O-].[Cu+2]
@@ -25012,6 +25012,7 @@ Lutetium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(
 MK-7622	CC1=NC=C(C=C1)CC2=CC3=C(C4=CC=CC=C42)N=CN(C3=O)[C@H]5CCCC[C@@H]5O
 Indium(III) phosphate	[O-]P(=O)([O-])[O-].[In+3]
 3,7-Dimethyl-1-octanol	CC(C)CCCC(C)CCO
+Citronellyl propionate	CCC(=O)OCCC(C)CCC=C(C)C
 Dodecanenitrile	CCCCCCCCCCCC#N
 Geranyl formate	CC(=CCC/C(=C/COC=O)/C)C
 Geranyl propionate	CCC(=O)OCC=C(C)CCC=C(C)C
@@ -25053,6 +25054,7 @@ Acid Red 176	C1=CC(=CC=C1N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)
 Acid Red 29	C1=CC=C(C=C1)N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)O.[Na+].[Na+]
 Tin(II) perchlorate	[Sn+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Thallium(I) perchlorate	[O-]Cl(=O)(=O)=O.[Tl+]
+Samarium monoxide	[Sm].[O]
 Meta-Hydroxyephedrine	CC(C(C1=CC(=CC=C1)O)O)NC
 Mercury(I) perchlorate	[Hg+][Hg+].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 IHCH-6122	C1CCC2=CN=C(C=C2C1)N3CCNCC3
@@ -25111,3 +25113,5 @@ DT-109	CC(C)C[C@@H](C(=O)O)NC(=O)CNC(=O)CN
 N-Isobutylhexedrone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
 Ciprocopan	[2H]C([2H])([2H])OC1=C(C2=C(C(=C1)C)NC=C2)CN3CC[C@H](C[C@H]3C4=CC=C(C=C4)C(=O)O)C5CC5
 Amicarbazone	CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C
+Β-Methyl-4-chlorophenethylamine	CC(CN)C1=CC=C(C=C1)Cl
+6-Br-DMPEA	COC1=C(C=C(C(=C1)CCN)Br)OC
