@@ -25080,6 +25080,7 @@ Calycanthine	CN1CC[C@@]23[C@@H]4NC5=CC=CC=C5[C@@]2([C@@H]1NC6=CC=CC=C36)CCN4C
 Codlemon	C/C=C/C=C/CCCCCCCO
 MTHPI	CN1CCC(=CC1)C2=CNC3=CC=CC=C32
 AHR-1709	C1CN(CC=C1C2=CC=CC=C2)CCC3=CNC4=CC=CC=C43
+Berkelium trihydride	[BkH3]
 AHR-1229	CCCCN(CCC1=CNC2=CC=CC=C21)C3CCN(C3)C4=CC=CC=C4
 Propyl cinnamate	CCCOC(=O)/C=C/C1=CC=CC=C1
 Mordant Black 9	C1=CC2=C(C=CC(=C2O)N=NC3=C(C=CC(=C3)S(=O)(=O)[O-])O)C(=C1)O.[Na+]
@@ -25116,3 +25117,5 @@ Ciprocopan	[2H]C([2H])([2H])OC1=C(C2=C(C(=C1)C)NC=C2)CN3CC[C@H](C[C@H]3C4=CC=C(C
 Amicarbazone	CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C
 Β-Methyl-4-chlorophenethylamine	CC(CN)C1=CC=C(C=C1)Cl
 6-Br-DMPEA	COC1=C(C=C(C(=C1)CCN)Br)OC
+2-Methyl-1-phenyl-2-propanol	CC(C)(CC1=CC=CC=C1)O
+FX-909	CS(=O)(=O)C1=C(C=C(C=C1)C#N)C2=CC(=O)C3=C(N2)C=C(C=C3F)F
