@@ -18616,7 +18616,7 @@ Platinum(II) bis(acetylacetonate)	CC(=C[C-](C)O1)O[Pt+2]12OC(=C[C-](C)O2)C
 Platinum(II) bis(acetylacetonate)	O=C(C)/C=C(C)\[O-].O=C(C)/C=C(C)\[O-].[Pt+2]
 Bis(trifluoromethanesulfonyl)aniline	C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
 Ethylene bis(iodoacetate)	C(COC(=O)CI)OC(=O)CI
-2,2'-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
+2,2′-Biquinoline	C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
 2-Chloroquinoline	C1=CC=C2C(=C1)C=CC(=N2)Cl
 Δ-Decalactone	CCCCCC1CCCC(=O)O1
 Tert-Butyl hypochlorite	ClOC(C)(C)C
@@ -24613,6 +24613,7 @@ Cycloprolylproline	C1C[C@H]2C(=O)N3CCC[C@H]3C(=O)N2C1
 Pigment Yellow 154	CC(=O)C(C(=O)NC1=CC2=C(C=C1)NC(=O)N2)N=NC3=CC=CC=C3C(F)(F)F
 Fluorophosphite	[O-][PH](=O)F
 1-Pentanethiol	SCCCCC
+Trideuteromethane	[2H]C([2H])[2H]
 MM-77	COC1=CC=CC=C1N2CCN(CC2)CCCCN3C(=O)CCC3=O
 Zapnometinib	C1=CC(=C(C=C1I)Cl)NC2=C(C=CC(=C2F)F)C(=O)O
 Ammonium orotate	C1=C(NC(=O)NC1=O)C(=O)[O-].[NH4+]
@@ -24773,6 +24774,7 @@ Paspalic acid	CN1CC(=C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)O
 2CB-5OCD3	[2H]C([2H])([2H])OC1=C(C=C(C(=C1)CCN)OC)Br
 Lysergyl-alanine	C[C@@H](C(=O)O)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C
 Tetraiodomercurate(II)	I[Hg-2](I)(I)I
+Tert-Butyl fluoride	CC(C)(C)F
 Tectol	CC1(C=CC2=C(O1)C3=CC=CC=C3C(=C2C4=C(C5=CC=CC=C5C6=C4C=CC(O6)(C)C)O)O)C
 Silver tetraiodomercurate(II)	[Ag+].[Ag+].I[Hg-2](I)(I)I
 APINAC	CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21
@@ -25056,7 +25058,9 @@ Acid Red 29	C1=CC=C(C=C1)N=NC2=C(C3=C(C=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])O)
 Tin(II) perchlorate	[Sn+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Tin(II) perchlorate	[Sn+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.O.O.O
 Thallium(I) perchlorate	[O-]Cl(=O)(=O)=O.[Tl+]
+Neodymium monoxide	[Nd].[O]
 Samarium monoxide	[Sm].[O]
+Ytterbium(II) oxide	[Sm+2].[O-2]
 Meta-Hydroxyephedrine	CC(C(C1=CC(=CC=C1)O)O)NC
 Mercury(I) perchlorate	[Hg+][Hg+].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 IHCH-6122	C1CCC2=CN=C(C=C2C1)N3CCNCC3
@@ -25122,4 +25126,7 @@ Amicarbazone	CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C
 FX-909	CS(=O)(=O)C1=C(C=C(C=C1)C#N)C2=CC(=O)C3=C(N2)C=C(C=C3F)F
 Direct Black 38	[Na+].[Na+].Nc1ccc(N=Nc2ccc(cc2)c3ccc(cc3)N=Nc4c(N)c5c(O)c(N=Nc6ccccc6)c(cc5cc4S(=O)(=O)[O-])S(=O)(=O)[O-])c(N)c1
 Tryptamine-4,5-dione	C1=CC(=O)C(=O)C2=C1NC=C2CCN
+Difenoconazole	CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl
+Dodemorph	CC1CN(CC(O1)C)C2CCCCCCCCCCC2
 Dodecyl creatine ester	CCCCCCCCCCCCOC(=O)CN(C)C(=N)N
+Brelgometon	CC[C@H](C)CN1CC2N(CCC(=O)N2[C@H](C1=O)C)CC3=CC=C(C=C3)C(F)(F)F
