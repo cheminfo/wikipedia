@@ -22817,7 +22817,7 @@ ErSO	C1=CC2=C(C(=C1)C(F)(F)F)NC(=O)[C@]2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)OC(F)(F)F
 Anilofos	CC(C)N(C1=CC=C(C=C1)Cl)C(=O)CSP(=S)(OC)OC
 Arsenic triazide	[N-]=[N+]=N[As](N=[N+]=[N-])N=[N+]=[N-]
 Mifomelatide	CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H]2CCCN2C1=O)CC3=CC4=CC=CC=C4C=C3)CCCN=C(N)N)CC5=CNC6=CC=CC=C65)C(=O)N[C@H](C(C)C)C(=O)N7CCC[C@@H]7C(=O)N)NC(=O)C
-Solangepras	CC(=O)N1CCC2=C(C1)N=C(C(=N2)N3CCC(CC3)OC4=C(C=C(C=C4)F)F)N[C@@H]5CCOC5
+Solengepras	CC(=O)N1CCC2=C(C1)N=C(C(=N2)N3CCC(CC3)OC4=C(C=C(C=C4)F)F)N[C@@H]5CCOC5
 Tetrapyrazinoporphyrazine	C1=CN=C2C(=N1)C3=NC4=C5N=CC=NC5=C(N4)N=C6C7=NC=CN=C7C(=N6)N=C8C9=NC=CN=C9C(=N8)N=C2N3
 Selonabant	CC(C)(C)NC(=O)N1CC(C1)O[C@H](C2=CC=C(C=C2)Cl)C3=CC=CC=C3C(F)(F)F
 Oveporexton	CCS(=O)(=O)N[C@@H]1[C@@H](N(CC1(F)F)C(=O)C(C)(C)O)CC2=C(C(=CC=C2)C3=CC(=CC(=C3)F)F)F
@@ -25046,7 +25046,9 @@ Gadolinium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 Europium(II) perchlorate	[Eu+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Shepherdine	CC1C2=C(CCN1)C3=C(N2)C=CC(=C3)O
 Praseodymium dicarbide	[C-]#[C].[Pr]
+Praseodymium dodecaboride	[Pr].[B].[B].[B].[B].[B].[B].[B].[B].[B].[B].[B].[B]
 Gallium perchlorate	[Ga+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Gallium perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Ga+3]
 Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
 Bufol	C[C@H](CCCC(C)(CO)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
 Bismuth perchlorate	[Bi+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
@@ -25130,3 +25132,4 @@ Difenoconazole	CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl
 Dodemorph	CC1CN(CC(O1)C)C2CCCCCCCCCCC2
 Dodecyl creatine ester	CCCCCCCCCCCCOC(=O)CN(C)C(=N)N
 Brelgometon	CC[C@H](C)CN1CC2N(CCC(=O)N2[C@H](C1=O)C)CC3=CC=C(C=C3)C(F)(F)F
+Sipasterol	C[C@@]12CCC[C@H]1[C@@H]3C[C@H]([C@]4(C[C@H](CC[C@@]4([C@H]3CC2)C)O)O)O
