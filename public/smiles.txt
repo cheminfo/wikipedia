@@ -24571,6 +24571,7 @@ BIM-23027	C[C@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(
 1-Fluoropropane	CCCF
 Nocuolin A	C(CCO)(=O)N1N=C(CCCCC)C[C@@H](CCCCC)O1
 Lomardexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN=C(N)N)N
+Deuteromethane	[2H]C
 Deuterium iodide	[2H]I
 4H-Pyrido(1,2-a)pyrimidin-4-one	C1=CC2=NC=CC(=O)N2C=C1
 Malonamide	C(C(=O)N)C(=O)N
@@ -25034,13 +25035,34 @@ Isoamyl butyrate	CCCC(=O)OCCC(C)C
 Lutetium oxalate	[Lu+3].[Lu+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1
 Potassium oxalate	C(=O)(C(=O)[O-])[O-].[K+].[K+]
+Erbium arsenate	[O-][As](=O)([O-])[O-].[Er+3]
+Lutetium arsenate	[O-][As](=O)([O-])[O-].[Lu+3]
 Tripotassium arsenate	[K+].[K+].[K+].[O-][As](=O)([O-])[O-]
+Scandium arsenate	[O-][As](=O)([O-])[O-].[Sc+3]
+Ytterbium(III) arsenate	O=[As]([O-])([O-])[O-].[Yb+3]
 Lithium arsenate	[Li+].[Li+].[Li+].[O-][As](=O)([O-])[O-]
+Gadolinium arsenate	O=[As]([O-])([O-])[O-].[Gd+3]
+Lanthanum arsenate	[O-][As](=O)([O-])[O-].[La+3]
+Holmium arsenate	[Ho+3].[O-][As]([O-])([O-])=O
 Ytterbium(III) perchlorate	[Yb+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
 Lutetium perchlorate	[Lu+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Lutetium perchlorate	[Lu+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.O.O.O.O.O.O.O.O
 Oxovanadium(IV) perchlorate	O=[V+2].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Oxovanadium(IV) perchlorate	O.O.O.O.O.O=Cl(=O)(=O)[O-].[V+2]=O.[O-]Cl(=O)(=O)=O
 Clavicipitic acid	CC(=CC1C2=C3C(=CNC3=CC=C2)CC(N1)C(=O)O)C
 Cerium(III) perchlorate	[Ce+3].[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O
+Thallium(III) perchlorate	O=Cl(=O)(=O)O[Tl](OCl(=O)(=O)=O)OCl(=O)(=O)=O
+Thallium(III) perchlorate	O.O.O.O.O.O.O=Cl(=O)(=O)O[Tl](OCl(=O)(=O)=O)OCl(=O)(=O)=O
+Lanthanum perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[La+3]
+Lanthanum perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[La+3]
+Lanthanum perchlorate	O.O.O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[La+3]
+Lanthanum perchlorate	O.O.O.O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[La+3]
+Thulium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Tm+3]
+Thulium perchlorate	O.O.O.O.O.O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Tm+3]
+Erbium dihydride	[Er+2].[H-].[H-]
+Erbium carbide	[Er].[C].[C]
+Erbium arsenide	[Er+3].[As-3]
+Erbium antimonide	[Sb].[Er]
 Atoxifent	C1C[C@H]2CN(C[C@@H]1N2C3=CC(=CC=C3)O)CCCC4=CC=CC=C4
 Gadolinium perchlorate	[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Gd+3]
 Erbium trihydride	[H-].[H-].[H-].[Er+3]
@@ -25147,3 +25169,5 @@ Brelgometon	CC[C@H](C)CN1CC2N(CCC(=O)N2[C@H](C1=O)C)CC3=CC=C(C=C3)C(F)(F)F
 Sipasterol	C[C@@]12CCC[C@H]1[C@@H]3C[C@H]([C@]4(C[C@H](CC[C@@]4([C@H]3CC2)C)O)O)O
 Firuglipel	CC[C@H](C1=NC(=NO1)C2=CC(=C(C=C2)C(=O)N[C@H](C)CO)F)OC3=CC=C(C=C3)C(=O)C4CC4
 Deziglipel	CCC1=CN=C(N=C1)N2CCC(CC2)[C@H](C)OC3=NN4C=C(N=C4S3)C5=C(C=C(C=C5)S(=O)(=O)C)F
+Nicotinoyl chloride	C1=CC(=CN=C1)C(=O)Cl
+3-Hydroxy-4-methoxyamphetamine	CC(CC1=CC(=C(C=C1)OC)O)N
