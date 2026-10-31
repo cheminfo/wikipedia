@@ -14520,6 +14520,7 @@ Angustific acid	CC(=C)[C@@H]1C[C@@H]([C@H]2[C@@]3([C@H](C=C([C@]3(CC[C@@]24[C@@]
 Angustifodilactone	C[C@@]12CC[C@@H]([C@]1([C@H](C[C@]34[C@H]2C[C@@H]([C@@H]5[C@]3(C4)C=CC(=O)OC5(C)C)O)O)C)[C@](C)([C@H]6CC=C(C(=O)O6)CO)O
 Kadsurin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C4=C(C=C3[C@@H]([C@@H]1C)OC(=O)C)OCO4)OC)OC)OC)OC
 Smoothened agonist	ClC1=C(C(N([C@H]2CC[C@H](NC)CC2)CC3=CC=CC(C4=CC=NC=C4)=C3)=O)SC5=CC=CC=C51
+Schisandrin	CC1Cc2cc(c(c(c2-c3c(cc(c(c3OC)OC)OC)CC1(C)O)OC)OC)OC
 Deoxyschizandrin	C[C@@H]1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3C[C@@H]1C)OC)OC)OC)OC)OC)OC
 Pregomisin	C[C@H](Cc1cc(c(c(c1)OC)OC)O)[C@@H](C)Cc2cc(c(c(c2)OC)OC)O
 4-Methoxycinnamaldehyde	COC1=CC=C(C=C1)/C=C/C=O
@@ -25035,6 +25036,13 @@ Isoamyl butyrate	CCCC(=O)OCCC(C)C
 Lutetium oxalate	[Lu+3].[Lu+3].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-].[O-]C(=O)C(=O)[O-]
 Hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1
 Potassium oxalate	C(=O)(C(=O)[O-])[O-].[K+].[K+]
+Bis(oxalato)palladate(II)	[Pd-2]12(OC(=O)C(=O)O1)OC(=O)C(=O)O2
+Promethium arsenate	O=[As]([O-])([O-])[O-].[Pm+3]
+Cerium(III) arsenate	[O-][As](=O)([O-])[O-].[Ce+3]
+Thulium arsenate	[O-][As](=O)([O-])[O-].[Tm+3]
+Dysprosium arsenate	[O-][As](=O)([O-])[O-].[Dy+3]
+Yttrium arsenate	[O-][As](=O)([O-])[O-].[Y+3]
+Terbium arsenate	[O-][As](=O)([O-])[O-].[Tb+3]
 Erbium arsenate	[O-][As](=O)([O-])[O-].[Er+3]
 Lutetium arsenate	[O-][As](=O)([O-])[O-].[Lu+3]
 Tripotassium arsenate	[K+].[K+].[K+].[O-][As](=O)([O-])[O-]
