@@ -25021,12 +25021,32 @@ Dodecanenitrile	CCCCCCCCCCCC#N
 Geranyl formate	CC(=CCC/C(=C/COC=O)/C)C
 Geranyl propionate	CCC(=O)OCC=C(C)CCC=C(C)C
 Aluminium selenate	[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[Al+3].[Al+3]
+Samarium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Sm+3].[Sm+3]
+Samarium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Sm+3].[Sm+3]
 2-Heptylcyclopentanone	CCCCCCCC1CCCC1=O
+Gallium(III) selenate	O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].[Ga+3].[Ga+3]
+Gallium(III) selenate	O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].[Ga+3].[Ga+3]
+Gallium(III) selenate	O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].[Ga+3].[Ga+3]
+Lutetium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Lu+3].[Lu+3]
+Lutetium(III) selenate	O.O.O.O.O.O.O.O.[Lu+3].[Lu+3].[O-][Se]([O-])(=O)=O.[O-][Se]([O-])(=O)=O.[O-][Se]([O-])(=O)=O
+Dysprosium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Dy+3].[Dy+3]
+Dysprosium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Dy+3].[Dy+3].O.O.O.O.O.O.O.O
+Ytterbium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Yb+3].[Yb+3]
+Ytterbium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Yb+3].[Yb+3].O.O.O.O.O.O.O.O
+Neodymium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Nd+3].[Nd+3]
+Neodymium(III) selenate	O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Nd+3].[Nd+3]
 2′-Bromonordazepam	C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3Br
 Phenylisohexanol	CC(CCC1=CC=CC=C1)CCO
+Lanthanum(III) selenate	O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].O=[Se](=O)([O-])[O-].[La+3].[La+3]
+Magnesium selenate	[O-][Se](=O)(=O)[O-].[Mg+2]
+Magnesium selenate	O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[Mg+2]
 Phenethyl benzoate	C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2
 Niobium arsenide	[As]#[Nb]
 Niobium ditelluride	[Te]=[Nb]=[Te]
+Lanthanum niobate	[La+3].[O-][Nb]([O-])([O-])=O
+Indium(III) selenate	O=[Se]1(=O)O[In](O1)O[Se](=O)(=O)O[In]2O[Se](=O)(=O)O2
+Lithium selenate	[Li+].[Li+].[O-][Se](=O)(=O)[O-]
+Lithium selenate	[Li+].[Li+].O.[O-][Se](=O)(=O)[O-]
 Citronellyl acetate	CC(CCC=C(C)C)CCOC(=O)C
 Cobalt(II) selenate	[O-][Se](=O)(=O)[O-].[Co+2]
 Citronellyl formate	CC(CCC=C(C)C)CCOC=O
@@ -25193,3 +25213,4 @@ Nicotinoyl chloride	C1=CC(=CN=C1)C(=O)Cl
 PNC-27	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC4=CNC5=CC=CC=C54)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC6=CC=CC=C6)C(=O)N[C@@H](CC7=CNC8=CC=CC=C87)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]9CCCN9C(=O)[C@@H]1CCCN1)O
 4-Chloroethcathinone	CCNC(C)C(=O)C1=CC=C(C=C1)Cl
 5-Amino-1-methylquinolinium	C[N+]1=CC=CC2=C(C=CC=C21)N
+Bronchogen	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)O)N
