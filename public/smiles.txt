@@ -25193,6 +25193,7 @@ Glepaglutide	CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)
 Tetrasul	C1=CC(=CC=C1SC2=CC(=C(C=C2Cl)Cl)Cl)Cl
 DT-109	CC(C)C[C@@H](C(=O)O)NC(=O)CNC(=O)CN
 N-Isobutylhexedrone	CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC(C)C
+Barium sodium niobate	[O-][Nb]1(=O)O[Nb](=O)(O[Nb](=O)(O[Nb](=O)(O[Nb](=O)(O1)[O-])[O-])[O-])[O-].[Na+].[Ba+2].[Ba+2]
 Ciprocopan	[2H]C([2H])([2H])OC1=C(C2=C(C(=C1)C)NC=C2)CN3CC[C@H](C[C@H]3C4=CC=C(C=C4)C(=O)O)C5CC5
 Amicarbazone	CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C
 Β-Methyl-4-chlorophenethylamine	CC(CN)C1=CC=C(C=C1)Cl
@@ -25214,3 +25215,4 @@ PNC-27	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=
 4-Chloroethcathinone	CCNC(C)C(=O)C1=CC=C(C=C1)Cl
 5-Amino-1-methylquinolinium	C[N+]1=CC=CC2=C(C=CC=C21)N
 Bronchogen	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)O)N
+OS-01	OC(=O)[C@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](NC(=O)[C@@H](N)CCC(O)=O)[C@H](O)C)CCCCN)Cc1nc[NH]c1)Cc1c[NH]c2ccccc21)CC(C)C)CCCCN)[C@@H](C)CC
