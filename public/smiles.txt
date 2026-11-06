@@ -20477,6 +20477,9 @@ Protactinium(V) bromide	Br[Pa](Br)(Br)(Br)Br
 Protactinium(V) fluoride	F[Pa](F)(F)(F)F
 Protactinium(IV) chloride	[Pa](Cl)(Cl)(Cl)Cl
 Protactinium(IV) bromide	[Pa](Br)(Br)(Br)Br
+Phenylpyrrole	C1=CC=C(C=C1)N2C=CC=C2
+Phenylpyrrole	C1=CC=C(C=C1)C2=CC=CN2
+Phenylpyrrole	C1=CC=C(C=C1)C2=CNC=C2
 Octamethylenediamine	NCCCCCCCCN
 MDMB-5Br-INACA	O=C(OC)[C@@H](NC(=O)c1n[NH]c2ccc(Br)cc21)C(C)(C)C
 Tigliane	C[C@@H]1C[C@H]2C[C@@H](C[C@@H]3[C@@H]([C@@H]2C1)[C@@H](C[C@@H]4[C@H]3C4(C)C)C)C
@@ -25013,13 +25016,31 @@ Dysprosium(II) bromide	Br[Dy]Br
 Α-Methyl-N-ethyltryptamine	CCNC(C)CC1=CNC2=CC=CC=C21
 Lutetium(III) sulfate	O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Lu+3].[Lu+3]
 MK-7622	CC1=NC=C(C=C1)CC2=CC3=C(C4=CC=CC=C42)N=CN(C3=O)[C@H]5CCCC[C@@H]5O
+Actinium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Ac+3].[Ac+3]
+Actinium(III) oxalate	C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Ac+3].[Ac+3].O.O.O.O.O.O.O.O.O.O
+Cerium(III) tungstate	[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O-].[Ce+3].[Ce+3]
+Barium bromite	[Ba+2].O=[Br][O-].O=[Br][O-]
+Gadolinium phosphate	[O-]P(=O)([O-])[O-].[Gd+3]
+Terbium phosphate	[O-]P(=O)([O-])[O-].[Tb+3]
+Thulium phosphate	[O-]P(=O)([O-])[O-].[Tm+3]
+Erbium phosphate	[O-]P(=O)([O-])[O-].[Er+3]
 Indium(III) phosphate	[O-]P(=O)([O-])[O-].[In+3]
 3,7-Dimethyl-1-octanol	CC(C)CCCC(C)CCO
+Holmium phosphate	[O-]P(=O)([O-])[O-].[Ho+3]
+Holmium carbonate	C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Ho+3].[Ho+3]
+Ytterbium(III) phosphate	[O-]P(=O)([O-])[O-].[Yb+3]
 Citronellyl propionate	CCC(=O)OCCC(C)CCC=C(C)C
 Dodecanenitrile	CCCCCCCCCCCC#N
 Geranyl formate	CC(=CCC/C(=C/COC=O)/C)C
+Europium(II) phosphate	[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Eu+2].[Eu+2].[Eu+2]
 Geranyl propionate	CCC(=O)OCC=C(C)CCC=C(C)C
+Iron(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Fe+3].[Fe+3]
+Iron(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Fe+3].[Fe+3].O.O.O.O.O.O.O.O.O
+Hafnium(IV) selenate	[Hf+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O
+Hafnium(IV) selenate	[Hf+4].[O-][Se](=O)(=O)[O-].[O-][Se]([O-])(=O)=O.O.O.O.O
 Aluminium selenate	[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[O-][Se](=O)([O-])=O.[Al+3].[Al+3]
+Aluminium selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Al+3].[Al+3].O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O
+Silver selenate	[O-][Se](=O)(=O)[O-].[Ag+].[Ag+]
 Samarium(III) selenate	[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Sm+3].[Sm+3]
 Samarium(III) selenate	O.O.O.O.O.O.O.O.[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[O-][Se](=O)(=O)[O-].[Sm+3].[Sm+3]
 Copper(II) selenate	[O-][Se](=O)(=O)[O-].[Cu+2]
@@ -25218,6 +25239,9 @@ PNC-27	C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=
 5-Amino-1-methylquinolinium	C[N+]1=CC=CC2=C(C=CC=C21)N
 Bronchogen	C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)O)N
 OS-01	OC(=O)[C@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](NC(=O)[C@@H](N)CCC(O)=O)[C@H](O)C)CCCCN)Cc1nc[NH]c1)Cc1c[NH]c2ccccc21)CC(C)C)CCCCN)[C@@H](C)CC
-AHK-Cu	OC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1cnc[NH]1)NC(=O)[C@H](N)C
+AHK-Cu	[C@H](C(N[C@@H](CCCCN)C(O)=O)=O)(NC([C@H](C)N)=O)CC1=CN=CN1.[Cu]
 Lorotomidate	CCOC(=O)C1=C(N=CN1[C@H](C)C2=CC=CC=C2)F
 Carboetomidate	CCOC(=O)C1=CC=CN1[C@H](C)C2=CC=CC=C2
+PF0713	CC[C@@H](C)C1=C(C(=CC=C1)[C@H](C)CC)O
+AZD-3043	CCCOC(=O)CC1=CC(=C(C=C1)OCC(=O)N(CC)CC)OCC
+Cyclopropyl methoxycarbonyl metomidate	C[C@H](C1=CC=CC=C1)N2C=NC=C2C(=O)OC3(CC3)C(=O)OC
