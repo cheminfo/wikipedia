@@ -9877,7 +9877,7 @@ BSPP (drug)	C(C)(C)(C)C1=C(C(=CC(=C1)CC1(CCCC1)CO)C(C)(C)C)O
 BHF-177	Cc3nc(N[C@@H]2C[C@H]1CC[C@@H]2C1)c(cn3)c4ccc(cc4)C(F)(F)F
 Tuberculostearic acid	O=C(O)CCCCCCCCC(C)CCCCCCCC
 4-Iodopropofol	Oc1c(C(C)C)cc(I)cc1C(C)C
-3-Methoxy-4-methylamphetamine	COc1cc(CC(N)C)ccc1C
+3-Methoxy-4-methylamphetamine	CC1=C(C=C(C=C1)CC(C)N)OC
 NR58-3.14.3	CC[C@H](C)[C@@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCCC2C(=O)NC(C(=O)N[C@@H](C(=O)N[C@H](CSSC[C@@H](C(=O)N[C@@H](C(=O)N1)CCC(=O)N)N)C(=O)O)CC(C)C)CC(=O)O)CCCCN)CCC(=O)N)CCCCN)CC3=CNC4=CC=CC=C43
 2-Fluoroethanol	FCCO
 CPHPC	O=C(O)[C@@H]2N(C(=O)CCCCC(=O)N1[C@@H](C(=O)O)CCC1)CCC2
@@ -15740,7 +15740,6 @@ Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
 Dehydrosecodine	CCC1=CN(CC=C1)CCc2c3ccccc3[nH]c2C(=C)C(=O)OC
 8-Hydroxygeraniol	C/C(=C\CO)/CC/C=C(\C)/CO
 8-Oxogeranial	C/C(=C\C=O)/CC/C=C(\C)/C=O
-Nepetalactol	C[C@H]1CC[C@H]2[C@@H]1C(OC=C2C)O
 Iridodial	C[C@H]1CC[C@@H]([C@H]1C=O)[C@H](C)C=O
 2C-T-16	COc1cc(SCC=C)c(OC)cc1CCN
 7-Deoxyloganetic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O
