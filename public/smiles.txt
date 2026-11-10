@@ -5298,7 +5298,7 @@ Bistriflimide	C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
 Orciprenaline	Oc1cc(cc(O)c1)C(O)CNC(C)C
 N-Acetylneuraminic acid	OC(=O)[C@@]1(O)C[C@H](O)[C@@H](NC(C)=O)[C@@H](O1)[C@H](O)[C@H](O)CO
 Tiopronin	CC(S)C(=O)NCC(O)=O
-5-APDI	c1cc(cc2c1CCC2)CC(N)C
+5-APDI	CC(CC1=CC2=C(CCC2)C=C1)N
 Decyl glucoside	O(CCCCCCCCCC)[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO
 Carbamic acid	O=C(O)N
 Fluorenone	c1ccc2c(c1)-c3ccccc3C2=O
@@ -5803,7 +5803,7 @@ Reposal	O=C1NC(=O)NC(=O)C1(CC)C=3C[C@H]2C[C@H](CC2)C=3
 Dantron	O=C2c1cccc(O)c1C(=O)c3c2cccc3O
 Phosphorylethanolamine	C(COP(=O)(O)O)N
 Deferiprone	O=C\1C(\O)=C(/N(/C=C/1)C)C
-Levobetaxolol	O(CCc1ccc(OC[C@@H](O)CNC(C)C)cc1)CC2CC2
+Levobetaxolol	O(C[C@H](CNC(C)C)O)C1=CC=C(CCOCC2CC2)C=C1
 2-Methyl-2-nitrosopropane	CC(C)(C)N=O
 Ganesha (psychedelic)	COc1c(C)c(C)c(cc1CC(C)N)OC
 Phenyl-D-galactopyranoside	[O-]C2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2Oc1ccccc1
@@ -15740,6 +15740,7 @@ Stemmadenine	C/C=C\1/CN2CC[C@H]1[C@](C3=C(CC2)C4=CC=CC=C4N3)(CO)C(=O)OC
 Dehydrosecodine	CCC1=CN(CC=C1)CCc2c3ccccc3[nH]c2C(=C)C(=O)OC
 8-Hydroxygeraniol	C/C(=C\CO)/CC/C=C(\C)/CO
 8-Oxogeranial	C/C(=C\C=O)/CC/C=C(\C)/C=O
+Nepetalactol	C[C@H]1CC[C@H]2[C@@H]1C(OC=C2C)O
 Iridodial	C[C@H]1CC[C@@H]([C@H]1C=O)[C@H](C)C=O
 2C-T-16	COc1cc(SCC=C)c(OC)cc1CCN
 7-Deoxyloganetic acid	C[C@H]1CC[C@H]2[C@@H]1[C@@H](OC=C2C(=O)O)O
@@ -25246,3 +25247,6 @@ PF0713	CC[C@@H](C)C1=C(C(=CC=C1)[C@H](C)CC)O
 AZD-3043	CCCOC(=O)CC1=CC(=C(C=C1)OCC(=O)N(CC)CC)OCC
 Cyclopropyl methoxycarbonyl metomidate	C[C@H](C1=CC=CC=C1)N2C=NC=C2C(=O)OC3(CC3)C(=O)OC
 Lipoic acid trisulfide	OC(=O)CCCCC1CCSSS1
+2,5-Dimethylamphetamine	CC1=CC(=C(C=C1)C)CC(C)N
+2-Methylmethamphetamine	CC1=CC=CC=C1CC(C)NC
+Βk-DOB	NC(C)C(C1=C(OC)C=C(Br)C(OC)=C1)=O
