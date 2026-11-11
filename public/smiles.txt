@@ -24963,7 +24963,7 @@ Acequinoline	CC1=C2C=CC(=CC2=NC(=C1C(=O)C)C)OC
 Acetiamine	CC1=NC=C(C(=N1)N)CN(C=O)/C(=C(/CCOC(=O)C)\SC(=O)C)/C
 12-Methacryloyloxydodecylpyridinium bromide	C=C(C)C(=O)OCCCCCCCCCCCC[n+]1ccccc1.[Br-]
 N,N,N-Trimethyl-DOB	CC(CC1=CC(=C(C=C1OC)Br)OC)[N+](C)(C)C
-Β-Methoxy-2,5-dimethoxy-4-bromoamphetamine	C[C@H]([C@@H](C1=CC(=C(C=C1OC)Br)OC)OC)N
+Β-MeO-DOB	CC(C(C1=CC(=C(C=C1OC)Br)OC)OC)N
 Ephedroxane	C[C@H]1[C@H](OC(=O)N1C)C2=CC=CC=C2
 Trifludimoxazin	CN1C(=O)N(C(=O)N(C1=S)C)C2=CC3=C(C=C2F)OC(C(=O)N3CC#C)(F)F
 PPQ (drug)	C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=O)N2C4=CC=CC=C4
@@ -25249,4 +25249,5 @@ Cyclopropyl methoxycarbonyl metomidate	C[C@H](C1=CC=CC=C1)N2C=NC=C2C(=O)OC3(CC3)
 Lipoic acid trisulfide	OC(=O)CCCCC1CCSSS1
 2,5-Dimethylamphetamine	CC1=CC(=C(C=C1)C)CC(C)N
 2-Methylmethamphetamine	CC1=CC=CC=C1CC(C)NC
-Βk-DOB	NC(C)C(C1=C(OC)C=C(Br)C(OC)=C1)=O
+Βk-DOB	CC(C(=O)C1=CC(=C(C=C1OC)Br)OC)N
+Α-Chloromethylmescaline	COC1=CC(=CC(=C1OC)OC)CC(CCl)N
