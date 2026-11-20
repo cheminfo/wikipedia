@@ -24862,7 +24862,6 @@ Mevrometostat	CC1=CC(=C(C(=O)N1)CN2CCC3=C(C=C(C(=C3C2=O)Cl)[C@@H](C4COC4)OC)Cl)O
 Casdatifan	CS(=O)(=O)C1=C2[C@@H]([C@@H](CC2=C(C=C1)[C@H]3C[C@@H]([C@@H](C4=CC(=CC(=C34)C#N)F)F)F)F)O
 1,2,3-Tris(4-hydroxybutyroyloxy)propane	C(CC(=O)OCC(COC(=O)CCCO)OC(=O)CCCO)CO
 Zemprocitinib	CCCS(=O)(=O)NC12CC(C1)(C2)N3C=NC4=CN=C5C(=C43)C=CN5
-BPPSA	C1CCN(C1)S(=O)(=O)NC2=CC=CC=C2Br
 Nitrosylruthenium(II) nitrate	N#[O+].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ru+2]
 Fluoxakalner	FC1C=CC(COC2C=C(C)C(N([H])C(=O)CC3C=CC=CC=3)=C(C)C=2)=CC=1
 4-Bromo-DMT	CN(C)CCC1=CNC2=C1C(=CC=C2)Br
@@ -25255,6 +25254,7 @@ FGL-S	OC(=O)[C@H](C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@
 Croweacin	COC1=C(C=CC2=C1OCO2)CC=C
 Osmorhizole	COC1=CC(=C(C=C1)CC=C)OC
 3,5-Dimethoxyallylbenzene	COC1=CC(=CC(=C1)CC=C)OC
+Ea1	N[C@@]([H])(C)C(=O)NCC(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CS)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CS)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)NCC(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CS)C(=O)NCC(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CO)C(=O)O
 Ssp1a	N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CC(C)C)C(=O)NCC(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N
 Μ-TRTX-Phlo1a	N[C@@]([H])(C)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)NCC(=O)NCC(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(CS3)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS4)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC1=CN=C-N1)C(=O)N[C@@]([H])(CS5)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=CN2)C1=C2C=CC=C1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N
 Dk5a	N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)NCC(=O)NCC(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O
@@ -25264,3 +25264,8 @@ H-20 (peptide)	CC[C@H](C)[C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=
 AL-VI10	CC(C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@@H](N)C(C)C)[C@@H](C)CC)Cc1ccccc1)C(C)C)C(C)C)CO)C(=O)N[C@H](C(=O)N[C@H](C(O)=O)[C@H](O)C)C(C)C
 Neladalkib	CCN1C2=C(CC3=CN(N=C3C4=C(C=C(C=C4)F)[C@H](OC5=C(N=CC2=C5)N)C)C)C(=N1)Cl
 Adrabetadex	CC(COC[C@@H]1[C@@H]2C[C@H]([C@H](O1)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)OCC(C)O)O[C@@H]4[C@H](O[C@@H]([C@@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@@H]([C@@H]([C@H]5O)O)O[C@@H]6[C@H](O[C@@H]([C@@H]([C@H]6O)O)O[C@@H]7[C@H](O[C@@H]([C@@H]([C@H]7O)O)O[C@@H]8[C@H](O[C@H](O2)[C@@H]([C@H]8O)O)COCC(C)O)CO)COCC(C)O)CO)CO)CO)O)O
+Venglustat	CC(C)(C1=CSC(=N1)C2=CC=C(C=C2)F)NC(=O)O[C@@H]3CN4CCC3CC4
+Venglustat	CC(C)(C1=CSC(=N1)C2=CC=C(C=C2)F)NC(=O)O[C@@H]3CN4CCC3CC4.C([C@@H](C(=O)O)O)C(=O)O
+Syn-AKE	C1C[C@H](N(C1)C(=O)CCN)C(=O)N[C@@H](CCN)C(=O)NCC2=CC=CC=C2
+Molliclavine	CN1CC(=C([C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)O)CO
+Furobufen	C1=CC=C2C(=C1)C3=C(O2)C=CC(=C3)C(=O)CCC(=O)O
