@@ -25280,3 +25280,5 @@ PTD4-PI3KAc	NC(=N)NCCC[C@H](NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H
 Heptafluoropropyl iodide	C(C(F)(F)F)(C(F)(F)I)(F)F
 ZAG peptide	C[C@@H](CC)[C@@H](NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[NH]c2ccccc21)NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](N)CCC(O)=O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@H]([C@H](O)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@H]([C@@H](C)CC)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)O
 CL82198	C1COCCN1CCCCNC(=O)C2=CC3=CC=CC=C3O2
+AVP(4-8)	C1C[C@H](N(C1)C(=O)[C@H](CS)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCC(=O)N)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O
+BI-4394	CCOC(=O)C1=CC2=C(N1)C=CC(=C2)C3=CC(=NN3C)C(=O)NCC4=CC=C(C=C4)C(=O)O
